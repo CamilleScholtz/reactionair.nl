@@ -1,0 +1,53 @@
+{{$page := printf "/%s/index.md" .OriginalReq.URL.Path | include | splitFrontMatter}}
+
+{{$articles := dict}}
+{{range $v := listFiles "/artikelen"}}
+	{{$p := printf "/artikelen/%s/index.md" $v | include | splitFrontMatter}}
+
+	{{if $p.Meta.visible}}
+		{{if eq $p.Meta.author $page.Meta.title}}
+			{{$_ := set $articles $p.Meta.published (dict "Meta" $p.Meta "Slug" $v)}}
+		{{end}}
+	{{end}}
+{{end}}
+
+
+<!DOCTYPE html>
+
+<html lang="nl">
+	{{include "/static/html/head.html" $page.Meta}}
+
+	<body id="author">
+		{{include "/static/html/header.html" $page.Meta}}
+
+		<div class="author-container">
+			<div class="name-container">
+				<img src="{{.OriginalReq.URL.Path}}/avatar.webp" alt="{{$page.Meta.name}}">
+	
+				<h3 class="author">{{$page.Meta.title}}</h3>
+				<p class="profession">{{$page.Meta.profession}}</p>
+			</div>
+
+			<p class="description">{{$page.Meta.description}}</p>
+		</div>
+
+		<div id="list-container">
+			{{$i := 0}}
+			{{range $v := $articles}}
+				<a href="/artikelen/{{$v.Slug}}" class="article" style="order: {{$i}};">
+					<img src="/artikelen/{{$v.Slug}}/thumb.webp">
+					<h1>{{$v.Meta.title}}</h1>
+					<h2>{{$v.Meta.subtitle}}</h2>
+					<p class="author">{{$v.Meta.author}}</p>
+
+					<p class="category">{{upper $v.Meta.category}}</p>
+				</a>
+
+				{{$i = sub $i 1}}
+			{{end}}
+		</div>
+
+		{{include "/static/html/footer.html"}}
+	</body>
+</html>
+

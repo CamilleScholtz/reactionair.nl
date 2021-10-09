@@ -1,0 +1,41 @@
+{{$page := include "/index.md" | splitFrontMatter}}
+
+{{$articles := dict}}
+{{range $v := listFiles "/artikelen"}}
+	{{$p := printf "/artikelen/%s/index.md" $v | include | splitFrontMatter}}
+
+	{{if $p.Meta.visible}}
+		{{$_ := set $articles $p.Meta.published (dict "Meta" $p.Meta "Slug" $v)}}
+	{{end}}
+{{end}}
+
+
+<!DOCTYPE html>
+
+<html lang="nl">
+	{{include "/static/html/head.html" $page.Meta}}
+
+	<body>
+		{{include "/static/html/header.html" $page.Meta}}
+
+		<div id="list-container">
+			{{$i := 0}}
+			{{range $v := $articles}}
+				<a href="/artikelen/{{$v.Slug}}" class="article" style="order: {{$i}};">
+					<img src="/artikelen/{{$v.Slug}}/thumb.webp">
+					<h1>{{$v.Meta.title}}</h1>
+					<h2>{{$v.Meta.subtitle}}</h2>
+					<p class="author">{{$v.Meta.author}}</p>
+
+					<p class="category">{{upper $v.Meta.category}}</p>
+				</a>
+
+				{{$i = sub $i 1}}
+			{{end}}
+		</div>
+
+		{{include "/static/html/footer.html"}}
+	</body>
+</html>
+
+

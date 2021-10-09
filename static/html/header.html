@@ -1,0 +1,28 @@
+{{$meta := index .Args 0}}
+
+<header>
+	<div id="logo-container">
+		<a href="/" id="logo">
+			<img src="/static/img/logo.svg" alt="Reactionair.nl">
+		</a>
+
+		<form id="search">
+			<input type="search" placeholder="Zoeken...">
+			<button type="submit"><img src="/static/img/search.svg" alt="Zoeken"></button>
+		</form>
+	</div>
+
+	{{if $meta.category}}
+		<div class="utility">
+			<div class="left">
+				<span>{{upper $meta.category}}</span>
+				<span class="pipe">|</span>
+				<span>{{toDate "2006-01-02" $meta.published | date "Jan 2, 2006" | upper}}</span>
+			</div>
+
+			<div class="right">
+				<div>{{$meta.title}}</div>
+			</div>
+		</div>
+	{{end}}
+</header>

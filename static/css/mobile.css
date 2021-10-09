@@ -1,0 +1,101 @@
+/* Typography */
+
+h1 {
+	font-size: 38px;
+	line-height: 42px;
+}
+
+h2 {
+	font-size: 30px;
+	line-height: 40px;
+	margin-bottom: 20px;
+}
+
+a,
+em,
+li,
+p {
+	font-size: 18px;
+	line-height: 28px;
+}
+
+
+/* Header */
+
+header #search input {
+	pointer-events: none;
+}
+
+header .utility {
+	flex-direction: column;
+	line-height: 25px;
+	padding-bottom: 10px;
+	padding-top: 25px;
+	transition: padding-top .2s;
+}
+
+header .utility .left,
+header .utility .right {
+	text-align: center; 
+}
+
+header .utility .pipe {
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
+
+/* List container */
+
+#list-container {
+	width: 100vw;
+}
+
+#list-container .article {
+	width: calc(100vw - (2 * 60px));
+}
+
+
+/* Article container */
+
+#article-container {
+	column-gap: 5%;
+	grid-template-areas:
+		"sidebar"
+		"article";
+	grid-template-columns: auto;
+	grid-template-rows: auto;
+}
+
+
+/* Sidebar */
+
+#sidebar .utility .author {
+	float: right;
+	font-size: 15px;
+	font-style: italic;
+}
+
+#sidebar .author-container {
+	display: none;
+}
+
+
+/* Article */
+
+article .img-left {
+	float: left;
+	width: 50%;
+}
+
+
+/* Footer */
+
+footer {
+	justify-content: center;
+}
+
+footer .pipe {
+	margin-left: 8px;
+	margin-right: 8px;
+}

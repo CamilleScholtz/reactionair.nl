@@ -1,0 +1,146 @@
+/* Typography */
+
+h1 {
+	font-size: 72px;
+	line-height: 78px;
+}
+
+h2 {
+	font-size: 42px;
+	line-height: 54px;
+	margin-bottom: 60px;
+}
+
+a,
+em,
+li,
+p {
+	font-size: 19px;
+	line-height: 27px;
+}
+
+
+/* Header */
+
+header #search:hover button {
+	background: var(--background-color);
+}
+
+header #search:hover input {
+	opacity: 1;
+}
+
+header .utility .left {
+	margin-left: 40px;
+	text-align: left; 
+}
+
+header .utility .right {
+	margin-right: 40px;
+	text-align: right; 
+}
+
+header .utility .pipe {
+	margin-left: 12px;
+	margin-right: 12px;
+}
+
+
+/* List container */
+
+#list-container {
+	grid-template-columns: 1fr 1fr 1fr;
+	margin: 0 auto;
+	max-width: 1440px;
+}
+
+#list-container .article:nth-child(3n-2) {
+	border-left: 1px solid var(--border-color);
+	border-right: 1px solid var(--border-color);
+}
+
+
+/* Article container */
+
+#article-container {
+	column-gap: 5%;
+	grid-template-areas:
+		"sidebar article";
+	grid-template-columns: auto minmax(60%, calc(100% - 5% - 560px));
+	grid-template-rows: auto;
+}
+
+
+/* Sidebar */
+
+#sidebar {
+	align-self: start;
+	position: sticky;
+	top: calc(110px + 55px + 40px + 2px);
+	transition: transform .2s;
+}
+
+#sidebar .utility .author {
+	display: none;
+}
+
+#sidebar .author-container .name-container {
+	height: 100px;
+	margin-bottom: 20px;
+}
+
+#sidebar .author-container .name-container img {
+	border-radius: 100%;
+	display: inline-block;
+	float: left;
+	height: 100px;
+	margin-right: 25px;
+	position: relative;
+	width: 100px;
+}
+
+#sidebar .author-container .name-container .author {
+	font-family: "Quadraat Pro Sans", sans-serif;
+	display: inline-block;
+	margin-bottom: 0px;
+	margin-top: 15px;
+	min-width: 50%;
+}
+
+#sidebar .author-container .name-container .profession {
+	color: var(--muted-color);
+	display: inline-block;
+	font-style: italic;
+	min-width: 50%;
+	width: auto;
+}
+
+#sidebar .author-container .description {
+	color: var(--slightly-muted-color);
+	display: block;
+	width: 100%;
+}
+
+
+/* Article */
+
+article .img-left {
+	float: left;
+	width: 45%;
+}
+
+
+/* Footer */
+
+footer {
+	justify-content: flex-end;
+}
+
+footer a:last-child {
+	margin-right: 40px;
+}
+
+footer .pipe {
+	margin-left: 12px;
+	margin-right: 12px;
+}
