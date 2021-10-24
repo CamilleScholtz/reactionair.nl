@@ -1,0 +1,39 @@
+{{ define "main" }}
+	{{ .Content }}
+
+	{{ $pages := .RegularPages }}
+	{{ if .IsHome }}
+		{{ $pages = where site.RegularPages "Type" "artikelen" }}
+	{{ end}}
+
+	{{ $paginator := .Paginate $pages }}
+
+	<main id="list">
+		{{ range $paginator.Pages }}
+			<a href="{{ .RelPermalink }}" class="article">
+				<img src="{{ path.Join .RelPermalink "thumb.webp" }}">
+				<h1>{{ .Params.Title }}</h1>
+				<h2>{{ .Params.SubTitle}}</h2>
+				<p class="author">{{ delimit .Params.Auteurs ", " }}</p>
+
+				<p class="category">{{ upper .Params.Category }}</p>
+			</a>
+		{{ end }}
+	</main>
+
+	{{ if gt $paginator.TotalPages 1 }}
+		<nav class="paginator">
+			{{ if $paginator.HasPrev }}
+				<a class="prev" href="{{ $paginator.Prev.URL }}">←</a>
+			{{ else }}
+				<a class="prev disabled">←</a>
+			{{ end }}
+
+			{{ if $paginator.HasNext }}
+				<a class="next" href="{{ $paginator.Next.URL }}">→</a>
+			{{ else }}
+				<a class="next disabled">→</a>
+			{{ end }}
+		</nav>
+	{{ end }}
+{{ end }}

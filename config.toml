@@ -1,0 +1,27 @@
+baseURL = "https://reactionair.nl/"
+title   = "Reactionair.nl"
+
+languageCode           = "nl"
+DefaultContentLanguage = "nl"
+
+googleAnalytics = "G-MM83VY2NM0"
+
+paginate     = 10
+paginatePath = "pagina"
+
+[taxonomies]
+	auteur = "auteurs"
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
+
+[privacy]
+	[privacy.googleAnalytics]
+		anonymizeIP = true
+
+[minify]
+	minifyOutput = true
+	[minify.tdewolff.html]
+		keepWhitespace = false

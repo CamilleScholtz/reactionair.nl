@@ -22,14 +22,6 @@ p {
 
 /* Header */
 
-header #search:hover button {
-	background: var(--background-color);
-}
-
-header #search:hover input {
-	opacity: 1;
-}
-
 header .utility .left {
 	margin-left: 40px;
 	text-align: left; 
@@ -46,23 +38,42 @@ header .utility .pipe {
 }
 
 
-/* List container */
+/* List */
 
-#list-container {
-	grid-template-columns: 1fr 1fr 1fr;
+#list {
+	grid-template-columns: repeat(6, 1fr);
 	margin: 0 auto;
 	max-width: 1440px;
 }
 
-#list-container .article:nth-child(3n-2) {
+#list .article {
+	grid-column: span 2;
+}
+
+#list .article:nth-child(5n-4),
+#list .article:nth-child(5n-3) {
+	grid-column: span 3;
+}
+
+#list .article:nth-child(5n-1) {
 	border-left: 1px solid var(--border-color);
 	border-right: 1px solid var(--border-color);
 }
 
+#list .article:nth-child(5n-3) {
+	border-left: 1px solid var(--border-color);
+}
 
-/* Article container */
+#list .interlude {
+	grid-column: span 6;
+	height: 200px;
+	box-shadow: 33vw 0 var(--accent-color), -33vw 0 var(--accent-color);
+}
 
-#article-container {
+
+/* Single */
+
+#single {
 	column-gap: 5%;
 	grid-template-areas:
 		"sidebar article";

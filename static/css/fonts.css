@@ -5,7 +5,7 @@
 	font-family: "Quadraat Pro";
 	font-style: normal;
 	font-weight: 400;
-	src: url("/static/font/quadraat-pro-normal-400.woff2") format("woff2");
+	src: url("../font/quadraat-pro-normal-400.woff2") format("woff2");
 }
 
 @font-face {
@@ -13,7 +13,7 @@
 	font-family: "Quadraat Pro";
 	font-style: italic;
 	font-weight: 400;
-	src: url("/static/font/quadraat-pro-italic-400.woff2") format("woff2");
+	src: url("../font/quadraat-pro-italic-400.woff2") format("woff2");
 }
 
 @font-face {
@@ -21,7 +21,7 @@
 	font-family: "Quadraat Pro";
 	font-style: normal;
 	font-weight: 700;
-	src: url("/static/font/quadraat-pro-normal-700.woff2") format("woff2");
+	src: url("../font/quadraat-pro-normal-700.woff2") format("woff2");
 }
 
 @font-face {
@@ -29,7 +29,7 @@
 	font-family: "Quadraat Pro Sans";
 	font-style: normal;
 	font-weight: 400;
-	src: url("/static/font/quadraat-pro-sans-400.woff2") format("woff2");
+	src: url("../font/quadraat-pro-sans-400.woff2") format("woff2");
 }
 
 @font-face {
@@ -37,6 +37,5 @@
 	font-family: "Quadraat Pro Sans";
 	font-style: normal;
 	font-weight: 700;
-	src: url("/static/font/quadraat-pro-sans-700.woff2") format("woff2");
+	src: url("../font/quadraat-pro-sans-700.woff2") format("woff2");
 }
-

@@ -1,0 +1,23 @@
+<header>
+	<div id="logo-container">
+		<a href="/" id="logo">
+			<img src="{{ "img/logo.svg" | relURL }}" alt="Reactionair.nl">
+		</a>
+	</div>
+
+	<div class="utility">
+		<div class="left">
+			{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
+				<span>{{ upper .Params.Category }}</span>
+				<span class="pipe">|</span>
+				<span>{{ index $.Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Day }}, {{ .Date.Year }}</span>
+			{{ else }}
+				<span class="now">{{ index $.Site.Data.months (printf "%d" now.Month) }} {{ now.Day }}, {{ now.Year }}</span>
+			{{ end }}
+		</div>
+
+		<div class="right">
+			<div>{{ .Title }}</div>
+		</div>
+	</div>
+</header>

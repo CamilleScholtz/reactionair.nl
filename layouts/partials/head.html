@@ -1,0 +1,41 @@
+<head>
+	<title>{{ .Title }}</title>
+
+	<meta name="description" content="{{ .Title }}{{ if isset .Params "subtitle" }} - {{ .Params.SubTitle }}{{ end }}">
+	{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
+		<meta name="author" content="{{ delimit .Params.Auteurs ", "}}">
+	{{ end }}
+
+	<meta property="og:title" content="{{ .Title }}">
+	<meta property="og:description" content="{{ .Params.SubTitle }}">
+	<meta property="og:url" content="{{ .Permalink }}">
+	{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
+		<meta property="og:type" content="article">
+		<meta property="og:image" content="{{ path.Join .RelPermalink "thumb.webp" | absURL }}">
+		<meta property="twitter:card" content="summary_large_image">
+	{{ else }}
+		<meta property="og:type" content="website">
+		<meta property="og:image" content="{{ absURL "img/og-image.png" }}">
+		<meta property="twitter:card" content="summary">
+	{{ end }}
+	<meta property="twitter:site" content="@ReactionairNL">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<meta name="mobile-web-app-capable" content="yes">
+
+	<meta name="theme-color" content="#F6F1F0" media="(prefers-color-scheme: light)">
+	<meta name="theme-color" content="#341B1B" media="(prefers-color-scheme: dark)">
+
+	<link rel="shortcut icon" href="{{ absURL "img/favicon.ico" }}" type="image/x-icon">
+
+	<link rel="stylesheet" href="{{ relURL "css/fonts.css" }}">
+	<link rel="stylesheet" href="{{ relURL "css/light.css" }}" media="(prefers-color-scheme: light)">
+	<link rel="stylesheet" href="{{ relURL "css/dark.css" }}" media="(prefers-color-scheme: dark)">
+	<link rel="stylesheet" href="{{ relURL "css/style.css" }}">
+	<link rel="stylesheet" href="{{ relURL "css/mobile.css" }}" media="(max-width: 1024px)">
+	<link rel="stylesheet" href="{{ relURL "css/desktop.css" }}" media="(min-width: 1025px)">
+
+	<script defer src="{{ relURL "js/script.js" }}"></script>
+
+	{{ template "_internal/google_analytics.html" . }}
+</head>

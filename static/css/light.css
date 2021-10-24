@@ -3,13 +3,15 @@
 	--selection-color: #E4C0BE;
 
 	--text-color: #243547;
-	--accent-color: #A62F27;
+	--accent-color: #9A3433;
 	--muted-color: #777;
 	--slightly-muted-color: #555;
 	--border-color: #EAEAEA;
 
 	--header-background-color: #F6F1F0;
 	--header-border-color: #F2ECEA;
+
+	--utility-color: #FFF;
 
 	--footnotes-background-color: #FAF7F6;
 }

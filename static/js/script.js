@@ -1,16 +1,3 @@
-const eta = (sidebar, article) => {
-	if (!sidebar) {
-		return;
-	}
-
-	const eta = sidebar.querySelector("#eta");
-
-	const words = article.innerText.split(" ").length;
-	const time  = Math.ceil(words / 225)
-
-	sidebar.querySelector("#eta").innerText = time + " minuten leestijd";
-}
-
 const footnotes = (article) => {
 	if (!article) {
 		return;
@@ -34,7 +21,8 @@ const footnotes = (article) => {
 		});
 	});
 
-	backrefs.forEach((backref) => {
+	backrefs.forEach((backref) => {	
+		// XXX: https://github.com/gohugoio/hugo/pull/7427
 		backref.innerHTML = "↑";
 	
 		backref.addEventListener("click", (ev) => {
@@ -50,6 +38,34 @@ const footnotes = (article) => {
 			});
 		});
 	});
+}
+
+const time = (header) => {
+	const now = header.querySelector(".now");
+	if (!now) {
+		return;
+	}
+
+	const trans = {
+		1:  "JAN",
+		2:  "FEB",
+		3:  "MRT",
+		4:  "APR",
+		5:  "MEI",
+		6:  "JUN",
+		7:  "JUL",
+		8:  "AUG",
+		9:  "SEP",
+		10: "OKT",
+		11: "NOV",
+		12: "DEC",
+	}
+	const date  = new Date();
+	const day   = date.getDate();
+	const month = date.getMonth()+1;
+	const year  = date.getFullYear();
+	
+	now.innerHTML = day + " " + trans[month] + ", " + year
 }
 
 const scroll = (header, sidebar, mobile) => {
@@ -88,7 +104,7 @@ const scroll = (header, sidebar, mobile) => {
 	
 		if (!hidden && scroll > lastScroll + 4) {
 			header.style.transform = "translateY(-111px)";
-			logo.style.transform   = "translateY(-20px)";
+			logo.style.transform   = "translateY(-40px)";
 
 			if (utility && mobile) {
 				utility.style.paddingTop = "10px";
@@ -118,47 +134,15 @@ const scroll = (header, sidebar, mobile) => {
 	}, 200);
 }
 
-const search = (header, mobile) => {
-	const logo   = header.querySelector("#logo img");
-	const form   = header.querySelector("#search");
-	const button = form.querySelector("#search button");
-	const input  = form.querySelector("#search input");
-
-	let visible = false;
-
-	form.addEventListener("submit", (ev) => {
-		ev.preventDefault();
-
-		window.location.href = "/zoeken/?q=" + input.value;
-	});
-
-	button.addEventListener("click", (ev) => {
-		if (visible || !mobile) {
-			return true;
-		}
-
-		ev.preventDefault();
-
-		logo.style.transform      = "translateX(calc(-50vw + 80px))";
-		input.style.opacity       = 1;
-		input.style.pointerEvents = "text";
-		button.style.background   = "#FFF";
-
-		input.focus();
-
-		visible = true;
-	});
-}
-
 window.addEventListener("DOMContentLoaded", (ev) => {
 	let mobile = window.matchMedia("(max-width: 1024px)").matches;
 
 	const header  = document.querySelector("header");
 	const sidebar = document.querySelector("#sidebar");
 	const article = document.querySelector("article");
+	const list    = document.querySelector("#list-container");
 
-	eta(sidebar, article);
 	scroll(header, sidebar, mobile);
+	time(header);
 	footnotes(article);
-	search(header, mobile);
 });

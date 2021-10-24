@@ -1,13 +1,13 @@
 /* Typography */
 
 h1 {
-	font-size: 38px;
-	line-height: 42px;
+	font-size: 39px;
+	line-height: 43px;
 }
 
 h2 {
-	font-size: 30px;
-	line-height: 40px;
+	font-size: 31px;
+	line-height: 41px;
 	margin-bottom: 20px;
 }
 
@@ -15,16 +15,12 @@ a,
 em,
 li,
 p {
-	font-size: 18px;
-	line-height: 28px;
+	font-size: 19px;
+	line-height: 29px;
 }
 
 
 /* Header */
-
-header #search input {
-	pointer-events: none;
-}
 
 header .utility {
 	flex-direction: column;
@@ -45,20 +41,20 @@ header .utility .pipe {
 }
 
 
-/* List container */
+/* List */
 
-#list-container {
+#list {
 	width: 100vw;
 }
 
-#list-container .article {
+#list .article {
 	width: calc(100vw - (2 * 60px));
 }
 
 
-/* Article container */
+/* Single */
 
-#article-container {
+#single {
 	column-gap: 5%;
 	grid-template-areas:
 		"sidebar"
@@ -74,6 +70,10 @@ header .utility .pipe {
 	float: right;
 	font-size: 15px;
 	font-style: italic;
+	max-width: 30%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
 }
 
 #sidebar .author-container {
