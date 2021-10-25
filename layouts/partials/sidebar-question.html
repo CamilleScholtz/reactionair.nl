@@ -1,0 +1,9 @@
+<div class="sidebar">
+	<div id="sidebar-question">
+		{{ if isset .Params "question" }}
+			{{ .Params.Question }}
+		{{ else }}
+			Wat vond u van dit artikel?
+		{{ end }}
+	</div>
+</div>

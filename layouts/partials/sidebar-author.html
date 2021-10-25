@@ -1,0 +1,38 @@
+<div class="sidebar">
+	<div id="sidebar-author">
+		<div class="utility">
+			<span id="eta">{{ math.Round (div (countwords .Content) 220.0) }} minuten leestijd</span>
+
+			<span class="pipe">|</span>
+
+			<span>
+				<a href="https://twitter.com/intent/tweet?text={{ .Permalink }}" target="_blank"><img class="icon" src="{{ relURL "img/twitter.svg" }}" alt="Twitter"></a>
+				<a href="https://wa.me?text={{ .Permalink }}" target="_blank"><img class="icon" src="{{ relURL "img/whatsapp.svg" }}" alt="WhatsApp"></a>
+				<a href="https://t.me/share/url?url={{ .Permalink }}" target="_blank"><img class="icon" src="{{ relURL "img/telegram.svg" }}" alt="Telegram"></a>
+			</span>
+
+			{{ range .Params.Auteurs }}
+				{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
+					<a href="{{ .RelPermalink }}" class="author">{{ .Params.Title }}</a>
+				{{ end }}
+			{{ end }}
+		</div>
+
+		{{ range .Params.Auteurs }}
+			{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
+				<div class="author-container">
+					<div class="name-container">
+						<img src="{{ path.Join .RelPermalink "avatar.webp" }}" alt="{{ .Params.Title }}">
+
+						<h3 class="author">{{ .Params.Title }}</h3>
+						<p class="profession">{{ .Params.Profession }}</p>
+					</div>
+
+					<p class="description">{{ .Params.Description }}</p>
+
+					<a class="more" href="{{ .RelPermalink }}">Meer van deze auteur...</a>
+				</div>
+			{{ end }}
+		{{ end }}
+	</div>
+</div>

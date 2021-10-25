@@ -19,14 +19,42 @@ input {
 
 button {
 	border: none;
-	background: none;
+	background: var(--accent-color);
+	color: var(--background-color);
 	cursor: pointer;
+	display: block;
+	font-family: "Quadraat Pro", serif;
+	height: 40px;
+	padding-left: 12px;
+	padding-right: 12px;
+	line-height: 38px !important;
 }
 
 hr {
 	border: none;
 	border-top: 1px solid var(--border-color);
 	margin-bottom: 30px;
+}
+
+input,
+textarea {
+	background: var(--footnotes-background-color);
+	border: none;
+	border-radius: 0;
+	color: var(--text-color);
+	font-family: "Quadraat Pro", serif;
+	margin-bottom: 3px;
+	outline: none;
+}
+
+textarea {
+	box-sizing: border-box;
+	padding: 30px;
+	resize: none;
+}
+
+::placeholder {
+	color: var(--muted-color);
 }
 
 ::selection {
@@ -40,6 +68,7 @@ h1,
 h2,
 h3,
 h4,
+label,
 li,
 p,
 code {
@@ -319,12 +348,12 @@ header .utility .right {
 
 /* Sidebar */
 
-#sidebar {
-	grid-area: sidebar;
+#sidebar-author {
+	grid-area: sidebar-author;
 	padding-top: 10px;
 }
 
-#sidebar .utility {
+#sidebar-author .utility {
 	border-bottom: 1px solid var(--border-color);
 	color: var(--muted-color);
 	font-size: 17px;
@@ -332,15 +361,26 @@ header .utility .right {
 	padding-bottom: 12px;
 }
 
-#sidebar .utility .icon {
+#sidebar-author .utility .icon {
 	height: 17px;
 	position: relative;
 	top: 4px;
 }
 
-#sidebar .utility .pipe {
+#sidebar-author .utility .pipe {
 	margin-left: 12px;
 	margin-right: 12px;
+}
+
+#sidebar-question {
+	background: var(--question-background-color);
+	color: var(--accent-color);
+	font-size: 28px;
+	line-height: 35px;
+	grid-area: sidebar-question;
+	margin-top: 100px;
+	padding: 60px;
+	text-align: center;
 }
 
 
@@ -447,6 +487,61 @@ article .twitter-tweet-rendered {
 
 .footnotes hr {
 	display: none;
+}
+
+
+/* Comments */
+
+#comments {
+	grid-area: comments;
+	margin-top: 100px;
+}
+
+#comments #welcomments__container .welcomments__form-group textarea {
+	width: 100%;
+}
+
+#comments #welcomments__container label {
+	display: block;
+}
+
+#comments #welcomments__form {
+	width: 100%;
+}
+
+#comments .welcomments__comment {
+	background: var(--footnotes-background-color);
+	padding: 30px;
+	margin-bottom: 10px;
+}
+
+#comments .welcomments__comment h3 {
+	font-family: "Quadraat Pro Sans", sans-serif;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#comments .welcomments__comment p {
+	margin-bottom: 0;
+}
+
+#comments .welcomments__comment-time {
+	margin-bottom: 20px !important;
+}
+
+#comments .welcomments__comment-time a {
+	color: var(--muted-color);
+	font-style: italic;
+}
+
+#comments #welcomments__container .welcomments__column-left input,
+#comments #welcomments__container .welcomments__column-right input {
+	box-sizing: border-box;
+	width: 100%;
+}
+
+#comments button {
+	margin-top: 20px;
 }
 
 

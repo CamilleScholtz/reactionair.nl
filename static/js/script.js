@@ -138,7 +138,7 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	let mobile = window.matchMedia("(max-width: 1024px)").matches;
 
 	const header  = document.querySelector("header");
-	const sidebar = document.querySelector("#sidebar");
+	const sidebar = document.querySelector("#sidebar-author");
 	const article = document.querySelector("article");
 	const list    = document.querySelector("#list-container");
 
