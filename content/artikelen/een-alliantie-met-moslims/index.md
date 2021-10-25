@@ -1,6 +1,7 @@
 +++
 title    = "Een alliantie met moslims!?"
 subtitle = "Over reactionairen en moslims"
+question = "Denk u dat een dergelijke alliantie mogelijk is?"
 auteurs  = ["Vrederijk"]
 date     = "2021-10-13"
 category = "Politiek"

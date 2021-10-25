@@ -1,6 +1,6 @@
 {{ define "main" }}
 	<main id="single">
-		{{ partial "sidebar.html" . }}
+		{{ partial "sidebar-author.html" . }}
 
 		<article>		
 			<h1>{{ .Params.Title }}</h1>
@@ -8,5 +8,11 @@
 
 			{{ .Content }}
 		</article>
+
+		{{ partial "sidebar-question.html" . }}
+
+		<section id="comments">
+			{{ partial "welcomments/comments" (dict "context" . "websiteId" "BHkB0mKadpRI9gniJfThtn9LU" ) }}
+		</section>
 	</main>
 {{ end }}

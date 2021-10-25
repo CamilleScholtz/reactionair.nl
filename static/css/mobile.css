@@ -12,9 +12,12 @@ h2 {
 }
 
 a,
+button,
 em,
 li,
-p {
+p,
+input,
+textarea {
 	font-size: 19px;
 	line-height: 29px;
 }
@@ -57,8 +60,10 @@ header .utility .pipe {
 #single {
 	column-gap: 5%;
 	grid-template-areas:
-		"sidebar"
-		"article";
+		"sidebar-author"
+		"article"
+		"sidebar-question"
+		"comments";
 	grid-template-columns: auto;
 	grid-template-rows: auto;
 }
@@ -66,7 +71,7 @@ header .utility .pipe {
 
 /* Sidebar */
 
-#sidebar .utility .author {
+#sidebar-author .utility .author {
 	float: right;
 	font-size: 15px;
 	font-style: italic;
@@ -76,7 +81,7 @@ header .utility .pipe {
 	white-space: nowrap;
 }
 
-#sidebar .author-container {
+#sidebar-author .author-container {
 	display: none;
 }
 
@@ -86,6 +91,13 @@ header .utility .pipe {
 article .img-left {
 	float: left;
 	width: 50%;
+}
+
+
+/* Comments */
+
+#comments #welcomments__container .welcomments__column-right {
+	margin-top: 7px;
 }
 
 

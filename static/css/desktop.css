@@ -12,9 +12,12 @@ h2 {
 }
 
 a,
+button,
 em,
 li,
-p {
+p,
+input,
+textarea {
 	font-size: 19px;
 	line-height: 27px;
 }
@@ -76,7 +79,8 @@ header .utility .pipe {
 #single {
 	column-gap: 5%;
 	grid-template-areas:
-		"sidebar article";
+		"sidebar-author article"
+		"sidebar-question comments";
 	grid-template-columns: auto minmax(60%, calc(100% - 5% - 560px));
 	grid-template-rows: auto;
 }
@@ -84,23 +88,31 @@ header .utility .pipe {
 
 /* Sidebar */
 
-#sidebar {
-	align-self: start;
+.sidebar {
+	height: 100%;
+}
+
+#sidebar-author,
+#sidebar-question {
 	position: sticky;
-	top: calc(110px + 55px + 40px + 2px);
 	transition: transform .2s;
 }
 
-#sidebar .utility .author {
+#sidebar-author {
+	align-self: start;
+	top: calc(110px + 55px + 40px + 2px);
+}
+
+#sidebar-author .utility .author {
 	display: none;
 }
 
-#sidebar .author-container .name-container {
+#sidebar-author .author-container .name-container {
 	height: 100px;
 	margin-bottom: 20px;
 }
 
-#sidebar .author-container .name-container img {
+#sidebar-author .author-container .name-container img {
 	border-radius: 100%;
 	display: inline-block;
 	float: left;
@@ -110,7 +122,7 @@ header .utility .pipe {
 	width: 100px;
 }
 
-#sidebar .author-container .name-container .author {
+#sidebar-author .author-container .name-container .author {
 	font-family: "Quadraat Pro Sans", sans-serif;
 	display: inline-block;
 	margin-bottom: 0px;
@@ -118,7 +130,7 @@ header .utility .pipe {
 	min-width: 50%;
 }
 
-#sidebar .author-container .name-container .profession {
+#sidebar-author .author-container .name-container .profession {
 	color: var(--muted-color);
 	display: inline-block;
 	font-style: italic;
@@ -126,10 +138,21 @@ header .utility .pipe {
 	width: auto;
 }
 
-#sidebar .author-container .description {
+#sidebar-author .author-container .description {
 	color: var(--slightly-muted-color);
 	display: block;
 	width: 100%;
+}
+
+#sidebar-question::after {
+	background: var(--question-background-color);
+	content: "";
+	height: 18px;
+	position: absolute;
+	right: -9px;
+	top: calc(50% - 9px);
+	transform: rotate(45deg);
+	width: 18px;
 }
 
 
@@ -138,6 +161,19 @@ header .utility .pipe {
 article .img-left {
 	float: left;
 	width: 45%;
+}
+
+
+/* Comments */
+
+#comments #welcomments__container .welcomments__flex {
+	display: flex;
+	gap: 10px;
+}
+
+#comments #welcomments__container .welcomments__column-left,
+#comments #welcomments__container .welcomments__column-right {
+	width: 50%;
 }
 
 

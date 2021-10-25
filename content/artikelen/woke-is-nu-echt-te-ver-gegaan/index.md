@@ -1,6 +1,7 @@
 +++
 title    = "Woke is NU ECHT te ver gegaan!"
 subtitle = "Of toch niet?"
+question = "Is woke deze keer écht te ver gegaan?"
 auteurs  = ["Camille Meloen"]
 date     = "2021-10-15"
 category = "Politiek"

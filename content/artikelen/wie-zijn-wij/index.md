@@ -1,6 +1,7 @@
 +++
 title    = "Wie zijn wij?"
 subtitle = "Een inleiding tot Reactionair.nl"
+question = "Wat vindt u van Reactionair.nl?"
 auteurs  = ["Redactie"]
 date     = "2021-10-01"
 category = "Mededeling"
