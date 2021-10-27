@@ -48,9 +48,10 @@
 		},
 
 		placeholderCommentFactory: function (comment) {
-			var year      = new Intl.DateTimeFormat("en", {year: "numeric"}).format(comment.date);
-			var month     = new Intl.DateTimeFormat("en", {month: "long"}).format(comment.date);
-			var day       = new Intl.DateTimeFormat("en", {day: "2-digit"}).format(comment.date);
+			var year  = new Intl.DateTimeFormat("nl", {year: "numeric"}).format(comment.date);
+			var month = new Intl.DateTimeFormat("nl", {month: "long"}).format(comment.date);
+			var month = month.charAt(0).toUpperCase() + month.slice(1);
+			var day   = new Intl.DateTimeFormat("nl", {day: "2-digit"}).format(comment.date);
 
 			{{ $template := dict }}
 			{{- $template = merge $template (dict "id" "${comment.id}") -}}

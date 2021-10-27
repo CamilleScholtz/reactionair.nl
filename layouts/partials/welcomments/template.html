@@ -7,15 +7,17 @@
 				</h3>
 
 				<p class="welcomments__comment-time">
-					<a {{ printf "href=\"#welcomments__comment-%s\"" .id | safeHTMLAttr }} itemprop="url">
-						<time datetime="{{ .dateXmlSchema }}" itemprop="datePublished">
-							{{ .formattedDate }}
-						</time>
-					</a>
+					<time datetime="{{ .dateXmlSchema }}" itemprop="datePublished">
+						{{ .formattedDate }}
+					</time>
 				</p>
 			</div>
 		</div>
 	</div>
 
 	<div itemprop="text" class="welcomments__comment-message">{{ .message }}</div>
+	<a class="welcomments__comment-reply-link" style="display: none;"
+	  	{{ printf "href=\"%s/websites/%s/comments/%s/reply\"" .apiUrl .websiteId .id | safeHTMLAttr }}>
+		Reply to {{ .authorName }}
+	</a>
 </article>

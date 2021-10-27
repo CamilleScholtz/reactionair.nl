@@ -44,6 +44,6 @@ Robespierres schrikbewind werd beëindigd door de matigende Thermidoriaanse Reac
 We moeten het nog steeds hebben van dwarse reactionairen. Dat zijn mensen die geen zin hebben in de verplichte diversiteitscursus op hun werk, quota’s oneerlijk vinden, bij het horen van nieuwe politieke termen vaak in de lach schieten en ook vooral andere dingen aan hun hoofd hebben. Reactionairen hebben geen groot _‘tegenverhaal’_. Het verzet is alledaags en subtiel. Alle beetjes helpen. Verwerp de opruiende manipulaties van activisten; saboteer de oprukkende politisering.
 
 
-[^1]: Eric C. Hendriks, _[Temper de strijd tegen ‘privileges’](https://www.nrc.nl/nieuws/2017/10/26/temper-de-strijd-tegen-privileges-13691826-a1578885)_.
+[^1]: Eric Hendriks-Kim, _[Temper de strijd tegen ‘privileges’](https://www.nrc.nl/nieuws/2017/10/26/temper-de-strijd-tegen-privileges-13691826-a1578885)_.
 [^2]: Beverly Gage, _[An Intellectual Historian Argues His Case Against Identity Politics](https://www.nytimes.com/2017/08/15/books/review/mark-lilla-the-once-and-future-liberal.html)_.
 [^3]: Marco Visscher, _['Linkse politici zijn verstrikt in identiteitspolitiek'](https://www.trouw.nl/nieuws/linkse-politici-zijn-verstrikt-in-identiteitspolitiek~b42d209c/)_.

@@ -17,7 +17,8 @@ em,
 li,
 p,
 input,
-textarea {
+textarea,
+.welcomments__comment-message {
 	font-size: 19px;
 	line-height: 29px;
 }
@@ -60,18 +61,18 @@ header .utility .pipe {
 #single {
 	column-gap: 5%;
 	grid-template-areas:
-		"sidebar-author"
+		"author"
 		"article"
-		"sidebar-question"
+		"question"
 		"comments";
 	grid-template-columns: auto;
 	grid-template-rows: auto;
 }
 
 
-/* Sidebar */
+/* Author */
 
-#sidebar-author .utility .author {
+#author .utility .author {
 	float: right;
 	font-size: 15px;
 	font-style: italic;
@@ -81,7 +82,7 @@ header .utility .pipe {
 	white-space: nowrap;
 }
 
-#sidebar-author .author-container {
+#author .author-container {
 	display: none;
 }
 
@@ -91,13 +92,6 @@ header .utility .pipe {
 article .img-left {
 	float: left;
 	width: 50%;
-}
-
-
-/* Comments */
-
-#comments #welcomments__container .welcomments__column-right {
-	margin-top: 7px;
 }
 
 

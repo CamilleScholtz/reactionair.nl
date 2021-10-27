@@ -1,5 +1,20 @@
 {{ define "main" }}
-	{{ .Content }}
+	{{ if eq .Section "auteurs" }}
+		{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .Params.Title)) }}
+			<div class="author-list">
+				<div class="author-container">
+					<div class="name-container">
+						<img src="{{ path.Join .RelPermalink "avatar.webp" }}" alt="{{ .Params.Title }}">
+
+						<h3 class="author">{{ .Params.Title }}</h3>
+						<p class="profession">{{ .Params.Profession }}</p>
+					</div>
+
+					<p class="description">{{ .Params.Description }}</p>
+				</div>
+			</div>
+		{{ end }}
+	{{ end }}
 
 	{{ $pages := .RegularPages }}
 	{{ if .IsHome }}

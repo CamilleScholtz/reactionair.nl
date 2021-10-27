@@ -68,7 +68,7 @@ const time = (header) => {
 	now.innerHTML = day + " " + trans[month] + ", " + year
 }
 
-const scroll = (header, sidebar, mobile) => {
+const scroll = (header, author, mobile) => {
 	const logo    = header.querySelector("#logo img");
 	const utility = header.querySelector(".utility");
 
@@ -92,8 +92,8 @@ const scroll = (header, sidebar, mobile) => {
 				header.style.transform = "translateY(0px)";
 				logo.style.transform   = "translateY(0px)";
 
-				if (sidebar && !mobile) {
-					sidebar.style.transform = "translateY(0px)";
+				if (author && !mobile) {
+					author.style.transform = "translateY(0px)";
 				}
 
 				hidden = true;
@@ -110,8 +110,8 @@ const scroll = (header, sidebar, mobile) => {
 				utility.style.paddingTop = "10px";
 			}
 
-			if (sidebar && !mobile) {
-				sidebar.style.transform = "translateY(-111px)";
+			if (author && !mobile) {
+				author.style.transform = "translateY(-111px)";
 			}
 
 			hidden = true;
@@ -123,8 +123,8 @@ const scroll = (header, sidebar, mobile) => {
 				utility.style.paddingTop = "25px";
 			}
 
-			if (sidebar && !mobile) {
-				sidebar.style.transform = "translateY(0px)";
+			if (author && !mobile) {
+				author.style.transform = "translateY(0px)";
 			}
 			
 			hidden = false;
@@ -138,11 +138,11 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	let mobile = window.matchMedia("(max-width: 1024px)").matches;
 
 	const header  = document.querySelector("header");
-	const sidebar = document.querySelector("#sidebar-author");
+	const author  = document.querySelector("#author");
 	const article = document.querySelector("article");
 	const list    = document.querySelector("#list-container");
 
-	scroll(header, sidebar, mobile);
+	scroll(header, author, mobile);
 	time(header);
 	footnotes(article);
 });

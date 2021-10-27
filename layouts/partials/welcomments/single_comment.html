@@ -3,7 +3,7 @@
 {{- $commentElementId := print "welcomments__comment-" (index .comment "id") -}}
 {{- $commentElementClass := print "welcomments__comment" $nestingLevelClass $authorHighlight -}}
 {{- $dateXmlSchema := index .comment "date" -}}
-{{- $formattedDate := dateFormat "January 2, 2006" $dateXmlSchema -}}
+{{- $formattedDate := dateFormat "January 2, 2006" $dateXmlSchema | title -}}
 {{- $message := index .comment "message" | markdownify -}}
 
 {{- $data := dict -}}
