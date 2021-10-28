@@ -46,29 +46,15 @@ const time = (header) => {
 		return;
 	}
 
-	const trans = {
-		1:  "JAN",
-		2:  "FEB",
-		3:  "MRT",
-		4:  "APR",
-		5:  "MEI",
-		6:  "JUN",
-		7:  "JUL",
-		8:  "AUG",
-		9:  "SEP",
-		10: "OKT",
-		11: "NOV",
-		12: "DEC",
-	}
 	const date  = new Date();
-	const day   = date.getDate();
-	const month = date.getMonth()+1;
-	const year  = date.getFullYear();
+	const year  = new Intl.DateTimeFormat("nl-NL", {year: "numeric"}).format(date);
+	const month = new Intl.DateTimeFormat("nl-NL", {month: "short"}).format(date);
+	const day   = new Intl.DateTimeFormat("nl-NL", {day: "2-digit"}).format(date);
 	
-	now.innerHTML = day + " " + trans[month] + ", " + year
+	now.innerHTML = `${day} ${month.slice(0, -1).toUpperCase()}, ${year}`;
 }
 
-const scroll = (header, author, mobile) => {
+const scroll = (header, author, question, mobile) => {
 	const logo    = header.querySelector("#logo img");
 	const utility = header.querySelector(".utility");
 
@@ -76,58 +62,57 @@ const scroll = (header, author, mobile) => {
 	let lastScroll = 0;
 	let scrolling  = false
 
+	const hide = () => {
+		if (mobile) {
+			header.style.transform = "translateY(calc(-111px - 15px))";
+		} else {
+			header.style.transform = "translateY(-111px)";
+		}
+		logo.style.transform = "translateY(-40px)";
+
+		if (author && !mobile) {
+			author.style.top   = "calc(110px + 55px + 40px + 2px - 111px)";
+			question.style.top = "calc(110px + 55px + 40px + 2px - 111px)";
+		}
+
+		hidden = true;
+	}
+
+	const show = () => {
+		header.style.transform = "translateY(0px)";
+		logo.style.transform   = "translateY(0px)";
+
+		if (author && !mobile) {
+			author.style.top   = "calc(110px + 55px + 40px + 2px)";
+			question.style.top = "calc(110px + 55px + 40px + 2px)";
+		}
+
+		hidden = false;
+	}
+
 	window.addEventListener("scroll", () => {
 		scrolling = true;
 	});
-	
+
 	setInterval(() => {
 		if (!scrolling) {
 			return;
 		}
-	
+
 		const scroll = window.scrollY;
 
 		if (scroll < 300) {
 			if (hidden) {
-				header.style.transform = "translateY(0px)";
-				logo.style.transform   = "translateY(0px)";
-
-				if (author && !mobile) {
-					author.style.transform = "translateY(0px)";
-				}
-
-				hidden = true;
+				show();
 			}
-		
+
 			return;
 		}
-	
+
 		if (!hidden && scroll > lastScroll + 4) {
-			header.style.transform = "translateY(-111px)";
-			logo.style.transform   = "translateY(-40px)";
-
-			if (utility && mobile) {
-				utility.style.paddingTop = "10px";
-			}
-
-			if (author && !mobile) {
-				author.style.transform = "translateY(-111px)";
-			}
-
-			hidden = true;
+			hide();
 		} else if (hidden && scroll < lastScroll - 50) {
-			header.style.transform = "translateY(0px)";
-			logo.style.transform   = "translateY(0px)";
-
-			if (utility && mobile) {
-				utility.style.paddingTop = "25px";
-			}
-
-			if (author && !mobile) {
-				author.style.transform = "translateY(0px)";
-			}
-			
-			hidden = false;
+			show();
 		}
 
 		lastScroll = scroll;
@@ -137,12 +122,12 @@ const scroll = (header, author, mobile) => {
 window.addEventListener("DOMContentLoaded", (ev) => {
 	let mobile = window.matchMedia("(max-width: 1024px)").matches;
 
-	const header  = document.querySelector("header");
-	const author  = document.querySelector("#author");
-	const article = document.querySelector("article");
-	const list    = document.querySelector("#list-container");
+	const header   = document.querySelector("header");
+	const author   = document.querySelector("#author");
+	const question = document.querySelector("#question");
+	const article  = document.querySelector("article");
 
-	scroll(header, author, mobile);
+	scroll(header, author, question, mobile);
 	time(header);
 	footnotes(article);
 });

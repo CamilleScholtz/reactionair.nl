@@ -1,5 +1,5 @@
 +++
 title       = "Vrederijk"
 profession  = "Schijnzelfstandige"
-description = "Moslim, neo-Kaninefaat, vader, traditionalist en reactionair."
+description = "Vrederijk is moslim, neo-Kaninefaat, vader, traditionalist en reactionair."
 +++

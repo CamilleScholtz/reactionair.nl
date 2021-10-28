@@ -88,21 +88,18 @@ header .utility .pipe {
 /* Sidebar */
 
 .sidebar {
-	height: 100%;
+	height: calc(100% - 30px);
 }
 
 #author,
 #question {
 	position: sticky;
-	transition: transform .2s;
+	top: calc(110px + 55px + 40px + 2px);
+	transition: top .2s;
 }
 
 
 /* Author */
-
-#author {
-	top: calc(110px + 55px + 40px + 2px);
-}
 
 #author .utility .author {
 	display: none;

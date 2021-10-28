@@ -54,7 +54,7 @@ Alhoewel hij al kritiek had op segregatie in de VS tijdens de jaren 40, toonde h
 Zijn boeken zijn relevanter dan ooit. Ten tijden van de val van de Sovjet-Unie weerlegde hij al de illusie dat Rusland een liberale democratie zou worden. Zijn geschiedenisboeken weerleggen meer mythes dan vrijwel welke moderne site. _Leftism Revisited_ is een prachtige plek om te beginnen. Maar _Menace of the Herd_ valt ook niet genoeg aan te raden. 
 
 
-[^1]: https://italiawiki.com/pages/nobilt-austriaca/erik-von-kuehnelt-leddihn.html
+[^1]: Wikipedia Italia, [Erik von Kuehnelt-Leddihn](https://italiawiki.com/pages/nobilt-austriaca/erik-von-kuehnelt-leddihn.html)._
 [^2]: Erik von Kuehnelt-Leddihn, _Leftism Revisited: From de Sade and Marx to Adolf Hitler and Pol Pot_.
 [^3]: Campbell, William F. Campbell, _Erik Ritter von Kuehnelt-Leddihn: A Remembrance_, _American Conservative Thought. Archived from the original on 24 September 2015_.
 

@@ -4,6 +4,7 @@ subtitle = "Hoe de gekte van de Franse Revolutie doorleeft in het hedendaagse ac
 auteurs  = ["Eric Hendriks-Kim"]
 date     = "2021-10-24"
 category = "Politiek"
+noindex  = true
 draft    = false
 +++
 

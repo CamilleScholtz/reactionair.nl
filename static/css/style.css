@@ -472,10 +472,6 @@ article .twitter-tweet-rendered {
 	padding-bottom: calc(50px - 30px);
 }
 
-.footnotes a {
-	line-break: anywhere;
-}
-
 .footnotes li {
 	list-style: unset;
 }
@@ -509,7 +505,6 @@ article .twitter-tweet-rendered {
 	grid-area: comments;
 	margin-top: 100px;
 }
-
 
 #comments #welcomments__container .welcomments__form-group textarea {
 	width: 100%;
@@ -550,6 +545,12 @@ article .twitter-tweet-rendered {
 	margin-bottom: 0;
 }
 
+#comments .welcomments__comment a {
+	-ms-hyphens: auto;
+	-webkit-hyphens: auto;
+	hyphens: auto;
+}
+
 #comments .welcomments__comment-time {
 	color: var(--muted-color);
 	font-style: italic;
@@ -579,11 +580,4 @@ footer a {
 footer .pipe {
 	font-size: 14px;
 	font-weight: 700;
-}
-
-
-/* Spam */
-
-#welcomments__comment-01FK1NJ2KZRDC71AJ7T31B50F7 {
-	display: none;
 }

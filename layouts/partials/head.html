@@ -20,6 +20,10 @@
 	{{ end }}
 	<meta property="twitter:site" content="@ReactionairNL">
 
+	{{ if .Params.NoIndex }}
+		<meta name="robots" content="noindex">
+	{{ end }}
+
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 	<meta name="mobile-web-app-capable" content="yes">
 
@@ -28,14 +32,14 @@
 
 	<link rel="shortcut icon" href="{{ absURL "img/favicon.ico" }}" type="image/x-icon">
 
-	<link rel="stylesheet" href="{{ relURL "css/fonts.css" }}?v=1635174769">
-	<link rel="stylesheet" href="{{ relURL "css/light.css" }}?v=1635174769" media="(prefers-color-scheme: light)">
-	<link rel="stylesheet" href="{{ relURL "css/dark.css" }}?v=1635174769" media="(prefers-color-scheme: dark)">
-	<link rel="stylesheet" href="{{ relURL "css/style.css" }}?v=1635174769">
-	<link rel="stylesheet" href="{{ relURL "css/mobile.css" }}?v=1635174769" media="(max-width: 1024px)">
-	<link rel="stylesheet" href="{{ relURL "css/desktop.css" }}?v=1635174769" media="(min-width: 1025px)">
+	<link rel="stylesheet" href="{{ relURL "css/fonts.css" }}?v=1635174780">
+	<link rel="stylesheet" href="{{ relURL "css/light.css" }}?v=1635174780" media="(prefers-color-scheme: light)">
+	<link rel="stylesheet" href="{{ relURL "css/dark.css" }}?v=1635174780" media="(prefers-color-scheme: dark)">
+	<link rel="stylesheet" href="{{ relURL "css/style.css" }}?v=1635174780">
+	<link rel="stylesheet" href="{{ relURL "css/mobile.css" }}?v=1635174780" media="(max-width: 1024px)">
+	<link rel="stylesheet" href="{{ relURL "css/desktop.css" }}?v=1635174780" media="(min-width: 1025px)">
 
-	<script defer src="{{ relURL "js/script.js" }}?v=1635174769"></script>
+	<script defer src="{{ relURL "js/script.js" }}?v=1635174780"></script>
 
 	{{ template "_internal/google_analytics.html" . }}
 </head>
