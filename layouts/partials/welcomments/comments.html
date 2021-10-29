@@ -4,34 +4,28 @@
 {{ $slug = cond (ne (eq $slug "")) $slug "___root___" }}
 
 <div id="welcomments__container" class="welcomments__container">
-  {{ $allComments := dict }}
+	{{ $allComments := dict }}
 	{{ if isset .context.Site.Data.welcomments $slug }}
 		{{ $allComments = index .context.Site.Data.welcomments $slug }}
 	{{ end }}
 
-	{{ if eq $allComments 0 }}
-		<h3 id="welcomments__comment-count-title" class="welcomments__comments-title">Nog geen reacties...</h3>
-	{{ end }}
-
 	<section id="welcomments__comment-container" class="welcomments__comment-container">
-		{{- range $allComments -}}
-			{{- if eq (index . "replying_to") nil -}}
-				{{- $data := dict -}}
-				{{- $data  = merge $data (dict "nestingLevel" 0) -}}
-				{{- $data  = merge $data (dict "allComments" $allComments) -}}
-				{{- $data  = merge $data (dict "comment" .) -}}
-				{{- $data  = merge $data (dict "apiUrl" $apiUrl) -}}
-				{{- $data  = merge $data (dict "websiteId" $websiteId) -}}
-				{{- partial "welcomments/single_comment" $data -}}
-			{{- end -}}
-		{{- end -}}
+		{{ range $allComments }}
+			{{ $data := dict }}
+			{{ $data  = merge $data (dict "nestingLevel" 0) }}
+			{{ $data  = merge $data (dict "allComments" $allComments) }}
+			{{ $data  = merge $data (dict "comment" .) }}
+			{{ $data  = merge $data (dict "apiUrl" $apiUrl) }}
+			{{ $data  = merge $data (dict "websiteId" $websiteId) }}
+			{{ partial "welcomments/single_comment" $data }}
+		{{ end }}
 	</section>
 
-	{{- $data := dict -}}
-	{{- $data  = merge $data (dict "apiUrl" $apiUrl) -}}
-	{{- $data  = merge $data (dict "websiteId" $websiteId) -}}
-	{{- $data  = merge $data (dict "permalink" .context.Permalink) -}}
-	{{- $data  = merge $data (dict "slug" $slug) -}}
+	{{ $data := dict }}
+	{{ $data  = merge $data (dict "apiUrl" $apiUrl) }}
+	{{ $data  = merge $data (dict "websiteId" $websiteId) }}
+	{{ $data  = merge $data (dict "permalink" .context.Permalink) }}
+	{{ $data  = merge $data (dict "slug" $slug) }}
 	{{ partial "welcomments/comment_form" $data }}
 </div>
 
@@ -40,13 +34,6 @@
 	welcomments = {
 		apiUrl: {{ $apiUrl }},
 
-		commentCountTitleFactory: function (commentCount) {
-			if (commentCount === 0) {
-				return "Nog geen reacties...";
-			}
-			return "";
-		},
-
 		placeholderCommentFactory: function (comment) {
 			const year  = new Intl.DateTimeFormat("nl-NL", {year: "numeric"}).format(comment.date);
 			const m     = new Intl.DateTimeFormat("nl-NL", {month: "long"}).format(comment.date);
@@ -54,16 +41,16 @@
 			const day   = new Intl.DateTimeFormat("nl-NL", {day: "2-digit"}).format(comment.date);
 
 			{{ $template := dict }}
-			{{- $template = merge $template (dict "id" "${comment.id}") -}}
-			{{- $template = merge $template (dict "elementId" "welcomments__comment-${comment.id}") -}}
-			{{- $template = merge $template (dict "elementClassName" "welcomments__comment") -}}
-			{{- $template = merge $template (dict "nestingLevel" 0) -}}
-			{{- $template = merge $template (dict "formattedDate" "${month} ${day}, ${year}") -}}
-			{{- $template = merge $template (dict "dateXmlSchema" "${comment.date}") -}}
-			{{- $template = merge $template (dict "authorName" "${comment.author.name}") -}}
-			{{- $template = merge $template (dict "message" "${comment.message}") -}}
-			{{- $template = merge $template (dict "apiUrl" $apiUrl) -}}
-			{{- $template = merge $template (dict "websiteId" $websiteId) -}}
+			{{ $template = merge $template (dict "id" "${comment.id}") }}
+			{{ $template = merge $template (dict "elementId" "welcomments__comment-${comment.id}") }}
+			{{ $template = merge $template (dict "elementClassName" "welcomments__comment") }}
+			{{ $template = merge $template (dict "nestingLevel" 0) }}
+			{{ $template = merge $template (dict "formattedDate" "${month} ${day}, ${year}") }}
+			{{ $template = merge $template (dict "dateXmlSchema" "${comment.date}") }}
+			{{ $template = merge $template (dict "authorName" "${comment.author.name}") }}
+			{{ $template = merge $template (dict "message" "${comment.message}") }}
+			{{ $template = merge $template (dict "apiUrl" $apiUrl) }}
+			{{ $template = merge $template (dict "websiteId" $websiteId) }}
 
 			return `{{ safeJS (partial "welcomments/template.html" $template) }}`;
 		},

@@ -72,7 +72,7 @@ const scroll = (header, author, question, mobile) => {
 
 		if (author && !mobile) {
 			author.style.top   = "calc(110px + 55px + 40px + 2px - 111px)";
-			question.style.top = "calc(110px + 55px + 40px + 2px - 111px)";
+			question.style.top = "calc(110px + 55px + 50px + 2px - 111px)";
 		}
 
 		hidden = true;
@@ -84,7 +84,7 @@ const scroll = (header, author, question, mobile) => {
 
 		if (author && !mobile) {
 			author.style.top   = "calc(110px + 55px + 40px + 2px)";
-			question.style.top = "calc(110px + 55px + 40px + 2px)";
+			question.style.top = "calc(110px + 55px + 50px + 2px)";
 		}
 
 		hidden = false;
