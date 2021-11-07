@@ -34,5 +34,5 @@ Deze progressieve vorm van liberalisme is door de heersende elites om verschille
 De (progressief) liberalen zijn werkelijk het tegendeel van de reactionairen, dat wil zeggen, degenen met een asboluut principe. Het beleid en de ideeën van de progressief liberaal komt voort uit de kritische theorie, de deconstructie, het relativisme, een geloof in vooruitgang, en negatieve principes als vrijheid en gelijkheid. De klassieke liberaal lijkt veel op de progressieve liberaal, maar is sentimenteel gekant tegen de consequente toepassing van zijn destructieve beginselen. Het zijn diezelfde klassiek liberalen die nederig achter de progressieven voorhoeden kruipen die nu gebruik maken van de tweestelling _“woke”_ en _“religie”_ om deze beiden neer te halen terwijl hij, ten onrechte, doet alsof hij hier boven staat. Trap er niet in en maak zelf geen gebruik van deze foutieve vergelijking.
 
 
-[^1]: https://www.standaard.be/cnt/dmf20210223_98141379
-[^2]: https://joop.bnnvara.nl/opinies/eerst-waren-er-de-christenen-toen-de-moslims-en-nu-de-woke-beweging
+[^1]: Ilja Leonard Pfeijffer, _[Woke denken is een religie geworden](https://www.standaard.be/cnt/dmf20210223_98141379)_.
+[^2]: Rutger van Eijken, _[Eerst waren er de christenen, toen de moslims en nu de woke-beweging](https://joop.bnnvara.nl/opinies/eerst-waren-er-de-christenen-toen-de-moslims-en-nu-de-woke-beweging)_.

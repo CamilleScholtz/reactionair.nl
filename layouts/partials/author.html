@@ -6,9 +6,15 @@
 			<span class="pipe">|</span>
 
 			<span>
-				<a href="https://twitter.com/intent/tweet?text={{ .Permalink }}" target="_blank"><img class="icon" src="{{ relURL "img/twitter.svg" }}" alt="Twitter"></a>
-				<a href="https://wa.me?text={{ .Permalink }}" target="_blank"><img class="icon" src="{{ relURL "img/whatsapp.svg" }}" alt="WhatsApp"></a>
-				<a href="https://t.me/share/url?url={{ .Permalink }}" target="_blank"><img class="icon" src="{{ relURL "img/telegram.svg" }}" alt="Telegram"></a>
+				<a href="https://twitter.com/intent/tweet?text={{ .Permalink }}" target="_blank">
+					<img class="icon" fill="red" src="{{ relURL "img/twitter.svg" }}" alt="Twitter">
+				</a>
+				<a href="https://wa.me?text={{ .Permalink }}" target="_blank">
+					<img class="icon" src="{{ relURL "img/whatsapp.svg" }}" alt="WhatsApp">
+				</a>
+				<a href="https://t.me/share/url?url={{ .Permalink }}" target="_blank">
+					<img class="icon" src="{{ relURL "img/telegram.svg" }}" alt="Telegram">
+				</a>
 			</span>
 
 			{{ range .Params.Auteurs }}

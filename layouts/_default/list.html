@@ -16,16 +16,20 @@
 		{{ end }}
 	{{ end }}
 
-	{{ $pages := .RegularPages }}
+	{{ $pages    := .RegularPages }}
+	{{ $featured := slice }}
+
 	{{ if .IsHome }}
-		{{ $pages = where site.RegularPages "Type" "artikelen" }}
+		{{ $articles := where site.RegularPages "Type" "eq" "artikelen" }}
+		{{ $pages     = where $articles "Title" "ne" .Params.Featured }}
+		{{ $featured  = where $articles "Title" "eq" .Params.Featured }}
 	{{ end}}
 
-	{{ $paginator := .Paginate $pages }}
+	{{ $paginator := .Paginate (union $featured $pages) }}
 
-	<main id="list">
+	<main id="list">	
 		{{ range $paginator.Pages }}
-			<a href="{{ .RelPermalink }}" class="article">
+			<a href="{{ .RelPermalink }}" class="article {{ if eq .Params.Title $.Params.Featured }}featured{{ end }}">
 				<img src="{{ path.Join .RelPermalink "thumb.webp" }}">
 				<h1>{{ .Params.Title }}</h1>
 				<h2>{{ .Params.SubTitle}}</h2>

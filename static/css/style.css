@@ -120,6 +120,7 @@ small {
 	color: var(--muted-color);
 	font-size: 12px;
 	font-style: italic;
+	line-height: 22px;
 }
 
 sup,
@@ -250,12 +251,14 @@ header .utility .right {
 /* List */
 
 #list {
+	background: var(--border-color);
+	border-bottom: 1px solid var(--border-color);
 	display: grid;
-	grid-gap: 0;
+	grid-gap: 1px;
 }
 
 #list .article {
-	border-bottom: 1px solid var(--border-color);
+	background: var(--background-color);
 	padding: 60px;
 	position: relative;
 	text-align: center;
@@ -501,6 +504,14 @@ article .twitter-tweet-rendered {
 	margin-top: 100px;
 	padding: 60px;
 	text-align: center;
+}
+
+#question .arrow {
+	background: var(--question-background-color);
+	height: 18px;
+	position: absolute;
+	transform: rotate(45deg);
+	width: 18px;
 }
 
 

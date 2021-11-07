@@ -95,6 +95,18 @@ article .img-left {
 }
 
 
+/* Question */
+
+#question {
+	position: relative;
+}
+
+#question .arrow {
+	bottom: -9px;
+	left: calc(50% - 9px);
+}
+
+
 /* Footer */
 
 footer {

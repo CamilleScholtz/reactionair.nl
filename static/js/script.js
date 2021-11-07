@@ -54,7 +54,7 @@ const time = (header) => {
 	now.innerHTML = `${day} ${month.slice(0, -1).toUpperCase()}, ${year}`;
 }
 
-const scroll = (header, author, question, media) => {
+const scroll = (header, author, question, mobile) => {
 	const logo    = header.querySelector("#logo img");
 	const utility = header.querySelector(".utility");
 
@@ -63,14 +63,14 @@ const scroll = (header, author, question, media) => {
 	let scrolling  = false
 
 	const hide = () => {
-		if (media.matches) {
+		if (mobile.matches) {
 			header.style.transform = "translateY(calc(-111px - 15px))";
 		} else {
 			header.style.transform = "translateY(-111px)";
 		}
 		logo.style.transform = "translateY(-40px)";
 
-		if (author && !media.matches) {
+		if (author && !mobile.matches) {
 			author.style.top   = "calc(110px + 55px + 40px + 2px - 111px)";
 			question.style.top = "calc(110px + 55px + 50px + 2px - 111px)";
 		}
@@ -82,7 +82,7 @@ const scroll = (header, author, question, media) => {
 		header.style.transform = "translateY(0px)";
 		logo.style.transform   = "translateY(0px)";
 
-		if (author && !media.matches) {
+		if (author && !mobile.matches) {
 			author.style.top   = "calc(110px + 55px + 40px + 2px)";
 			question.style.top = "calc(110px + 55px + 50px + 2px)";
 		}
@@ -121,14 +121,14 @@ const scroll = (header, author, question, media) => {
 
 
 window.addEventListener("DOMContentLoaded", (ev) => {
-	let media = window.matchMedia("(max-width: 1024px)");
+	let mobile = window.matchMedia("(max-width: 1024px)");
 
 	const header   = document.querySelector("header");
 	const author   = document.querySelector("#author");
 	const question = document.querySelector("#question");
 	const article  = document.querySelector("article");
 
-	scroll(header, author, question, media);
+	scroll(header, author, question, mobile);
 	time(header);
 	footnotes(article);
 });

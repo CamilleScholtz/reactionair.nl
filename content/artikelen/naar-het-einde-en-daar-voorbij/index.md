@@ -11,7 +11,7 @@ draft    = false
 Dit artikel gaat over enkele interacties met het idee van het onbegrensde, het eindeloze, oneindigheid, en enkele logische consequenties van deze concepten en de mogelijke implicaties voor theologie.
 
 
-### Infinite and Indefinite
+### Het bepaalde en het onbepaalde
 
 Het eerste geval deed zich voor bij het bekijken van een video van _Aarvoll_,[^1] waarin hij het volgende idee naar voren brengt:
 
