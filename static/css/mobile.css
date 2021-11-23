@@ -36,7 +36,16 @@ header .utility {
 
 header .utility .left,
 header .utility .right {
+	overflow: hidden;
 	text-align: center; 
+	width: calc(100% - 60px);
+}
+
+header .utility .left div,
+header .utility .right div {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
 }
 
 header .utility .pipe {
