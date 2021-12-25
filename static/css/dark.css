@@ -1,19 +1,19 @@
 :root {
-	--background-color: #1D1111;
+	--background-color: #111518;
 	--selection-color: #A48d8B;
 
-	--text-color: #CCA28F;
+	--text-color: #D0CCC6;
 	--accent-color: #B34F4E;
-	--muted-color: #6F5B52;
-	--slightly-muted-color: #8B7166;
-	--border-color: #3E2E2E;
+	--muted-color: #606367;
+	--slightly-muted-color: #8D8E8f;
+	--border-color: #202F36;
 
-	--header-background-color: #341B1B;
-	--header-border-color: #3B2121;
+	--header-background-color: #212A2D;
+	--header-border-color: #29333B;
 
-	--utility-color: #2E1515;
+	--utility-color: #142022;
 
-	--footnotes-background-color: #261919;
+	--footnotes-background-color: #182022;
 
-	--question-background-color: #341B1B;
+	--popup-background-color: #341B1B;
 }

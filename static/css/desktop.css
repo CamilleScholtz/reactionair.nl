@@ -45,41 +45,41 @@ header .utility .pipe {
 /* List */
 
 #list {
-	grid-template-columns: repeat(6, 1fr);
+	column-gap: 5%;
+	grid-template-areas:
+		"sidebar pages"
+		"sidebar paginator";
+	grid-template-columns: auto minmax(60%, calc(100% - 5% - 560px));
+	grid-template-rows: auto;
+}
+
+#list #authors,
+#list #articles {
 	margin: 0 auto;
 	max-width: 1440px;
 }
 
-#list .article {
-	grid-column: span 2;
+#list #authors {
+	grid-template-columns: repeat(1, 1fr);
 }
 
-#list .article:nth-child(5n-4),
-#list .article:nth-child(5n-3) {
-	grid-column: span 3;
+#list #articles {
+	grid-template-columns: repeat(2, 1fr);
 }
 
-#list .featured {
+#list #articles .featured {
 	background: var(--footnotes-background-color) !important;
 	border: 60px solid var(--background-color);
-	grid-column: span 4 !important;
+	grid-column: span 2;
 	padding: 0 !important;
 }
 
-#list .featured + .article {
-	grid-column: span 2 !important;
-}
-
-#list .featured .author {
+#list #articles .featured .author {
 	margin-bottom: 100px;
 }
 
-#list .featured .category {
+#list #articles .featured .category {
 	width: 100%;
-}
-
-.author-list {
-	max-width: 1440px;
 }
 
 
@@ -101,8 +101,7 @@ header .utility .pipe {
 	height: calc(100% - 30px);
 }
 
-#author,
-#question {
+aside {
 	position: sticky;
 	top: calc(110px + 55px + 40px + 2px);
 	transition: top .2s;
@@ -153,7 +152,8 @@ header .utility .pipe {
 
 .author-container .description {
 	color: var(--slightly-muted-color);
-	display: block;	width: 100%;
+	display: block;
+	width: 100%;
 }
 
 
@@ -165,11 +165,49 @@ article .img-left {
 }
 
 
-/* Question */
+/* Popup */
 
-#question .arrow {
+.popup .arrow {
 	right: -9px;
 	top: calc(50% - 9px);
+}
+
+.popup.intro {
+	background: transparent;
+	color: var(--text-color);
+	grid-area: author;
+}
+
+.popup.intro #quote {
+	margin-bottom: 20px;
+}
+
+.popup.intro #quote::before {
+	color: var(--popup-background-color);
+	content: "“";
+	font-family: "Quadraat Pro Sans", sans-serif;
+	font-size: 220px;
+	left: 40px;
+	position: absolute;
+	top: 110px;
+	z-index: -1;
+}
+
+.popup.intro #quote .author {
+	color: var(--muted-color);
+	display: block;
+	font-family: "Quadraat Pro Sans", sans-serif;
+	font-size: 16px;
+}
+
+.popup.intro .links a {
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.popup.intro .links .pipe {
+	font-size: 14px;
+	font-weight: 700
 }
 
 

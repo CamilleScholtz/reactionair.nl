@@ -40,4 +40,4 @@ Een andere parallel die we kunnen trekken, is met het fenomeen _virtue signaling
 Weet ik een uitweg uit dit moeras waar we collectief in weggezakt zijn? Niet direct, maar ik weet wel het volgende: menselijke begeerte is dynamiet, maar om gelukkig te zijn, is het ontzettend belangrijk om niet altijd te krijgen wat je wil. Er moet een zeker ritme zijn, een zeker eb en vloed van begeerte, bevrediging en frustratie. Om hier een harmonisch samenspel van te maken, in plaats van een bak atonale herrie, is het noodzakelijk dat de cultuur deze driften in goede banen leidt. Rituelen, kunst en moraal zijn hier enkele middelen toe, die door de moderne mens met zijn hedonistische monomanie uit het oog verloren zijn. Genot maakt niet gelukkig. Het begint ermee het probleem te erkennen. Dan zakken we tenminste niet dieper weg in het moeras en wellicht is deze of gene hogere macht dan niet te beroerd om ons eruit te trekken.
 
 
-[^1]: Wikipedia, _[Supernormal stimulus](https://en.wikipedia.org/wiki/Supernormal_stimulus)_.
+[^1]: _Wikipedia_, _[Supernormal stimulus](https://en.wikipedia.org/wiki/Supernormal_stimulus)_.

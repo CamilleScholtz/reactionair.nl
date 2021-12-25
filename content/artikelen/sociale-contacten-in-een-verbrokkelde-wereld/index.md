@@ -1,0 +1,40 @@
++++
+title    = "Sociale contacten in een verbrokkelde wereld"
+subtitle = "De industriële revolutie en haar invloed op sociale interactie"
+auteurs  = ["v. Deirm"]
+date     = "2021-12-07"
+category = "Cultuur"
+draft    = false
++++
+
+
+Onlangs zat ik met wat vrienden in een gezellig cafeetje in de Antwerpse binnenstad. Naarmate de avond vorderde, kwam aan het licht dat verschillenden onder hen gebruikmaken van de datingapp _‘Tinder’_. Dat vond ik uiterst interessant, maar tegelijkertijd ook beangstigend. Hoe is het eigenlijk zover kunnen komen dat we de liefde van ons leven trachten te ontmoeten op een digitaal ‘marktplein’? Laat ons wat dieper proberen in te gaan op de zogenaamde _“vloeibare moderniteit”_.
+
+{{< figure
+	src="thumb.webp"
+	alt="Yukio Mishima"
+	class="img-left"
+	caption="Yukio Mishima aquarel en inkt portret, door Fabrizio Cassetta."
+>}}
+
+Dat is namelijk de term die door de – oh hoe ironisch - postmodernist Zygmunt Bauman op de wereld van vandaag geplakt werd. In zijn werk _Vloeibare Moderniteit_ stelt hij dat de vloeibare samenleving de neiging heeft om de openbare ruimte te koloniseren. Met andere woorden; de privésfeer krijgt de overhand op het gemeenschappelijk goed.[^1] Dat proces begon in essentie al in de industriële revolutie, waar individuele prestaties op het vlak van arbeid sterk aan belang wonnen. Families werden uit elkaar gerukt om aan de economische vraag te kunnen voldoen. Onze sociale relaties zijn sindsdien bijzonder broos geworden. Huwelijken lopen meer dan ooit op de klippen en liefdesrelaties zijn doorgaans niet meer dan een _‘probeersel’_ dat vanaf de eerste tegenslag kan worden opgeblazen. Sociale interactie moet vandaag een bepaald nut dienen. Is het niet nuttig, dan is het overbodig. 
+
+We zijn schijnbaar niet in staat om grip te krijgen op de optelsom van individuen zoals die vandaag bestaat. We ondergaan, letterlijk, de moderniteit. Daarom proberen we vast te houden aan zaken die zekerheid zouden bieden. Ons sociaal leven is volledig in de ban van deze cijfermatige data. Vlaanderen ging compleet op slot omdat de IC-capaciteit van 2000 bedden bijna bereikt werd. Nu ja, ‘bijna’, er zijn namelijk nog steeds 400 bedden vrij. Als je vandaag nog na 23u00 op restaurant zit, ontvang je een boete van ongeveer 250 euro. Max Weber zou poneren dat deze rationalisering van sociale contacten te wijten is aan de _‘onttovering der wereld.’_ Er is geen magie meer, enkel de ratio blijft over. Overal zien we breuken ontstaan in het sociaal weefsel. En mocht u nog geloven dat hedendaagse regimedenkers de imploderende samenleving enigszins ernstig nemen, dan bent eraan voor de moeite. Verschillende docenten aan mijn eigen alma mater menen dat de oplossing bestaat uit méér rationalisering! Je zou haast beginnen te denken dat een doctoraat in de wijsbegeerte verkregen wordt bij een pakje cornflakes. 
+
+We kunnen echtscheidingen, psychische problemen en suïcide wel trachten weg te moffelen onder wetenschappelijke verklaringen. Of we proberen ons aan de hand van veelvuldig hedonisme af te vragen wie we zijn,[^2] dat soort pogingen zullen altijd tevergeefs zijn. Er is namelijk maar één conclusie. Wie de band met de metafysica doorknipt, is gedoemd om te lijden. 
+
+Het is dan ook geen toeval dat de kerk altijd een cruciale rol gespeeld heeft bij het onderhouden van sociale integratie. Mensen traden er met elkaar en God in contact. Bovendien had de pastoor een verbindende rol. Hij was het aanspreekpunt bij uitstek en bouwt in de meest letterlijke zin een parochie op. Deze vorm van _‘samenlevingsopbouw’_ zou later overgenomen worden door het middenveld, tot het door toedoen van de verbrokkelde zuilen ontaardde in een links-activistisch clubje vol wereldverbeteraars. U hoeft mij niet te geloven. Gelooft u de socioloog Emile Durkheim. Hij ging ervan uit dat individualistische sociale groepen met meer handelingsvrijheid geassocieerd kunnen worden met hogere zelfmoordcijfers. Volgens hem zal de gedeelde manier van leven beginnen te divergeren wanneer de basis van het economisch systeem verandert. De gedeelde ervaringen nemen daarbij af en mensen maken contact met anderen die ze niet kennen.[^3] Dergelijke positivistische of constructivistische paradigma’s kunnen mijns inziens inzicht bieden in de organisatie van ons samenleven. Ze kunnen echter geen antwoord bieden op metafysische vraagstukken. Precies daar knelt het schoentje. Bovendien is het opvallend dat het sinds de ‘dood’ van God op quasi alle socioculturele domeinen stijl bergaf gaat. 
+
+Het consumentisme dat als gevolg van de hogere handelingsvrijheid in onze sociale contacten getreden is, kan nooit bevredigend zijn. Jongeren worden gedwongen om hun identiteit op te bouwen aan de hand van de consumptiemaatschappij. Dat geldt evenzeer voor de sociale contacten die zij aangaan.[^4] Het consumentisme heeft een enorme anarchie in de wereld geblazen. We zien in onze eigen landen het verval van de moraal, gezin en de sociale orde. De consumptiemaatschappij vernietigt het sociaal weefsel, in plaats van het te versterken. 
+
+Kunnen we dit proces nog tegengaan? Neen, allicht niet. We kunnen echter wel kameraadschap opbouwen met gelijkgezinden. Terwijl het (neo)liberalisme en consumentisme door de samenleving razen en elke verbondenheid vermalen tot pulp, moeten wij trachten aan elkaar vast te houden. Yukio Mishima, een Japans literair genie, richtte vanuit die optiek zijn _‘tatenokai’_ op. Dit betrof een verdedigingsgemeenschap die het doel diende de traditionele krijgskunst te conserveren. Anders dan vele tijdgenoten, die de verandering slechts wilden afremmen, ging Mishima actief in het verweer. Hij gebruikte zijn privémilitie als metapolitiek middel om het liberaliserend Japan onder druk te zetten. Hij hoopte zo de keizerlijke macht te herstellen en de Amerikaanse imperialisten het land uit te jagen. Belangrijker is echter dat de _tatenokai_ een hechte gemeenschap vormde, een sterk collectief binnen een samenleving van individuen.[^5] Mocht u denken dat Japan een _‘ver van mijn bed show’_ is. Niets is minder waar. 
+
+Delen van de Vlaamsgezinde zuil zijn zich heel bewust van het allesvernietigend onheil dat over ons werd afgeroepen. Tom Van Grieken, niet in het minst partijvoorzitter van het _Vlaams Belang_, richtte recent zijn eigen podcast en televisiestudio op. Met _Forum voor Democratie_ als lichtend voorbeeld, ontwikkelde het _Belang_ zelfs een eigen app. Van Grieken weet dat de enige overlevingskansen binnen de eigen zuil liggen. De politicus komt dan ook, net zoals mezelf, uit de buik van de _NSV!_ (_nationalistische studentenvereniging_). Men tracht, net als de _‘tatenokai’_, het gedachtegoed van de Vlaamse Beweging te consolideren opdat het niet kan worden weggeblazen. Er wordt gebouwd aan onvoorwaardelijk kameraadschap binnen een eigen gemeenschap. Dat impliceert eeuwige en onvoorwaardelijke trouw aan de eigen waarden, ook doorheen de jaren. Het is gemakkelijk om alle principes overboord te gooien en als een liberaal door het leven te gaan. Moeilijker is het om te leven naar de eigen principes en die van God. Laat ons dus vooral naar boven blijven kijken, naar de sterren.  
+
+Reactionairen hebben bij uitstek een morele taak. Sterk blijven middenin de degeneratie en het lichtend voorbeeld zijn voor mensen die hun gehele leven laten afhangen van materiële zaken. Laat ons dus dromen van iets groots en bouwen aan eigen sociaal weefsel waar we aan vast kunnen houden in deze vloeibare tijden. We zullen dat moeten volhouden tot de geest herboren wordt. Dat is onze strijd en martelaarschap, tot het de wederopstanding wordt. Voor Outer en Heerd!
+
+[^1]: Polhuijs, Z. (2018). _Review: Zygmunt Bauman, Retrotopia. Theory, Culture & Society_, 35(7-8), 339-344.
+[^2]: Foucault, M. (2020). _The history of sexuality_. _Penguin Books Ltd_. 
+[^3]: Durkheim, E., & Sennett, R. (2006). _On suicide_. _Penguin Classics_. 
+[^4]: Austruma, S. (2012). _Change of values in the consumer society. SHS Web of Conferences_, 2.
+[^5]: v. Deirm. (2020). _In Memoriam: Yukio Mishima_. _Branding_. 

@@ -1,5 +1,5 @@
 +++
 title       = "J. Floressas des Esseintes"
 profession  = "Schrijver"
-description = "Master in de geschiedenis en een bijzondere interesse in de religieuze en politieke geschiedenis van de 19e eeuw."
+description = "J. Floressas des Esseintes is een master in de geschiedenis en heeeft interesse in de religieuze en politieke geschiedenis van de 19e eeuw."
 +++

@@ -1,5 +1,5 @@
 +++
 title       = "De Melancholieke Nar"
 profession  = "Loonslaaf"
-description = "Incarnatie van het Schelm archetype."
+description = "De Melancholieke Nar is een incarnatie van het Schelm archetype."
 +++

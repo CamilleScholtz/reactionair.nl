@@ -1,0 +1,8 @@
+<a href="{{ .Context.RelPermalink }}" class="article {{ if .Featured }}featured{{ end }}">
+	<img src="{{ path.Join .Context.RelPermalink "thumb.webp" }}" alt="{{ .Context.Params.Title }}">
+	<h2>{{ .Context.Params.Title }}</h2>
+	<h3>{{ .Context.Params.SubTitle}}</h3>
+	<p class="author">{{ delimit .Context.Params.Auteurs ", " }}</p>
+
+	<p class="category">{{ upper .Context.Params.Category }}</p>
+</a>

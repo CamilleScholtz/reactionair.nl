@@ -57,6 +57,9 @@ header .utility .pipe {
 /* List */
 
 #list {
+	grid-template-areas:
+		"pages"
+		"paginator";
 	width: 100vw;
 }
 
@@ -74,8 +77,6 @@ header .utility .pipe {
 		"article"
 		"question"
 		"comments";
-	grid-template-columns: auto;
-	grid-template-rows: auto;
 }
 
 
@@ -104,15 +105,19 @@ article .img-left {
 }
 
 
-/* Question */
+/* Popup */
 
-#question {
+.popup {
 	position: relative;
 }
 
-#question .arrow {
+.popup .arrow {
 	bottom: -9px;
 	left: calc(50% - 9px);
+}
+
+.popup.intro {
+	display: none;
 }
 
 

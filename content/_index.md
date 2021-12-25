@@ -1,5 +1,5 @@
 +++
-title    = "Reactionair.nl"
-subtitle = "Het online magazine gegrond in een authentiek rechts denken"
-featured = "Dennis Honing ‘hoe echt om te gaan met diversiteit in Nederland’"
+title       = "Reactionair.nl"
+description = "De reactionair kijkt niet vooruit, en niet achteruit, maar naar boven, naar de sterren en de hemel"
+featured    = "Devolutie theorie"
 +++

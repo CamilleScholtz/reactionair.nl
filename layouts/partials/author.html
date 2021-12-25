@@ -1,30 +1,37 @@
+{{ $authors := .Params.Auteurs }}
+{{ if eq .Kind "term" }}
+	{{ $authors = slice .Params.Title }}
+{{ end }}
+
 <div class="sidebar">
-	<div id="author">
-		<div class="utility">
-			<span>{{ math.Round (div (countwords .Content) 220.0) }} minuten leestijd</span>
+	<aside id="author">
+		{{ if eq .Kind "page" }}
+			<div class="utility">
+				<span>{{ math.Round (div (countwords .Content) 220.0) }} minuten leestijd</span>
 
-			<span class="pipe">|</span>
+				<span class="pipe">|</span>
 
-			<span>
-				<a href="https://twitter.com/intent/tweet?text={{ .Permalink }}" target="_blank">
-					<img class="icon" fill="red" src="{{ relURL "img/twitter.svg" }}" alt="Twitter">
-				</a>
-				<a href="https://wa.me?text={{ .Permalink }}" target="_blank">
-					<img class="icon" src="{{ relURL "img/whatsapp.svg" }}" alt="WhatsApp">
-				</a>
-				<a href="https://t.me/share/url?url={{ .Permalink }}" target="_blank">
-					<img class="icon" src="{{ relURL "img/telegram.svg" }}" alt="Telegram">
-				</a>
-			</span>
+				<span>
+					<a href="https://twitter.com/intent/tweet?text={{ .Permalink }}" target="_blank">
+						<img class="icon" fill="red" src="{{ relURL "img/twitter.svg" }}" alt="Twitter">
+					</a>
+					<a href="https://wa.me?text={{ .Permalink }}" target="_blank">
+						<img class="icon" src="{{ relURL "img/whatsapp.svg" }}" alt="WhatsApp">
+					</a>
+					<a href="https://t.me/share/url?url={{ .Permalink }}" target="_blank">
+						<img class="icon" src="{{ relURL "img/telegram.svg" }}" alt="Telegram">
+					</a>
+				</span>
 
-			{{ range .Params.Auteurs }}
-				{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
-					<a href="{{ .RelPermalink }}" class="author">{{ .Params.Title }}</a>
+				{{ range $authors }}
+					{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
+						<a href="{{ .RelPermalink }}" class="author">{{ .Params.Title }}</a>
+					{{ end }}
 				{{ end }}
-			{{ end }}
-		</div>
+			</div>
+		{{ end }}
 
-		{{ range .Params.Auteurs }}
+		{{ range $authors }}
 			{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
 				<div class="author-container">
 					<div class="name-container">
@@ -36,9 +43,11 @@
 
 					<p class="description">{{ .Params.Description }}</p>
 
-					<a class="more" href="{{ .RelPermalink }}">Meer van deze auteur...</a>
+					{{ if eq $.Kind "page" }}
+						<a class="more" href="{{ .RelPermalink }}">Meer van deze auteur...</a>
+					{{ end }}
 				</div>
 			{{ end }}
 		{{ end }}
-	</div>
+	</aside>
 </div>

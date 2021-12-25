@@ -60,6 +60,11 @@ textarea {
 	resize: none;
 }
 
+q::before,
+q::after {
+	content: none;
+}
+
 ::placeholder {
 	color: var(--muted-color);
 }
@@ -152,7 +157,7 @@ header #logo-container {
 
 header #logo img {
 	background: #A62F27;
-	box-shadow: 0 10px 25px -4px rgba(108, 19, 15, 0.15);
+	box-shadow: 0 5px 25px -4px rgba(108, 19, 15, 0.1);
 	height: 113px;
 	margin-top: 15px;
 	transition: all .2s .1s;
@@ -251,20 +256,35 @@ header .utility .right {
 /* List */
 
 #list {
+	display: grid;
+	margin: 0 auto;
+	margin-top: 40px;
+	max-width: 1440px;
+	width: 90%;
+}
+
+#list #authors .author-container {
+	background: var(--background-color);
+	padding: 60px;
+}
+
+#list #authors,
+#list #articles {
 	background: var(--border-color);
 	border-bottom: 1px solid var(--border-color);
 	display: grid;
+	grid-area: pages;
 	grid-gap: 1px;
 }
 
-#list .article {
+#list #articles .article {
 	background: var(--background-color);
 	padding: 60px;
 	position: relative;
 	text-align: center;
 }
 
-#list .article img {
+#list #articles .article img {
 	height: 300px;
 	margin: 0 auto;
 	margin-bottom: 50px;
@@ -272,19 +292,22 @@ header .utility .right {
 	width: 100%;
 }
 
-#list h1 {
+#list #articles h2 {
 	font-size: 28px;
+	font-weight: 700;
 	line-height: 34px;
 	margin-bottom: 10px;
 }
 
-#list h2 {
+#list #articles h3 {
 	font-size: 24px;
+	font-weight: 400;
 	line-height: 30px;
 	margin-bottom: 10px;
+	margin-top: 0px;
 }
 
-#list .author {
+#list #articles .author {
 	color: var(--slightly-muted-color);
 	font-size: 18px;
 	font-style: italic;
@@ -292,7 +315,7 @@ header .utility .right {
 	margin-bottom: 60px;
 }
 
-#list .category {
+#list #articles .category {
 	bottom: 40px;
 	color: var(--accent-color);
 	font-family: "Quadraat Pro Sans", sans-serif;
@@ -301,25 +324,12 @@ header .utility .right {
 	width: calc(100% - (60px * 2));
 }
 
-.author-list {
-	border-bottom: 1px solid var(--border-color);
-	margin: 0 auto;
-	margin-top: 60px;
-	padding-bottom: 60px;
-	width: 100%;
-}
-
-.author-list .author-container {
-	margin: 0 auto;
-	max-width: 500px;
-	width: 85%;
-}
-
 
 /* Paginator */
 
 .paginator {
 	font-family: "Quadraat Pro Sans", sans-serif;
+	grid-area: paginator;
 	list-style: none;
 	margin-top: 80px;
 	text-align: center;
@@ -493,25 +503,29 @@ article .twitter-tweet-rendered {
 }
 
 
-/* Question */
+/* Popup */
 
-#question {
-	background: var(--question-background-color);
+.popup {
+	background: var(--popup-background-color);
 	color: var(--accent-color);
 	font-size: 28px;
 	line-height: 35px;
-	grid-area: -question;
-	margin-top: 100px;
+	margin-top: 60px;
 	padding: 60px;
 	text-align: center;
 }
 
-#question .arrow {
-	background: var(--question-background-color);
+.popup .arrow {
+	background: var(--popup-background-color);
 	height: 18px;
 	position: absolute;
 	transform: rotate(45deg);
 	width: 18px;
+}
+
+.popup.question {
+	grid-area: question;
+	margin-top: 100px;
 }
 
 

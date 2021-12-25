@@ -1,58 +1,48 @@
 {{ define "main" }}
-	{{ if eq .Section "auteurs" }}
-		{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .Params.Title)) }}
-			<div class="author-list">
-				<div class="author-container">
-					<div class="name-container">
-						<img src="{{ path.Join .RelPermalink "avatar.webp" }}" alt="{{ .Params.Title }}">
-
-						<h3 class="author">{{ .Params.Title }}</h3>
-						<p class="profession">{{ .Params.Profession }}</p>
-					</div>
-
-					<p class="description">{{ .Params.Description }}</p>
-				</div>
-			</div>
-		{{ end }}
-	{{ end }}
-
 	{{ $pages    := .RegularPages }}
 	{{ $featured := slice }}
-
+		
 	{{ if .IsHome }}
 		{{ $articles := where site.RegularPages "Type" "eq" "artikelen" }}
 		{{ $pages     = where $articles "Title" "ne" .Params.Featured }}
 		{{ $featured  = where $articles "Title" "eq" .Params.Featured }}
-	{{ end}}
+	{{ end }}
 
-	{{ $paginator := .Paginate (union $featured $pages) }}
+	{{ $paginator := .Paginate $pages }}
 
-	<main id="list">	
-		{{ range $paginator.Pages }}
-			<a href="{{ .RelPermalink }}" class="article {{ if eq .Params.Title $.Params.Featured }}featured{{ end }}">
-				<img src="{{ path.Join .RelPermalink "thumb.webp" }}">
-				<h1>{{ .Params.Title }}</h1>
-				<h2>{{ .Params.SubTitle}}</h2>
-				<p class="author">{{ delimit .Params.Auteurs ", " }}</p>
+	<main id="list">
+		{{ if .IsHome }}
+			{{ partial "intro.html" . }}
+		{{ else if eq .Section "auteurs" }}
+			{{ partial "author.html" . }}
+		{{ end }}		
 
-				<p class="category">{{ upper .Params.Category }}</p>
-			</a>
+		<div id="articles">
+			{{ if eq $paginator.PageNumber 1 }}
+				{{ range $featured }}
+					{{ partial "article.html" (dict "Context" . "Featured" true) }}
+				{{ end }}
+			{{ end }}
+		
+			{{ range $paginator.Pages }}			
+				{{ partial "article.html" (dict "Context" . "Featured" false) }}
+			{{ end }}
+		</div>
+
+		{{ if gt $paginator.TotalPages 1 }}
+			<nav class="paginator">
+				{{ if $paginator.HasPrev }}
+					<a class="prev" href="{{ $paginator.Prev.URL }}">←</a>
+				{{ else }}
+					<a class="prev disabled">←</a>
+				{{ end }}
+
+				{{ if $paginator.HasNext }}
+					<a class="next" href="{{ $paginator.Next.URL }}">→</a>
+				{{ else }}
+					<a class="next disabled">→</a>
+				{{ end }}
+			</nav>
 		{{ end }}
 	</main>
-
-	{{ if gt $paginator.TotalPages 1 }}
-		<nav class="paginator">
-			{{ if $paginator.HasPrev }}
-				<a class="prev" href="{{ $paginator.Prev.URL }}">←</a>
-			{{ else }}
-				<a class="prev disabled">←</a>
-			{{ end }}
-
-			{{ if $paginator.HasNext }}
-				<a class="next" href="{{ $paginator.Next.URL }}">→</a>
-			{{ else }}
-				<a class="next disabled">→</a>
-			{{ end }}
-		</nav>
-	{{ end }}
 {{ end }}

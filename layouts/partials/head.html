@@ -7,7 +7,7 @@
 	{{ end }}
 
 	<meta property="og:title" content="{{ .Title }}">
-	<meta property="og:description" content="{{ .Params.SubTitle }}">
+	<meta property="og:description" content="{{ if isset .Params "description" }}{{ .Params.Description }}{{ else }}{{ .Params.SubTitle }}{{ end }}">
 	<meta property="og:url" content="{{ .Permalink }}">
 	{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
 		<meta property="og:type" content="article">
@@ -28,18 +28,18 @@
 	<meta name="mobile-web-app-capable" content="yes">
 
 	<meta name="theme-color" content="#F6F1F0" media="(prefers-color-scheme: light)">
-	<meta name="theme-color" content="#341B1B" media="(prefers-color-scheme: dark)">
+	<meta name="theme-color" content="#212A2D" media="(prefers-color-scheme: dark)">
 
 	<link rel="shortcut icon" href="{{ absURL "img/favicon.ico" }}" type="image/x-icon">
 
-	<link rel="stylesheet" href="{{ relURL "css/fonts.css" }}?v=1637142691">
-	<link rel="stylesheet" href="{{ relURL "css/light.css" }}?v=1637142691" media="(prefers-color-scheme: light)">
-	<link rel="stylesheet" href="{{ relURL "css/dark.css" }}?v=1637142691" media="(prefers-color-scheme: dark)">
-	<link rel="stylesheet" href="{{ relURL "css/style.css" }}?v=1637142691">
-	<link rel="stylesheet" href="{{ relURL "css/mobile.css" }}?v=1637142691" media="(max-width: 1024px)">
-	<link rel="stylesheet" href="{{ relURL "css/desktop.css" }}?v=1637142691" media="(min-width: 1025px)">
+	<link rel="stylesheet" href="{{ relURL "css/fonts.css" }}?v=1637142695">
+	<link rel="stylesheet" href="{{ relURL "css/light.css" }}?v=1637142695" media="(prefers-color-scheme: light)">
+	<link rel="stylesheet" href="{{ relURL "css/dark.css" }}?v=1637142695" media="(prefers-color-scheme: dark)">
+	<link rel="stylesheet" href="{{ relURL "css/style.css" }}?v=1637142695">
+	<link rel="stylesheet" href="{{ relURL "css/mobile.css" }}?v=1637142695" media="(max-width: 1024px)">
+	<link rel="stylesheet" href="{{ relURL "css/desktop.css" }}?v=1637142695" media="(min-width: 1025px)">
 
-	<script defer src="{{ relURL "js/script.js" }}?v=1637142691"></script>
+	<script defer src="{{ relURL "js/script.js" }}?v=1637142695"></script>
 
 	{{ template "_internal/google_analytics.html" . }}
 </head>

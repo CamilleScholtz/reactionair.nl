@@ -1,0 +1,23 @@
+{{ define "main" }}
+	{{ $authors  := .Pages }}
+	{{ $featured := slice }}
+
+	<main id="list">
+		{{ partial "intro.html" . }}
+
+		<div id="authors">
+			{{ range $authors }}
+				<a href="{{ .RelPermalink }}" class="author-container">
+					<div class="name-container">
+						<img src="{{ path.Join .RelPermalink "avatar.webp" }}" alt="{{ .Params.Title }}">
+
+						<h3 class="author">{{ .Params.Title }}</h3>
+						<p class="profession">{{ .Params.Profession }}</p>
+					</div>
+
+					<p class="description">{{ .Params.Description }}</p>
+				</a>
+			{{ end }}
+		</div>
+	</main>
+{{ end }}
