@@ -40,8 +40,8 @@ Via het liberalisme, het secularisme, het humanisme, al deze ideologieën en wer
 
 
 [^1]: Max Horkheimer, _Critical Theory: Selected Essays_.
-[^2]: Camille Meloen, _[“Het woke denken is een religie geworden!”](https://reactionair.nl/artikelen/het-woke-denken-is-een-religie-geworden)_.
-[^3]: Camille Meloen, _[De mythe van de neutraliteit](https://reactionair.nl/artikelen/de-mythe-van-de-neutraliteit)_.
+[^2]: Camille Meloen, _[“Het woke denken is een religie geworden!”](https://reactionair.nl/artikelen/het-woke-denken-is-een-religie-geworden/)_.
+[^3]: Camille Meloen, _[De mythe van de neutraliteit](https://reactionair.nl/artikelen/de-mythe-van-de-neutraliteit/)_.
 [^4]: Roelof Bouwman, _[Universiteit van Amsterdam is woke geworden. Stop dus de financiering](https://www.ewmagazine.nl/nederland/opinie/2021/10/uva-is-woke-geworden-stop-dus-de-financiering-849529/)_.
 [^5]: Geerten Waling, _[Totale gekte regeert op Universiteit van Amsterdam](https://www.ewmagazine.nl/opinie/opinie/2018/10/uva-leaks-hoe-de-identiteitspolitiek-er-wordt-opgedrongen-648984/)_.
 

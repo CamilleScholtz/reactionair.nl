@@ -31,7 +31,7 @@ Feitelijk beoogt de nihilistisch-globalistische machtselite met deze anti-Nietzs
 
 Voor de radicaal-negatieve ‘devolutie theorie’ van de globalistische vijandelijke elite en de door haar geëntameerde _Great Reset_ biedt Europees Nieuw Recht een totaal-alternatief: een radicaal-positief _Archeo-Futuristisch_ - of zo men wil: _Futuro-Fundamentalistisch_ - wereldbeeld en een op dat wereldbeeld gebaseerde Culturele Revolutie. Binnen Europees Nieuw Rechts en binnen de snel opkomende ‘Diep Recht(s)’ beweging wereldwijd is het Archeo-Futurisme, dat zowel op cultuur-historisch als op politiek-filosofisch vlak de historisch-materialistische illusies van zowel het liberaal-normativisme als het cultureel-marxisme heeft weggevaagd, in stormachtige ontwikkeling. Zoals alle organisch groeiende en historisch levensvatbare ideeën is het Archeo-Futurisme een project-in-wording, maar er is elders - mede door de schrijver van dit opstel - al genoeg over geschreven[^4] om het hier als referentiepunt op te voeren ten aanzien van het noodzakelijk alternatief voor de nihilistisch-globalistische _Great Reset_, namelijk een radicale anti-nihilistische en anti-globalistische Culturele Revolutie. De vereiste diepgang en omvang van die Culturele Revolutie zijn zodanig dat zij met recht kan worden omschreven als ‘Futuro-Fundamentalistisch’. De diepte en breedte van die Futuro-Fundamentalistische Revolutie zijn het best in te schatten door te kijken naar wat zij allemaal gaat wegvagen - en dat is niets meer en niets minder dan de gehele, dubbel neo-liberaal/cultuur-marxistische, maatschappelijke orde van het huidige Westen.
 
-Vóór alles zal echter het _wereldbeeld_ van de globalistische vijandelijke elite moeten worden geëlimineerd: haar _infrastructuur_, dat wil zeggen haar fysieke (economische, politieke) macht, valt en staat immers met haar _superstructuur_, dat wil zeggen haar psychologische (ideologische, filosofische) autoriteit. Het is dus tijd voor een kritische evaluatie van de ‘devolutietheorie’ van de vijandelijke elite: het eenvoudigst kan dat door die nieuwe ‘devolutietheorie’ simpelweg naast de lat te leggen van de oude evolutietheorie. En dan leveren oude evolutietheorie termen plotseling een aantal heel nieuwe inzichten: een paar van die termen leveren toepasselijke motto’s voor de zeven delen van deze essay-serie:
+Vóór alles zal echter het _wereldbeeld_ van de globalistische vijandelijke elite moeten worden geëlimineerd: haar _infrastructuur_, dat wil zeggen haar fysieke (economische, politieke) macht, valt en staat immers met haar _superstructuur_, dat wil zeggen haar psychologische (ideologische, filosofische) autoriteit. Het is dus tijd voor een kritische evaluatie van de ‘devolutietheorie’ van de vijandelijke elite: het eenvoudigst kan dat door die nieuwe ‘devolutietheorie’ simpelweg naast de lat te leggen van de oude evolutietheorie. En dan leveren oude evolutietheorie termen plotseling een aantal heel nieuwe inzichten: een paar van die termen leveren toepasselijke motto’s voor de zes delen van deze essay-serie:
 
 - **Tegen-natuurlijke selectie**:<br>
 	motto: _‘snelle verandering van wezens buiten de natuurstaat’_<br>
@@ -42,9 +42,6 @@ Vóór alles zal echter het _wereldbeeld_ van de globalistische vijandelijke eli
 - **Hibridisering**:<br>
 	motto: _‘inheems worden’_<br>
 	_(open grenzen: asielopvang=slavenimport, diversiteit=piraterij; immigratie=kolonisatie)_
-- **Slegs vir nie blankes**:<br>
-	motto: _‘kenmerken van tamme rassen’_<br>
-	_(sociale implosie: deug-denken>omgekeerde discriminatie>sui-genocide)_
 - **Verelendungstheorie**:<br>
 	motto: _‘wiskundige toename in getal’_<br>
 	_(accelerationisme: wiskundige zekerheid als postmoderne voorzienigheid)_
@@ -58,7 +55,7 @@ Vóór alles zal echter het _wereldbeeld_ van de globalistische vijandelijke eli
 
 ---
 
-_Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Deel 2 verschijnt volgende week._
+_Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/tegen-natuurlijke-selectie/) het volgende deel._
 
 
 [^1]: Verg. Alexander Wolfheze, _The Sunset of Tradition and the Origin of the Great War_ (Newcastle upon Tyne: Cambridge Scholars, 2018) 53ff. (Dit in Nederland gecensureerde boek is _online_ verkrijgbaar bij [de uitgever](https://www.cambridgescholars.com/the-sunset-of-tradition-and-the-origin-of-the-great-war) - een tekstvoorbeeld is daar vrij toegankelijk via de knop _View Extract_).

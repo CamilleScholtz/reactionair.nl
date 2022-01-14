@@ -1,9 +1,9 @@
 <head>
 	<title>{{ .Title }}</title>
 
-	<meta name="description" content="{{ .Title }}{{ if isset .Params "subtitle" }} - {{ .Params.SubTitle }}{{ end }}">
+	<meta name="description" content="{{ if isset .Params "description" }}{{ .Params.Description }}{{ else }}{{ .Params.SubTitle }}{{ end }}">
 	{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
-		<meta name="author" content="{{ delimit .Params.Auteurs ", "}}">
+		<meta name="author" content="{{ delimit .Params.Auteurs ", " }}">
 	{{ end }}
 
 	<meta property="og:title" content="{{ .Title }}">

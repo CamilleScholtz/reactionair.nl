@@ -57,8 +57,8 @@ Wij leven nu in een wereld die geregeerd wordt door een wereldbeeld dat allang z
 
 
 
-[^1]: https://twitter.com/peterkwint/status/1445432245645348864
-[^2]: https://twitter.com/MaxTheDragon/status/1445532224799969283
+[^1]: Peter Kwint, _[Twitter](https://twitter.com/peterkwint/status/1445432245645348864)_.
+[^2]: Max Waterman, _[Twitter](https://twitter.com/MaxTheDragon/status/1445532224799969283)_.
 [^3]: G. K. Chesterton, _Fancies Versus Fads_.
 [^4]: Karl Popper, _De open samenleving en haar vijanden_.
 [^5]: NieuwWij, _Islam, Europa en de liberale paradox_.
