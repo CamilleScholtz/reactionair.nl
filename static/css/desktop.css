@@ -121,6 +121,12 @@ aside {
 	display: none;
 }
 
+#author .author-container:nth-child(n+3) {
+	border-top: 1px solid var(--border-color);
+	margin-top: 40px;
+	padding-top: 40px;
+}
+
 .author-container p,
 .author-container a {
 	line-height: 29px;
@@ -168,6 +174,8 @@ aside {
 
 article .img-left {
 	float: left;
+	margin: 5px 30px 0 0;
+	text-align: center;
 	width: 45%;
 }
 

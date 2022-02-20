@@ -1,7 +1,7 @@
 {{ $apiUrl := (cond (ne (.apiUrl) nil) .apiUrl "https://welcomments.io/api") }}
 {{ $websiteId := .websiteId }}
 {{ $slug := index (last 1 (split (delimit (split .context.RelPermalink "/") "," "") ",")) 0 }}
-{{ $slug = cond (ne (eq $slug "")) $slug "___root___" }}
+{{ $slug = cond (ne $slug "") $slug "___root___" }}
 
 <div id="welcomments__container" class="welcomments__container">
 	{{ $allComments := dict }}

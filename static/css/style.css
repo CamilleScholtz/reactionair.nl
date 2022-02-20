@@ -443,26 +443,17 @@ article ul {
 	margin-bottom: 30px;
 }
 
-article li {
-	list-style: none;
-	margin-bottom: 10px;
-}
-
-article li::before {
-	content: "\2022";
+/* https://bugs.webkit.org/show_bug.cgi?id=204163 */
+article li::marker {
+	/*content: "\2022";*/
 	color: var(--accent-color);
-	display: inline-block;
+	/*display: inline-block;
 	margin-left: -1.4em;
-	width: 1.4em;
+	width: 1.4em;*/
 }
 
 article .img-center {
 	margin-bottom: 15px;
-}
-
-article .img-left {
-	margin: 5px 30px 0 0;
-	text-align: center;
 }
 
 article .img-center img,
@@ -490,12 +481,8 @@ article .twitter-tweet-rendered {
 	padding-bottom: calc(50px - 30px);
 }
 
-.footnotes li {
-	list-style: unset;
-}
-
-.footnotes li::before {
-	display: none;
+.footnotes li::marker {
+	color: var(--text-color);
 }
 
 .footnotes hr {

@@ -1,5 +1,5 @@
 +++
-title    = "Tussen twee oorlogen: Anton Kerssemakers"
+title    = "a"
 subtitle = "Onderzoek naar een onbekende auteur"
 auteurs  = ["Camille Meloen"]
 date     = "2021-10-02"
@@ -7,8 +7,10 @@ category = "Biografie"
 draft    = true
 +++
 
-In a recent 'debate' in the Second Chamber, Freek Jansen argued against mass-migration and the replacement of the native dutch population. This essay is not about the hard numbers (though they do support his position), but more about the classification of "dutch people". It was quite clear that when Jansen spoke about the dutch, he is not only reffering to a piece of paper, a bearocratic statement, but something more.
+Often when debating about a topic with left wing people, it quickly dissolves into a kind of relativism, or what I call 'the abstraction fallacy'. Topics can range form anything, from immigration to art and beauty.
 
-Let us start out with definitions. I would classify Jansen as a nationalist. Nation, etymologically, comes from the latin nation, meaning born. The dictionary definies naiton as "a large body of people united by common descent, history, culture, or language, inhabiting a particular country or territory". In both we see that nation is way more than a piece of paper. A nation stretches back in history, builds upon that fundament.
+Let us first start out with relativism and abstraction. It is quite easy to be 'sekptical' and dissolve everything and nothing into absuridy. Ultimatly we are all startdust, so nothing matter. Age is just an arbirtray amount of rotations around the sun. Borders are just arbirary lines drawn on the sand. Gender is a social construct. Good and bad are social construct. Nothing matters! Well, we can't really live like this, now can we?
 
-In the debate, and in many other debates I have seen, the argument quickly dissolves into a kind of relativism. "What is dutch culture?", "What is a dutch person?", "My mother is born is in germany, am I dutch?". Because nationality, and more specifically ethnicity, is a spectrum, it seems that it doesn't exist. But is this valid? Let us take the example of color. Color is a spectrum, and there are an indefite amount of colors. What we call red is actually just a construct, because when does a shade of "orange" become yellow, or when does it become red? There are no hard borders between colors, just as there are no hard borders between ethinicties, there are only gradations. Yet we knowwhat red is, we know what blue is, we know what a dutch person is, and we know what a somalian person is. We know that orange is closer to yellow than it is to blue, and we know that a german is closer to a dutch person than a somalian.
+Let us take the example of an argument about immigration. In no time the abstraction fallacies fly you arround the ears: "What even is is a dutch person?", "Well, what even is dutch culture?" "My mother is born is in germany, am I dutch?". Truth it, yes, nationality and ethnicity are a spectrum without clear borders, as is pretty much anything in life. Culture indeed is a 'social construct', whatever that might mean.
+
+ Yet color is also is also a spectrum: there are an indefite amount of colors  What we call red is actually just a construct, because when does a shade of "orange" become yellow, or when does it become red? There are no hard borders between colors, just as there are no hard borders between nationalities or people, there are only gradations. Yet we kno what red is, we know what blue is, just like we know what a dutch person is, and like we know what a japanese person is. We know that orange is closer to yellow than it is to blue, and we know that a german is closer to a dutch person than a japanese.

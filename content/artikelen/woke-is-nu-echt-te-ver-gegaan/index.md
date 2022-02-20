@@ -4,16 +4,16 @@ subtitle = "Of toch niet?"
 question = "Is woke deze keer écht te ver gegaan?"
 auteurs  = ["Camille Meloen"]
 date     = "2021-10-15"
-category = "Politiek"
+category = "Klikaas"
 draft    = false
 +++
 
 
-_GeenStijl_, _TPO_, Geerten Waling, Afshin Ellian, Wierd Duk. Ik kan nog wel even doorgaan, _boomers_ die artikel na artikel schrijven over hoe _woke_ nu _ECHT_ te ver is gegaan. Maar is dat ook echt zo? Laten we het uitzoeken!
+_GeenStijl_, _TPO_, Geerten Waling, Afshin Ellian, Wierd Duk, Roderick Veelo. Ik kan nog wel even doorgaan, _boomers_ die artikel na artikel schrijven over hoe _woke_ nu _ECHT_ te ver is gegaan. Maar is dat ook echt zo? Wat is de oorsprong van _woke_? Laten we dit uitzoeken!
 
 ### Wat is woke?
 
-_Woke_, of zoals we in eerdere artikelen hebben besproken, de meer passende term _progressief liberalisme_, is eenvoudigweg de herinterpretatie van de waarden van het liberalisme, waarden als gelijkheid en _vrijheid_. Verder bouwt _woke_ voort op ideologieën die hun wortels hebben in het liberalisme, zoals de kritische theorie, een benadering van sociale filosofie met als doel _“mensen te bevrijden uit de omstandigheden die hen tot slaaf maken”_.[^1]
+_Woke_, of zoals we in eerdere artikelen hebben besproken, de meer passende term _progressief liberalisme_, is eenvoudigweg de herinterpretatie van de waarden van het liberalisme, waarden als gelijkheid en _vrijheid_. Verder maakt _woke_ gebruik van methoden die hun wortels hebben in het liberalisme, zoals de kritische theorie, een benadering van sociale filosofie met als doel _“mensen te bevrijden uit de omstandigheden die hen tot slaaf maken”_.[^1]
 
 {{< figure
 	src="thumb.webp"
@@ -22,7 +22,7 @@ _Woke_, of zoals we in eerdere artikelen hebben besproken, de meer passende term
 	caption="10 keer dat woke ECHT TE ver ging! Nummer 7 zal je niet geloven!"
 >}}
 
-Ik val in herhaling,[^2] maar de _“gendergekte”_ is gewoonweg het concept van vrijheid toegepast op het concept van gender, zoals al eerder is gedaan maar dan op seksualiteit en seksuele rolverdeling, iets wat degenen die miezeren over _woke_ accepteren, en vaak zelfs fel verdedigen. Gebonden zijn aan je geslacht, of _gender_, beperkt je individuele vrijheid, je moet immers lekker jezelf kunnen zijn. Dus naast de keuze of je met een man of vrouw wilt trouwen, ben je nu ook vrij om te kiezen of je je als man of vrouw identificeert. Maar wacht, dit is nog steeds vrij beperkend, per slot van rekening is _gender_ beperkt tot een simpele binaire; man of vrouw. Dit kan bevrijd worden door over te stappen naar een _genderspectrum_, dat minder gebonden is dan een tweedeling, en zo dus _vrijer_.
+Ik val in herhaling,[^2] maar de _“gendergekte”_ is gewoonweg het concept van vrijheid toegepast op het concept van gender, zoals al eerder is gedaan maar dan op seksualiteit en seksuele rolverdeling, iets wat degenen die miezeren over _woke_ accepteren, en zelfs fel verdedigen. Gebonden zijn aan je geslacht, of _gender_, beperkt je individuele vrijheid, je moet immers lekker jezelf kunnen zijn. Dus naast de keuze of je met een man of vrouw wilt trouwen, ben je nu ook vrij om te kiezen of je je als man of vrouw identificeert. Maar wacht, dit is nog steeds vrij beperkend, per slot van rekening is _gender_ beperkt tot een simpele binaire; man of vrouw. Dit kan bevrijd worden door over te stappen naar een _genderspectrum_, dat minder gebonden is dan een tweedeling, en zo dus _vrijer_.
 
 Of laten we de _cancel-cultuur_ nemen, ook dit is gewoon de manifestatie van iets inherent aan het liberalisme, namelijk de _“paradox van tolerantie”_ die aan de basis ligt van het liberalisme, iets wat we elders ook al uitvoeriger hebben beschreven.[^3] In het kort: _“als we intolerant moeten zijn tegen dat wat intolerant is vanuit liberaal perspectief, kan het liberalisme dan überhaupt iets anders dan enkel zichzelf tolereren?”_.
 
@@ -31,12 +31,12 @@ Of de nadruk op _diversiteit_. Opnieuw, een voortbouwing op het liberale princip
 
 ### De hypocrisie
 
-Zoals wij reeds hebben laten doorschemeren, wordt de klassiek liberaal, zoals zo vaak het geval is, meegesleurd achter de progressieve liberaal, of zoals men in de volksmond zegt, door _woke_. De klassiek liberaal aanvaardt precies dezelfde uitgangspunten, precies dezelfde principes, maar is alleen minder consequent in de toepassing van die principes. Seksualiteit kan worden bevrijd van de beperkende grenzen van normativiteit, maar geslacht niet? Religie moet en mag geen invloed hebben, het is immers onwaar gebleken door het liberaal relativisme, constructivisme, kritische theorie en rationalisme, maar diezelfde tactieken kunnen volgens de klassiek liberaal niet worden toegepast op het liberalisme zelf? Dan gaat _woke_ toch _echt_ te ver en krijgen we een dozijn artikelen van liberale _boomers_ voorgeschoteld waarin wordt geklaagd hoe het rationalisme in de academische wereld onder vuur ligt.[^4][^5]
+Zoals wij reeds hebben laten doorschemeren, wordt de klassiek liberaal, zoals zo vaak het geval is, meegesleurd achter de progressieve liberaal, of zoals men in de volksmond zegt, door _woke_. De klassiek liberaal aanvaardt precies dezelfde uitgangspunten, precies dezelfde principes, maar is alleen minder consequent in de toepassing van die principes. Seksualiteit kan worden bevrijd van de beperkende grenzen van normativiteit, maar geslacht niet? Religie moet en mag geen invloed hebben, het is immers onwaar gebleken door het liberaal relativisme, constructivisme, kritische theorie en rationalisme, maar diezelfde destructieve methoden kunnen volgens de klassiek liberaal niet worden toegepast op het liberalisme zelf? Dan gaat _woke_ toch _echt_ te ver en krijgen we een dozijn artikelen van liberale _boomers_ voorgeschoteld waarin wordt geklaagd hoe het rationalisme in de academische wereld onder vuur ligt.[^4][^5]
 
 
 ### Conclusie
 
-Via het liberalisme, het secularisme, het humanisme, al deze ideologieën en wereldbeelden die uit dezelfde hoek zijn voortgekomen, hebben we allerlei methodieken verkregen om oude, onderdrukkende (meestal religieuze) structuren neer te halen. We kregen ideeën als sociaal constructionisme, deconstructionisme, een verwerping van vrijwel alle epistemologische methoden naast het rationalisme. Een afwijzing van de natuurwet, finale causaliteit, teleologie. We kregen het negatieve principe van vrijheid dat alles op zijn pad neerhaalt. Deze deconstructieve wapens worden nu toegepast op het liberalisme zelf; waardoor _woke_, post-modernisme, en dergelijke ontstaan. _Woke_ is niet pas recentlijk _écht_ te ver gegaan, het is slechts dat het nu eindelijk eens gericht wordt op het liberalisme zelf.
+Het liberalisme heeft allerlei methodieken uitgevonden om oude, onderdrukkende (meestal religieuze) structuren neer te halen. We kregen ideeën als sociaal constructionisme, deconstructionisme, een verwerping van vrijwel alle epistemologische methoden naast het rationalisme. Een afwijzing van natuurwet, finale causaliteit, teleologie. We kregen het negatieve principe van vrijheid dat alles op zijn pad neerhaalt. Deze deconstructieve wapens worden nu toegepast op het liberalisme zelf door _woke_ en het post-modernisme. _Woke_ is niet pas recentlijk _écht_ te ver gegaan, het is slechts dat het nu eindelijk eens gericht wordt op het liberalisme zelf.
 
 
 [^1]: Max Horkheimer, _Critical Theory: Selected Essays_.

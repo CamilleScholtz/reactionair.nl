@@ -23,11 +23,16 @@
 					</a>
 				</span>
 
-				{{ range $authors }}
-					{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
-						<a href="{{ .RelPermalink }}" class="author">{{ .Params.Title }}</a>
+				<span class="author">
+					{{ range $index, $_ := $authors }}
+						{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
+							<a href="{{ .RelPermalink }}">{{ .Params.Title }}</a>
+							{{ if and (eq (len $authors) 2) (eq $index 0) }}
+								&nbsp;&&nbsp;
+							{{ end }}
+						{{ end }}
 					{{ end }}
-				{{ end }}
+				</span>
 			</div>
 		{{ end }}
 

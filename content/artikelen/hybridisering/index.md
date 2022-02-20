@@ -44,4 +44,4 @@ De ‘asielpolitiek’ die gevoerd wordt door de globalistische elite selecteert
 
 ---
 
-_Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Deel 5 verschijnt volgende week._
+_Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/verelendungstheorie/) het volgende deel._

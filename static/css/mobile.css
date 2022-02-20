@@ -86,10 +86,14 @@ header .utility .pipe {
 	float: right;
 	font-size: 15px;
 	font-style: italic;
-	max-width: 30%;
+	max-width: 33%;
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;
+}
+
+#author .utility .author a {
+	font-size: 15px;
 }
 
 #author .author-container {
@@ -100,8 +104,8 @@ header .utility .pipe {
 /* Article */
 
 article .img-left {
-	float: left;
-	width: 50%;
+	margin-bottom: 15px;
+	width: 100%;
 }
 
 
