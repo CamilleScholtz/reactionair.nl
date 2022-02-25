@@ -1,10 +1,9 @@
 +++
-title    = "Boodschap aan de Germaan"
-subtitle = "Van een Marokkaan"
-auteurs  = ["Mootje"]
-date     = "2021-12-26"
-category = "Politiek"
-draft    = false
+title     = "Boodschap aan de Germaan"
+subtitle  = "Van een Marokkaan"
+auteurs   = ["Mootje"]
+date      = "2021-12-26"
+rubrieken = ["Politiek"]
 +++
 
 

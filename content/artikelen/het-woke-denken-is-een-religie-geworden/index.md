@@ -1,10 +1,9 @@
 +++
-title    = "“Het woke denken is een religie geworden!”"
-subtitle = "En waarom deze vergelijking niet klopt"
-auteurs  = ["Camille Meloen"]
-date     = "2021-10-08"
-category = "Politiek"
-draft    = false
+title     = "“Het woke denken is een religie geworden!”"
+subtitle  = "En waarom deze vergelijking niet klopt"
+auteurs   = ["Camille Meloen"]
+date      = "2021-10-08"
+rubrieken = ["Politiek"]
 +++
 
 

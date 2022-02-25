@@ -1,10 +1,9 @@
 +++
-title    = "Reactie en restauratie"
-subtitle = "Een rechts woordenboek"
-auteurs  = ["Sanura"]
-date     = "2022-01-09"
-category = "Politiek"
-draft    = false
+title     = "Reactie en restauratie"
+subtitle  = "Een rechts woordenboek"
+auteurs   = ["Sanura"]
+date      = "2022-01-09"
+rubrieken = ["Politiek"]
 +++
 
 

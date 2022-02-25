@@ -1,11 +1,11 @@
 +++
-title    = "Licht der waarheid"
-subtitle = "Een reactie op ‘Overdenkingen over de parabel van de blinden en de olifant’"
-auteurs  = ["Sanura"]
-date     = "2022-02-11"
-category = "Filosofie"
-draft    = false
+title     = "Licht der waarheid"
+subtitle  = "Een reactie op ‘Overdenkingen over de parabel van de blinden en de olifant’"
+auteurs   = ["Sanura"]
+date      = "2022-02-11"
+rubrieken = ["Filosofie"]
 +++
+
 
 Op deze site is de auteur De Melancholieke Nar recent geleden begonnen aan een serie artikelen,[^1] waarin hij het streven naar objectiviteit tot een zinloze onderneming bestempelt. 
 

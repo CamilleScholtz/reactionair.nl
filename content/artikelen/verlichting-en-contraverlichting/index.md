@@ -1,10 +1,9 @@
 +++
-title    = "Verlichting en contraverlichting"
-subtitle = "Dictatoriale rechtsstaat"
-auteurs  = ["Sanura"]
-date     = "2021-10-12"
-category = "Politiek"
-draft    = false
+title     = "Verlichting en contraverlichting"
+subtitle  = "Dictatoriale rechtsstaat"
+auteurs   = ["Sanura"]
+date      = "2021-10-12"
+rubrieken = ["Politiek"]
 +++
 
 

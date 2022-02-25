@@ -1,11 +1,11 @@
 +++
-title    = "Hoe God verstoppertje speelt met zichzelf"
-subtitle = "Waarom het streven naar objectiviteit een doodlopend pad is, deel 3"
-auteurs  = ["De Melancholieke Nar"]
-date     = "2022-02-09"
-category = "Filosofie"
-draft    = false
+title     = "Hoe God verstoppertje speelt met zichzelf"
+subtitle  = "Waarom het streven naar objectiviteit een doodlopend pad is, deel 3"
+auteurs   = ["De Melancholieke Nar"]
+date      = "2022-02-09"
+rubrieken = ["Filosofie"]
 +++
+
 
 _Dit essay maakt deel uit van de essay-serie 'Waarom het streven naar objectiviteit een doodlopend pad is'. Zie [hier](https://reactionair.nl/artikelen/een-lesje-grammatica-een-lesje-metafysica/) het vorige deel._
 

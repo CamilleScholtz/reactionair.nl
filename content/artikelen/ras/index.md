@@ -1,11 +1,12 @@
 +++
-title    = "a"
-subtitle = "Onderzoek naar een onbekende auteur"
-auteurs  = ["Camille Meloen"]
-date     = "2021-10-02"
-category = "Biografie"
-draft    = true
+title     = "a"
+subtitle  = "Onderzoek naar een onbekende auteur"
+auteurs   = ["Camille Meloen"]
+date      = "2021-10-02"
+rubrieken = ["Biografie"]
+draft     = true
 +++
+
 
 Often when debating about a topic with left wing people, it quickly dissolves into a kind of relativism, or what I call 'the abstraction fallacy'. Topics can range form anything, from immigration to art and beauty.
 

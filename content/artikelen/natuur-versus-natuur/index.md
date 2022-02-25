@@ -1,10 +1,9 @@
 +++
-title    = "Natuur versus natuur"
-subtitle = "Een modern misverstand"
-auteurs  = ["Camille Meloen"]
-date     = "2021-10-14"
-category = "Filosofie"
-draft    = false
+title     = "Natuur versus natuur"
+subtitle  = "Een modern misverstand"
+auteurs   = ["Camille Meloen"]
+date      = "2021-10-14"
+rubrieken = ["Filosofie"]
 +++
 
 

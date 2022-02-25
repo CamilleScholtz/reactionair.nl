@@ -4,5 +4,5 @@
 	<h3>{{ .Context.Params.SubTitle}}</h3>
 	<p class="author">{{ delimit .Context.Params.Auteurs ", " " & " }}</p>
 
-	<p class="category">{{ upper .Context.Params.Category }}</p>
+	<p class="category">{{ upper (delimit .Context.Params.Rubrieken ", " " & ") }}</p>
 </a>

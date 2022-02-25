@@ -1,10 +1,9 @@
 +++
-title    = "De mechanisering van de wereld"
-subtitle = "Wordt onze samenleving gegijzeld door een gemechaniseerd wereldbeeld?"
-auteurs  = ["Jurbin van Hooff"]
-date     = "2021-11-25"
-category = "Filosofie"
-draft    = false
+title     = "De mechanisering van de wereld"
+subtitle  = "Wordt onze samenleving gegijzeld door een gemechaniseerd wereldbeeld?"
+auteurs   = ["Jurbin van Hooff"]
+date      = "2021-11-25"
+rubrieken = ["Filosofie"]
 +++
 
 

@@ -1,10 +1,9 @@
 +++
-title    = "Verelendungstheorie"
-subtitle = "De Futuro-Fundamentalistische Revolutie, deel 5"
-auteurs  = ["Alexander Wolfheze"]
-date     = "2022-01-17"
-category = "Politiek"
-draft    = false
+title     = "Verelendungstheorie"
+subtitle  = "De Futuro-Fundamentalistische Revolutie, deel 5"
+auteurs   = ["Alexander Wolfheze"]
+date      = "2022-01-17"
+rubrieken = ["Politiek"]
 +++
 
 

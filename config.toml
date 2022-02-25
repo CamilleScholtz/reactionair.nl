@@ -10,8 +10,9 @@ paginate     = 10
 paginatePath = "pagina"
 
 [taxonomies]
-	auteur = "auteurs"
-
+	auteur  = "auteurs"
+	rubriek = "rubrieken"
+  
 [markup]
 	[markup.goldmark]
 		[markup.goldmark.renderer]

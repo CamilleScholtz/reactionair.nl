@@ -1,11 +1,11 @@
 +++
-title    = "God en vrijheid"
-subtitle = "Over de omgekeerde analogie"
-auteurs  = ["Camille Meloen"]
-date     = "2021-11-21"
-category = "Filosofie"
-draft    = false
+title     = "God en vrijheid"
+subtitle  = "Over de omgekeerde analogie"
+auteurs   = ["Camille Meloen"]
+date      = "2021-11-21"
+rubrieken = ["Filosofie"]
 +++
+
 
 Het liberalisme heeft als beginsel vrijheid, _liberté_. In vergelijking met andere wereldbeelden is dit beginsel uniek in die zin dat het negatief is, waarmee ik bedoel dat vrijheid alleen bestaat doormiddel van _negatie_. Je kunt alleen uit een kooi worden bevrijd door het omhulsel af te breken; dit kan worden vertaald naar een aantal andere domeinen: in de sociale sfeer kun je bevrijd worden van de grenzen die normativiteit stelt, zoals traditionele seksuele rollen, door ze neer te halen. In het categorische domein kun je bijvoorbeeld de _"gender binary"_ open breken door er een spectrum van te maken: in plaats van _beperkt_ te zijn tot slechts twee keuzes, is er nu een theoretisch onbepaald aantal _genders_ om uit te kiezen, vrijheid! In het geval van moraal of kunst, schaf _"goed"_ en _"slecht"_, _"mooi"_ en _"lelijk"_ af, haal het neer, wees bevrijd.
 
@@ -23,7 +23,7 @@ Dit deed me aan twee dingen denken. Ten eerste, gezien het feit dat de weide nog
 
 ### Omgekeerde analogie
 
-René Guénon spreekt van de _omgekeerde analogie_: voor alles wat _"boven"_ is, zal er _"beneden"_ een verwrongen en misvormd schaduwbeeld zijn. In Guénon eigen woorden:
+René Guénon spreekt van de _omgekeerde analogie_: voor alles wat _"boven"_ is, zal er _"beneden"_ een verwrongen en misvormd schaduwbeeld zijn. In Guénon's eigen woorden:
 
 >By virtue of the law of analogy, the lowest point is as it were the obscure reflection or the inverted image of the highest point, from which follow the consequence, paradoxical only in appearance, that the most complete absence of all principle implies a sort of ‘counterfeit’ of the principle itself.[^2]
 
@@ -31,7 +31,7 @@ Zijn boek _'Le Règne de la Quantité et les Signes des Temps'_ is hier een perf
 
 >These similarities often arise from inverted correspondences; for whereas traditional science envisages essentially the higher of the corresponding terms and allows no more than a relative value to the lower term, and then only by virtue of its correspondence with the higher term, profane science on the other hand only takes account of the lower term, and being incapable of passing beyond the domain to which it is related, claims to reduce all reality to it.[^2]
 
-Guénon noemt verschillende voorbeelden van dit concept, zoals dat het idee van de Eenheid omgekeerd evenredig is aan de "eenheden" die de zuivere kwantiteit vormen. Een ander voorbeeld, dat Guénon echter niet direct noemt, is te vinden in Dante, waar satan ondersteboven hangt in de kern van de aarde, en drie gezichten heeft, dit zou een een omgekeerde analogie zijn van de heilige drie-eenheid. In dit essay zal ik betogen dat het liberale 'principe' van vrijheid ook een _counterfeit_ is.
+Guénon noemt verschillende voorbeelden van dit concept, zoals dat het idee van de Eenheid omgekeerd evenredig is aan de "eenheden" die de zuivere kwantiteit vormen. Een ander voorbeeld, dat Guénon echter niet direct noemt, is te vinden in Dante, waar satan ondersteboven hangt in de kern van de aarde, en drie gezichten heeft, dit zou een een omgekeerde analogie zijn van de Heilige Drie-eenheid. In dit essay zal ik betogen dat het liberale 'principe' van vrijheid ook een _counterfeit_ is.
 
 Eén aspect van wat Guénon _'zuivere kwantiteit'_ noemt (in tegenstelling tot _'zuivere kwaliteit'_), is dat je er niets over kunt weten, omdat er niets over te weten valt. Volgens de Scholastici ligt onder het geheel van alle manifestatie zuivere potentie (terwijl God, die 'boven' manifestatie staat, zuivere daad is), ook bekend als zuivere substantie (_substantia_, van _sub stare_, letterlijk _'dat wat onder staat'_). Zuivere substantie is absoluut _'ononderscheiden'_ en zodoende dus _'onbegrijpelijk'_, opnieuw, niet omdat wij het niet kunnen begrijpen, maar omdat er in feite niets in te weten valt doordat zuivere substantie niet ingeblazen is met kwaliteit, vorm, essentie. Volgens Guénon:
 

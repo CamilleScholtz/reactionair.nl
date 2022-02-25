@@ -1,10 +1,9 @@
 +++
-title    = "Welkom in de Karin joega"
-subtitle = "Veiligheid voor alles"
-auteurs  = ["De Melancholieke Nar"]
+title     = "Welkom in de Karin joega"
+subtitle  = "Veiligheid voor alles"
+auteurs   = ["De Melancholieke Nar"]
 date     = "2021-12-12"
-category = "Cultuur"
-draft    = false
+rubrieken = ["Cultuur"]
 +++
 
 

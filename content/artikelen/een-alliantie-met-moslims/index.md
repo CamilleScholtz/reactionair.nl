@@ -1,11 +1,10 @@
 +++
-title    = "Een alliantie met moslims!?"
-subtitle = "Over reactionairen en moslims"
-question = "Denkt u dat een dergelijke alliantie mogelijk is?"
-auteurs  = ["Vrederijk"]
-date     = "2021-10-13"
-category = "Politiek"
-draft    = false
+title     = "Een alliantie met moslims!?"
+subtitle  = "Over reactionairen en moslims"
+question  = "Denkt u dat een dergelijke alliantie mogelijk is?"
+auteurs   = ["Vrederijk"]
+date      = "2021-10-13"
+rubrieken = ["Politiek"]
 +++
 
 

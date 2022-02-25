@@ -1,10 +1,9 @@
 +++
-title    = "Heilige stilte"
-subtitle = "Tussen waarheid, ongeluk en burgermentaliteit"
-auteurs  = ["Walt van Toor"]
-date     = "2021-11-28"
-category = "Politiek"
-draft    = false
+title     = "Heilige stilte"
+subtitle  = "Tussen waarheid, ongeluk en burgermentaliteit"
+auteurs   = ["Walt van Toor"]
+date      = "2021-11-28"
+rubrieken = ["Politiek"]
 +++
 
 

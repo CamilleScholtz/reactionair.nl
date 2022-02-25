@@ -1,11 +1,10 @@
 
 +++
-title    = "Scruton en esthetisch oordelen"
-subtitle = "Wat is schoonheid?"
-auteurs  = ["Cedrik Vandooren"]
-date     = "2022-01-11"
-category = "Cultuur"
-draft    = false
+title     = "Scruton en esthetisch oordelen"
+subtitle  = "Wat is schoonheid?"
+auteurs   = ["Cedrik Vandooren"]
+date      = "2022-01-11"
+rubrieken = ["Cultuur"]
 +++
 
 

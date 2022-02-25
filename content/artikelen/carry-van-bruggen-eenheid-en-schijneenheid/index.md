@@ -1,10 +1,9 @@
 +++
-title    = "Carry van Bruggen: Eenheid en schijneenheid"
-subtitle = "Een vergeten Nederlandse filosofe over dogmatisch kuddegedrag, versus zoeken naar Waarheid"
-auteurs  = ["Marit Elechan"]
-date     = "2022-02-17"
-category = "Biografie"
-draft    = false
+title     = "Carry van Bruggen: Eenheid en schijneenheid"
+subtitle  = "Een vergeten Nederlandse filosofe over dogmatisch kuddegedrag, versus zoeken naar Waarheid"
+auteurs   = ["Marit Elechan"]
+date      = "2022-02-17"
+rubrieken = ["Biografie"]
 +++
 
 

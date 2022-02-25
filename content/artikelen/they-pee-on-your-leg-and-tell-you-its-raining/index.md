@@ -1,11 +1,11 @@
 +++
-title    = "They pee on your leg and tell you it’s raining"
-subtitle = "Misbruikers moeten kinderen weerbaar maken tegen misbruik"
-auteurs  = ["Sanura"]
-date     = "2021-10-05"
-category = "Cultuur"
-draft    = false
+title     = "They pee on your leg and tell you it’s raining"
+subtitle  = "Misbruikers moeten kinderen weerbaar maken tegen misbruik"
+auteurs   = ["Sanura"]
+date      = "2021-10-05"
+rubrieken = ["Cultuur"]
 +++
+
 
 {{< figure
 	src="thumb.webp"

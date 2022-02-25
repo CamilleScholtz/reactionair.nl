@@ -1,11 +1,11 @@
 +++
-title    = "Een lesje grammatica, een lesje metafysica"
-subtitle = "Waarom het streven naar objectiviteit een doodlopend pad is, deel 2"
-auteurs  = ["De Melancholieke Nar"]
-date     = "2022-02-01"
-category = "Filosofie"
-draft    = false
+title     = "Een lesje grammatica, een lesje metafysica"
+subtitle  = "Waarom het streven naar objectiviteit een doodlopend pad is, deel 2"
+auteurs   = ["De Melancholieke Nar"]
+date      = "2022-02-01"
+rubrieken = ["Filosofie"]
 +++
+
 
 _Dit essay maakt deel uit van de essay-serie 'Waarom het streven naar objectiviteit een doodlopend pad is'. Zie [hier](https://reactionair.nl/artikelen/overdenkingen-over-de-parabel-van-de-blinden-en-de-olifant/) het vorige deel._
 

@@ -1,10 +1,9 @@
 +++
-title    = "Devolutie theorie"
-subtitle = "De Futuro-Fundamentalistische Revolutie, deel 1"
-auteurs  = ["Alexander Wolfheze"]
-date     = "2021-12-23"
-category = "Politiek"
-draft    = false
+title     = "Devolutie theorie"
+subtitle  = "De Futuro-Fundamentalistische Revolutie, deel 1"
+auteurs   = ["Alexander Wolfheze"]
+date      = "2021-12-23"
+rubrieken = ["Politiek"]
 +++
 
 

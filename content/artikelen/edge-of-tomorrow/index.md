@@ -1,10 +1,9 @@
 +++
-title    = "‘Edge of Tomorrow’"
-subtitle = "De Futuro-Fundamentalistische Revolutie, deel 7"
-auteurs  = ["Alexander Wolfheze"]
-date     = "2022-02-07"
-category = "Politiek"
-draft    = false
+title     = "‘Edge of Tomorrow’"
+subtitle  = "De Futuro-Fundamentalistische Revolutie, deel 7"
+auteurs   = ["Alexander Wolfheze"]
+date      = "2022-02-07"
+rubrieken = ["Politiek"]
 +++
 
 

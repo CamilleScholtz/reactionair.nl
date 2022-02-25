@@ -1,10 +1,9 @@
 +++
-title    = "Domesticering"
-subtitle = "De Futuro-Fundamentalistische Revolutie, deel 3"
-auteurs  = ["Alexander Wolfheze"]
-date     = "2022-01-02"
-category = "Politiek"
-draft    = false
+title     = "Domesticering"
+subtitle  = "De Futuro-Fundamentalistische Revolutie, deel 3"
+auteurs   = ["Alexander Wolfheze"]
+date      = "2022-01-02"
+rubrieken = ["Politiek"]
 +++
 
 

@@ -8,7 +8,7 @@
 	<div class="utility">
 		<div class="left">
 			{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
-				<span>{{ upper .Params.Category }}</span>
+				<span>{{ upper (delimit .Params.Rubrieken ", " " & ") }}</span>
 				<span class="pipe">|</span>
 				<time>{{ index $.Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Day }}, {{ .Date.Year }}</time>
 			{{ else }}
