@@ -1,0 +1,56 @@
+{{ define "main" }}
+	{{ $themes   := slice "Politiek & Maatschappij" "Religie & Metafysica" "Cultuur & Geschiedenis" "Recensie & Biografie" }}
+	{{ $articles := where (where site.RegularPages "Type" "eq" "artikelen") "Params.themas" "intersect" $themes }}
+
+	<main id="home">
+		{{ partial "intro.html" . }}
+	
+		<div id="featured">
+			{{ $featured := index $articles 0 }}
+			{{ $articles  = after 1 $articles }}
+
+			<a href="{{ $featured.RelPermalink }}" class="article">
+				<img src="{{ path.Join $featured.RelPermalink "thumb.webp" }}" alt="{{ $featured.Params.Title }}">
+
+				<div class="text">
+					<h2>{{ $featured.Params.Title }}</h2>
+					<h3>{{ $featured.Params.SubTitle }}</h3>
+					<p class="author">{{ delimit $featured.Params.Auteurs ", " " & " }}</p>
+				</div>
+			</a>
+		</div>
+
+		<div id="themes">
+			{{ range $i, $theme := $themes }}
+				<div class="theme {{ if mod $i 2 }} left {{ else }} right {{ end }}">
+					{{ $pages    := where $articles "Params.themas" "intersect" (slice $theme) }}
+					{{ $featured := index $pages 0 }}
+				
+					{{ with $.Site.GetPage (printf "/themas/%s" (urlize $theme)) }}
+						<div class="description">
+							<h2>{{ .Params.title }}</h2>
+						</div>
+					{{ end }}
+
+					<div class="pages">
+						{{ range after 1 (first 5 $pages) }}
+							<a href="{{ .RelPermalink }}"><span class="arrow">→</span> {{ .Params.title }}</a>
+						{{ end }}
+
+						<a href="/themas/{{ urlize $theme }}/" class="more">Zie meer...</a>
+					</div>
+
+					<a href="{{ $featured.RelPermalink }}" class="article">
+						<img src="{{ path.Join $featured.RelPermalink "thumb.webp" }}" alt="{{ $featured.Params.title }}">
+
+						<div class="text">
+							<h2>{{ $featured.Params.title }}</h2>
+							<h3>{{ $featured.Params.subtitle }}</h3>
+							<p class="author">{{ delimit $featured.Params.Auteurs ", " " & " }}</p>
+						</div>
+					</a>
+				</div>
+			{{ end }}
+		</div>
+	</main>
+{{ end }}

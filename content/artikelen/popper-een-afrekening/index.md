@@ -1,9 +1,9 @@
 +++
-title     = "Popper: een afrekening"
-subtitle  = "Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?"
-auteurs   = ["De Melancholieke Nar"]
-date      = "2022-01-08"
-rubrieken = ["Politiek"]
+title    = "Popper: een afrekening"
+subtitle = "Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?"
+auteurs  = ["De Melancholieke Nar"]
+date     = "2022-01-08"
+themas   = ["Politiek & Maatschappij"]
 +++
 
 

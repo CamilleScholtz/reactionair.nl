@@ -1,9 +1,9 @@
 +++
-title     = "Tijd opgeslokt door ruimte"
-subtitle  = "De eschatologie van René Guénon"
-auteurs   = ["Camille Meloen"]
-date      = "2021-11-05"
-rubrieken = ["Filosofie"]
+title    = "Tijd opgeslokt door ruimte"
+subtitle = "De eschatologie van René Guénon"
+auteurs  = ["Camille Meloen"]
+date     = "2021-11-05"
+themas   = ["Religie & Metafysica"]
 +++
 
 

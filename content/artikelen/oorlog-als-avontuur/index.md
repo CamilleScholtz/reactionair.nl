@@ -1,9 +1,9 @@
 +++
-title     = "Oorlog als avontuur"
-subtitle  = "Een recensie van In Stahlgewittern"
-auteurs   = ["De Melancholieke Nar"]
-date      = "2022-01-19"
-rubrieken = ["Recensie"]
+title    = "Oorlog als avontuur"
+subtitle = "Een recensie van In Stahlgewittern"
+auteurs  = ["De Melancholieke Nar"]
+date     = "2022-01-19"
+themas   = ["Recensie & Biografie"]
 +++
 
 

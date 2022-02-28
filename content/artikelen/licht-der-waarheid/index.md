@@ -1,9 +1,9 @@
 +++
-title     = "Licht der waarheid"
-subtitle  = "Een reactie op ‘Overdenkingen over de parabel van de blinden en de olifant’"
-auteurs   = ["Sanura"]
-date      = "2022-02-11"
-rubrieken = ["Filosofie"]
+title    = "Licht der waarheid"
+subtitle = "Een reactie op ‘Overdenkingen over de parabel van de blinden en de olifant’"
+auteurs  = ["Sanura"]
+date     = "2022-02-11"
+themas   = ["Religie & Metafysica"]
 +++
 
 

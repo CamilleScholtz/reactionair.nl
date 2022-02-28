@@ -1,12 +1,12 @@
 +++
-title     = "Mijmeringen over de Metaverse"
-subtitle  = ""
-auteurs   = ["Camille Meloen"]
-date      = "2022-01-20"
-rubrieken = ["Politiek"]
-draft     = true
+title    = "Mijmeringen over de Metaverse"
+subtitle = ""
+auteurs  = ["Camille Meloen"]
+date     = "2022-01-20"
+themas   = ["Politiek"]
+draft    = true
 [_build]
-    list   = "never"
+    list = "never"
 +++
 
 

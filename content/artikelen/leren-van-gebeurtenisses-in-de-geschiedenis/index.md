@@ -1,9 +1,9 @@
 +++
-title     = "Leren van gebeurtenissen uit de geschiedenis"
-subtitle  = "Een blik op nieuw-links en de Iraanse revolutie"
-auteurs   = ["Eco al-Hollandi"]
-date      = "2021-11-06"
-rubrieken = ["Politiek"]
+title    = "Leren van gebeurtenissen uit de geschiedenis"
+subtitle = "Een blik op nieuw-links en de Iraanse revolutie"
+auteurs  = ["Eco al-Hollandi"]
+date     = "2021-11-06"
+themas   = ["Cultuur & Geschiedenis"]
 +++
 
 

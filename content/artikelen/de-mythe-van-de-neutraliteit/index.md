@@ -1,9 +1,9 @@
 +++
-title     = "De mythe van de neutraliteit"
-subtitle  = "En de blindheid van de liberalen"
-auteurs   = ["Camille Meloen"]
-date      = "2021-10-06"
-rubrieken = ["Politiek"]
+title    = "De mythe van de neutraliteit"
+subtitle = "En de blindheid van de liberalen"
+auteurs  = ["Camille Meloen"]
+date     = "2021-10-06"
+themas   = ["Politiek & Maatschappij"]
 +++
 
 

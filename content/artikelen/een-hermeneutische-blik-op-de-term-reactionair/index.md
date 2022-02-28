@@ -1,9 +1,9 @@
 +++
-title     = "Een hermeneutische blik op de term reactionair"
-subtitle  = "Het belang van betekenis van termen en wat het ons kan leren over een reactionaire toekomst"
-auteurs   = ["Paars van Grinsterer"]
-date      = "2021-11-11"
-rubrieken = ["Politiek"]
+title    = "Een hermeneutische blik op de term reactionair"
+subtitle = "Het belang van betekenis van termen en wat het ons kan leren over een reactionaire toekomst"
+auteurs  = ["Paars van Grinsterer"]
+date     = "2021-11-11"
+themas   = ["Politiek & Maatschappij"]
 +++
 
 

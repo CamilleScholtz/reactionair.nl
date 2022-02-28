@@ -1,10 +1,10 @@
 +++
-title     = "Dennis Honing over een alliantie met moslims"
-subtitle  = "Over reactionairen en moslims, deel 2"
-question  = "Denkt u dat een dergelijke alliantie mogelijk is?"
-auteurs   = ["Dennis Honing"]
-date      = "2021-11-01"
-rubrieken = ["Politiek"]
+title    = "Dennis Honing over een alliantie met moslims"
+subtitle = "Over reactionairen en moslims, deel 2"
+question = "Denkt u dat een dergelijke alliantie mogelijk is?"
+auteurs  = ["Dennis Honing"]
+date     = "2021-11-01"
+themas   = ["Politiek & Maatschappij"]
 +++
 
 

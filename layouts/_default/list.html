@@ -1,31 +1,16 @@
 {{ define "main" }}
-	{{ $pages    := .RegularPages }}
-	{{ $featured := slice }}
-		
-	{{ if .IsHome }}
-		{{ $articles := where site.RegularPages "Type" "eq" "artikelen" }}
-		{{ $pages     = where $articles "Title" "ne" .Params.Featured }}
-		{{ $featured  = where $articles "Title" "eq" .Params.Featured }}
-	{{ end }}
-
-	{{ $paginator := .Paginate $pages }}
+	{{ $paginator := .Paginate .RegularPages }}
 
 	<main id="list">
-		{{ if .IsHome }}
-			{{ partial "intro.html" . }}
-		{{ else if eq .Section "auteurs" }}
+		{{ if eq .Section "auteurs" }}
 			{{ partial "author.html" . }}
+		{{ else }}
+			{{ partial "intro.html" . }}
 		{{ end }}		
 
-		<div id="articles">
-			{{ if eq $paginator.PageNumber 1 }}
-				{{ range $featured }}
-					{{ partial "article.html" (dict "Context" . "Featured" true) }}
-				{{ end }}
-			{{ end }}
-		
+		<div id="articles">		
 			{{ range $paginator.Pages }}			
-				{{ partial "article.html" (dict "Context" . "Featured" false) }}
+				{{ partial "article.html" . }}
 			{{ end }}
 		</div>
 

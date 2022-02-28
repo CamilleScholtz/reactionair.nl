@@ -1,9 +1,9 @@
 +++
-title     = "“Je wilt toch niet toch niet terug naar de middeleeuwen?!”"
-subtitle  = "Een antwoord"
-auteurs   = ["Jan-Willem Veldhuizen"]
-date      = "2022-01-20"
-rubrieken = ["Geschiedenis"]
+title    = "“Je wilt toch niet toch niet terug naar de middeleeuwen?!”"
+subtitle = "Een antwoord"
+auteurs  = ["Jan-Willem Veldhuizen"]
+date     = "2022-01-20"
+themas   = ["Cultuur & Geschiedenis"]
 +++
 
 

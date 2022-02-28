@@ -26,7 +26,7 @@
 				<span class="author">
 					{{ range $index, $_ := $authors }}
 						{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
-							<a href="{{ .RelPermalink }}">{{ .Params.Title }}</a>
+							<a href="{{ .RelPermalink }}">{{ .Params.title }}</a>
 							{{ if and (eq (len $authors) 2) (eq $index 0) }}
 								&nbsp;&&nbsp;
 							{{ end }}
@@ -40,13 +40,13 @@
 			{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
 				<div class="author-container">
 					<div class="name-container">
-						<img src="{{ path.Join .RelPermalink "avatar.webp" }}" alt="{{ .Params.Title }}">
+						<img src="{{ path.Join .RelPermalink "avatar.webp" }}" alt="{{ .Params.title }}">
 
-						<h3 class="author">{{ .Params.Title }}</h3>
-						<p class="profession">{{ .Params.Profession }}</p>
+						<h3 class="author">{{ .Params.title }}</h3>
+						<p class="profession">{{ .Params.profession }}</p>
 					</div>
 
-					<p class="description">{{ .Params.Description }}</p>
+					<p class="description">{{ .Params.description }}</p>
 
 					{{ if eq $.Kind "page" }}
 						<a class="more" href="{{ .RelPermalink }}">Meer van deze auteur...</a>

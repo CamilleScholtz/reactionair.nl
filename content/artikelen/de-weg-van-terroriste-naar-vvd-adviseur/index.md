@@ -1,9 +1,9 @@
 +++
-title     = "De weg van terroriste naar VVD-adviseur"
-subtitle  = "Onderzoek naar Soumaya Sahla"
-auteurs   = ["Camille Meloen"]
-date      = "2021-12-05"
-rubrieken = ["Politiek"]
+title    = "De weg van terroriste naar VVD-adviseur"
+subtitle = "Onderzoek naar Soumaya Sahla"
+auteurs  = ["Camille Meloen"]
+date     = "2021-12-05"
+themas   = ["Politiek & Maatschappij"]
 +++
 
 

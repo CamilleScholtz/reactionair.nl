@@ -54,6 +54,50 @@ header .utility .pipe {
 }
 
 
+/* Home */
+
+#home {
+	grid-template-areas:
+		"featured"
+		"themes";
+	margin: 0 auto;
+	width: calc(100vw - 50px);
+}
+
+#home #featured .article {
+	margin-top: 30px;
+}
+
+#home #featured .article .text {
+	padding: 20px;
+}
+
+#home #featured .article img {
+	height: 230px;
+}
+
+#home #themes .theme {
+	grid-template-areas:
+		"description"
+		"article"
+		"pages";
+}
+
+#home #themes .description h2 {
+	font-size: 39px;
+	line-height: 43px;
+	margin-bottom: 40px;
+}
+
+#home #themes .pages {
+	margin-top: 20px;
+}
+
+#home #themes .article img {
+	height: 160px;
+}
+
+
 /* List */
 
 #list {
@@ -66,7 +110,6 @@ header .utility .pipe {
 #list .article {
 	width: calc(100vw - (2 * 60px));
 }
-
 
 /* Single */
 

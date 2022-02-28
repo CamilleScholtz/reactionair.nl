@@ -1,10 +1,10 @@
 +++
-title     = "Temper de strijd tegen ‘privileges’"
-subtitle  = "Hoe de gekte van de Franse Revolutie doorleeft in het hedendaagse activisme"
-auteurs   = ["Eric Hendriks-Kim"]
-date      = "2021-10-24"
-rubrieken = ["Politiek"]
-noindex   = true
+title    = "Temper de strijd tegen ‘privileges’"
+subtitle = "Hoe de gekte van de Franse Revolutie doorleeft in het hedendaagse activisme"
+auteurs  = ["Eric Hendriks-Kim"]
+date     = "2021-10-24"
+themas   = ["Cultuur & Geschiedenis"]
+noindex  = true
 +++
 
 

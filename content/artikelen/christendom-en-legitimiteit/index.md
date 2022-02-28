@@ -1,9 +1,9 @@
 +++
-title     = "Christendom en legitimiteit"
-subtitle  = "Autoriteit versus macht"
-auteurs   = ["Sanura"]
-date      = "2021-12-29"
-rubrieken = ["Politiek"]
+title    = "Christendom en legitimiteit"
+subtitle = "Autoriteit versus macht"
+auteurs  = ["Sanura"]
+date     = "2021-12-29"
+themas   = ["Religie & Metafysica"]
 +++
 
 

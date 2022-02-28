@@ -1,8 +1,6 @@
-<a href="{{ .Context.RelPermalink }}" class="article {{ if .Featured }}featured{{ end }}">
-	<img src="{{ path.Join .Context.RelPermalink "thumb.webp" }}" alt="{{ .Context.Params.Title }}">
-	<h2>{{ .Context.Params.Title }}</h2>
-	<h3>{{ .Context.Params.SubTitle}}</h3>
-	<p class="author">{{ delimit .Context.Params.Auteurs ", " " & " }}</p>
-
-	<p class="category">{{ upper (delimit .Context.Params.Rubrieken ", " " & ") }}</p>
+<a href="{{ .RelPermalink }}" class="article">
+	<img src="{{ path.Join .RelPermalink "thumb.webp" }}" alt="{{ .Params.title }}">
+	<h2>{{ .Params.title }}</h2>
+	<h3>{{ .Params.subtitle}}</h3>
+	<p class="author">{{ delimit .Params.auteurs ", " " & " }}</p>
 </a>

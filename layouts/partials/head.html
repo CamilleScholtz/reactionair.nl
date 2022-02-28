@@ -1,13 +1,13 @@
 <head>
 	<title>{{ .Title }}</title>
 
-	<meta name="description" content="{{ if isset .Params "description" }}{{ .Params.Description }}{{ else }}{{ .Params.SubTitle }}{{ end }}">
+	<meta name="description" content="{{ if isset .Params "description" }}{{ .Params.description }}{{ else }}{{ .Params.subtitle }}{{ end }}">
 	{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
-		<meta name="author" content="{{ delimit .Params.Auteurs ", " }}">
+		<meta name="author" content="{{ delimit .Params.auteurs ", " }}">
 	{{ end }}
 
 	<meta property="og:title" content="{{ .Title }}">
-	<meta property="og:description" content="{{ if isset .Params "description" }}{{ .Params.Description }}{{ else }}{{ .Params.SubTitle }}{{ end }}">
+	<meta property="og:description" content="{{ if isset .Params "description" }}{{ .Params.description }}{{ else }}{{ .Params.subtitle }}{{ end }}">
 	<meta property="og:url" content="{{ .Permalink }}">
 	{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
 		<meta property="og:type" content="article">
@@ -20,7 +20,7 @@
 	{{ end }}
 	<meta property="twitter:site" content="@ReactionairNL">
 
-	{{ if .Params.NoIndex }}
+	{{ if .Params.noindex }}
 		<meta name="robots" content="noindex">
 	{{ end }}
 
@@ -32,14 +32,14 @@
 
 	<link rel="shortcut icon" href="{{ absURL "img/favicon.ico" }}" type="image/x-icon">
 
-	<link rel="stylesheet" href="{{ relURL "css/fonts.css" }}?v=1643822054">
-	<link rel="stylesheet" href="{{ relURL "css/light.css" }}?v=1643822054" media="(prefers-color-scheme: light)">
-	<link rel="stylesheet" href="{{ relURL "css/dark.css" }}?v=1643822054" media="(prefers-color-scheme: dark)">
-	<link rel="stylesheet" href="{{ relURL "css/style.css" }}?v=1643822054">
-	<link rel="stylesheet" href="{{ relURL "css/mobile.css" }}?v=1643822055" media="(max-width: 1024px)">
-	<link rel="stylesheet" href="{{ relURL "css/desktop.css" }}?v=1643822055" media="(min-width: 1025px)">
+	<link rel="stylesheet" href="{{ relURL "css/fonts.css" }}?v=1646003235">
+	<link rel="stylesheet" href="{{ relURL "css/light.css" }}?v=1646003235" media="(prefers-color-scheme: light)">
+	<link rel="stylesheet" href="{{ relURL "css/dark.css" }}?v=1646003235" media="(prefers-color-scheme: dark)">
+	<link rel="stylesheet" href="{{ relURL "css/style.css" }}?v=1646003235">
+	<link rel="stylesheet" href="{{ relURL "css/mobile.css" }}?v=1646003235" media="(max-width: 1024px)">
+	<link rel="stylesheet" href="{{ relURL "css/desktop.css" }}?v=1646003235" media="(min-width: 1025px)">
 
-	<script defer src="{{ relURL "js/script.js" }}?v=1643822054"></script>
+	<script defer src="{{ relURL "js/script.js" }}?v=1646003235"></script>
 
 	{{ template "_internal/google_analytics.html" . }}
 </head>

@@ -130,8 +130,8 @@ const scroll = (header, asides, mobile) => {
 }
 
 const quote = () => {
-	const aisde = document.querySelector("#quote");
-	if (!aisde) {
+	const aside = document.querySelector("#quote");
+	if (!aside) {
 		return;
 	}
 
@@ -147,6 +147,8 @@ const quote = () => {
 		["G. K. Chesterton", "Tolerantie is de deugd van de man zonder overtuigingen."],
 		["G. K. Chesterton", "Wanneer men verkiest niet in God te geloven, gelooft men daarna niet in niets, maar is men in staat in alles te geloven."],
 		["René Guénon", "Ware ideeën veranderen of ontwikkelen zich niet, maar blijven zoals ze zijn in het tijdloze 'heden'."],
+		["René Guénon", "Metafysica is de kennis van de universele beginselen, een kennis die verder gaat dan de natuur als zodanig en verder dan de verschijnselen die door de mens kunnen worden begrepen."],
+		["René Guénon", "Wetenschap is een rationele, discursieve, altijd indirecte vorm van kennis, een kennis van reflectie, metafysica is een superrationele kennis, intuïtief en onmiddellijk."],
 		["Robert Lemm", "De <i>reactionair</i>, kijkt niet vooruit, en niet achteruit, maar naar boven, naar de sterren en de hemel."],
 		["Julius Evola", "Mijn principes zijn de principes die, voor de Franse Revolutie, ieder welgeboren mens als normaal en gezond beschouwde."],
 		["Julius Evola", "Geen idee is zo absurd als het idee van vooruitgang."],
@@ -162,8 +164,8 @@ const quote = () => {
 
 	const quote = quotes[Math.floor(Math.random() * quotes.length)];
 
-	aisde.querySelector("q").innerHTML       = quote[1];
-	aisde.querySelector(".author").innerHTML = quote[0];
+	aside.querySelector("q").innerHTML       = quote[1];
+	aside.querySelector(".author").innerHTML = "- " + quote[0];
 }
 
 

@@ -239,6 +239,147 @@ header .utility .right {
 }
 
 
+/* Home */
+
+#home {
+	display: grid;
+	margin: 0 auto;
+	max-width: 1440px;
+	width: 90%;
+}
+
+#home #featured {
+	grid-area: featured;
+}
+
+#home #featured .article {
+	background: var(--footnotes-background-color);
+	display: block;
+	margin-bottom: 20px;
+	position: relative;
+}
+
+#home #featured .article::before {
+	background: var(--popup-background-color);
+	bottom: -15px;
+	color: var(--accent-color);
+	content: "Nieuw!";
+	font-family: "Quadraat Pro Sans", sans-serif;
+	font-size: 16px;
+	padding: 4px 12px 4px 12px;
+	position: absolute;
+	transform: rotate(-1deg);
+	right: -15px;
+	z-index: 1;
+}
+
+#home #featured .article img {
+	object-fit: cover;
+	width: 100%;
+}
+
+#home #featured .article h2 {
+	font-size: 34px;
+	font-weight: 700;
+	line-height: 38px;
+	margin-bottom: 10px;
+}
+
+#home #featured .article h3 {
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 30px;
+	margin-bottom: 40px;
+	margin-top: 0px;
+}
+
+#home #featured .article .author {
+	color: var(--accent-color);
+	font-family: "Quadraat Pro Sans", sans-serif;
+	font-size: 18px;
+	line-height: 22px;
+}
+
+#home #themes {
+	grid-area: themes;
+}
+
+#home #themes .theme {
+	border-top: 1px solid var(--border-color);
+	display: grid;
+	grid-column-gap: 5%;
+	grid-template-rows: max-content;
+	margin-top: 60px;
+	padding-top: 60px;
+}
+
+#home #themes .description {
+	grid-area: description;
+}
+
+#home #themes .description h2 {
+	font-family: "Quadraat Pro Sans", sans-serif;
+	font-weight: 700;
+	margin-bottom: 20px;
+	max-width: 200px;
+}
+
+#home #themes .pages {
+	grid-area: pages;
+}
+
+#home #themes .pages a {
+	color: var(--text-color);
+	display: block;
+	margin-top: 20px;
+}
+
+#home #themes .pages a .arrow {
+	color: var(--accent-color);
+	margin-right: 6px;
+}
+
+#home #themes .pages .more {
+	color: var(--accent-color);
+}
+
+#home #themes .article {
+	background: var(--footnotes-background-color);
+	display: block;
+	grid-area: article;
+}
+
+#home #themes .article img {
+	object-fit: cover;
+	width: 100%;
+}
+
+#home #themes .article .text {
+	padding: 20px;
+}
+
+#home #themes .article .text h2 {
+	font-size: 27px;
+	font-weight: 700;
+	line-height: 33px;
+	margin-bottom: 3px;
+}
+
+#home #themes .article .text h3 {
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 26px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+
+#home #themes .article .text .author {
+	color: var(--accent-color);
+	font-size: 16px;
+	font-family: "Quadraat Pro Sans", sans-serif;
+}
+
+
 /* Misc */
 
 #misc {
@@ -303,19 +444,11 @@ header .utility .right {
 	font-size: 24px;
 	font-weight: 400;
 	line-height: 30px;
-	margin-bottom: 10px;
+	margin-bottom: 60px;
 	margin-top: 0px;
 }
 
 #list #articles .author {
-	color: var(--slightly-muted-color);
-	font-size: 18px;
-	font-style: italic;
-	line-height: 22px;
-	margin-bottom: 60px;
-}
-
-#list #articles .category {
 	bottom: 40px;
 	color: var(--accent-color);
 	font-family: "Quadraat Pro Sans", sans-serif;

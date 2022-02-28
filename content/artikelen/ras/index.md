@@ -1,10 +1,10 @@
 +++
-title     = "a"
-subtitle  = "Onderzoek naar een onbekende auteur"
-auteurs   = ["Camille Meloen"]
-date      = "2021-10-02"
-rubrieken = ["Biografie"]
-draft     = true
+title    = "a"
+subtitle = "Onderzoek naar een onbekende auteur"
+auteurs  = ["Camille Meloen"]
+date     = "2021-10-02"
+themas   = ["Biografieën & Recensies"]
+draft    = true
 +++
 
 

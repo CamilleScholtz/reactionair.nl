@@ -1,9 +1,9 @@
 +++
-title     = "Hoe God verstoppertje speelt met zichzelf"
-subtitle  = "Waarom het streven naar objectiviteit een doodlopend pad is, deel 3"
-auteurs   = ["De Melancholieke Nar"]
-date      = "2022-02-09"
-rubrieken = ["Filosofie"]
+title    = "Hoe God verstoppertje speelt met zichzelf"
+subtitle = "Waarom het streven naar objectiviteit een doodlopend pad is, deel 3"
+auteurs  = ["De Melancholieke Nar"]
+date     = "2022-02-09"
+themas   = ["Religie & Metafysica"]
 +++
 
 

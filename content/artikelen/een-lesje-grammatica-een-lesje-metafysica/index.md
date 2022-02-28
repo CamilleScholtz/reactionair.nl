@@ -1,9 +1,9 @@
 +++
-title     = "Een lesje grammatica, een lesje metafysica"
-subtitle  = "Waarom het streven naar objectiviteit een doodlopend pad is, deel 2"
-auteurs   = ["De Melancholieke Nar"]
-date      = "2022-02-01"
-rubrieken = ["Filosofie"]
+title    = "Een lesje grammatica, een lesje metafysica"
+subtitle = "Waarom het streven naar objectiviteit een doodlopend pad is, deel 2"
+auteurs  = ["De Melancholieke Nar"]
+date     = "2022-02-01"
+themas   = ["Religie & Metafysica"]
 +++
 
 

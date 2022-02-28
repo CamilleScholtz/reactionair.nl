@@ -1,10 +1,10 @@
 +++
-title     = "Is conservatieve samenwerking met moslims onwenselijk?"
-subtitle  = "Een reactie op ‘tegen een politiek verbond met moslims’"
-auteurs   = ["Dennis Honing"]
-date      = "2022-01-15"
-rubrieken = ["Politiek"]
-question  = "Wat zijn uw gedachten over een dergelijke alliantie?"
+title    = "Is conservatieve samenwerking met moslims onwenselijk?"
+subtitle = "Een reactie op ‘tegen een politiek verbond met moslims’"
+auteurs  = ["Dennis Honing"]
+date     = "2022-01-15"
+themas   = ["Politiek & Maatschappij"]
+question = "Wat zijn uw gedachten over een dergelijke alliantie?"
 +++
 
 

@@ -1,9 +1,9 @@
 +++
-title     = "Het Erik Enigma"
-subtitle  = "Extreemrechtse liberaal"
-auteurs   = ["Sanura"]
-date      = "2021-10-09"
-rubrieken = ["Biografie"]
+title    = "Het Erik Enigma"
+subtitle = "Extreemrechtse liberaal"
+auteurs  = ["Sanura"]
+date     = "2021-10-09"
+themas   = ["Recensie & Biografie"]
 +++
 
 

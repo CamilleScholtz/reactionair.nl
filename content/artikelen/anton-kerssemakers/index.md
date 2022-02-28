@@ -1,9 +1,9 @@
 +++
-title     = "Tussen twee oorlogen: Anton Kerssemakers"
-subtitle  = "Onderzoek naar een onbekende auteur"
-auteurs   = ["Camille Meloen"]
-date      = "2021-10-02"
-rubrieken = ["Biografie"]
+title    = "Tussen twee oorlogen: Anton Kerssemakers"
+subtitle = "Onderzoek naar een onbekende auteur"
+auteurs  = ["Camille Meloen"]
+date     = "2021-10-02"
+themas   = ["Recensie & Biografie"]
 +++
 
 

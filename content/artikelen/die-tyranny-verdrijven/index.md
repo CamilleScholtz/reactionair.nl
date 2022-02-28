@@ -1,9 +1,9 @@
 +++
-title     = "‘Die tyranny verdrijven’"
-subtitle  = "De Futuro-Fundamentalistische Revolutie, deel 6"
-auteurs   = ["Alexander Wolfheze"]
-date      = "2022-01-26"
-rubrieken = ["Politiek"]
+title    = "‘Die tyranny verdrijven’"
+subtitle = "De Futuro-Fundamentalistische Revolutie, deel 6"
+auteurs  = ["Alexander Wolfheze"]
+date     = "2022-01-26"
+themas   = ["Politiek & Maatschappij"]
 +++
 
 

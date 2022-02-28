@@ -1,11 +1,11 @@
 +++
-title     = "TODO"
-subtitle  = "TODO"
-auteurs   = ["Eco al-Hollandi"]
-date      = "2022-02-24"
-rubrieken = ["Politiek"]
+title    = "TODO"
+subtitle = "TODO"
+auteurs  = ["Eco al-Hollandi"]
+date     = "2022-02-24"
+themas   = ["Cultuur & Geschiedenis"]
 [_build]
-    list   = "never"
+    list = "never"
 +++
 
 

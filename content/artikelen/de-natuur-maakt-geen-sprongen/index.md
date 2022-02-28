@@ -1,10 +1,10 @@
 +++
-title     = "De natuur maakt geen sprongen"
-subtitle  = "Deconstructie van categorieën"
-auteurs   = ["Camille Meloen"]
-date      = "2021-10-24"
-rubrieken = ["Filosofie"]
-draft     = true
+title    = "De natuur maakt geen sprongen"
+subtitle = "Deconstructie van categorieën"
+auteurs  = ["Camille Meloen"]
+date     = "2021-10-24"
+themas   = ["Filosofie"]
+draft    = true
 +++
 
 

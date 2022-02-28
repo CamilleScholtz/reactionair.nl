@@ -1,9 +1,9 @@
 +++
-title     = "Autonomie en consumptie"
-subtitle  = "Hoe autonomie met de consumptiemaatschappij samenhangt"
-auteurs   = ["Jurbin van Hooff"]
-date      = "2021-10-31"
-rubrieken = ["Politiek"]
+title    = "Autonomie en consumptie"
+subtitle = "Hoe autonomie met de consumptiemaatschappij samenhangt"
+auteurs  = ["Jurbin van Hooff"]
+date     = "2021-10-31"
+themas   = ["Politiek & Maatschappij"]
 +++
 
 
