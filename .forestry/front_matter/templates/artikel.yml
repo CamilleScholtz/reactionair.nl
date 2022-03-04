@@ -33,28 +33,28 @@ fields:
       section: auteurs
       file: 
     options:
-    - Paars van Grinsterer
-    - "‘Het Dorp’ Genieter"
-    - Eco al-Hollandi
-    - Redactie
-    - De Melancholieke Nar
-    - Marit Elechan
-    - Sanura
     - Alexander Wolfheze
-    - Jan-Willem Veldhuizen
-    - Dennis Honing
-    - Cedrik Vandooren
-    - Mootje
     - Camille Meloen
+    - Cedrik Vandooren
     - v. Deirm
-    - Jan de Maansnijder
-    - Robert Lemm
-    - Jurbin van Hooff
-    - Philip van Houten
-    - Intan Hoijer
-    - Vrederijk
+    - Dennis Honing
+    - De Melancholieke Nar
+    - Eco al-Hollandi
     - Eric Hendriks-Kim
+    - "‘Het Dorp’ Genieter"
+    - Intan Hoijer
+    - Jan de Maansnijder
+    - Jan-Willem Veldhuizen
+    - Jurbin van Hooff
     - J. Floressas des Esseintes
+    - Marit Elechan
+    - Mootje
+    - Paars van Grinsterer
+    - Philip van Houten
+    - Redactie
+    - Robert Lemm
+    - Sanura
+    - Vrederijk
 - type: list
   name: themas
   label: Themas
@@ -65,8 +65,8 @@ fields:
       type: simple
       section: themas
     options:
-    - Politiek & Maatschappij
-    - Religie & Metafysica
     - Cultuur & Geschiedenis
-    - Recensie & Biografie
     - Klikaas
+    - Politiek & Maatschappij
+    - Recensie & Biografie
+    - Religie & Metafysica
