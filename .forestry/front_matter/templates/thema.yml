@@ -1,10 +1,15 @@
 ---
 label: Thema
 hide_body: true
+display_field: Titel
 fields:
 - type: text
-  name: title
+  name: Titel
   label: title
+  config:
+    required: true
 - type: text
-  name: description
+  name: Beschrijving
   label: description
+  config:
+    required: true
