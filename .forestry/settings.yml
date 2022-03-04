@@ -13,12 +13,12 @@ sections:
   path: content/auteurs
   label: Auteurs
   create: all
-  match: "**/*"
+  match: "*/_index.md"
 - type: directory
   path: content/themas
   label: Themas
   create: all
-  match: "**/*"
+  match: "*/_index.md"
 upload_dir: "."
 public_path: "."
 front_matter_path: ''
