@@ -13,15 +13,6 @@ fields:
   label: Ondertitel
   config:
     required: true
-- type: list
-  name: auteurs
-  label: Auteurs
-  config:
-    use_select: true
-    min: 1
-    source:
-      type: pages
-      section: auteurs
 - type: datetime
   name: date
   label: Datum
@@ -29,7 +20,41 @@ fields:
     required: true
     date_format: YYYY-MM-DD
     export_format: YYYY-MM-DD
+    time_format: ''
   default: now
+- type: list
+  name: auteurs
+  label: Auteurs
+  config:
+    use_select: true
+    min: 1
+    source:
+      type: simple
+      section: auteurs
+      file: 
+    options:
+    - Paars van Grinsterer
+    - "‘Het Dorp’ Genieter"
+    - Eco al-Hollandi
+    - Redactie
+    - De Melancholieke Nar
+    - Marit Elechan
+    - Sanura
+    - Alexander Wolfheze
+    - Jan-Willem Veldhuizen
+    - Dennis Honing
+    - Cedrik Vandooren
+    - Mootje
+    - Camille Meloen
+    - v. Deirm
+    - Jan de Maansnijder
+    - Robert Lemm
+    - Jurbin van Hooff
+    - Philip van Houten
+    - Intan Hoijer
+    - Vrederijk
+    - Eric Hendriks-Kim
+    - J. Floressas des Esseintes
 - type: list
   name: themas
   label: Themas
@@ -37,7 +62,13 @@ fields:
     use_select: true
     min: 1
     source:
-      type: pages
+      type: simple
       section: themas
+    options:
+    - Politiek & Maatschappij
+    - Religie & Metafysica
+    - Cultuur & Geschiedenis
+    - Recensie & Biografie
+    - Klikaas
 pages:
 - content/artikelen/test.md
