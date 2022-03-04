@@ -1,0 +1,19 @@
+---
+label: Artikel
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: list
+  name: auteurs
+  label: auteurs
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: themas
+  label: themas
