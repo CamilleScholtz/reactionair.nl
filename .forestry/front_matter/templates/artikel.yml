@@ -38,3 +38,5 @@ fields:
     source:
       type: pages
       section: themas
+pages:
+- content/artikelen/test.md
