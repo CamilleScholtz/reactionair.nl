@@ -1,0 +1,15 @@
+---
+label: Thema
+hide_body: true
+display_field: Titel
+fields:
+- type: text
+  name: Titel
+  label: title
+  config:
+    required: true
+- type: text
+  name: Beschrijving
+  label: description
+  config:
+    required: true
