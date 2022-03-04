@@ -1,0 +1,13 @@
+---
+label: Auteur
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: profession
+  label: profession
+- type: textarea
+  name: description
+  label: description
