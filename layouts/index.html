@@ -1,13 +1,12 @@
 {{ define "main" }}
 	{{ $themes   := slice "Politiek & Maatschappij" "Religie & Metafysica" "Cultuur & Geschiedenis" "Recensie & Biografie" }}
-	{{ $articles := where (where site.RegularPages "Type" "eq" "artikelen") "Params.themas" "intersect" $themes }}
 
 	<main id="home">
 		{{ partial "intro.html" . }}
 	
 		<div id="featured">
+			{{ $articles := where (where site.RegularPages "Type" "eq" "artikelen") "Params.themas" "intersect" $themes }}
 			{{ $featured := index $articles 0 }}
-			{{ $articles  = after 1 $articles }}
 
 			<a href="{{ $featured.RelPermalink }}" class="article">
 				<img src="{{ path.Join $featured.RelPermalink "thumb.webp" }}" alt="{{ $featured.Params.Title }}">
@@ -21,6 +20,9 @@
 		</div>
 
 		<div id="themes">
+			{{ $themes = $themes | append "Klikaas" }}
+			{{ $articles = after 1 (where (where site.RegularPages "Type" "eq" "artikelen") "Params.themas" "intersect" $themes) }}
+
 			{{ range $i, $theme := $themes }}
 				<div class="theme {{ if mod $i 2 }} left {{ else }} right {{ end }}">
 					{{ $pages    := where $articles "Params.themas" "intersect" (slice $theme) }}
@@ -41,7 +43,9 @@
 					</div>
 
 					<a href="{{ $featured.RelPermalink }}" class="article">
-						<img src="{{ path.Join $featured.RelPermalink "thumb.webp" }}" alt="{{ $featured.Params.title }}">
+						{{ if ne $theme "Klikaas" }}
+							<img src="{{ path.Join $featured.RelPermalink "thumb.webp" }}" alt="{{ $featured.Params.title }}">
+						{{ end }}
 
 						<div class="text">
 							<h2>{{ $featured.Params.title }}</h2>

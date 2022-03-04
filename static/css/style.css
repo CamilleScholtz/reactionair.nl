@@ -308,7 +308,7 @@ header .utility .right {
 	border-top: 1px solid var(--border-color);
 	display: grid;
 	grid-column-gap: 5%;
-	grid-template-rows: max-content;
+	grid-template-rows: auto 1fr;
 	margin-top: 60px;
 	padding-top: 60px;
 }
