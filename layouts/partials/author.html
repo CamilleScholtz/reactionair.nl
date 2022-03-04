@@ -40,7 +40,7 @@
 			{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
 				<div class="author-container">
 					<div class="name-container">
-						<img src="{{ path.Join .RelPermalink "avatar.webp" }}" alt="{{ .Params.title }}">
+						<img src="{{ .RelPermalink }}/avatar.webp" alt="{{ .Params.title }}">
 
 						<h3 class="author">{{ .Params.title }}</h3>
 						<p class="profession">{{ .Params.profession }}</p>

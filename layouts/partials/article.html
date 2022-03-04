@@ -1,5 +1,5 @@
 <a href="{{ .RelPermalink }}" class="article">
-	<img src="{{ path.Join .RelPermalink "thumb.webp" }}" alt="{{ .Params.title }}">
+	<img src="/media/{{ .File.BaseFileName }}/thumb.webp" alt="{{ .Params.title }}">
 	<h2>{{ .Params.title }}</h2>
 	<h3>{{ .Params.subtitle}}</h3>
 	<p class="author">{{ delimit .Params.auteurs ", " " & " }}</p>

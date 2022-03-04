@@ -11,7 +11,7 @@
 	<meta property="og:url" content="{{ .Permalink }}">
 	{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
 		<meta property="og:type" content="article">
-		<meta property="og:image" content="{{ path.Join .RelPermalink "thumb.webp" | absURL }}">
+		<meta property="og:image" content="https://reactionair.nl/media/{{ .File.BaseFileName }}/thumb.webp">
 		<meta property="twitter:card" content="summary_large_image">
 	{{ else }}
 		<meta property="og:type" content="website">

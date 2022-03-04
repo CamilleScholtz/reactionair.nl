@@ -9,7 +9,7 @@
 			{{ $featured := index $articles 0 }}
 
 			<a href="{{ $featured.RelPermalink }}" class="article">
-				<img src="{{ path.Join $featured.RelPermalink "thumb.webp" }}" alt="{{ $featured.Params.Title }}">
+				<img src="/media/{{ $featured.File.BaseFileName }}/thumb.webp" alt="{{ $featured.Params.Title }}">
 
 				<div class="text">
 					<h2>{{ $featured.Params.Title }}</h2>
@@ -44,7 +44,7 @@
 
 					<a href="{{ $featured.RelPermalink }}" class="article">
 						{{ if ne $theme "Klikaas" }}
-							<img src="{{ path.Join $featured.RelPermalink "thumb.webp" }}" alt="{{ $featured.Params.title }}">
+							<img src="/media/{{ $featured.File.BaseFileName }}/thumb.webp" alt="{{ $featured.Params.title }}">
 						{{ end }}
 
 						<div class="text">
