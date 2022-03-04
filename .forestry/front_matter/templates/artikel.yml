@@ -16,12 +16,25 @@ fields:
   name: auteurs
   label: Auteurs
   config:
-    use_select: false
+    use_select: true
+    min: 1
+    source:
+      type: pages
+      section: auteurs
 - type: datetime
   name: date
   label: Datum
   config:
     required: true
+    date_format: YYYY-MM-DD
+    export_format: YYYY-MM-DD
+  default: now
 - type: list
   name: themas
   label: Themas
+  config:
+    use_select: true
+    min: 1
+    source:
+      type: pages
+      section: themas
