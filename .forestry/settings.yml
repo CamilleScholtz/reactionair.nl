@@ -9,11 +9,15 @@ sections:
   label: Artikelen
   create: all
   match: "*/index.md"
+  templates:
+  - artikel
 - type: directory
   path: content/auteurs
   label: Auteurs
   create: all
   match: "*/_index.md"
+  templates:
+  - auteur
 - type: directory
   path: content/themas
   label: Themas
