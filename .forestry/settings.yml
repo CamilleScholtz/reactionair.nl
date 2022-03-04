@@ -12,18 +12,6 @@ sections:
   exclude: _index.md
   templates:
   - artikel
-- type: directory
-  path: content/auteurs
-  label: Auteurs
-  create: all
-  match: "*/_index.md"
-  templates:
-  - auteur
-- type: directory
-  path: content/themas
-  label: Themas
-  create: all
-  match: "*/_index.md"
 upload_dir: static/media
 public_path: "/media"
 front_matter_path: ''
