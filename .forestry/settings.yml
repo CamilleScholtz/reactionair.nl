@@ -23,8 +23,8 @@ sections:
   label: Themas
   create: all
   match: "*/_index.md"
-upload_dir: "."
-public_path: "."
+upload_dir: static/img/artikelen
+public_path: "/img/artikelen"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
