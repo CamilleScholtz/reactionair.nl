@@ -8,7 +8,7 @@ sections:
   path: content/artikelen
   label: Artikelen
   create: all
-  match: "**/*"
+  match: "*/index.md"
 - type: directory
   path: content/auteurs
   label: Auteurs
