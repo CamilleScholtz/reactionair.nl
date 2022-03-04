@@ -4,16 +4,24 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titel
+  config:
+    required: true
 - type: text
   name: subtitle
-  label: subtitle
+  label: Ondertitel
+  config:
+    required: true
 - type: list
   name: auteurs
-  label: auteurs
+  label: Auteurs
+  config:
+    use_select: false
 - type: datetime
   name: date
-  label: date
+  label: Datum
+  config:
+    required: true
 - type: list
   name: themas
-  label: themas
+  label: Themas
