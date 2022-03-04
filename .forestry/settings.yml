@@ -5,18 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/themas
-  label: Themas
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/doneren
-  label: Doneren
+  path: content/artikelen
+  label: Artikelen
   create: all
   match: "**/*"
 - type: directory
@@ -25,8 +15,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/artikelen
-  label: Artikelen
+  path: content/themas
+  label: Themas
   create: all
   match: "**/*"
 upload_dir: static/uploads
