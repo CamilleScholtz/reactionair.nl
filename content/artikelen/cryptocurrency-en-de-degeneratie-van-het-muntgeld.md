@@ -10,7 +10,7 @@ themas   = ["Religie & Metafysica"]
 René Guénon schrijft in zijn boek _'Le Règne de la Quantité et les Signes des Temps'_ over de degeneratie van het muntgeld. Geld in zijn uitsluitend "economisch" standpunt behoort zo volledig mogelijk tot de "heerschappij van de kwantiteit", en volgens Guénon is dit ook de reden waarom geld zo'n belangrijke rol speelt in de moderne maatschappij.
 
 {{< figure
-	src="/media/cryptocurrency-en-de-degeneratie-van-het-muntgel/thumb.webp"
+	src="/media/cryptocurrency-en-de-degeneratie-van-het-muntgeld/thumb.webp"
 	alt="De muntmeester"
 	class="img-left"
 	caption="De muntmeester, middeleeuws graveerwerk."

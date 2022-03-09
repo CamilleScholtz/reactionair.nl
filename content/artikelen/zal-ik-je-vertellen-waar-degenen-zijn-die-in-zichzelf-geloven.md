@@ -1,0 +1,38 @@
++++
+title    = "Zal ik je vertellen waar degenen zijn die in zichzelf geloven?"
+subtitle = "Enkele fragmenten uit Orthodoxie door G.K. Chesterton die mij zijn opgevallen"
+auteurs  = ["Jurbin van Hooff"]
+date     = "2022-03-09"
+themas   = ["Recensie & Biografie"]
++++
+
+
+_Orthodoxie_ is een boek gepubliceerd in 1908 door Gilbert Keith Chesterton (1874-1936). _Orthodoxie_ werd door Chesterton geschreven toen hij agnost was, die zelf verveeld werd door de modes van zijn tijd die we vandaag de dag ook steeds zien terugkomen: materialisme, scepticisme, rationalisme, determinisme, positivisme, hedonisme en socialisme. Chesterton valt deze moderne “denkstromen” op een spraakmakende wijze aan en probeert aan te tonen waarom het Christendom superieur is aan deze denkstromen. Er zal in deze recensie een weergave worden gegeven van enkele fragmenten uit _Orthodoxie_ die mij zijn opgevallen.
+
+{{< figure
+	src="/media/zal-ik-je-vertellen-waar-degenen-zijn-die-in-zichzelf-geloven/thumb.webp"
+	alt="Kabouter en kikker"
+	class="img-center"
+	caption="Kabouter en kikker, van Alfred Schönian."
+>}}
+
+>Ik herinner me dat ik eens een wandeling maakte met een welvarende uitgever, die een opmerking maakte die ik vaker had gehoord; het is inderdaad welhaast een motto van de hedendaagse wereld. Nu had ik het echter één keer te vaak gehoord, en plotseling zag ik in hoe nietszeggend het was. De uitgever zei over iemand: ‘Die man komt er wel, hij gelooft in zichzelf.’ En ik herinner me dat ik mijn hoofd optilde om te luisteren en dat mijn blik toen op een voorbijrijdende bus viel, waarop stond ‘Hanwell’.[^1] Ik zei tegen hem: ‘Zal ik je vertellen waar degenen zijn die in zichzelf geloven? Want ik kan het je vertellen. Ik ken mensen die meer in zichzelf geloven dan Napoleon of Caesar ooit hebben gedaan. Ik weet waar de vaste ster van zelfvertrouwen en succes fonkelt. Ik kan je naar de troon van de supermens brengen. Zij die echt in zichzelf geloven zitten allemaal in gekkenhuizen.[^2]
+
+Chesterton geeft hiermee een briljante analyse van wat er fout is in de “rationele wereld”. We kennen allemaal de frase ‘in jezelf geloven’ wel. Het is een mantra geworden. Chesterton zegt dat wanneer je iemand wil ontmoeten die werkelijk in zichzelf gelooft, je naar het gekkenhuis moet. Want de gek heeft niets anders dan zichzelf waar hij in gelooft. Deze gek heeft zichzelf een dogma gegeven waarin het enige wat hem verteld wordt geloofwaardig is. Als je naar een gek gaat met het psychologische probleem dat iedereen in de zaal hem wat aan zal doen kan niemand hem in de zaal overtuigen dat dat niet zo is. Zo erg gelooft de gek in zichzelf. Het geloof dat je superieur bent omdat je een individualist bent, maakt uiteindelijk dat je in dit gekkenhuis terechtkomt.
+
+>Iedere wilsdaad is een daad van zelfbeperking. Wanneer je ergens voor kiest, wijs je al het andere af. Die tegenwerping die de mannen van deze school tegen het huwelijk inbrachten, is eigenlijk een tegenwerping tegen elke daad. Elke daad is een onherroepelijke selectie en uitsluiting. Net zoals je alle andere vrouwen opgeeft wanneer je trouwt, zo geef je alle andere handelwijzen op wanneer je voor een bepaalde handelwijze kiest. Als je de koning van Engeland wordt, geef je het ambt van kerkbaljuw in Brompton op. Als je naar Rome verhuist, geef je een rijk veelbelovend leven in Wimbledon op. Het is deze negatieve of beperkende kant van de wil die het meeste van wat de anarchistische wil-aanbidders verkondigen, degradeert tot niet veel meer dan onzin. Dhr. John Davidson vertelt ons bijvoorbeeld dat we het ‘gij zult niet’ maar beter vergeten, maar het is overduidelijk dat ‘gij zult niet’ slechts een van de noodzakelijke gevolgtrekkingen is van ‘ik wil’. Ik wil naar Lord Mayor’s Show gaan,[^3] en gij zult mij daar niet van weerhouden. Het anarchisme verzoekt ons dringend om onverschrokken creatieve artiesten te zijn en niets te geven om wetten of grenzen. Maar je kunt niet een artiest zijn en niets geven om wetten of grenzen.[^4]
+
+Zoals Chesterton hier feilloos aangeeft heeft de wereld altijd de beperking van selectie en uitsluiting. Deze structuur proberen op te heffen middels het anarchisme leidt tot een constante zoektocht naar uniciteit, waarbij de barrières van selectie en uitsluiting onmogelijk niet om de hoek komen kijken. Deze zoektocht naar uniciteit en het openbreken van “machtsstructuren” zien we ook terug in onze moderne kunst: uniciteit speelt daar een belangrijke rol in. Maar wanneer je je een olifant verbeeldt, verbeeld je deze met een slurf, “bevrijd” je de olifant van zijn slurf, dan neem je zijn olifant-zijn af.
+
+>In sprookjesland vermijden we het woord ‘wet’, maar in het land van de wetenschap krijgen ze er bepaald geen genoeg van. Daarom noemen ze een of andere interessante gissing over hoe een volk lang geleden het alfabet uitsprak de ‘Wet van Grimm’. Maar de Wet van Grimm is veel minder intellectueel dan de sprookjes van Grimm. De sprookjes zijn hoe dan ook verhalen; de wet is daarentegen geen wet. Een wet veronderstelt dat we de aard van de generalisatie en implementatie kennen, en dat we niet alleen maar een paar effecten hebben opgemerkt. Als er een wet is die voorschrijft dat zakenrollers de gevangenis in moeten, impliceert deze wet dat er een denkbaar, geestelijk verband is tussen het idee van een gevangenis en het idee van zakkenrollen. En we weten welk idee dat is. We kunnen uitleggen waarom we iemand die zich vrijpostigheden veroorlooft de vrijheid ontnemen. Maar waarom een ei in een kip kan veranderen, kunnen we net zomin uitleggen als waarom een beer in een sprookjesprins kan veranderen. Als ideeën staan het ei en de kip verder van elkaar af dan de beer en de prins. Want er bestaat geen ei dat op enigerlei wijze een kip suggereert, terwijl sommige prinsen wel beren suggereren.[^5]
+
+Chesterton fileert hier op eigen wijze het pure rationalistische denken. In het hoofdstuk _‘De ethiek van Elfenland’_ diept hij verder uit wat er bedoeld wordt met de gedachte van verbeelding. Een gedachte die leeft naast de rationele gedachte. De moderne wereld heeft zich beperkt op deze rationele gedachte, maar rationalisme kan niet alles verklaren wat zich in de wereld afspeelt. Niet alles kan uitgevogeld worden. Als we geschapen zijn naar het beeld van God, heeft God ons geesten gegeven met harten, met passies en met verbeeldingen. Men dient weggehaald te worden bij de gevangenschap die rationalisme heet, laat men een leven zien die betekenisvoller is dan de betekenis van een formule. Het gelukzalige gevoel van vreugde en het miserabele gevoel van verdriet is niet te bevatten in een formule, zo is de liefde die je koestert voor je eigen familie en omgeving dat ook niet.
+
+Chesterton was lange tijd ook zelf een rationalist, maar ziet dat in de Christelijke “mythe” meer waarheid schuilt dan in de rationele “mythe”. Wat ik voornamelijk uit het boek heb gehaald is dat we rationalisme niet met rationalisme moeten bestrijden, dat we niet in de gevangenschap van rationalisme alles proberen te verklaren. We kunnen in het laboratorium eenmaal niet de atomische werkelijkheid van het bestaan van de engel bewijzen of de liefde die je koestert voor je eigen kinderen.
+
+
+[^1]: Hanwell was in Chestertons tijd een psychiatrische instelling in Londen.
+[^2]: G.K. Chesterton (1908). _Orthodoxie_ (p. 17).
+[^3]: Een uit de zestiende eeuw stammende straatparade in Londen, die tot op de dag van vandaag gehouden wordt.
+[^4]: G.K. Chesteron (1908). _Orthodoxie_ (p. 50).
+[^5]: G.K. Chesterton (1908). _Orthodoxie_ (p. 64 & 65). 

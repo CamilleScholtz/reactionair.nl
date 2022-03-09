@@ -44,7 +44,7 @@ Dit klinkt als een pragmatisch argument, gericht op de sociale effecten van zo�
 Daarnaast verbaast de stelling me, dat deze visie in het oosten zou hebben geleid tot tolerantie. In het verleden hield ik me een tijdje bezig met het bestuderen van de geschiedenis van o.m. China. China, Japan en India hebben aan talloze religieuze vervolgingen gedaan. Dit verschilde wel per dynastie, en zelfs per keizer. China kende vier anti-boeddhistische vervolgingen: onder keizer Taiwu van de Noordelijk Wei (een toegewijde taoïst), onder de Noordelijk Zhou dynastie (die ook taoïsten vervolgde), onder Wuzong van Tang (met steun van het neo-confucianisme) en onder de latere Zhou-dynastie. Kloosters werden vernietigd, monniken vervolgd, en soms executies uitgevoerd.[^6] 
 
 {{< figure
-	src="/media/licht-der-waarhei/thumb.webp"
+	src="/media/licht-der-waarheid/thumb.webp"
 	alt="Sunrise by the Ocean"
 	class="img-left"
 	caption="Sunrise by the Ocean door Vladimir Kush."

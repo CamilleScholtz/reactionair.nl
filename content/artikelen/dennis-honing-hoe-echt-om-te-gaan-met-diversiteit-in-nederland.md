@@ -10,7 +10,7 @@ themas   = ["Politiek & Maatschappij"]
 Waar het bij de Germanen om gaat is dat zij zichzelf foutief hebben gerelativeerd. Zijn volk. Zijn cultuur. Zijn natiestaten. Wanneer een jonge Germaan zal aangeven dat hij jong wil huwen en zijn dochters wil behoeden voor contextloze seksualiteit, dan zal deze jongeman worden weggezet als een gek. Als een Amish. Als een grap. 
 
 {{< figure
-	src="/media/ennis-honing-hoe-echt-om-te-gaan-met-diversiteit-in-nederlan/thumb.webp"
+	src="/media/ennis-honing-hoe-echt-om-te-gaan-met-diversiteit-in-nederland/thumb.webp"
 	alt="Kaart van Nederland"
 	class="img-left"
 	caption="Een kaart van Nederland omstreeks de tiende eeuw."
