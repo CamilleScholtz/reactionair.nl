@@ -6,7 +6,7 @@
 		{{ partial "intro.html" . }}
 
 		<div id="authors">
-			{{ range $authors }}
+			{{ range sort $authors ".Params.title" "asc" }}
 				<a href="{{ .RelPermalink }}" class="author-container">
 					<div class="name-container">
 						<img src="{{ path.Join .RelPermalink "avatar.webp" }}" alt="{{ .Params.title }}">
