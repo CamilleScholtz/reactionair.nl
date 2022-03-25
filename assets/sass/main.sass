@@ -1,0 +1,701 @@
+// Base
+
+*
+	text-decoration: none
+	margin: 0
+
+body
+	background: var(--background-color)
+	font-family: "Quadraat Pro", serif
+	overflow-x: hidden
+
+input
+	border: 0
+	outline: 0
+	padding: 13px
+
+button
+	border: none
+	border-radius: 0
+	background: var(--accent-color)
+	color: var(--background-color)
+	cursor: pointer
+	display: block
+	font-family: "Quadraat Pro", serif
+	font-weight: 700
+	height: 50px
+	padding-left: 12px
+	padding-right: 12px
+	line-height: 50px !important
+
+hr
+	border: none
+	border-top: 1px dashed var(--border-color)
+	margin-bottom: 30px
+
+input,
+textarea
+	background: var(--footnotes-background-color)
+	border: none
+	border-radius: 0
+	box-sizing: border-box
+	color: var(--text-color)
+	display: block
+	font-family: "Quadraat Pro", serif
+	margin-bottom: 10px
+	outline: none
+
+img
+	background: var(--header-background-color)
+
+textarea
+	padding: 30px
+	resize: none
+
+q::before,
+q::after
+	content: none
+
+::placeholder
+	color: var(--muted-color)
+
+::selection
+	background: var(--selection-color)
+
+
+// Typography
+
+h1,
+h2,
+h3,
+h4,
+label,
+li,
+p,
+code,
+.welcomments__comment-message
+	color: var(--text-color)
+
+h1
+	font-weight: 700
+
+h2
+	font-weight: 400
+
+h3
+	font-size: 28px
+	line-height: 35px
+	margin-bottom: 30px
+	margin-top: 60px
+
+a
+	color: var(--accent-color)
+
+code
+	background: var(--footnotes-background-color)
+	display: block
+	font-size: 18px
+	line-break: anywhere
+	margin: 0 auto
+	margin-top: 30px
+	max-width: 214px
+	padding: 20px
+	text-align: center
+
+figcaption,
+figcaption p,
+small
+	color: var(--muted-color)
+	font-size: 12px
+	font-style: italic
+	line-height: 22px
+
+sup,
+sup a
+	font-size: 12px
+	font-weight: 700
+	line-height: 0px
+	margin-left: 1px
+	margin-right: 1px
+
+
+// Header
+
+header
+	position: sticky
+	text-align: center
+	top: 0px
+	transition: transform .2s
+	width: 100%
+	z-index: 99
+
+	#logo-container
+		background: var(--header-background-color)
+		border-bottom: 1px dashed var(--header-border-color)
+		height: 110px
+
+		#logo img
+			background: #A62F27
+			box-shadow: 0 5px 25px -4px rgba(108, 19, 15, 0.1)
+			height: 113px
+			margin-top: 15px
+			transition: all .2s .1s
+
+			&:hover
+				box-shadow: 0 10px 35px -6px rgba(108, 19, 15, 0.25)
+				transform: scale(1.05) translateY(2px) !important
+
+		#search
+			position: absolute
+			right: 25px
+			top: calc((110px / 2) - 25px)
+
+			form
+				input
+					float: left
+					height: 50px
+					transform: scaleX(0)
+					transform-origin: right
+					transition: transform .2s
+					width: calc(100% - 50px)						
+			
+				button
+					align-items: center
+					background: none
+					display: flex
+					justify-content: center
+					float: right
+					width: 50px
+
+			.results-container
+				background: var(--popup-background-color)
+				position: absolute
+				text-align: left
+				margin-top: 59px
+
+				.arrow
+					background: var(--popup-background-color)
+					display: none;
+					height: 18px
+					left: calc(50% - 9px)
+					position: absolute
+					top: -9px
+					transform: rotate(45deg)
+					width: 18px
+
+				.results
+					max-height: calc(100vh - 200px)
+					overflow-y: scroll
+					padding: 0
+					position: relative
+					scrollbar-width: none
+					z-index: 2
+
+					&::-webkit-scrollbar
+						display: none
+
+					a
+						display: block
+						border-bottom: 1px dashed var(--popup-border-color)
+						padding: 20px
+
+						&:last-of-type
+							border-bottom: none
+
+					h2
+						font-size: 27px
+						font-weight: 700
+						line-height: 33px
+						margin-bottom: 3px
+
+					h3
+						font-size: 22px
+						font-weight: 400
+						line-height: 26px
+						margin-top: 0px
+
+					.author
+						color: var(--accent-color)
+						font-size: 16px
+						font-family: "Quadraat Pro Sans", sans-serif
+
+	.utility
+		align-items: center
+		background: var(--utility-color)
+		border-bottom: 1px dashed var(--border-color)
+		display: flex
+		height: 55px
+		justify-content: center
+
+		.left,
+		.right
+			display: inline-block
+			font-weight: 700
+			width: 100vw
+
+		.left
+			color: var(--accent-color)
+			font-size: 14px
+
+		.right
+			color: var(--text-color)
+			font-size: 16px
+
+
+// Author container
+
+.author-container
+	.name-container
+		height: 100px
+		margin-bottom: 20px
+
+		img
+			border-radius: 100%
+			display: inline-block
+			float: left
+			height: 100px
+			margin-right: 25px
+			position: relative
+			width: 100px
+
+		.author
+			font-family: "Quadraat Pro Sans", sans-serif
+			display: inline-block
+			margin-bottom: 0px
+			margin-top: 15px
+			max-width: 68%
+			min-width: 50%
+			overflow: hidden
+			text-overflow: ellipsis
+			white-space: nowrap
+
+		.profession
+			color: var(--muted-color)
+			display: inline-block
+			font-style: italic
+			min-width: 50%
+			width: auto
+
+	.description
+		color: var(--slightly-muted-color)
+		display: block
+		width: 100%
+
+
+// Home
+
+#home
+	display: grid
+	margin: 0 auto
+	max-width: 1440px
+	width: 90%
+
+	#featured
+		grid-area: featured
+
+		.article
+			background: var(--footnotes-background-color)
+			display: block
+			margin-bottom: 20px
+			position: relative
+
+			&::before
+				background: var(--popup-background-color)
+				bottom: -15px
+				color: var(--accent-color)
+				content: "Nieuw!"
+				font-family: "Quadraat Pro Sans", sans-serif
+				font-size: 16px
+				padding: 4px 12px 4px 12px
+				position: absolute
+				transform: rotate(-1deg)
+				right: -15px
+				z-index: 1
+
+			img
+				object-fit: cover
+				width: 100%
+
+			h2
+				font-size: 34px
+				font-weight: 700
+				line-height: 38px
+				margin-bottom: 10px
+
+			h3
+				font-size: 24px
+				font-weight: 400
+				line-height: 30px
+				margin-bottom: 40px
+				margin-top: 0px
+
+			.author
+				color: var(--accent-color)
+				font-family: "Quadraat Pro Sans", sans-serif
+				font-size: 18px
+				line-height: 22px
+
+	#themes
+		grid-area: themes
+
+		.theme
+			border-top: 1px dashed var(--border-color)
+			display: grid
+			grid-column-gap: 5%
+			grid-template-rows: auto 1fr
+			margin-top: 60px
+			padding-top: 60px
+
+			.description
+				grid-area: description
+
+				h2
+					font-family: "Quadraat Pro Sans", sans-serif
+					font-weight: 700
+					margin-bottom: 20px
+					max-width: 200px
+
+			.pages
+				grid-area: pages
+
+				a
+					color: var(--text-color)
+					display: block
+					margin-top: 20px
+
+					.arrow
+						color: var(--accent-color)
+						margin-right: 6px
+
+				.more
+					color: var(--accent-color)
+
+			.article
+				background: var(--footnotes-background-color)
+				display: block
+				grid-area: article
+
+				img
+					object-fit: cover
+					width: 100%
+
+				.text
+					padding: 20px
+
+					h2
+						font-size: 27px
+						font-weight: 700
+						line-height: 33px
+						margin-bottom: 3px
+
+					h3
+						font-size: 22px
+						font-weight: 400
+						line-height: 26px
+						margin-bottom: 10px
+						margin-top: 0px
+
+					.author
+						color: var(--accent-color)
+						font-size: 16px
+						font-family: "Quadraat Pro Sans", sans-serif
+
+
+// Misc
+
+#misc
+	margin: 0 auto
+	margin-top: 40px
+	max-width: 800px
+	width: 90%
+
+	p
+		margin-bottom: 30px
+
+
+// List
+
+#list
+	display: grid
+	margin: 0 auto
+	margin-top: 40px
+	max-width: 1440px
+	width: 90%
+
+	#authors .author-container
+		background: var(--background-color)
+		padding: 60px
+
+	#authors,
+	#articles
+		background: var(--border-color)
+		border-bottom: 1px dashed var(--border-color)
+		display: grid
+		grid-area: pages
+		grid-gap: 1px
+
+		.article
+			background: var(--background-color)
+			padding: 60px
+			position: relative
+			text-align: center
+
+			img
+				height: 300px
+				margin: 0 auto
+				margin-bottom: 50px
+				object-fit: cover
+				width: 100%
+
+			h2
+				font-size: 28px
+				font-weight: 700
+				line-height: 34px
+				margin-bottom: 10px
+
+			h3
+				font-size: 24px
+				font-weight: 400
+				line-height: 30px
+				margin-bottom: 60px
+				margin-top: 0px
+
+			.author
+				bottom: 40px
+				color: var(--accent-color)
+				font-family: "Quadraat Pro Sans", sans-serif
+				font-size: 18px
+				position: absolute
+				width: calc(100% - (60px * 2))
+
+
+// Paginator
+
+.paginator
+	font-family: "Quadraat Pro Sans", sans-serif
+	grid-area: paginator
+	list-style: none
+	margin-top: 80px
+	text-align: center
+
+	a
+		background: var(--accent-color)
+		color: var(--background-color)
+		height: 50px
+		display: inline-block
+		line-height: 54px
+		width: 50px
+
+	.prev
+		margin-right: 4px
+
+	.next
+		margin-left: 4px
+
+	.disabled
+		background: var(--footnotes-background-color)
+		color: var(--muted-color)
+		cursor: default
+
+
+// Single
+
+#single
+	display: grid
+	margin: 0 auto
+	margin-top: 40px
+	max-width: 1440px
+	width: 90%
+
+	p
+		margin-bottom: 30px
+
+
+// Author
+
+#author
+	grid-area: author
+	padding-top: 10px
+
+	.utility
+		border-bottom: 1px dashed var(--border-color)
+		color: var(--muted-color)
+		font-size: 17px
+		margin-bottom: 40px
+		padding-bottom: 12px
+
+		.icon
+			height: 17px
+			position: relative
+			top: 4px
+
+		.pipe
+			margin-left: 12px
+			margin-right: 12px
+
+
+// Article
+
+article
+	grid-area: article
+
+	blockquote p
+		color: var(--muted-color)
+		padding-left: 40px
+
+	table
+		border-collapse: collapse
+		margin-bottom: 30px
+
+	td,
+	th
+		border: 1px dashed var(--border-color)
+		font-size: 18px
+		padding: 8px
+		text-align: center
+
+	th,
+	td:nth-child(1)
+		font-size: 16px
+		font-weight: 600
+
+	td:nth-child(1)
+		text-align: right
+
+	th:nth-child(1)
+		background: transparent
+
+	ul
+		margin-bottom: 30px
+
+	// https://bugs.webkit.org/show_bug.cgi?id=204163
+	li::marker
+		//content: "\2022"
+		color: var(--accent-color)
+		//display: inline-block
+		//margin-left: -1.4em
+		//width: 1.4em
+
+	.img-center
+		margin-bottom: 15px
+
+	.img-center img,
+	.img-left img
+		width: 100%
+
+	figcaption p
+		font-size: 15px
+		margin-bottom: 0px !important
+
+	.twitter-tweet-rendered
+		margin: 0 auto
+		margin-bottom: 30px !important
+
+
+// Footnotes
+
+.footnotes
+	background: var(--footnotes-background-color)
+	margin-top: 80px
+	padding: 50px
+	padding-bottom: calc(50px - 30px)
+
+	li::marker
+		color: var(--text-color)
+
+	hr
+		display: none
+
+
+// Popup
+
+.popup
+	background: var(--popup-background-color)
+	color: var(--accent-color)
+	font-size: 28px
+	line-height: 35px
+	margin-top: 60px
+	padding: 60px
+	text-align: center
+
+	.arrow
+		background: var(--popup-background-color)
+		height: 18px
+		position: absolute
+		transform: rotate(45deg)
+		width: 18px
+
+	&.question
+		grid-area: question
+		margin-top: 100px
+
+
+// Comments
+
+#comments
+	grid-area: comments
+	margin-top: 100px
+
+	#welcomments__container .welcomments__form-group textarea
+		width: 100%
+
+	#welcomments__container
+		.welcomments__form-group input,
+		.welcomments__form-group button
+			height: 50px
+
+		.welcomments__form-group input
+			float: left
+			width: calc(100% - 50px)
+
+		.welcomments__form-group button
+			float: right
+			width: 50px
+
+	#welcomments__form
+		width: 100%
+
+	.welcomments__comment
+		background: var(--footnotes-background-color)
+		padding: 30px
+		margin-bottom: 10px
+
+		h3
+			font-family: "Quadraat Pro Sans", sans-serif
+			margin-top: 0
+			margin-bottom: 0
+
+		p:last-child
+			margin-bottom: 0
+
+		a
+			-ms-hyphens: auto
+			-webkit-hyphens: auto
+			hyphens: auto
+
+	.welcomments__comment-time
+		color: var(--muted-color)
+		font-style: italic
+		margin-bottom: 20px !important
+
+
+// Footer
+
+footer
+	align-items: center
+	border-top: 1px dashed var(--border-color)
+	bottom: 0px
+	color: var(--text-color)
+	display: flex
+	height: 55px
+	margin-top: 86px
+	position: relative
+	width: 100%
+
+	a
+		font-size: 16px
+		font-weight: 700
+
+	.pipe
+		font-size: 14px
+		font-weight: 700

@@ -56,11 +56,16 @@ const time = (header) => {
 
 const scroll = (header, asides, mobile) => {
 	const logo    = header.querySelector("#logo img");
+	const input   = header.querySelector("#search input");
+	const button  = header.querySelector("#search button");
+	const img     = button.querySelector("img");
+	const arrow   = header.querySelector(".arrow");
+	const results = header.querySelector(".results");
 	const utility = header.querySelector(".utility");
 
 	let hidden     = false;
 	let lastScroll = 0;
-	let scrolling  = false
+	let ticking    = false
 
 	const hide = () => {
 		if (mobile.matches) {
@@ -69,6 +74,13 @@ const scroll = (header, asides, mobile) => {
 			header.style.transform = "translateY(-111px)";
 		}
 		logo.style.transform = "translateY(-40px)";
+
+		input.style.transform   = "scaleX(0)";
+		button.style.background = "none";
+		img.style.background    = "none";
+
+		results.innerHTML   = ""
+		arrow.style.display = "none";
 
 		if (!mobile.matches) {
 			asides.forEach((aside) => {
@@ -101,32 +113,94 @@ const scroll = (header, asides, mobile) => {
 	}
 
 	window.addEventListener("scroll", () => {
-		scrolling = true;
-	});
+		if (!ticking) {
+			ticking = true;
+			setTimeout(() => {
+				ticking = false;	
+			}, 150);
 
-	setInterval(() => {
-		if (!scrolling) {
-			return;
-		}
+			const scroll = window.scrollY;
 
-		const scroll = window.scrollY;
+			if (scroll < 300) {
+				if (hidden) {
+					show();
+				}
 
-		if (scroll < 300) {
-			if (hidden) {
+				return;
+			}
+
+			if (!hidden && scroll > lastScroll + 4) {
+				hide();
+			} else if (hidden && scroll < lastScroll - 50) {
 				show();
 			}
 
-			return;
+			lastScroll = scroll;
+		}
+	});
+}
+
+const search = (header) => {
+	const input            = header.querySelector("#search input");
+	const button           = header.querySelector("#search button");
+	const img              = button.querySelector("img");
+	const resultsContainer = header.querySelector("#search .results-container");
+	const arrow            = resultsContainer.querySelector(".arrow");
+	const results          = resultsContainer.querySelector(".results");
+
+	const fuse = new Fuse([], {
+		minMatchCharLength: 3,
+		keys: [
+			{name: "title",    weight: 0.8},
+			{name: "subtitle", weight: 0.7},
+			{name: "authors",  weight: 0.4},
+			{name: "content",  weight: 0.4},
+		],
+	});
+
+	let fetched = false;
+
+	button.addEventListener("click", (ev) => {
+		ev.preventDefault();
+
+		input.style.transform   = "scaleX(1)";
+		button.style.background = "var(--popup-background-color)";
+		img.style.background    = "var(--popup-background-color)";
+
+		if (!fetched) {
+			fetch("/index.json")
+				.then((response) => response.json())
+				.then((data) => {
+					fuse.setCollection(data);
+					fetched = true;
+				});
 		}
 
-		if (!hidden && scroll > lastScroll + 4) {
-			hide();
-		} else if (hidden && scroll < lastScroll - 50) {
-			show();
+		input.dispatchEvent(new Event("input", {bubbles:true}));
+	});
+
+
+	input.addEventListener("input", (ev) => {
+		results.innerHTML   = ""
+		arrow.style.display = "none";
+
+		const matches = fuse.search(ev.target.value, {limit: 8});
+		if (matches.length > 0) {
+			arrow.style.display = "block";
 		}
 
-		lastScroll = scroll;
-	}, 200);
+		matches.forEach((match) => {
+			const a = document.createElement("a");
+			a.setAttribute("href", match.item.permalink);
+			a.innerHTML = `
+				<h2>${match.item.title}</h2>
+				<h3>${match.item.subtitle}</h3>
+				<p class="author">${match.item.authors.join(" & ")}</p>
+			`;
+
+			results.appendChild(a);
+		});
+	});
 }
 
 const quote = () => {
@@ -179,5 +253,6 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	scroll(header, asides, mobile);
 	quote();
 	time(header);
+	search(header)
 	footnotes(article);
 });

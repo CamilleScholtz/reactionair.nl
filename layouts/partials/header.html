@@ -3,6 +3,18 @@
 		<a href="/" id="logo">
 			<img src="{{ "img/logo.svg" | relURL }}" alt="Reactionair.nl" style="height: 113px;">
 		</a>
+
+		<div id="search">
+			<form>
+				<input type="search" placeholder="Zoeken...">
+				<button><img src="{{ "img/search.svg" | relURL }}" alt="Zoeken" style="width: 22px;"></button>
+			</form>
+				
+			<div class="results-container">
+				<div class="arrow"></div>
+				<ul class="results"></ul>
+			</div>
+		</div>
 	</div>
 
 	<div class="utility">

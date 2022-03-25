@@ -1,5 +1,5 @@
 {{ define "main" }}
-	{{ $themes   := slice "Politiek & Maatschappij" "Religie & Metafysica" "Cultuur & Geschiedenis" "Recensie & Biografie" }}
+	{{ $themes := slice "Politiek & Maatschappij" "Religie & Metafysica" "Cultuur & Geschiedenis" "Recensie & Biografie" }}
 
 	<main id="home">
 		{{ partial "intro.html" . }}
@@ -20,7 +20,7 @@
 		</div>
 
 		<div id="themes">
-			{{ $themes = $themes | append "Klikaas" }}
+			{{ $themes   = $themes | append "Klikaas" }}
 			{{ $articles = after 1 (where (where site.RegularPages "Type" "eq" "artikelen") "Params.themas" "intersect" $themes) }}
 
 			{{ range $i, $theme := $themes }}
@@ -50,7 +50,7 @@
 						<div class="text">
 							<h2>{{ $featured.Params.title }}</h2>
 							<h3>{{ $featured.Params.subtitle }}</h3>
-							<p class="author">{{ delimit $featured.Params.Auteurs ", " " & " }}</p>
+							<p class="author">{{ delimit $featured.Params.auteurs ", " " & " }}</p>
 						</div>
 					</a>
 				</div>

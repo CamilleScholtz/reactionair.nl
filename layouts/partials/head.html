@@ -11,7 +11,7 @@
 	<meta property="og:url" content="{{ .Permalink }}">
 	{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
 		<meta property="og:type" content="article">
-		<meta property="og:image" content="https://reactionair.nl/media/{{ .File.BaseFileName }}/thumb.webp">
+		<meta property="og:image" content="{{ absURL (path.Join .File.BaseFileName "thumb.webp") }}">
 		<meta property="twitter:card" content="summary_large_image">
 	{{ else }}
 		<meta property="og:type" content="website">
@@ -32,14 +32,17 @@
 
 	<link rel="shortcut icon" href="{{ absURL "img/favicon.ico" }}" type="image/x-icon">
 
-	<link rel="stylesheet" href="{{ relURL "css/fonts.css" }}?v=1646003235">
-	<link rel="stylesheet" href="{{ relURL "css/light.css" }}?v=1646003235" media="(prefers-color-scheme: light)">
-	<link rel="stylesheet" href="{{ relURL "css/dark.css" }}?v=1646003235" media="(prefers-color-scheme: dark)">
-	<link rel="stylesheet" href="{{ relURL "css/style.css" }}?v=1646003235">
-	<link rel="stylesheet" href="{{ relURL "css/mobile.css" }}?v=1646003235" media="(max-width: 1024px)">
-	<link rel="stylesheet" href="{{ relURL "css/desktop.css" }}?v=1646003235" media="(min-width: 1025px)">
+	{{ $options := dict "outputStyle" "compressed" }}
 
-	<script defer src="{{ relURL "js/script.js" }}?v=1646003235"></script>
+	<link rel="stylesheet" href="{{ (resources.Get "sass/fonts.sass" | resources.ToCSS $options).RelPermalink }}?v=1646003235">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/light.sass" | resources.ToCSS $options).RelPermalink }}?v=1646003235" media="(prefers-color-scheme: light)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/dark.sass" | resources.ToCSS $options).RelPermalink }}?v=1646003235" media="(prefers-color-scheme: dark)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/main.sass" | resources.ToCSS $options).RelPermalink }}?v=1646003235">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v=1646003235" media="(max-width: 1024px)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v=1646003235" media="(min-width: 1025px)">
+
+	<script defer src="{{ (resources.Get "js/vendor/fuse.js" | resources.Minify).RelPermalink }}?v=1646003235"></script>
+	<script defer src="{{ (resources.Get "js/main.js" | resources.Minify).RelPermalink }}?v=1646003235"></script>
 
 	{{ template "_internal/google_analytics.html" . }}
 </head>

@@ -1,0 +1,144 @@
+// Typography
+
+h1
+	font-size: 39px
+	line-height: 43px
+
+h2
+	font-size: 31px
+	line-height: 41px
+	margin-bottom: 20px
+
+a,
+button,
+em,
+li,
+p,
+input,
+textarea,
+.welcomments__comment-message
+	font-size: 19px
+	line-height: 29px
+
+
+// Header
+
+header .utility
+	flex-direction: column
+	line-height: 25px
+	padding-bottom: 10px
+	padding-top: 25px
+	transition: padding-top .2s
+
+	.left,
+	.right
+		overflow: hidden
+		text-align: center 
+		width: calc(100% - 60px)
+
+		div
+			overflow: hidden
+			text-overflow: ellipsis
+			white-space: nowrap
+
+	.pipe
+		margin-left: 8px
+		margin-right: 8px
+
+
+// Home
+
+#home
+	grid-template-areas: "featured" "themes"
+	margin: 0 auto
+	width: calc(100vw - 50px)
+
+	#featured .article
+		margin-top: 30px
+
+		.text
+			padding: 20px
+
+		img
+			height: 230px
+
+	#themes
+		.theme
+			grid-template-areas: "description" "article" "pages"
+
+		.description h2
+			font-size: 39px
+			line-height: 43px
+			margin-bottom: 40px
+
+		.pages
+			margin-top: 20px
+
+		.article img
+			height: 160px
+
+
+// List
+
+#list
+	grid-template-areas: "pages" "paginator"
+	width: 100vw
+
+	.article
+		width: calc(100vw - (2 * 60px))
+
+
+// Single
+
+#single
+	column-gap: 5%
+	grid-template-areas: "author" "article" "question" "comments"
+
+
+// Author
+
+#author
+	.utility .author
+		float: right
+		font-size: 15px
+		font-style: italic
+		max-width: 33%
+		overflow: hidden
+		text-overflow: ellipsis
+		white-space: nowrap
+
+		a
+			font-size: 15px
+
+	.author-container
+		display: none
+
+
+// Article
+
+article .img-left
+	margin-bottom: 15px
+	width: 100%
+
+
+// Popup
+
+.popup
+	position: relative
+
+	.arrow
+		bottom: -9px
+		left: calc(50% - 9px)
+
+	&.intro
+		display: none
+
+
+// Footer
+
+footer
+	justify-content: center
+
+	.pipe
+		margin-left: 8px
+		margin-right: 8px
