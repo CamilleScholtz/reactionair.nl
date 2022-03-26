@@ -17,8 +17,8 @@ input
 button
 	border: none
 	border-radius: 0
-	background: var(--accent-color)
-	color: var(--background-color)
+	background: var(--popup-background-color)
+	color: var(--accent-color)
 	cursor: pointer
 	display: block
 	font-family: "Quadraat Pro", serif
@@ -157,7 +157,7 @@ header
 					transform: scaleX(0)
 					transform-origin: right
 					transition: transform .2s
-					width: calc(100% - 50px)						
+					width: calc(100% - 50px)					
 			
 				button
 					align-items: center
@@ -167,11 +167,15 @@ header
 					float: right
 					width: 50px
 
+					.close-icon
+						background: var(--popup-background-color)
+
 			.results-container
 				background: var(--popup-background-color)
 				position: absolute
 				text-align: left
 				margin-top: 59px
+				width: 100%
 
 				.arrow
 					background: var(--popup-background-color)
@@ -184,7 +188,7 @@ header
 					width: 18px
 
 				.results
-					max-height: calc(100vh - 200px)
+					max-height: calc(100vh - 114px)
 					overflow-y: scroll
 					padding: 0
 					position: relative
@@ -479,8 +483,8 @@ header
 	text-align: center
 
 	a
-		background: var(--accent-color)
-		color: var(--background-color)
+		background: var(--popup-background-color)
+		color: var(--accent-color)
 		height: 50px
 		display: inline-block
 		line-height: 54px

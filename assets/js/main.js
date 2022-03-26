@@ -55,13 +55,14 @@ const time = (header) => {
 }
 
 const scroll = (header, asides, mobile) => {
-	const logo    = header.querySelector("#logo img");
-	const input   = header.querySelector("#search input");
-	const button  = header.querySelector("#search button");
-	const img     = button.querySelector("img");
-	const arrow   = header.querySelector(".arrow");
-	const results = header.querySelector(".results");
-	const utility = header.querySelector(".utility");
+	const logo       = header.querySelector("#logo img");
+	const input      = header.querySelector("#search input");
+	const button     = header.querySelector("#search button");
+	const searchIcon = button.querySelector(".search-icon");
+	const closeIcon  = button.querySelector(".close-icon");
+	const arrow      = header.querySelector(".arrow");
+	const results    = header.querySelector(".results");
+	const utility    = header.querySelector(".utility");
 
 	let hidden     = false;
 	let lastScroll = 0;
@@ -75,9 +76,12 @@ const scroll = (header, asides, mobile) => {
 		}
 		logo.style.transform = "translateY(-40px)";
 
-		input.style.transform   = "scaleX(0)";
-		button.style.background = "none";
-		img.style.background    = "none";
+		input.style.transform    = "scaleX(0)";
+		button.style.background  = "none";
+		searchIcon.style.display = "inline";
+		closeIcon.style.display  = "none";
+
+		input.blur();
 
 		results.innerHTML   = ""
 		arrow.style.display = "none";
@@ -140,10 +144,12 @@ const scroll = (header, asides, mobile) => {
 	});
 }
 
-const search = (header) => {
+const search = (header, mobile) => {
+	const logo             = header.querySelector("#logo img");
 	const input            = header.querySelector("#search input");
 	const button           = header.querySelector("#search button");
-	const img              = button.querySelector("img");
+	const searchIcon       = button.querySelector(".search-icon");
+	const closeIcon        = button.querySelector(".close-icon");
 	const resultsContainer = header.querySelector("#search .results-container");
 	const arrow            = resultsContainer.querySelector(".arrow");
 	const results          = resultsContainer.querySelector(".results");
@@ -163,22 +169,46 @@ const search = (header) => {
 	button.addEventListener("click", (ev) => {
 		ev.preventDefault();
 
-		input.style.transform   = "scaleX(1)";
-		button.style.background = "var(--popup-background-color)";
-		img.style.background    = "var(--popup-background-color)";
+		if (closeIcon.style.display == "none") {
+			if (!fetched) {
+				fetch("/index.json")
+					.then((response) => response.json())
+					.then((data) => {
+						fuse.setCollection(data);
+						fetched = true;
+					});
+			}
 
-		if (!fetched) {
-			fetch("/index.json")
-				.then((response) => response.json())
-				.then((data) => {
-					fuse.setCollection(data);
-					fetched = true;
-				});
+			if (mobile.matches) {
+				logo.style.transform = "translateY(-200px)";
+			}
+
+			input.style.transform    = "scaleX(1)";
+			button.style.background  = "var(--popup-background-color)";
+			searchIcon.style.display = "none";
+			closeIcon.style.display  = "inline";
+
+			input.focus();
+
+			input.dispatchEvent(new Event("input", {bubbles:true}));
+		} else {
+			input.style.transform    = "scaleX(0)";
+			setTimeout(() => {
+				button.style.background  = "none";
+				searchIcon.style.display = "inline";
+				closeIcon.style.display  = "none";
+
+				if (mobile.matches) {
+					logo.style.transform = "translateY(0px)";
+				}
+			}, 200);
+
+			results.innerHTML   = ""
+			arrow.style.display = "none";
+
+			input.blur();
 		}
-
-		input.dispatchEvent(new Event("input", {bubbles:true}));
 	});
-
 
 	input.addEventListener("input", (ev) => {
 		results.innerHTML   = ""
@@ -253,6 +283,6 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	scroll(header, asides, mobile);
 	quote();
 	time(header);
-	search(header)
+	search(header, mobile)
 	footnotes(article);
 });

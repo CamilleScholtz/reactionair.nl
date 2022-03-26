@@ -23,27 +23,31 @@ textarea,
 
 // Header
 
-header .utility
-	flex-direction: column
-	line-height: 25px
-	padding-bottom: 10px
-	padding-top: 25px
-	transition: padding-top .2s
+header
+	#search
+		width: calc(100vw - 50px)
 
-	.left,
-	.right
-		overflow: hidden
-		text-align: center 
-		width: calc(100% - 60px)
+	.utility
+		flex-direction: column
+		line-height: 25px
+		padding-bottom: 10px
+		padding-top: 25px
+		transition: padding-top .2s
 
-		div
+		.left,
+		.right
 			overflow: hidden
-			text-overflow: ellipsis
-			white-space: nowrap
+			text-align: center 
+			width: calc(100% - 60px)
 
-	.pipe
-		margin-left: 8px
-		margin-right: 8px
+			div
+				overflow: hidden
+				text-overflow: ellipsis
+				white-space: nowrap
+
+		.pipe
+			margin-left: 8px
+			margin-right: 8px
 
 
 // Home
