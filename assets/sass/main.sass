@@ -428,21 +428,26 @@ header
 
 	#authors .author-container
 		background: var(--background-color)
+		border-bottom: 1px dashed var(--border-color)
 		padding: 60px
+
+		&:last-of-type
+			border-bottom: none
 
 	#authors,
 	#articles
-		background: var(--border-color)
-		border-bottom: 1px dashed var(--border-color)
 		display: grid
 		grid-area: pages
-		grid-gap: 1px
 
 		.article
 			background: var(--background-color)
+			border-bottom: 1px dashed var(--border-color)
 			padding: 60px
 			position: relative
 			text-align: center
+
+			&:last-of-type
+				border-bottom: none
 
 			img
 				height: 300px

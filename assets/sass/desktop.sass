@@ -57,7 +57,7 @@ header .utility
 			padding: 40px
 			text-align: center
 
-		.article img
+		img
 			height: 320px
 
 	#themes
@@ -91,6 +91,14 @@ header .utility
 
 	#articles
 		grid-template-columns: repeat(2, 1fr)
+
+		.article
+			&:nth-child(2n)
+				border-left: 1px dashed var(--border-color)
+
+			&:nth-last-child(1),
+			&:nth-last-child(2)
+				border-bottom: none
 
 
 // Single
