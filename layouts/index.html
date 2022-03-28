@@ -44,7 +44,7 @@
 
 					<a href="{{ $featured.RelPermalink }}" class="article">
 						{{ if ne $theme "Klikaas" }}
-							<img src="/media/{{ $featured.File.BaseFileName }}/thumb.webp" alt="{{ $featured.Params.title }}" loading="lazy">
+							<img src="/media/{{ $featured.File.BaseFileName }}/thumb.webp" alt="{{ $featured.Params.title }}" {{ if ge $i 1 }}loading="lazy"{{ end }}>
 						{{ end }}
 
 						<div class="text">

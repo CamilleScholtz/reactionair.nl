@@ -27,12 +27,5 @@ paginatePath = "pagina"
 	[minify.tdewolff.html]
 		keepWhitespace = false
 
-[outputFormats]
-  [outputFormats.JSON]
-    mediaType      = "application/json"
-    baseName       = "index"
-    isPlainText    = true
-    notAlternative = true
-
 [outputs]
-	home = ["HTML", "JSON"]
+	home = ["HTML", "JSON", "RSS"]
