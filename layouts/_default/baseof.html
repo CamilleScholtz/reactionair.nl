@@ -6,7 +6,9 @@
 	<body>
 		{{ partial "header.html" . }}
 
-		{{ block "main" . }}{{ end }}
+		<main id="{{.Kind}}">
+			{{ block "main" . }}{{ end }}
+		</main>
 
 		{{ partial "footer.html" . }}
 	</body>

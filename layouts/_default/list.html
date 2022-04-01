@@ -1,13 +1,21 @@
 {{ define "main" }}
 	{{ $paginator := .Paginate .RegularPages }}
 
-	<main id="list">
-		{{ if eq .Section "auteurs" }}
-			{{ partial "author.html" . }}
-		{{ else }}
-			{{ partial "intro.html" . }}
-		{{ end }}		
+	{{ if eq .Section "auteurs" }}
+		<aside class="authors">
+			<div class="sticky">
+				{{ partial "author.html" . }}
+			</div>	
+		</aside>
+	{{ else }}
+		<aside class="intro quote">
+			<div class="sticky">
+				{{ partial "quote.html" (dict "text" "" "author" "") }}
+			</div>	
+		</aside>
+	{{ end }}	
 
+	<section>
 		<div id="articles">		
 			{{ range $paginator.Pages }}			
 				{{ partial "article.html" . }}
@@ -29,5 +37,5 @@
 				{{ end }}
 			</nav>
 		{{ end }}
-	</main>
+	</section>
 {{ end }}

@@ -1,19 +1,18 @@
-const footnotes = (article) => {
-	if (!article) {
+const footnotes = (page) => {
+	if (!page) {
 		return;
 	}
 
-	const refs     = article.querySelectorAll(".footnote-ref");
-	const backrefs = article.querySelectorAll(".footnote-backref");
+	const refs     = page.querySelectorAll(".footnote-ref");
+	const backrefs = page.querySelectorAll(".footnote-backref");
 
 	refs.forEach((ref) => {
 		ref.addEventListener("click", (ev) => {
 			ev.preventDefault();
 
 			const id = ref.getAttribute("href").split(":").pop();
-			const to = article.querySelector("#fn\\:" + id).offsetTop - 100;
+			const to = page.querySelector("#fn\\:" + id).offsetTop - 100;
 
-			// TODO: This is not smooth in Safari.
 			window.scroll({
 				top:      to,
 				behavior: "smooth",
@@ -29,9 +28,8 @@ const footnotes = (article) => {
 			ev.preventDefault();
 
 			const id = backref.getAttribute("href").split(":").pop();
-			const to = article.querySelector("[href='#fn:" + id + "']").offsetTop - (window.innerHeight / 2)
+			const to = page.querySelector("[href='#fn:" + id + "']").offsetTop - (window.innerHeight / 2)
 
-			// TODO: This is not smooth in Safari.
 			window.scroll({
 				top:      to,
 				behavior: "smooth",
@@ -54,7 +52,7 @@ const time = (header) => {
 	now.innerHTML = `${day} ${month.slice(0, -1).toUpperCase()}, ${year}`;
 }
 
-const scroll = (header, asides, mobile) => {
+const scroll = (header, stickies, mobile) => {
 	const logo       = header.querySelector("#logo img");
 	const input      = header.querySelector("#search input");
 	const button     = header.querySelector("#search button");
@@ -87,11 +85,11 @@ const scroll = (header, asides, mobile) => {
 		arrow.style.display = "none";
 
 		if (!mobile.matches) {
-			asides.forEach((aside) => {
-				if (aside.classList.contains("question")) {
-					aside.style.top = "calc(110px + 55px + 50px + 2px - 111px)";
+			stickies.forEach((sticky) => {
+				if (sticky.parentNode.classList.contains("authors")) {
+					sticky.style.top = "calc(110px + 55px + 40px + 2px - 111px)";
 				} else {
-					aside.style.top = "calc(110px + 55px + 40px + 2px - 111px)";
+					sticky.style.top = "calc(110px + 55px + 50px + 2px - 111px)";
 				}
 			});
 		}
@@ -104,11 +102,11 @@ const scroll = (header, asides, mobile) => {
 		logo.style.transform   = "translateY(0px)";
 
 		if (!mobile.matches) {
-			asides.forEach((aside) => {
-				if (aside.classList.contains("question")) {
-					aside.style.top = "calc(110px + 55px + 50px + 2px)";
+			stickies.forEach((sticky) => {
+				if (sticky.parentNode.classList.contains("authors")) {
+					sticky.style.top = "calc(110px + 55px + 40px + 2px)";
 				} else {
-					aside.style.top = "calc(110px + 55px + 40px + 2px)";
+					sticky.style.top = "calc(110px + 55px + 50px + 2px)";
 				}
 			});
 		}
@@ -121,7 +119,7 @@ const scroll = (header, asides, mobile) => {
 			ticking = true;
 			setTimeout(() => {
 				ticking = false;	
-			}, 150);
+			}, 100);
 
 			const scroll = window.scrollY;
 
@@ -133,9 +131,9 @@ const scroll = (header, asides, mobile) => {
 				return;
 			}
 
-			if (!hidden && scroll > lastScroll + 4) {
+			if (!hidden && scroll > lastScroll + 12) {
 				hide();
-			} else if (hidden && scroll < lastScroll - 50) {
+			} else if (hidden && scroll < lastScroll - 100) {
 				show();
 			}
 
@@ -234,8 +232,8 @@ const search = (header, mobile) => {
 }
 
 const quote = () => {
-	const aside = document.querySelector("#quote");
-	if (!aside) {
+	const sticky = document.querySelector(".intro");
+	if (!sticky) {
 		return;
 	}
 
@@ -268,21 +266,21 @@ const quote = () => {
 
 	const quote = quotes[Math.floor(Math.random() * quotes.length)];
 
-	aside.querySelector("q").innerHTML       = quote[1];
-	aside.querySelector(".author").innerHTML = "- " + quote[0];
+	sticky.querySelector("q").innerHTML       = quote[1];
+	sticky.querySelector(".author").innerHTML = "- " + quote[0];
 }
 
 
 window.addEventListener("DOMContentLoaded", (ev) => {
 	const mobile = window.matchMedia("(max-width: 1024px)");
 
-	const header  = document.querySelector("header");
-	const article = document.querySelector("article");
-	const asides  = document.querySelectorAll("aside");
+	const header   = document.querySelector("header");
+	const page     = document.querySelector("#page");
+	const stickies = document.querySelectorAll(".sticky");
 
-	scroll(header, asides, mobile);
+	scroll(header, stickies, mobile);
 	quote();
 	time(header);
 	search(header, mobile)
-	footnotes(article);
+	footnotes(page);
 });

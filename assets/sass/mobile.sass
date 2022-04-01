@@ -50,13 +50,16 @@ header
 			margin-right: 8px
 
 
-// Home
+// Main
 
-#home
-	grid-template-areas: "featured" "themes"
+main
 	margin: 0 auto
 	width: calc(100vw - 50px)
 
+
+// Home
+
+#home
 	#featured .article
 		margin-top: 30px
 
@@ -82,60 +85,62 @@ header
 			height: 160px
 
 
-// List
+// Taxonomies & terms
 
-#list
-	grid-template-areas: "pages" "paginator"
-	width: 100vw
+#taxonomy,
+#term
+	#authors,
+	#articles
+		.article
+			padding: 30px
 
-	.article
-		width: calc(100vw - (2 * 60px))
-
+			.author
+				width: calc(100% - (30px * 2))
 
 // Single
 
-#single
-	column-gap: 5%
-	grid-template-areas: "author" "article" "question" "comments"
+#page
+	margin-top: 40px
 
 
-// Author
+// Asides
 
-#author
-	.utility .author
-		float: right
-		font-size: 15px
-		font-style: italic
-		max-width: 33%
-		overflow: hidden
-		text-overflow: ellipsis
-		white-space: nowrap
-
-		a
+aside
+	&.authors
+		.utility .author
+			float: right
 			font-size: 15px
+			font-style: italic
+			max-width: 33%
+			overflow: hidden
+			text-overflow: ellipsis
+			white-space: nowrap
 
-	.author-container
+			a
+				font-size: 15px
+
+		.author-container
+			display: none
+
+	&.intro,
+	&.quote
 		display: none
+
+	&.question
+		.popup
+			position: relative
+
+			.arrow
+				bottom: -9px
+				left: calc(50% - 9px)
 
 
 // Article
 
-article .img-left
-	margin-bottom: 15px
-	width: 100%
-
-
-// Popup
-
-.popup
-	position: relative
-
-	.arrow
-		bottom: -9px
-		left: calc(50% - 9px)
-
-	&.intro
-		display: none
+article
+	.img-left
+		margin-bottom: 15px
+		width: 100%
 
 
 // Footer

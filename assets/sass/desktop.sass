@@ -37,20 +37,36 @@ header .utility
 		margin-right: 12px
 
 
-// Home
+// Main
 
-#home
+main
 	column-gap: 5%
-	grid-template-areas: "sidebar featured" "sidebar themes" !important
 	grid-template-columns: auto minmax(60%, calc(100% - 5% - 560px))
 	grid-template-rows: auto
 	margin-top: 40px
 
-	.sidebar
-		grid-area: span 2
+	>aside
+		align-self: stretch
+		grid-column: 1
+		grid-row: auto
 
+		.sticky
+			position: sticky
+			top: calc(110px + 55px + 40px + 2px)
+			transition: top .2s
+
+	>article,
+	>section
+		grid-column: 2
+		grid-row: auto
+
+
+// Home
+
+#home
 	#featured .article
 		margin: 60px
+		margin-bottom: 100px
 
 		.text
 			max-width: calc(100% - 60px)
@@ -73,136 +89,103 @@ header .utility
 			height: 320px
 
 
-// List
+// Taxonomies & terms
 
-#list
-	column-gap: 5%
-	grid-template-areas: "sidebar pages" "sidebar paginator"
-	grid-template-columns: auto minmax(60%, calc(100% - 5% - 560px))
-	grid-template-rows: auto
-
-	#authors,
+#taxonomy,
+#term,
 	#articles
-		margin: 0 auto
-		max-width: 1440px
-
-	#authors
-		grid-template-columns: repeat(1, 1fr)
-
-	#articles
+		display: grid;
 		grid-template-columns: repeat(2, 1fr)
 
 		.article
-			&:nth-child(2n)
-				border-left: 1px dashed var(--border-color)
+			padding: 60px
+		
+			&:nth-child(2n-1)
+				border-right: 1px dashed var(--border-color)
 
 			&:nth-last-child(1),
 			&:nth-last-child(2)
 				border-bottom: none
 
-
-// Single
-
-#single
-	column-gap: 5%
-	grid-template-areas: "author article" "question comments"
-	grid-template-columns: auto minmax(60%, calc(100% - 5% - 560px))
-	grid-template-rows: auto
+			.author
+				width: calc(100% - (60px * 2))
 
 
-// Sidebar
-
-.sidebar
-	height: calc(100% - 30px)
+// Asides
 
 aside
-	position: sticky
-	top: calc(110px + 55px + 40px + 2px)
-	transition: top .2s
+	margin-bottom: 31px
 
+	&.authors
+		.utility .author
+			display: none
 
-// Author
+		.author-container
+			margin-top: -31px
+			padding-bottom: 96px
+		
+			&:nth-child(n+3)
+				border-top: 1px dashed var(--border-color)
+				margin-top: 40px
+				padding-top: 40px
 
-#author
-	.utility .author
-		display: none
-
-	.author-container
-		&:nth-child(n+3)
-			border-top: 1px dashed var(--border-color)
-			margin-top: 40px
-			padding-top: 40px
-
-		p,
-		a
-			line-height: 29px
-
-		.name-container
-			height: 100px
-			margin-bottom: 20px
-
-			img
-				border-radius: 100%
-				display: inline-block
-				float: left
-				height: 100px
-				margin-right: 25px
-				position: relative
-				width: 100px
-
-			.author
-				font-family: "Quadraat Pro Sans", sans-serif
-				display: inline-block
-				margin-bottom: -6px
-				margin-top: 19px
-				min-width: 50%
-
-			.profession
-				color: var(--muted-color)
-				display: inline-block
-				font-style: italic
-				min-width: 50%
-				width: auto
-
-		.author-container .description
-			color: var(--slightly-muted-color)
-			display: block
-			width: 100%
-
-
-// Article
-
-article .img-left
-	float: left
-	margin: 5px 30px 0 0
-	text-align: center
-	width: 45%
-
-
-// Popup
-
-.popup
-	.arrow
-		right: -9px
-		top: calc(50% - 9px)
+			p,
+			a
+				line-height: 29px
 
 	&.intro
-		background: transparent
-		color: var(--text-color)
-		grid-area: author
+		text-align: center
+	
+		.sticky
+			border-right: none !important
+			margin-top: 100px
+			padding: 60px
 
-		#quote
-			margin-bottom: 20px
+			&::before
+				left: 38px !important
+				top: 110px !important
+
+			.links
+				font-size: 28px
+				line-height: 35px
+				margin-top: 20px
+			
+				a
+					font-size: 16px
+					font-weight: 700
+
+				.pipe
+					font-size: 14px
+					font-weight: 700
+
+	&.question
+		.popup
+			.arrow
+				right: -9px
+				top: calc(50% - 9px)
+
+	&.quote
+		margin-top: 10px
+	
+		.sticky
+			border-right: 1px dashed var(--border-color)
+			color: var(--slightly-muted-color)
+			line-height: 31px
+			padding-right: 60px
 
 			&::before
 				color: var(--popup-background-color)
 				content: "“"
 				font-family: "Quadraat Pro Sans", sans-serif
-				font-size: 220px
-				left: 40px
+				font-size: 190px
+				left: -27px
 				position: absolute
-				top: 110px
+				top: 50px
 				z-index: -1
+
+			q
+				font-size: 25px
+				font-style: italic
 
 			.author
 				color: var(--muted-color)
@@ -210,14 +193,17 @@ article .img-left
 				font-family: "Quadraat Pro Sans", sans-serif
 				font-size: 16px
 
-		.links
-			a
-				font-size: 16px
-				font-weight: 700
+// Article
 
-			.pipe
-				font-size: 14px
-				font-weight: 700
+article
+	.blockquote.hide
+		display: none
+
+	.img-left
+		float: left
+		margin: 5px 30px 0 0
+		text-align: center
+		width: 45%
 
 
 // Comments

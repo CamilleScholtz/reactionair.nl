@@ -16,7 +16,7 @@ En,
 >... wetenschappelijk verantwoorde lesprogramma's met een objectief positief effect op de maatschappij ten behoeve van het algemene belang van emancipatie. Neutraal dus.[^2]
 
 {{< figure
-	src="/media/e-mythe-van-de-neutraliteit/thumb.webp"
+	src="/media/de-mythe-van-de-neutraliteit/thumb.webp"
 	alt="De parabel der blinden"
 	class="img-center"
 	caption="De parabel der blinden van Pieter Bruegel de Oude. Gebaseerd op Mattheüs 15:1-20."

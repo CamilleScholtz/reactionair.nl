@@ -3,56 +3,21 @@
 	{{ $authors = slice .Params.Title }}
 {{ end }}
 
-<div class="sidebar">
-	<aside id="author">
-		{{ if eq .Kind "page" }}
-			<div class="utility">
-				<span>{{ math.Round (div (countwords .Content) 220.0) }} minuten leestijd</span>
+{{ range $authors }}
+	{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
+		<div class="author-container">
+			<div class="name-container">
+				<img src="{{ .RelPermalink }}/avatar.webp" alt="{{ .Params.title }}">
 
-				<span class="pipe">|</span>
-
-				<span>
-					<a href="https://twitter.com/intent/tweet?text={{ .Permalink }}" target="_blank">
-						<img class="icon" fill="red" src="{{ relURL "img/twitter.svg" }}" alt="Twitter">
-					</a>
-					<a href="https://wa.me?text={{ .Permalink }}" target="_blank">
-						<img class="icon" src="{{ relURL "img/whatsapp.svg" }}" alt="WhatsApp">
-					</a>
-					<a href="https://t.me/share/url?url={{ .Permalink }}" target="_blank">
-						<img class="icon" src="{{ relURL "img/telegram.svg" }}" alt="Telegram">
-					</a>
-				</span>
-
-				<span class="author">
-					{{ range $index, $_ := $authors }}
-						{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
-							<a href="{{ .RelPermalink }}">{{ .Params.title }}</a>
-							{{ if and (eq (len $authors) 2) (eq $index 0) }}
-								&nbsp;&&nbsp;
-							{{ end }}
-						{{ end }}
-					{{ end }}
-				</span>
+				<h3 class="author">{{ .Params.title }}</h3>
+				<p class="profession">{{ .Params.profession }}</p>
 			</div>
-		{{ end }}
 
-		{{ range $authors }}
-			{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
-				<div class="author-container">
-					<div class="name-container">
-						<img src="{{ .RelPermalink }}/avatar.webp" alt="{{ .Params.title }}">
+			<p class="description">{{ .Params.description }}</p>
 
-						<h3 class="author">{{ .Params.title }}</h3>
-						<p class="profession">{{ .Params.profession }}</p>
-					</div>
-
-					<p class="description">{{ .Params.description }}</p>
-
-					{{ if eq $.Kind "page" }}
-						<a class="more" href="{{ .RelPermalink }}">Meer van deze auteur...</a>
-					{{ end }}
-				</div>
+			{{ if eq $.Kind "page" }}
+				<a class="more" href="{{ .RelPermalink }}">Meer van deze auteur...</a>
 			{{ end }}
-		{{ end }}
-	</aside>
-</div>
+		</div>
+	{{ end }}
+{{ end }}

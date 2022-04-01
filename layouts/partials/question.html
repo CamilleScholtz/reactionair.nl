@@ -1,11 +1,9 @@
-<div class="sidebar">
-	<aside class="popup question">
-		{{ if isset .Params "question" }}
-			{{ .Params.question }}
-		{{ else }}
-			Wat zijn uw gedachten over dit artikel?
-		{{ end }}
+<div class="popup">
+	{{ if isset .Params "question" }}
+		{{ .Params.question }}
+	{{ else }}
+		Wat zijn uw gedachten over dit artikel?
+	{{ end }}
 
-		<div class="arrow"></div>
-	</aside>
+	<div class="arrow"></div>
 </div>

@@ -1,0 +1,15 @@
+{{ if (.Get "aside") }}
+	</article>
+
+	<aside class="quote">
+		<div class="sticky">
+			{{ partial "quote.html" (dict "text" (.Get "text") "author" (.Get "author")) }}
+		</div>
+	</aside>
+
+	<article>
+{{ end }}
+
+<blockquote class="blockquote{{ if (.Get "aside") }} hide{{ end }}">
+	<p><i>“{{ (.Get "text") }}”</i> - {{ (.Get "author") }}</p>
+</blockquote>

@@ -1,18 +1,25 @@
 {{ define "main" }}
-	<main id="single">
-		{{ partial "author.html" . }}
+	<aside class="authors">
+		<div class="sticky">
+			{{ partial "utility.html" . }}
+			{{ partial "author.html" . }}
+		</div>
+	</aside>
 
-		<article>		
-			<h1>{{ .Params.title }}</h1>
-			<h2>{{ .Params.subtitle }}</h2>
+	<article>		
+		<h1>{{ .Params.title }}</h1>
+		<h2>{{ .Params.subtitle }}</h2>
 
-			{{ .Content }}
-		</article>
+		{{ .Content }}
+	</article>
 
-		{{ partial "question.html" . }}
+	<aside class="question">
+		<div class="sticky">
+			{{ partial "question.html" . }}
+		</div>
+	</aside>
 
-		<section id="comments">
-			{{ partial "welcomments/comments" (dict "context" . "websiteId" "BHkB0mKadpRI9gniJfThtn9LU" ) }}
-		</section>
-	</main>
+	<section id="comments">
+		{{ partial "welcomments/comments" (dict "context" . "websiteId" "BHkB0mKadpRI9gniJfThtn9LU" ) }}
+	</section>
 {{ end }}

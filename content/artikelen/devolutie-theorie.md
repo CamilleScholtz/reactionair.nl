@@ -14,7 +14,7 @@ themas   = ["Politiek & Maatschappij"]
 De Nederlandse vertaling van Charles Darwin’s _On The Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life_ verscheen al in 1860, minder dan een jaar na de publicatie van het Engelstalige origineel. De titel werd vertaald als _‘Het ontstaan der soorten van dieren en planten door middel van de natuurkeus, of het bewaard blijven van bevoorregte rassen in den strijd des levens’_. Opvallenderwijs verscheen Charles Darwin’s meesterwerk, nog altijd de grondslag van de op diens ‘natuurlijke selectie’ principe berustende en later met begrippen als ‘evolutionaire wapenwedloop’ en ‘seksuele marktwaarde’ uitgewerkte evolutietheorie, in een tijd waarin sociaal-politiek gelijkheidsdenken en sociaal-economisch emancipatiestreven Westerse maatschappijen begonnen te overheersen. Het Emancipatie Edict van Tsaar Alexander II, dat een einde maakte aan de Russische lijfeigenschap, trad in werking in 1861. De Emancipatiewet, ondertekend door Koning Willem III om de slavernij in West-Indië te beëindigen, ging in op 1 juli 1863 (1 juli is, als _Ketikoti_ bekend, daarom een nationale feestdag in Suriname). Het Dertiende Amendement van de Amerikaanse grondwet, door President Lincoln ontworpen om de slavernij af te schaffen, werd rechtskrachtig in 1865.
 
 {{< figure
-	src="/media/evolutie-theorie/thumb.webp"
+	src="/media/devolutie-theorie/thumb.webp"
 	alt="Lucifer"
 	class="img-left"
 	caption="William Blake 's illustratie van Lucifer zoals gepresenteerd in John Milton 's Paradise Lost"

@@ -1,4 +1,4 @@
-<article id="{{ .elementId }}" class="{{ .elementClassName }}" data-comment-id="{{ .id }}" data-author-name="{{ .authorName }}" data-nesting-level="{{ .nestingLevel }}" itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+<div id="{{ .elementId }}" class="{{ .elementClassName }}" data-comment-id="{{ .id }}" data-author-name="{{ .authorName }}" data-nesting-level="{{ .nestingLevel }}" itemprop="comment" itemscope itemtype="https://schema.org/Comment">
 	<div class="welcomments__comment-header">
 		<div class="welcomments__author-information">
 			<div class="welcomments__author-name-and-time">
@@ -20,4 +20,4 @@
 	  	{{ printf "href=\"%s/websites/%s/comments/%s/reply\"" .apiUrl .websiteId .id | safeHTMLAttr }}>
 		Reply to {{ .authorName }}
 	</a>
-</article>
+</div>

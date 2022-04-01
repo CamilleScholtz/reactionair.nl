@@ -1,9 +1,25 @@
 {{ define "main" }}
 	{{ $themes := slice "Politiek & Maatschappij" "Religie & Metafysica" "Cultuur & Geschiedenis" "Recensie & Biografie" }}
 
-	<main id="home">
-		{{ partial "intro.html" . }}
-	
+	<aside class="intro quote">
+		<div class="sticky">
+			{{ partial "quote.html" (dict "text" "" "author" "") }}
+
+			<div class="links">
+				<!--<a href="/doneren/">Doneren</a>
+
+				<span class="pipe">|</span>-->
+				
+				<a href="/auteurs/">Auteurs</a>
+
+				<span class="pipe">|</span>
+				
+				<a href="/artikelen/wie-zijn-wij/">Wie zijn wij?</a>
+			</div>
+		</div>
+	</aside>
+
+	<section>
 		<div id="featured">
 			{{ $articles := where (where site.RegularPages "Type" "eq" "artikelen") "Params.themas" "intersect" $themes }}
 			{{ $featured := index $articles 0 }}
@@ -56,5 +72,5 @@
 				</div>
 			{{ end }}
 		</div>
-	</main>
+	</section>
 {{ end }}

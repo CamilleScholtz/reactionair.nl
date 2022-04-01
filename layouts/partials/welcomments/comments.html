@@ -9,7 +9,7 @@
 		{{ $allComments = index .context.Site.Data.welcomments $slug }}
 	{{ end }}
 
-	<section id="welcomments__comment-container" class="welcomments__comment-container">
+	<div id="welcomments__comment-container" class="welcomments__comment-container">
 		{{ range $allComments }}
 			{{ $data := dict }}
 			{{ $data  = merge $data (dict "nestingLevel" 0) }}
@@ -19,7 +19,7 @@
 			{{ $data  = merge $data (dict "websiteId" $websiteId) }}
 			{{ partial "welcomments/single_comment" $data }}
 		{{ end }}
-	</section>
+	</div>
 
 	{{ $data := dict }}
 	{{ $data  = merge $data (dict "apiUrl" $apiUrl) }}

@@ -2,22 +2,36 @@
 	{{ $authors  := .Pages }}
 	{{ $featured := slice }}
 
-	<main id="list">
-		{{ partial "intro.html" . }}
+	<aside class="intro quote">
+		<div class="sticky">
+			{{ partial "quote.html" (dict "quote" "" "author" "") }}
 
-		<div id="authors">
-			{{ range sort $authors ".Params.title" "asc" }}
-				<a href="{{ .RelPermalink }}" class="author-container">
-					<div class="name-container">
-						<img src="{{ path.Join .RelPermalink "avatar.webp" }}" alt="{{ .Params.title }}">
+			<div class="links">
+				<!--<a href="/doneren/">Doneren</a>
 
-						<h3 class="author">{{ .Params.title }}</h3>
-						<p class="profession">{{ .Params.profession }}</p>
-					</div>
+				<span class="pipe">|</span>-->
+				
+				<a href="/auteurs/">Auteurs</a>
 
-					<p class="description">{{ .Params.description }}</p>
-				</a>
-			{{ end }}
+				<span class="pipe">|</span>
+				
+				<a href="/artikelen/wie-zijn-wij/">Wie zijn wij?</a>
+			</div>
 		</div>
-	</main>
+	</aside>
+
+	<section id="authors">
+		{{ range sort $authors ".Params.title" "asc" }}
+			<a href="{{ .RelPermalink }}" class="author-container">
+				<div class="name-container">
+					<img src="{{ path.Join .RelPermalink "avatar.webp" }}" alt="{{ .Params.title }}">
+
+					<h3 class="author">{{ .Params.title }}</h3>
+					<p class="profession">{{ .Params.profession }}</p>
+				</div>
+
+				<p class="description">{{ .Params.description }}</p>
+			</a>
+		{{ end }}
+	</section>
 {{ end }}
