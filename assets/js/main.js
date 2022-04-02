@@ -153,12 +153,13 @@ const search = (header, mobile) => {
 	const results          = resultsContainer.querySelector(".results");
 
 	const fuse = new Fuse([], {
-		minMatchCharLength: 3,
+		ignoreLocation: true,
+		findAllMatches: true,
 		keys: [
 			{name: "title",    weight: 0.8},
-			{name: "subtitle", weight: 0.7},
-			{name: "authors",  weight: 0.4},
-			{name: "content",  weight: 0.4},
+			{name: "subtitle", weight: 0.8},
+			{name: "authors",  weight: 0.7},
+			{name: "content",  weight: 0.6},
 		],
 	});
 

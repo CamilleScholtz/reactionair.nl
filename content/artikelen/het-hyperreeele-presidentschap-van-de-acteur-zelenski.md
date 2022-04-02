@@ -1,21 +1,34 @@
 +++
 title    = "Het hyperreeële presidentschap van de acteur Zelenski"
 subtitle = "Een baudrillardiaanse visie"
-auteurs  = ["De Melancholieke Nar"]
-date     = "2022-04-01"
+auteurs  = ["Rintrah Radagast", "De Melancholieke Nar"]
+date     = "2022-04-02"
 themas   = ["Politiek & Maatschappij"]
-draft    = true
 +++
 
 Jean Baudrillard (1929-2007) was een post-marxistische filosoof die vooral bekend is geworden om het concept hyperrealiteit. Hiermee bedoelde hij dat we in een fase van de geschiedenis zijn gekomen waarin het menselijke bewustzijn niet meer in staat is de werkelijkheid van een simulatie daarvan te onderscheiden.
 
+{{< figure
+	src="/media/het-hyperreeele-presidentschap-van-de-acteur-zelenski/thumb.webp"
+	alt="Jean Baudrillard"
+	class="img-left"
+	caption="Tekening van Jean Baudrillard door Burak Kum."
+>}}
+
 Neem bijvoorbeeld een Ierse pub. Daar vind je zaken die je associeert met Ierland, zoals klavertjes vier, Iers eten, Ierse muziek, oud, houten meubilair, enzovoort. Maar als je daadwerkelijk naar Ierland gaat, bestaat dit concept niet. Het symbool Ierse pub vertegenwoordigt een niet-bestaande werkelijkheid.  Na verloop van tijd kan een symbool populairder worden dan hetgeen waar het naar verwijst, omdat het een overdrijving is die meer aantrekkingskracht heeft dan het origineel. Oorspronkelijk serveerden Ierse pubs bijvoorbeeld geen eten, maar nu wel, vanwege 'Ierse pubs'. 
 
-Baudrillard onderscheidde drie fasen in de geschiedenis van het _simulacrum_, dat wil zeggen, de nabootsing. In de eerste vertegenwoordigt het symbool nog duidelijk de werkelijkheid. Daarna, vanaf de industriele revolutie, begint dit af te brokkelen. Uiteindelijk, in de postmoderne laatkapitalistische wereld, gaat het symbool vooraf aan de werkelijkheid. De werkelijkheid wordt nu gevormd naar de symbolische wereld. Denk hierbij ook aan het beroemde citaat van Oscar Wilde: _"Life imitates art far more than art imitates life"_.[^1] Laat ik nog een paar voorbeelden geven..
+Baudrillard onderscheidde drie fasen in de geschiedenis van het _simulacrum_, dat wil zeggen, de nabootsing. In de eerste vertegenwoordigt het symbool nog duidelijk de werkelijkheid. Daarna, vanaf de industriele revolutie, begint dit af te brokkelen. Uiteindelijk, in de postmoderne laatkapitalistische wereld, gaat het symbool vooraf aan de werkelijkheid. De werkelijkheid wordt nu gevormd naar de symbolische wereld. Denk hierbij ook aan het beroemde citaat van Oscar Wilde: _"Life imitates art far more than art imitates life"_.[^1] Laat ik nog een paar voorbeelden geven.
 
-Dit is nationaal park de Hoge Veluwe. De doorsnee Nederlander die dit ziet zal het een mooi en ook natuurlijk tafereel vinden, of tenminste een getrouwe weergave van de natuur. Maar het is geen van beide. We zien namelijk een heidelandschap, iets wat pas vanaf de middeleeuwen is ontstaan door roofbouw en overbegrazing op plekken waar voorheen bos was. Sterker nog, het vergt veel menselijke inspanning om een natuurreservaat er zo uit te doen zien. Er moeten dieren geimporteerd worden en bomen gekapt. Zonder menselijke interventie zou het bos teruggroeien. Opnieuw wint het symbool het van de werkelijkheid. Andere goede voorbeelden van hyperreeële simulaties zijn Disneyland en pornografie; beide bootsen een werkelijkheid na die als het ware minder echt is dan de nabootsing.
+Het Nationaal park de Hoge Veluwe. De doorsnee Nederlander zal het een mooi en ook natuurlijk tafereel vinden, of tenminste een getrouwe weergave van de natuur. Maar het is geen van beide. We zien namelijk een heidelandschap, iets wat pas vanaf de middeleeuwen is ontstaan door roofbouw en overbegrazing op plekken waar voorheen bos was. Sterker nog, het vergt veel menselijke inspanning om een natuurreservaat er zo uit te doen zien. Er moeten dieren geimporteerd worden en bomen gekapt. Zonder menselijke interventie zou het bos teruggroeien. Opnieuw wint het symbool het van de werkelijkheid. Andere goede voorbeelden van hyperreeële simulaties zijn Disneyland en pornografie; beide bootsen een werkelijkheid na die als het ware minder echt is dan de nabootsing.
 
-Laten we nog een ander voorbeeld bekijken waarin het _simulacrum_ vooraf ging en vorm heeft gegeven aan de werkelijkheid: de Oekraïense president Vladimir Zelenski. Op onderstaand beeld zien we hem een telefoontje krijgen van de Europese Unie, om er dan achter te komen dat het eigenlijk voor Montenegro bestemd was. Maar het is niet echt. Zelenski speelde hier de rol van president voor een komische tv-serie.[^2] Deze serie was zeer populair in Oekraïne, wat er uiteindelijk toe heeft geleid dat Zelenski zich echt kandidaat stelde voor het presidentschap en, met behulp van dezelfde schimmige oligarchen die zijn acteercarrière hebben gestimuleerd, won. Opnieuw: _life imitates art_.
+{{< figure
+	src="/media/het-hyperreeele-presidentschap-van-de-acteur-zelenski/zelenski.webp"
+	alt="Vladimir Zelenski"
+	class="img-center"
+	caption="Vladimir Zelenski aan de telefoon."
+>}}
+
+Laten we nog een ander voorbeeld bekijken waarin het _simulacrum_ vooraf ging en vorm heeft gegeven aan de werkelijkheid: de Oekraïense president Vladimir Zelenski. Op het bovenstaand beeld zien we hem een telefoontje krijgen van de Europese Unie, om er dan achter te komen dat het eigenlijk voor Montenegro bestemd was. Maar het is niet echt. Zelenski speelde hier de rol van president voor een komische tv-serie.[^2] Deze serie was zeer populair in Oekraïne, wat er uiteindelijk toe heeft geleid dat Zelenski zich echt kandidaat stelde voor het presidentschap en, met behulp van dezelfde schimmige oligarchen die zijn acteercarrière hebben gestimuleerd, won. Opnieuw: _life imitates art_.
 
 Baudrillard is berucht om zijn bewering dat de eerste golfoorlog niet echt plaats heeft gevonden.[^3] Irak had geen schijn van kans tegen het Amerikaanse leger. Wat Saddam Hoessein deed, was soldaten opofferen om zijn eigen macht te behouden. Daarom nu de volgende vraag: wat is de strategie van Oekraïne in deze oorlog? Het schijnt mij toe alsof het maximale morele verontwaardiging wil uitlokken om zo de _NAVO_ tot een interventie te verleiden. Oekraïne kan geen open, symmetrische oorlog winnen van Rusland, daarom opteert het land voor <i>Volkssturm</i>-tactieken. Burgers worden geinstrueerd molotov-cocktails (of zoals ze ze zelf noemen: Bandera-smoothies) te gooien, wat de scheidslijn tussen combatant en non-combatant doet vervagen en waarom het de burgers van Marioepol ook niet toegestaan werd zonder meer te vluchten.
 
@@ -29,5 +42,5 @@ De Oekraïense strategie voor overwinning is om de propaganda-oorlog te winnen. 
 
 
 [^1]: Oscar Wilde, _The picture of Dorian Gray_.
-[^2]: _Wikipedia_, _(Servant of the People (TV series))[https://en.wikipedia.org/wiki/Servant_of_the_People_(TV_series)]_.
+[^2]: _Wikipedia_, _[Servant of the People](https://en.wikipedia.org/wiki/Servant_of_the_People_(TV_series))_.
 [^3]: Jean Baudrillard, _The Gulf War Did Not Take Place_.

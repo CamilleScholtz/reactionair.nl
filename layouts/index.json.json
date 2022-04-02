@@ -1,14 +1,12 @@
-{{ $articles := where site.RegularPages "Type" "eq" "artikelen" }}
-{{ $index    := slice}}
-
-{{ range $articles }}
-    {{ $index = $index | append (dict 
+{{- $articles := where site.RegularPages "Type" "eq" "artikelen" -}}
+{{- $.Scratch.Add "index" slice -}}
+{{- range $articles }}
+	{{- $.Scratch.Add "index" (dict
 		"title" .Params.title
         "subtitle" .Params.subtitle
         "authors" .Params.auteurs
-        "content" (.Content | plainify | replaceRE "\n" " ")
+        "content" .Plain
         "permalink" .Permalink
-    ) }}
-{{ end }}
-
-{{ $index | jsonify }}
+    ) -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}
