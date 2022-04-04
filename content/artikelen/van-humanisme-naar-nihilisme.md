@@ -168,12 +168,12 @@ Het humanisme vindt zichzelf vandaag de dag incoherent door een reductionistisch
 [^10]: MacIntyre, _ibit._, p. 38.
 [^11]: Gray, _ibid._, p. 146.
 [^12]: Gray, _ibid._, p. 146.
-[^13]: John Gray, _Enlightenment’s Wake: Politics and Culture at the Close of the Modern Age_, _Routledg_e, London, 1995, p. 146, 145.
+[^13]: John Gray, _Enlightenment’s Wake: Politics and Culture at the Close of the Modern Age_, _Routledge_, London, 1995, p. 146, 145.
 [^14]: Robert Nisbet, _History of the Idea of Progress_, _Transaction Publishers_, New Brunswick, 1994, p. 4.
 [^15]: John Gray, _Black Mass: Apocalyptic Religion and the Death of Utopia_, _Allen Lane_, London, 2007, p. 28.
 [^16]: John Gray, _Heresies_, _Granta Books_, London, 2004, p. 65, 70.
 [^17]: Gray, _ibid._, p. 70-71.
-[^18]: John Gray,_ Straw Dogs: Thoughts on Humans and Other Animals_, _Granta Books_, London, 2002, p. 96.
+[^18]: John Gray, _Straw Dogs: Thoughts on Humans and Other Animals_, _Granta Books_, London, 2002, p. 96.
 [^19]: Gray, _Heresies_, p. 56.
 [^20]: Gray, _Straw Dogs_, p. 12.
 [^21]: Gray, _Heresies_, p. 3.

@@ -7,31 +7,59 @@ const footnotes = (page) => {
 	const backrefs = page.querySelectorAll(".footnote-backref");
 
 	refs.forEach((ref) => {
+		const id      = ref.getAttribute("href").split(":").pop();
+		const backref = page.querySelector("#fn\\:" + id);
+
+		let timer;
+
 		ref.addEventListener("click", (ev) => {
 			ev.preventDefault();
 
-			const id = ref.getAttribute("href").split(":").pop();
-			const to = page.querySelector("#fn\\:" + id).offsetTop - 100;
-
 			window.scroll({
-				top:      to,
+				top:      backref.offsetTop - 100,
 				behavior: "smooth",
 			});
+		});
+
+		ref.addEventListener("mouseenter", (ev) => {
+			timer = setTimeout(() => {	
+				const div = document.createElement("div");
+				div.setAttribute("class", "tooltip");
+				div.setAttribute("style", `left: ${ref.offsetLeft + (ref.offsetWidth / 2)}px;`);
+				div.innerHTML = `
+					<div class="arrow"></div>
+					<div class="hover"></div>
+					${backref.innerHTML}
+				`;
+				div.querySelector(".footnote-backref").remove();
+
+				ref.appendChild(div);
+			}, 200);
+		});
+
+		ref.addEventListener("mouseleave", (ev) => {
+			clearTimeout(timer);
+
+			setTimeout(() => {	
+				ref.querySelectorAll(".tooltip").forEach((tooltip) => {
+					tooltip.remove();
+				})
+			}, 200);
 		});
 	});
 
 	backrefs.forEach((backref) => {	
 		// XXX: https://github.com/gohugoio/hugo/pull/7427
 		backref.innerHTML = "↑";
-	
+
+		const id  = backref.getAttribute("href").split(":").pop();
+		const ref = page.querySelector("[href='#fn:" + id + "']");
+
 		backref.addEventListener("click", (ev) => {
 			ev.preventDefault();
 
-			const id = backref.getAttribute("href").split(":").pop();
-			const to = page.querySelector("[href='#fn:" + id + "']").offsetTop - (window.innerHeight / 2)
-
 			window.scroll({
-				top:      to,
+				top:      ref.offsetTop - (window.innerHeight / 2),
 				behavior: "smooth",
 			});
 		});
