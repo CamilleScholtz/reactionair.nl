@@ -2,18 +2,11 @@
 title    = "Het hyperreeële presidentschap van de acteur Zelenski"
 subtitle = "Een baudrillardiaanse visie"
 auteurs  = ["Rintrah Radagast", "De Melancholieke Nar"]
-date     = "2022-04-02"
+date     = "2022-04-03"
 themas   = ["Politiek & Maatschappij"]
 +++
 
 Jean Baudrillard (1929-2007) was een post-marxistische filosoof die vooral bekend is geworden om het concept hyperrealiteit. Hiermee bedoelde hij dat we in een fase van de geschiedenis zijn gekomen waarin het menselijke bewustzijn niet meer in staat is de werkelijkheid van een simulatie daarvan te onderscheiden.
-
-{{< figure
-	src="/media/het-hyperreeele-presidentschap-van-de-acteur-zelenski/thumb.webp"
-	alt="Jean Baudrillard"
-	class="img-left"
-	caption="Tekening van Jean Baudrillard door Burak Kum."
->}}
 
 Neem bijvoorbeeld een Ierse pub. Daar vind je zaken die je associeert met Ierland, zoals klavertjes vier, Iers eten, Ierse muziek, oud, houten meubilair, enzovoort. Maar als je daadwerkelijk naar Ierland gaat, bestaat dit concept niet. Het symbool Ierse pub vertegenwoordigt een niet-bestaande werkelijkheid.  Na verloop van tijd kan een symbool populairder worden dan hetgeen waar het naar verwijst, omdat het een overdrijving is die meer aantrekkingskracht heeft dan het origineel. Oorspronkelijk serveerden Ierse pubs bijvoorbeeld geen eten, maar nu wel, vanwege 'Ierse pubs'. 
 
@@ -32,7 +25,7 @@ Laten we nog een ander voorbeeld bekijken waarin het _simulacrum_ vooraf ging en
 
 Baudrillard is berucht om zijn bewering dat de eerste golfoorlog niet echt plaats heeft gevonden.[^3] Irak had geen schijn van kans tegen het Amerikaanse leger. Wat Saddam Hoessein deed, was soldaten opofferen om zijn eigen macht te behouden. Daarom nu de volgende vraag: wat is de strategie van Oekraïne in deze oorlog? Het schijnt mij toe alsof het maximale morele verontwaardiging wil uitlokken om zo de _NAVO_ tot een interventie te verleiden. Oekraïne kan geen open, symmetrische oorlog winnen van Rusland, daarom opteert het land voor <i>Volkssturm</i>-tactieken. Burgers worden geinstrueerd molotov-cocktails (of zoals ze ze zelf noemen: Bandera-smoothies) te gooien, wat de scheidslijn tussen combatant en non-combatant doet vervagen en waarom het de burgers van Marioepol ook niet toegestaan werd zonder meer te vluchten.
 
-Nog krasser is dat het Oekraïense leger op Russsische manschappen vuurde vanuit een kernreactor in Zaporizhzhia. Dit lokte een Russisch antwoord uit, waarop de westerse media berichtte dat de reactor in brand stond - _quod non_.
+Nog krasser is dat het Oekraïense leger op Russische manschappen vuurde vanuit een kernreactor in Zaporizhzhia. Dit lokte een Russisch antwoord uit, waarop de westerse media berichtte dat de reactor in brand stond - _quod non_.
 
 Zulke zaken gebeuren niet zomaar. Dit is een postmoderne oorlog. Het doel is om de _NAVO_ de oorlog in te sleuren. Ook Poolse, Tsjechische en Sloveense politici hebben zich door de acteur Zelenski (parenthetisch gesproken: deze gewone Oekraïnsche jongen van het volk zit goed in de slappe was, met meerdere villa's in binnen- en buitenland en flinke bankrekeningen in belastingparadijzen) laten bedonderen en hebben de _NAVO_ opgeroepen te interveniëren.
 
