@@ -3,7 +3,7 @@ title     = "Poetin, de gedroomde schurk"
 subtitle  = "Tien zaken waar Poetin niet verantwoordelijk voor is"
 auteurs   = ["Redactie"]
 date      = "2022-02-26"
-themas    = ["Klikaas"]
+themas    = "Klikaas"
 +++
 
 

@@ -9,10 +9,13 @@ googleAnalytics = "G-MM83VY2NM0"
 paginate     = 10
 paginatePath = "pagina"
 
+removePathAccents = true
+
 [taxonomies]
-	auteur = "auteurs"
-	thema  = "themas"
-  
+	auteur  = "auteurs"
+	dossier = "dossiers"
+	thema   = "themas"
+
 [markup]
 	[markup.goldmark]
 		[markup.goldmark.renderer]

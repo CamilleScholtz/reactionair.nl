@@ -34,17 +34,25 @@ const footnotes = (page) => {
 				div.querySelector(".footnote-backref").remove();
 
 				ref.appendChild(div);
+
+				setTimeout(() => {
+					div.style.transform = "translate(-50%, +8px)";
+					div.style.opacity   = 1;
+				}, 200);
 			}, 200);
 		});
 
 		ref.addEventListener("mouseleave", (ev) => {
 			clearTimeout(timer);
 
-			setTimeout(() => {	
-				ref.querySelectorAll(".tooltip").forEach((tooltip) => {
+			ref.querySelectorAll(".tooltip").forEach((tooltip) => {
+				tooltip.style.transform = "translate(-50%, 0px)";
+				tooltip.style.opacity   = 0;
+
+				setTimeout(() => {
 					tooltip.remove();
-				})
-			}, 200);
+				}, 200);
+			})
 		});
 	});
 

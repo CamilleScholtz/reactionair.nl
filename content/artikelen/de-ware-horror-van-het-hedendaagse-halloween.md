@@ -3,7 +3,8 @@ title    = "De ware horror van het hedendaagse Halloween"
 subtitle = "Hoe een heilig feest tot simpel hedonisme vervallen is"
 auteurs  = ["Jan de Maansnijder"]
 date     = "2021-10-27"
-themas   = ["Religie & Metafisica"]
+themas   = "Religie & Metafisica"
+dossiers = ["Christendom"]
 +++
 
 

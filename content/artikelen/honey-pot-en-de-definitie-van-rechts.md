@@ -4,7 +4,7 @@ subtitle = "Afscheid van een achterhaald begrip"
 question = "Wat is volgens u een passende term om het onderscheid te duiden?"
 auteurs  = ["Vrederijk"]
 date     = "2021-10-28"
-themas   = ["Politiek & Maatschappij"]
+themas   = "Politiek & Maatschappij"
 +++
 
 

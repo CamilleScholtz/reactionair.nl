@@ -3,7 +3,8 @@ title    = "Was Jezus een Reactionair?"
 subtitle = "Traditie=historische context"
 auteurs  = ["Sanura"]
 date     = "2022-03-19"
-themas   = ["Religie & Metafysica"]
+themas   = "Religie & Metafysica"
+dossiers = ["Christendom"]
 +++
 
 

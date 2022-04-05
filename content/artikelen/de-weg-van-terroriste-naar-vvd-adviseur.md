@@ -3,7 +3,8 @@ title    = "De weg van terroriste naar VVD-adviseur"
 subtitle = "Onderzoek naar Soumaya Sahla"
 auteurs  = ["Camille Meloen"]
 date     = "2021-12-05"
-themas   = ["Politiek & Maatschappij"]
+themas   = "Politiek & Maatschappij"
+dossiers = ["Islam"]
 +++
 
 

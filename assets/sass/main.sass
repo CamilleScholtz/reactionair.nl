@@ -626,6 +626,71 @@ article
 		display: none
 
 
+// Dossiers
+
+.dossiers
+	.dossier
+		display: grid
+		grid-column-gap: 5%
+		grid-template-rows: auto 1fr
+		margin-bottom: 20px
+		margin-top: 40px
+
+		.description
+			grid-area: description
+
+			h2
+				font-family: "Quadraat Pro Sans", sans-serif
+				font-weight: 700
+				margin-bottom: 20px
+				max-width: 250px
+
+		.pages
+			grid-area: pages
+
+			a
+				color: var(--text-color)
+				display: block
+				margin-top: 20px
+
+				.arrow
+					color: var(--accent-color)
+					margin-right: 6px
+
+			.more
+				color: var(--accent-color)
+
+		.article
+			background: var(--footnotes-background-color)
+			display: block
+			grid-area: article
+
+			img
+				object-fit: cover
+				width: 100%
+
+			.text
+				padding: 20px
+
+				h2
+					font-size: 27px
+					font-weight: 700
+					line-height: 33px
+					margin-bottom: 3px
+
+				h3
+					font-size: 22px
+					font-weight: 400
+					line-height: 26px
+					margin-bottom: 10px
+					margin-top: 0px
+
+				.author
+					color: var(--accent-color)
+					font-size: 16px
+					font-family: "Quadraat Pro Sans", sans-serif
+
+
 // Comments
 
 #comments

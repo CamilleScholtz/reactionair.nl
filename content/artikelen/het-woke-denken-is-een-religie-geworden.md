@@ -3,7 +3,7 @@ title    = "“Het woke denken is een religie geworden!”"
 subtitle = "En waarom deze vergelijking niet klopt"
 auteurs  = ["Camille Meloen"]
 date     = "2021-10-08"
-themas   = ["Politiek & Maatschappij"]
+themas   = "Politiek & Maatschappij"
 +++
 
 

@@ -3,7 +3,7 @@ title    = "They pee on your leg and tell you it’s raining"
 subtitle = "Misbruikers moeten kinderen weerbaar maken tegen misbruik"
 auteurs  = ["Sanura"]
 date     = "2021-10-05"
-themas   = ["Politiek & Maatschappij"]
+themas   = "Politiek & Maatschappij"
 +++
 
 

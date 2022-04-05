@@ -3,7 +3,8 @@ title    = "Kolonialisme, kapitalisme en liberalisme"
 subtitle = "Drie ideeën met dezelfde oorsprong"
 auteurs  = ["Eco al-Hollandi"]
 date     = "2022-02-28"
-themas   = ["Cultuur & Geschiedenis"]
+themas   = "Cultuur & Geschiedenis"
+dossiers = ["Islam"]
 +++
 
 

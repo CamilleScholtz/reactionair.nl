@@ -3,7 +3,7 @@ title    = "Naar het einde en daar voorbij!"
 subtitle = "Gedachten over het Onbegrensde"
 auteurs  = ["Camille Meloen"]
 date     = "2021-10-21"
-themas   = ["Religie & Metafysica"]
+themas   = "Religie & Metafysica"
 +++
 
 

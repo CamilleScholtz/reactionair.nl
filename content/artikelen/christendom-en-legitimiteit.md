@@ -3,7 +3,8 @@ title    = "Christendom en legitimiteit"
 subtitle = "Autoriteit versus macht"
 auteurs  = ["Sanura"]
 date     = "2021-12-29"
-themas   = ["Religie & Metafysica"]
+themas   = "Religie & Metafysica"
+dossiers = ["Christendom"]
 +++
 
 

@@ -3,7 +3,7 @@ title    = "Wegbereider van de contrarevolutie"
 subtitle = "Over Louis de Bonald"
 auteurs  = ["J. Floressas des Esseintes"]
 date     = "2021-10-11"
-themas   = ["Recensie & Biografie"]
+themas   = "Recensie & Biografie"
 +++
 
 

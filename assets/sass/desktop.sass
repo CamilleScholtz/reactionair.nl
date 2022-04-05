@@ -212,8 +212,10 @@ article
 		padding: 20px
 		position: absolute;
 		transform: translateX(-50%);
-		margin-top: 6px
+		margin-top: 2px
 		max-width: 350px
+		opacity: 0
+		transition: all .15s
 
 		*
 			font-size: 16px
@@ -239,6 +241,17 @@ article
 			top: -9px
 			transform: rotate(45deg)
 			width: 18px
+
+
+// Dossiers
+
+.dossiers
+	.dossier
+		grid-template-areas: "article description" "article pages"
+		grid-template-columns: auto 56%
+
+		.article img
+			height: 320px
 
 
 // Comments
