@@ -11,7 +11,7 @@
 		{{ end }}
 
 		<div class="pages">
-			{{ range first 5 $pages }}
+			{{ range first 5 $pages | after 1 }}
 				<a href="{{ .RelPermalink }}"><span class="arrow">→</span> {{ .Params.title }}</a>
 			{{ end }}
 
@@ -19,7 +19,16 @@
 		</div>
 
 		<a href="{{ $featured.RelPermalink }}" class="article">
-			<img src="/media/{{ $featured.File.BaseFileName }}/thumb.webp" alt="{{ $featured.Params.title }}" loading="lazy">
+			{{ $image := $featured.Resources.GetMatch "thumb.webp" }}
+
+			<img
+				srcset="{{ ($image.Fill "337x320 webp").RelPermalink }} 337w,
+				        {{ ($image.Fill "674x640 webp").RelPermalink }} 674w"
+				sizes="(max-width: 1920px) 337px,
+				       674px"
+				src="{{ ($image.Fill "674x640 webp").RelPermalink }}"
+				alt="{{ $featured.Params.title }}"
+				loading="lazy">
 
 			<div class="text">
 				<h2>{{ $featured.Params.title }}</h2>

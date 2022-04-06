@@ -1,4 +1,4 @@
-{{ if (.Get "aside") }}
+{{ if .Get "aside" }}
 	</article>
 
 	<aside class="quote">
@@ -10,6 +10,6 @@
 	<article>
 {{ end }}
 
-<blockquote class="blockquote{{ if (.Get "aside") }} hide{{ end }}">
-	<p><i>“{{ (.Get "text") }}”</i> - {{ (.Get "author") }}</p>
+<blockquote class="blockquote{{ if .Get "aside" }} hide{{ end }}">
+	<p><i>“{{ .Get "text" }}”</i> - {{ .Get "author" }}</p>
 </blockquote>

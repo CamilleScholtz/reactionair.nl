@@ -25,7 +25,15 @@
 			{{ $featured := index $articles 0 }}
 
 			<a href="{{ $featured.RelPermalink }}" class="article">
-				<img src="/media/{{ $featured.File.BaseFileName }}/thumb.webp" alt="{{ $featured.Params.title }}">
+				{{ $image := $featured.Resources.GetMatch "thumb.webp" }}
+
+				<img
+					srcset="{{ ($image.Fill "744x320 webp").RelPermalink }} 320w,
+					        {{ ($image.Fill "1488x640 webp").RelPermalink }} 640w"
+					sizes="(max-width: 1920px) 320px,
+					       640px"
+					src="{{ ($image.Fill "1488x640 webp").RelPermalink }}"
+					alt="{{ $featured.Params.title }}">
 
 				<div class="text">
 					<h2>{{ $featured.Params.title }}</h2>
@@ -51,7 +59,7 @@
 					{{ end }}
 
 					<div class="pages">
-						{{ range first 5 $pages }}
+						{{ range first 5 $pages | after 1 }}
 							<a href="{{ .RelPermalink }}"><span class="arrow">→</span> {{ .Params.title }}</a>
 						{{ end }}
 
@@ -60,7 +68,16 @@
 
 					<a href="{{ $featured.RelPermalink }}" class="article">
 						{{ if ne $theme "Klikaas" }}
-							<img src="/media/{{ $featured.File.BaseFileName }}/thumb.webp" alt="{{ $featured.Params.title }}" {{ if ge $i 1 }}loading="lazy"{{ end }}>
+							{{ $image := $featured.Resources.GetMatch "thumb.webp" }}
+
+							<img
+								srcset="{{ ($image.Fill "337x320 webp").RelPermalink }} 337w,
+								        {{ ($image.Fill "674x640 webp").RelPermalink }} 674w"
+								sizes="(max-width: 1920px) 337px,
+								       674px"
+								src="{{ ($image.Fill "674x640 webp").RelPermalink }}"
+								alt="{{ $featured.Params.title }}"
+								{{ if ge $i 1 }}loading="lazy"{{ end }}>
 						{{ end }}
 
 						<div class="text">

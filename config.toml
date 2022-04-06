@@ -21,6 +21,9 @@ removePathAccents = true
 		[markup.goldmark.renderer]
 			unsafe = true
 
+[imaging]
+	resampleFilter = "Lanczos"
+
 [privacy]
 	[privacy.googleAnalytics]
 		anonymizeIP = true
