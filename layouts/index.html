@@ -4,7 +4,10 @@
 
 	<aside class="intro quote">
 		<div class="sticky">
-			{{ partial "quote.html" (dict "text" "" "author" "") }}
+			{{ partial "quote.html" (dict
+				"text"   ""
+				"author" ""
+			) }}
 
 			<div class="links">
 				<!--<a href="/doneren/">Doneren</a>
@@ -23,24 +26,11 @@
 	<section>
 		<div id="featured">
 			{{ $featured := index $articles 0 }}
-
-			<a href="{{ $featured.RelPermalink }}" class="article">
-				{{ $image := $featured.Resources.GetMatch "thumb.webp" }}
-
-				<img
-					srcset="{{ ($image.Fill "744x320 webp").RelPermalink }} 320w,
-					        {{ ($image.Fill "1488x640 webp").RelPermalink }} 640w"
-					sizes="(max-width: 1920px) 320px,
-					       640px"
-					src="{{ ($image.Fill "1488x640 webp").RelPermalink }}"
-					alt="{{ $featured.Params.title }}">
-
-				<div class="text">
-					<h2>{{ $featured.Params.title }}</h2>
-					<h3>{{ $featured.Params.subTitle }}</h3>
-					<p class="author">{{ delimit $featured.Params.auteurs ", " " & " }}</p>
-				</div>
-			</a>
+			{{ partial "featured.html" (dict
+				"context" $featured
+				"size"    "large"
+				"image"   "thumb.webp"
+			) }}
 		</div>
 
 		<div id="themes">
@@ -48,45 +38,21 @@
 			{{ $articles = where site.RegularPages "Params.themas" "in" $themes | after 1 }}
 
 			{{ range $i, $theme := $themes }}
-				<div class="theme {{ if mod $i 2 }} left {{ else }} right {{ end }}">
-					{{ $pages    := where $articles "Params.themas" "eq" $theme}}
-					{{ $featured := index $pages 0 }}
-				
-					{{ with $.Site.GetPage (printf "/themas/%s" (urlize $theme)) }}
-						<div class="description">
-							<h2>{{ .Params.title }}</h2>
-						</div>
-					{{ end }}
-
-					<div class="pages">
-						{{ range first 5 $pages | after 1 }}
-							<a href="{{ .RelPermalink }}"><span class="arrow">→</span> {{ .Params.title }}</a>
-						{{ end }}
-
-						<a href="/themas/{{ urlize $theme }}/" class="more">Zie meer...</a>
-					</div>
-
-					<a href="{{ $featured.RelPermalink }}" class="article">
-						{{ if ne $theme "Klikaas" }}
-							{{ $image := $featured.Resources.GetMatch "thumb.webp" }}
-
-							<img
-								srcset="{{ ($image.Fill "337x320 webp").RelPermalink }} 337w,
-								        {{ ($image.Fill "674x640 webp").RelPermalink }} 674w"
-								sizes="(max-width: 1920px) 337px,
-								       674px"
-								src="{{ ($image.Fill "674x640 webp").RelPermalink }}"
-								alt="{{ $featured.Params.title }}"
-								{{ if ge $i 1 }}loading="lazy"{{ end }}>
-						{{ end }}
-
-						<div class="text">
-							<h2>{{ $featured.Params.title }}</h2>
-							<h3>{{ $featured.Params.subtitle }}</h3>
-							<p class="author">{{ delimit $featured.Params.auteurs ", " " & " }}</p>
-						</div>
-					</a>
-				</div>
+				{{ $pages := where $articles "Params.themas" "eq" $theme }}
+			
+				{{ $side := "right" }}
+				{{ if mod $i 2 }}
+					{{ $side = "left" }}
+				{{ end }}
+			
+				{{ partial "theme.html" (dict
+					"context" .
+					"section" "themas"
+					"term"    $theme
+					"pages"   $pages
+					"side"    $side
+					"lazy"    (ge $i 1)
+				) }}
 			{{ end }}
 		</div>
 	</section>

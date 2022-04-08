@@ -1,40 +1,10 @@
-// Typography
-
-h1
-	font-size: 74px
-	line-height: 79px
-
-h2
-	font-size: 42px
-	line-height: 54px
-	margin-bottom: 60px
-
-a,
-button,
-em,
-li,
-p,
-input,
-textarea,
-.welcomments__comment-message
-	font-size: 19px
-	line-height: 32px
-
-
-// Header
-
-header .utility
-	.left
-		margin-left: 40px
-		text-align: left 
-
-	.right
-		margin-right: 40px
-		text-align: right 
-
-	.pipe
-		margin-left: 12px
-		margin-right: 12px
+@import partials/desktop/typography
+@import partials/desktop/header
+@import partials/desktop/featured
+@import partials/desktop/theme
+@import partials/desktop/question
+@import partials/desktop/comments
+@import partials/desktop/footer
 
 
 // Main
@@ -59,34 +29,6 @@ main
 	>section
 		grid-column: 2
 		grid-row: auto
-
-
-// Home
-
-#home
-	#featured .article
-		margin: 60px
-		margin-bottom: 100px
-
-		.text
-			max-width: calc(100% - 60px)
-			padding: 40px
-			text-align: center
-
-		img
-			height: 320px
-
-	#themes
-		.left
-			grid-template-areas: "article description" "article pages"
-			grid-template-columns: auto 56%
-
-		.right
-			grid-template-areas: "description article" "pages article"
-			grid-template-columns: 56% auto
-
-		.article img
-			height: 320px
 
 
 // Taxonomies & terms
@@ -120,7 +62,7 @@ aside
 		.utility .author
 			display: none
 
-		.author-container
+		.author-block
 			margin-top: -31px
 			padding-bottom: 96px
 		
@@ -128,7 +70,7 @@ aside
 				margin-top: -60px
 				border-top: 1px dashed var(--border-color)
 
-				.name-container
+				.information
 					margin-top: -1px
 
 			p,
@@ -159,12 +101,6 @@ aside
 				.pipe
 					font-size: 14px
 					font-weight: 700
-
-	&.question
-		.popup
-			.arrow
-				right: -9px
-				top: calc(50% - 9px)
 
 	&.quote
 		margin-top: 10px
@@ -241,33 +177,3 @@ article
 			top: -9px
 			transform: rotate(45deg)
 			width: 18px
-
-
-// Dossiers
-
-.dossiers
-	.dossier
-		grid-template-areas: "article description" "article pages"
-		grid-template-columns: auto 56%
-
-		.article img
-			height: 320px
-
-
-// Comments
-
-#comments .welcomments__comment-time
-	line-height: 29px
-
-
-// Footer
-
-footer
-	justify-content: flex-end
-
-	a:last-child
-		margin-right: 40px
-
-	.pipe
-		margin-left: 12px
-		margin-right: 12px

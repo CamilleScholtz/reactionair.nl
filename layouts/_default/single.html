@@ -14,12 +14,30 @@
 	</article>
 
 	<section class="dossiers">
-		{{ partial "dossiers.html" . }}
+		{{ range $dossier := .Params.dossiers }}
+			{{ $pages    := where site.RegularPages "Params.dossiers" "intersect" (slice $dossier) }}
+			{{ $pages     = where $pages "Params.title" "ne" $.Params.title }}
+
+			{{ partial "theme.html" (dict
+				"context" .
+				"section" "dossiers"
+				"term"    $dossier
+				"pages"   $pages
+				"side"    "left"
+				"lazy"    true
+			) }}
+		{{ end }}
 	</section>
 
 	<aside class="question">
 		<div class="sticky">
-			{{ partial "question.html" . }}
+			{{ if isset .Params "question" }}
+				{{ .Params.question }}
+			{{ else }}
+				Wat zijn uw gedachten over dit artikel?
+			{{ end }}
+
+			<div class="arrow"></div>
 		</div>
 	</aside>
 

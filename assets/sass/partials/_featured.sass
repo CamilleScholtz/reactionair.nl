@@ -1,0 +1,66 @@
+.featured
+	background: var(--footnotes-background-color)
+	display: block
+	position: relative
+
+	h2
+		font-weight: 700
+
+	h3
+		font-weight: 400
+		margin-top: 0px
+
+	img
+		object-fit: cover
+		width: 100%
+
+	.author
+		color: var(--accent-color)
+		font-family: "Quadraat Pro Sans", sans-serif
+
+	&.large
+		&::before
+			background: var(--popup-background-color)
+			bottom: -15px
+			color: var(--accent-color)
+			content: "Nieuw!"
+			font-family: "Quadraat Pro Sans", sans-serif
+			font-size: 16px
+			padding: 4px 12px 4px 12px
+			position: absolute
+			transform: rotate(-1deg)
+			right: -15px
+			z-index: 1
+
+		h2
+			font-size: 34px
+			line-height: 38px
+			margin-bottom: 10px
+
+		h3
+			font-size: 24px
+			line-height: 30px
+			margin-bottom: 40px
+
+		.author
+			font-size: 18px
+			line-height: 22px
+
+	&.small
+		grid-area: article // TODO MOVE
+	
+		.text
+			padding: 20px
+
+		h2
+			font-size: 27px
+			line-height: 33px
+			margin-bottom: 3px
+
+		h3
+			font-size: 22px
+			line-height: 26px
+			margin-bottom: 10px
+
+		.author
+			font-size: 16px

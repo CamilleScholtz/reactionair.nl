@@ -22,16 +22,7 @@
 
 	<section id="authors">
 		{{ range sort $authors ".Params.title" "asc" }}
-			<a href="{{ .RelPermalink }}" class="author-container">
-				<div class="name-container">
-					<img src="{{ path.Join .RelPermalink "avatar.webp" }}" alt="{{ .Params.title }}">
-
-					<h3 class="author">{{ .Params.title }}</h3>
-					<p class="profession">{{ .Params.profession }}</p>
-				</div>
-
-				<p class="description">{{ .Params.description }}</p>
-			</a>
+			{{ partial "author.html" . }}
 		{{ end }}
 	</section>
 {{ end }}

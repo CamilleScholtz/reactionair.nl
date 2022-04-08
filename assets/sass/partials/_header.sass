@@ -1,0 +1,123 @@
+header
+	position: sticky
+	text-align: center
+	top: 0px
+	transition: transform .2s
+	width: 100%
+	z-index: 99
+
+	#logo-container
+		background: var(--header-background-color)
+		border-bottom: 1px dashed var(--header-border-color)
+		height: 110px
+
+		#logo img
+			background: #A62F27
+			box-shadow: 0 5px 25px -4px rgba(108, 19, 15, 0.1)
+			height: 113px
+			margin-top: 15px
+			transition: all .2s .1s
+
+			&:hover
+				box-shadow: 0 10px 35px -6px rgba(108, 19, 15, 0.25)
+				transform: scale(1.05) translateY(2px) !important
+
+		#search
+			position: absolute
+			right: 25px
+			top: calc((110px / 2) - 25px)
+
+			form
+				input
+					float: left
+					height: 50px
+					transform: scaleX(0)
+					transform-origin: right
+					transition: transform .2s
+					width: calc(100% - 50px)					
+			
+				button
+					align-items: center
+					background: none
+					display: flex
+					justify-content: center
+					float: right
+					width: 50px
+
+					.close-icon
+						background: var(--popup-background-color)
+
+			.results-container
+				background: var(--popup-background-color)
+				position: absolute
+				text-align: left
+				margin-top: 59px
+				width: 100%
+
+				.arrow
+					background: var(--popup-background-color)
+					display: none;
+					height: 18px
+					left: calc(50% - 9px)
+					position: absolute
+					top: -9px
+					transform: rotate(45deg)
+					width: 18px
+
+				.results
+					max-height: calc(100vh - 114px)
+					overflow-y: scroll
+					padding: 0
+					position: relative
+					scrollbar-width: none
+					z-index: 2
+
+					&::-webkit-scrollbar
+						display: none
+
+					a
+						display: block
+						border-bottom: 1px dashed var(--popup-border-color)
+						padding: 20px
+
+						&:last-of-type
+							border-bottom: none
+
+					h2
+						font-size: 27px
+						font-weight: 700
+						line-height: 33px
+						margin-bottom: 3px
+
+					h3
+						font-size: 22px
+						font-weight: 400
+						line-height: 26px
+						margin-top: 0px
+
+					.author
+						color: var(--accent-color)
+						font-size: 16px
+						font-family: "Quadraat Pro Sans", sans-serif
+
+	.utility
+		align-items: center
+		background: var(--utility-color)
+		border-bottom: 1px dashed var(--border-color)
+		display: flex
+		height: 55px
+		justify-content: center
+
+		.left,
+		.right
+			display: inline-block
+			font-weight: 700
+			width: 100vw
+
+		.left
+			color: var(--accent-color)
+			font-size: 14px
+
+		.right
+			color: var(--text-color)
+			font-size: 16px

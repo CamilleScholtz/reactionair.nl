@@ -1,6 +1,0 @@
-<a href="{{ .RelPermalink }}" class="article">
-	<img src="{{ (.Resources.GetMatch "thumb.webp").RelPermalink }}" alt="{{ .Params.title }}">
-	<h2>{{ .Params.title }}</h2>
-	<h3>{{ .Params.subtitle}}</h3>
-	<p class="author">{{ delimit .Params.auteurs ", " " & " }}</p>
-</a>

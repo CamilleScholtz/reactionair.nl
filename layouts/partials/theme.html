@@ -1,0 +1,29 @@
+<div class="theme {{ .side }}">
+	{{ $featured := index .pages 0 }}
+
+	{{ with site.GetPage (printf "/%s/%s" .section (urlize .term)) }}
+		<div class="description">
+			<h2>{{ .Params.title }}</h2>
+		</div>
+	{{ end }}
+
+	<div class="pages">
+		{{ range first 5 .pages | after 1 }}
+			<a href="{{ .RelPermalink }}"><span class="arrow">→</span> {{ .Params.title }}</a>
+		{{ end }}
+
+		<a href="/{{ .section }}/{{ urlize .term }}/" class="more">Zie meer...</a>
+	</div>
+
+	{{ $image := "thumb.webp" }}
+	{{ if eq .term "Klikaas" }}
+		{{ $image = false }}
+	{{ end }}
+
+	{{ partial "featured.html" (dict
+		"context" $featured
+		"size"    "small"
+		"image"   $image
+		"lazy"    .lazy
+	) }}
+</div>

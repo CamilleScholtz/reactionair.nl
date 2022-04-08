@@ -5,11 +5,11 @@
 
 {{ range $authors }}
 	{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
-		<div class="author-container">
-			<div class="name-container">
+		<div class="author-block">
+			<div class="information">
 				<img src="{{ .RelPermalink }}/avatar.webp" alt="{{ .Params.title }}">
 
-				<h3 class="author">{{ .Params.title }}</h3>
+				<h3>{{ .Params.title }}</h3>
 				<p class="profession">{{ .Params.profession }}</p>
 			</div>
 

@@ -18,7 +18,22 @@
 	<section>
 		<div id="articles">		
 			{{ range $paginator.Pages }}			
-				{{ partial "article.html" . }}
+				<a href="{{ .RelPermalink }}" class="article">
+					{{ $image := .Resources.GetMatch "thumb.webp" }}
+				
+					<img
+						srcset="{{ ($image.Fill "311x300 webp").RelPermalink }} 311w,
+						        {{ ($image.Fill "622x600 webp").RelPermalink }} 622w"
+						sizes="(max-width: 1920px) 311px,
+						       622px"
+						src="{{ ($image.Fill "622x600 webp").RelPermalink}}"
+						alt="{{ .Params.title }}">
+				
+					<h2>{{ .Params.title }}</h2>
+					<h3>{{ .Params.subtitle}}</h3>
+				
+					<p class="author">{{ delimit .Params.auteurs ", " " & " }}</p>
+				</a>
 			{{ end }}
 		</div>
 
