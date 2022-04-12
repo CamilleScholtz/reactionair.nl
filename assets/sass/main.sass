@@ -1,15 +1,17 @@
-@import partials/base
-@import partials/typography
-@import partials/header
+@import partials/article
 @import partials/author
-@import partials/featured
-@import partials/dossiers
-@import partials/theme
-@import partials/paginator
-@import partials/footnotes
-@import partials/question
+@import partials/authors
+@import partials/base
 @import partials/comments
+@import partials/dossiers
+@import partials/featured
 @import partials/footer
+@import partials/footnotes
+@import partials/header
+@import partials/paginator
+@import partials/question
+@import partials/theme
+@import partials/typography
 
 
 // Main
@@ -29,6 +31,7 @@ main
 
 	#themes
 		grid-area: themes
+
 
 // Misc
 
@@ -95,93 +98,5 @@ main
 				font-size: 18px
 				position: absolute
 
-
-// Asides
-
-aside
-	&.authors	
-		.sticky
-			padding-top: 10px
-
-			.utility
-				border-bottom: 1px dashed var(--border-color)
-				color: var(--muted-color)
-				font-size: 17px
-				margin-bottom: 30px
-				padding-bottom: 12px
-
-				.icon
-					height: 17px
-					position: relative
-					top: 4px
-
-				.pipe
-					margin-left: 12px
-					margin-right: 12px
-
-
-// Article
-
-article
-	blockquote p
-		color: var(--muted-color)
-		padding-left: 40px
-
-	p
-		margin-bottom: 30px
-
-	table
-		border-collapse: collapse
-		margin-bottom: 30px
-
-	td,
-	th
-		border: 1px dashed var(--border-color)
-		font-size: 18px
-		padding: 8px
-		text-align: center
-
-	th,
-	td:nth-child(1)
-		font-size: 16px
-		font-weight: 600
-
-	td:nth-child(1)
-		text-align: right
-
-	th:nth-child(1)
-		background: transparent
-
-	ul
-		margin-bottom: 30px
-
-	// https://bugs.webkit.org/show_bug.cgi?id=204163
-	li::marker
-		//content: "\2022"
-		color: var(--accent-color)
-		//display: inline-block
-		//margin-left: -1.4em
-		//width: 1.4em
-
-	.blockquote
-		text-align: center
-
-		p
-			padding-right: 40px
-
-	.img-center
-		margin-bottom: 15px
-
-	.img-center img,
-	.img-left img
-		width: 100%
-
-	figcaption p
-		font-size: 15px
-		margin-bottom: 0px !important
-
-	.twitter-tweet-rendered
-		margin: 0 auto
-		margin-bottom: 30px !important
 
 

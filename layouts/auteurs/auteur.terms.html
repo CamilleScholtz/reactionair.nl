@@ -22,7 +22,10 @@
 
 	<section id="authors">
 		{{ range sort $authors ".Params.title" "asc" }}
-			{{ partial "author.html" . }}
+			{{ partial "author.html" (dict
+				"context" .Params.title
+				"more"    true
+			) }}
 		{{ end }}
 	</section>
 {{ end }}

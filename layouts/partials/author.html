@@ -1,23 +1,16 @@
-{{ $authors := .Params.Auteurs }}
-{{ if eq .Kind "term" }}
-	{{ $authors = slice .Params.Title }}
-{{ end }}
+{{ with site.GetPage (printf "/auteurs/%s" (urlize .context)) }}
+	<div class="author-block">
+		<div class="information">
+			<img src="{{ .RelPermalink }}/avatar.webp" alt="{{ .Params.title }}">
 
-{{ range $authors }}
-	{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
-		<div class="author-block">
-			<div class="information">
-				<img src="{{ .RelPermalink }}/avatar.webp" alt="{{ .Params.title }}">
-
-				<h3>{{ .Params.title }}</h3>
-				<p class="profession">{{ .Params.profession }}</p>
-			</div>
-
-			<p class="description">{{ .Params.description }}</p>
-
-			{{ if eq $.Kind "page" }}
-				<a class="more" href="{{ .RelPermalink }}">Meer van deze auteur...</a>
-			{{ end }}
+			<h3>{{ .Params.title }}</h3>
+			<p class="profession">{{ .Params.profession }}</p>
 		</div>
-	{{ end }}
+
+		<p class="description">{{ .Params.description }}</p>
+
+		{{ if $.more }}
+			<a class="more" href="{{ .RelPermalink }}">Meer van deze auteur...</a>
+		{{ end }}
+	</div>
 {{ end }}

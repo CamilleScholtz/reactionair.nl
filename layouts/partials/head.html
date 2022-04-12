@@ -39,15 +39,15 @@
 
 	{{ $options := dict "outputStyle" "compressed" }}
 
-	<link rel="stylesheet" href="{{ (resources.Get "sass/fonts.sass" | resources.ToCSS $options).RelPermalink }}?v=1648631611">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/light.sass" | resources.ToCSS $options).RelPermalink }}?v=1648631611" media="(prefers-color-scheme: light)">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/dark.sass" | resources.ToCSS $options).RelPermalink }}?v=1648631611" media="(prefers-color-scheme: dark)">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/main.sass" | resources.ToCSS $options).RelPermalink }}?v=1648631611">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v=1648631611" media="(max-width: 1024px)">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v=1648631611" media="(min-width: 1025px)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/fonts.sass" | resources.ToCSS $options).RelPermalink }}?v=1649769972">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/light.sass" | resources.ToCSS $options).RelPermalink }}?v=1649769972" media="(prefers-color-scheme: light)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/dark.sass" | resources.ToCSS $options).RelPermalink }}?v=1649769972" media="(prefers-color-scheme: dark)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/main.sass" | resources.ToCSS $options).RelPermalink }}?v=1649769972">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v=1649769972" media="(max-width: 1024px)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v=1649769972" media="(min-width: 1025px)">
 
 	<script defer src="{{ (resources.Get "js/vendor/fuse.js" | resources.Minify).RelPermalink }}?v=1648631611"></script>
-	<script defer src="{{ (resources.Get "js/main.js" | resources.Minify).RelPermalink }}?v=1648631611"></script>
+	<script defer src="{{ (resources.Get "js/main.js" | resources.Minify).RelPermalink }}?v=1649769972"></script>
 
 	{{ template "_internal/google_analytics.html" . }}
 </head>

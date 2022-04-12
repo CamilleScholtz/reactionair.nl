@@ -4,7 +4,10 @@
 	{{ if eq .Section "auteurs" }}
 		<aside class="authors">
 			<div class="sticky">
-				{{ partial "author.html" . }}
+				{{ partial "author.html" (dict
+					"context" .Params.title
+					"more"    false
+				) }}
 			</div>	
 		</aside>
 	{{ else }}

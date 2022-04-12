@@ -2,7 +2,13 @@
 	<aside class="authors">
 		<div class="sticky">
 			{{ partial "utility.html" . }}
-			{{ partial "author.html" . }}
+
+			{{ range $author := .Params.auteurs }}
+				{{ partial "author.html" (dict
+					"context" .
+					"more"    true
+				) }}
+			{{ end }}
 		</div>
 	</aside>
 
@@ -13,21 +19,23 @@
 		{{ .Content }}
 	</article>
 
-	<section class="dossiers">
-		{{ range $dossier := .Params.dossiers }}
-			{{ $pages    := where site.RegularPages "Params.dossiers" "intersect" (slice $dossier) }}
-			{{ $pages     = where $pages "Params.title" "ne" $.Params.title }}
+	{{ if isset .Params "dossiers" }}
+		<section class="dossiers">
+			{{ range $dossier := .Params.dossiers }}
+				{{ $pages    := where site.RegularPages "Params.dossiers" "intersect" (slice $dossier) }}
+				{{ $pages     = where $pages "Params.title" "ne" $.Params.title }}
 
-			{{ partial "theme.html" (dict
-				"context" .
-				"section" "dossiers"
-				"term"    $dossier
-				"pages"   $pages
-				"side"    "left"
-				"lazy"    true
-			) }}
-		{{ end }}
-	</section>
+				{{ partial "theme.html" (dict
+					"context" .
+					"section" "dossiers"
+					"term"    $dossier
+					"pages"   $pages
+					"side"    "left"
+					"lazy"    true
+				) }}
+			{{ end }}
+		</section>
+	{{ end }}
 
 	<aside class="question">
 		<div class="sticky">

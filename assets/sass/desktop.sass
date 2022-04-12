@@ -1,10 +1,15 @@
-@import partials/desktop/typography
-@import partials/desktop/header
-@import partials/desktop/featured
-@import partials/desktop/theme
-@import partials/desktop/question
+@import partials/desktop/article
+@import partials/desktop/authors
 @import partials/desktop/comments
+@import partials/desktop/featured
 @import partials/desktop/footer
+@import partials/desktop/header
+@import partials/desktop/intro
+@import partials/desktop/question
+@import partials/desktop/quote
+@import partials/desktop/theme
+@import partials/desktop/tooltip
+@import partials/desktop/typography
 
 
 // Main
@@ -57,123 +62,3 @@ main
 
 aside
 	margin-bottom: 31px
-
-	&.authors
-		.utility .author
-			display: none
-
-		.author-block
-			margin-top: -31px
-			padding-bottom: 96px
-		
-			&:nth-of-type(3)
-				margin-top: -60px
-				border-top: 1px dashed var(--border-color)
-
-				.information
-					margin-top: -1px
-
-			p,
-			a
-				line-height: 29px
-
-	&.intro
-		text-align: center
-	
-		.sticky
-			border-right: none !important
-			margin-top: 100px
-			padding: 60px
-
-			&::before
-				left: 38px !important
-				top: 110px !important
-
-			.links
-				font-size: 28px
-				line-height: 35px
-				margin-top: 20px
-			
-				a
-					font-size: 16px
-					font-weight: 700
-
-				.pipe
-					font-size: 14px
-					font-weight: 700
-
-	&.quote
-		margin-top: 10px
-	
-		.sticky
-			border-right: 1px dashed var(--border-color)
-			color: var(--slightly-muted-color)
-			line-height: 31px
-			padding-right: 60px
-
-			&::before
-				color: var(--popup-background-color)
-				content: "“"
-				font-family: "Quadraat Pro Sans", sans-serif
-				font-size: 190px
-				left: -27px
-				position: absolute
-				top: 50px
-				z-index: -1
-
-			q
-				font-size: 25px
-				font-style: italic
-
-			.author
-				color: var(--muted-color)
-				display: block
-				font-family: "Quadraat Pro Sans", sans-serif
-				font-size: 16px
-
-// Article
-
-article
-	.blockquote.hide
-		display: none
-
-	.img-left
-		float: left
-		margin: 5px 30px 0 0
-		text-align: center
-		width: 45%
-
-	.tooltip
-		background: var(--popup-background-color);
-		padding: 20px
-		position: absolute;
-		transform: translateX(-50%);
-		margin-top: 2px
-		max-width: 350px
-		opacity: 0
-		transition: all .15s
-
-		*
-			font-size: 16px
-			font-weight: 400
-
-		p
-			color: var(--text-color)
-			margin: 0
-			padding: 0
-
-		.hover
-			height: 40px
-			margin-left: -20px
-			position: absolute
-			top: -20px
-			width: 100%
-
-		.arrow
-			background: var(--popup-background-color)
-			height: 18px
-			left: calc(50% - 9px)
-			position: absolute
-			top: -9px
-			transform: rotate(45deg)
-			width: 18px

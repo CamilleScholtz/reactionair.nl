@@ -1,16 +1,20 @@
-@import partials/mobile/typography
-@import partials/mobile/header
+@import partials/mobile/article
+@import partials/mobile/authors
 @import partials/mobile/featured
-@import partials/mobile/theme
-@import partials/mobile/question
 @import partials/mobile/footer
+@import partials/mobile/header
+@import partials/mobile/intro
+@import partials/mobile/question
+@import partials/mobile/quote
+@import partials/mobile/theme
+@import partials/mobile/typography
 
 
 // Main
 
 main
 	margin: 0 auto
-	width: calc(100vw - 50px)
+	width: calc(100vw - 40px)
 
 
 // Taxonomies & terms
@@ -25,39 +29,8 @@ main
 			.author
 				width: calc(100% - (30px * 2))
 
+
 // Single
 
 #page
 	margin-top: 40px
-
-
-// Asides
-
-aside
-	&.authors
-		.utility .author
-			float: right
-			font-size: 15px
-			font-style: italic
-			max-width: 33%
-			overflow: hidden
-			text-overflow: ellipsis
-			white-space: nowrap
-
-			a
-				font-size: 15px
-
-		.author-block
-			display: none
-
-	&.intro,
-	&.quote
-		display: none
-
-
-// Article
-
-article
-	.img-left
-		margin-bottom: 15px
-		width: 100%

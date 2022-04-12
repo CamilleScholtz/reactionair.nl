@@ -1,16 +1,18 @@
-const footnotes = (page) => {
+const footnotes = (page, mobile) => {
 	if (!page) {
 		return;
 	}
 
+	const article  = page.querySelector("article");
 	const refs     = page.querySelectorAll(".footnote-ref");
 	const backrefs = page.querySelectorAll(".footnote-backref");
+
+	let timer;
+	let ticking = false;
 
 	refs.forEach((ref) => {
 		const id      = ref.getAttribute("href").split(":").pop();
 		const backref = page.querySelector("#fn\\:" + id);
-
-		let timer;
 
 		ref.addEventListener("click", (ev) => {
 			ev.preventDefault();
@@ -22,37 +24,81 @@ const footnotes = (page) => {
 		});
 
 		ref.addEventListener("mouseenter", (ev) => {
-			timer = setTimeout(() => {	
-				const div = document.createElement("div");
-				div.setAttribute("class", "tooltip");
-				div.setAttribute("style", `left: ${ref.offsetLeft + (ref.offsetWidth / 2)}px;`);
-				div.innerHTML = `
-					<div class="arrow"></div>
+			if (mobile.matches || ticking) {
+				return;
+			}
+
+			ticking = true;
+
+			timer = setTimeout(() => {
+				const tooltip = document.createElement("div");
+				const arrow   = document.createElement("div");
+
+				tooltip.setAttribute("class", "tooltip");
+				arrow.setAttribute("class", "arrow");
+				
+				tooltip.innerHTML = `
 					<div class="hover"></div>
 					${backref.innerHTML}
 				`;
-				div.querySelector(".footnote-backref").remove();
+				tooltip.querySelector(".footnote-backref").remove();
 
-				ref.appendChild(div);
+				ref.appendChild(tooltip);
+				ref.appendChild(arrow);
+
+				const refCenter     = ref.offsetLeft + (ref.offsetWidth / 2);
+				const tooltipCenter = tooltip.offsetWidth / 2;
+
+				const left   = article.offsetLeft - 10;
+				const center = refCenter - tooltipCenter;
+				const right  = (article.offsetLeft + article.offsetWidth) - tooltip.offsetWidth + 10;
+
+				let location = center;
+				if (center > right) {
+					location = right;
+				} else if (center < left) {
+					location = left;
+				}
+
+				tooltip.style.left = `${location}px`;
+				arrow.style.left   = `${refCenter - 5}px`;
 
 				setTimeout(() => {
-					div.style.transform = "translate(-50%, +8px)";
-					div.style.opacity   = 1;
-				}, 200);
+					tooltip.style.transform = "translateY(4px)";
+					tooltip.style.opacity   = 1;
+
+					arrow.style.transform = "rotate(45deg) translateY(4px)";
+					arrow.style.opacity   = 1;
+				}, 15);
 			}, 200);
 		});
 
 		ref.addEventListener("mouseleave", (ev) => {
+			if (mobile.matches) {
+				return;
+			}
+		
 			clearTimeout(timer);
 
-			ref.querySelectorAll(".tooltip").forEach((tooltip) => {
-				tooltip.style.transform = "translate(-50%, 0px)";
-				tooltip.style.opacity   = 0;
+			const tooltip = ref.querySelector(".tooltip");
+			const arrow   = ref.querySelector(".arrow");
+			if (!tooltip && !arrow) {
+				ticking = false;
+				return;
+			}
 
-				setTimeout(() => {
-					tooltip.remove();
-				}, 200);
-			})
+			arrow.style.transform = "rotate(45deg) translateY(0px)";
+			arrow.style.opacity   = 0;
+
+			tooltip.style.transform = "translateY(0px)";
+			tooltip.style.opacity   = 0;
+
+			setTimeout(() => {
+				tooltip.remove();
+				arrow.remove();
+
+				ticking = false;
+			}, 215);
 		});
 	});
 
@@ -100,7 +146,7 @@ const scroll = (header, stickies, mobile) => {
 
 	let hidden     = false;
 	let lastScroll = 0;
-	let ticking    = false
+	let ticking    = false;
 
 	const hide = () => {
 		if (mobile.matches) {
@@ -319,5 +365,5 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	quote();
 	time(header);
 	search(header, mobile)
-	footnotes(page);
+	footnotes(page, mobile);
 });

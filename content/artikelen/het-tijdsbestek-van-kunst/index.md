@@ -4,6 +4,7 @@ subtitle = "Over mode en architectuur"
 auteurs  = ["Stained Glass Zealot"]
 date     = "2022-03-10"
 themas   = "Cultuur & Geschiedenis"
+dossiers = ["Christendom"]
 +++
 
 _Dit is een vertaald artikel, het origineel is [hier](https://glasszealot.substack.com/p/the-timeframe-of-art) te lezen._
