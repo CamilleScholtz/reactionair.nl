@@ -11,6 +11,7 @@ const footnotes = (page, mobile) => {
 	let ticking = false;
 
 	refs.forEach((ref) => {
+		const sup     = ref.parentNode;
 		const id      = ref.getAttribute("href").split(":").pop();
 		const backref = page.querySelector("#fn\\:" + id);
 
@@ -23,7 +24,7 @@ const footnotes = (page, mobile) => {
 			});
 		});
 
-		ref.addEventListener("mouseenter", (ev) => {
+		sup.addEventListener("mouseenter", (ev) => {
 			if (mobile.matches || ticking) {
 				return;
 			}
@@ -43,8 +44,8 @@ const footnotes = (page, mobile) => {
 				`;
 				tooltip.querySelector(".footnote-backref").remove();
 
-				ref.appendChild(tooltip);
-				ref.appendChild(arrow);
+				sup.appendChild(tooltip);
+				sup.appendChild(arrow);
 
 				const refCenter     = ref.offsetLeft + (ref.offsetWidth / 2);
 				const tooltipCenter = tooltip.offsetWidth / 2;
@@ -73,15 +74,15 @@ const footnotes = (page, mobile) => {
 			}, 200);
 		});
 
-		ref.addEventListener("mouseleave", (ev) => {
+		sup.addEventListener("mouseleave", (ev) => {
 			if (mobile.matches) {
 				return;
 			}
 		
 			clearTimeout(timer);
 
-			const tooltip = ref.querySelector(".tooltip");
-			const arrow   = ref.querySelector(".arrow");
+			const tooltip = sup.querySelector(".tooltip");
+			const arrow   = sup.querySelector(".arrow");
 			if (!tooltip && !arrow) {
 				ticking = false;
 				return;

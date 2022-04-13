@@ -1,7 +1,11 @@
 {{ $authors := .Params.Auteurs }}
 
 <div class="utility">
-	<span>{{ math.Round (div (countwords .Content) 220.0) }} minuten leestijd</span>
+	{{ if eq .Section "auteurs" }}
+		<span>{{ len .RegularPages }} artikel{{ if gt (len .RegularPages) 1 }}en{{ end }} geschreven</span>
+	{{ else }}
+		<span>{{ math.Round (div (countwords .Content) 220.0) }} minuten leestijd</span>
+	{{ end }}
 
 	<span class="pipe">|</span>
 
