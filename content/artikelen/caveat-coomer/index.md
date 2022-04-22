@@ -3,7 +3,7 @@ title    = "Caveat coomer"
 subtitle = "Over de giftige alchemie tussen coomer en e-girl"
 auteurs  = ["De Melancholieke Nar"]
 date     = "2022-02-24"
-themas   = "Politiek & Maatschappij"
+themas   = "Cultuur & Maatschappij"
 dossiers = ["Woke"]
 +++
 

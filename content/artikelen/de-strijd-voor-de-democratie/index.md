@@ -3,7 +3,7 @@ title    = "De strijd voor de democratie"
 subtitle = "De rechtstaat in Oekraïne: verleden en toekomst"
 auteurs  = ["Sanura"]
 date     = "2022-04-05"
-themas   = "Politiek & Maatschappij"
+themas   = "Politiek & Actualiteit"
 dossiers = ["Oekraïne"]
 +++
 

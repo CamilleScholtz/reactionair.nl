@@ -2,9 +2,8 @@
 title    = "Deugen de meeste mensen nog steeds?"
 subtitle = "De misanthrope verleiding"
 auteurs  = ["De Melancholieke Nar"]
-date     = "2022-04-10"
-themas   = "Politiek & Maatschappij"
-draft    = true
+date     = "2022-04-15"
+themas   = "Recensie & Biografie"
 +++
 
 {{< quote
@@ -15,8 +14,8 @@ draft    = true
 
 {{< image
 	src="thumb.webp"
-	alt="Luxe-editie: De meeste mensen deugen."
-	caption="Luxe-editie: De meeste mensen deugen."
+	alt="De misantroop"
+	caption="De misantroop door Pieter Bruegel de Oude."
 	class="img-left"
 >}}
 
@@ -33,10 +32,10 @@ Een eenvoudige syntactische analyse van de zin 'de meeste mensen deugen' leert o
 
 Logischerwijs zijn er ook vier corresponderende oplossingen voor dit probleem.
 
-1. Pathologiseren: Er moet meer geïnvesteerd worden in de geestelijke gezondheidszorg zodat we deze ondeugende mensen effectiever kunnen negeren. Wappies zijn gek en daar kunnen we maar het beste medelijden mee hebben.
-2. Dehumaniseren: Verder marginaliseren in de hoop dat de wappies in enkele generaties uitsterven. Onmensen hebben geen recht op voortbestaan. In de progressief-liberale onderbuik is deze dehumanisering in vergevorderd stadium. Zo genoot men op de _subreddit_ _r/tokkiefeesboek_ met volle teugen van het politiegeweld tegen lockdowndemonstranten. Ook wordt er inmiddels openlijk gefantaseerd over een 'rijkseuthanasieprogramma' voor wappies.[^4]
-3. Jungiaans schaduwwerk: De deugmens moet zichzelf eerst een spiegel voorhouden om de ander in hemzelf te herkennen en zo tot respect te komen. Hier is ook een ander woord voor: liefde. Men zal hier als laatst voor opteren.
-4. Transhumanisme: Als de mens niet deugt, heeft hij gewoon een _update_ nodig, of liever nog een _great reset_. Hij moet vervangen worden door een nieuwe cyborg-mens die wel deugt.
+1. **Pathologiseren**: Er moet meer geïnvesteerd worden in de geestelijke gezondheidszorg zodat we deze ondeugende mensen effectiever kunnen negeren. Wappies zijn gek en daar kunnen we maar het beste medelijden mee hebben.
+2. **Dehumaniseren**: Verder marginaliseren in de hoop dat de wappies in enkele generaties uitsterven. Onmensen hebben geen recht op voortbestaan. In de progressief-liberale onderbuik is deze dehumanisering in vergevorderd stadium. Zo genoot men op de _subreddit_ _r/tokkiefeesboek_ met volle teugen van het politiegeweld tegen lockdowndemonstranten. Ook wordt er inmiddels openlijk gefantaseerd over een 'rijkseuthanasieprogramma' voor wappies.[^4]
+3. **Jungiaans schaduwwerk**: De deugmens moet zichzelf eerst een spiegel voorhouden om de ander in hemzelf te herkennen en zo tot respect te komen. Hier is ook een ander woord voor: liefde. Men zal hier als laatst voor opteren.
+4. **Transhumanisme**: Als de mens niet deugt, heeft hij gewoon een _update_ nodig, of liever nog een _great reset_. Hij moet vervangen worden door een nieuwe cyborg-mens die wel deugt.
 
 De wereld heeft eigenlijk al voor optie vier gekozen. De techniek dicteert het ons. Toch zullen we de komende jaren het geweten van de progressief-liberale elite, wiens positieve mensbeeld zo aan het wankelen is gebracht, zien worstelen en spartelen met deze puzzel en nu eens de ene, dan weer de andere oplossing overwegen. Houd dit handige schemaatje dus bij de hand.
 

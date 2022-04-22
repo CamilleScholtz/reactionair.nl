@@ -1,5 +1,3 @@
-{{ $authors := .Params.Auteurs }}
-
 <div class="utility">
 	{{ if eq .Section "auteurs" }}
 		<span>{{ len .RegularPages }} artikel{{ if gt (len .RegularPages) 1 }}en{{ end }} geschreven</span>
@@ -22,10 +20,10 @@
 	</span>
 
 	<span class="author">
-		{{ range $index, $_ := $authors }}
+		{{ range $index, $_ := .Params.auteurs }}
 			{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
 				<a href="{{ .RelPermalink }}">{{ .Params.title }}</a>
-				{{ if and (eq (len $authors) 2) (eq $index 0) }}
+				{{ if and (eq (len $.Params.auteurs) 2) (eq $index 0) }}
 					&nbsp;&&nbsp;
 				{{ end }}
 			{{ end }}

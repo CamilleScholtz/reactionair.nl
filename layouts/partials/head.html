@@ -11,7 +11,7 @@
 	<meta property="og:url" content="{{ .Permalink }}">
 	{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
 		<meta property="og:type" content="article">
-		<meta property="og:image" content="{{ (.Resources.GetMatch "thumb.webp").Permalink }}">
+		<meta property="og:image" content="{{ ((.Resources.GetMatch "thumb.webp").Fill "1200x628 webp").Permalink }}">
 		<meta property="twitter:card" content="summary_large_image">
 	{{ else }}
 		<meta property="og:type" content="website">
@@ -39,15 +39,28 @@
 
 	{{ $options := dict "outputStyle" "compressed" }}
 
-	<link rel="stylesheet" href="{{ (resources.Get "sass/fonts.sass" | resources.ToCSS $options).RelPermalink }}?v=1649769972">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/light.sass" | resources.ToCSS $options).RelPermalink }}?v=1649769972" media="(prefers-color-scheme: light)">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/dark.sass" | resources.ToCSS $options).RelPermalink }}?v=1649769972" media="(prefers-color-scheme: dark)">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/main.sass" | resources.ToCSS $options).RelPermalink }}?v=1649769973">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v=1649769972" media="(max-width: 1024px)">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v=1649769973" media="(min-width: 1025px)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/fonts.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624311">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/light.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624311" media="(prefers-color-scheme: light)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/dark.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624311" media="(prefers-color-scheme: dark)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/main.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624311">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624311" media="(max-width: 1024px)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624311" media="(min-width: 1025px)">
 
-	<script defer src="{{ (resources.Get "js/vendor/fuse.js" | resources.Minify).RelPermalink }}?v=1648631611"></script>
-	<script defer src="{{ (resources.Get "js/main.js" | resources.Minify).RelPermalink }}?v=1649769973"></script>
+	<script defer src="{{ (resources.Get "js/vendor/minisearch.js").RelPermalink }}?v=1650624311"></script>
+	<script defer src="{{ (resources.Get "js/main.js" | resources.Minify).RelPermalink }}?v=1650624311"></script>
 
-	{{ template "_internal/google_analytics.html" . }}
+	<script>
+		if (!sessionStorage.getItem("_swa") && document.referrer.indexOf(location.protocol + "//" + location.host) !== 0) {
+			fetch("https://counter.dev/track?" + new URLSearchParams({
+				referrer:  document.referrer,
+				screen:    screen.width + "x" + screen.height,
+				user:      "admin@camille.sh",
+				utcoffset: "2",
+			}), {
+				referrerPolicy: "no-referrer-when-downgrade",
+			});
+		}
+
+		sessionStorage.setItem("_swa", "1");
+	</script>
 </head>

@@ -3,7 +3,7 @@ title    = "Hybridisering"
 subtitle = "De Futuro-Fundamentalistische Revolutie, deel 4"
 auteurs  = ["Alexander Wolfheze"]
 date     = "2022-01-10"
-themas   = "Politiek & Maatschappij"
+themas   = "Cultuur & Maatschappij"
 +++
 
 

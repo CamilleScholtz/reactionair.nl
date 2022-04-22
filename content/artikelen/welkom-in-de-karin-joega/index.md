@@ -3,7 +3,7 @@ title    = "Welkom in de Karin joega"
 subtitle = "Veiligheid voor alles"
 auteurs  = ["De Melancholieke Nar"]
 date     = "2021-12-12"
-themas   = "Politiek & Maatschappij"
+themas   = "Cultuur & Maatschappij"
 +++
 
 

@@ -3,7 +3,7 @@ title    = "Sociale contacten in een verbrokkelde wereld"
 subtitle = "De industriële revolutie en haar invloed op sociale interactie"
 auteurs  = ["v. Deirm"]
 date     = "2021-12-07"
-themas   = "Politiek & Maatschappij"
+themas   = "Cultuur & Maatschappij"
 +++
 
 

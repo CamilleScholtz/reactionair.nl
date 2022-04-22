@@ -1,0 +1,57 @@
+{{ define "main" }}
+	{{ $themes   := slice "Politiek & Actualiteit" "Cultuur & Maatschappij" "Religie & Metafysica" "Recensie & Biografie" }}
+	{{ $articles := where site.RegularPages "Params.themas" "in" $themes }}
+
+	<aside class="intro quote">
+		<div class="sticky">
+			{{ partial "quote.html" (dict
+				"text"   ""
+				"author" ""
+			) }}
+
+			<div class="links">
+				<!--<a href="/doneren/">Doneren</a>
+
+				<span class="pipe">|</span>-->
+				
+				<a href="/auteurs/">Auteurs</a>
+
+				<span class="pipe">|</span>
+				
+				<a href="/artikelen/wie-zijn-wij/">Wie zijn wij?</a>
+			</div>
+		</div>
+	</aside>
+
+	<section id="featured">
+		{{ $featured := index $articles 0 }}
+		{{ partial "featured.html" (dict
+			"context" $featured
+			"size"    "large"
+			"image"   "thumb.webp"
+		) }}
+	</section>
+
+	<section id="themes">
+		{{ $themes   = $themes | append "Klikaas" }}
+		{{ $articles = where site.RegularPages "Params.themas" "in" $themes | after 1 }}
+
+		{{ range $i, $theme := $themes }}
+			{{ $pages := where $articles "Params.themas" "eq" $theme }}
+		
+			{{ $side := "right" }}
+			{{ if mod $i 2 }}
+				{{ $side = "left" }}
+			{{ end }}
+		
+			{{ partial "theme.html" (dict
+				"context" .
+				"section" "themas"
+				"term"    $theme
+				"pages"   $pages
+				"side"    $side
+				"lazy"    (ge $i 1)
+			) }}
+		{{ end }}
+	</section>
+{{ end }}

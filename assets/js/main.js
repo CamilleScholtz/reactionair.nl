@@ -235,15 +235,9 @@ const search = (header, mobile) => {
 	const arrow            = resultsContainer.querySelector(".arrow");
 	const results          = resultsContainer.querySelector(".results");
 
-	const fuse = new Fuse([], {
-		ignoreLocation: true,
-		findAllMatches: true,
-		keys: [
-			{name: "title",    weight: 0.8},
-			{name: "subtitle", weight: 0.8},
-			{name: "authors",  weight: 0.7},
-			{name: "content",  weight: 0.6},
-		],
+	const minisearch = new MiniSearch({
+		fields:      ["title", "subtitle", "authors", "content"],
+		storeFields: ["title", "subtitle", "authors", "permalink"],
 	});
 
 	let fetched = false;
@@ -256,7 +250,7 @@ const search = (header, mobile) => {
 				fetch("/index.json")
 					.then((response) => response.json())
 					.then((data) => {
-						fuse.setCollection(data);
+						minisearch.addAll(data);	
 						fetched = true;
 					});
 			}
@@ -296,18 +290,25 @@ const search = (header, mobile) => {
 		results.innerHTML   = ""
 		arrow.style.display = "none";
 
-		const matches = fuse.search(ev.target.value, {limit: 8});
-		if (matches.length > 0) {
-			arrow.style.display = "block";
+		const matches = minisearch.search(ev.target.value, {
+			prefix: true,
+			fuzzy:  0.2,
+			boost:  { title: 1.75, subtitle: 1.5 },
+		});
+
+		if (matches.length < 1) {
+			return;
 		}
+
+		arrow.style.display = "block";
 
 		matches.forEach((match) => {
 			const a = document.createElement("a");
-			a.setAttribute("href", match.item.permalink);
+			a.setAttribute("href", match.permalink);
 			a.innerHTML = `
-				<h2>${match.item.title}</h2>
-				<h3>${match.item.subtitle}</h3>
-				<p class="author">${match.item.authors.join(" & ")}</p>
+				<h2>${match.title}</h2>
+				<h3>${match.subtitle}</h3>
+				<p class="author">${match.authors.join(" & ")}</p>
 			`;
 
 			results.appendChild(a);

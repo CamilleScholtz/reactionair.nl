@@ -4,7 +4,7 @@ subtitle = "Over reactionairen en moslims"
 question = "Denkt u dat een dergelijke alliantie mogelijk is?"
 auteurs  = ["Vrederijk"]
 date     = "2021-10-13"
-themas   = "Politiek & Maatschappij"
+themas   = "Politiek & Actualiteit"
 dossiers = ["Islam"]
 +++
 

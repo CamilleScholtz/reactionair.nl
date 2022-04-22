@@ -1,7 +1,4 @@
 {{ define "main" }}
-	{{ $authors  := .Pages }}
-	{{ $featured := slice }}
-
 	<aside class="intro quote">
 		<div class="sticky">
 			{{ partial "quote.html" (dict "quote" "" "author" "") }}
@@ -21,7 +18,11 @@
 	</aside>
 
 	<section id="authors">
-		{{ range sort $authors ".Params.title" "asc" }}
+		{{ $authors := (where .Pages "Params.pseudonym" false).ByTitle }}
+		{{ $authors  = $authors | append (where .Pages "Params.pseudonym" true).ByTitle }}
+
+	
+		{{ range $authors }}
 			{{ partial "author.html" (dict
 				"context" .Params.title
 				"more"    true

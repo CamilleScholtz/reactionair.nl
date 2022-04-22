@@ -3,7 +3,7 @@ title    = "Verelendungstheorie"
 subtitle = "De Futuro-Fundamentalistische Revolutie, deel 5"
 auteurs  = ["Alexander Wolfheze"]
 date     = "2022-01-17"
-themas   = "Politiek & Maatschappij"
+themas   = "Cultuur & Maatschappij"
 +++
 
 
