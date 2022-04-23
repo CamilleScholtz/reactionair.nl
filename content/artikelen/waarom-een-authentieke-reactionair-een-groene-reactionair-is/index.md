@@ -4,6 +4,7 @@ subtitle = "Over ecologie"
 auteurs  = ["Jan-Willem Veldhuizen"]
 date     = "2021-11-17"
 themas   = "Politiek & Actualiteit"
+dossiers = ["Klimaatverandering"]
 +++
 
 
