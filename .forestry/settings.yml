@@ -8,7 +8,7 @@ sections:
   path: content/artikelen
   label: Artikelen
   create: documents
-  match: "*/*.md"
+  match: "**/index.md"
   exclude: _index.md
   templates:
   - artikel
