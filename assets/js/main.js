@@ -238,6 +238,9 @@ const search = (header, mobile) => {
 	const minisearch = new MiniSearch({
 		fields:      ["title", "subtitle", "authors", "content"],
 		storeFields: ["title", "subtitle", "authors", "permalink"],
+		processTerm: (term) => {
+			return term.normalize('NFKD').replace(/[^\w]/g, '').toLowerCase();
+		}
 	});
 
 	let fetched = false;
@@ -266,7 +269,7 @@ const search = (header, mobile) => {
 
 			input.focus();
 
-			input.dispatchEvent(new Event("input", {bubbles:true}));
+			input.dispatchEvent(new Event("input", {bubbles: true}));
 		} else {
 			input.style.transform    = "scaleX(0)";
 			setTimeout(() => {
@@ -292,8 +295,7 @@ const search = (header, mobile) => {
 
 		const matches = minisearch.search(ev.target.value, {
 			prefix: true,
-			fuzzy:  0.2,
-			boost:  { title: 1.75, subtitle: 1.5 },
+			boost:  {title: 1.75, subtitle: 1.5},
 		});
 
 		if (matches.length < 1) {
