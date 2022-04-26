@@ -1,19 +1,20 @@
 +++
-title    = "Politiek pauwengedrag"
+auteurs = ["Camille Meloen"]
+date = 2022-04-20T00:00:00Z
 subtitle = "Over ‘counter-signalling’"
-auteurs  = ["Camille Meloen"]
-date     = "2022-04-20"
-themas   = "Cultuur & Maatschappij"
-+++
+themas = "Cultuur & Maatschappij"
+title = "Politiek pauwengedrag"
 
-Er is een interessant concept in evolutionaire theorieën dat _'counter-signalling'_ heet. Om dit concept uit te leggen neem ik het voorbeeld van de pauw. 
++++
+Er is een interessant concept in evolutionaire theorieën dat _'counter-signalling'_ heet. Om dit concept uit te leggen neem ik het voorbeeld van de pauw.
 
 {{< image
-	src="thumb.webp"
-	alt="Pauw"
-	caption="Illustratie van een pauw uit een getijdenboek."
-	class="img-left"
->}}
+src="thumb.webp"
+alt="Pauw"
+caption="Illustratie van een pauw uit een getijdenboek."
+class="img-left"
+
+> }}
 
 Het evolutionaire idee van camouflage is vrij gemakkelijk te begrijpen, als je moeilijker te zien bent heb je minder kans te worden opgegeten door roofdieren. Hoe zit het nu met de pauw met zijn kleurrijke, grote veren? Het is duidelijk dat dit in strijd is met het idee van camouflage. Kort na het publiceren van _The Origin of Species_, schreef Charles Darwin: "De aanblik van een veer in de staart van een pauw, telkens als ik er naar kijk, maakt me ziek!". Hij schreef dit omdat, voor hem, zo'n staart totaal absurd was binnen zijn evolutietheorie; het schaadt namelijk de overlevingskans van de pauw.
 
@@ -23,15 +24,13 @@ Hetzelfde soort signaalgedrag zien we bij de mens. In landen met een mindere eco
 
 Om over te gaan tot het kernpunt van dit artikel: ik geloof dat veel van de trends die we vandaag de dag zien verklaard kunnen worden door 'bèta-mannen' die de _'counter-signals'_ van 'alfamannen' proberen na te bootsen. Hiermee nemen ze de risico's die gepaard gaan met _'counter-signalling'_ (denk aan de pauw), maar plukken geen van de vruchten. Laten we een paar voorbeelden opnoemen:
 
-* Veel _'celebrities '_ geven een tegensignaal door "unieke" of vrouwelijke kleding te dragen. Neem bijvoorbeeld Harry Styles die een jurk draagt.[^1] Wat hij hier doet is signaleren "ik ben zo aantrekkelijk dat ik het risico kan nemen een jurk te dragen". Wanneer normale jongens nu denken dat ze dit gedrag kunnen imiteren, zal dit waarschijnlijk niet het beoogde effect hebben.
+* Veel _'celebrities '_ geven een tegensignaal door "unieke" of vrouwelijke kleding te dragen. Neem bijvoorbeeld Harry Styles die een jurk draagt.\[^1\] Wat hij hier doet is signaleren "ik ben zo aantrekkelijk dat ik het risico kan nemen een jurk te dragen". Wanneer normale jongens nu denken dat ze dit gedrag kunnen imiteren, zal dit waarschijnlijk niet het beoogde effect hebben.
 
-	{{< tweet Sibruh 1319257775575388160>}}
+  {{< tweet Sibruh 1319257775575388160>}}
+* Blanke mensen uit hogere klasse (of rijke boomers met een mooi huis) hebben de neiging om groepen als _BLM_, massamigratie of andere zaken te steunen die aantoonbaar ongunstige gevolgen kunnen hebben voor de eigen groep.\[^2\]\[^3\] Ik hoef hier echt geen tientallen voorbeelden van te geven, iedereen weet waar ik het over heb. Deze mensen leven in hun _gated communities_ en hoeven zich geen zorgen te maken over een verzadigde huizenmarkt of arbeidsmarkt, hierdoor kunnen ze het risico van '_counter-signalling'_ nemen. Wanneer de gemiddelde persoon dit gedrag echter probeert te imiteren zullen de nadelen veel groter zijn dan de voordelen.
 
-* Blanke mensen uit hogere klasse (of rijke boomers met een mooi huis) hebben de neiging om groepen als _BLM_, massamigratie of andere zaken te steunen die aantoonbaar ongunstige gevolgen kunnen hebben voor de eigen groep.[^2][^3] Ik hoef hier echt geen tientallen voorbeelden van te geven, iedereen weet waar ik het over heb. Deze mensen leven in hun _gated communities_ en hoeven zich geen zorgen te maken over een verzadigde huizenmarkt of arbeidsmarkt, hierdoor kunnen ze het risico van '_counter-signalling'_ nemen. Wanneer de gemiddelde persoon dit gedrag echter probeert te imiteren zullen de nadelen veel groter zijn dan de voordelen.
+Op rechts heerst het idee dat bepaalde elites samenzweren, en dat zou heel goed waar kunnen zijn. Echter, 'aristocraten', mensen die tot de 'elite' behoren, zijn niet dom. Het is niet zo dat ze de negatieve gevolgen die hun handelen voor mensen uit lagere klasse die tot hun _'in-group'_ zouden kunnen worden toegerekend niet zien; het is meer zo dat zij genieten van het sociale prestige dat _'counter-signallen'_ verschaft.
 
-Op rechts heerst het idee dat bepaalde elites samenzweren, en dat zou heel goed waar kunnen zijn. Echter, 'aristocraten', mensen die tot de 'elite' behoren, zijn niet dom. Het is niet zo dat ze de negatieve gevolgen die hun handelen voor mensen uit lagere klasse die tot hun _'in-group'_ zouden kunnen worden toegerekent niet zien; het is meer zo dat zij genieten van het sociale prestige dat _'counter-signallen'_ verschaft.
-
-
-[^1]: Hamish Bowles, _[Playtime With Harry Styles](https://www.vogue.com/article/harry-styles-cover-december-2020)_.
-[^2]: _Mediacourant_, _[Tanja Jess walgt van Nederhorst den Berg: ‘Te wit’](https://www.mediacourant.nl/2017/10/tanja-jess-walgt-van-nederhorst-den-berg-te-wit/)_.
-[^3]: _The Tonight Show Starring Jimmy Fallon_, _[Census Shows Decline in White People!](https://youtu.be/JsTaeKiEmS0?t=72)_.
+\[^1\]: Hamish Bowles, [_Playtime With Harry Styles_](https://www.vogue.com/article/harry-styles-cover-december-2020).
+\[^2\]: _Mediacourant_, [_Tanja Jess walgt van Nederhorst den Berg: ‘Te wit’_](https://www.mediacourant.nl/2017/10/tanja-jess-walgt-van-nederhorst-den-berg-te-wit/).
+\[^3\]: _The Tonight Show Starring Jimmy Fallon_, [_Census Shows Decline in White People!_](https://youtu.be/JsTaeKiEmS0?t=72).
