@@ -3,7 +3,7 @@ title    = "Dennis Honing ‘hoe echt om te gaan met diversiteit in Nederland’
 subtitle = "Traditionalisme als genezing voor het postmodernisme"
 auteurs  = ["Dennis Honing"]
 date     = "2021-11-09"
-themas   = "Politiek & Actualiteit"
+thema    = "Politiek & Actualiteit"
 dossiers = ["Islam"]
 +++
 

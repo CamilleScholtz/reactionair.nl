@@ -4,7 +4,7 @@ subtitle = "Of toch niet?"
 question = "Is woke deze keer écht te ver gegaan?"
 auteurs  = ["Camille Meloen"]
 date     = "2021-10-15"
-themas   = "Klikaas"
+thema    = "Klikaas"
 dossiers = ["Woke"]
 +++
 

@@ -3,7 +3,7 @@ title    = "Reactionair, om te beginnen"
 subtitle = "Fragment uit een boek in voorbereiding"
 auteurs  = ["Robert Lemm"]
 date     = "2021-11-29"
-themas   = "Recensie & Biografie"
+thema    = "Recensie & Biografie"
 dossiers = ["Christendom"]
 +++
 

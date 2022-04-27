@@ -3,7 +3,7 @@ title    = "Politiek pauwengedrag"
 subtitle = "Over ‘counter-signalling’"
 auteurs  = ["Camille Meloen"]
 date     = "2022-04-20"
-themas   = "Cultuur & Maatschappij"
+thema    = "Cultuur & Maatschappij"
 +++
 
 Er is een interessant concept in evolutionaire theorieën dat _'counter-signalling'_ heet. Om dit concept uit te leggen neem ik het voorbeeld van de pauw. 

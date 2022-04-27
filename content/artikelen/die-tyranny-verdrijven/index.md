@@ -3,7 +3,7 @@ title    = "‘Die tyranny verdrijven’"
 subtitle = "De Futuro-Fundamentalistische Revolutie, deel 6"
 auteurs  = ["Alexander Wolfheze"]
 date     = "2022-01-26"
-themas   = "Cultuur & Maatschappij"
+thema    = "Cultuur & Maatschappij"
 +++
 
 

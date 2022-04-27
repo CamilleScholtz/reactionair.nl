@@ -3,7 +3,7 @@ title    = "Wonen op zolder bij je ouders: loser of ascetische intellectueel?"
 subtitle = "Verdwenen vrijheid en zingeving in het liberale consumptiekapitalisme"
 auteurs  = ["Sanura"]
 date     = "2022-04-19"
-themas   = "Cultuur & Maatschappij"
+thema    = "Cultuur & Maatschappij"
 +++
 
 

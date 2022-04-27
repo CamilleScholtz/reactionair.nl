@@ -3,7 +3,7 @@ title    = "Cryptocurrency en de degeneratie van het muntgeld"
 subtitle = "Geld en de heerschappij van kwantiteit"
 auteurs  = ["Camille Meloen"]
 date     = "2021-12-24"
-themas   = "Religie & Metafysica"
+thema    = "Religie & Metafysica"
 +++
 
 

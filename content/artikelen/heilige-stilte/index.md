@@ -3,7 +3,7 @@ title    = "Heilige stilte"
 subtitle = "Tussen waarheid, ongeluk en burgermentaliteit"
 auteurs  = ["Walt van Toor"]
 date     = "2021-11-28"
-themas   = "Cultuur & Maatschappij"
+thema    = "Cultuur & Maatschappij"
 +++
 
 

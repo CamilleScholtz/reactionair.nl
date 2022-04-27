@@ -1,6 +1,6 @@
 {{ define "main" }}
 	{{ $themes   := slice "Politiek & Actualiteit" "Cultuur & Maatschappij" "Religie & Metafysica" "Recensie & Biografie" }}
-	{{ $articles := where site.RegularPages "Params.themas" "in" $themes }}
+	{{ $articles := where site.RegularPages "Params.thema" "in" $themes }}
 
 	<aside class="intro quote">
 		<div class="sticky">
@@ -34,10 +34,10 @@
 
 	<section id="themes">
 		{{ $themes   = $themes | append "Klikaas" }}
-		{{ $articles = where site.RegularPages "Params.themas" "in" $themes | after 1 }}
+		{{ $articles = where site.RegularPages "Params.thema" "in" $themes | after 1 }}
 
 		{{ range $i, $theme := $themes }}
-			{{ $pages := where $articles "Params.themas" "eq" $theme }}
+			{{ $pages := where $articles "Params.thema" "eq" $theme }}
 		
 			{{ $side := "right" }}
 			{{ if mod $i 2 }}
@@ -46,7 +46,7 @@
 		
 			{{ partial "theme.html" (dict
 				"context" .
-				"section" "themas"
+				"section" "thema"
 				"term"    $theme
 				"pages"   $pages
 				"side"    $side

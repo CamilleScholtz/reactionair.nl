@@ -3,7 +3,7 @@ title    = "Autonomie en consumptie"
 subtitle = "Hoe autonomie met de consumptiemaatschappij samenhangt"
 auteurs  = ["Jurbin van Hooff"]
 date     = "2021-10-31"
-themas   = "Cultuur & Maatschappij"
+thema    = "Cultuur & Maatschappij"
 +++
 
 

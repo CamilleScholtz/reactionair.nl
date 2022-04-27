@@ -3,7 +3,7 @@ title    = "Fatalisme, ondergang en wederopstanding"
 subtitle = "Beschouwing over het lot der Westerse beschaving"
 auteurs  = ["Intan Hoijer"]
 date     = "2021-11-03"
-themas   = "Cultuur & Maatschappij"
+thema    = "Cultuur & Maatschappij"
 +++
 
 
