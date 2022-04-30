@@ -3,7 +3,7 @@ title    = "Stront aan de knikker"
 subtitle = "Over het COC en wie onze kinderen nu eigenlijk opvoedt"
 auteurs  = ["Vrederijk"]
 date     = "2022-04-04"
-thema    = "Politiek & Actualiteit"
+themas   = "Politiek & Actualiteit"
 dossiers = ["Woke"]
 +++
 

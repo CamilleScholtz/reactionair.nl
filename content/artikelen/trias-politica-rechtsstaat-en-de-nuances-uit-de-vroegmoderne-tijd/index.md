@@ -3,7 +3,7 @@ title    = "Trias politica, rechtsstaat en de nuances uit de vroegmoderne tijd"
 subtitle = "De l'Esprit des Lois 2.0, deel 2"
 auteurs  = ["Sanura"]
 date     = "2022-04-28"
-thema    = "Politiek & Actualiteit"
+themas   = "Politiek & Actualiteit"
 +++
 
 

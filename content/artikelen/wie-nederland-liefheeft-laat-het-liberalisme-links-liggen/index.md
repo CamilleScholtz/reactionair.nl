@@ -3,7 +3,7 @@ title    = "Wie Nederland liefheeft, laat het liberalisme links liggen"
 subtitle = "Over onze toekomst"
 auteurs  = ["Jan-Jaap Moltman"]
 date     = "2022-04-11"
-thema    = "Politiek & Actualiteit"
+themas   = "Politiek & Actualiteit"
 +++
 
 

@@ -1,6 +1,6 @@
 {{ define "main" }}
-	{{ $themes   := slice "Politiek & Actualiteit" "Cultuur & Maatschappij" "Religie & Metafysica" "Recensie & Biografie" }}
-	{{ $articles := where site.RegularPages "Params.thema" "in" $themes }}
+	{{ $themes   := slice "Politiek & Actualiteit" "Cultuur & Maatschappij" "Recensie & Biografie" "Religie & Metafysica" }}
+	{{ $articles := where site.RegularPages "Params.themas" "in" $themes }}
 
 	<aside class="intro quote">
 		<div class="sticky">
@@ -23,7 +23,7 @@
 		</div>
 	</aside>
 
-	<section id="featured">
+	<section>
 		{{ $featured := index $articles 0 }}
 		{{ partial "featured.html" (dict
 			"context" $featured
@@ -32,12 +32,12 @@
 		) }}
 	</section>
 
-	<section id="themes">
-		{{ $themes   = $themes | append "Klikaas" }}
-		{{ $articles = where site.RegularPages "Params.thema" "in" $themes | after 1 }}
+	<section>
+		{{ $themes   := slice "Politiek & Actualiteit" "Cultuur & Maatschappij" }}
+		{{ $articles = where site.RegularPages "Params.themas" "in" $themes | after 1 }}
 
 		{{ range $i, $theme := $themes }}
-			{{ $pages := where $articles "Params.thema" "eq" $theme }}
+			{{ $pages := where $articles "Params.themas" "eq" $theme }}
 		
 			{{ $side := "right" }}
 			{{ if mod $i 2 }}
@@ -53,5 +53,48 @@
 				"lazy"    (ge $i 1)
 			) }}
 		{{ end }}
+	</section>
+
+	<section id="bookclub">
+		{{ partial "bookclub.html" (dict
+			"context" .
+			"title"   "De Zahir"
+			"pages"   203
+			"image"   "de-zahir.webp"
+		) }}
+	</section>
+
+	<section>
+		{{ $themes   := slice "Recensie & Biografie" "Religie & Metafysica"  }}
+		{{ $articles = where site.RegularPages "Params.themas" "in" $themes | after 1 }}
+
+		{{ range $i, $theme := $themes }}
+			{{ $pages := where $articles "Params.themas" "eq" $theme }}
+		
+			{{ $side := "right" }}
+			{{ if mod $i 2 }}
+				{{ $side = "left" }}
+			{{ end }}
+		
+			{{ partial "theme.html" (dict
+				"context" .
+				"section" "themas"
+				"term"    $theme
+				"pages"   $pages
+				"side"    $side
+				"lazy"    (ge $i 1)
+			) }}
+		{{ end }}	
+	
+		{{ $pages := where site.RegularPages "Params.themas" "eq" "Klikaas" }}
+
+		{{ partial "theme.html" (dict
+			"context" .
+			"section" "themas"
+			"term"    "Klikaas"
+			"pages"   $pages
+			"side"    "right"
+			"lazy"    true
+		) }}
 	</section>
 {{ end }}

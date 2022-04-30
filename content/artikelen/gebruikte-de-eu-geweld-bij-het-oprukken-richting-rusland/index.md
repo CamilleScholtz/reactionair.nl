@@ -3,7 +3,7 @@ title    = "Gebruikte de EU geweld bij het oprukken richting Rusland?"
 subtitle = "Over wat geweld is"
 auteurs  = ["Gerald Russelman"]
 date     = "2022-03-28"
-thema    = "Politiek & Actualiteit"
+themas   = "Politiek & Actualiteit"
 dossiers = ["Oekraïne"]
 +++
 

@@ -3,7 +3,7 @@ title    = "Natuur versus natuur"
 subtitle = "Een modern misverstand"
 auteurs  = ["Camille Meloen"]
 date     = "2021-10-14"
-thema    = "Religie & Metafysica"
+themas   = "Religie & Metafysica"
 +++
 
 

@@ -3,7 +3,7 @@ title    = "Boodschap aan de Germaan"
 subtitle = "Van een Marokkaan"
 auteurs  = ["Mootje"]
 date     = "2021-12-26"
-thema    = "Politiek & Actualiteit"
+themas   = "Politiek & Actualiteit"
 dossiers = ["Islam"]
 +++
 

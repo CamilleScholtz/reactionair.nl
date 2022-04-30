@@ -3,7 +3,7 @@ title    = "‘Edge of Tomorrow’"
 subtitle = "De Futuro-Fundamentalistische Revolutie, deel 7"
 auteurs  = ["Alexander Wolfheze"]
 date     = "2022-02-07"
-thema    = "Cultuur & Maatschappij"
+themas   = "Cultuur & Maatschappij"
 +++
 
 

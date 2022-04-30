@@ -3,7 +3,7 @@ title    = "Deugen de meeste mensen nog steeds?"
 subtitle = "De misanthrope verleiding"
 auteurs  = ["De Melancholieke Nar"]
 date     = "2022-04-15"
-thema    = "Recensie & Biografie"
+themas   = "Recensie & Biografie"
 +++
 
 {{< quote

@@ -3,7 +3,7 @@ title    = "Wil de echte homogenezer opstaan?"
 subtitle = "Hoe we wegkijken bij fysiek en mentaal verminken bij genderdysforie maar rituelen en bidden illegaal verklaren"
 auteurs  = ["Paars van Grinsterer"]
 date     = "2022-02-14"
-thema    = "Politiek & Actualiteit"
+themas   = "Politiek & Actualiteit"
 +++
 
 

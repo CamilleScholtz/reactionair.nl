@@ -3,7 +3,7 @@ title    = "Transgenderisme: bestuurlijke oorlog tegen de realiteit"
 subtitle = "Hoe technocraten onze jeugd blijvend verminken"
 auteurs  = ["Tara Ann Thieke"]
 date     = "2022-03-15"
-thema    = "Cultuur & Maatschappij"
+themas   = "Cultuur & Maatschappij"
 dossiers = ["Woke"]
 +++
 

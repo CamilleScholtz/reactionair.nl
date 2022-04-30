@@ -3,7 +3,7 @@ title    = "Verberg uw zondes"
 subtitle = "En redt de samenleving"
 auteurs  = ["Eco al-Hollandi"]
 date     = "2022-05-02"
-thema    = "Religie & Metafysica"
+themas   = "Religie & Metafysica"
 dossiers = ["Islam"]
 draft    = true
 +++

@@ -3,7 +3,7 @@ title    = "Popper: een afrekening"
 subtitle = "Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?"
 auteurs  = ["De Melancholieke Nar"]
 date     = "2022-01-08"
-thema    = "Politiek & Actualiteit"
+themas   = "Politiek & Actualiteit"
 +++
 
 

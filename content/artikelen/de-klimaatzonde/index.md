@@ -3,7 +3,7 @@ title    = "De klimaatzonde"
 subtitle = "Hoe de hamartiologie overleeft in een modern tijdperk"
 auteurs  = ["Jan-Willem Veldhuizen"]
 date     = "2022-04-23"
-thema    = "Politiek & Actualiteit"
+themas   = "Politiek & Actualiteit"
 dossiers = ["Klimaatverandering"]
 +++
 

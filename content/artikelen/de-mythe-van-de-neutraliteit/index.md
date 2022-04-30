@@ -3,7 +3,7 @@ title    = "De mythe van de neutraliteit"
 subtitle = "En de blindheid van de liberalen"
 auteurs  = ["Camille Meloen"]
 date     = "2021-10-06"
-thema    = "Politiek & Actualiteit"
+themas   = "Politiek & Actualiteit"
 +++
 
 

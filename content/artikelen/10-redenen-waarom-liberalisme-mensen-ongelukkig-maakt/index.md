@@ -3,7 +3,7 @@ title    = "10 redenen waarom liberalisme ongelukkig maakt!"
 subtitle = "Nummer 8 zal je versteld doen staan"
 auteurs  = ["Redactie"]
 date     = "2022-02-11"
-thema    = "Klikaas"
+themas   = "Klikaas"
 +++
 
 

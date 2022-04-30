@@ -3,7 +3,7 @@ title    = "Reactie en restauratie"
 subtitle = "Een rechts woordenboek"
 auteurs  = ["Sanura"]
 date     = "2022-01-09"
-thema    = "Cultuur & Maatschappij"
+themas   = "Cultuur & Maatschappij"
 +++
 
 

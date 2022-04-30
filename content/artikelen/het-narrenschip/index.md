@@ -3,7 +3,7 @@ title    = "Het narrenschip"
 subtitle = "Een allegorie van wokisme avant la lettre"
 auteurs  = ["Redactie"]
 date     = "2022-02-21"
-thema    = "Politiek & Actualiteit"
+themas   = "Politiek & Actualiteit"
 noindex  = true
 +++
 

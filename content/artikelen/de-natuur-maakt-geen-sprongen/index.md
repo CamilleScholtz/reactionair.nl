@@ -3,7 +3,7 @@ title    = "De natuur maakt geen sprongen"
 subtitle = "Deconstructie van categorieën"
 auteurs  = ["Camille Meloen"]
 date     = "2021-10-24"
-thema    = ["Filosofie"]
+themas   = ["Filosofie"]
 draft    = true
 +++
 

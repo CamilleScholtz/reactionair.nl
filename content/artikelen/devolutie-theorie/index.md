@@ -3,7 +3,7 @@ title    = "Devolutie theorie"
 subtitle = "De Futuro-Fundamentalistische Revolutie, deel 1"
 auteurs  = ["Alexander Wolfheze"]
 date     = "2021-12-23"
-thema    = "Cultuur & Maatschappij"
+themas   = "Cultuur & Maatschappij"
 +++
 
 

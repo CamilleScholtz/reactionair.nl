@@ -3,7 +3,7 @@ title    = "Het recht van de sterkste"
 subtitle = "Over NAVO, Rusland en Oekraïne"
 auteurs  = ["Robert Lemm"]
 date     = "2022-03-11"
-thema    = "Politiek & Actualiteit"
+themas   = "Politiek & Actualiteit"
 dossiers = ["Oekraïne"]
 +++
 

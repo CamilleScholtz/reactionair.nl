@@ -23,7 +23,7 @@
 	<div class="utility">
 		<div class="left">
 			{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
-				<span>{{ upper .Params.thema }}</span>
+				<span>{{ upper .Params.themas }}</span>
 				<span class="pipe">|</span>
 				<time>{{ index $.Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Day }}, {{ .Date.Year }}</time>
 			{{ else }}

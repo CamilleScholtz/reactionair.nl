@@ -3,7 +3,7 @@ title    = "Mijmeringen over de Metaverse"
 subtitle = ""
 auteurs  = ["Camille Meloen"]
 date     = "2022-01-20"
-thema    = "Politiek & Maatschappij"
+themas   = "Politiek & Maatschappij"
 draft    = true
 +++
 

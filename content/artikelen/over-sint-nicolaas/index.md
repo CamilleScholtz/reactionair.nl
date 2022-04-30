@@ -3,7 +3,7 @@ title    = "Over Sint Nicolaas"
 subtitle = "Een interpretatie van de symboliek uit het leven van deze heilige, losjes gebaseerd op de Gulden Legende"
 auteurs  = ["Jan de Maansnijder"]
 date     = "2021-12-01"
-thema    = "Religie & Metafysica"
+themas   = "Religie & Metafysica"
 dossiers = ["Christendom"]
 +++
 

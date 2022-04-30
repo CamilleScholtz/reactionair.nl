@@ -3,7 +3,7 @@ title    = "Scruton en esthetisch oordelen"
 subtitle = "Wat is schoonheid?"
 auteurs  = ["Cedrik Vandooren"]
 date     = "2022-01-11"
-thema    = "Cultuur & Maatschappij"
+themas   = "Cultuur & Maatschappij"
 +++
 
 

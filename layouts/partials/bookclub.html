@@ -1,0 +1,19 @@
+<div class="bookclub-container">
+	<div class="text">
+		<h2><span class="de">De</span> boekenplank</h2>
+		<p>Wij zullen ‘{{ .title }}’ binnenkort bespreken in onze Podcast.</p>
+		<a>Lees binnenkort meer...</a>
+	</div>
+
+	<div class="book-container">
+		<div class="book">
+			{{ $image     := resources.Get (printf "images/%s" .image) }}
+			{{ $thickness := add 5 (mul .pages 0.08) }}
+
+			<img src="{{ ($image.Fit "700x466 webp").RelPermalink }}" alt="{{ .title }}" class="cover"  style="transform: translateZ({{ $thickness }}px);">
+			<div class="pages" style="transform: translateX({{ sub 214 $thickness }}px) rotateY(90deg); width: {{ mul $thickness 1.99 }}px;"></div>
+			<div class="back" style="transform: translateZ(-{{ $thickness }}px);"></div>
+			<div class="shadow"></div>
+		</div>
+	</div>
+</div>

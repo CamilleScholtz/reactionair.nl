@@ -3,7 +3,7 @@ title    = "Van seksuele boulimia tot like-verslaving"
 subtitle = "De seksuele revolutie en wat daarna kwam"
 auteurs  = ["De Melancholieke Nar"]
 date     = "2021-10-04"
-thema    = "Cultuur & Maatschappij"
+themas   = "Cultuur & Maatschappij"
 +++
 
 

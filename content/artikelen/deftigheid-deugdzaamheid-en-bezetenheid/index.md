@@ -3,7 +3,7 @@ title    = "Deftigheid, deugdzaamheid en bezetenheid"
 subtitle = "Overweging over het mensbeeld van de meeste mensen"
 auteurs  = ["Walt van Toor"]
 date     = "2022-04-21"
-thema    = "Cultuur & Maatschappij"
+themas   = "Cultuur & Maatschappij"
 +++
 
 

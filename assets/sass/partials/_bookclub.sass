@@ -1,0 +1,78 @@
+#bookclub
+	border-top: 1px dashed var(--border-color)
+	margin-top: 60px
+	padding-bottom: 60px
+	padding-top: 60px
+
+	.bookclub-container
+		align-content: center
+		background: var(--popup-background-color)
+		display: grid
+
+		.text
+			align-content: center
+			display: grid
+		
+			h2	
+				border-bottom: 1px dashed var(--popup-border-color)
+				color: var(--accent-color)
+				font-style: italic
+				margin-bottom: 40px
+
+			p
+				font-family: "Quadraat Pro Sans", sans-serif
+
+			a
+				margin: 0
+
+		.book-container
+			perspective: 600px
+
+			.book
+				height: 330px
+				position: relative
+				transform: rotateY(-29deg) rotateX(3deg)
+				transform-style: preserve-3d
+				transition: 1s ease
+				width: 220px
+
+				&:hover
+					transform: rotateY(-20deg)
+
+				.cover
+					 background-color: #01060f
+					 border-radius: 0 1.5px 1.5px 0
+					 box-shadow: 5px 12px 32px -13px rgba(154, 52, 51, 0.25)
+					 height: 330px
+					 position: absolute
+					 left: 0
+					 top: 0
+					 width: 220px
+
+				.pages
+					background: linear-gradient(90deg, #F6F3EC 0%, #D8CDAF 5%, #F1E7CB 10%, #EDD8B8 15%, #F6F3EC 20%, #EDD8B8 25%, #FFF2DF 30%, #F1E7CB 35%, #FFF2DF 40%, #F1E7CB 45%, #FFF2DF 50%, #D8CDAF 55%, #F6F3EC 60%, #EDD8B8 65%, #FFF2DF 70%, #F1E7CB 75%, #F6F3EC 80%, #D8CDAF 85%, #F6F3EC 90%, #F1E7CB 95%, #F6F3EC 100%)
+					content: " "
+					height: 320px
+					left: 0
+					position: absolute
+					top: 5px
+
+				.back 
+					background-color: #5C3020
+					border-radius: 0 1.5px 1.5px 0
+					box-shadow: -10px 10px 50px 8px rgba(154, 52, 51, 0.25)
+					content: " "
+					height: 330px
+					left: 0
+					position: absolute
+					top: 0
+					width: 220px
+
+				.shadow
+					background: radial-gradient(circle, rgba(154, 52, 51, 0.25), rgba(154, 52, 51, 0) 72%)
+					bottom: -200px
+					height: 400px
+					left: -91px
+					position: absolute
+					transform: rotateX(90deg)
+					width: 400px

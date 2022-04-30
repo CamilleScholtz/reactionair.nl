@@ -3,7 +3,7 @@ title    = "Van humanisme naar nihilisme"
 subtitle = "De eclips van de seculiere ethiek"
 auteurs  = ["Magnus Bradshaw"]
 date     = "2022-04-01"
-thema    = "Religie & Metafysica"
+themas   = "Religie & Metafysica"
 +++
 
 

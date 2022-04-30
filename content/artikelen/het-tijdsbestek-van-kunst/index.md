@@ -3,7 +3,7 @@ title    = "Het tijdsbestek van kunst"
 subtitle = "Over mode en architectuur"
 auteurs  = ["Stained Glass Zealot"]
 date     = "2022-03-10"
-thema    = "Cultuur & Maatschappij"
+themas   = "Cultuur & Maatschappij"
 dossiers = ["Christendom"]
 +++
 
