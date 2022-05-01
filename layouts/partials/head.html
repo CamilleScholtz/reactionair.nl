@@ -10,8 +10,14 @@
 	<meta property="og:description" content="{{ if isset .Params "description" }}{{ .Params.description }}{{ else }}{{ .Params.subtitle }}{{ end }}">
 	<meta property="og:url" content="{{ .Permalink }}">
 	{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
+		{{ $image  := .Resources.GetMatch "thumb.webp" }}
+		{{ $anchor := "Smart" }}
+		{{ if isset .Params "anchor" }}
+			{{ $anchor = .Params.anchor }}
+		{{ end }}
+	
 		<meta property="og:type" content="article">
-		<meta property="og:image" content="{{ ((.Resources.GetMatch "thumb.webp").Fill "1200x628 webp").Permalink }}">
+		<meta property="og:image" content="{{ ($image.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}">
 		<meta property="twitter:card" content="summary_large_image">
 	{{ else }}
 		<meta property="og:type" content="website">
@@ -43,7 +49,7 @@
 	<link rel="stylesheet" href="{{ (resources.Get "sass/light.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624311" media="(prefers-color-scheme: light)">
 	<link rel="stylesheet" href="{{ (resources.Get "sass/dark.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624311" media="(prefers-color-scheme: dark)">
 	<link rel="stylesheet" href="{{ (resources.Get "sass/main.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624312">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624312" media="(max-width: 1024px)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624318" media="(max-width: 1024px)">
 	<link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624312" media="(min-width: 1025px)">
 
 	<script defer src="{{ (resources.Get "js/vendor/minisearch.js").RelPermalink }}?v=1650624311"></script>

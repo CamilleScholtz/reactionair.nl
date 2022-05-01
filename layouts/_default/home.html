@@ -24,9 +24,8 @@
 	</aside>
 
 	<section>
-		{{ $featured := index $articles 0 }}
 		{{ partial "featured.html" (dict
-			"context" $featured
+			"context" (index $articles 0)
 			"size"    "large"
 			"image"   "thumb.webp"
 		) }}
@@ -34,11 +33,9 @@
 
 	<section>
 		{{ $themes   := slice "Politiek & Actualiteit" "Cultuur & Maatschappij" }}
-		{{ $articles = where site.RegularPages "Params.themas" "in" $themes | after 1 }}
+		{{ $articles  = where site.RegularPages "Params.themas" "in" $themes | after 1 }}
 
-		{{ range $i, $theme := $themes }}
-			{{ $pages := where $articles "Params.themas" "eq" $theme }}
-		
+		{{ range $i, $theme := $themes }}		
 			{{ $side := "right" }}
 			{{ if mod $i 2 }}
 				{{ $side = "left" }}
@@ -48,7 +45,7 @@
 				"context" .
 				"section" "themas"
 				"term"    $theme
-				"pages"   $pages
+				"pages"   (where $articles "Params.themas" "eq" $theme)
 				"side"    $side
 				"lazy"    (ge $i 1)
 			) }}
@@ -66,11 +63,9 @@
 
 	<section>
 		{{ $themes   := slice "Recensie & Biografie" "Religie & Metafysica"  }}
-		{{ $articles = where site.RegularPages "Params.themas" "in" $themes | after 1 }}
+		{{ $articles  = where site.RegularPages "Params.themas" "in" $themes | after 1 }}
 
-		{{ range $i, $theme := $themes }}
-			{{ $pages := where $articles "Params.themas" "eq" $theme }}
-		
+		{{ range $i, $theme := $themes }}		
 			{{ $side := "right" }}
 			{{ if mod $i 2 }}
 				{{ $side = "left" }}
@@ -80,19 +75,17 @@
 				"context" .
 				"section" "themas"
 				"term"    $theme
-				"pages"   $pages
+				"pages"   (where $articles "Params.themas" "eq" $theme)
 				"side"    $side
 				"lazy"    (ge $i 1)
 			) }}
 		{{ end }}	
 	
-		{{ $pages := where site.RegularPages "Params.themas" "eq" "Klikaas" }}
-
 		{{ partial "theme.html" (dict
 			"context" .
 			"section" "themas"
 			"term"    "Klikaas"
-			"pages"   $pages
+			"pages"   (where site.RegularPages "Params.themas" "eq" "Klikaas")
 			"side"    "right"
 			"lazy"    true
 		) }}

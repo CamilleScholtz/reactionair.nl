@@ -1,20 +1,24 @@
 <a href="{{ .context.RelPermalink }}" class="featured {{.size}}">
 	{{ if .image }}
-		{{ $image := .context.Resources.GetMatch .image }}
+		{{ $image  := .context.Resources.GetMatch .image }}
+		{{ $anchor := "Smart" }}
+		{{ if isset .context.Params "anchor" }}
+			{{ $anchor = .context.Params.anchor }}
+		{{ end }}
 
 		<img
 			{{ if eq .size "large" }}
-				srcset="{{ ($image.Fill "744x320 webp").RelPermalink }} 320w,
-				        {{ ($image.Fill "1488x640 webp").RelPermalink }} 640w"
+				srcset="{{ ($image.Fill (printf "744x320 webp %s" $anchor)).RelPermalink }} 320w,
+				        {{ ($image.Fill (printf "1488x640 webp %s" $anchor)).RelPermalink }} 640w"
 				sizes="(max-width: 1920px) 320px,
 				       640px"
-				src="{{ ($image.Fill "1488x640 webp").RelPermalink }}"
+				src="{{ ($image.Fill (printf "1488x640 webp %s" $anchor)).RelPermalink }}"
 			{{ else }}
-				srcset="{{ ($image.Fill "337x320 webp").RelPermalink }} 337w,
-				        {{ ($image.Fill "674x640 webp").RelPermalink }} 674w"
+				srcset="{{ ($image.Fill (printf "337x320 webp %s" $anchor)).RelPermalink }} 337w,
+				        {{ ($image.Fill (printf "674x640 webp %s" $anchor)).RelPermalink }} 674w"
 				sizes="(max-width: 1920px) 337px,
 				       674px"
-				src="{{ ($image.Fill "674x640 webp").RelPermalink }}"
+				src="{{ ($image.Fill (printf "674x640 webp %s" $anchor)).RelPermalink }}"
 			{{ end }}
 			{{ if .lazy }}
 				loading="lazy"
