@@ -4,7 +4,7 @@ subtitle = "Traditionalisme als genezing voor het postmodernisme"
 auteurs  = ["Dennis Honing"]
 date     = "2021-11-09"
 themas   = "Politiek & Actualiteit"
-dossiers = ["Islam"]
+dossiers = ["Islam", "Conservatieve Alliantie"]
 +++
 
 

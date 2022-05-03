@@ -4,6 +4,7 @@ subtitle = "Over de omgekeerde analogie"
 auteurs  = ["Camille Meloen"]
 date     = "2021-11-21"
 themas   = "Religie & Metafysica"
+anchor   = "Top"
 +++
 
 

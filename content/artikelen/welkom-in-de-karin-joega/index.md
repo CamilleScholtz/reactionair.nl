@@ -4,6 +4,7 @@ subtitle = "Veiligheid voor alles"
 auteurs  = ["De Melancholieke Nar"]
 date     = "2021-12-12"
 themas   = "Cultuur & Maatschappij"
+anchor   = "Top"
 +++
 
 

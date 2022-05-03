@@ -5,6 +5,7 @@ auteurs  = ["Jan-Willem Veldhuizen"]
 date     = "2022-04-23"
 themas   = "Politiek & Actualiteit"
 dossiers = ["Klimaatverandering"]
+anchor   = "Top"
 +++
 
 

@@ -28,13 +28,17 @@
 			{{ range $paginator.Pages }}			
 				<a href="{{ .RelPermalink }}" class="article">
 					{{ $image := .Resources.GetMatch "thumb.webp" }}
-				
+					{{ $anchor := "Smart" }}
+					{{ if isset .Params "anchor" }}
+						{{ $anchor = .Params.anchor }}
+					{{ end }}
+
 					<img
-						srcset="{{ ($image.Fill "311x300 webp").RelPermalink }} 311w,
-						        {{ ($image.Fill "622x600 webp").RelPermalink }} 622w"
+						srcset="{{ ($image.Fill (printf "311x300 webp %s" $anchor)).RelPermalink }} 311w,
+						        {{ ($image.Fill (printf "622x600 webp %s" $anchor)).RelPermalink }} 622w"
 						sizes="(max-width: 1920px) 311px,
 						       622px"
-						src="{{ ($image.Fill "622x600 webp").RelPermalink}}"
+						src="{{ ($image.Fill (printf "622x600 webp %s" $anchor)).RelPermalink}}"
 						alt="{{ .Params.title }}">
 				
 					<h2>{{ .Params.title }}</h2>

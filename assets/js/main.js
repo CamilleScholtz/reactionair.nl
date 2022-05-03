@@ -127,12 +127,14 @@ const time = (header) => {
 		return;
 	}
 
-	const date  = new Date();
-	const year  = new Intl.DateTimeFormat("nl-NL", {year: "numeric"}).format(date);
-	const month = new Intl.DateTimeFormat("nl-NL", {month: "short"}).format(date);
-	const day   = new Intl.DateTimeFormat("nl-NL", {day: "2-digit"}).format(date);
-	
-	now.innerHTML = `${day} ${month.slice(0, -1).toUpperCase()}, ${year}`;
+	const date   = new Date();
+	const format = new Intl.DateTimeFormat("nl-NL", {
+		day:   "numeric",
+		month: "short",
+		year:  "numeric",
+	}).formatToParts(date);
+
+	now.innerHTML = `${format.find((e) => e.type == "day").value} ${format.find((e) => e.type == "month").value.replace(".", "").toUpperCase()}, ${format.find((e) => e.type == "year").value}`;
 }
 
 const scroll = (header, stickies, mobile) => {

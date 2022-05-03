@@ -5,7 +5,7 @@ auteurs  = ["Dennis Honing"]
 date     = "2022-01-15"
 themas   = "Politiek & Actualiteit"
 question = "Wat zijn uw gedachten over een dergelijke alliantie?"
-dossiers = ["Islam"]
+dossiers = ["Islam", "Conservatieve Alliantie"]
 +++
 
 

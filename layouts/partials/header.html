@@ -25,9 +25,9 @@
 			{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
 				<span>{{ upper .Params.themas }}</span>
 				<span class="pipe">|</span>
-				<time>{{ index $.Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Day }}, {{ .Date.Year }}</time>
+				<time>{{ .Date.Day }} {{ index $.Site.Data.months (printf "%d" .Date.Month) }}, {{ .Date.Year }}</time>
 			{{ else }}
-				<time class="now">{{ index $.Site.Data.months (printf "%d" now.Month) }} {{ now.Day }}, {{ now.Year }}</time>
+				<time class="now">{{ now.Day }} {{ index $.Site.Data.months (printf "%d" now.Month) }}, {{ now.Year }}</time>
 			{{ end }}
 		</div>
 

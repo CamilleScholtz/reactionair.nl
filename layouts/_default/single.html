@@ -21,16 +21,21 @@
 
 	{{ if isset .Params "dossiers" }}
 		<section class="dossiers">
-			{{ range $dossier := .Params.dossiers }}
+			{{ range $i, $dossier := .Params.dossiers }}
 				{{ $pages    := where site.RegularPages "Params.dossiers" "intersect" (slice $dossier) }}
 				{{ $pages     = where $pages "Params.title" "ne" $.Params.title }}
+
+				{{ $side := "left" }}
+				{{ if mod $i 2 }}
+					{{ $side = "right" }}
+				{{ end }}
 
 				{{ partial "theme.html" (dict
 					"context" .
 					"section" "dossiers"
 					"term"    $dossier
 					"pages"   $pages
-					"side"    "left"
+					"side"    $side
 					"lazy"    true
 				) }}
 			{{ end }}

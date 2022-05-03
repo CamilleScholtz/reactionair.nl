@@ -6,6 +6,7 @@
 @import partials/desktop/footer
 @import partials/desktop/header
 @import partials/desktop/intro
+@import partials/desktop/list
 @import partials/desktop/question
 @import partials/desktop/theme
 @import partials/desktop/tooltip
@@ -34,28 +35,6 @@ main
 	>section
 		grid-column: 2
 		grid-row: auto
-
-
-// Taxonomies & terms
-
-#taxonomy,
-#term,
-	#articles
-		display: grid;
-		grid-template-columns: repeat(2, 1fr)
-
-		.article
-			padding: 60px
-		
-			&:nth-child(2n-1)
-				border-right: 1px dashed var(--border-color)
-
-			&:nth-last-child(1),
-			&:nth-last-child(2)
-				border-bottom: none
-
-			.author
-				width: calc(100% - (60px * 2))
 
 
 // Asides

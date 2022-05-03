@@ -10,6 +10,7 @@
 @import partials/footnotes
 @import partials/header
 @import partials/intro
+@import partials/list
 @import partials/paginator
 @import partials/question
 @import partials/quote
@@ -34,59 +35,3 @@ main
 
 	p
 		margin-bottom: 30px
-
-
-// Taxonomies & terms
-
-#taxonomy,
-#term
-	#authors .author-container
-		background: var(--background-color)
-		border-bottom: 1px dashed var(--border-color)
-		padding: 60px
-
-		&:last-of-type
-			border-bottom: none
-
-		.description
-			margin-bottom: 0px
-
-	#authors,
-	#articles
-		display: grid
-
-		.article
-			background: var(--background-color)
-			border-bottom: 1px dashed var(--border-color)
-			position: relative
-			text-align: center
-
-			&:last-of-type
-				border-bottom: none
-
-			img
-				height: 300px
-				margin: 0 auto
-				margin-bottom: 50px
-				object-fit: cover
-				width: 100%
-
-			h2
-				font-size: 28px
-				font-weight: 700
-				line-height: 34px
-				margin-bottom: 10px
-
-			h3
-				font-size: 24px
-				font-weight: 400
-				line-height: 30px
-				margin-bottom: 60px
-				margin-top: 0px
-
-			.author
-				bottom: 40px
-				color: var(--accent-color)
-				font-family: "Quadraat Pro Sans", sans-serif
-				font-size: 18px
-				position: absolute

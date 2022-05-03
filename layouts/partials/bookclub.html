@@ -11,10 +11,6 @@
 			{{ $thickness := add 5 (mul .pages 0.082) }}
 
 			<img
-				srcset="{{ ($image.Fit "330x220 webp").RelPermalink }} 330w,
-				        {{ ($image.Fit "660x440 webp").RelPermalink }} 660w"
-				sizes="(max-width: 1920px) 330px,
-				       660px"
 				src="{{ ($image.Fit "660x440 webp").RelPermalink }}"
 				loading="lazy"
 				alt="{{ .title }}"
