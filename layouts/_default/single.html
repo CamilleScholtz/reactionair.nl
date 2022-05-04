@@ -16,6 +16,15 @@
 		<h1>{{ .Params.title }}</h1>
 		<h2>{{ .Params.subtitle }}</h2>
 
+		<div class="authors mobile-only">
+			{{ range $author := .Params.auteurs }}
+				{{ partial "author.html" (dict
+					"context" .
+					"more"    true
+				) }}
+			{{ end }}
+		</div>
+
 		{{ .Content }}
 	</article>
 

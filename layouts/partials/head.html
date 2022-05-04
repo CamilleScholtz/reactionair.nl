@@ -45,15 +45,15 @@
 
 	{{ $options := dict "outputStyle" "compressed" }}
 
-	<link rel="stylesheet" href="{{ (resources.Get "sass/fonts.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624311">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/light.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624311" media="(prefers-color-scheme: light)">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/dark.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624311" media="(prefers-color-scheme: dark)">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/main.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624312">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/fonts.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624318">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/light.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624318" media="(prefers-color-scheme: light)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/dark.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624318" media="(prefers-color-scheme: dark)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/main.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624318">
 	<link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624318" media="(max-width: 1024px)">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624312" media="(min-width: 1025px)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624318" media="(min-width: 1025px)">
 
 	<script defer src="{{ (resources.Get "js/vendor/minisearch.js").RelPermalink }}?v=1650624311"></script>
-	<script defer src="{{ (resources.Get "js/main.js" | resources.Minify).RelPermalink }}?v=1650624311"></script>
+	<script defer src="{{ (resources.Get "js/main.js" | resources.Minify).RelPermalink }}?v=1650624317"></script>
 
 	<script>
 		if (!sessionStorage.getItem("_swa") && document.referrer.indexOf(location.protocol + "//" + location.host) !== 0) {

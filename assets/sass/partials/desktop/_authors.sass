@@ -1,18 +1,34 @@
 .authors
-	.utility .author
-		display: none
+	.sticky
+		padding-top: 10px
 
-	.author-block
-		margin-top: -31px
-		padding-bottom: 96px
-	
-		&:nth-of-type(3)
-			margin-top: -60px
-			border-top: 1px dashed var(--border-color)
+		.utility
+			border-bottom: 1px dashed var(--border-color)
+			color: var(--muted-color)
+			font-size: 17px
+			margin-bottom: 30px
+			padding-bottom: 12px
 
-			.information
-				margin-top: -1px
+			.icon
+				height: 17px
+				position: relative
+				top: 4px
 
-		p,
-		a
-			line-height: 29px
+			.pipe
+				margin-left: 12px
+				margin-right: 12px
+
+		.author-block
+			margin-top: -31px
+			padding-bottom: 96px
+		
+			&:nth-of-type(3)
+				margin-top: -60px
+				border-top: 1px dashed var(--border-color)
+
+				.information
+					margin-top: -1px
+
+			p,
+			a
+				line-height: 29px

@@ -1,15 +1,35 @@
 .authors
-	.utility .author
-		float: right
-		font-size: 15px
-		font-style: italic
-		max-width: 33%
-		overflow: hidden
-		text-overflow: ellipsis
-		white-space: nowrap
-
-		a
-			font-size: 15px
+	.sticky
+		display: none
 
 	.author-block
-		display: none
+		display: inline-block
+		margin-right: 10px
+		width: fit-content
+	
+		.information
+			height: 40px
+		
+			img
+				height: 40px
+				margin: 0
+				width: 40px
+
+			h3
+				background: var(--footnotes-background-color)
+				color: var(--accent-color)
+				font-size: 15px
+				height: 40px
+				line-height: 40px
+				margin: 0
+				max-width: unset
+				min-width: unset
+				padding-left: 15px
+				padding-right: 15px
+
+			.profession
+				display: none
+
+		.description,
+		.more
+			display: none

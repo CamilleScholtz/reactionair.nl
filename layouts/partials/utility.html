@@ -18,15 +18,4 @@
 			<img class="icon" src="{{ relURL "img/telegram.svg" }}" alt="Telegram">
 		</a>
 	</span>
-
-	<span class="author">
-		{{ range $index, $_ := .Params.auteurs }}
-			{{ with $.Site.GetPage (printf "/auteurs/%s" (urlize .)) }}
-				<a href="{{ .RelPermalink }}">{{ .Params.title }}</a>
-				{{ if and (eq (len $.Params.auteurs) 2) (eq $index 0) }}
-					&nbsp;&&nbsp;
-				{{ end }}
-			{{ end }}
-		{{ end }}
-	</span>
 </div>
