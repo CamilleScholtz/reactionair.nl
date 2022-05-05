@@ -1,16 +1,27 @@
 {{ with site.GetPage (printf "/auteurs/%s" (urlize .context)) }}
-	<div class="author-block">
+	<div class="author-block {{$.size}}">
+		{{ if eq $.size "small" }}
+			<a href="{{ .RelPermalink }}">
+		{{ end }}
+	
 		<div class="information">
 			<img src="{{ .RelPermalink }}/avatar.webp" alt="{{ .Params.title }}">
-
 			<h3>{{ .Params.title }}</h3>
-			<p class="profession">{{ .Params.profession }}</p>
+			{{ if eq $.size "large" }}
+				<p class="profession">{{ .Params.profession }}</p>
+			{{ end }}
 		</div>
 
-		<p class="description">{{ .Params.description }}</p>
+		{{ if eq $.size "small" }}
+			</a>
+		{{ end }}
 
-		{{ if $.more }}
-			<a class="more" href="{{ .RelPermalink }}">Meer van deze auteur...</a>
+		{{ if eq $.size "large" }}
+			<p class="description">{{ .Params.description }}</p>
+
+			{{ if $.more }}
+				<a class="more" href="{{ .RelPermalink }}">Meer van deze auteur...</a>
+			{{ end }}
 		{{ end }}
 	</div>
 {{ end }}

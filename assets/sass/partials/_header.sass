@@ -7,20 +7,22 @@ header
 	z-index: 99
 
 	#logo-container
-		background: var(--header-background-color)
+		background: var(--footnotes-background-color)
 		border-bottom: 1px dashed var(--header-border-color)
 		height: 110px
 
-		#logo img
-			background: #A62F27
-			box-shadow: 0 5px 25px -4px rgba(108, 19, 15, 0.1)
-			height: 113px
+		#logo
+			display: inline-flex
 			margin-top: 15px
-			transition: all .2s .1s
 
-			&:hover
-				box-shadow: 0 10px 35px -6px rgba(108, 19, 15, 0.25)
-				transform: scale(1.05) translateY(2px) !important
+			img
+				background: #A62F27
+				box-shadow: 0 5px 25px -4px rgba(108, 19, 15, 0.1)
+				transition: all .2s .1s
+
+				&:hover
+					box-shadow: 0 10px 35px -6px rgba(108, 19, 15, 0.25)
+					transform: scale(1.05) translateY(2px) !important
 
 		#search
 			position: absolute
@@ -29,6 +31,7 @@ header
 
 			form
 				input
+					background: var(--header-background-color)
 					float: left
 					height: 50px
 					transform: scaleX(0)
