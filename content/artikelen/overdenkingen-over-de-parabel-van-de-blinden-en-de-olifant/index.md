@@ -20,9 +20,7 @@ De gangbare waarheidstheorie in het oosten wordt gekenschetst door een oud India
 
 {{< image
 	src="rumi.webp"
-	alt="De parabel van de blinden en de olifant"
 	caption="De parabel van de blinden en de olifant, uit een manuscript met gedichten van Jalāl ad-Dīn Mohammad Rūmī."
-	class="img-left"
 >}}
 
 >Er was eens een groep blinde mannen die hadden gehoord dat er een wonderlijk dier dat olifant wordt genoemd in het dorp was. Uit nieuwsgierigheid zeiden ze, laten we naar de olifant toe gaan en te weten komen wat dat voor beest is door het aan te raken. Zo gezegd zo gedaan. Ze gingen op zoek naar de olifant en betastten hem rondom, aangezien dat voor hen de enige manier was om het dier te leren kennen. De eerste pakte de slurf beet en zei, dit wezen is lang, dik en kronkelig als een slang. De tweede vatte het oor en sprak: dit wezen is dun en beweeglijk als een waaier. Nee, zei de volgende, die zijn handen op het been had gelegd, een olifant is stevig als een pilaar of een boomstam. Weer een ander, die aan de buik van het beest voelde, zei dat het als een muur was. Degene die de staart vast had, zei dat een olifant als een touw was. De laatste tenslotte, die de slagtanden beroerde, was van mening dat een olifant glad en puntig is als een speer.[^4]
@@ -36,9 +34,7 @@ Laten we dit nog eens contrasteren met onze westerse waarheidsopvatting, die doo
 
 {{< image
 	src="hermaphrodite.webp"
-	alt="Hermafrodiet"
 	caption="Gravure van hermafrodiet uit een 18e eeuwse versie van het Rosarium philosophorum."
-	class="img-left"
 >}}
 
 Wetenschap kan dan worden opgevat als een zoektocht naar de ultieme toverspreuk, de ultieme formule om het heelal te omvatten - en wellicht naar je hand te zetten. _F = ma_ en _E = mc²_ vallen in dezelfde rubriek als _simsalabim_ en _abracadabra_ en Newton en Einstein waren tovenaars. Maar daar de ultieme werkelijkheid steeds net buiten bereik blijft, slaan onze wetenschappers om de moed erin te houden vaak een chiliastische toon aan: de laatste decennia hebben wij zoveel vooruitgang gemaakt, dat de dag niet ver weg kan zijn dat de hele waarheid aan onze voeten ligt! Hierom wordt in het westen ook altijd gehamerd op 'het nieuwste onderzoek' in plaats van oude wijsheid.
@@ -52,9 +48,7 @@ Dit is dan ook de reden waarom de ultieme waarheid in de alchemie geassocieerd w
 
 {{< image
 	src="water.webp"
-	alt="Daoïstische schildering"
 	caption="Daoïstische schildering van de machteloze macht, de krachteloze kracht en de prachteloze pracht van water."
-	class="img-center"
 >}}
 
 

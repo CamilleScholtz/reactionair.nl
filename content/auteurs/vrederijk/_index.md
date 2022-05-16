@@ -3,4 +3,6 @@ title       = "Vrederijk"
 profession  = "Schijnzelfstandige"
 description = "Vrederijk is moslim, neo-Kaninefaat, vader, traditionalist en reactionair."
 pseudonym   = true
+
+twitter = "https://twitter.com/destedendwinger"
 +++

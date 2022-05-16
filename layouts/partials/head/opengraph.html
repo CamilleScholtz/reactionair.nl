@@ -1,0 +1,19 @@
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ if isset .Params "description" }}{{ .Params.description }}{{ else }}{{ .Params.subtitle }}{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+{{ if eq .Type "artikelen" }}
+	{{ $image  := .Resources.GetMatch "thumb.webp" }}
+	{{ $anchor := "Smart" }}
+	{{ if isset .Params "anchor" }}
+		{{ $anchor = .Params.anchor }}
+	{{ end }}
+
+	<meta property="og:type" content="article">
+	<meta property="og:image" content="{{ ($image.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}">
+	<meta property="twitter:card" content="summary_large_image">
+{{ else }}
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="{{ "img/og-image.png" | absURL }}">
+	<meta property="twitter:card" content="summary">
+{{ end }}
+<meta property="twitter:site" content="@ReactionairNL">

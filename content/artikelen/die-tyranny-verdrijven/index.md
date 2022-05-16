@@ -23,9 +23,7 @@ Motto: <i>‘afwezigheid of zeldzaamheid van overgangsvormen’</i><br>
 
 {{< image
 	src="thumb.webp"
-	alt="The Ancient of Days"
 	caption="The Great Red Dragon and the Woman Clothed in Sun van William Blake."
-	class="img-left"
 >}}
 
 Eén van de stellingen van Darwin’s evolutieleer is de ‘afwezigheid of zeldzaamheid van overgangsvormen’. Sociaal-darwinistisch doorgetrokken vindt deze leerstelling haar equivalent in de vele historische gevallen waarin volkeren eerder uitstierven dan evolueerden. Politiek-filosofisch doorgetrokken vindt zij haar equivalent in de vele historische gevallen waarin systemen eerder werden vervangen dan zich aanpasten. Wanneer een systeem niet langer dragelijk is voor een volk en wanneer de aan dat systeem ten grondslag liggende door dat volk wordt ervaren als een absoluut kwaad, dan is de tijd voor evolutie voorbij en komt de tijd voor revolutie nabij. Welk systeem het huidige totalitaire systeem van links-liberale dictatuur gaat opvolgen en wanneer de revolutie zal uitbreken is onmogelijk te voorspellen - behalve dan dat men veilig kan stellen dat het nieuwe systeem zal moeten passen bij het volk dat de revolutie draagt en dat het oude systeem pas door het volk omver zal worden geworpen wanneer het volk als geheel het oude systeem als een ondragelijk absoluut kwaad ervaart. Komt dat moment er niet of te laat, dan gaat het volk ten onder - het heeft zich dan al toekomst-onbestendig bewezen en moet dan verdwijnen uit de geschiedenis. De natuur is onverbiddelijk. Tot die tijd blijft er hoop voor het Nederlandse volk - hoop op de Futuro-Fundamentalistische Revolutie. Dit is wat de schrijver van dit deze essay-serie enige jaren geleden al schreef over die revolutie - een revolutie die innerlijk moet worden voltooid voor dat zij uiterlijk vorm kan krijgen:

@@ -4,7 +4,7 @@
 
 	<aside class="intro quote">
 		<div class="sticky">
-			{{ partial "quote.html" (dict
+			{{ partial "asides/quote.html" (dict
 				"text"   ""
 				"author" ""
 			) }}
@@ -24,16 +24,18 @@
 	</aside>
 
 	<section>
-		{{ partial "featured.html" (dict
+		{{ partial "articles/featured.html" (dict
 			"context" (index $articles 0)
 			"size"    "large"
 			"image"   "thumb.webp"
 		) }}
 	</section>
 
+	{{ $articles = $articles | after 1 }}
+
 	<section>
-		{{ $themes   := slice "Politiek & Actualiteit" "Cultuur & Maatschappij" }}
-		{{ $articles  = where site.RegularPages "Params.themas" "in" $themes | after 1 }}
+		{{ $themes := slice "Politiek & Actualiteit" "Cultuur & Maatschappij" }}
+		{{ $pages  := where $articles "Params.themas" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}		
 			{{ $side := "right" }}
@@ -41,11 +43,11 @@
 				{{ $side = "left" }}
 			{{ end }}
 		
-			{{ partial "theme.html" (dict
+			{{ partial "articles/theme.html" (dict
 				"context" .
 				"section" "themas"
 				"term"    $theme
-				"pages"   (where $articles "Params.themas" "eq" $theme)
+				"pages"   (where $pages "Params.themas" "eq" $theme)
 				"side"    $side
 				"lazy"    (ge $i 1)
 			) }}
@@ -62,8 +64,8 @@
 	</section>
 
 	<section>
-		{{ $themes   := slice "Recensie & Biografie" "Religie & Metafysica"  }}
-		{{ $articles  = where site.RegularPages "Params.themas" "in" $themes | after 1 }}
+		{{ $themes := slice "Recensie & Biografie" "Religie & Metafysica"  }}
+		{{ $pages  := where $articles "Params.themas" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}		
 			{{ $side := "right" }}
@@ -71,17 +73,17 @@
 				{{ $side = "left" }}
 			{{ end }}
 		
-			{{ partial "theme.html" (dict
+			{{ partial "articles/theme.html" (dict
 				"context" .
 				"section" "themas"
 				"term"    $theme
-				"pages"   (where $articles "Params.themas" "eq" $theme)
+				"pages"   (where $pages "Params.themas" "eq" $theme)
 				"side"    $side
 				"lazy"    (ge $i 1)
 			) }}
 		{{ end }}	
 	
-		{{ partial "theme.html" (dict
+		{{ partial "articles/theme.html" (dict
 			"context" .
 			"section" "themas"
 			"term"    "Klikaas"

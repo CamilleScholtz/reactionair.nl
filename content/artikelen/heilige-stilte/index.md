@@ -11,9 +11,7 @@ Met de burgerman heeft de reactionair zo min mogelijk van doen, met burgerlijkhe
 
 {{< image
 	src="thumb.webp"
-	alt="Characters and Caricaturas"
 	caption="Characters and Caricaturas door William Hogarth."
-	class="img-center"
 >}}
 
 Hij weet zich tevreden met een rol op de achtergrond, met een eigentijdse rol op de achtergrond weliswaar, want waar de vrije markt en de vrije pers hem ook mee confronteren dat volstaat niet om de burgerman van zijn stuk te brengen. Propaganda kan zijn leefomgeving meer herkenbaar maken, want waar de propaganda geen raakvlak meer heeft met de burgermentaliteit daar raken de propagandadoeleinden buiten bereik. De burgerman laat zich niet makkelijk sturen, hij stelt zichzelf wel degelijk vragen over wat de regering hem opdraagt, maar meestal blijken dat niet de juiste vragen. Ongeïnformeerd is hij niet. Hij beeldt zich in dat hij zijn mening paraat heeft wanneer hem daarnaar wordt gevraagd, zodat hij als onwaarschijnlijke <i>talkshow</i>gast niet onder hoeft te doen voor de anderen, zodat hij eveneens kwinkslagen en gespeelde verontwaardiging kan tonen. Hij weet wat hem ten goede komt en stelt zich daarmee tevreden. Het ligt niet in zijn aard om het ongenoegen uit te vergroten. Hoogstens houdt hij zich ermee bezig, zoals het de Nederlander betaamt, om zich in verschillende toonaarden te beklagen over klein leed. Machtig is de valse zekerheid waar men zich naar schikt, de valse zekerheid dat groot leed geen greep over de burgerbevolking heeft.

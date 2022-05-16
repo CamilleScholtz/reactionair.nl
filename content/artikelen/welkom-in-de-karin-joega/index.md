@@ -14,9 +14,7 @@ Eergisteren nog leefden wij in de middeleeuwen. De mens wilde vrij zijn, hij wil
 
 {{< image
 	src="thumb.webp"
-	alt="Karin Joega"
 	caption="Karin Joega"
-	class="img-left"
 >}}
 
 

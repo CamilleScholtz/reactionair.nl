@@ -23,9 +23,7 @@ Als we kijken naar waar wél achteruitgang of stagnatie was, dan was het zeker b
 
 {{< image
 	src="thumb.webp"
-	alt="Augustus: Tarwe oogsten"
 	caption="Augustus: Tarwe oogsten, uit Da Costa Hours."
-	class="img-left"
 >}}
 
 Koning Ottokar van Bohemen was een zeer machtig vorst in het middeleeuws Centraal-Europa, zo machtig zelfs, dat hij aanspraak maakte op de Heilig Roomse troon. Zijn wederijveraar, Rudolf van Habsburg had echter een pact gesloten met andere kleinere vorsten en Koemaanse huurlingen. Bij de slag van Marchfeld werd Ottokar verpletterend verslagen toen de Koemaanse cavalerie het Boheemse leger in de rug aanviel.[^3] Aan de ambities van koning Ottokar kwam abrupt een eind. Hoe kwam het, dat de zwaar bewapende ridders van Ottokar deze manoeuvre over het hoofd zagen? De christelijke ridders en voetvolk hadden het domweg niet verwacht dat de vijand hen in de rug zou aanvallen. Een dergelijke daad werd als zeer oneervol beschouwd tegen de medechristen met straffe op excommunicatie voor een ieder die zo’n misdaad zou begaan. Het is duidelijk dat middeleeuwse oorlogsvoering niet louter een zaak was van wie het verst bereid was te gaan om de overwinning te behalen, welke machiavellistische listen daarvoor nodig waren. Met eer en ridderlijkheid hield men rekenschap te houden alvorens men ten strijde trok.

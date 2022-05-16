@@ -10,9 +10,7 @@ dossiers = ["Oekraïne"]
 
 {{< image
 	src="thumb.webp"
-	alt="Viktor Orbán"
 	caption="Viktor Orbán; tekening door Siegfried Woldhek."
-	class="img-left"
 >}}
 
 Orbán won voor de vierde keer op rij. En hij won overweldigend. Hij krijg bijna 5% meer van de stemmen dan de laatste keer, en voegde zelfs 2 zetels aan zijn supermeerderheid in het parlement toe. Prominente <i>D66</i>’ers beweerden meteen (zonder bewijs) dat er sprake was van fraude. De _OSCE_ weerlegde dit echter. De oppositie erkende haar nederlaag en haar fouten. Kwam het door hun partijloze kandidaat, door de elitaire retoriek, onderlinge verdeeldheid, of de slechte reactie op de oorlog in Oekraïne? Het antwoord is natuurlijk, dat het allemaal een rol speelde.

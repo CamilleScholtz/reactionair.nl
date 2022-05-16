@@ -22,9 +22,7 @@ Op Twitter zijn de contouren van een dergelijke alliantie waarschijnlijk het bes
 
 {{< image
 	src="twitter.webp"
-	alt="Een aantal reactionaire/conservatieve moslims op Twitter"
 	caption="Een aantal reactionaire/conservatieve moslims op Twitter."
-	class="img-center"
 >}}
 
 In de landelijke politiek zijn er eigenlijk alleen bij _Forum voor Democratie_ signalen waar te nemen die weliswaar nog geen alliantie, maar toch minstens een toenadering tussen reactionairen en moslims te noemen zijn. Thierry Baudet gaf onlangs aan het interessant te vinden dat allianties aan het verschuiven zijn en gaf aan _“zich niet meer verbonden te voelen met anti-islam rechts”_.[^2] 
@@ -38,9 +36,7 @@ In de Nederlandse politieke context zijn alle politieke partijen, op _FVD_ en _S
 
 {{< image
 	src="thumb.webp"
-	alt="Moslim en christen spelen samen de oed"
 	caption="Moslim en christen spelen samen de oed, schilderij uit de 13e eeuw."
-	class="img-left"
 >}}
 
 Zo worden wij samen niet meer verdragen, reactionairen, christenen en moslims. En daarmee is de belangrijkste lans al gebroken: een alliantie is wenselijk omdat het _nodig_ is. Wij leven in een tijd van materialistische en liberale hegemonie. Op alle terreinen waarop invloed op onze levens uitgeoefend kan worden: in de politiek, de media, de populaire en hoogcultuur, overal is de liberale visie oppermachtig. Als wij niet willen verdwijnen, hebben wij elkaar nodig om te overleven.  

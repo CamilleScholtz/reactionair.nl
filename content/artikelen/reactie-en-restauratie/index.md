@@ -16,9 +16,7 @@ Reactionair gebruiken als vies woord is bizar. Ten tijde van crises is het niet 
 
 {{< image
 	src="thumb.webp"
-	alt="Ruïne aan Zee"
 	caption="Ruïne aan Zee van Arnold Böcklin."
-	class="img-left"
 >}}
 
 Reactionair heeft echter ook een oppositioneel element. De hamvraag is: waar is het een reactie op? Kort gezegd, de Franse Revolutie en al haar gevolgen. Het is zowel (een uitvloeisel van) die eerste contrarevolutie, als tegelijkertijd… niet loúter contrarevolutionair. Contrarevolutie is als fenomeen veel meer tijd- en plaatsgebonden. In tegenstelling tot conservatisme wil het wél dingen terugdraaien, maar vaak alleen maar de meest recente revolutie. Liberalen die een socialistische revolutie willen terugdraaien of socialisten die een communistische revolutie bestrijden.

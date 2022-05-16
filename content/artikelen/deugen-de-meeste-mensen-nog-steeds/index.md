@@ -14,9 +14,7 @@ themas   = "Recensie & Biografie"
 
 {{< image
 	src="thumb.webp"
-	alt="De misantroop"
 	caption="De misantroop door Pieter Bruegel de Oude."
-	class="img-left"
 >}}
 
 Slechts drie jaar na het verschijnen van de internationale bestseller _De meeste mensen deugen_ is iedereen en zijn moeders vertrouwen in de _eponieme these_ van het boek danig aan het wankelen gebracht - de auteur _incluis_.[^1] Dit is veelzeggend, want het essentiële verschil tussen links en rechts gaat terug op hun respectieve mensbeelden. Volgens links is de mens in wezen goed en komt het kwaad voort uit de manier waarop wij de samenleving vorm hebben gegeven. Daarom wil links de wereld verbeteren. Volgens rechts zit het kwaad in de mens en heeft dat dus geen zin. We kunnen de val van het geloof in de goedheid van de mens derhalve karakteriseren als een rechts-conservatieve wending, ook al weten de afvalligen dat zelf nog niet. Maar zover is het nog niet. De deugmens zal de stelling van Bregman niet zonder slag of stoot opgeven. 

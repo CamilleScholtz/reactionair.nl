@@ -14,9 +14,7 @@ Het is de nacht van 4 op 5 augustus, 1789. De revolutionaire Franse Nationale Ve
 
 {{< image
 	src="thumb.webp"
-	alt="Le Peuple sous l’ancien Régime"
 	caption="Le Peuple sous l’ancien Régime, ‘Het volk onder het Ancien Régime’: Franse spotprent uit 1815 met Lodewijk XVI, een bisschop en een edelman op de rug van een geketende en geblinddoekte man die ‘het volk’ verbeeldt."
-	class="img-left"
 >}}
 
 Maar hoewel we de privileges dus al hebben afgeschaft, maakte het begrip de laatste jaren vanuit de Verenigde Staten een grote comeback in activistische kringen. ‘Privilege’ fungeert nu als het kernconcept van de linkse identiteitspolitiek. _‘Wittenprivilege’_ en _‘mannenprivilege’_ zouden gekleurde en vrouwelijke identiteiten onderdrukken. Het gaat niet letterlijk om privileges, want dat zijn formele toekenningen van de staat. In het nieuwe discours zijn _‘privileges’_ onbewuste onderdrukkingsstructuren.

@@ -1,0 +1,34 @@
+{{ define "main" }}
+	<aside class="intro quote">
+		<div class="sticky">
+			{{ partial "asides/quote.html" (dict
+				"quote"  ""
+				"author" ""
+			) }}
+
+			<div class="links">
+				<!--<a href="/doneren/">Doneren</a>
+
+				<span class="pipe">|</span>-->
+				
+				<a href="/auteurs/">Auteurs</a>
+
+				<span class="pipe">|</span>
+				
+				<a href="/artikelen/wie-zijn-wij/">Wie zijn wij?</a>
+			</div>
+		</div>
+	</aside>
+
+	<section id="authors">
+		{{ $authors := (where .Pages "Params.pseudonym" false).ByTitle }}
+		{{ $authors  = $authors | append (where .Pages "Params.pseudonym" true).ByTitle }}
+
+		{{ range $authors }}
+			{{ partial "authors/author.html" (dict
+				"context" .
+				"utility" false
+			) }}
+		{{ end }}
+	</section>
+{{ end }}

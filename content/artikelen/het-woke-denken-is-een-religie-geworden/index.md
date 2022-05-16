@@ -12,9 +12,7 @@ U heeft waarschijnlijk wel een krantenkop of twee gezien met een titel als _“H
 
 {{< image
 	src="thumb.webp"
-	alt="Tekening"
 	caption=" "
-	class="img-center"
 >}}
 
 Wat zouden _“woke”_ en religie gemeen hebben? Slechts zeer weinig dingen die je als positief zou kunnen classificeren, misschien het fanatisme. Maar waar de vergelijking meestal op bouwt is het feit dat zowel _“woke”_ als _“religie”_ een onwrikbare toewijding en geloof in zogenaamde irrationele principes en dogmatiek zouden hebben. Wat geïmpliceerd wordt is dat _“woke”_ een incarnatie is van de nu bijna van de aardbodem verdwenen praktiserende christen, en dat is natuurlijk iets slechts! _Wij klassiek liberalen_ weten hoe de wereld _écht_ in elkaar zit, de misleide mensen van vroeger vertrouwden op priesters, geloofden in dogma's, waren achterlijk, en, _onwetenschappelijk_! Net als _woke_!

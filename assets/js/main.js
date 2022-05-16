@@ -147,15 +147,17 @@ const scroll = (header, stickies, mobile) => {
 	const results    = header.querySelector(".results");
 	const utility    = header.querySelector(".utility");
 
+	const height = header.querySelector("#logo-container").clientHeight + 1;
+
 	let hidden     = false;
 	let lastScroll = 0;
 	let ticking    = false;
 
 	const hide = () => {
 		if (mobile.matches) {
-			header.style.transform = "translateY(calc(-111px - 15px))";
+			header.style.transform = `translateY(calc(-${height}px - 15px))`;
 		} else {
-			header.style.transform = "translateY(-111px)";
+			header.style.transform = `translateY(-${height}px)`;
 		}
 		logo.style.transform = "translateY(-40px)";
 
@@ -171,11 +173,7 @@ const scroll = (header, stickies, mobile) => {
 
 		if (!mobile.matches) {
 			stickies.forEach((sticky) => {
-				if (sticky.parentNode.classList.contains("authors")) {
-					sticky.style.top = "calc(110px + 55px + 40px + 2px - 111px)";
-				} else {
-					sticky.style.top = "calc(110px + 55px + 50px + 2px - 111px)";
-				}
+				sticky.style.top = `calc(55px + 50px + 30px + 1px)`;
 			});
 		}
 
@@ -188,11 +186,7 @@ const scroll = (header, stickies, mobile) => {
 
 		if (!mobile.matches) {
 			stickies.forEach((sticky) => {
-				if (sticky.parentNode.classList.contains("authors")) {
-					sticky.style.top = "calc(110px + 55px + 40px + 2px)";
-				} else {
-					sticky.style.top = "calc(110px + 55px + 50px + 2px)";
-				}
+				sticky.style.top = `calc(${height}px + 55px + 50px + 30px + 1px)`;
 			});
 		}
 
@@ -340,7 +334,7 @@ const quote = () => {
 		["René Guénon", "Ware ideeën veranderen of ontwikkelen zich niet, maar blijven zoals ze zijn in het tijdloze 'heden'."],
 		["René Guénon", "Metafysica is de kennis van de universele beginselen, een kennis die verder gaat dan de natuur als zodanig en verder dan de verschijnselen die door de mens kunnen worden begrepen."],
 		["René Guénon", "Wetenschap is een rationele, discursieve, altijd indirecte vorm van kennis, een kennis van reflectie, metafysica is een superrationele kennis, intuïtief en onmiddellijk."],
-		["Robert Lemm", "De <i>reactionair</i>, kijkt niet vooruit, en niet achteruit, maar naar boven, naar de sterren en de hemel."],
+		["Robert Lemm", "De reactionair, kijkt niet vooruit, en niet achteruit, maar naar boven, naar de sterren en de hemel."],
 		["Julius Evola", "Mijn principes zijn de principes die, voor de Franse Revolutie, ieder welgeboren mens als normaal en gezond beschouwde."],
 		["Julius Evola", "Geen idee is zo absurd als het idee van vooruitgang."],
 		["Julius Evola", "Het is een teken van achteruitgang wanneer genot beschouwd begint te worden als het hoogste principe."],
@@ -348,6 +342,8 @@ const quote = () => {
 		["Oswald Spengler", "Wat is waarheid? Voor de massa, dat wat zij voortdurend leest en hoort."],
 		["Oswald Spengler", "Socialisme is niets anders dan het kapitalisme van de lagere klassen."],
 		["Oswald Spengler", "Als de Engelsman het over nationale welvaart heeft, bedoelt hij het aantal miljonairs in het land."],
+		["Patrick Deneen", "Vrij zijn betekende bovenal vrij zijn van slavernij aan de eigen laagste verlangens, die nooit vervuld zouden kunnen worden, en het nastreven ervan zou alleen maar onophoudelijk verlangen en ontevredenheid kunnen kweken."],
+		["Patrick Deneen", "Wat conventioneel een populistische revolutie wordt genoemd, kan beter worden omschreven als een wereldwijde anti-technocratische revolutie."],
 		["Theodore J. Kaczynski", "De conservatieven zijn dwazen: zij zeuren over de teloorgang van de traditionele waarden, maar toch steunen zij enthousiast de technologische vooruitgang en de economische groei."],
 		["Theodore J. Kaczynski", "Geschiedenis wordt gevormd door actieve, vastberaden minderheden, niet door de meerderheid, die zelden een duidelijk en consequent idee heeft van wat zij werkelijk wil."],
 		["Timothy Winter", "De liberale theorie van religie is homeopathisch; hoe meer je het afzwakt, hoe sterker het wordt."],

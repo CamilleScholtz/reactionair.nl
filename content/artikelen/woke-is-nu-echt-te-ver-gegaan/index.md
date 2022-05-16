@@ -17,9 +17,7 @@ _Woke_, of zoals we in eerdere artikelen hebben besproken, de meer passende term
 
 {{< image
 	src="thumb.webp"
-	alt="10 keer dat woke ECHT TE ver ging!"
 	caption="10 keer dat woke ECHT TE ver ging! Nummer 7 zal je niet geloven!"
-	class="img-left"
 >}}
 
 Ik val in herhaling,[^2] maar de _“gendergekte”_ is gewoonweg het concept van vrijheid toegepast op het concept van gender, zoals al eerder is gedaan maar dan op seksualiteit en seksuele rolverdeling, iets wat degenen die miezeren over _woke_ accepteren, en zelfs fel verdedigen. Gebonden zijn aan je geslacht, of _gender_, beperkt je individuele vrijheid, je moet immers lekker jezelf kunnen zijn. Dus naast de keuze of je met een man of vrouw wilt trouwen, ben je nu ook vrij om te kiezen of je je als man of vrouw identificeert. Maar wacht, dit is nog steeds vrij beperkend, per slot van rekening is _gender_ beperkt tot een simpele binaire; man of vrouw. Dit kan bevrijd worden door over te stappen naar een _genderspectrum_, dat minder gebonden is dan een tweedeling, en zo dus _vrijer_.

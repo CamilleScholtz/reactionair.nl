@@ -11,9 +11,7 @@ Vlak na de Eerste Wereldoorlog verscheen het filosofische magnum opus van de Ned
 
 {{< image
 	src="thumb.webp"
-	alt="Carry van Bruggen"
 	caption="Portret van Carry van Bruggen."
-	class="img-left"
 >}}
 
 Waarover handelt _Prometheus_? Wie afgaat op de titel, ziet al snel een rode draad. Prometheus was de Griekse god die in opstand kwam tegen de andere Griekse goden, onder leiding van oppergod Zeus. De sage staat symbool voor de strijd tussen ‘het strevende individu tegen de machthebbende meerderheid’. Maar het zou oppervlakkig zijn om deze strijd enkel op het niveau te denken van een goede held tegen een kwade menigte. Nog meer is het een strijd tussen ‘de in zichzelf verdeelde mensheid, de in zichzelf verdeelde mens, de in zichzelf verdeelde Eenheid’. Oftewel: niemand is volledig de edele Prometheus, of de lage Zeus. Men strijdt dus niet tegen een externe slechterik, los van zichzelf - maar altijd tegen het lage deel in zichzelf. Dit lage deel is: zijn eigen vooroordelen, zijn eigen wanen en illusies.
@@ -98,7 +96,6 @@ En dit is tenslotte het belangrijkste, blijkt uit _Prometheus_: innerlijke vrijh
 Op deze manier heft een mens de begrenzingen van zijn denken op. Hij ziet steeds minder de tegenstellingen in de ogenschijnlijk verschillende verschijnselen om hem heen, en onderkent juist hun onderliggende Eenheid. Hij verkrijgt een _bewuste_ aanblik, oftewel een diepere bewustwording.
 
 
-<section class="footnotes">
 
 Alle citaten zijn ontleend aan:
 Carry van Bruggen. _Prometheus: een bijdrage tot het begrip der ontwikkeling van het

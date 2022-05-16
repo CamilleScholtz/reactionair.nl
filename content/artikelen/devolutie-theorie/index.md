@@ -15,9 +15,7 @@ De Nederlandse vertaling van Charles Darwin’s _On The Origin of Species by Mea
 
 {{< image
 	src="thumb.webp"
-	alt="Lucifer"
 	caption="William Blake 's illustratie van Lucifer zoals gepresenteerd in John Milton 's Paradise Lost"
-	class="img-left"
 >}}
 
 Nu, inmiddels meer dan 120 jaar later, hebben beide denkwijzen, zowel dat van darwinistische ‘natuurlijke selectie’ als dat van ‘progressief’ gelijkheidsdenken, essentiële ideologische functies gekregen in Westerse samenlevingen. Het zijn elkaar functioneel aanvullende onderdelen van het standaard politiek-filosofische denksysteem van de moderniteit: het historisch-materialisme.[^1] Enerzijds overheersen het dogmatisch ‘sociaal-darwinisme’ en de eruit afgeleide hyper-kapitalistische ‘strijd van allen tegen allen’ de Westerse denkwereld op _individueel_ niveau ter rechtvaardiging van een zuiver en alleen op geld-denken gebaseerde neo-liberale maatschappelijke machtsorde. Anderzijds overheersen het dogmatisch egalitarisme en de eruit afgeleide alles-nivellerende ‘politieke correctheid’ de Westerse leefwereld op _collectief_ niveau en rechtvaardigen zo de geperverteerde anti-rechtstaat en de rancuneuze _cancel culture_ van haar _soixante-huitard_ ‘schijnélite van valsemunters’. De functionele afperking tussen beide bereiken, die alle vormen van maatschappelijk onvrede en verzet tegen de nieuwe machtselite neutraliseert door ze te ‘framen’ als cultuur-marxistische ‘emancipatie’ en te herleiden tot (feministische, alloseksuele, allochtone) ‘identiteitspolitiek’, vereist echter een collectieve cognitieve dissonantie van historisch ongeëvenaarde proporties.

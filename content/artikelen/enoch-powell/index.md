@@ -11,9 +11,7 @@ De strenge dictie waarmee Enoch Powell zijn publiek toesprak schetst een stem va
 
 {{< image
 	src="thumb.webp"
-	alt="River of Blood"
-	caption="River of Blood 1, van Jack Goresko"
-	class="img-center"
+	caption="River of Blood 1, van Jack Goresko."
 >}}
 
 De vurige retoricus, zoals die bekend stond, had die naam niet te danken aan poëtische speeches, maar aan het gevoel van passie wat die gaf aan de meest prozaïsche en rauwe woorden. Dit taalgebruik volgde vanzelfsprekend uit zijn hoewel analytisch, erg heldere benadering tot vraagstukken. Onder al de logica en syntaxis begaf zich een echter onderstroom van wat Powell motiveerde, namelijk zijn grote liefde voor zijn vaderland. Al voor de oorlog was hij vastberaden zijn plicht te volbrengen en het leger in te gaan om Groot-Brittannië te beschermen van het fascistisch gevaar dat hij scherp op het netvlies had na een paar weken bij een joodse familie in Duitsland te hebben doorgebracht.

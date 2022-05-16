@@ -27,9 +27,7 @@ Juist in deze tijd van consumptie ter wille van doelloze begeerten is de behoeft
 
 {{< image
 	src="thumb.webp"
-	alt="De Analyse van Schoonheid"
 	caption="De Analyse van Schoonheid, door Wiliam Hogarth."
-	class="img-center"
 >}}
 
 Volgens Kant was moraliteit zo een interesse tot rede. _“Reason motivates us to do our duty, and all other (“empirical”) interests are discounted in the process. This is what it means for a decision to be a moral one”_, om Scruton wederom te citeren. Moraliteit is dus nauw verwant aan schoonheid. In beide gevallen discrimineren (in de letterlijke betekenis) we betere moralen van laakbare en mooie dingen van lelijke. Er zijn echter ook verschillen.

@@ -12,9 +12,7 @@ Het liberalisme heeft als beginsel vrijheid, _liberté_. In vergelijking met and
 
 {{< image
 	src="thumb.webp"
-	alt="Satan ondersteboven"
 	caption="Satan ondersteboven, illustratie bij Dante's Goddelijke Komedie, Codex Altonesis."
-	class="img-left"
 >}}
 
 Een tijdje geleden sprak ik in een _Twitter space_, een soort groepsvoicechat waar iedereen aan kan schuiven. We hadden het over het onderwerp vrijheid en ik benoemde het eerdere voorbeeld van de kooi. Een andere persoon zei dat we ons in plaats van de kooi ook een grote weide kunnen voorstellen met een hek eromheen. In deze weide hebben we de vrijheid om verschillende wereldbeelden op te bouwen. Volgens hem was vrijheid dus in zekere zin de grondslag, het fundament, van elk wereldbeeld. Het is het overkoepelende, of liever, onderliggende principe waaraan elk wereldbeeld noodzakelijkerwijs deelneemt.

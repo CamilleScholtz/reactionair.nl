@@ -11,9 +11,7 @@ In de eenentwintigste eeuw wordt de democratische rechtstaat telkens vaker bedre
 
 {{< image
 	src="thumb.webp"
-	alt="Keizerlijk Hof in Meiji Japan"
 	caption="Afkondiging van de grondwet bij de dubbele brug van het keizerlijk paleis in Meiji Japan."
-	class="img-center"
 >}}
 
 

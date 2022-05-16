@@ -22,9 +22,7 @@ Het andere deel van Poppers erfenis betreft zijn visie op de maatschappij. Zijn 
 
 {{< image
 	src="thumb.webp"
-	alt="The paradox of tolerance"
 	caption=""
-	class="img-center"
 >}}
 
 Wat klopt er hier niet aan? Eerstens is de neonazi skinhead in het bovenste paneel een lachwekkende stropop. Nagenoeg niemand die het etiket neonazi krijgt opgeplakt, voldoet aan deze lasterlijke karikatuur. Het begrip fungeert als excuus om andersdenkenden uit te sluiten en te vervolgen en niet op wezenlijke kritiek in te hoeven gaan.

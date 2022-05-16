@@ -11,9 +11,7 @@ Hoe vaak valt in een opiniestuk, in social media of aan talkshowtafels wel niet 
 
 {{< image
 	src="thumb.webp"
-	alt="Campagne affiche"
 	caption="Campagne affiche, Belgische liberale partij, nationale verkiezingen 1958."
-	class="img-left"
 >}}
 
 De toon die de twee liberale regeringspartijen nu al jaren aanslaan lijken in weinig meer op de toon van haar illustere politieke voorvaderen: Hans van Mierlo zou zich schamen voor de wijze waarop _D66_ de macht zelve geworden is, terwijl Bolkestein in zijn hoogtijdagen zou afrekenen met de doorgeslagen groene gekte en migratiehouding van de _VVD_. Is er nog hoop voor de Nederlandse liberaal in _JA21_? Of zal deze partij ten onder gaan, zichzelf verscheurend over het vraagstuk of men liberaal of conservatief is? Is het liberalisme in zichzelf niet bij voorbaat al veroordeeld tot ondergang in haar succes?

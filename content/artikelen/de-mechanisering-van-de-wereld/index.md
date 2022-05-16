@@ -11,9 +11,7 @@ _“De dwaas op de heuvel die de zon ziet ondergaan, maar de denkende ogen in zi
 
 {{< image
 	src="thumb.webp"
-	alt="Gent en de tuinbouw"
 	caption="Florimond van Acker, Gent en de tuinbouw."
-	class="img-center"
 >}}
 
 René Descartes, min of meer de grondlegger van het rationalisme, zocht een manier van zoeken naar _“zekerheid”_ door systematisch aan alles te twijfelen, ook wel _de cartesiaanse twijfel_ genoemd. Als alles losgelaten wordt waar men aan kan twijfelen, houdt men enkel datgene over wat noodzakelijk waar is, volgens Descartes. Descartes stelde ook dat een oorzaak van onzekerheden ligt in het bedrog van onze zintuigen. Ons eigen verstand is het beginpunt van kennis, en zo kwam Descartes op _‘cogito ergo sum’_ (ik denk, dus ik ben).[^2] Maar met de methodische twijfel van Descartes kan je abstracte termen als _“schoonheid”_ nooit omschrijven, omdat het niet te kwantificeren valt. En Descartes heeft daarmee ook het startsignaal van de mechanisering van ons moderne wereldbeeld gelost. 

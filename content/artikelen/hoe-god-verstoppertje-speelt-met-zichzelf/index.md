@@ -21,9 +21,7 @@ In een materialistisch tijdperk als het onze, is het de usance om geest te verkl
 
 {{< image
 	src="thumb.webp"
-	alt="Krishna en Radha"
 	caption="De hindoegod Krishna speelt verstoppertje met zijn geliefde Radha en de gopi's."
-	class="img-left"
 >}}
 
 Noch zijn hersen- en bewustzijnstoestanden identiek. Ik voel immers alleen mijn eigen hersens en niet die van een ander. Het is dan ook een grove misvatting dat bijvoorbeeld geluid luchttrillingen of liefde een bepaalde hormonencocktail is. Je kan luchttrillingen ook zien of voelen zonder ze te horen. Geluid is de subjectieve waarneming van luchttrillingen áls geluid. Je kan die hormonencocktail ook in een glas schenken zonder dat iemand iets voelt. Liefde is de subjectieve waarneming van een bepaalde hormonencocktail áls liefde.

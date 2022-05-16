@@ -11,9 +11,7 @@ anchor   = "Top"
 
 {{< image
 	src="thumb.webp"
-	alt="Iblis"
 	caption="Iblis, uit Kitāb al-mawālīd."
-	class="img-left"
 >}}
 
 Ter ere van het einde van de Islamitische vastenmaand de Ramadan zal ik in dit artikel een Islamitisch gebod onder de loep nemen waar de meeste Moslims vandaag de dag van af zijn geweken en waarvan ik betoog dat het niet enkel voor Moslims maar ook voor niet-Moslims van belang is om zich aan dit gebod te houden willen zij toewerken naar een morelere samenleving.

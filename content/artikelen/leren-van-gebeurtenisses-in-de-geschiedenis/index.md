@@ -14,9 +14,7 @@ Als reactionair geloof ik niet dat de materiële conditie van de samenleving of 
 
 {{< image
 	src="thumb.webp"
-	alt="Iraanse postzegel"
 	caption="Iraanse postzegel. Een duidelijke combinatie van linkse, revolutionaire esthetiek met islamitische beeldtaal."
-	class="img-left"
 >}}
 
 Het einde van de Tweede Wereldoorlog leidde ook een einde in van de populariteit van verschillende reactionaire, conservatieve en religieuze bewegingen in een groot deel van Europa. Elke beweging die ook maar rook naar de hard rechtse bewegingen die zo populair waren in de jaren ’20 en ’30 van de vorige eeuw werd op een hoop gegooid met de gruweldaden van de nazi’s. Reactionaire schrijvers verdwenen grotendeels in de luwte en het intellectuele discours werd beheerst door de ideologieën van de overwinnaars; de Verenigde Staten en de Sovjet-Unie.

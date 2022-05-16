@@ -28,13 +28,16 @@ main
 
 		.sticky
 			position: sticky
-			top: calc(110px + 55px + 40px + 2px)
+			top: calc(110px + 55px + 50px + 30px + 2px)
 			transition: top .2s
 
 	>article,
 	>section
 		grid-column: 2
 		grid-row: auto
+
+#page
+	grid-template-columns: 2fr minmax(0, 750px) 1fr
 
 
 // Asides

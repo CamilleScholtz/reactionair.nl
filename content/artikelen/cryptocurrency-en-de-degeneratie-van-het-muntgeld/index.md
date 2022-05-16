@@ -11,9 +11,7 @@ René Guénon schrijft in zijn boek _'Le Règne de la Quantité et les Signes de
 
 {{< image
 	src="thumb.webp"
-	alt="De muntmeester"
 	caption="De muntmeester, middeleeuws graveerwerk."
-	class="img-left"
 >}}
 
 Munten waren vanouds letterlijk bedekt met traditionele symbolen van diepgaande betekenis. Bij de Kelten kunnen de symbolen op de munten alleen worden verklaard als zij verband houden met de kennis die alleen aan de Druïden toebehoorde, hetgeen een rechtstreekse tussenkomst van de Druïden in het monetaire domein impliceert. Nog vrij recent kon men op munten een religieus karakter aantreffen, zij het beperkt tot misschien de rand van de munten, maar zelfs dat is verdwenen. Neem nu de Euro: op de biljetten staan slechts afbeeldingen van fictieve bogen en bruggen. Een opmerkelijke uitzondering is dat op de zijkant van de Nederlandse 2-euromunt _"GOD ZIJ MET ONS"_ staat, waarbij moet worden opgemerkt dat _D66_ verklaarde dat dit _"echt niet meer bij de tijd zou passen"_. Een tijd waar de kwantiteit regeert.

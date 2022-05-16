@@ -15,9 +15,7 @@ Dit is altijd een essentieel kernpunt geweest van het traditionalisme; primair b
 
 {{< image
 	src="thumb.webp"
-	alt="Paus Bonifatius VIII"
 	caption="Paus Bonifatius VIII, schilderij van Andrea Gastaldi."
-	class="img-center"
 >}}
 
 Dit is wat traditionalisme onderscheidt van relativisme en subjectivisme. Dit heeft haar oorsprong in de traditionele christelijke visie op waarheid en op God zelf.

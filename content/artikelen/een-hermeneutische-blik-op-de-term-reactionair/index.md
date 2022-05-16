@@ -11,9 +11,7 @@ In de loop van de 19e eeuw ontstonden er vanuit de reactionaire traditie twee Ch
 
 {{< image
 	src="thumb.webp"
-	alt="Willem Bilderdijk na zijn dood"
 	caption="Willem Bilderdijk na zijn dood, door Gerrit Jan Michaëlis."
-	class="img-left"
 >}}
 
 Wellicht is het u al opgevallen, maar de betekenis van reactionair is onderhand vrij ambigu geworden. Net als de op Reactionair.nl onlangs aangehaalde Erik M.R von Kuehnelt-Leddihn denk ik dat harde definities en correcte terminologie zeer belangrijk zijn.[^1] Leddihn was een man met op het oog vele ideologische contradicties. Met strikte semantische regels kun je controle krijgen over betekenis (en contradicties vermijden). Maar ook juist nieuwe context en betekenis geven.

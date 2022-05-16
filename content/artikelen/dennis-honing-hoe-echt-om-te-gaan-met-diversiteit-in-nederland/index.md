@@ -12,9 +12,7 @@ Waar het bij de Germanen om gaat is dat zij zichzelf foutief hebben gerelativeer
 
 {{< image
 	src="thumb.webp"
-	alt="Kaart van Nederland"
 	caption="Een kaart van Nederland omstreeks de tiende eeuw."
-	class="img-left"
 >}}
 
 Maar wat hebben deze postmodernisten ons gebracht? We weten niet wie we zijn en we weten niet waar we heen gaan. Wat we wel weten is dat er een vadsige _EU_ boven ons hoofd hangt, die steeds verder wenst uit te breiden en die zijn _SJW_ en homo emancipatie over ons uit blijft storten. En steeds weer worden er ethische lakens over hun technocratische doelen getrokken. Er komt een _QR_ code om een _‘druk van de zorg’_ weg te nemen. Er worden boeren onteigend als tijdens het communisme om _‘het klimaat te redden’_. Contant geld wordt met argusogen bekeken door overheden want _‘alleen criminelen hebben wat aan biljetten en munten’_. Steeds weer doet deze _EU_ zich zo medemenselijk voor. Maar zij weet dondersgoed dat zij dit niet is. Sterker nog, zij weet dat het de daadwerkelijke menselijke evaluatie aan haar adres dient te verdoezelen. Zo zien wij dat haar satellieten in Nederland, het door Thierry Baudet zo treffend omschreven _‘kartel’_ de afstand tussen _EU_ en de daadwerkelijke wensen van het Nederlandse volk vergroot. Zelfs actief dichttimmert. Referenda werden afgeschaft, kritische partijen als de _PVV_ en _FVD_ worden buiten de coalities en dus het regeren gehouden, protesten worden door politie neergeslagen en door mainstream media genegeerd of in diskrediet gebracht en tot slot werden de rechtszaken van bijvoorbeeld Willem Engel verdoezeld met kunstmatige _‘turbo hoger beroep’_. 

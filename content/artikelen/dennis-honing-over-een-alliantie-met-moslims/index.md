@@ -15,9 +15,7 @@ We kijken naar de vraag of er en mogelijkheid is voor een rechtse coalitie met d
 
 {{< image
 	src="thumb.webp"
-	alt="Westermoskee"
 	caption="De Westernmoskee in Amsterdam. Combineert de stijl van de Amsterdamse School met traditionele Ottomaanse vorm."
-	class="img-center"
 >}}
 
 Moslims zijn hierin een goed voorbeeld van dat linkse progressieve doelen vaak helemaal niet aansluiten bij een alledaagse realiteit of de 'aard van het beestje' bij de mens. Het zijn zwevende morele idealen geworden die je slechts ‘beaamt’ omdat dat mooi of goed klinkt. Het is je reinste _lip service_. De Nederlandse moslimgemeenschap is daarmee vaak een electoraat gebleken met twee gezichten. Cultureel religieuze salonsocialisten. Wanneer men op de universiteit, in de media of bij een protest progressieve standpunten had gescandeerd of zelfs gesteund, kwam men 's avonds thuis in een conservatieve woonkamer en hing de rode jas aan de kapstok. In deze woonkamer was homoseksualiteit verboden, abortus verboden, het huwelijk een norm, afvalligheid taboe en collectivisme een realiteit. De oude generatie Marokkanen is nooit openlijk bekritiseerd door deze Marokkaanse jongeren. De ouders zijn heilig. Het doet ons denken aan hoe een geëmotioneerde Nasrdin Dchar zich tot zijn moeder wendde tijdens zijn _Gouden Kalf_ speech. Het was mooie televisie, maar hoe progressief de Marokkaanse jeugd hierin ook pretendeert, de eigen conservatieve ouders worden comfortabel en hypocriet buiten de wind gehouden. De pijlen der maatschappelijke hervormingen zijn louter bestemd voor de Germanen, dit toont ook de onderliggende blankenhaat aan bij nieuw links. Marokkaanse homo afwijzende vader wordt doodgezwegen, maar een Zwarte Piet bejubelende Friese vader moet inbinden, en wel nu.

@@ -27,9 +27,7 @@ Elke vorm van “oneindigheid” of “onbegrensdheid” die begrensd is, is nie
 
 {{< image
 	src="thumb.webp"
-	alt="Vishvarupa"
 	caption="Vishvarupa, een iconografische vorm en theofanie van de Hindoegod Vishnu dat zijn oneindigheid en alomtegenwoordigheid symboliseert."
-	class="img-left"
 >}}
 
 Nu we deze schijnbare tegenstrijdigheid, die eerder van semantische dan van metafysische aard lijkt te zijn, hebben opgelost, gaat _Aarvoll_ verder met te verklaren:

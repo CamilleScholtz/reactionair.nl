@@ -6,31 +6,31 @@
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-	<title>Reactionair.nl{{ if ne .Kind "home "}} - {{ .Params.title }}{{ end }}</title>
-	<link>{{ .Permalink }}</link>
-	<description>{{ .Params.description }}</description>
-	<language>{{ site.LanguageCode }}</language>
-	<managingEditor>contact@reactionair.nl</managingEditor>
-	<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
-	{{ range $articles }}
-		<item>
-			<title>{{ .Params.title }} - {{ .Params.subtitle }}</title>
-			<link>{{ .Permalink }}</link>
-			<pubDate>{{ .Params.date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-			<author>{{ delimit .Params.auteurs ", " ", "  }}</author>
-			<description>{{ truncate 300 .Content | html}}</description>
-			<image>
-				{{ $image  := .Resources.GetMatch "thumb.webp" }}
-				{{ $anchor := "Smart" }}
-				{{ if isset .Params "anchor" }}
-					{{ $anchor = .Params.anchor }}
-				{{ end }}
-			
-				<url>{{ ($image.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}</url>				
-				<link>https://reactionair.nl/</link>
-				<title>{{ .Params.title }}</title>
-			</image>
-		</item>
-	{{ end }}
+		<title>Reactionair.nl{{ if ne .Kind "home "}} - {{ .Params.title }}{{ end }}</title>
+		<link>{{ .Permalink }}</link>
+		<description>{{ .Params.description }}</description>
+		<language>{{ site.LanguageCode }}</language>
+		<managingEditor>contact@reactionair.nl</managingEditor>
+		<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+		{{ range $articles }}
+			<item>
+				<title>{{ .Params.title }} - {{ .Params.subtitle }}</title>
+				<link>{{ .Permalink }}</link>
+				<pubDate>{{ .Params.date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+				<author>{{ delimit .Params.auteurs ", " ", "  }}</author>
+				<description>{{ .Summary | plainify }}</description>
+				<image>
+					{{ $image  := .Resources.GetMatch "thumb.webp" }}
+					{{ $anchor := "Smart" }}
+					{{ if isset .Params "anchor" }}
+						{{ $anchor = .Params.anchor }}
+					{{ end }}
+				
+					<url>{{ ($image.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}</url>				
+					<link>https://reactionair.nl/</link>
+					<title>{{ .Params.title }}</title>
+				</image>
+			</item>
+		{{ end }}
 	</channel>
 </rss>

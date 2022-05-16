@@ -27,9 +27,7 @@ Leddihn beargumenteerde in detail waarom het nazisme links was. Het volgt de Fra
 
 {{< image
 	src="thumb.webp"
-	alt="Modern Age"
 	caption="Modern Age van Erik Maria Ritter von Kuehnelt-Leddihn."
-	class="img-left"
 >}}
 
 Alhoewel hij geen moeite had zichzelf de labels reactionair, extreem conservatief en extreemrechts te geven, beschreef hij zichzelf (zoals eerder genoemd) ook als liberaal.[^3] Hij was echter geen linkse kapitalist noch een Ayn Rand fanboy; hij was voor 90% van de liberalen van zijn tijd al te reactionair. Hij bekritiseerde zelfs het oude/paleoliberalisme dat dominant was geweest vanaf 1848. Alleen het vroege liberalisme (Acton, Burke, Count Montalembert) had hij sympathie voor, maar zelfs op hen kon hij soms kritiek hebben.

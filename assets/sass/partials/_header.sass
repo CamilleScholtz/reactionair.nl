@@ -9,11 +9,12 @@ header
 	#logo-container
 		background: var(--footnotes-background-color)
 		border-bottom: 1px dashed var(--header-border-color)
-		height: 110px
 
 		#logo
-			display: inline-flex
+			display: inline-block
 			margin-top: 15px
+			position: relative
+			z-index: 99
 
 			img
 				background: #A62F27
@@ -27,7 +28,6 @@ header
 		#search
 			position: absolute
 			right: 25px
-			top: calc((110px / 2) - 25px)
 
 			form
 				input

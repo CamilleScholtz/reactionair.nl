@@ -23,9 +23,7 @@ Oh Germaan! Ga herbronnen; keer terug naar kuisheid, eer en God. Een regeneratie
 
 {{< image
 	src="thumb.webp"
-	alt="Tipus marroquí a cavall"
 	caption="Tipus marroquí a cavall van Tomàs Moragas"
-	class="img-left"
 >}}
 
 _Boomer-rechts_ doen huilie-huilie maar begrijpen niet dat hun moraal en leefwijze er mede voor zorgen dat migratiestromen in grote getallen continueren. Want als de vrije markt vraagt om kwantiteit (hoeveelheid) maar je vervolgens niet kan voldoen aan de vraag omdat je eenvoudigweg geen vijver hebt om in te vissen. Deels door het onaantrekkelijk maken van ambacht en het aantrekkelijk maken van kantoorbaantjes, en deels doordat er pas op late leeftijd wordt gedacht aan kinderen vanwege de derde feministische golf, die de vrouw geïnfecteerd heeft met het idee van onafhankelijkheid en carrièrisme. Die valse notie van onafhankelijkheid, gebrek aan verantwoordelijkheid en het opleggen van een carrière hebben tot schadelijke neveneffecten geleid zoals: lage geboortecijfers en hoge echtscheidingscijfers.  Waarom _fulltime_ werken voor een corporatie als je ook _parttime_ kunt werken of _fulltime_ kunt zorgen voor het gezin? Dan is het toch logisch dat conservatieve groepen meer kinderen krijgen waardoor het straatbeeld op den duur ook verandert? Wat had je dan verwacht?

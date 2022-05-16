@@ -17,9 +17,7 @@ Zoals Spengler in dit citaat aangeeft is de mens gegrond in zijn, eenvoudig geze
 
 {{< image
 	src="thumb.webp"
-	alt="De duivel"
 	caption="De duivel vervult het menselijke hart met begeerte naar rijkdom, macht en genot, Maarten van Heemskerck."
-	class="img-left"
 >}}
 
 Velen gaan er vanuit dat men autonoom kan bepalen wat goed voor hen is en op basis daarvan ook consumeert. Zoals al eerder is aangegeven bestaat een volledig autonoom mens, die zelf kan bepalen wat zijn begeertes zijn, niet. Men wordt veelal gevormd door de omgeving. Dit is bij consumeren ook niet anders. Edward Bernays, tevens neef van Sigmund Freud, veronderstelde in 1928 in zijn boek _Propaganda_ dat,[^3] door het begrijpen van de groepsdynamiek, het mogelijk zou zijn om het gedrag van mensen te manipuleren zonder dat ze het zelf beseffen. Om deze veronderstelling te testen lanceerde Bernays een van zijn beroemdste PR-campagnes: vrouwen overtuigen om te roken.

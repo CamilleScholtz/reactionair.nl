@@ -25,9 +25,7 @@ Met het inzettende _Dark Winter_ seizoen van de globalistische _Great Reset_ die
 
 {{< image
 	src="thumb.webp"
-	alt="Job bekent zijn aanmatigingen aan God"
 	caption="Job bekent zijn aanmatigingen aan God die antwoordt vanuit de wervelwind, door William Blake."
-	class="img-left"
 >}}
 
 Op korte termijn staan alle lichten op rood. Enerzijds dient Nieuw Rechts zich rekenschap te geven van de nieuwe voordelen van de globalistische vijandelijke elite, en dan met name op het effect van haar twee nieuwste _Wunderwaffen_: (a) formeel gelegaliseerde omvolking (massa’s heimelijk, maar direct en legaal ingevlogen ‘migranten’) ten gevolge van het nu in werking tredende _Global Compact for Migration_ (‘Marrakesj’) en (b) formeel gelegaliseerde dictatoriale noodbevoegdheden (avondklok, bewegingscontrole, reisbeperkingen, samenscholingsverboden, _high tech_ surveillance, algoritmische censuur). Anderzijds dient Nieuw Rechts zich te beraden op de uitdagingen van de onvermijdelijke maatschappelijke polarisatie die gaat volgen op de globalistische _Machtergreifung_: hoe zal Nieuw Rechts omgaan met in de lijn der verwachting liggende maatschappelijke ‘auto-immuun reacties’, reacties die kunnen variëren van ongecoördineerde volkswoede en ‘ongeleid projectiel’ activisme tot een niet ondenkbare anti-globalistische terreurcampagne vanuit radicaliserende splintergroepen - of zelfs een in burgeroorlog resulterende wijdere geweldspiraal.

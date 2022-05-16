@@ -17,9 +17,7 @@ En,
 
 {{< image
 	src="thumb.webp"
-	alt="De parabel der blinden"
 	caption="De parabel der blinden van Pieter Bruegel de Oude. Gebaseerd op Mattheüs 15:1-20."
-	class="img-center"
 >}}
 
 Hoewel iedereen die een wereldbeeld heeft dat ook maar enigszins afwijkt van de norm zal zien dat dit natuurlijk onzin is. Neutraliteit bestaat niet in de echte wereld, elk standpunt en elke beslissing is gekleurd door ideologie. Bijvoorbeeld het zien van "emancipatie" als iets waarnaar gestreefd moet worden is ingegeven door de liberale ideologie.

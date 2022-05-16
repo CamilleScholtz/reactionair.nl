@@ -4,18 +4,18 @@
 	{{ if eq .Section "auteurs" }}
 		<aside class="authors">
 			<div class="sticky">
-				{{ partial "utility.html" . }}
-
-				{{ partial "author.html" (dict
-					"context" .Params.title
-					"more"    false
-				) }}
+				{{ with site.GetPage (printf "/auteurs/%s" (urlize .Params.title)) }}
+					{{ partial "authors/author.html" (dict
+						"context" .
+						"utility" true
+					) }}
+				{{ end }}
 			</div>	
 		</aside>
 	{{ else }}
 		<aside class="intro quote">
 			<div class="sticky">
-				{{ partial "quote.html" (dict
+				{{ partial "asides/quote.html" (dict
 					"text"   ""
 					"author" ""
 				) }}
@@ -24,7 +24,7 @@
 	{{ end }}	
 
 	<section>
-		<div id="articles">		
+		<div id="articles">
 			{{ range $paginator.Pages }}			
 				<a href="{{ .RelPermalink }}" class="article">
 					{{ $image := .Resources.GetMatch "thumb.webp" }}

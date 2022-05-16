@@ -11,9 +11,7 @@ Onlangs zat ik met wat vrienden in een gezellig cafeetje in de Antwerpse binnens
 
 {{< image
 	src="thumb.webp"
-	alt="Yukio Mishima"
 	caption="Yukio Mishima aquarel en inkt portret, door Fabrizio Cassetta."
-	class="img-left"
 >}}
 
 Dat is namelijk de term die door de – oh hoe ironisch - postmodernist Zygmunt Bauman op de wereld van vandaag geplakt werd. In zijn werk _Vloeibare Moderniteit_ stelt hij dat de vloeibare samenleving de neiging heeft om de openbare ruimte te koloniseren. Met andere woorden; de privésfeer krijgt de overhand op het gemeenschappelijk goed.[^1] Dat proces begon in essentie al in de industriële revolutie, waar individuele prestaties op het vlak van arbeid sterk aan belang wonnen. Families werden uit elkaar gerukt om aan de economische vraag te kunnen voldoen. Onze sociale relaties zijn sindsdien bijzonder broos geworden. Huwelijken lopen meer dan ooit op de klippen en liefdesrelaties zijn doorgaans niet meer dan een _‘probeersel’_ dat vanaf de eerste tegenslag kan worden opgeblazen. Sociale interactie moet vandaag een bepaald nut dienen. Is het niet nuttig, dan is het overbodig. 

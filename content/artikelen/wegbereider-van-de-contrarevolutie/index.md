@@ -9,9 +9,7 @@ themas   = "Recensie & Biografie"
 
 {{< image
 	src="thumb.webp"
-	alt="Portrait de Louis de Bonald"
 	caption="Portrait de Louis de Bonald door François Pascal Simon Gérard."
-	class="img-left"
 >}}
 
 Conservatieve denkers en auteurs zoals Edmund Burke, Thomas Carlyle en Fjodor Dostojevsky zijn vandaag relatief bekend bij het bredere publiek. Het conservatisme is tot op heden dan ook een stroming die aanwezig is in het politieke spectrum van de meeste westerse landen. De apologeten van het reactionaire denken zijn daarentegen afwezig in de canon van de politieke filosofie en daardoor volledig onbekend bij het grote publiek. Dit artikel poogt dan ook om een inkijk te geven in de ideeën van een van de voornaamste oorspronkelijke reactionaire denkers, namelijk Louis de Bonald. Na een korte biografische omschrijving van zijn persoon zal op summiere wijze zijn gedachtegang en publicaties uiteengezet worden.
@@ -48,7 +46,6 @@ Het meest significante aan de ideeën van Louis de Bonald is zijn tot in detail 
 Concluderend kan gesteld worden dat Louis de Bonald vrijwel alle kenmerken bevatte van zijn contrarevolutionaire tijdscontext, maar daarnaast ook enkele meer originele elementen naar voor bracht. Zijn uiterst gedetailleerde beschrijving van zijn ideale maatschappij viel bij andere reactionaire denkers uit deze periode niet te bespeuren. Waar hij zich ook van bijvoorbeeld de Chateaubriand en de Maistre onderscheidde was op het vlak van de verhouding tussen de staat en het christendom. De Bonald pleitte namelijk voor een terugkeer naar het absolutisme waarbij de vorst over zowel de adel als het volk kon regeren zonder mediëring tussen hem en God. De Bonald zag het Gallicanisme, waarbij het christendom onder gezag van de Franse staat stond, als de ideale vorm van geloof. Joseph de Maistre daarentegen was een overtuigde ultramontaan die de Heilige Stoel boven alle vorsten plaatste en als mediator tussen deze machtshebbers en God moest optreden. Charles Maurras stelde dan weer een decentrale maatschappijvorm voor waarbij de aristocratie op gelijke sociale hoogte stond als de vorst om absolutistische trekken van de laatstgenoemde te voorkomen. De Bonald plaatste de adel onder vorst, net omdat die dan geen enkele oppositie zou ondervinden om zijn beleid vorm te geven. Los daarvan vormde Louis de Bonald een grote inspiratiebron voor Charles Maurras, de belangrijkste moderne contrarevolutionaire denker. Ook had de Bonald opmerkelijk genoeg aan de andere kant van het spectrum een grote invloed op Saint-Simon en Michel Foucault. Zij voelden zich voornamelijk aangetrokken tot zijn sociale analyses en de nadruk die hij legde op wat later gedefinieerd werd als _‘civil society’_. Zijn denkbeelden hadden dus over het volledige politieke spectrum een weerslag en daarom dient Louis de Bonald algemeen en vooral binnen het reactionaire denken meer onder de aandacht te komen.
 
 
-<section class="footnotes">
 
 **Primaire literatuur**
 

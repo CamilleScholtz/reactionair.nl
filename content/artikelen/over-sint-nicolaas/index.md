@@ -14,9 +14,7 @@ Toen onze Heer de twee blinden heelde, zei Hij tegen hen deze openbaring van Zij
 
 {{< image
 	src="thumb.webp"
-	alt="Sint Nicolaas en de drie dochters van de koopman"
 	caption="Sint Nicolaas en de drie dochters van de koopman."
-	class="img-center"
 >}}
 
 Zo vinden we hier een soort tegenstelling, waarin aan de ene kant de heiligen (inclusief de Heilige Zelfe, natuurlijk) hun werken niet onmiddellijk wilden openbaren, of in ieder geval niet de eer voor hun daden in ontvangst wilden nemen, maar aan de andere kant wilden dat de verhalen van hun wonderen publiekelijk werden gemaakt, ook al zou het na hun dood zijn. Doch, wanneer we beter kijken, zien we dat er niet echt een tegenstelling is, maar meer een lastige combinatie van verschillende bedoelingen. De bedoeling van de eerste instelling (d.i. het geheim willen houden van de goede daad) is om zichzelf te beschermen tegen de bekoringen van de faam en glorie en lof. Het is namelijk veel makkelijker voor de geliefden van het volk om in de zonde te verdrinken, dan voor degenen die veracht worden door het volk.  De bedoeling van de tweede instelling (d.i. het willen openbaren van de goede daad) is helemaal anders, want deze is niet gericht op de eigen geestelijke staat, maar met de geestelijke staat van alle anderen. De verhalen van hun wonderen en tekenen kunnen anderen namelijk tot het geloof leiden, of tot een deugdzamer leven, of tot een ander goed. Als men dan het totale goed wil ‘maximaliseren’, dan moet men een stabiele balans vinden tussen deze twee disposities, namelijk een balans waar de heilige niet verleid wordt door een hoge sociale status, maar waar ook het volk niet haar inspirerende voorbeelden moet missen.

@@ -1,0 +1,30 @@
+{{ if or (isset .Params "twitter") (isset .Params "youtube") (isset .Params "website") (isset .Params "wikipedia")}}
+	<span class="pipe">|</span>
+
+	<span>
+		{{ if isset .Params "twitter" }}
+			<a href="{{ .Params.twitter }}" target="_blank"  class="icon">
+				<img src="{{ relURL "img/twitter.svg" }}" alt="Twitter" style="height: 12px; width: 12px;">
+			</a>
+		{{ end }}
+
+		{{ if isset .Params "youtube" }}
+			<a href="{{ .Params.youtube }}" target="_blank"  class="icon">
+				<img src="{{ relURL "img/youtube.svg" }}" alt="Youtube" style="height: 12px; width: 12px;">
+			</a>
+		{{ end }}
+
+		{{ if isset .Params "website" }}
+			<a href="{{ .Params.website }}" target="_blank"  class="icon">
+				<img src="{{ relURL "img/website.svg" }}" alt="Website" style="height: 12px; width: 12px;">
+			</a>
+		{{ end }}
+
+		{{ if isset .Params "wikipedia" }}
+			<a href="{{ .Params.wikipedia }}" target="_blank"  class="icon">
+				<img src="{{ relURL "img/wikipedia.svg" }}" alt="Wikipedia" style="height: 12px; width: 12px;">
+			</a>
+		{{ end }}
+	</span>
+{{ end }}
+	

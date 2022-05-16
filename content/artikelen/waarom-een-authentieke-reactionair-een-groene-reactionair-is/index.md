@@ -24,9 +24,7 @@ De eigentijdse socialist of marxist zal het op deze punten weinig eens zijn met 
 
 {{< image
 	src="thumb.webp"
-	alt="Tuin der lusten"
 	caption="Tuin der lusten van Jheronimus Bosch."
-	class="img-left"
 >}}
 
 Het woord dat al deze dwalingen omvat, is zojuist al gevallen: gelijkheid. Door de eeuwen heen, zelfs ver voor het Christendom, wist men al heel goed dat ongelijkheid een gegeven is, zelfs een noodzakelijkheid voor het bestaan van harmonie. De _scala naturae_, de ladder des levens, is een concept dat door de Griekse klassieken al werd verstaan. Al het leven op aarde is in overeenstemming met de kosmische orde. Iedere levensvorm, hoe nietig ook, heeft een plek op de aarde. Sinds het Christendom weten we ook dat de mens bovenaan staat, als kroon op de Schepping. Dit wereldbeeld zal bij menig progressief of marxist weerzin opwekken, zo niet ridiculisering. Hoe kan het, dat sterke schepselen het recht menen te hebben zwakkeren te onderwerpen, en zelfs naar believen te doden? Hoe kan het, dat bepaalde planten of dieren meer inherente waarde hebben dan anderen? De Franse traditionalist René Guénon verwoordde het zo: Uit het minder kan niet het meerder geboren worden.[^3] Of op zijn hollands: Een dubbeltje wordt nooit een kwartje. Denk alleen al aan de hordes dierenbeschermers die balen hooi over de hekken bij de Oostvaardersplassen gooiden om het wild te _“helpen”_ en met tranen in hun ogen, vol agressie moesten aanzien hoe de beesten werden afgeschoten. De stadsbewoner is vervreemd van het leven, weet zich geen houding te geven aan de natuurlijke hiërarchie, wat, zoals Rousseau schreef, niet betekent dat we toe moeten geven aan iedere oerkracht die in ons opkomt. Het is heel gemakkelijk om naturalisme tot gouden standaard te verheffen, en al het moraal er aan af te wegen. dit ontaardt uiteindelijk een luguber sociaal-darwinistisch denken, met alle gevolgen van dien.

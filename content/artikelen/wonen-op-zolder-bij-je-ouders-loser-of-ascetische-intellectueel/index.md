@@ -27,9 +27,7 @@ Zo’n houding is logisch, wanneer je er overtuigd van bent, dat _‘you only li
 
 {{< image
 	src="thumb.webp"
-	alt="Catherine van Siena"
 	caption="St. Catherine van Siena, door Giovanni Battista Tiepolo."
-	class="img-left"
 >}}
 
 Utilisme of hedonisme zijn dan de meest logische levensfilosofieën. Je kunt leven gericht op het vermeerderen van het aardse geluk van anderen, of dat van jezelf, of een combinatie van die twee. Je bezighouden met abstracte concepten met een betekenis of waarheid los hiervan, is dan tijdverspilling. Zelfs vriendschap in de Aristotelische zin, lijkt zinloos.

@@ -13,9 +13,7 @@ Gisteren heb ik de nieuwste film van kunstcollectief _KIRAC_ gezien, _Honey Pot_
 
 {{< image
 	src="thumb.webp"
-	alt="Sid Lukkassen"
 	caption="Een still uit Honey Pot."
-	class="img-center"
 >}}
 
 Het initiatief werd in juni gepromoot door _GeenStijl_: reaguurders en rechtse (jonge)mannen werden opgeroepen om zich aan te melden om op camera seks te hebben met Jini. Tot dusver voelde ik mij niet als “doelgroep” aangesproken: _GeenStijl_ is een weblog bevolkt door liberale mannen van middelbare leeftijd die zichzelf als jong, rechts en politiek incorrect zien. Dat ben ik niet. Ik zou zelf ook nooit op camera seks met iemand hebben, en ik probeer ook geen porno te consumeren. Dit veranderde echter toen bleek dat Sid Lukkassen zichzelf voor dit initiatief had aangemeld én was geselecteerd. Lukkassen is zijdelings betrokken bij _Forum voor Democratie_, de partij waarop ik sinds jaar en dag stem en die, zo dacht ik, het dichtst bij het reactionaire gedachtengoed staat. Het idee dat iemand die —al is het onterecht— wordt omschreven als de partij-ideoloog van een partij waarop ik mijn hoop heb gevestigd,[^2] vrijwillig zou meedoen in een verfilming van seks met een online prostituee (laat ik het voor Stefan Ruitenbeek geen porno noemen), noopte mij om toch de film te kijken en er nu iets over te willen zeggen.

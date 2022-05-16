@@ -46,9 +46,7 @@ Daarnaast verbaast de stelling me, dat deze visie in het oosten zou hebben gelei
 
 {{< image
 	src="thumb.webp"
-	alt="Sunrise by the Ocean"
 	caption="Sunrise by the Ocean door Vladimir Kush."
-	class="img-left"
 >}}
 
 Het confucianisme was vanaf de Han-dynastie altijd invloedrijk, en uiteindelijk kregen ook taoïsme, en later het boeddhisme, een stabiele positie, maar andere religies werden nu eens getolereerd, dan weer vervolgd, waaronder bijvoorbeeld ook de Nestorianen.[^7] China kende ook andere vormen van paranoia. Zo was Han Wudi berucht voor zijn heksenvervolgingen.[^8] Japan kende massale christenvervolgingen, burgeroorlogen en een strikt kastenstelsel met onreinen onder het Togukawa-Shogunaat.[^9]

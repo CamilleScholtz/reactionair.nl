@@ -23,9 +23,7 @@ Hoe kan het nu toch dat in het overgereguleerde Nederland van 2022 een organisat
 
 {{< image
 	src="meme.webp"
-	alt="Meme"
 	caption="Meme over links-liberalen die met kinderen over 'seksualteit' willen praten"
-	class="img-left"
 >}}
 
 Daws legt uit dat -in de context van de VS- _Critical Race Theory_ (_CRT_) wordt gebruikt als middel om blanke kinderen een schuldgevoel te geven over hun identiteit, waarna _Queer Theory_ (_QT_) de kinderen een palet aan positieve, op seksualiteit gebaseerde, identiteiten biedt waaruit zij kunnen kiezen en waarvoor ze sociaal beloond worden. Het is daarbij van belang dat de kinderen zich lang genoeg in hun nieuwe identiteit bevestigd voelen voordat de ouders zich daar eventueel mee bemoeien, dus het is cruciaal dat dit gebeurt zonder medeweten van de ouders. Een eventuele verlate en boze reactie van ouders wanneer het kind zich al met de nieuwe, positief bevestigde identiteit vereenzelvigt, drijft het kind vervolgens alleen maar verder weg van de ouders, in de armen van de groep activisten die hen zo warm heeft onthaald. Het doel van dit alles is, zo schrijft Daws, niet het willen frunniken aan kleine kindjes, maar het kapen van de geesten van jonge, beïnvloedbare kinderen en het creëren van een nieuwe generatie “revolutionairen”. Daws onderkent dat er hierbij een omgeving wordt gecreëerd waarin seksuele roofdieren veel ruimte krijgen in de omgang met kwetsbare kinderen. Daws sluit af met de opmerking dat dit proces door velen niet wordt uitgevoerd vanuit kwade intenties, maar vanuit een misbruikt gevoel van empathie jegens minderheden en kinderen van minderheden. Door het vermijden van woorden als “papa”, “mama”, “jongen” en “meisje” zal ook het kind van een homostel, of een _non-binair_ kind, zich thuis voelen, zo is de gedachte van de empathische juf die _Queer Theory_ of de leerlijn van het _COC_ een mooi initiatief vindt. Daws:

@@ -11,9 +11,7 @@ Fatalisme heeft de westerse geest overgenomen. Na het Fukuyamiaanse optimisme va
 
 {{< image
 	src="thumb.webp"
-	alt="Samsara"
 	caption="Muurschildering van het hindoeïstische/boeddhistische concept van Samsara; de cyclische tijd."
-	class="img-center"
 >}}
 
 We zien het om ons heen: de teloorgang van elke traditionele structuur, van de kerk tot de familie, de afbrokkeling van iedere waarlijke moraliteit ten gunste van een hedonistisch en decadent liberalisme, inhoudsloos maar bovenal zielloos. Het perspectief van onze levens, van onze beschaving, is slechts nog horizontaal, het Kruis, dat tevens naar boven wees, is omgevallen. _‘Wij hebben God gedood’_ riep de dolle mens 150 jaar geleden uit en sindsdien _‘vallen we aan een stuk door’_, _‘zonder boven’_, _‘zonder beneden’_, als door een _‘oneindig niets’_.[^2]

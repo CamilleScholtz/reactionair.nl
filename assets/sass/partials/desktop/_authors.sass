@@ -1,37 +1,22 @@
-.authors
-	.sticky
-		padding-top: 10px
+#page
+	.authors
+		grid-row: 1 / span 2
+		margin-bottom: 100px
+		margin-top: -50px
 
-		.utility
-			border-bottom: 1px dashed var(--border-color)
-			color: var(--muted-color)
-			font-size: 17px
-			margin-bottom: 30px
-			padding-bottom: 12px
+		.author
+			border-right: 1px dashed var(--border-color)
+			margin-top: 40px
+			padding-right: 60px
 
-			.icon
-				height: 17px
-				position: relative
-				top: 4px
+			h3
+				font-size: 31px
 
-			.pipe
-				margin-left: 12px
-				margin-right: 12px
+			p
+				color: var(--muted-color)
+				font-style: italic
+				margin-bottom: 5px
 
-	.author-block
-		margin-top: -31px
-		padding-bottom: 96px
-
-		&.small
-			display: none
-	
-		&:nth-of-type(3)
-			margin-top: -60px
-			border-top: 1px dashed var(--border-color)
-
-			.information
-				margin-top: -1px
-
-		p,
-		a
-			line-height: 29px
+			img
+				left: -28px
+				top: -25px

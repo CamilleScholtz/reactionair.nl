@@ -23,9 +23,7 @@ Wat deze mensen vaak willen aangeven, is dat zij geen deel uitmaken van een reli
 
 {{< image
 	src="thumb.webp"
-	alt="Kathedraal van St Davids"
 	caption="Kathedraal van St Davids."
-	class="img-center"
 >}}
 
 Wanneer men leest over de oude Egyptische, Mesopotamische of zelfs middeleeuwse Europese beschavingen, komt men tot de ontdekking dat het woord voor godsdienst niet bestond. Het was niet gescheiden van de werkelijkheid. Alles wat je deed was voor God. Dit is wat er in de 18e eeuw gebeurde: plotseling konden mensen die deden alsof ze buiten een moreel systeem stonden oordelen dat alle religies evenveel waarde hadden. Dit veroorzaakte grote opschudding in Frankrijk...

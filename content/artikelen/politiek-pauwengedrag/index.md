@@ -10,9 +10,7 @@ Er is een interessant concept in evolutionaire theorieën dat _'counter-signalli
 
 {{< image
 	src="thumb.webp"
-	alt="Pauw"
 	caption="Illustratie van een pauw uit een getijdenboek."
-	class="img-left"
 >}}
 
 Het evolutionaire idee van camouflage is vrij gemakkelijk te begrijpen, als je moeilijker te zien bent heb je minder kans te worden opgegeten door roofdieren. Hoe zit het nu met de pauw met zijn kleurrijke, grote veren? Het is duidelijk dat dit in strijd is met het idee van camouflage. Kort na het publiceren van _The Origin of Species_, schreef Charles Darwin: "De aanblik van een veer in de staart van een pauw, telkens als ik er naar kijk, maakt me ziek!". Hij schreef dit omdat, voor hem, zo'n staart totaal absurd was binnen zijn evolutietheorie; het schaadt namelijk de overlevingskans van de pauw.

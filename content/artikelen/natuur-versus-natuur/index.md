@@ -11,9 +11,7 @@ We zien vaak vergelijkingen in de vorm van _“homoseksualiteit komt voor bij en
 
 {{< image
 	src="thumb.webp"
-	alt="Allegorie van goed en van slecht bestuur"
 	caption="Allegorie van goed en van slecht bestuur door Ambrogio Lorenzetti."
-	class="img-center"
 >}}
 
 

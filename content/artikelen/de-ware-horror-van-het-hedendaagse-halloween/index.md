@@ -12,9 +12,7 @@ De viering van Halloween zoals deze zich vandaag de dag manifesteert heeft als v
 
 {{< image
 	src="thumb.webp"
-	alt="Dodendans"
 	caption="Dance Macabre fresco  van Johannes de Castua."
-	class="img-center"
 >}}
 
 ‘Halloween’ komt van _‘All Hallows Eve’_, ofwel Allerheiligenavond. De datum waarop het gevierd wordt, 31 oktober, is namelijk, voor u die niet zo bekend zijn met de kerkelijke kalender, de avond voor Allerheiligen, het feest ter nagedachtenis aan alle heiligen en martelaren. Ook belangrijk om te gedenken is de feestdag die er op volgt, namelijk Allerzielen, waar de zielen in het vagevuur worden herdacht.

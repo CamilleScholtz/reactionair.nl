@@ -12,9 +12,7 @@ Op 24 februari 2022 viel Rusland Oekraïne met militair geweld binnen en voor mi
 
 {{< image
 	src="thumb.webp"
-	alt="Grande Armée"
 	caption="De terugtocht van de Grande Armée uit Moskou, door Jerzy Kossak."
-	class="img-center"
 >}}
 
 
@@ -46,7 +44,6 @@ Tenslotte nog de vraag hoe we het geweld dat de _EU_ de afgelopen tientallen jar
 Maar we moeten deze oorlog tegelijkertijd ook psychologisch bekijken. In de lange aanloop van deze oorlog hebben de _EU_ en de _NAVO_ vele vormen van geweld gebruikt: financieel geweld (sancties, opkopen, subsidies), politiek geweld, propagandageweld, dreiggeweld en ook militair geweld als het uitkwam. Maar bovenal beledigend geweld: gewoon doorgaan met het opkopen van steeds verder naar de Russische grens gelegen landen, en zich daarbij niets aantrekken van Russische zorgen. Deze zelfs niet in de pers ter sprake brengen. Het lukt mij niet voor al deze vormen van geweld een goede naam te bedenken. Maar psychologisch gezien kwam het geweld van Poetin niet uit de lucht vallen: het was een reactie op door de _EU_, de _NAVO_ en de _VS_ uitgeoefend geweld.
 
 
-<section class="footnotes">
 
 **Literatuur**
 

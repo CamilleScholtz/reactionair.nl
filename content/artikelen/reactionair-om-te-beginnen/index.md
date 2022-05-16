@@ -5,6 +5,7 @@ auteurs  = ["Robert Lemm"]
 date     = "2021-11-29"
 themas   = "Recensie & Biografie"
 dossiers = ["Christendom"]
+anchor   = "Top"
 +++
 
 
@@ -14,9 +15,7 @@ Aldus de Colombiaanse filosoof Nicolás Gómez Dávila (1913-1994). Wie het chri
 
 {{< image
 	src="thumb.webp"
-	alt="Nicolás Gómez Dávila"
 	caption="Nicolás Gómez Dávila."
-	class="img-left"
 >}}
 
 Conservatief is iets anders, want dat heeft liberale wortels, en het liberalisme is een dwaalleer. En een van de liberale dwalingen is de stelling dat alle godsdiensten gelijk of gelijkwaardig zijn (of, eigenlijk, even onbelangrijk).

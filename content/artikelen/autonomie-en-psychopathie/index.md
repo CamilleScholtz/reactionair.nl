@@ -11,9 +11,7 @@ In een artikel eerder gepubliceerd op Reactionair.nl, _Autonomie en consumptie: 
 
 {{< image
 	src="thumb.webp"
-	alt="Patrick Bateman"
 	caption="Schilderij Patrick Bateman, door kevinsbrush."
-	class="img-left"
 >}}
 
 Van Hooff stelt dat de individuele mens zo veel door de omgeving beïnvloed wordt in het denken, oordelen en twijfelen dat er geen sprake is van autonomie. In de consumptiemaatschappij worden mensen beïnvloed door PR-campagnes van bedrijven die producten willen verkopen. Reclame verspreidt niet alleen feiten over een product maar verbindt bovenal het product met een bepaalde identiteit. Als voorbeeld noemde Van Hooff een campagne die het idee verspreidde dat het roken van sigaretten een vrouw onafhankelijker zou maken. Dankzij de enorme invloed van marketing in de consumptiemaatschappij kan het aanbod de vraag sturen. Wie de mens blijft zien als autonoom zal niet snel bedrijven, hun campagnes en het systeem waarin zij opereren de schuld geven van de vervuiling en ongezondheid veroorzaakt door de consumptiemaatschappij.  

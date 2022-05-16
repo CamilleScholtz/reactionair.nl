@@ -21,9 +21,7 @@ _Economische selectie_: Het sinds de kabinetten Lubbers absoluut dominante econo
 
 {{< image
 	src="thumb.webp"
-	alt="Het eerste boek van Urizen"
 	caption="Illustratie van William Blake uit 'het eerste boek van Urizen'."
-	class="img-left"
 >}}
 
 Het oud-Nederlandse verband tussen werk en opbrengst, tussen verdienste en beloning is daarmee een exclusief archeologisch fenomeen. Dat verband is inmiddels _omgekeerd_: waar men vroeger voor een dubbeltje geboren nooit een kwartje werd, daar wordt dat dubbeltje nu een stuiver. Wie wél floreren onder het neoliberale regime zijn haar nieuwe zetbazen (‘investeerders’, ‘ondernemers’ en ‘consultants’ die handig weten te profiteren van constante cycli ‘privatiseringen’, ‘aanbestedingen’ en ‘reorganisaties’), haar trouwe uitvoerders (het nieuwe _Befehl-ist-Befehl_ ambtenarencorps van politiek-correcte femo- en allo-creaturen) en alle grote en kleine criminelen die niet al teveel de randjes van het ‘gedoogbeleid’ van post-Nederlandse narco-staat en piraten-republiek opzoeken. Naïeve inheemse Nederlandse arbeiders, ZZPers en MKBers die zich nog vastklampen aan restanten ex-calvinistische arbeidsethos en burgerzin zijn in die nieuwe realiteit letterlijk het kind van de rekening: het is met hun werk en uit hun belastinggeld dat het neoliberale regime haar corrupte bestuurders, haar monstrueuze bureaucratie en haar stemvee, consumptiebasis en slavenpersoneel producerende massa-immigratie onderhoudt. Het neoliberale regime is in die zin de ultieme ‘omgekeerde Robin Hood’: het steelt van de armen om aan de rijken te geven. Het verwezenlijkt aldus de economische selectie die hoort bij het door de globalistische vijandelijke elite beoogde domesticeringsproces: het bestraft het goede en beloont het slechte.

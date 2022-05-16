@@ -10,9 +10,8 @@ A.E. Housman schreef nostalgisch over _‘the happy highways where I went / and 
 
 {{< image
 	src="thumb.webp"
-	alt="Wilhelm Furtwängler"
 	caption="Wilhelm Furtwängler die dirigeert."
-	class="img-center"
+	license="Foto van ullstein bild / Getty"
 >}}
 
 Laat ik vooropstellen dat ik geen traditionalist ben die alles van de moderniteit verafschuwt. Ik accepteer de Verlichting op vele facetten, alhoewel bij langeweg niet alle. Jung wist het pregnant samen te vatten: _“The brighter the light, the darker the shadows”_. Zo is de avant-gardistische muziek van Stravinsky prachtig, _Le sacre du printemps_ is absoluut moderniteit _done right_. Met de golf van nieuwe ideologieën in de twintigste eeuw was in de muziek vooral de avant-garde dominant. Componisten zoals Debussy, Stravinsky en de geweldige impresario Sergej Diaghilev waren toonaangevend.

@@ -17,9 +17,7 @@ Het Nationaal park de Hoge Veluwe. De doorsnee Nederlander zal het een mooi en o
 
 {{< image
 	src="zelenski.webp"
-	alt="Vladimir Zelenski"
 	caption="Vladimir Zelenski aan de telefoon."
-	class="img-center"
 >}}
 
 Laten we nog een ander voorbeeld bekijken waarin het _simulacrum_ vooraf ging en vorm heeft gegeven aan de werkelijkheid: de Oekraïense president Vladimir Zelenski. Op het bovenstaand beeld zien we hem een telefoontje krijgen van de Europese Unie, om er dan achter te komen dat het eigenlijk voor Montenegro bestemd was. Maar het is niet echt. Zelenski speelde hier de rol van president voor een komische tv-serie.[^2] Deze serie was zeer populair in Oekraïne, wat er uiteindelijk toe heeft geleid dat Zelenski zich echt kandidaat stelde voor het presidentschap en, met behulp van dezelfde schimmige oligarchen die zijn acteercarrière hebben gestimuleerd, won. Opnieuw: _life imitates art_.

@@ -1,32 +1,18 @@
 {{ define "main" }}
+	<article>		
+		<h1>{{ .Params.title }}</h1>
+		<h2>{{ .Params.subtitle }}</h2>
+	</article>
+
 	<aside class="authors">
 		<div class="sticky">
-			{{ partial "utility.html" . }}
-
-			{{ range $author := .Params.auteurs }}
-				{{ partial "author.html" (dict
-					"context" .
-					"size"    "large"
-					"more"    true
-				) }}
+			{{ range .Params.auteurs }}
+				{{ partial "asides/author.html" . }}
 			{{ end }}
 		</div>
 	</aside>
 
-	<article>		
-		<h1>{{ .Params.title }}</h1>
-		<h2>{{ .Params.subtitle }}</h2>
-
-		<div class="authors">
-			{{ range $author := .Params.auteurs }}
-				{{ partial "author.html" (dict
-					"context" .
-					"size"    "small"
-					"more"    true
-				) }}
-			{{ end }}
-		</div>
-
+	<article>
 		{{ .Content }}
 	</article>
 
@@ -41,7 +27,7 @@
 					{{ $side = "right" }}
 				{{ end }}
 
-				{{ partial "theme.html" (dict
+				{{ partial "articles/theme.html" (dict
 					"context" .
 					"section" "dossiers"
 					"term"    $dossier

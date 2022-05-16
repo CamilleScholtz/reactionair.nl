@@ -11,9 +11,7 @@ _Orthodoxie_ is een boek gepubliceerd in 1908 door Gilbert Keith Chesterton (187
 
 {{< image
 	src="thumb.webp"
-	alt="Kabouter en kikker"
 	caption="Kabouter en kikker, van Alfred Schönian."
-	class="img-center"
 >}}
 
 >Ik herinner me dat ik eens een wandeling maakte met een welvarende uitgever, die een opmerking maakte die ik vaker had gehoord; het is inderdaad welhaast een motto van de hedendaagse wereld. Nu had ik het echter één keer te vaak gehoord, en plotseling zag ik in hoe nietszeggend het was. De uitgever zei over iemand: ‘Die man komt er wel, hij gelooft in zichzelf.’ En ik herinner me dat ik mijn hoofd optilde om te luisteren en dat mijn blik toen op een voorbijrijdende bus viel, waarop stond ‘Hanwell’.[^1] Ik zei tegen hem: ‘Zal ik je vertellen waar degenen zijn die in zichzelf geloven? Want ik kan het je vertellen. Ik ken mensen die meer in zichzelf geloven dan Napoleon of Caesar ooit hebben gedaan. Ik weet waar de vaste ster van zelfvertrouwen en succes fonkelt. Ik kan je naar de troon van de supermens brengen. Zij die echt in zichzelf geloven zitten allemaal in gekkenhuizen.[^2]

@@ -11,9 +11,7 @@ Vandaag kwam naar buiten dat _D66_ en de _VVD_, samen met _PvdA_, _GroenLinks_, 
 
 {{< image
 	src="thumb.webp"
-	alt="Middeleeuwse arts"
 	caption="Middeleeuwse arts die de schedel van een patiënt opensnijdt met een hamer en een mes. Illustratie uit een 14e eeuws Frans medisch manuscript van Guy van Pavia."
-	class="img-center"
 >}}
 
 Maar wat is een homogenezer? Dat moet je aan de liberalen zelf vragen. Op internet zijn precies nul zelf omschreven homogenezers te vinden. Dit wordt bevestigd als we kijken naar de _Google Trends_.[^1]

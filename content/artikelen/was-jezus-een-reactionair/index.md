@@ -43,9 +43,7 @@ Waar de Sadduceeën alleen de Schrift volgden (‘sola scriptura’), baseerden 
 
 {{< image
 	src="thumb.webp"
-	alt="Tempelrol"
 	caption="Een deel van de Tempelrol die gevonden is in Qumran Grot 11."
-	class="img-center"
 >}}
 
 De Essenen praktiseerden daarbij een strenge ascetische levenswijze waaronder het celibaat.[^6] Ook verwierpen ze de usurpatie van het hogepriesterschap door de Sadduceeën en bleven trouw aan de mysterieuze “Leraar van Rechtvaardigheid” die verdreven en vervolgd zou zijn. Ze volgden een lijn van profetische leiders die de restgroep moesten leiden, maar tegelijkertijd hielden ze een tijdlang een zekere band met de Nasi en de rest van het Sanhedrin.[^7]

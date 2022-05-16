@@ -1,0 +1,34 @@
+<a href="{{ .context.RelPermalink }}" class="featured {{.size}}">
+	{{ if .image }}
+		{{ $image  := .context.Resources.GetMatch .image }}
+		{{ $anchor := "Smart" }}
+		{{ if isset .context.Params "anchor" }}
+			{{ $anchor = .context.Params.anchor }}
+		{{ end }}
+
+		<img
+			{{ if eq .size "large" }}
+				srcset="{{ ($image.Fill (printf "744x320 webp %s" $anchor)).RelPermalink }} 320w,
+				        {{ ($image.Fill (printf "1488x640 webp %s" $anchor)).RelPermalink }} 640w"
+				sizes="(max-width: 1920px) 320px,
+				       640px"
+				src="{{ ($image.Fill (printf "1488x640 webp %s" $anchor)).RelPermalink }}"
+			{{ else }}
+				srcset="{{ ($image.Fill (printf "337x320 webp %s" $anchor)).RelPermalink }} 337w,
+				        {{ ($image.Fill (printf "674x640 webp %s" $anchor)).RelPermalink }} 674w"
+				sizes="(max-width: 1920px) 337px,
+				       674px"
+				src="{{ ($image.Fill (printf "674x640 webp %s" $anchor)).RelPermalink }}"
+			{{ end }}
+			{{ if .lazy }}
+				loading="lazy"
+			{{ end }}
+			alt="{{ .context.Params.title }}">
+	{{ end }}
+
+	<div class="text">
+		<h2>{{ .context.Params.title }}</h2>
+		<h3>{{ .context.Params.subTitle }}</h3>
+		<p class="author">{{ delimit .context.Params.auteurs ", " " & " }}</p>
+	</div>
+</a>

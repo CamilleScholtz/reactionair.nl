@@ -18,9 +18,7 @@ De moderne opvatting van tijd staat in contrast met de antieke opvatting van tij
 
 {{< image
 	src="thumb.webp"
-	alt="Een kathedraal"
 	caption=" "
-	class="img-center"
 >}}
 
 De moderne wereld is geobsedeerd door mode, of _viral_ gaan. Dit zijn beide uitingen van hetzelfde concept: een korte en zware dosis focus op iets nutteloos. De katholieke liturgie wijst naar het hoogste en probeert zondaars te corrigeren die deze focus verloren hebben. Binnen het moderne denken is er niet zo'n centrale focus. Door dit gebrek aan focus kan alles de aandacht van de mensen trekken. Als het op enigerlei wijze nuttig is, zal het blijven. Zo niet, dan verdwijnt het snel.

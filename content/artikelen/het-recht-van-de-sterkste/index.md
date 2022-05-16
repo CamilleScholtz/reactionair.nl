@@ -23,9 +23,7 @@ Het idee om Democratie en Gelijkheid plus Vrijheid te exporteren naar volken die
 
 {{< image
 	src="thumb.webp"
-	alt="The next European war wil start in the Ukraine"
 	caption="“The next European war will start in the Ukraine”, Look Magazine. 14 maart, 1939."
-	class="img-center"
 >}}
 
 Nu de voorgeschiedenis van de invasie van Oekraïne, eind februari 2022. In 1989  was de Berlijnse Muur gevallen. Dat luidde het einde in van het _Warschau Pact_, waartoe de satellietstaten van Oost Europa behoorden onder leiding van de communistische Sovjet Unie. Vervolgens sloten die landen zich aan bij de _NAVO_, tot en met de voormalige door Moskou ingelijfde Baltische Staten. De Noord Atlantische strijdkrachten breidden zich in oostelijke richting uit, terwijl er een afspraak uit 1990 met het Westen bestond dat zulks niet zou gebeuren. Er zijn waarnemers die zeggen dat die afspraak nooit gemaakt is, maar dat doet er niet toe. Het feit is de beweging van _NAVO_ raketten op een schot afstand van de Russische stad Sint Petersburg. Vanzelfsprekend had ook Rusland legereenheden naar de nieuwe opgeschoven _NAVO_ grenzen gestuurd. Sindsdien begon het anti-Russische netwerk in het Westen Poetin als een groot gevaar voor te stellen. Oekraïne was een makkelijke prooi met een puissant rijke elite en bittere armoede op het platteland. Daar zouden Amerika en Rusland hun krachten gaan meten. 

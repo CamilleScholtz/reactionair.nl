@@ -12,9 +12,7 @@ Zoals Stanley Kubrick zei, er valt meer over oorlog te zeggen dan dat het slecht
 
 {{< image
 	src="thumb.webp"
-	alt="Helft uns siegen!"
 	caption="Poster \"Helft uns siegen!\", door Fritz Erler."
-	class="img-left"
 >}}
 
 De teneur van _In Stahlgewittern_ is er een van avontuur, zonder ons de gruwelijkste details te sparen. We hebben in essentie te maken met een bewerkt dagboek (non-fictie dus), dus we krijgen de oorlog, de eerste wereldoorlog welteverstaan, in al zijn facetten te zien. De ellendige sleur van het loopgravenleven, slechts af en toe onderbroken door spanning aan het front; de logistiek en verveling daarachter; de kameraadschap, de ontberingen, de angst en zelfs, zoals die keer dat een van Jüngers kompanen tot aan de Britse linies tijgerde om een bel met een touw aan het prikkeldraad vast te maken om de Britten hoorndol te maken, de ongezouten lol. Hoe gek dat ook moge klinken, bij tijd en wijle leest _In Stahlgewittern_ als een schelmenroman.
