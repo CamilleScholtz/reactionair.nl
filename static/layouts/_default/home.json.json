@@ -1,0 +1,14 @@
+{{ $.Scratch.Add "index" slice }}
+
+{{ range $i, $_ := where site.RegularPages "Type" "eq" "artikelen" }}
+	{{ $.Scratch.Add "index" (dict
+		"id"        $i
+		"title"     .Params.title
+		"subtitle"  .Params.subtitle
+		"authors"   .Params.auteurs
+		"content"   .Plain
+		"permalink" .Permalink
+	) }}
+{{ end }}
+
+{{ $.Scratch.Get "index" | jsonify }}

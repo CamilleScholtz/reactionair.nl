@@ -14,7 +14,6 @@ Socrates, Plato en Aristoteles geloofden in een historische cyclus. Monarchie (a
 {{< image
 	src="thumb.webp"
 	caption="De koers van de vernietiging van het Rijk door Cole Thomas."
-	class="img-center"
 >}}
 
 (Liberale) democratie wordt in het westen gezien als een gematigd systeem, dat extremisme en onderdrukking voorkomt. Socrates en zijn volgelingen zagen democratie echter slechts als een overgangsfase die, in geval deze zich natuurlijk ontwikkelde,  eindigde in tirannie. In plaats van wijsheid zouden charisma en retoriek gaan heersen in een democratie. Democratie zou overgaan in tirannie t.g.v. een strijd tussen armen en rijken. De volksleider had volgens hen de rol van ultieme anti-monarch. Socrates predikte daarom een terugkeer naar een wijze monarchie en werd uiteindelijk ter dood veroordeeld door een Atheense jury. Pythagoras en zijn volgelingen waren eerder ook al vervolgd en vermoord, omdat zij zich verzetten tegen de instelling van democratie in Croton, hoewel hun nadruk op ascese en het celibaat beslissend was geweest om Croton te helpen de oorlog tegen Sybaris te winnen. Plato en Aristoteles kregen ook te maken met dreigende vervolging voor hun antidemocratische principes. 

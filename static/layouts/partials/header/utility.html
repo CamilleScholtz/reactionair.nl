@@ -1,0 +1,19 @@
+<div class="utility">
+	<div class="left">
+		{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
+			<time>{{ .Date.Day }} {{ index site.Data.months (printf "%d" .Date.Month) }}, {{ .Date.Year }}</time>
+
+			<span class="pipe">|</span>
+
+			{{ $duration := math.Round (div .WordCount 225.0) }}
+			<span>{{ $duration }} {{ if gt $duration 1 }}MINUTEN{{ else }}MINUUT{{ end }} LEESTIJD</span>
+		{{ else }}
+			<time class="now">{{ now.Day }} {{ index $.Site.Data.months (printf "%d" now.Month) }}, {{ now.Year }}</time>
+		{{ end }}
+	</div>
+
+	<div class="right">
+		<div>{{ .Title }}</div>
+	</div>
+</div>
+

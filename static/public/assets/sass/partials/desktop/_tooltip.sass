@@ -1,0 +1,34 @@
+sup
+	.arrow
+		background: var(--popup-background-color)
+		height: 18px
+		position: absolute
+		opacity: 0
+		transform: rotate(45deg)
+		transition: all .15s
+		width: 18px
+
+	.tooltip
+		background: var(--popup-background-color);
+		padding: 20px
+		position: absolute;
+		margin-top: 6px
+		max-width: 350px
+		opacity: 0
+		transition: all .15s
+
+		*
+			font-size: 16px
+			font-weight: 400
+
+		p
+			color: var(--text-color)
+			margin: 0
+			padding: 0
+
+		.hover
+			height: 40px
+			margin-left: -20px
+			position: absolute
+			top: -26px
+			width: 100%
