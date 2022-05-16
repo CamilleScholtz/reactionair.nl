@@ -25,11 +25,14 @@ main
 		align-self: stretch
 		grid-column: 1
 		grid-row: auto
+		margin-top: -110px
+		margin-bottom: 100px
 
 		.sticky
 			position: sticky
-			top: calc(110px + 55px + 50px + 30px + 2px)
-			transition: top .2s
+			top: calc(110px + 30px)
+			transition: transform .2s
+			transform: translateY(110px)
 
 	>article,
 	>section

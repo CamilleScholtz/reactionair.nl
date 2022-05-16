@@ -71,7 +71,7 @@ const footnotes = (page, mobile) => {
 					arrow.style.transform = "rotate(45deg) translateY(4px)";
 					arrow.style.opacity   = 1;
 				}, 15);
-			}, 200);
+			}, 100);
 		});
 
 		sup.addEventListener("mouseleave", (ev) => {
@@ -152,8 +152,8 @@ const scroll = (header, stickies, mobile) => {
 	let hidden     = false;
 	let lastScroll = 0;
 	let ticking    = false;
-
-	const hide = () => {
+	
+	const hide = (scroll) => {
 		if (mobile.matches) {
 			header.style.transform = `translateY(calc(-${height}px - 15px))`;
 		} else {
@@ -172,21 +172,25 @@ const scroll = (header, stickies, mobile) => {
 		arrow.style.display = "none";
 
 		if (!mobile.matches) {
-			stickies.forEach((sticky) => {
-				sticky.style.top = `calc(55px + 50px + 30px + 1px)`;
+			stickies.forEach((sticky) => {			
+				sticky.style.transform = "translateY(0px)";
 			});
 		}
 
 		hidden = true;
 	}
 
-	const show = () => {
+	const show = (scroll) => {
 		header.style.transform = "translateY(0px)";
 		logo.style.transform   = "translateY(0px)";
 
 		if (!mobile.matches) {
 			stickies.forEach((sticky) => {
-				sticky.style.top = `calc(${height}px + 55px + 50px + 30px + 1px)`;
+				if (sticky.offsetTop > (scroll + 110 + 30)) {
+					return;
+				}
+			
+				sticky.style.transform = `translateY(${height}px)`;
 			});
 		}
 
@@ -204,16 +208,16 @@ const scroll = (header, stickies, mobile) => {
 
 			if (scroll < 300) {
 				if (hidden) {
-					show();
+					show(scroll);
 				}
 
 				return;
 			}
 
 			if (!hidden && scroll > lastScroll + 12) {
-				hide();
+				hide(scroll);
 			} else if (hidden && scroll < lastScroll - 100) {
-				show();
+				show(scroll);
 			}
 
 			lastScroll = scroll;
