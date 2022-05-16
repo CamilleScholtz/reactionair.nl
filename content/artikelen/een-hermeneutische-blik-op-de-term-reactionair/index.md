@@ -11,7 +11,6 @@ In de loop van de 19e eeuw ontstonden er vanuit de reactionaire traditie twee Ch
 
 {{< image
 	src="thumb.webp"
-	alt="Willem Bilderdijk na zijn dood"
 	caption="Willem Bilderdijk na zijn dood, door Gerrit Jan Michaëlis."
 	class="img-left"
 >}}

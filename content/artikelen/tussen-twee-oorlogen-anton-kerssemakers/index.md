@@ -12,7 +12,6 @@ Onlangs heb ik de website Delpher herontdekt, deze website categoriseert oude bo
 
 {{< image
 	src="thumb.webp"
-	alt="Vrijmetselarij en Jodendom"
 	caption="Omslag van het boek Vrijmetselarij en Jodendom."
 	class="img-left"
 >}}

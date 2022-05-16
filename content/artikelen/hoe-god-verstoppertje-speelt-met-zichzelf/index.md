@@ -21,7 +21,6 @@ In een materialistisch tijdperk als het onze, is het de usance om geest te verkl
 
 {{< image
 	src="thumb.webp"
-	alt="Krishna en Radha"
 	caption="De hindoegod Krishna speelt verstoppertje met zijn geliefde Radha en de gopi's."
 	class="img-left"
 >}}

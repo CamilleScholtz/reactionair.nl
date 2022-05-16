@@ -23,7 +23,6 @@ Als we kijken naar waar wél achteruitgang of stagnatie was, dan was het zeker b
 
 {{< image
 	src="thumb.webp"
-	alt="Augustus: Tarwe oogsten"
 	caption="Augustus: Tarwe oogsten, uit Da Costa Hours."
 	class="img-left"
 >}}

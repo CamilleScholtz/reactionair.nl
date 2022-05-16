@@ -10,7 +10,6 @@ Er is een interessant concept in evolutionaire theorieën dat _'counter-signalli
 
 {{< image
 	src="thumb.webp"
-	alt="Pauw"
 	caption="Illustratie van een pauw uit een getijdenboek."
 	class="img-left"
 >}}

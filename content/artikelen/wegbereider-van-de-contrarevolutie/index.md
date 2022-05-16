@@ -9,7 +9,6 @@ themas   = "Recensie & Biografie"
 
 {{< image
 	src="thumb.webp"
-	alt="Portrait de Louis de Bonald"
 	caption="Portrait de Louis de Bonald door François Pascal Simon Gérard."
 	class="img-left"
 >}}

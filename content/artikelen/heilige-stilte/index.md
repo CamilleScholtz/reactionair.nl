@@ -11,7 +11,6 @@ Met de burgerman heeft de reactionair zo min mogelijk van doen, met burgerlijkhe
 
 {{< image
 	src="thumb.webp"
-	alt="Characters and Caricaturas"
 	caption="Characters and Caricaturas door William Hogarth."
 	class="img-center"
 >}}

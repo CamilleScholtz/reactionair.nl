@@ -11,7 +11,6 @@ Hoe vaak valt in een opiniestuk, in social media of aan talkshowtafels wel niet 
 
 {{< image
 	src="thumb.webp"
-	alt="Campagne affiche"
 	caption="Campagne affiche, Belgische liberale partij, nationale verkiezingen 1958."
 	class="img-left"
 >}}

@@ -12,7 +12,6 @@ U heeft waarschijnlijk wel een krantenkop of twee gezien met een titel als _“H
 
 {{< image
 	src="thumb.webp"
-	alt="Tekening"
 	caption=" "
 	class="img-center"
 >}}

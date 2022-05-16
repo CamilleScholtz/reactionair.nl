@@ -11,7 +11,6 @@ Onlangs zat ik met wat vrienden in een gezellig cafeetje in de Antwerpse binnens
 
 {{< image
 	src="thumb.webp"
-	alt="Yukio Mishima"
 	caption="Yukio Mishima aquarel en inkt portret, door Fabrizio Cassetta."
 	class="img-left"
 >}}

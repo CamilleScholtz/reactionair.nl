@@ -17,7 +17,6 @@ _Woke_, of zoals we in eerdere artikelen hebben besproken, de meer passende term
 
 {{< image
 	src="thumb.webp"
-	alt="10 keer dat woke ECHT TE ver ging!"
 	caption="10 keer dat woke ECHT TE ver ging! Nummer 7 zal je niet geloven!"
 	class="img-left"
 >}}

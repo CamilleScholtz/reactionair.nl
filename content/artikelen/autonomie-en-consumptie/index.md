@@ -17,7 +17,6 @@ Zoals Spengler in dit citaat aangeeft is de mens gegrond in zijn, eenvoudig geze
 
 {{< image
 	src="thumb.webp"
-	alt="De duivel"
 	caption="De duivel vervult het menselijke hart met begeerte naar rijkdom, macht en genot, Maarten van Heemskerck."
 	class="img-left"
 >}}

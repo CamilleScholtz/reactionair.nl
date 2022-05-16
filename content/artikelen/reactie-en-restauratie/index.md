@@ -16,7 +16,6 @@ Reactionair gebruiken als vies woord is bizar. Ten tijde van crises is het niet 
 
 {{< image
 	src="thumb.webp"
-	alt="Ruïne aan Zee"
 	caption="Ruïne aan Zee van Arnold Böcklin."
 	class="img-left"
 >}}

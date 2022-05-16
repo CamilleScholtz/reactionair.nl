@@ -12,7 +12,6 @@ Zoals Stanley Kubrick zei, er valt meer over oorlog te zeggen dan dat het slecht
 
 {{< image
 	src="thumb.webp"
-	alt="Helft uns siegen!"
 	caption="Poster \"Helft uns siegen!\", door Fritz Erler."
 	class="img-left"
 >}}

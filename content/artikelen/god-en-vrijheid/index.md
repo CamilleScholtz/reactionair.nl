@@ -12,7 +12,6 @@ Het liberalisme heeft als beginsel vrijheid, _liberté_. In vergelijking met and
 
 {{< image
 	src="thumb.webp"
-	alt="Satan ondersteboven"
 	caption="Satan ondersteboven, illustratie bij Dante's Goddelijke Komedie, Codex Altonesis."
 	class="img-left"
 >}}

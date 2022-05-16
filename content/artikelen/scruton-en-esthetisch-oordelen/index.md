@@ -27,7 +27,6 @@ Juist in deze tijd van consumptie ter wille van doelloze begeerten is de behoeft
 
 {{< image
 	src="thumb.webp"
-	alt="De Analyse van Schoonheid"
 	caption="De Analyse van Schoonheid, door Wiliam Hogarth."
 	class="img-center"
 >}}

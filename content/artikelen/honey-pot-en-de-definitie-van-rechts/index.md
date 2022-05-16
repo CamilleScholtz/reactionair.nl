@@ -13,7 +13,6 @@ Gisteren heb ik de nieuwste film van kunstcollectief _KIRAC_ gezien, _Honey Pot_
 
 {{< image
 	src="thumb.webp"
-	alt="Sid Lukkassen"
 	caption="Een still uit Honey Pot."
 	class="img-center"
 >}}

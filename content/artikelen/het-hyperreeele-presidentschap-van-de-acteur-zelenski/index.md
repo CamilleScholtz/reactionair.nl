@@ -17,7 +17,6 @@ Het Nationaal park de Hoge Veluwe. De doorsnee Nederlander zal het een mooi en o
 
 {{< image
 	src="zelenski.webp"
-	alt="Vladimir Zelenski"
 	caption="Vladimir Zelenski aan de telefoon."
 	class="img-center"
 >}}

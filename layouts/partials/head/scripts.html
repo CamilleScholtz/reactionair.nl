@@ -1,0 +1,17 @@
+<script defer src="{{ (resources.Get "js/vendor/minisearch.js").RelPermalink }}?v=1650624311"></script>
+<script defer src="{{ (resources.Get "js/main.js" | resources.Minify).RelPermalink }}?v=1650624317"></script>
+
+<script type="application/javascript">
+	if (!sessionStorage.getItem("_swa") && document.referrer.indexOf(location.protocol + "//" + location.host) !== 0) {
+		fetch("https://counter.dev/track?" + new URLSearchParams({
+			referrer:  document.referrer,
+			screen:    screen.width + "x" + screen.height,
+			user:      "admin@camille.sh",
+			utcoffset: "2",
+		}), {
+			referrerPolicy: "no-referrer-when-downgrade",
+		});
+	}
+
+	sessionStorage.setItem("_swa", "1");
+</script>

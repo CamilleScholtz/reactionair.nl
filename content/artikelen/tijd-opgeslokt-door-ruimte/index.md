@@ -16,7 +16,6 @@ Lemm haalde Spengler aan over dit onderwerp. Spengler identificeert de _Faustiaa
 
 {{< image
 	src="thumb.webp"
-	alt="Flammarion's houtgravure"
 	caption="Flammarion's houtgravure. De missionaris steekt zijn hoofd buiten de Magische koepel, in de Faustische oneindige ruimte?"
 	class="img-left"
 >}}

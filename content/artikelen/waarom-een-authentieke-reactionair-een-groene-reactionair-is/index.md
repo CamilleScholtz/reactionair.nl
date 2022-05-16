@@ -24,7 +24,6 @@ De eigentijdse socialist of marxist zal het op deze punten weinig eens zijn met 
 
 {{< image
 	src="thumb.webp"
-	alt="Tuin der lusten"
 	caption="Tuin der lusten van Jheronimus Bosch."
 	class="img-left"
 >}}

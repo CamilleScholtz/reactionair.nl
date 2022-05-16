@@ -23,7 +23,6 @@ Wat deze mensen vaak willen aangeven, is dat zij geen deel uitmaken van een reli
 
 {{< image
 	src="thumb.webp"
-	alt="Kathedraal van St Davids"
 	caption="Kathedraal van St Davids."
 	class="img-center"
 >}}

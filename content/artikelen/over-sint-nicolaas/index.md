@@ -14,7 +14,6 @@ Toen onze Heer de twee blinden heelde, zei Hij tegen hen deze openbaring van Zij
 
 {{< image
 	src="thumb.webp"
-	alt="Sint Nicolaas en de drie dochters van de koopman"
 	caption="Sint Nicolaas en de drie dochters van de koopman."
 	class="img-center"
 >}}

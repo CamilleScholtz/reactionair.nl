@@ -11,7 +11,6 @@ _Orthodoxie_ is een boek gepubliceerd in 1908 door Gilbert Keith Chesterton (187
 
 {{< image
 	src="thumb.webp"
-	alt="Kabouter en kikker"
 	caption="Kabouter en kikker, van Alfred Schönian."
 	class="img-center"
 >}}

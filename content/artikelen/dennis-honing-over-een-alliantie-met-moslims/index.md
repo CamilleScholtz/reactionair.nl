@@ -15,7 +15,6 @@ We kijken naar de vraag of er en mogelijkheid is voor een rechtse coalitie met d
 
 {{< image
 	src="thumb.webp"
-	alt="Westermoskee"
 	caption="De Westernmoskee in Amsterdam. Combineert de stijl van de Amsterdamse School met traditionele Ottomaanse vorm."
 	class="img-center"
 >}}

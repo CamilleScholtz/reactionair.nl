@@ -1,7 +1,10 @@
 {{ define "main" }}
 	<aside class="intro quote">
 		<div class="sticky">
-			{{ partial "quote.html" (dict "quote" "" "author" "") }}
+			{{ partial "quote.html" (dict
+				"quote"  ""
+				"author" ""
+			) }}
 
 			<div class="links">
 				<!--<a href="/doneren/">Doneren</a>
@@ -22,7 +25,7 @@
 		{{ $authors  = $authors | append (where .Pages "Params.pseudonym" true).ByTitle }}
 
 		{{ range $authors }}
-			{{ partial "author.html" (dict
+			{{ partial "author/author.html" (dict
 				"context" .Params.title
 				"size"    "large"
 				"more"    true

@@ -11,7 +11,6 @@ _“De dwaas op de heuvel die de zon ziet ondergaan, maar de denkende ogen in zi
 
 {{< image
 	src="thumb.webp"
-	alt="Gent en de tuinbouw"
 	caption="Florimond van Acker, Gent en de tuinbouw."
 	class="img-center"
 >}}

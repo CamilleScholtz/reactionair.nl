@@ -12,7 +12,6 @@ De viering van Halloween zoals deze zich vandaag de dag manifesteert heeft als v
 
 {{< image
 	src="thumb.webp"
-	alt="Dodendans"
 	caption="Dance Macabre fresco  van Johannes de Castua."
 	class="img-center"
 >}}

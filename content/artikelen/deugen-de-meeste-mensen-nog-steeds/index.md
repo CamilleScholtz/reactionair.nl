@@ -14,7 +14,6 @@ themas   = "Recensie & Biografie"
 
 {{< image
 	src="thumb.webp"
-	alt="De misantroop"
 	caption="De misantroop door Pieter Bruegel de Oude."
 	class="img-left"
 >}}

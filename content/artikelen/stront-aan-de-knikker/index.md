@@ -23,7 +23,6 @@ Hoe kan het nu toch dat in het overgereguleerde Nederland van 2022 een organisat
 
 {{< image
 	src="meme.webp"
-	alt="Meme"
 	caption="Meme over links-liberalen die met kinderen over 'seksualteit' willen praten"
 	class="img-left"
 >}}

@@ -21,7 +21,6 @@ Neem daar eerst een helder standpunt over in alvorens te mijmeren over de reddin
 
 {{< image
 	src="thumb.webp"
-	alt="Konservative allianz? Nein danke!"
 	caption="\"Konservative allianz? Nein danke!\""
 	class="img-center"
 >}}

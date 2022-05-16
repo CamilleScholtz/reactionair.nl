@@ -15,7 +15,6 @@ De Nederlandse vertaling van Charles Darwin’s _On The Origin of Species by Mea
 
 {{< image
 	src="thumb.webp"
-	alt="Lucifer"
 	caption="William Blake 's illustratie van Lucifer zoals gepresenteerd in John Milton 's Paradise Lost"
 	class="img-left"
 >}}

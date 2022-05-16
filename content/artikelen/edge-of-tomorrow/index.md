@@ -25,7 +25,6 @@ Met het inzettende _Dark Winter_ seizoen van de globalistische _Great Reset_ die
 
 {{< image
 	src="thumb.webp"
-	alt="Job bekent zijn aanmatigingen aan God"
 	caption="Job bekent zijn aanmatigingen aan God die antwoordt vanuit de wervelwind, door William Blake."
 	class="img-left"
 >}}

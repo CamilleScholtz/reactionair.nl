@@ -15,7 +15,6 @@ Dit is altijd een essentieel kernpunt geweest van het traditionalisme; primair b
 
 {{< image
 	src="thumb.webp"
-	alt="Paus Bonifatius VIII"
 	caption="Paus Bonifatius VIII, schilderij van Andrea Gastaldi."
 	class="img-center"
 >}}

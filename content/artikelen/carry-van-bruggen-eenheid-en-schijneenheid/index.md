@@ -11,7 +11,6 @@ Vlak na de Eerste Wereldoorlog verscheen het filosofische magnum opus van de Ned
 
 {{< image
 	src="thumb.webp"
-	alt="Carry van Bruggen"
 	caption="Portret van Carry van Bruggen."
 	class="img-left"
 >}}

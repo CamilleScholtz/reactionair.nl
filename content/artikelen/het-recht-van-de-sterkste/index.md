@@ -23,7 +23,6 @@ Het idee om Democratie en Gelijkheid plus Vrijheid te exporteren naar volken die
 
 {{< image
 	src="thumb.webp"
-	alt="The next European war wil start in the Ukraine"
 	caption="“The next European war will start in the Ukraine”, Look Magazine. 14 maart, 1939."
 	class="img-center"
 >}}

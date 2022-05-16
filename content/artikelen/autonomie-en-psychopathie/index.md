@@ -11,7 +11,6 @@ In een artikel eerder gepubliceerd op Reactionair.nl, _Autonomie en consumptie: 
 
 {{< image
 	src="thumb.webp"
-	alt="Patrick Bateman"
 	caption="Schilderij Patrick Bateman, door kevinsbrush."
 	class="img-left"
 >}}

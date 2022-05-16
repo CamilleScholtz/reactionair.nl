@@ -46,7 +46,6 @@ Daarnaast verbaast de stelling me, dat deze visie in het oosten zou hebben gelei
 
 {{< image
 	src="thumb.webp"
-	alt="Sunrise by the Ocean"
 	caption="Sunrise by the Ocean door Vladimir Kush."
 	class="img-left"
 >}}

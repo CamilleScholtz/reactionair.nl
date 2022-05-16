@@ -12,7 +12,6 @@ Waar het bij de Germanen om gaat is dat zij zichzelf foutief hebben gerelativeer
 
 {{< image
 	src="thumb.webp"
-	alt="Kaart van Nederland"
 	caption="Een kaart van Nederland omstreeks de tiende eeuw."
 	class="img-left"
 >}}

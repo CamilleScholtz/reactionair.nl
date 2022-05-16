@@ -22,7 +22,6 @@ Het andere deel van Poppers erfenis betreft zijn visie op de maatschappij. Zijn 
 
 {{< image
 	src="thumb.webp"
-	alt="The paradox of tolerance"
 	caption=""
 	class="img-center"
 >}}

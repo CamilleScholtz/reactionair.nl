@@ -14,7 +14,6 @@ Als reactionair geloof ik niet dat de materiële conditie van de samenleving of 
 
 {{< image
 	src="thumb.webp"
-	alt="Iraanse postzegel"
 	caption="Iraanse postzegel. Een duidelijke combinatie van linkse, revolutionaire esthetiek met islamitische beeldtaal."
 	class="img-left"
 >}}

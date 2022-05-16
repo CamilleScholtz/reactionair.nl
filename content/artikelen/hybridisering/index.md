@@ -21,7 +21,6 @@ Wellicht het zuurste hapje uit de door de globalistische vijandelijke elite list
 
 {{< image
 	src="thumb.webp"
-	alt="Nebuchadnezzar"
 	caption="Nebuchadnezzar door William Blake. Over de legende van Nebukadnezar; een heerser die door overmoed zijn verstand verloor en gereduceerd werd tot dierlijke waanzin en het eten van gras als een dier."
 	class="img-center"
 >}}

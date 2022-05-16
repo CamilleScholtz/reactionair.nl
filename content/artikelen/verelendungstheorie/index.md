@@ -23,7 +23,6 @@ Motto: <i>‘wiskundige toename in getal’</i><br>
 
 {{< image
 	src="thumb.webp"
-	alt="The Ancient of Days"
 	caption="The Ancient of Days van William Blake."
 	class="img-left"
 >}}

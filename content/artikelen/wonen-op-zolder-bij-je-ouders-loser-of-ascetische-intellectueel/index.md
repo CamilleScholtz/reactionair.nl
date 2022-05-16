@@ -27,7 +27,6 @@ Zo’n houding is logisch, wanneer je er overtuigd van bent, dat _‘you only li
 
 {{< image
 	src="thumb.webp"
-	alt="Catherine van Siena"
 	caption="St. Catherine van Siena, door Giovanni Battista Tiepolo."
 	class="img-left"
 >}}

@@ -16,7 +16,6 @@ According to Guenon, whole number is essentialy discontinuous, and this is what 
 
 {{< image
 	src="thumb.webp"
-	alt="Vrijmetselarij en Jodendom"
 	caption="Omslag van het boek Vrijmetselarij en Jodendom."
 	class="img-left"
 >}}

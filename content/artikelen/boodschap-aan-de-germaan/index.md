@@ -23,7 +23,6 @@ Oh Germaan! Ga herbronnen; keer terug naar kuisheid, eer en God. Een regeneratie
 
 {{< image
 	src="thumb.webp"
-	alt="Tipus marroquí a cavall"
 	caption="Tipus marroquí a cavall van Tomàs Moragas"
 	class="img-left"
 >}}

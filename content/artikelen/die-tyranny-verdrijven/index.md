@@ -23,7 +23,6 @@ Motto: <i>‘afwezigheid of zeldzaamheid van overgangsvormen’</i><br>
 
 {{< image
 	src="thumb.webp"
-	alt="The Ancient of Days"
 	caption="The Great Red Dragon and the Woman Clothed in Sun van William Blake."
 	class="img-left"
 >}}

@@ -15,7 +15,6 @@ Laten we het vorige artikel in één enkele zin recapituleren: waarheid is een v
 
 {{< image
 	src="thumb.webp"
-	alt="Vishnu, liggend op de slang Shesha"
 	caption="Vishnu, liggend op de slang Shesha, droomt de wereld."
 	class="img-center"
 >}}

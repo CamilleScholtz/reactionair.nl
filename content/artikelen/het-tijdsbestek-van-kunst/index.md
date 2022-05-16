@@ -18,7 +18,6 @@ De moderne opvatting van tijd staat in contrast met de antieke opvatting van tij
 
 {{< image
 	src="thumb.webp"
-	alt="Een kathedraal"
 	caption=" "
 	class="img-center"
 >}}

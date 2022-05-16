@@ -25,7 +25,6 @@ De evolutietheorie leert dat natuurlijke selectie - epigenetisch ingevoerd, gene
 
 {{< image
 	src="thumb.webp"
-	alt="God oordeelt over Adam"
 	caption="William Blake 's illustratie van God die ordeelt over Adam."
 	class="img-center"
 >}}

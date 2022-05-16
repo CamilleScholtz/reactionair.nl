@@ -11,8 +11,7 @@ De strenge dictie waarmee Enoch Powell zijn publiek toesprak schetst een stem va
 
 {{< image
 	src="thumb.webp"
-	alt="River of Blood"
-	caption="River of Blood 1, van Jack Goresko"
+	caption="River of Blood 1, van Jack Goresko."
 	class="img-center"
 >}}
 

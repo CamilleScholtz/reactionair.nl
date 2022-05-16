@@ -20,7 +20,6 @@ De gangbare waarheidstheorie in het oosten wordt gekenschetst door een oud India
 
 {{< image
 	src="rumi.webp"
-	alt="De parabel van de blinden en de olifant"
 	caption="De parabel van de blinden en de olifant, uit een manuscript met gedichten van Jalāl ad-Dīn Mohammad Rūmī."
 	class="img-left"
 >}}
@@ -36,7 +35,6 @@ Laten we dit nog eens contrasteren met onze westerse waarheidsopvatting, die doo
 
 {{< image
 	src="hermaphrodite.webp"
-	alt="Hermafrodiet"
 	caption="Gravure van hermafrodiet uit een 18e eeuwse versie van het Rosarium philosophorum."
 	class="img-left"
 >}}
@@ -52,7 +50,6 @@ Dit is dan ook de reden waarom de ultieme waarheid in de alchemie geassocieerd w
 
 {{< image
 	src="water.webp"
-	alt="Daoïstische schildering"
 	caption="Daoïstische schildering van de machteloze macht, de krachteloze kracht en de prachteloze pracht van water."
 	class="img-center"
 >}}

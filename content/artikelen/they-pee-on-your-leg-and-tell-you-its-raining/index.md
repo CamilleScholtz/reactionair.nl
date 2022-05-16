@@ -10,7 +10,6 @@ dossiers = ["Woke"]
 
 {{< image
 	src="thumb.webp"
-	alt="Brave New World"
 	caption="Brave New World illustratie door Mirko Rastic."
 	class="img-left"
 >}}

@@ -12,7 +12,6 @@ Het narrenschip is een antieke _meme_ die begonnen is bij Plato. In _Politeia_, 
 
 {{< image
 	src="thumb.webp"
-	alt="Het narrenschip"
 	caption="Het narrenschip. Houtgravure uit 1497."
 	class="img-center"
 >}}

@@ -27,7 +27,6 @@ Leddihn beargumenteerde in detail waarom het nazisme links was. Het volgt de Fra
 
 {{< image
 	src="thumb.webp"
-	alt="Modern Age"
 	caption="Modern Age van Erik Maria Ritter von Kuehnelt-Leddihn."
 	class="img-left"
 >}}

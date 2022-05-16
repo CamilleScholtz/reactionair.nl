@@ -12,7 +12,6 @@ Op 24 februari 2022 viel Rusland Oekraïne met militair geweld binnen en voor mi
 
 {{< image
 	src="thumb.webp"
-	alt="Grande Armée"
 	caption="De terugtocht van de Grande Armée uit Moskou, door Jerzy Kossak."
 	class="img-center"
 >}}

@@ -10,8 +10,8 @@ A.E. Housman schreef nostalgisch over _‘the happy highways where I went / and 
 
 {{< image
 	src="thumb.webp"
-	alt="Wilhelm Furtwängler"
 	caption="Wilhelm Furtwängler die dirigeert."
+	license="Foto van ullstein bild / Getty"
 	class="img-center"
 >}}
 

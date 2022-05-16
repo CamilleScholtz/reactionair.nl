@@ -15,7 +15,6 @@ Waarom is het geldwezen zo begaan met het milieu en het creëren van gelijke kan
 
 {{< image
 	src="thumb.webp"
-	alt="De duivel die aflaten verkoopt"
 	caption="De duivel die aflaten verkoopt, middeleeuws manuscript."
 	class="img-left"
 >}}

@@ -11,7 +11,6 @@ René Guénon schrijft in zijn boek _'Le Règne de la Quantité et les Signes de
 
 {{< image
 	src="thumb.webp"
-	alt="De muntmeester"
 	caption="De muntmeester, middeleeuws graveerwerk."
 	class="img-left"
 >}}

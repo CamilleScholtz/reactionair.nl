@@ -21,7 +21,6 @@ _Economische selectie_: Het sinds de kabinetten Lubbers absoluut dominante econo
 
 {{< image
 	src="thumb.webp"
-	alt="Het eerste boek van Urizen"
 	caption="Illustratie van William Blake uit 'het eerste boek van Urizen'."
 	class="img-left"
 >}}

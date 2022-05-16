@@ -11,7 +11,6 @@ Fatalisme heeft de westerse geest overgenomen. Na het Fukuyamiaanse optimisme va
 
 {{< image
 	src="thumb.webp"
-	alt="Samsara"
 	caption="Muurschildering van het hindoeïstische/boeddhistische concept van Samsara; de cyclische tijd."
 	class="img-center"
 >}}

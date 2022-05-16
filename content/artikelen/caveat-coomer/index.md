@@ -14,7 +14,6 @@ In het kader van _OnlyFans_ moet men de eeuwige wet van de lichtekooi in gedacht
 
 {{< image
 	src="thumb.webp"
-	alt="Abraham von Kiduna ontvangen door de gastheer van een bordeel"
 	caption="Abraham von Kiduna ontvangen door de gastheer van een bordeel, Duitse houtsnede, 1477."
 	class="img-center"
 >}}

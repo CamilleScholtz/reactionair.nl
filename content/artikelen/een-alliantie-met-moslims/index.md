@@ -22,7 +22,6 @@ Op Twitter zijn de contouren van een dergelijke alliantie waarschijnlijk het bes
 
 {{< image
 	src="twitter.webp"
-	alt="Een aantal reactionaire/conservatieve moslims op Twitter"
 	caption="Een aantal reactionaire/conservatieve moslims op Twitter."
 	class="img-center"
 >}}
@@ -38,7 +37,6 @@ In de Nederlandse politieke context zijn alle politieke partijen, op _FVD_ en _S
 
 {{< image
 	src="thumb.webp"
-	alt="Moslim en christen spelen samen de oed"
 	caption="Moslim en christen spelen samen de oed, schilderij uit de 13e eeuw."
 	class="img-left"
 >}}

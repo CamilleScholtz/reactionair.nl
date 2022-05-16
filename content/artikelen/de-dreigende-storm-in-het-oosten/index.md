@@ -10,7 +10,6 @@ dossiers = ["Oekraïne"]
 
 {{< image
 	src="thumb.webp"
-	alt="Viktor Orbán"
 	caption="Viktor Orbán; tekening door Siegfried Woldhek."
 	class="img-left"
 >}}

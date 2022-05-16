@@ -43,7 +43,6 @@ Waar de Sadduceeën alleen de Schrift volgden (‘sola scriptura’), baseerden 
 
 {{< image
 	src="thumb.webp"
-	alt="Tempelrol"
 	caption="Een deel van de Tempelrol die gevonden is in Qumran Grot 11."
 	class="img-center"
 >}}

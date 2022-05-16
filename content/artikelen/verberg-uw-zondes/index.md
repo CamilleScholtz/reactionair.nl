@@ -11,7 +11,6 @@ anchor   = "Top"
 
 {{< image
 	src="thumb.webp"
-	alt="Iblis"
 	caption="Iblis, uit Kitāb al-mawālīd."
 	class="img-left"
 >}}

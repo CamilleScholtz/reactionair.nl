@@ -14,7 +14,6 @@ Het is de nacht van 4 op 5 augustus, 1789. De revolutionaire Franse Nationale Ve
 
 {{< image
 	src="thumb.webp"
-	alt="Le Peuple sous l’ancien Régime"
 	caption="Le Peuple sous l’ancien Régime, ‘Het volk onder het Ancien Régime’: Franse spotprent uit 1815 met Lodewijk XVI, een bisschop en een edelman op de rug van een geketende en geblinddoekte man die ‘het volk’ verbeeldt."
 	class="img-left"
 >}}

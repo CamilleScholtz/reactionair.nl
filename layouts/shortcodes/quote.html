@@ -11,5 +11,5 @@
 {{ end }}
 
 <blockquote class="blockquote{{ if .Get "aside" }} hide{{ end }}">
-	<p><i>“{{ .Get "text" }}”</i> - {{ .Get "author" }}</p>
+	<p><i>“{{ .Get "text" | safeHTML }}”</i> - {{ .Get "author" | safeHTML }}</p>
 </blockquote>

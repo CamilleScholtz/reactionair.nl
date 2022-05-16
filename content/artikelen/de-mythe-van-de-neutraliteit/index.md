@@ -17,7 +17,6 @@ En,
 
 {{< image
 	src="thumb.webp"
-	alt="De parabel der blinden"
 	caption="De parabel der blinden van Pieter Bruegel de Oude. Gebaseerd op Mattheüs 15:1-20."
 	class="img-center"
 >}}
