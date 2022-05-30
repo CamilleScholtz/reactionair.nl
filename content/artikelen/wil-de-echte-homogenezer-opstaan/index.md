@@ -10,7 +10,6 @@ themas   = "Politiek & Actualiteit"
 Vandaag kwam naar buiten dat _D66_ en de _VVD_, samen met _PvdA_, _GroenLinks_, _SP_ en de _PvdD_ en wetsvoorstel zullen indienen die homogenezing illegaal maakt op straffe van hoge boetes, gevangenisstraf en potentieel ontheffing uit een ambt.
 
 {{< image
-	src="thumb.webp"
 	caption="Middeleeuwse arts die de schedel van een patiënt opensnijdt met een hamer en een mes. Illustratie uit een 14e eeuws Frans medisch manuscript van Guy van Pavia."
 >}}
 

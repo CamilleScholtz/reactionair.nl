@@ -1,9 +1,10 @@
 +++
-title    = "Tijd opgeslokt door ruimte"
-subtitle = "De eschatologie van René Guénon"
-auteurs  = ["Camille Meloen"]
-date     = "2021-11-05"
-themas   = "Religie & Metafysica"
+title     = "Tijd opgeslokt door ruimte"
+subtitle  = "De eschatologie van René Guénon"
+auteurs   = ["Camille Meloen"]
+date      = "2021-11-05"
+themas    = "Religie & Metafysica"
+geciteerd = ["René Guénon", "Robert Lemm", "Oswald Spengler"]
 +++
 
 
@@ -15,7 +16,6 @@ Tijd veranderd in ruimte, dit is de titel van een hoofdstuk 23 in René Guénon'
 Lemm haalde Spengler aan over dit onderwerp. Spengler identificeert de _Faustiaanse beschaving_ — dat wil zeggen, het resultaat van de cultuur van West-Europa — als bezeten met het concept van _oneindige ruimte_. Deze obsessie komt volgens Spengler tot uiting in de spitsen en bogen van de gotische kathedraal, die naar het oneindige streven,[^1] het gebruik van perspectief in de schilderkunst, wat het oog leidt naar het verdwijnpunt, het oneindig kleine, terwijl middeleeuwse schilderijen zonder perspectief waren.
 
 {{< image
-	src="thumb.webp"
 	caption="Flammarion's houtgravure. De missionaris steekt zijn hoofd buiten de Magische koepel, in de Faustische oneindige ruimte?"
 >}}
 

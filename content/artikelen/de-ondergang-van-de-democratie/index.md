@@ -1,9 +1,10 @@
 +++
-title    = "De ondergang van de democratie?"
-subtitle = "‘Degeneratie van het midden’ na revolutie, tirannie en terreur"
-auteurs  = ["Sanura"]
-date     = "2022-05-14"
-themas   = "Politiek & Actualiteit"
+title     = "De ondergang van de democratie?"
+subtitle  = "‘Degeneratie van het midden’ na revolutie, tirannie en terreur"
+auteurs   = ["Sanura"]
+date      = "2022-05-14"
+themas    = "Politiek & Actualiteit"
+geciteerd = ["Erik von Kuehnelt-Leddihn", "Aristoteles", "Plato", "Pythagoras", "Socrates"]
 +++
 
 
@@ -12,7 +13,6 @@ Liberale westerse democratie houdt zichzelf niet per definitie in stand. Revolut
 Socrates, Plato en Aristoteles geloofden in een historische cyclus. Monarchie (autocratie) zou degenereren tot aristocratie (oligarchie) wat weer gevolgd zou worden door democratie, en dan eindigen met tirannie.[^1]
 
 {{< image
-	src="thumb.webp"
 	caption="De koers van de vernietiging van het Rijk door Cole Thomas."
 >}}
 

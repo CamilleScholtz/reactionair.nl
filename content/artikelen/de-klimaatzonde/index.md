@@ -14,7 +14,6 @@ Rabobank gaat transacties koppelen aan CO2-uitstoot.[^1] Wie voortaan een betali
 Waarom is het geldwezen zo begaan met het milieu en het creëren van gelijke kansen? Het antwoord is heel eenvoudig: het is niet zo. Banken zijn geen wereldverbeteraars. Om te herleiden waar deze schijnbare maatschappelijke bevlogenheid vandaan komt, moeten we terug naar 1972. In dat jaar publiceerde de Club van Rome, een collectief van wetenschappers haar verontrustende rapport "Grenzen aan de groei" Waarin de eerste decennia na de Tweede Wereldoorlog de negatieve aspecten van bevolkingsgroei, industrialisering en welvaartstoename nauwelijks nog aan bod waren gekomen, deed dit rapport donkere wolken opdoemen boven de economisch zo voorspoedige jaren 60 en begin jaren 70. Olievoorraden zouden binnen 30 jaar zijn uitgeput, explosieve bevolkingstoename in de derde wereld zou malthusiaanse catastrofes als gevolg hebben.[^3] En bovenal: het ongebreidelde kapitalisme had een vernietigende invloed op het milieu. Op dat moment ging ook bij het grootkapitaal de knop om. Ze waren zich er snel van bewust dat men het schaap beter kan scheren dan villen. Als het milieu gered moest worden, moest daar flink aan verdiend worden.
 
 {{< image
-	src="thumb.webp"
 	caption="De duivel die aflaten verkoopt, middeleeuws manuscript."
 >}}
 

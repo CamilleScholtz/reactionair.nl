@@ -1,14 +1,14 @@
 +++
-title    = "Wegbereider van de contrarevolutie"
-subtitle = "Over Louis de Bonald"
-auteurs  = ["J. Floressas des Esseintes"]
-date     = "2021-10-11"
-themas   = "Recensie & Biografie"
+title     = "Wegbereider van de contrarevolutie"
+subtitle  = "Over Louis de Bonald"
+auteurs   = ["J. Floressas des Esseintes"]
+date      = "2021-10-11"
+themas    = "Recensie & Biografie"
+geciteerd = ["Michel Foucault"]
 +++
 
 
 {{< image
-	src="thumb.webp"
 	caption="Portrait de Louis de Bonald door François Pascal Simon Gérard."
 >}}
 

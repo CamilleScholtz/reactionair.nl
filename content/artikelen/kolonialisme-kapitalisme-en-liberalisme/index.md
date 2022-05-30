@@ -18,7 +18,6 @@ Dit is iets wat men wel vaker ziet in de hedendaagse Westerse politiek. De ene k
 
 
 {{< image
-	src="thumb.webp"
 	caption="Amerikaanse cartoon van John Bull als een imperialistische octopus."
 >}}
 

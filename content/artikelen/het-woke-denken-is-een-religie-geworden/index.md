@@ -11,7 +11,6 @@ dossiers = ["Woke"]
 U heeft waarschijnlijk wel een krantenkop of twee gezien met een titel als _“Het woke denken is een religie geworden!”_,[^1] _“Eerst waren er de christenen, toen de moslims en nu de woke-beweging!”_,[^2] enzovoort. Niet alleen linkse mensen en journalisten maken deze vergelijkingen en analogieën, maar ik heb het zelfs vrij rechtse mensen zien doen. Wat houdt deze vergelijking eigenlijk in? Laten we daar eens over nadenken.
 
 {{< image
-	src="thumb.webp"
 	caption=" "
 >}}
 

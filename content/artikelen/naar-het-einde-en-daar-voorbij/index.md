@@ -1,9 +1,10 @@
 +++
-title    = "Naar het einde en daar voorbij!"
-subtitle = "Gedachten over het Onbegrensde"
-auteurs  = ["Camille Meloen"]
-date     = "2021-10-21"
-themas   = "Religie & Metafysica"
+title     = "Naar het einde en daar voorbij!"
+subtitle  = "Gedachten over het Onbegrensde"
+auteurs   = ["Camille Meloen"]
+date      = "2021-10-21"
+themas    = "Religie & Metafysica"
+geciteerd = ["René Guénon", "Martin Heidegger", "Martin Lings"]
 +++
 
 
@@ -26,7 +27,6 @@ Elke vorm van “oneindigheid” of “onbegrensdheid” die begrensd is, is nie
 ### Paradox van almacht
 
 {{< image
-	src="thumb.webp"
 	caption="Vishvarupa, een iconografische vorm en theofanie van de Hindoegod Vishnu dat zijn oneindigheid en alomtegenwoordigheid symboliseert."
 >}}
 

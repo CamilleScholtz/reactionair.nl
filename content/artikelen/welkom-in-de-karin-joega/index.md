@@ -1,10 +1,11 @@
 +++
-title    = "Welkom in de Karin joega"
-subtitle = "Veiligheid voor alles"
-auteurs  = ["De Melancholieke Nar"]
-date     = "2021-12-12"
-themas   = "Cultuur & Maatschappij"
-anchor   = "Top"
+title     = "Welkom in de Karin joega"
+subtitle  = "Veiligheid voor alles"
+auteurs   = ["De Melancholieke Nar"]
+date      = "2021-12-12"
+themas    = "Cultuur & Maatschappij"
+geciteerd = ["Friedrich Nietzsche"]
+anchor    = "Top"
 +++
 
 
@@ -13,7 +14,6 @@ anchor   = "Top"
 Eergisteren nog leefden wij in de middeleeuwen. De mens wilde vrij zijn, hij wilde genieten, hij wilde leven,[^1] maar dat mocht niet van dominee of pastoor. Genot is zondig, zeiden ze, richt je op het eeuwige in plaats van het vluchtige. De mens was onderdrukt. Maar sinds wij vanaf de jaren '60 massaal van ons geloof zijn gevallen en geestelijke leiders ernstig aan gezag hebben ingeboet, hebben we daar geen boodschap meer aan. De bijbel is een gedateerd sprookjesboek en de hemel een fabeltje om het volk dom te houden en te verzoenen met hun ellende in het hier en nu. Je hebt maar één leven, dus moet je er het maximale uithalen. Genot was voortaan het hoogste streven.
 
 {{< image
-	src="thumb.webp"
 	caption="Karin Joega"
 >}}
 

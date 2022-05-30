@@ -1,9 +1,10 @@
 +++
-title    = "Het Erik Enigma"
-subtitle = "Extreemrechtse liberaal"
-auteurs  = ["Sanura"]
-date     = "2021-10-09"
-themas   = "Recensie & Biografie"
+title     = "Het Erik Enigma"
+subtitle  = "Extreemrechtse liberaal"
+auteurs   = ["Sanura"]
+date      = "2021-10-09"
+themas    = "Recensie & Biografie"
+geciteerd = ["Erik von Kuehnelt-Leddihn"]
 +++
 
 
@@ -26,7 +27,6 @@ Leddihn had vooral in zijn vroege jaren een liefde voor het correct gebruiken va
 Leddihn beargumenteerde in detail waarom het nazisme links was. Het volgt de Franse revolutie, centralisatie, materialisme, majoritarisme, en volks egalitarisme.[^2] Deze argumenten werden later ondersteund door John Lukacs, Stanley G. Payne en Hermann Beck. Hij bevestigde het onderscheid tussen nazisme en fascisme maar benadrukte dat ook het fascisme veel socialistische en antiklerikale invloeden hield. Hij was positiever over het falangisme en nog meer over de carlisten en Franco.
 
 {{< image
-	src="thumb.webp"
 	caption="Modern Age van Erik Maria Ritter von Kuehnelt-Leddihn."
 >}}
 

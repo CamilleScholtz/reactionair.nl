@@ -1,11 +1,12 @@
 +++
-title    = "Een alliantie met moslims!?"
-subtitle = "Over reactionairen en moslims"
-question = "Denkt u dat een dergelijke alliantie mogelijk is?"
-auteurs  = ["Vrederijk"]
-date     = "2021-10-13"
-themas   = "Politiek & Actualiteit"
-dossiers = ["Islam", "Conservatieve Alliantie"]
+title     = "Een alliantie met moslims!?"
+subtitle  = "Over reactionairen en moslims"
+question  = "Denkt u dat een dergelijke alliantie mogelijk is?"
+auteurs   = ["Vrederijk"]
+date      = "2021-10-13"
+themas    = "Politiek & Actualiteit"
+geciteerd = ["Thierry Baudet"]
+dossiers  = ["Islam", "Conservatieve Alliantie"]
 +++
 
 
@@ -35,7 +36,6 @@ De grote tegenstelling van onze tijd is die van de materialistische en de spirit
 In de Nederlandse politieke context zijn alle politieke partijen, op _FVD_ en _SGP_ na, ten diepste liberaal. Christendemocratie, neoliberalisme, sociaal-democratie: uiteindelijk is het de afwijzing van elke vorm van immaterieel dogma wat deze partijen bindt, en waarvan zij uiting geven in hun streven om _“iedereen zichzelf”_ te laten zijn. De verwrongen vorm van _“vrijheid”_ die liberalen nastreven, laat geen ruimte voor andersdenkenden, geen ruimte voor niet-liberalen. Daarom mag het Bijzonder Onderwijs alleen nog maar bestaan, wanneer het niet meer Bijzonder is, maar _“gewoon liberaal”_. Christenen mogen christen zijn, zolang ze maar liberaal zijn in hun opvattingen en in de opvoeding van hun kinderen. Hetzelfde geldt voor moslims. In het recente verleden, toen de links-liberalen van de _PvdA_ nog een grotere vinger in de pap hadden, werden moslims nog enigszins uit de liberale wind gehouden, omdat zij door hen gezien werden als onbeschaafde kinderen, die je hun achterlijke ideeën over zedigheid en gezin niet kon aanrekenen omdat zij (nog) onvolwaardig waren. Nu een deel van de moslims na drie of vier generaties nog steeds aan deze ideeën vasthoudt, en de sociaal-democraten hebben plaatsgemaakt voor de meer hardcore liberalen van de _VVD_ en _D66_, zal de ijzige wind van het koude liberalisme ook die gemeenschap op een directere manier raken. In het publieke debat zal de hypocriete opiniemaker soms de moslims nog negeren uit angst voor represailles uit islamistische of politiek correcte hoek, maar de teneur is duidelijk in de behandeling van moskeeën, omroepen en islamitische scholen: de Islam moet en zal óók liberaal worden. Dat de liberalen de reactionairen niet verdragen behoeft geen verdere toelichting dan dat het woord _“reactionair”_ zo’n beetje de grootste politieke belediging is die een liberaal kan uiten.  
 
 {{< image
-	src="thumb.webp"
 	caption="Moslim en christen spelen samen de oed, schilderij uit de 13e eeuw."
 >}}
 

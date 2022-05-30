@@ -1,18 +1,18 @@
 +++
-title    = "Honey Pot en de definitie van “rechts”"
-subtitle = "Afscheid van een achterhaald begrip"
-question = "Wat is volgens u een passende term om het onderscheid te duiden?"
-auteurs  = ["Vrederijk"]
-date     = "2021-10-28"
-themas   = "Politiek & Actualiteit"
-dossiers = ["Woke"]
+title     = "Honey Pot en de definitie van “rechts”"
+subtitle  = "Afscheid van een achterhaald begrip"
+question  = "Wat is volgens u een passende term om het onderscheid te duiden?"
+auteurs   = ["Vrederijk"]
+date      = "2021-10-28"
+themas    = "Politiek & Actualiteit"
+geciteerd = ["Thierry Baudet", "Sid Lukkassen"]
+dossiers  = ["Woke"]
 +++
 
 
 Gisteren heb ik de nieuwste film van kunstcollectief _KIRAC_ gezien, _Honey Pot_. Dit is een verfilming van een gezamenlijk conceptueel-kunstinitiatief met Jini van Rooijen, een 22 jarige UvA studente met een _OnlyFans_ porno-kanaal. De bedoeling van dit initiatief, zo vertelde Jini zelf op camera,[^1] is om seks te hebben met een _“rechts”_ persoon om _“de kloof”_ (tussen links en rechts) te dichten.
 
 {{< image
-	src="thumb.webp"
 	caption="Een still uit Honey Pot."
 >}}
 

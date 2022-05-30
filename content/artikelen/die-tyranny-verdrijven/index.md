@@ -1,9 +1,10 @@
 +++
-title    = "‘Die tyranny verdrijven’"
-subtitle = "De Futuro-Fundamentalistische Revolutie, deel 6"
-auteurs  = ["Alexander Wolfheze"]
-date     = "2022-01-26"
-themas   = "Cultuur & Maatschappij"
+title     = "‘Die tyranny verdrijven’"
+subtitle  = "De Futuro-Fundamentalistische Revolutie, deel 6"
+auteurs   = ["Alexander Wolfheze"]
+date      = "2022-01-26"
+themas    = "Cultuur & Maatschappij"
+geciteerd = ["Charles Darwin"]
 +++
 
 
@@ -22,7 +23,6 @@ Motto: <i>‘afwezigheid of zeldzaamheid van overgangsvormen’</i><br>
 </blockquote>
 
 {{< image
-	src="thumb.webp"
 	caption="The Great Red Dragon and the Woman Clothed in Sun van William Blake."
 >}}
 

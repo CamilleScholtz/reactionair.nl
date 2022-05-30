@@ -1,11 +1,12 @@
 +++
-title    = "Reactionair, om te beginnen"
-subtitle = "Fragment uit een boek in voorbereiding"
-auteurs  = ["Robert Lemm"]
-date     = "2021-11-29"
-themas   = "Recensie & Biografie"
-dossiers = ["Christendom"]
-anchor   = "Top"
+title     = "Reactionair, om te beginnen"
+subtitle  = "Fragment uit een boek in voorbereiding"
+auteurs   = ["Robert Lemm"]
+date      = "2021-11-29"
+themas    = "Recensie & Biografie"
+geciteerd = ["Thomas van Aquino", "Nicolás Gómez Dávila"]
+dossiers  = ["Christendom"]
+anchor    = "Top"
 +++
 
 
@@ -14,7 +15,6 @@ anchor   = "Top"
 Aldus de Colombiaanse filosoof Nicolás Gómez Dávila (1913-1994). Wie het christendom verlaat, belandt in de duisternis, aldus de Spaanse filosoof Juan Donoso Cortés in zijn boek _Katholicisme, liberalisme, socialisme_ (1850). Dat is het standpunt van de reactionair. En het is van toepassing, volgens de katholieke traditionalist Gómez Dávila, op de weldenkenden onder de schrijvers en filosofen uit Europa en uit alle delen van de planeet waar de Europese beschaving via het christendom ingang heeft gevonden.
 
 {{< image
-	src="thumb.webp"
 	caption="Nicolás Gómez Dávila."
 >}}
 

@@ -1,9 +1,10 @@
 +++
-title    = "Een soort van politiek en filosofisch woordenboek"
-subtitle = "De l'Esprit des Lois 2.0, deel 1"
-auteurs  = ["Sanura"]
-date     = "2022-04-16"
-themas   = "Politiek & Actualiteit"
+title     = "Een soort van politiek en filosofisch woordenboek"
+subtitle  = "De l'Esprit des Lois 2.0, deel 1"
+auteurs   = ["Sanura"]
+date      = "2022-04-16"
+themas    = "Politiek & Actualiteit"
+geciteerd = ["Thomas van Aquino", "Erik von Kuehnelt-Leddihn", "Plato"]
 +++
 
 

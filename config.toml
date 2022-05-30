@@ -12,9 +12,10 @@ paginatePath = "pagina"
 removePathAccents = true
 
 [taxonomies]
-	auteur  = "auteurs"
-	dossier = "dossiers"
-	thema   = "themas"
+	auteur    = "auteurs"
+	dossier   = "dossiers"
+	thema     = "themas"
+	geciteerd = "geciteerd"
 
 [markup]
 	[markup.goldmark]
@@ -23,10 +24,6 @@ removePathAccents = true
 
 [imaging]
 	resampleFilter = "Lanczos"
-
-[privacy]
-	[privacy.googleAnalytics]
-		anonymizeIP = true
 
 [minify]
 	minifyOutput = true

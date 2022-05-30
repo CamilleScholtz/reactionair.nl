@@ -13,7 +13,6 @@ dossiers = ["Christendom"]
 Toen onze Heer de twee blinden heelde, zei Hij tegen hen deze openbaring van Zijn Kracht geheim te houden. Hetzelfde zien we met de heilige Nicolaas, die de drie maagden redde van de hoererij, maar niet wilde dat deze goede daad bekend werd. Wat was de reden dat ze hun _‘virtus’_ (macht, deugd, mannelijkheid) onbekend wilden houden? Zou het niet goed zijn als hun daden bekend werden, opdat de volkeren zich door de zichtbare gratie van God weer naar Hem toe zouden keren? Nu, hun werken werden inderdaad uiteindelijk bekend. Sint Nicolaas had tegen de vader van de bijna-prostituees, toen hij er achter kwam dat het Nicolaas was die hem het geld had gegeven om zijn dochters uit de prostitutie te houden, gezegd om het verhaal alleen te vertellen na zijn dood. En hoewel de Heer de wederzienden gebood om niet van Zijn helende krachten te spreken, wist Hij al van tevoren dat zij dit niet zouden doen, Zijn gebod overtredende (wellicht de Zondeval weerspiegelende).
 
 {{< image
-	src="thumb.webp"
 	caption="Sint Nicolaas en de drie dochters van de koopman."
 >}}
 

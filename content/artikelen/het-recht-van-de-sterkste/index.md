@@ -1,10 +1,11 @@
 +++
-title    = "Het recht van de sterkste"
-subtitle = "Over NAVO, Rusland en Oekraïne"
-auteurs  = ["Robert Lemm"]
-date     = "2022-03-11"
-themas   = "Politiek & Actualiteit"
-dossiers = ["Oekraïne"]
+title     = "Het recht van de sterkste"
+subtitle  = "Over NAVO, Rusland en Oekraïne"
+auteurs   = ["Robert Lemm"]
+date      = "2022-03-11"
+themas    = "Politiek & Actualiteit"
+geciteerd = ["Thierry Baudet"]
+dossiers  = ["Oekraïne"]
 +++
 
 _“Poetin is niet degene die aanvalt, maar degene die aangevallen wordt”_, verklaarde de Franse presidentskandidaat Éric Zemmour. Daarop werd hij in een spotprent meteen met Hitler vergeleken. De vergelijking is veelzeggend. Voor heel Europa, onder aanvoering van Amerika, is de Russische president de kwintessens van het kwaad, en daarom verdient hij als oorlogscrimineel berecht te worden door het Internationale Strafhof te Den Haag. De uitspraak van Zemmour kwam erop neer dat Amerika, met bondgenoot _EU_, Poetin al tijden lang heeft zwartgemaakt, geprovoceerd, in een hoek gedreven, met als gevolg de ongelukkige invasie van Oekraïne.
@@ -22,7 +23,6 @@ Na de bezetting van Irak kwamen die vreselijke wapens nooit tevoorschijn. Maar I
 Het idee om Democratie en Gelijkheid plus Vrijheid te exporteren naar volken die daar geen behoefte aan hebben, is niet erg gelukkig, en al helemaal niet wanneer dat met agressie gepaard gaat. Het idee van Brussel om zich in te laten met Oekraïne is al even ongelukkig. Wat hadden we daar te zoeken? Een van de meest corrupte landen ter wereld. De conservatieve liberaal Bolkenstein (_VVD_) vond een associatieverdrag met dat land zeer onverstandig. Binnen de al gevormde _EU_ waren genoeg problemen, met name in sommige lidstaten in het oosten, voormalige landen van het _Warschau Pact_.
 
 {{< image
-	src="thumb.webp"
 	caption="“The next European war will start in the Ukraine”, Look Magazine. 14 maart, 1939."
 >}}
 

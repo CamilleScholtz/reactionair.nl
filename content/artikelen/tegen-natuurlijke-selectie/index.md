@@ -1,9 +1,10 @@
 +++
-title    = "Tegen-natuurlijke selectie"
-subtitle = "De Futuro-Fundamentalistische Revolutie, deel 2"
-auteurs  = ["Alexander Wolfheze"]
-date     = "2021-12-28"
-themas   = "Cultuur & Maatschappij"
+title     = "Tegen-natuurlijke selectie"
+subtitle  = "De Futuro-Fundamentalistische Revolutie, deel 2"
+auteurs   = ["Alexander Wolfheze"]
+date      = "2021-12-28"
+themas    = "Cultuur & Maatschappij"
+geciteerd = ["Nicolás Gómez Dávila"]
 +++
 
 
@@ -24,7 +25,6 @@ Motto: <i>‘snelle verandering van wezens buiten de natuurstaat’</i><br>
 De evolutietheorie leert dat natuurlijke selectie - epigenetisch ingevoerd, genetisch gecodeerd en fenotypisch uitgedrukt - wordt bepaald door omgevingsfactoren: in de loop van de tijd ontstaan in specifieke - biologisch en aardrijkskundig definieerbare - ‘leefomgevingen’ specifieke ‘soorten’. Fysieke kenmerken worden daarbij steeds in de eerste plaats functioneel gedacht: zij worden teruggevoerd op ‘aanpassingen’ aan de natuurlijke leefomgeving: specifieke uitkomsten van natuurlijke selectie worden geacht te resulteren in een beter functioneren in specifieke ecologische niches. Het sociaal-darwinisme breidt de toepassing van deze evolutietheorie uit door te stellen dat niet alleen biologische en aardrijkskundige omgevingsfactoren, maar ook economische en sociale structuren kunnen worden opgevat als ‘natuurlijk’: ‘onzichtbare hand’ mechanismen van ‘marktwerking’ worden ‘natuurlijk’ opgevat en daarmee projecteerbaar op economische en sociale verhoudingen (‘kapitalistische concurrentie’, ‘seksuele marktwerking’). _Wenselijke_ culturele ontwikkelingen kunnen zo worden gepresenteerd als _onvermijdelijke_ natuurlijke ontwikkelingen. Via het sociaal-darwinisme - al dan niet expliciet benoemd - levert de evolutietheorie dus een als ‘objectief’ (namelijk ‘wetenschappelijk’) gepresenteerde rechtvaardiging voor de machtspolitieke ‘evolutiepraktijk’ van bepaalde (belangen)groepen. De evolutietheorie en het sociaal-darwinisme zijn uiteindelijk echter niets anders dan in bepaalde historische fases voor bepaalde (belangen)groepen nuttige ‘narratieven’.
 
 {{< image
-	src="thumb.webp"
 	caption="William Blake 's illustratie van God die ordeelt over Adam."
 >}}
 

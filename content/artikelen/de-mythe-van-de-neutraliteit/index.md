@@ -1,9 +1,10 @@
 +++
-title    = "De mythe van de neutraliteit"
-subtitle = "En de blindheid van de liberalen"
-auteurs  = ["Camille Meloen"]
-date     = "2021-10-06"
-themas   = "Politiek & Actualiteit"
+title     = "De mythe van de neutraliteit"
+subtitle  = "En de blindheid van de liberalen"
+auteurs   = ["Camille Meloen"]
+date      = "2021-10-06"
+themas    = "Politiek & Actualiteit"
+geciteerd = ["G. K. Chesterton", "Karl Popper"]
 +++
 
 
@@ -16,7 +17,6 @@ En,
 >... wetenschappelijk verantwoorde lesprogramma's met een objectief positief effect op de maatschappij ten behoeve van het algemene belang van emancipatie. Neutraal dus.[^2]
 
 {{< image
-	src="thumb.webp"
 	caption="De parabel der blinden van Pieter Bruegel de Oude. Gebaseerd op Mattheüs 15:1-20."
 >}}
 

@@ -1,10 +1,11 @@
 +++
-title    = "Mijmeringen over de Metaverse"
-subtitle = ""
-auteurs  = ["Camille Meloen"]
-date     = "2022-01-20"
-themas   = "Politiek & Maatschappij"
-draft    = true
+title     = "Mijmeringen over de Metaverse"
+subtitle  = ""
+auteurs   = ["Camille Meloen"]
+date      = "2022-01-20"
+themas    = "Politiek & Maatschappij"
+geciteerd = ["René Guénon"]
+draft     = true
 +++
 
 

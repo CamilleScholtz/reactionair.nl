@@ -16,7 +16,6 @@ _GeenStijl_, _TPO_, Geerten Waling, Afshin Ellian, Wierd Duk, Roderick Veelo. Ik
 _Woke_, of zoals we in eerdere artikelen hebben besproken, de meer passende term _progressief liberalisme_, is eenvoudigweg de herinterpretatie van de waarden van het liberalisme, waarden als gelijkheid en _vrijheid_. Verder maakt _woke_ gebruik van methoden die hun wortels hebben in het liberalisme, zoals de kritische theorie, een benadering van sociale filosofie met als doel _“mensen te bevrijden uit de omstandigheden die hen tot slaaf maken”_.[^1]
 
 {{< image
-	src="thumb.webp"
 	caption="10 keer dat woke ECHT TE ver ging! Nummer 7 zal je niet geloven!"
 >}}
 

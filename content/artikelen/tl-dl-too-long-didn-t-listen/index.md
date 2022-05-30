@@ -1,9 +1,10 @@
 +++
-title    = "TL;DL: too long, didn’t listen"
-subtitle = "De TikTok-isering van het debat"
-auteurs  = ["‘Het Dorp’ Genieter"]
-date     = "2022-03-02"
-themas   = "Klikaas"
+title     = "TL;DL: too long, didn’t listen"
+subtitle  = "De TikTok-isering van het debat"
+auteurs   = ["‘Het Dorp’ Genieter"]
+date      = "2022-03-02"
+themas    = "Klikaas"
+geciteerd = ["Thierry Baudet"]
 +++
 
 

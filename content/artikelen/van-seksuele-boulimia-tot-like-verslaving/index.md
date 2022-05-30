@@ -8,7 +8,6 @@ themas   = "Cultuur & Maatschappij"
 
 
 {{< image
-	src="thumb.webp"
 	caption="Sex Addict, tekening van Patrick Jannin."
 >}}
 

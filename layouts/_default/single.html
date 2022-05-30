@@ -12,8 +12,18 @@
 		</div>
 	</aside>
 
-	<article>
+	<article>	
 		{{ .Content }}
+
+		{{ if isset .Params "geciteerd" }}
+			<div class="cited">
+				<p>Aangehaald in dit artikel:</p>
+
+				{{ range .Params.geciteerd }}
+					<a href="/geciteerd/{{ urlize . }}">{{ . }}</a>
+				{{ end }}
+			</div>
+		{{ end }}
 	</article>
 
 	{{ if isset .Params "dossiers" }}

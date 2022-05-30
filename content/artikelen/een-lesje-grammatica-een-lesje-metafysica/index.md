@@ -1,9 +1,10 @@
 +++
-title    = "Een lesje grammatica, een lesje metafysica"
-subtitle = "Waarom het streven naar objectiviteit een doodlopend pad is, deel 2"
-auteurs  = ["De Melancholieke Nar"]
-date     = "2022-02-01"
-themas   = "Religie & Metafysica"
+title     = "Een lesje grammatica, een lesje metafysica"
+subtitle  = "Waarom het streven naar objectiviteit een doodlopend pad is, deel 2"
+auteurs   = ["De Melancholieke Nar"]
+date      = "2022-02-01"
+themas    = "Religie & Metafysica"
+geciteerd = ["Pythagoras"]
 +++
 
 
@@ -14,7 +15,6 @@ _Dit essay maakt deel uit van de essay-serie 'Waarom het streven naar objectivit
 Laten we het vorige artikel in één enkele zin recapituleren: waarheid is een verhouding tussen subject en object, waarbij in het westen de nadruk van oudsher op het object wordt gelegd en in het oosten op het subject. Maar wat behelst deze hele dichotomie tussen subject en object? Wat is een subject en wat is een object? 
 
 {{< image
-	src="thumb.webp"
 	caption="Vishnu, liggend op de slang Shesha, droomt de wereld."
 >}}
 

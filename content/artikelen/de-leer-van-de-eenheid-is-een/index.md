@@ -1,10 +1,10 @@
 +++
-title    = "De leer van de Eenheid is één"
-subtitle = "al-Tawhīdu wāhidun"
-auteurs  = ["Camille Meloen"]
-date     = "2022-05-02"
-themas   = "Religie & Metafysica"
-dossiers = ["Islam"]
+title     = "De leer van de Eenheid is één"
+subtitle  = "al-Tawhīdu wāhidun"
+auteurs   = ["Camille Meloen"]
+date      = "2022-05-02"
+themas    = "Religie & Metafysica"
+geciteerd = ["René Guénon"]
 +++
 
 

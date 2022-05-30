@@ -1,9 +1,10 @@
 +++
-title    = "Domesticering"
-subtitle = "De Futuro-Fundamentalistische Revolutie, deel 3"
-auteurs  = ["Alexander Wolfheze"]
-date     = "2022-01-02"
-themas   = "Cultuur & Maatschappij"
+title     = "Domesticering"
+subtitle  = "De Futuro-Fundamentalistische Revolutie, deel 3"
+auteurs   = ["Alexander Wolfheze"]
+date      = "2022-01-02"
+themas    = "Cultuur & Maatschappij"
+geciteerd = ["Thierry Baudet", "Carl Schmitt"]
 +++
 
 
@@ -20,7 +21,6 @@ Motto: <i>‘het gewennen aan het klimaat’</i><br>
 _Economische selectie_: Het sinds de kabinetten Lubbers absoluut dominante economische model van het neoliberalisme, sluit psychologisch goed aan bij de sterk individualistische Nederlandse volksaard en de ‘calvinistische’ Nederlandse arbeidsethiek: het staat theoretisch voor handhaving van een vrije markt en vrije handel, bescherming van privé-bezit en bevordering van kapitaalaccumulatie. Dit zijn, in theorie, de oude randvoorwaarden van het op ‘protestantse ethiek’ gebaseerde ‘klassieke kapitalisme’, waarbinnen iedere burger de vruchten kan eten van zijn eigen harde werk, individuele initiatief en innoverende ondernemerschap. In de praktijk zijn de uitkomsten van het neoliberalisme echter heel anders. De overheid heeft door het slopen van basale arbeidsrechten, het afdwingen van permanente loonmatiging, het verhogen van de collectieve lastendruk en het toelaten van massale arbeidsimmigratie de positie van de Nederlandse arbeider zozeer ondermijnd dat niemand in Nederland nog rijk wordt van hard werk. Onder het neoliberale regime is loonarbeid in Nederland nu alleen nog voor _losers_. Tegelijk is de regel- en belastingdruk op zelfstandigen en ondernemers in de vitale MKB-sector zodanig vergroot dat noch initiatief noch ondernemerschap lonen, tenzij men terugvalt op de grijze en zwarte sectoren. Het zijn vooral de veelal met ruimhartige startsubsidies en buitenlands kapitaal begonnen, vaak voor witwas-doeleinden misbruikte en frequent met informeel beloonde familie bemande ‘etnische minderheid’ ondernemingen die zich goed kunnen handhaven in het oerwoud van woekerende regelgeving en exploderende belastingdruk.
 
 {{< image
-	src="thumb.webp"
 	caption="Illustratie van William Blake uit 'het eerste boek van Urizen'."
 >}}
 

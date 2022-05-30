@@ -13,7 +13,6 @@ dossiers = ["Islam"]
 Als reactionair geloof ik niet dat de materiële conditie van de samenleving of van de geschiedenis het enige is wat er toe doet, noch dat dat hetgeen is waar we onze acties op zouden moeten baseren. Maar wanneer Marx, voortbordurend op Hegel, beweert dat de geschiedenis zich constant herhaalt dan kan ik het niet met hem oneens zijn. Iedereen die de ontwikkelingen in de samenleving van de afgelopen jaren observeert zou parallellen kunnen trekken tussen gebeurtenissen nu en gebeurtenissen uit de 20e eeuw. Maar niet elke geschiedkundige gebeurtenis is een tragedie, en als we niet zouden leren van de successen uit de geschiedenis is dat net zo zeer een klucht als wanneer we niet zouden leren van de verliezen.
 
 {{< image
-	src="thumb.webp"
 	caption="Iraanse postzegel. Een duidelijke combinatie van linkse, revolutionaire esthetiek met islamitische beeldtaal."
 >}}
 

@@ -1,17 +1,17 @@
 +++
-title    = "Tussen twee oorlogen: Anton Kerssemakers"
-subtitle = "Onderzoek naar een onbekende auteur"
-auteurs  = ["Camille Meloen"]
-date     = "2021-10-02"
-themas   = "Recensie & Biografie"
-anchor   = "Top"
+title     = "Tussen twee oorlogen: Anton Kerssemakers"
+subtitle  = "Onderzoek naar een onbekende auteur"
+auteurs   = ["Camille Meloen"]
+date      = "2021-10-02"
+themas    = "Recensie & Biografie"
+geciteerd = ["René Guénon"]
+anchor    = "Top"
 +++
 
 
 Onlangs heb ik de website Delpher herontdekt, deze website categoriseert oude boeken en krantenknipsels. Natuurlijk zocht ik op René Guénon, om te zien of er Nederlandse auteurs of krantenknipsels waren die hem vermeldden. Van het tiental resultaten trok één boek mijn aandacht met de titel _“Vrijmetselarij en Jodendom: traditioneele inhoud, moderne ontaarding en invloed”_ omdat Guénon op de allereerste bladzijde werd geciteerd, en de bladzijden daarna vrijwel woord voor woord Guénon's werk over Traditie, intellectuele intuïtie en de crisis van de moderne wereld weerspiegelden. Ik besloot wat te gaan spitten over wie deze auteur was en kwam een aantal interessante dingen tegen.
 
 {{< image
-	src="thumb.webp"
 	caption="Omslag van het boek Vrijmetselarij en Jodendom."
 >}}
 

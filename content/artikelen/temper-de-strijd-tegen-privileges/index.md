@@ -13,7 +13,6 @@ _Dit artikel is eerder gepubliceerd in het NRC handelsblad._[^1]
 Het is de nacht van 4 op 5 augustus, 1789. De revolutionaire Franse Nationale Vergadering is in extase, want vannacht nog worden alle privileges afgeschaft. Het voelt als een bevrijding, ook voor aanwezigen die hun privileges juist moeten opgeven. Huilend van blijdschap zweren aristocraten, geestelijken en regionale vertegenwoordigers hun privileges af. Als de zon opgaat, is alles en iedereen gelijk. Vanaf die nacht werden in Frankrijk en daarna door heel Europa in rap tempo alle middeleeuwse privileges afgeschaft. Het woord _‘privilege’_ stamt van het Latijnse privus en legum en betekent _‘privérecht’_, oftewel speciaal voorrecht. Naast belastingvrijstelling voor aristocraten en geestelijken ging het om zelfbeschikkingsrechten voor universiteiten, kerkordes, vrije steden en gildes.
 
 {{< image
-	src="thumb.webp"
 	caption="Le Peuple sous l’ancien Régime, ‘Het volk onder het Ancien Régime’: Franse spotprent uit 1815 met Lodewijk XVI, een bisschop en een edelman op de rug van een geketende en geblinddoekte man die ‘het volk’ verbeeldt."
 >}}
 

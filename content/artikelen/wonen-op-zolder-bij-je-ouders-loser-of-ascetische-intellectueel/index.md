@@ -1,9 +1,10 @@
 +++
-title    = "Wonen op zolder bij je ouders: loser of ascetische intellectueel?"
-subtitle = "Verdwenen vrijheid en zingeving in het liberale consumptiekapitalisme"
-auteurs  = ["Sanura"]
-date     = "2022-04-19"
-themas   = "Cultuur & Maatschappij"
+title     = "Wonen op zolder bij je ouders: loser of ascetische intellectueel?"
+subtitle  = "Verdwenen vrijheid en zingeving in het liberale consumptiekapitalisme"
+auteurs   = ["Sanura"]
+date      = "2022-04-19"
+themas    = "Cultuur & Maatschappij"
+geciteerd = ["Michel Foucault", "Aristoteles", "Plato", "Pythagoras", "Socrates"]
 +++
 
 
@@ -26,7 +27,6 @@ Alhoewel Oosterse spiritualiteit verheerlijkt wordt in westerse cartoons en film
 Zo’n houding is logisch, wanneer je er overtuigd van bent, dat _‘you only live once’_. Als er niks bestaat buiten dit aardse leven dan is het belangrijk hier zo veel mogelijk uit te halen. En als er geen onsterfelijke ziel, noch objectief goed en kwaad is, dan is leven om wille van wijsheid, heiligheid of deugd tijdverspilling. 
 
 {{< image
-	src="thumb.webp"
 	caption="St. Catherine van Siena, door Giovanni Battista Tiepolo."
 >}}
 

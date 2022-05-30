@@ -1,5 +1,9 @@
 <figure>
-	{{ $image := .Page.Resources.GetMatch (.Get "src") }}
+	{{ $src := .Get "src" }}
+	{{ if not $src }}
+		{{ $src = "thumb.webp" }}
+	{{ end }}
+	{{ $image := .Page.Resources.GetMatch $src }}
 
 	<img 
 		srcset="{{ ($image.Resize "864x webp").RelPermalink }} 864w,

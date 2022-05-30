@@ -1,16 +1,16 @@
 +++
-title    = "Sociale contacten in een verbrokkelde wereld"
-subtitle = "De industriële revolutie en haar invloed op sociale interactie"
-auteurs  = ["v. Deirm"]
-date     = "2021-12-07"
-themas   = "Cultuur & Maatschappij"
+title     = "Sociale contacten in een verbrokkelde wereld"
+subtitle  = "De industriële revolutie en haar invloed op sociale interactie"
+auteurs   = ["v. Deirm"]
+date      = "2021-12-07"
+themas    = "Cultuur & Maatschappij"
+geciteerd = ["Michel Foucault"]
 +++
 
 
 Onlangs zat ik met wat vrienden in een gezellig cafeetje in de Antwerpse binnenstad. Naarmate de avond vorderde, kwam aan het licht dat verschillenden onder hen gebruikmaken van de datingapp _‘Tinder’_. Dat vond ik uiterst interessant, maar tegelijkertijd ook beangstigend. Hoe is het eigenlijk zover kunnen komen dat we de liefde van ons leven trachten te ontmoeten op een digitaal ‘marktplein’? Laat ons wat dieper proberen in te gaan op de zogenaamde _“vloeibare moderniteit”_.
 
 {{< image
-	src="thumb.webp"
 	caption="Yukio Mishima aquarel en inkt portret, door Fabrizio Cassetta."
 >}}
 

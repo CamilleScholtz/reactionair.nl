@@ -22,7 +22,6 @@ _Ik ben niet gelovig, maar..._ Dit type persoon heeft vaak een mening over mooie
 Wat deze mensen vaak willen aangeven, is dat zij geen deel uitmaken van een religieuze structuur. Dat betekent dat zij op zondag niet deelnemen aan de liturgie, of dat zij geen God aanbidden.
 
 {{< image
-	src="thumb.webp"
 	caption="Kathedraal van St Davids."
 >}}
 

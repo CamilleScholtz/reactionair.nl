@@ -1,9 +1,10 @@
 +++
-title    = "Scruton en esthetisch oordelen"
-subtitle = "Wat is schoonheid?"
-auteurs  = ["Cedrik Vandooren"]
-date     = "2022-01-11"
-themas   = "Cultuur & Maatschappij"
+title     = "Scruton en esthetisch oordelen"
+subtitle  = "Wat is schoonheid?"
+auteurs   = ["Cedrik Vandooren"]
+date      = "2022-01-11"
+themas    = "Cultuur & Maatschappij"
+geciteerd = ["Roger Scruton", "Plato"]
 +++
 
 
@@ -26,7 +27,6 @@ Hij ziet het bevredigen van begeerten niet als een einde op zichzelf, integendee
 Juist in deze tijd van consumptie ter wille van doelloze begeerten is de behoefte naar iets niet als middel, maar als doel op zichzelf enorm. Mensen hunkeren diep van binnen naar iets van waarde, intrinsieke waarde, niet instrumentele. Kant noemde dit een niet-geïnteresseerd smaak oordeel. Scruton legt dat als volgt uit: alle dieren hebben interesses. Ze gebruiken hun ratio om in deze interesses te voldoen. Mensen hebben dit ook, maar de mens heeft ook een interesse die bij geen ander dier voorkomt. Namelijk de interesse voor de rede zelve. Redeneren met als doel het redeneren. Een hert kan richting de horizon kijken, ze zal waarschijnlijk ook een interesse hebben met wat daar zich afspeelt. Is het gras daar groener, komt er een vijandige jager aan? Maar het hert, in contrast met een persoon, is niet geïnteresseerd in het uitzicht, een kunstwerk of een mooie bloem, allemaal interesses die op zichzelf staan. Geen lichamelijke begeerten worden noch hiermee vervuld, noch aangewakkerd.
 
 {{< image
-	src="thumb.webp"
 	caption="De Analyse van Schoonheid, door Wiliam Hogarth."
 >}}
 

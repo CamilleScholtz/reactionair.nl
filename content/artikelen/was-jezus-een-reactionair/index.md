@@ -1,10 +1,11 @@
 +++
-title    = "Was Jezus een Reactionair?"
-subtitle = "Traditie=historische context"
-auteurs  = ["Sanura"]
-date     = "2022-03-19"
-themas   = "Religie & Metafysica"
-dossiers = ["Christendom"]
+title     = "Was Jezus een Reactionair?"
+subtitle  = "Traditie=historische context"
+auteurs   = ["Sanura"]
+date      = "2022-03-19"
+themas    = "Religie & Metafysica"
+geciteerd = ["Aristoteles", "Plato", "Socrates"]
+dossiers  = ["Christendom"]
 +++
 
 
@@ -42,7 +43,6 @@ De Chasideeën splitsten uiteindelijk op in twee groepen: de reactionaire en sec
 Waar de Sadduceeën alleen de Schrift volgden (‘sola scriptura’), baseerden de Farizeeën en Essenen daarentegen zich ook op de Traditie. 
 
 {{< image
-	src="thumb.webp"
 	caption="Een deel van de Tempelrol die gevonden is in Qumran Grot 11."
 >}}
 

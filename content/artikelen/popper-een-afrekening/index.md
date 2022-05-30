@@ -1,9 +1,10 @@
 +++
-title    = "Popper: een afrekening"
-subtitle = "Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?"
-auteurs  = ["De Melancholieke Nar"]
-date     = "2022-01-08"
-themas   = "Politiek & Actualiteit"
+title     = "Popper: een afrekening"
+subtitle  = "Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?"
+auteurs   = ["De Melancholieke Nar"]
+date      = "2022-01-08"
+themas    = "Politiek & Actualiteit"
+geciteerd = ["Michel Foucault", "Friedrich Nietzsche", "Karl Popper"]
 +++
 
 
@@ -21,7 +22,6 @@ Deze manier van denken, waarbij waarheid in essentie een sociaal construct is, w
 Het andere deel van Poppers erfenis betreft zijn visie op de maatschappij. Zijn ideaal is _'de open samenleving'_,[^4] waar niemand minder dan George Soros, gewezen financieel roofridder en thans lieveling van links, het vehikel van zijn internationale filantropische ondernemingen (_kuch_), namelijk _The Open Society Foundation_, naar vernoemd heeft.[^5] Centraal hierin staat de zogeheten verdraagzaamheidsparadox. U kent hem ongetwijfeld van onderstaande infographic:
 
 {{< image
-	src="thumb.webp"
 	caption=""
 >}}
 

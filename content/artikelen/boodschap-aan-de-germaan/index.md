@@ -1,10 +1,11 @@
 +++
-title    = "Boodschap aan de Germaan"
-subtitle = "Van een Marokkaan"
-auteurs  = ["Mootje"]
-date     = "2021-12-26"
-themas   = "Politiek & Actualiteit"
-dossiers = ["Islam", "Conservatieve Alliantie"]
+title     = "Boodschap aan de Germaan"
+subtitle  = "Van een Marokkaan"
+auteurs   = ["Mootje"]
+date      = "2021-12-26"
+themas    = "Politiek & Actualiteit"
+geciteerd = ["Pim Fortuyn", "Geert Wilders", "Plato"]
+dossiers  = ["Conservatieve Alliantie", "Islam"]
 +++
 
 
@@ -22,7 +23,6 @@ Je kan je wel lopen opwinden om migratiestromen, gebrek aan integratie en islami
 Oh Germaan! Ga herbronnen; keer terug naar kuisheid, eer en God. Een regeneratie van christelijke waarden. Dan dwing je respect af bij minderheden en blijft je demografie op peil.
 
 {{< image
-	src="thumb.webp"
 	caption="Tipus marroquí a cavall van Tomàs Moragas"
 >}}
 

@@ -1,10 +1,11 @@
 +++
-title    = "Waarom een authentieke reactionair een groene reactionair is"
-subtitle = "Over ecologie"
-auteurs  = ["Jan-Willem Veldhuizen"]
-date     = "2021-11-17"
-themas   = "Politiek & Actualiteit"
-dossiers = ["Klimaatverandering"]
+title     = "Waarom een authentieke reactionair een groene reactionair is"
+subtitle  = "Over ecologie"
+auteurs   = ["Jan-Willem Veldhuizen"]
+date      = "2021-11-17"
+themas    = "Politiek & Actualiteit"
+geciteerd = ["René Guénon"]
+dossiers  = ["Klimaatverandering"]
 +++
 
 
@@ -23,7 +24,6 @@ Maar hoe staat de ideologische goeroe, Marx zelf, hierin? Allereerst moet ik opm
 De eigentijdse socialist of marxist zal het op deze punten weinig eens zijn met Marx, voor zover ze bekend zijn met zijn corpus. Het moderne ecologisme is gestoeld op sentiment. Deze stroming ontstond in de jaren ‘60 en wijst de mens als zondige vervuiler van de aardbol aan. Het nietsontziende grootkapitaal is verantwoordelijk voor met olie besmeurde zeevogels door lekkende tankers, verweesde mensapen uit gekapte regenwouden, en Afrikaans wild wat voor grof geld wordt neergeknald door stropers en gefortuneerde toeristen. Iedere persoon van onder de 50 is van kinds af aan met deze beelden opgegroeid. Al die zaken doen beroep op een specifiek onderdeel van de psyche: onze sentimentaliteit. We kunnen moeilijk verkroppen dat er onrecht bestaat, dat de sterkeren de zwakkeren overheersen en onderdrukken, dat er geen gelijkheid is. Er zijn baasjes die hun kat vegetarisch laten eten, omdat ze bezwaard zijn hun huisdier een ander dier te geven als maal, daarbij compleet voorbijgaand aan de carnivore natuur van de kat zelf. We hebben een partij in de tweede kamer die zich hard maakt voor dierenrechten, já rechten!, ook al kan een dier geen enkele plicht die daarbij hoort, vervullen. Allemaal tekenen van de decadentie in de beschaving.
 
 {{< image
-	src="thumb.webp"
 	caption="Tuin der lusten van Jheronimus Bosch."
 >}}
 

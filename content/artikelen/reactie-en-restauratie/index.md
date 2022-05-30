@@ -15,7 +15,6 @@ Er zijn al veel discussies geweest over de definitie van ‘reactionair’ (even
 Reactionair gebruiken als vies woord is bizar. Ten tijde van crises is het niet meer dan normaal om terug te willen naar de tijd van vóór de problemen. Om de consequenties van foute keuzes ongedaan te willen maken, en die fouten niet te herhalen. Fouten blijven herhalen, of denken dat de oplossing voor revolutionair leed ligt in nóg meer revolutie, komt neer op denken dat je harder op je duim moet slaan met die hamer, opdat de pijn ophoudt. 
 
 {{< image
-	src="thumb.webp"
 	caption="Ruïne aan Zee van Arnold Böcklin."
 >}}
 

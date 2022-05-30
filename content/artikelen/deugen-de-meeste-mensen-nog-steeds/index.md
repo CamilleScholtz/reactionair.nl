@@ -1,9 +1,10 @@
 +++
-title    = "Deugen de meeste mensen nog steeds?"
-subtitle = "De misanthrope verleiding"
-auteurs  = ["De Melancholieke Nar"]
-date     = "2022-04-15"
-themas   = "Recensie & Biografie"
+title     = "Deugen de meeste mensen nog steeds?"
+subtitle  = "De misanthrope verleiding"
+auteurs   = ["De Melancholieke Nar"]
+date      = "2022-04-15"
+themas    = "Recensie & Biografie"
+geciteerd = ["Rutger Bregman", "Friedrich Nietzsche", "Aristoteles"]
 +++
 
 {{< quote
@@ -13,7 +14,6 @@ themas   = "Recensie & Biografie"
 >}}
 
 {{< image
-	src="thumb.webp"
 	caption="De misantroop door Pieter Bruegel de Oude."
 >}}
 

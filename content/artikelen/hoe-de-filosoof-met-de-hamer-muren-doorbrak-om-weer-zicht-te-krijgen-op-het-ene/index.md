@@ -1,10 +1,11 @@
 +++
-title    = "Hoe de filosoof met de hamer muren doorbrak om weer zicht te krijgen op het Ene"
-subtitle = "Over taaltovenarij met hamer en mes"
-auteurs  = ["De Melancholieke Nar"]
-date     = "2022-05-07"
-themas   = "Religie & Metafysica"
-anchor   = "Center"
+title     = "Hoe de filosoof met de hamer muren doorbrak om weer zicht te krijgen op het Ene"
+subtitle  = "Over taaltovenarij met hamer en mes"
+auteurs   = ["De Melancholieke Nar"]
+date      = "2022-05-07"
+themas    = "Religie & Metafysica"
+geciteerd = ["Jacques Derrida", "René Guénon", "Martin Heidegger", "Friedrich Nietzsche", "Plato"]
+anchor    = "Center"
 +++
 
 
@@ -20,7 +21,6 @@ Dynamiet, van het Griekse woord _δύναμις_, wat kracht betekent en waar oo
 ### Filosoferen met een hamer
 
 {{< image
-	src="thumb.webp"
 	caption="Friedrich Nietzsche, door Edvard Munch."
 >}}
 

@@ -1,10 +1,11 @@
 +++
-title    = "Christendom en legitimiteit"
-subtitle = "Autoriteit versus macht"
-auteurs  = ["Sanura"]
-date     = "2021-12-29"
-themas   = "Religie & Metafysica"
-dossiers = ["Christendom"]
+title     = "Christendom en legitimiteit"
+subtitle  = "Autoriteit versus macht"
+auteurs   = ["Sanura"]
+date      = "2021-12-29"
+themas    = "Religie & Metafysica"
+geciteerd = ["Erik von Kuehnelt-Leddihn"]
+dossiers  = ["Christendom"]
 +++
 
 
@@ -14,7 +15,6 @@ Dit is altijd een essentieel kernpunt geweest van het traditionalisme; primair b
 
 
 {{< image
-	src="thumb.webp"
 	caption="Paus Bonifatius VIII, schilderij van Andrea Gastaldi."
 >}}
 

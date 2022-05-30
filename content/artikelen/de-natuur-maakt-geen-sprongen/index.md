@@ -15,7 +15,6 @@ _"Natura non facit saltus"_, ofwel, de natuur maakt geen sprongen. An axiom in t
 According to Guenon, whole number is essentialy discontinuous, and this is what one might properly call 'pure quanitity'[^3][^4]. Discontinuois is her to mean that there ar in fact leaps, from one to two, from two to three, and so on. The discontinuous is that which makes no leaps. spatial and temporal magnidtues are continuous; in the case of geometric magnitudes one is always able to take from them elements as small as one likes, infinitesimal quantities. The circle has in indefinite amount of 'corners', the geometric line can be halved until indefinitude. From this arise interesting "paradoxes", for example as the Coastline paradox, or Zeno's paradoxes such as the achilles and the tortoise.
 
 {{< image
-	src="thumb.webp"
 	caption="Omslag van het boek Vrijmetselarij en Jodendom."
 >}}
 

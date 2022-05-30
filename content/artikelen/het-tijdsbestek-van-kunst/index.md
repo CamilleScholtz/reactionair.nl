@@ -17,7 +17,6 @@ wanneer ik mooie beelden van kathedralen post, krijg ik vaak hetzelfde commentaa
 De moderne opvatting van tijd staat in contrast met de antieke opvatting van tijd. 10 jaar lijkt voor de moderne mens een lange tijd, terwijl een katholiek vindt dat de protestantse revolutie pas gisteren heeft plaatsgevonden. Dit verschil in tijdsbestek is zichtbaar in alle aspecten van het moderne en katholieke denken.
 
 {{< image
-	src="thumb.webp"
 	caption=" "
 >}}
 

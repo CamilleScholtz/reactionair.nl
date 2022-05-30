@@ -1,11 +1,12 @@
 +++
-title    = "Is conservatieve samenwerking met moslims onwenselijk?"
-subtitle = "Een reactie op ‘tegen een politiek verbond met moslims’"
-auteurs  = ["Dennis Honing"]
-date     = "2022-01-15"
-themas   = "Politiek & Actualiteit"
-question = "Wat zijn uw gedachten over een dergelijke alliantie?"
-dossiers = ["Islam", "Conservatieve Alliantie"]
+title     = "Is conservatieve samenwerking met moslims onwenselijk?"
+subtitle  = "Een reactie op ‘tegen een politiek verbond met moslims’"
+auteurs   = ["Dennis Honing"]
+date      = "2022-01-15"
+themas    = "Politiek & Actualiteit"
+geciteerd = ["René Guénon", "Martin Lings", "Hamza Yusuf"]
+question  = "Wat zijn uw gedachten over een dergelijke alliantie?"
+dossiers  = ["Islam", "Conservatieve Alliantie"]
 +++
 
 
@@ -20,7 +21,6 @@ Ga je die elimineren zoals de nationaal socialisten?
 Neem daar eerst een helder standpunt over in alvorens te mijmeren over de redding van de etnische Germanen in Nederland. 
 
 {{< image
-	src="thumb.webp"
 	caption="\"Konservative allianz? Nein danke!\""
 >}}
 

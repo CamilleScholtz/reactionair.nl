@@ -1,9 +1,10 @@
 +++
-title    = "Autonomie en consumptie"
-subtitle = "Hoe autonomie met de consumptiemaatschappij samenhangt"
-auteurs  = ["Jurbin van Hooff"]
-date     = "2021-10-31"
-themas   = "Cultuur & Maatschappij"
+title     = "Autonomie en consumptie"
+subtitle  = "Hoe autonomie met de consumptiemaatschappij samenhangt"
+auteurs   = ["Jurbin van Hooff"]
+date      = "2021-10-31"
+themas    = "Cultuur & Maatschappij"
+geciteerd = ["René Descartes", "Oswald Spengler"]
 +++
 
 
@@ -16,7 +17,6 @@ De omgeving is voor de mens dus van wezenlijk belang. Allerlei andere factoren b
 Zoals Spengler in dit citaat aangeeft is de mens gegrond in zijn, eenvoudig gezegd, omgeving. En deze omgeving wordt weer beïnvloed door allerlei factoren. Die factoren worden hier holistisch geschaard onder “de maatschappelijke moraal”. In de huidige maatschappelijke moraal gaat men er vaak van uit dat bepaald soort zaken zijn en dat er rond dat zijn een neutraliteit en objectiviteit waant. Dit kan teruggezien worden door de in de maatschappij veel gebezigde mantra _‘je moet gewoon lekker jezelf kunnen zijn’_. Maar dit mantra is een rookgordijn, zoals al eerder besproken is men geen grondeenheid en stoelt het zijn op factoren waar men zelf niet of nauwelijks invloed op kan uitoefenen. Wat is precies de huidige maatschappelijke moraal? Deze alinea schetst al een voorbeeld omtrent het individualisme, maar verder is het nog belangrijk om nader naar de consumptiemaatschappij te kijken, omdat die van wezenlijk belang is voor ons zijn.
 
 {{< image
-	src="thumb.webp"
 	caption="De duivel vervult het menselijke hart met begeerte naar rijkdom, macht en genot, Maarten van Heemskerck."
 >}}
 

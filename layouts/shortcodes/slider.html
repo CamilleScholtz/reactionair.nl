@@ -1,0 +1,64 @@
+<div class="slider">
+	{{ range $i, $slide := .Params }}
+		<div class="slide">
+			<span class="index">{{ add $i 1 }}.</span>
+			<p>{{ $slide }}</p>
+		</div>
+	{{ end }}
+</div>
+
+<nav class="paginator" style="margin-top: 0px;">
+	<a class="prev disabled" href="#">←</a>
+	<a class="next" href="#">→</a>
+</nav>
+
+<script>
+	const slides = document.querySelectorAll(".slide");
+	const prev   = document.querySelector(".prev");
+	const next   = document.querySelector(".next");
+
+	let current = 0;
+	const total = {{ len .Params }};
+
+	prev.addEventListener("click", (ev) => {
+		ev.preventDefault();
+
+		if (prev.classList.contains("disabled")) {
+			return;
+		}
+
+		current--;	
+
+		slides.forEach((slide) => {
+			slide.style.transform = `translateX(-${current * 100}%)`;
+		});
+
+		if (current < 1) {
+			prev.classList.add("disabled");
+		}
+		if (current <= total) {
+			next.classList.remove("disabled");
+		}
+	});
+
+	next.addEventListener("click", (ev) => {
+		ev.preventDefault();
+
+		if (next.classList.contains("disabled")) {
+			return;
+		}
+
+		current++;	
+		
+		slides.forEach((slide) => {
+			slide.style.transform = `translateX(-${current * 100}%)`;
+		});
+		
+		if (current >= total - 1) {
+			next.classList.add("disabled");
+		}
+		if (current >= 1) {
+			prev.classList.remove("disabled");
+		}
+	});
+</script>

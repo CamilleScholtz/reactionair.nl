@@ -1,9 +1,10 @@
 +++
-title    = "Hoe God verstoppertje speelt met zichzelf"
-subtitle = "Waarom het streven naar objectiviteit een doodlopend pad is, deel 3"
-auteurs  = ["De Melancholieke Nar"]
-date     = "2022-02-09"
-themas   = "Religie & Metafysica"
+title     = "Hoe God verstoppertje speelt met zichzelf"
+subtitle  = "Waarom het streven naar objectiviteit een doodlopend pad is, deel 3"
+auteurs   = ["De Melancholieke Nar"]
+date      = "2022-02-09"
+themas    = "Religie & Metafysica"
+geciteerd = ["René Descartes", "Fjodor Dostojevski", "Martin Heidegger"]
 +++
 
 
@@ -20,7 +21,6 @@ De dualiteit subject-object is in wezen dezelfde als de dualiteit stof-geest (ma
 In een materialistisch tijdperk als het onze, is het de usance om geest te verklaren vanuit stof, of zoals de titel van de bestseller van Dick Swaab luidt: wij zijn ons brein. Het bewustzijn is niets dan de hersens en daarmee uit, volgens Swaab.[^2] Zonder de prestaties van de hersenwetenschap te willen miskennen, is dit filosofisch ongefundeerd. De neurologie is er namelijk wel in geslaagd om diepgaande correlaties tussen hersen- en bewustzijnstoestanden aan te tonen, maar zoals iedereen weet: correlatie is niet hetzelfde als causatie. 
 
 {{< image
-	src="thumb.webp"
 	caption="De hindoegod Krishna speelt verstoppertje met zijn geliefde Radha en de gopi's."
 >}}
 

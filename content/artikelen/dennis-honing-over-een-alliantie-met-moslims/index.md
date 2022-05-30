@@ -14,7 +14,6 @@ _Dit artikel is een reactie op een eerder gepubliceerd artikel op Reactionair.nl
 We kijken naar de vraag of er en mogelijkheid is voor een rechtse coalitie met de Islam, ofwel moslims. Zoiets lijkt aanvankelijk een 'ver van je bed show'. De moslims heulen overwegend met linkse partijen, komen met eigen partijen die linkse agendapunten ageren en zijn als opiniemakers en activisten vaak te horen over het grote boze kapitalistische westen die de arme mensen-kinderen van de wereld vertrapt. Dat is inderdaad het profiel dat de nieuwe generaties moslims vaak hebben geëtaleerd. Met name Marokkanen en bekeerde Nederlandse autochtonen. Hierbij sloot men zich al te gemakkelijk aan bij de eerste verbintenis met links, en dan met name de PvdA, maar achter die wereld van goedbedoelde ethiek zoals: Gelijke rechten, gelijke kansen, inclusie, regenbogen en rondedansen gaat een conservatieve religie schuil. Geflankeerd door een etnische cultuur die vaak bol staat van traditie, tribalisme, racisme en man-vrouw rolverdelingen.
 
 {{< image
-	src="thumb.webp"
 	caption="De Westernmoskee in Amsterdam. Combineert de stijl van de Amsterdamse School met traditionele Ottomaanse vorm."
 >}}
 

@@ -4,6 +4,7 @@ subtitle = "Een baudrillardiaanse visie"
 auteurs  = ["Rintrah Radagast", "De Melancholieke Nar"]
 date     = "2022-04-03"
 themas   = "Politiek & Actualiteit"
+geciteerd = ["Jean Baudrillard"]
 dossiers = ["Oekraïne"]
 +++
 

@@ -1,9 +1,10 @@
 +++
-title    = "Deftigheid, deugdzaamheid en bezetenheid"
-subtitle = "Overweging over het mensbeeld van de meeste mensen"
-auteurs  = ["Walt van Toor"]
-date     = "2022-04-21"
-themas   = "Cultuur & Maatschappij"
+title     = "Deftigheid, deugdzaamheid en bezetenheid"
+subtitle  = "Overweging over het mensbeeld van de meeste mensen"
+auteurs   = ["Walt van Toor"]
+date      = "2022-04-21"
+themas    = "Cultuur & Maatschappij"
+geciteerd = ["Rutger Bregman", "Robert Lemm"]
 +++
 
 

@@ -1,10 +1,11 @@
 +++
-title    = "In gedachte Pim Fortuyn"
-subtitle = "De enige dandy-salafist van Nederland"
-auteurs  = ["Dennis Honing"]
-date     = "2022-05-06"
-themas   = "Politiek & Actualiteit"
-anchor   = "Center"
+title     = "In gedachte Pim Fortuyn"
+subtitle  = "De enige dandy-salafist van Nederland"
+auteurs   = ["Dennis Honing"]
+date      = "2022-05-06"
+themas    = "Politiek & Actualiteit"
+geciteerd = ["Thierry Baudet", "Pim Fortuyn", "Geert Wilders"]
+anchor    = "Center"
 +++
 
 Vandaag is het twintig jaar geleden dat Pim Fortuyn werd vermoord door een extreemlinkse dierenactivist. Ik was te jong om zijn politieke spurt te bevatten. Ik herinner me nog, in groep 8, dat mijn leraar zei: “die Fortuyn, dat is een gevaarlijk mannetje”. Deze leraar en ik hadden nooit een klik en hij sliep in een tuinhuisje. Tot zover die leraar. 
@@ -12,7 +13,6 @@ Vandaag is het twintig jaar geleden dat Pim Fortuyn werd vermoord door een extre
 Met terugwerkende kracht heb ik al het op YouTube beschikbare beeldmateriaal van Fortuyn verslonden. Bepaalde dingen meermalen. Pim was een ziener. Dat is niet veel mensen gegeven. Pim was een zeer transparante man. Dat is niet veel mensen gegeven. 
 
 {{< image
-	src="thumb.webp"
 	caption="Pim Fortuyn, door Derek Bacon."
 >}}
 

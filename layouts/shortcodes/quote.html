@@ -10,6 +10,8 @@
 	<article>
 {{ end }}
 
-<blockquote class="blockquote{{ if .Get "aside" }} hide{{ end }}">
-	<p><i>“{{ .Get "text" | safeHTML }}”</i> - {{ .Get "author" | safeHTML }}</p>
-</blockquote>
+{{ if not (.Get "noblock") }}
+	<blockquote class="blockquote{{ if .Get "aside" }} hide{{ end }}">
+		<p><i>“{{ .Get "text" | safeHTML }}”</i> - {{ .Get "author" | safeHTML }}</p>
+	</blockquote>
+{{ end }}

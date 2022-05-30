@@ -1,10 +1,11 @@
 +++
-title    = "Homo credens"
-subtitle = "Over de wetenschap als volksgeloof"
-auteurs  = ["Anton Prins"]
-date     = "2022-05-16"
-themas   = "Religie & Metafysica"
-noindex  = true
+title     = "Homo credens"
+subtitle  = "Over de wetenschap als volksgeloof"
+auteurs   = ["Anton Prins"]
+date      = "2022-05-16"
+themas    = "Religie & Metafysica"
+geciteerd = ["Socrates"]
+noindex   = true
 +++
 
 
@@ -17,7 +18,6 @@ noindex  = true
 Waan—de hedendaagse mens leeft in waan. Hij leeft in de waan van ongelovigheid, denkt dat hij bijgeloof en religieuze waan ontvlucht is. Hij zucht niet onder het juk van God of kerk en lacht om de geborneerde zielen die nog geloven dat er boven het uitspansel der hemelen een liefhebbende vader woont.[^1] Maar welk een zelfbedrog! De mens kán niet zonder geloof; en in deze slechts ogenschijnlijk goddeloze maatschappij zijn er andere goden waaraan de mens zich onderwerpt.
 
 {{< image
-	src="thumb.webp"
 	caption="Nicolas Poussin, L’Adoration du Veau d’or."
 >}}
 
