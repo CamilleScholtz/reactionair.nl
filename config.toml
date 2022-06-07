@@ -4,8 +4,6 @@ title   = "Reactionair.nl"
 languageCode           = "nl"
 DefaultContentLanguage = "nl"
 
-googleAnalytics = "G-MM83VY2NM0"
-
 paginate     = 10
 paginatePath = "pagina"
 

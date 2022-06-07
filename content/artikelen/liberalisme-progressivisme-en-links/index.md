@@ -2,10 +2,9 @@
 title    = "Liberalisme, progressivisme en links"
 subtitle = "Drie machten die samenspannen tegen de middenklasse"
 auteurs  = ["Redactie"]
-date     = "2022-05-30"
+date     = "2022-05-31"
 themas   = "Politiek & Actualiteit"
 anchor   = "Center"
-draft    = true
 +++
 
 _Dit is een vertaald artikel, het origineel is [hier](https://www.eugyppius.com/p/liberalism-progressivism-leftism) te lezen._

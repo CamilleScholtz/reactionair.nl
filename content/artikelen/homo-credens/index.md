@@ -4,7 +4,7 @@ subtitle  = "Over de wetenschap als volksgeloof"
 auteurs   = ["Anton Prins"]
 date      = "2022-05-16"
 themas    = "Religie & Metafysica"
-geciteerd = ["Socrates"]
+geciteerd = ["Arthur Schopenhauer", "Friedrich Schiller", "Socrates"]
 noindex   = true
 +++
 
@@ -30,6 +30,13 @@ Hier valt een onderzoekend oog onmiddelijk op dat de gemiddelde mens heden ten d
 Echter is de wetenschap zoveel armer voor de gelovige dan welk ander geloof ook; het beschrijft immers slechts een kosmologie, een wereldbeeld, zonder enigerlei troost daarmede te kunnen bieden en zonder ook maar enige ethische principes te kunnen begronden met hetgeen zij ons vertelt. Sterker nog: ik zou zelfs zeggen dat de wetenschap middels de Darwiniaanse analyse van _the survival of the fittest_, als vanzelf tot egoïsme leidt; en dat zelfs de eugenetica niet meer dan een logisch uitvloeisel is van deze visie. Er kan gezegd worden dat de wetenschap geen blaam treft gezien zij op ethisch vlak niets voorschrijft, echter zit hierin juist het gevaar, want het resultaat is dat de mens zijn eigen instinctieve tendensen volgt; hij waagt een poging zijn levenswijze zelf in te vullen en valt hierbij terug op zijn dierlijke aard—_homo homini lupus est_.[^4] Op deze wijze sluit de losbandige levenshouding van de hedendaagse mens naadloos aan op de ethische leemte die de wetenschap hem biedt.
 
 Maar wat een armoede is zelfs de materialistische kosmologie, die de meer dan twijfelbare spiegeling die men werkelijkheid noemt tot absoluut verheft; die geen enkele stap verder zet daarbuiten en zich niet één enkel moment ter reflectie gunt om in te zien dat deze zienswijze het gehele eigen intellect — het _subject_ tot de _objecten_ van de werkelijkheid — buiten beschouwing laat.[^5] Het is alsof bij het aanschouwen van een schilderij, het doek buiten beschouwing wordt gelaten, bij een spiegelbeeld de spiegel. Aan het medium waarmede deze wereld zichtbaarheid gewint voor ons, het menselijke intellect, wordt totaal voorbijgegaan.
+
+{{< quote
+	text="Toch is het dit troosteloze geloof, dat tot het geloof van de massa is verworden; dit geloof waarbij gedachtes en gevoelens worden teruggebracht tot de door onze hersens razende elektrische signalen die de mens alle vrijheid geeft om tot slaaf te worden van zijn eigen verlangens."
+	author="Anton Prins"
+	aside=true
+	noblock=true
+>}}
 
 Toch is het dit troosteloze geloof, dat tot het geloof van de massa is verworden; dit geloof waarbij gedachtes en gevoelens worden teruggebracht tot de door onze hersens razende elektrische signalen die de mens alle vrijheid geeft om tot slaaf te worden van zijn eigen verlangens. Hiermede heerst het ongeluk; want onze verlangens kunnen nooit vervuld worden, of in het meest optimistische geval slechts zeer tijdelijk. Uit dit ideaal zal men derhalve nooit geluk kunnen putten, en daar men tot de gloeiende hemellichamen in het zwerk niet kan bidden om hulp of troost verwordt de mens tot een ongelukkig en eenzaam wezen, minder dan stof onder de vingernagels van de hemelgoden.
 
