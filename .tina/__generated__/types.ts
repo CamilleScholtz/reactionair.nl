@@ -68,8 +68,8 @@ export type Query = {
   getDocument: DocumentNode;
   getDocumentList: DocumentConnection;
   getDocumentFields: Scalars['JSON'];
-  getPostDocument: PostDocument;
-  getPostList: PostConnection;
+  getArtikelenDocument: ArtikelenDocument;
+  getArtikelenList: ArtikelenConnection;
 };
 
 
@@ -103,12 +103,12 @@ export type QueryGetDocumentListArgs = {
 };
 
 
-export type QueryGetPostDocumentArgs = {
+export type QueryGetArtikelenDocumentArgs = {
   relativePath?: InputMaybe<Scalars['String']>;
 };
 
 
-export type QueryGetPostListArgs = {
+export type QueryGetArtikelenListArgs = {
   before?: InputMaybe<Scalars['String']>;
   after?: InputMaybe<Scalars['String']>;
   first?: InputMaybe<Scalars['Float']>;
@@ -151,37 +151,38 @@ export type CollectionDocumentsArgs = {
   sort?: InputMaybe<Scalars['String']>;
 };
 
-export type DocumentNode = PostDocument;
+export type DocumentNode = ArtikelenDocument;
 
-export type Post = {
-  __typename?: 'Post';
+export type Artikelen = {
+  __typename?: 'Artikelen';
   title?: Maybe<Scalars['String']>;
+  subtitle?: Maybe<Scalars['String']>;
   date?: Maybe<Scalars['String']>;
   draft?: Maybe<Scalars['Boolean']>;
   body?: Maybe<Scalars['String']>;
 };
 
-export type PostDocument = Node & Document & {
-  __typename?: 'PostDocument';
+export type ArtikelenDocument = Node & Document & {
+  __typename?: 'ArtikelenDocument';
   id: Scalars['ID'];
   sys: SystemInfo;
-  data: Post;
+  data: Artikelen;
   form: Scalars['JSON'];
   values: Scalars['JSON'];
   dataJSON: Scalars['JSON'];
 };
 
-export type PostConnectionEdges = {
-  __typename?: 'PostConnectionEdges';
+export type ArtikelenConnectionEdges = {
+  __typename?: 'ArtikelenConnectionEdges';
   cursor?: Maybe<Scalars['String']>;
-  node?: Maybe<PostDocument>;
+  node?: Maybe<ArtikelenDocument>;
 };
 
-export type PostConnection = Connection & {
-  __typename?: 'PostConnection';
+export type ArtikelenConnection = Connection & {
+  __typename?: 'ArtikelenConnection';
   pageInfo?: Maybe<PageInfo>;
   totalCount: Scalars['Float'];
-  edges?: Maybe<Array<Maybe<PostConnectionEdges>>>;
+  edges?: Maybe<Array<Maybe<ArtikelenConnectionEdges>>>;
 };
 
 export type Mutation = {
@@ -190,8 +191,8 @@ export type Mutation = {
   updateDocument: DocumentNode;
   deleteDocument: DocumentNode;
   createDocument: DocumentNode;
-  updatePostDocument: PostDocument;
-  createPostDocument: PostDocument;
+  updateArtikelenDocument: ArtikelenDocument;
+  createArtikelenDocument: ArtikelenDocument;
 };
 
 
@@ -222,53 +223,55 @@ export type MutationCreateDocumentArgs = {
 };
 
 
-export type MutationUpdatePostDocumentArgs = {
+export type MutationUpdateArtikelenDocumentArgs = {
   relativePath: Scalars['String'];
-  params: PostMutation;
+  params: ArtikelenMutation;
 };
 
 
-export type MutationCreatePostDocumentArgs = {
+export type MutationCreateArtikelenDocumentArgs = {
   relativePath: Scalars['String'];
-  params: PostMutation;
+  params: ArtikelenMutation;
 };
 
 export type DocumentMutation = {
-  post?: InputMaybe<PostMutation>;
+  artikelen?: InputMaybe<ArtikelenMutation>;
 };
 
-export type PostMutation = {
+export type ArtikelenMutation = {
   title?: InputMaybe<Scalars['String']>;
+  subtitle?: InputMaybe<Scalars['String']>;
   date?: InputMaybe<Scalars['String']>;
   draft?: InputMaybe<Scalars['Boolean']>;
   body?: InputMaybe<Scalars['String']>;
 };
 
-export type PostPartsFragment = { __typename?: 'Post', title?: string | null, date?: string | null, draft?: boolean | null, body?: string | null };
+export type ArtikelenPartsFragment = { __typename?: 'Artikelen', title?: string | null, subtitle?: string | null, date?: string | null, draft?: boolean | null, body?: string | null };
 
-export type GetPostDocumentQueryVariables = Exact<{
+export type GetArtikelenDocumentQueryVariables = Exact<{
   relativePath: Scalars['String'];
 }>;
 
 
-export type GetPostDocumentQuery = { __typename?: 'Query', getPostDocument: { __typename?: 'PostDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Post', title?: string | null, date?: string | null, draft?: boolean | null, body?: string | null } } };
+export type GetArtikelenDocumentQuery = { __typename?: 'Query', getArtikelenDocument: { __typename?: 'ArtikelenDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Artikelen', title?: string | null, subtitle?: string | null, date?: string | null, draft?: boolean | null, body?: string | null } } };
 
-export type GetPostListQueryVariables = Exact<{ [key: string]: never; }>;
+export type GetArtikelenListQueryVariables = Exact<{ [key: string]: never; }>;
 
 
-export type GetPostListQuery = { __typename?: 'Query', getPostList: { __typename?: 'PostConnection', totalCount: number, edges?: Array<{ __typename?: 'PostConnectionEdges', node?: { __typename?: 'PostDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Post', title?: string | null, date?: string | null, draft?: boolean | null, body?: string | null } } | null } | null> | null } };
+export type GetArtikelenListQuery = { __typename?: 'Query', getArtikelenList: { __typename?: 'ArtikelenConnection', totalCount: number, edges?: Array<{ __typename?: 'ArtikelenConnectionEdges', node?: { __typename?: 'ArtikelenDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Artikelen', title?: string | null, subtitle?: string | null, date?: string | null, draft?: boolean | null, body?: string | null } } | null } | null> | null } };
 
-export const PostPartsFragmentDoc = gql`
-    fragment PostParts on Post {
+export const ArtikelenPartsFragmentDoc = gql`
+    fragment ArtikelenParts on Artikelen {
   title
+  subtitle
   date
   draft
   body
 }
     `;
-export const GetPostDocumentDocument = gql`
-    query getPostDocument($relativePath: String!) {
-  getPostDocument(relativePath: $relativePath) {
+export const GetArtikelenDocumentDocument = gql`
+    query getArtikelenDocument($relativePath: String!) {
+  getArtikelenDocument(relativePath: $relativePath) {
     sys {
       filename
       basename
@@ -279,14 +282,14 @@ export const GetPostDocumentDocument = gql`
     }
     id
     data {
-      ...PostParts
+      ...ArtikelenParts
     }
   }
 }
-    ${PostPartsFragmentDoc}`;
-export const GetPostListDocument = gql`
-    query getPostList {
-  getPostList {
+    ${ArtikelenPartsFragmentDoc}`;
+export const GetArtikelenListDocument = gql`
+    query getArtikelenList {
+  getArtikelenList {
     totalCount
     edges {
       node {
@@ -300,21 +303,21 @@ export const GetPostListDocument = gql`
           extension
         }
         data {
-          ...PostParts
+          ...ArtikelenParts
         }
       }
     }
   }
 }
-    ${PostPartsFragmentDoc}`;
+    ${ArtikelenPartsFragmentDoc}`;
 export type Requester<C= {}> = <R, V>(doc: DocumentNode, vars?: V, options?: C) => Promise<R>
   export function getSdk<C>(requester: Requester<C>) {
     return {
-      getPostDocument(variables: GetPostDocumentQueryVariables, options?: C): Promise<{data: GetPostDocumentQuery, variables: GetPostDocumentQueryVariables, query: string}> {
-        return requester<{data: GetPostDocumentQuery, variables: GetPostDocumentQueryVariables, query: string}, GetPostDocumentQueryVariables>(GetPostDocumentDocument, variables, options);
+      getArtikelenDocument(variables: GetArtikelenDocumentQueryVariables, options?: C): Promise<{data: GetArtikelenDocumentQuery, variables: GetArtikelenDocumentQueryVariables, query: string}> {
+        return requester<{data: GetArtikelenDocumentQuery, variables: GetArtikelenDocumentQueryVariables, query: string}, GetArtikelenDocumentQueryVariables>(GetArtikelenDocumentDocument, variables, options);
       },
-    getPostList(variables?: GetPostListQueryVariables, options?: C): Promise<{data: GetPostListQuery, variables: GetPostListQueryVariables, query: string}> {
-        return requester<{data: GetPostListQuery, variables: GetPostListQueryVariables, query: string}, GetPostListQueryVariables>(GetPostListDocument, variables, options);
+    getArtikelenList(variables?: GetArtikelenListQueryVariables, options?: C): Promise<{data: GetArtikelenListQuery, variables: GetArtikelenListQueryVariables, query: string}> {
+        return requester<{data: GetArtikelenListQuery, variables: GetArtikelenListQueryVariables, query: string}, GetArtikelenListQueryVariables>(GetArtikelenListDocument, variables, options);
       }
     };
   }

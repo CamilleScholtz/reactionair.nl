@@ -49,8 +49,8 @@ type Query {
   getDocument(collection: String, relativePath: String): DocumentNode!
   getDocumentList(before: String, after: String, first: Float, last: Float, sort: String): DocumentConnection!
   getDocumentFields: JSON!
-  getPostDocument(relativePath: String): PostDocument!
-  getPostList(before: String, after: String, first: Float, last: Float, sort: String): PostConnection!
+  getArtikelenDocument(relativePath: String): ArtikelenDocument!
+  getArtikelenList(before: String, after: String, first: Float, last: Float, sort: String): ArtikelenConnection!
 }
 
 type DocumentConnectionEdges {
@@ -76,33 +76,34 @@ type Collection {
   documents(before: String, after: String, first: Float, last: Float, sort: String): DocumentConnection!
 }
 
-union DocumentNode = PostDocument
+union DocumentNode = ArtikelenDocument
 
-type Post {
+type Artikelen {
   title: String
+  subtitle: String
   date: String
   draft: Boolean
   body: String
 }
 
-type PostDocument implements Node & Document {
+type ArtikelenDocument implements Node & Document {
   id: ID!
   sys: SystemInfo!
-  data: Post!
+  data: Artikelen!
   form: JSON!
   values: JSON!
   dataJSON: JSON!
 }
 
-type PostConnectionEdges {
+type ArtikelenConnectionEdges {
   cursor: String
-  node: PostDocument
+  node: ArtikelenDocument
 }
 
-type PostConnection implements Connection {
+type ArtikelenConnection implements Connection {
   pageInfo: PageInfo
   totalCount: Float!
-  edges: [PostConnectionEdges]
+  edges: [ArtikelenConnectionEdges]
 }
 
 type Mutation {
@@ -110,16 +111,17 @@ type Mutation {
   updateDocument(collection: String, relativePath: String!, params: DocumentMutation!): DocumentNode!
   deleteDocument(collection: String, relativePath: String!): DocumentNode!
   createDocument(collection: String, relativePath: String!, params: DocumentMutation!): DocumentNode!
-  updatePostDocument(relativePath: String!, params: PostMutation!): PostDocument!
-  createPostDocument(relativePath: String!, params: PostMutation!): PostDocument!
+  updateArtikelenDocument(relativePath: String!, params: ArtikelenMutation!): ArtikelenDocument!
+  createArtikelenDocument(relativePath: String!, params: ArtikelenMutation!): ArtikelenDocument!
 }
 
 input DocumentMutation {
-  post: PostMutation
+  artikelen: ArtikelenMutation
 }
 
-input PostMutation {
+input ArtikelenMutation {
   title: String
+  subtitle: String
   date: String
   draft: Boolean
   body: String
