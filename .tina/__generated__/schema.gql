@@ -82,6 +82,8 @@ type Artikelen {
   title: String
   subtitle: String
   date: String
+  auteurs: [String]
+  themas: [String]
   draft: Boolean
   body: String
 }
@@ -123,6 +125,8 @@ input ArtikelenMutation {
   title: String
   subtitle: String
   date: String
+  auteurs: [String]
+  themas: [String]
   draft: Boolean
   body: String
 }

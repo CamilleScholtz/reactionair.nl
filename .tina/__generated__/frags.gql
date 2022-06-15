@@ -2,6 +2,8 @@ fragment ArtikelenParts on Artikelen {
   title
   subtitle
   date
+  auteurs
+  themas
   draft
   body
 }
