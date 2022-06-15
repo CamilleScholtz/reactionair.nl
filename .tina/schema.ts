@@ -3,9 +3,9 @@ import { defineSchema } from "@tinacms/cli";
 export default defineSchema({
   collections: [
     {
-      label: "Blog Posts",
-      name: "post",
-      path: "content/dummy-posts",
+      label: "Artikelen",
+      name: "artikelen",
+      path: "content/artikelen",
       fields: [
         {
           type: "string",
@@ -14,12 +14,17 @@ export default defineSchema({
         },
         {
           type: "string",
-          label: "Date",
+          label: "Ondertitel",
+          name: "subtitle",
+        },
+        {
+          type: "string",
+          label: "Datum",
           name: "date",
         },
         {
           type: "boolean",
-          label: "Is Draft Post",
+          label: "Concept",
           name: "draft",
         },
         {
