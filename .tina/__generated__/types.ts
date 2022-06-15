@@ -70,6 +70,8 @@ export type Query = {
   getDocumentFields: Scalars['JSON'];
   getArtikelenDocument: ArtikelenDocument;
   getArtikelenList: ArtikelenConnection;
+  getDossiersDocument: DossiersDocument;
+  getDossiersList: DossiersConnection;
 };
 
 
@@ -116,6 +118,20 @@ export type QueryGetArtikelenListArgs = {
   sort?: InputMaybe<Scalars['String']>;
 };
 
+
+export type QueryGetDossiersDocumentArgs = {
+  relativePath?: InputMaybe<Scalars['String']>;
+};
+
+
+export type QueryGetDossiersListArgs = {
+  before?: InputMaybe<Scalars['String']>;
+  after?: InputMaybe<Scalars['String']>;
+  first?: InputMaybe<Scalars['Float']>;
+  last?: InputMaybe<Scalars['Float']>;
+  sort?: InputMaybe<Scalars['String']>;
+};
+
 export type DocumentConnectionEdges = {
   __typename?: 'DocumentConnectionEdges';
   cursor?: Maybe<Scalars['String']>;
@@ -151,7 +167,7 @@ export type CollectionDocumentsArgs = {
   sort?: InputMaybe<Scalars['String']>;
 };
 
-export type DocumentNode = ArtikelenDocument;
+export type DocumentNode = ArtikelenDocument | DossiersDocument;
 
 export type Artikelen = {
   __typename?: 'Artikelen';
@@ -187,6 +203,36 @@ export type ArtikelenConnection = Connection & {
   edges?: Maybe<Array<Maybe<ArtikelenConnectionEdges>>>;
 };
 
+export type Dossiers = {
+  __typename?: 'Dossiers';
+  title?: Maybe<Scalars['String']>;
+  heading?: Maybe<Scalars['String']>;
+  description?: Maybe<Scalars['String']>;
+};
+
+export type DossiersDocument = Node & Document & {
+  __typename?: 'DossiersDocument';
+  id: Scalars['ID'];
+  sys: SystemInfo;
+  data: Dossiers;
+  form: Scalars['JSON'];
+  values: Scalars['JSON'];
+  dataJSON: Scalars['JSON'];
+};
+
+export type DossiersConnectionEdges = {
+  __typename?: 'DossiersConnectionEdges';
+  cursor?: Maybe<Scalars['String']>;
+  node?: Maybe<DossiersDocument>;
+};
+
+export type DossiersConnection = Connection & {
+  __typename?: 'DossiersConnection';
+  pageInfo?: Maybe<PageInfo>;
+  totalCount: Scalars['Float'];
+  edges?: Maybe<Array<Maybe<DossiersConnectionEdges>>>;
+};
+
 export type Mutation = {
   __typename?: 'Mutation';
   addPendingDocument: DocumentNode;
@@ -195,6 +241,8 @@ export type Mutation = {
   createDocument: DocumentNode;
   updateArtikelenDocument: ArtikelenDocument;
   createArtikelenDocument: ArtikelenDocument;
+  updateDossiersDocument: DossiersDocument;
+  createDossiersDocument: DossiersDocument;
 };
 
 
@@ -236,8 +284,21 @@ export type MutationCreateArtikelenDocumentArgs = {
   params: ArtikelenMutation;
 };
 
+
+export type MutationUpdateDossiersDocumentArgs = {
+  relativePath: Scalars['String'];
+  params: DossiersMutation;
+};
+
+
+export type MutationCreateDossiersDocumentArgs = {
+  relativePath: Scalars['String'];
+  params: DossiersMutation;
+};
+
 export type DocumentMutation = {
   artikelen?: InputMaybe<ArtikelenMutation>;
+  dossiers?: InputMaybe<DossiersMutation>;
 };
 
 export type ArtikelenMutation = {
@@ -250,7 +311,15 @@ export type ArtikelenMutation = {
   body?: InputMaybe<Scalars['String']>;
 };
 
+export type DossiersMutation = {
+  title?: InputMaybe<Scalars['String']>;
+  heading?: InputMaybe<Scalars['String']>;
+  description?: InputMaybe<Scalars['String']>;
+};
+
 export type ArtikelenPartsFragment = { __typename?: 'Artikelen', title?: string | null, subtitle?: string | null, date?: string | null, auteurs?: Array<string | null> | null, themas?: Array<string | null> | null, draft?: boolean | null, body?: string | null };
+
+export type DossiersPartsFragment = { __typename?: 'Dossiers', title?: string | null, heading?: string | null, description?: string | null };
 
 export type GetArtikelenDocumentQueryVariables = Exact<{
   relativePath: Scalars['String'];
@@ -264,6 +333,18 @@ export type GetArtikelenListQueryVariables = Exact<{ [key: string]: never; }>;
 
 export type GetArtikelenListQuery = { __typename?: 'Query', getArtikelenList: { __typename?: 'ArtikelenConnection', totalCount: number, edges?: Array<{ __typename?: 'ArtikelenConnectionEdges', node?: { __typename?: 'ArtikelenDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Artikelen', title?: string | null, subtitle?: string | null, date?: string | null, auteurs?: Array<string | null> | null, themas?: Array<string | null> | null, draft?: boolean | null, body?: string | null } } | null } | null> | null } };
 
+export type GetDossiersDocumentQueryVariables = Exact<{
+  relativePath: Scalars['String'];
+}>;
+
+
+export type GetDossiersDocumentQuery = { __typename?: 'Query', getDossiersDocument: { __typename?: 'DossiersDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Dossiers', title?: string | null, heading?: string | null, description?: string | null } } };
+
+export type GetDossiersListQueryVariables = Exact<{ [key: string]: never; }>;
+
+
+export type GetDossiersListQuery = { __typename?: 'Query', getDossiersList: { __typename?: 'DossiersConnection', totalCount: number, edges?: Array<{ __typename?: 'DossiersConnectionEdges', node?: { __typename?: 'DossiersDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Dossiers', title?: string | null, heading?: string | null, description?: string | null } } | null } | null> | null } };
+
 export const ArtikelenPartsFragmentDoc = gql`
     fragment ArtikelenParts on Artikelen {
   title
@@ -273,6 +354,13 @@ export const ArtikelenPartsFragmentDoc = gql`
   themas
   draft
   body
+}
+    `;
+export const DossiersPartsFragmentDoc = gql`
+    fragment DossiersParts on Dossiers {
+  title
+  heading
+  description
 }
     `;
 export const GetArtikelenDocumentDocument = gql`
@@ -316,6 +404,47 @@ export const GetArtikelenListDocument = gql`
   }
 }
     ${ArtikelenPartsFragmentDoc}`;
+export const GetDossiersDocumentDocument = gql`
+    query getDossiersDocument($relativePath: String!) {
+  getDossiersDocument(relativePath: $relativePath) {
+    sys {
+      filename
+      basename
+      breadcrumbs
+      path
+      relativePath
+      extension
+    }
+    id
+    data {
+      ...DossiersParts
+    }
+  }
+}
+    ${DossiersPartsFragmentDoc}`;
+export const GetDossiersListDocument = gql`
+    query getDossiersList {
+  getDossiersList {
+    totalCount
+    edges {
+      node {
+        id
+        sys {
+          filename
+          basename
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        data {
+          ...DossiersParts
+        }
+      }
+    }
+  }
+}
+    ${DossiersPartsFragmentDoc}`;
 export type Requester<C= {}> = <R, V>(doc: DocumentNode, vars?: V, options?: C) => Promise<R>
   export function getSdk<C>(requester: Requester<C>) {
     return {
@@ -324,6 +453,12 @@ export type Requester<C= {}> = <R, V>(doc: DocumentNode, vars?: V, options?: C) 
       },
     getArtikelenList(variables?: GetArtikelenListQueryVariables, options?: C): Promise<{data: GetArtikelenListQuery, variables: GetArtikelenListQueryVariables, query: string}> {
         return requester<{data: GetArtikelenListQuery, variables: GetArtikelenListQueryVariables, query: string}, GetArtikelenListQueryVariables>(GetArtikelenListDocument, variables, options);
+      },
+    getDossiersDocument(variables: GetDossiersDocumentQueryVariables, options?: C): Promise<{data: GetDossiersDocumentQuery, variables: GetDossiersDocumentQueryVariables, query: string}> {
+        return requester<{data: GetDossiersDocumentQuery, variables: GetDossiersDocumentQueryVariables, query: string}, GetDossiersDocumentQueryVariables>(GetDossiersDocumentDocument, variables, options);
+      },
+    getDossiersList(variables?: GetDossiersListQueryVariables, options?: C): Promise<{data: GetDossiersListQuery, variables: GetDossiersListQueryVariables, query: string}> {
+        return requester<{data: GetDossiersListQuery, variables: GetDossiersListQueryVariables, query: string}, GetDossiersListQueryVariables>(GetDossiersListDocument, variables, options);
       }
     };
   }

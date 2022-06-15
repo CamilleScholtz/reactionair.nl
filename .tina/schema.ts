@@ -6,7 +6,6 @@ export default defineSchema({
       label: 'Artikelen',
       name: 'artikelen',
       path: 'content/artikelen',
-      format: 'md',
       fields: [
         {
           type: 'string',
@@ -73,5 +72,27 @@ export default defineSchema({
         },
       ],
     },
+    {
+      label: 'Dossiers',
+      name: 'dossiers',
+      path: 'content/dossiers',
+      fields: [
+      	{
+          type: 'string',
+          label: 'Titel',
+          name: 'title',
+      	},
+       	{
+          type: 'string',
+          label: 'Titel (op paginas)',
+          name: 'heading',
+      	},
+       	{
+          type: 'string',
+          label: 'Beschrijving',
+          name: 'description',
+      	},
+      ],
+    }
   ],
 });

@@ -51,6 +51,8 @@ type Query {
   getDocumentFields: JSON!
   getArtikelenDocument(relativePath: String): ArtikelenDocument!
   getArtikelenList(before: String, after: String, first: Float, last: Float, sort: String): ArtikelenConnection!
+  getDossiersDocument(relativePath: String): DossiersDocument!
+  getDossiersList(before: String, after: String, first: Float, last: Float, sort: String): DossiersConnection!
 }
 
 type DocumentConnectionEdges {
@@ -76,7 +78,7 @@ type Collection {
   documents(before: String, after: String, first: Float, last: Float, sort: String): DocumentConnection!
 }
 
-union DocumentNode = ArtikelenDocument
+union DocumentNode = ArtikelenDocument | DossiersDocument
 
 type Artikelen {
   title: String
@@ -108,6 +110,32 @@ type ArtikelenConnection implements Connection {
   edges: [ArtikelenConnectionEdges]
 }
 
+type Dossiers {
+  title: String
+  heading: String
+  description: String
+}
+
+type DossiersDocument implements Node & Document {
+  id: ID!
+  sys: SystemInfo!
+  data: Dossiers!
+  form: JSON!
+  values: JSON!
+  dataJSON: JSON!
+}
+
+type DossiersConnectionEdges {
+  cursor: String
+  node: DossiersDocument
+}
+
+type DossiersConnection implements Connection {
+  pageInfo: PageInfo
+  totalCount: Float!
+  edges: [DossiersConnectionEdges]
+}
+
 type Mutation {
   addPendingDocument(collection: String!, relativePath: String!, template: String): DocumentNode!
   updateDocument(collection: String, relativePath: String!, params: DocumentMutation!): DocumentNode!
@@ -115,10 +143,13 @@ type Mutation {
   createDocument(collection: String, relativePath: String!, params: DocumentMutation!): DocumentNode!
   updateArtikelenDocument(relativePath: String!, params: ArtikelenMutation!): ArtikelenDocument!
   createArtikelenDocument(relativePath: String!, params: ArtikelenMutation!): ArtikelenDocument!
+  updateDossiersDocument(relativePath: String!, params: DossiersMutation!): DossiersDocument!
+  createDossiersDocument(relativePath: String!, params: DossiersMutation!): DossiersDocument!
 }
 
 input DocumentMutation {
   artikelen: ArtikelenMutation
+  dossiers: DossiersMutation
 }
 
 input ArtikelenMutation {
@@ -129,6 +160,12 @@ input ArtikelenMutation {
   themas: [String]
   draft: Boolean
   body: String
+}
+
+input DossiersMutation {
+  title: String
+  heading: String
+  description: String
 }
 
 schema {

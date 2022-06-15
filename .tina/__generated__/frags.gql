@@ -7,3 +7,9 @@ fragment ArtikelenParts on Artikelen {
   draft
   body
 }
+
+fragment DossiersParts on Dossiers {
+  title
+  heading
+  description
+}

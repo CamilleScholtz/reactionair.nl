@@ -36,3 +36,42 @@ query getArtikelenList {
     }
   }
 }
+
+query getDossiersDocument($relativePath: String!) {
+  getDossiersDocument(relativePath: $relativePath) {
+    sys {
+      filename
+      basename
+      breadcrumbs
+      path
+      relativePath
+      extension
+    }
+    id
+    data {
+      ...DossiersParts
+    }
+  }
+}
+
+query getDossiersList {
+  getDossiersList {
+    totalCount
+    edges {
+      node {
+        id
+        sys {
+          filename
+          basename
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        data {
+          ...DossiersParts
+        }
+      }
+    }
+  }
+}
