@@ -1,76 +1,88 @@
-query getArtikelenDocument($relativePath: String!) {
-  getArtikelenDocument(relativePath: $relativePath) {
-    sys {
-      filename
-      basename
-      breadcrumbs
-      path
-      relativePath
-      extension
+query artikelen($relativePath: String!) {
+  artikelen(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
     }
-    id
-    data {
-      ...ArtikelenParts
-    }
+    ...ArtikelenParts
   }
 }
 
-query getArtikelenList {
-  getArtikelenList {
+query artikelenConnection($before: String, $after: String, $first: Float, $last: Float, $sort: String) {
+  artikelenConnection(
+    before: $before
+    after: $after
+    first: $first
+    last: $last
+    sort: $sort
+  ) {
     totalCount
     edges {
       node {
-        id
-        sys {
-          filename
-          basename
-          breadcrumbs
-          path
-          relativePath
-          extension
+        ... on Document {
+          _sys {
+            filename
+            basename
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
         }
-        data {
-          ...ArtikelenParts
-        }
+        ...ArtikelenParts
       }
     }
   }
 }
 
-query getDossiersDocument($relativePath: String!) {
-  getDossiersDocument(relativePath: $relativePath) {
-    sys {
-      filename
-      basename
-      breadcrumbs
-      path
-      relativePath
-      extension
+query dossiers($relativePath: String!) {
+  dossiers(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
     }
-    id
-    data {
-      ...DossiersParts
-    }
+    ...DossiersParts
   }
 }
 
-query getDossiersList {
-  getDossiersList {
+query dossiersConnection($before: String, $after: String, $first: Float, $last: Float, $sort: String) {
+  dossiersConnection(
+    before: $before
+    after: $after
+    first: $first
+    last: $last
+    sort: $sort
+  ) {
     totalCount
     edges {
       node {
-        id
-        sys {
-          filename
-          basename
-          breadcrumbs
-          path
-          relativePath
-          extension
+        ... on Document {
+          _sys {
+            filename
+            basename
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
         }
-        data {
-          ...DossiersParts
-        }
+        ...DossiersParts
       }
     }
   }
