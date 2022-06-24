@@ -4,7 +4,7 @@ subtitle  = "De eclips van de seculiere ethiek"
 auteurs   = ["Magnus Bradshaw"]
 date      = "2022-04-01"
 themas    = "Religie & Metafysica"
-geciteerd = ["Charles Darwin", "Fjodor Dostojevski", "John Gray", "Friedrich Nietzsche", "Roger Scruton"]
+geciteerd = ["Charles Darwin", "Fjodor Dostojevski", "John Gray", "Friedrich Nietzsche", "Roger Scruton", "William Shakespeare"]
 +++
 
 

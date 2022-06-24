@@ -4,7 +4,7 @@ subtitle  = "Waarom het streven naar objectiviteit een doodlopend pad is, deel 3
 auteurs   = ["De Melancholieke Nar"]
 date      = "2022-02-09"
 themas    = "Religie & Metafysica"
-geciteerd = ["René Descartes", "Fjodor Dostojevski", "Martin Heidegger"]
+geciteerd = ["George Berkeley", "René Descartes", "Fjodor Dostojevski", "Martin Heidegger", "Baruch Spinoza"]
 +++
 
 

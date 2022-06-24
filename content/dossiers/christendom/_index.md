@@ -1,5 +1,5 @@
 ---
-title:       Christendom
-heading:     Meer dossier Christendom
+title: Christendom
+heading: Meer dossier Christendom
 description: Artikelen in dossier Christendom.
 ---

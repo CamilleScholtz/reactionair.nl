@@ -1,18 +1,28 @@
 +++
 title    = "Reflectie op de glijdende schaal"
-subtitle = "TODO"
+subtitle = "Drogreden of werkelijkheid?"
 auteurs  = ["Eco al-Hollandi"]
 date     = "2022-06-15"
 themas   = "Politiek & Actualiteit"
 dossiers = ["Woke"]
-draft = true
 +++
 
 
 Een paar dagen geleden las ik een artikel in het Britse Metro waarin de auteur van wal stak tegen het privilege wat blanke _“queers”_ zouden genieten. Er werd gesproken over het racisme dat zwarte en Aziatische mensen zouden ervaringen in de LGBT-gemeenschap.
 
+{{< image
+	caption="Kinderen spelen met slee, door Yulia Parabina."
+>}}
+
 Dit soort meningen zie ik steeds vaker voorbij komen. Ook in Nederland zien we soortgelijke discussies. Zo kreeg bij het tv-programma _HLF8_ John de Bever het aan de stok met Barbara Barend. Bever, zelf homoseksueel, vond het hedendaagse discours volledig belachelijk. 
 Al die identiteiten en het gezeur om discriminatie ging hem veel te ver. “Conservatieven” in het Westen breken tegenwoordig dan ook vaak een lans voor de “gewone witte homo”. Veel “conservatieve” partijen aan de rechterzijde kennen inmiddels ook een homoseksueel die zich maar al te graag uitspreekt tegen de doorgeslagen LGBT-gemeenschap en als “normale homo” ten toon wordt gesteld. Iets waar de gemiddelde rechts-reactionair hard om kan lachen.
+
+{{< quote
+	text="Het is natuurlijk bizar dat iemand die zelf zijn of haar vrijheden opeist vervolgens arbitrair een grens trekt wanneer anderen dit doen."
+	author="Eco al-Hollandi"
+	aside=true
+	noblock=true
+>}}
 
 Maar laten we deze situatie eens onder de loep nemen. Links-progressieve kritiek op deze “conservatieve” homoseksuelen draait regelmatig om de hypocrisie die zij tentoonstellen. Ze hebben zelf ook ooit voor hun eigen vrijheden gestreden, maar willen nu de vrijheden van anderen beperken. Deze kritiek klopt volkomen. Het is natuurlijk bizar dat iemand die zelf zijn of haar vrijheden opeist vervolgens arbitrair een grens trekt wanneer anderen dit doen. En hier zien we het probleem van het centraal zetten van de begeerte van het individu.
 
@@ -23,7 +33,7 @@ De enige mogelijkheid die je in dat geval hebt is om mee te gaan in de alsmaar v
 
 Dat is de kanker van het individualisme. Het plaatsen van het individu of van een kleine groep en zijn of haar persoonlijke begeertes boven dat van de samenleving onder het mom van inclusie. De acceptatie van de behoeften van een kleine groep zal uiteindelijk leiden tot een andere kleine groep die ook geaccepteerd wilt worden. 
 
-Oftewel, de welbekende glijdende schaal is geen drogreden, maar een werkelijkheid. En vandaar dat een sterk besef van wat veranderingen teweeg kunnen brengen in de samenleving zo belangrijk is. Waar wij nu beleid voeren op het emanciperen van specifieke groepen wordt er amper nagedacht over welk gevolg dit beleid heeft voor de rest van de samenleving. Vaak wordt er gedacht dat dit beleid immers enkel van toepassing is op deze groep.
+Oftewel, de welbekende glijdende schaal is geen drogreden, maar een werkelijkheid. En vandaar dat een sterk besef van wat veranderingen teweeg kunnen brengen in de samenleving zo belangrijk is. Waar wij nu beleid voeren op het emanciperen van specifieke groepen wordt er amper nagedacht over welk gevolg dit beleid heeft voor de rest van de samenleving. Vaak wordt er gedacht dat dit beleid immers enkel van toepassing is op deze groep.
 
 Maar dit is absoluut niet zo. Veranderend beleid, veranderende wetten, veranderende denkbeelden hebben bijna altijd gevolgen voor de gehele samenleving, en niet alleen maar voor de desbetreffende groep die in het middelpunt staat. Men zou dus verder moeten denken dan het individu of dan zijn of haar kleine groep, maar de groep/de samenleving als geheel in gedachten moeten nemen. Elk mens heeft zijn of haar begeertes, maar als het implementeren of het uitvoeren van deze begeertes tot resultaat hebben dat de samenleving vervalt, dan zou de groep boven het individu geplaatst moeten worden. 
 
