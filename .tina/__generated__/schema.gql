@@ -7,7 +7,6 @@ scalar JSON
 
 type SystemInfo {
   filename: String!
-  title: String
   basename: String!
   breadcrumbs(excludeExtension: Boolean): [String!]!
   path: String!
@@ -31,36 +30,38 @@ interface Node {
 
 """"""
 interface Document {
+  sys: SystemInfo
   id: ID!
-  _sys: SystemInfo
-  _values: JSON!
+  form: JSON!
+  values: JSON!
 }
 
 """A relay-compliant pagination connection"""
 interface Connection {
   totalCount: Float!
-  pageInfo: PageInfo!
 }
 
 type Query {
   getOptimizedQuery(queryString: String!): String
-  collection(collection: String): Collection!
-  collections: [Collection!]!
+  getCollection(collection: String): Collection!
+  getCollections: [Collection!]!
   node(id: String): Node!
-  document(collection: String, relativePath: String): DocumentNode!
-  artikelen(relativePath: String): Artikelen!
-  artikelenConnection(before: String, after: String, first: Float, last: Float, sort: String): ArtikelenConnection!
-  dossiers(relativePath: String): Dossiers!
-  dossiersConnection(before: String, after: String, first: Float, last: Float, sort: String): DossiersConnection!
+  getDocument(collection: String, relativePath: String): DocumentNode!
+  getDocumentList(before: String, after: String, first: Float, last: Float, sort: String): DocumentConnection!
+  getDocumentFields: JSON!
+  getArtikelenDocument(relativePath: String): ArtikelenDocument!
+  getArtikelenList(before: String, after: String, first: Float, last: Float, sort: String): ArtikelenConnection!
+  getDossiersDocument(relativePath: String): DossiersDocument!
+  getDossiersList(before: String, after: String, first: Float, last: Float, sort: String): DossiersConnection!
 }
 
 type DocumentConnectionEdges {
-  cursor: String!
+  cursor: String
   node: DocumentNode
 }
 
 type DocumentConnection implements Connection {
-  pageInfo: PageInfo!
+  pageInfo: PageInfo
   totalCount: Float!
   edges: [DocumentConnectionEdges]
 }
@@ -77,9 +78,9 @@ type Collection {
   documents(before: String, after: String, first: Float, last: Float, sort: String): DocumentConnection!
 }
 
-union DocumentNode = Artikelen | Dossiers
+union DocumentNode = ArtikelenDocument | DossiersDocument
 
-type Artikelen implements Node & Document {
+type Artikelen {
   title: String
   subtitle: String
   date: String
@@ -87,38 +88,50 @@ type Artikelen implements Node & Document {
   themas: [String]
   draft: Boolean
   body: String
+}
+
+type ArtikelenDocument implements Node & Document {
   id: ID!
-  _sys: SystemInfo!
-  _values: JSON!
+  sys: SystemInfo!
+  data: Artikelen!
+  form: JSON!
+  values: JSON!
+  dataJSON: JSON!
 }
 
 type ArtikelenConnectionEdges {
-  cursor: String!
-  node: Artikelen
+  cursor: String
+  node: ArtikelenDocument
 }
 
 type ArtikelenConnection implements Connection {
-  pageInfo: PageInfo!
+  pageInfo: PageInfo
   totalCount: Float!
   edges: [ArtikelenConnectionEdges]
 }
 
-type Dossiers implements Node & Document {
+type Dossiers {
   title: String
   heading: String
   description: String
+}
+
+type DossiersDocument implements Node & Document {
   id: ID!
-  _sys: SystemInfo!
-  _values: JSON!
+  sys: SystemInfo!
+  data: Dossiers!
+  form: JSON!
+  values: JSON!
+  dataJSON: JSON!
 }
 
 type DossiersConnectionEdges {
-  cursor: String!
-  node: Dossiers
+  cursor: String
+  node: DossiersDocument
 }
 
 type DossiersConnection implements Connection {
-  pageInfo: PageInfo!
+  pageInfo: PageInfo
   totalCount: Float!
   edges: [DossiersConnectionEdges]
 }
@@ -128,10 +141,10 @@ type Mutation {
   updateDocument(collection: String, relativePath: String!, params: DocumentMutation!): DocumentNode!
   deleteDocument(collection: String, relativePath: String!): DocumentNode!
   createDocument(collection: String, relativePath: String!, params: DocumentMutation!): DocumentNode!
-  updateArtikelen(relativePath: String!, params: ArtikelenMutation!): Artikelen!
-  createArtikelen(relativePath: String!, params: ArtikelenMutation!): Artikelen!
-  updateDossiers(relativePath: String!, params: DossiersMutation!): Dossiers!
-  createDossiers(relativePath: String!, params: DossiersMutation!): Dossiers!
+  updateArtikelenDocument(relativePath: String!, params: ArtikelenMutation!): ArtikelenDocument!
+  createArtikelenDocument(relativePath: String!, params: ArtikelenMutation!): ArtikelenDocument!
+  updateDossiersDocument(relativePath: String!, params: DossiersMutation!): DossiersDocument!
+  createDossiersDocument(relativePath: String!, params: DossiersMutation!): DossiersDocument!
 }
 
 input DocumentMutation {

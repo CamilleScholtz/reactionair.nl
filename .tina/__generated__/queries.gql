@@ -1,76 +1,76 @@
-query artikelen($relativePath: String!) {
-  artikelen(relativePath: $relativePath) {
-    ... on Document {
-      _sys {
-        filename
-        basename
-        breadcrumbs
-        path
-        relativePath
-        extension
-      }
-      id
+query getArtikelenDocument($relativePath: String!) {
+  getArtikelenDocument(relativePath: $relativePath) {
+    sys {
+      filename
+      basename
+      breadcrumbs
+      path
+      relativePath
+      extension
     }
-    ...ArtikelenParts
+    id
+    data {
+      ...ArtikelenParts
+    }
   }
 }
 
-query artikelenConnection {
-  artikelenConnection {
+query getArtikelenList {
+  getArtikelenList {
     totalCount
     edges {
       node {
-        ... on Document {
-          _sys {
-            filename
-            basename
-            breadcrumbs
-            path
-            relativePath
-            extension
-          }
-          id
+        id
+        sys {
+          filename
+          basename
+          breadcrumbs
+          path
+          relativePath
+          extension
         }
-        ...ArtikelenParts
+        data {
+          ...ArtikelenParts
+        }
       }
     }
   }
 }
 
-query dossiers($relativePath: String!) {
-  dossiers(relativePath: $relativePath) {
-    ... on Document {
-      _sys {
-        filename
-        basename
-        breadcrumbs
-        path
-        relativePath
-        extension
-      }
-      id
+query getDossiersDocument($relativePath: String!) {
+  getDossiersDocument(relativePath: $relativePath) {
+    sys {
+      filename
+      basename
+      breadcrumbs
+      path
+      relativePath
+      extension
     }
-    ...DossiersParts
+    id
+    data {
+      ...DossiersParts
+    }
   }
 }
 
-query dossiersConnection {
-  dossiersConnection {
+query getDossiersList {
+  getDossiersList {
     totalCount
     edges {
       node {
-        ... on Document {
-          _sys {
-            filename
-            basename
-            breadcrumbs
-            path
-            relativePath
-            extension
-          }
-          id
+        id
+        sys {
+          filename
+          basename
+          breadcrumbs
+          path
+          relativePath
+          extension
         }
-        ...DossiersParts
+        data {
+          ...DossiersParts
+        }
       }
     }
   }
