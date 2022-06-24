@@ -167,13 +167,13 @@ export type DocumentNode = Artikelen | Dossiers;
 
 export type Artikelen = Node & Document & {
   __typename?: 'Artikelen';
+  draft?: Maybe<Scalars['Boolean']>;
   title?: Maybe<Scalars['String']>;
   subtitle?: Maybe<Scalars['String']>;
   date?: Maybe<Scalars['String']>;
   auteurs?: Maybe<Array<Maybe<Scalars['String']>>>;
-  themas?: Maybe<Array<Maybe<Scalars['String']>>>;
-  draft?: Maybe<Scalars['Boolean']>;
-  body?: Maybe<Scalars['String']>;
+  themas?: Maybe<Scalars['String']>;
+  body?: Maybe<Scalars['JSON']>;
   id: Scalars['ID'];
   _sys: SystemInfo;
   _values: Scalars['JSON'];
@@ -284,13 +284,13 @@ export type DocumentMutation = {
 };
 
 export type ArtikelenMutation = {
+  draft?: InputMaybe<Scalars['Boolean']>;
   title?: InputMaybe<Scalars['String']>;
   subtitle?: InputMaybe<Scalars['String']>;
   date?: InputMaybe<Scalars['String']>;
   auteurs?: InputMaybe<Array<InputMaybe<Scalars['String']>>>;
-  themas?: InputMaybe<Array<InputMaybe<Scalars['String']>>>;
-  draft?: InputMaybe<Scalars['Boolean']>;
-  body?: InputMaybe<Scalars['String']>;
+  themas?: InputMaybe<Scalars['String']>;
+  body?: InputMaybe<Scalars['JSON']>;
 };
 
 export type DossiersMutation = {
@@ -299,7 +299,7 @@ export type DossiersMutation = {
   description?: InputMaybe<Scalars['String']>;
 };
 
-export type ArtikelenPartsFragment = { __typename?: 'Artikelen', title?: string | null, subtitle?: string | null, date?: string | null, auteurs?: Array<string | null> | null, themas?: Array<string | null> | null, draft?: boolean | null, body?: string | null };
+export type ArtikelenPartsFragment = { __typename?: 'Artikelen', draft?: boolean | null, title?: string | null, subtitle?: string | null, date?: string | null, auteurs?: Array<string | null> | null, themas?: string | null, body?: any | null };
 
 export type DossiersPartsFragment = { __typename?: 'Dossiers', title?: string | null, heading?: string | null, description?: string | null };
 
@@ -308,7 +308,7 @@ export type ArtikelenQueryVariables = Exact<{
 }>;
 
 
-export type ArtikelenQuery = { __typename?: 'Query', artikelen: { __typename?: 'Artikelen', id: string, title?: string | null, subtitle?: string | null, date?: string | null, auteurs?: Array<string | null> | null, themas?: Array<string | null> | null, draft?: boolean | null, body?: string | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } };
+export type ArtikelenQuery = { __typename?: 'Query', artikelen: { __typename?: 'Artikelen', id: string, draft?: boolean | null, title?: string | null, subtitle?: string | null, date?: string | null, auteurs?: Array<string | null> | null, themas?: string | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } };
 
 export type ArtikelenConnectionQueryVariables = Exact<{
   before?: InputMaybe<Scalars['String']>;
@@ -319,7 +319,7 @@ export type ArtikelenConnectionQueryVariables = Exact<{
 }>;
 
 
-export type ArtikelenConnectionQuery = { __typename?: 'Query', artikelenConnection: { __typename?: 'ArtikelenConnection', totalCount: number, edges?: Array<{ __typename?: 'ArtikelenConnectionEdges', node?: { __typename?: 'Artikelen', id: string, title?: string | null, subtitle?: string | null, date?: string | null, auteurs?: Array<string | null> | null, themas?: Array<string | null> | null, draft?: boolean | null, body?: string | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } | null } | null> | null } };
+export type ArtikelenConnectionQuery = { __typename?: 'Query', artikelenConnection: { __typename?: 'ArtikelenConnection', totalCount: number, edges?: Array<{ __typename?: 'ArtikelenConnectionEdges', node?: { __typename?: 'Artikelen', id: string, draft?: boolean | null, title?: string | null, subtitle?: string | null, date?: string | null, auteurs?: Array<string | null> | null, themas?: string | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } | null } | null> | null } };
 
 export type DossiersQueryVariables = Exact<{
   relativePath: Scalars['String'];
@@ -341,12 +341,12 @@ export type DossiersConnectionQuery = { __typename?: 'Query', dossiersConnection
 
 export const ArtikelenPartsFragmentDoc = gql`
     fragment ArtikelenParts on Artikelen {
+  draft
   title
   subtitle
   date
   auteurs
   themas
-  draft
   body
 }
     `;

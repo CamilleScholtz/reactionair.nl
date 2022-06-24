@@ -80,13 +80,13 @@ type Collection {
 union DocumentNode = Artikelen | Dossiers
 
 type Artikelen implements Node & Document {
+  draft: Boolean
   title: String
   subtitle: String
   date: String
   auteurs: [String]
-  themas: [String]
-  draft: Boolean
-  body: String
+  themas: String
+  body: JSON
   id: ID!
   _sys: SystemInfo!
   _values: JSON!
@@ -140,13 +140,13 @@ input DocumentMutation {
 }
 
 input ArtikelenMutation {
+  draft: Boolean
   title: String
   subtitle: String
   date: String
   auteurs: [String]
-  themas: [String]
-  draft: Boolean
-  body: String
+  themas: String
+  body: JSON
 }
 
 input DossiersMutation {

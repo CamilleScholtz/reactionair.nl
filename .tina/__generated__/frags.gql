@@ -1,10 +1,10 @@
 fragment ArtikelenParts on Artikelen {
+  draft
   title
   subtitle
   date
   auteurs
   themas
-  draft
   body
 }
 

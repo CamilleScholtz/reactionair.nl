@@ -1,5 +1,5 @@
-import TinaCMS, { defineSchema, TinaAdmin } from "tinacms";
-import { TinaEditProvider, setEditing } from "tinacms/dist/edit-state";
+import TinaCMS, { defineSchema, TinaAdmin } from "tinacms"
+import { TinaEditProvider, setEditing } from "tinacms/dist/edit-state"
 import schema from "../../.tina/schema"
 
 function App() {
@@ -7,10 +7,9 @@ function App() {
 
   const branch = "main";
   const clientId = "79dc3577-e67a-423b-bfb5-76fea2b0a155";
-  const apiURL =
-    process.env.NODE_ENV == "development"
-      ? "http://localhost:4001/graphql"
-      : `https://content.tinajs.io/content/${clientId}/github/${branch}`;
+  const apiURL = process.env.NODE_ENV == "development"
+    ? "http://localhost:4001/graphql"
+    : `https://content.tinajs.io/content/${clientId}/github/${branch}`;
 
   return (
     <TinaEditProvider

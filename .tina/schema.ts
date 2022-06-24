@@ -8,6 +8,11 @@ export default defineSchema({
       path: 'content/artikelen',
       fields: [
         {
+          label: 'Concept',
+          name: 'draft',
+          type: 'boolean',
+        },
+        {
           label: 'Title',
           name: 'title',
           type: 'string',
@@ -20,10 +25,10 @@ export default defineSchema({
         {
           label: 'Datum',
           name: 'date',
-          type: 'datetime',
-          ui: {
-            dateFormat: 'YYYY-MM-DD'
-          },
+          type: 'string',
+          /*ui: {
+            dateFormat: 'YYYY-MM-DD',
+          },*/
         },
         {
           label: 'Auteurs',
@@ -35,7 +40,6 @@ export default defineSchema({
           label: 'Thema',
           name: 'themas',
           type: 'string',
-          list: true,
           options: [
             {
               value: 'Politiek & Actualiteit',
@@ -60,15 +64,10 @@ export default defineSchema({
           ],
         },
         {
-          label: 'Concept',
-          name: 'draft',
-          type: 'boolean',
-        },
-        {
           label: 'Content',
           name: 'body',
+          type: 'rich-text',
           isBody: true,
-          type: 'string',
         },
       ],
     },
