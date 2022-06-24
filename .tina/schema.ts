@@ -1,4 +1,4 @@
-import { defineSchema } from '@tinacms/cli';
+import { defineSchema } from 'tinacms';
 
 export default defineSchema({
   collections: [
@@ -8,33 +8,33 @@ export default defineSchema({
       path: 'content/artikelen',
       fields: [
         {
-          type: 'string',
           label: 'Title',
           name: 'title',
+          type: 'string',
         },
         {
-          type: 'string',
           label: 'Ondertitel',
           name: 'subtitle',
+          type: 'string',
         },
         {
-          type: 'datetime',
           label: 'Datum',
           name: 'date',
+          type: 'datetime',
           ui: {
             dateFormat: 'YYYY-MM-DD'
           },
         },
         {
-          type: 'string',
           label: 'Auteurs',
           name: 'auteurs',
+          type: 'string',
           list: true,
         },
         {
-          type: 'string',
           label: 'Thema',
           name: 'themas',
+          type: 'string',
           list: true,
           options: [
             {
@@ -60,15 +60,15 @@ export default defineSchema({
           ],
         },
         {
-          type: 'boolean',
           label: 'Concept',
           name: 'draft',
+          type: 'boolean',
         },
         {
-          type: 'string',
           label: 'Content',
           name: 'body',
           isBody: true,
+          type: 'string',
         },
       ],
     },
@@ -78,19 +78,19 @@ export default defineSchema({
       path: 'content/dossiers',
       fields: [
       	{
-          type: 'string',
           label: 'Titel',
           name: 'title',
+          type: 'string',
       	},
        	{
-          type: 'string',
           label: 'Titel (op paginas)',
           name: 'heading',
+          type: 'string',
       	},
        	{
-          type: 'string',
           label: 'Beschrijving',
           name: 'description',
+          type: 'string',
       	},
       ],
     }
