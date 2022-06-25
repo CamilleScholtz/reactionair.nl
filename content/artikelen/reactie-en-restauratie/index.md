@@ -1,9 +1,10 @@
 ---
-title    : "Reactie en restauratie"
-subtitle : "Een rechts woordenboek"
-auteurs  : ["Sanura"]
-date     : "2022-01-09"
-themas   : "Cultuur & Maatschappij"
+auteurs:
+- Sanura
+date: "2022-01-09"
+subtitle: Een rechts woordenboek
+themas: Cultuur & Maatschappij
+title: Reactie en restauratie
 ---
 
 

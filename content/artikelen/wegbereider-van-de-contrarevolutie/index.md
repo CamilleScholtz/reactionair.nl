@@ -1,10 +1,12 @@
 ---
-title     : "Wegbereider van de contrarevolutie"
-subtitle  : "Over Louis de Bonald"
-auteurs   : ["J. Floressas des Esseintes"]
-date      : "2021-10-11"
-themas    : "Recensie & Biografie"
-aangehaald : ["Michel Foucault"]
+aangehaald:
+- Michel Foucault
+auteurs:
+- J. Floressas des Esseintes
+date: "2021-10-11"
+subtitle: Over Louis de Bonald
+themas: Recensie & Biografie
+title: Wegbereider van de contrarevolutie
 ---
 
 

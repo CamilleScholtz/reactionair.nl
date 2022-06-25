@@ -1,11 +1,15 @@
 ---
-title     : "God en vrijheid"
-subtitle  : "Over de omgekeerde analogie"
-auteurs   : ["Camille Meloen"]
-date      : "2021-11-21"
-themas    : "Religie & Metafysica"
-aangehaald : ["René Guénon", "Aristoteles", "Pythagoras"]
-anchor    : "Top"
+aangehaald:
+- René Guénon
+- Aristoteles
+- Pythagoras
+anchor: Top
+auteurs:
+- Camille Meloen
+date: "2021-11-21"
+subtitle: Over de omgekeerde analogie
+themas: Religie & Metafysica
+title: God en vrijheid
 ---
 
 

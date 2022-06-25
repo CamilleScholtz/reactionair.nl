@@ -1,6 +1,6 @@
-+++
-title       = "Redactie"
-profession  = "Reactionair.nl"
-description = "De redactie van Reactionair.nl."
-pseudonym   = true
-+++
+---
+description: De redactie van Reactionair.nl.
+profession: Reactionair.nl
+pseudonym: true
+title: Redactie
+---

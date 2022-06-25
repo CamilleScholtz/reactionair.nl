@@ -1,10 +1,12 @@
 ---
-title    : "De weg van terroriste naar VVD-adviseur"
-subtitle : "Onderzoek naar Soumaya Sahla"
-auteurs  : ["Camille Meloen"]
-date     : "2021-12-05"
-themas   : "Politiek & Actualiteit"
-dossiers : ["Islam"]
+auteurs:
+- Camille Meloen
+date: "2021-12-05"
+dossiers:
+- Islam
+subtitle: Onderzoek naar Soumaya Sahla
+themas: Politiek & Actualiteit
+title: De weg van terroriste naar VVD-adviseur
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-title     : "Scruton en esthetisch oordelen"
-subtitle  : "Wat is schoonheid?"
-auteurs   : ["Cedrik Vandooren"]
-date      : "2022-01-11"
-themas    : "Cultuur & Maatschappij"
-aangehaald : ["Roger Scruton", "William Shakespeare", "Plato"]
+aangehaald:
+- Roger Scruton
+- William Shakespeare
+- Plato
+auteurs:
+- Cedrik Vandooren
+date: "2022-01-11"
+subtitle: Wat is schoonheid?
+themas: Cultuur & Maatschappij
+title: Scruton en esthetisch oordelen
 ---
 
 

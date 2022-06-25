@@ -1,10 +1,11 @@
 ---
-title    : "Boekverbrandingen in Amerika?"
-subtitle : "Hoe de MSM desinformatie verspreidt over censuur"
-auteurs  : ["Paars van Grinsterer"]
-date     : "2022-05-12"
-themas   : "Politiek & Actualiteit"
-anchor   : "Center"
+anchor: Center
+auteurs:
+- Paars van Grinsterer
+date: "2022-05-12"
+subtitle: Hoe de MSM desinformatie verspreidt over censuur
+themas: Politiek & Actualiteit
+title: Boekverbrandingen in Amerika?
 ---
 
 

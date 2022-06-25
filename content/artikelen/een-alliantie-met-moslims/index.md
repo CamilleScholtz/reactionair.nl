@@ -1,12 +1,16 @@
 ---
-title     : "Een alliantie met moslims!?"
-subtitle  : "Over reactionairen en moslims"
-question  : "Denkt u dat een dergelijke alliantie mogelijk is?"
-auteurs   : ["Vrederijk"]
-date      : "2021-10-13"
-themas    : "Politiek & Actualiteit"
-aangehaald : ["Thierry Baudet"]
-dossiers  : ["Islam", "Conservatieve Alliantie"]
+aangehaald:
+- Thierry Baudet
+auteurs:
+- Vrederijk
+date: "2021-10-13"
+dossiers:
+- Islam
+- Conservatieve Alliantie
+question: Denkt u dat een dergelijke alliantie mogelijk is?
+subtitle: Over reactionairen en moslims
+themas: Politiek & Actualiteit
+title: Een alliantie met moslims!?
 ---
 
 

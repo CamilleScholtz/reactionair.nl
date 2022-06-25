@@ -1,11 +1,13 @@
 ---
-title    : "Woke is NU ECHT te ver gegaan!"
-subtitle : "Of toch niet?"
-question : "Is woke deze keer écht te ver gegaan?"
-auteurs  : ["Camille Meloen"]
-date     : "2021-10-15"
-themas   : "Klikaas"
-dossiers : ["Woke"]
+auteurs:
+- Camille Meloen
+date: "2021-10-15"
+dossiers:
+- Woke
+question: Is woke deze keer écht te ver gegaan?
+subtitle: Of toch niet?
+themas: Klikaas
+title: Woke is NU ECHT te ver gegaan!
 ---
 
 

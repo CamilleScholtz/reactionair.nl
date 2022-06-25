@@ -1,6 +1,6 @@
-+++
-title       = "Jan-Jaap Moltman"
-profession  = "Politiek actief"
-description = "Jan-Jaap Moltman heeft een interesse in politiek."
-pseudonym   = false
-+++
+---
+description: Jan-Jaap Moltman heeft een interesse in politiek.
+profession: Politiek actief
+pseudonym: false
+title: Jan-Jaap Moltman
+---

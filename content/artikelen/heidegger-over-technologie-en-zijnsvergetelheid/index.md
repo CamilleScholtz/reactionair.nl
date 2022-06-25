@@ -1,11 +1,14 @@
 ---
-title     : "Het wezen van de technologie"
-subtitle  : "Heidegger en onze Terminator-toekomst, deel 1"
-auteurs   : ["Redactie"]
-date      : "2022-05-28"
-themas    : "Religie & Metafysica"
-aangehaald : ["Martin Heidegger", "Oswald Spengler"]
-anchor    : "Center"
+aangehaald:
+- Martin Heidegger
+- Oswald Spengler
+anchor: Center
+auteurs:
+- Redactie
+date: "2022-05-28"
+subtitle: Heidegger en onze Terminator-toekomst, deel 1
+themas: Religie & Metafysica
+title: Het wezen van de technologie
 ---
 
 _Dit is een vertaald artikel, het origineel is [hier](https://astralflight.substack.com/p/terminator-future) te lezen._

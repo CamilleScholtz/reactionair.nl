@@ -1,6 +1,6 @@
-+++
-title       = "v. Stormberg"
-profession  = "Student"
-description = "v. Stormberg is voorzitter Hoogbejaardenfanclub NL."
-pseudonym   = true
-+++
+---
+description: v. Stormberg is voorzitter Hoogbejaardenfanclub NL.
+profession: Student
+pseudonym: true
+title: v. Stormberg
+---

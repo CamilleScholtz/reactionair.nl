@@ -1,10 +1,12 @@
 ---
-title     : "Verelendungstheorie"
-subtitle  : "De Futuro-Fundamentalistische Revolutie, deel 5"
-auteurs   : ["Alexander Wolfheze"]
-date      : "2022-01-17"
-themas    : "Cultuur & Maatschappij"
-aangehaald : ["Friedrich Schiller"]
+aangehaald:
+- Friedrich Schiller
+auteurs:
+- Alexander Wolfheze
+date: "2022-01-17"
+subtitle: De Futuro-Fundamentalistische Revolutie, deel 5
+themas: Cultuur & Maatschappij
+title: Verelendungstheorie
 ---
 
 

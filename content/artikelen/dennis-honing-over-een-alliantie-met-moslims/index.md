@@ -1,11 +1,14 @@
 ---
-title    : "Dennis Honing over een alliantie met moslims"
-subtitle : "Over reactionairen en moslims, deel 2"
-question : "Denkt u dat een dergelijke alliantie mogelijk is?"
-auteurs  : ["Dennis Honing"]
-date     : "2021-11-01"
-themas   : "Politiek & Actualiteit"
-dossiers : ["Islam", "Conservatieve Alliantie"]
+auteurs:
+- Dennis Honing
+date: "2021-11-01"
+dossiers:
+- Islam
+- Conservatieve Alliantie
+question: Denkt u dat een dergelijke alliantie mogelijk is?
+subtitle: Over reactionairen en moslims, deel 2
+themas: Politiek & Actualiteit
+title: Dennis Honing over een alliantie met moslims
 ---
 
 

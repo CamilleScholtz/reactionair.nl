@@ -1,10 +1,12 @@
 ---
-title    : "Reflectie op de glijdende schaal"
-subtitle : "Drogreden of werkelijkheid?"
-auteurs  : ["Eco al-Hollandi"]
-date     : "2022-06-15"
-themas   : "Politiek & Actualiteit"
-dossiers : ["Woke"]
+auteurs:
+- Eco al-Hollandi
+date: "2022-06-15"
+dossiers:
+- Woke
+subtitle: Drogreden of werkelijkheid?
+themas: Politiek & Actualiteit
+title: Reflectie op de glijdende schaal
 ---
 
 

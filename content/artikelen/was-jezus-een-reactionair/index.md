@@ -1,11 +1,16 @@
 ---
-title     : "Was Jezus een Reactionair?"
-subtitle  : "Traditie=historische context"
-auteurs   : ["Sanura"]
-date      : "2022-03-19"
-themas    : "Religie & Metafysica"
-aangehaald : ["Aristoteles", "Plato", "Socrates"]
-dossiers  : ["Christendom"]
+aangehaald:
+- Aristoteles
+- Plato
+- Socrates
+auteurs:
+- Sanura
+date: "2022-03-19"
+dossiers:
+- Christendom
+subtitle: Traditie=historische context
+themas: Religie & Metafysica
+title: Was Jezus een Reactionair?
 ---
 
 

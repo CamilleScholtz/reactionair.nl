@@ -1,10 +1,12 @@
 ---
-title    : "Leren van gebeurtenissen uit de geschiedenis"
-subtitle : "Een blik op nieuw-links en de Iraanse revolutie"
-auteurs  : ["Eco al-Hollandi"]
-date     : "2021-11-06"
-themas   : "Politiek & Actualiteit"
-dossiers : ["Islam"]
+auteurs:
+- Eco al-Hollandi
+date: "2021-11-06"
+dossiers:
+- Islam
+subtitle: Een blik op nieuw-links en de Iraanse revolutie
+themas: Politiek & Actualiteit
+title: Leren van gebeurtenissen uit de geschiedenis
 ---
 
 

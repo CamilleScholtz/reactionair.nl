@@ -1,10 +1,12 @@
 ---
-title    : "Gebruikte de EU geweld bij het oprukken richting Rusland?"
-subtitle : "Over wat geweld is"
-auteurs  : ["Gerald Russelman"]
-date     : "2022-03-28"
-themas   : "Politiek & Actualiteit"
-dossiers : ["Oekraïne"]
+auteurs:
+- Gerald Russelman
+date: "2022-03-28"
+dossiers:
+- Oekraïne
+subtitle: Over wat geweld is
+themas: Politiek & Actualiteit
+title: Gebruikte de EU geweld bij het oprukken richting Rusland?
 ---
 
 

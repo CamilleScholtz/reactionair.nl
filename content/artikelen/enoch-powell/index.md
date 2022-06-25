@@ -1,9 +1,10 @@
 ---
-title    : "Enoch Powell"
-subtitle : "Politieke paria en patriot"
-auteurs  : ["Cedrik Vandooren"]
-date     : "2022-04-30"
-themas   : "Recensie & Biografie"
+auteurs:
+- Cedrik Vandooren
+date: "2022-04-30"
+subtitle: Politieke paria en patriot
+themas: Recensie & Biografie
+title: Enoch Powell
 ---
 
 

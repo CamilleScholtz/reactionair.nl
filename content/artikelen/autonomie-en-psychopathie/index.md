@@ -1,10 +1,13 @@
 ---
-title     : "Autonomie en psychopathie"
-subtitle  : "Hoe individuen autonomie na kunnen streven in de consumptiemaatschappij"
-auteurs   : ["Philip van Houten"]
-date      : "2021-11-18"
-themas    : "Cultuur & Maatschappij"
-aangehaald : ["C. S. Lewis", "Aristoteles"]
+aangehaald:
+- C. S. Lewis
+- Aristoteles
+auteurs:
+- Philip van Houten
+date: "2021-11-18"
+subtitle: Hoe individuen autonomie na kunnen streven in de consumptiemaatschappij
+themas: Cultuur & Maatschappij
+title: Autonomie en psychopathie
 ---
 
 

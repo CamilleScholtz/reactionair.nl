@@ -1,10 +1,13 @@
 ---
-title     : "Overdenkingen over de parabel van de blinden en de olifant"
-subtitle  : "Waarom het streven naar objectiviteit een doodlopend pad is, deel 1"
-auteurs   : ["De Melancholieke Nar"]
-date      : "2022-01-27"
-themas    : "Religie & Metafysica"
-aangehaald : ["Thomas van Aquino", "Oswald Spengler"]
+aangehaald:
+- Thomas van Aquino
+- Oswald Spengler
+auteurs:
+- De Melancholieke Nar
+date: "2022-01-27"
+subtitle: Waarom het streven naar objectiviteit een doodlopend pad is, deel 1
+themas: Religie & Metafysica
+title: Overdenkingen over de parabel van de blinden en de olifant
 ---
 
 

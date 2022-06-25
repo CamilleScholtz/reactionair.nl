@@ -1,11 +1,14 @@
 ---
-title    : "Autistische internetfascisten versus bioleninisten"
-subtitle : "Twitter als toneel van de strijd om sociaal prestige"
-auteurs  : ["De Melancholieke Nar"]
-date     : "2022-04-09"
-themas   : "Cultuur & Maatschappij"
-dossiers : ["Woke"]
-aangehaald : ["René Girard"]
+aangehaald:
+- René Girard
+auteurs:
+- De Melancholieke Nar
+date: "2022-04-09"
+dossiers:
+- Woke
+subtitle: Twitter als toneel van de strijd om sociaal prestige
+themas: Cultuur & Maatschappij
+title: Autistische internetfascisten versus bioleninisten
 ---
 
 

@@ -1,11 +1,18 @@
 ---
-title     : "Hoe de filosoof met de hamer muren doorbrak om weer zicht te krijgen op het Ene"
-subtitle  : "Over taaltovenarij met hamer en mes"
-auteurs   : ["De Melancholieke Nar"]
-date      : "2022-05-07"
-themas    : "Religie & Metafysica"
-aangehaald : ["Jacques Derrida", "René Guénon", "Martin Heidegger", "Friedrich Nietzsche", "Plato"]
-anchor    : "Center"
+aangehaald:
+- Jacques Derrida
+- René Guénon
+- Martin Heidegger
+- Friedrich Nietzsche
+- Plato
+anchor: Center
+auteurs:
+- De Melancholieke Nar
+date: "2022-05-07"
+subtitle: Over taaltovenarij met hamer en mes
+themas: Religie & Metafysica
+title: Hoe de filosoof met de hamer muren doorbrak om weer zicht te krijgen op het
+  Ene
 ---
 
 

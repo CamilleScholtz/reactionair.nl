@@ -1,10 +1,12 @@
 ---
-title    : "“Het woke denken is een religie geworden!”"
-subtitle : "En waarom deze vergelijking niet klopt"
-auteurs  : ["Camille Meloen"]
-date     : "2021-10-08"
-themas   : "Politiek & Actualiteit"
-dossiers : ["Woke"]
+auteurs:
+- Camille Meloen
+date: "2021-10-08"
+dossiers:
+- Woke
+subtitle: En waarom deze vergelijking niet klopt
+themas: Politiek & Actualiteit
+title: “Het woke denken is een religie geworden!”
 ---
 
 

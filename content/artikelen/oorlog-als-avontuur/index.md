@@ -1,11 +1,13 @@
 ---
-title     : "Oorlog als avontuur"
-subtitle  : "Een recensie van In Stahlgewittern"
-auteurs   : ["De Melancholieke Nar"]
-date      : "2022-01-19"
-themas    : "Recensie & Biografie"
-aangehaald : ["Ernst Jünger"]
-anchor    : "Top"
+aangehaald:
+- Ernst Jünger
+anchor: Top
+auteurs:
+- De Melancholieke Nar
+date: "2022-01-19"
+subtitle: Een recensie van In Stahlgewittern
+themas: Recensie & Biografie
+title: Oorlog als avontuur
 ---
 
 

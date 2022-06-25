@@ -1,9 +1,10 @@
 ---
-title    : "Wie Nederland liefheeft, laat het liberalisme links liggen"
-subtitle : "Over onze toekomst"
-auteurs  : ["Jan-Jaap Moltman"]
-date     : "2022-04-11"
-themas   : "Politiek & Actualiteit"
+auteurs:
+- Jan-Jaap Moltman
+date: "2022-04-11"
+subtitle: Over onze toekomst
+themas: Politiek & Actualiteit
+title: Wie Nederland liefheeft, laat het liberalisme links liggen
 ---
 
 

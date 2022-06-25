@@ -1,10 +1,12 @@
 ---
-title    : "De natuur maakt geen sprongen"
-subtitle : "Deconstructie van categorieën"
-auteurs  : ["Camille Meloen"]
-date     : "2021-10-24"
-themas   : ["Filosofie"]
-draft    : true
+auteurs:
+- Camille Meloen
+date: "2021-10-24"
+draft: true
+subtitle: Deconstructie van categorieën
+themas:
+- Filosofie
+title: De natuur maakt geen sprongen
 ---
 
 

@@ -1,10 +1,11 @@
 ---
-title    : "Bent u een rechtsextremist?"
-subtitle : "Doe de test!"
-auteurs  : ["Redactie"]
-date     : "2022-04-29"
-themas   : "Klikaas"
-question : "En, bent u een rechtsextremist?"
+auteurs:
+- Redactie
+date: "2022-04-29"
+question: En, bent u een rechtsextremist?
+subtitle: Doe de test!
+themas: Klikaas
+title: Bent u een rechtsextremist?
 ---
 
 

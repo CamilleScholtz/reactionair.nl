@@ -1,9 +1,11 @@
 ---
-title    : "Wil de echte homogenezer opstaan?"
-subtitle : "Hoe we wegkijken bij fysiek en mentaal verminken bij genderdysforie maar rituelen en bidden illegaal verklaren"
-auteurs  : ["Paars van Grinsterer"]
-date     : "2022-02-14"
-themas   : "Politiek & Actualiteit"
+auteurs:
+- Paars van Grinsterer
+date: "2022-02-14"
+subtitle: Hoe we wegkijken bij fysiek en mentaal verminken bij genderdysforie maar
+  rituelen en bidden illegaal verklaren
+themas: Politiek & Actualiteit
+title: Wil de echte homogenezer opstaan?
 ---
 
 

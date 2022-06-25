@@ -1,11 +1,14 @@
 ---
-title     : "Christendom en legitimiteit"
-subtitle  : "Autoriteit versus macht"
-auteurs   : ["Sanura"]
-date      : "2021-12-29"
-themas    : "Religie & Metafysica"
-aangehaald : ["Erik von Kuehnelt-Leddihn"]
-dossiers  : ["Christendom"]
+aangehaald:
+- Erik von Kuehnelt-Leddihn
+auteurs:
+- Sanura
+date: "2021-12-29"
+dossiers:
+- Christendom
+subtitle: Autoriteit versus macht
+themas: Religie & Metafysica
+title: Christendom en legitimiteit
 ---
 
 

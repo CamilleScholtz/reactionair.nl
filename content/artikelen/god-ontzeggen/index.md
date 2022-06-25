@@ -1,11 +1,13 @@
 ---
-title    : "God ontzeggen"
-subtitle : "Een verzameling apofatische gedichten en citaten"
-auteurs  : ["Camille Meloen"]
-date     : "2022-06-17"
-themas   : "Recensie & Biografie"
-dossiers : ["Islam"]
-anchor   : "Center"
+anchor: Center
+auteurs:
+- Camille Meloen
+date: "2022-06-17"
+dossiers:
+- Islam
+subtitle: Een verzameling apofatische gedichten en citaten
+themas: Recensie & Biografie
+title: God ontzeggen
 ---
 
 

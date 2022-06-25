@@ -1,11 +1,14 @@
 ---
-title     : "De Nazi-Antifa Alliantie"
-subtitle  : "De vergeten geschiedenis van conservatief verzet, de bevrijding en Neurenberg"
-auteurs   : ["Sanura"]
-date      : "2022-05-05"
-themas    : "Politiek & Actualiteit"
-aangehaald : ["Erik von Kuehnelt-Leddihn", "Oswald Spengler"]
-anchor    : "Center"
+aangehaald:
+- Erik von Kuehnelt-Leddihn
+- Oswald Spengler
+anchor: Center
+auteurs:
+- Sanura
+date: "2022-05-05"
+subtitle: De vergeten geschiedenis van conservatief verzet, de bevrijding en Neurenberg
+themas: Politiek & Actualiteit
+title: De Nazi-Antifa Alliantie
 ---
 
 

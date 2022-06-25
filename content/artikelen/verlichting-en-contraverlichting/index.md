@@ -1,9 +1,10 @@
 ---
-title    : "Verlichting en contraverlichting"
-subtitle : "Dictatoriale rechtsstaat"
-auteurs  : ["Sanura"]
-date     : "2021-10-12"
-themas   : "Cultuur & Maatschappij"
+auteurs:
+- Sanura
+date: "2021-10-12"
+subtitle: Dictatoriale rechtsstaat
+themas: Cultuur & Maatschappij
+title: Verlichting en contraverlichting
 ---
 
 

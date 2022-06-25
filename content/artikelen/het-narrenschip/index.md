@@ -1,11 +1,13 @@
 ---
-title     : "Het narrenschip"
-subtitle  : "Een allegorie van wokisme avant la lettre"
-auteurs   : ["Redactie"]
-date      : "2022-02-21"
-themas    : "Politiek & Actualiteit"
-aangehaald : ["Theodore J. Kaczynski"]
-noindex   : true
+aangehaald:
+- Theodore J. Kaczynski
+auteurs:
+- Redactie
+date: "2022-02-21"
+noindex: true
+subtitle: Een allegorie van wokisme avant la lettre
+themas: Politiek & Actualiteit
+title: Het narrenschip
 ---
 
 

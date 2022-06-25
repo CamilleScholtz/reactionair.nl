@@ -1,10 +1,13 @@
 ---
-title     : "Het morele recht van de kruistochten"
-subtitle  : "Ja, dat las je goed..."
-auteurs   : ["Sanura"]
-date      : "2022-06-12"
-themas    : "Cultuur & Maatschappij"
-dossiers  : ["Christendom", "Islam"]
+auteurs:
+- Sanura
+date: "2022-06-12"
+dossiers:
+- Christendom
+- Islam
+subtitle: Ja, dat las je goed...
+themas: Cultuur & Maatschappij
+title: Het morele recht van de kruistochten
 ---
 
 

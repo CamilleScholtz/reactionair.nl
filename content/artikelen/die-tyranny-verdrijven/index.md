@@ -1,10 +1,12 @@
 ---
-title     : "‘Die tyranny verdrijven’"
-subtitle  : "De Futuro-Fundamentalistische Revolutie, deel 6"
-auteurs   : ["Alexander Wolfheze"]
-date      : "2022-01-26"
-themas    : "Cultuur & Maatschappij"
-aangehaald : ["Charles Darwin"]
+aangehaald:
+- Charles Darwin
+auteurs:
+- Alexander Wolfheze
+date: "2022-01-26"
+subtitle: De Futuro-Fundamentalistische Revolutie, deel 6
+themas: Cultuur & Maatschappij
+title: ‘Die tyranny verdrijven’
 ---
 
 

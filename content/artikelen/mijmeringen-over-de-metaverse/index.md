@@ -1,11 +1,13 @@
 ---
-title     : "Mijmeringen over de Metaverse"
-subtitle  : ""
-auteurs   : ["Camille Meloen"]
-date      : "2022-01-20"
-themas    : "Politiek & Maatschappij"
-aangehaald : ["René Guénon"]
-draft     : true
+aangehaald:
+- René Guénon
+auteurs:
+- Camille Meloen
+date: "2022-01-20"
+draft: true
+subtitle: ""
+themas: Politiek & Maatschappij
+title: Mijmeringen over de Metaverse
 ---
 
 

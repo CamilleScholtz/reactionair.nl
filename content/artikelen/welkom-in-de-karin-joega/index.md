@@ -1,11 +1,14 @@
 ---
-title     : "Welkom in de Karin joega"
-subtitle  : "Veiligheid voor alles"
-auteurs   : ["De Melancholieke Nar"]
-date      : "2021-12-12"
-themas    : "Cultuur & Maatschappij"
-aangehaald : ["Friedrich Nietzsche", "Slavoj Žižek"]
-anchor    : "Top"
+aangehaald:
+- Friedrich Nietzsche
+- Slavoj Žižek
+anchor: Top
+auteurs:
+- De Melancholieke Nar
+date: "2021-12-12"
+subtitle: Veiligheid voor alles
+themas: Cultuur & Maatschappij
+title: Welkom in de Karin joega
 ---
 
 

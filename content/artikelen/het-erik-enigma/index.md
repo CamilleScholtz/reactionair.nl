@@ -1,10 +1,12 @@
 ---
-title     : "Het Erik Enigma"
-subtitle  : "Extreemrechtse liberaal"
-auteurs   : ["Sanura"]
-date      : "2021-10-09"
-themas    : "Recensie & Biografie"
-aangehaald : ["Erik von Kuehnelt-Leddihn"]
+aangehaald:
+- Erik von Kuehnelt-Leddihn
+auteurs:
+- Sanura
+date: "2021-10-09"
+subtitle: Extreemrechtse liberaal
+themas: Recensie & Biografie
+title: Het Erik Enigma
 ---
 
 

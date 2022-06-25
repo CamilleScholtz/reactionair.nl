@@ -1,10 +1,11 @@
 ---
-title    : "Wie zijn wij?"
-subtitle : "Een inleiding tot Reactionair.nl"
-question : "Wat vindt u van Reactionair.nl?"
-auteurs  : ["Redactie"]
-date     : "2021-10-01"
-themas   : "Mededeling"
+auteurs:
+- Redactie
+date: "2021-10-01"
+question: Wat vindt u van Reactionair.nl?
+subtitle: Een inleiding tot Reactionair.nl
+themas: Mededeling
+title: Wie zijn wij?
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-title     : "Deugen de meeste mensen nog steeds?"
-subtitle  : "De misanthrope verleiding"
-auteurs   : ["De Melancholieke Nar"]
-date      : "2022-04-15"
-themas    : "Recensie & Biografie"
-aangehaald : ["Rutger Bregman", "Friedrich Nietzsche", "Aristoteles"]
+aangehaald:
+- Rutger Bregman
+- Friedrich Nietzsche
+- Aristoteles
+auteurs:
+- De Melancholieke Nar
+date: "2022-04-15"
+subtitle: De misanthrope verleiding
+themas: Recensie & Biografie
+title: Deugen de meeste mensen nog steeds?
 ---
 
 {{< quote

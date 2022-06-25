@@ -1,10 +1,13 @@
 ---
-title     : "Carry van Bruggen: Eenheid en schijneenheid"
-subtitle  : "Een vergeten Nederlandse filosofe over dogmatisch kuddegedrag, versus zoeken naar Waarheid"
-auteurs   : ["Marit Elechan"]
-date      : "2022-02-17"
-themas    : "Recensie & Biografie"
-aangehaald : ["Baruch Spinoza"] 
+aangehaald:
+- Baruch Spinoza
+auteurs:
+- Marit Elechan
+date: "2022-02-17"
+subtitle: Een vergeten Nederlandse filosofe over dogmatisch kuddegedrag, versus zoeken
+  naar Waarheid
+themas: Recensie & Biografie
+title: 'Carry van Bruggen: Eenheid en schijneenheid'
 ---
 
 

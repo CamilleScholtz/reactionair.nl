@@ -1,10 +1,17 @@
 ---
-title: "Van humanisme naar nihilisme"
-subtitle: "De eclips van de seculiere ethiek"
-auteurs: ["Magnus Bradshaw"]
+aangehaald:
+- Charles Darwin
+- Fjodor Dostojevski
+- John Gray
+- Friedrich Nietzsche
+- Roger Scruton
+- William Shakespeare
+auteurs:
+- Magnus Bradshaw
 date: "2022-04-01"
-themas: "Religie & Metafysica"
-aangehaald: ["Charles Darwin", "Fjodor Dostojevski", "John Gray", "Friedrich Nietzsche", "Roger Scruton", "William Shakespeare"]
+subtitle: De eclips van de seculiere ethiek
+themas: Religie & Metafysica
+title: Van humanisme naar nihilisme
 ---
 
 

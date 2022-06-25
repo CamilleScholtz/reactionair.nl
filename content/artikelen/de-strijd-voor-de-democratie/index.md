@@ -1,10 +1,12 @@
 ---
-title    : "De strijd voor de democratie"
-subtitle : "De rechtstaat in Oekraïne: verleden en toekomst"
-auteurs  : ["Sanura"]
-date     : "2022-04-05"
-themas   : "Politiek & Actualiteit"
-dossiers : ["Oekraïne"]
+auteurs:
+- Sanura
+date: "2022-04-05"
+dossiers:
+- Oekraïne
+subtitle: 'De rechtstaat in Oekraïne: verleden en toekomst'
+themas: Politiek & Actualiteit
+title: De strijd voor de democratie
 ---
 
 

@@ -1,10 +1,13 @@
 ---
-title     : "Domesticering"
-subtitle  : "De Futuro-Fundamentalistische Revolutie, deel 3"
-auteurs   : ["Alexander Wolfheze"]
-date      : "2022-01-02"
-themas    : "Cultuur & Maatschappij"
-aangehaald : ["Thierry Baudet", "Carl Schmitt"]
+aangehaald:
+- Thierry Baudet
+- Carl Schmitt
+auteurs:
+- Alexander Wolfheze
+date: "2022-01-02"
+subtitle: De Futuro-Fundamentalistische Revolutie, deel 3
+themas: Cultuur & Maatschappij
+title: Domesticering
 ---
 
 

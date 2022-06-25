@@ -1,10 +1,12 @@
 ---
-title     : "Autonomie en consumptie"
-subtitle  : "Hoe autonomie met de consumptiemaatschappij samenhangt"
-auteurs   : ["Jurbin van Hooff"]
-date      : "2021-10-31"
-themas    : "Cultuur & Maatschappij"
-aangehaald : ["René Descartes", "Oswald Spengler"]
+aangehaald:
+- René Descartes
+- Oswald Spengler
+auteurs: Jurbin van Hooff
+date: "2021-10-31"
+subtitle: Hoe autonomie met de consumptiemaatschappij samenhangt
+themas: Cultuur & Maatschappij
+title: Autonomie en consumptie
 ---
 
 

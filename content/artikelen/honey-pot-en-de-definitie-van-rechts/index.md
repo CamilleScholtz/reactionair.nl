@@ -1,12 +1,16 @@
 ---
-title     : "Honey Pot en de definitie van “rechts”"
-subtitle  : "Afscheid van een achterhaald begrip"
-question  : "Wat is volgens u een passende term om het onderscheid te duiden?"
-auteurs   : ["Vrederijk"]
-date      : "2021-10-28"
-themas    : "Politiek & Actualiteit"
-aangehaald : ["Thierry Baudet", "Sid Lukkassen"]
-dossiers  : ["Woke"]
+aangehaald:
+- Thierry Baudet
+- Sid Lukkassen
+auteurs:
+- Vrederijk
+date: "2021-10-28"
+dossiers:
+- Woke
+question: Wat is volgens u een passende term om het onderscheid te duiden?
+subtitle: Afscheid van een achterhaald begrip
+themas: Politiek & Actualiteit
+title: Honey Pot en de definitie van “rechts”
 ---
 
 

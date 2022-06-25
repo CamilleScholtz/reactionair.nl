@@ -1,12 +1,16 @@
 ---
-title     : "Reactionair, om te beginnen"
-subtitle  : "Fragment uit een boek in voorbereiding"
-auteurs   : ["Robert Lemm"]
-date      : "2021-11-29"
-themas    : "Recensie & Biografie"
-aangehaald : ["Thomas van Aquino", "Nicolás Gómez Dávila"]
-dossiers  : ["Christendom"]
-anchor    : "Center"
+aangehaald:
+- Thomas van Aquino
+- Nicolás Gómez Dávila
+anchor: Center
+auteurs:
+- Robert Lemm
+date: "2021-11-29"
+dossiers:
+- Christendom
+subtitle: Fragment uit een boek in voorbereiding
+themas: Recensie & Biografie
+title: Reactionair, om te beginnen
 ---
 
 

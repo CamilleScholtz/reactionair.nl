@@ -1,9 +1,10 @@
 ---
-title    : "Ik ben niet gelovig maar..."
-subtitle : "Over de betekenis van religie"
-auteurs  : ["Stained Glass Zealot"]
-date     : "2022-04-13"
-themas   : "Religie & Metafysica"
+auteurs:
+- Stained Glass Zealot
+date: "2022-04-13"
+subtitle: Over de betekenis van religie
+themas: Religie & Metafysica
+title: Ik ben niet gelovig maar...
 ---
 
 _Dit is een vertaald artikel, het origineel is [hier](https://glasszealot.substack.com/p/im-not-religious-but) te lezen._

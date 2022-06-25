@@ -1,10 +1,13 @@
 ---
-title     : "De mythe van de neutraliteit"
-subtitle  : "En de blindheid van de liberalen"
-auteurs   : ["Camille Meloen"]
-date      : "2021-10-06"
-themas    : "Politiek & Actualiteit"
-aangehaald : ["G. K. Chesterton", "Karl Popper"]
+aangehaald:
+- G. K. Chesterton
+- Karl Popper
+auteurs:
+- Camille Meloen
+date: "2021-10-06"
+subtitle: En de blindheid van de liberalen
+themas: Politiek & Actualiteit
+title: De mythe van de neutraliteit
 ---
 
 

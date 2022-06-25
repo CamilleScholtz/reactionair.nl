@@ -1,5 +1,6 @@
-+++
-title       = "Recensie & Biografie"
-heading     = "Recensie & Biografie"
-description = "Biografieën over de meer en de minder bekende denkers, recensies vanuit een reactionair perspectief."
-+++
+---
+description: Biografieën over de meer en de minder bekende denkers, recensies vanuit
+  een reactionair perspectief.
+heading: Recensie & Biografie
+title: Recensie & Biografie
+---

@@ -1,10 +1,14 @@
 ---
-title     : "Naar het einde en daar voorbij!"
-subtitle  : "Gedachten over het Onbegrensde"
-auteurs   : ["Camille Meloen"]
-date      : "2021-10-21"
-themas    : "Religie & Metafysica"
-aangehaald : ["René Guénon", "Martin Heidegger", "Martin Lings"]
+aangehaald:
+- René Guénon
+- Martin Heidegger
+- Martin Lings
+auteurs:
+- Camille Meloen
+date: "2021-10-21"
+subtitle: Gedachten over het Onbegrensde
+themas: Religie & Metafysica
+title: Naar het einde en daar voorbij!
 ---
 
 

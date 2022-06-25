@@ -1,10 +1,14 @@
 ---
-title     : "Popper: een afrekening"
-subtitle  : "Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?"
-auteurs   : ["De Melancholieke Nar"]
-date      : "2022-01-08"
-themas    : "Politiek & Actualiteit"
-aangehaald : ["Michel Foucault", "Friedrich Nietzsche", "Karl Popper"]
+aangehaald:
+- Michel Foucault
+- Friedrich Nietzsche
+- Karl Popper
+auteurs:
+- De Melancholieke Nar
+date: "2022-01-08"
+subtitle: Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?
+themas: Politiek & Actualiteit
+title: 'Popper: een afrekening'
 ---
 
 

@@ -1,11 +1,13 @@
 ---
-title    : "De klimaatzonde"
-subtitle : "Hoe de hamartiologie overleeft in een modern tijdperk"
-auteurs  : ["Jan-Willem Veldhuizen"]
-date     : "2022-04-23"
-themas   : "Politiek & Actualiteit"
-dossiers : ["Klimaatverandering"]
-anchor   : "Top"
+anchor: Top
+auteurs:
+- Jan-Willem Veldhuizen
+date: "2022-04-23"
+dossiers:
+- Klimaatverandering
+subtitle: Hoe de hamartiologie overleeft in een modern tijdperk
+themas: Politiek & Actualiteit
+title: De klimaatzonde
 ---
 
 

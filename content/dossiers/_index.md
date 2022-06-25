@@ -1,5 +1,5 @@
 ---
 outputs:
-  - JSON
-  - RSS
+- JSON
+- RSS
 ---

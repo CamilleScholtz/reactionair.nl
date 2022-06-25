@@ -1,11 +1,16 @@
 ---
-title     : "Waarom een authentieke reactionair een groene reactionair is"
-subtitle  : "Over ecologie"
-auteurs   : ["Jan-Willem Veldhuizen"]
-date      : "2021-11-17"
-themas    : "Politiek & Actualiteit"
-aangehaald : ["Johann Wolfgang von Goethe", "René Guénon", "Friedrich Schiller"]
-dossiers  : ["Klimaatverandering"]
+aangehaald:
+- Johann Wolfgang von Goethe
+- René Guénon
+- Friedrich Schiller
+auteurs:
+- Jan-Willem Veldhuizen
+date: "2021-11-17"
+dossiers:
+- Klimaatverandering
+subtitle: Over ecologie
+themas: Politiek & Actualiteit
+title: Waarom een authentieke reactionair een groene reactionair is
 ---
 
 

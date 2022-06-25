@@ -1,11 +1,13 @@
 ---
-title    : "Verberg uw zondes"
-subtitle : "En red de samenleving"
-auteurs  : ["Eco al-Hollandi"]
-date     : "2022-05-01"
-themas   : "Religie & Metafysica"
-dossiers : ["Islam"]
-anchor   : "Top"
+anchor: Top
+auteurs:
+- Eco al-Hollandi
+date: "2022-05-01"
+dossiers:
+- Islam
+subtitle: En red de samenleving
+themas: Religie & Metafysica
+title: Verberg uw zondes
 ---
 
 

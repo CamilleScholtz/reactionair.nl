@@ -1,10 +1,12 @@
 ---
-title     : "‘Edge of Tomorrow’"
-subtitle  : "De Futuro-Fundamentalistische Revolutie, deel 7"
-auteurs   : ["Alexander Wolfheze"]
-date      : "2022-02-07"
-themas    : "Cultuur & Maatschappij"
-aangehaald : ["Arthur Schopenhauer"]
+aangehaald:
+- Arthur Schopenhauer
+auteurs:
+- Alexander Wolfheze
+date: "2022-02-07"
+subtitle: De Futuro-Fundamentalistische Revolutie, deel 7
+themas: Cultuur & Maatschappij
+title: ‘Edge of Tomorrow’
 ---
 
 

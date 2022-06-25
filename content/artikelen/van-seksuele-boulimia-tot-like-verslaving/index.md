@@ -1,9 +1,10 @@
 ---
-title    : "Van seksuele boulimia tot like-verslaving"
-subtitle : "De seksuele revolutie en wat daarna kwam"
-auteurs  : ["De Melancholieke Nar"]
-date     : "2021-10-04"
-themas   : "Cultuur & Maatschappij"
+auteurs:
+- De Melancholieke Nar
+date: "2021-10-04"
+subtitle: De seksuele revolutie en wat daarna kwam
+themas: Cultuur & Maatschappij
+title: Van seksuele boulimia tot like-verslaving
 ---
 
 

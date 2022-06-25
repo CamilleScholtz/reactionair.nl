@@ -1,10 +1,14 @@
 ---
-title     : "Deftigheid, deugdzaamheid en bezetenheid"
-subtitle  : "Overweging over het mensbeeld van de meeste mensen"
-auteurs   : ["Walt van Toor"]
-date      : "2022-04-21"
-themas    : "Cultuur & Maatschappij"
-aangehaald : ["Rutger Bregman", "Robert Lemm", "Jacues Ellul"]
+aangehaald:
+- Rutger Bregman
+- Robert Lemm
+- Jacues Ellul
+auteurs:
+- Walt van Toor
+date: "2022-04-21"
+subtitle: Overweging over het mensbeeld van de meeste mensen
+themas: Cultuur & Maatschappij
+title: Deftigheid, deugdzaamheid en bezetenheid
 ---
 
 

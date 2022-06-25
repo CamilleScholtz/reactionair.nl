@@ -1,11 +1,15 @@
 ---
-title     : "Fatalisme, ondergang en wederopstanding"
-subtitle  : "Beschouwing over het lot der Westerse beschaving"
-auteurs   : ["Intan Hoijer"]
-date      : "2021-11-03"
-themas    : "Cultuur & Maatschappij"
-aangehaald : ["René Guénon", "Friedrich Nietzsche", "Oswald Spengler"]
-anchor    : "Center"
+aangehaald:
+- René Guénon
+- Friedrich Nietzsche
+- Oswald Spengler
+anchor: Center
+auteurs:
+- Intan Hoijer
+date: "2021-11-03"
+subtitle: Beschouwing over het lot der Westerse beschaving
+themas: Cultuur & Maatschappij
+title: Fatalisme, ondergang en wederopstanding
 ---
 
 

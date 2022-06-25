@@ -1,6 +1,6 @@
-+++
-title       = "v. Deirm"
-profession  = "Sociaal wetenschapper"
-description = "v. Deirm is geïnteresseerd in gemeenschapsdenken."
-pseudonym   = true
-+++
+---
+description: v. Deirm is geïnteresseerd in gemeenschapsdenken.
+profession: Sociaal wetenschapper
+pseudonym: true
+title: v. Deirm
+---

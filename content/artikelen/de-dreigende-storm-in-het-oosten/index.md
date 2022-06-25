@@ -1,10 +1,12 @@
 ---
-title    : "De dreigende storm in het Oosten"
-subtitle : "Hongarije en de EU"
-auteurs  : ["Sanura"]
-date     : "2022-04-06"
-themas   : "Politiek & Actualiteit"
-dossiers : ["Oekraïne"]
+auteurs:
+- Sanura
+date: "2022-04-06"
+dossiers:
+- Oekraïne
+subtitle: Hongarije en de EU
+themas: Politiek & Actualiteit
+title: De dreigende storm in het Oosten
 ---
 
 

@@ -1,10 +1,16 @@
 ---
-title     : "Hoe God verstoppertje speelt met zichzelf"
-subtitle  : "Waarom het streven naar objectiviteit een doodlopend pad is, deel 3"
-auteurs   : ["De Melancholieke Nar"]
-date      : "2022-02-09"
-themas    : "Religie & Metafysica"
-aangehaald : ["George Berkeley", "René Descartes", "Fjodor Dostojevski", "Martin Heidegger", "Baruch Spinoza"]
+aangehaald:
+- George Berkeley
+- René Descartes
+- Fjodor Dostojevski
+- Martin Heidegger
+- Baruch Spinoza
+auteurs:
+- De Melancholieke Nar
+date: "2022-02-09"
+subtitle: Waarom het streven naar objectiviteit een doodlopend pad is, deel 3
+themas: Religie & Metafysica
+title: Hoe God verstoppertje speelt met zichzelf
 ---
 
 

@@ -1,11 +1,13 @@
 ---
-title     : "Tussen twee oorlogen: Anton Kerssemakers"
-subtitle  : "Onderzoek naar een onbekende auteur"
-auteurs   : ["Camille Meloen"]
-date      : "2021-10-02"
-themas    : "Recensie & Biografie"
-aangehaald : ["René Guénon"]
-anchor    : "Top"
+aangehaald:
+- René Guénon
+anchor: Top
+auteurs:
+- Camille Meloen
+date: "2021-10-02"
+subtitle: Onderzoek naar een onbekende auteur
+themas: Recensie & Biografie
+title: 'Tussen twee oorlogen: Anton Kerssemakers'
 ---
 
 

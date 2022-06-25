@@ -1,10 +1,12 @@
 ---
-title     : "Cryptocurrency en de degeneratie van het muntgeld"
-subtitle  : "Geld en de heerschappij van kwantiteit"
-auteurs   : ["Camille Meloen"]
-date      : "2021-12-24"
-themas    : "Religie & Metafysica"
-aangehaald : ["René Guénon"]
+aangehaald:
+- René Guénon
+auteurs:
+- Camille Meloen
+date: "2021-12-24"
+subtitle: Geld en de heerschappij van kwantiteit
+themas: Religie & Metafysica
+title: Cryptocurrency en de degeneratie van het muntgeld
 ---
 
 

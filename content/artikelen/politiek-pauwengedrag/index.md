@@ -1,10 +1,12 @@
 ---
-title     : "Politiek pauwengedrag"
-subtitle  : "Over ‘counter-signalling’"
-auteurs   : ["Camille Meloen"]
-date      : "2022-04-20"
-themas    : "Cultuur & Maatschappij"
-aangehaald : ["Charles Darwin"]
+aangehaald:
+- Charles Darwin
+auteurs:
+- Camille Meloen
+date: "2022-04-20"
+subtitle: Over ‘counter-signalling’
+themas: Cultuur & Maatschappij
+title: Politiek pauwengedrag
 ---
 
 Er is een interessant concept in evolutionaire theorieën dat _'counter-signalling'_ heet. Om dit concept uit te leggen neem ik het voorbeeld van de pauw. 

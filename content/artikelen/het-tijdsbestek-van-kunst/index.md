@@ -1,10 +1,12 @@
 ---
-title    : "Het tijdsbestek van kunst"
-subtitle : "Over mode en architectuur"
-auteurs  : ["Stained Glass Zealot"]
-date     : "2022-03-10"
-themas   : "Cultuur & Maatschappij"
-dossiers : ["Christendom"]
+auteurs:
+- Stained Glass Zealot
+date: "2022-03-10"
+dossiers:
+- Christendom
+subtitle: Over mode en architectuur
+themas: Cultuur & Maatschappij
+title: Het tijdsbestek van kunst
 ---
 
 _Dit is een vertaald artikel, het origineel is [hier](https://glasszealot.substack.com/p/the-timeframe-of-art) te lezen._

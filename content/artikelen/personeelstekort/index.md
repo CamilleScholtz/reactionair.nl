@@ -1,9 +1,10 @@
 ---
-title    : "Personeelstekort?"
-subtitle : "Over omvolking en onnodig werk"
-auteurs  : ["'Het Dorp' Genieter"]
-date     : "2022-05-19"
-themas   : "Politiek & Actualiteit"
+auteurs:
+- '''Het Dorp'' Genieter'
+date: "2022-05-19"
+subtitle: Over omvolking en onnodig werk
+themas: Politiek & Actualiteit
+title: Personeelstekort?
 ---
 
 
