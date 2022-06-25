@@ -4,7 +4,7 @@ subtitle = "TODO"
 auteurs  = ["Jan-Willem Veldhuizen"]
 date     = "2022-06-25"
 themas   = "Cultuur & Maatschappij"
-aangehaald = ["René Girard", "Ernst Jünger", "Theodore J. Kaczynski", "Friedrich Nietzsche", "Oswald Spengler", "Jacues Ellul", "Curtis Yarvin", "Slavoj Žižek"]
+aangehaald = ["René Girard", "Ernst Jünger", "Theodore J. Kaczynski", "Friedrich Nietzsche", "Oswald Spengler", "Jacques Ellul", "Curtis Yarvin", "Slavoj Žižek"]
 draft = true
 +++
 

@@ -1,8 +1,10 @@
 import { defineSchema } from 'tinacms'
-import fs from 'fs-extra'
+import fetch from 'sync-fetch';
 
-const auteurs  = JSON.parse(fs.readFileSync('/srv/reactionair.nl/public/auteurs/index.json').toString())
-const dossiers = JSON.parse(fs.readFileSync('/srv/reactionair.nl/public/dossiers/index.json').toString())
+// TODO: In the future replace this with references. See https://github.com/tinacms/tinacms/issues/2347
+const auteurs    = fetch('https://reactionair.nl/auteurs/index.json').json()
+const dossiers   = fetch('https://reactionair.nl/dossiers/index.json').json()
+const aangehaald = fetch('https://reactionair.nl/aangehaald/index.json').json()
 
 export default defineSchema({
   collections: [
@@ -40,9 +42,6 @@ export default defineSchema({
           name: 'auteurs',
           type: 'string',
           list: true,
-          ui: {
-          	component: 'select',
-          },
           options: auteurs,
         },
         {
@@ -57,16 +56,10 @@ export default defineSchema({
           name: 'aangehaald',
           type: 'string',
           list: true,
+          options: aangehaald,
           ui: {
           	component: 'tags',
           },
-          options: [
-          	'Politiek & Actualiteit',
-            'Cultuur & Maatschappij',
-            'Recensie & Biografie',
-            'Religie & Metafysica',
-            'Klikaas',
-          ],
         },
         {
           label: 'Thema',
