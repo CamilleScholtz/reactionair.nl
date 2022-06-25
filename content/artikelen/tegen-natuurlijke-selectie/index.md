@@ -1,11 +1,11 @@
-+++
-title     = "Tegen-natuurlijke selectie"
-subtitle  = "De Futuro-Fundamentalistische Revolutie, deel 2"
-auteurs   = ["Alexander Wolfheze"]
-date      = "2021-12-28"
-themas    = "Cultuur & Maatschappij"
-aangehaald = ["Nicolás Gómez Dávila"]
-+++
+---
+title     : "Tegen-natuurlijke selectie"
+subtitle  : "De Futuro-Fundamentalistische Revolutie, deel 2"
+auteurs   : ["Alexander Wolfheze"]
+date      : "2021-12-28"
+themas    : "Cultuur & Maatschappij"
+aangehaald : ["Nicolás Gómez Dávila"]
+---
 
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/devolutie-theorie/) het vorige deel._

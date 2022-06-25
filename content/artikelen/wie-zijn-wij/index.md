@@ -1,11 +1,11 @@
-+++
-title    = "Wie zijn wij?"
-subtitle = "Een inleiding tot Reactionair.nl"
-question = "Wat vindt u van Reactionair.nl?"
-auteurs  = ["Redactie"]
-date     = "2021-10-01"
-themas   = "Mededeling"
-+++
+---
+title    : "Wie zijn wij?"
+subtitle : "Een inleiding tot Reactionair.nl"
+question : "Wat vindt u van Reactionair.nl?"
+auteurs  : ["Redactie"]
+date     : "2021-10-01"
+themas   : "Mededeling"
+---
 
 
 Wij zijn een online tijdschrift gewijd aan essays, kritieken en opinie vanuit — zoals de naam al aangeeft — een reactionair oogpunt. Een korte inleiding tot de etymologie van _Reactionair_ zal duidelijk maken waarom wij voor deze naam gekozen hebben: reactionair komt van het Franse _réactionnaire_ dat gebruikt werd in de tijd van de Franse revolutie en verwijst naar hen die zich verzetten tegen de revolutie, waarbij de revolutie in delen verwijst naar de historische gebeurtenis, en in delen symbool staat voor het liberalisme en de bijbehorende beginselen als _liberté_ en _égalité_.

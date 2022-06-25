@@ -1,12 +1,12 @@
-+++
-title     = "Mijmeringen over de Metaverse"
-subtitle  = ""
-auteurs   = ["Camille Meloen"]
-date      = "2022-01-20"
-themas    = "Politiek & Maatschappij"
-aangehaald = ["René Guénon"]
-draft     = true
-+++
+---
+title     : "Mijmeringen over de Metaverse"
+subtitle  : ""
+auteurs   : ["Camille Meloen"]
+date      : "2022-01-20"
+themas    : "Politiek & Maatschappij"
+aangehaald : ["René Guénon"]
+draft     : true
+---
 
 
 De _Metaverse_. Je hebt er waarschijnlijk van gehoord de laatste paar maanden. Een _buzzword_ dat plotseling, en mag ik wel zeggen, een soort van geforceerd op het toneel verscheen. In dit essay ben ik niet echt geïnteresseerd in de werkelijke geschiedenis, of zelfs betekenis, van de term, maar meer in _#vrijdenken_ over de connotaties die ik persoonlijk heb met de term. Na het vrijdenken schrijf ik misschien een beetje over de werklijke betekenis en geschiedenis, om te zien of mijn ideeën overeenkomen.

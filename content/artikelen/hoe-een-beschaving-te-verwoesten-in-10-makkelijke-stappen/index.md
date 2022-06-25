@@ -1,11 +1,11 @@
-+++
-title    = "Hoe een beschaving te verwoesten in 10 makkelijke stappen..."
-subtitle = "Hoeveel punten herken jij!?"
-auteurs  = ["Redactie"]
-date     = "2022-05-23"
-themas   = "Klikaas"
-anchor   = "Top"
-+++
+---
+title    : "Hoe een beschaving te verwoesten in 10 makkelijke stappen..."
+subtitle : "Hoeveel punten herken jij!?"
+auteurs  : ["Redactie"]
+date     : "2022-05-23"
+themas   : "Klikaas"
+anchor   : "Top"
+---
 
 {{< image
 	caption=""

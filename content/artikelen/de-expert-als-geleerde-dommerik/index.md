@@ -1,10 +1,10 @@
-+++
-title    = "De expert als geleerde dommerik"
-subtitle = "Waarom hebben de hoogste autoriteiten soms zulke wereldvreemde meningen?"
-auteurs  = ["Marit Elechan"]
-date     = "2022-03-06"
-themas   = "Cultuur & Maatschappij"
-+++
+---
+title    : "De expert als geleerde dommerik"
+subtitle : "Waarom hebben de hoogste autoriteiten soms zulke wereldvreemde meningen?"
+auteurs  : ["Marit Elechan"]
+date     : "2022-03-06"
+themas   : "Cultuur & Maatschappij"
+---
 
 
 In de hedendaagse samenleving zien wij het regelmatig: een geleerde met een hoogdravende mening. Vaak is dit nog over een precair maatschappelijk onderwerp. De geleerde wordt uitgenodigd voor televisieprogramma’s, kranten, tijdschriften, enzovoort. Is dit gek?

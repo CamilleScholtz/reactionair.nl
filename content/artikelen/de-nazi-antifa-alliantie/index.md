@@ -1,12 +1,12 @@
-+++
-title     = "De Nazi-Antifa Alliantie"
-subtitle  = "De vergeten geschiedenis van conservatief verzet, de bevrijding en Neurenberg"
-auteurs   = ["Sanura"]
-date      = "2022-05-05"
-themas    = "Politiek & Actualiteit"
-aangehaald = ["Erik von Kuehnelt-Leddihn", "Oswald Spengler"]
-anchor    = "Center"
-+++
+---
+title     : "De Nazi-Antifa Alliantie"
+subtitle  : "De vergeten geschiedenis van conservatief verzet, de bevrijding en Neurenberg"
+auteurs   : ["Sanura"]
+date      : "2022-05-05"
+themas    : "Politiek & Actualiteit"
+aangehaald : ["Erik von Kuehnelt-Leddihn", "Oswald Spengler"]
+anchor    : "Center"
+---
 
 
 _Me-too! Racist! Fascist! Woke is te ver gegaan! Black lives matter! Eigen volk eerst! Prikdictatuur. MinistryofTruth..._ Laten we ons richten op de bevrijding 77 jaar geleden om ons helderheid te verschaffen in een tijd van hernieuwde chaos en strijd.

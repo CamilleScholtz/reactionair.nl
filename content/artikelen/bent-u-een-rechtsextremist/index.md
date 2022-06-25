@@ -1,11 +1,11 @@
-+++
-title    = "Bent u een rechtsextremist?"
-subtitle = "Doe de test!"
-auteurs  = ["Redactie"]
-date     = "2022-04-29"
-themas   = "Klikaas"
-question = "En, bent u een rechtsextremist?"
-+++
+---
+title    : "Bent u een rechtsextremist?"
+subtitle : "Doe de test!"
+auteurs  : ["Redactie"]
+date     : "2022-04-29"
+themas   : "Klikaas"
+question : "En, bent u een rechtsextremist?"
+---
 
 
 De AIVD bracht hun jaarverslag uit[^1] en gaf het volgende aan:

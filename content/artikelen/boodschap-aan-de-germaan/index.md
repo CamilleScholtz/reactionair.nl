@@ -1,12 +1,12 @@
-+++
-title     = "Boodschap aan de Germaan"
-subtitle  = "Van een Marokkaan"
-auteurs   = ["Mootje"]
-date      = "2021-12-26"
-themas    = "Politiek & Actualiteit"
-aangehaald = ["Pim Fortuyn", "Geert Wilders", "Plato"]
-dossiers  = ["Conservatieve Alliantie", "Islam"]
-+++
+---
+title     : "Boodschap aan de Germaan"
+subtitle  : "Van een Marokkaan"
+auteurs   : ["Mootje"]
+date      : "2021-12-26"
+themas    : "Politiek & Actualiteit"
+aangehaald : ["Pim Fortuyn", "Geert Wilders", "Plato"]
+dossiers  : ["Conservatieve Alliantie", "Islam"]
+---
 
 
 Het eindeloos gehuil om migratie, omvolking en weet ik allemaal niet wat, begint mij langzamerhand de keel uit te hangen. In plaats van te externaliseren moet er grondig aan introspectie gedaan worden.

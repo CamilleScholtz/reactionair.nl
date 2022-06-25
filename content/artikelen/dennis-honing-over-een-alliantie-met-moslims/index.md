@@ -1,12 +1,12 @@
-+++
-title    = "Dennis Honing over een alliantie met moslims"
-subtitle = "Over reactionairen en moslims, deel 2"
-question = "Denkt u dat een dergelijke alliantie mogelijk is?"
-auteurs  = ["Dennis Honing"]
-date     = "2021-11-01"
-themas   = "Politiek & Actualiteit"
-dossiers = ["Islam", "Conservatieve Alliantie"]
-+++
+---
+title    : "Dennis Honing over een alliantie met moslims"
+subtitle : "Over reactionairen en moslims, deel 2"
+question : "Denkt u dat een dergelijke alliantie mogelijk is?"
+auteurs  : ["Dennis Honing"]
+date     : "2021-11-01"
+themas   : "Politiek & Actualiteit"
+dossiers : ["Islam", "Conservatieve Alliantie"]
+---
 
 
 _Dit artikel is een reactie op een eerder gepubliceerd artikel op Reactionair.nl._[^1]

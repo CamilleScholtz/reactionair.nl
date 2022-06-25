@@ -1,10 +1,10 @@
-+++
-title    = "Enoch Powell"
-subtitle = "Politieke paria en patriot"
-auteurs  = ["Cedrik Vandooren"]
-date     = "2022-04-30"
-themas   = "Recensie & Biografie"
-+++
+---
+title    : "Enoch Powell"
+subtitle : "Politieke paria en patriot"
+auteurs  : ["Cedrik Vandooren"]
+date     : "2022-04-30"
+themas   : "Recensie & Biografie"
+---
 
 
 De strenge dictie waarmee Enoch Powell zijn publiek toesprak schetst een stem van een sobere politicus. Wie wat langer luistert zal echter onder de invloed raken van de bezwerende toon en achter de façade van rigoureuze logica een man zien die geleid werd door eerst zijn hart en daarna zijn hersenen. Vandaar lijkt hij vol te zitten met ogenschijnlijke tegenstrijdigheden. Wie had gedacht dat de schrijver van de ten onrechte racistisch genoemde _‘Rivers of blood’_ speech fel opkwam voor de rechten van vermoorde Kenianen tijdens de Mau Mau-opstand? Even paradoxaal was zijn steun voor de genationaliseerde gezondheidszorg en vakbonden terwijl hij als grondlegger gold voor het vrijemarktdenken en uiteindelijk de inspiratie was voor het monetaire beleid van Thatcher.

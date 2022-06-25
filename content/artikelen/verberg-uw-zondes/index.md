@@ -1,12 +1,12 @@
-+++
-title    = "Verberg uw zondes"
-subtitle = "En red de samenleving"
-auteurs  = ["Eco al-Hollandi"]
-date     = "2022-05-01"
-themas   = "Religie & Metafysica"
-dossiers = ["Islam"]
-anchor   = "Top"
-+++
+---
+title    : "Verberg uw zondes"
+subtitle : "En red de samenleving"
+auteurs  : ["Eco al-Hollandi"]
+date     : "2022-05-01"
+themas   : "Religie & Metafysica"
+dossiers : ["Islam"]
+anchor   : "Top"
+---
 
 
 {{< image

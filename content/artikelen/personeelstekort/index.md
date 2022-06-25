@@ -1,10 +1,10 @@
-+++
-title    = "Personeelstekort?"
-subtitle = "Over omvolking en onnodig werk"
-auteurs  = ["'Het Dorp' Genieter"]
-date     = "2022-05-19"
-themas   = "Politiek & Actualiteit"
-+++
+---
+title    : "Personeelstekort?"
+subtitle : "Over omvolking en onnodig werk"
+auteurs  : ["'Het Dorp' Genieter"]
+date     : "2022-05-19"
+themas   : "Politiek & Actualiteit"
+---
 
 
 "Chaos door personeelstekort: 'krapte wordt alleen maar groter'", "Ketheltunnel bij Rotterdam dicht door personeelstekort, zware spits verwacht" en "NS kampt met personeelstekort: treinen vallen uit".

@@ -1,12 +1,12 @@
-+++
-title     = "Homo credens"
-subtitle  = "Over de wetenschap als volksgeloof"
-auteurs   = ["Anton Prins"]
-date      = "2022-05-16"
-themas    = "Religie & Metafysica"
-aangehaald = ["Arthur Schopenhauer", "Friedrich Schiller", "Socrates"]
-noindex   = true
-+++
+---
+title     : "Homo credens"
+subtitle  : "Over de wetenschap als volksgeloof"
+auteurs   : ["Anton Prins"]
+date      : "2022-05-16"
+themas    : "Religie & Metafysica"
+aangehaald : ["Arthur Schopenhauer", "Friedrich Schiller", "Socrates"]
+noindex   : true
+---
 
 
 {{< quote

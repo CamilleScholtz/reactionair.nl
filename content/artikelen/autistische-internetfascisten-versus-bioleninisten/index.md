@@ -1,12 +1,12 @@
-+++
-title    = "Autistische internetfascisten versus bioleninisten"
-subtitle = "Twitter als toneel van de strijd om sociaal prestige"
-auteurs  = ["De Melancholieke Nar"]
-date     = "2022-04-09"
-themas   = "Cultuur & Maatschappij"
-dossiers = ["Woke"]
-aangehaald = ["René Girard"]
-+++
+---
+title    : "Autistische internetfascisten versus bioleninisten"
+subtitle : "Twitter als toneel van de strijd om sociaal prestige"
+auteurs  : ["De Melancholieke Nar"]
+date     : "2022-04-09"
+themas   : "Cultuur & Maatschappij"
+dossiers : ["Woke"]
+aangehaald : ["René Girard"]
+---
 
 
 Er wordt heel wat gekijfd op Twitter. Eerstens is  er het <i>wannabe</i>-elitaire dedain van types als Kaag en Segers die vol afschuw neerkijken op dat open riool waar iedere ongewassen tokkie en ongeschoren wappie zomaar feitenvrij mag schrijven wat in hem of haar opkomt. Goed, er zijn ook koene ridders van de orde van de blauwe vink als Rudy Bouma die onversaagd ten strijde trekken tegen het nepnieuws,[^1] maar numeriek leggen ze het toch af tussen het desinformatieverspreidende tuig. Hoogste tijd voor een wettelijk verbod op anonimiteit![^2] Tweedens raken ook fanatieke twitteraars zelf niet uitgepraat over wat een hels oord zich niet uitstrekt onder de vleugels van de blauwe vogel. _Ik ga nu echt minder twitteren_, kondigt de junk aan op zijn tijdlijn, _dit is een aanslag op mijn geestelijke gezondheid_! Een week later zit hij alweer op het oude niveau te twitteren. Kennelijk is er iets wat ons steeds weer terug doet keren.

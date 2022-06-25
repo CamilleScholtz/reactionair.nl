@@ -1,11 +1,11 @@
-+++
-title     = "De democratie voorbij"
-subtitle  = "Herzien door Robert Lemm"
-auteurs   = ["Robert Lemm"]
-date      = "2022-06-08"
-themas    = "Recensie & Biografie"
-aangehaald = ["Pim Fortuyn", "Alexis de Tocqueville"]
-+++
+---
+title     : "De democratie voorbij"
+subtitle  : "Herzien door Robert Lemm"
+auteurs   : ["Robert Lemm"]
+date      : "2022-06-08"
+themas    : "Recensie & Biografie"
+aangehaald : ["Pim Fortuyn", "Alexis de Tocqueville"]
+---
 
 _De democratie voorbij, door Frank Karsen en Karel Beckman._
 
