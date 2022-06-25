@@ -4,7 +4,7 @@ subtitle  = "Een vergeten Nederlandse filosofe over dogmatisch kuddegedrag, vers
 auteurs   = ["Marit Elechan"]
 date      = "2022-02-17"
 themas    = "Recensie & Biografie"
-geciteerd = ["Baruch Spinoza"] 
+aangehaald = ["Baruch Spinoza"] 
 +++
 
 

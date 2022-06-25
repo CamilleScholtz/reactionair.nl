@@ -4,7 +4,7 @@ subtitle  = "Extreemrechtse liberaal"
 auteurs   = ["Sanura"]
 date      = "2021-10-09"
 themas    = "Recensie & Biografie"
-geciteerd = ["Erik von Kuehnelt-Leddihn"]
+aangehaald = ["Erik von Kuehnelt-Leddihn"]
 +++
 
 

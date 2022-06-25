@@ -4,7 +4,7 @@ subtitle  = "De Futuro-Fundamentalistische Revolutie, deel 6"
 auteurs   = ["Alexander Wolfheze"]
 date      = "2022-01-26"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["Charles Darwin"]
+aangehaald = ["Charles Darwin"]
 +++
 
 

@@ -4,7 +4,7 @@ subtitle  = "Beschouwing over het lot der Westerse beschaving"
 auteurs   = ["Intan Hoijer"]
 date      = "2021-11-03"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["René Guénon", "Friedrich Nietzsche", "Oswald Spengler"]
+aangehaald = ["René Guénon", "Friedrich Nietzsche", "Oswald Spengler"]
 anchor    = "Center"
 +++
 

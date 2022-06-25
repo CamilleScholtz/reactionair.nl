@@ -4,7 +4,7 @@ subtitle  = "Over taaltovenarij met hamer en mes"
 auteurs   = ["De Melancholieke Nar"]
 date      = "2022-05-07"
 themas    = "Religie & Metafysica"
-geciteerd = ["Jacques Derrida", "René Guénon", "Martin Heidegger", "Friedrich Nietzsche", "Plato"]
+aangehaald = ["Jacques Derrida", "René Guénon", "Martin Heidegger", "Friedrich Nietzsche", "Plato"]
 anchor    = "Center"
 +++
 

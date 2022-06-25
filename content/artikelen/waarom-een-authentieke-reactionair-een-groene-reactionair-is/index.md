@@ -4,7 +4,7 @@ subtitle  = "Over ecologie"
 auteurs   = ["Jan-Willem Veldhuizen"]
 date      = "2021-11-17"
 themas    = "Politiek & Actualiteit"
-geciteerd = ["Johann Wolfgang von Goethe", "René Guénon", "Friedrich Schiller"]
+aangehaald = ["Johann Wolfgang von Goethe", "René Guénon", "Friedrich Schiller"]
 dossiers  = ["Klimaatverandering"]
 +++
 

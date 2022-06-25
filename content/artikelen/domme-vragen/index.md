@@ -4,7 +4,7 @@ subtitle  = "Descartes over verwondering en wijsheid"
 auteurs   = ["Tólma"]
 date      = "2022-05-11"
 themas    = "Religie & Metafysica"
-geciteerd = ["René Descartes", "Fjodor Dostojevski", "Socrates"]
+aangehaald = ["René Descartes", "Fjodor Dostojevski", "Socrates"]
 anchor    = "Center"
 +++
 

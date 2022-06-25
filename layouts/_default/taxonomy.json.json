@@ -1,0 +1,9 @@
+{{ $.Scratch.Add "index" slice }}
+
+{{ range .Pages.ByTitle }}
+	{{ $.Scratch.Add "index" (slice
+		.Params.title
+	) }}
+{{ end }}
+
+{{ $.Scratch.Get "index" | jsonify }}

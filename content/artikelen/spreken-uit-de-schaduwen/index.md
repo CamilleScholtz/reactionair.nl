@@ -4,7 +4,7 @@ subtitle  = "Een ode aan de anonimiteit"
 auteurs   = ["Anton Prins"]
 date      = "2022-06-02"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["Jean-Paul Sartre", "Arthur Schopenhauer", "Friedrich Schiller"]
+aangehaald = ["Jean-Paul Sartre", "Arthur Schopenhauer", "Friedrich Schiller"]
 +++
 
 

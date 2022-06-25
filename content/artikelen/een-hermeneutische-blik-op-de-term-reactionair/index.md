@@ -4,7 +4,7 @@ subtitle  = "Het belang van betekenis van termen en wat het ons kan leren over e
 auteurs   = ["Paars van Grinsterer"]
 date      = "2021-11-11"
 themas    = "Politiek & Actualiteit"
-geciteerd = ["Thierry Baudet", "Julius Evola", "Ernst Jünger", "Erik von Kuehnelt-Leddihn", "Sid Lukkassen", "Oswald Spengler"]
+aangehaald = ["Thierry Baudet", "Julius Evola", "Ernst Jünger", "Erik von Kuehnelt-Leddihn", "Sid Lukkassen", "Oswald Spengler"]
 +++
 
 

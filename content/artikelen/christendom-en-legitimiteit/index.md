@@ -4,7 +4,7 @@ subtitle  = "Autoriteit versus macht"
 auteurs   = ["Sanura"]
 date      = "2021-12-29"
 themas    = "Religie & Metafysica"
-geciteerd = ["Erik von Kuehnelt-Leddihn"]
+aangehaald = ["Erik von Kuehnelt-Leddihn"]
 dossiers  = ["Christendom"]
 +++
 

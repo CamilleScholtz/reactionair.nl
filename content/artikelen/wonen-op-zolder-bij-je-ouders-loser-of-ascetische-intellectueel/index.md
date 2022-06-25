@@ -4,7 +4,7 @@ subtitle  = "Verdwenen vrijheid en zingeving in het liberale consumptiekapitalis
 auteurs   = ["Sanura"]
 date      = "2022-04-19"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["Michel Foucault", "Aristoteles", "Plato", "Pythagoras", "Socrates"]
+aangehaald = ["Michel Foucault", "Aristoteles", "Plato", "Pythagoras", "Socrates"]
 +++
 
 

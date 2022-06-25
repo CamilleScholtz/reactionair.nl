@@ -4,7 +4,7 @@ subtitle  = "Enkele fragmenten uit Orthodoxie door G.K. Chesterton die mij zijn 
 auteurs   = ["Jurbin van Hooff"]
 date      = "2022-03-09"
 themas    = "Recensie & Biografie"
-geciteerd = ["G. K. Chesterton"]
+aangehaald = ["G. K. Chesterton"]
 +++
 
 

@@ -4,7 +4,7 @@ subtitle  = "Over NAVO, Rusland en Oekraïne"
 auteurs   = ["Robert Lemm"]
 date      = "2022-03-11"
 themas    = "Politiek & Actualiteit"
-geciteerd = ["Thierry Baudet"]
+aangehaald = ["Thierry Baudet"]
 dossiers  = ["Oekraïne"]
 +++
 

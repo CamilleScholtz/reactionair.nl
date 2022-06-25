@@ -4,7 +4,7 @@ subtitle  = "Gedachten over het Onbegrensde"
 auteurs   = ["Camille Meloen"]
 date      = "2021-10-21"
 themas    = "Religie & Metafysica"
-geciteerd = ["René Guénon", "Martin Heidegger", "Martin Lings"]
+aangehaald = ["René Guénon", "Martin Heidegger", "Martin Lings"]
 +++
 
 

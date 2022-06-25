@@ -4,7 +4,7 @@ subtitle  = "Enkele woorden als voorbereiding op een lezing"
 auteurs   = ["Anton Prins"]
 date      = "2022-06-23"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["George Berkeley", "Johann Wolfgang von Goethe", "Friedrich Nietzsche", "Arthur Schopenhauer", "William Shakespeare", "Baruch Spinoza", "Plato"]
+aangehaald = ["George Berkeley", "Johann Wolfgang von Goethe", "Friedrich Nietzsche", "Arthur Schopenhauer", "William Shakespeare", "Baruch Spinoza", "Plato"]
 +++
 
 Het volgende stuk is geschreven ter gelegendheid van de lezing van de heer Joris van Rossum van 24 juni 2022. Mijn hoop is dat dit kan dienen als voorbereidende lectuur voor geïnteresseerden die deze lezing bij zullen wonen.

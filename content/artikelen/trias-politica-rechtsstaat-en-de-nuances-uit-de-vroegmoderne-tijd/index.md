@@ -4,7 +4,7 @@ subtitle  = "De l'Esprit des Lois 2.0, deel 2"
 auteurs   = ["Sanura"]
 date      = "2022-04-28"
 themas    = "Politiek & Actualiteit"
-geciteerd = ["Thierry Baudet", "C. S. Lewis", "Alexis de Tocqueville"]
+aangehaald = ["Thierry Baudet", "C. S. Lewis", "Alexis de Tocqueville"]
 +++
 
 

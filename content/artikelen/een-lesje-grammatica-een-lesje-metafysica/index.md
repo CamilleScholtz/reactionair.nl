@@ -4,7 +4,7 @@ subtitle  = "Waarom het streven naar objectiviteit een doodlopend pad is, deel 2
 auteurs   = ["De Melancholieke Nar"]
 date      = "2022-02-01"
 themas    = "Religie & Metafysica"
-geciteerd = ["George Berkeley", "Pythagoras"]
+aangehaald = ["George Berkeley", "Pythagoras"]
 +++
 
 

@@ -4,7 +4,7 @@ subtitle  = "‘Degeneratie van het midden’ na revolutie, tirannie en terreur"
 auteurs   = ["Sanura"]
 date      = "2022-05-14"
 themas    = "Politiek & Actualiteit"
-geciteerd = ["Erik von Kuehnelt-Leddihn", "Aristoteles", "Plato", "Pythagoras", "Socrates"]
+aangehaald = ["Erik von Kuehnelt-Leddihn", "Aristoteles", "Plato", "Pythagoras", "Socrates"]
 +++
 
 

@@ -4,7 +4,7 @@ subtitle  = "Over de omgekeerde analogie"
 auteurs   = ["Camille Meloen"]
 date      = "2021-11-21"
 themas    = "Religie & Metafysica"
-geciteerd = ["René Guénon", "Aristoteles", "Pythagoras"]
+aangehaald = ["René Guénon", "Aristoteles", "Pythagoras"]
 anchor    = "Top"
 +++
 

@@ -4,7 +4,7 @@ subtitle  = "Kan de politiek-maatschappelijke orde gegrondvest worden op een par
 auteurs   = ["De Melancholieke Nar"]
 date      = "2022-01-08"
 themas    = "Politiek & Actualiteit"
-geciteerd = ["Michel Foucault", "Friedrich Nietzsche", "Karl Popper"]
+aangehaald = ["Michel Foucault", "Friedrich Nietzsche", "Karl Popper"]
 +++
 
 

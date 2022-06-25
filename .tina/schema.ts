@@ -1,4 +1,6 @@
-import { defineSchema } from 'tinacms';
+import { defineSchema } from 'tinacms'
+
+const authors = require('../public/auteurs/index.json')
 
 export default defineSchema({
   collections: [
@@ -28,6 +30,7 @@ export default defineSchema({
           type: 'string',
           /*ui: {
             dateFormat: 'YYYY-MM-DD',
+            timeFormat: false,
           },*/
         },
         {
@@ -35,32 +38,43 @@ export default defineSchema({
           name: 'auteurs',
           type: 'string',
           list: true,
+          ui: {
+          	component: 'select',
+          },
+          options: authors,
+        },
+        {
+          label: 'Dossiers',
+          name: 'dossiers',
+          type: 'string',
+          list: true,
+        },
+        {
+          label: 'Aangehaald',
+          name: 'aangehaald',
+          type: 'string',
+          list: true,
+          ui: {
+          	component: 'tags',
+          },
+          options: [
+          	'Politiek & Actualiteit',
+            'Cultuur & Maatschappij',
+            'Recensie & Biografie',
+            'Religie & Metafysica',
+            'Klikaas',
+          ],
         },
         {
           label: 'Thema',
           name: 'themas',
           type: 'string',
           options: [
-            {
-              value: 'Politiek & Actualiteit',
-              label: 'Politiek & Actualiteit',
-            },
-            {
-              value: 'Cultuur & Maatschappij',
-              label: 'Cultuur & Maatschappij',
-            },
-            {
-              value: 'Recensie & Biografie',
-              label: 'Recensie & Biografie',
-            },
-            {
-              value: 'Religie & Metafysica',
-              label: 'Religie & Metafysica',
-            },
-            {
-              value: 'Klikaas',
-              label: 'Klikaas',
-            },
+          	'Politiek & Actualiteit',
+            'Cultuur & Maatschappij',
+            'Recensie & Biografie',
+            'Religie & Metafysica',
+            'Klikaas',
           ],
         },
         {

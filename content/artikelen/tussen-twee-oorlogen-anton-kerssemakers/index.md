@@ -4,7 +4,7 @@ subtitle  = "Onderzoek naar een onbekende auteur"
 auteurs   = ["Camille Meloen"]
 date      = "2021-10-02"
 themas    = "Recensie & Biografie"
-geciteerd = ["René Guénon"]
+aangehaald = ["René Guénon"]
 anchor    = "Top"
 +++
 

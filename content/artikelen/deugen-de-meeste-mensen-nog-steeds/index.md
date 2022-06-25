@@ -4,7 +4,7 @@ subtitle  = "De misanthrope verleiding"
 auteurs   = ["De Melancholieke Nar"]
 date      = "2022-04-15"
 themas    = "Recensie & Biografie"
-geciteerd = ["Rutger Bregman", "Friedrich Nietzsche", "Aristoteles"]
+aangehaald = ["Rutger Bregman", "Friedrich Nietzsche", "Aristoteles"]
 +++
 
 {{< quote

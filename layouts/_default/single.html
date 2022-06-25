@@ -15,12 +15,12 @@
 	<article>	
 		{{ .Content }}
 
-		{{ if isset .Params "geciteerd" }}
+		{{ if isset .Params "aangehaald" }}
 			<div class="cited">
 				<p>Aangehaald in dit artikel:</p>
 
-				{{ range .Params.geciteerd }}
-					<a href="/geciteerd/{{ urlize . }}">{{ . }}</a>
+				{{ range .Params.aangehaald }}
+					<a href="/aangehaald/{{ urlize . }}">{{ . }}</a>
 				{{ end }}
 			</div>
 		{{ end }}

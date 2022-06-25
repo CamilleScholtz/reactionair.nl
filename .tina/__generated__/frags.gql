@@ -4,6 +4,8 @@ fragment ArtikelenParts on Artikelen {
   subtitle
   date
   auteurs
+  dossiers
+  aangehaald
   themas
   body
 }

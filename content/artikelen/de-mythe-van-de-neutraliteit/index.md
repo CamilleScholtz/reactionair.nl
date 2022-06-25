@@ -4,7 +4,7 @@ subtitle  = "En de blindheid van de liberalen"
 auteurs   = ["Camille Meloen"]
 date      = "2021-10-06"
 themas    = "Politiek & Actualiteit"
-geciteerd = ["G. K. Chesterton", "Karl Popper"]
+aangehaald = ["G. K. Chesterton", "Karl Popper"]
 +++
 
 

@@ -5,7 +5,7 @@ question  = "Wat is volgens u een passende term om het onderscheid te duiden?"
 auteurs   = ["Vrederijk"]
 date      = "2021-10-28"
 themas    = "Politiek & Actualiteit"
-geciteerd = ["Thierry Baudet", "Sid Lukkassen"]
+aangehaald = ["Thierry Baudet", "Sid Lukkassen"]
 dossiers  = ["Woke"]
 +++
 

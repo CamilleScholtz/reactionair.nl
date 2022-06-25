@@ -4,7 +4,7 @@ subtitle  = "Een allegorie van wokisme avant la lettre"
 auteurs   = ["Redactie"]
 date      = "2022-02-21"
 themas    = "Politiek & Actualiteit"
-geciteerd = ["Michel Foucault", "Theodore J. Kaczynski", "Plato"]
+aangehaald = ["Michel Foucault", "Theodore J. Kaczynski", "Plato"]
 noindex   = true
 +++
 

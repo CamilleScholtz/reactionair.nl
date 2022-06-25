@@ -4,7 +4,7 @@ subtitle  = "De wereld waarin je bent opgegroeid bestaat niet meer"
 auteurs   = ["Jurbin van Hooff"]
 date      = "2022-06-22"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["Oswald Spengler"]
+aangehaald = ["Oswald Spengler"]
 +++
 
 We leven in een breuk met de geschiedenis en niemand beseft het. Er is een proces van vervreemding gaande op de wereld; men is niet meer gebonden aan de regio, de familie en traditie, maar vooral veel met zichzelf bezig. Dat weinigen dit beseffen komt doordat er een maatschappelijk geloof is dat we ons in een volmaakte conditie bevinden, of om met Fukuyama te spreken: we bevinden ons aan het fameuze ‘einde van de geschiedenis’. Aangezien Mark Fisher dit fenomeen goed heeft omschreven, en dat zeker beter heeft gedaan dan ik dat kan doen, zal ik hem gedienstig citeren:

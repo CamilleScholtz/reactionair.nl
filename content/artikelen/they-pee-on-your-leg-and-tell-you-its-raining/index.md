@@ -4,7 +4,7 @@ subtitle  = "Misbruikers moeten kinderen weerbaar maken tegen misbruik"
 auteurs   = ["Sanura"]
 date      = "2021-10-05"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["Jacques Derrida", "Michel Foucault", "Jean-Paul Sartre"]
+aangehaald = ["Jacques Derrida", "Michel Foucault", "Jean-Paul Sartre"]
 dossiers  = ["Woke"]
 +++
 

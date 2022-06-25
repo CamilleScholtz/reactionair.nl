@@ -4,7 +4,7 @@ subtitle  = "Over de wetenschap als volksgeloof"
 auteurs   = ["Anton Prins"]
 date      = "2022-05-16"
 themas    = "Religie & Metafysica"
-geciteerd = ["Arthur Schopenhauer", "Friedrich Schiller", "Socrates"]
+aangehaald = ["Arthur Schopenhauer", "Friedrich Schiller", "Socrates"]
 noindex   = true
 +++
 

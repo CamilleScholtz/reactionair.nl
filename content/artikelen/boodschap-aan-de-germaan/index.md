@@ -4,7 +4,7 @@ subtitle  = "Van een Marokkaan"
 auteurs   = ["Mootje"]
 date      = "2021-12-26"
 themas    = "Politiek & Actualiteit"
-geciteerd = ["Pim Fortuyn", "Geert Wilders", "Plato"]
+aangehaald = ["Pim Fortuyn", "Geert Wilders", "Plato"]
 dossiers  = ["Conservatieve Alliantie", "Islam"]
 +++
 

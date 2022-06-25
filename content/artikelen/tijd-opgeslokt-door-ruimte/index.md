@@ -4,7 +4,7 @@ subtitle  = "De eschatologie van René Guénon"
 auteurs   = ["Camille Meloen"]
 date      = "2021-11-05"
 themas    = "Religie & Metafysica"
-geciteerd = ["René Guénon", "Robert Lemm", "Oswald Spengler"]
+aangehaald = ["René Guénon", "Robert Lemm", "Oswald Spengler"]
 +++
 
 

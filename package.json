@@ -3,7 +3,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "yarn tinacms server:start",
-    "schema": "yarn tinacms schema:compile && yarn tinacms schema:types"
+    "schema": "tinacms schema:compile && tinacms schema:types"
   },
   "dependencies": {
     "react": "17.0.2",
@@ -12,6 +12,7 @@
     "tinacms": "^0.68.10"
   },
   "devDependencies": {
-    "@tinacms/cli": "^0.60.24"
+    "@tinacms/cli": "^0.60.24",
+    "@types/node": "^18.0.0"
   }
 }

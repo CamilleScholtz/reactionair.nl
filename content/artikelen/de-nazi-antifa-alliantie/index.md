@@ -4,7 +4,7 @@ subtitle  = "De vergeten geschiedenis van conservatief verzet, de bevrijding en 
 auteurs   = ["Sanura"]
 date      = "2022-05-05"
 themas    = "Politiek & Actualiteit"
-geciteerd = ["Erik von Kuehnelt-Leddihn", "Oswald Spengler"]
+aangehaald = ["Erik von Kuehnelt-Leddihn", "Oswald Spengler"]
 anchor    = "Center"
 +++
 

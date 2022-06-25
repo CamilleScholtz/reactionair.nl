@@ -4,7 +4,7 @@ subtitle  = "Hoe individuen autonomie na kunnen streven in de consumptiemaatscha
 auteurs   = ["Philip van Houten"]
 date      = "2021-11-18"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["C. S. Lewis", "Aristoteles"]
+aangehaald = ["C. S. Lewis", "Aristoteles"]
 +++
 
 

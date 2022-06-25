@@ -4,7 +4,7 @@ subtitle  = "De Futuro-Fundamentalistische Revolutie, deel 3"
 auteurs   = ["Alexander Wolfheze"]
 date      = "2022-01-02"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["Thierry Baudet", "Carl Schmitt"]
+aangehaald = ["Thierry Baudet", "Carl Schmitt"]
 +++
 
 

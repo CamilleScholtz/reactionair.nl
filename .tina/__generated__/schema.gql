@@ -85,6 +85,8 @@ type Artikelen implements Node & Document {
   subtitle: String
   date: String
   auteurs: [String]
+  dossiers: [String]
+  aangehaald: [String]
   themas: String
   body: JSON
   id: ID!
@@ -145,6 +147,8 @@ input ArtikelenMutation {
   subtitle: String
   date: String
   auteurs: [String]
+  dossiers: [String]
+  aangehaald: [String]
   themas: String
   body: JSON
 }

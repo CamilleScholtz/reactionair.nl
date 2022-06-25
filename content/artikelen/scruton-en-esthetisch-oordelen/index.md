@@ -4,7 +4,7 @@ subtitle  = "Wat is schoonheid?"
 auteurs   = ["Cedrik Vandooren"]
 date      = "2022-01-11"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["Roger Scruton", "William Shakespeare", "Plato"]
+aangehaald = ["Roger Scruton", "William Shakespeare", "Plato"]
 +++
 
 

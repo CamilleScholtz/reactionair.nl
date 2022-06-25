@@ -4,7 +4,7 @@ subtitle  = "Fragment uit een boek in voorbereiding"
 auteurs   = ["Robert Lemm"]
 date      = "2021-11-29"
 themas    = "Recensie & Biografie"
-geciteerd = ["Thomas van Aquino", "Nicolás Gómez Dávila"]
+aangehaald = ["Thomas van Aquino", "Nicolás Gómez Dávila"]
 dossiers  = ["Christendom"]
 anchor    = "Center"
 +++

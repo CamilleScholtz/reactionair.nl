@@ -4,7 +4,7 @@ subtitle  = "Nietzsches negentiende-eeuwse blik op social justice warriors"
 auteurs   = ["Redactie"]
 date      = "2022-05-26"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["Friedrich Nietzsche"]
+aangehaald = ["Friedrich Nietzsche"]
 dossiers  = ["Woke"]
 anchor    = "Center"
 +++

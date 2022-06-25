@@ -4,7 +4,7 @@ subtitle  = "Heidegger en onze Terminator-toekomst, deel 1"
 auteurs   = ["Redactie"]
 date      = "2022-05-28"
 themas    = "Religie & Metafysica"
-geciteerd = ["Martin Heidegger", "Oswald Spengler"]
+aangehaald = ["Martin Heidegger", "Oswald Spengler"]
 anchor    = "Center"
 +++
 

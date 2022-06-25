@@ -4,7 +4,7 @@ subtitle  = "De industriële revolutie en haar invloed op sociale interactie"
 auteurs   = ["v. Deirm"]
 date      = "2021-12-07"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["Michel Foucault"]
+aangehaald = ["Michel Foucault"]
 +++
 
 

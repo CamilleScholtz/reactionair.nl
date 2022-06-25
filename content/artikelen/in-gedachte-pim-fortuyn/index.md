@@ -4,7 +4,7 @@ subtitle  = "De enige dandy-salafist van Nederland"
 auteurs   = ["Dennis Honing"]
 date      = "2022-05-06"
 themas    = "Politiek & Actualiteit"
-geciteerd = ["Thierry Baudet", "Pim Fortuyn", "Geert Wilders"]
+aangehaald = ["Thierry Baudet", "Pim Fortuyn", "Geert Wilders"]
 anchor    = "Center"
 +++
 

@@ -4,7 +4,7 @@ subtitle  = "Wordt onze samenleving gegijzeld door een gemechaniseerd wereldbeel
 auteurs   = ["Jurbin van Hooff"]
 date      = "2021-11-25"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["René Descartes", "Oswald Spengler"]
+aangehaald = ["René Descartes", "Oswald Spengler"]
 +++
 
 

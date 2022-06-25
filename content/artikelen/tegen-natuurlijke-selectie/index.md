@@ -4,7 +4,7 @@ subtitle  = "De Futuro-Fundamentalistische Revolutie, deel 2"
 auteurs   = ["Alexander Wolfheze"]
 date      = "2021-12-28"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["Nicolás Gómez Dávila"]
+aangehaald = ["Nicolás Gómez Dávila"]
 +++
 
 

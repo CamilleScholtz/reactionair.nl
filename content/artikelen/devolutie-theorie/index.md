@@ -4,7 +4,7 @@ subtitle  = "De Futuro-Fundamentalistische Revolutie, deel 1"
 auteurs   = ["Alexander Wolfheze"]
 date      = "2021-12-23"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["Charles Darwin", "Friedrich Nietzsche"]
+aangehaald = ["Charles Darwin", "Friedrich Nietzsche"]
 +++
 
 

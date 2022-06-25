@@ -4,7 +4,7 @@ subtitle  = "Een reactie op ‘Overdenkingen over de parabel van de blinden en d
 auteurs   = ["Sanura"]
 date      = "2022-02-11"
 themas    = "Religie & Metafysica"
-geciteerd = ["Erik von Kuehnelt-Leddihn", "Karl Popper", "Plato"]
+aangehaald = ["Erik von Kuehnelt-Leddihn", "Karl Popper", "Plato"]
 dossiers  = ["Christendom"]
 +++
 

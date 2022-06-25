@@ -4,7 +4,7 @@ subtitle  = "Het muzikaal verval in de 20e eeuw"
 auteurs   = ["Cedrik Vandooren"]
 date      = "2022-04-25"
 themas    = "Cultuur & Maatschappij"
-geciteerd = ["Carl Jung", "Jean-Paul Sartre", "Roger Scruton"]
+aangehaald = ["Carl Jung", "Jean-Paul Sartre", "Roger Scruton"]
 draft     = true
 +++
 

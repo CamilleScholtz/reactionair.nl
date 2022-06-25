@@ -4,7 +4,7 @@ subtitle  = ""
 auteurs   = ["Camille Meloen"]
 date      = "2022-01-20"
 themas    = "Politiek & Maatschappij"
-geciteerd = ["René Guénon"]
+aangehaald = ["René Guénon"]
 draft     = true
 +++
 

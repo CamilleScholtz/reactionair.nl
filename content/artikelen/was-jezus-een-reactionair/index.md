@@ -4,7 +4,7 @@ subtitle  = "Traditie=historische context"
 auteurs   = ["Sanura"]
 date      = "2022-03-19"
 themas    = "Religie & Metafysica"
-geciteerd = ["Aristoteles", "Plato", "Socrates"]
+aangehaald = ["Aristoteles", "Plato", "Socrates"]
 dossiers  = ["Christendom"]
 +++
 
