@@ -5,6 +5,7 @@ auteurs  = ["De Melancholieke Nar"]
 date     = "2022-04-09"
 themas   = "Cultuur & Maatschappij"
 dossiers = ["Woke"]
+aangehaald = ["René Girard"]
 +++
 
 

@@ -1,6 +1,8 @@
 import { defineSchema } from 'tinacms'
+import fs from 'fs-extra'
 
-const authors = require('../public/auteurs/index.json')
+const auteurs  = JSON.parse(fs.readFileSync('/srv/reactionair.nl/public/auteurs/index.json').toString())
+const dossiers = JSON.parse(fs.readFileSync('/srv/reactionair.nl/public/dossiers/index.json').toString())
 
 export default defineSchema({
   collections: [
@@ -41,13 +43,14 @@ export default defineSchema({
           ui: {
           	component: 'select',
           },
-          options: authors,
+          options: auteurs,
         },
         {
           label: 'Dossiers',
           name: 'dossiers',
           type: 'string',
           list: true,
+          options: dossiers,
         },
         {
           label: 'Aangehaald',

@@ -4,7 +4,7 @@ subtitle  = "Overweging over het mensbeeld van de meeste mensen"
 auteurs   = ["Walt van Toor"]
 date      = "2022-04-21"
 themas    = "Cultuur & Maatschappij"
-aangehaald = ["Rutger Bregman", "Robert Lemm"]
+aangehaald = ["Rutger Bregman", "Robert Lemm", "Jacues Ellul"]
 +++
 
 

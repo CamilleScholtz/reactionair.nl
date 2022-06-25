@@ -1,5 +1,5 @@
 ---
-_build:
-  render: never
-  list: never
+outputs:
+  - JSON
+  - RSS
 ---
