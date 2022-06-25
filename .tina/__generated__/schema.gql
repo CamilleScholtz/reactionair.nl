@@ -81,14 +81,14 @@ union DocumentNode = Artikelen | Dossiers
 
 type Artikelen implements Node & Document {
   draft: Boolean
-  title: String
-  subtitle: String
-  date: String
-  auteurs: [String]
+  title: String!
+  subtitle: String!
+  date: String!
+  auteurs: [String!]!
   dossiers: [String]
   aangehaald: [String]
-  themas: String
-  body: JSON
+  themas: String!
+  body: String
   id: ID!
   _sys: SystemInfo!
   _values: JSON!
@@ -106,9 +106,9 @@ type ArtikelenConnection implements Connection {
 }
 
 type Dossiers implements Node & Document {
-  title: String
-  heading: String
-  description: String
+  title: String!
+  heading: String!
+  description: String!
   id: ID!
   _sys: SystemInfo!
   _values: JSON!
@@ -150,7 +150,7 @@ input ArtikelenMutation {
   dossiers: [String]
   aangehaald: [String]
   themas: String
-  body: JSON
+  body: String
 }
 
 input DossiersMutation {

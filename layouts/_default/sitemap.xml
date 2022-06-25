@@ -4,7 +4,7 @@
 		{{ if and .Permalink (not .Params.NoIndex) }}
 			<url>
 				<loc>{{ .Permalink }}</loc>
-				{{ if eq .Type "artikelen" }}
+				{{ if and (eq .Kind "page") (eq .Type "artikelen") }}
 					<image:image>
 						{{ $image  := .Resources.GetMatch "thumb.webp" }}
 						{{ $anchor := "Smart" }}

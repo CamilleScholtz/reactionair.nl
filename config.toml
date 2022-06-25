@@ -32,4 +32,7 @@ ignoreErrors = ["error-output-taxonomy"]
 
 [outputs]
 	home     = ["HTML", "JSON", "RSS"]
-	taxonomy = ["HTML", "JSON", "RSS"]
+	section  = ["RSS"]
+	taxonomy = ["JSON", "RSS"]
+	term     = ["HTML", "JSON", "RSS"]
+	page     = ["HTML"]

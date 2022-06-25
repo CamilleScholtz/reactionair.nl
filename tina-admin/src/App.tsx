@@ -10,11 +10,23 @@ function App() {
   const apiURL = process.env.NODE_ENV == "development"
     ? "http://localhost:4001/graphql"
     : `https://content.tinajs.io/content/${clientId}/github/${branch}`;
+//DateFieldPlugin
+//import { DateFieldPlugin } from 'react-tinacms-date'
 
   return (
     <TinaEditProvider
       editMode={
-        <TinaCMS apiURL={apiURL} schema={schema}>
+        <TinaCMS
+          apiURL={apiURL}
+          schema={schema}
+          cmsCallback={(cms) => {
+            import("react-tinacms-editor").then(({ MarkdownFieldPlugin }) => {
+              cms.plugins.add(MarkdownFieldPlugin)
+            })
+
+            return cms
+          }}
+        >
           <TinaAdmin />
         </TinaCMS>
       }

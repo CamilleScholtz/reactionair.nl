@@ -168,14 +168,14 @@ export type DocumentNode = Artikelen | Dossiers;
 export type Artikelen = Node & Document & {
   __typename?: 'Artikelen';
   draft?: Maybe<Scalars['Boolean']>;
-  title?: Maybe<Scalars['String']>;
-  subtitle?: Maybe<Scalars['String']>;
-  date?: Maybe<Scalars['String']>;
-  auteurs?: Maybe<Array<Maybe<Scalars['String']>>>;
+  title: Scalars['String'];
+  subtitle: Scalars['String'];
+  date: Scalars['String'];
+  auteurs: Array<Scalars['String']>;
   dossiers?: Maybe<Array<Maybe<Scalars['String']>>>;
   aangehaald?: Maybe<Array<Maybe<Scalars['String']>>>;
-  themas?: Maybe<Scalars['String']>;
-  body?: Maybe<Scalars['JSON']>;
+  themas: Scalars['String'];
+  body?: Maybe<Scalars['String']>;
   id: Scalars['ID'];
   _sys: SystemInfo;
   _values: Scalars['JSON'];
@@ -196,9 +196,9 @@ export type ArtikelenConnection = Connection & {
 
 export type Dossiers = Node & Document & {
   __typename?: 'Dossiers';
-  title?: Maybe<Scalars['String']>;
-  heading?: Maybe<Scalars['String']>;
-  description?: Maybe<Scalars['String']>;
+  title: Scalars['String'];
+  heading: Scalars['String'];
+  description: Scalars['String'];
   id: Scalars['ID'];
   _sys: SystemInfo;
   _values: Scalars['JSON'];
@@ -294,7 +294,7 @@ export type ArtikelenMutation = {
   dossiers?: InputMaybe<Array<InputMaybe<Scalars['String']>>>;
   aangehaald?: InputMaybe<Array<InputMaybe<Scalars['String']>>>;
   themas?: InputMaybe<Scalars['String']>;
-  body?: InputMaybe<Scalars['JSON']>;
+  body?: InputMaybe<Scalars['String']>;
 };
 
 export type DossiersMutation = {
@@ -303,16 +303,16 @@ export type DossiersMutation = {
   description?: InputMaybe<Scalars['String']>;
 };
 
-export type ArtikelenPartsFragment = { __typename?: 'Artikelen', draft?: boolean | null, title?: string | null, subtitle?: string | null, date?: string | null, auteurs?: Array<string | null> | null, dossiers?: Array<string | null> | null, aangehaald?: Array<string | null> | null, themas?: string | null, body?: any | null };
+export type ArtikelenPartsFragment = { __typename?: 'Artikelen', draft?: boolean | null, title: string, subtitle: string, date: string, auteurs: Array<string>, dossiers?: Array<string | null> | null, aangehaald?: Array<string | null> | null, themas: string, body?: string | null };
 
-export type DossiersPartsFragment = { __typename?: 'Dossiers', title?: string | null, heading?: string | null, description?: string | null };
+export type DossiersPartsFragment = { __typename?: 'Dossiers', title: string, heading: string, description: string };
 
 export type ArtikelenQueryVariables = Exact<{
   relativePath: Scalars['String'];
 }>;
 
 
-export type ArtikelenQuery = { __typename?: 'Query', artikelen: { __typename?: 'Artikelen', id: string, draft?: boolean | null, title?: string | null, subtitle?: string | null, date?: string | null, auteurs?: Array<string | null> | null, dossiers?: Array<string | null> | null, aangehaald?: Array<string | null> | null, themas?: string | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } };
+export type ArtikelenQuery = { __typename?: 'Query', artikelen: { __typename?: 'Artikelen', id: string, draft?: boolean | null, title: string, subtitle: string, date: string, auteurs: Array<string>, dossiers?: Array<string | null> | null, aangehaald?: Array<string | null> | null, themas: string, body?: string | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } };
 
 export type ArtikelenConnectionQueryVariables = Exact<{
   before?: InputMaybe<Scalars['String']>;
@@ -323,14 +323,14 @@ export type ArtikelenConnectionQueryVariables = Exact<{
 }>;
 
 
-export type ArtikelenConnectionQuery = { __typename?: 'Query', artikelenConnection: { __typename?: 'ArtikelenConnection', totalCount: number, edges?: Array<{ __typename?: 'ArtikelenConnectionEdges', node?: { __typename?: 'Artikelen', id: string, draft?: boolean | null, title?: string | null, subtitle?: string | null, date?: string | null, auteurs?: Array<string | null> | null, dossiers?: Array<string | null> | null, aangehaald?: Array<string | null> | null, themas?: string | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } | null } | null> | null } };
+export type ArtikelenConnectionQuery = { __typename?: 'Query', artikelenConnection: { __typename?: 'ArtikelenConnection', totalCount: number, edges?: Array<{ __typename?: 'ArtikelenConnectionEdges', node?: { __typename?: 'Artikelen', id: string, draft?: boolean | null, title: string, subtitle: string, date: string, auteurs: Array<string>, dossiers?: Array<string | null> | null, aangehaald?: Array<string | null> | null, themas: string, body?: string | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } | null } | null> | null } };
 
 export type DossiersQueryVariables = Exact<{
   relativePath: Scalars['String'];
 }>;
 
 
-export type DossiersQuery = { __typename?: 'Query', dossiers: { __typename?: 'Dossiers', id: string, title?: string | null, heading?: string | null, description?: string | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } };
+export type DossiersQuery = { __typename?: 'Query', dossiers: { __typename?: 'Dossiers', id: string, title: string, heading: string, description: string, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } };
 
 export type DossiersConnectionQueryVariables = Exact<{
   before?: InputMaybe<Scalars['String']>;
@@ -341,7 +341,7 @@ export type DossiersConnectionQueryVariables = Exact<{
 }>;
 
 
-export type DossiersConnectionQuery = { __typename?: 'Query', dossiersConnection: { __typename?: 'DossiersConnection', totalCount: number, edges?: Array<{ __typename?: 'DossiersConnectionEdges', node?: { __typename?: 'Dossiers', id: string, title?: string | null, heading?: string | null, description?: string | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } | null } | null> | null } };
+export type DossiersConnectionQuery = { __typename?: 'Query', dossiersConnection: { __typename?: 'DossiersConnection', totalCount: number, edges?: Array<{ __typename?: 'DossiersConnectionEdges', node?: { __typename?: 'Dossiers', id: string, title: string, heading: string, description: string, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } | null } | null> | null } };
 
 export const ArtikelenPartsFragmentDoc = gql`
     fragment ArtikelenParts on Artikelen {

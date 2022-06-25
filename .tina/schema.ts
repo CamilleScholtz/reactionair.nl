@@ -2,9 +2,10 @@ import { defineSchema } from 'tinacms'
 import fetch from 'sync-fetch';
 
 // TODO: In the future replace this with references. See https://github.com/tinacms/tinacms/issues/2347
+const aangehaald = fetch('https://reactionair.nl/aangehaald/index.json').json()
 const auteurs    = fetch('https://reactionair.nl/auteurs/index.json').json()
 const dossiers   = fetch('https://reactionair.nl/dossiers/index.json').json()
-const aangehaald = fetch('https://reactionair.nl/aangehaald/index.json').json()
+const themas     = fetch('https://reactionair.nl/themas/index.json').json()
 
 export default defineSchema({
   collections: [
@@ -19,19 +20,23 @@ export default defineSchema({
           type: 'boolean',
         },
         {
-          label: 'Title',
+          label: 'Titel',
           name: 'title',
           type: 'string',
+          isTitle: true,
+          required: true,
         },
         {
           label: 'Ondertitel',
           name: 'subtitle',
           type: 'string',
+          required: true,
         },
         {
           label: 'Datum',
           name: 'date',
           type: 'string',
+          required: true,
           /*ui: {
             dateFormat: 'YYYY-MM-DD',
             timeFormat: false,
@@ -41,6 +46,7 @@ export default defineSchema({
           label: 'Auteurs',
           name: 'auteurs',
           type: 'string',
+          required: true,
           list: true,
           options: auteurs,
         },
@@ -57,26 +63,18 @@ export default defineSchema({
           type: 'string',
           list: true,
           options: aangehaald,
-          ui: {
-          	component: 'tags',
-          },
         },
         {
           label: 'Thema',
           name: 'themas',
+          required: true,
           type: 'string',
-          options: [
-          	'Politiek & Actualiteit',
-            'Cultuur & Maatschappij',
-            'Recensie & Biografie',
-            'Religie & Metafysica',
-            'Klikaas',
-          ],
+          options: themas,
         },
         {
           label: 'Content',
           name: 'body',
-          type: 'rich-text',
+          type: 'string',
           isBody: true,
         },
       ],
@@ -90,16 +88,20 @@ export default defineSchema({
           label: 'Titel',
           name: 'title',
           type: 'string',
+          isTitle: true,
+          required: true,
       	},
        	{
           label: 'Titel (op paginas)',
           name: 'heading',
           type: 'string',
+          required: true,
       	},
        	{
           label: 'Beschrijving',
           name: 'description',
           type: 'string',
+          required: true,
       	},
       ],
     }
