@@ -1,8 +1,9 @@
----
-layout: misc
-subtitle: Steun Reactionair.nl
-title: Doneren
----
++++
+layout = 'misc'
+subtitle = 'Steun Reactionair.nl'
+title = 'Doneren'
+
++++
 
 <div id="misc">
 	<p>Donaties worden gebruikt om het domein, de hosting van de website, <i>DDoS</i>-bescherming en andere zaken die betrekking hebben op de website te betalen.</p><br>

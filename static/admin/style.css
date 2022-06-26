@@ -1,0 +1,60 @@
+@font-face {
+	font-display: swap;
+	font-family: "Quadraat Pro";
+	font-style: normal;
+	font-weight: 400;
+	src: url("../font/quadraat-pro-normal-400.woff2") format("woff2");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: "Quadraat Pro";
+	font-style: italic;
+	font-weight: 400;
+	src: url("../font/quadraat-pro-italic-400.woff2") format("woff2");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: "Quadraat Pro";
+	font-style: normal;
+	font-weight: 700;
+	src: url("../font/quadraat-pro-normal-700.woff2") format("woff2");
+}
+
+html,
+body {
+	color: #243547;
+	font-family: "Quadraat Pro", serif;
+	font-size: 19px;
+	line-height: 32px;
+}
+
+body {
+	width: 90%;
+	max-width: 750px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+
+h1 {
+	font-size: 74px;
+	line-height: 79px;
+}
+
+h2 {
+	font-size: 42px;
+	line-height: 54px;
+	margin-bottom: 20px;
+}
+
+h3 {
+	font-size: 28px;
+	line-height: 35px;
+	margin-bottom: 30px;
+	margin-top: 60px;
+}
+
+blockquote p {
+	color: #777;
+}

@@ -1,8 +1,5 @@
----
-description: Lijst met auteurs die voor Reactionair.nl schrijven.
-title: Auteurs
-outputs:
-- HTML
-- JSON
-- RSS
----
++++
+description = 'Lijst met auteurs die voor Reactionair.nl schrijven.'
+outputs = ['HTML', 'RSS']
+title = 'Auteurs'
++++

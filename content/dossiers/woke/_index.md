@@ -1,5 +1,6 @@
----
-description: Artikelen in dossier Woke.
-heading: Meer dossier Woke
-title: Woke
----
++++
+description = 'Artikelen in dossier Woke.'
+heading = 'Meer dossier Woke'
+title = 'Woke'
+
++++
