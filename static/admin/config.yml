@@ -1,0 +1,36 @@
+backend:
+  name: git-gateway
+  branch: main
+  identity_url: "https://reactionair.nl/.netlify/identity"
+  gateway_url: "https://reactionair.nl/.netlify/git"
+
+publish_mode: editorial_workflow
+
+media_folder: "static/img/uploads"
+
+site_url: https://reactionair.nl
+logo_url: https://reactionair.nl/img/logo.svg
+
+locale: 'nl'
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+collections:
+  - name: artikelen
+    folder: "content/artikelen"
+    label: Artikelen
+    label_singular: Artikel
+    identifier_field: name
+    extension: md
+    fields:
+      - name: "title"
+        label: "Titel"
+        widget: "string"
+      - name: "subtitle"
+        label: "Ondertitel"
+        widget: "string"
+      - name: "body"
+        label: "Content"
+        widget: "markdown"
