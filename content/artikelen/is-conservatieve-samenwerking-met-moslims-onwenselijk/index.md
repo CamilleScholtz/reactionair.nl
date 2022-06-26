@@ -7,7 +7,7 @@ question = 'Wat zijn uw gedachten over een dergelijke alliantie?'
 subtitle = 'Een reactie op ‘tegen een politiek verbond met moslims’'
 themas = 'Politiek & Actualiteit'
 title = 'Is conservatieve samenwerking met moslims onwenselijk?'
-
+image = "thumb.webp"
 +++
 
 

@@ -5,7 +5,7 @@ question = 'Wat vindt u van Reactionair.nl?'
 subtitle = 'Een inleiding tot Reactionair.nl'
 themas = 'Mededeling'
 title = 'Wie zijn wij?'
-
+image = "thumb.webp"
 +++
 
 

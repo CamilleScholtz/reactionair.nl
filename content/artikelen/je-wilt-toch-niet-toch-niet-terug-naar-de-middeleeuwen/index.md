@@ -4,7 +4,7 @@ date = '2022-01-20'
 subtitle = 'Een antwoord'
 themas = 'Cultuur & Maatschappij'
 title = '“Je wilt toch niet toch niet terug naar de middeleeuwen?!”'
-
+image = "thumb.webp"
 +++
 
 

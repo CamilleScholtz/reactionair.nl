@@ -6,8 +6,9 @@ date = '2022-05-06'
 subtitle = 'De enige dandy-salafist van Nederland'
 themas = 'Politiek & Actualiteit'
 title = 'In gedachte Pim Fortuyn'
-
+image = "thumb.webp"
 +++
+
 
 Vandaag is het twintig jaar geleden dat Pim Fortuyn werd vermoord door een extreemlinkse dierenactivist. Ik was te jong om zijn politieke spurt te bevatten. Ik herinner me nog, in groep 8, dat mijn leraar zei: “die Fortuyn, dat is een gevaarlijk mannetje”. Deze leraar en ik hadden nooit een klik en hij sliep in een tuinhuisje. Tot zover die leraar. 
 

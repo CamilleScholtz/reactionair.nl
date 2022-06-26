@@ -5,7 +5,7 @@ dossiers = ['Oekraïne']
 subtitle = 'Over wat geweld is'
 themas = 'Politiek & Actualiteit'
 title = 'Gebruikte de EU geweld bij het oprukken richting Rusland?'
-
+image = "thumb.webp"
 +++
 
 

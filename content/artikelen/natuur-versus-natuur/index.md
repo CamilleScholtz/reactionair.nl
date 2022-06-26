@@ -5,7 +5,7 @@ date = '2021-10-14'
 subtitle = 'Een modern misverstand'
 themas = 'Religie & Metafysica'
 title = 'Natuur versus natuur'
-
+image = "thumb.webp"
 +++
 
 

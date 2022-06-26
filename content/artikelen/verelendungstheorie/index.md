@@ -5,7 +5,7 @@ date = '2022-01-17'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 5'
 themas = 'Cultuur & Maatschappij'
 title = 'Verelendungstheorie'
-
+image = "thumb.webp"
 +++
 
 

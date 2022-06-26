@@ -4,7 +4,7 @@ date = '2021-11-28'
 subtitle = 'Tussen waarheid, ongeluk en burgermentaliteit'
 themas = 'Cultuur & Maatschappij'
 title = 'Heilige stilte'
-
+image = "thumb.webp"
 +++
 
 

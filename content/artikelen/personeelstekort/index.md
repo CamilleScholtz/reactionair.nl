@@ -4,7 +4,7 @@ date = '2022-05-19'
 subtitle = 'Over omvolking en onnodig werk'
 themas = 'Politiek & Actualiteit'
 title = 'Personeelstekort?'
-
+image = "thumb.webp"
 +++
 
 

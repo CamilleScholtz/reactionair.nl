@@ -6,7 +6,7 @@ dossiers = ['Christendom']
 subtitle = 'Autoriteit versus macht'
 themas = 'Religie & Metafysica'
 title = 'Christendom en legitimiteit'
-
+image = "thumb.webp"
 +++
 
 

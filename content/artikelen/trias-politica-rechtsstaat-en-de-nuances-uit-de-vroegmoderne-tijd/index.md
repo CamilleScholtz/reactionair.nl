@@ -5,7 +5,7 @@ date = '2022-04-28'
 subtitle = "De l'Esprit des Lois 2.0, deel 2"
 themas = 'Politiek & Actualiteit'
 title = 'Trias politica, rechtsstaat en de nuances uit de vroegmoderne tijd'
-
+image = "thumb.webp"
 +++
 
 

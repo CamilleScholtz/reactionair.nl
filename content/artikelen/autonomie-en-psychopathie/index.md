@@ -5,6 +5,7 @@ date = '2021-11-18'
 subtitle = 'Hoe individuen autonomie na kunnen streven in de consumptiemaatschappij'
 themas = 'Cultuur & Maatschappij'
 title = 'Autonomie en psychopathie'
+image = "thumb.webp"
 +++
 
 

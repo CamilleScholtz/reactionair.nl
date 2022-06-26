@@ -5,7 +5,7 @@ dossiers = ['Christendom']
 subtitle = 'Over de functie van de 40 dagentijd en het ritueel van het askruis'
 themas = 'Religie & Metafysica'
 title = 'Nederland, omarm Aswoensdag'
-
+image = "thumb.webp"
 +++
 
 

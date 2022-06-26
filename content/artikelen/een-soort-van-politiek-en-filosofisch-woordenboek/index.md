@@ -5,7 +5,7 @@ date = '2022-04-16'
 subtitle = "De l'Esprit des Lois 2.0, deel 1"
 themas = 'Politiek & Actualiteit'
 title = 'Een soort van politiek en filosofisch woordenboek'
-
+image = "thumb.webp"
 +++
 
 

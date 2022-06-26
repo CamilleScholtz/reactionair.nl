@@ -7,8 +7,9 @@ dossiers = ['Woke']
 subtitle = 'Nietzsches negentiende-eeuwse blik op social justice warriors'
 themas = 'Cultuur & Maatschappij'
 title = 'Over de wraakzucht der tarantula’s'
-
+image = "thumb.webp"
 +++
+
 
 Dit artikel is een hoofdstuk uit _Also sprach Zarathustra_ van Friedrich Nietzsche:
 

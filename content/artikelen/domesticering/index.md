@@ -5,7 +5,7 @@ date = '2022-01-02'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 3'
 themas = 'Cultuur & Maatschappij'
 title = 'Domesticering'
-
+image = "thumb.webp"
 +++
 
 

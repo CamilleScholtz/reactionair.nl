@@ -6,7 +6,7 @@ dossiers = ['Islam']
 subtitle = 'al-Tawhīdu wāhidun'
 themas = 'Religie & Metafysica'
 title = 'De leer van de Eenheid is één'
-
+image = "thumb.webp"
 +++
 
 

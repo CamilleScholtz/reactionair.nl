@@ -5,7 +5,7 @@ draft = true
 subtitle = 'Deconstructie van categorieën'
 themas = ['Filosofie']
 title = 'De natuur maakt geen sprongen'
-
+image = "thumb.webp"
 +++
 
 

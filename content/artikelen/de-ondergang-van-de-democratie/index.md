@@ -5,7 +5,7 @@ date = '2022-05-14'
 subtitle = '‘Degeneratie van het midden’ na revolutie, tirannie en terreur'
 themas = 'Politiek & Actualiteit'
 title = 'De ondergang van de democratie?'
-
+image = "thumb.webp"
 +++
 
 

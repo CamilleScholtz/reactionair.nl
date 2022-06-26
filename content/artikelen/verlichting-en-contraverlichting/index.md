@@ -4,7 +4,7 @@ date = '2021-10-12'
 subtitle = 'Dictatoriale rechtsstaat'
 themas = 'Cultuur & Maatschappij'
 title = 'Verlichting en contraverlichting'
-
+image = "thumb.webp"
 +++
 
 

@@ -5,7 +5,7 @@ dossiers = ['Islam']
 subtitle = 'Onderzoek naar Soumaya Sahla'
 themas = 'Politiek & Actualiteit'
 title = 'De weg van terroriste naar VVD-adviseur'
-
+image = "thumb.webp"
 +++
 
 

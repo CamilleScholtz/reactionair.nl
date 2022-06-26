@@ -5,7 +5,7 @@ date = '2022-04-15'
 subtitle = 'De misanthrope verleiding'
 themas = 'Recensie & Biografie'
 title = 'Deugen de meeste mensen nog steeds?'
-
+image = "thumb.webp"
 +++
 
 {{< quote

@@ -5,6 +5,7 @@ date = '2021-10-31'
 subtitle = 'Hoe autonomie met de consumptiemaatschappij samenhangt'
 themas = 'Cultuur & Maatschappij'
 title = 'Autonomie en consumptie'
+image = "thumb.webp"
 +++
 
 

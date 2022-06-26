@@ -5,7 +5,7 @@ date = '2022-06-08'
 subtitle = 'Herzien door Robert Lemm'
 themas = 'Recensie & Biografie'
 title = 'De democratie voorbij'
-
+image = "thumb.webp"
 +++
 
 _De democratie voorbij, door Frank Karsen en Karel Beckman._

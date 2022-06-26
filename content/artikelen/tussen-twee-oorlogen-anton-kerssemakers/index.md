@@ -6,7 +6,7 @@ date = '2021-10-02'
 subtitle = 'Onderzoek naar een onbekende auteur'
 themas = 'Recensie & Biografie'
 title = 'Tussen twee oorlogen: Anton Kerssemakers'
-
+image = "thumb.webp"
 +++
 
 

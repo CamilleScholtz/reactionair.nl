@@ -5,7 +5,7 @@ date = '2022-06-02'
 subtitle = 'Een ode aan de anonimiteit'
 themas = 'Cultuur & Maatschappij'
 title = 'Spreken uit de schaduwen'
-
+image = "thumb.webp"
 +++
 
 

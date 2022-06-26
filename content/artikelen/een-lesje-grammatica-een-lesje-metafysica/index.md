@@ -5,7 +5,7 @@ date = '2022-02-01'
 subtitle = 'Waarom het streven naar objectiviteit een doodlopend pad is, deel 2'
 themas = 'Religie & Metafysica'
 title = 'Een lesje grammatica, een lesje metafysica'
-
+image = "thumb.webp"
 +++
 
 

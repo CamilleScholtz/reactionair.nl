@@ -6,7 +6,7 @@ date = '2021-11-03'
 subtitle = 'Beschouwing over het lot der Westerse beschaving'
 themas = 'Cultuur & Maatschappij'
 title = 'Fatalisme, ondergang en wederopstanding'
-
+image = "thumb.webp"
 +++
 
 

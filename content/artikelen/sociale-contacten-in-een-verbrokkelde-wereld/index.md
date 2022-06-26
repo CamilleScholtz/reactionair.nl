@@ -5,7 +5,7 @@ date = '2021-12-07'
 subtitle = 'De industriële revolutie en haar invloed op sociale interactie'
 themas = 'Cultuur & Maatschappij'
 title = 'Sociale contacten in een verbrokkelde wereld'
-
+image = "thumb.webp"
 +++
 
 

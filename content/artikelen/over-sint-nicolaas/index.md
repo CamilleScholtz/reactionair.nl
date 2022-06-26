@@ -5,7 +5,7 @@ dossiers = ['Christendom']
 subtitle = 'Een interpretatie van de symboliek uit het leven van deze heilige, losjes gebaseerd op de Gulden Legende'
 themas = 'Religie & Metafysica'
 title = 'Over Sint Nicolaas'
-
+image = "thumb.webp"
 +++
 
 

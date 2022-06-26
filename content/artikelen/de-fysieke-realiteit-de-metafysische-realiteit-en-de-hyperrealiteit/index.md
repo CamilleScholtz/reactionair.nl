@@ -4,7 +4,7 @@ date = '2022-05-21'
 subtitle = 'De drie-eenheid van werkelijkheid'
 themas = 'Religie & Metafysica'
 title = 'De fysieke realiteit, de metafysische realiteit en de hyperrealiteit'
-
+image = "thumb.webp"
 +++
 
 

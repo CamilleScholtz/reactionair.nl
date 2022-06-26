@@ -5,7 +5,7 @@ dossiers = ['Christendom', 'Islam']
 subtitle = 'Ja, dat las je goed...'
 themas = 'Cultuur & Maatschappij'
 title = 'Het morele recht van de kruistochten'
-
+image = "thumb.webp"
 +++
 
 

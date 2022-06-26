@@ -6,7 +6,7 @@ date = '2022-05-05'
 subtitle = 'De vergeten geschiedenis van conservatief verzet, de bevrijding en Neurenberg'
 themas = 'Politiek & Actualiteit'
 title = 'De Nazi-Antifa Alliantie'
-
+image = "thumb.webp"
 +++
 
 

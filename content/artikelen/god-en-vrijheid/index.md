@@ -6,7 +6,7 @@ date = '2021-11-21'
 subtitle = 'Over de omgekeerde analogie'
 themas = 'Religie & Metafysica'
 title = 'God en vrijheid'
-
+image = "thumb.webp"
 +++
 
 

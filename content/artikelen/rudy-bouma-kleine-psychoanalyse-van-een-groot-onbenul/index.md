@@ -5,7 +5,7 @@ dossiers = ['Woke']
 subtitle = 'Of hoe een emoticon-connaisseur als ridder voor globohomo de vermaledijde wappies bestrijdt'
 themas = 'Klikaas'
 title = 'Rudy Bouma, kleine psychoanalyse van een groot onbenul'
-
+image = "thumb.webp"
 +++
 
 

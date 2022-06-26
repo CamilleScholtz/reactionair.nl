@@ -6,7 +6,7 @@ dossiers = ['Christendom']
 subtitle = 'Traditie=historische context'
 themas = 'Religie & Metafysica'
 title = 'Was Jezus een Reactionair?'
-
+image = "thumb.webp"
 +++
 
 

@@ -5,7 +5,7 @@ dossiers = ['Christendom']
 subtitle = 'Hoe een heilig feest tot simpel hedonisme vervallen is'
 themas = 'Religie & Metafisica'
 title = 'De ware horror van het hedendaagse Halloween'
-
+image = "thumb.webp"
 +++
 
 

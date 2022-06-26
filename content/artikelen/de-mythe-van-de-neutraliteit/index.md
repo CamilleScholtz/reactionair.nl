@@ -5,7 +5,7 @@ date = '2021-10-06'
 subtitle = 'En de blindheid van de liberalen'
 themas = 'Politiek & Actualiteit'
 title = 'De mythe van de neutraliteit'
-
+image = "thumb.webp"
 +++
 
 

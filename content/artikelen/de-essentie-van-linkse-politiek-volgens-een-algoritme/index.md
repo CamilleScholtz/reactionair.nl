@@ -5,7 +5,7 @@ date = '2022-05-10'
 subtitle = 'Een experiment in kunstmatige intelligentie'
 themas = 'Politiek & Actualiteit'
 title = 'De essentie van linkse politiek volgens een algoritme'
-
+image = "thumb.webp"
 +++
 
 

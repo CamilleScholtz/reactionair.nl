@@ -5,6 +5,7 @@ date = '2022-02-17'
 subtitle = 'Een vergeten Nederlandse filosofe over dogmatisch kuddegedrag, versus zoeken naar Waarheid'
 themas = 'Recensie & Biografie'
 title = 'Carry van Bruggen: Eenheid en schijneenheid'
+image = "thumb.webp"
 +++
 
 

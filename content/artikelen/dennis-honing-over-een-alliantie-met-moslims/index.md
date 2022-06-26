@@ -6,7 +6,7 @@ question = 'Denkt u dat een dergelijke alliantie mogelijk is?'
 subtitle = 'Over reactionairen en moslims, deel 2'
 themas = 'Politiek & Actualiteit'
 title = 'Dennis Honing over een alliantie met moslims'
-
+image = "thumb.webp"
 +++
 
 

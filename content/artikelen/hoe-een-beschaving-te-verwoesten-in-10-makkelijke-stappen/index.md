@@ -5,8 +5,9 @@ date = '2022-05-23'
 subtitle = 'Hoeveel punten herken jij!?'
 themas = 'Klikaas'
 title = 'Hoe een beschaving te verwoesten in 10 makkelijke stappen...'
-
+image = "thumb.webp"
 +++
+
 
 {{< image
 	caption=""

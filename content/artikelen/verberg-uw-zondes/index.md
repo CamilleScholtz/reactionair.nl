@@ -6,7 +6,7 @@ dossiers = ['Islam']
 subtitle = 'En red de samenleving'
 themas = 'Religie & Metafysica'
 title = 'Verberg uw zondes'
-
+image = "thumb.webp"
 +++
 
 

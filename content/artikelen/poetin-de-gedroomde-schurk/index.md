@@ -4,7 +4,7 @@ date = '2022-02-26'
 subtitle = 'Tien zaken waar Poetin niet verantwoordelijk voor is'
 themas = 'Klikaas'
 title = 'Poetin, de gedroomde schurk'
-
+image = "thumb.webp"
 +++
 
 

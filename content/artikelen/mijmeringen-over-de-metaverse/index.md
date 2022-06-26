@@ -6,7 +6,7 @@ draft = true
 subtitle = ''
 themas = 'Politiek & Maatschappij'
 title = 'Mijmeringen over de Metaverse'
-
+image = "thumb.webp"
 +++
 
 

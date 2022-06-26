@@ -5,7 +5,7 @@ date = '2022-04-21'
 subtitle = 'Overweging over het mensbeeld van de meeste mensen'
 themas = 'Cultuur & Maatschappij'
 title = 'Deftigheid, deugdzaamheid en bezetenheid'
-
+image = "thumb.webp"
 +++
 
 

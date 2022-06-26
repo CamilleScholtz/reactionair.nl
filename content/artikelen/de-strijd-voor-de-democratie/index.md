@@ -5,7 +5,7 @@ dossiers = ['Oekraïne']
 subtitle = 'De rechtstaat in Oekraïne: verleden en toekomst'
 themas = 'Politiek & Actualiteit'
 title = 'De strijd voor de democratie'
-
+image = "thumb.webp"
 +++
 
 

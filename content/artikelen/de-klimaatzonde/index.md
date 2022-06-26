@@ -6,7 +6,7 @@ dossiers = ['Klimaatverandering']
 subtitle = 'Hoe de hamartiologie overleeft in een modern tijdperk'
 themas = 'Politiek & Actualiteit'
 title = 'De klimaatzonde'
-
+image = "thumb.webp"
 +++
 
 

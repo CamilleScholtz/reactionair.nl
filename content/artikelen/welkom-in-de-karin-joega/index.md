@@ -6,7 +6,7 @@ date = '2021-12-12'
 subtitle = 'Veiligheid voor alles'
 themas = 'Cultuur & Maatschappij'
 title = 'Welkom in de Karin joega'
-
+image = "thumb.webp"
 +++
 
 

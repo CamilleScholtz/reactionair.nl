@@ -4,7 +4,7 @@ date = '2022-04-11'
 subtitle = 'Over onze toekomst'
 themas = 'Politiek & Actualiteit'
 title = 'Wie Nederland liefheeft, laat het liberalisme links liggen'
-
+image = "thumb.webp"
 +++
 
 

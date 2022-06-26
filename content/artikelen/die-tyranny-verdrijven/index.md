@@ -5,7 +5,7 @@ date = '2022-01-26'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 6'
 themas = 'Cultuur & Maatschappij'
 title = '‘Die tyranny verdrijven’'
-
+image = "thumb.webp"
 +++
 
 

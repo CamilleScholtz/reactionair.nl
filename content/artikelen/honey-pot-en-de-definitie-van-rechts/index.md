@@ -7,7 +7,7 @@ question = 'Wat is volgens u een passende term om het onderscheid te duiden?'
 subtitle = 'Afscheid van een achterhaald begrip'
 themas = 'Politiek & Actualiteit'
 title = 'Honey Pot en de definitie van “rechts”'
-
+image = "thumb.webp"
 +++
 
 

@@ -6,8 +6,9 @@ date = '2022-05-28'
 subtitle = 'Heidegger en onze Terminator-toekomst, deel 1'
 themas = 'Religie & Metafysica'
 title = 'Het wezen van de technologie'
-
+image = "thumb.webp"
 +++
+
 
 _Dit is een vertaald artikel, het origineel is [hier](https://astralflight.substack.com/p/terminator-future) te lezen._
 

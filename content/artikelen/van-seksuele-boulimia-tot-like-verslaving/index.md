@@ -4,7 +4,7 @@ date = '2021-10-04'
 subtitle = 'De seksuele revolutie en wat daarna kwam'
 themas = 'Cultuur & Maatschappij'
 title = 'Van seksuele boulimia tot like-verslaving'
-
+image = "thumb.webp"
 +++
 
 

@@ -5,7 +5,7 @@ dossiers = ['Oekraïne']
 subtitle = 'Hongarije en de EU'
 themas = 'Politiek & Actualiteit'
 title = 'De dreigende storm in het Oosten'
-
+image = "thumb.webp"
 +++
 
 

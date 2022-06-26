@@ -4,7 +4,7 @@ date = '2022-02-14'
 subtitle = 'Hoe we wegkijken bij fysiek en mentaal verminken bij genderdysforie maar rituelen en bidden illegaal verklaren'
 themas = 'Politiek & Actualiteit'
 title = 'Wil de echte homogenezer opstaan?'
-
+image = "thumb.webp"
 +++
 
 

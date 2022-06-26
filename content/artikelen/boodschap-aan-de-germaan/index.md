@@ -6,6 +6,7 @@ dossiers = ['Conservatieve Alliantie', 'Islam']
 subtitle = 'Van een Marokkaan'
 themas = 'Politiek & Actualiteit'
 title = 'Boodschap aan de Germaan'
+image = "thumb.webp"
 +++
 
 

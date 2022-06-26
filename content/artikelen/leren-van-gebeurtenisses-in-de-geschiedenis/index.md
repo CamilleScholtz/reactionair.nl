@@ -5,7 +5,7 @@ dossiers = ['Islam']
 subtitle = 'Een blik op nieuw-links en de Iraanse revolutie'
 themas = 'Politiek & Actualiteit'
 title = 'Leren van gebeurtenissen uit de geschiedenis'
-
+image = "thumb.webp"
 +++
 
 

@@ -5,6 +5,7 @@ date = '2022-05-12'
 subtitle = 'Hoe de MSM desinformatie verspreidt over censuur'
 themas = 'Politiek & Actualiteit'
 title = 'Boekverbrandingen in Amerika?'
+image = "thumb.webp"
 +++
 
 

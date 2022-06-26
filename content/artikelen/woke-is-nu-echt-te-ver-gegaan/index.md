@@ -6,7 +6,7 @@ question = 'Is woke deze keer écht te ver gegaan?'
 subtitle = 'Of toch niet?'
 themas = 'Klikaas'
 title = 'Woke is NU ECHT te ver gegaan!'
-
+image = "thumb.webp"
 +++
 
 

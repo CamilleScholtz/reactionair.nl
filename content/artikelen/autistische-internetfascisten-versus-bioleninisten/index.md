@@ -6,6 +6,7 @@ dossiers = ['Woke']
 subtitle = 'Twitter als toneel van de strijd om sociaal prestige'
 themas = 'Cultuur & Maatschappij'
 title = 'Autistische internetfascisten versus bioleninisten'
+image = "thumb.webp"
 +++
 
 

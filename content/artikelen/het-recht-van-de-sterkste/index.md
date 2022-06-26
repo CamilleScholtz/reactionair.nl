@@ -6,8 +6,9 @@ dossiers = ['Oekraïne']
 subtitle = 'Over NAVO, Rusland en Oekraïne'
 themas = 'Politiek & Actualiteit'
 title = 'Het recht van de sterkste'
-
+image = "thumb.webp"
 +++
+
 
 _“Poetin is niet degene die aanvalt, maar degene die aangevallen wordt”_, verklaarde de Franse presidentskandidaat Éric Zemmour. Daarop werd hij in een spotprent meteen met Hitler vergeleken. De vergelijking is veelzeggend. Voor heel Europa, onder aanvoering van Amerika, is de Russische president de kwintessens van het kwaad, en daarom verdient hij als oorlogscrimineel berecht te worden door het Internationale Strafhof te Den Haag. De uitspraak van Zemmour kwam erop neer dat Amerika, met bondgenoot _EU_, Poetin al tijden lang heeft zwartgemaakt, geprovoceerd, in een hoek gedreven, met als gevolg de ongelukkige invasie van Oekraïne.
 

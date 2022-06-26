@@ -5,7 +5,7 @@ date = '2022-06-07'
 subtitle = 'Hoe rechts de verwezenlijking van hun eigen idealen in de weg zit'
 themas = 'Politiek & Actualiteit'
 title = 'Rechts, stop met conformeren!'
-
+image = "thumb.webp"
 +++
 
 

@@ -5,7 +5,7 @@ dossiers = ['Islam']
 subtitle = 'Drie ideeën met dezelfde oorsprong'
 themas = 'Politiek & Actualiteit'
 title = 'Kolonialisme, kapitalisme en liberalisme'
-
+image = "thumb.webp"
 +++
 
 

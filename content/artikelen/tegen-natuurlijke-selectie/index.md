@@ -5,7 +5,7 @@ date = '2021-12-28'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 2'
 themas = 'Cultuur & Maatschappij'
 title = 'Tegen-natuurlijke selectie'
-
+image = "thumb.webp"
 +++
 
 

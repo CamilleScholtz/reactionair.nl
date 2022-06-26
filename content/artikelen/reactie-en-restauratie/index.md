@@ -4,7 +4,7 @@ date = '2022-01-09'
 subtitle = 'Een rechts woordenboek'
 themas = 'Cultuur & Maatschappij'
 title = 'Reactie en restauratie'
-
+image = "thumb.webp"
 +++
 
 

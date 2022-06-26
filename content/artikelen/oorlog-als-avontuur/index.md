@@ -6,7 +6,7 @@ date = '2022-01-19'
 subtitle = 'Een recensie van In Stahlgewittern'
 themas = 'Recensie & Biografie'
 title = 'Oorlog als avontuur'
-
+image = "thumb.webp"
 +++
 
 

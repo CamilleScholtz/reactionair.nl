@@ -5,7 +5,7 @@ dossiers = ['Woke']
 subtitle = 'En waarom deze vergelijking niet klopt'
 themas = 'Politiek & Actualiteit'
 title = '“Het woke denken is een religie geworden!”'
-
+image = "thumb.webp"
 +++
 
 

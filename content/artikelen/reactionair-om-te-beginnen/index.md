@@ -7,7 +7,7 @@ dossiers = ['Christendom']
 subtitle = 'Fragment uit een boek in voorbereiding'
 themas = 'Recensie & Biografie'
 title = 'Reactionair, om te beginnen'
-
+image = "thumb.webp"
 +++
 
 

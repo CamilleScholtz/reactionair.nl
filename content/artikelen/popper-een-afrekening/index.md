@@ -5,7 +5,7 @@ date = '2022-01-08'
 subtitle = 'Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?'
 themas = 'Politiek & Actualiteit'
 title = 'Popper: een afrekening'
-
+image = "thumb.webp"
 +++
 
 

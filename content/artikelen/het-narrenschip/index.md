@@ -6,7 +6,7 @@ noindex = true
 subtitle = 'Een allegorie van wokisme avant la lettre'
 themas = 'Politiek & Actualiteit'
 title = 'Het narrenschip'
-
+image = "thumb.webp"
 +++
 
 

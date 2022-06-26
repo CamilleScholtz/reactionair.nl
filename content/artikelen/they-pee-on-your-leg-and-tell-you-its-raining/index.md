@@ -6,7 +6,7 @@ dossiers = ['Woke']
 subtitle = 'Misbruikers moeten kinderen weerbaar maken tegen misbruik'
 themas = 'Cultuur & Maatschappij'
 title = 'They pee on your leg and tell you it’s raining'
-
+image = "thumb.webp"
 +++
 
 

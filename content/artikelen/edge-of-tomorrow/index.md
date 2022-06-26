@@ -5,7 +5,7 @@ date = '2022-02-07'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 7'
 themas = 'Cultuur & Maatschappij'
 title = '‘Edge of Tomorrow’'
-
+image = "thumb.webp"
 +++
 
 

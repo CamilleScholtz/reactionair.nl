@@ -5,7 +5,7 @@ date = '2022-01-11'
 subtitle = 'Wat is schoonheid?'
 themas = 'Cultuur & Maatschappij'
 title = 'Scruton en esthetisch oordelen'
-
+image = "thumb.webp"
 +++
 
 

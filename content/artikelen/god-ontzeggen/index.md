@@ -6,7 +6,7 @@ dossiers = ['Islam']
 subtitle = 'Een verzameling apofatische gedichten en citaten'
 themas = 'Recensie & Biografie'
 title = 'God ontzeggen'
-
+image = "thumb.webp"
 +++
 
 

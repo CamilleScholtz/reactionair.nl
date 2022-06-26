@@ -5,8 +5,9 @@ date = '2022-05-31'
 subtitle = 'Drie machten die samenspannen tegen de middenklasse'
 themas = 'Politiek & Actualiteit'
 title = 'Liberalisme, progressivisme en links'
-
+image = "thumb.webp"
 +++
+
 
 _Dit is een vertaald artikel, het origineel is [hier](https://www.eugyppius.com/p/liberalism-progressivism-leftism) te lezen._
 

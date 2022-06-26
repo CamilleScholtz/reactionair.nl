@@ -6,7 +6,7 @@ date = '2022-05-07'
 subtitle = 'Over taaltovenarij met hamer en mes'
 themas = 'Religie & Metafysica'
 title = 'Hoe de filosoof met de hamer muren doorbrak om weer zicht te krijgen op het Ene'
-
+image = "thumb.webp"
 +++
 
 

@@ -5,7 +5,7 @@ dossiers = ['Woke']
 subtitle = 'Hoe technocraten onze jeugd blijvend verminken'
 themas = 'Cultuur & Maatschappij'
 title = 'Transgenderisme: bestuurlijke oorlog tegen de realiteit'
-
+image = "thumb.webp"
 +++
 
 

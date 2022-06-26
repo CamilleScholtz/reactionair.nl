@@ -7,7 +7,7 @@ question = 'Denkt u dat een dergelijke alliantie mogelijk is?'
 subtitle = 'Over reactionairen en moslims'
 themas = 'Politiek & Actualiteit'
 title = 'Een alliantie met moslims!?'
-
+image = "thumb.webp"
 +++
 
 

@@ -5,7 +5,7 @@ noindex = true
 subtitle = 'Hoe de gekte van de Franse Revolutie doorleeft in het hedendaagse activisme'
 themas = 'Cultuur & Maatschappij'
 title = 'Temper de strijd tegen ‘privileges’'
-
+image = "thumb.webp"
 +++
 
 

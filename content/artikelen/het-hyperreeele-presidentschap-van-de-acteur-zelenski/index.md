@@ -6,8 +6,9 @@ dossiers = ['Oekraïne']
 subtitle = 'Een baudrillardiaanse visie'
 themas = 'Politiek & Actualiteit'
 title = 'Het hyperreeële presidentschap van de acteur Zelenski'
-
+image = "thumb.webp"
 +++
+
 
 Jean Baudrillard (1929-2007) was een post-marxistische filosoof die vooral bekend is geworden om het concept hyperrealiteit. Hiermee bedoelde hij dat we in een fase van de geschiedenis zijn gekomen waarin het menselijke bewustzijn niet meer in staat is de werkelijkheid van een simulatie daarvan te onderscheiden.
 

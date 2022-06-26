@@ -5,7 +5,7 @@ date = '2021-10-21'
 subtitle = 'Gedachten over het Onbegrensde'
 themas = 'Religie & Metafysica'
 title = 'Naar het einde en daar voorbij!'
-
+image = "thumb.webp"
 +++
 
 

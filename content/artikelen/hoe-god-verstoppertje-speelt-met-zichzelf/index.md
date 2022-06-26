@@ -5,7 +5,7 @@ date = '2022-02-09'
 subtitle = 'Waarom het streven naar objectiviteit een doodlopend pad is, deel 3'
 themas = 'Religie & Metafysica'
 title = 'Hoe God verstoppertje speelt met zichzelf'
-
+image = "thumb.webp"
 +++
 
 

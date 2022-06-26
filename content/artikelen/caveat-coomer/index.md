@@ -6,7 +6,7 @@ dossiers = ['Woke']
 subtitle = 'Over de giftige alchemie tussen coomer en e-girl'
 themas = 'Cultuur & Maatschappij'
 title = 'Caveat coomer'
-
+image = "thumb.webp"
 +++
 
 

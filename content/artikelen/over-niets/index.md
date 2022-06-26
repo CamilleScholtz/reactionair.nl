@@ -6,7 +6,7 @@ dossiers = ['Christendom']
 subtitle = 'De uitersten ontmoeten elkaar in het niets'
 themas = 'Religie & Metafysica'
 title = 'Over Niets'
-
+image = "thumb.webp"
 +++
 
 _Dit is een vertaald artikel, het origineel is [hier](https://esoterictraditionalism.wordpress.com/2019/08/02/on-nothing/) te lezen._

@@ -5,7 +5,7 @@ date = '2022-06-26'
 subtitle = 'Een strijd tussen transhumanisme en anarchoprimitivisme'
 themas = 'Cultuur & Maatschappij'
 title = 'Harari versus Kaczynski'
-
+image = "thumb.webp"
 +++
 
 

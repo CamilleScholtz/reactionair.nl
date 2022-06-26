@@ -6,7 +6,7 @@ dossiers = ['Klimaatverandering']
 subtitle = 'Over ecologie'
 themas = 'Politiek & Actualiteit'
 title = 'Waarom een authentieke reactionair een groene reactionair is'
-
+image = "thumb.webp"
 +++
 
 

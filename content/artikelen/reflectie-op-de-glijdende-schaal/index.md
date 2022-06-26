@@ -5,7 +5,7 @@ dossiers = ['Woke']
 subtitle = 'Drogreden of werkelijkheid?'
 themas = 'Politiek & Actualiteit'
 title = 'Reflectie op de glijdende schaal'
-
+image = "thumb.webp"
 +++
 
 

@@ -5,8 +5,9 @@ dossiers = ['Christendom']
 subtitle = 'Over mode en architectuur'
 themas = 'Cultuur & Maatschappij'
 title = 'Het tijdsbestek van kunst'
-
+image = "thumb.webp"
 +++
+
 
 _Dit is een vertaald artikel, het origineel is [hier](https://glasszealot.substack.com/p/the-timeframe-of-art) te lezen._
 
