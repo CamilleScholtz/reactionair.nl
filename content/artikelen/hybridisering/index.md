@@ -14,7 +14,7 @@ _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revo
 
 
 <p style="text-align: center;">
-Motto: <i>‘inheems worden’</i><br>
+Motto: *‘inheems worden’*<br>
 (open grenzen: asielopvang=slavenimport, diversiteit=piraterij, immigratie=kolonisatie)
 </p>
 

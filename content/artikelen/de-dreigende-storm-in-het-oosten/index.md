@@ -14,7 +14,7 @@ title: De dreigende storm in het Oosten
 	caption="Viktor Orbán; tekening door Siegfried Woldhek."
 >}}
 
-Orbán won voor de vierde keer op rij. En hij won overweldigend. Hij krijg bijna 5% meer van de stemmen dan de laatste keer, en voegde zelfs 2 zetels aan zijn supermeerderheid in het parlement toe. Prominente <i>D66</i>’ers beweerden meteen (zonder bewijs) dat er sprake was van fraude. De _OSCE_ weerlegde dit echter. De oppositie erkende haar nederlaag en haar fouten. Kwam het door hun partijloze kandidaat, door de elitaire retoriek, onderlinge verdeeldheid, of de slechte reactie op de oorlog in Oekraïne? Het antwoord is natuurlijk, dat het allemaal een rol speelde.
+Orbán won voor de vierde keer op rij. En hij won overweldigend. Hij krijg bijna 5% meer van de stemmen dan de laatste keer, en voegde zelfs 2 zetels aan zijn supermeerderheid in het parlement toe. Prominente *D66*’ers beweerden meteen (zonder bewijs) dat er sprake was van fraude. De _OSCE_ weerlegde dit echter. De oppositie erkende haar nederlaag en haar fouten. Kwam het door hun partijloze kandidaat, door de elitaire retoriek, onderlinge verdeeldheid, of de slechte reactie op de oorlog in Oekraïne? Het antwoord is natuurlijk, dat het allemaal een rol speelde.
 
 
 Orbán lijkt klaar voor een intens gevecht met de EU. Alhoewel Orbán vaak pro-Poetin is genoemd heeft hij vooral een fanatieke neutrale positie ingenomen, een beetje precies zoals Zweden tijdens de Tweede Wereldoorlog. Dit heeft kwaad bloed gezet. Je bent of fanatiek tegen Poetin of je steunt hem. Orbán’s Hongarije is uitzonderlijk eigenzinnig. 

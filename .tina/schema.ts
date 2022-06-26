@@ -76,6 +76,9 @@ export default defineSchema({
           name: 'body',
           type: 'string',
           isBody: true,
+          ui: {
+            component: 'markdown',
+          },
         },
       ],
     },

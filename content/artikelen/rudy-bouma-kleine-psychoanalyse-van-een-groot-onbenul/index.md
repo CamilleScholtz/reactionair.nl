@@ -14,7 +14,7 @@ title: Rudy Bouma, kleine psychoanalyse van een groot onbenul
 
 Als Rudy Bouma niet in een afgehuurde loods staat om ons bang te maken met verhalen over eenzame wolven en neo-nazi’s, lijkt hij vooral zijn tijd door te brengen op Twitter. Alwaar hij simpele zielen de les leest om hen “de wetenschap” bij te brengen, net zoals de zendelingen van weleer de ongewassen inboorlingen van donker Afrika het woord van God kwamen brengen.
 
-Zo neemt hij ene _“@bar_bizar”_ onder de loep. Een onbekende, anonieme twitteraar. Hij maakt een schermafbeelding van haar tweet, googlet 3 artikeltjes die haar stelling ontkrachten om waarschijnlijk daarna gretig zijn dopamine niveau omhoog te <i>f5</i>'en. De _likes_ stromen binnen, meer dan 600 in vier uur! Dat is een hoge opbrengst voor zulk laaghangend fruit.
+Zo neemt hij ene _“@bar_bizar”_ onder de loep. Een onbekende, anonieme twitteraar. Hij maakt een schermafbeelding van haar tweet, googlet 3 artikeltjes die haar stelling ontkrachten om waarschijnlijk daarna gretig zijn dopamine niveau omhoog te *f5*'en. De _likes_ stromen binnen, meer dan 600 in vier uur! Dat is een hoge opbrengst voor zulk laaghangend fruit.
 
 {{< tweet rudybouma 1491377925413031938 >}}
 

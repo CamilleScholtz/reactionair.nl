@@ -1,13 +1,14 @@
 import TinaCMS, { defineSchema, TinaAdmin } from "tinacms"
 import { TinaEditProvider, setEditing } from "tinacms/dist/edit-state"
+import { MarkdownFieldPlugin } from "react-tinacms-editor/dist/index"
 import schema from "../../.tina/schema"
 
 function App() {
   setEditing(true);
 
-  const branch = "main";
+  const branch   = "main";
   const clientId = "79dc3577-e67a-423b-bfb5-76fea2b0a155";
-  const apiURL = process.env.NODE_ENV == "development"
+  const apiURL   = process.env.NODE_ENV == "development"
     ? "http://localhost:4001/graphql"
     : `https://content.tinajs.io/content/${clientId}/github/${branch}`;
 //DateFieldPlugin
@@ -20,9 +21,7 @@ function App() {
           apiURL={apiURL}
           schema={schema}
           cmsCallback={(cms) => {
-            import("react-tinacms-editor").then(({ MarkdownFieldPlugin }) => {
-              cms.plugins.add(MarkdownFieldPlugin)
-            })
+            cms.plugins.add(MarkdownFieldPlugin)
 
             return cms
           }}

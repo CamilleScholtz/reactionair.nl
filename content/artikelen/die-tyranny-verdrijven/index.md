@@ -16,12 +16,12 @@ _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revo
 
 
 <p style="text-align: center;">
-Motto: <i>‘afwezigheid of zeldzaamheid van overgangsvormen’</i><br>
+Motto: *‘afwezigheid of zeldzaamheid van overgangsvormen’*<br>
 (de Futuro-Fundamentalistische Revolutie)
 </p>
 
 <blockquote style="text-align: center;">
-<p><i>"Those who make peaceful revolution impossible will make violent revolution inevitable"</i> - John Fitzgerald Kennedy</p>
+<p>*"Those who make peaceful revolution impossible will make violent revolution inevitable"* - John Fitzgerald Kennedy</p>
 </blockquote>
 
 {{< image
@@ -37,14 +37,14 @@ Zeker, het is goed met rationele argumenten te strijden tegen de valse ideologie
 Er zij met nadruk op gewezen dat elke authentiek Nederlands verzet tegen onze vijandige elite dienstbaarheid aan buitenlandse mogendheden moet afwijzen. Hoewel het duidelijk is dat onze eigen vijandelijke elite een globale macht vertegenwoordigt en hoewel het Nederlandse volk tegen deze globale macht een gemeenschappelijk strijd kan voeren aan de zijde van andere Westerse volkeren, is het van essentieel belang dat de zwaargewonde Nederlandse geest van binnenuit wordt genezen. Aan de Nederlandse Renaissance moet dit voorafgaan: een duidelijk besef van de schuld die het Nederlandse volk op zichzelf heeft geladen met haar traagheid, lijdzaamheid, gemakzucht en collaboratie. Het moet zich losmaken van de vijandige elite - niet langer slaafs opzien tegen gehaaide bonusbankiers, graaiende grootaandeelhouders, politieke kartelcreaturen, gekochte journalisten en gecompromitteerde academici. Met alle felheid moet vervolgens de kloof zichtbaar worden gemaakt tussen het échte Nederlandse volk en de verraderlijke vijandige elite van ‘transnationale’ hyper-kapitalisten, ‘eurofiele’ kartel-politici, ‘kosmopolitische’ media-pundits en ‘geïnternationaliseerde’ pseudo-academici. Voor de ‘harde kern’ van deze vijandige elite, die niet alleen hun land en hun volk hebben verraden maar ook hun menselijkheid en geweten hebben opgegeven, bestaat er hier op aarde geen straf die in overeenstemming is met hun daden. Maar uit liefde voor komende generaties moet er na de val van de vijandige elite een voorbeeld worden gesteld - opdat niemand ooit meer de geringste lust zal voelen tot een soortgelijk verraad van land en volk of tot een soortgelijke minachting van God en Gods Wet.’[^1]
 
 <blockquote style="text-align: center;">
-<p><i>Mijn Schilt ende betrouwen<br>
+<p>*Mijn Schilt ende betrouwen<br>
 Sijt ghy, o Godt mijn Heer,<br>
 Op u soo wil ick bouwen<br>
 Verlaet mij nimmermeer:<br>
 Dat ick doch vroom mach blijven<br>
 U dienaer taller stondt,<br>
 Die Tyranny verdrijven,<br>
-Die my mijn hert doorwondt.</i></p>
+Die my mijn hert doorwondt.*</p>
 <p>- Wilhelmus</p>
 </blockquote>
 

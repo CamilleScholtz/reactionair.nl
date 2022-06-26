@@ -14,7 +14,7 @@ title: Mijmeringen over de Metaverse
 De _Metaverse_. Je hebt er waarschijnlijk van gehoord de laatste paar maanden. Een _buzzword_ dat plotseling, en mag ik wel zeggen, een soort van geforceerd op het toneel verscheen. In dit essay ben ik niet echt geïnteresseerd in de werkelijke geschiedenis, of zelfs betekenis, van de term, maar meer in _#vrijdenken_ over de connotaties die ik persoonlijk heb met de term. Na het vrijdenken schrijf ik misschien een beetje over de werklijke betekenis en geschiedenis, om te zien of mijn ideeën overeenkomen.
 
 
-### <i>Brainstorming</i>
+### *Brainstorming*
 
 Om even een _mindmap_ te maken van de connotaties die bij mij opkomen: _Facebook_, _NFT's_, _virtual reality_, zielloze videogames met slechte graphics (_Second Life_, _Roblox_), internet, digitale communicatie. Verder ook de de etymologie van de term zelf. _Metaverse_ is duidelijk een woordspeling op _universe_, van het latijnse _universum_ dat betekent "alle dingen, als geheel, letterlijk tot één gemaakt", van _uni-_, dat één betekent, en _-versus_, dat gemaakt of veranderd betekent. In het geval van de _Metaverse_, wordt "eenheid" vervangen door _meta-_, wat betekent na, achter of voorbij. Als voorbeeld, _metadata_ is data die data beschrijft.[^1]
 

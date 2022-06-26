@@ -10,7 +10,7 @@ title: Poetin, de gedroomde schurk
 
 In de westerse media wordt Vladimir Poetin afgeschilderd als de ultieme snoodaard. Hij zou een conservatieve, toxisch masculiene, militaristische dictator en een soort van trol op het geopolitieke toneel zijn.
 
-In rechtse kringen wordt er daarentegen nog weleens gedaan alsof Poetin een heilige is die ons zal verlossen van de <i>globohomo</i>-wereldorde onder leiding van het perfide Amerika. Wij gaan noch mee in deze kinderlijke fantasie noch in de demonisering. In het huidige conflict stellen wij ons neutraal op en betreuren alle slachtoffers. Wel weten wij het volgende:
+In rechtse kringen wordt er daarentegen nog weleens gedaan alsof Poetin een heilige is die ons zal verlossen van de *globohomo*-wereldorde onder leiding van het perfide Amerika. Wij gaan noch mee in deze kinderlijke fantasie noch in de demonisering. In het huidige conflict stellen wij ons neutraal op en betreuren alle slachtoffers. Wel weten wij het volgende:
 
 1. Poetin heeft blanken niet aangewezen als de wortel van het kwaad.
 2. Poetin heeft mij nooit een tokkie of een wappie genoemd.

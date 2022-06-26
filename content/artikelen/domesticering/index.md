@@ -17,7 +17,7 @@ _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revo
 
 
 <p style="text-align: center;">
-Motto: <i>‘het gewennen aan het klimaat’</i><br>
+Motto: *‘het gewennen aan het klimaat’*<br>
 (intensieve menshouderij: economische, sociale, psychologische, politieke selectie)
 </p>
 
