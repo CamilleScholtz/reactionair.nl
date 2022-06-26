@@ -5,7 +5,7 @@ auteurs = ["Redactie"]
 date = "2022-04-29"
 themas = "Klikaas"
 question = "En, bent u een rechtsextremist?"
-thumb = "thumb.webp"
+image = "thumb.webp"
 anchor = "Smart"
 +++
 

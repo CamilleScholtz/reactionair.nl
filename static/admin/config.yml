@@ -74,7 +74,7 @@ collections:
         label: "Vraag bij opmerkingen"
         widget: "string"
         default: "Wat zijn uw gedachten over dit artikel?"
-      - name: "thumb"
+      - name: "image"
         label: "Afbeelding"
         widget: "image"
       - name: "anchor"
