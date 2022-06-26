@@ -1,13 +1,12 @@
----
-aangehaald:
-- Jacues Ellul
-auteurs:
-- Schwab
-date: "2022-05-08"
-subtitle: Het spectrum van geweld
-themas: Cultuur & Maatschappij
-title: Welkom in de netwerkoorlog
----
++++
+aangehaald = ['Jacues Ellul']
+auteurs = ['Schwab']
+date = '2022-05-08'
+subtitle = 'Het spectrum van geweld'
+themas = 'Cultuur & Maatschappij'
+title = 'Welkom in de netwerkoorlog'
+
++++
 
 _Dit is een vertaald artikel, het origineel is [hier](https://schwabstack.substack.com/p/the-spectrum-of-violence) te lezen._
 

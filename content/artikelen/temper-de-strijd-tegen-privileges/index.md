@@ -1,12 +1,12 @@
----
-auteurs:
-- Eric Hendriks-Kim
-date: "2021-10-24"
-noindex: true
-subtitle: Hoe de gekte van de Franse Revolutie doorleeft in het hedendaagse activisme
-themas: Cultuur & Maatschappij
-title: Temper de strijd tegen ‘privileges’
----
++++
+auteurs = ['Eric Hendriks-Kim']
+date = '2021-10-24'
+noindex = true
+subtitle = 'Hoe de gekte van de Franse Revolutie doorleeft in het hedendaagse activisme'
+themas = 'Cultuur & Maatschappij'
+title = 'Temper de strijd tegen ‘privileges’'
+
++++
 
 
 _Dit artikel is eerder gepubliceerd in het NRC handelsblad._[^1]

@@ -1,13 +1,12 @@
----
-auteurs:
-- Tara Ann Thieke
-date: "2022-03-15"
-dossiers:
-- Woke
-subtitle: Hoe technocraten onze jeugd blijvend verminken
-themas: Cultuur & Maatschappij
-title: 'Transgenderisme: bestuurlijke oorlog tegen de realiteit'
----
++++
+auteurs = ['Tara Ann Thieke']
+date = '2022-03-15'
+dossiers = ['Woke']
+subtitle = 'Hoe technocraten onze jeugd blijvend verminken'
+themas = 'Cultuur & Maatschappij'
+title = 'Transgenderisme: bestuurlijke oorlog tegen de realiteit'
+
++++
 
 
 _Dit artikel is een vertaling en bewerking van een Twitter-draad van [Tara Ann Thieke](https://twitter.com/TaraAnnThieke)._

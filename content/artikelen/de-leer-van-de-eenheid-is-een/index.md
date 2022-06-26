@@ -1,13 +1,13 @@
----
-aangehaald:
-- René Guénon
-auteurs:
-- Camille Meloen
-date: "2022-05-02"
-subtitle: al-Tawhīdu wāhidun
-themas: Religie & Metafysica
-title: De leer van de Eenheid is één
----
++++
+aangehaald = ['René Guénon']
+auteurs = ['Camille Meloen']
+date = '2022-05-02'
+dossiers = ['Islam']
+subtitle = 'al-Tawhīdu wāhidun'
+themas = 'Religie & Metafysica'
+title = 'De leer van de Eenheid is één'
+
++++
 
 
 Wanneer ik boeken lees, vergeet ik de meeste zinnen binnen enkele minuten. Ik lees boeken voor de kleine goudklompjes die toch blijven hangen. Eén zo'n goudklompje is te vinden in de volgende alinea in het boek van René Guénon, _Aperçus sur l'ésotérisme islamique et le taoïsme_:

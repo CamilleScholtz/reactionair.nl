@@ -1,15 +1,12 @@
----
-aangehaald:
-- Rutger Bregman
-- Friedrich Nietzsche
-- Aristoteles
-auteurs:
-- De Melancholieke Nar
-date: "2022-04-15"
-subtitle: De misanthrope verleiding
-themas: Recensie & Biografie
-title: Deugen de meeste mensen nog steeds?
----
++++
+aangehaald = ['Rutger Bregman', 'Friedrich Nietzsche', 'Aristoteles']
+auteurs = ['De Melancholieke Nar']
+date = '2022-04-15'
+subtitle = 'De misanthrope verleiding'
+themas = 'Recensie & Biografie'
+title = 'Deugen de meeste mensen nog steeds?'
+
++++
 
 {{< quote
 	text="Um allein zu leben, muss man ein Thier oder ein Gott sein - sagt Aristoteles. Fehlt der dritte Fall: man muss Beides sein - Philosoph…"

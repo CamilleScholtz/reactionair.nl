@@ -1,14 +1,13 @@
----
-anchor: Top
-auteurs:
-- Eco al-Hollandi
-date: "2022-05-01"
-dossiers:
-- Islam
-subtitle: En red de samenleving
-themas: Religie & Metafysica
-title: Verberg uw zondes
----
++++
+anchor = 'Top'
+auteurs = ['Eco al-Hollandi']
+date = '2022-05-01'
+dossiers = ['Islam']
+subtitle = 'En red de samenleving'
+themas = 'Religie & Metafysica'
+title = 'Verberg uw zondes'
+
++++
 
 
 {{< image

@@ -1,19 +1,14 @@
----
-aangehaald:
-- René Guénon
-- Martin Lings
-- Hamza Yusuf
-auteurs:
-- Dennis Honing
-date: "2022-01-15"
-dossiers:
-- Islam
-- Conservatieve Alliantie
-question: Wat zijn uw gedachten over een dergelijke alliantie?
-subtitle: Een reactie op ‘tegen een politiek verbond met moslims’
-themas: Politiek & Actualiteit
-title: Is conservatieve samenwerking met moslims onwenselijk?
----
++++
+aangehaald = ['René Guénon', 'Martin Lings', 'Hamza Yusuf']
+auteurs = ['Dennis Honing']
+date = '2022-01-15'
+dossiers = ['Islam', 'Conservatieve Alliantie']
+question = 'Wat zijn uw gedachten over een dergelijke alliantie?'
+subtitle = 'Een reactie op ‘tegen een politiek verbond met moslims’'
+themas = 'Politiek & Actualiteit'
+title = 'Is conservatieve samenwerking met moslims onwenselijk?'
+
++++
 
 
 Ik heb het stuk _'Tegen een politiek verbond met moslims'_ op _Heraut_ met veel interesse gelezen.[^1] Het is mooi om te zien dat de ideeen rond een conservatieve alliantie met moslims gaat leven, en dermate zo dat men erover denkt, spreekt en schrijft. 

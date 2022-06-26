@@ -1,18 +1,12 @@
----
-aangehaald:
-- Charles Darwin
-- Fjodor Dostojevski
-- John Gray
-- Friedrich Nietzsche
-- Roger Scruton
-- William Shakespeare
-auteurs:
-- Magnus Bradshaw
-date: "2022-04-01"
-subtitle: De eclips van de seculiere ethiek
-themas: Religie & Metafysica
-title: Van humanisme naar nihilisme
----
++++
+aangehaald = ['Charles Darwin', 'Fjodor Dostojevski', 'John Gray', 'Friedrich Nietzsche', 'Roger Scruton', 'William Shakespeare']
+auteurs = ['Magnus Bradshaw']
+date = '2022-04-01'
+subtitle = 'De eclips van de seculiere ethiek'
+themas = 'Religie & Metafysica'
+title = 'Van humanisme naar nihilisme'
+
++++
 
 
 _Dit artikel is een vertaling van het Engelse essay 'From Humanism to Nihilism: The Eclipse of Secular Ethics', het origineel is [hier](https://479141-1506839-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/04/CMCPapers6-HumanismtoNihilism.pdf) te vinden._

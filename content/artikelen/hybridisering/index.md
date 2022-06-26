@@ -1,11 +1,11 @@
----
-auteurs:
-- Alexander Wolfheze
-date: "2022-01-10"
-subtitle: De Futuro-Fundamentalistische Revolutie, deel 4
-themas: Cultuur & Maatschappij
-title: Hybridisering
----
++++
+auteurs = ['Alexander Wolfheze']
+date = '2022-01-10'
+subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 4'
+themas = 'Cultuur & Maatschappij'
+title = 'Hybridisering'
+
++++
 
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/domesticering/) het vorige deel._

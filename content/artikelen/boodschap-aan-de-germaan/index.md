@@ -1,18 +1,12 @@
----
-aangehaald:
-- Pim Fortuyn
-- Geert Wilders
-- Plato
-auteurs:
-- Mootje
-date: "2021-12-26"
-dossiers:
-- Conservatieve Alliantie
-- Islam
-subtitle: Van een Marokkaan
-themas: Politiek & Actualiteit
-title: Boodschap aan de Germaan
----
++++
+aangehaald = ['Pim Fortuyn', 'Geert Wilders', 'Plato']
+auteurs = ['Mootje']
+date = '2021-12-26'
+dossiers = ['Conservatieve Alliantie', 'Islam']
+subtitle = 'Van een Marokkaan'
+themas = 'Politiek & Actualiteit'
+title = 'Boodschap aan de Germaan'
++++
 
 
 Het eindeloos gehuil om migratie, omvolking en weet ik allemaal niet wat, begint mij langzamerhand de keel uit te hangen. In plaats van te externaliseren moet er grondig aan introspectie gedaan worden.

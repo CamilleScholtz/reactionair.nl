@@ -1,13 +1,12 @@
----
-aangehaald:
-- Thierry Baudet
-auteurs:
-- ‘Het Dorp’ Genieter
-date: "2022-03-02"
-subtitle: De TikTok-isering van het debat
-themas: Klikaas
-title: 'TL;DL: too long, didn’t listen'
----
++++
+aangehaald = ['Thierry Baudet']
+auteurs = ['‘Het Dorp’ Genieter']
+date = '2022-03-02'
+subtitle = 'De TikTok-isering van het debat'
+themas = 'Klikaas'
+title = 'TL;DL: too long, didn’t listen'
+
++++
 
 
 >de·bat (het; o; meervoud: debatten)<br>

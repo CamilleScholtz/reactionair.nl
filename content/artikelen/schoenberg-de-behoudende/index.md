@@ -1,12 +1,12 @@
----
-anchor: Center
-auteurs:
-- Anton Prins
-date: "2022-05-09"
-subtitle: De meester en de moderniteit
-themas: Recensie & Biografie
-title: Schönberg  de behoudende
----
++++
+anchor = 'Center'
+auteurs = ['Anton Prins']
+date = '2022-05-09'
+subtitle = 'De meester en de moderniteit'
+themas = 'Recensie & Biografie'
+title = 'Schönberg  de behoudende'
+
++++
 
 
 {{< quote

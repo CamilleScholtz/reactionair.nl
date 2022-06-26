@@ -1,15 +1,12 @@
----
-aangehaald:
-- Thierry Baudet
-- C. S. Lewis
-- Alexis de Tocqueville
-auteurs:
-- Sanura
-date: "2022-04-28"
-subtitle: De l'Esprit des Lois 2.0, deel 2
-themas: Politiek & Actualiteit
-title: Trias politica, rechtsstaat en de nuances uit de vroegmoderne tijd
----
++++
+aangehaald = ['Thierry Baudet', 'C. S. Lewis', 'Alexis de Tocqueville']
+auteurs = ['Sanura']
+date = '2022-04-28'
+subtitle = "De l'Esprit des Lois 2.0, deel 2"
+themas = 'Politiek & Actualiteit'
+title = 'Trias politica, rechtsstaat en de nuances uit de vroegmoderne tijd'
+
++++
 
 
 Wie regeert, wordt sinds de laatste paar eeuwen primair ook weer beïnvloed door het stelsel waarbinnen de elite en de meerderheid functioneren. Daarom moeten de ontwikkelingen van complexere staatsvormen tijdens de vroegmoderne periode eerst bekeken worden.

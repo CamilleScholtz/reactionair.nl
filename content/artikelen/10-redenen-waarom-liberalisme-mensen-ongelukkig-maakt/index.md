@@ -1,11 +1,10 @@
----
-auteurs:
-- Redactie
-date: "2022-02-11"
-subtitle: Nummer 8 zal je versteld doen staan
-themas: Klikaas
-title: 10 redenen waarom liberalisme ongelukkig maakt!
----
++++
+auteurs = ['Redactie']
+date = '2022-02-11'
+subtitle = 'Nummer 8 zal je versteld doen staan'
+themas = 'Klikaas'
+title = '10 redenen waarom liberalisme ongelukkig maakt!'
++++
 
 1.  Liberalisme leidt tot individualisme en sociale atomisering. Dat terwijl mensen juist een diepe behoefte hebben om deel uit te maken van een gemeenschap. Een gezin, een streek, een natie.
 2.  Liberalisme maant mensen 'lekker zichzelf te zijn'. Hoe je je voelt en wie je bent, hangt echter voor een groot deel af van de mensen om je heen. Geen mens is een eiland.

@@ -1,17 +1,13 @@
----
-aangehaald:
-- Thierry Baudet
-- Geert Wilders
-auteurs:
-- Dennis Honing
-date: "2021-11-09"
-dossiers:
-- Conservatieve Alliantie
-- Islam
-subtitle: Traditionalisme als genezing voor het postmodernisme
-themas: Politiek & Actualiteit
-title: Dennis Honing ‘hoe echt om te gaan met diversiteit in Nederland’
----
++++
+aangehaald = ['Thierry Baudet', 'Geert Wilders']
+auteurs = ['Dennis Honing']
+date = '2021-11-09'
+dossiers = ['Conservatieve Alliantie', 'Islam']
+subtitle = 'Traditionalisme als genezing voor het postmodernisme'
+themas = 'Politiek & Actualiteit'
+title = 'Dennis Honing ‘hoe echt om te gaan met diversiteit in Nederland’'
+
++++
 
 
 Waar het bij de Germanen om gaat is dat zij zichzelf foutief hebben gerelativeerd. Zijn volk. Zijn cultuur. Zijn natiestaten. Wanneer een jonge Germaan zal aangeven dat hij jong wil huwen en zijn dochters wil behoeden voor contextloze seksualiteit, dan zal deze jongeman worden weggezet als een gek. Als een Amish. Als een grap. 

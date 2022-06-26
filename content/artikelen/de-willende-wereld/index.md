@@ -1,19 +1,12 @@
----
-aangehaald:
-- George Berkeley
-- Johann Wolfgang von Goethe
-- Friedrich Nietzsche
-- Arthur Schopenhauer
-- William Shakespeare
-- Baruch Spinoza
-- Plato
-auteurs:
-- Anton Prins
-date: "2022-06-23"
-subtitle: Enkele woorden als voorbereiding op een lezing
-themas: Cultuur & Maatschappij
-title: De willende wereld
----
++++
+aangehaald = ['George Berkeley', 'Johann Wolfgang von Goethe', 'Friedrich Nietzsche', 'Arthur Schopenhauer', 'William Shakespeare', 'Baruch Spinoza', 'Plato']
+auteurs = ['Anton Prins']
+date = '2022-06-23'
+subtitle = 'Enkele woorden als voorbereiding op een lezing'
+themas = 'Cultuur & Maatschappij'
+title = 'De willende wereld'
+
++++
 
 Het volgende stuk is geschreven ter gelegendheid van de lezing van de heer Joris van Rossum van 24 juni 2022. Mijn hoop is dat dit kan dienen als voorbereidende lectuur voor geïnteresseerden die deze lezing bij zullen wonen.
 

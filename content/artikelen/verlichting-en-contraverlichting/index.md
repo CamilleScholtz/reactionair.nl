@@ -1,11 +1,11 @@
----
-auteurs:
-- Sanura
-date: "2021-10-12"
-subtitle: Dictatoriale rechtsstaat
-themas: Cultuur & Maatschappij
-title: Verlichting en contraverlichting
----
++++
+auteurs = ['Sanura']
+date = '2021-10-12'
+subtitle = 'Dictatoriale rechtsstaat'
+themas = 'Cultuur & Maatschappij'
+title = 'Verlichting en contraverlichting'
+
++++
 
 
 In de eenentwintigste eeuw wordt de democratische rechtstaat telkens vaker bedreigd door revolutionairen en contrarevolutionairen. Maar wat is de democratische rechtstaat nou precies? Veel democraten denken slechts dat het gewoon democratie is, of dat het liberale democratie betekent. Het is hier zeker aan verwant, maar democratische rechtsstaat beschrijft bovenal de mengeling van 2 tradities uit de verlichting die elkaar voor tijdens en na de Franse revolutie bestreden, maar een equilibrium bereikten na de meer gematigde revoluties van 1848.

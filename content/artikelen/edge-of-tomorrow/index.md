@@ -1,13 +1,12 @@
----
-aangehaald:
-- Arthur Schopenhauer
-auteurs:
-- Alexander Wolfheze
-date: "2022-02-07"
-subtitle: De Futuro-Fundamentalistische Revolutie, deel 7
-themas: Cultuur & Maatschappij
-title: ‘Edge of Tomorrow’
----
++++
+aangehaald = ['Arthur Schopenhauer']
+auteurs = ['Alexander Wolfheze']
+date = '2022-02-07'
+subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 7'
+themas = 'Cultuur & Maatschappij'
+title = '‘Edge of Tomorrow’'
+
++++
 
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/die-tyranny-verdrijven/) het vorige deel._

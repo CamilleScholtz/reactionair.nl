@@ -1,13 +1,12 @@
----
-auteurs:
-- Eco al-Hollandi
-date: "2022-02-28"
-dossiers:
-- Islam
-subtitle: Drie ideeën met dezelfde oorsprong
-themas: Politiek & Actualiteit
-title: Kolonialisme, kapitalisme en liberalisme
----
++++
+auteurs = ['Eco al-Hollandi']
+date = '2022-02-28'
+dossiers = ['Islam']
+subtitle = 'Drie ideeën met dezelfde oorsprong'
+themas = 'Politiek & Actualiteit'
+title = 'Kolonialisme, kapitalisme en liberalisme'
+
++++
 
 
 ### Introductie

@@ -1,13 +1,12 @@
----
-auteurs:
-- Camille Meloen
-date: "2021-12-05"
-dossiers:
-- Islam
-subtitle: Onderzoek naar Soumaya Sahla
-themas: Politiek & Actualiteit
-title: De weg van terroriste naar VVD-adviseur
----
++++
+auteurs = ['Camille Meloen']
+date = '2021-12-05'
+dossiers = ['Islam']
+subtitle = 'Onderzoek naar Soumaya Sahla'
+themas = 'Politiek & Actualiteit'
+title = 'De weg van terroriste naar VVD-adviseur'
+
++++
 
 
 Onlangs kwam aan het licht dat de _"tafelvoorzitter terrorisme en radicalisering"_ van de _VVD_, Soumaya Sahla, een veroordeelde Hofstadterroriste is. Vreemd, interessant, opmerkelijk. Hoe werkt dat nou, van terroriste naar *VVD*-adviseur? De laatste tijd zijn er veel artikelen over Soumaya Sahla verschenen, maar geen enkele lijkt echt in te gaan op _hoe_ ze nou bij de _VVD_ is terecht gekomen.

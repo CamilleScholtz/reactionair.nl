@@ -1,16 +1,13 @@
----
-aangehaald:
-- René Guénon
-- Friedrich Nietzsche
-- Oswald Spengler
-anchor: Center
-auteurs:
-- Intan Hoijer
-date: "2021-11-03"
-subtitle: Beschouwing over het lot der Westerse beschaving
-themas: Cultuur & Maatschappij
-title: Fatalisme, ondergang en wederopstanding
----
++++
+aangehaald = ['René Guénon', 'Friedrich Nietzsche', 'Oswald Spengler']
+anchor = 'Center'
+auteurs = ['Intan Hoijer']
+date = '2021-11-03'
+subtitle = 'Beschouwing over het lot der Westerse beschaving'
+themas = 'Cultuur & Maatschappij'
+title = 'Fatalisme, ondergang en wederopstanding'
+
++++
 
 
 Fatalisme heeft de westerse geest overgenomen. Na het Fukuyamiaanse optimisme van de jaren 90 regeert het pessimisme en lijkt de ondergang van het Avondland definitief te zijn aangebroken. De voortekenen zijn overal te zien en reeds lange tijd voorspeld. Zoals Spengler aankondigde gaan alle beschavingen uiteindelijk ten onder aan interne corrosie van de scheppende kracht.[^1] Een beschaving valt stil en schept geen waarlijke nieuwe dingen meer. Datgene wat gecreëerd wordt zijn hoogstens nieuwe externaliteiten maar de essentia blijven gelijk. Sterker nog, de essentia van de beschaving zullen gaan verrotten en uiteindelijk ten onder gaan.

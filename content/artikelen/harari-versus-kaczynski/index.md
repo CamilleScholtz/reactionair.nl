@@ -1,20 +1,12 @@
----
-aangehaald:
-- René Girard
-- Ernst Jünger
-- Theodore J. Kaczynski
-- Friedrich Nietzsche
-- Oswald Spengler
-- Jacques Ellul
-- Curtis Yarvin
-- Slavoj Žižek
-auteurs:
-- Jan-Willem Veldhuizen
-date: "2022-06-26"
-subtitle: Een strijd tussen transhumanisme en anarchoprimitivisme
-themas: Cultuur & Maatschappij
-title: Harari versus Kaczynski
----
++++
+aangehaald = ['René Girard', 'Ernst Jünger', 'Theodore J. Kaczynski', 'Friedrich Nietzsche', 'Oswald Spengler', 'Jacques Ellul', 'Curtis Yarvin', 'Slavoj Žižek']
+auteurs = ['Jan-Willem Veldhuizen']
+date = '2022-06-26'
+subtitle = 'Een strijd tussen transhumanisme en anarchoprimitivisme'
+themas = 'Cultuur & Maatschappij'
+title = 'Harari versus Kaczynski'
+
++++
 
 
 Dit artikel is een vertaling en bewerking van een Twitter-draad van [Forrest](https://twitter.com/Foz89107323). De onderwerpen die behandeld worden, zijn onder andere: Wat is de invloed van de nieuwste technologische revolutie op ons leven? Wat is het raamwerk van de ideologie die de elites in de samenleving proberen te implementeren? Waardoor verliezen we onze innerlijkheid? Waarom is keuzevrijheid een illusie? Waardoor is de zwakke, verwijfde man een dominant fenomeen geworden in de maatschappij?

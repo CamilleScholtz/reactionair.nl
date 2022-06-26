@@ -1,15 +1,13 @@
----
-aangehaald:
-- Curtis Yarvin
-auteurs:
-- De Melancholieke Nar
-date: "2022-02-24"
-dossiers:
-- Woke
-subtitle: Over de giftige alchemie tussen coomer en e-girl
-themas: Cultuur & Maatschappij
-title: Caveat coomer
----
++++
+aangehaald = ['Curtis Yarvin']
+auteurs = ['De Melancholieke Nar']
+date = '2022-02-24'
+dossiers = ['Woke']
+subtitle = 'Over de giftige alchemie tussen coomer en e-girl'
+themas = 'Cultuur & Maatschappij'
+title = 'Caveat coomer'
+
++++
 
 
 _Dit artikel is een vertaling en bewerking van een Twitter-draad van [Curtis Yarvin](https://twitter.com/moldbugman)._

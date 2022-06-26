@@ -1,11 +1,11 @@
----
-auteurs:
-- Tom Van Giersbergen
-date: "2022-05-21"
-subtitle: De drie-eenheid van werkelijkheid
-themas: Religie & Metafysica
-title: De fysieke realiteit, de metafysische realiteit en de hyperrealiteit
----
++++
+auteurs = ['Tom Van Giersbergen']
+date = '2022-05-21'
+subtitle = 'De drie-eenheid van werkelijkheid'
+themas = 'Religie & Metafysica'
+title = 'De fysieke realiteit, de metafysische realiteit en de hyperrealiteit'
+
++++
 
 
 _Wat is de realiteit?_ Dit lijkt een uitermate voor de hand liggende vraag en logisch en eenvoudig te beantwoorden. Echter zo simpel ligt het niet. Wat de realiteit is, dat is mede afhankelijk van hoe we deze ervaren. In wat voor gemoedstoestand zijn we? Ervaren we de realiteit direct om ons heen? Of kijken we naar gebeurtenissen aan de andere kant van de wereld via het televisiescherm of via het schermpje van een mobiele telefoon?

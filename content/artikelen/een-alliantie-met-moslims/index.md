@@ -1,17 +1,14 @@
----
-aangehaald:
-- Thierry Baudet
-auteurs:
-- Vrederijk
-date: "2021-10-13"
-dossiers:
-- Islam
-- Conservatieve Alliantie
-question: Denkt u dat een dergelijke alliantie mogelijk is?
-subtitle: Over reactionairen en moslims
-themas: Politiek & Actualiteit
-title: Een alliantie met moslims!?
----
++++
+aangehaald = ['Thierry Baudet']
+auteurs = ['Vrederijk']
+date = '2021-10-13'
+dossiers = ['Islam', 'Conservatieve Alliantie']
+question = 'Denkt u dat een dergelijke alliantie mogelijk is?'
+subtitle = 'Over reactionairen en moslims'
+themas = 'Politiek & Actualiteit'
+title = 'Een alliantie met moslims!?'
+
++++
 
 
 Sinds een jaar of twee lees ik regelmatig berichten over een vermeende, gewenste of ongewenste alliantie tussen conservatieven of reactionairen, en moslims. Ik ben nog niet zo heel lang een _actief_ gebruiker van sociale media, dus wellicht is het al langer aan de gang, en ongetwijfeld heb ik veel gemist. Toch wil ik hieronder een greep doen uit die berichten, en een beknopt overzicht geven van wat die alliantie dan zou inhouden, waarom het wenselijk en voor de hand liggend is en wat de belangrijkste bezwaren ertegen zijn. Ik sluit dit stuk af met mijn eigen visie op deze alliantie, op wat ze in kán houden. Hiervoor is het mijns inziens gepast om vooraf een soort van open kaart te spelen: ik beschouw mijzelf als reactionair én Nederlandse moslim. Hoewel de focus in dit stuk vooral ligt op de meer opzienbarende alliantie tussen reactionairen en moslims, horen christenen en andere religieuzen en traditionalisten hier ook bij. Omwille van relevantie en gemak beperk ik mij zoveel mogelijk tot de Nederlandse en Vlaamse context. 

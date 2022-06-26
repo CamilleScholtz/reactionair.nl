@@ -1,17 +1,14 @@
----
-aangehaald:
-- Thomas van Aquino
-- Nicolás Gómez Dávila
-anchor: Center
-auteurs:
-- Robert Lemm
-date: "2021-11-29"
-dossiers:
-- Christendom
-subtitle: Fragment uit een boek in voorbereiding
-themas: Recensie & Biografie
-title: Reactionair, om te beginnen
----
++++
+aangehaald = ['Thomas van Aquino', 'Nicolás Gómez Dávila']
+anchor = 'Center'
+auteurs = ['Robert Lemm']
+date = '2021-11-29'
+dossiers = ['Christendom']
+subtitle = 'Fragment uit een boek in voorbereiding'
+themas = 'Recensie & Biografie'
+title = 'Reactionair, om te beginnen'
+
++++
 
 
 >_“De authentieke reactionair kijkt niet naar de toekomst, zoals de liberaal. Hij kijkt evenmin naar het verleden, zoals de conservatief. Hij kijkt niet vooruit, en niet achterom. Hij kijkt naar boven, naar de sterren en de hemel, naar de sporen die de Eeuwigheid heeft achtergelaten in de Tijd.”_
