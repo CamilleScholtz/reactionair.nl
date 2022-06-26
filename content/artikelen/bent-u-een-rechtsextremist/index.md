@@ -1,10 +1,12 @@
 +++
-auteurs = ['Redactie']
-date = '2022-04-29'
-question = 'En, bent u een rechtsextremist?'
-subtitle = 'Doe de test!'
-themas = 'Klikaas'
-title = 'Bent u een rechtsextremist?'
+question = "En, bent u een rechtsextremist?"
+title = "Bent u een rechtsextremist?"
+subtitle = "Doe de test!"
+auteurs = ["Redactie"]
+date = "2022-04-29"
+themas = "Klikaas"
+thumb = "thumb.webp"
+anchor = "Smart"
 +++
 
 
