@@ -31,7 +31,6 @@ Een portret van de reactionair geeft de Duitse schrijver Thomas Mann in zijn ber
 	text="Met de industrie, wijst het christelijke communisme de techniek, de machine, de voortuitgang af. De eerste stap naar ware vrijheid zou vereisen dat men zijn vrees opgeeft voor het begrip reactionair."
 	author="Leo Naphta"
 	aside=true
-	noblock=true
 >}}
 
 Leo Naphta daarentegen, personifieert de rem op de Vooruitgang. Settembrini typeert hem als _“princeps scholasticorum”_, laatbloeier in de scholastieke wijsbegeerte van de Middeleeuwen die nog uitging van ons voortbestaan na de dood en het monarchistische staatsidee. Voor Naphta is de mens een onsterfelijke ziel in een sterfelijk lichaam met een bovennatuurlijke bestemming. Die zienswijze doorziet Settembrini als achterhaald dankzij de bevindingen van het natuuronderzoek. God en de ziel zijn dingen die zich onttrekken aan onze zintuigelijke waarneming, en die dus vallen buiten de Wetenschap, buiten wat de richtinggevende filosoof Immanuel Kant de _Kritiek van de Zuivere Rede_ noemde. Te midden van de Moderniteit daarentegen, getuigt Naphta van een levensvisie die indruist tegen de _communis opinio_ en tegen de vrijheid van denken. Naphta – jezuïet met een Pools-joodse achtergrond – roept in herinnering dat de landgenoten van zijn Italiaanse criticus het geldwisselaarsambt, het bankwezen, het zakenleven hebben uitgevonden, het kapitalisme dus. Settembrini verwijt Naphta zijn vasthouden aan de binding van Troon en Altaar als zijnde de beste bestuursvorm.

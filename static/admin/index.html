@@ -12,11 +12,9 @@
 	<body>
 		<script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
 
-		<script>
-			CMS.registerPreviewStyle("style.css");
-
+		<script type="application/javascript">
 			if (window.netlifyIdentity) {
-				window.netlifyIdentity.on("init", user => {
+				window.netlifyIdentity.on("init", (user) => {
 					if (!user) {
 						window.netlifyIdentity.on("login", () => {
 							document.location.href = "/admin/";
@@ -24,6 +22,168 @@
 					}
 				});
 			}
+
+			CMS.registerEditorComponent({
+				id: "image",
+				label: "Afbeelding",
+
+				fields: [{
+					name: "caption",
+					label: "Onderschrift",
+					widget: "string"
+				},
+				{
+					name: "license",
+					label: "Licentie",
+					widget: "string",
+					required: false
+				}],
+
+				pattern: /^{{< image\n?(?:\scaption="(?<caption>.+)")\n?(?:\slicense="(?<license>.+)")?\s?>}}/,
+
+				fromBlock: (match) => {
+					return {
+						caption: match.groups.caption,
+						license: match.groups.license
+					};
+				},
+
+				toBlock: (obj) => {
+					return `{{< image caption="${obj.caption}" >}}`;
+				},
+
+				toPreview: (obj) => {
+					return `{{< image caption="${obj.caption}" >}}`;
+				},
+			});
+
+			CMS.registerEditorComponent({
+				id: "twitter",
+				label: "Twitter",
+
+				fields: [{
+					name: "user",
+					label: "Gebruiker",
+					widget: "string"
+				},
+				{
+					name: "id",
+					label: "Tweet ID",
+					widget: "string"
+				}],
+
+				pattern: /^{{< tweet ([A-Za-z0-9]+) ([0-9]+) >}}/,
+
+				fromBlock: (match) => {
+					return {
+						user: match[1],
+						id: match[2]
+					};
+				},
+
+				toBlock: (obj) => {
+					return `{{< tweet ${obj.user} ${obj.id} >}}`;
+				},
+
+				toPreview: (obj) => {
+					return `{{< tweet ${obj.user} ${obj.id} >}}`;
+				},
+			});
+
+			CMS.registerEditorComponent({
+				id: "quote",
+				label: "Citaat",
+
+				fields: [{
+					name: "text",
+					label: "Citaat",
+					widget: "string"
+				},
+				{
+					name: "author",
+					label: "Auteur",
+					widget: "string"
+				},
+				{
+					name: "aside",
+					label: "Tonen in zijbalk",
+					widget: "boolean"
+				},
+				{
+					name: "article",
+					label: "Tonen in artikel",
+					widget: "boolean"
+				}],
+
+				pattern: /^{{< quote\n?(?:\stext="(?<text>.*)")\n?(?:\sauthor="(?<author>.*)")\n?(?:\saside=(?<aside>true|false))?\n(?:\sarticle=(?<article>true|false))?\s?>}}/,
+				
+				fromBlock: (match) => {
+					return {
+						text: match.groups.text,
+						author: match.groups.author,
+						aside: match.groups.aside,
+						article: match.groups.article,
+					};
+				},
+
+				toBlock: (obj) => {
+					let aside   = '';
+					let article = '';
+
+					if (obj.aside) {
+						aside = '\n\taside=true';
+					}
+					if (obj.article) {
+						article = '\n\tarticle=true';
+					}
+
+					return `{{< quote\n\ttext="${obj.text}"\n\ttext="${obj.author}"${aside}${article}\n>}}`;
+				},
+
+				toPreview: (obj) => {
+					let aside   = '';
+					let article = '';
+
+					if (obj.aside) {
+						aside = '\n\taside=true';
+					}
+					if (obj.article) {
+						article = '\n\tarticle=true';
+					}
+
+					return `{{< quote\n\ttext="${obj.text}"\n\ttext="${obj.author}"${aside}${article}\n>}}`;
+				},
+			});
+
+			CMS.registerEditorComponent({
+				id: "youtube",
+				label: "Youtube",
+
+				fields: [{
+					name: "id",
+					label: "Video ID",
+					widget: "string"
+				}],
+
+				pattern: /^{{< youtube\s+(?<id>[A-Za-z0-9\-]+)\s+>}}/,
+
+				fromBlock: (match) => {
+					return {
+						id: match[1]
+					};
+				},
+
+				toBlock: (obj) => {
+					return `{{< youtube ${obj.id} >}}`;
+				},
+
+				toPreview: (obj) => {
+					return `<img src="https://i3.ytimg.com/vi/${obj.id}/hqdefault.jpg" alt="Youtube Video"/>`;
+				},
+			});
 		</script>
 	</body>
+
+	<!-- See : https://github.com/netlify/netlify-cms/issues/441 -->
+	<link rel="stylesheet" href="style.css">
 </html>

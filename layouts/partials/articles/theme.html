@@ -18,15 +18,10 @@
 		<a href="/{{ .section }}/{{ urlize .term }}/" class="more">Zie meer...</a>
 	</div>
 
-	{{ $image := "thumb.webp" }}
-	{{ if eq .term "Klikaas" }}
-		{{ $image = false }}
-	{{ end }}
-
 	{{ partial "articles/featured.html" (dict
-		"context" $featured
-		"size"    "small"
-		"image"   $image
-		"lazy"    .lazy
+		"context"   $featured
+		"size"      "small"
+		"imageless" (eq .term "Klikaas")
+		"lazy"      .lazy
 	) }}
 </div>

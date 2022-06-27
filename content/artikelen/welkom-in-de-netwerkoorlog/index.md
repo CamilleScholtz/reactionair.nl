@@ -14,7 +14,7 @@ _Dit is een vertaald artikel, het origineel is [hier](https://schwabstack.substa
 {{< quote
 	text="Oorlog bereikt nooit zijn absolute toestand omdat oorlog nooit een geisoleerde daad is: oorlog bestaat niet uit een enkele, korte stoot: ook ligt in oorlog de uitkomst nooit voor goed vast."
 	author="Carl von Clausewitz"
-	aside=false
+	article=true
 >}}
 
 Welkom in de netwerkoorlog. Je bent een strijder in oorlog met een netwerk. Dit totaliserende netwerk wordt gedefinieerd met woorden als 'globalisme', 'de overzwerming', 'de nieuwe wereldorde', 'de open samenzwering', 'het mierennest' of simpelweg 'het open source-netwerk'. Het kan worden beschreven als een extremistische, maximalistische, transnationale maatschappelijke beweging. In die context moet de huidige episode van 'vijfde generatie oorlogsvoering' of 'hybride oorlogsvoering'  gezien worden als een netwerk tegen worsteling met het netwerk, dat gevormd wordt door verschuivingen van politieke en maatschappelijke loyaliteiten naar 'identiteit', hetzij organisch geconstrueerd, hetzij cybernetisch. Er is geen vaste, op staten gebaseerde hierarchie in de wereld. Er zijn geen vrijzwevende individuen. Ofwel heb je je eigen netwerk gevormd, je aangesloten bij een reeds bestaand vlechtwerk van verbindingen, of je wordt onderworpen.

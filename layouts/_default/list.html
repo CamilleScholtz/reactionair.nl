@@ -27,7 +27,7 @@
 		<div id="articles">
 			{{ range $paginator.Pages }}			
 				<a href="{{ .RelPermalink }}" class="article">
-					{{ $image := .Resources.GetMatch "thumb.webp" }}
+					{{ $image := .Resources.GetMatch .Params.image }}
 					{{ $anchor := "Smart" }}
 					{{ if isset .Params "anchor" }}
 						{{ $anchor = .Params.anchor }}

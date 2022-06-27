@@ -23,7 +23,6 @@ Met liberalisme bedoel ik het cluster van morele en politieke ideeen dat de nadr
 	text="Progressivisme is in essentie een religieus geloof in de onstuitbare mars voorwaarts van menselijke vooruitgang."
 	author="Eugyppius"
 	aside=true
-	noblock=true
 >}}
 
 Progressivisme is in essentie een religieus geloof in de onstuitbare mars voorwaarts van menselijke vooruitgang. Doorgedraaid of in de luren gelegd door de technologische vooruitgang van de afgelopen anderhalve eeuw, geloven progressieven dat het heden beter is dan het verleden en dat de toekomst beter zal zijn dan het heden. Ze zijn geneigd om pragmatische bezwaren op utopische idealen weg te wuiven door geloof in toekomstige, vooral technologische oplossingen. De toekomst zal beter zijn en wat beter is, moet doorgang vinden.

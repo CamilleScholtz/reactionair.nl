@@ -5,10 +5,10 @@ backend:
   gateway_url: "https://reactionair.nl/.netlify/git"
   squash_merges: true
 
+publish_mode: "editorial_workflow"
+
 show_preview_links: false
 search: false
-
-publish_mode: editorial_workflow
 
 media_folder: ""
 public_folder: ""
@@ -22,6 +22,9 @@ slug:
   encoding: "ascii"
   clean_accents: true
 
+editor:
+  preview: false
+
 collections:
   - name: "artikelen"
     label: "Artikelen"
@@ -29,6 +32,7 @@ collections:
     folder: "content/artikelen"
     path: "{{slug}}/index"
     format: "toml-frontmatter"
+    create: true
     delete: false
     sortable_fields: ["commit_date", "title", "auteurs"]
     view_groups:
@@ -77,6 +81,8 @@ collections:
       - name: "image"
         label: "Afbeelding"
         widget: "image"
+        allow_multiple: false
+        choose_url: false
       - name: "anchor"
         label: "Uitsnijdvak"
         widget: "select"
@@ -84,15 +90,16 @@ collections:
         default: "Smart"
       - name: "body"
         label: "Content"
-        hint: ""
         widget: "markdown"
         buttons: ["bold", "italic", "link", "heading-three", "quote", "bulleted-list", "numbered-list"]
+        editor_components: ["image", "twitter", "quote", "youtube"]
   - name: "auteurs"
     label: "Auteurs"
     label_singular: "Auteur"
     folder: "content/auteurs"
     path: "{{slug}}/_index"
     format: "toml-frontmatter"
+    create: true
     delete: false
     fields:
       - name: "title"
@@ -110,6 +117,8 @@ collections:
       - name: "avatar"
         label: "Afbeelding"
         widget: "image"
+        allow_multiple: false
+        choose_url: false
   - name: "dossiers"
     label: "Dossiers"
     label_singular: "Dossier"
@@ -117,6 +126,7 @@ collections:
     path: "{{slug}}/_index"
     preview_path: "dossiers/{{slug}}/"
     format: "toml-frontmatter"
+    create: true
     delete: false
     fields:
       - name: "title"

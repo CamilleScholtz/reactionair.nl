@@ -1,6 +1,6 @@
 <a href="{{ .context.RelPermalink }}" class="featured {{.size}}">
-	{{ if .image }}
-		{{ $image  := .context.Resources.GetMatch .image }}
+	{{ if not .imageless }}
+		{{ $image  := .context.Resources.GetMatch .context.Params.image }}
 		{{ $anchor := "Smart" }}
 		{{ if isset .context.Params "anchor" }}
 			{{ $anchor = .context.Params.anchor }}

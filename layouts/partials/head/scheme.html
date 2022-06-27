@@ -3,7 +3,7 @@
 		"@context": "https://schema.org/",
 
 		{{ if eq .Type "artikelen" }}
-			{{ $image  := .Resources.GetMatch "thumb.webp" }}
+			{{ $image  := .Resources.GetMatch .Params.image }}
 			{{ $anchor := "Smart" }}
 			{{ if isset .Params "anchor" }}
 				{{ $anchor = .Params.anchor }}

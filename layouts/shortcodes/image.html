@@ -1,7 +1,7 @@
 <figure>
 	{{ $src := .Get "src" }}
 	{{ if not $src }}
-		{{ $src = "thumb.webp" }}
+		{{ $src = .Page.Params.image }}
 	{{ end }}
 	{{ $image := .Page.Resources.GetMatch $src }}
 
@@ -15,6 +15,7 @@
 
 	<figcaption>
 		<p>{{ .Get "caption" | safeHTML }}</p>
+
 		{{ if .Get "license" }}
 			<small>{{ .Get "license" | safeHTML }}</small>
 		{{ end }}

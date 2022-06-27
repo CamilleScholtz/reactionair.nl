@@ -20,7 +20,7 @@ _Dit artikel is een vertaling van het Engelse essay 'From Humanism to Nihilism: 
 {{< quote
 	text="De vraag is niet langer, zoals Dostojevski het stelde: ‘Kan de beschaafde mens geloven? eerder: kan de ongelovige mens beschaafd zijn?’"
 	author="Philip Rieff"
-	aside=false
+	article=true
 >}}
 
 Om meer inzicht te verwerven omtrent de positie van de Islam in de hedendaagse wereld, is het nuttig om de islamitische en de seculiere ethiek tegenover elkaar te plaatsen.[^1] De seculiere ethiek is tegenwoordig nauw verbonden met het seculier humanisme, "de verwerping van religie ten gunste van een geloof in de vooruitgang van de mensheid op eigen kracht".[^2] Waar moslims morele autoriteit zien als uiteindelijk afkomstig van God, zien seculiere humanisten moraliteit als intrinsiek aan de mensheid. Ons aangeboren morele gezag, zo wordt beweerd, verschaft een voldoende basis om onze eigen wetten te maken. Hoewel de Islam kan erkennen dat de geestelijke en rationele vermogens van de mensheid een intrinsiek moreel besef verschaffen, is het ook duidelijk dat de mensheid grote behoefte heeft aan morele leiding en inderdaad in staat is - zowel individueel als collectief - om gevaarlijk en destructief af te dwalen zonder het licht van het geloof en de onderwerping aan goddelijke leiding die daaruit voortvloeit. Wat het ongeloof betreft, de Koran maakt duidelijk dat het een toestand van onwetendheid en geestelijke duisternis is, waarvan de morele en sociale implicaties duidelijk blijken uit de corruptie en de onrechtvaardigheid van het pre-islamitische Arabië. Er is klaarblijkelijk op zijn minst een gedeeltelijke analogie tussen die tijd en de onze, in zoverre zij wordt gekenmerkt door seculier humanisme en dus atheïsme. In wat volgt houd ik rekening met de wijdverspreide bezorgdheid over moreel verval die vandaag de dag zo duidelijk is en behandel ik kritiek op een aantal breed gedragen seculier humanistische waarden. Hierbij ligt de nadruk niet zozeer op het presenteren van een specifiek islamitisch perspectief op de onderhavige kwesties, maar eerder op de zeer verschillende grondslagen van religieuze en seculiere ethiek, en op het feit dat niet-islamitische geleerden tot conclusies zijn gekomen over de hedendaagse ethische situatie die veel moslims zouden delen.
@@ -48,6 +48,7 @@ Veel van de oorspronkelijke morele waarden van de Verlichting waren in feite ge�
 	text="Vooruitgang is geen toeval, maar noodzaak. Het kwaad en de immoraliteit moeten zeker verdwijnen; de mens moet zeker volmaakt worden."
 	author="Herbert Spencer"
 	aside=true
+	article=true
 >}}
 
 Volgens Robert Nisbet in zijn _History of the Idea of Progress_ is "geen enkel idee gedurende bijna drieduizend jaar belangrijker geweest dan het idee van vooruitgang in de westerse beschaving".[^14] Ondanks de catastrofes van de twintigste eeuw, die een nuchtere correctie van dergelijke hopen zou moeten suggereren, is de neiging om de geschiedenis te zien als een geleidelijke opgang naar een utopisch doel vandaag de dag nog springlevend, niet in de laatste plaats onder hedendaagse seculiere liberalen die zichzelf trots beschouwen als "progressieven". Francis Fukuyama's invloedrijke _The End of History and the Last Man_ geeft uiting aan een breed gedragen geloof in _"global democratic capitalism"_ als het definitieve sociaal-politieke systeem. Het geloof dat de mensheid door uitbreiding van haar kennis de wereld kan herschapen en honger, armoede en tirannie kan uitbannen, is tegenwoordig nauw verbonden met de wereldwijde bevordering van de democratie - desnoods gewapenderhand. Gray stelt dat "de neergang van het christendom en de opkomst van het revolutionaire utopisme samengaan. Toen het christendom werd verworpen, verdween de eschatologische hoop niet. Ze werden onderdrukt, om vervolgens terug te keren als projecten van universele emancipatie".[^15]
@@ -69,6 +70,7 @@ Het seculiere humanisme ziet zich dus gedwongen te kiezen tussen de tegenstrijdi
 	text="Moderne psychologen hebben de grenzen van onverantwoordelijkheid aanzienlijk verruimd: ze hadden meer ruimte nodig in dit gebied."
 	author="Karl Krauss"
 	aside=true
+	article=true
 >}}
 
 Volgens een in de sociale wetenschappen heersende opvatting is de hedendaagse mens een typisch "psychologisch mens" geworden, die wordt geïdentificeerd met moderniteit en ongeloof in tegenstelling tot de traditionele cultuur en het religieuze geloof. Hij vindt eerder betekenis in het persoonlijke en psychologische dan in het sociale domein en wordt gekenmerkt door neigingen tot vervreemding en narcisme;[^23] of, zoals Philip Rieff het uitdrukt, "de religieuze mens is geboren om gered te worden; de psychologische mens is geboren om bevredigd te worden".[^24] Doordrenkt van wat Richard Weaver omschrijft als "de diepe psychische angst, de buitengewone prevalentie van neurose, die onze tijd uniek maakt".[^25] Zijn voornaamste karaktertrek op het gebied van de moraal is het individualisme. Constaterend dat de psychologische mens is ontstaan in samenhang met de toenemende secularisatie, merkt Peter Homans op dat "de psychologie is ontstaan in directe verhouding tot het verval van de macht van de religie ... er bestaat een vervangende relatie tussen de twee: de psychologie is de 'onzichtbare religie' van de moderne mens".[^26] Het is in deze context dat het therapeutisch ethos, met zijn niet-oordelende 'seculiere priesters', zich het gebied van moraliteit en zingeving heeft toegeëigend dat ooit tot het domein van de religie behoorde. De ontwikkeling van de psychologische mens is natuurlijk samengevallen met een toenemende tendens om de traditionele bronnen van morele autoriteit in twijfel te trekken en vaak te verwerpen. Waar God traditioneel gezien wordt als de ultieme morele autoriteit, met sociale instellingen die optreden als bemiddelaars van die autoriteit, wordt de nadruk nu gelegd op het individu en de persoonlijke keuze.[^27] Volgens Paul Vitz in _Psychology as Religion: The Cult of Self-Worship_, vervangt de humanistische psychologie van Abraham Maslow, Carl Rogers en anderen, morele concepten grotendeels door de zoektocht naar menselijke vervulling en heeft daarmee een belangrijke rol gespeeld in het verval van morele waarden in het Westen.[^28]
@@ -84,6 +86,7 @@ Nauw verbonden met de toenemende invloed van de psychologie is een anti-autorita
 	text="Achter elke kromme gedachte schuilt een krom molecuul."
 	author="Roy Fuller"
 	aside=true
+	article=true
 >}}
 
 Zijn mensen vrij om morele keuzes te maken en daarnaar te handelen, of worden ze bepaald door krachten buiten hun controle? Het is duidelijk dat zonder vrije wil, begrippen als karakter, wil, geweten, deugd en ondeugd veel van hun betekenis verliezen. De meest redelijke koers voor de seculiere humanist in dergelijke zaken is zich te onderwerpen aan het gezag van de wetenschap, die uiteraard uiteindelijk het determinisme zou kunnen ondersteunen. Inderdaad, betoogt David Berlinski, als de menselijke geest een uitdrukking is van genen, dan volgt daaruit determinisme als een logische noodzaak.[^34] Er is dus ook een tegenstrijdigheid tussen het geloof in de menselijke vrije wil en de evolutionaire psychologie die door Steven Pinker of Richard Dawkins in _The Selfish Gene_ wordt voorgesteld. Maar, zoals Berlinski opmerkt, geven beide mannen er de voorkeur aan de overduidelijk deterministische implicaties van hun werk te negeren.[^35] Het probleem is dat wat de wetenschap impliceert onverenigbaar kan zijn met de manier van denken en zijn waaraan zelfs de meest reductionistische wetenschapper zich niet onttrekt. Maar het determinisme brengt nog een ander ernstig ongemak met zich mee, want zoals Anthony O'Hear heeft opgemerkt, als wij gedetermineerd zijn, is onze schijnbare rationaliteit in feite geworteld in diepere, niet-rationele krachten.[^36] De resultaten van rationeel gedreven wetenschappelijk onderzoek ondermijnen dus uiteindelijk de rede zelf.
@@ -99,6 +102,7 @@ In _Life at the Bottom_, een studie over de Britse onderklasse gebaseerd op zijn
 	text="Het idee dat de mens begiftigd is met krachten en eigenschappen die elders in het dierenrijk - of in het heelal, voor zover wij weten - niet voorkomen, komt voort uit een eenvoudig gebod: Kijk om je heen."
 	author="David Berlinski"
 	aside=true
+	article=true
 >}}
 
 Als er één geloof is dat vrijwel alle humanisten verenigt, dan is het wel de evolutietheorie van Charles Darwin. Het vervult de waardevolle tweeledige rol van bolwerk tegen religieus geloof, en, in combinatie met een geloof in vooruitgang, religie-vervanger. Toch is het bekend dat het Darwinisme, op zijn zachtst gezegd, een problematische morele geschiedenis heeft. In zijn recente studie, _From Darwin to Hitler: Evolutionary Ethics, Eugenics and Racism in Germany_,[^44] onderzoekt Richard Weikert de impact van Darwin's theorieën in Nazi Duitsland. Herbert Spencer's leer van het sociaal-darwinisme had Darwin's concept van de overleving van de sterkste toegepast op het menselijke sociale domein, en biologen zoals Ernst Haeckel concludeerden hieruit dat concurrentie tussen soorten ook concurrentie tussen rassen werd op het menselijke domein: "de kloof tussen de bedachtzame geest van een beschaafd mens en de gedachteloze dierlijke ziel van de wilde is enorm - groter dan de kloof die de laatste scheidt van de ziel van de hond".[^45] Hoewel Darwin zelf natuurlijk niet verantwoordelijk kan worden gesteld voor deze latere ontwikkelingen, heeft het Darwinisme, met name het sociaal-darwinisme en de eugenetica, belangrijke impulsen gegeven aan de opvatting van de nazi's dat massamoord op industriële schaal een moreel prijzenswaardige bijdrage aan de menselijke vooruitgang kon zijn. Dergelijke opvattingen moeten niet gezien worden als een geïsoleerde aberratie, want steun voor eugenetica vóór de Tweede Wereldoorlog was zowel een Brits en Amerikaans als een Duits fenomeen.[^46] Het morele probleem voor de seculiere humanist is dat, als er niets heiligs aan het menselijk leven is, als we slechts dieren zijn met complexere hersenen die zich op geen enkele manier kwalitatief onderscheiden van onze vermeende mindere verwanten, dergelijke overwegingen op zijn minst het overwegen waard kunnen worden.
@@ -120,6 +124,7 @@ Materialisme is echter geen filosofie die zich noodzakelijkerwijs manifesteert i
 	text="Voor wetenschappelijke atheïsten laat het oeroude idee dat homo homini lupus - de mens is een wolf voor de mens - hen het hoofd schudden in poedelachtige verbijstering."
 	author="David Berlinski"
 	aside=true
+	article=true
 >}}
 
 In een brief uit 1878 schrijft de Russische schrijver Fjodor Dostojevski:
@@ -145,6 +150,7 @@ Bundy, die Sade had gelezen, stelt de argumenten van het sociaal contract, die v
 	text="De uitholling van de westerse beschaving door het nihilisme is nagenoeg compleet."
 	author="John Gray"
 	aside=true
+	article=true
 >}}
 
 Het valt te betwijfelen of een zuiver seculiere moraal, die elke transcendente goddelijke macht verwerpt - wat immers zelfs in het oude Griekenland, Rome of het confucianistische China niet het geval was - ooit gedurende een significante periode in een samenleving effectief is gebleken. Sterker nog, voor zover samenlevingen zich met dergelijke experimenten hebben beziggehouden, zijn deze meestal, zoals John Gray suggereert, catastrofaal geweest:

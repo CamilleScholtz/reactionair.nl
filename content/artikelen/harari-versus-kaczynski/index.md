@@ -41,7 +41,6 @@ Richard Thaler wil net als Yuval Harari de beslissingen van individuen beïnvloe
 	text="Big Brother now wears a friendly face."
 	author="Byung Chul Han"
 	aside=true
-	noblock=true
 >}}
 
 De nieuwe digitale tirannie waarin we worden meegezogen, door ons over te geven aan de aanwezigheid van alsmaar toenemende technologie, mag ons bevrediging beloven in de vorm van status of seks en vergrote invloed over de materiële wereld, maar wees op je hoede, het is een gevaarlijk pad! Ons digitale panopticon is anders dan die van de Grote Broer van vroeger.[^8] Byung Chul Han schrijft het volgende: “Big Brother now wears a friendly face.” Hij besteed zijn activiteiten voortaan uit aan onszelf, moedigt “gebruikers” aan om te communiceren en te consumeren, zodat er een maximale stroom van data en kapitaal bereikt kan worden. De goelagarchipel gebruikte een disciplinerende macht om individuen te surveilleren om hun gedrag te controleren. Techreuzen zijn van mening dat het veel efficiënter is om de surveillerende kracht over te laten aan onszelf, zodat ze onze eeuwige hang naar digitaal verbonden zijn en vrijheid kunnen uitbuiten. Met elke tweet en elke click en ieder beetje data en informatie draag je bij aan het zwermbrein dat je verder vervreemdt van je ware “ik”. Het is een nieuw “wij”, een dat is ontdaan van zijn politieke waarde. We praten eindeloos over “onze democratie” omdat we er niet langer een hebben. 
@@ -54,7 +53,6 @@ Zoals vrijemarktkapitalisten geloven in de onzichtbare hand van de markt, gelove
 	text="Vandaag de dag vervult Google de rol van de alwetende (Google Search), alziende (Google Earth), almachtige (Google's DeepMind) en albarmhartige (Google Assistant)."
 	author="Siva Vaidhyanathan"
 	aside=true
-	noblock=true
 >}}
 
 >Op een overmatige manier staan we toe dat Google voor ons bepaalt wat belangrijk is, wat nieuws is en wat waarheid is op het web en in de werkelijkheid. Vandaag de dag vervult Google de rol van de alwetende (_Google Search_), alziende (_Google Earth_), almachtige (_Google's DeepMind_) en albarmhartige (_Google Assistant_).
@@ -77,7 +75,6 @@ Dit raamwerk van schaamte verklaart waarom aardige, veelbelovende studenten uit 
 	text="Alles is gereduceerd tot het meest basale: water, slaap en seks, om als puntje bij paaltje komt te vervallen in pure dierlijkheid."
 	author="Augusto Del Noce"
 	aside=true
-	noblock=true
 >}}
 
 >Als gevolg daarvan wordt alles overgeleverd aan de nering. Het verdwijnen van zedelijkheid staat hier symbool voor. Alles is gereduceerd tot het meest basale: water, slaap en seks, om als puntje bij paaltje komt te vervallen in pure dierlijkheid.
@@ -134,11 +131,11 @@ Vanuit Heismans perspectief Heeft de bijbelse moraal de weg vrijgemaakt voor men
 Klaus Schwab wil voltooien wat de nazi’s begonnen zijn, door de technologie te misbruiken voor zijn eigen nihilistische ambities. Hij wil gebruik maken van de aanstaande biotechnische revolutie, of zoals hij het noemt, de vierde industriële revolutie. Sommige mensen hebben verbanden getrokken tussen Klaus Schwab en de nazi’s. Schwabs vader, Eugen Schwab was de directeur van een Zwitsers bedrijf genaamd Escher-Wyss AG. Escher-Wyss was marktleider in grote turbinetechnologie die gebruikt werd voor waterkrachtgeneratoren en energiecentrales, maar ze maakten ook onderdelen voor Duitse gevechtsvliegtuigen. Eugen inspireerde zijn zoons visie op publieke en private filosofie van jongs af aan. Net als Klaus en zijn concept van aandeelhouderskapitalisme zocht Eugen ook naar manieren om de aard van culturele en sociale interactie te vormen met projecten zoals het bouwen van een spoorwegtunnel die Zwitserland en Italië met elkaar verbindt. Klaus Schwab trad in zijn vaders voetsporen toen hij directeur werd van het pas gefuseerde Sulzer Esscher-Wys AG. Het bedrijf speelde een cruciale rol in de ontwikkeling van Zuid-Afrika’s illegale atoomwapenprogramma. Schwab creëerde de faciliteiten om dezelfde formule voor publiek-privaat partnerschap te promoten, zoals Escher-Wyss al eerder deed tijdens de tweede wereldoorlog en onder de apartheid. Met de vierde industriële revolutie in opmars, wil Schwab dit partnerschap naar een nieuw niveau tillen. Opkomende technologieën zoals kunstmatige intelligentie, robotica, het Internet der Dingen, zelfrijdende voertuigen, 3D printen, nanotechnologie, biotechnologie, materiaalkunde, energieopslag en kwantumcomputers zullen de grenzen tussen het fysieke, het digitale en het biologische doen vervagen. Het vermengen van mens en machine nadert dichterbij waarvoor Heisman ons al waarschuwde: het maken van een wereldwijd brein dat ontwaakt als een god.
 
 Heisman’s 1905 pagina's tellende afscheidsbrief is een verkenning van het nihilisme. Het wereldbeeld, of het gebrek daaraan, wat de zuil is die de _Great Reset_ ondersteunt. Ik geloof niet dat het waar is, maar ik geloof dat het waar kan _worden_ zolang we de natuur de baas blijven, wat het doel is van transhumanisme en dataïsme. Zelfmoord is het logische antwoord op nihilisme. Heisman vervolgt: 
+
 {{< quote
 	text="Radicaal egalitarisme leidt tot radicaal nihilisme. Wanneer iedere keuze gelijk is, is gelijkheid verenigbaar met complete willekeurigheid. Als ieder keuze gelijk is, is de keuze voor de dood gelijk aan die voor het leven."
 	author="Mitchell Heisman"
 	aside=true
-	noblock=true
 >}}
 
 >Radicaal egalitarisme leidt tot radicaal nihilisme. Wanneer iedere keuze gelijk is, is gelijkheid verenigbaar met complete willekeurigheid. Als ieder keuze gelijk is, is de keuze voor de dood gelijk aan die voor het leven.
@@ -173,7 +170,6 @@ Het verlangen naar vrijheid van het gevangen zitten in het industriële systeem 
 	text="Het wereldsysteem nadert een conditie waarin het zal worden gedomineerd door een klein groepje extreem krachtige, zichzelf in stand houdende systemen."
 	author="Ted Kaczynsky"
 	aside=true
-	noblock=true
 >}}
 
 >Het wereldsysteem nadert een conditie waarin het zal worden gedomineerd door een klein groepje extreem krachtige, zichzelf in stand houdende systemen. Deze systemen, willen ze levensvatbaar blijven, moeten met elkaar wedijveren voor macht. En dat is ook wat ze doen op korte termijn, zonder rekenschap te houden met de gevolgen op lange termijn.[^21]

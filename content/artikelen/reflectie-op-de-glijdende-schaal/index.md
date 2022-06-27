@@ -22,7 +22,6 @@ Al die identiteiten en het gezeur om discriminatie ging hem veel te ver. “Cons
 	text="Het is natuurlijk bizar dat iemand die zelf zijn of haar vrijheden opeist vervolgens arbitrair een grens trekt wanneer anderen dit doen."
 	author="Eco al-Hollandi"
 	aside=true
-	noblock=true
 >}}
 
 Maar laten we deze situatie eens onder de loep nemen. Links-progressieve kritiek op deze “conservatieve” homoseksuelen draait regelmatig om de hypocrisie die zij tentoonstellen. Ze hebben zelf ook ooit voor hun eigen vrijheden gestreden, maar willen nu de vrijheden van anderen beperken. Deze kritiek klopt volkomen. Het is natuurlijk bizar dat iemand die zelf zijn of haar vrijheden opeist vervolgens arbitrair een grens trekt wanneer anderen dit doen. En hier zien we het probleem van het centraal zetten van de begeerte van het individu.

@@ -13,7 +13,7 @@ image = "thumb.webp"
 {{< quote
 	text="Wahn! Wahn! Überall Wahn! Wohin ich forschend blick!"
 	author="Hans Sachs"
-	aside=false
+	article=true
 >}}
 
 Waan—de hedendaagse mens leeft in waan. Hij leeft in de waan van ongelovigheid, denkt dat hij bijgeloof en religieuze waan ontvlucht is. Hij zucht niet onder het juk van God of kerk en lacht om de geborneerde zielen die nog geloven dat er boven het uitspansel der hemelen een liefhebbende vader woont.[^1] Maar welk een zelfbedrog! De mens kán niet zonder geloof; en in deze slechts ogenschijnlijk goddeloze maatschappij zijn er andere goden waaraan de mens zich onderwerpt.
@@ -36,7 +36,6 @@ Maar wat een armoede is zelfs de materialistische kosmologie, die de meer dan tw
 	text="Toch is het dit troosteloze geloof, dat tot het geloof van de massa is verworden; dit geloof waarbij gedachtes en gevoelens worden teruggebracht tot de door onze hersens razende elektrische signalen die de mens alle vrijheid geeft om tot slaaf te worden van zijn eigen verlangens."
 	author="Anton Prins"
 	aside=true
-	noblock=true
 >}}
 
 Toch is het dit troosteloze geloof, dat tot het geloof van de massa is verworden; dit geloof waarbij gedachtes en gevoelens worden teruggebracht tot de door onze hersens razende elektrische signalen die de mens alle vrijheid geeft om tot slaaf te worden van zijn eigen verlangens. Hiermede heerst het ongeluk; want onze verlangens kunnen nooit vervuld worden, of in het meest optimistische geval slechts zeer tijdelijk. Uit dit ideaal zal men derhalve nooit geluk kunnen putten, en daar men tot de gloeiende hemellichamen in het zwerk niet kan bidden om hulp of troost verwordt de mens tot een ongelukkig en eenzaam wezen, minder dan stof onder de vingernagels van de hemelgoden.

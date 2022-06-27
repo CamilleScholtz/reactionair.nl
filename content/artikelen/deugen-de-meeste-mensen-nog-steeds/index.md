@@ -11,7 +11,7 @@ image = "thumb.webp"
 {{< quote
 	text="Um allein zu leben, muss man ein Thier oder ein Gott sein - sagt Aristoteles. Fehlt der dritte Fall: man muss Beides sein - Philosoph…"
 	author="Friedrich Nietzsche"
-	aside=false
+	article=true
 >}}
 
 {{< image

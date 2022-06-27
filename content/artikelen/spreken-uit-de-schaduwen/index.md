@@ -30,7 +30,6 @@ Wij zouden naar aanleiding van zowel de algemene begrenzingen van de openheid al
 	text="Anonimiteit kan zo een bevrijding vormen van deze banden die onze tong in het dagelijkse leven binden."
 	author="Anton Prins"
 	aside=true
-	noblock=true
 >}}
 
 Zo zouden wij ons echter naar de situatie schikken, terwijl het pluralistisch denken in een steeds nauwer keurslijf worden geperst. Daarom is het belangrijk dat er een uitvlucht is voor de mensen die dit steeds zwaarder wordende juk van hun schouders willen werpen. Anonimiteit kan zo een bevrijding vormen van deze banden die onze tong in het dagelijkse leven binden.

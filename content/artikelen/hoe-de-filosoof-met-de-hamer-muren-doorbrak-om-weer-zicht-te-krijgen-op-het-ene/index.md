@@ -13,7 +13,7 @@ image = "thumb.webp"
 {{< quote
 	text="Mit dem Hammer, beenden wir den Jammer"
 	author="Hauff und Henkler"
-	aside=false
+	article=true
 >}}
 
 Dynamiet, van het Griekse woord _δύναμις_, wat kracht betekent en waar ook woorden als 'dynamo' en 'dynamiek' van zijn afgeleid, werd in de jaren '60 van de 19e eeuw uitgevonden door Alfred Nobel. Waar hij eerst dacht de mensheid vooruit te helpen met deze uitvinding, die zo nuttig kan worden toegepast in bijvoorbeeld de mijnbouw en bij de aanleg van spoorwegen, kreeg hij er later spijt van toen hij de destructieve uitwerking zag in de handen van kwaadwillenden.[^1] We kunnen hier een vergelijking trekken met die wetenschappers die aan de wieg van de atoombom hebben gestaan en hier later ook ernstige wroeging over voelden. _'Now I am become death, destroyer of worlds'_ citeerde Oppenheimer de _Bhagavad gita_.[^2] Mede als boetedoening voor zijn explosieve gave aan de mensheid stelde Nobel de Nobelprijs voor de vrede in, die nu nog jaarlijks wordt uitgereikt. Dat regelrechte boeven als Kissinger en Obama hem in ontvangst hebben mogen nemen, laten we nu even voor wat het is.

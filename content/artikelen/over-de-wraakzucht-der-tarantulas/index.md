@@ -23,7 +23,6 @@ Aanschouw, dit is het hol van de tarantula! Wilt gij haar zelf zien? Hier hangt 
 	text="Juist dat is onze gerechtigheid, dat de ganse wereld vol wordt van de stormen van onze wraak."
 	author="De tarantula’s"
 	aside=true
-	noblock=true
 >}}
 
 Zo spreekt ik tot u lieden met een gelijkenis, die uw zielen duizelig maakt, gij predikanten van gelijkheid! Tarantula's zijt gij voor mij en verholen wraakzuchtigen! Maar ik wil uw verholenheid aan het licht brengen: daarom lach ik mijn gelach vanuit de hoogten bij u lieden in het gelaat. Daarom trek ik aan uw web, zodat uw woede u uit uw leugenholen lokt en uw wraak naar voren springt vanachter uw woord 'gerechtigheid'. Want dat de mens verlost wordt van de wraak: dat is voor mij de brug naar de hoogste hoop en een regenboog na lange stormen. Maar zo willen de tarantula's het niet. 'Juist dat is onze gerechtigheid, dat de ganse wereld vol wordt van de stormen van onze wraak' - zo spreken ze onder elkander. 'Wraak willen wij uitoefenen en allen beschimpen die niet zo zijn als wij' - dat is de gelofte van de tarantulaharten. 'En 'de wil tot Gelijkheid' - juist dat zal voortaan de naam voor deugdzaamheid worden; en tegen alles wat macht heeft, zullen wij onze klaaglijke stemmen verheffen!'
@@ -38,7 +37,6 @@ Mijn vrienden, ik wil niet vermengd en verwisseld worden. Er zijn er die mijn le
 	text="De mensen zijn niet gelijk."
 	author="De gerechtigheid"
 	aside=true
-	noblock=true
 >}}
 
 Met deze predikanten der gelijkheid wil ik niet vermengd of verwisseld worden. Want zo spreekt de gerechtigheid tot mij: 'de mensen zijn niet gelijk'. En ze worden het ook niet! Wat was mijn liefde tot de Supermens (_Übermensch_) als ik anders sprak? Op duizend bruggen en steigers zullen zij zich naar de toekomst dringen, en steeds meer oorlog en ongelijkheid zal er tussen hen zijn: zo doet mijn grote liefde mij spreken! Uitvinders van beelden en geesten zullen ze worden in hun vijandschappen, en met hun beelden en geesten zullen zij de hoogste strijd nog tegen elkander strijden! Goed en kwaad en rijk en arm en hoog en nederig en alle namen van waarden: wapenen zullen het zijn en rinkelende merktekenen daarvan dat het leven zichzelf altijd weer overwinnen moet! In de hoogte wil het zich bouwen met pijlers en trappen, het leven zelf: in weidse verten wil het blikken en uitzien naar zalige schoonheden - daarom heeft het hoogte nodig! En omdat het hoogte nodig heeft, heeft het trappen nodig en tegenspraak tussen trappen en klimmers! Klimmen wil het leven en klimmend zich overwinnen.

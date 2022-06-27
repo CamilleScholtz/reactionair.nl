@@ -15,7 +15,7 @@ _Ik ben niet gelovig, maar..._ Dit type persoon heeft vaak een mening over mooie
 {{< quote
 	text="Ik ben niet bijzonder gelovig, maar ik ben hiermee opgevoed en deze prachtig gezongen kerstliederen in een galmende kerk geven me rillingen, zo mooi :)"
 	author="Opmerking op YouTube"
-	aside=false
+	article=true
 >}}
 
 

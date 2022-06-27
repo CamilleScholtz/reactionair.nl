@@ -12,7 +12,7 @@ image = "thumb.webp"
 {{< quote
 	text="Über die Grenzen des All blicktest du sinnend hinaus; / Hattest nie Sorge um Hof und Haus! / Leben und Traum vom Leben, plötzlich ist alles aus – / Über die Grenzen des All blickst du noch sinnend hinaus!"
 	author="Peter Altenberg"
-	aside=false
+	article=true
 >}}
 
 "De minister van oorlog wil Schönbergs muziek gebruiken tegen de horden Serviërs die onze grenzen bedreigen", zo schreef de criticus Hans Liebstöckl over Schönbergs muziek. Het is een houding die sinds jaar en dag heerst tegenover de Oostenrijkse componist Arnold Schönberg. Hij wordt door velen beschouwd als een revolutionair die de oude muzikale traditie sinds Bach ten val bracht en de weg vrijmaakte voor modernisten als Ligeti, John Cage en Boulez. Dit beeld van Schönberg is zodanig veelvoorkomend onder muziekliefhebbers dat velen met een boog om de componist en zijn muziek heenlopen. In behoudendere sferen lijkt hij zelfs te worden aangezien voor niets minder dan een poortwachter die de hellepoorten ontsloot aan het begin van de vorige eeuw en hiermede het grote onheil van het modernisme over de muziek uitstortte—een Adrian Leverkühn in levenden lijve.[^1]
