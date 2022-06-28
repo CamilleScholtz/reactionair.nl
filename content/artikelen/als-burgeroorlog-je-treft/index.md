@@ -6,7 +6,7 @@ date = "2022-06-28"
 themas = "Politiek & Actualiteit"
 question = "Wat zijn uw gedachten over dit artikel?"
 image = "thumbo.jpg"
-anchor = "Smart"
+anchor = "Top"
 +++
 Gert Jan Segers, (ja de windvaan CU-leider) sprak recent over een burgeroorlog die zou kunnen volgen uit het belachelijke stikstofbeleid en de aanvallen op het boerenbestaan. Burgeroorlog in ons polderland? Rutte-Kaag maken het mogelijk blijkbaar.
 
