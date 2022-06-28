@@ -1,6 +1,6 @@
 +++
-title = "Als burgeroorlog je treft "
-subtitle = "Behoudt je principes, gezin, bezit en geloof!"
+title = "Als burgeroorlog je treft"
+subtitle = "Behoud je principes, gezin, bezit en geloof!"
 auteurs = ["Sanura"]
 date = "2022-06-28"
 themas = "Politiek & Actualiteit"
@@ -8,11 +8,13 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "thumbo.jpg"
 anchor = "Top"
 +++
-Gert Jan Segers, (ja de windvaan CU-leider) sprak recent over een burgeroorlog die zou kunnen volgen uit het belachelijke stikstofbeleid en de aanvallen op het boerenbestaan. Burgeroorlog in ons polderland? Rutte-Kaag maken het mogelijk blijkbaar.
+
+
+Gert-Jan Segers, (ja, die windvaan van een CU-leider) sprak recent over een burgeroorlog die zou kunnen volgen uit het belachelijke stikstofbeleid en de aanvallen op het boerenbestaan. Burgeroorlog in ons polderland? Rutte-Kaag maakt het mogelijk blijkbaar.
 
 {{< image caption="Caïn et Abel, door Odilon Redon." >}}
 
-De dreiging van burgeroorlog waaide vorig jaar al over Frankrijk, in Hongarije tijdens de recente verkiezingen, en natuurlijk Spanje. De stormwolken drijven weer over Europa en nu is het onze beurt. 
+De dreiging van burgeroorlog waaide vorig jaar al over Frankrijk, in Hongarije tijdens de recente verkiezingen en natuurlijk Spanje. De stormwolken drijven weer over Europa en nu is het onze beurt. 
 
 In Spanje bestond de dreiging van burgeroorlog al in 1931, maar er waren alleen maar incidenten tot 1936. Kleine vuurtjes vóór de alles vernietigende brand. We moeten valse alarmen verdragen totdat de storm toeslaat.
 
