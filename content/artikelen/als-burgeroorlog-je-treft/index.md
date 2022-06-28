@@ -1,5 +1,5 @@
 +++
-title = "Als burgeroorlog je treft"
+title = "Als burgeroorlog je treft "
 subtitle = "Behoud je principes, gezin, bezit en geloof!"
 auteurs = ["Sanura"]
 date = "2022-06-28"
@@ -8,15 +8,13 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "thumbo.jpg"
 anchor = "Top"
 +++
-
-
 Gert-Jan Segers, (ja, die windvaan van een CU-leider) sprak recent over een burgeroorlog die zou kunnen volgen uit het belachelijke stikstofbeleid en de aanvallen op het boerenbestaan. Burgeroorlog in ons polderland? Rutte-Kaag maakt het mogelijk blijkbaar.
 
 {{< image caption="Caïn et Abel, door Odilon Redon." >}}
 
 De dreiging van burgeroorlog waaide vorig jaar al over Frankrijk, in Hongarije tijdens de recente verkiezingen en natuurlijk Spanje. De stormwolken drijven weer over Europa en nu is het onze beurt. 
 
-In Spanje bestond de dreiging van burgeroorlog al in 1931, maar er waren alleen maar incidenten tot 1936. Kleine vuurtjes vóór de alles vernietigende brand. We moeten valse alarmen verdragen totdat de storm toeslaat.
+In Spanje bestond de dreiging van burgeroorlog al in 1931, maar er waren alleen maar incidenten tot 1936. Kleine vuurtjes vóór de allesvernietigende brand. We moeten valse alarmen verdragen totdat de storm toeslaat.
 
 Maar wat doe je wanneer het dan eindelijk gebeurt? Wat doe ik? Wat overkomt ons precies? Hoe overleef je? Hoe overleeft je ziel? Wat is het belangrijkste? Voor de egoïst zichzelf in leven houden en voor de iets beschaafdere persoon zijn familie. Voor de moralist het behoud van je principes, de bescherming van onschuldigen en het weerstaan van het kwaad. Voor de traditionalistische nationalist hetzelfde, plus zijn land.
 
@@ -33,11 +31,11 @@ Oorlog toont wie mensen echt zijn, of, in sommige gevallen, geeft het ze de kans
 
 Burgerloog is oorlog in het kwadraat. De ene dag groet jij je buurman nog vriendelijk, de volgende dag vermoordt hij je, martelt je zoon of verkracht je dochter
 
-Angst, chaos en adrenaline brengen de duisternis in mensen aan het licht. Propaganda en groepsdruk laten mensen hun geweten en zelfs 2+2=4 vergeten. Wat de ene dag onmogelijk lijkt, is de volgende dag juist normaal. Er komt nooit vaccinatiedwang…nee het is toch nodig; we willen een constitutionele monarchie… Lodewijk XVI en zijn vrouw moeten dood.
+Angst, chaos en adrenaline brengen de duisternis in mensen aan het licht. Propaganda en groepsdruk laten mensen hun geweten en zelfs 2+2=4 vergeten. Wat de ene dag onmogelijk lijkt, is de volgende dag juist normaal. Er komt nooit vaccinatiedwang… nee, het is toch nodig; we willen een constitutionele monarchie… Lodewijk XVI en zijn vrouw moeten dood.
 
-In vredestijd denken we allemaal graag, dat we tijdens de oorlog in het verzet hadden gezeten. Maar de meeste Oost-Duitsers ging in 1942 met het nazisme mee, en in 1946 met het communisme. 
+In vredestijd denken we allemaal graag dat we tijdens de oorlog in het verzet hadden gezeten. Maar de meeste oost-Duitsers ging in 1942 met het nazisme mee, en in 1946 met het communisme. 
 
-Wie blijkt geen meeloper te zijn? En wat betreft het andere uiterste, wie een bloeddorstige fanaticus? Als je strijd tegen communisten of nazi’s die je gezin en bezit bedreigen zou je hen alleen doden als het absoluut nodig is, of ook voor een wreed avontuur? Zou je aan martelen doen? Veroordeel je wel altijd seksueel geweld als het gaat om vrouwen van de vijand?
+Wie blijkt geen meeloper te zijn? En wat betreft het andere uiterste, wie een bloeddorstige fanaticus? Als je strijdt tegen communisten of nazi’s die je gezin en bezit bedreigen zou je hen alleen doden als het absoluut nodig is of ook voor een wreed avontuur? Zou je aan martelen doen? Veroordeel je wel altijd seksueel geweld als het gaat om vrouwen van de vijand?
 
 Hoe vergroot je de kans dat je een held zal zijn of in ieder geval een beschaafd mens zal zijn tijdens een (burger)oorlog? Ben je bereid mensen te beschermen en levens te redden?
 
@@ -48,7 +46,7 @@ Alhoewel groepsdruk, propaganda en een gebrek aan zelfstandig kritisch denken me
 
 Het feit dat atomair individualisme tegenwoordig tot dogma is verheven, terwijl (traditionele) groepsgemeenschappen (behalve de staat natuurlijk) ketters zijn verklaard, laat de paradox zien van individualisme dat gepusht wordt door de groep, op dezelfde wijze als totalitair ‘liberalisme’. 
 
-De vrijzinnigen, agnosten en relativisten gaan juist vaak met de waan van de dag mee. Je moet immers meegaan met je tijd. Als deze vooruitgang totalitair, socialistisch, nationaalsocialistisch of communistisch wordt gaan de (sociale) individuen hier maar als te gewillig in mee. Individualistisch liberalisme biedt zelden een effectief tegengif tegen massahysterie. Het biedt nog minder uithoudingsvermogen. 
+De vrijzinnigen, agnosten en relativisten gaan juist vaak met de waan van de dag mee. Je moet immers meegaan met je tijd. Als deze vooruitgang totalitair, socialistisch, nationaal-socialistisch of communistisch wordt gaan de (sociale) individuen hier maar als te gewillig in mee. Individualistisch liberalisme biedt zelden een effectief tegengif tegen massahysterie. Het biedt nog minder uithoudingsvermogen. 
 
 De simpele dingen in het leven, genieten van muziek en de natuur, dat deden de ergste kampbeulen ook. Hedonisme en onverschilligheid bieden dus ook al geen houvast.
 
@@ -65,8 +63,8 @@ Gaat het om geloof in onveranderlijke waarheden? Om wijsheid? Intellectuele inzi
 
 Uiteindelijk is er maar één echte oplossing. We moeten een heldere visie hebben en een duidelijk voornemen. Weten waar we voor staan, waar we toe bereid zijn en wat onze grenzen zijn. En dit moet stevig verankerd zijn. En met onze wilskracht en alertheid moeten we elke groepsdruk, propaganda, rancune, wraakgierigheid en lafheid weerstaan. 
 
-Daarnaast moeten we onszelf kennen. Weten we of we in staat zijn om te vechten of niet, en zo ja, het alleen voor de juist doeleinden. Sterk zijn zonder bruut te worden en mild zijn zonder zwak te lijken.
+Daarnaast moeten we onszelf kennen. Weten we of we in staat zijn om te vechten of niet, en zo ja, alleen voor de juist doeleinden. Sterk zijn zonder bruut te worden en mild zijn zonder zwak te lijken.
 
-Het was juist een bisschop, Marcelino Olaechea, die na de Spaanse burgeroorlog uiteindelijk pleitte voor een einde aan de slachtpartij tegen de vijanden van de kerk, ondanks de afschuwelijke vervolgingen die d Kerk te verduren had gehad.
+Het was juist een bisschop, Marcelino Olaechea, die na de Spaanse burgeroorlog uiteindelijk pleitte voor een einde aan de slachtpartij tegen de vijanden van de kerk, ondanks de afschuwelijke vervolgingen die de kerk te verduren had gehad.
 
 Het redden van een leven is uiteindelijk veel moeilijker dan het vernietigen van een leven. Je moet kunnen vechten voor je land zonder het te verscheuren en oorlog voeren met oog op een betere vrede.
