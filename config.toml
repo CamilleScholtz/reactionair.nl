@@ -9,6 +9,8 @@ paginatePath = "pagina"
 
 removePathAccents = true
 
+enableRobotsTXT = true
+
 ignoreErrors = ["error-output-taxonomy"]
 
 [taxonomies]
