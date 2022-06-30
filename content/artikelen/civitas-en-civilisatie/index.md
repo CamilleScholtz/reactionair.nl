@@ -38,7 +38,7 @@ Civitas vergt eerbied voor de voorouders der stad. Op zeker moment moeten wij de
 
 We kunnen geschikte plekken hiervoor vinden in de minder geciviliseerde uithoeken van de wereld. De geciviliseerde delen van de wereld zijn nu louter nog gedomesticeerd. Zie dit, want nergens is er civitas onder de mensen. Geen werkelijke civitas althans, maar slechts een weerklank ervan, het nabeeld van goede wil jegens zijn buren maar nooit de wil om ten strijde te trekken voor jouw stad tegen anderen. Maar dit is een historische aberratie die niet zal beklijven. Op een dag zal civitas terugkeren tot de westerse wereld, zo niet door mannen met visie, dan toch uit noodzaak tegen zijn vijanden!
 
-Dit voert ons tot het voornaamste punt aangaande de aard van de civiele deugd: de kerneenheid van civitas zonder welke het niet kan functioneren is vriendschap tussen mannen. Dat is wat de Indo-Europese *kóryos* (5: groep van jonge vrijgezellen die bij wijze van rite de passage enige jaren krijgsdienst deden ten behoeve van de gemeenschap, we zouden dit kunnen zien als een vroege vorm van dienstplicht) bindt en de stadstaat even zo. Ook dit is een reden dat mannen tegenwoordig onder vuur liggen. Een stad bewoond door mannen die onderling loyaliteit voelen en ten opzichte van hun stad is veel moeilijker te manipuleren dan een stad van geatomiseerde eenlingen. Daarom willen de grote bureaucratieën van vandaag de dag mannen zonder vrienden, zonder vaste verblijfplaats, zonder wortels en zonder de moed te vechten.
+Dit voert ons tot het voornaamste punt aangaande de aard van de civiele deugd: de kerneenheid van civitas zonder welke het niet kan functioneren is vriendschap tussen mannen. Dat is wat de Indo-Europese *kóryos* [^5] bindt en de stadstaat even zo. Ook dit is een reden dat mannen tegenwoordig onder vuur liggen. Een stad bewoond door mannen die onderling loyaliteit voelen en ten opzichte van hun stad is veel moeilijker te manipuleren dan een stad van geatomiseerde eenlingen. Daarom willen de grote bureaucratieën van vandaag de dag mannen zonder vrienden, zonder vaste verblijfplaats, zonder wortels en zonder de moed te vechten.
 
 Alle deugden van het leven zijn met elkaar verbonden. Loyaliteit, vriendschap en civitas staan schouder aan schouder. Als je er een cultiveert, moedig je de anderen aan. Daarom moeten we primair loyaliteit aan onze vrienden betrachten en moed aan ons ideaal.
 
@@ -49,3 +49,5 @@ Zonder blijft de wereld een vormeloze grijze massa.
 [^2]: *Aeneis*, boek 7, regel 747.
 
 [^4]: Een egregoor is een spirituele entiteit die zich voedt met de energie van zijn aanbidders.
+
+[^5]: Een kóryos was een groep van jonge vrijgezellen die bij wijze van *rite de passage* enige jaren krijgsdienst deden ten behoeve van de gemeenschap. We zouden dit kunnen zien als een vroege vorm van dienstplicht.
