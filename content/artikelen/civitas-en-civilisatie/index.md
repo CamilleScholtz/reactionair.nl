@@ -24,6 +24,8 @@ Nee, authentieke civitas moet van binnenuit komen. Civitas is de deugd die dorpe
 
 Athene werd bestuurd door de Eupatridai (letterlijk: uit goede vaders geborenen), krachtige mannen die de geest van de stad levend hielden, de economie vergrootten en oorlogen aanvoerden om de stad te verdedigen, tot op het bot loyaal aan de plaats die zij bestuurden door hun civitas (Grieks: arète). Later vervulden de Pentekosiomedimnoi (vijfhonderd schepelmannen) dezelfde rol. De bereidheid van de edelman om de stad en zijn idealen overeind te houden, is het eerste kenmerk van civitas. De stad is niet opgebouwd rondom gemakzucht en wordt niet op een passieve, trage, afwachtende manier geleid. Nee, het doel ervan ervan is een droom te vervullen en daarom moet het leiderschap actief, kordaat en krachtig zijn. Deze deugden zijn alleen kenmerkend voor de meest deugdzame mannen van de samenleving, niet voor de onderklasse. Maar de onderklasse wordt geladen met de energie en doelgerichtheid van de leiders en wordt op die manier boven zichzelf uitgetild.
 
+{{< image caption="Perikles houdt de begrafenisrede waarin hij zijn lof spreekt over het Atheense ideaal, door Philipp Foltz"undefinedundefined >}}
+
 Maar veel steden uit de antieke oudheid en nog meer in de moderne tijd zijn verstoken van de geest van civilisatie. Geen deugdzame leiders en daarom geen deugdzaam volk. Hele naties moeten het zonder civitas stellen en hebben geen echte steden. Stedelijke huisvesting verwordt tot slavenvertrekken voor het mondiale financiële grootkapitaal.
 
 We kennen allemaal de beelden uit China van het peutertje dat wordt aangereden door een vrachtwagen en  vervolgens uren hulpeloos op straat ligt zonder dat iemand een vinger naar het kind uitsteekt [^3]. Is dat hoe civitas eruit ziet?
