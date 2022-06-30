@@ -8,7 +8,7 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "discurso_funebre_pericles.png"
 anchor = "Smart"
 +++
-*Dit artikel is een vertaling en bewerking van een twitterdraad van Mac Finn (@ogmios). Hoewel ‘beschaving’ de gangbare vertaling is van het Engelse woord ‘civilization’, hier zelfs Amerikaans gespeld, heb ik er toch voor gekozen het te vertalen met ‘civilisatie’ omwille van etymologie. Dit riekt weliswaar naar een anglicisme, maar het is niettemin een licht archaïsch, maar daarom niet minder deugdelijk Nederlands woord van Latijnse oorsprong. De originele draad is [hier ](https://twitter.com/ogmios/status/1541900763705872385)te vinden*
+*Dit artikel is een vertaling en bewerking van een twitterdraad van Mac Finn (@ogmios). Hoewel ‘beschaving’ de gangbare vertaling is van het Engelse woord ‘civilization’, hier zelfs Amerikaans gespeld, heb ik er toch voor gekozen het te vertalen met ‘civilisatie’ omwille van etymologie. Dit riekt weliswaar naar een anglicisme, maar het is niettemin een licht archaïsch, maar daarom niet minder deugdelijk Nederlands woord van Latijnse oorsprong. De originele draad is [hier](https://twitter.com/ogmios/status/1541900763705872385) te vinden*
 
 {{< quote
 	text="Chinezen hebben altijd in huizen gewoond inderdaad, als dat alles is wat je bedoelt met ‘civilisatie’."
@@ -26,7 +26,7 @@ Nee, authentieke civitas moet van binnenuit komen. Civitas is de deugd die dorpe
 
 Athene werd bestuurd door de *Eupatridai* (letterlijk: uit goede vaders geborenen), krachtige mannen die de geest van de stad levend hielden, de economie vergrootten en oorlogen aanvoerden om de stad te verdedigen, tot op het bot loyaal aan de plaats die zij bestuurden door hun civitas (Grieks: *arète*). Later vervulden de *Pentekosiomedimnoi* (vijfhonderdschepelmannen) dezelfde rol. De bereidheid van de edelman om de stad en zijn idealen overeind te houden, is het eerste kenmerk van civitas. De stad is niet opgebouwd rondom gemakzucht en wordt niet op een passieve, trage, afwachtende manier geleid. Nee, het doel ervan ervan is een droom te vervullen en daarom moet het leiderschap actief, kordaat en krachtig zijn. Deze deugden zijn alleen kenmerkend voor de meest deugdzame mannen van de samenleving, niet voor de onderklasse. Maar de onderklasse wordt geladen met de energie en doelgerichtheid van de leiders en wordt op die manier boven zichzelf uitgetild.
 
-{{< image caption="Perikles houdt de begrafenisrede waarin hij zijn lof spreekt over het Atheense ideaal, door Philipp Foltz"nullnull >}}
+{{< image caption="Perikles houdt de begrafenisrede waarin hij zijn lof spreekt over het Atheense ideaal, door Philipp Foltz" >}}
 
 Maar veel steden uit de antieke oudheid en nog meer in de moderne tijd zijn verstoken van de geest van civilisatie. Geen deugdzame leiders en daarom geen deugdzaam volk. Hele naties moeten het zonder civitas stellen en hebben geen echte steden. Stedelijke huisvesting verwordt tot slavenvertrekken voor het mondiale financiële grootkapitaal.
 
@@ -47,9 +47,6 @@ Alle deugden van het leven zijn met elkaar verbonden. Loyaliteit, vriendschap en
 Zonder blijft de wereld een vormeloze grijze massa.
 
 [^1]: Bronze age pervert is de pseudonieme auteur van de neo-vitalistische culthit *‘Bronze age mindset’*.
-
 [^2]: *Aeneis*, boek 7, regel 747.
-
 [^4]: Een egregoor is een spirituele entiteit die zich voedt met de energie van zijn aanbidders.
-
 [^5]: Een kóryos was een groep van jonge vrijgezellen die bij wijze van *rite de passage* enige jaren krijgsdienst deden ten behoeve van de gemeenschap. We zouden dit kunnen zien als een vroege vorm van dienstplicht.
