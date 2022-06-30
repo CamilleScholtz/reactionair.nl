@@ -46,8 +46,6 @@ Zonder blijft de wereld een vormeloze grijze massa.
 
 [^1]: Bronze age pervert is de pseudonieme auteur van de neo-vitalistische culthit *‘Bronze age mindset’*.
 
-[^2]: Aeneis, boek 7, regel 747.
-
-[^3]: https://en.wikipedia.org/wiki/Death_of_Wang_Yue 
+[^2]: *Aeneis*, boek 7, regel 747.
 
 [^4]: Een egregoor is een spirituele entiteit die zich voedt met de energie van zijn aanbidders.
