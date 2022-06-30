@@ -28,7 +28,7 @@ Athene werd bestuurd door de Eupatridai (letterlijk: uit goede vaders geborenen)
 
 Maar veel steden uit de antieke oudheid en nog meer in de moderne tijd zijn verstoken van de geest van civilisatie. Geen deugdzame leiders en daarom geen deugdzaam volk. Hele naties moeten het zonder civitas stellen en hebben geen echte steden. Stedelijke huisvesting verwordt tot slavenvertrekken voor het mondiale financiële grootkapitaal.
 
-We kennen allemaal de beelden uit China van het peutertje dat wordt aangereden door een vrachtwagen en  vervolgens uren hulpeloos op straat ligt zonder dat iemand een vinger naar het kind uitsteekt [^3]. Is dat hoe civitas eruit ziet?
+We kennen allemaal de beelden uit China van het peutertje dat wordt aangereden door een vrachtwagen en  vervolgens uren hulpeloos op straat ligt zonder dat iemand een vinger naar het kind uitsteekt [^3](https://en.wikipedia.org/wiki/Death_of_Wang_Yue.). Is dat hoe civitas eruit ziet?
 
 Bronze age pervert zegt dat China nooit het niveau van civilisatie heeft bereikt. Ik weet onvoldoende over de geschiedenis van China om een definitief oordeel te vellen, maar het heeft er inderdaad de schijn van dat de westerse eerbied voor menselijk leven en individuele prestaties geen opgeld doet in het centrale koninkrijk. Bronze age pervert heeft gelijk dat om de zoveel eeuwen een zuivering plaatsvindt waarbij miljoenen om het leven komen, waarna mensen weer gaan vissen en boeren alsof er niets is gebeurd. Is oriëntaals leven niet meer dan een gehaktmolen om een nationaal egregoor [^4] te voeden? Droomt de gewone man van de glorie van zijn stad? Opnieuw kan ik hier niet over oordelen, maar het heeft er wel de schijn van. Urbanisme-als-slavenhouderij lijkt op te gaan voor het leeuwendeel van Afrika en Azie. Europa en Amerika in het bijzonder hadden daarentegen geweldige civitas in hun mannen tot ongeveer een eeuw geleden. Heden ten dage is het nagenoeg verdwenen.
 
@@ -48,6 +48,6 @@ Zonder blijft de wereld een vormeloze grijze massa.
 
 [^2]: Aeneis, boek 7, regel 747.
 
-[^3]: https://en.wikipedia.org/wiki/Death_of_Wang_Yue.
+[^3]: https://en.wikipedia.org/wiki/Death_of_Wang_Yue
 
 [^4]: Een egregoor is een spirituele entiteit die zich voedt met de energie van zijn aanbidders.
