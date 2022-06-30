@@ -1,6 +1,6 @@
 +++
 title = "O Crux ave, spes unica"
-subtitle = "een jongeman verloren in de ruïnes van de occidentale wereld"
+subtitle = "Een jongeman verloren in de ruïnes van de occidentale wereld"
 auteurs = ["Redactie"]
 date = "2022-06-29"
 themas = "Religie & Metafysica"
