@@ -7,7 +7,7 @@ themas = "Politiek & Actualiteit"
 dossiers = ["Klimaatverandering"]
 question = "Wat zijn uw gedachten over dit artikel?"
 image = "x22075-tif.jpeg"
-anchor = "Smart"
+anchor = "Bottom"
 +++
 Vandaag wil ik met een rechtse mythe afrekenen: Het idee dat de stikstofcrisis alleen op papier bestaat en er een soort complot bekokstooft wordt vanuit de regering om de veeteelt om zeep te helpen, met als doel ruimte te scheppen voor nieuwe woningen. Dit idee is dus je reinste flauwekul.
 
