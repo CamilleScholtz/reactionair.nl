@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-	<meta charset="utf-8" />
+		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Inhoudsbeheer</title>
 
@@ -51,25 +51,26 @@
 				fromBlock: (match) => {
 					return {
 						caption: match.groups.caption,
-						license: match.groups.license,
-						src:     match.groups.src,
+						license: match.groups.license ?? null,
+						...(typeof match.groups.license === 'string' && {license: match.groups.license}),
+						...(typeof match.groups.src     === 'string' && {license: match.groups.src}),
 					};
 				},
 
 				toBlock: (obj) => {
-					let prefix  = ' ';
-					let postfix = ' ';
-					let src     = '';
-					let license = '';
+					let prefix  = " ";
+					let postfix = " ";
+					let src     = "";
+					let license = "";
 
 					if (obj.src) {
-						prefix  = '\n\t';
-						postfix = '\n';
+						prefix  = "\n\t";
+						postfix = "\n";
 						src     = `\n\tsrc="${obj.src}`;
 					}
 					if (obj.license) {
-						prefix  = '\n\t';
-						postfix = '\n';
+						prefix  = "?\n\t";
+						postfix = "\n";
 						article = `\n\tlicense="${obj.license}"`;
 					}
 				
@@ -121,8 +122,8 @@
 					widget: "string",
 				},
 				{
-					name: "aside",
-					label: "Tonen in zijbalk",
+					name:   "aside",
+					label:  "Tonen in zijbalk",
 					widget: "boolean",
 				},
 				{

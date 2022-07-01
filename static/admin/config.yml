@@ -10,6 +10,9 @@ publish_mode: "editorial_workflow"
 show_preview_links: false
 search: false
 
+editor:
+  preview: false
+
 media_folder: ""
 public_folder: ""
 
@@ -21,9 +24,6 @@ locale: "nl"
 slug:
   encoding: "ascii"
   clean_accents: true
-
-editor:
-  preview: false
 
 collections:
   - name: "artikelen"
@@ -124,7 +124,6 @@ collections:
     label_singular: "Dossier"
     folder: "content/dossiers"
     path: "{{slug}}/_index"
-    preview_path: "dossiers/{{slug}}/"
     format: "toml-frontmatter"
     create: true
     delete: false
