@@ -5,7 +5,7 @@ auteurs = ["Rintrah Radagast"]
 date = "2022-07-01"
 themas = "Politiek & Actualiteit"
 dossiers = ["Klimaatverandering"]
-question = "Wat zijn uw gedachten over de boeren?"
+question = "Wat zijn uw gedachten over dit artikel?"
 image = "x22075-tif.jpeg"
 anchor = "Smart"
 +++
