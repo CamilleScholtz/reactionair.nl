@@ -48,5 +48,6 @@ Zonder blijft de wereld een vormeloze grijze massa.
 
 [^1]: Bronze age pervert is de pseudonieme auteur van de neo-vitalistische culthit *‘Bronze age mindset’*.
 [^2]: *Aeneis*, boek 7, regel 747.
+[^3]: Wikipedia, *[Death of Wang Yue](https://en.wikipedia.org/wiki/Death_of_Wang_Yue)*.
 [^4]: Een egregoor is een spirituele entiteit die zich voedt met de energie van zijn aanbidders.
 [^5]: Een kóryos was een groep van jonge vrijgezellen die bij wijze van *rite de passage* enige jaren krijgsdienst deden ten behoeve van de gemeenschap. We zouden dit kunnen zien als een vroege vorm van dienstplicht.
