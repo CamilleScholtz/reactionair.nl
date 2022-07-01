@@ -1,6 +1,6 @@
 +++
 title = "Tegen de fetisj voor boeren op rechts"
-subtitle = "TODO"
+subtitle = "Hoe conservatief sentimentalisme is uitgegroeid tot de belangrijkste melkkoe voor de Nederlandse veeboer"
 auteurs = ["Rintrah Radagast"]
 date = "2022-07-01"
 themas = "Politiek & Actualiteit"
@@ -11,7 +11,7 @@ anchor = "Smart"
 +++
 Vandaag wil ik met een rechtse mythe afrekenen: Het idee dat de stikstof crisis alleen op papier bestaat en er een soort complot bekokstooft wordt vanuit de regering om de veeteelt om zeep te helpen, met als doel ruimte te scheppen voor nieuwe woningen. Dit idee is dus je reinste flauwekul.
 
-{{< image caption="Landschap met wilgen aan het Gein, Piet Mondriaan." >}}
+{{< image caption="Landschap met wilgen aan het Gein, Piet Mondriaan."undefinednull >}}
 
 Allereerst lopen we tegen het probleem aan dat er sprake zou moeten zijn van een complot dat de scheiding der machten overstijgt. Het kabinet moet de rechterlijke macht zo om haar vinger gewonden hebben dat een rechter een uitspraak doet waardoor de bouw stil kwam te liggen en het voor de VVD vernederende besluit genomen moest worden om de maximum snelheid op de snelwegen te verlagen, met als hoger overkoepelend doel om het kabinet een excuus te geven de boeren te onteigenen.
 
@@ -39,7 +39,7 @@ Maar wie zegt dat de stikstofuitstoot echt een probleem is? Het meest voor de ha
 
 Hoewel ik vaak zie dat mensen claimen dat de opwarming wel mee zal vallen, zijn deze mensen zich er meestal niet van bewust dat diezelfde uitstoot ook de oceaan verzuurt. Ik heb nog nooit meegemaakt dat iemand de opwarming bagatelliseerde maar vervolgens van mening veranderde toen hij ontdekte dat de verzuring van de oceaan ook problemen oplevert, meestal zoeken ze snel ergens een artikel in een poging om dat ook te ontkrachten wanneer ik het ter sprake breng.
 
-Het idee dat hier dus oprecht sprake is van een verschil van inzicht mbt de onderliggende wetenschap vind ik niet geloofwaardig. Als je zowel overtuigd bent dat de opwarming van de aarde geen daadwerkelijk probleem is, als dat de verzuring van de oceaan geen probleem is, als dat de stikstofcrisis alleen een crisis op papier is en dan meestal ook nog gelooft dat het opraken van de fossiele brandstoffen ook geen acuut probleem is, dan denk ik dat een inhoudelijke discussie over de onderliggende wetenschappelijke feiten weinig nut gaat hebben. Het draait er dan waarschijnlijk gewoon om dat de implicaties van deze problemen botsen met je eigen wereldbeeld, waardoor bewijs je niet zal overtuigen.
+Het idee dat hier dus oprecht sprake is van een verschil van inzicht met betrekking tot de onderliggende wetenschap vind ik niet geloofwaardig. Als je zowel overtuigd bent dat de opwarming van de aarde geen daadwerkelijk probleem is, als dat de verzuring van de oceaan geen probleem is, als dat de stikstofcrisis alleen een crisis op papier is en dan meestal ook nog gelooft dat het opraken van de fossiele brandstoffen ook geen acuut probleem is, dan denk ik dat een inhoudelijke discussie over de onderliggende wetenschappelijke feiten weinig nut gaat hebben. Het draait er dan waarschijnlijk gewoon om dat de implicaties van deze problemen botsen met je eigen wereldbeeld, waardoor bewijs je niet zal overtuigen.
 
 Maar aan een ieder die oprecht denkt dat er geen stikstof probleem is in Nederland zou ik wel willen vragen: Kijk eens gewoon om je heen. Wat zie je? Je hoeft niet naar een Natura2000 gebied te wandelen om het probleem te zien, dat zijn simpelweg de gebieden waar de regering niet ontkomt aan het probleem als gevolg van Europese wetgeving. Heel Nederland heeft ermee te maken. We zijn een land van brandnetels en bramenstruiken, met grachten en sloten waar iedere zomer honden en toeristen in vallen omdat ze het egale kroos dat het gehele oppervlakte bedekt aanzien voor gras.
 
