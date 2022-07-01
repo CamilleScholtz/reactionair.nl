@@ -1,6 +1,6 @@
 +++
 title = "Tegen de fetisj voor boeren op rechts"
-subtitle = "Hoe conservatief sentimentalisme is uitgegroeid tot de belangrijkste melkkoe voor de Nederlandse veeboer"
+subtitle = "Conservatief sentimentalisme als nieuwe melkkoe"
 auteurs = ["Rintrah Radagast"]
 date = "2022-07-01"
 themas = "Politiek & Actualiteit"
@@ -11,11 +11,11 @@ anchor = "Smart"
 +++
 Vandaag wil ik met een rechtse mythe afrekenen: Het idee dat de stikstofcrisis alleen op papier bestaat en er een soort complot bekokstooft wordt vanuit de regering om de veeteelt om zeep te helpen, met als doel ruimte te scheppen voor nieuwe woningen. Dit idee is dus je reinste flauwekul.
 
-{{< image caption="Landschap met wilgen aan het Gein, Piet Mondriaan."undefinednull >}}
+{{< image caption="Landschap met wilgen aan het Gein, Piet Mondriaan." >}}
 
 Allereerst lopen we tegen het probleem aan dat er sprake zou moeten zijn van een complot dat de scheiding der machten overstijgt. Het kabinet moet de rechterlijke macht zo om haar vinger gewonden hebben dat een rechter een uitspraak doet waardoor de bouw stil kwam te liggen en het voor de VVD vernederende besluit genomen moest worden om de maximumsnelheid op de snelwegen te verlagen, met als hoger overkoepelend doel om het kabinet een excuus te geven de boeren te onteigenen.
 
-Dan duikt de vraag op: als het doel echt is om land in te pikken, is dit dan niet een nogal omslachtige methode? De resterende varkenshouderijen in Nederland nemen zo'n 1% van ons landoppervlakte in. Het overgrote deel hiervan bevindt zich in oost-Brabant en noord-Limburg, niet bepaald de gebieden die momenteel helemaal *hot* *and happening* zijn.
+Dan duikt de vraag op: als het doel echt is om land in te pikken, is dit dan niet een nogal omslachtige methode? De resterende varkenshouderijen in Nederland nemen zo'n 1% van ons landoppervlakte in. Het overgrote deel hiervan bevindt zich in oost-Brabant en noord-Limburg, niet bepaald de gebieden die momenteel helemaal *hot and happening* zijn.
 
 De overheid hoeft helemaal geen stikstofmythe te bedenken om boeren te onteigenen. In de afgelopen 27 jaar is 1866 hectare landbouwgrond onteigend, het merendeel voor woningbouw of infrastructuur. Nog eens 15.000 hectare is opgekocht van boeren die eieren voor hun geld kozen. Zuid-Holland, onze meest dichtbevolkte provincie waar nog maar weinig boerenland over is, staat desalniettemin bovenaan het lijstje qua hoeveelheid onteigende grond.
 
