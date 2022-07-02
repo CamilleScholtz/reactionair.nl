@@ -26,7 +26,7 @@ anchor = "Center"
 
 - - -
 
-Dit artikel is een bewerking en vertaling van verschillende artikelen die te vinden zijn op de blog *Qur'anic Musings* over de samenstelling van de eerste soera (hoofdstuk, bij gebrek aan een betere term) van de Koran.[^1] Deze artikelen deden mij de schoonheid van de soera inzien en introduceerden mij ook tot het zeer interessante concept van de chiastische structuur, een literaire stijlfiguur dat ook te vinden is in vele andere oude teksten, zoals de Bijbel en de Illias.[^2]
+Dit artikel is een bewerking en vertaling van verschillende artikelen die te vinden zijn op de blog *Qur'anic Musings* over de samenstelling van de eerste soera (hoofdstuk, bij gebrek aan een betere term) van de Koran.[^1] Deze artikelen deden mij de schoonheid van de soera inzien en introduceerden mij ook tot het zeer interessante concept van de chiastische structuur, een literaire stijlfiguur dat ook te vinden is in andere oude teksten, zoals de Bijbel en de Illias.[^2]
 
 {{< image caption="Koran uit Perzië, eerste helft van de 16e eeuw." >}}
 
@@ -53,7 +53,7 @@ Een ander voorbeeld is te vinden in de tweede soera van de Koran. Die telt 286 v
 	article=true
 >}}
 
-Een chiastische structuur is ook te vinden in de *Fātiḥa*. Deze soera is samengesteld uit twee chiasmi die in een ringcompositie passen. De structuur geeft een diepgaand inzicht in de betekenis van de afzonderlijke verzen van de soera. Laten we de compositie eerst uitschetsen:
+Een chiastische structuur is ook te vinden in de *Fātiḥa*. Deze soera is samengesteld uit twee chiasmus die in een ringcompositie passen. De structuur geeft een diepgaand inzicht in de betekenis van de afzonderlijke verzen van de soera. Laten we de compositie eerst uitschetsen:
 
 > In naam van God, de Barmhartige, de Genadevolle. 
 
