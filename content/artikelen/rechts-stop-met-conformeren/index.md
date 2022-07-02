@@ -34,4 +34,4 @@ Samenvattend is het van belang om te erkennen dat er altijd een mogendheid zal z
 
 De manier voor rechtse bewegingen om het discours open te breken is door de progressieve hegemonie te verwerpen; schik je niet meer aan de opgeworpen fatsoenlijkheidskaders en probeer zelf invloed uit te oefenen op de metapolitiek. Verwerp de spelregels van het speelveld, je kan het spelletje immers niet eerlijk spelen als de parameters van de spelregels al vals zijn. Probeer daarom ook niet het zo eerlijk proberen te spelen van het spel als hoogste goed te beschouwen: dat is een gegarandeerd verlies.
 
-[^1]: Marcus Aurelius, _Meditations_.
+[^1]: Marcus Aurelius, *Meditationes*.
