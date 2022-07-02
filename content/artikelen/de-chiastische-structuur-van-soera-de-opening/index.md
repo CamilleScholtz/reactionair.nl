@@ -50,7 +50,7 @@ Een ander voorbeeld is te vinden in de tweede soera van de Koran. Die telt 286 v
 	article=true
 >}}
 
-Een chiastische structuur is ook te vinden in de *Fātiḥa*. Deze soera is samengesteld uit twee chiasmus die in een ringcompositie passen. De structuur geeft een diepgaand inzicht in de betekenis van de afzonderlijke verzen van de soera. Laten we de compositie eerst uitschetsen:
+Een chiastische structuur is ook te vinden in de *Fātiḥa*. Deze soera is samengesteld uit twee chiasmes die in een ringcompositie passen. De structuur geeft een diepgaand inzicht in de betekenis van de afzonderlijke verzen van de soera. Laten we de compositie eerst uitschetsen:
 
 > In naam van God, de Barmhartige, de Genadevolle. 
 >
@@ -67,17 +67,17 @@ Een chiastische structuur is ook te vinden in de *Fātiḥa*. Deze soera is same
 > <span style="opacity: 0.4;">—</span> <span style="color: var(--accent-color);">B'. niet dat van hen, op wie toorn is nedergedaald,</span><br>
 > <span style="color: var(--accent-color);">A'. noch dat der dwalenden.</span>
 
-Laten we beginnen met de uitleg van de eerste chiasmus (in blauw):
+Laten we beginnen met de uitleg van het eerste chiasme (in blauw):
 
 *A* beschrijft Gods relatie met mensen in deze wereld, terwijl *A'* zijn relatie met hen in het hiernamaals beschrijft. *A* gebruikt de term *rabb* (vertaald als "Heer") terwijl *A'* de term *mālik* (vertaald als "Meester") gebruikt. Dit zijn synoniemen in de Arabische taal, waarbij *mālik* een van de betekenissen van het woord *rabb* is.
 
-Het verband tussen *B* en *B'* is duidelijk. Het zijn beide namen van God die zijn barmhartigheid (*raḥma*) benadrukken. De nuance in hun betekenissen wordt echter naar voren gebracht door hun plaatsing in de chiasmus. *B* is nauw verbonden met *A*, omdat zij in de eerste plaats deze wereld betreffen. *B'* is nauw verbonden met *A'*, omdat zij in de eerste plaats de volgende wereld betreffen.
+Het verband tussen *B* en *B'* is duidelijk. Het zijn beide namen van God die zijn barmhartigheid (*raḥma*) benadrukken. De nuance in hun betekenissen wordt echter naar voren gebracht door hun plaatsing in het chiasme. *B* is nauw verbonden met *A*, omdat zij in de eerste plaats deze wereld betreffen. *B'* is nauw verbonden met *A'*, omdat zij in de eerste plaats de volgende wereld betreffen.
 
-Laten we *C-C'* even overslaan en kijken naar de tweede chiasmus (in rood):
+Laten we *C-C'* even overslaan en kijken naar het tweede chiasme (in rood):
 
 De verhouding tussen *A* en *B* is duidelijk, en de verhouding tussen *B'* en *A'* is duidelijk. De eerste betreft degenen die worden geleid, terwijl de tweede betrekking heeft op degenen zonder leiding.
 
-Wat zeer interessant is, is de relatie tussen *A* en *A'*, en *B* en *B'*. *A* heeft betrekking op leiding (*hidāya*) terwijl *A'* betrekking heeft op zijn tegenpool, misleiding/ afdwalen (*ḍalāl*). *B* betreft een klasse van mensen die *alladhīna anʿamta ʿalayhim* ("dergenen aan wie Gij gunsten hebt geschonken") genoemd wordt, terwijl *B'* een klasse van mensen betreft die *al-maghḍūbi ʿalayhim* ("degenen op wie toorn is nedergedaald") genoemd wordt. Dit zijn geen exacte antithesen, maar dit lijkt een voorbeeld te zijn van een literair apparaat dat de Koran gebruikt om twee niet geheel tegengestelde termen naast elkaar te plaatsen om zo een vergelijking in vier richtingen te creëren. De antithese van *niʿmah* ("gunst" - *B*) in het Arabisch is *niqma* ("vergelding, straf"), terwijl de antithese van *ghaḍab* ("toorn" - *B'*) *riḍā* ("voldoening") is. De implicatie is dat degenen die in aanmerking komen voor Gods gunst ook in aanmerking komen voor Zijn voldoening, terwijl degenen die Zijn toorn  hebben teweeggebracht ook Zijn vergelding hebben teweeggebracht.
+Wat zeer interessant is, is de relatie tussen *A* en *A'*, en *B* en *B'*. *A* heeft betrekking op leiding (*hidāya*) terwijl *A'* betrekking heeft op zijn tegenpool, misleiding/ afdwalen (*ḍalāl*). *B* betreft een klasse van mensen die *alladhīna anʿamta ʿalayhim* ("dergenen aan wie Gij gunsten hebt geschonken") genoemd wordt, terwijl *B'* een klasse van mensen betreft die *al-maghḍūbi ʿalayhim* ("degenen op wie toorn is nedergedaald") genoemd wordt. Dit zijn geen exacte antithesen, maar dit lijkt een voorbeeld te zijn van een literaire techniek die de Koran gebruikt om twee niet geheel tegengestelde termen naast elkaar te plaatsen om zo een vergelijking in vier richtingen te creëren. De antithese van *niʿmah* ("gunst" - *B*) in het Arabisch is *niqma* ("vergelding, straf"), terwijl de antithese van *ghaḍab* ("toorn" - *B'*) *riḍā* ("voldoening") is. De implicatie is dat degenen die in aanmerking komen voor Gods gunst ook in aanmerking komen voor Zijn voldoening, terwijl degenen die Zijn toorn  hebben teweeggebracht ook Zijn vergelding hebben teweeggebracht.
 
 Nu terugkerend naar het centrum (*C-C'*):
 
@@ -85,9 +85,9 @@ Nu terugkerend naar het centrum (*C-C'*):
 
 *C* betreft de exclusieve aanbidding van God. Kijk nu naar de hele eerste helft van de soera die eindigt met *C* - van "Alle lof zij God" tot "U alleen aanbidden wij". De hele eerste helft bestaat in feite uit precies dat: aanbidding van God.
 
-*C'* betreft het uitsluitend bidden tot God om hulp. Kijk nu naar de gehele tweede helft van de soera beginnend met *C'* - van "U alleen smeken wij om hulp" tot noch dat der dwalenden". De gehele tweede helft van de soera bestaat in feite geheel uit het bidden tot God om hulp!
+*C'* betreft het uitsluitend bidden tot God om hulp. Kijk nu naar de gehele tweede helft van de soera beginnend met *C'* - van "U alleen smeken wij om hulp" tot "noch dat der dwalenden". De gehele tweede helft van de soera bestaat in feite geheel uit het bidden tot God om hulp!
 
-De soerah heeft dus een briljante structuur, die nauw verbonden is met zijn betekenissen. Het is zo precies verwoord en gerangschikt, dat er niets aan toegevoegd of uit weggenomen zou kunnen worden, zonder de hele compositie te breken. Bovendien vat het op prachtige wijze de hoofdthema's van de Koran samen. 
+De soera heeft dus een briljante structuur, die nauw verbonden is met zijn betekenissen. Het is zo precies verwoord en gerangschikt, dat er niets aan toegevoegd of uit weggenomen zou kunnen worden, zonder de hele compositie te breken. Bovendien vat het op prachtige wijze de hoofdthema's van de Koran samen. 
 
 ### De remedie
 
@@ -104,7 +104,7 @@ Het einde van de soera verdeelt degenen die geen leiding hebben in twee groepen 
 
 De tweede groep mensen zijn zij die dwalen. In tegenstelling tot de vorige groep verwijst dit naar mensen die geen leiding hebben omdat zij niet de juiste kennis hebben over wat het Rechte Pad inhoudt.
 
-Daarom missen de twee soorten mensen die zonder leiding ofwel (1) gedegen kennis ofwel (2) gedegen handelen, dus bestaat leiding uit deze beide samen. Het gebed zelf is gestructureerd om deze beide problemen te verhelpen.  De eerste chiasmus bestaat uit gezonde kennis van God (Zijn eigenschappen), terwijl de tweede bestaat uit gezonde handeling (tot Hem komen in gebed).
+Daarom missen de twee soorten mensen die zonder leiding ofwel (1) gedegen kennis ofwel (2) gedegen handelen, dus bestaat leiding uit deze beide samen. Het gebed zelf is gestructureerd om deze beide problemen te verhelpen.  Het eerste chiasme bestaat uit gezonde kennis van God (Zijn eigenschappen), terwijl het tweede bestaat uit gezonde handeling (tot Hem komen in gebed).
 
 [^1]: Zie *[The Structure of Sūrat al-Fātiḥa (Part I)](http://quranic-musings.blogspot.com/2014/10/the-structure-of-surat-al-fatihah-part-i.html)*, en de opeenvolgende delen.
 [^2]: Voor meer over chiasmische structuren en de oude werken die er gebruik van maken, raad ik het boek *Thinking in Circles* van Mary Douglas aan.
