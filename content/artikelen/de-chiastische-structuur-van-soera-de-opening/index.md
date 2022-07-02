@@ -22,6 +22,8 @@ anchor = "Center"
 
 Dit artikel is een bewerking en vertaling van verschillende artikelen die te vinden zijn op de blog *Qur'anic Musings* over de samenstelling van de eerste soera (hoofdstuk, bij gebrek aan een betere term) van de Koran.[^1] Deze blogs deden mij de schoonheid van de soera inzien en introduceerden mij ook tot het zeer interessante concept van de chiastische structuur, een literaire stijlfiguur dat ook te vinden is in andere oude teksten, zoals de Bijbel en de Illias.[^2]
 
+{{< image caption="Koran uit Perzië, eerste helft van de 16e eeuw." >}}
+
 In het geloof en de praktijk van de moslims is de *Fātiḥa* (letterlijk "De Opening") het volmaakte gebed dat hun door God is onderwezen om te worden gereciteerd als het belangrijkste deel van het dagelijkse gebed, en het vertegenwoordigt ook een samenvatting van de hoofdthema's van de Koran, Vandaar dat het de titel *Umm al-kitāb* heeft gekregen, "Moeder van het Boek". Er is een *ḥadīth* (overlevering) die wordt toegeschreven aan Alī ibn Abī Ṭālib, waarin hij verklaart:
 
 > Weet dat alle wijsheid van de Hemelse Geschriften in de Koran is en wat in de Koran is, is in de *Fātiḥa*.[^3]
