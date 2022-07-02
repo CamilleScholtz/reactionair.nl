@@ -107,6 +107,6 @@ De tweede groep mensen zijn zij die dwalen. In tegenstelling tot de vorige groep
 Daarom missen de twee soorten mensen die zonder leiding ofwel (1) gedegen kennis ofwel (2) gedegen handelen, dus bestaat leiding uit deze beide samen. Het gebed zelf is gestructureerd om deze beide problemen te verhelpen.  Het eerste chiasme bestaat uit gezonde kennis van God (Zijn eigenschappen), terwijl het tweede bestaat uit gezonde handeling (tot Hem komen in gebed).
 
 [^1]: Zie *[The Structure of Sūrat al-Fātiḥa (Part I)](http://quranic-musings.blogspot.com/2014/10/the-structure-of-surat-al-fatihah-part-i.html)*, en de opeenvolgende delen.
-[^2]: Voor meer over chiasmische structuren en de oude werken die er gebruik van maken, raad ik het boek *Thinking in Circles* van Mary Douglas aan.
+[^2]: Voor meer over chiastische structuren en de oude werken die er gebruik van maken, raad ik het boek *Thinking in Circles* van Mary Douglas aan.
 [^3]: Dit is een deel van een *ḥadīth* overgeleverd door verschillende soefi's, en zoals vaak het geval is, wordt deze overlevering betwist door sommigen. God weet het het beste.
 [^4]: Voor meer over chiastische structuren in de Koran zie *Structure and Qur'anic Interpretation: A Study of Symmetry and Coherence in Islam's Holy Text* van Raymond Farrin. Een goede inleiding specifiek over de structuren in de tweede soera is de video *[The Remarkable Structure of the Qur'an](https://www.youtube.com/watch?v=yYY1BGKrr1E)*.
