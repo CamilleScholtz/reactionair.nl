@@ -21,10 +21,7 @@ Volgens Kant en later ook bijvoorbeeld Schopenhauer, doet de hele fenomenale wer
 
 De Franse wis- en natuurkundige Pierre-Simon Laplace had geen boodschap aan deze mystieke leer van een noumenale wereld die achter een fenomenale wereld schuil zou gaan en stelde zich het heelal voor als een volslagen gedetermineerde machine.
 
-{{< quote
-	text="“We kunnen de huidige toestand van het heelal beschouwen als het gevolg van het verleden en als de oorzaak van de toekomst. Als er een intelligentie zou zijn die, op een gegeven moment, alle krachten zou kennen die op de materie inwerken, alsook de exacte situatie van elk onderdeel van alle materie, dan zou deze alle bewegingen van de grootste hemellichamen tot het kleinste atoom kunnen omvatten, en zou er niets meer onzeker zijn voor deze intelligentie; het verleden net als de toekomst worden voor hem zichtbaar gemaakt.”"
-	author="undefined"
->}}
+> “We kunnen de huidige toestand van het heelal beschouwen als het gevolg van het verleden en als de oorzaak van de toekomst. Als er een intelligentie zou zijn die, op een gegeven moment, alle krachten zou kennen die op de materie inwerken, alsook de exacte situatie van elk onderdeel van alle materie, dan zou deze alle bewegingen van de grootste hemellichamen tot het kleinste atoom kunnen omvatten, en zou er niets meer onzeker zijn voor deze intelligentie; het verleden net als de toekomst worden voor hem zichtbaar gemaakt.”
 
 stelde hij.[^2] Deze alwetende intelligentie kwam later bekend te staan als de demoon van Laplace.
 
