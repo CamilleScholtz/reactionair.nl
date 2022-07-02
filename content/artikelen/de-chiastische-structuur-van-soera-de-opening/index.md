@@ -45,9 +45,8 @@ Een ander voorbeeld is te vinden in de tweede soera van de Koran. Die telt 286 v
 > Zo maakten Wij u tot een *midden*gemeenschap, opdat gij getuigen moogt zijn voor de mensen en opdat de boodschapper een getuige moogt zijn voor u. En Wij hebben de *qiblah* daarom veranderd, opdat men zou kunnen onderscheiden tussen hen, welke hem volgen en diegenen welke hem den rug toekeren.
 
 ### De Opening
-
 {{< quote
-	text="Ik heb het gebed in twee helften verdeeld tussen Mijzelf en Mijn slaaf, en Mijn slaaf zal krijgen waar hij om vraagt."
+	text="Ik heb het gebed tussen Mijzelf en Mijn dienaar in twee helften verdeeld, en Mijn dienaar zal bezitten hetgeen hij heeft gevraagd."
 	author="De Profeet namens God"
 	aside=true
 	article=true
