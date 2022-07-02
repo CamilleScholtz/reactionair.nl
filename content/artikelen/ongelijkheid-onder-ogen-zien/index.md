@@ -72,4 +72,4 @@ Enfin, hier kunnen we nog een heel end verder over filosoferen (we zullen wel mo
 
 [^6]: Wikipedia: *[Harmonious Society](https://en.wikipedia.org/wiki/Harmonious_Society)*
 
-[^7]: θυμός is een oud-Grieks woord dat staat voor emotie die het midden houdt tussen trots, woede, eergevoel, verlangen en geldingsdrang, maar zich ook kan uiten in bijvoorbeeld wraak. Het speelt een grote rol bij onder ander Homeros en Plato en later bij bijvoorbeeld Francis Fukuyama.
+[^7]: θυμός is een oud-Grieks woord dat staat voor emotie die het midden houdt tussen trots, woede, eergevoel, verlangen en geldingsdrang, maar zich ook kan uiten in bijvoorbeeld wraak. Het speelt een grote rol bij onder andere Homeros en Plato en later bij bijvoorbeeld Francis Fukuyama.
