@@ -9,8 +9,6 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "l19224-9m4zh-9-ksharp.jpg"
 anchor = "Center"
 +++
-
-
 <blockquote style="text-align: center; color: var(--muted-color); max-width: 90%;">
 
 <span style="color: var(--accent-color); font-size: 14px;">1.</span> In naam van God, de Barmhartige, de Genadevolle. 
@@ -21,14 +19,13 @@ anchor = "Center"
 <span style="color: var(--accent-color); margin-left: 9px; font-size: 14px;">6.</span> Leid ons op het rechte pad, 
 <span style="color: var(--accent-color); margin-left: 9px; font-size: 14px;">7.</span> Het pad dergenen, aan wie Gij gunsten hebt geschonken — niet dat van hen, op wie toorn is nedergedaald, noch dat der dwalenden.
 
-
 </blockquote>
 
 - - -
 
 Dit artikel is een bewerking en vertaling van verschillende artikelen die te vinden zijn op de blog *Qur'anic Musings* over de samenstelling van de eerste soera (hoofdstuk, bij gebrek aan een betere term) van de Koran.[^1] Deze artikelen deden mij de schoonheid van de soera inzien en introduceerden mij ook tot het zeer interessante concept van de chiastische structuur, een literaire stijlfiguur dat ook te vinden is in andere oude teksten, zoals de Bijbel en de Illias.[^2]
 
-{{< image caption="Koran uit Perzië, eerste helft van de 16e eeuw." >}}
+{{< image caption="Koran uit Perzië, eerste helft van de 16e eeuw."undefinedundefined >}}
 
 In het geloof en de praktijk van de moslims is de *Fātiḥa* (letterlijk "De Opening") het volmaakte gebed dat door God is onderwezen om te worden gereciteerd als het belangrijkste deel van het dagelijkse gebed. Het vertegenwoordigt ook een samenvatting van de hoofdthema's van de Koran, vandaar dat het de titel *Umm al-kitāb* heeft gekregen, "Moeder van het Boek". Er is een *ḥadīth* (overlevering) die wordt toegeschreven aan Alī ibn Abī Ṭālib, waarin hij verklaart:
 
@@ -38,13 +35,14 @@ In het geloof en de praktijk van de moslims is de *Fātiḥa* (letterlijk "De Op
 
 De chiastische structuur (ook wel ringcompositie) is een literaire stijlfiguur waarin, binnen een bepaalde verhaallijn, verschillende thema's in een bepaalde volgorde zijn gerangschikt, waarbij de eerste helft van het verhaal de structuur *A-B-C...* enz. heeft, die in de tweede helft precies gespiegeld is (*...C-B-A*). De algemene structuur zal er dus als volgt uitzien: *A-B-C-D-C-B-A*.
 
-De chiastische structuur komt vooral voor in oude teksten zoals de Bijbel en de Torah. Een voorbeeld uit de Torah is de passage van het midden van het boek Exodus tot het eind van Leviticus. Deze passage begint en eindigt met een overeenkomst tussen God en de Israëlieten bij de Sinaï, en het einde is ook een soort overeenkomst wanneer God de Hebreeën vertelt wat er met hen zal gebeuren als zij zich niet aan zijn wetten houden. Daartussenin worden de belangrijkste ideeën verkondigd, die te maken hebben met de heiligheid van de Tenach en van de Israëlieten.
+De chiastische structuur komt vooral voor in oude teksten zoals de Bijbel en de Torah. Een voorbeeld uit de Torah is de passage van het midden van het boek Exodus tot het eind van Leviticus. Deze passage begint en eindigt met een overeenkomst tussen God en de Israëlieten bij de Sinaï, en het einde is ook een soort overeenkomst wanneer God de Hebreeën vertelt wat er met hen zal gebeuren als zij zich niet aan zijn wetten houden. Daartussenin worden de belangrijkste ideeën verkondigt, die te maken hebben met de heiligheid van de Tenach en van de Israëlieten.
 
 Een ander voorbeeld is te vinden in de tweede soera van de Koran. Die telt 286 verzen die samen een ringcompositie vormen, met vele kleinere ringcomposities binnen de overkoepelende chiastische tekst. Het is interessant op te merken dat het exacte middelste vers van de soera, en als zodanig van de overkoepelende chiasme, vers 143, als volgt luidt:[^4]
 
 > Zo maakten Wij u tot een *midden*gemeenschap, opdat gij getuigen moogt zijn voor de mensen en opdat de boodschapper een getuige moogt zijn voor u. En Wij hebben de *qiblah* daarom veranderd, opdat men zou kunnen onderscheiden tussen hen, welke hem volgen en diegenen welke hem den rug toekeren.
 
 ### De Opening
+
 {{< quote
 	text="Ik heb het gebed tussen Mijzelf en Mijn dienaar in twee helften verdeeld, en Mijn dienaar zal bezitten hetgeen hij heeft gevraagd."
 	author="De Profeet namens God"
@@ -55,15 +53,15 @@ Een ander voorbeeld is te vinden in de tweede soera van de Koran. Die telt 286 v
 Een chiastische structuur is ook te vinden in de *Fātiḥa*. Deze soera is samengesteld uit twee chiasmus die in een ringcompositie passen. De structuur geeft een diepgaand inzicht in de betekenis van de afzonderlijke verzen van de soera. Laten we de compositie eerst uitschetsen:
 
 > In naam van God, de Barmhartige, de Genadevolle. 
-
+>
 > <span style="color: var(--accent-color); filter: invert(0.8);">A. Alle lof zij God, de Heer der Werelden.</span><br>
 > <span style="opacity: 0.4;">—</span> <span style="color: var(--accent-color); filter: invert(0.8);">B. De Barmhartige,</span><br>
 > <span style="opacity: 0.4;">—</span> <span style="color: var(--accent-color); filter: invert(0.8);">B'. de Genadevolle.</span><br>
 > <span style="color: var(--accent-color); filter: invert(0.8);">A'. Meester van de Dag des Oordeels.</span>
-
+>
 > <span style="color: var(--accent-color); filter: invert(0.8);">C. U alleen aanbidden wij</span><br>
 > <span style="color: var(--accent-color);">C'. en U alleen smeken wij om hulp.</span>
-
+>
 > <span style="color: var(--accent-color);">A. Leid ons op het rechte pad,</span><br>
 > <span style="opacity: 0.4;">—</span> <span style="color: var(--accent-color);">B. Het pad dergenen, aan wie Gij gunsten hebt geschonken</span><br>
 > <span style="opacity: 0.4;">—</span> <span style="color: var(--accent-color);">B'. niet dat van hen, op wie toorn is nedergedaald,</span><br>
