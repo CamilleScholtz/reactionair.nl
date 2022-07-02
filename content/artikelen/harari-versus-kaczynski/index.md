@@ -9,9 +9,9 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "thumb.webp"
 anchor = "Center"
 +++
-Dit artikel is een vertaling en bewerking van een Twitter-draad van [Forrest](https://twitter.com/Foz89107323). De onderwerpen die behandeld worden, zijn onder andere: Wat is de invloed van de nieuwste technologische revolutie op ons leven? Wat is het raamwerk van de ideologie die de elites in de samenleving proberen te implementeren? Waardoor verliezen we onze innerlijkheid? Waarom is keuzevrijheid een illusie? Waardoor is de zwakke, verwijfde man een dominant fenomeen geworden in de maatschappij?
+*Dit artikel is een vertaling en bewerking van een Twitter-draad van [Forrest](https://twitter.com/Foz89107323). De onderwerpen die behandeld worden, zijn onder andere: Wat is de invloed van de nieuwste technologische revolutie op ons leven? Wat is het raamwerk van de ideologie die de elites in de samenleving proberen te implementeren? Waardoor verliezen we onze innerlijkheid? Waarom is keuzevrijheid een illusie? Waardoor is de zwakke, verwijfde man een dominant fenomeen geworden in de maatschappij?*
 
-Ondanks dat een vertaling nooit het origineel evenaart, heb ik getracht alles getrouw proberen om te zetten. Culturele en politieke verwijzingen naar de Verenigde Staten of de anglosfeer heb ik waar nodig verduidelijking gegeven in de voetnoten.
+*Ondanks dat een vertaling nooit het origineel evenaart, heb ik getracht alles getrouw proberen om te zetten. Culturele en politieke verwijzingen naar de Verenigde Staten of de anglosfeer heb ik waar nodig verduidelijking gegeven in de voetnoten.*
 
 {{< image caption="Overwoekerde dystopie, door Tokyo Genso." >}}
 
