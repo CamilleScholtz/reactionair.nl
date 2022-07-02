@@ -15,7 +15,7 @@ Streven naar een wereld van gelijke kansen is een van de platitudes waar politic
 
 **Kans als illusie**
 
-Eerste opmerking: een kans is niet iets tastbaars. Net zoals Hume erop gewezen heeft dat we weliswaar gebeurtenissen kunnen waarnemen die elkaar opvolgen volgens een vast patroon en van daaruit causaliteit extrapoleren, maar toch nooit het concept ‘oorzakelijkheid’ empirisch waar kunnen nemen, zullen we in het fysieke domein ook nooit een kans aantreffen.
+Eerste opmerking: een kans is niet iets tastbaars. Net zoals Hume erop gewezen heeft dat we weliswaar gebeurtenissen kunnen waarnemen die elkaar opvolgen volgens een vast patroon en van daaruit causaliteit extrapoleren [^1], maar toch nooit het concept ‘oorzakelijkheid’ empirisch waar kunnen nemen, zullen we in het fysieke domein ook nooit een kans aantreffen.
 
 Volgens Kant en later ook bijvoorbeeld Schopenhauer, doet de hele fenomenale wereld zich aan ons voor als causaal gedetermineerd. Waar we ook kijken, hoe ver in het verleden we onze blik ook werpen, we zien louter een keten van oorzaken en gevolgen vanaf de oerknal (dit voeg ik zelf toe, deze theorie was uiteraard nog niet bekend in de tijd van Kant en Schopenhauer) tot nu. Vrijheid was voor hen iets wat alleen buiten de verschijning, in de noumenale wereld zou kunnen bestaan.
 
@@ -26,7 +26,7 @@ De Franse wis- en natuurkundige Pierre-Simon Laplace had geen boodschap aan deze
 	author="undefined"
 >}}
 
-stelde hij. Deze alwetende intelligentie kwam later bekend te staan als de demoon van Laplace.
+stelde hij [^2]. Deze alwetende intelligentie kwam later bekend te staan als de demoon van Laplace.
 
 Ook eeuwenoude symbolen voor het concept kans, zoals het rad van fortuin of de dobbelsteen, zijn dan volledig gedetermineerde processen. Als je precies weet met welke kracht een dobbelsteen wordt opgegooid, welke beginpositie, met welke draairichting, welke luchtweerstand en de hardheid van het oppervlak waar het op stuitert, kun je met exacte nauwkeurigheid voorspellen op welke zijde de dobbelsteen zal landen. In de praktijk is dit geen doen, maar voor de demoon van Laplace is de dobbelsteen niet minder mysterieus dan een appel die naar de grond valt als hij te zwaar wordt voor de tak waar hij aan hangt.
 
@@ -34,7 +34,7 @@ Als dit waar is, moeten we ons het concept kans voorstellen als iets wat alleen 
 
 **Kans als op zichzelf bestaande willekeurigheidsgenerator**
 
-Met de opkomst van de kwantummechanica, is er een spook door de natuurkunde gaan waren en wel het spook van het indeterminisme. Subatomaire deeltjes schijnen zich bij tijd en wijle te gedragen op een manier waar geen peil op valt te trekken. Het deeltje doet zus dan wel zo zonder dat we dat kunnen voorspellen. Dit was een flinke meloen om te slikken voor de toenmalige natuurkundigen, die im- of expliciet allemaal de these van Laplace onderschreven. Einstein bijvoorbeeld wilde er niet aan en bezwoer de Deense kwantumfysicus Niels Bohr dat God niet dobbelt – waarbij aangetekend moet worden dat Einsteins opvatting van God spinozistisch is, met andere woorden, deus sive natura: God of de natuur.
+Met de opkomst van de kwantummechanica, is er een spook door de natuurkunde gaan waren en wel het spook van het indeterminisme. Subatomaire deeltjes schijnen zich bij tijd en wijle te gedragen op een manier waar geen peil op valt te trekken. Het deeltje doet zus dan wel zo zonder dat we dat kunnen voorspellen. Dit was een flinke meloen om te slikken voor de toenmalige natuurkundigen, die im- of expliciet allemaal de these van Laplace onderschreven. Einstein bijvoorbeeld wilde er niet aan en bezwoer de Deense kwantumfysicus Niels Bohr dat God niet dobbelt [^3] – waarbij aangetekend moet worden dat Einsteins opvatting van God spinozistisch is, met andere woorden, deus sive natura: God of de natuur.
 
 Andere natuurkundigen stonden meer open voor de mogelijkheid dat er zoiets als een willekeurigheidsgenerator in de natuur bestond. In dit geval bestaan kansen niet alleen voor ons, in onze ervaring, maar op zichzelf, buiten ons als een soort metafysische dobbelstenen maar dan daadwerkelijk ongedetermineerd. Voorbeelden van natuurkundige verschijnselen die niet gedetermineerd lijken te zijn, zijn bijvoorbeeld de draairichting van een elektron of het precieze moment waarop het laatste atoom van een radioactief element zoals uranium vervalt. Dit laatste figureert in Schrödingers bekende gedachte-experiment met de kat waarvan het onduidelijk is of hij wel of niet leeft.
 
@@ -59,3 +59,9 @@ Maar als ons wordt voorgespiegeld dat we gelijke kansen hebben, maar dit in werk
 Zoals elke ideologie echter, zet ook het dogmatische gelijkheidsdenken zijn hakken dieper in het zand wanneer het zijn einde ziet opdoemen. Het daadwerkelijke einde laat nog wel even op zich wachten, dus we kunnen verwachten dat dit de komende jaren alleen maar zal toenemen. Toch kunnen wij intellectuelen, die dwars door dit spelletje heen kijken, ons alvast beraden op andere manieren om met ongelijkheid om te gaan. In China bijvoorbeeld is het toverwoord harmonie, niet gelijkheid. Je eer en trots put je dan uit de collectieve prestaties van de samenleving waar je toe behoort in plaats van jouw individuele. Zelf woon je wellicht in een krot en eet je karige koolsoep met rijst, je natie gloreert op het wereldtoneel en daar doe je het voor. De vraag is of de individualistische inborst zich laat verenigen met dit collectivisme – voor zover die karaktereigenschap geen fictie is natuurlijk. Als het dat inderdaad niet is, zouden we ook richting religie kunnen kijken, die ons vermaant niet te dralen bij het vergankelijke, maar onze dood, de grote gelijkmaker, te gedenken.
 
 Enfin, hier kunnen we nog een heel end verder over filosoferen (we zullen wel moeten trouwens), maar de eerste stap is ressentiment uit het verdomhoekje te halen en erkennen als normale emotie, zelfs als schaduwzijde van gezonde *thumos*. Als emotie die hoort bij de ongelijkheid des levens die we, of we willen of niet, onder ogen moeten zien.
+
+[^1]: David Hume - *An enquiry concerning human understanding*
+
+[^2]: Het originele citaat luidt als volgt: *Une [](https://fr.wikipedia.org/wiki/Intelligence "Intelligence")intelligence qui, à un instant donné, connaîtrait toutes les forces dont la nature est animée et la situation respective des êtres qui la composent, si d’ailleurs elle était suffisamment vaste pour soumettre ces données à l’analyse, embrasserait dans la même formule les mouvements des plus grands corps de l’univers et ceux du plus léger atome ; rien ne serait incertain pour elle, et l’avenir, comme le passé, serait présent à ses yeux.*
+
+[^3]: In een brief aan een andere bevriende geleerde schreef hij: *Die Quantenmechanik ist sehr achtunggebietend. Aber eine innere Stimme sagt mir, daß das noch nicht der wahre Jakob ist. Die Theorie liefert viel, aber dem Geheimnis des Alten bringt sie uns kaum näher. Jedenfalls bin ich überzeugt, daß der nicht würfelt.*
