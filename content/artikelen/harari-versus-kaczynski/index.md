@@ -13,7 +13,7 @@ anchor = "Center"
 
 *Ondanks dat een vertaling nooit het origineel evenaart, heb ik getracht alles getrouw proberen om te zetten. Culturele en politieke verwijzingen naar de Verenigde Staten of de anglosfeer heb ik waar nodig verduidelijking gegeven in de voetnoten.*
 
-{{< image caption="Overwoekerde dystopie, door Tokyo Genso."undefinednull >}}
+{{< image caption="Overwoekerde dystopie, door Tokyo Genso." >}}
 
 Op welke manier staan Ted Kaczynski’s ideeën lijnrecht tegenover die van Yuval Harari, de man die het filosofische brein is achter de *Great Reset*? Hoe kan het dat ze beiden aanhangers zijn van de evolutietheorie, maar toch tot zeer andere conclusies komen wat betreft de industriële revolutie en haar gevolgen?
 
