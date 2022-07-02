@@ -37,7 +37,7 @@ De chiastische structuur (ook wel ringcompositie) is een literaire stijlfiguur w
 
 De chiastische structuur komt vooral voor in oude teksten zoals de Bijbel en de Torah. Een voorbeeld uit de Torah is de passage van het midden van het boek Exodus tot het eind van Leviticus. Deze passage begint en eindigt met een overeenkomst tussen God en de Israëlieten bij de Sinaï, en het einde is ook een soort overeenkomst wanneer God de Hebreeën vertelt wat er met hen zal gebeuren als zij zich niet aan zijn wetten houden. Daartussenin worden de belangrijkste ideeën verkondigt, die te maken hebben met de heiligheid van de Tenach en van de Israëlieten.
 
-Een ander voorbeeld is te vinden in de tweede soera van de Koran. Die telt 286 verzen die samen een ringcompositie vormen, met vele kleinere ringcomposities binnen de overkoepelende chiastische tekst. Het is interessant op te merken dat het exacte middelste vers van de soera, en als zodanig van de overkoepelende chiasme, vers 143, als volgt luidt:[^4]
+Een ander voorbeeld is te vinden in de tweede soera van de Koran. Die telt 286 verzen die samen een ringcompositie vormen, met vele kleinere ringcomposities binnen de overkoepelende chiastische tekst. Het is interessant op te merken dat het exacte middelste vers van de soera, en als zodanig van het overkoepelende chiasme, vers 143, als volgt luidt:[^4]
 
 > Zo maakten Wij u tot een *midden*gemeenschap, opdat gij getuigen moogt zijn voor de mensen en opdat de boodschapper een getuige moogt zijn voor u. En Wij hebben de *qiblah* daarom veranderd, opdat men zou kunnen onderscheiden tussen hen, welke hem volgen en diegenen welke hem den rug toekeren.
 
