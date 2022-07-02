@@ -1,7 +1,7 @@
 +++
 title = "Civitas en civilisatie"
 subtitle = "Het belang van vriendschap en loyaliteit"
-auteurs = ["Redactie"]
+auteurs = ["De Melancholieke Nar"]
 date = "2022-06-30"
 themas = "Cultuur & Maatschappij"
 question = "Wat zijn uw gedachten over dit artikel?"
