@@ -28,7 +28,7 @@ De Franse wis- en natuurkundige Pierre-Simon Laplace had geen boodschap aan deze
 
 stelde hij. Deze alwetende intelligentie kwam later bekend te staan als de demoon van Laplace.
 
- Ook eeuwenoude symbolen voor het concept kans, zoals het rad van fortuin of de dobbelsteen, zijn dan volledig gedetermineerde processen. Als je precies weet met welke kracht een dobbelsteen wordt opgegooid, welke beginpositie, met welke draairichting, welke luchtweerstand en de hardheid van het oppervlak waar het op stuitert, kun je met exacte nauwkeurigheid voorspellen op welke zijde de dobbelsteen zal landen. In de praktijk is dit geen doen, maar voor de demoon van Laplace is de dobbelsteen niet minder mysterieus dan een appel die naar de grond valt als hij te zwaar wordt voor de tak waar hij aan hangt.
+Ook eeuwenoude symbolen voor het concept kans, zoals het rad van fortuin of de dobbelsteen, zijn dan volledig gedetermineerde processen. Als je precies weet met welke kracht een dobbelsteen wordt opgegooid, welke beginpositie, met welke draairichting, welke luchtweerstand en de hardheid van het oppervlak waar het op stuitert, kun je met exacte nauwkeurigheid voorspellen op welke zijde de dobbelsteen zal landen. In de praktijk is dit geen doen, maar voor de demoon van Laplace is de dobbelsteen niet minder mysterieus dan een appel die naar de grond valt als hij te zwaar wordt voor de tak waar hij aan hangt.
 
 Als dit waar is, moeten we ons het concept kans voorstellen als iets wat alleen voor ons bestaat, en wel bij gratie van onze beperkte informatie over de wereld. Iets is voor mij een kans omdat ik het nog niet weet omdat ik nou eenmaal niet de demoon van Laplace ben. Voorbeeld: ik sta ’s ochtends op, de gordijnen zijn nog dicht en ik weet niet of de zon schijnt of dat het regent. Aangenomen dat ik het weerbericht niet gehoord heb en verder ook geen auditoire of andere signalen van buitenaf krijg en het april is, een maand die doet wat ie wil, zou ik de kans 50-50 kunnen inschatten; 50% kans dat de zon schijnt, 50% kans dat het regent. In werkelijkheid is het helemaal geen echte kans. De zon schijnt 100% of het regent 100%. Alleen voor mij is het een kans tot het moment dat ik mijn gordijnen open doe.
 
@@ -46,7 +46,7 @@ Men stelle zich twee kinderen voor die weliswaar gelijke kansen hadden (wat dat 
 
 De Amerikaanse schrijver Kurt Vonnegut heeft een kort verhaal geschreven dat Harrison Bergeron heet waarin hij het streven naar ultieme gelijkheid belachelijk maakt. In de wereld die hij daar beschrijft zorgt een ‘handicapper general’ er bijvoorbeeld voor dat knappe mensen maskers moeten dragen zodat ze precies even mooi of even lelijk zijn als ieder ander, intelligente mensen krijgen radiosignalen in hun oren om hun gedachten te verstoren en atletisch aangelegde mensen moeten zware gewichten met zich meezeulen. Volslagen waanzin natuurlijk
 
-Maar de tweede conceptie van kans biedt ook weinig soelaas. In dat geval wordt ongelijkheid namelijk bepaald door onversneden en ongedetermineerde pech. De metafysische willekeurigheidsgenerator wordt aangezwengeld en – rien ne va plus, les jeux sont faits – de een slaapt in een paleis en de ander onder een brug. Ieder had even veel lootjes, dus de kansen waren gelijk. Boffen voor de een, jammer de bammer en volgend leven beter voor de ander. Dit heeft natuurlijk minder dan niets te maken met rechtvaardigheid.
+Maar de tweede conceptie van kans biedt ook weinig soelaas. In dat geval wordt ongelijkheid namelijk bepaald door onversneden en ongedetermineerde pech. De metafysische willekeurigheidsgenerator wordt aangezwengeld en – *rien ne va plus, les jeux sont faits* – de een slaapt in een paleis en de ander onder een brug. Ieder had even veel lootjes, dus de kansen waren gelijk. Boffen voor de een, jammer de bammer en volgend leven beter voor de ander. Dit heeft natuurlijk minder dan niets te maken met rechtvaardigheid.
 
 **Kans als nobele leugen**
 
@@ -59,11 +59,5 @@ Maar als ons wordt voorgespiegeld dat we gelijke kansen hebben, maar dit in werk
 Zoals elke ideologie echter, zet ook het dogmatische gelijkheidsdenken zijn hakken dieper in het zand wanneer het zijn einde ziet opdoemen. Het daadwerkelijke einde laat nog wel even op zich wachten, dus we kunnen verwachten dat dit de komende jaren alleen maar zal toenemen. Toch kunnen wij intellectuelen, die dwars door dit spelletje heen kijken, ons alvast beraden op andere manieren om met ongelijkheid om te gaan. In China bijvoorbeeld is het toverwoord harmonie, niet gelijkheid. Je eer en trots put je dan uit de collectieve prestaties van de samenleving waar je toe behoort in plaats van jouw individuele. Zelf woon je wellicht in een krot en eet je karige koolsoep met rijst, je natie gloreert op het wereldtoneel en daar doe je het voor. De vraag is of de individualistische inborst zich laat verenigen met dit collectivisme – voor zover die karaktereigenschap geen fictie is natuurlijk. Als het dat inderdaad niet is, zouden we ook richting religie kunnen kijken, die ons vermaant niet te dralen bij het vergankelijke, maar onze dood, de grote gelijkmaker, te gedenken.
 
 Enfin, hier kunnen we nog een heel end verder over filosoferen (we zullen wel moeten trouwens), maar de eerste stap is ressentiment uit het verdomhoekje te halen en erkennen als normale emotie, zelfs als schaduwzijde van gezonde thumos. Als emotie die hoort bij de ongelijkheid des levens die we, of we willen of niet, onder ogen moeten zien.
-
- 
-
- 
-
- 
 
 <!--EndFragment-->
