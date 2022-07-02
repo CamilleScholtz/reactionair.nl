@@ -58,7 +58,7 @@ Maar als ons wordt voorgespiegeld dat we gelijke kansen hebben, maar dit in werk
 
 Zoals elke ideologie echter, zet ook het dogmatische gelijkheidsdenken zijn hakken dieper in het zand wanneer het zijn einde ziet opdoemen. Het daadwerkelijke einde laat nog wel even op zich wachten, dus we kunnen verwachten dat dit de komende jaren alleen maar zal toenemen. Toch kunnen wij intellectuelen, die dwars door dit spelletje heen kijken, ons alvast beraden op andere manieren om met ongelijkheid om te gaan. In China bijvoorbeeld is het toverwoord harmonie, niet gelijkheid [^6]. Je eer en trots put je dan uit de collectieve prestaties van de samenleving waar je toe behoort in plaats van jouw individuele. Zelf woon je wellicht in een krot en eet je karige koolsoep met rijst, je natie gloreert op het wereldtoneel en daar doe je het voor. De vraag is of de individualistische inborst zich laat verenigen met dit collectivisme – voor zover die karaktereigenschap geen fictie is natuurlijk. Als het dat inderdaad niet is, zouden we ook richting religie kunnen kijken, die ons vermaant niet te dralen bij het vergankelijke, maar onze dood, de grote gelijkmaker, te gedenken.
 
-Enfin, hier kunnen we nog een heel end verder over filosoferen (we zullen wel moeten trouwens), maar de eerste stap is ressentiment uit het verdomhoekje te halen en erkennen als normale emotie, zelfs als schaduwzijde van gezonde *thumos*. Als emotie die hoort bij de ongelijkheid des levens die we, of we willen of niet, onder ogen moeten zien.
+Enfin, hier kunnen we nog een heel end verder over filosoferen (we zullen wel moeten trouwens), maar de eerste stap is ressentiment uit het verdomhoekje te halen en erkennen als normale emotie, zelfs als schaduwzijde van gezonde *thumos* [^7]. Als emotie die hoort bij de ongelijkheid des levens die we, of we willen of niet, onder ogen moeten zien.
 
 [^1]: David Hume - *An enquiry concerning human understanding*
 
@@ -71,3 +71,5 @@ Enfin, hier kunnen we nog een heel end verder over filosoferen (we zullen wel mo
 [^5]: Onder andere in *Das Unbehagen in der Kultur*.
 
 [^6]: Wikipedia: *[Harmonious Society](https://en.wikipedia.org/wiki/Harmonious_Society)*
+
+[^7]: θυμός is een oud-Grieks woord dat staat voor emotie die het midden houdt tussen trots, woede, eergevoel, verlangen en geldingsdrang, maar zich ook kan uiten in bijvoorbeeld wraak. Het speelt een grote rol bij onder ander Homeros en Plato en later bij bijvoorbeeld Francis Fukuyama.
