@@ -12,7 +12,7 @@ anchor = "Center"
 
 Het uitgangspunt van rechts is vaak fout, er wordt namelijk geïmpliceerd dat er een eerlijk speelveld op de markt der meningen mogelijk zou zijn. Maar je hebt altijd te maken met een bepaald soort tijdsgeest waaraan geconformeerd moet worden. Progressieven beseften dit eind jaren '60 en hebben toen — met onder andere de ideeën van neomarxisten over machtsstructuren — een geslaagde studentenrevolte op touw gezet. De zuilenmaatschappij, die toch al zijn laatste stuiptrekkingen kende door het breken met de traditie en door technologische ontwikkelingen waardoor de wereld steeds kleiner werd, heeft sindsdien plaatsgemaakt voor één progressieve hegemonie: de enige zuil die overeind is blijven staan. Laten we zeggen dat sindsdien de progressieven de spelregels, en daarmee ook de fatsoenlijkheidskaders van het speelveld, bepalen.
 
-{{< image caption="Het overton-venster."undefinednull >}}
+{{< image caption="Het overton-venster." >}}
 
 De progressieve hegemonie zien we terug in verschillende facetten die een belangrijke invloed uitoefenen op de massamens: de media, de publieke instituties, de universiteiten en, conformerend aan die hegemonie, ook het grootkapitaal. Zij denken min of meer hetzelfde en sturen aan op thema’s die progressieven belangrijk vinden. Progressief-liberalen hebben hierdoor een enorme metapolitieke invloed.
 
