@@ -47,9 +47,10 @@ Een ander voorbeeld is te vinden in de tweede soera van de Koran. Die telt 286 v
 ### De Opening
 
 {{< quote
-	text="Ik heb het gebed [d.w.z. al-Fātiḥa] in twee helften verdeeld tussen Mijzelf en Mijn slaaf, en Mijn slaaf zal krijgen waar hij om vraagt."
+	text="Ik heb het gebed in twee helften verdeeld tussen Mijzelf en Mijn slaaf, en Mijn slaaf zal krijgen waar hij om vraagt."
 	author="De Profeet namens God"
 	aside=true
+	article=true
 >}}
 
 Een chiastische structuur is ook te vinden in de *Fātiḥa*. Deze soera is samengesteld uit twee chiasmi die in een ringcompositie passen. De structuur geeft een diepgaand inzicht in de betekenis van de afzonderlijke verzen van de soera. Laten we de compositie eerst uitschetsen:
@@ -97,6 +98,7 @@ De soerah heeft dus een briljante structuur, die nauw verbonden is met zijn bete
 	text="De Opening van het Boek is een remedie voor elk vergif."
 	author="De Profeet"
 	aside=true
+	article=true
 >}}
 
 De *Fātiḥa* staat ook bekend als "De Remedie" (*al-Shifāʾ*), omdat er wordt gezegd dat het genezende krachten heeft voor zowel lichaam als ziel.
