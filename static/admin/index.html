@@ -51,9 +51,8 @@
 				fromBlock: (match) => {
 					return {
 						caption: match.groups.caption,
-						license: match.groups.license ?? null,
 						...(typeof match.groups.license === 'string' && {license: match.groups.license}),
-						...(typeof match.groups.src     === 'string' && {license: match.groups.src}),
+						...(typeof match.groups.src     === 'string' && {src: match.groups.src}),
 					};
 				},
 
