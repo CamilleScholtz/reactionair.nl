@@ -42,7 +42,7 @@ De chiastische structuur komt vooral voor in oude teksten zoals de Bijbel en de 
 
 Een ander voorbeeld is te vinden in de tweede soera van de Koran. Die telt 286 verzen die samen een ringcompositie vormen, met vele kleinere ringcomposities binnen de overkoepelende chiastische tekst. Het is interessant op te merken dat het exacte middelste vers van de soera, en als zodanig van de overkoepelende chiasme, vers 143, als volgt luidt:[^4]
 
-> Zo maakten Wij u tot een *midden*gemeenschap, opdat gij getuigen moogt zijn voor de menschen en opdat de boodschapper een getuige moogt zijn voor u. En Wij hebben de *qiblah* daarom veranderd, opdat men zou kunnen onderscheiden tussen hen, welke hem volgen en diegenen welke hem den rug toekeren. Menigen hindert dit, en het was inderdaad moeilijk, doch niet hun die door God worden geleid. Maar God wilde uw geloof niet tevergeefs laten zijn. Waarlijk, God is genadig en barmhartig jegens de mensen.
+> Zo maakten Wij u tot een *midden*gemeenschap, opdat gij getuigen moogt zijn voor de mensen en opdat de boodschapper een getuige moogt zijn voor u. En Wij hebben de *qiblah* daarom veranderd, opdat men zou kunnen onderscheiden tussen hen, welke hem volgen en diegenen welke hem den rug toekeren.
 
 ### De Opening
 
