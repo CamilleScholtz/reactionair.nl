@@ -8,7 +8,9 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "discurso_funebre_pericles.png"
 anchor = "Smart"
 +++
-*Dit artikel is een vertaling en bewerking van een twitterdraad van Mac Finn (@ogmios). Hoewel ‘beschaving’ de gangbare vertaling is van het Engelse woord ‘civilization’, hier zelfs Amerikaans gespeld, heb ik er toch voor gekozen het te vertalen met ‘civilisatie’ omwille van etymologie. Dit riekt weliswaar naar een anglicisme, maar het is niettemin een licht archaïsch, maar daarom niet minder deugdelijk Nederlands woord van Latijnse oorsprong. De originele draad is [hier](https://twitter.com/ogmios/status/1541900763705872385) te vinden*
+*Dit artikel is een vertaling en bewerking van een twitterdraad van Mac Finn (@ogmios).* Hoewel ‘beschaving’ de gangbare vertaling is van het Engelse woord ‘civilization’, hier zelfs Amerikaans gespeld, heb ik er toch voor gekozen het te vertalen met ‘civilisatie’ omwille van etymologie. Dit riekt weliswaar naar een anglicisme, maar het is niettemin een licht archaïsch, maar daarom niet minder deugdelijk Nederlands woord van Latijnse oorsprong. De originele draad is [hier](https://twitter.com/ogmios/status/1541900763705872385) te vinden.
+
+- - -
 
 {{< quote
 	text="Chinezen hebben altijd in huizen gewoond inderdaad, als dat alles is wat je bedoelt met ‘civilisatie’."
