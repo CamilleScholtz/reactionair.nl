@@ -1,6 +1,6 @@
 +++
 title = "Een crisis van grootsheid"
-subtitle = "TODO"
+subtitle = "Tegen groei om de groei"
 auteurs = ["Eco al-Hollandi"]
 date = "2022-07-05"
 themas = "Cultuur & Maatschappij"
