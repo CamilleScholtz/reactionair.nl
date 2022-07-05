@@ -1,4 +1,5 @@
 +++
+aangehaald = ['Immanuel Kant']
 auteurs = ['Sanura']
 date = '2021-10-12'
 subtitle = 'Dictatoriale rechtsstaat'

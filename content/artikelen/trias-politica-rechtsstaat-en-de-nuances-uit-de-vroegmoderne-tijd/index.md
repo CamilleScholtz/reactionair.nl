@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Thierry Baudet', 'C. S. Lewis', 'Alexis de Tocqueville']
+aangehaald = ['Thierry Baudet', 'Immanuel Kant', 'C. S. Lewis', 'Alexis de Tocqueville']
 auteurs = ['Sanura']
 date = '2022-04-28'
 subtitle = "De l'Esprit des Lois 2.0, deel 2"

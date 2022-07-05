@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Charles Darwin', 'Fjodor Dostojevski', 'John Gray', 'Friedrich Nietzsche', 'Roger Scruton', 'William Shakespeare']
+aangehaald = ['Charles Darwin', 'Fjodor Dostojevski', 'John Gray', 'David Hume', 'Immanuel Kant', 'Friedrich Nietzsche', 'Roger Scruton', 'William Shakespeare']
 auteurs = ['Magnus Bradshaw']
 date = '2022-04-01'
 subtitle = 'De eclips van de seculiere ethiek'

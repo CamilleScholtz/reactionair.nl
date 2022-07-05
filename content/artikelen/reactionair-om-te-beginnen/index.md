@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Thomas van Aquino', 'Nicolás Gómez Dávila']
+aangehaald = ['Thomas van Aquino', 'Nicolás Gómez Dávila', 'Immanuel Kant']
 anchor = 'Center'
 auteurs = ['Robert Lemm']
 date = '2021-11-29'

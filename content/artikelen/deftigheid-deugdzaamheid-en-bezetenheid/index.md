@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Rutger Bregman', 'Robert Lemm', 'Jacues Ellul']
+aangehaald = ['Rutger Bregman', 'Jacues Ellul', 'Immanuel Kant', 'Robert Lemm']
 auteurs = ['Walt van Toor']
 date = '2022-04-21'
 subtitle = 'Overweging over het mensbeeld van de meeste mensen'

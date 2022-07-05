@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Roger Scruton', 'William Shakespeare', 'Plato']
+aangehaald = ['Immanuel Kant', 'Roger Scruton', 'William Shakespeare', 'Plato']
 auteurs = ['Cedrik Vandooren']
 date = '2022-01-11'
 subtitle = 'Wat is schoonheid?'

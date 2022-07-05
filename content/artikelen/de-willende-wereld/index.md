@@ -1,5 +1,5 @@
 +++
-aangehaald = ['George Berkeley', 'Johann Wolfgang von Goethe', 'Friedrich Nietzsche', 'Arthur Schopenhauer', 'William Shakespeare', 'Baruch Spinoza', 'Plato']
+aangehaald = ['George Berkeley', 'Johann Wolfgang von Goethe', 'Immanuel Kant', 'Friedrich Nietzsche', 'Arthur Schopenhauer', 'William Shakespeare', 'Baruch Spinoza', 'Plato']
 auteurs = ['Anton Prins']
 date = '2022-06-23'
 subtitle = 'Enkele woorden als voorbereiding op een lezing'

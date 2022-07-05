@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Erik von Kuehnelt-Leddihn', 'Karl Popper', 'Plato']
+aangehaald = ['Immanuel Kant', 'Erik von Kuehnelt-Leddihn', 'Karl Popper', 'Plato']
 auteurs = ['Sanura']
 date = '2022-02-11'
 dossiers = ['Christendom']
