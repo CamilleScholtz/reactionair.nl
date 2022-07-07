@@ -9,7 +9,7 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "radvanfortuin.jpg"
 anchor = "Smart"
 +++
-Streven naar een wereld van gelijke kansen is een van de platitudes waar politici maar geen genoeg van kunnen krijgen. Wie is er nou tegen dat een gekleurd kind even veel kansen krijgt als een blank kind, een arme even zoveel als een rijke? Vaak wordt hier dan nog aan toegevoegd dat dit iets anders is dan streven naar gelijke uitkomsten. Zelfs de grootste utopistische luchtfietser begrijpt nog dat dit ondoenlijk is. Maar snijdt dat onderscheid tussen gelijke kansen en gelijke uitkomsten wel hout? Laten we eens kijken of we er chocola van kunnen maken.
+Streven naar een wereld van gelijke kansen is een van de platitudes waar politici maar geen genoeg van kunnen krijgen. Wie is er nou tegen dat een gekleurd kind even veel kansen krijgt als een blank kind, een arme even zoveel als een rijke? Vaak wordt hier dan nog aan toegevoegd dat dit iets anders is dan streven naar gelijke uitkomsten. Zelfs de grootste utopistische luchtfietser begrijpt nog dat dit ondoenlijk is. Maar snijdt dat onderscheid tussen gelijke kansen en gelijke uitkomsten wel hout? En zo niet, wat blijft er dan nog over van het streven naar gelijke kansen? Laten we eens kijken of we er chocola van kunnen maken.
 
 {{< image caption="Het rad van fortuin zoals voorgesteld in het tarot van Marseille." >}}
 
