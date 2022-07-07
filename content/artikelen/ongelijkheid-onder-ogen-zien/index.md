@@ -23,7 +23,7 @@ De Franse wis- en natuurkundige Pierre-Simon Laplace had geen boodschap aan deze
 
 > We kunnen de huidige toestand van het heelal beschouwen als het gevolg van het verleden en als de oorzaak van de toekomst. Als er een intelligentie zou zijn die, op een gegeven moment, alle krachten zou kennen die op de materie inwerken, alsook de exacte situatie van elk onderdeel van alle materie, dan zou deze alle bewegingen van de grootste hemellichamen tot het kleinste atoom kunnen omvatten, en zou er niets meer onzeker zijn voor deze intelligentie; het verleden net als de toekomst worden voor hem zichtbaar gemaakt.
 
-Zo stelde hij.[^2] Deze alwetende intelligentie kwam later bekend te staan als de demoon van Laplace.
+, zo stelde hij.[^2] Deze alwetende intelligentie kwam later bekend te staan als de demoon van Laplace.
 
 Ook eeuwenoude symbolen voor het concept kans, zoals het rad van fortuin of de dobbelsteen, zijn dan volledig gedetermineerde processen. Als je precies weet met welke kracht een dobbelsteen wordt opgegooid, welke beginpositie, met welke draairichting, welke luchtweerstand en de hardheid van het oppervlak waar het op stuitert, kun je met exacte nauwkeurigheid voorspellen op welke zijde de dobbelsteen zal landen. In de praktijk is dit geen doen, maar voor de demoon van Laplace is de dobbelsteen niet minder mysterieus dan een appel die naar de grond valt als hij te zwaar wordt voor de tak waar hij aan hangt.
 
