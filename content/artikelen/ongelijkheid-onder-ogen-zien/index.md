@@ -1,6 +1,6 @@
 +++
-title = "Ongelijkheid onder ogen zien"
-subtitle = "Wat zijn gelijke kansen en waarom vinden we die zo belangrijk?"
+title = "Wat zijn gelijke kansen?"
+subtitle = "En waarom vinden we die zo belangrijk?"
 auteurs = ["De Melancholieke Nar"]
 date = "2022-07-02"
 themas = "Religie & Metafysica"
