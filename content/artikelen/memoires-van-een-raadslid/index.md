@@ -1,6 +1,6 @@
 +++
 title = "Memoires van een raadslid"
-subtitle = "Een kijkje in de keuken"
+subtitle = "Subtiele manipulaties in de gemeentepolitiek"
 auteurs = ["‘Het Dorp’ Genieter"]
 date = "2022-07-07"
 themas = "Politiek & Actualiteit"
