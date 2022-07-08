@@ -5,10 +5,12 @@ auteurs = ["‘Het Dorp’ Genieter"]
 date = "2022-07-07"
 themas = "Politiek & Actualiteit"
 question = "Wat zijn uw gedachten over dit artikel?"
-image = "gemeenteraad-bijgesneden-1200x800-1.jpg"
+image = "qts5jkz.jpeg"
 anchor = "Smart"
 +++
 De gemeentepolitiek, een minder saai onderwerp is moeilijk te vinden. Een groep mensen die zich bekommeren over laadpalen, hoge beschoeiingen en bestemmingsplannen in commissies en vergaderingen en, minstens zo belangrijk, de borrel achteraf. 
+
+{{< image caption="Government Bureau, door George Tooker." >}}
 
 Ikzelf heb mij laten strikken als fractievertegenwoordiger van een eenmansfractie in een middelgrote gemeente. Spannend niet zozeer, fascinerend des te meer. Vanaf de beëdiging als steunraadslid waar men plechtig moest zweren zonder last onze taken uit te voeren (of zoiets, zo goed heb ik ook weer niet opgelet) tot de eerste fractievergadering geeft het een bijzonder inzicht in de besluitvorming van een gemeente. Moties worden ingediend, worden behandeld in een commissie waarna de stemming volgt in een raadsvergadering inclusief stemverklaring. Fracties hebben een uitgebreid instrumentarium om de wethouders en burgemeester te bevragen en op te roepen om van alles te doen. Voorbeelden van zulke vragen:
 
