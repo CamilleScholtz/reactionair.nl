@@ -1,4 +1,5 @@
 +++
+aangehaald = ['Karl Marx']
 title = "Een crisis van grootsheid"
 subtitle = "Tegen groei om de groei"
 auteurs = ["Eco al-Hollandi"]

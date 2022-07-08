@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Jacques Derrida', 'Michel Foucault', 'Jean-Paul Sartre']
+aangehaald = ['Jacques Derrida', 'Michel Foucault', 'Karl Marx', 'Jean-Paul Sartre']
 auteurs = ['Sanura']
 date = '2021-10-05'
 dossiers = ['Woke']

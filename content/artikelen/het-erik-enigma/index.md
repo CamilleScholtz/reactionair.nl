@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Erik von Kuehnelt-Leddihn']
+aangehaald = ['Erik von Kuehnelt-Leddihn', 'Karl Marx']
 auteurs = ['Sanura']
 date = '2021-10-09'
 subtitle = 'Extreemrechtse liberaal'

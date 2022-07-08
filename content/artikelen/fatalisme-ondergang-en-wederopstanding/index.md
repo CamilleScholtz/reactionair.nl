@@ -1,5 +1,5 @@
 +++
-aangehaald = ['René Guénon', 'Friedrich Nietzsche', 'Oswald Spengler']
+aangehaald = ['René Guénon', 'Friedrich Nietzsche', 'Karl Marx', 'Oswald Spengler']
 anchor = 'Center'
 auteurs = ['Intan Hoijer']
 date = '2021-11-03'

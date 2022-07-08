@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Johann Wolfgang von Goethe', 'René Guénon', 'Friedrich Schiller']
+aangehaald = ['Johann Wolfgang von Goethe', 'René Guénon', 'Karl Marx', 'Friedrich Schiller']
 auteurs = ['Jan-Willem Veldhuizen']
 date = '2021-11-17'
 dossiers = ['Klimaatverandering']

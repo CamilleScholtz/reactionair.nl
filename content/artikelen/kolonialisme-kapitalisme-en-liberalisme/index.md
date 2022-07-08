@@ -1,4 +1,5 @@
 +++
+aangehaald = ['Karl Marx']
 auteurs = ['Eco al-Hollandi']
 date = '2022-02-28'
 dossiers = ['Islam']
