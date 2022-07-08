@@ -2,7 +2,7 @@
 title = "Memoires van een raadslid"
 subtitle = "Subtiele manipulaties in de gemeentepolitiek"
 auteurs = ["‘Het Dorp’ Genieter"]
-date = "2022-07-07"
+date = "2022-07-08"
 themas = "Politiek & Actualiteit"
 question = "Wat zijn uw gedachten over dit artikel?"
 image = "qts5jkz.jpeg"
