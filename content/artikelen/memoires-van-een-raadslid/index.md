@@ -12,14 +12,17 @@ De gemeentepolitiek, een minder saai onderwerp is moeilijk te vinden. Een groep 
 
 Ikzelf heb mij laten strikken als fractievertegenwoordiger van een eenmansfractie in een middelgrote gemeente. Spannend niet zozeer, fascinerend des te meer. Vanaf de beëdiging als steunraadslid waar men plechtig moest zweren zonder last onze taken uit te voeren (of zoiets, zo goed heb ik ook weer niet opgelet) tot de eerste fractievergadering geeft het een bijzonder inzicht in de besluitvorming van een gemeente. Moties worden ingediend, worden behandeld in een commissie waarna de stemming volgt in een raadsvergadering inclusief stemverklaring. Fracties hebben een uitgebreid instrumentarium om de wethouders en burgemeester te bevragen en op te roepen om van alles te doen. Voorbeelden van zulke vragen:
 
-“Daarnaast kan het plaatsen van extra (actieve) verlichting een afschrikwekkende werking hebben voor de overlastgevende jongeren. Is het college bereid de mogelijkheden voor extra verlichting te bekijken en in kaart te brengen?”
-"Wanneer gaat het College over tot wijziging van de situatie aan de eerste lantaarnpaal in de (…) vanaf de (…) of moeten er nog meer ongevallen daar gebeuren?"
-"Kan het college nog deze week toestemming aan de vereniging verlenen om de kleding en schoenen in dit gebouw op een veilige manier op te slaan zodat dit materiaal direct ter beschikking is voor de jonge kinderen die deelnemen aan de clinics?"
+> “Daarnaast kan het plaatsen van extra (actieve) verlichting een afschrikwekkende werking hebben voor de overlastgevende jongeren. Is het college bereid de mogelijkheden voor extra verlichting te bekijken en in kaart te brengen?”
 
-Waarop dan weer antwoorden komen zoals [^1]: 
+> "Wanneer gaat het College over tot wijziging van de situatie aan de eerste lantaarnpaal in de (…) vanaf de (…) of moeten er nog meer ongevallen daar gebeuren?"
 
-“Het merendeel van de oeverbeschoeiingen zijn particulier eigendom. Dat betekent dat de ontwikkelaar deze heeft overgedragen aan de eigenaren van de woningen. Het aanbrengen van hekjes, trappen, etc. is dus een zaak van de particuliere eigenaren." 
-"Helaas moeten we constateren dat in deze casus sprake is van interne miscommunicatie bij de gemeente. De coördinator groenbeheer van de gemeente (…) heeft telefonisch contact opgenomen met de melder. De bomen zijn volgens afspraak visueel geïnspecteerd en voor eind mei worden maatregelen uitgevoerd.”
+> "Kan het college nog deze week toestemming aan de vereniging verlenen om de kleding en schoenen in dit gebouw op een veilige manier op te slaan zodat dit materiaal direct ter beschikking is voor de jonge kinderen die deelnemen aan de clinics?"
+
+Waarop dan weer antwoorden komen zoals:[^1]
+
+> “Het merendeel van de oeverbeschoeiingen zijn particulier eigendom. Dat betekent dat de ontwikkelaar deze heeft overgedragen aan de eigenaren van de woningen. Het aanbrengen van hekjes, trappen, etc. is dus een zaak van de particuliere eigenaren." 
+
+> "Helaas moeten we constateren dat in deze casus sprake is van interne miscommunicatie bij de gemeente. De coördinator groenbeheer van de gemeente (…) heeft telefonisch contact opgenomen met de melder. De bomen zijn volgens afspraak visueel geïnspecteerd en voor eind mei worden maatregelen uitgevoerd.”
 
 Zo kabbelt de gemeentepolitiek over deze kwesties heen en worden zaken opgelost, of niet. Allemaal bijzonder belangrijk voor sommige individuele burgers maar het is een bepaald type mens dat zich erop toelegt om deze problemen het hoofd te bieden. Ergens verdient de lokale politicus meer respect. Maar er zijn ook types die zich willen opwerken in een grote landelijke partij en de gemeente zien als opstapje om “het vak” te leren en hopelijk na een lange tocht vol commissievergaderingen, partijcongressen en netwerkborrels backbencher in de tweede kamer kunnen worden. Die verdienen niet meer respect.
 
@@ -38,4 +41,5 @@ In de concretere richtlijnen staat van alles over toegankelijkheid waarbij in de
 
 Moraal van dit verhaal is geen kruistocht tegen “inclusieve speeltuinen” maar om een inzicht te geven in de beslissingen die op het eerste oog klein lijken maar implicaties hebben die moeilijk te overzien zijn op langere termijn. Politici moeten voorzichtig zijn om hun zelfstandigheid en beslissingsvrijheid over te dragen aan allerlei belangenorganisaties, die geen enkele rekenschap hoeven te geven over hun standpunten en acties. Het lijkt erop dat de gemeenteraadsleden in mijn gemeente deze oproep inderdaad zien als een sympathiek idee maar of ze zich ook bewust zijn van de implicaties die het heeft op langere termijn? We zullen het zien ná het zomerreces.
 
-[^1] Willekeurige vragen en antwoorden, horen niet bij elkaar.
+
+[^1]: Willekeurige vragen en antwoorden, horen niet bij elkaar.
