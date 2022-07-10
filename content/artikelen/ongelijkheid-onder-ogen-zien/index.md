@@ -2,7 +2,7 @@
 title = "Wat zijn gelijke kansen?"
 subtitle = "En waarom vinden we die zo belangrijk?"
 auteurs = ["De Melancholieke Nar"]
-date = "2022-07-02"
+date = "2022-07-10"
 themas = "Religie & Metafysica"
 aangehaald = "List [ \"David Hume\", \"Immanuel Kant\", \"Arthur Schopenhauer\", \"Sigmund Freud\" ]"
 question = "Wat zijn uw gedachten over dit artikel?"
