@@ -1,5 +1,5 @@
 +++
-title = "Een pleidooi voor polarisatie"
+title = "Een pleidooi vóór polarisatie"
 subtitle = "Over uniformiteit"
 auteurs = ["Camille Meloen"]
 date = "2022-07-04"
