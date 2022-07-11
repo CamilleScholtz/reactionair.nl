@@ -10,6 +10,8 @@ anchor = "Center"
 +++
 Het is een leuke week geweest zeg! Er is op een minderjarige geschoten, traangas gebruikt, familiebedrijven worden bedreigd door de staat en nu komt er censuur bij. Nee, niet in Hongarije of Polen, maar hier in Nederland. 
 
+{{< image caption="1984 poster." >}}
+
 Ongehoord Nederland heeft een forse boete gekregen van het ministerie van waarheid. Blijkbaar onderscheidden ze feiten en meningen te weinig en eisten ze geen betere onderbouwing voor beweringen die tijdens hun shows gemaakt worden (die ingaan tegen regeringsbeleid). Politici uit de rechtse anti-establishment hoek een podium geven is nu misdadig. De staat houdt toezicht op de media en besluit wat wel en niet mag. Tegenwoordig is dat ‘liberale democratie’. 
 
 Waarschijnlijk gaat Zondag met Lubach binnenkort bewijs leveren voor zijn suggestie dat bijzonder onderwijs integratie tegengaat (terwijl de raad van state recent bevestigde dat bijzonder onderwijs een zeer kleine rol speelt in segregatie) en een les over creationisme indoctrinatie is.[^1]
@@ -20,7 +22,7 @@ Je vraagt je misschien af of we in Nederland niet vrijheid van de pers als recht
 
 Ongehoord Nederland overweegt juridische stappen. Elke rechtszaak tegen totalitarisme kan ik alleen maar toejuichen maar het is wel een tikkeltje ironisch dat een omroep die nauw verbonden is met Forum voor Democratie zich moet beroepen op de (D66) rechterlijke macht omdat de rest van het systeem nog intoleranter lijkt te worden. 
 
-FvD heeft zinvolle standpunten tegen dikastocratie maar die zijn momenteel eenzijdig omdat ze nog niet een onafhankelijke constitutioneel hof steunen als balans ter versterking van de rechtsstaat; een punt waarop GO, JA21 en Omtzigt een sterkere positie hebben ingenomen.[^3][^5]
+FvD heeft zinvolle standpunten tegen dikastocratie maar die zijn momenteel eenzijdig omdat ze nog niet een onafhankelijke constitutioneel hof steunen als balans ter versterking van de rechtsstaat; een punt waarop GO, JA21 en Omtzigt een sterkere positie hebben ingenomen.[^3]
 
 De rechtsstaat hoort bescherming de bieden tegen staatsonderdrukking maar hoe staat die in Nederland ervoor?
 
