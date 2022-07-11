@@ -23,10 +23,6 @@ anchor = "Smart"
 	aside=true
 >}}
 
-Terwijl de mieren-, termieten- en bijenstaat alleen door volledige vernieting van de seksualiteit dezer dieren mogelijk wordt, is het probleem van staatsvorming bij mensen oneindig veel moeilijker, omdat deze zijn seksualiteit niet opgeeft en daarmee zijn hele rebelse individualisme. - Der Leviathan in der Staatslehre des Thomas Hobbes
-
-Toen Gregor Samsa op een morgen uit onrustige dromen ontwaakte, ontdekte hij dat hij in zijn bed in een afschuwelijk ongedierte veranderd was. – Die Verwandlung
-
 Het is mogelijk de moderniteit te zien als een project om een mierenhoop te bouwen van geatomiseerde chimpanzees, maar de sombere waarheid is dat dat slechts de eerste trede is een tweetrapsproces.
 
 In de tweede, doortraptere fase worden chimpanzees tot mieren hervormd, om de stabiliteit van De Mierenhoop op langere termijn te garanderen.
@@ -55,8 +51,8 @@ Er is geen Buiten de cybernetische constructies van incentieven behalve de selec
 
 De resulterende vraag kan alleen beantwoord worden door de opkomst van de Toekomst: zal een splitsing zich voordoen die menselijk kapitaal wegleidt van deze ellendige voorbestemdheid of moet het een radicale interventie door GNON afwachten om zijn lot te veranderen?
 
-[^1]: Het eerste citaat is afkomstig uit *Der Leviathan in der Staatslehre des Thomas Hobbes.* De vertaling luidt als volgt: *"Terwijl de mieren-, termieten- en bijenstaat alleen mogelijk is door de volledige vernietiging van de seksualiteit dezer dieren, is het probleem om een staat te worden oneindig veel moeilijker voor mensen omdat ze hun seksualiteit en daarmee hun hele rebelse individualisme niet opgeven.*
+[^1]: Het eerste citaat is afkomstig uit *Der Leviathan in der Staatslehre des Thomas Hobbes.* De vertaling luidt als volgt: *"Terwijl de mieren-, termieten- en bijenstaat alleen mogelijk is door de volledige vernietiging van de seksualiteit dezer dieren, is het probleem van staatswording oneindig veel moeilijker voor mensen omdat ze hun seksualiteit en daarmee hun hele rebelse individualisme niet opgeven.*
 
-[^2]: Het tweede citaat betreft de wereldberoemde openingszin uit Kafka's *Die Verwandlung*. De vertaling luidt als volgt: *"Toen Gregor Samsa op een morgen uit onrustige dromen ontwaakte, ontdekte hij dat hij in zijn bed in een verschrikkelijk ongedierte was veranderd"*.
+[^2]: Het tweede citaat betreft de wereldberoemde openingszin uit Kafka's *Die Verwandlung*. De vertaling luidt als volgt: *"Toen Gregor Samsa op een morgen uit onrustige dromen ontwaakte, ontdekte hij dat hij in zijn bed in een afschuwelijk ongedierte was veranderd"*.
 
 [^3]: Gnon is een acroniem dat gebruikt wordt in reactionaire kringen. Het staat voor ‘the God of Nature or Nature’. De betekenis is vergelijkbaar met logos, dharma of dao. Het is de Natuurlijke Orde. Het idee is dat, of er nou een God van de Natuur is die daar de bron van is, de Natuur zelf een inherente en onverzoenlijke orde heeft waar we op eigen risico tegenin gaan.
