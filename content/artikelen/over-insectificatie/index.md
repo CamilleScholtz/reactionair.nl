@@ -23,9 +23,9 @@ anchor = "Smart"
 	aside=true
 >}}
 
-Het is mogelijk de moderniteit te zien als een project om een mierenhoop te bouwen van geatomiseerde chimpanzees, maar de sombere waarheid is dat dat slechts de eerste trede is in een tweetrapsproces.
+Het is mogelijk de moderniteit te zien als een project om een mierenhoop te bouwen van geatomiseerde chimpansees, maar de sombere waarheid is dat dat slechts de eerste trede is in een tweetrapsproces.
 
-In de tweede, doortraptere fase worden chimpanzees tot mieren hervormd, om de stabiliteit van De Mierenhoop op langere termijn te garanderen.
+In de tweede, doortraptere fase worden chimpansees tot mieren hervormd, om de stabiliteit van De Mierenhoop op langere termijn te garanderen.
 
 Mensen zijn hogere primaten; hun naaste verwanten uit het dierenrijk zijn de chimpanzees. Chimpanzees zijn vergelijkbaar met mensen en daarom vertoont de sociale orde die chimpanzees erop nahouden grote gelijkenissen met de sociale structuren die mensen, en hun voorlopers, duizenden jaren hebben voortgebracht en bewoond.
 
