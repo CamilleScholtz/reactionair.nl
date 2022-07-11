@@ -33,9 +33,9 @@ Individuele chimpansees zijn sociale dieren. De sociale orde die zij smeden in g
 
 Dit is evolutietheorie les 1. De omgeving vormt het organisme, zoals het organisme zijn omgeving symbiotisch vormt. Dit leidt tot een voortdurend proces van wederzijdse ‘ontvouwing’ . Een ecosysteem is in essentie een oneindig netwerk van wederzijdse recursieve uitwisselingen tussen organismes en hun omgeving, inclusief de vernetwerkte effecten van alle andere concurrerende / coëxisterende organismes die erin zijn ingebed.
 
-De moderniteit is in essentie een functie van schaalvergroting in combinatie met emergente systemen / processes die ontworpen zijn om tijdruimtelijke effecten van deze schaalvergroting op zichzelf te doen terugslaan.
+De moderniteit is in essentie een functie van schaalvergroting in combinatie met emergente systemen / processen die ontworpen zijn om tijdruimtelijke effecten van deze schaalvergroting op zichzelf te doen terugslaan.
 
-In de kruistocht van de moderniteit om de socius uit te breiden / mondialiseren, is een totaliserend project van dehumanisering en insectificatie in werking gezet door de Toekomst: ‘Eat the bugs, live in the pod, take the hormones.’
+In de kruistocht van de moderniteit om de socius uit te breiden / mondialiseren, is een totaliserend project van dehumanisering en insectificatie in werking gezet door de Toekomst: ‘Eat the bugs, live in the pod, take the hormones.’[^3]
 
 Dit wordt gewoonlijk voorgesteld als een complot van elite / nieuwe wereldorde, maar nog verschrikkelijker affect kan worden opgewekt door het besef dat er geen direct complot nodig is. Alles volgt een lotslijn aan de hand van de stoeprand / gradiënt van voorgaande omstandigheden – de Toekomst is padafhankelijk.
 
