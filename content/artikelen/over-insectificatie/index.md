@@ -8,7 +8,7 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "6a00d8341c464853ef01a73e05bd7f970d-320wi.jpg"
 anchor = "Smart"
 +++
-*Dit is een vertaling en bewerking van een artikel van Parallax optics. Het origineel is hier te vinden. Graag laat ik het voorafgaan door twee citaten die mij toepasselijk leken. [^1]*
+*Dit is een vertaling en bewerking van een artikel van Parallax optics. Het origineel is [hier ](https://parallaxoptics.com/2020/12/30/on-insectisation/)te vinden. Graag laat ik het voorafgaan door twee citaten die mij toepasselijk leken.[^1]*
 
 {{< quote
 	text="Während der Ameisen-, Thermiten- und Bienenstaat nur durch völlige Vernichtung der Sexualität dieser Tiere möglich wird, ist das Problem der Staatswerdung beim Menschen unendlich schwieriger, weil dieser seine Sexualität nicht aufgibt und damit seinen ganzen rebellischen Individualismus."
@@ -55,6 +55,6 @@ Er is geen Buiten de cybernetische constructies van incentieven behalve de selec
 
 De resulterende vraag kan alleen beantwoord worden door de opkomst van de Toekomst: zal een splitsing zich voordoen die menselijk kapitaal wegleidt van deze ellendige voorbestemdheid of moet het een radicale interventie door GNON afwachten om zijn lot te veranderen?
 
-^2: 
+^2: Het eerste citaat is afkomstig uit 
 
 2: Gnon is een acroniem dat gebruikt wordt in reactionaire kringen. Het staat voor ‘the God of Nature or Nature’. De betekenis is vergelijkbaar met logos, dharma of dao. Het is de Natuurlijke Orde. Het idee is dat, of er nou een God van de Natuur is die daar de bron van is, de Natuur zelf een inherente en onverzoenlijke orde heeft waar we op eigen risico tegenin gaan.
