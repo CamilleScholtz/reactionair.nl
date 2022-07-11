@@ -27,11 +27,11 @@ Het is mogelijk de moderniteit te zien als een project om een mierenhoop te bouw
 
 In de tweede, doortraptere fase worden chimpansees tot mieren hervormd, om de stabiliteit van De Mierenhoop op langere termijn te garanderen.
 
-Mensen zijn hogere primaten; hun naaste verwanten uit het dierenrijk zijn de chimpanzees. Chimpanzees zijn vergelijkbaar met mensen en daarom vertoont de sociale orde die chimpanzees erop nahouden grote gelijkenissen met de sociale structuren die mensen, en hun voorlopers, duizenden jaren hebben voortgebracht en bewoond.
+Mensen zijn hogere primaten; hun naaste verwanten uit het dierenrijk zijn de chimpansees. Chimpansees zijn vergelijkbaar met mensen en daarom vertoont de sociale orde die chimpansees erop nahouden grote gelijkenissen met de sociale structuren die mensen, en hun voorlopers, duizenden jaren hebben voortgebracht en bewoond.
 
-Individuele chimpanzees zijn sociale dieren. De sociale orde die zij smeden in groepen is een emergente eigenschap / netwwerkeffect van de gecollectiviseerde aard van chimpanzees. De oorzakelijkheid is echter circulair / cybernetisch; de sociale orde geschapen door groepen chimpanzees vormt de sociale omgeving waarin individuele chimpanzees opereren, waardoor het de chimpanzees vormt en programmeert, individueel en collectief, net zoals zij hun omgeving vormen en programmeren.
+Individuele chimpansees zijn sociale dieren. De sociale orde die zij smeden in groepen is een emergente eigenschap / netwwerkeffect van de gecollectiviseerde aard van chimpansees. De oorzakelijkheid is echter circulair / cybernetisch; de sociale orde geschapen door groepen chimpansees vormt de sociale omgeving waarin individuele chimpansees opereren, waardoor het de chimpansees vormt en programmeert, individueel en collectief, net zoals zij hun omgeving vormen en programmeren.
 
-Dit is evolutietheorie les 1. De omgeving vormt het organisme, zoals het organisme zijn omgeving symbiotisch vormt. Dit leidt tot een voortdurend proces van wederzijdse ‘ontvouwing’ . Een ecosysteem is in essentie een oneindig netwerk van wederzijdse recursieve uitwisselingen tussen organismes en hun omgeving, inclusies de vernetwerkte effecten van alle andere concurrerende / coëxisterende organismes die erin zijn ingebed.
+Dit is evolutietheorie les 1. De omgeving vormt het organisme, zoals het organisme zijn omgeving symbiotisch vormt. Dit leidt tot een voortdurend proces van wederzijdse ‘ontvouwing’ . Een ecosysteem is in essentie een oneindig netwerk van wederzijdse recursieve uitwisselingen tussen organismes en hun omgeving, inclusief de vernetwerkte effecten van alle andere concurrerende / coëxisterende organismes die erin zijn ingebed.
 
 De moderniteit is in essentie een functie van schaalvergroting in combinatie met emergente systemen / processes die ontworpen zijn om tijdruimtelijke effecten van deze schaalvergroting op zichzelf te doen terugslaan.
 
