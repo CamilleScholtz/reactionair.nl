@@ -55,6 +55,6 @@ Er is geen Buiten de cybernetische constructies van incentieven behalve de selec
 
 De resulterende vraag kan alleen beantwoord worden door de opkomst van de Toekomst: zal een splitsing zich voordoen die menselijk kapitaal wegleidt van deze ellendige voorbestemdheid of moet het een radicale interventie door GNON afwachten om zijn lot te veranderen?
 
-^2: Het eerste citaat is afkomstig uit *Der Leviathan in der Staatslehre des Thomas Hobbes.* De vertaling luidt als volgt:"
+^2: Het eerste citaat is afkomstig uit *Der Leviathan in der Staatslehre des Thomas Hobbes.* De vertaling luidt als volgt: *"Terwijl de mieren-, termieten- en bijenstaat alleen mogelijk is door de volledige vernietiging van de seksualiteit dezer dieren, is het probleem om een staat te worden oneindig veel moeilijker voor mensen omdat ze hun seksualiteit en daarmee hun hele rebelse individualisme niet opgeven.*
 
 2: Gnon is een acroniem dat gebruikt wordt in reactionaire kringen. Het staat voor ‘the God of Nature or Nature’. De betekenis is vergelijkbaar met logos, dharma of dao. Het is de Natuurlijke Orde. Het idee is dat, of er nou een God van de Natuur is die daar de bron van is, de Natuur zelf een inherente en onverzoenlijke orde heeft waar we op eigen risico tegenin gaan.
