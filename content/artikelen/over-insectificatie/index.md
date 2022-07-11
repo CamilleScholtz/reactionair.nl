@@ -43,11 +43,11 @@ Net als het Verleden, is de Toekomst in zekere zin al ‘gebeurd’. De Toekomst
 
 De reden dat de Toekomst niet ‘verschijnt’ als padafhankelijk is dat mensen-chimpansees geëquipeerd zijn met een specifiek perceptueel apparaat, wat hen doordringt van een grotesk overtrokken notie van niet alleen individuele autonomie, maar ook gecollectiviseerde groepsautonomie.
 
-Zoals bij mieren en chimpansees wordt menselijk ‘autonoom handelen’ afgebakend door sporen van incentieven / raamwerken. Deze zijn makkelijk te volgen maar moeilijk te veranderen, elke werkzame handeling om ze te veranderen is in feite zelfs niet meer dan de ontdekking en uitbuiting van een splitsing in het actieve / dominante spoor van incentieven.
+Zoals bij mieren en chimpansees wordt menselijk ‘autonoom handelen’ afgebakend door sporen van beloningen / raamwerken. Deze zijn makkelijk te volgen maar moeilijk te veranderen, elke werkzame handeling om ze te veranderen is in feite zelfs niet meer dan de ontdekking en uitbuiting van een splitsing in het actieve / dominante spoor van beloningen.
 
-Al millennia ligt de mens op koers voor steeds voortschrijdende domesticatie, wat onherroepelijk leidt tot insectificering, een gedaanteverwisseling van lichaam en ziel in iets Cronenbergesks in zijn volmaakte corruptie van het Menselijke. Het overblijfsel aan menselijk instinct is om deze werkelijkheid uit de weg te gaan, maar dit is niet mogelijk omdat de Toekomst arriveert een spoor dat gelegd is door het Verleden.
+Al millennia ligt de mens op koers voor steeds voortschrijdende domesticatie, wat onherroepelijk leidt tot insectificatie, een gedaanteverwisseling van lichaam en ziel in iets Cronenbergesks in zijn volmaakte corruptie van het Menselijke.[^4] Het overblijfsel aan menselijk instinct is om deze werkelijkheid uit de weg te gaan, maar dit is niet mogelijk omdat de Toekomst arriveert een spoor dat gelegd is door het Verleden.
 
-Er is geen Buiten de cybernetische constructies van incentieven behalve de selectiedruk die erop geelegd wordt, en bij uitbreiding de entiteiten die ze bewonen, door *Gnon*.[^4] De insectoïde post-mensheid ligt nu op koers om in een pod te leven, insecten te eten, zichzelf te steriliseren door complete hormonale terravorming.
+Er is geen Buiten de cybernetische constructies van incentieven behalve de selectiedruk die erop geelegd wordt, en bij uitbreiding de entiteiten die ze bewonen, door *Gnon*.[^5] De insectoïde post-mensheid ligt nu op koers om in een pod te leven, insecten te eten, zichzelf te steriliseren door complete hormonale terravorming.
 
 De resulterende vraag kan alleen beantwoord worden door de opkomst van de Toekomst: zal een splitsing zich voordoen die menselijk kapitaal wegleidt van deze ellendige voorbestemdheid of moet het een radicale interventie door GNON afwachten om zijn lot te veranderen?
 
