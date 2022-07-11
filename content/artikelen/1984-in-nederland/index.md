@@ -36,6 +36,7 @@ Een Volt raadslid heeft aan een doodsbedreiging gedaan, ‘voorzitter’ Bergkam
 
 En alhoewel de EU hevig kritiek heeft gehad op de rechtsstaat in Nederland (ze konden niet anders na de toeslagenaffaire), zetten ze niet dezelfde druk op Nederland als op Polen, en steunen de regering in haar klassenstrijd tegen de boeren. Waren de mensen die het 20 jaar geleden hadden over EUSSR de eerste wappies? Waren we gewaarschuwd?
 
+
 [^1]: Zondag met Lubach, *[religieus onderwijs](https://www.youtube.com/watch?v=4beiTyAcYf0)*.
 [^2]: Joris Belgers, *[Ginnegappen om piemels met Dokter Corrie niet altijd leuk](https://www.trouw.nl/nieuws/ginnegappen-om-piemels-met-dokter-corrie-niet-altijd-leuk~b683238a/)*.
 [^3]: FVD, *[Aanpak dikastocratie](https://www.fvd.nl/aanpak-dikastocratie)*.
