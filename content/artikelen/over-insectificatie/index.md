@@ -47,9 +47,9 @@ Zoals bij mieren en chimpansees wordt menselijk ‘autonoom handelen’ afgebake
 
 Al millennia ligt de mens op koers voor steeds voortschrijdende domesticatie, wat onherroepelijk leidt tot insectificatie, een gedaanteverwisseling van lichaam en ziel in iets Cronenbergesks in zijn volmaakte corruptie van het Menselijke.[^4] Het overblijfsel aan menselijk instinct maant om deze werkelijkheid uit de weg te gaan, maar dit is niet mogelijk omdat de Toekomst arriveert over een spoor dat gelegd is door het Verleden.
 
-Er is geen Buiten de cybernetische constructies van incentieven behalve de selectiedruk die erop geelegd wordt, en bij uitbreiding de entiteiten die ze bewonen, door *Gnon*.[^5] De insectoïde post-mensheid ligt nu op koers om in een pod te leven, insecten te eten, zichzelf te steriliseren door complete hormonale terravorming.
+Er is geen Buiten de cybernetische constructies van beloningen behalve de selectiedruk die erop gelegd wordt, en bij uitbreiding op de entiteiten die deze constructies bewonen, door *Gnon*.[^5] De insectoïde post-mensheid ligt nu op koers om in een pod te leven, insecten te eten, zichzelf te steriliseren door complete hormonale terravorming.
 
-De resulterende vraag kan alleen beantwoord worden door de opkomst van de Toekomst: zal een splitsing zich voordoen die menselijk kapitaal wegleidt van deze ellendige voorbestemdheid of moet het een radicale interventie door GNON afwachten om zijn lot te veranderen?
+De resulterende vraag kan alleen beantwoord worden door de opkomst van de Toekomst: zal een splitsing zich voordoen die menselijk kapitaal wegleidt van deze ellendige predestinatie of moet de mens een radicale interventie door GNON afwachten om zijn lot te veranderen?
 
 [^1]: Het eerste citaat is afkomstig uit *Der Leviathan in der Staatslehre des Thomas Hobbes.* De vertaling luidt als volgt: *"Terwijl de mieren-, termieten- en bijenstaat alleen mogelijk is door de volledige vernietiging van de seksualiteit dezer dieren, is het probleem van staatswording oneindig veel moeilijker bij de mens omdat deze zijn seksualiteit en daarmee zijn hele rebelse individualisme niet opgeeft.*
 
