@@ -37,7 +37,7 @@ De moderniteit is in essentie een functie van schaalvergroting in combinatie met
 
 In de kruistocht van de moderniteit om de socius uit te breiden / mondialiseren, is een totaliserend project van dehumanisering en insectificatie in werking gezet door de Toekomst: ‘Eat the bugs, live in the pod, take the hormones.’[^3]
 
-Dit wordt gewoonlijk voorgesteld als een complot van elite / nieuwe wereldorde, maar nog verschrikkelijker affect kan worden opgewekt door het besef dat er geen direct complot nodig is. Alles volgt een lotslijn aan de hand van de stoeprand / gradiënt van voorgaande omstandigheden – de Toekomst is padafhankelijk.
+Dit wordt gewoonlijk voorgesteld als een complot van de elite / nieuwe wereldorde, maar nog verschrikkelijker affect kan worden opgewekt door het besef dat er geen direct complot nodig is. Alles volgt een lotslijn aan de hand van de stoeprand / gradiënt van voorgaande omstandigheden – de Toekomst is padafhankelijk.
 
 Net als het Verleden, is de Toekomst in zekere zin al ‘gebeurd’. De Toekomst ‘emergeert’ uit het Verleden, terwijl het Verleden ‘terugtrekt’ van de Toekomst.
 
@@ -47,7 +47,7 @@ Zoals mieren en chimpanzees wordt menselijk ‘autonoom handelen’ afgebakend d
 
 Al millennia ligt de mens op koers voor steeds voortschrijdende domesticatie, wat onherroepelijk leidt tot insectificering, een gedaanteverwisseling van lichaam en ziel in iets Cronenbergesks in zijn volmaakte corruptie van het Menselijke. Het overblijfsel aan menselijk instinct is om deze werkelijkheid uit de weg te gaan, maar dit is niet mogelijk omdat de Toekomst arriveert een spoor dat gelegd is door het Verleden.
 
-Er is geen Buiten de cybernetische constructies van incentieven behalve de selectiedruk die erop geelegd wordt, en bij uitbreiding de entiteiten die ze bewonen, door *Gnon*.[^2] De insectoïde post-mensheid ligt nu op koers om in een pod te leven, insecten te eten, zichzelf te steriliseren door complete hormonale terravorming.
+Er is geen Buiten de cybernetische constructies van incentieven behalve de selectiedruk die erop geelegd wordt, en bij uitbreiding de entiteiten die ze bewonen, door *Gnon*.[^4] De insectoïde post-mensheid ligt nu op koers om in een pod te leven, insecten te eten, zichzelf te steriliseren door complete hormonale terravorming.
 
 De resulterende vraag kan alleen beantwoord worden door de opkomst van de Toekomst: zal een splitsing zich voordoen die menselijk kapitaal wegleidt van deze ellendige voorbestemdheid of moet het een radicale interventie door GNON afwachten om zijn lot te veranderen?
 
@@ -55,4 +55,6 @@ De resulterende vraag kan alleen beantwoord worden door de opkomst van de Toekom
 
 [^2]: Het tweede citaat betreft de wereldberoemde openingszin uit Kafka's *Die Verwandlung*. De vertaling luidt als volgt: *"Toen Gregor Samsa op een morgen uit onrustige dromen ontwaakte, ontdekte hij dat hij in zijn bed in een afschuwelijk ongedierte was veranderd"*.
 
-[^3]: Gnon is een acroniem dat gebruikt wordt in reactionaire kringen. Het staat voor ‘the God of Nature or Nature’. De betekenis is vergelijkbaar met *logos*, *dharma* of *dao*. Het is de Natuurlijke Orde. Het idee is dat, of er nou een God van de Natuur is die daar de bron van is, de Natuur zelf een inherente orde heeft waar we op eigen risico tegenin gaan.
+[^3] [*Knowyourmeme.com* over deze *meme*.](https://knowyourmeme.com/memes/i-will-not-eat-the-bugs)
+
+[^4]: Gnon is een acroniem dat gebruikt wordt in reactionaire kringen. Het staat voor ‘the God of Nature or Nature’. De betekenis is vergelijkbaar met *logos*, *dharma* of *dao*. Het is de Natuurlijke Orde. Het idee is dat, of er nou een God van de Natuur is die daar de bron van is, de Natuur zelf een inherente orde heeft waar we op eigen risico tegenin gaan.
