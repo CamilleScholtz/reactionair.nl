@@ -51,7 +51,7 @@ Er is geen Buiten de cybernetische constructies van incentieven behalve de selec
 
 De resulterende vraag kan alleen beantwoord worden door de opkomst van de Toekomst: zal een splitsing zich voordoen die menselijk kapitaal wegleidt van deze ellendige voorbestemdheid of moet het een radicale interventie door GNON afwachten om zijn lot te veranderen?
 
-[^1]: Het eerste citaat is afkomstig uit *Der Leviathan in der Staatslehre des Thomas Hobbes.* De vertaling luidt als volgt: *"Terwijl de mieren-, termieten- en bijenstaat alleen mogelijk is door de volledige vernietiging van de seksualiteit dezer dieren, is het probleem van staatswording oneindig veel moeilijker voor mensen omdat ze hun seksualiteit en daarmee hun hele rebelse individualisme niet opgeven.*
+[^1]: Het eerste citaat is afkomstig uit *Der Leviathan in der Staatslehre des Thomas Hobbes.* De vertaling luidt als volgt: *"Terwijl de mieren-, termieten- en bijenstaat alleen mogelijk is door de volledige vernietiging van de seksualiteit dezer dieren, is het probleem van staatswording oneindig veel moeilijker bij de mens omdat deze zijn seksualiteit en daarmee zijn hele rebelse individualisme niet opgeeft.*
 
 [^2]: Het tweede citaat betreft de wereldberoemde openingszin uit Kafka's *Die Verwandlung*. De vertaling luidt als volgt: *"Toen Gregor Samsa op een morgen uit onrustige dromen ontwaakte, ontdekte hij dat hij in zijn bed in een afschuwelijk ongedierte was veranderd"*.
 
