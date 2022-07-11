@@ -57,4 +57,6 @@ De resulterende vraag kan alleen beantwoord worden door de opkomst van de Toekom
 
 [^3] [*Knowyourmeme.com* over deze *meme*.](https://knowyourmeme.com/memes/i-will-not-eat-the-bugs)
 
-[^4]: Gnon is een acroniem dat gebruikt wordt in reactionaire kringen. Het staat voor ‘the God of Nature or Nature’. De betekenis is vergelijkbaar met *logos*, *dharma* of *dao*. Het is de Natuurlijke Orde. Het idee is dat, of er nou een God van de Natuur is die daar de bron van is, de Natuur zelf een inherente orde heeft waar we op eigen risico tegenin gaan.
+[^4]: David Cronenberg is een regisseur bekend van onder andere *The fly*, over een afschuwelijk mensachtige vlieg.
+
+[^5]: Gnon is een acroniem dat gebruikt wordt in reactionaire kringen. Het staat voor ‘the God of Nature or Nature’. De betekenis is vergelijkbaar met *logos*, *dharma* of *dao*. Het is de Natuurlijke Orde. Het idee is dat, of er nou een God van de Natuur is die daar de bron van is, de Natuur zelf een inherente orde heeft waar we op eigen risico tegenin gaan.
