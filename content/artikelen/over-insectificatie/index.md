@@ -49,12 +49,12 @@ De reden dat de Toekomst niet ‘verschijnt’ als padafhankelijk is dat men-chi
 
 Zoals mieren en chimpanzees wordt menselijk ‘autonoom handelen’ afgebakend door sporen van incentieven / raamwerken. Deze zijn makkelijk te volgen maar moeilijk te veranderen, elke werkzame handeling om ze te veranderen is in feite zelfs niet meer dan de ontdekking en uitbuiting van een splitsing in het actieve / dominante spoor van incentieven.
 
-Al millennia liggen mensen op koers voor steeds voortschrijdende domesticatie, wat onherroepelijk leidt tot insectificering, een gedaanteverwisseling van lichaam en ziel in iets Cronenbergesks in zijn volmaakte corruptie van het Menselijke. Het overblijfsel aan menselijk instinct is om deze werkelijkheid uit de weg te gaan, maar dit is niet mogelijk omdat de Toekomst arriveert een spoor dat gelegd is door het Verleden.
+Al millennia ligt de mens op koers voor steeds voortschrijdende domesticatie, wat onherroepelijk leidt tot insectificering, een gedaanteverwisseling van lichaam en ziel in iets Cronenbergesks in zijn volmaakte corruptie van het Menselijke. Het overblijfsel aan menselijk instinct is om deze werkelijkheid uit de weg te gaan, maar dit is niet mogelijk omdat de Toekomst arriveert een spoor dat gelegd is door het Verleden.
 
 Er is geen Buiten de cybernetische constructies van incentieven behalve de selectiedruk die erop geelegd wordt, en bij uitbreiding de entiteiten die ze bewonen, door Gnon (1). De insectoïde post-mensheid ligt nu op koers om in een pod te leven, insecten te eten, zichzelf te steriliseren door complete hormonale terravorming.
 
 De resulterende vraag kan alleen beantwoord worden door de opkomst van de Toekomst: zal een splitsing zich voordoen die menselijk kapitaal wegleidt van deze ellendige voorbestemdheid of moet het een radicale interventie door GNON afwachten om zijn lot te veranderen?
 
-^2: Het eerste citaat is afkomstig uit 
+^2: Het eerste citaat is afkomstig uit *Der Leviathan in der Staatslehre des Thomas Hobbes.* De vertaling luidt als volgt:"
 
 2: Gnon is een acroniem dat gebruikt wordt in reactionaire kringen. Het staat voor ‘the God of Nature or Nature’. De betekenis is vergelijkbaar met logos, dharma of dao. Het is de Natuurlijke Orde. Het idee is dat, of er nou een God van de Natuur is die daar de bron van is, de Natuur zelf een inherente en onverzoenlijke orde heeft waar we op eigen risico tegenin gaan.
