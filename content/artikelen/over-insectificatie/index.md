@@ -5,10 +5,10 @@ auteurs = ["De Melancholieke Nar"]
 date = "2022-07-11"
 themas = "Cultuur & Maatschappij"
 question = "Wat zijn uw gedachten over dit artikel?"
-image = "6a00d8341c464853ef01a73e05bd7f970d-320wi.jpg"
+image = "12eac8367a00449eb7bba730006f4c8b-medium.jpg"
 anchor = "Smart"
 +++
-*Dit is een vertaling en bewerking van een artikel van Parallax optics. Het origineel is [hier ](https://parallaxoptics.com/2020/12/30/on-insectisation/)te vinden. Graag laat ik het voorafgaan door twee citaten die mij toepasselijk leken.[^1][^2]*
+*Dit is een vertaling en bewerking van een artikel van Parallax optics. Het origineel is [hier ](https://parallaxoptics.com/2020/12/30/on-insectisation/)te vinden. Graag laat ik het voorafgaan door twee citaten die mij toepasselijk leken.[^1]*
 
 {{< quote
 	text="Während der Ameisen-, Thermiten- und Bienenstaat nur durch völlige Vernichtung der Sexualität dieser Tiere möglich wird, ist das Problem der Staatswerdung beim Menschen unendlich schwieriger, weil dieser seine Sexualität nicht aufgibt und damit seinen ganzen rebellischen Individualismus."
@@ -22,6 +22,10 @@ anchor = "Smart"
 	author="Franz Kafka"
 	aside=true
 >}}
+
+
+
+{{< image caption="undefined" >}}
 
 Het is mogelijk de moderniteit te zien als een project om een mierenhoop te bouwen van geatomiseerde chimpansees, maar de sombere waarheid is dat dat slechts de eerste trede is in een tweetrapsproces.
 
