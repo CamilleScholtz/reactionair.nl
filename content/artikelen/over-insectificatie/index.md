@@ -55,4 +55,4 @@ De resulterende vraag kan alleen beantwoord worden door de opkomst van de Toekom
 
 [^2]: Het tweede citaat betreft de wereldberoemde openingszin uit Kafka's *Die Verwandlung*. De vertaling luidt als volgt: *"Toen Gregor Samsa op een morgen uit onrustige dromen ontwaakte, ontdekte hij dat hij in zijn bed in een afschuwelijk ongedierte was veranderd"*.
 
-[^3]: Gnon is een acroniem dat gebruikt wordt in reactionaire kringen. Het staat voor ‘the God of Nature or Nature’. De betekenis is vergelijkbaar met logos, dharma of dao. Het is de Natuurlijke Orde. Het idee is dat, of er nou een God van de Natuur is die daar de bron van is, de Natuur zelf een inherente en onverzoenlijke orde heeft waar we op eigen risico tegenin gaan.
+[^3]: Gnon is een acroniem dat gebruikt wordt in reactionaire kringen. Het staat voor ‘the God of Nature or Nature’. De betekenis is vergelijkbaar met *logos*, *dharma* of *dao*. Het is de Natuurlijke Orde. Het idee is dat, of er nou een God van de Natuur is die daar de bron van is, de Natuur zelf een inherente orde heeft waar we op eigen risico tegenin gaan.
