@@ -23,7 +23,7 @@ anchor = "Smart"
 	aside=true
 >}}
 
-Het is mogelijk de moderniteit te zien als een project om een mierenhoop te bouwen van geatomiseerde chimpanzees, maar de sombere waarheid is dat dat slechts de eerste trede is een tweetrapsproces.
+Het is mogelijk de moderniteit te zien als een project om een mierenhoop te bouwen van geatomiseerde chimpanzees, maar de sombere waarheid is dat dat slechts de eerste trede is in een tweetrapsproces.
 
 In de tweede, doortraptere fase worden chimpanzees tot mieren hervormd, om de stabiliteit van De Mierenhoop op langere termijn te garanderen.
 
