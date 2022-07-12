@@ -27,7 +27,7 @@ anchor = "Smart"
 
 Het is mogelijk de moderniteit te zien als een project om een mierenhoop te bouwen van geatomiseerde chimpansees, maar de sombere waarheid is dat dat slechts de eerste trede is in een tweetrapsproces.
 
-{{< image caption="Bestiarium, Engeland circa 1250-1260." >}}
+{{< image caption="Bestiarium, Engeland circa 1255." >}}
 
 In de tweede, doortraptere fase worden chimpansees tot mieren hervormd, om de stabiliteit van De Mierenhoop op langere termijn te garanderen.
 
