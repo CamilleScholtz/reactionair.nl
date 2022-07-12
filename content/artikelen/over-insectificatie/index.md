@@ -4,6 +4,7 @@ subtitle = "Hoe we afglijden van mens tot bugman"
 auteurs = ["De Melancholieke Nar"]
 date = "2022-07-11"
 themas = "Cultuur & Maatschappij"
+aangehaald = "List [ \"Carl Schmitt\" ]"
 question = "Wat zijn uw gedachten over dit artikel?"
 image = "12eac8367a00449eb7bba730006f4c8b-medium.jpg"
 anchor = "Smart"
