@@ -9,7 +9,6 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "12eac8367a00449eb7bba730006f4c8b-medium.jpg"
 anchor = "Smart"
 +++
-
 *Dit is een vertaling en bewerking van een artikel van Parallax optics. Het origineel is [hier](https://parallaxoptics.com/2020/12/30/on-insectisation/) te vinden. Graag laat ik het voorafgaan door twee citaten die mij toepasselijk leken.*[^1]
 
 {{< quote
@@ -28,7 +27,7 @@ anchor = "Smart"
 
 Het is mogelijk de moderniteit te zien als een project om een mierenhoop te bouwen van geatomiseerde chimpansees, maar de sombere waarheid is dat dat slechts de eerste trede is in een tweetrapsproces.
 
-{{< image caption="Bestiarium, Engeland ca. 1250-1260." >}}
+{{< image caption="Bestiarium, Engeland circa 1255." >}}
 
 In de tweede, doortraptere fase worden chimpansees tot mieren hervormd, om de stabiliteit van De Mierenhoop op langere termijn te garanderen.
 
