@@ -8,26 +8,25 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "12eac8367a00449eb7bba730006f4c8b-medium.jpg"
 anchor = "Smart"
 +++
-*Dit is een vertaling en bewerking van een artikel van Parallax optics. Het origineel is [hier ](https://parallaxoptics.com/2020/12/30/on-insectisation/)te vinden. Graag laat ik het voorafgaan door twee citaten die mij toepasselijk leken.[^1]*
+*Dit is een vertaling en bewerking van een artikel van Parallax optics. Het origineel is [hier](https://parallaxoptics.com/2020/12/30/on-insectisation/) te vinden. Graag laat ik het voorafgaan door twee citaten die mij toepasselijk leken.*[^1]
 
 {{< quote
 	text="Während der Ameisen-, Thermiten- und Bienenstaat nur durch völlige Vernichtung der Sexualität dieser Tiere möglich wird, ist das Problem der Staatswerdung beim Menschen unendlich schwieriger, weil dieser seine Sexualität nicht aufgibt und damit seinen ganzen rebellischen Individualismus."
 	author="Carl Schmitt"
-	aside=true
 	article=true
 >}}
 
 {{< quote
 	text="Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu ungeheueren Ungeziefer verwandelt."
 	author="Franz Kafka"
-	aside=true
+	article=true
 >}}
 
-
-
-{{< image caption="undefined" >}}
+- - -
 
 Het is mogelijk de moderniteit te zien als een project om een mierenhoop te bouwen van geatomiseerde chimpansees, maar de sombere waarheid is dat dat slechts de eerste trede is in een tweetrapsproces.
+
+{{< image caption=" " >}}
 
 In de tweede, doortraptere fase worden chimpansees tot mieren hervormd, om de stabiliteit van De Mierenhoop op langere termijn te garanderen.
 
@@ -56,11 +55,7 @@ Er is geen Buiten de cybernetische constructies van beloningen behalve de select
 De resulterende vraag kan alleen beantwoord worden door de opkomst van de Toekomst: zal een splitsing zich voordoen die menselijk kapitaal wegleidt van deze ellendige predestinatie of moet de mens een radicale interventie door Gnon afwachten om zijn lot te veranderen?
 
 [^1]: Het eerste citaat is afkomstig uit *Der Leviathan in der Staatslehre des Thomas Hobbes.* De vertaling luidt als volgt: *"Terwijl de mieren-, termieten- en bijenstaat alleen mogelijk is door de volledige vernietiging van de seksualiteit dezer dieren, is het probleem van staatswording oneindig veel moeilijker bij de mens omdat deze zijn seksualiteit en daarmee zijn hele rebelse individualisme niet opgeeft.*
-
 [^2]: Het tweede citaat betreft de wereldberoemde openingszin uit Kafka's *Die Verwandlung*. De vertaling luidt als volgt: *"Toen Gregor Samsa op een morgen uit onrustige dromen ontwaakte, ontdekte hij dat hij in zijn bed in een afschuwelijk ongedierte was veranderd"*.
-
-[^3] [*Knowyourmeme.com* over deze *meme*.](https://knowyourmeme.com/memes/i-will-not-eat-the-bugs)
-
+[^3] [*Knowyourmeme.com* over deze *meme*](https://knowyourmeme.com/memes/i-will-not-eat-the-bugs).
 [^4]: David Cronenberg is een regisseur bekend van onder andere *The fly*, over een afschuwelijke kruising van mens en vlieg.
-
 [^5]: Gnon is een acroniem dat gebruikt wordt in reactionaire kringen. Het staat voor ‘the God of Nature or Nature’. De betekenis is vergelijkbaar met *logos*, *dharma* of *dao*. Het is de Natuurlijke Orde. Het idee is dat, of er nou een God van de Natuur is die daar de bron van is, de Natuur zelf een inherente orde heeft waar we op eigen risico tegenin gaan.
