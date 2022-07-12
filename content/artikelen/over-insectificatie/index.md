@@ -18,7 +18,7 @@ anchor = "Smart"
 >}}
 
 {{< quote
-	text="Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu ungeheueren Ungeziefer verwandelt."
+	text="Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt."
 	author="Franz Kafka"
 	article=true
 >}}
