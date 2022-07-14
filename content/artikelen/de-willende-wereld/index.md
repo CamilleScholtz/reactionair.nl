@@ -1,11 +1,13 @@
 +++
-aangehaald = ['George Berkeley', 'Johann Wolfgang von Goethe', 'Immanuel Kant', 'Friedrich Nietzsche', 'Arthur Schopenhauer', 'William Shakespeare', 'Baruch Spinoza', 'Plato']
-auteurs = ['Anton Prins']
-date = '2022-06-23'
-subtitle = 'Enkele woorden als voorbereiding op een lezing'
-themas = 'Cultuur & Maatschappij'
-title = 'De willende wereld'
+title = "De willende wereld"
+subtitle = "Enkele woorden als voorbereiding op een lezing"
+auteurs = ["Anton Prins"]
+date = "2022-06-23"
+themas = "Religie & Metafysica"
+aangehaald = ["George Berkeley", "Johann Wolfgang von Goethe", "Immanuel Kant", "Friedrich Nietzsche", "Arthur Schopenhauer", "William Shakespeare", "Baruch Spinoza", "Plato"]
+question = "Wat zijn uw gedachten over dit artikel?"
 image = "thumb.webp"
+anchor = "Center"
 +++
 
 Het volgende stuk is geschreven ter gelegendheid van de lezing van de heer Joris van Rossum van 24 juni 2022. Mijn hoop is dat dit kan dienen als voorbereidende lectuur voor geïnteresseerden die deze lezing bij zullen wonen.
