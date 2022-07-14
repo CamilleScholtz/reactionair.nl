@@ -21,7 +21,7 @@ anchor = "Top"
 
 In de Tarot is de dwaas een kaart die oftewel het getal 0 heeft, of helemaal geen getal. De dwaas dient zowel als de eerste als de laatste kaart van de grote Arcana. Als archetype staat hij voor een nieuw begin, de oneindige potentie van een kind, vragen, onschuld, creativiteit, vrijheid, en het verlangen het onbekende te ontdekken. De dwaas is zo een krachtig archetype van het denken. Is het niet zo, dat ook de hoogste activiteit van het denken —de filosofie—, begint in de haast kinderlijke verwondering?  De onschuld van het kind, en de lust voor het onbekende. Daar begint het échte denken, zo zegt men althans. Als archetype voor het denken is het de dwaas die, vrij van dogmatische verstarring, werkelijk vrij kan denken.
 
-{{< image caption="Le Mat (de dwaas) van het tarot van Marseille." >}}
+{{< image caption="Le Mat (de dwaas) van de tarot van Marseille." >}}
 
 De dwaas is de eerste kaart, want de reis van het denken begint in de verwondering, en het verlangen het onbekende te ontdekken. Een zuiver vraagteken, en het verlangen naar een antwoord. De absolute verwondering, en de liefde voor de wijsheid. Zuivere potentialiteit, een absoluut nulpunt. Hier is alles, maar niets is hier werkelijk. Het zou dan ook dwaasheid zijn, te beweren dat dit het enige is wat het denken te bieden heeft, want de dwaas is ook de laatste kaart in de Tarot. Er is een einde aan het vragen, in hij die vraagt.
 
