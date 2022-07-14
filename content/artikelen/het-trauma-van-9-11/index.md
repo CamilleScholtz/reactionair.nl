@@ -12,7 +12,7 @@ Ik denk dat we onderschatten hoe traumatisch 9/11 is geweest voor dat deel van d
 
 {{< image caption="Een rorschachtest." >}}
 
-Het is vergelijkbaar met 'Tsjetsjeense bomaanslagen' in 1999, waar de Russische FSB uiteindelijk betrapt werd bij het installeren van deze bommen en ze beweerden dat het slechts een oefening was. Als je in Rusland woont, natuurlijk, de media zal de samenzweringstheorie "ontkrachten". Maar als je het eenmaal gezien hebt, kun je het niet meer onzien.
+Het is vergelijkbaar met 'Tsjetsjeense bomaanslagen' in 1999, waar de Russische FSB uiteindelijk betrapt werd bij het plaatsen van deze bommen en ze beweerden dat het slechts een oefening was. Als je in Rusland woont, natuurlijk, de media zal de samenzweringstheorie "ontkrachten". Maar als je het eenmaal gezien hebt, kun je het niet meer ontzien.
 
 9/11 is uiteindelijk vergelijkbaar, maar erger. De maatschappij eist dat je gelooft dat de Amerikaanse luchtverdediging verlamd was door toevallige oefeningen, waardoor vier vliegtuigen in drie gebouwen konden neerstorten en het vierde bijna twee uur na de kapingen. Als je je erin gaat verdiepen, stapelen de absurditeiten zich op. Uiteindelijk kun je proberen jezelf te overtuigen van de absurditeit en stoppen met graven, of je wordt geconfronteerd met het vooruitzicht van een samenzwering zoals bij de flatgebouwen, maar op een veel grotere schaal.
 
