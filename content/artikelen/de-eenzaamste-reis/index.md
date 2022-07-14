@@ -2,7 +2,7 @@
 title = "De eenzaamste reis"
 subtitle = "Meditatie over de dwaas in de Tarot"
 auteurs = ["Tólma"]
-date = "2022-07-14"
+date = "2022-07-15"
 themas = "Religie & Metafysica"
 aangehaald = "List [ \"Friedrich Nietzsche\" ]"
 question = "Wat zijn uw gedachten over dit artikel?"
