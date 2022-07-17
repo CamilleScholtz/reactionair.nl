@@ -52,7 +52,7 @@ Het waarschijnlijk grootse minpunt blijft dat de partij zich negatief heeft opge
 
 De huidige coalitie laat zien dat wetgevers en regering weinig respect lijken te hebben voor de grondwet. De dreiging is sterker voor de boeren vanwege het gebrek aan een echt degelijke rechtsstaat. De grondrechten van de burger moeten juist beschermen tegen zo’n tirannie door de staat. Beroep op mensenrechten tegen de staat vereist echter een consistente definitie en onafhankelijke bescherming. 
 
-Het dilemma: tussen rechtsstaat en democratie; dikastocratie vs. illegitieme wetgeving 
+### Het dilemma: tussen rechtsstaat en democratie; dikastocratie versus illegitieme wetgeving 
 
 Forum Voor Democratie heeft vaak gesproken over het probleem van de dikastocratie, beter bekend als ‘rechterlijk activisme’. Het gaat daarbij om ongekozen rechters die politiek beleid bepalen; een groot probleem in landen als de VS, Brazilië, Portugal, Colombia en Zuid-Korea.\[8]\[9]\[10]\[11] Decennia- of eeuwenoude wetgeving wordt plotseling verklaard met de grondwet, omdat de wetten niet passen bij de overtuigingen van de rechters.  
 
@@ -64,7 +64,7 @@ Alhoewel PVV en FVD terechte kritieken hebben gehad op de partijdigheid van (vee
 
 We hebben een balans nodig tussen dikastocratie en parlementaire almacht. 
 
-Het Nederlandse moeras 
+### Het Nederlandse moeras 
 
 Nederland is een zeldzaam voorbeeld van het laatste uiterste. Het is een van de weinige democratische landen dat nog steeds constitutionele toetsing schuwt. Er zijn geen rechtsbeslissingen als Roe v. Wade omdat artikel 120 van onze rechters verbiedt wetten te toetsen aan de grondwet. Thorbecke was tegen een dergelijk verbod op toetsing toen de grondwet oorspronkelijk werd samengesteld, maar toch kwam het erin.  
 
@@ -86,7 +86,7 @@ De benoeming van rechters wordt volgens de grondwet nog steeds gedaan via konink
 
 Tegelijkertijd is de benoeming van de meeste rechters door de regering ook erg ondoorzichtig. 
 
-Voorgestelde hervormingen 
+### Voorgestelde hervormingen 
 
 Forum Voor Democratie heeft meerdere hervormingsvoorstellen geopperd om het rechtssysteem te verbeteren: 
 
@@ -122,7 +122,7 @@ Of gewoon het instellen van een apart constitutioneel hof. Dat is een simpelere 
 
 Een dergelijk constitutioneel hof zou de aanval op de boeren, de censuur van ON en de sleepwet strijdig kunnen verklaren met de Nederlandse grondwet. 
 
-Concluderend: fanatiek maar ook verstandig 
+### Concluderend: fanatiek maar ook verstandig 
 
 FVD en PVV lijden, net als veel energieke vernieuwingsbewegingen die de status quo willen opschudden, aan vurig fanatisme en een passie die (nog) niet consistent uitgewerkt of gefocust zijn. Het Forum levert een geweldige eerste tekst, die wel nog herschreven zou moeten worden ten behoeve van broodnodige balans. 
 
@@ -132,20 +132,19 @@ Constructief populisme dat de rechtsstaat zuivert van corruptie en streeft naar 
 
 Advies voor Gideon: omarm constitutionele toetsing en de rechtsstaat als potentieel schild.       Advies voor regerende partijen: bestudeer mensenrechten, rechtsstatelijke principes….of gewoon de wet.  
 
-\[1]<https://www.metronieuws.nl/in-het-nieuws/binnenland/2022/07/gundogan-aangifte-fvd-gideon-van-meijeren/> 
+[^1]: <https://www.metronieuws.nl/in-het-nieuws/binnenland/2022/07/gundogan-aangifte-fvd-gideon-van-meijeren/> 
 
-1. <https://www.volkskrant.nl/mensen/paul-cliteur-binnen-elke-discipline-is-een-pluraliteit-van-standpunten-nodig~ba968595/> 
-2. <https://nos.nl/artikel/2369884-ophef-over-neurenberg-voorbeeld-forum-leider-baudet> 
-3. <https://oorsprong.info/motie-van-dr-pepijn-van-houwelingen-fvd-over-verlaging-abortusgrens-naar-18-weken-met-zeer-ruime-meerderheid-verworpen/>  
-4. De Conservatieve Vooruitgang P. 25 en 25 
-5. <https://www.parlement.com/id/vlgrls4kpfqj/analyse_partijstandpunten_bestuurlijke> 
-6. <https://www.eerstekamer.nl/wetsvoorstel/28331_initiatiefvoorstel_halsema> 
-7. Jeffries, John & Levinson, Daryl (1998). "The Non-Retrogression Principle in Constitutional Law". California Law Review. 86 (6): 1211 
-8. <https://edition.cnn.com/2019/04/11/health/south-korea-abortion-ban-ruling-intl/index.html> 
-9. <https://choice.npr.org/index.html?origin=https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu> 
-10. <https://apnews.com/article/f566045f4a5646b6846ccfeafeebd0f3> 
-11. <https://www.telegraaf.nl/nieuws/1383689292/raad-voor-de-rechtspraak-vernietigend-over-noodzaak-uitbreiding-coronapas> 
-12. <https://www.youtube.com/watch?v=3hLiKR_Whp8> 
-13. https://www.facebook.com/forumvoordemocratie/videos/337980274127329/ 
+<https://www.volkskrant.nl/mensen/paul-cliteur-binnen-elke-discipline-is-een-pluraliteit-van-standpunten-nodig~ba968595/> 
 
-<!--EndFragment-->
+1. <https://nos.nl/artikel/2369884-ophef-over-neurenberg-voorbeeld-forum-leider-baudet> 
+2. <https://oorsprong.info/motie-van-dr-pepijn-van-houwelingen-fvd-over-verlaging-abortusgrens-naar-18-weken-met-zeer-ruime-meerderheid-verworpen/>  
+3. De Conservatieve Vooruitgang P. 25 en 25 
+4. <https://www.parlement.com/id/vlgrls4kpfqj/analyse_partijstandpunten_bestuurlijke> 
+5. <https://www.eerstekamer.nl/wetsvoorstel/28331_initiatiefvoorstel_halsema> 
+6. Jeffries, John & Levinson, Daryl (1998). "The Non-Retrogression Principle in Constitutional Law". California Law Review. 86 (6): 1211 
+7. <https://edition.cnn.com/2019/04/11/health/south-korea-abortion-ban-ruling-intl/index.html> 
+8. <https://choice.npr.org/index.html?origin=https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu> 
+9. <https://apnews.com/article/f566045f4a5646b6846ccfeafeebd0f3> 
+10. <https://www.telegraaf.nl/nieuws/1383689292/raad-voor-de-rechtspraak-vernietigend-over-noodzaak-uitbreiding-coronapas> 
+11. <https://www.youtube.com/watch?v=3hLiKR_Whp8> 
+12. https://www.facebook.com/forumvoordemocratie/videos/337980274127329/
