@@ -1,6 +1,6 @@
 +++
-title = "Dialoog over de plicht tot burgerlijke ongehoorzaamheid"
-subtitle = "to do"
+title = "Dialoog I"
+subtitle = "Thoreau en de plicht tot burgerlijke ongehoorzaamheid"
 auteurs = ["Walt van Toor"]
 date = "2022-07-17"
 themas = "Cultuur & Maatschappij"
