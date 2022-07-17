@@ -138,31 +138,22 @@ Constructief populisme dat de rechtsstaat zuivert van corruptie en streeft naar 
 
 Advies voor Gideon: omarm constitutionele toetsing en de rechtsstaat als potentieel schild.       Advies voor regerende partijen: bestudeer mensenrechten, rechtsstatelijke principes….of gewoon de wet.  
 
- 
 
-Bronnen: 
 
-1. <https://www.metronieuws.nl/in-het-nieuws/binnenland/2022/07/gundogan-aangifte-fvd-gideon-van-meijeren/> 
-2. <https://www.volkskrant.nl/mensen/paul-cliteur-binnen-elke-discipline-is-een-pluraliteit-van-standpunten-nodig~ba968595/> 
-3. <https://nos.nl/artikel/2369884-ophef-over-neurenberg-voorbeeld-forum-leider-baudet> 
-4. <https://oorsprong.info/motie-van-dr-pepijn-van-houwelingen-fvd-over-verlaging-abortusgrens-naar-18-weken-met-zeer-ruime-meerderheid-verworpen/>  
-5. De Conservatieve Vooruitgang P. 25 en 25 
-6. <https://www.parlement.com/id/vlgrls4kpfqj/analyse_partijstandpunten_bestuurlijke> 
-7. <https://www.eerstekamer.nl/wetsvoorstel/28331_initiatiefvoorstel_halsema> 
-8. Jeffries, John & Levinson, Daryl (1998). "The Non-Retrogression Principle in Constitutional Law". California Law Review. 86 (6): 1211 
-9. <https://edition.cnn.com/2019/04/11/health/south-korea-abortion-ban-ruling-intl/index.html> 
-10. <https://choice.npr.org/index.html?origin=https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu> 
-11. <https://apnews.com/article/f566045f4a5646b6846ccfeafeebd0f3> 
-12. <https://www.telegraaf.nl/nieuws/1383689292/raad-voor-de-rechtspraak-vernietigend-over-noodzaak-uitbreiding-coronapas> 
-13. <https://www.youtube.com/watch?v=3hLiKR_Whp8> 
-14. https://www.facebook.com/forumvoordemocratie/videos/337980274127329/ 
+\[1]<https://www.metronieuws.nl/in-het-nieuws/binnenland/2022/07/gundogan-aangifte-fvd-gideon-van-meijeren/> 
 
- 
-
- 
-
- 
-
- 
+1. <https://www.volkskrant.nl/mensen/paul-cliteur-binnen-elke-discipline-is-een-pluraliteit-van-standpunten-nodig~ba968595/> 
+2. <https://nos.nl/artikel/2369884-ophef-over-neurenberg-voorbeeld-forum-leider-baudet> 
+3. <https://oorsprong.info/motie-van-dr-pepijn-van-houwelingen-fvd-over-verlaging-abortusgrens-naar-18-weken-met-zeer-ruime-meerderheid-verworpen/>  
+4. De Conservatieve Vooruitgang P. 25 en 25 
+5. <https://www.parlement.com/id/vlgrls4kpfqj/analyse_partijstandpunten_bestuurlijke> 
+6. <https://www.eerstekamer.nl/wetsvoorstel/28331_initiatiefvoorstel_halsema> 
+7. Jeffries, John & Levinson, Daryl (1998). "The Non-Retrogression Principle in Constitutional Law". California Law Review. 86 (6): 1211 
+8. <https://edition.cnn.com/2019/04/11/health/south-korea-abortion-ban-ruling-intl/index.html> 
+9. <https://choice.npr.org/index.html?origin=https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu> 
+10. <https://apnews.com/article/f566045f4a5646b6846ccfeafeebd0f3> 
+11. <https://www.telegraaf.nl/nieuws/1383689292/raad-voor-de-rechtspraak-vernietigend-over-noodzaak-uitbreiding-coronapas> 
+12. <https://www.youtube.com/watch?v=3hLiKR_Whp8> 
+13. https://www.facebook.com/forumvoordemocratie/videos/337980274127329/ 
 
 <!--EndFragment-->
