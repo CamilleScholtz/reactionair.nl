@@ -1,5 +1,5 @@
 +++
-title = "Dialoog I"
+title = "Dialoog over de plicht tot burgerlijke ongehoorzaamheid"
 subtitle = "to do"
 auteurs = ["Walt van Toor"]
 date = "2022-07-17"
