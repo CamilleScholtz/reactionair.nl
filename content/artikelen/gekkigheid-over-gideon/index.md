@@ -12,7 +12,7 @@ Terwijl Nederland (Europa en eigenlijk misschien wel de meerderheid van de werel
 
 Gideon van Meijeren haalde het wetboek van strafrecht aan om geweld van boeren ter verdediging van hun bezit te verdedigen. Nu wordt er aangifte gedaan.[^1] Maar als de boeren worden bedreigd en hun recht op privébezit wordt geschonden, mogen burgers zich dan niet verdedigen tegen de staat?  Wanneer is geweld gerechtvaardigd? Wat is de hoogste wet en wat zijn absolute mensenrechten? Als hier geen consensus over is, bevinden we ons dan niet al de facto in een burgeroorlog?  Democratie, vrijheid en zelfs fatsoen, zijn niet meer vanzelfsprekende of duidelijk gedefinieerde concepten. Wat nu?   Bestaan er onveranderlijke rechten? Hebben Nederlanders recht op bestaanszekerheid? Zijn we onderdanen of vrije burgers? 
 
-**De achtbaan van gestoordheidspark** 
+### **De achtbaan van gestoordheidspark** 
 
 We bevinden ons in een stroomversnelling. Niets is zeker. Onze boeren worden bedreigd, onze vissers, onze huizenmarkt, onze onderwijsvrijheid en zelfs onze vrijheid van meningsuiting.  
 
@@ -20,17 +20,11 @@ Lang hebben Nederlanders deze liberale vrijheden en rechten vanzelfsprekend gevo
 
 De enige beperking lag bij het schenden van de rechten van anderen… of als we ons racistisch toonden… en daarbij kon kritiek op de islam en mogelijk ook de joodse religie racistisch worden geacht (niet kritiek op het christendom vreemd genoeg). Ook kritiek op immigratie, maar dan vooral als die van ‘rechts’ kwam. Tenslotte mochten seksisme en homofobie natuurlijk niet… behalve dan misschien in de naam van een buitenlandse religie. Verder waren we vrij en veilig. 
 
-Nu blijken privébezit en vrijheid van bijeenkomst allemaal ineens niet meer zo absoluut.  
-
-Ironisch, dat in een samenleving doordrenkt van progressief-liberale ideologie de traditionele liberale vrijheden en rechten niet langer vanzelfsprekend zijn. Individualisme wordt er vooral gebruikt om mensen (en met name kinderen) gedwongen af te scheiden van hun gezinnen, gemeenschappen en kerken, niet om ze te beschermen tegen de massasamenleving of de regering.  
-
-Rechten van minderheden lijken vaak niet bedoeld voor ‘ouderwetste’ minderheden, zoals bewoners van de bijbelgordel of onze bejaarden.  
-
-Boeren en loonarbeiders hebben niet dezelfde rechten meer als in 2010. In een revolutionaire staat zijn de rechten van vandaag morgen weer achterhaald. 
+Nu blijken privébezit en vrijheid van bijeenkomst allemaal ineens niet meer zo absoluut.  Ironisch, dat in een samenleving doordrenkt van progressief-liberale ideologie de traditionele liberale vrijheden en rechten niet langer vanzelfsprekend zijn. Individualisme wordt er vooral gebruikt om mensen (en met name kinderen) gedwongen af te scheiden van hun gezinnen, gemeenschappen en kerken, niet om ze te beschermen tegen de massasamenleving of de regering. Rechten van minderheden lijken vaak niet bedoeld voor ‘ouderwetste’ minderheden, zoals bewoners van de bijbelgordel of onze bejaarden. Boeren en loonarbeiders hebben niet dezelfde rechten meer als in 2010. In een revolutionaire staat zijn de rechten van vandaag morgen weer achterhaald. 
 
 Voor de duidelijkheid, de huidige aanvallen op de boeren zijn niet gebaseerd op bestaande wetgeving en als zodanig strijdig met het legaliteitsbeginsel en het Europese Verdrag voor de Rechten van de Mens. Dit heeft Omtzigt al perfect duidelijk gemaakt. In die zin is er inderdaad sprake van verdediging tegen een (ambt)misdrijf.  
 
-FVD opschudding 
+### FVD opschudding 
 
 Standaardpolitiek, zekerheden, het vertrouwde, zijn als zand in de wind. De westerse wereld is in rap tempo aan het radicaliseren en polariseren.  
 
@@ -137,8 +131,6 @@ FVD richt zich veel op metapolitiek en cultuur, op principes en idealen, maar de
 Constructief populisme dat de rechtsstaat zuivert van corruptie en streeft naar tegenwicht t.o.v. de regering lijkt me beter dan een simpele inperking van de rechtsstaat.  
 
 Advies voor Gideon: omarm constitutionele toetsing en de rechtsstaat als potentieel schild.       Advies voor regerende partijen: bestudeer mensenrechten, rechtsstatelijke principes….of gewoon de wet.  
-
-
 
 \[1]<https://www.metronieuws.nl/in-het-nieuws/binnenland/2022/07/gundogan-aangifte-fvd-gideon-van-meijeren/> 
 
