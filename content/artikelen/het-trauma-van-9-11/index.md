@@ -42,4 +42,4 @@ Je wacht op het moment dat het hele onzinverhaal in elkaar stort onder zijn eige
 
 9/11 is een beetje als een rorschachtest. Verschillende mensen zien verschillende dingen. Ik weet wat ik heb gezien, ik weet dat ik het niet kan ontmaskeren en ik weet dat ik iemand die het niet wil zien, nooit zal kunnen overtuigen. En dat zal ik de rest van mijn leven met me mee moeten dragen.
 
-[^1]: Zie dit artikel met officiële documenten, ooggetuigenverklaringen, en gearchiveerde beelden: *[The dancing Israellis: FBI docs shed light on apparant MOSSAD foreknowledge of 9/11 attacks](https://www.mintpressnews.com/newly-released-fbi-docs-shed-light-on-apparent-mossad-foreknowledge-of-9-11-attacks/258581/)]*
+[^1]: Zie dit artikel met officiële documenten, ooggetuigenverklaringen en gearchiveerde beelden: *[The dancing Israellis: FBI docs shed light on apparant MOSSAD foreknowledge of 9/11 attacks](https://www.mintpressnews.com/newly-released-fbi-docs-shed-light-on-apparent-mossad-foreknowledge-of-9-11-attacks/258581/)*
