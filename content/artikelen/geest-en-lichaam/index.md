@@ -57,11 +57,11 @@ Nu meer dan ooit is het van belang om lering te trekken uit het verleden. De gee
 
 [^3]: Slag bij Potidaea, 432 v.C.
 
-[^4]: Plutarchus, Βίοι Παράλληλοι (Parallele levens), Alcibiades:
+[^4]: Plutarchus, *Βίοι Παράλληλοι* (*Parallele levens*), Alcibiades:
 
 ἰσχυρᾶς δὲ γενομένης μάχης ἠρίστευσαν μὲν ἀμφότεροι, τοῦ δ᾽ Ἀλκιβιάδου τραύματι περιπεσόντος ὁ Σωκράτης προέστη καὶ ἤμυνε καὶ μάλιστα δὴ προδήλως ἔσωσεν αὐτὸν μετὰ τῶν ὅπλων.
 
-Eens vond er een fel gevecht plaats, waarin beiden grote moedigheid toonden, maar toen Alcibiades gewond raakte wierp Socrates zich voor hem om hem te beschermen, en redde hem en zijn wapenen zonder twijfel van de vijand.
+Eens vond er een fel gevecht plaats, waarin beiden grote moed toonden, maar toen Alcibiades gewond raakte wierp Socrates zich voor hem om hem te beschermen, en redde hem en zijn wapenen zonder twijfel van de vijand.
 
 [^5]: Slag bij Delium, 424 v.C.
 
