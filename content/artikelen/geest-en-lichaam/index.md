@@ -4,6 +4,7 @@ subtitle = "Lessen van drie grote filosofen"
 auteurs = ["Anton Prins"]
 date = "2022-07-19"
 themas = "Religie & Metafysica"
+aangehaald = "List [ \"Socrates\", \"Plato\", \"Aristoteles\" ]"
 question = "Wat zijn uw gedachten over dit artikel?"
 image = "1.png"
 anchor = "Smart"
