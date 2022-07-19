@@ -71,9 +71,9 @@ Eens vond er een fel gevecht plaats, waarin beiden grote moedigheid toonden, maa
 
 8 Diogenes Laërtius, Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων (Leven en leer van beroemde filosofen), B. III
 
-9 Zie betreffende dit onderwerp ook het artikel Civitas en civilisatie 
+9 Zie betreffende dit onderwerp ook het artikel [Civitas en civilisatie](https://reactionair.nl/artikelen/civitas-en-civilisatie).
 
-<https://reactionair.nl/artikelen/civitas-en-civilisatie/>
+[](https://reactionair.nl/artikelen/civitas-en-civilisatie/)
 
 10 Book VII, hoofdstuk 14
 
