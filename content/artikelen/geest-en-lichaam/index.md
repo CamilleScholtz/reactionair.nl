@@ -61,7 +61,7 @@ Vertaling: Eens vond er een fel gevecht plaats, waarin beiden grote moed toonden
 
 [^6]: Strabo vertelt in zijn *Γεωγραφικά* (*Geographika*) hoe Socrates Xenophon, die van zijn paard was gevallen tijdens de betreffende aftocht, op zijn schouders nam en hem vele stadiën droeg terug naar het fort van de Atheners.
 
-[^7]: Plato was vernoemd naar zijn grootvader, Aristokles, dit was dan ook de echte naam van deze beroemde filosoof. πλατὺς betekent breed of wijd.
+[^7]: Plato was vernoemd naar zijn grootvader, Aristocles, dit was dan ook de echte naam van deze beroemde filosoof. πλατὺς betekent breed of wijd.
 
 [^8]: Diogenes Laërtius, *Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων* (*Leven en leer van beroemde filosofen*), Boek III.
 
