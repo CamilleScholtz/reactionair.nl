@@ -51,23 +51,23 @@ In de loop der tijd werd de filosofie stukje bij beetje opgedeeld en afgebroken,
 
 Nu meer dan ooit is het van belang om lering te trekken uit het verleden. De geest is onlosmakelijk verbonden met het lichaam en om het maximale uit één van beiden te halen, zijn wij genoodzaakt ook de ander te onderhouden. De schoonste aller geesten bloeien op uit de schoonste aller lichamen. Het oefenen van zowel geest als lichaam zal voor beiden de grootst mogelijke bloei betekenen en met een gezond lichaam zijn wij geweerd voor gevaar van buitenaf—en van binnenuit. 12
 
-1 De afhankelijkheid van burgerschap van het dienen van het vaderland vinden wij ook elders in de geschiedenis, zo kon onder de Romeinse keizer Claudius een Peregrinus (een provinciale onderdaan) het burgerschap behalen voor hemzelf en zijn gezin nadat hij minimaal 25 jaar had gediend in het Romeinse leger.
+[^1]: De afhankelijkheid van burgerschap van het dienen van het vaderland vinden wij ook elders in de geschiedenis, zo kon onder de Romeinse keizer Claudius een Peregrinus (een provinciale onderdaan) het burgerschap behalen voor hemzelf en zijn gezin nadat hij minimaal 25 jaar had gediend in het Romeinse leger.
 
-2 Plato, Symposium, vertaling Dr. B.H. Bal, 1953
+[^2]: Plato, Symposium, vertaling Dr. B.H. Bal, 1953
 
-3 Slag bij Potidaea, 432 v.C.
+[^3]: Slag bij Potidaea, 432 v.C.
 
-4 Plutarchus, Βίοι Παράλληλοι (Parallele levens), Alcibiades:
+[^4]: Plutarchus, Βίοι Παράλληλοι (Parallele levens), Alcibiades:
 
 ἰσχυρᾶς δὲ γενομένης μάχης ἠρίστευσαν μὲν ἀμφότεροι, τοῦ δ᾽ Ἀλκιβιάδου τραύματι περιπεσόντος ὁ Σωκράτης προέστη καὶ ἤμυνε καὶ μάλιστα δὴ προδήλως ἔσωσεν αὐτὸν μετὰ τῶν ὅπλων.
 
 Eens vond er een fel gevecht plaats, waarin beiden grote moedigheid toonden, maar toen Alcibiades gewond raakte wierp Socrates zich voor hem om hem te beschermen, en redde hem en zijn wapenen zonder twijfel van de vijand.
 
-5 Slag bij Delium, 424 v.C.
+[^5]: Slag bij Delium, 424 v.C.
 
-6 Strabo vertelt in zijn Γεωγραφικά (Geographika) hoe Socrates Xenophon, die van zijn paard was gevallen tijdens de betreffende aftocht, op zijn schouders nam en hem vele stadiën droeg terug naar het fort van de Atheners.
+[^6]: Strabo vertelt in zijn Γεωγραφικά (Geographika) hoe Socrates Xenophon, die van zijn paard was gevallen tijdens de betreffende aftocht, op zijn schouders nam en hem vele stadiën droeg terug naar het fort van de Atheners.
 
-7 Plato was vernoemd naar zijn grootvader, Aristocles, dit was dan ook de echte naam van deze beroemde filosoof. πλατὺς betekent breed of wijd.
+[^7]: Plato was vernoemd naar zijn grootvader, Aristocles, dit was dan ook de echte naam van deze beroemde filosoof. πλατὺς betekent breed of wijd.
 
 8 Diogenes Laërtius, Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων (Leven en leer van beroemde filosofen), B. III
 
