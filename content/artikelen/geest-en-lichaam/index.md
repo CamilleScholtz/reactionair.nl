@@ -1,6 +1,6 @@
 +++
 title = "Geest en lichaam en hun onderlinge afhankelijkheid"
-subtitle = "Lessen van drie grote filosofen"
+subtitle = "Pleidooi voor de krijger-wijsgeer"
 auteurs = ["Anton Prins"]
 date = "2022-07-19"
 themas = "Religie & Metafysica"
