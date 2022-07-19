@@ -9,6 +9,8 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "joker-en-de-clown-world-van-alt-right-1536x1024-1-1024x683.jpeg"
 anchor = "Smart"
 +++
+*Dit artikel is een vertaling van VJM Publishing. Het origineel is [hier ](https://vjmpublishing.nz/?p=21454)te vinden.*
+
 Bioleninisme omschrijft een bekend fenomeen in de clownwereld – de sociaal afgewezenen die zich organiseren om hun wil aan de samenleving als geheel op te dringen. Het is kenmerkend voor de clownwereld dat mensen die normaal gezien zichzelf verstoppen uit schaamte, nu luid en trots zich kenbaar maken. Nog erger, ze hebben zich georganiseerd en beheersen het narratief. Bioleninisme is de rode draad die hier doorheen loopt.
 
 Het originele leninisme was een soort slavenmoraal die verschillende buitenbeetjes uit de samenleving aantrok. Een beetje zoals christendom dat deed in het Romeinse rijk, waar het in eerste instantie voornamelijk populair werd onder de slaven, werd leninisme initieel populair onder hen die zich aan de onderkant van de samenleving bevinden. In het geval van Rusland waren dit geen slaven, maar alcoholisten, prostituees, kruimeldieven en zij die gemeden werden omhun wreedheid.
