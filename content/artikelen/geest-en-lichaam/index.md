@@ -9,9 +9,9 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "1.png"
 anchor = "Smart"
 +++
-*Dit artikel is een vertaling en bewerking van* Mind and Muscle *van Tocharus ([hier ](https://tocharus.substack.com/p/mind-and-muscle)te lezen). De vertaler heeft de vrijheid genomen het één en ander enigszins uit te breiden en enkele verwijzingen naar bronnen toe te voegen.*
+*Dit artikel is een vertaling en bewerking van* Mind and Muscle *van Tocharus ([hier](https://tocharus.substack.com/p/mind-and-muscle) te lezen). De vertaler heeft de vrijheid genomen het één en ander enigszins uit te breiden en enkele verwijzingen naar bronnen toe te voegen.*
 
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__*
+- - -
 
 In de duizenden jaren die achter ons liggen en waarin zich vele wijsgerige stromingen hebben ontvouwen is ons een simpele les ontvallen. Er was een tijd, lang geleden, dat de meest briljante academici naast het ontplooien van hun geestelijke capaciteiten ook de lichamelijke vermogens ten volle pleegden te ontwikkelen. De oorsprong hiervan bevindt zich in de onvrede tussen verschillende volkeren en stadsstaten die destijds heerste en om deze reden werd elke gezonde man geacht als soldaat zijn gemeenschap te dienen alvorens hij de voordelen mocht genieten die de titel van burger hem schonk —een omstandigheid die zijn weerklank vindt in de levens en woorden van de toenmalige filosofen.[^1]
 
@@ -50,23 +50,13 @@ Nu meer dan ooit is het van belang om lering te trekken uit het verleden. De gee
 [^1]: De afhankelijkheid van burgerschap van het dienen van het vaderland vinden wij ook elders in de geschiedenis, zo kon onder de Romeinse keizer Claudius een peregrinus (een provinciale onderdaan) het burgerschap behalen voor hemzelf en zijn gezin nadat hij minimaal 25 jaar had gediend in het Romeinse leger.
 
 [^2]: Plato, Symposium, vertaling Dr. B.H. Bal, 1953.
-
 [^3]: Slag bij Potidaea, 432 voor Christus.
-
-[^4]: Plutarchus, *Βίοι Παράλληλοι* (*Parallele levens*), Alcibiades: ἰσχυρᾶς δὲ γενομένης μάχης ἠρίστευσαν μὲν ἀμφότεροι, τοῦ δ᾽ Ἀλκιβιάδου τραύματι περιπεσόντος ὁ Σωκράτης προέστη καὶ ἤμυνε καὶ μάλιστα δὴ προδήλως ἔσωσεν αὐτὸν μετὰ τῶν ὅπλων.
-
-Vertaling: Eens vond er een fel gevecht plaats, waarin beiden grote moed toonden, maar toen Alcibiades gewond raakte wierp Socrates zich voor hem om hem te beschermen, en redde zonder twijfel hem en zijn wapenen van de vijand.
-
+[^4]: Plutarchus, *Βίοι Παράλληλοι* (*Parallele levens*), Alcibiades: ἰσχυρᾶς δὲ γενομένης μάχης ἠρίστευσαν μὲν ἀμφότεροι, τοῦ δ᾽ Ἀλκιβιάδου τραύματι περιπεσόντος ὁ Σωκράτης προέστη καὶ ἤμυνε καὶ μάλιστα δὴ προδήλως ἔσωσεν αὐτὸν μετὰ τῶν ὅπλων. Vertaling: Eens vond er een fel gevecht plaats, waarin beiden grote moed toonden, maar toen Alcibiades gewond raakte wierp Socrates zich voor hem om hem te beschermen, en redde zonder twijfel hem en zijn wapenen van de vijand.
 [^5]: Slag bij Delium, 424 voor Christus. Strabo vertelt in zijn *Γεωγραφικά* (*Geographika*) hoe Socrates Xenophon, die van zijn paard was gevallen tijdens de betreffende aftocht, op zijn schouders nam en hem vele stadiën droeg terug naar het fort van de Atheners.
-
 [^6]: Plato was vernoemd naar zijn grootvader, Aristocles, dit was dan ook de echte naam van deze beroemde filosoof. πλατὺς betekent breed of wijd.
-
 [^7]: Diogenes Laërtius, *Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων* (*Leven en leer van beroemde filosofen*), Boek III.
-
 [^8]: Zie betreffende dit onderwerp ook het artikel [Civitas en civilisatie](https://reactionair.nl/artikelen/civitas-en-civilisatie).
 
-[](https://reactionair.nl/artikelen/civitas-en-civilisatie/)[^9]: Boek VII, hoofdstuk 14: Voorts is het leven verdeeld in arbeid en rust, oorlog en vrede, en van wat we doen zijn de doelen deels noodzakelijk en nuttig, deels nobel: en eenzelfde voorkeur dienen wij aan deze zaken te geven als aan de delen van de ziel en diens acties, als oorlog om vrede te bereiken, arbeid om rust te verkrijgen en het nuttige om het nobele te verwerven.
-
+[^9](https://reactionair.nl/artikelen/civitas-en-civilisatie/)[^9]: Boek VII, hoofdstuk 14: Voorts is het leven verdeeld in arbeid en rust, oorlog en vrede, en van wat we doen zijn de doelen deels noodzakelijk en nuttig, deels nobel: en eenzelfde voorkeur dienen wij aan deze zaken te geven als aan de delen van de ziel en diens acties, als oorlog om vrede te bereiken, arbeid om rust te verkrijgen en het nuttige om het nobele te verwerven.
 [^10]: Xenophon, *Ἀπομνημονεύματα Σωκράτους* (*Herinneringen aan Socrates*), Boek III, hoofdstuk 12.
-
 [^11]: De oplettende lezer zal het niet ontgaan dat dit toepasbaar is zowel op het individuele lichaam, als op het lichaam van de samenleving. Deze is heden ten dage sterk onderling verdeeld, daar het haar ontbreekt aan innerlijke kracht.
