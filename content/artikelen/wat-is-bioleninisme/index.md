@@ -13,7 +13,7 @@ anchor = "Smart"
 
 Bioleninisme omschrijft een bekend fenomeen in de clownwereld – de sociaal afgewezenen die zich organiseren om hun wil aan de samenleving als geheel op te dringen. Het is kenmerkend voor de clownwereld dat mensen die normaal gezien zichzelf verstoppen uit schaamte, nu luid en trots zich kenbaar maken. Nog erger, ze hebben zich georganiseerd en beheersen het narratief. Bioleninisme is de rode draad die hier doorheen loopt.
 
-Het originele leninisme was een soort slavenmoraal die verschillende buitenbeetjes uit de samenleving aantrok. Een beetje zoals christendom dat deed in het Romeinse rijk, waar het in eerste instantie voornamelijk populair werd onder de slaven, werd leninisme initieel populair onder hen die zich aan de onderkant van de samenleving bevinden. In het geval van Rusland waren dit geen slaven, maar alcoholisten, prostituees, kruimeldieven en zij die gemeden werden omhun wreedheid.
+Het originele leninisme was een soort slavenmoraal die verschillende buitenbeetjes uit de samenleving aantrok. Een beetje zoals christendom dat deed in het Romeinse rijk, waar het in eerste instantie voornamelijk populair was onder de slaven, was leninisme initieel populair onder hen die zich aan de onderkant van de samenleving bevinden. In het geval van Rusland waren dit geen slaven, maar alcoholisten, prostituees, kruimeldieven en zij die gemeden werden om hun wreedheid.
 
 Kenmerkend voor alle populaire slavenmoraliteiten is dat ze de rancuneuzen onder zich verzamelen. Christendom deed dit, het originele communisme deed dit en nu komen de bodemvreters van de clownwereld samen om het wederom te doen – dit is bioleninisme.
 
