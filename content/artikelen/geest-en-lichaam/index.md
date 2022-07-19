@@ -31,17 +31,17 @@ Ook Plato, door velen beschouwd als één van de meest invloedrijke Westerse fil
 
 Dit gedachtegoed zet zich voort in Aristoteles, ongetwijfeld van Plato‘s vele studenten zijn belangrijkste. Aristoteles was, in tegenstelling tot de twee voorgaande Atheense heren, een Macedoniër. In de *Politika* van Aristoteles neemt het idee dat mannen van aard geschikt zijn voor het leven van de polis, de stad, en niet hun potentieel ten volle realiseren tot zij de rol van burger op zich nemen een centrale plaats in. Aristoteles ziet echter tevens de staat van oorlog als natuurlijk, mits het een nobel doel heeft, bijvoorbeeld om vrede te bereiken.[^10] Hij zou overigens de leraar van één van de grootste militaire geesten aller tijden worden: Alexander de Grote. 
 
-Zo strekt het gedachtegoed van het ontwikkelen van het lichaam, en het innige verband tussen het van de staat als soldaat alvorens men zich als burger richtte op intellectuele onderwerpen zich van Socrates tot Alexander uit. Vergis u hier niet: ook Aristoteles' burgerschap veronderstelde militaire oefening; zo wordt van de man die zijn potentieel als burger heeft bereikt veronderstelt dat hij ook zijn lichamelijk potentieel reeds heeft vervuld. De samenhang tussen lichaam en geest, tussen krijger en burger en tussen oorlog en vrede is als zodanig, dat het lichaam gezond moet zijn, tegen verval van buitenaf en van binnenin beschermd, opdat de geest zich ten volle kan ontwikkelen:
+Zo strekt het gedachtegoed van het ontwikkelen van het lichaam, en het innige verband tussen het van de staat als soldaat alvorens men zich als burger richtte op intellectuele onderwerpen zich van Socrates tot Alexander uit. Vergis u hier niet: ook Aristoteles' burgerschap veronderstelde militaire oefening; zo wordt van de man die zijn potentieel als burger heeft bereikt verondersteld dat hij ook zijn lichamelijk potentieel reeds heeft vervuld. De samenhang tussen lichaam en geest, tussen krijger en burger en tussen oorlog en vrede is als zodanig, dat het lichaam gezond moet zijn, tegen verval van buitenaf en van binnenin beschermd, opdat de geest zich ten volle kan ontwikkelen[^11]:
 
-In alles dat de mensen doen is het lichaam nuttig; en in alle toepassingen des lichaams is het van het grootste belang om in zo hoog mogelijke staat van lichamelijke bekwaamheid te verkeren. Zelfs bij het denken, waar toch het gebruik van het lichaam minimaal schijnt, is het een welbekend feit dat grote vergissingen veelal terug te voeren zijn op een slechte gezondheid. En daar het lichaam in slechte staat verkeert, houden geheugenverlies, depressie, onvrede en waanzin de geest met hevigheid in hun greep, en verdrijven zo enige kennis die deze bevatte.
-
-Maar een deugdelijk, een gezond lichaam is een sterke bescherming voor een man, en teneinde is er geen gevaar dat zulks een onheil hem ten dele zal vallen omwille van lichamelijke zwakte: integendeel, het is waarschijnlijk dat zijn gezondheid uitwerkingen zal hebben die het tegenovergestelde zijn van degenen die ontstaan bij een slechte gezondheid.
-
-En wat zal een man van gezond verstand niet doen, om zoveel onheilen te vermijden, en zich zo grote voordelen te verschaffen?
-
-Voorts, is het niet schandelijk, dat men door de gevolgen der werkeloosheid, den ouderdom nadert, zonder te weten, tot hoever men zijne (lichamelijke) kracht en zijne handigheid zou hebben kunnen brengen?
-
-En men kan niet geloven, dat deze hoedanigheden zich geheel van zelfs ontwikkelen.[^11]
+> In alles dat de mensen doen is het lichaam nuttig; en in alle toepassingen des lichaams is het van het grootste belang om in zo hoog mogelijke staat van lichamelijke bekwaamheid te verkeren. Zelfs bij het denken, waar toch het gebruik van het lichaam minimaal schijnt, is het een welbekend feit dat grote vergissingen veelal terug te voeren zijn op een slechte gezondheid. En daar het lichaam in slechte staat verkeert, houden geheugenverlies, depressie, onvrede en waanzin de geest met hevigheid in hun greep, en verdrijven zo enige kennis die deze bevatte.
+>
+> Maar een deugdelijk, een gezond lichaam is een sterke bescherming voor een man, en teneinde is er geen gevaar dat zulks een onheil hem ten dele zal vallen omwille van lichamelijke zwakte: integendeel, het is waarschijnlijk dat zijn gezondheid uitwerkingen zal hebben die het tegenovergestelde zijn van degenen die ontstaan bij een slechte gezondheid.
+>
+> En wat zal een man van gezond verstand niet doen, om zoveel onheilen te vermijden, en zich zo grote voordelen te verschaffen?
+>
+> Voorts, is het niet schandelijk, dat men door de gevolgen der werkeloosheid, den ouderdom nadert, zonder te weten, tot hoever men zijne (lichamelijke) kracht en zijne handigheid zou hebben kunnen brengen?
+>
+> En men kan niet geloven, dat deze hoedanigheden zich geheel van zelfs ontwikkelen.
 
 In de loop der tijd werd de filosofie stukje bij beetje opgedeeld en afgebroken, waar eens onder haar vleugels wiskundigen, natuurkundigen, ethici en vele anderen verwijlden, is de filosofie heden zodanig versneden dat daar weinig meer van rest. Eerst was de filosoof vaak ook krijger, later werd het gebruikelijk dat de filosoof eerst geestelijke was, weer later, o.a. bij Hegel, zien wij dat de filosoof niet alleen de ontwikkeling van het lichaam maar zelfs de natuurwetenschappen achter zich laat, tot dan voor elke filosoof als noodzakelijke kennis beschouwd. Zo is ook in deze tijd niet langer meer de lichamelijke oefening een vast onderdeel van de vorming van de burger.
 
