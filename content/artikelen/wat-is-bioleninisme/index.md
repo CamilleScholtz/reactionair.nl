@@ -15,7 +15,7 @@ Bioleninisme omschrijft een bekend fenomeen in de clownwereld – de sociaal afg
 
 Het originele leninisme was een soort slavenmoraal die verschillende buitenbeetjes uit de samenleving aantrok. Een beetje zoals christendom dat deed in het Romeinse rijk, waar het in eerste instantie voornamelijk populair was onder de slaven, was leninisme initieel populair onder hen die zich aan de onderkant van de samenleving bevinden. In het geval van Rusland waren dit geen slaven, maar alcoholisten, prostituees, kruimeldieven en zij die gemeden werden om hun wreedheid.
 
-Kenmerkend voor alle populaire slavenmoraliteiten is dat ze de rancuneuzen onder zich verzamelen. Christendom deed dit, het originele communisme deed dit en nu komen de bodemvreters van de clownwereld samen om het wederom te doen – dit is bioleninisme.
+Kenmerkend voor alle populaire slavenmoraliteiten is dat ze de rancuneuzen onder zich verzamelen. Het christendom deed dit, het originele communisme deed dit en nu komen de bodemvreters van de clownwereld samen om het wederom te doen – dit is bioleninisme.
 
 Met bioleninisme wijzen we op een fenomeen waarbij alle genetische verworpenen van de maatschappij samenkomen met het doel hun wil aan de samenleving in den brede op te leggen. Het bedenken van deze term wordt veelal toegeschreven aan de mysterieuze internet-commentator ‘Spandrell’.
 
