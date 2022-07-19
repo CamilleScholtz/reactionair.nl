@@ -36,84 +36,50 @@ Hij zou overigens de leraar van één van de grootste militaire geesten aller ti
 
 
 
-> Zo strekt het gedachtegoed van het ontwikkelen van het lichaam, en het innige verband tussen het van de staat als soldaat alvorens men zich als burger richtte op intellectuele onderwerpen zich van Socrates tot Alexander uit. Vergis u hier niet: ook Aristoteles' burgerschap veronderstelde militaire oefening; zo wordt van de man die zijn potentieel als burger heeft bereikt veronderstelt dat hij ook zijn lichamelijk potentieel reeds heeft vervuld. De samenhang tussen lichaam en geest, tussen krijger en burger en tussen oorlog en vrede is als zodanig, dat het lichaam gezond moet zijn, tegen verval van buitenaf en van binnenin beschermd, opdat de geest zich ten volle kan ontwikkelen:
->
->
->
-> In alles dat de mensen doen is het lichaam nuttig; en in alle toepassingen des lichaams is het van het grootste belang om in zo hoog mogelijke staat van lichamelijke bekwaamheid te verkeren. Zelfs bij het denken, waar toch het gebruik van het lichaam minimaal schijnt, is het een welbekend feit dat grote vergissingen veelal terug te voeren zijn op een slechte gezondheid. En daar het lichaam in slechte staat verkeert, houden geheugenverlies, depressie, onvrede en waanzin de geest met hevigheid in hun greep, en verdrijven zo enige kennis die deze bevatte.
->
-> Maar een deugdelijk, een gezond lichaam is een sterke bescherming voor een man, en teneinde is er geen gevaar dat zulks een onheil hem ten dele zal vallen omwille van lichamelijke zwakte: integendeel, het is waarschijnlijk dat zijn gezondheid uitwerkingen zal hebben die het tegenovergestelde zijn van degenen die ontstaan bij een slechte gezondheid.
->
-> En wat zal een man van gezond verstand niet doen, om zoveel onheilen te vermijden, en zich zo grote voordelen te verschaffen?
->
->
->
-> Voorts, is het niet schandelijk, dat men door de gevolgen der werkeloosheid, den ouderdom nadert, zonder te weten, tot hoever men zijne (lichamelijke) kracht en zijne handigheid zou hebben kunnen brengen?
->
-> En men kan niet geloven, dat deze hoedanigheden zich geheel van zelfs ontwikkelen. 11
->
->
->
-> In de loop der tijd werd de filosofie stukje bij beetje opgedeeld en afgebroken, waar eens onder haar vleugels wiskundigen, natuurkundigen, ethici en vele anderen verwijlden, is de filosofie heden zodanig versneden dat daar weinig meer van rest. Eerst was de filosoof vaak ook krijger, later werd het gebruikelijk dat de filosoof eerst geestelijke was, weer later, o.a. bij Hegel, zien wij dat de filosoof niet alleen de ontwikkeling van het lichaam maar zelfs de natuurwetenschappen achter zich laat, tot dan voor elke filosoof als noodzakelijke kennis beschouwd. Zo is ook in deze tijd niet langer meer de lichamelijke oefening een vast onderdeel van de vorming van de burger.
->
->
->
-> Nu meer dan ooit is het van belang om lering te trekken uit het verleden. De geest is onlosmakelijk verbonden met het lichaam en om het maximale uit één van beiden te halen, zijn wij genoodzaakt ook de ander te onderhouden. De schoonste aller geesten bloeien op uit de schoonste aller lichamen. Het oefenen van zowel geest als lichaam zal voor beiden de grootst mogelijke bloei betekenen en met een gezond lichaam zijn wij geweerd voor gevaar van buitenaf—en van binnenuit. 12
->
->
->
-> 1 De afhankelijkheid van burgerschap van het dienen van het vaderland vinden wij ook elders in de geschiedenis, zo kon onder de Romeinse keizer Claudius een Peregrinus (een provinciale onderdaan) het burgerschap behalen voor hemzelf en zijn gezin nadat hij minimaal 25 jaar had gediend in het Romeinse leger.
->
->
->
-> 2 Plato, Symposium, vertaling Dr. B.H. Bal, 1953
->
->
->
-> 3 Slag bij Potidaea, 432 v.C.
->
->
->
-> 4 Plutarchus, Βίοι Παράλληλοι (Parallele levens), Alcibiades:
->
-> ἰσχυρᾶς δὲ γενομένης μάχης ἠρίστευσαν μὲν ἀμφότεροι, τοῦ δ᾽ Ἀλκιβιάδου τραύματι περιπεσόντος ὁ Σωκράτης προέστη καὶ ἤμυνε καὶ μάλιστα δὴ προδήλως ἔσωσεν αὐτὸν μετὰ τῶν ὅπλων.
->
-> Eens vond er een fel gevecht plaats, waarin beiden grote moedigheid toonden, maar toen Alcibiades gewond raakte wierp Socrates zich voor hem om hem te beschermen, en redde hem en zijn wapenen zonder twijfel van de vijand.
->
->
->
-> 5 Slag bij Delium, 424 v.C.
->
->
->
-> 6 Strabo vertelt in zijn Γεωγραφικά (Geographika) hoe Socrates Xenophon, die van zijn paard was gevallen tijdens de betreffende aftocht, op zijn schouders nam en hem vele stadiën droeg terug naar het fort van de Atheners.
->
->
->
-> 7 Plato was vernoemd naar zijn grootvader, Aristocles, dit was dan ook de echte naam van deze beroemde filosoof. πλατὺς betekent breed of wijd.
->
->
->
-> 8 Diogenes Laërtius, Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων (Leven en leer van beroemde filosofen), B. III
->
->
->
-> 9 Zie betreffende dit onderwerp ook het artikel Civitas en civilisatie 
->
-> <https://reactionair.nl/artikelen/civitas-en-civilisatie/>
->
->
->
-> 10 Book VII, hoofdstuk 14
->
-> Voorts is het leven verdeeld in arbeid en rust, oorlog en vrede, en van wat we doen zijn de doelen deels noodzakelijk en nuttig, deels nobel: en eenzelfde voorkeur dienen wij aan deze zaken te geven als aan de delen van de ziel en diens acties, als oorlog om vrede te bereiken, arbeid om rust te verkrijgen en het nuttige om het nobele te verwerven.
->
->
->
-> 11 Xenophon, Ἀπομνημονεύματα Σωκράτους (Herinneringen aan Socrates), Boek III, hoofdstuk 12
->
->
->
-> 12 De oplettende lezer zal het niet ontgaan dat dit toepasbaar is zowel op het individuele lichaam, als op het lichaam van de samenleving. Deze is heden ten dage sterk onderling verdeeld, daar het haar ontbreekt aan innerlijke kracht.
+Zo strekt het gedachtegoed van het ontwikkelen van het lichaam, en het innige verband tussen het van de staat als soldaat alvorens men zich als burger richtte op intellectuele onderwerpen zich van Socrates tot Alexander uit. Vergis u hier niet: ook Aristoteles' burgerschap veronderstelde militaire oefening; zo wordt van de man die zijn potentieel als burger heeft bereikt veronderstelt dat hij ook zijn lichamelijk potentieel reeds heeft vervuld. De samenhang tussen lichaam en geest, tussen krijger en burger en tussen oorlog en vrede is als zodanig, dat het lichaam gezond moet zijn, tegen verval van buitenaf en van binnenin beschermd, opdat de geest zich ten volle kan ontwikkelen:
 
-<!--EndFragment-->
+In alles dat de mensen doen is het lichaam nuttig; en in alle toepassingen des lichaams is het van het grootste belang om in zo hoog mogelijke staat van lichamelijke bekwaamheid te verkeren. Zelfs bij het denken, waar toch het gebruik van het lichaam minimaal schijnt, is het een welbekend feit dat grote vergissingen veelal terug te voeren zijn op een slechte gezondheid. En daar het lichaam in slechte staat verkeert, houden geheugenverlies, depressie, onvrede en waanzin de geest met hevigheid in hun greep, en verdrijven zo enige kennis die deze bevatte.
+
+Maar een deugdelijk, een gezond lichaam is een sterke bescherming voor een man, en teneinde is er geen gevaar dat zulks een onheil hem ten dele zal vallen omwille van lichamelijke zwakte: integendeel, het is waarschijnlijk dat zijn gezondheid uitwerkingen zal hebben die het tegenovergestelde zijn van degenen die ontstaan bij een slechte gezondheid.
+
+En wat zal een man van gezond verstand niet doen, om zoveel onheilen te vermijden, en zich zo grote voordelen te verschaffen?
+
+Voorts, is het niet schandelijk, dat men door de gevolgen der werkeloosheid, den ouderdom nadert, zonder te weten, tot hoever men zijne (lichamelijke) kracht en zijne handigheid zou hebben kunnen brengen?
+
+En men kan niet geloven, dat deze hoedanigheden zich geheel van zelfs ontwikkelen. 11
+
+In de loop der tijd werd de filosofie stukje bij beetje opgedeeld en afgebroken, waar eens onder haar vleugels wiskundigen, natuurkundigen, ethici en vele anderen verwijlden, is de filosofie heden zodanig versneden dat daar weinig meer van rest. Eerst was de filosoof vaak ook krijger, later werd het gebruikelijk dat de filosoof eerst geestelijke was, weer later, o.a. bij Hegel, zien wij dat de filosoof niet alleen de ontwikkeling van het lichaam maar zelfs de natuurwetenschappen achter zich laat, tot dan voor elke filosoof als noodzakelijke kennis beschouwd. Zo is ook in deze tijd niet langer meer de lichamelijke oefening een vast onderdeel van de vorming van de burger.
+
+Nu meer dan ooit is het van belang om lering te trekken uit het verleden. De geest is onlosmakelijk verbonden met het lichaam en om het maximale uit één van beiden te halen, zijn wij genoodzaakt ook de ander te onderhouden. De schoonste aller geesten bloeien op uit de schoonste aller lichamen. Het oefenen van zowel geest als lichaam zal voor beiden de grootst mogelijke bloei betekenen en met een gezond lichaam zijn wij geweerd voor gevaar van buitenaf—en van binnenuit. 12
+
+1 De afhankelijkheid van burgerschap van het dienen van het vaderland vinden wij ook elders in de geschiedenis, zo kon onder de Romeinse keizer Claudius een Peregrinus (een provinciale onderdaan) het burgerschap behalen voor hemzelf en zijn gezin nadat hij minimaal 25 jaar had gediend in het Romeinse leger.
+
+2 Plato, Symposium, vertaling Dr. B.H. Bal, 1953
+
+3 Slag bij Potidaea, 432 v.C.
+
+4 Plutarchus, Βίοι Παράλληλοι (Parallele levens), Alcibiades:
+
+ἰσχυρᾶς δὲ γενομένης μάχης ἠρίστευσαν μὲν ἀμφότεροι, τοῦ δ᾽ Ἀλκιβιάδου τραύματι περιπεσόντος ὁ Σωκράτης προέστη καὶ ἤμυνε καὶ μάλιστα δὴ προδήλως ἔσωσεν αὐτὸν μετὰ τῶν ὅπλων.
+
+Eens vond er een fel gevecht plaats, waarin beiden grote moedigheid toonden, maar toen Alcibiades gewond raakte wierp Socrates zich voor hem om hem te beschermen, en redde hem en zijn wapenen zonder twijfel van de vijand.
+
+5 Slag bij Delium, 424 v.C.
+
+6 Strabo vertelt in zijn Γεωγραφικά (Geographika) hoe Socrates Xenophon, die van zijn paard was gevallen tijdens de betreffende aftocht, op zijn schouders nam en hem vele stadiën droeg terug naar het fort van de Atheners.
+
+7 Plato was vernoemd naar zijn grootvader, Aristocles, dit was dan ook de echte naam van deze beroemde filosoof. πλατὺς betekent breed of wijd.
+
+8 Diogenes Laërtius, Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων (Leven en leer van beroemde filosofen), B. III
+
+9 Zie betreffende dit onderwerp ook het artikel Civitas en civilisatie 
+
+<https://reactionair.nl/artikelen/civitas-en-civilisatie/>
+
+10 Book VII, hoofdstuk 14
+
+Voorts is het leven verdeeld in arbeid en rust, oorlog en vrede, en van wat we doen zijn de doelen deels noodzakelijk en nuttig, deels nobel: en eenzelfde voorkeur dienen wij aan deze zaken te geven als aan de delen van de ziel en diens acties, als oorlog om vrede te bereiken, arbeid om rust te verkrijgen en het nuttige om het nobele te verwerven.
+
+11 Xenophon, Ἀπομνημονεύματα Σωκράτους (Herinneringen aan Socrates), Boek III, hoofdstuk 12
+
+12 De oplettende lezer zal het niet ontgaan dat dit toepasbaar is zowel op het individuele lichaam, als op het lichaam van de samenleving. Deze is heden ten dage sterk onderling verdeeld, daar het haar ontbreekt aan innerlijke kracht.
