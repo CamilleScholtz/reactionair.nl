@@ -69,16 +69,14 @@ Eens vond er een fel gevecht plaats, waarin beiden grote moedigheid toonden, maa
 
 [^7]: Plato was vernoemd naar zijn grootvader, Aristocles, dit was dan ook de echte naam van deze beroemde filosoof. πλατὺς betekent breed of wijd.
 
-8 Diogenes Laërtius, Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων (Leven en leer van beroemde filosofen), B. III
+[^8]: Diogenes Laërtius, Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων (Leven en leer van beroemde filosofen), B. III
 
-9 Zie betreffende dit onderwerp ook het artikel [Civitas en civilisatie](https://reactionair.nl/artikelen/civitas-en-civilisatie).
+[^9]: Zie betreffende dit onderwerp ook het artikel [Civitas en civilisatie](https://reactionair.nl/artikelen/civitas-en-civilisatie).
 
-[](https://reactionair.nl/artikelen/civitas-en-civilisatie/)
-
-10 Book VII, hoofdstuk 14
+[](https://reactionair.nl/artikelen/civitas-en-civilisatie/)[^10]: Book VII, hoofdstuk 14
 
 Voorts is het leven verdeeld in arbeid en rust, oorlog en vrede, en van wat we doen zijn de doelen deels noodzakelijk en nuttig, deels nobel: en eenzelfde voorkeur dienen wij aan deze zaken te geven als aan de delen van de ziel en diens acties, als oorlog om vrede te bereiken, arbeid om rust te verkrijgen en het nuttige om het nobele te verwerven.
 
-11 Xenophon, Ἀπομνημονεύματα Σωκράτους (Herinneringen aan Socrates), Boek III, hoofdstuk 12
+[^11]: Xenophon, Ἀπομνημονεύματα Σωκράτους (Herinneringen aan Socrates), Boek III, hoofdstuk 12
 
-12 De oplettende lezer zal het niet ontgaan dat dit toepasbaar is zowel op het individuele lichaam, als op het lichaam van de samenleving. Deze is heden ten dage sterk onderling verdeeld, daar het haar ontbreekt aan innerlijke kracht.
+[^12]: De oplettende lezer zal het niet ontgaan dat dit toepasbaar is zowel op het individuele lichaam, als op het lichaam van de samenleving. Deze is heden ten dage sterk onderling verdeeld, daar het haar ontbreekt aan innerlijke kracht.
