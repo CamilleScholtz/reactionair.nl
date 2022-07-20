@@ -1,5 +1,5 @@
 +++
-title = "Waarom je doodsbang moet zijn voor Artificial Intelligence"
+title = "Waarom je doodsbang moet zijn voor Artificiële Intelligentie "
 subtitle = "René Guénon's concept van Pure Kwantiteit"
 auteurs = ["Camille Meloen"]
 date = "2022-07-20"
