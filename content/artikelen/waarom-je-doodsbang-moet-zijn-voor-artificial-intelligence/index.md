@@ -57,7 +57,9 @@ Om dit essay af te sluiten, laten we Guénon nog een laatste keer citeren:
 
 Dit essay is voor 95% gegenereerd door een AI, namelijk GPT-3, met de input "schrijf een opstel over AI en hoe het zich verhoudt tot het gedachtegoed van René Guénon en zijn concept van zuivere kwantiteit".
 
-De vertaling van engels naar nederlands is gedaan met de AI vertaalmachine *DeepL*. De citaten zijn allemaal nep en zijn gegenereerd met de input "Genereer een citaat van René Guénon over AI en pure kwantiteit".
+De vertaling van engels naar nederlands is gedaan met de AI vertaalmachine *DeepL*. 
+
+De citaten zijn allemaal nep en zijn gegenereerd met de input "Genereer een citaat van René Guénon over AI en pure kwantiteit".
 
 Het boek dat in dit artikel wordt aangehaald *'The Symbolic Language of Traditional Architecture'* is niet echt geschreven door Guénon, in feite, er bestaat zelf geen boek met deze titel.
 
