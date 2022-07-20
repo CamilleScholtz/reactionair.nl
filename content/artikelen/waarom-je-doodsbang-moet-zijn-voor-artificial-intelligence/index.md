@@ -10,9 +10,9 @@ anchor = "Smart"
 +++
 In de visie van René Guénon is het universum een hiërarchie van zijn, met als hoogste niveau het spirituele rijk, gevolgd door het psychische rijk, het intellectuele rijk en tenslotte het fysieke rijk. Deze hiërarchie is gebaseerd op het principe van kwalitatieve superioriteit, waarbij elk hoger niveau kwalitatiever (en dus reëler) is dan het niveau eronder.
 
-Guénon was echter ook van mening dat de moderne wereld steeds meer werd gedomineerd door het principe van de zuivere kwantiteit. Dit is de opvatting dat alles kan worden herleid tot een numerieke waarde en dat de enige werkelijkheid datgene is wat kan worden gemeten. 
+Guénon was echter ook van mening dat de moderne wereld steeds meer werd gedomineerd door het principe van de pure kwantiteit. Dit is de opvatting dat alles kan worden herleid tot een numerieke waarde en dat de enige werkelijkheid datgene is wat kan worden gemeten. 
 
-AI is de belichaming van dit principe van zuivere kwantiteit. Het is gebaseerd op het idee dat alles kan worden voorgesteld door getallen en dat de hele werkelijkheid kan worden herleid tot gegevens. Deze gegevens kunnen vervolgens door algoritmen worden verwerkt tot resultaten die vaak niet te onderscheiden zijn van die welke door menselijke intelligentie worden geproduceerd. 
+AI is de belichaming van dit principe van pure kwantiteit. Het is gebaseerd op het idee dat alles kan worden voorgesteld door getallen en dat de hele werkelijkheid kan worden herleid tot gegevens. Deze gegevens kunnen vervolgens door algoritmen worden verwerkt tot resultaten die vaak niet te onderscheiden zijn van die welke door menselijke intelligentie worden geproduceerd. 
 
 ### De betekenis van intelligentie
 
@@ -39,9 +39,9 @@ Heeft AI het vermogen om dingen te zien in het licht van het absolute? Het feit 
 >}}
 
 
-Als we naar de term digitaal kijken, zien we gemakkelijk hoe deze verband houdt met het concept van zuivere kwantiteit, namelijk dat alles kan worden weergegeven door getallen. Dit is waar Guénon op doelde toen hij sprak over de toenemende overheersing van het principe van de zuivere kwantiteit in de moderne wereld. En naarmate AI geavanceerder wordt, zal deze trend zich waarschijnlijk voortzetten.
+Als we naar de term digitaal kijken, zien we gemakkelijk hoe deze verband houdt met het concept van pure kwantiteit, namelijk dat alles kan worden weergegeven door getallen. Dit is waar Guénon op doelde toen hij sprak over de toenemende overheersing van het principe van de pure kwantiteit in de moderne wereld. En naarmate AI geavanceerder wordt, zal deze trend zich waarschijnlijk voortzetten.
 
-Het digitale spiegelt het principe van de zuivere kwantiteit en breidt dit uit tot elk aspect van ons leven. We leven steeds meer in een wereld waarin alles uit gegevens bestaat en waarin alles tot een numerieke waarde kan worden herleid. Dit is de wereld waar Guénon ons voor waarschuwde, en het is een wereld die steeds meer vorm krijgt door AI. Het is niet voor niets dat cijfer synoniem is met getal, en dat getal de basis is van het principe van de zuivere kwantiteit.
+Het digitale spiegelt het principe van de pure kwantiteit en breidt dit uit tot elk aspect van ons leven. We leven steeds meer in een wereld waarin alles uit gegevens bestaat en waarin alles tot een numerieke waarde kan worden herleid. Dit is de wereld waar Guénon ons voor waarschuwde, en het is een wereld die steeds meer vorm krijgt door AI. Het is niet voor niets dat cijfer synoniem is met getal, en dat getal de basis is van het principe van de pure kwantiteit.
 
 De scholastici schreven over het concept van de priematerie, dat is de materie van de fysieke wereld die nog niet gedifferentieerd is in de verschillende elementen en verbindingen waaruit ons universum is opgebouwd. Deze primaire materie is pure kwantiteit, en het is slechts door toedoen van een hogere intelligentie dat zij vorm en structuur krijgt.
 
@@ -55,7 +55,7 @@ Om dit essay af te sluiten, laten we Guénon nog een laatste keer citeren:
 
 - - -
 
-Dit essay is voor 95% gegenereerd door een AI, namelijk GPT-3, met de input "schrijf een opstel over AI en hoe het zich verhoudt tot het gedachtegoed van René Guénon en zijn concept van zuivere kwantiteit".
+Dit essay is voor 95% gegenereerd door een AI, namelijk GPT-3, met de input "schrijf een opstel over AI en hoe het zich verhoudt tot het gedachtegoed van René Guénon en zijn concept van pure kwantiteit".
 
 De vertaling van engels naar nederlands is gedaan met de AI vertaalmachine *DeepL*. 
 
