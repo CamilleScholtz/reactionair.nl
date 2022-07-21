@@ -20,23 +20,23 @@ Lang hebben Nederlanders deze liberale vrijheden en rechten vanzelfsprekend gevo
 
 De enige beperking lag bij het schenden van de rechten van anderen… of als we ons racistisch toonden… en daarbij kon kritiek op de islam en mogelijk ook de joodse religie racistisch worden geacht (niet kritiek op het christendom vreemd genoeg). Ook kritiek op immigratie, maar dan vooral als die van ‘rechts’ kwam. Tenslotte mochten seksisme en homofobie natuurlijk niet… behalve dan misschien in de naam van een buitenlandse religie. Verder waren we vrij en veilig. 
 
-Nu blijken privébezit en vrijheid van bijeenkomst allemaal ineens niet meer zo absoluut.  Ironisch, dat in een samenleving doordrenkt van progressief-liberale ideologie de traditionele liberale vrijheden en rechten niet langer vanzelfsprekend zijn. Individualisme wordt er vooral gebruikt om mensen (en met name kinderen) gedwongen af te scheiden van hun gezinnen, gemeenschappen en kerken, niet om ze te beschermen tegen de massasamenleving of de regering. Rechten van minderheden lijken vaak niet bedoeld voor ‘ouderwetste’ minderheden, zoals bewoners van de bijbelgordel of onze bejaarden. Boeren en loonarbeiders hebben niet dezelfde rechten meer als in 2010. In een revolutionaire staat zijn de rechten van vandaag morgen weer achterhaald. 
+Nu blijken privébezit en vrijheid van bijeenkomst allemaal ineens niet meer zo absoluut. Ironisch, dat in een samenleving doordrenkt van progressief-liberale ideologie de traditionele liberale vrijheden en rechten niet langer vanzelfsprekend zijn. Individualisme wordt er vooral gebruikt om mensen (en met name kinderen) gedwongen af te scheiden van hun gezinnen, gemeenschappen en kerken, niet om ze te beschermen tegen de massasamenleving of de regering. Rechten van minderheden lijken vaak niet bedoeld voor ‘ouderwetste’ minderheden, zoals bewoners van de bijbelgordel of onze bejaarden. Boeren en loonarbeiders hebben niet dezelfde rechten meer als in 2010. In een revolutionaire staat zijn de rechten van vandaag morgen weer achterhaald. 
 
 Voor de duidelijkheid, de huidige aanvallen op de boeren zijn niet gebaseerd op bestaande wetgeving en als zodanig strijdig met het legaliteitsbeginsel en het Europese Verdrag voor de Rechten van de Mens. Dit heeft Omtzigt al perfect duidelijk gemaakt. In die zin is er inderdaad sprake van verdediging tegen een (ambt)misdrijf.  
 
-### FVD opschudding 
+### FVD-opschudding 
 
-Standaardpolitiek, zekerheden, het vertrouwde, zijn als zand in de wind. De westerse wereld is in rap tempo aan het radicaliseren en polariseren.  
+Standaardpolitiek, zekerheden en het vertrouwde zijn als zand in de wind. De westerse wereld is in rap tempo aan het radicaliseren en polariseren.  
 
 In Nederland is de personificatie van dit fenomeen in de afgelopen 5+ jaar het Forum voor Democratie geweest. Wat iemand ook vindt van de partij, ze was zeker niet saai of inhoudsloos.  
 
-Constante factor binnen het FVD was steeds weer het doorbreken van taboes, nieuwe thema’s introduceren en standaard paradigma’s doorbreken.  
+Constante factor binnen het FVD was steeds weer het doorbreken van taboes, nieuwe thema’s introduceren en standaardparadigma’s doorbreken.  
 
-Aan de ene kant wilde de partij liberale vrijheden verdedigen tegen nepliberalen, aan de andere kant wilde ze een seculier conservatief anti-individualistisch geluid verschaffen; een milde verlichtingshouding aannemen ten opzichte van de islam en ook een conservatieve alliantie met de islam benadrukken; de quasi-sociaaldemocratie van Wilders verwerpen, maar tegelijk protectionisme omarmen; een partij zoals de VVD vroeger was gecombineerd met radicale metapolitiek.  
+Aan de ene kant wilde de partij liberale vrijheden verdedigen tegen nepliberalen, aan de andere kant wilde ze een seculier conservatief anti-individualistisch geluid laten horen; een milde verlichtingshouding aannemen ten opzichte van de islam en ook een conservatieve alliantie met de islam aangaan; de quasi-sociaaldemocratie van Wilders verwerpen, maar tegelijk protectionisme omarmen; een partij zoals de VVD vroeger was gecombineerd met radicale metapolitiek.  
 
 Zoals vaak gebeurt wanneer een beweging extreem ambitieus is, waren er spanningen en scheuringen. Maar de partij liet vernieuwende geluiden klinken die de standaardpolitiek in meerdere richtingen doorbraken.  
 
-Alhoewel een humanist, en een tijd lang ook een klassiek liberaal, bleek Paul Cliteur één van de sterkste voorvechters van een seculier conservatisme en zelfs het concept van een nieuwe zuil.\[2] 
+Hoewel humanist, en een tijd lang ook een klassiek liberaal, bleek Paul Cliteur één van de sterkste voorvechters van een seculier conservatisme en zelfs het concept van een nieuwe zuil.\[2] 
 
 Dezelfde schijnbare tegenstrijdigheden waren ook zichtbaar als het ging om de visie op de geschiedenis en op de liberale democratie.  
 
