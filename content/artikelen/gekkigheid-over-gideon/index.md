@@ -136,14 +136,24 @@ Advies voor Gideon: omarm constitutionele toetsing en de rechtsstaat als potenti
 
 [^3]: <https://nos.nl/artikel/2369884-ophef-over-neurenberg-voorbeeld-forum-leider-baudet> 
 
-1. <https://oorsprong.info/motie-van-dr-pepijn-van-houwelingen-fvd-over-verlaging-abortusgrens-naar-18-weken-met-zeer-ruime-meerderheid-verworpen/>  
-2. De Conservatieve Vooruitgang P. 25 en 25 
-3. <https://www.parlement.com/id/vlgrls4kpfqj/analyse_partijstandpunten_bestuurlijke> 
-4. <https://www.eerstekamer.nl/wetsvoorstel/28331_initiatiefvoorstel_halsema> 
-5. Jeffries, John & Levinson, Daryl (1998). "The Non-Retrogression Principle in Constitutional Law". California Law Review. 86 (6): 1211 
-6. <https://edition.cnn.com/2019/04/11/health/south-korea-abortion-ban-ruling-intl/index.html> 
-7. <https://choice.npr.org/index.html?origin=https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu> 
-8. <https://apnews.com/article/f566045f4a5646b6846ccfeafeebd0f3> 
-9. <https://www.telegraaf.nl/nieuws/1383689292/raad-voor-de-rechtspraak-vernietigend-over-noodzaak-uitbreiding-coronapas> 
-10. <https://www.youtube.com/watch?v=3hLiKR_Whp8> 
-11. https://www.facebook.com/forumvoordemocratie/videos/337980274127329/
+[^4]: <https://oorsprong.info/motie-van-dr-pepijn-van-houwelingen-fvd-over-verlaging-abortusgrens-naar-18-weken-met-zeer-ruime-meerderheid-verworpen/>  
+
+[^5]: *De Conservatieve Vooruitgang*, pagina 25 en 26 
+
+[^6]: <https://www.parlement.com/id/vlgrls4kpfqj/analyse_partijstandpunten_bestuurlijke> 
+
+[^7]: <https://www.eerstekamer.nl/wetsvoorstel/28331_initiatiefvoorstel_halsema> 
+
+[^8]: Jeffries, John & Levinson, Daryl (1998). "The Non-Retrogression Principle in Constitutional Law". California Law Review. 86 (6): 1211 
+
+<https://edition.cnn.com/2019/04/11/health/south-korea-abortion-ban-ruling-intl/index.html> 
+
+<https://choice.npr.org/index.html?origin=https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu> 
+
+<https://apnews.com/article/f566045f4a5646b6846ccfeafeebd0f3> 
+
+[^9]: <https://www.telegraaf.nl/nieuws/1383689292/raad-voor-de-rechtspraak-vernietigend-over-noodzaak-uitbreiding-coronapas> 
+
+[^10]: <https://www.youtube.com/watch?v=3hLiKR_Whp8> 
+
+[^11]: https://www.facebook.com/forumvoordemocratie/videos/337980274127329/
