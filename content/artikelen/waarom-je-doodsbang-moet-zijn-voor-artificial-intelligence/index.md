@@ -1,6 +1,6 @@
 +++
-title = "Waarom je doodsbang moet zijn voor Artificiële Intelligentie "
-subtitle = "René Guénon's concept van Pure Kwantiteit"
+title = "Waarom je doodsbang moet zijn voor kunstmatige intelligentie "
+subtitle = "René Guénon's concept van pure kwantiteit"
 auteurs = ["Camille Meloen"]
 date = "2022-07-20"
 themas = "Religie & Metafysica"
