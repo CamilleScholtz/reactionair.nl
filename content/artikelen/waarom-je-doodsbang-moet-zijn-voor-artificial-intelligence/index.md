@@ -5,15 +5,16 @@ auteurs = ["Camille Meloen"]
 date = "2022-07-20"
 themas = "Religie & Metafysica"
 question = "Wat zijn uw gedachten over dit artikel?"
-image = "_6vrikvk_400x400-2.png"
+image = "test.jpg"
 anchor = "Smart"
 +++
 In de visie van René Guénon is het universum een hiërarchie van zijn, met als hoogste niveau het spirituele rijk, gevolgd door het psychische rijk, het intellectuele rijk en tenslotte het fysieke rijk. Deze hiërarchie is gebaseerd op het principe van kwalitatieve superioriteit, waarbij elk hoger niveau kwalitatiever (en dus reëler) is dan het niveau eronder.
 
+{{< image caption="René Guénon schrijft zijn boek The Symbolic Language of Traditional Architecture." >}}
+
 Guénon was echter ook van mening dat de moderne wereld steeds meer werd gedomineerd door het principe van de pure kwantiteit. Dit is de opvatting dat alles kan worden herleid tot een numerieke waarde en dat de enige werkelijkheid datgene is wat kan worden gemeten. 
 
 AI is de belichaming van dit principe van pure kwantiteit. Het is gebaseerd op het idee dat alles kan worden voorgesteld door getallen en dat de hele werkelijkheid kan worden herleid tot gegevens. Deze gegevens kunnen vervolgens door algoritmen worden verwerkt tot resultaten die vaak niet te onderscheiden zijn van die welke door menselijke intelligentie worden geproduceerd. 
-
 
 ### De betekenis van intelligentie
 
@@ -30,7 +31,6 @@ In zijn boek *'The Symbolic Language of Traditional Architecture'* bespreekt Ren
 Guénon merkt op dat intelligentie niet alleen een kwestie is van kennis verwerven, maar veeleer van het begrijpen van de ware aard der dingen. Hij schrijft: "Intelligent zijn is in staat zijn de dingen in hun ware licht te zien, en zich niet te laten misleiden door de schijn".[^2] Met andere woorden, intelligentie is het vermogen om de dingen te zien zoals ze werkelijk zijn, in plaats van misleid te worden door valse of oppervlakkige indrukken. Hij concludeert dat intelligentie een spirituele kwaliteit is, en dat het uiteindelijk "het vermogen is om de dingen te zien in het licht van het absolute".[^3] Met andere woorden, intelligentie is het vermogen om de dingen te zien vanuit een transcendent perspectief, waarin hun ware aard wordt onthuld. Dit stelt iemand in staat de ware aard van de werkelijkheid te begrijpen.
 
 Heeft AI het vermogen om dingen te zien in het licht van het absolute? Het feit dat AI zich alleen bezighoudt met het kwalitatieve principe van manifestatie betekent dat het beperkt is tot het domein van het relatieve. Met andere woorden, AI kan ons geen transcendent perspectief bieden; het kan alleen opereren binnen het domein van het relatieve. Dit betekent dat AI niet intelligent is in de ware zin van het woord; het kan de ware aard van de werkelijkheid niet begrijpen.
-
 
 ### Digitale ruis
 
@@ -54,7 +54,6 @@ Om dit essay af te sluiten, laten we Guénon nog een laatste keer citeren:
 >
 > Het is dan ook niet verwonderlijk dat het uiteindelijke resultaat van deze wetenschap de poging is om de menselijke geest zelf tot een machine te reduceren, een onderneming waar de voorstanders van kunstmatige intelligentie nu mee bezig zijn.[^4]
 
-
 - - -
 
 Misschien is jouw realiteit ook gereduceerd tot pure kwantiteit? Dit essay is namelijk voor 95% gegenereerd door een AI (GPT-3), met de input "schrijf een opstel over AI en hoe het zich verhoudt tot het gedachtegoed van René Guénon en zijn concept van pure kwantiteit".
@@ -68,7 +67,6 @@ De voetnoten zijn gegenereerd met het essay en "genereer voetnoten voor dit arti
 De vertaling van engels naar nederlands is gedaan met de AI vertaalmachine *DeepL*. 
 
 De thumbnail is gegenereerd met de AI Craiyon en opgeschaald met een algoritme dat gebruik maakte van kunstmatige intelligentie.
-
 
 [^1]: René Guénon, *The Symbolic Language of Traditional Architecture*, vertaling Christopher Falcao (New York: Inner Traditions, 1986), p. 58.
 [^2]: René Guénon, *The Symbolism of the Cross*, vertaling A. S. Kline (York Beach, ME: Weiser Books, 2001), p. 41.
