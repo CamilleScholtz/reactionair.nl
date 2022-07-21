@@ -56,7 +56,7 @@ Om dit essay af te sluiten, laten we Guénon nog een laatste keer citeren:
 
 - - -
 
-Misschien is jouw realiteit ook gereduceerd tot pure kwantiteit? Dit essay is namelijk voor 95% gegenereerd door een AI, namelijk GPT-3, met de input "schrijf een opstel over AI en hoe het zich verhoudt tot het gedachtegoed van René Guénon en zijn concept van pure kwantiteit".
+Misschien is jouw realiteit ook gereduceerd tot pure kwantiteit? Dit essay is namelijk voor 95% gegenereerd door een AI (GPT-3), met de input "schrijf een opstel over AI en hoe het zich verhoudt tot het gedachtegoed van René Guénon en zijn concept van pure kwantiteit".
 
 De citaten zijn allemaal nep en zijn gegenereerd met de input "Genereer een citaat van René Guénon over AI en pure kwantiteit".
 
