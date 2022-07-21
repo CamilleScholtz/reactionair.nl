@@ -48,7 +48,7 @@ Alhoewel FVD populistisch is, gekant tegen het huidige establishment, lijkt ze n
 
 Het waarschijnlijk grootse minpunt blijft dat de partij zich negatief heeft opgesteld t.a.v. constitutionele toetsing. Dit is een standpunt dat FVD heeft overgenomen van de PVV (en op zich een breuk met de oorspronkelijke positie van Groep Wilders).[^6] [^7] 
 
-De huidige coalitie laat zien dat wetgevers en regering weinig respect lijken te hebben voor de grondwet. De dreiging is sterker voor de boeren vanwege het gebrek aan een echt degelijke rechtsstaat. De grondrechten van de burger moeten juist beschermen tegen zo’n tirannie door de staat. Beroep op mensenrechten tegen de staat vereist echter een consistente definitie en onafhankelijke bescherming. 
+De huidige coalitie laat zien dat wetgevers en regering weinig respect lijken te hebben voor de grondwet. De dreiging is sterker voor de boeren vanwege het gebrek aan een echt degelijke rechtsstaat. De grondrechten van de burger moeten juist beschermen tegen zulke tirannie van de staat. Beroep op mensenrechten tegen de staat vereist echter een consistente definitie en onafhankelijke bescherming. 
 
 ### Het dilemma: tussen rechtsstaat en democratie; dikastocratie versus illegitieme wetgeving 
 
