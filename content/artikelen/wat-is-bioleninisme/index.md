@@ -6,7 +6,7 @@ date = "2022-07-19"
 themas = "Cultuur & Maatschappij"
 dossiers = ["Woke"]
 question = "Wat zijn uw gedachten over dit artikel?"
-image = "63e0ad616197be4867309b465ae6ab33-2.jpg"
+image = "lenin.jpg"
 anchor = "Smart"
 +++
 *Dit artikel is een vertaling van VJM Publishing. Het origineel is [hier](https://vjmpublishing.nz/?p=21454) te vinden.*
