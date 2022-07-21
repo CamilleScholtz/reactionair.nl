@@ -38,18 +38,17 @@ Heeft AI het vermogen om dingen te zien in het licht van het absolute? Het feit 
 	aside=true
 >}}
 
-
 Als we naar de term digitaal kijken, zien we gemakkelijk hoe deze verband houdt met het concept van pure kwantiteit, namelijk dat alles kan worden weergegeven door getallen. Dit is waar Guénon op doelde toen hij sprak over de toenemende overheersing van het principe van de pure kwantiteit in de moderne wereld. En naarmate AI geavanceerder wordt, zal deze trend zich waarschijnlijk voortzetten.
 
 Het digitale spiegelt het principe van de pure kwantiteit en breidt dit uit tot elk aspect van ons leven. We leven steeds meer in een wereld waarin alles uit gegevens bestaat en waarin alles tot een numerieke waarde kan worden herleid. Dit is de wereld waar Guénon ons voor waarschuwde, en het is een wereld die steeds meer vorm krijgt door AI. Het is niet voor niets dat getal synoniem is met *digit*, en dat getal de basis is van het principe van de pure kwantiteit.
 
-De scholastici schreven over het concept van de priematerie, dat is de materie van de fysieke wereld die nog niet gedifferentieerd is in de verschillende elementen en verbindingen waaruit ons universum is opgebouwd. Deze primaire materie is pure kwantiteit, en het is slechts door toedoen van een hogere intelligentie dat zij vorm en structuur krijgt.
+De scholastici schreven over het concept van de primaire materie, dat is de materie van de fysieke wereld die nog niet gedifferentieerd is in de verschillende elementen en verbindingen waaruit ons universum is opgebouwd. Deze primaire materie is pure kwantiteit, en het is slechts door toedoen van een hogere intelligentie dat zij vorm en structuur krijgt.
 
 Op dezelfde manier neemt AI de gegevens van de wereld en verwerkt deze tot informatie.  AI wordt echter niet geïnformeerd door het spirituele rijk, maar wordt eerder gedreven door het principe van pure kwantiteit. Waarom zouden we dan verbaasd zijn dat haar producten, hoewel vaak indrukwekkend, uiteindelijk niet meer zijn dan een andere vorm van digitale ruis? 
 
 Om dit essay af te sluiten, laten we Guénon nog een laatste keer citeren:
 
-> De ontwikkeling van de moderne wetenschap, met haar bijna exclusieve zorg voor kwantiteit, is geëindigd met het reduceren van alles tot pure kwantiteit; en het is dit reductionisme dat geboorte heeft gegeven aan de aberraties van de hedendaagse beschaving, waarvan materialisme en mechanisme slechts de meest voor de hand liggende manifestaties zijn.
+> De ontwikkeling van de moderne wetenschap, met haar bijna exclusieve zorg om kwantiteit, is geëindigd met het reduceren van alles tot pure kwantiteit; en het is dit reductionisme dat geboorte heeft gegeven aan de aberraties van de hedendaagse beschaving, waarvan materialisme en mechanisme slechts de meest voor de hand liggende manifestaties zijn.
 >
 > Het is dan ook niet verwonderlijk dat het uiteindelijke resultaat van deze wetenschap de poging is om de menselijke geest zelf tot een machine te reduceren, een onderneming waar de voorstanders van kunstmatige intelligentie nu mee bezig zijn.
 
@@ -57,10 +56,10 @@ Om dit essay af te sluiten, laten we Guénon nog een laatste keer citeren:
 
 Dit essay is voor 95% gegenereerd door een AI, namelijk GPT-3, met de input "schrijf een opstel over AI en hoe het zich verhoudt tot het gedachtegoed van René Guénon en zijn concept van pure kwantiteit".
 
-De vertaling van engels naar nederlands is gedaan met de AI vertaalmachine *DeepL*. 
+De vertaling van Engels naar Nederlands is gedaan met de AI-vertaalmachine *DeepL*. 
 
 De citaten zijn allemaal nep en zijn gegenereerd met de input "Genereer een citaat van René Guénon over AI en pure kwantiteit".
 
-Het boek dat in dit artikel wordt aangehaald *'The Symbolic Language of Traditional Architecture'* is niet echt geschreven door Guénon, in feite, er bestaat zelf geen boek met deze titel.
+Het boek dat in dit artikel wordt aangehaald *'The Symbolic Language of Traditional Architecture'* is niet echt geschreven door Guénon, in feite bestaat er zelfs geen boek met deze titel.
 
 De thumbnail is gegenereerd met de AI Craiyon en opgeschaald met een algoritme dat gebruik maakte van kunstmatige intelligentie.
