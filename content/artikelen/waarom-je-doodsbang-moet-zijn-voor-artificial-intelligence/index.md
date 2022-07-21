@@ -41,7 +41,7 @@ Heeft AI het vermogen om dingen te zien in het licht van het absolute? Het feit 
 
 Als we naar de term digitaal kijken, zien we gemakkelijk hoe deze verband houdt met het concept van pure kwantiteit, namelijk dat alles kan worden weergegeven door getallen. Dit is waar Guénon op doelde toen hij sprak over de toenemende overheersing van het principe van de pure kwantiteit in de moderne wereld. En naarmate AI geavanceerder wordt, zal deze trend zich waarschijnlijk voortzetten.
 
-Het digitale spiegelt het principe van de pure kwantiteit en breidt dit uit tot elk aspect van ons leven. We leven steeds meer in een wereld waarin alles uit gegevens bestaat en waarin alles tot een numerieke waarde kan worden herleid. Dit is de wereld waar Guénon ons voor waarschuwde, en het is een wereld die steeds meer vorm krijgt door AI. Het is niet voor niets dat cijfer synoniem is met getal, en dat getal de basis is van het principe van de pure kwantiteit.
+Het digitale spiegelt het principe van de pure kwantiteit en breidt dit uit tot elk aspect van ons leven. We leven steeds meer in een wereld waarin alles uit gegevens bestaat en waarin alles tot een numerieke waarde kan worden herleid. Dit is de wereld waar Guénon ons voor waarschuwde, en het is een wereld die steeds meer vorm krijgt door AI. Het is niet voor niets dat getal synoniem is met *digit*, en dat getal de basis is van het principe van de pure kwantiteit.
 
 De scholastici schreven over het concept van de priematerie, dat is de materie van de fysieke wereld die nog niet gedifferentieerd is in de verschillende elementen en verbindingen waaruit ons universum is opgebouwd. Deze primaire materie is pure kwantiteit, en het is slechts door toedoen van een hogere intelligentie dat zij vorm en structuur krijgt.
 
