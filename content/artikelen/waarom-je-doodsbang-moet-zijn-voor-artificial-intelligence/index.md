@@ -14,6 +14,7 @@ Guénon was echter ook van mening dat de moderne wereld steeds meer werd gedomin
 
 AI is de belichaming van dit principe van pure kwantiteit. Het is gebaseerd op het idee dat alles kan worden voorgesteld door getallen en dat de hele werkelijkheid kan worden herleid tot gegevens. Deze gegevens kunnen vervolgens door algoritmen worden verwerkt tot resultaten die vaak niet te onderscheiden zijn van die welke door menselijke intelligentie worden geproduceerd. 
 
+
 ### De betekenis van intelligentie
 
 {{< quote
@@ -30,6 +31,7 @@ Guénon merkt op dat intelligentie niet alleen een kwestie is van kennis verwerv
 
 Heeft AI het vermogen om dingen te zien in het licht van het absolute? Het feit dat AI zich alleen bezighoudt met het kwalitatieve principe van manifestatie betekent dat het beperkt is tot het domein van het relatieve. Met andere woorden, AI kan ons geen transcendent perspectief bieden; het kan alleen opereren binnen het domein van het relatieve. Dit betekent dat AI niet intelligent is in de ware zin van het woord; het kan de ware aard van de werkelijkheid niet begrijpen.
 
+
 ### Digitale ruis
 
 {{< quote
@@ -37,7 +39,6 @@ Heeft AI het vermogen om dingen te zien in het licht van het absolute? Het feit 
 	author="René Guénon"
 	aside=true
 >}}
-
 
 Als we naar de term digitaal kijken, zien we gemakkelijk hoe deze verband houdt met het concept van pure kwantiteit, namelijk dat alles kan worden weergegeven door getallen. Dit is waar Guénon op doelde toen hij sprak over de toenemende overheersing van het principe van de pure kwantiteit in de moderne wereld. En naarmate AI geavanceerder wordt, zal deze trend zich waarschijnlijk voortzetten.
 
