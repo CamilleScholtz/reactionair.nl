@@ -7,7 +7,7 @@ themas = "Cultuur & Maatschappij"
 dossiers = ["Woke"]
 question = "Wat zijn uw gedachten over dit artikel?"
 image = "joker-en-de-clown-world-van-alt-right-1536x1024-1-1024x683.jpeg"
-anchor = "Smart"
+anchor = "Top"
 +++
 *Dit artikel is een vertaling van VJM Publishing. Het origineel is [hier ](https://vjmpublishing.nz/?p=21454)te vinden.*
 
