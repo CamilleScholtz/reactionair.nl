@@ -36,19 +36,17 @@ Aan de ene kant wilde de partij liberale vrijheden verdedigen tegen nepliberalen
 
 Zoals vaak gebeurt wanneer een beweging extreem ambitieus is, waren er spanningen en scheuringen. Maar de partij liet vernieuwende geluiden klinken die de standaardpolitiek in meerdere richtingen doorbraken.  
 
-Hoewel humanist, en een tijd lang ook een klassiek liberaal, bleek Paul Cliteur één van de sterkste voorvechters van een seculier conservatisme en zelfs het concept van een nieuwe zuil.\[2] 
+Hoewel humanist, en een tijd lang ook een klassiek liberaal, bleek Paul Cliteur één van de sterkste voorvechters van een seculier conservatisme en zelfs het concept van een nieuwe zuil.[^2] 
 
-Dezelfde schijnbare tegenstrijdigheden waren ook zichtbaar als het ging om de visie op de geschiedenis en op de liberale democratie.  
+Dezelfde schijnbare tegenstrijdigheden waren ook zichtbaar als het ging om de visie op de geschiedenis en op de liberale democratie. De partij koesterde de verlichting, maar vooral een conservatieve versie van de klassiek-liberale of gematigde verlichting. Tegelijk verheerlijkte het Renaissance Instituut wel... de renaissance. Ook spreekt Robert Lemm, pro-middeleeuwen, bij evenementen van het instituut en tenslotte zijn er ook nog de positieve contacten met de SGP.  
 
-De partij koesterde de verlichting, maar vooral een conservatieve versie van de klassiek-liberale of gematigde verlichting. Tegelijk verheerlijkte het Renaissance Instituut… wel de Renaissance. Ook spreekt Robert Lemm, pro-Middeleeuwen, bij evenementen van het instituut en tenslotte zijn er ook nog de positieve contacten met de SGP.  
+De partij put tevens uit de conservatieve anti-nazistische verzetstraditie van Henri Baudet en verwierp discriminatie van ongevaccineerden als vergelijkbaar met de discriminatie van Joden in de jaren 30. Echter, Baudet stelde wel dat de Neurenberg-procesessen illegitiem waren, omdat ze ingingen tegen het legaliteitsbeginsel (door retroactieve vervolging).[^3] En Pepijn Van Houwelingen verwees naar positieve elementen van het nazisme, ondanks dat hij hun (en Jared Taylors) abortusstandpunt niet onderschrijft.[^4] 
 
-De partij put tevens uit de conservatieve antinazi verzetstraditie van Henri Baudet en verwierp discriminatie van ongevaccineerden als vergelijkbaar met de discriminatie van Joden in de jaren 30. Echter, Baudet stelde wel dat de Neurenberg procesessen illegitiem waren, omdat ze ingingen tegen het legaliteitsbeginsel (door retroactieve vervolging).\[3] En Pepijn Van Houwelingen verwees naar ook positieve elementen van het nazisme, ondanks dat hij hun (en Jared Taylor’s) abortusstandpunt niet onderschrijft.\[4] 
-
-Thierry Baudet uitte sympathie, in ‘De Conservatieve Vooruitgang’, voor rechtse denkers die wel representatieve, maar niet directe democratie steunen en in het algemeen sceptischer waren over democratie.\[5] 
+Thierry Baudet uitte sympathie, in ‘De Conservatieve Vooruitgang’, voor rechtse denkers die wel representatieve, maar niet directe democratie steunen en in het algemeen sceptischer waren over democratie.[^5] 
 
 Alhoewel FVD populistisch is, gekant tegen het huidige establishment, lijkt ze niet tegen een competente elite. Iedereen wil directe democratie ten tijde van een corrupt en incompetent partijkartel. Echter, of het nagestreefde ideaal voor de tijd nadat de ‘corrupte elite’ is verslagen het Zwitserse model is, of het dominante-partijsysteem van de LDP in Japan, of zelfs een gematigd autoritair model als in Hongarije, daarover lijken de meningen binnen FVD te verschillen. 
 
-Het waarschijnlijk grootse minpunt blijft dat de partij zich negatief heeft opgesteld t.a.v. constitutionele toetsing. Dit is een standpunt dat FVD heeft overgenomen van de PVV (en op zich een breuk met de oorspronkelijke positie van Groep Wilders).\[6]\[7] 
+Het waarschijnlijk grootse minpunt blijft dat de partij zich negatief heeft opgesteld t.a.v. constitutionele toetsing. Dit is een standpunt dat FVD heeft overgenomen van de PVV (en op zich een breuk met de oorspronkelijke positie van Groep Wilders).[^6] [^7] 
 
 De huidige coalitie laat zien dat wetgevers en regering weinig respect lijken te hebben voor de grondwet. De dreiging is sterker voor de boeren vanwege het gebrek aan een echt degelijke rechtsstaat. De grondrechten van de burger moeten juist beschermen tegen zo’n tirannie door de staat. Beroep op mensenrechten tegen de staat vereist echter een consistente definitie en onafhankelijke bescherming. 
 
