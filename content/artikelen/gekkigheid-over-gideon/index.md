@@ -5,14 +5,15 @@ auteurs = ["Sanura"]
 date = "2022-07-17"
 themas = "Politiek & Actualiteit"
 question = "Wat zijn uw gedachten over dit artikel?"
-image = "8-la-justice.jpg"
+image = "900.jpeg"
 anchor = "Top"
 +++
 Terwijl Nederland (Europa en eigenlijk misschien wel de meerderheid van de wereld) verder en verder lijken af te glijden naar haat en burgeroorlog, vervagen en verdwijnen alle zekerheden op één na: niemand weet echt nog wat de spelregels zijn. 
 
 Gideon van Meijeren haalde het wetboek van strafrecht aan om geweld van boeren ter verdediging van hun bezit te verdedigen. Nu wordt er aangifte gedaan.[^1] Maar als de boeren worden bedreigd en hun recht op privébezit wordt geschonden, mogen burgers zich dan niet verdedigen tegen de staat?  Wanneer is geweld gerechtvaardigd? Wat is de hoogste wet en wat zijn absolute mensenrechten? Als hier geen consensus over is, bevinden we ons dan niet al de facto in een burgeroorlog?  Democratie, vrijheid en zelfs fatsoen, zijn niet meer vanzelfsprekende of duidelijk gedefinieerde concepten. Wat nu?   Bestaan er onveranderlijke rechten? Hebben Nederlanders recht op bestaanszekerheid? Zijn we onderdanen of vrije burgers? 
 
-### **De achtbaan van gestoordheidspark** 
+
+### De achtbaan van gestoordheidspark
 
 We bevinden ons in een stroomversnelling. Niets is zeker. Onze boeren worden bedreigd, onze vissers, onze huizenmarkt, onze onderwijsvrijheid en zelfs onze vrijheid van meningsuiting.  
 
@@ -23,6 +24,7 @@ De enige beperking lag bij het schenden van de rechten van anderen… of als we 
 Nu blijken privébezit en vrijheid van bijeenkomst allemaal ineens niet meer zo absoluut. Ironisch, dat in een samenleving doordrenkt van progressief-liberale ideologie de traditionele liberale vrijheden en rechten niet langer vanzelfsprekend zijn. Individualisme wordt er vooral gebruikt om mensen (en met name kinderen) gedwongen af te scheiden van hun gezinnen, gemeenschappen en kerken, niet om ze te beschermen tegen de massasamenleving of de regering. Rechten van minderheden lijken vaak niet bedoeld voor ‘ouderwetste’ minderheden, zoals bewoners van de bijbelgordel of onze bejaarden. Boeren en loonarbeiders hebben niet dezelfde rechten meer als in 2010. In een revolutionaire staat zijn de rechten van vandaag morgen weer achterhaald. 
 
 Voor de duidelijkheid, de huidige aanvallen op de boeren zijn niet gebaseerd op bestaande wetgeving en als zodanig strijdig met het legaliteitsbeginsel en het Europese Verdrag voor de Rechten van de Mens. Dit heeft Omtzigt al perfect duidelijk gemaakt. In die zin is er inderdaad sprake van verdediging tegen een (ambt)misdrijf.  
+
 
 ### FVD-opschudding 
 
@@ -46,9 +48,10 @@ Thierry Baudet uitte sympathie, in ‘De Conservatieve Vooruitgang’, voor rech
 
 Alhoewel FVD populistisch is, gekant tegen het huidige establishment, lijkt ze niet tegen een competente elite. Iedereen wil directe democratie ten tijde van een corrupt en incompetent partijkartel. Echter, of het nagestreefde ideaal voor de tijd nadat de ‘corrupte elite’ is verslagen het Zwitserse model is, of het dominante-partijsysteem van de LDP in Japan, of zelfs een gematigd autoritair model als in Hongarije, daarover lijken de meningen binnen FVD te verschillen. 
 
-Het waarschijnlijk grootse minpunt blijft dat de partij zich negatief heeft opgesteld t.a.v. constitutionele toetsing. Dit is een standpunt dat FVD heeft overgenomen van de PVV (en op zich een breuk met de oorspronkelijke positie van Groep Wilders).[^6] [^7] 
+Het waarschijnlijk grootse minpunt blijft dat de partij zich negatief heeft opgesteld t.a.v. constitutionele toetsing. Dit is een standpunt dat FVD heeft overgenomen van de PVV (en op zich een breuk met de oorspronkelijke positie van Groep Wilders).[^6][^7] 
 
 De huidige coalitie laat zien dat wetgevers en regering weinig respect lijken te hebben voor de grondwet. De dreiging is sterker voor de boeren vanwege het gebrek aan een echt degelijke rechtsstaat. De grondrechten van de burger moeten juist beschermen tegen zulke tirannie van de staat. Beroep op mensenrechten tegen de staat vereist echter een consistente definitie en onafhankelijke bescherming. 
+
 
 ### Het dilemma: tussen rechtsstaat en democratie; dikastocratie versus illegitieme wetgeving 
 
@@ -58,9 +61,10 @@ De grondwet wordt dan geïnterpreteerd als een levend document. Hij biedt geen g
 
 Het andere uiterste is, dat er geen enkele constitutionele toetsing plaatsvindt en de grondwet dus ook nauwelijks bescherming biedt. De enige garantie is de wet die is doorgevoerd door de meerderheid. De wet is de wet. Rechters moeten deze blind toepassen, zelfs als die onrechtvaardig is en burgerrechten schendt. 
 
-Alhoewel PVV en FVD terechte kritieken hebben gehad op de partijdigheid van (veel van) de huidige rechters, is de huidige staat van het parlement niet bepaald beter. Onze Raad voor de rechtsspraak (die minder onafhankelijk is dan de Raad voor de rechtsspraak in Polen omdat alle vier de leden benoemd worden door de regering) had kritiek op het 2G-wetsvoorstel van Hugo De Jonge (dat hij geheim hield voor de Tweede Kamer).[^9](https://www.telegraaf.nl/nieuws/1383689292/raad-voor-de-rechtspraak-vernietigend-over-noodzaak-uitbreiding-coronapas) Het rechtssysteem kan soms een gekke coalitie begrenzen.  
+Alhoewel PVV en FVD terechte kritieken hebben gehad op de partijdigheid van (veel van) de huidige rechters, is de huidige staat van het parlement niet bepaald beter. Onze Raad voor de rechtsspraak (die minder onafhankelijk is dan de Raad voor de rechtsspraak in Polen omdat alle vier de leden benoemd worden door de regering) had kritiek op het 2G-wetsvoorstel van Hugo De Jonge (dat hij geheim hield voor de Tweede Kamer).[^9] Het rechtssysteem kan soms een gekke coalitie begrenzen.  
 
 We hebben een balans nodig tussen dikastocratie en parlementaire almacht. 
+
 
 ### Het Nederlandse moeras 
 
@@ -84,6 +88,7 @@ De benoeming van rechters wordt volgens de grondwet nog steeds gedaan via konink
 
 Tegelijkertijd is de benoeming van de meeste rechters door de regering ook erg ondoorzichtig. 
 
+
 ### Voorgestelde hervormingen 
 
 Forum Voor Democratie heeft meerdere hervormingsvoorstellen geopperd om het rechtssysteem te verbeteren: 
@@ -100,7 +105,7 @@ Alhoewel de door FVD voorgestelde wetshervormingen goed lijken, zijn meer grondw
 
 Constitutionele toetsing door onafhankelijke en niet-gepolitiseerde rechters, in plaats van toetsing aan verdragen, en/of een bredere vorm van jurisprudentie zou tegenwicht kunnen bieden. Geen enkele vorm van constitutionele toetsing lijkt mij onlogisch en gevaarlijk.  
 
-Paul Cliteur was een voorstander van de invoering van constitutionele toetsing om op die manier het monopolie van verdragen als hoogste rechterlijke autoriteit te doorbreken.[^10](https://www.youtube.com/watch?v=3hLiKR_Whp8) Toen hij lid werd van Forum Voor Democratie ageerde hij echter juist tégen constitutionele toetsing en vóór de afschaffing van toetsing van wetten aan verdragen.[^11] Hij stelde dat onze grondwet niet geschikt was voor toetsing.  
+Paul Cliteur was een voorstander van de invoering van constitutionele toetsing om op die manier het monopolie van verdragen als hoogste rechterlijke autoriteit te doorbreken.[^10] Toen hij lid werd van Forum Voor Democratie ageerde hij echter juist tégen constitutionele toetsing en vóór de afschaffing van toetsing van wetten aan verdragen.[^11] Hij stelde dat onze grondwet niet geschikt was voor toetsing.  
 
 Dit lijkt een tamelijk zwak argument voor een dermate veranderde positie, aangezien: 
 
@@ -116,6 +121,7 @@ Of gewoon het instellen van een apart constitutioneel hof. Dat is een simpelere 
 
 Een dergelijk constitutioneel hof zou de aanval op de boeren, de censuur van ON en de sleepwet strijdig kunnen verklaren met de Nederlandse grondwet. 
 
+
 ### Concluderend: fanatiek maar ook verstandig 
 
 FVD en PVV lijden, net als veel energieke vernieuwingsbewegingen die de status quo willen opschudden, aan vurig fanatisme en een passie die (nog) niet consistent uitgewerkt of gefocust zijn. Het Forum levert een geweldige eerste tekst, die wel nog herschreven zou moeten worden ten behoeve van de broodnodige balans. 
@@ -126,24 +132,15 @@ Constructief populisme dat de rechtsstaat zuivert van corruptie en streeft naar 
 
 Advies voor Gideon: omarm constitutionele toetsing en de rechtsstaat als potentieel schild. Advies voor regerende partijen: bestudeer mensenrechten, rechtsstatelijke principes… of gewoon de wet.  
 
-[^1]: [Gundogan doet aangifte tegen FVD'er Gideon van Meijeren: 'Roept op tot geweld en opruiing'](https://www.metronieuws.nl/in-het-nieuws/binnenland/2022/07/gundogan-aangifte-fvd-gideon-van-meijeren/).
 
-[^2]: [Paul Cliteur: binnen elke discipline is een pluraliteit van standpunten nodig.](https://www.volkskrant.nl/mensen/paul-cliteur-binnen-elke-discipline-is-een-pluraliteit-van-standpunten-nodig~ba968595/)
-
-[^3]: [Ophef over Neurenberg-voorbeeld Forum-leider Baudet.](https://nos.nl/artikel/2369884-ophef-over-neurenberg-voorbeeld-forum-leider-baudet)
-
-[^4]: [Motie van dr. Pepijn van Houwelingen (FVD) over verlaging abortusgrens naar 18 weken met zeer ruime meerderheid verworpen.](https://oorsprong.info/motie-van-dr-pepijn-van-houwelingen-fvd-over-verlaging-abortusgrens-naar-18-weken-met-zeer-ruime-meerderheid-verworpen/)
-
-[^5]: *De Conservatieve Vooruitgang*, pagina 25 en 26 
-
-[^6]: [Analyse partijstandpunten bestuurlijke vernieuwing. ](https://www.parlement.com/id/vlgrls4kpfqj/analyse_partijstandpunten_bestuurlijke)[](https://www.parlement.com/id/vlgrls4kpfqj/analyse_partijstandpunten_bestuurlijke)
-
-[^7]: [Initiatiefvoorstel Halsema constitutionele toetsing door de rechter.](https://www.eerstekamer.nl/wetsvoorstel/28331_initiatiefvoorstel_halsema)
-
-[^8]: Jeffries, John & Levinson, Daryl (1998). "The Non-Retrogression Principle in Constitutional Law". California Law Review. 86 (6): 1211; [South Korea to legalize abortion after 66 year ban](https://edition.cnn.com/2019/04/11/health/south-korea-abortion-ban-ruling-intl/index.html) ; [Abortion laws in Colombia are now among the most liberal in the Americas ](https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu?t=1658571710334); [Brazil's supreme court votes to make homophobia a crime](<https://apnews.com/article/f566045f4a5646b6846ccfeafeebd0f3>).
-
-[^9]: [Raad van de rechtspraak vernietigend over noodzaak uitbreiding coronapas](https://www.telegraaf.nl/nieuws/1383689292/raad-voor-de-rechtspraak-vernietigend-over-noodzaak-uitbreiding-coronapas).
-
-[^10]: *[Youtube](https://www.youtube.com/watch?v=3hLiKR_Whp8):* Artikel 120 Paul Cliteur.
-
-[^11]: *[Facebook](https://www.facebook.com/forumvoordemocratie/videos/337980274127329/):* Tegen alle rechterlijke toetsing.
+[^1]: Metro, *[Gundogan doet aangifte tegen FVD'er Gideon van Meijeren: 'Roept op tot geweld en opruiing'](https://www.metronieuws.nl/in-het-nieuws/binnenland/2022/07/gundogan-aangifte-fvd-gideon-van-meijeren/)*.
+[^2]: Paul Cliteur, *[Binnen elke discipline is een pluraliteit van standpunten nodig](https://www.volkskrant.nl/mensen/paul-cliteur-binnen-elke-discipline-is-een-pluraliteit-van-standpunten-nodig~ba968595/)*.
+[^3]: NOS, *[Ophef over Neurenberg-voorbeeld Forum-leider Baudet.](https://nos.nl/artikel/2369884-ophef-over-neurenberg-voorbeeld-forum-leider-baudet)*.
+[^4]: an van Meerten, *[Motie van dr. Pepijn van Houwelingen (FVD) over verlaging abortusgrens naar 18 weken met zeer ruime meerderheid verworpen.](https://oorsprong.info/motie-van-dr-pepijn-van-houwelingen-fvd-over-verlaging-abortusgrens-naar-18-weken-met-zeer-ruime-meerderheid-verworpen/)*.
+[^5]: *De Conservatieve Vooruitgang*, pagina 25 en 26.
+[^6]: Parlement.com, *[Analyse partijstandpunten bestuurlijke vernieuwing.](https://www.parlement.com/id/vlgrls4kpfqj/analyse_partijstandpunten_bestuurlijke)*.
+[^7]: Eerstekamer.nl, *[Initiatiefvoorstel Halsema constitutionele toetsing door de rechter.](https://www.eerstekamer.nl/wetsvoorstel/28331_initiatiefvoorstel_halsema)*.
+[^8]: *[South Korea to legalize abortion after 66 year ban](https://edition.cnn.com/2019/04/11/health/south-korea-abortion-ban-ruling-intl/index.html)*; *[Abortion laws in Colombia are now among the most liberal in the Americas](https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu)*; *[Brazil's supreme court votes to make homophobia a crime](https://apnews.com/article/f566045f4a5646b6846ccfeafeebd0f3)*.
+[^9]: Telegraaf, *[Raad van de rechtspraak vernietigend over noodzaak uitbreiding coronapas](https://www.telegraaf.nl/nieuws/1383689292/raad-voor-de-rechtspraak-vernietigend-over-noodzaak-uitbreiding-coronapas)*.
+[^10]: Youtube, *[Artikel 120 Paul Cliteur](https://www.youtube.com/watch?v=3hLiKR_Whp8)*.
+[^11]: Facebook, *[Tegen alle rechterlijke toetsing](https://www.facebook.com/forumvoordemocratie/videos/337980274127329/)*.
