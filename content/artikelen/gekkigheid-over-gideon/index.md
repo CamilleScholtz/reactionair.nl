@@ -78,7 +78,7 @@ Argumenten tegen het afschaffen van het toetsingsverbod zijn vaak tegenstrijdig.
 
 Kortom, de status quo is bizar en VVD en CDA waren tot recent er vrijwel de enige voorstanders van. De andere partijen, links en rechts, wilden óf ook constitutionele toetsing invoeren (D66, CU, GroenLinks, SP) óf de toetsing van wetten aan verdragen afschaffen (FVD, PVV). VVD steunde kort zelfs ook de tweede positie, wilde een inperking van toetsing aan verdragen, maar krabbelde onder druk terug.  
 
-Tegelijk kunnen rechters ook wetten zelf interpreteren op een manier die strijdig is met de bedoeling van de wetgever. Besluiten van de uitvoerende macht (regeringsbeleid) kunnen ook in de naam van het algemeen belang worden aangevochten; en dus niet alleen omdat het strijdig is met duidelijke wetgeving of de grondwet. 
+Tegelijk kunnen rechters ook wetten zelf interpreteren op een manier die strijdig is met de bedoeling van de wetgever. Besluiten van de uitvoerende macht (regeringsbeleid) kunnen ook in de naam van het algemeen belang worden aangevochten; en dus niet alleen omdat het strijdig is met bestaande wetgeving of de grondwet. 
 
 De benoeming van rechters wordt volgens de grondwet nog steeds gedaan via koninklijk besluit (koning en minister=de facto de regering). Behalve voor de Hoge Raad, dan wordt de keuze gemaakt uit drie kandidaten die worden gekozen door de Tweede Kamer, waarbij een nipte, simpele meerderheid in de TK voldoende is. Een meerderheid, die de regering (coalitie) daar heeft.  
 
@@ -88,35 +88,31 @@ Tegelijkertijd is de benoeming van de meeste rechters door de regering ook erg o
 
 Forum Voor Democratie heeft meerdere hervormingsvoorstellen geopperd om het rechtssysteem te verbeteren: 
 
-“Schrappen artikel 93 en 94 van de Grondwet. Beëindigen monistisch stelsel. Invoering dualistisch stelsel. 
+* Schrappen artikel 93 en 94 van de Grondwet. Beëindigen monistisch stelsel. Invoering dualistisch stelsel. 
+* Invoering ‘Wet op de Rechtsvinding’, waarin onder meer wordt bepaald dat rechters de wet moeten uitleggen naar de oorspronkelijke bedoeling van de wetgever. 
+* Naast maximumstraffen ook minimumstraffen voor bepaalde delicten, zoals vuur- en steekwapenbezit. Rechters mogen afwijken van het vastgestelde minimum, maar moeten dat wel gemotiveerd uitleggen.  
+* Aanpassen artikel 3:305a BW. Het wordt niet langer mogelijk om op grond van het ‘algemeen belang’ het overheidsbeleid aan te vechten. 
+* Parlementaire ondervragingscommissie vergroot de grip van de democratie op aspirant-leden van de Hoge Raad en de afdeling bestuursrechtspraak van de Raad van State.
 
-Invoering ‘Wet op de Rechtsvinding’, waarin onder meer wordt bepaald dat rechters de wet moeten uitleggen naar de oorspronkelijke bedoeling van de wetgever. 
-
-Naast maximumstraffen ook minimumstraffen voor bepaalde delicten, zoals vuur- en steekwapenbezit. Rechters mogen afwijken van het vastgestelde minimum, maar moeten dat wel gemotiveerd uitleggen.  
-
-Aanpassen artikel 3:305a BW. Het wordt niet langer mogelijk om op grond van het ‘algemeen belang’ het overheidsbeleid aan te vechten. 
-
-Parlementaire ondervragingscommissie vergroot de grip van de democratie op aspirant-leden van de Hoge Raad en de afdeling bestuursrechtspraak van de Raad van State.” 
-
-Dit zijn allemaal op zich zeer goede voorstellen. Ze draaien deels de klok terug naar voor 1953 en gaan de politisering van het rechtssysteem tegen. Ze lijken echter wel heel erg parlementaire soevereiniteit te versterken. Als de wetgever absolute autoriteit heeft biedt de grondwet geen bescherming tegen een mogelijke dictatuur van de meerderheid.  
+Dit zijn allemaal op zich zeer goede voorstellen. Ze draaien deels de klok terug naar voor 1953 en gaan de politisering van het rechtssysteem tegen. Ze lijken echter wel heel erg parlementaire soevereiniteit te versterken. Als de wetgever absolute autoriteit heeft, biedt de grondwet geen bescherming tegen een mogelijke dictatuur van de meerderheid.  
 
 Alhoewel de door FVD voorgestelde wetshervormingen goed lijken, zijn meer grondwetsaanpassingen nodig dan alleen de verwijdering van artikelen 93 en 94. 
 
-Constitutionele toetsing door onafhankelijke en niet gepolitiseerde rechters, in plaats van toetsing aan verdragen, en/of een bredere vorm van jurisprudentie zou tegenwicht kunnen bieden. Geen enkele vorm van constitutionele toetsing lijkt mij onlogisch en gevaarlijk.  
+Constitutionele toetsing door onafhankelijke en niet-gepolitiseerde rechters, in plaats van toetsing aan verdragen, en/of een bredere vorm van jurisprudentie zou tegenwicht kunnen bieden. Geen enkele vorm van constitutionele toetsing lijkt mij onlogisch en gevaarlijk.  
 
-Paul Cliteur was een voorstander van de invoering van constitutionele toetsing om op die manier de monopolie van verdragen als hoogste rechterlijke autoriteit te doorbreken.\[13] Toen hij lid werd van Forum Voor Democratie ageerde hij echter juist tégen constitutionele toetsing en vóór de afschaffing van toetsing van wetten aan verdragen.\[14] Hij stelde dat onze grondwet niet geschikt was voor toetsing.  
+Paul Cliteur was een voorstander van de invoering van constitutionele toetsing om op die manier het monopolie van verdragen als hoogste rechterlijke autoriteit te doorbreken.[^10] Toen hij lid werd van Forum Voor Democratie ageerde hij echter juist tégen constitutionele toetsing en vóór de afschaffing van toetsing van wetten aan verdragen.[^11] Hij stelde dat onze grondwet niet geschikt was voor toetsing.  
 
 Dit lijkt een tamelijk zwak argument voor een dermate veranderde positie, aangezien: 
 
-* 1. Thorbecke onze grondwet wel geschikt achtte,  
-* 2. het beter is dan niets en  
-* 3. Cliteur onze grondwet 20 jaar geleden al kende.  
+* Thorbecke onze grondwet wel geschikt achtte,  
+* het beter is dan niets  
+* Cliteur onze grondwet 20 jaar geleden al kende
 
 Oppositie tegen constitutionele toetsing dreigt de macht van het parlement te dominant te maken. Constitutionele toetsing moet juist de balans der machten en de rechtsstaat verstevigen, niet verder onderuithalen. Het politieke proces binnen de kaders van de grondwet houden. Hiervoor is de benoeming van rechters voor deze kwestie essentieel. 
 
 Een bredere modernisering van het benoemingssysteem voor rechters, via een aanpassing van de grondwet, lijkt een mogelijke oplossing.  
 
-Of gewoon het instellen van een apart constitutioneel hof. Dat is een simpelere manier om het risico van vooral D66-rechters te verminderen. Een constitutioneel hof zoals in Duitsland, waarvan de helft wordt gekozen door een 2/3 meerderheid in de Tweede Kamer en de helft door een 2/3 meerderheid in de Eerste Kamer. Een zelfde ‘supermeerderheid’ als nodig is voor de aanpassing van de grondwet. Met daarbij de mogelijkheid dat 1/3 minderheid plus 1, een veto zou kunnen uitspreken met het oog op D66 rechters. Het kartel en de rechterlijke kliek zouden zo geen controle hebben over het hof.  
+Of gewoon het instellen van een apart constitutioneel hof. Dat is een simpelere manier om het risico van vooral D66-rechters te verminderen. Een constitutioneel hof zoals in Duitsland, waarvan de helft wordt gekozen door een 2/3 meerderheid in de Tweede Kamer en de helft door een 2/3 meerderheid in de Eerste Kamer. Een zelfde ‘supermeerderheid’ als nodig is voor de aanpassing van de grondwet. Met daarbij de mogelijkheid dat 1/3 minderheid plus 1, een veto zou kunnen uitspreken met het oog op D66-rechters. Het kartel en de rechterlijke clique zouden zo geen controle hebben over het hof.  
 
 Een dergelijk constitutioneel hof zou de aanval op de boeren, de censuur van ON en de sleepwet strijdig kunnen verklaren met de Nederlandse grondwet. 
 
@@ -154,6 +150,4 @@ Advies voor Gideon: omarm constitutionele toetsing en de rechtsstaat als potenti
 
 [^9]: <https://www.telegraaf.nl/nieuws/1383689292/raad-voor-de-rechtspraak-vernietigend-over-noodzaak-uitbreiding-coronapas> 
 
-[^10]: <https://www.youtube.com/watch?v=3hLiKR_Whp8> 
-
-[^11]: https://www.facebook.com/forumvoordemocratie/videos/337980274127329/
+[^10]: <https://www.youtube.com/watch?v=3hLiKR_Whp8>
