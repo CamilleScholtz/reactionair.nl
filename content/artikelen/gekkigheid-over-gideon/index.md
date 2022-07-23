@@ -126,18 +126,20 @@ Constructief populisme dat de rechtsstaat zuivert van corruptie en streeft naar 
 
 Advies voor Gideon: omarm constitutionele toetsing en de rechtsstaat als potentieel schild. Advies voor regerende partijen: bestudeer mensenrechten, rechtsstatelijke principes… of gewoon de wet.  
 
-[^1]: [Gundogan doet aangifte tegen FVD'er Gideon van Meijeren: 'Roept op tot geweld en opruiing'](<https://www.metronieuws.nl/in-het-nieuws/binnenland/2022/07/gundogan-aangifte-fvd-gideon-van-meijeren/>).
+[^1]: [Gundogan doet aangifte tegen FVD'er Gideon van Meijeren: 'Roept op tot geweld en opruiing'](https://www.metronieuws.nl/in-het-nieuws/binnenland/2022/07/gundogan-aangifte-fvd-gideon-van-meijeren/).
 
-[^2]: [Paul Cliteur: binnen elke discipline is een pluraliteit van standpunten nodig.](<https://www.volkskrant.nl/mensen/paul-cliteur-binnen-elke-discipline-is-een-pluraliteit-van-standpunten-nodig~ba968595/>)
+[^2]: [Paul Cliteur: binnen elke discipline is een pluraliteit van standpunten nodig.](https://www.volkskrant.nl/mensen/paul-cliteur-binnen-elke-discipline-is-een-pluraliteit-van-standpunten-nodig~ba968595/)
 
-[^3]: [Ophef over Neurenberg-voorbeeld Forum-leider Baudet.](<https://nos.nl/artikel/2369884-ophef-over-neurenberg-voorbeeld-forum-leider-baudet>)
+[^3]: [Ophef over Neurenberg-voorbeeld Forum-leider Baudet.](https://nos.nl/artikel/2369884-ophef-over-neurenberg-voorbeeld-forum-leider-baudet)
 
-[^4]: [Motie van dr. Pepijn van Houwelingen (FVD) over verlaging abortusgrens naar 18 weken met zeer ruime meerderheid verworpen.](<https://oorsprong.info/motie-van-dr-pepijn-van-houwelingen-fvd-over-verlaging-abortusgrens-naar-18-weken-met-zeer-ruime-meerderheid-verworpen/>)
+[^4]: [Motie van dr. Pepijn van Houwelingen (FVD) over verlaging abortusgrens naar 18 weken met zeer ruime meerderheid verworpen.](https://oorsprong.info/motie-van-dr-pepijn-van-houwelingen-fvd-over-verlaging-abortusgrens-naar-18-weken-met-zeer-ruime-meerderheid-verworpen/)
 
 [^5]: *De Conservatieve Vooruitgang*, pagina 25 en 26 
 
-[^6]: [Analyse partijstandpunten bestuurlijke vernieuwing. ](<https://www.parlement.com/id/vlgrls4kpfqj/analyse_partijstandpunten_bestuurlijke>)[](https://www.parlement.com/id/vlgrls4kpfqj/analyse_partijstandpunten_bestuurlijke)
+[^6]: [Analyse partijstandpunten bestuurlijke vernieuwing. ](https://www.parlement.com/id/vlgrls4kpfqj/analyse_partijstandpunten_bestuurlijke)[](https://www.parlement.com/id/vlgrls4kpfqj/analyse_partijstandpunten_bestuurlijke)
 
-[^7]: [Initiatiefvoorstel Halsema constitutionele toetsing door de rechter.](<https://www.eerstekamer.nl/wetsvoorstel/28331_initiatiefvoorstel_halsema>)
+[^7]: [Initiatiefvoorstel Halsema constitutionele toetsing door de rechter.](https://www.eerstekamer.nl/wetsvoorstel/28331_initiatiefvoorstel_halsema)
 
-[^8]: Jeffries, John & Levinson, Daryl (1998). "The Non-Retrogression Principle in Constitutional Law". California Law Review. 86 (6): 1211; <https://edition.cnn.com/2019/04/11/health/south-korea-abortion-ban-ruling-intl/index.html>; <https://choice.npr.org/index.html?origin=https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu>; <https://apnews.com/article/f566045f4a5646b6846ccfeafeebd0f3>
+[^8]: Jeffries, John & Levinson, Daryl (1998). "The Non-Retrogression Principle in Constitutional Law". California Law Review. 86 (6): 1211; [South Korea to legalize abortion after 66 year ban](https://edition.cnn.com/2019/04/11/health/south-korea-abortion-ban-ruling-intl/index.html) ; [Abortion laws in Colombia are now among the most liberal in the Americas ](https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu?t=1658571710334); [Brazil's supreme court votes to make homophobia a crime](<https://apnews.com/article/f566045f4a5646b6846ccfeafeebd0f3>).
+
+[^9]: [Raad van de rechtspraak vernietigend over noodzaak uitbreiding coronapas](https://www.telegraaf.nl/nieuws/1383689292/raad-voor-de-rechtspraak-vernietigend-over-noodzaak-uitbreiding-coronapas).
