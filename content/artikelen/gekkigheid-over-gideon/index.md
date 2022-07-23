@@ -6,7 +6,7 @@ date = "2022-07-17"
 themas = "Politiek & Actualiteit"
 question = "Wat zijn uw gedachten over dit artikel?"
 image = "8-la-justice.jpg"
-anchor = "Smart"
+anchor = "Top"
 +++
 Terwijl Nederland (Europa en eigenlijk misschien wel de meerderheid van de wereld) verder en verder lijken af te glijden naar haat en burgeroorlog, vervagen en verdwijnen alle zekerheden op één na: niemand weet echt nog wat de spelregels zijn. 
 
