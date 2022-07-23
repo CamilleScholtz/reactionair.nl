@@ -118,13 +118,13 @@ Een dergelijk constitutioneel hof zou de aanval op de boeren, de censuur van ON 
 
 ### Concluderend: fanatiek maar ook verstandig 
 
-FVD en PVV lijden, net als veel energieke vernieuwingsbewegingen die de status quo willen opschudden, aan vurig fanatisme en een passie die (nog) niet consistent uitgewerkt of gefocust zijn. Het Forum levert een geweldige eerste tekst, die wel nog herschreven zou moeten worden ten behoeve van broodnodige balans. 
+FVD en PVV lijden, net als veel energieke vernieuwingsbewegingen die de status quo willen opschudden, aan vurig fanatisme en een passie die (nog) niet consistent uitgewerkt of gefocust zijn. Het Forum levert een geweldige eerste tekst, die wel nog herschreven zou moeten worden ten behoeve van de broodnodige balans. 
 
 FVD richt zich veel op metapolitiek en cultuur, op principes en idealen, maar de politieke realiteit en de rechtsstaat blijken nu essentiëler dan wat dan ook. Zelfs revolutionaire regimes en dictaturen hebben uiteindelijk grondwetten moeten invoeren.  
 
 Constructief populisme dat de rechtsstaat zuivert van corruptie en streeft naar tegenwicht t.o.v. de regering lijkt me beter dan een simpele inperking van de rechtsstaat.  
 
-Advies voor Gideon: omarm constitutionele toetsing en de rechtsstaat als potentieel schild.       Advies voor regerende partijen: bestudeer mensenrechten, rechtsstatelijke principes….of gewoon de wet.  
+Advies voor Gideon: omarm constitutionele toetsing en de rechtsstaat als potentieel schild. Advies voor regerende partijen: bestudeer mensenrechten, rechtsstatelijke principes… of gewoon de wet.  
 
 [^1]: <https://www.metronieuws.nl/in-het-nieuws/binnenland/2022/07/gundogan-aangifte-fvd-gideon-van-meijeren/> 
 
