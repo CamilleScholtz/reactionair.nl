@@ -143,3 +143,7 @@ Advies voor Gideon: omarm constitutionele toetsing en de rechtsstaat als potenti
 [^8]: Jeffries, John & Levinson, Daryl (1998). "The Non-Retrogression Principle in Constitutional Law". California Law Review. 86 (6): 1211; [South Korea to legalize abortion after 66 year ban](https://edition.cnn.com/2019/04/11/health/south-korea-abortion-ban-ruling-intl/index.html) ; [Abortion laws in Colombia are now among the most liberal in the Americas ](https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu?t=1658571710334); [Brazil's supreme court votes to make homophobia a crime](<https://apnews.com/article/f566045f4a5646b6846ccfeafeebd0f3>).
 
 [^9]: [Raad van de rechtspraak vernietigend over noodzaak uitbreiding coronapas](https://www.telegraaf.nl/nieuws/1383689292/raad-voor-de-rechtspraak-vernietigend-over-noodzaak-uitbreiding-coronapas).
+
+[^10]: *[Youtube](https://www.youtube.com/watch?v=3hLiKR_Whp8):* Artikel 120 Paul Cliteur.
+
+[^11]: *[Facebook](https://www.facebook.com/forumvoordemocratie/videos/337980274127329/):* Tegen alle rechterlijke toetsing.
