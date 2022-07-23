@@ -100,7 +100,7 @@ Alhoewel de door FVD voorgestelde wetshervormingen goed lijken, zijn meer grondw
 
 Constitutionele toetsing door onafhankelijke en niet-gepolitiseerde rechters, in plaats van toetsing aan verdragen, en/of een bredere vorm van jurisprudentie zou tegenwicht kunnen bieden. Geen enkele vorm van constitutionele toetsing lijkt mij onlogisch en gevaarlijk.  
 
-Paul Cliteur was een voorstander van de invoering van constitutionele toetsing om op die manier het monopolie van verdragen als hoogste rechterlijke autoriteit te doorbreken.[^10] Toen hij lid werd van Forum Voor Democratie ageerde hij echter juist tégen constitutionele toetsing en vóór de afschaffing van toetsing van wetten aan verdragen.[^11] Hij stelde dat onze grondwet niet geschikt was voor toetsing.  
+Paul Cliteur was een voorstander van de invoering van constitutionele toetsing om op die manier het monopolie van verdragen als hoogste rechterlijke autoriteit te doorbreken.[^10](https://www.youtube.com/watch?v=3hLiKR_Whp8) Toen hij lid werd van Forum Voor Democratie ageerde hij echter juist tégen constitutionele toetsing en vóór de afschaffing van toetsing van wetten aan verdragen.[^11] Hij stelde dat onze grondwet niet geschikt was voor toetsing.  
 
 Dit lijkt een tamelijk zwak argument voor een dermate veranderde positie, aangezien: 
 
@@ -140,14 +140,6 @@ Advies voor Gideon: omarm constitutionele toetsing en de rechtsstaat als potenti
 
 [^7]: <https://www.eerstekamer.nl/wetsvoorstel/28331_initiatiefvoorstel_halsema> 
 
-[^8]: Jeffries, John & Levinson, Daryl (1998). "The Non-Retrogression Principle in Constitutional Law". California Law Review. 86 (6): 1211 
+[^8]: Jeffries, John & Levinson, Daryl (1998). "The Non-Retrogression Principle in Constitutional Law". California Law Review. 86 (6): 1211; <https://edition.cnn.com/2019/04/11/health/south-korea-abortion-ban-ruling-intl/index.html>; <https://choice.npr.org/index.html?origin=https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu>; <https://apnews.com/article/f566045f4a5646b6846ccfeafeebd0f3> 
 
-<https://edition.cnn.com/2019/04/11/health/south-korea-abortion-ban-ruling-intl/index.html> 
-
-<https://choice.npr.org/index.html?origin=https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu> 
-
-<https://apnews.com/article/f566045f4a5646b6846ccfeafeebd0f3> 
-
-[^9]: <https://www.telegraaf.nl/nieuws/1383689292/raad-voor-de-rechtspraak-vernietigend-over-noodzaak-uitbreiding-coronapas> 
-
-[^10]: <https://www.youtube.com/watch?v=3hLiKR_Whp8>
+[^9]: <https://www.telegraaf.nl/nieuws/1383689292/raad-voor-de-rechtspraak-vernietigend-over-noodzaak-uitbreiding-coronapas>
