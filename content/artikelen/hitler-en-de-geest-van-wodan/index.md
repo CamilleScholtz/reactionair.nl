@@ -28,7 +28,7 @@ Het ruisen in het oerwoud van het onbewuste is niet alleen vernomen door de zonn
 \
 Nietzsche is overigens een bijzonder geval. Hij was argeloos wat Germaanse zaken betreft; hij heeft de 'schoolmeesterwijsheid' ontdekt, en toen 'God dood' was, ontmoette Zarathoestra een onbekende God in een onverwachte gedaante, de ene keer als vijand tegenover hem staand, de andere keer in Zarathoestra's eigen gestalte gehuld. Zarathoestra zelf is ook een waarzegger, tovenaar, en de stormwind:\
 \
----En een wind gelijk wil ik ooit eens tussen hen blazen, en met mijn geest hun geest de adem benemen: aldus wil het mijn toekomst. Voorwaar, een sterke wind is Zarathoestra voor alle laagten; en deze raad geeft hij zijn vijanden, en al wat spuwt en spuugt: "Wacht u ervoor, tegen de wind in te spuwen!"--- [^1]
+---En een wind gelijk wil ik ooit eens tussen hen blazen, en met mijn geest hun geest de adem benemen: aldus wil het mijn toekomst. Voorwaar, een sterke wind is Zarathoestra voor alle laagten; en deze raad geeft hij zijn vijanden, en al wat spuwt en spuugt: "Wacht u ervoor, tegen de wind in te spuwen!"--- [^4]
 
 In Zarathoestra's droom over de grafbewaker van de bergburcht des doods, rukt, wanneer hij de poort wil openen  een 'gierende windvlaag de vleugels uit elkaar: fluitend, piepend en snijdend wierp hij me een zwarte doodskist toe: onder gieren en fluiten en piepen scheurde de kist uiteen, en spuwde duizendvoudig gelach uit.'
 
@@ -123,11 +123,11 @@ de wolf en het wolvengebroed.---
 
 [^1]: Jung refereert hier aan de Italiaanse inval in Ethiopië in 1935.
 
-[^2]: Hier verwijst Jung naar de *Wandervogel*, een jeugdbeweging die aan het eind van de 19e eeuw ontstond in Duitsland en bos- en bergwandelingen ondernam in groepsverbond en daarbij ook volksliedjes zong.
+[^2]: Hier verwijst Jung naar de *Wandervogel*, een jeugdbeweging die aan het eind van de 19e eeuw ontstond in Duitsland en bos- en bergwandelingen ondernam in groepsverband en daarbij ook volksliedjes zong.
 
 [^3]: Dionysos is de Griekse god van de wijn en de roes.
 
-[^4]:
+[^4]: Friedrich Nietzsche - *Also sprach Zarathustra*.
 
 
 
