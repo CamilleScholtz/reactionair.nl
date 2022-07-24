@@ -49,7 +49,7 @@ Zijn wij beiden niet uit één schoot\
 eerstelingsgave, eeuwig\
 voorbestemd tot één lot?---
 
-In het loflied genaamd *Klacht van Ariadne*, is hij volledig het slachtoffer van de God-jager, waaraan ook Zarathoestra's gewelddadige zelfbevrijding in laatste instantie niets meer verandert:\
+In het loflied genaamd *Klacht van Ariadne*, is hij volledig het slachtoffer van de god-jager, waaraan ook Zarathoestra's gewelddadige zelfbevrijding in laatste instantie niets meer verandert:\
 \
 ---Uitgestrekt, rillend, een\
 halfdode gelijk, die men de voeten warmt -\
@@ -71,7 +71,7 @@ De opmerkelijke gestalte van de jager-god is niet alleen maar een dithyrambische
 
 Was het werkelijk slechts de klassieke filoloog in Nietzsche, en niet uiteindelijk ook de fatale ontmoeting met Wagner, waardoor de god Dionysos heette, en niet Wodan?\
 \
-In een merkwaardig visioen zag Bruno Goetz het geheim van de komende Duitse gebeurtenissen in zijn *Reich ohne Raum*. Ik heb destijds bij mezelf gedacht dat dit boekje een weersvoorspelling voor Duitsland was, en verloor het niet meer uit het oog. Het voorvoelt de tegenstelling tussen het rijk van de ideeën en dat van het leven, de dualistische god van de storm en van de geheime overpeinzingen. Wotan verdween toen zijn eiken geveld werden, en keerde weer terug toen het christendom te zwak bleek om de christenheid te behoeden voor een vreselijke broedermoord op grote schaal. Toen de Heilige Vader te Rome, ontdaan van alle macht, slechts nog tegenover God kon klagen over de grex segregatus (verdeelde kudde), toen lachte de eenogige oude jager aan de rand van het Germaanse woud, en zadelde Sleipnir.\
+In een merkwaardig visioen zag Bruno Goetz het geheim van de komende Duitse gebeurtenissen in zijn *Reich ohne Raum*. Ik heb destijds bij mezelf gedacht dat dit boekje een weersvoorspelling voor Duitsland was en verloor het niet meer uit het oog. Het voorvoelt de tegenstelling tussen het rijk van de ideeën en dat van het leven, de dualistische god van de storm en van de geheime overpeinzingen. Wodan verdween toen zijn eiken geveld werden, en keerde weer terug toen het christendom te zwak bleek om de christenheid te behoeden voor een vreselijke broedermoord op grote schaal. Toen de Heilige Vader te Rome, ontdaan van alle macht, slechts nog tegenover God kon klagen over de *grex segregatus* (verdeelde kudde), toen lachte de eenogige oude jager aan de rand van het Germaanse woud, en zadelde Sleipnir.[^7]\
 \
 We menen dat de moderne wereld een redelijke wereld is, en baseren deze mening op economische, politieke en psychologische factoren. Maar wanneer we even vergeten dat we in het jaar onzes Heren 1936 leven, en deze welgemeende, menselijk-al-te-menselijke redelijkheid even terzijde leggen, en wanneer we in plaats van de mens God of goden met de verantwoordelijkheid voor de huidige gebeurtenissen mogen belasten, dan zou Wotan als causale hypothese beslist niet zo gek zijn. Ik waag zelfs de ketterse bewering dat de oude Wotan met zijn afgronddiepe en nooit geheel gepeilde karakter meer van het nationaal-socialisme verklaart, dan de drie voornoemde rationele factoren tezamen. Ongetwijfeld verklaart elk van deze factoren op zichzelf een belangrijk aspect van de dingen die er in Duitsland gebeuren, maar Wotan zegt toch meer. Vooral is hij verhelderend wat betreft een bepaald algemeen verschijnsel, waar elke niet-Duitser, ook na zeer grondige overweging, in wezen vreemd en niet-begrijpend tegenover staat.\
 \
