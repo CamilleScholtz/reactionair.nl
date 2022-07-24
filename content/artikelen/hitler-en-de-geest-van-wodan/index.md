@@ -26,15 +26,13 @@ De rusteloze zwerver Wodan, de onruststichter, die nu eens hier, dan weer daar r
 \
 Het ruisen in het oerwoud van het onbewuste is niet alleen vernomen door de zonnewendevierende Duitse jongeren, maar ook Nietzsche, Schuler, Stefan George en Ludwig Klages hebben het opgevangen. De rijnlandse cultuur - en die ten zuiden van de Main - kan zich overigens niet makkelijk bevrijden van zijn klassieke stempel. Ze verwijst daarom bij voorkeur (in navolging van klassieke voorbeelden) naar antieke roes en vervoering, namelijk naar Dionysos, de puer aeternus (eeuwige jongeling) en de kosmogonische Eros. Dit is ongetwijfeld gymnasialer, klinkt meer ontwikkeld dan Wodan. Deze laatste zou echter juister kunnen zijn. Wodan is een storm- en roesgod, een ontketenaar van hartstochten en strijdlust en bovendien een oppermachtig tovenaar en illusionist, thuis in alle geheimen van occulte aard.\
 \
-Nietzsche is overigens een bijzonder geval. Hij was argeloos wat Germaanse zaken betreft; hij heeft de 'schoolmeesterwijsheid' ontdekt, en toen 'God dood' was, ontmoette Zarathoestra een onbekende God in een onverwachte gedaante, de ene keer als vijand tegenover hem staand, de andere keer in Zarathoestra's eigen gestalte gehuld. Zarathoestra zelf is ook een waarzegger, tovenaar, en de stormwind:
-
-'En een wind gelijk wil ik ooit eens tussen hen blazen, en met mijn geest hun geest de adem benemen: aldus wil het mijn toekomst.\
-Voorwaar, een sterke wind is Zarathoestra voor alle laagten; en deze raad geeft hij zijn vijanden, en al wat spuwt en spuugt: "Wacht u ervoor, tegen de wind in te spuwen!"(5)
-
+Nietzsche is overigens een bijzonder geval. Hij was argeloos wat Germaanse zaken betreft; hij heeft de 'schoolmeesterwijsheid' ontdekt, en toen 'God dood' was, ontmoette Zarathoestra een onbekende God in een onverwachte gedaante, de ene keer als vijand tegenover hem staand, de andere keer in Zarathoestra's eigen gestalte gehuld. Zarathoestra zelf is ook een waarzegger, tovenaar, en de stormwind:\
 \
-In Zarathoestra's droom (6) over de grafbewaker van de bergburcht des doods rukt, wanneer hij de poort wil openen: een 'gierende windvlaag de vleugels uit elkaar: fluitend, piepend en snijdend wierp hij me een zwarte doodskist toe: onder gieren en fluiten en piepen scheurde de kist vaneen, en spuwde duizendvoudig gelach uit.'\
-\
-De jongeling die deze droom verklaart, zegt tegen Zarathoestra: 'Zijt gij niet zelf de wind met zijn schrille fluiten, die van de burchten des doods de poorten openrukt? Zijt gij niet zelf de kist vol bonte boosaardigheden en 's levens engelentronies?' In dit beeld komt Nietzsches geheim machtig naar voren. Al in 1864 dichtte hij (7) ('Aan de onbekende God'):
+---En een wind gelijk wil ik ooit eens tussen hen blazen, en met mijn geest hun geest de adem benemen: aldus wil het mijn toekomst. Voorwaar, een sterke wind is Zarathoestra voor alle laagten; en deze raad geeft hij zijn vijanden, en al wat spuwt en spuugt: "Wacht u ervoor, tegen de wind in te spuwen!"--- [^1]
+
+In Zarathoestra's droom over de grafbewaker van de bergburcht des doods, rukt, wanneer hij de poort wil openen  een 'gierende windvlaag de vleugels uit elkaar: fluitend, piepend en snijdend wierp hij me een zwarte doodskist toe: onder gieren en fluiten en piepen scheurde de kist uiteen, en spuwde duizendvoudig gelach uit.'
+
+De jongeling die deze droom verklaart, zegt tegen Zarathoestra: 'Zijt gij niet zelf de wind met zijn schrille fluiten, die van de burchten des doods de poorten openrukt? Zijt gij niet zelf de kist vol bonte boosaardigheden en 's levens engelentronies?' In dit beeld komt Nietzsches geheim machtig naar voren. Al in 1864 dichtte hij  ('Aan de onbekende God'):
 
 Ik wil u kennen, onbekende,\
 Gij, diep in mijn ziel grijpende,\
@@ -120,3 +118,7 @@ Vanuit de morgen door de zee, met Muspilli\
 leidt Loki de lopende kiel;\
 aan boord brengt Weerstorm broeder van de weg\
 de wolf en het wolvengebroed.
+
+
+
+[^1]: Friedrich Nietzsche - *Also sprach Zarathustra*
