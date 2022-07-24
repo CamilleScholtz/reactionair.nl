@@ -11,9 +11,7 @@ anchor = "Smart"
 +++
 {{< image caption="Die wilde Jagd van Franz von Stuck. Men zegt dat Hitler zijn uiterlijk modelleerde naar de figuur met de rode mantel." >}}
 
-> *In Duitsland zullen verschillende sekten ontstaan,\
-> Die het gelukkige heidendom zeer nabij zullen komen,\
-> De onvrijheid van het hart en de geringe inkomsten,\
-> Zullen de weg openen tot het betalen van de ware tol.*
-
-\- voorspelling van Nostradamus omstreeks 1555.
+{{< quote
+	text="In Duitsland zullen verschillende sekten ontstaan, Die het gelukkige heidendom zeer nabij zullen komen, De onvrijheid van het hart en de geringe inkomsten, Zullen de weg openen tot het betalen van de ware tol."
+	author="Nostradamus, omstreeks 1555"
+>}}
