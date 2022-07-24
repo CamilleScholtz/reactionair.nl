@@ -49,7 +49,7 @@ Zijn wij beiden niet uit één schoot\
 eerstelingsgave, eeuwig\
 voorbestemd tot één lot?---
 
-In het loflied 'Klacht van Ariadne' genaamd, is hij volledig het slachtoffer van de God-jager, waaraan ook Zarathoestra's gewelddadige zelfbevrijding in laatste instantie niets meer verandert:\
+In het loflied genaamd *Klacht van Ariadne*, is hij volledig het slachtoffer van de God-jager, waaraan ook Zarathoestra's gewelddadige zelfbevrijding in laatste instantie niets meer verandert:\
 \
 ---Uitgestrekt, rillend, een\
 halfdode gelijk, die men de voeten warmt -\
