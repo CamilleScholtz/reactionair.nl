@@ -32,25 +32,26 @@ Nietzsche is overigens een bijzonder geval. Hij was argeloos wat Germaanse zaken
 
 In Zarathoestra's droom over de grafbewaker van de bergburcht des doods, rukt, wanneer hij de poort wil openen  een 'gierende windvlaag de vleugels uit elkaar: fluitend, piepend en snijdend wierp hij me een zwarte doodskist toe: onder gieren en fluiten en piepen scheurde de kist uiteen, en spuwde duizendvoudig gelach uit.'
 
-De jongeling die deze droom verklaart, zegt tegen Zarathoestra: 'Zijt gij niet zelf de wind met zijn schrille fluiten, die van de burchten des doods de poorten openrukt? Zijt gij niet zelf de kist vol bonte boosaardigheden en 's levens engelentronies?' In dit beeld komt Nietzsches geheim machtig naar voren. Al in 1864 dichtte hij  ('Aan de onbekende God'):
-
-Ik wil u kennen, onbekende,\
-Gij, diep in mijn ziel grijpende,\
-Mijn leven als een storm doorjagende,\
-Gij ongrijpbare, mij verwante!\
-Ik wil u kennen, zèlf u dienen.\
-En twintig jaar later, in zijn schitterende Mistral-lied, zegt hij:\
-Mistral-wind, gij wolken-jager,\
-Droef'nis-moordenaar, hemel-veger,\
-Bruisende, hoe heb ik u lief!\
-Zijn wij beiden niet uit één schoot\
-Eerstelingsgave, eeuwig\
-Voorbestemd tot één lot?(8)
-
+De jongeling die deze droom verklaart, zegt tegen Zarathoestra: 'Zijt gij niet zelf de wind met zijn schrille fluiten, die van de burchten des doods de poorten openrukt? Zijt gij niet zelf de kist vol bonte boosaardigheden en 's levens engelentronies?' In dit beeld komt Nietzsches geheim machtig naar voren. Al in 1864 dichtte hij  'Aan de onbekende God':\
 \
-In het loflied 'Klacht van Ariadne'(9) genaamd, is hij volledig het slachtoffer van de god-jager, waaraan ook Zarathoestra's gewelddadige zelfbevrijding in laatste instantie niets meer verandert:
+---Ik wil u kennen, onbekende,\
+gij, diep in mijn ziel grijpende,\
+mijn leven als een storm doorjagende,\
+gij ongrijpbare, mij verwante!\
+Ik wil u kennen, zélf u dienen.---
 
-Uitgestrekt, rillend, een\
+En twintig jaar later, in zijn schitterende mistrallied, zegt hij:
+
+\---Mistralwind, gij wolkenjager,\
+Droef'nismoordenaar, hemelveger,\
+bruisende, hoe heb ik u lief!\
+Zijn wij beiden niet uit één schoot\
+eerstelingsgave, eeuwig\
+voorbestemd tot één lot?---
+
+In het loflied 'Klacht van Ariadne' genaamd, is hij volledig het slachtoffer van de God-jager, waaraan ook Zarathoestra's gewelddadige zelfbevrijding in laatste instantie niets meer verandert:\
+\
+---Uitgestrekt, rillend, een\
 Halfdode gelijk, die men de voeten warmt -\
 Geschokt, ach! door onbekende koortsen,\
 Bevend voor spitse, ijzige vorst-pijlen,\
@@ -64,7 +65,7 @@ Buig ik me, wentel me, gekweld\
 Door alle eeuwige gemartel,\
 Getroffen\
 Door u, wreedste Jager,\
-Gij onbekende - God!
+Gij onbekende - God!---
 
 \
 De opmerkelijke gestalte van de jager-god is niet alleen maar een dithyrambische spraakfiguur, maar een beleving van de vijftienjarige Nietzsche in Pforta. Deze beleving is opgetekend in de door Elisabeth Förster-Nietzsche uitgegeven Autobiographische Aufzeichnungen(10). Hierin schildert Nietzsche een fantastische nachtelijke wandeling in een duister woud, waar hij eerst door een 'schelle schreeuw uit een nabijgelegen gekkenhuis' werd opgeschrikt, en daarna een jager met 'woeste, griezelige gelaatstrekken' ontmoette. In een dal, omgeven door 'wild struikgewas' zette de jager een fluit aan zijn mond, en liet een 'schrille toon horen', waarop Nietzsche het bewustzijn verloor, maar weer in Pforta ontwaakte. Het was een nachtmerrie geweest. Het is veelbetekenend dat de dromer, die eigenlijk naar Eisleben, de stad van Luther, wilde gaan, met deze jager de vraag bespreekt, in plaats van naar 'Teutschental' (dal van de Teutonen) te gaan. Het schelle gefluit van de stormgod in het nachtelijk woud kan nauwelijks verkeerd begrepen worden.\
