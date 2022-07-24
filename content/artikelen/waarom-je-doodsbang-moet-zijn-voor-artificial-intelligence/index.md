@@ -2,7 +2,7 @@
 title = "Waarom je doodsbang moet zijn voor Artificiële Intelligentie "
 subtitle = "Onze realiteit gereduceerd tot pure kwantiteit — lees tot het einde!"
 auteurs = ["Camille Meloen"]
-date = "2022-07-20"
+date = "2022-07-24"
 themas = "Religie & Metafysica"
 question = "Wat zijn uw gedachten over dit artikel?"
 image = "test.jpg"
