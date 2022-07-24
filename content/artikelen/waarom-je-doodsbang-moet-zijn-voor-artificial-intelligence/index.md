@@ -22,6 +22,7 @@ AI is de belichaming van dit principe van pure kwantiteit. Het is gebaseerd op h
 	text="In de heerschappij van de kwantiteit wordt alles tot hetzelfde niveau teruggebracht; dit is het geval met de kunstmatige intelligentie, die alleen intelligentie kan imiteren zonder die ooit te bereiken, omdat haar iets ontbreekt wat haar werkelijk intelligent zou maken."
 	author="René Guénon"
 	aside=true
+	article=true
 >}}
 
 Guénon zou echter willen beweren dat AI helemaal niet zo intelligent is. Dit komt omdat het berust op het principe van pure kwantiteit, wat een lager niveau van werkelijkheid is dan de kwalitatieve niveaus van het spirituele en psychische rijk. Als zodanig kan AI de hogere niveaus van de werkelijkheid nooit echt begrijpen of reproduceren. Het kan zich alleen maar bezighouden met het lagere, kwantitatieve niveau.
@@ -38,6 +39,7 @@ Heeft AI het vermogen om dingen te zien in het licht van het absolute? Het feit 
 	text="Het digitale tijdperk is het tijdperk van ruis, en ruis is de dood van betekenis."
 	author="René Guénon"
 	aside=true
+	article=true
 >}}
 
 Als we naar de term digitaal kijken, zien we gemakkelijk hoe deze verband houdt met het concept van pure kwantiteit, namelijk dat alles kan worden weergegeven door getallen. Dit is waar Guénon op doelde toen hij sprak over de toenemende overheersing van het principe van de pure kwantiteit in de moderne wereld. En naarmate AI geavanceerder wordt, zal deze trend zich waarschijnlijk voortzetten.
@@ -56,17 +58,17 @@ Om dit essay af te sluiten, laten we Guénon nog een laatste keer citeren:
 
 - - -
 
-Misschien is jouw realiteit ook gereduceerd tot pure kwantiteit? Dit essay is namelijk voor 95% gegenereerd door een AI (GPT-3), met de input "schrijf een opstel over AI en hoe het zich verhoudt tot het gedachtegoed van René Guénon en zijn concept van pure kwantiteit".
+**Misschien is jouw realiteit ook gereduceerd tot pure kwantiteit?** Dit essay is namelijk voor 95% gegenereerd door een AI (GPT-3), met de input *"schrijf een opstel over AI en hoe het zich verhoudt tot het gedachtegoed van René Guénon en zijn concept van pure kwantiteit"*.
 
-De citaten zijn allemaal nep en zijn gegenereerd met de input "Genereer een citaat van René Guénon over AI en pure kwantiteit".
+De citaten zijn allemaal nep en zijn gegenereerd met de input *"Genereer een citaat van René Guénon over AI en pure kwantiteit"*.
 
-De titel is gegenereerd met het essay en "maak een schokkende clickbait titel voor dit artikel" als input.
+De titel is gegenereerd met het essay en *"maak een schokkende clickbait titel voor dit artikel"* als input.
 
 De voetnoten zijn gegenereerd met het essay en "genereer voetnoten voor dit artikel" als input. Het boek dat in dit artikel wordt aangehaald *'The Symbolic Language of Traditional Architecture'* is niet echt geschreven door Guénon, in feite, er bestaat zelf geen boek met deze titel.
 
 De vertaling van engels naar nederlands is gedaan met de AI vertaalmachine *DeepL*. 
 
-De thumbnail is gegenereerd met de AI Craiyon en opgeschaald met een algoritme dat gebruik maakte van kunstmatige intelligentie.
+De thumbnail is gegenereerd met de AI Craiyon, met een beetje hulp van Photoshop.
 
 [^1]: René Guénon, *The Symbolic Language of Traditional Architecture*, vertaling Christopher Falcao (New York: Inner Traditions, 1986), p. 58.
 [^2]: René Guénon, *The Symbolism of the Cross*, vertaling A. S. Kline (York Beach, ME: Weiser Books, 2001), p. 41.
