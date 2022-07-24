@@ -133,6 +133,4 @@ de wolf en het wolvengebroed.---
 
 [^6]: Friedrich Nietzsche - *Also sprach Zarathustra*.
 
-
-
-Friedrich Nietzsche - *Also sprach Zarathustra*
+[^7]: Sleipnir is het achtbenige paard van Wodan waarmee hij door de lucht reed. Mogelijk is de schimmel van Sint Nicolaas hier een afstammeling van.
