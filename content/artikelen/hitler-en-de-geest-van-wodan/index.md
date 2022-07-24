@@ -9,7 +9,7 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "1200px-franz_von_stuck_-_die_wilde_jagd_-_g_1405_-_lenbachhaus.jpg"
 anchor = "Smart"
 +++
-*Dit opstel van de bekende Zwitserse psycholoog en esotericus Carl Gustav Jung verscheen voor het eerst in 1936, voor de tweede wereldoorlog, onder de titel* Wotan*.*
+*Dit opstel van de bekende Zwitserse psycholoog en esotericus Carl Gustav Jung verscheen voor het eerst in 1936 onder de titel* Wotan*.*
 
 {{< image caption="Die wilde Jagd van Franz von Stuck. Men zegt dat Hitler zijn uiterlijk modelleerde naar de figuur met de rode mantel." >}}
 
