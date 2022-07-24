@@ -123,7 +123,7 @@ de wolf en het wolvengebroed.---
 
 [^1]: Jung refereert hier aan de Italiaanse inval in Ethiopië in 1935.
 
-[^2]: Hier verwijst Jung naar de *Wandervogel*, een jeugdbeweging die aan het eind van de 19e eeuw ontstond in Duitsland en bos- en bergwandelingen ondernam in groepsverband en daarbij ook volksliedjes zong. Jung stelt ze hier voor als (letterlijke) voorloper van het nationaal-socialisme, maar de beweging werd in feite verboden door de  NSDAP.
+[^2]: Hier verwijst Jung naar de *Wandervogel*, een jeugdbeweging die aan het eind van de 19e eeuw ontstond in Duitsland en bos- en bergwandelingen ondernam in groepsverband en daarbij ook volksliedjes zong. Jung stelt ze hier voor als (letterlijke) voorloper van het nationaal-socialisme, maar de beweging werd in feite vanaf 1933 verboden door de  NSDAP.
 
 [^3]: Dionysos is de Griekse god van de wijn en de roes.
 
