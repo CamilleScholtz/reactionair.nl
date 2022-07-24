@@ -52,22 +52,21 @@ voorbestemd tot één lot?---
 In het loflied 'Klacht van Ariadne' genaamd, is hij volledig het slachtoffer van de God-jager, waaraan ook Zarathoestra's gewelddadige zelfbevrijding in laatste instantie niets meer verandert:\
 \
 ---Uitgestrekt, rillend, een\
-Halfdode gelijk, die men de voeten warmt -\
-Geschokt, ach! door onbekende koortsen,\
-Bevend voor spitse, ijzige vorst-pijlen,\
-Door u gejaagd, Gedachte!\
+halfdode gelijk, die men de voeten warmt -\
+geschokt, ach! door onbekende koortsen,\
+bevend voor spitse, ijzige vorstpijlen,\
+door u gejaagd, Gedachte!\
 Onnoembare! Verhulde! Ontzettende!\
 Gij, Jager achter wolken!\
 Neergebliksemd door u\
 Gij honend oog, dat mij uit 't duister aanziet:\
 - zo lig ik,\
-Buig ik me, wentel me, gekweld\
-Door alle eeuwige gemartel,\
-Getroffen\
-Door u, wreedste Jager,\
-Gij onbekende - God!---
+buig ik me, wentel me, gekweld\
+door alle eeuwige gemartel,\
+getroffen\
+door u, wreedste Jager,\
+Gij onbekende - God! ---
 
-\
 De opmerkelijke gestalte van de jager-god is niet alleen maar een dithyrambische spraakfiguur, maar een beleving van de vijftienjarige Nietzsche in Pforta. Deze beleving is opgetekend in de door Elisabeth Förster-Nietzsche uitgegeven Autobiographische Aufzeichnungen(10). Hierin schildert Nietzsche een fantastische nachtelijke wandeling in een duister woud, waar hij eerst door een 'schelle schreeuw uit een nabijgelegen gekkenhuis' werd opgeschrikt, en daarna een jager met 'woeste, griezelige gelaatstrekken' ontmoette. In een dal, omgeven door 'wild struikgewas' zette de jager een fluit aan zijn mond, en liet een 'schrille toon horen', waarop Nietzsche het bewustzijn verloor, maar weer in Pforta ontwaakte. Het was een nachtmerrie geweest. Het is veelbetekenend dat de dromer, die eigenlijk naar Eisleben, de stad van Luther, wilde gaan, met deze jager de vraag bespreekt, in plaats van naar 'Teutschental' (dal van de Teutonen) te gaan. Het schelle gefluit van de stormgod in het nachtelijk woud kan nauwelijks verkeerd begrepen worden.\
 \
 Was het werkelijk slechts de klassieke filoloog in Nietzsche, en niet uiteindelijk ook de fatale ontmoeting met Wagner, waardoor de god Dionysus heette, en niet Wotan?\
@@ -102,7 +101,7 @@ Men kan Hauers boek Deutsche Gottschau. Grundzüge eines deutschen Glaubens, nie
 \
 Wanneer wij onze, ik geef het toe opvallende, beschouwingswijze consequent toepassen, dan moeten we concluderen dat Wotan niet alleen zijn rusteloze, gewelddadige en stormachtige karakter zou moeten onthullen, maar ook zijn heel andere, extatische en mantische aard. Zou deze conclusie terecht zijn, dan zou het nationaal-socialisme nog lang niet het laatste woord zijn, maar zouden er in de komende jaren of tientallen jaren dingen te verwachten zijn die zich nu op de achtergrond bevinden - dingen waarvan we ons nu nog moeilijk een voorstelling kunnen maken. Het opnieuw ontwaken van Wotan is een stap terug, en een teruggrijpen op het verleden: de rivier is door een stuwing weer naar zijn vroegere bedding doorgebroken. Maar zo'n stuwing duurt niet eeuwig; het is eerder een 'reculer pour mieux sauter', en het water zal over de hindernis heenstromen. Dan zal blijken wat Wotan 'murmelde met Mimirs hoofd':\
 \
-Wat murmelt nog Wotan met Mimirs hoofd?\
+---Wat murmelt nog Wotan met Mimirs hoofd?\
 Reeds kookt het in de bron: de kroon van de wereldboom\
 gloeit op bij 't geluid van de Gjallarhoorn,\
 die Heimdal tot heirroep heeft aangeheven.\
@@ -118,7 +117,7 @@ Vanuit de morgen door de zee, met Muspilli\
 (godenschemering) nabij,\
 leidt Loki de lopende kiel;\
 aan boord brengt Weerstorm broeder van de weg\
-de wolf en het wolvengebroed.
+de wolf en het wolvengebroed.---
 
 
 
