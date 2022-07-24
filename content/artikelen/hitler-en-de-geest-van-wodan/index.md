@@ -123,7 +123,7 @@ de wolf en het wolvengebroed.---
 
 [^1]: Jung refereert hier aan de Italiaanse inval in Ethiopië in 1935.
 
-[^2]: Wodan, ook wel Woen, Wotan of Odin, was de Germaanse oppergod en werd in verband gebracht met onder meer oorlog, wijsheid en magie, maar was ook de beschermgod van reizigers.
+[^2]: Wodan, ook wel Woen (Nederland), Wotan (Duitsland) of Odin (Scandinavië), was de Germaanse oppergod en werd in verband gebracht met onder meer oorlog, wijsheid en magie, maar was ook de beschermgod van reizigers.
 
 [^3]: Hier verwijst Jung naar de *Wandervogel*, een jeugdbeweging die aan het eind van de 19e eeuw ontstond in Duitsland en bos- en bergwandelingen ondernam in groepsverband en daarbij ook volksliedjes zong. Jung stelt ze hier voor als (letterlijke) voorloper van het nationaal-socialisme, maar de beweging werd in feite vanaf 1933 verboden door de  NSDAP.
 
