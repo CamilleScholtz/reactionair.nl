@@ -150,7 +150,6 @@ Wanneer wij onze, ik geef het toe, opvallende beschouwingswijze consequent toepa
 [^20]: Hermes was de Griekse boodschapper- en schelmgod en werd vereenzelvigd met de Romeinse Mercurius. πνευμα (letterlijk: adem) en νουσ zijn de Griekse woorden voor respectievelijk de ziel en het intellect.
 [^21]: Kronos was de vader van Zeus. Hij werd door zijn zoon gedood die vervolgens de oppergod van de olympische goden werd.
 [^22]: De Volkerenbond is de vooroorlogse voorloper van de Verenigde Naties.
-
 [^23]: *Wikipedia:* [Het verdrag van Lateranen](https://nl.wikipedia.org/wiki/Verdrag_van_Lateranen).
 [^24]: *Deutsche Christen* was een pressiegroep die de Duitse evangelische kerk van binnenuit richting het nazisme probeerde te bewegen.
 [^25]: Jakob Wilhelm Hauer was de stichter van de *Deutsche Glaubensbewegung*, die het Germaanse heidendom tot leven wilde wekken. Later vermengde hij dit onder meer met arisch suprematisme en de verering van Adolf Hitler, wat reden was voor om Jung meer en meer afstand van hem te nemen.
