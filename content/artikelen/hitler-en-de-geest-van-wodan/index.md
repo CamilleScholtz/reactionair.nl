@@ -115,9 +115,8 @@ tot de razende renner de ketenen losrukt.\
 Vanuit de dageraad reist een reus, met schild,\
 In reuzenwoede wentelt de wereldworm:\
 hij slaat op de schuimende golven, adelaars schreeuwen\
-luid om lijken: Naglfar (het doodsschip) is los.\
-Vanuit de morgen door de zee, met Muspilli\
-(godenschemering) nabij,\
+luid om lijken: het doodsschip Naglfar is los.\
+Vanuit de morgen door de zee, met de godenschemering Muspilli nabij,\
 leidt Loki de lopende kiel;\
 aan boord brengt Weerstorm-broeder van de weg\
 de wolf en het wolvengebroed.---[^29]
