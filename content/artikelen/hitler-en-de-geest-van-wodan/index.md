@@ -152,9 +152,7 @@ de wolf en het wolvengebroed.---
 
 De Griekse moeder van Paulus: op dit punt moet ik in gebreke blijven. Paulus werd geboren aan de westkust van het huidige Turkije wat destijds tot Griekenland werd gerekend in een Joodse familie. Mogelijk is de suggestie dat Paulus deels van Griekse, dus Europese afkomst is.
 
-De duivel als internationale Alberich:
-
-...x2
+De duivel als internationale Alberich: Alberich is een dwerg uit de noordse mythologie die in het Nibelungenlied de goudschat bewaakt.
 
 [^15]: Apollo was de Griekse god van onder meer de muziek, de waarheid en de rede en wordt (met name door Nietzsche) gezien als de tegenpool van Dionysos.
 
