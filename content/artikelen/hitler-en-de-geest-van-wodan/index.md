@@ -154,6 +154,8 @@ De Griekse moeder van Paulus: op dit punt moet ik in gebreke blijven. Paulus wer
 
 De duivel als internationale Alberich: Alberich is een dwerg uit de noordse mythologie die in het Nibelungenlied de goudschat bewaakt.
 
+...
+
 [^15]: Apollo was de Griekse god van onder meer de muziek, de waarheid en de rede en wordt (met name door Nietzsche) gezien als de tegenpool van Dionysos.
 
 ...
