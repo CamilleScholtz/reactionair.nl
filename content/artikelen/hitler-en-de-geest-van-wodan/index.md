@@ -137,7 +137,7 @@ de wolf en het wolvengebroed.---
 
 [^8]: De SA oftewel Sturmabteilung was de weerbaarheidsafdeling annex knokploeg van de NSDAP.
 
-[^9]: Maenaden waren vrouwelijke volgelingen van Dionysos (zie voetnoot 5) die zich in dronken extase overgave aan dans, seks en geweld.
+[^9]: Maenaden waren vrouwelijke volgelingen van Dionysos (zie voetnoot 5) die zich in dronken extase overgaven aan dans, seks en geweld.
 
 [^10]: Berserkers waren vikingkrijgers die door sjamanistische rituelen in een krijgsextase kwamen.
 
