@@ -9,6 +9,8 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "bbva-openmind-schrodinger-3.jjpg_-1.jpg"
 anchor = "Smart"
 +++
+*Dit artikel is een vertaling en transcriptie van een korte lezing die de natuurkundige Erwin Schrödinger (1887-1961) in 1949 voor de BBC gaf onder de titel '*Do electrons think?*'.*
+
 Elektronen zijn geladen deeltjes, de kleinste die we vinden bij het analyseren van de uiteindelijke samenstelling van materie. Om te denken dat zo'n deeltje kan denken is zo absurd dat ik het antwoord "nee" zou kunnen geven en daarmee klaar zijn. Het idee is echter nog niet zo lang geleden geopperd. Natuurlijk niet in deze overduidelijk absurde vorm, maar onder een vermomming. De laatste tijd heeft het af en toe een heel eervolle ontvangst gehad. Er is enige intellectuele hoop op gevestigd. Ik wil hier pleiten voor de zinloosheid van deze hoop. Om de zaken uit te leggen moet ik ver teruggaan.
 
 Er is een heel oud dilemma in de natuurfilosofie: zijn onze lichamen en de lichamen van de dieren machines die handelen uit noodzaak, volgens hun materiële constitutie en onder de materiële invloed van de omgeving, inclusief de indrukken van de zintuigen? Deze vraag - zijn wij automaten? - is ongeveer even vaak nadrukkelijk positief als negatief beantwoord. Het zou ons te ver leiden om alle argumenten te volgen die in de lange geschiedenis van de controverse naar voren zijn gekomen. Er werden vreemde compromissen voorgesteld. Descartes bijvoorbeeld beschouwde ons over het algemeen als automaten; alleen de pijnappelklier, zei hij, was dat niet. Volgens Descartes was het dit orgaan dat al onze spontane lichaamsbewegingen beheerste en aanstuurde.
