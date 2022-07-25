@@ -182,6 +182,6 @@ De duivel als internationale Alberich: Alberich is een dwerg uit de noordse myth
 
 [^28]: Bijbelse volkeren die op vijandige voet leefden met de Israëlieten.
 
-murmir
+murmir, allah, rusland
 
 inspringen + noot 16
