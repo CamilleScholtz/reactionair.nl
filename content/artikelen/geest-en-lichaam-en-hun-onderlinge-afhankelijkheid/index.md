@@ -48,11 +48,7 @@ Ook hier kunnen wij lering trekken uit de oude wijsheid; want de gezondheid van 
 
 [^1]: De afhankelijkheid van burgerschap van het dienen van het vaderland vinden wij ook elders in de geschiedenis, zo kon onder de Romeinse keizer Claudius een Peregrinus (een provinciale onderdaan) het burgerschap behalen voor hemzelf en zijn gezin nadat hij minimaal 25 jaar had gediend in het Romeinse leger.
 
-
-
 [^2]: Slag bij Potidaea, 432 v.C.
-
-
 
 [^3]: Plutarchus, Βίοι Παράλληλοι (Parallele levens), Alcibiades:
 
@@ -60,23 +56,15 @@ Ook hier kunnen wij lering trekken uit de oude wijsheid; want de gezondheid van 
 
 Eens vond er een fel gevecht plaats, waarin beiden grote moedigheid toonden, maar toen Alcibiades gewond raakte wierp Socrates zich voor hem om hem te beschermen, en redde hem en zijn wapenen zonder twijfel van de vijand.
 
-
-
 [^4]: Slag bij Delium, 424 v.C.
 
 Strabo vertelt in zijn Γεωγραφικά (Geographika) hoe Socrates Xenophon, die van zijn paard was gevallen tijdens de betreffende aftocht, op zijn schouders nam en hem vele stadiën droeg terug naar het fort van de Atheners.
 
-
-
 [^5]: Plato, Symposium, vertaling Dr. B.H. Bal, 1953
-
-
 
 [^6]: Zie betreffende de verdediging van idealen in de cultuur ook het artikel [Civitas](https://reactionair.nl/artikelen/civitas-en-civilisatie)
 
 [ en civilisatie](https://reactionair.nl/artikelen/civitas-en-civilisatie).
-
-
 
 [^7]: Plato, Νόμοι (Wetten) Boek VIII: Om een gelukkig leven te leiden is het allereerst noodzakelijk anderen geen onrecht aan te doen en zich ook niet te laten meeslepen door het onrecht dat anderen begaan. Van deze twee valt de eerste voorwaarde niet zo moeilijk te verwezenlijken, maar het is veel moeilijker te leren zich niet door onrecht uit het veld te laten slaan. Dit kan men alleen verwezenlijken door zelf geheel en al goed te worden. Met de gemeenschap is het net zo gesteld. Een gemeenschap zal een vreedzaam en tevreden bestaan vinden als zij zelf ook door en door goed is geworden. Maar als zij kwaadaardig is geworden, zal die gemeenschap een bestaan leiden dat zich kenmerkt door twisten en onmin binnen in zichzelf en naar buiten toe. Omdat die onmin er nu eenmaal is, moeten de mensen op oorlog worden voorbereid, en dat gebeurt niet in oorlogstijd maar in vredestijd. Een intelligente gemeenschap zal zich er dus op toeleggen om niet minder dan een volle dag per maand een marsoefening te houden. Die dag wordt door de leiders vastgesteld, en de mars gaat altijd door, onverschillig hoe heet of koud het is. Iedereen, mannen, vrouwen en kinderen, moet meedoen, althans indien de leiders dat nodig achten. Anders moeten mannen, vrouwen en kinderen apart oefenen.
 
@@ -84,12 +72,6 @@ Ook moeten er tegelijk met de offerplechtigheden allerlei fraaie wedstrijden en 
 
 (Vert. Ars Floreat)
 
-
-
 [^8]: Diogenes Laërtius, Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων (Leven en leer van beroemde filosofen), B. III
 
-
-
 [^9]: Xenophon, Ἀ*πομνημονεύματα Σωκράτους* (Herinneringen aan Socrates), Boek III, hoofdstuk 12
-
-<!--EndFragment-->
