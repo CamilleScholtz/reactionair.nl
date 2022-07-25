@@ -146,7 +146,7 @@ de wolf en het wolvengebroed.---
 
 [^12]: Jung verwijst hier naar het verhaal dat de legendarische Duitse keizer Frederik Barbarossa in een grot in het Kyffhaüsergebergte ligt te slapen en zal ontwaken wanneer Duitsland hem nodig heeft. Barbarossa wordt in die zin ook gezien als een avatar van Wodan, vandaar ook de verwijzing naar de raven Huginn en Muginn die hem op de hoogte hielden van het aardse gebeuren.
 
-[^13]: Chamberlain was een Britse intellectueel die sympathiseerde met het nationaal-socialisme.
+[^13]: Houston Stewart Chamberlain was een germanofiele Britse intellectueel die sympathiseerde met het nationaal-socialisme.
 
 [^14]: De walkuren zijn krijgsgodinnen te paard die Wodan begeleiden op zijn wilde jacht onder uitroepen als 'wagalawei'. Ook haalden ze volgens de noordse mythologie gesneuvelden op van het slagveld om ze mee te nemen naar walhalla. 
 
