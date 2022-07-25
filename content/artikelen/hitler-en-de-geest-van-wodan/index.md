@@ -156,7 +156,7 @@ de wolf en het wolvengebroed.---
 
 [^15]: De Volkerenbond is de vooroorlogse voorloper van de Verenigde Naties.
 
-16: concord
+[^16]: *Wikipedia:* [Het verdrag van Lateranen](https://nl.wikipedia.org/wiki/Verdrag_van_Lateranen).
 
 17: pos chris
 
