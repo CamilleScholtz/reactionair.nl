@@ -177,3 +177,5 @@ De duivel als internationale Alberich: Alberich is een dwerg uit de noordse myth
 18: hauer
 
 19: edda
+
+inspringen + noot 16
