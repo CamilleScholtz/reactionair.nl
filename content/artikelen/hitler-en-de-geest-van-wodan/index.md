@@ -1,5 +1,5 @@
 +++
-title = "Hitler, het nationaal-socialisme en de geest van Wodan"
+title = "Hitler, het nationaal-socialisme en Wodan"
 subtitle = "Een opstel van Carl Gustav Jung"
 auteurs = ["Redactie"]
 date = "2022-07-24"
