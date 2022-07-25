@@ -134,7 +134,7 @@ de wolf en het wolvengebroed.---
 
 [^6]: Friedrich Nietzsche - *Also sprach Zarathustra*.
 
-[^7]: Sleipnir is het achtbenige paard van Wodan waarmee hij door de lucht reed. Mogelijk is de schimmel van Sint Nicolaas hiernaar gemodelleerd.
+[^7]: Sleipnir is het achtbenige paard van Wodan waarmee hij door de lucht reed. Mogelijk is de schimmel van Sint Nicolaas hier naar gemodelleerd.
 
 [^8]: De SA oftewel Sturmabteilung was de weerbaarheidsafdeling annex knokploeg van de NSDAP.
 
