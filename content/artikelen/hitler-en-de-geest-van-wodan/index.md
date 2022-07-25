@@ -164,6 +164,8 @@ De duivel als internationale Alberich: Alberich is een dwerg uit de noordse myth
 
 [^19]: Fylgja zijn bovennatuurlijke wezens die vaak de gedaante van een dier aannemen en iemand helpen zijn lotsbestemming te vervullen.
 
+...
+
 [^19]: De Volkerenbond is de vooroorlogse voorloper van de Verenigde Naties.
 
 [^18]: *Wikipedia:* [Het verdrag van Lateranen](https://nl.wikipedia.org/wiki/Verdrag_van_Lateranen).
