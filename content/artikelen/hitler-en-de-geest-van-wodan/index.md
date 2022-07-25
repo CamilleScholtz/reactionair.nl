@@ -172,7 +172,9 @@ De duivel als internationale Alberich: Alberich is een dwerg uit de noordse myth
 
 [^23]: *Wikipedia:* [Het verdrag van Lateranen](https://nl.wikipedia.org/wiki/Verdrag_van_Lateranen).
 
-17: pos chris
+[^24]: *Deutsche Christen* was een pressiegroep die de Duitse evangelische kerk van binnenuit richting het nazisme probeerde te bewegen.
+
+[^25]: Jakob Wilhelm Hauer was de stichter van de *Deutsche Glaubensbewegung*, die het Germaanse heidendom tot leven wilde wekken en dit vermengde met de verering van Adolf Hitler.
 
 18: hauer
 
