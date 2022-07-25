@@ -118,7 +118,7 @@ hij slaat op de schuimende golven, adelaars schreeuwen\
 luid om lijken: het doodsschip Naglfar is los.\
 Vanuit de morgen door de zee, met de godenschemering Muspilli nabij,\
 leidt Loki de lopende kiel;\
-aan boord brengt broeder Byleist van de weg\
+aan boord brengt broeder Donderslag van de weg\
 de wolf en het wolvengebroed.---[^29]
 
 [^1]: Jung refereert hier aan de Italiaanse inval in Ethiopië in 1935.
