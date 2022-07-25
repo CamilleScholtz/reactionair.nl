@@ -164,7 +164,9 @@ De duivel als internationale Alberich: Alberich is een dwerg uit de noordse myth
 
 [^19]: Fylgja zijn bovennatuurlijke wezens die vaak de gedaante van een dier aannemen en iemand helpen zijn lotsbestemming te vervullen.
 
-...
+[^20]: Hermes was de Griekse boodschapper- en schelmgod en werd vereenzelvigd met de Romeinse Mercurius. πνευμα (letterlijk: adem) en νουσ zijn de Griekse woorden voor respectievelijk de ziel en het intellect.
+
+[^21]: Kronos was de vader van Zeus. Hij werd door zijn zoon gedood die vervolgens de oppergod van de olympische goden werd.
 
 [^19]: De Volkerenbond is de vooroorlogse voorloper van de Verenigde Naties.
 
