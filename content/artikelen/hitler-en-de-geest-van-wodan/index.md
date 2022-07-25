@@ -150,7 +150,9 @@ de wolf en het wolvengebroed.---
 
 [^14]: De walkuren zijn krijgsgodinnen te paard die Wodan begeleiden op zijn wilde jacht onder uitroepen als 'wagalawei'. Ook haalden ze volgens de noordse mythologie gesneuvelden op van het slagveld om ze mee te nemen naar walhalla. 
 
-de Griekse moeder van Paulus, de duivel als internationale Alberich
+De Griekse moeder van Paulus: op dit punt moet ik in gebreke blijven. Paulus werd geboren aan de westkust van het huidige Turkije wat destijds tot Griekenland werd gerekend in een Joodse familie. Mogelijk is de suggestie dat Paulus deels van Griekse, dus Europese afkomst is.
+
+De duivel als internationale Alberich:
 
 ...x2
 
