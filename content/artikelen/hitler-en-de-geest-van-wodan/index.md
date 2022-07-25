@@ -176,8 +176,8 @@ De duivel als internationale Alberich: Alberich is een dwerg uit de noordse myth
 
 [^25]: Jakob Wilhelm Hauer was de stichter van de *Deutsche Glaubensbewegung*, die het Germaanse heidendom tot leven wilde wekken en dit vermengde met de verering van Adolf Hitler.
 
-18: hauer
+[^26]: De *edda* is een verzameling IJslandse geschriften die de voornaamste bron vormt voor de noordse mythologie.
 
-19: edda
+murmir
 
 inspringen + noot 16
