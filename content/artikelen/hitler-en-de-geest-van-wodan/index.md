@@ -104,7 +104,7 @@ Men kan Hauers boek *Deutsche Gottschau, Grundzüge eines deutschen Glaubens*, n
 \
 Wanneer wij onze, ik geef het toe, opvallende beschouwingswijze consequent toepassen, dan moeten we concluderen dat Wodan niet alleen zijn rusteloze, gewelddadige en stormachtige karakter zou moeten onthullen, maar ook zijn heel andere, extatische en mantische aard. Zou deze conclusie terecht zijn, dan zou het nationaal-socialisme nog lang niet het laatste woord zijn, maar zouden er in de komende jaren of tientallen jaren dingen te verwachten zijn die zich nu op de achtergrond bevinden - dingen waarvan we ons nu nog moeilijk een voorstelling kunnen maken. Het opnieuw ontwaken van Wodan is een stap terug en een teruggrijpen op het verleden: de rivier is door een stuwing weer naar zijn vroegere bedding doorgebroken. Maar zo'n stuwing duurt niet eeuwig; het is eerder een *reculer pour mieux sauter* (een aanloop nemen om beter te kunnen springen), en het water zal over de hindernis heenstromen. Dan zal blijken wat Wodan 'murmelde met Mimirs hoofd':\
 \
----Wat murmelt nog Wotan met Mimirs hoofd?\
+---Wat murmelt nog Wodan met Mimirs hoofd?\
 Reeds kookt het in de bron: de kroon van de wereldboom\
 gloeit op bij 't geluid van de Gjallarhoorn,\
 die Heimdal tot heirroep heeft aangeheven.\
@@ -120,7 +120,7 @@ Vanuit de morgen door de zee, met Muspilli\
 (godenschemering) nabij,\
 leidt Loki de lopende kiel;\
 aan boord brengt Weerstorm broeder van de weg\
-de wolf en het wolvengebroed.---
+de wolf en het wolvengebroed.---[^29]
 
 [^1]: Jung refereert hier aan de Italiaanse inval in Ethiopië in 1935.
 
@@ -181,6 +181,8 @@ De duivel als internationale Alberich: Alberich is een dwerg uit de noordse myth
 [^27]: Mystieke Indiase geschriften uit de vedische tijd.
 
 [^28]: Bijbelse volkeren die op vijandige voet leefden met de Israëlieten.
+
+[^29]: Fragment uit de *edda*, zie voetnoot 26.
 
 
 
