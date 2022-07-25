@@ -113,13 +113,13 @@ met ruisend lover, tot Loki zich losrukt.\
 Wild huilt de hond voor de hellekloof\
 tot de razende renner de ketenen losrukt.\
 Vanuit de dageraad reist een reus, met schild,\
-In reuzen-woede wentelt de wereldworm:\
+In reuzenwoede wentelt de wereldworm:\
 hij slaat op de schuimende golven, adelaars schreeuwen\
-luid om lijken: Naglfar (doodsschip) is los.\
+luid om lijken: Naglfar (het doodsschip) is los.\
 Vanuit de morgen door de zee, met Muspilli\
 (godenschemering) nabij,\
 leidt Loki de lopende kiel;\
-aan boord brengt Weerstorm broeder van de weg\
+aan boord brengt Weerstorm-broeder van de weg\
 de wolf en het wolvengebroed.---[^29]
 
 [^1]: Jung refereert hier aan de Italiaanse inval in Ethiopië in 1935.
