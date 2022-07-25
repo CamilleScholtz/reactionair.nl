@@ -148,9 +148,7 @@ de wolf en het wolvengebroed.---
 
 [^13]: Chamberlain was een Britse intellectueel die sympathiseerde met het nationaal-socialisme.
 
-[^14]: De walkuren zijn vrouwelijke krijgers te paard die Wodan begeleiden op zijn wilde jacht onder uitroepen als 'Wagalawei'. Ook haalden ze volgens de noordse mythologie gesneuvelden op van het slagveld om ze mee te nemen naar walhalla. 
-
-De Griekse moeder van Paulus was de eerste bekeerling tot het christendom en van Griekse, dus Europese afkomst.
+[^14]: De walkuren zijn krijgsgodinnen te paard die Wodan begeleiden op zijn wilde jacht onder uitroepen als 'wagalawei'. Ook haalden ze volgens de noordse mythologie gesneuvelden op van het slagveld om ze mee te nemen naar walhalla. 
 
 de Griekse moeder van Paulus, de duivel als internationale Alberich
 
