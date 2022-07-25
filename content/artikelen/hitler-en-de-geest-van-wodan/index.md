@@ -47,7 +47,7 @@ Droef'nismoordenaar, hemelveger,\
 bruisende, hoe heb ik u lief!\
 Zijn wij beiden niet uit één schoot\
 eerstelingsgave, eeuwig\
-voorbestemd tot één lot?---
+voorbestemd tot één lot?---[^5]
 
 In het loflied genaamd *Klacht van Ariadne*, is hij volledig het slachtoffer van de god-jager, waaraan ook Zarathoestra's gewelddadige zelfbevrijding in laatste instantie niets meer verandert:\
 \
@@ -66,7 +66,7 @@ buig ik me, wentel me, gekweld\
 door alle eeuwige gemartel,\
 getroffen\
 door u, wreedste Jager,\
-Gij onbekende - God! ---
+Gij onbekende - God! ---[^6]
 
 De opmerkelijke gestalte van de jager-god is niet alleen maar een dithyrambische spraakfiguur, maar een beleving van de vijftienjarige Nietzsche in Pforta. Deze beleving is opgetekend in de door Elisabeth Förster-Nietzsche uitgegeven *Autobiographische Aufzeichnungen*. Hierin schildert Nietzsche een fantastische nachtelijke wandeling in een duister woud, waar hij eerst door een 'schelle schreeuw uit een nabijgelegen gekkenhuis' werd opgeschrikt, en daarna een jager met 'woeste, griezelige gelaatstrekken' ontmoette. In een dal, omgeven door 'wild struikgewas' zette de jager een fluit aan zijn mond, en liet een 'schrille toon horen', waarop Nietzsche het bewustzijn verloor, maar weer in Pforta ontwaakte. Het was een nachtmerrie geweest. Het is veelbetekenend dat de dromer, die eigenlijk naar Eisleben, de stad van Luther, wilde gaan, met deze jager de vraag bespreekt om in plaats daarvan naar 'Teutschental' (dal van de Teutonen) te gaan. Het schelle gefluit van de stormgod in het nachtelijk woud kan nauwelijks verkeerd begrepen worden.
 
@@ -130,37 +130,41 @@ de wolf en het wolvengebroed.---
 
 [^4]: Ahasverus, ook wel bekend als de wandelende Jood, was een legendarisch figuur die als straf voor zijn beledigingen aan het adres van Jezus tot de dag des oordeels rusteloos over de aarde moet zwerven.
 
-[^5]: Dionysos is de Griekse god van de wijn en de roes.
+[^5]: Friedrich Nietzsche - *Die fröhliche Wissenschaft*.
 
-[^6]: Friedrich Nietzsche - *Also sprach Zarathustra*.
+[^6]: Friedrich Nietzsche - *Dionysos-Dithyramben*.
 
-[^7]: Sleipnir is het achtbenige paard van Wodan waarmee hij door de lucht reed. Mogelijk is de schimmel van Sint Nicolaas hier naar gemodelleerd.
+[^6]: Dionysos is de Griekse god van de wijn en de roes.
 
-[^8]: De SA oftewel Sturmabteilung was de weerbaarheidsafdeling annex knokploeg van de NSDAP.
+[^7]: Friedrich Nietzsche - *Also sprach Zarathustra*.
 
-[^9]: Maenaden waren vrouwelijke volgelingen van Dionysos (zie voetnoot 5) die zich in dronken extase overgaven aan dans, seks en geweld.
+[^8]: Sleipnir is het achtbenige paard van Wodan waarmee hij door de lucht reed. Mogelijk is de schimmel van Sint Nicolaas hier naar gemodelleerd.
 
-[^10]: Berserkers waren vikingkrijgers die door sjamanistische rituelen in een krijgsextase kwamen.
+[^9]: De SA oftewel Sturmabteilung was de weerbaarheidsafdeling annex knokploeg van de NSDAP.
 
-[^11]: Teutoonse en bij uitbreiding Duitse furie.
+[^10]: Maenaden waren vrouwelijke volgelingen van Dionysos (zie voetnoot 5) die zich in dronken extase overgaven aan dans, seks en geweld.
 
-[^12]: Jung verwijst hier naar het verhaal dat de legendarische Duitse keizer Frederik Barbarossa in een grot in het Kyffhaüsergebergte ligt te slapen en zal ontwaken wanneer Duitsland hem nodig heeft. Barbarossa wordt in die zin ook gezien als een avatar van Wodan, vandaar ook de verwijzing naar de raven Huginn en Muginn die hem op de hoogte hielden van het aardse gebeuren.
+[^11]: Berserkers waren vikingkrijgers die door sjamanistische rituelen in een krijgsextase kwamen.
 
-[^13]: Houston Stewart Chamberlain was een germanofiele Britse intellectueel die sympathiseerde met het nationaal-socialisme.
+[^12]: Teutoonse en bij uitbreiding Duitse furie.
 
-[^14]: De walkuren zijn krijgsgodinnen te paard die Wodan begeleiden op zijn wilde jacht onder uitroepen als 'wagalawei'. Ook haalden ze volgens de noordse mythologie gesneuvelden op van het slagveld om ze mee te nemen naar walhalla. 
+[^13]: Jung verwijst hier naar het verhaal dat de legendarische Duitse keizer Frederik Barbarossa in een grot in het Kyffhaüsergebergte ligt te slapen en zal ontwaken wanneer Duitsland hem nodig heeft. Barbarossa wordt in die zin ook gezien als een avatar van Wodan, vandaar ook de verwijzing naar de raven Huginn en Muginn die hem op de hoogte hielden van het aardse gebeuren.
+
+[^14]: Houston Stewart Chamberlain was een germanofiele Britse intellectueel die sympathiseerde met het nationaal-socialisme.
+
+[^15]: De walkuren zijn krijgsgodinnen te paard die Wodan begeleiden op zijn wilde jacht onder uitroepen als 'wagalawei'. Ook haalden ze volgens de noordse mythologie gesneuvelden op van het slagveld om ze mee te nemen naar walhalla. 
 
 De Griekse moeder van Paulus: op dit punt moet ik in gebreke blijven. Paulus werd geboren aan de westkust van het huidige Turkije wat destijds tot Griekenland werd gerekend in een Joodse familie. Mogelijk is de suggestie dat Paulus deels van Griekse, dus Europese afkomst is.
 
 De duivel als internationale Alberich: Alberich is een dwerg uit de noordse mythologie die in het Nibelungenlied de goudschat bewaakt.
 
-[^15]: *Sturm und Drang*: aanduiding van de vroegromantiek in Duitsland.
+[^16]: *Sturm und Drang*: aanduiding van de vroegromantiek in Duitsland.
 
-[^16]: Apollo was de Griekse god van onder meer de muziek, de waarheid en de rede en wordt (met name door Nietzsche) gezien als de tegenpool van Dionysos.
+[^17]: Apollo was de Griekse god van onder meer de muziek, de waarheid en de rede en wordt (met name door Nietzsche) gezien als de tegenpool van Dionysos.
 
 ...
 
-[^17]: De Volkerenbond is de vooroorlogse voorloper van de Verenigde Naties.
+[^19]: De Volkerenbond is de vooroorlogse voorloper van de Verenigde Naties.
 
 [^18]: *Wikipedia:* [Het verdrag van Lateranen](https://nl.wikipedia.org/wiki/Verdrag_van_Lateranen).
 
