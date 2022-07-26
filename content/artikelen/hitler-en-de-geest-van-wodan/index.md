@@ -8,6 +8,7 @@ aangehaald = ["Carl Jung", "Friedrich Nietzsche"]
 question = "Wat zijn uw gedachten over dit artikel?"
 image = "franz.jpg"
 anchor = "Smart"
+noindex = true
 +++
 *Dit opstel van de bekende Zwitserse psycholoog en esotericus Carl Gustav Jung (1875-1961) verscheen voor het eerst in 1936 onder de titel 'Wotan'*.
 
