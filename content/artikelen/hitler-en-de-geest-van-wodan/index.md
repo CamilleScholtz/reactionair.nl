@@ -132,9 +132,9 @@ Wanneer wij onze, ik geef het toe, opvallende beschouwingswijze consequent toepa
 [^3]: Hier verwijst Jung naar de *Wandervogel*, een jeugdbeweging die aan het eind van de 19e eeuw ontstond in Duitsland en bos- en bergwandelingen ondernam in groepsverband en daarbij ook volksliedjes zong. Jung stelt ze hier voor als (letterlijke) voorloper van het nationaal-socialisme, maar de beweging werd in feite vanaf 1933 verboden door de  NSDAP.
 [^4]: Dionysos is de Griekse god van de wijn en de roes.
 [^5]: Ahasverus, ook wel bekend als de wandelende Jood, was een legendarisch figuur die als straf voor zijn beledigingen aan het adres van Jezus tot de dag des oordeels rusteloos over de aarde moet zwerven.
-[^6]: Friedrich Nietzsche - *Dionysos-Dithyramben*.
+[^6]: Friedrich Nietzsche - *Also sprach Zarathustra*.
 [^7]: Friedrich Nietzsche - *Die fröhliche Wissenschaft*.
-[^8]: Friedrich Nietzsche - *Also sprach Zarathustra*.
+[^8]: Friedrich Nietzsche - *Dionysos-Dithyramben*.
 [^9]: Sleipnir is het achtbenige paard van Wodan waarmee hij door de lucht reed. Mogelijk is de schimmel van Sint Nicolaas hier naar gemodelleerd.
 [^10]: De SA oftewel Sturmabteilung was de weerbaarheidsafdeling annex knokploeg van de NSDAP.
 [^11]: Maenaden waren vrouwelijke volgelingen van Dionysos (zie voetnoot 5) die zich in dronken extase overgaven aan dans, seks en geweld.
