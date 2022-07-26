@@ -9,7 +9,7 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "franz.jpg"
 anchor = "Smart"
 +++
-*Dit opstel van de bekende Zwitserse psycholoog en esotericus Carl Gustav Jung (1875-1961) verscheen voor het eerst in 1936 onder de titel* Wotan.
+*Dit opstel van de bekende Zwitserse psycholoog en esotericus Carl Gustav Jung (1875-1961) verscheen voor het eerst in 1936 onder de titel 'Wotan'*.
 
 {{< quote
 	text="In Duitsland zullen verschillende sekten ontstaan, Die het gelukkige heidendom zeer nabij zullen komen, De onvrijheid van het hart en de geringe inkomsten, Zullen de weg openen tot het betalen van de ware tol."
