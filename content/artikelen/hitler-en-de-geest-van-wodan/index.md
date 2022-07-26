@@ -9,7 +9,6 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "franz.jpg"
 anchor = "Smart"
 +++
-
 *Dit opstel van de bekende Zwitserse psycholoog en esotericus Carl Gustav Jung (1875-1961) verscheen voor het eerst in 1936 onder de titel* Wotan*.*
 
 {{< quote
@@ -131,11 +130,11 @@ Wanneer wij onze, ik geef het toe, opvallende beschouwingswijze consequent toepa
 [^1]: Jung refereert hier aan de Italiaanse inval in Ethiopië in 1935.
 [^2]: Wodan, ook wel Woen (Nederland), Wotan (Duitsland) of Odin (Scandinavië), was de Germaanse oppergod en werd in verband gebracht met onder meer oorlog, wijsheid, magie en stormen, maar was ook de beschermgod van reizigers. Hij had maar één oog.
 [^3]: Hier verwijst Jung naar de *Wandervogel*, een jeugdbeweging die aan het eind van de 19e eeuw ontstond in Duitsland en bos- en bergwandelingen ondernam in groepsverband en daarbij ook volksliedjes zong. Jung stelt ze hier voor als (letterlijke) voorloper van het nationaal-socialisme, maar de beweging werd in feite vanaf 1933 verboden door de  NSDAP.
-[^4]: Ahasverus, ook wel bekend als de wandelende Jood, was een legendarisch figuur die als straf voor zijn beledigingen aan het adres van Jezus tot de dag des oordeels rusteloos over de aarde moet zwerven.
-[^5]: Friedrich Nietzsche - *Die fröhliche Wissenschaft*.
-[^6]: Friedrich Nietzsche - *Dionysos-Dithyramben*.
-[^7]: Dionysos is de Griekse god van de wijn en de roes.
-[^8]: Friedrich Nietzsche - *Also sprach Zarathustra*.
+[^4]: Dionysos is de Griekse god van de wijn en de roes.
+[^5]: Ahasverus, ook wel bekend als de wandelende Jood, was een legendarisch figuur die als straf voor zijn beledigingen aan het adres van Jezus tot de dag des oordeels rusteloos over de aarde moet zwerven.
+[^6]: Friedrich Nietzsche - *Also sprach Zarathustra*.
+[^7]: Friedrich Nietzsche - *Die fröhliche Wissenschaft*.
+[^8]: Friedrich Nietzsche - *Dionysos-Dithyramben*.
 [^9]: Sleipnir is het achtbenige paard van Wodan waarmee hij door de lucht reed. Mogelijk is de schimmel van Sint Nicolaas hier naar gemodelleerd.
 [^10]: De SA oftewel Sturmabteilung was de weerbaarheidsafdeling annex knokploeg van de NSDAP.
 [^11]: Maenaden waren vrouwelijke volgelingen van Dionysos (zie voetnoot 5) die zich in dronken extase overgaven aan dans, seks en geweld.
