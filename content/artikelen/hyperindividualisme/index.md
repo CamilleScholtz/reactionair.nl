@@ -4,6 +4,7 @@ subtitle = "De ondergang van de samen-leving"
 auteurs = ["Intan Hoijer"]
 date = "2022-07-26"
 themas = "Cultuur & Maatschappij"
+aangehaald = "List [ \"Jean-Paul Sartre\", \"Immanuel Kant\", \"Jean-Jacques Rousseau\", \"Sigmund Freud\" ]"
 question = "Wat zijn uw gedachten over dit artikel?"
 image = "bbva-openmind-schrodinger-3.jjpg_-1.jpg"
 anchor = "Smart"
