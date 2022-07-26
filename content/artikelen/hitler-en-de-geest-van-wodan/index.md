@@ -136,8 +136,7 @@ Wanneer wij onze, ik geef het toe, opvallende beschouwingswijze consequent toepa
 [^7]: Friedrich Nietzsche - *Die fröhliche Wissenschaft*.
 [^8]: Friedrich Nietzsche - *Dionysos-Dithyramben*.
 [^9]: Sleipnir is het achtbenige paard van Wodan waarmee hij door de lucht reed. Mogelijk is de schimmel van Sint Nicolaas hier naar gemodelleerd.
-[^10]: De SA oftewel Sturmabteilung was de weerbaarheidsafdeling annex knokploeg van de NSDAP.
-[^11]: Maenaden waren vrouwelijke volgelingen van Dionysos (zie voetnoot 5) die zich in dronken extase overgaven aan dans, seks en geweld.
+[^10]: De SA oftewel Sturmabteilung was de weerbaarheidsafdeling annex knokploeg van de NSDAP. <br><br>Maenaden waren vrouwelijke volgelingen van Dionysos (zie voetnoot 5) die zich in dronken extase overgaven aan dans, seks en geweld.
 [^12]: Berserkers waren vikingkrijgers die door sjamanistische rituelen in een krijgsextase kwamen.
 [^13]: Teutoonse en bij uitbreiding Duitse furie.
 [^14]: Jung verwijst hier naar het verhaal dat de legendarische Duitse keizer Frederik Barbarossa in een grot in het Kyffhaüsergebergte ligt te slapen en zal ontwaken wanneer Duitsland hem nodig heeft. Barbarossa wordt in die zin ook gezien als een avatar van Wodan, vandaar ook de verwijzing naar de raven Huginn en Muginn die hem op de hoogte hielden van het aardse gebeuren.
