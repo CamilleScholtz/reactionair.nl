@@ -150,7 +150,7 @@ Wanneer wij onze, ik geef het toe, opvallende beschouwingswijze consequent toepa
 [^21]: De Volkerenbond is de vooroorlogse voorloper van de Verenigde Naties.
 [^22]: *Wikipedia:* [Het verdrag van Lateranen](https://nl.wikipedia.org/wiki/Verdrag_van_Lateranen).
 [^23]: *Deutsche Christen* was een pressiegroep die de Duitse evangelische kerk van binnenuit richting het nazisme probeerde te bewegen.
-[^24]: Jakob Wilhelm Hauer was de stichter van de *Deutsche Glaubensbewegung*, die het Germaanse heidendom tot leven wilde wekken. Later vermengde hij dit onder meer met arisch suprematisme en de verering van Adolf Hitler, wat reden was voor om Jung meer en meer afstand van hem te nemen.
+[^24]: Jakob Wilhelm Hauer was de stichter van de *Deutsche Glaubensbewegung*, die het Germaanse heidendom tot leven wilde wekken. Later vermengde hij dit onder meer met arisch suprematisme en de verering van Adolf Hitler, wat reden was voor Jung om meer en meer afstand van hem te nemen.
 [^25]: De *Edda* is een verzameling IJslandse geschriften die de voornaamste bron vormt voor de noordse mythologie.
 [^26]: Mystieke Indiase geschriften uit de vedische tijd.
 [^27]: Bijbelse volkeren die op vijandige voet leefden met de Israëlieten.
