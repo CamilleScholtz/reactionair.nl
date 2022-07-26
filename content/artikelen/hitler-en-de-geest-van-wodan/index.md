@@ -9,7 +9,7 @@ question = "Wat zijn uw gedachten over dit artikel?"
 image = "franz.jpg"
 anchor = "Smart"
 +++
-*Dit opstel van de bekende Zwitserse psycholoog en esotericus Carl Gustav Jung (1875-1961) verscheen voor het eerst in 1936 onder de titel* Wotan*.*
+*Dit opstel van de bekende Zwitserse psycholoog en esotericus Carl Gustav Jung (1875-1961) verscheen voor het eerst in 1936 onder de titel* Wotan.
 
 {{< quote
 	text="In Duitsland zullen verschillende sekten ontstaan, Die het gelukkige heidendom zeer nabij zullen komen, De onvrijheid van het hart en de geringe inkomsten, Zullen de weg openen tot het betalen van de ware tol."
@@ -150,7 +150,7 @@ Wanneer wij onze, ik geef het toe, opvallende beschouwingswijze consequent toepa
 [^21]: De Volkerenbond is de vooroorlogse voorloper van de Verenigde Naties.
 [^22]: *Wikipedia:* [Het verdrag van Lateranen](https://nl.wikipedia.org/wiki/Verdrag_van_Lateranen).
 [^23]: *Deutsche Christen* was een pressiegroep die de Duitse evangelische kerk van binnenuit richting het nazisme probeerde te bewegen.
-[^24]: Jakob Wilhelm Hauer was de stichter van de *Deutsche Glaubensbewegung*, die het Germaanse heidendom tot leven wilde wekken. Later vermengde hij dit onder meer met arisch suprematisme en de verering van Adolf Hitler, wat reden was voor om Jung meer en meer afstand van hem te nemen.
+[^24]: Jakob Wilhelm Hauer was de stichter van de *Deutsche Glaubensbewegung*, die het Germaanse heidendom tot leven wilde wekken. Later vermengde hij dit onder meer met arisch suprematisme en de verering van Adolf Hitler, wat reden was voor Jung om meer en meer afstand van hem te nemen.
 [^25]: De *Edda* is een verzameling IJslandse geschriften die de voornaamste bron vormt voor de noordse mythologie.
 [^26]: Mystieke Indiase geschriften uit de vedische tijd.
 [^27]: Bijbelse volkeren die op vijandige voet leefden met de Israëlieten.
