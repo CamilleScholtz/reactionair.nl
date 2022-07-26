@@ -2,7 +2,7 @@
 title = "Hitler, het nationaal-socialisme en Wodan"
 subtitle = "Een opstel van Carl Gustav Jung"
 auteurs = ["Redactie"]
-date = "2022-07-24"
+date = "2022-07-26"
 themas = "Recensie & Biografie"
 aangehaald = "List [ \"Carl Jung\", \"Friedrich Nietzsche\" ]"
 question = "Wat zijn uw gedachten over dit artikel?"
