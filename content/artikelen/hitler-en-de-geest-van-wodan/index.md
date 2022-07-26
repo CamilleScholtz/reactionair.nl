@@ -6,7 +6,7 @@ date = "2022-07-26"
 themas = "Recensie & Biografie"
 aangehaald = ["Carl Jung", "Friedrich Nietzsche"]
 question = "Wat zijn uw gedachten over dit artikel?"
-image = "1200px-franz_von_stuck_-_die_wilde_jagd_-_g_1405_-_lenbachhaus.jpg"
+image = "franz.jpg"
 anchor = "Smart"
 +++
 
