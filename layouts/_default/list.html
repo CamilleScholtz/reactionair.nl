@@ -1,15 +1,8 @@
 {{ define "main" }}
-	{{ $paginator := .Paginate .RegularPages }}
-
 	{{ if eq .Section "auteurs" }}
-		<aside class="authors">
+		<aside class="author-large">
 			<div class="sticky">
-				{{ with site.GetPage (printf "/auteurs/%s" (urlize .Params.title)) }}
-					{{ partial "authors/author.html" (dict
-						"context" .
-						"utility" true
-					) }}
-				{{ end }}
+				{{ partial "asides/author-large.html" .Params.title }}
 			</div>	
 		</aside>
 	{{ else }}
@@ -23,7 +16,18 @@
 		</aside>
 	{{ end }}	
 
-	<section>
+	{{ $paginator := .Paginate (.RegularPages | after 1) }}
+
+	{{ if not $paginator.HasPrev }}
+		<section>
+			{{ partial "articles/featured.html" (dict
+				"context" (index .RegularPages 0)
+				"size"    "large"
+			) }}
+		</section>
+	{{ end }}
+
+	<section>	
 		<div id="articles">
 			{{ range $paginator.Pages }}			
 				<a href="{{ .RelPermalink }}" class="article">
@@ -52,15 +56,15 @@
 		{{ if gt $paginator.TotalPages 1 }}
 			<nav class="paginator">
 				{{ if $paginator.HasPrev }}
-					<a class="prev" href="{{ $paginator.Prev.URL }}">←</a>
+					<a class="button prev" href="{{ $paginator.Prev.URL }}">←</a>
 				{{ else }}
-					<a class="prev disabled">←</a>
+					<a class="button prev disabled">←</a>
 				{{ end }}
 
 				{{ if $paginator.HasNext }}
-					<a class="next" href="{{ $paginator.Next.URL }}">→</a>
+					<a class="button next" href="{{ $paginator.Next.URL }}">→</a>
 				{{ else }}
-					<a class="next disabled">→</a>
+					<a class="button next disabled">→</a>
 				{{ end }}
 			</nav>
 		{{ end }}

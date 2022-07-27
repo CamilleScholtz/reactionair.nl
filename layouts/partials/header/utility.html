@@ -1,5 +1,5 @@
 <div class="utility">
-	<div class="left">
+	<span class="left">
 		{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
 			<time>{{ .Date.Day }} {{ index site.Data.months (printf "%d" .Date.Month) }}, {{ .Date.Year }}</time>
 
@@ -10,10 +10,10 @@
 		{{ else }}
 			<time class="now">{{ now.Day }} {{ index $.Site.Data.months (printf "%d" now.Month) }}, {{ now.Year }}</time>
 		{{ end }}
-	</div>
+	</span>
 
-	<div class="right">
+	<span class="right">
 		<div>{{ .Title }}</div>
-	</div>
+	</span>
 </div>
 

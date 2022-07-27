@@ -4,10 +4,12 @@ subtitle = "Onze realiteit gereduceerd tot pure kwantiteit — lees tot het eind
 auteurs = ["Camille Meloen"]
 date = "2022-07-24"
 themas = "Religie & Metafysica"
+aangehaald = ["René Guénon"]
 question = "Wat zijn uw gedachten over dit artikel?"
 image = "test.jpg"
 anchor = "Smart"
 +++
+
 In de visie van René Guénon is het universum een hiërarchie van zijn, met als hoogste niveau het spirituele rijk, gevolgd door het psychische rijk, het intellectuele rijk en tenslotte het fysieke rijk. Deze hiërarchie is gebaseerd op het principe van kwalitatieve superioriteit, waarbij elk hoger niveau kwalitatiever (en dus reëler) is dan het niveau eronder.
 
 {{< image caption="René Guénon schrijft zijn boek The Symbolic Language of Traditional Architecture." >}}

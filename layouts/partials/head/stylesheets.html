@@ -2,9 +2,15 @@
 	"outputStyle" "compressed"
 }}
 
-<link rel="stylesheet" href="{{ (resources.Get "sass/fonts.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624333">
-<link rel="stylesheet" href="{{ (resources.Get "sass/light.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624333" media="(prefers-color-scheme: light)">
-<link rel="stylesheet" href="{{ (resources.Get "sass/dark.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624333" media="(prefers-color-scheme: dark)">
-<link rel="stylesheet" href="{{ (resources.Get "sass/main.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624337">
-<link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624336" media="(max-width: 1024px)">
-<link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v=1650624333" media="(min-width: 1025px)">
+<link rel="stylesheet" href="{{ (resources.Get "sass/fonts.sass" | resources.ToCSS $options).RelPermalink }}?v=1658669653">
+<link rel="stylesheet" href="{{ (resources.Get "sass/light.sass" | resources.ToCSS $options).RelPermalink }}?v=1658669653" media="(prefers-color-scheme: light)">
+<link rel="stylesheet" href="{{ (resources.Get "sass/dark.sass" | resources.ToCSS $options).RelPermalink }}?v=1658669653" media="(prefers-color-scheme: dark)">
+<link rel="stylesheet" href="{{ (resources.Get "sass/main.sass" | resources.ToCSS $options).RelPermalink }}?v=1658669653">
+<link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v=1658669653" media="(max-width: 1024px)">
+<link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v=1658669653" media="(min-width: 1025px)">
+
+{{ if eq .Params.layout "boekencast" }}
+	<link rel="stylesheet" href="{{ (resources.Get "sass/boekencast/main.sass" | resources.ToCSS $options).RelPermalink }}?v=1658669653">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/boekencast/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v=1658669653" media="(max-width: 1024px)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/boekencast/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v=1658669653" media="(min-width: 1025px)">
+{{ end }}

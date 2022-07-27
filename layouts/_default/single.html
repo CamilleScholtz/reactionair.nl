@@ -5,9 +5,9 @@
 	</article>
 
 	<aside class="authors">
-		<div class="sticky">
+		<div class="sticky" stuck>
 			{{ range .Params.auteurs }}
-				{{ partial "asides/author.html" . }}
+				{{ partial "asides/author-small.html" . }}
 			{{ end }}
 		</div>
 	</aside>

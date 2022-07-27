@@ -1,17 +1,23 @@
 header
 	#logo-container
+		background: radial-gradient(circle at bottom, var(--header-background-gradient-color), var(--header-background-color) 90px)
 		height: 80px
 
-		#logo img
-			height: 83px !important
-			width: 83px !important
+		#logo-background
+			height: 83px
+			width: 83px
 
 		#search
 			top: calc((80px / 2) - 25px)
 			width: calc(100vw - 50px)
 
+	#logo img
+		height: 83px !important
+		width: 83px !important
+
 	.utility
 		flex-direction: column
+		justify-content: center
 		line-height: 25px
 		padding-bottom: 10px
 		padding-top: 25px
@@ -20,14 +26,10 @@ header
 		.left,
 		.right
 			overflow: hidden
-			text-align: center 
-			width: calc(100% - 60px)
+			text-align: center
+			width: calc(100vw - 40px)
 
 			div
 				overflow: hidden
 				text-overflow: ellipsis
 				white-space: nowrap
-
-		.pipe
-			margin-left: 8px
-			margin-right: 8px

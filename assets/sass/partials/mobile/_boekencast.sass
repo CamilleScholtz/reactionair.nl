@@ -1,0 +1,45 @@
+#boekencast
+	.boekencast-container
+		align-content: center
+		background: var(--popup-background-color)
+		box-shadow: -20px 0 var(--popup-background-color), 20px 0 var(--popup-background-color)
+		grid-template-rows: 4fr 5fr
+		margin-left: -10px
+
+		.text
+			grid-row: 2
+			padding: 20px
+			padding-top: 0px
+			text-align: center
+
+			h3
+				font-size: unquote("min(7vw, 28px)")
+				margin-left: unquote("min(47vw, 193px)")
+				margin-bottom: 4px
+				margin-top: 20px
+
+				.de
+					font-size: unquote("min(4vw, 20px)")
+
+			h2
+				font-size: unquote("min(20vw, 82px)")
+				margin: 0 auto
+
+			p
+				margin: 0 auto
+				margin-top: 30px
+
+		.book-container
+			margin-top: -110px
+
+			.book
+				margin: 0 auto
+				transform: rotateY(-20deg) rotateX(3deg) scale(0.9)
+
+				@keyframes move
+					0%
+						transform: rotateY(-20deg) rotateX(3deg) scale(0.9)
+					50%
+						transform: rotateY(-30deg) rotateX(3deg) scale(0.9)
+					100%
+						transform: rotateY(-20deg) rotateX(3deg) scale(0.9)

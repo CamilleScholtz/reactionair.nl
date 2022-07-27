@@ -6,5 +6,4 @@ title = 'Robert Lemm'
 twitter = 'https://twitter.com/jozefcarolus'
 website = 'https://robertlemm.blogspot.com/'
 wikipedia = 'https://nl.wikipedia.org/wiki/Robert_Lemm'
-
 +++

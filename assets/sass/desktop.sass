@@ -1,6 +1,7 @@
 @import partials/desktop/article
 @import partials/desktop/authors
-@import partials/desktop/bookclub
+@import partials/desktop/base
+@import partials/desktop/boekencast
 @import partials/desktop/comments
 @import partials/desktop/featured
 @import partials/desktop/footer
@@ -26,13 +27,12 @@ main
 		grid-column: 1
 		grid-row: auto
 		margin-top: -110px
-		margin-bottom: 100px
+		margin-bottom: 40px
 
 		.sticky
 			position: sticky
-			top: calc(110px + 30px)
-			transition: transform .2s
-			transform: translateY(110px)
+			top: calc(110px + 30px + 111px)
+			transition: top .2s
 
 	>article,
 	>section

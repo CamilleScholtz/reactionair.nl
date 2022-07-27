@@ -3,5 +3,4 @@ description = 'Marit Elechan is geïnteresseerd  in geschied- en cultuurfilosofi
 profession = 'Schrijver'
 pseudonym = true
 title = 'Marit Elechan'
-
 +++

@@ -1,0 +1,31 @@
+#boekencast
+	.boekencast-container
+		box-shadow: -40px 0 var(--popup-background-color), 33vw 0 var(--popup-background-color)
+		grid-template-columns: 9fr 4fr
+		height: 300px
+		padding-left: 40px
+
+		.text
+			margin-top: 25px
+
+			h3
+				margin-left: 193px
+			
+				.de
+					font-size: 20px
+
+			h2
+				font-size: 82px
+
+		.book-container
+			.book
+				margin-top: -130px
+				transform: rotateY(-20deg) rotateX(3deg)
+
+				@keyframes move
+					0%
+						transform: rotateY(-20deg) rotateX(3deg)
+					50%
+						transform: rotateY(-30deg) rotateX(3deg)
+					100%
+						transform: rotateY(-20deg) rotateX(3deg)

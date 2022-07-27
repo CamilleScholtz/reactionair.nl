@@ -179,6 +179,27 @@
 					return `{{< youtube ${obj.id} >}}`;
 				},
 			});
+
+			CMS.registerEditorComponent({
+				id:    "boekencast",
+				label: "Boekencast",
+
+				fields: [{
+					name:   "id",
+					label:  "Video ID",
+					widget: "string"
+				}],
+
+				pattern: /^{{< boekencast >}}/,
+
+				fromBlock: (match) => {
+					return { };
+				},
+
+				toBlock: (obj) => {
+					return `{{< boekencast >}}`;
+				},
+			});
 		</script>
 	</body>
 

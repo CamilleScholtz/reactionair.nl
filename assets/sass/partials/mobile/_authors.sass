@@ -1,15 +1,31 @@
-#page
-	.author
-		h3
-			font-size: 16px
-			line-height: 16px
-			margin-bottom: 30px
+.author-large
+	grid-row: 2
 
-		p,
-		.arrow
-			display: none
+	.sticky
+		padding-bottom: 0px
+		border-bottom: 1px dashed var(--border-color)
+		border-top: 1px dashed var(--border-color)
+		margin-bottom: 30px;
+		margin-top: 80px
+		padding-bottom: 40px
 
-		img
-			height: 46px !important
-			left: -8px
-			top: -6px
+.author-small
+	h3
+		font-size: 16px
+		line-height: 16px
+		margin-bottom: 30px
+
+	p,
+	.arrow
+		display: none
+
+	img
+		height: 46px !important
+		left: -8px
+		top: -6px
+
+#authors
+	margin-top: 20px
+
+	.author-large
+		grid-row: auto

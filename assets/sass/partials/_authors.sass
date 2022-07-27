@@ -1,87 +1,77 @@
-#page
-	.author
-		display: block
-		line-height: 31px
-		padding-top: 10px
-		position: relative
+.author-large
+	text-align: center
 
-		h3
-			color: var(--slightly-muted-color)
-			font-family: "Quadraat Pro Sans", sans-serif
-			margin: 0
-			overflow: hidden
-			text-overflow: ellipsis
-			white-space: nowrap
-			
+	.sticky
+		padding: 60px
+
+	h3
+		color: var(--slightly-muted-color)
+		display: inline
+		font-size: 31px
+		font-family: "Quadraat Pro Sans", sans-serif
+		margin: 0
+
+	.feather
+		background: none
+		filter: var(--popup-background-filter)
+		margin-left: -28px
+		margin-top: -35px
+		position: absolute
+		z-index: -1
+
+	.profession
+		color: var(--muted-color)
+		font-style: italic
+		margin-bottom: 5px
+
+	.description
+		margin-left: -15px
+		width: calc(100% + 30px)
+
+	.socials
+		display: flex
+		justify-content: center
+		gap: 12px
+		margin-top: 10px
+	
 		img
 			background: none
 			filter: var(--popup-background-filter)
-			position: absolute
-			z-index: -1
 
-#taxonomy,
-#term
-	.author
+
+.author-small
+	display: block
+	line-height: 31px
+	padding-top: 10px
+	position: relative
+
+	h3
+		color: var(--slightly-muted-color)
+		font-family: "Quadraat Pro Sans", sans-serif
+		margin: 0
+		overflow: hidden
+		text-overflow: ellipsis
+		white-space: nowrap
+		
+	img
+		background: none
+		filter: var(--popup-background-filter)
+		position: absolute
+		z-index: -1
+
+#authors
+	.author-large
+		border-bottom: 1px dashed var(--border-color)
+		text-align: left
 		margin-bottom: 60px
-	
-		.utility
-			border-bottom: 1px dashed var(--border-color)
-			color: var(--muted-color)
-			font-size: 17px
-			padding-bottom: 12px
+		padding-bottom: 60px
 
-			.icon
-				align-content: center
-				background: var(--footnotes-background-color)
-				display: inline-grid
-				height: 20px
-				justify-content: center
-				position: relative
-				top: 2px
-				width: 20px
-
-				img
-					background: none
-					filter: var(--muted-filter)
-
-			.pipe
-				margin-left: 12px
-				margin-right: 12px
-
-		p
-			margin-bottom: 30px
-	
-		.information
-			height: 100px
-			margin-bottom: 20px
-			margin-top: -1px
-
-			h3
-				font-family: "Quadraat Pro Sans", sans-serif
-				display: inline-block
-				margin-bottom: 0px
-				margin-top: 15px
-				max-width: calc(100% - 100px - 25px)
-				min-width: 50%
-				overflow: hidden
-				text-overflow: ellipsis
-				white-space: nowrap
-
-			.profession
-				color: var(--muted-color)
-				display: inline-block
-				font-style: italic
-				min-width: 50%
-				width: auto
-
-			img
-				float: left
-				height: 100px
-				margin-right: 25px
-				position: relative
-				width: 100px
+		.feather
+			display: none
 
 		.description
-			color: var(--slightly-muted-color)
-			display: block
+			margin-left: 0px
 			width: 100%
+
+		.socials
+			justify-content: start

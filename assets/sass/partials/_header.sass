@@ -1,43 +1,40 @@
 header
 	position: sticky
-	text-align: center
+	display: grid
+	justify-content: center
 	top: 0px
 	transition: transform .2s
-	width: 100%
 	z-index: 99
 
 	#logo-container
-		background: var(--footnotes-background-color)
 		border-bottom: 1px dashed var(--header-border-color)
+		display: grid
+		justify-content: center
+		overflow: visible
+		width: 100vw
 
 		#logo
-			display: inline-block
-			margin-top: 15px
+			background-color: #A62F27
+			height: 0
+			justify-self: center
 			position: relative
+			top: 15px
+			transform-origin-y: 15px
+			transition: all .3s .1s
 			z-index: 99
 
-			img
-				background: #A62F27
-				box-shadow: 0 5px 25px -4px rgba(108, 19, 15, 0.1)
-				transition: all .2s .1s
-
-				&:hover
-					box-shadow: 0 10px 35px -6px rgba(108, 19, 15, 0.25)
-					transform: scale(1.05) translateY(2px) !important
+			&:hover
+				transform: scale(1.05) translateY(2px) !important
 
 		#search
 			position: absolute
 			right: 25px
 
-			form
+			form			
 				input
-					background: var(--header-background-color)
-					float: left
-					height: 50px
-					transform: scaleX(0)
+					background: var(--search-background-color)
 					transform-origin: right
 					transition: transform .2s
-					width: calc(100% - 50px)					
 			
 				button
 					align-items: center
@@ -45,10 +42,22 @@ header
 					display: flex
 					justify-content: center
 					float: right
+					transform: rotateY(0deg)
+					transform-style: preserve-3d
+					transition: transform .2s
 					width: 50px
+
+					img
+						backface-visibility: hidden
+
+					.search-icon
+						background: var(--header-background-color)
 
 					.close-icon
 						background: var(--popup-background-color)
+						transform: rotateY(180deg)
+						padding: 11px
+						position: absolute
 
 			.results-container
 				background: var(--popup-background-color)
@@ -109,13 +118,10 @@ header
 		border-bottom: 1px dashed var(--border-color)
 		display: flex
 		height: 55px
-		justify-content: center
 
 		.left,
 		.right
-			display: inline-block
 			font-weight: 700
-			width: 100vw
 
 		.left
 			color: var(--accent-color)
@@ -124,3 +130,7 @@ header
 		.right
 			color: var(--text-color)
 			font-size: 16px
+
+#logo:hover ~ #logo-container > #logo-background
+	box-shadow: 0 10px 60px -6px rgba(108, 19, 15, 0.35)
+	transform: scale(1.05) translateY(2px) !important

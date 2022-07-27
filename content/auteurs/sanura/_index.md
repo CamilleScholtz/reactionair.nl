@@ -3,5 +3,4 @@ description = 'Sanura is een ervaren contrarian. Liberaal maar traditionalistisc
 profession = 'Autistische schrijver'
 pseudonym = true
 title = 'Sanura'
-
 +++

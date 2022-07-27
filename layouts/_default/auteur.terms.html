@@ -25,10 +25,9 @@
 		{{ $authors  = $authors | append (where .Pages "Params.pseudonym" true).ByTitle }}
 
 		{{ range $authors }}
-			{{ partial "authors/author.html" (dict
-				"context" .
-				"utility" false
-			) }}
+			<div class="author-large">
+				{{ partial "asides/author-large.html" .Title }}
+			</div>
 		{{ end }}
 	</section>
 {{ end }}

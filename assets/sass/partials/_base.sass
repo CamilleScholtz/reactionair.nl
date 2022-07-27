@@ -1,4 +1,3 @@
-
 *
 	text-decoration: none
 	margin: 0
@@ -10,8 +9,12 @@ body
 
 input
 	border: 0
+	float: left
+	height: 50px
 	outline: 0
 	padding: 13px
+	width: calc(100% - 50px)
+
 
 button
 	border: none
@@ -34,7 +37,7 @@ hr
 
 input,
 textarea
-	background: var(--footnotes-background-color)
+	background: var(--accent-background-color)
 	border: none
 	border-radius: 0
 	box-sizing: border-box
@@ -45,7 +48,7 @@ textarea
 	outline: none
 
 img
-	background: var(--footnotes-background-color)
+	background: var(--accent-background-color)
 
 textarea
 	padding: 30px
@@ -60,3 +63,16 @@ q::after
 
 ::selection
 	background: var(--selection-color)
+
+.button
+	background: var(--popup-background-color)
+	color: var(--accent-color)
+	height: 50px
+	display: inline-block
+	line-height: 54px
+	width: 50px
+
+
+.pipe
+	font-size: 14px
+	font-weight: 700

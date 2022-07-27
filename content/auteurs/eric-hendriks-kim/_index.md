@@ -5,5 +5,4 @@ pseudonym = false
 title = 'Eric Hendriks-Kim'
 twitter = 'https://twitter.com/HendrKim'
 website = 'https://ericchendriks.wordpress.com/'
-
 +++

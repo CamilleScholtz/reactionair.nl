@@ -4,5 +4,4 @@ profession = 'Student'
 pseudonym = false
 title = 'Cedrik Vandooren'
 twitter = 'https://twitter.com/CedrikVandooren'
-
 +++

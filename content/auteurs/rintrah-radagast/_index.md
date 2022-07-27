@@ -5,5 +5,4 @@ pseudonym = true
 title = 'Rintrah Radagast'
 twitter = 'https://twitter.com/rintrahradagast'
 website = 'https://www.rintrah.nl/'
-
 +++

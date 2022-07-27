@@ -5,5 +5,4 @@ pseudonym = true
 title = 'Tólma'
 twitter = 'https://twitter.com/_tolma'
 website = 'https://tolma.substack.com/'
-
 +++

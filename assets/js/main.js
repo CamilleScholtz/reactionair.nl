@@ -1,11 +1,25 @@
-const footnotes = (page, mobile) => {
-	if (!page) {
+const featured = (main) => {
+	const links = main.querySelectorAll(".featured");
+
+	links.forEach((link) => {	
+		link.addEventListener("mouseenter", (ev) => {
+			link.style.transform = `scale(1.012) rotate(${Math.random() < 0.5 ? "-" : ""}0.4deg)`;
+		});
+
+		link.addEventListener("mouseleave", (ev) => {
+			link.style.transform = "scale(1) rotate(0deg)";
+		});
+	});
+}
+
+const footnotes = (main, mobile) => {
+	if (typeof main.id != "string" || main.id != "page") {
 		return;
 	}
 
-	const article  = page.querySelector("article");
-	const refs     = page.querySelectorAll(".footnote-ref");
-	const backrefs = page.querySelectorAll(".footnote-backref");
+	const article  = main.querySelector("article");
+	const refs     = main.querySelectorAll(".footnote-ref");
+	const backrefs = main.querySelectorAll(".footnote-backref");
 
 	let timer;
 	let ticking = false;
@@ -13,7 +27,7 @@ const footnotes = (page, mobile) => {
 	refs.forEach((ref) => {
 		const sup     = ref.parentNode;
 		const id      = ref.getAttribute("href").split(":").pop();
-		const backref = page.querySelector("#fn\\:" + id);
+		const backref = main.querySelector("#fn\\:" + id);
 
 		ref.addEventListener("click", (ev) => {
 			ev.preventDefault();
@@ -70,7 +84,7 @@ const footnotes = (page, mobile) => {
 
 					arrow.style.transform = "rotate(45deg) translateY(4px)";
 					arrow.style.opacity   = 1;
-				}, 15);
+				}, 20);
 			}, 100);
 		});
 
@@ -88,10 +102,10 @@ const footnotes = (page, mobile) => {
 				return;
 			}
 
-			arrow.style.transform = "rotate(45deg) translateY(0px)";
+			arrow.style.transform = "rotate(45deg) translateY(-4px)";
 			arrow.style.opacity   = 0;
 
-			tooltip.style.transform = "translateY(0px)";
+			tooltip.style.transform = "translateY(-4px)";
 			tooltip.style.opacity   = 0;
 
 			setTimeout(() => {
@@ -108,7 +122,7 @@ const footnotes = (page, mobile) => {
 		backref.innerHTML = "↑";
 
 		const id  = backref.getAttribute("href").split(":").pop();
-		const ref = page.querySelector("[href='#fn:" + id + "']");
+		const ref = main.querySelector("[href='#fn:" + id + "']");
 
 		backref.addEventListener("click", (ev) => {
 			ev.preventDefault();
@@ -138,21 +152,18 @@ const time = (header) => {
 }
 
 const scroll = (header, stickies, mobile) => {
-	const logo       = header.querySelector("#logo img");
-	const input      = header.querySelector("#search input");
-	const button     = header.querySelector("#search button");
-	const searchIcon = button.querySelector(".search-icon");
-	const closeIcon  = button.querySelector(".close-icon");
-	const arrow      = header.querySelector(".arrow");
-	const results    = header.querySelector(".results");
-	const utility    = header.querySelector(".utility");
+	const logo    = header.querySelector("#logo");
+	const input   = header.querySelector("#search input");
+	const button  = header.querySelector("#search button");
+	const arrow   = header.querySelector(".arrow");
+	const results = header.querySelector(".results");
 
 	const height = header.querySelector("#logo-container").clientHeight + 1;
 
 	let hidden     = false;
 	let lastScroll = 0;
 	let ticking    = false;
-	
+
 	const hide = (scroll) => {
 		if (mobile.matches) {
 			header.style.transform = `translateY(calc(-${height}px - 15px))`;
@@ -161,10 +172,8 @@ const scroll = (header, stickies, mobile) => {
 		}
 		logo.style.transform = "translateY(-40px)";
 
-		input.style.transform    = "scaleX(0)";
-		button.style.background  = "none";
-		searchIcon.style.display = "inline";
-		closeIcon.style.display  = "none";
+		input.style.transform    = "rotateY(90deg)";
+		button.style.transform   = "rotateY(0deg)";
 
 		input.blur();
 
@@ -172,8 +181,8 @@ const scroll = (header, stickies, mobile) => {
 		arrow.style.display = "none";
 
 		if (!mobile.matches) {
-			stickies.forEach((sticky) => {			
-				sticky.style.transform = "translateY(0px)";
+			stickies.forEach((sticky) => {		
+				sticky.style.top = "calc(110px + 30px)";
 			});
 		}
 
@@ -186,11 +195,7 @@ const scroll = (header, stickies, mobile) => {
 
 		if (!mobile.matches) {
 			stickies.forEach((sticky) => {
-				if (sticky.offsetTop > (scroll + 110 + 30)) {
-					return;
-				}
-			
-				sticky.style.transform = `translateY(${height}px)`;
+				sticky.style.top = `calc(110px + 30px + ${height}px)`;
 			});
 		}
 
@@ -226,11 +231,9 @@ const scroll = (header, stickies, mobile) => {
 }
 
 const search = (header, mobile) => {
-	const logo             = header.querySelector("#logo img");
+	const logo             = header.querySelector("#logo");
 	const input            = header.querySelector("#search input");
 	const button           = header.querySelector("#search button");
-	const searchIcon       = button.querySelector(".search-icon");
-	const closeIcon        = button.querySelector(".close-icon");
 	const resultsContainer = header.querySelector("#search .results-container");
 	const arrow            = resultsContainer.querySelector(".arrow");
 	const results          = resultsContainer.querySelector(".results");
@@ -248,7 +251,7 @@ const search = (header, mobile) => {
 	button.addEventListener("click", (ev) => {
 		ev.preventDefault();
 
-		if (closeIcon.style.display == "none") {
+		if (input.style.transform == "rotateY(90deg)") {
 			if (!fetched) {
 				fetch("/index.json")
 					.then((response) => response.json())
@@ -262,25 +265,21 @@ const search = (header, mobile) => {
 				logo.style.transform = "translateY(-200px)";
 			}
 
-			input.style.transform    = "scaleX(1)";
-			button.style.background  = "var(--popup-background-color)";
-			searchIcon.style.display = "none";
-			closeIcon.style.display  = "inline";
+			input.style.transform    = "rotateY(0deg)";
+			button.style.transform   = "rotateY(180deg)";
 
 			input.focus();
 
 			input.dispatchEvent(new Event("input", {bubbles: true}));
 		} else {
-			input.style.transform    = "scaleX(0)";
-			setTimeout(() => {
-				button.style.background  = "none";
-				searchIcon.style.display = "inline";
-				closeIcon.style.display  = "none";
+			input.style.transform    = "rotateY(90deg)";
+			button.style.transform   = "rotateY(0deg)";
 
-				if (mobile.matches) {
+			if (mobile.matches) {
+				setTimeout(() => {
 					logo.style.transform = "translateY(0px)";
-				}
-			}, 200);
+				}, 200);
+			}
 
 			results.innerHTML   = ""
 			arrow.style.display = "none";
@@ -318,8 +317,8 @@ const search = (header, mobile) => {
 	});
 }
 
-const quote = () => {
-	const sticky = document.querySelector(".intro");
+const quote = (main) => {
+	const sticky = main.querySelector(".intro");
 	if (!sticky) {
 		return;
 	}
@@ -359,17 +358,17 @@ const quote = () => {
 	sticky.querySelector(".author").innerHTML = "- " + quote[0];
 }
 
-
 window.addEventListener("DOMContentLoaded", (ev) => {
 	const mobile = window.matchMedia("(max-width: 1024px)");
 
 	const header   = document.querySelector("header");
-	const page     = document.querySelector("#page");
-	const stickies = document.querySelectorAll(".sticky");
+	const main     = document.querySelector("main");
+	const stickies = main.querySelectorAll(".sticky");
 
 	scroll(header, stickies, mobile);
-	quote();
+	quote(main);
 	time(header);
-	search(header, mobile)
-	footnotes(page, mobile);
+	search(header, mobile);
+	footnotes(main, mobile);
+	featured(main);
 });

@@ -1,0 +1,45 @@
+{{ define "main" }}
+	<main>
+		<section id="hero">
+			<div class="background"></div>
+
+			<div href="/boekencast" class="book-container">
+				<div class="book">
+					{{ $image     := resources.Get (printf "images/%s.webp" (urlize .Params.book)) }}
+					{{ $thickness := div (add 5 (mul .Params.pages 0.082)) 9 }}
+
+					<img
+						src="{{ ($image.Fit "1320x880 webp").RelPermalink }}"
+						alt="{{ .Params.book }}"
+						class="cover" 
+						style="transform: translateZ({{ $thickness }}vh);">
+					<div class="pages" style="transform: translateX({{ sub 27 $thickness }}vh) rotateY(90deg); width: {{ mul $thickness 1.9 }}vh;"></div>
+					<div class="back" style="transform: translateZ(-{{ $thickness }}vh);"></div>
+					<div class="shadow"></div>
+				</div>
+			</div>
+
+			<div>
+				<h1><span class="de">de </span><span class="reactionair">Reactionair</span><br>Boekencast</h1>
+				<div class="quote">“</div>
+			</div>
+		</section>
+
+		<section id="episodes">
+			<ul>
+				<li>
+					<div class="number">1.</div>
+					<h2>De Zahir, met Robert Lemm</h2>
+
+					<p>In deze eerste podcast bespreken we de verhalenbundel <i>De Zahir</i> van de Argentijnse schrijver Jorge Luis Borges (1899-1986). Onze gast is Robert Lemm, hispanoloog, vertaler van Borges en reactionair. Met hem proberen we een indruk te geven van het volumineuze en veelzijdige, diepzinnige doch toegankelijke oeuvre van Borges en de luisteraar van de bijzonderheid daarvan te overtuigen. Uiteraard staan we ook stil bij de politieke implicaties van zijn werk.</p>
+
+					<p class="listen">Luisteren:</p>
+					<!--<a href="" target="_blank">YouTube</a>-->
+					<a href="https://open.spotify.com/episode/0ftmnLZimcXF6bAamUykKS" target="_blank">Spotify</a>
+					<!--<a href="" target="_blank">Apple Podcasts</a>-->
+					<!--<a href="" target="_blank">Google Podcasts</a>-->
+				</li>
+			</ul>
+		</section>
+	</main>
+{{ end }}

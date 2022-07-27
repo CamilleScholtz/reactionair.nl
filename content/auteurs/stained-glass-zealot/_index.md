@@ -5,5 +5,4 @@ pseudonym = true
 title = 'Stained Glass Zealot'
 twitter = 'https://twitter.com/glass_zealot'
 website = 'https://glasszealot.substack.com/'
-
 +++

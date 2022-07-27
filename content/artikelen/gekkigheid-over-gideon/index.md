@@ -78,6 +78,8 @@ Hierdoor verkeert Nederland in de bizarre situatie dat wetten niet door de recht
 
 Verdragen worden niet met twee derde meerderheid in beide kamers aangenomen of aangepast. Ze bezitten niet het brede draagvlak, de consensus, die de grondwet van een land heeft.  
 
+{{< boekencast >}}
+
 Argumenten tegen het afschaffen van het toetsingsverbod zijn vaak tegenstrijdig. Aan de ene kant zou het fout zijn voor ongekozen rechters om wetgeving strijdig met de grondwet te kunnen verklaren, terwijl ze aan de andere kant dit toch al met internationale verdragen kunnen doen.  
 
 Kortom, de status quo is bizar en VVD en CDA waren tot recent er vrijwel de enige voorstanders van. De andere partijen, links en rechts, wilden óf ook constitutionele toetsing invoeren (D66, CU, GroenLinks, SP) óf de toetsing van wetten aan verdragen afschaffen (FVD, PVV). VVD steunde kort zelfs ook de tweede positie, wilde een inperking van toetsing aan verdragen, maar krabbelde onder druk terug.  

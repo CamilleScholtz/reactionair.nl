@@ -1,10 +1,10 @@
-#bookclub
+#boekencast
 	border-top: 1px dashed var(--border-color)
 	margin-top: 60px
 	padding-bottom: 60px
 	padding-top: 60px
 
-	.bookclub-container
+	.boekencast-container
 		align-content: center
 		background: var(--popup-background-color)
 		display: grid
@@ -12,28 +12,42 @@
 		.text
 			align-content: center
 			display: grid
-		
-			h2	
+
+			h3
+				color: var(--accent-color)
+				font-style: italic
+				margin-bottom: 0px
+				margin-top: -30px
+
+				.de
+					font-size: 20px
+
+			h2
 				border-bottom: 1px dashed var(--popup-border-color)
 				color: var(--accent-color)
 				font-style: italic
+				font-weight: 700
+				line-height: 45px
 				margin-bottom: 40px
+				margin-top: 4px
+				padding-bottom: 13px
+				width: fit-content
 
 			p
 				font-family: "Quadraat Pro Sans", sans-serif
+				margin: 0
+				max-width: 80%
 
 		.book-container
 			perspective: 650px
 
 			.book
+				animation: 17s ease 0s infinite move
 				height: 330px
 				position: relative
 				transform-style: preserve-3d
-				transition: 1s ease
+				transition: transform 1s ease
 				width: 220px
-
-				&:hover
-					transform: rotateY(-20deg) scale(1.03)
 
 				.cover
 					 background-color: #01060f

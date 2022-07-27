@@ -1,13 +1,14 @@
-<div class="bookclub-container">
+<div class="boekencast-container">
 	<div class="text">
-		<h2><span class="de">De</span> boekenplank</h2>
-		<p>Wij zullen ‘{{ .title }}’ binnenkort in onze Podcast bespreken.</p>
-		<a>Lees binnenkort meer...</a>
+		<h3><span class="de">De</span> Reactionair</h3>
+		<h2>Boekencast</h2>
+
+		<p>Een boek, een denker en een goed gesprek. Kom tot rust en voed de geest <a href="/boekencast">met onze podcast</a>.</p>
 	</div>
 
-	<div class="book-container">
+	<a href="/boekencast" class="book-container">
 		<div class="book">
-			{{ $image     := resources.Get (printf "images/%s" .image) }}
+			{{ $image     := resources.Get (printf "images/%s.webp" (urlize .book)) }}
 			{{ $thickness := add 5 (mul .pages 0.082) }}
 
 			<img
@@ -20,5 +21,5 @@
 			<div class="back" style="transform: translateZ(-{{ $thickness }}px);"></div>
 			<div class="shadow"></div>
 		</div>
-	</div>
+	</a>
 </div>

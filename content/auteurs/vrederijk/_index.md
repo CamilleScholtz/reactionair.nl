@@ -4,5 +4,4 @@ profession = 'Schijnzelfstandige'
 pseudonym = true
 title = 'Vrederijk'
 twitter = 'https://twitter.com/destedendwinger'
-
 +++

@@ -3,5 +3,4 @@ description = 'Paars van Grinsterer houdt zich voornamelijk bezig met het lezen 
 profession = 'Vooruitstrevende nostalgist'
 pseudonym = true
 title = 'Paars van Grinsterer'
-
 +++

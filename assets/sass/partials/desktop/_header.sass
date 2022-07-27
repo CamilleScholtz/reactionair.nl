@@ -1,11 +1,18 @@
 header
 	#logo-container
+		background: radial-gradient(circle at bottom, var(--header-background-gradient-color), var(--header-background-color) 120px)
 		height: 110px
+
+		#logo-background
+			height: 113px
+			width: 113px
 
 		#search
 			top: calc((110px / 2) - 25px)
 
 	.utility
+		justify-content: space-between
+	
 		.left
 			margin-left: 40px
 			text-align: left 
@@ -14,6 +21,3 @@ header
 			margin-right: 40px
 			text-align: right 
 
-		.pipe
-			margin-left: 12px
-			margin-right: 12px
