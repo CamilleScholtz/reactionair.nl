@@ -37,6 +37,7 @@ Van Plato is bekend dat hij vijf jaar in het Atheense leger diende en mogelijk o
 {{< quote
 	text="En daar het lichaam in slechte staat verkeert, houden geheugenverlies, depressie, onvrede en waanzin de geest met hevigheid in hun greep, en verdrijven zo enige kennis die deze bevatte."
 	author="Xenophons"
+	aside=true
 >}}
 
 Wat wij in ogenschouw moeten houden is dat hier tevens de ontwikkeling van lichamelijke krachten vooropgesteld wordt als een correlatief van de gezonde ontwikkeling van de geest. Een dergelijke gedachte vinden wij o.a. in Xenophons *Herinneringen aan Socrates* terug, waar hij schrijft:
