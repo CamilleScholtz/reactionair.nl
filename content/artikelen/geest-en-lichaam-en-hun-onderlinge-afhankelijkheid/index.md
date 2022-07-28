@@ -2,7 +2,7 @@
 title = "Geest en lichaam en hun onderlinge afhankelijkheid"
 subtitle = "Pleidooi voor de krijger-wijsgeer"
 auteurs = ["Anton Prins"]
-date = "2022-07-25"
+date = "2022-07-27"
 themas = "Religie & Metafysica"
 question = "Wat zijn uw gedachten over dit artikel?"
 image = "img_4010.jpeg"
