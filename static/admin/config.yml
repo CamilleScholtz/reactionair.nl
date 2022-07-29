@@ -72,12 +72,8 @@ collections:
         required: false
       - name: "aangehaald"
         label: "Aangehaald"
-        widget: "list"
+        widget: "array"
         required: false
-      - name: "question"
-        label: "Vraag bij opmerkingen"
-        widget: "string"
-        default: "Wat zijn uw gedachten over dit artikel?"
       - name: "image"
         label: "Afbeelding"
         widget: "image"
@@ -88,6 +84,14 @@ collections:
         widget: "select"
         options: ["Smart", "Top", "Center", "Bottom"]
         default: "Smart"
+      - name: "question"
+        label: "Vraag bij opmerkingen"
+        widget: "string"
+        default: "Wat zijn uw gedachten over dit artikel?"
+      - name: "recording"
+        label: "Opname"
+        widget: "string"
+        required: false
       - name: "body"
         label: "Content"
         widget: "markdown"
