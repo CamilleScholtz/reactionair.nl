@@ -34,10 +34,7 @@ collections:
     format: "toml-frontmatter"
     create: true
     delete: false
-    sortable_fields: ["commit_date", "title", "auteurs"]
-    view_groups:
-      - label: "Concepten"
-        field: "draft"
+    sortable_fields: ["commit_date", "title"]
     fields:
       - name: "title"
         label: "Titel"
