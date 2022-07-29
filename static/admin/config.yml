@@ -72,7 +72,7 @@ collections:
         required: false
       - name: "aangehaald"
         label: "Aangehaald"
-        widget: "string"
+        widget: "list"
         required: false
       - name: "question"
         label: "Vraag bij opmerkingen"
