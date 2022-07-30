@@ -2,7 +2,7 @@
 title = "O Crux ave, spes unica"
 subtitle = "Een jongeman verloren in de ruïnes van de occidentale wereld"
 auteurs = ["J. Floressas des Esseintes"]
-date = "2022-07-29"
+date = "2022-07-30"
 themas = "Religie & Metafysica"
 dossiers = ["Christendom"]
 aangehaald = ["Friedrich Nietzsche"]
