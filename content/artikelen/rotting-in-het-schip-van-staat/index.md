@@ -1,7 +1,7 @@
 +++
 title = "Rotting in het schip van staat"
 subtitle = "Hoe regentesk gedrag van gevestigde partijen klinkt als een echo uit het verleden"
-auteurs = ["Redactie"]
+auteurs = ["Jan-Jaap Moltman"]
 date = "2022-07-30"
 themas = "Politiek & Actualiteit"
 aangehaald = ["Marx"]
