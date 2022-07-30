@@ -6,7 +6,7 @@ date = "2022-07-30"
 themas = "Religie & Metafysica"
 dossiers = ["Christendom"]
 aangehaald = ["Friedrich Nietzsche"]
-image = "the-death-of-thomas-chatterton.jpg"
+image = "henry_wallis_-_chatterton_-_google_art_project.jpg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
