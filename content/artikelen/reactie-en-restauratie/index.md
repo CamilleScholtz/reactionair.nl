@@ -1,4 +1,5 @@
 +++
+aanghaald = ['Jean-Jacques Rousseau']
 auteurs = ['Sanura']
 date = '2022-01-09'
 subtitle = 'Een rechts woordenboek'

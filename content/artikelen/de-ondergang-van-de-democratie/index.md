@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Erik von Kuehnelt-Leddihn', 'Karl Marx', 'Aristoteles', 'Plato', 'Pythagoras', 'Socrates']
+aangehaald = ['Erik von Kuehnelt-Leddihn', 'Karl Marx', 'Jean-Jacques Rousseau', 'Aristoteles', 'Plato', 'Pythagoras', 'Socrates']
 auteurs = ['Sanura']
 date = '2022-05-14'
 subtitle = '‘Degeneratie van het midden’ na revolutie, tirannie en terreur'
