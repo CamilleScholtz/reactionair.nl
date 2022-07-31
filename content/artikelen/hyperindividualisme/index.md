@@ -2,7 +2,7 @@
 title = "Hyperindividualisme"
 subtitle = "De ondergang van de samen-leving"
 auteurs = ["Intan Hoijer"]
-date = "2022-07-26"
+date = "2022-07-31"
 themas = "Cultuur & Maatschappij"
 aangehaald = ["Sigmund Freud", "Immanuel Kant", "Jean-Jacques Rousseau", "Jean-Paul Sartre"]
 image = "caspar-david-friedrich-011-daac9d.jpg"
