@@ -7,6 +7,7 @@ subtitle = 'Over de wetenschap als volksgeloof'
 themas = 'Religie & Metafysica'
 title = 'Homo credens'
 image = "thumb.webp"
+aangehaald = ["Sigmund Freud"]
 +++
 
 

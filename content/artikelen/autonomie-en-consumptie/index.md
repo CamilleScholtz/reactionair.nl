@@ -1,5 +1,5 @@
 +++
-aangehaald = ['René Descartes', 'Oswald Spengler']
+aangehaald = ['René Descartes', 'Sigmund Freud', 'Oswald Spengler']
 auteurs = ['Jurbin van Hooff']
 date = '2021-10-31'
 subtitle = 'Hoe autonomie met de consumptiemaatschappij samenhangt'
