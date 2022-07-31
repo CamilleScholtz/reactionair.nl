@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Arthur Schopenhauer', 'Friedrich Schiller', 'Socrates']
+aangehaald = ['Sigmund Freud', 'Arthur Schopenhauer', 'Friedrich Schiller', 'Socrates']
 auteurs = ['Anton Prins']
 date = '2022-05-16'
 noindex = true
@@ -7,7 +7,6 @@ subtitle = 'Over de wetenschap als volksgeloof'
 themas = 'Religie & Metafysica'
 title = 'Homo credens'
 image = "thumb.webp"
-aangehaald = ["Sigmund Freud"]
 +++
 
 
