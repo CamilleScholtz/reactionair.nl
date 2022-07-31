@@ -1,5 +1,5 @@
 +++
-title = "Hyperindividualisme [afbeelding zoeken]"
+title = "Hyperindividualisme"
 subtitle = "De ondergang van de samen-leving"
 auteurs = ["Intan Hoijer"]
 date = "2022-07-26"
@@ -9,8 +9,6 @@ image = "caspar-david-friedrich-011-daac9d.jpg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
-(afbeelding is placeholder)
-
 Postmoderniteit wordt gekenmerkt door de delegitimisering en het verval van elke traditionele structuur. Het postmoderne individu erkent enkel nog zijn eigen subjectiviteit als legitimeringsgrond. De geworpenheid van het individu in de reeds bestaande wereld opgebouwd uit pre-existerende structuren is vervangen door het centrale credo der existentialisten ‘existentie gaat vooraf aan essentie’.[^1] Deze situatie waarbij het individu de enige locus is van waarheid kan worden omschreven als hyperindividualisme.
 
 Dit hyperindividualisme is, door de erosie van noodzakelijke structuren, bijvoorbeeld gezin en natie, die een voorwaarde zijn voor stabiliteit en continuïteit binnen een gemeenschap, een van de oorzaken van de civilizationele crisis waar de Westerse wereld zich nu in bevindt.  
