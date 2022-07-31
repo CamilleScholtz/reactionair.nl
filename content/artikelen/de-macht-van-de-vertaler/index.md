@@ -1,5 +1,5 @@
 +++
-title = "De macht van de tolk"
+title = "De macht van de tolk [toestemming auteur ontbreekt nog]"
 subtitle = "Een waarschuwing"
 auteurs = ["Philip van Houten"]
 date = "2022-07-04"
