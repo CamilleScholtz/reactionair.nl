@@ -1,5 +1,5 @@
 +++
-title = "Hyperindividualisme"
+title = "Hyperindividualisme [afbeelding zoeken]"
 subtitle = "De ondergang van de samen-leving"
 auteurs = ["Intan Hoijer"]
 date = "2022-07-26"
