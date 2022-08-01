@@ -1,5 +1,5 @@
 +++
-title = "Houtrot in het schip van staat \\[in afwachting van goedkeuring van auteur inzake afbeelding, titel en ondertitel/AP]"
+title = "Houtrot in het schip van staat [in afwachting van goedkeuring van auteur inzake afbeelding, titel en ondertitel/AP]"
 subtitle = "Hoe regentesk gedrag van gevestigde partijen klinkt als een echo uit het verleden"
 auteurs = ["Jan-Jaap Moltman"]
 date = "2022-07-30"
