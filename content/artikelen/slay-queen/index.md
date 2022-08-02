@@ -145,3 +145,11 @@ Tegen het einde van de week, wanneer Candy weer naar werk moet, helemaal als vro
 Stuart – haar penis – slaapt niet in hetzelfde bed met haar – hij slaapt op de grond. De eerste dag dat ze thuiskomt van werk, is hij zich met ontbloot bovenlijf aan het opdrukken in het midden van haar kleine huiskamer. Haar huis, dat normaal smerig is, is schoon. Hij heeft gestofzuigd en het afval weggegooid en de meubels anders gezet. Hij is trots op zichzelf.
 
 Een paar maanden gaan voorbij en haar lul heeft een baan als vakkenvuller in een grote supermarkt. Hij is aangekomen en zijn armen en schouders beginnen er stevig uit te zien, zijn haar is kortgeknipt in een militaire coup en hij heeft een gezond kleurtje. ’s Avonds gaat hij uit en komt pas laat weer terug. Een avond brengt hij een meisje mee naar huis en batst haar op de bank. Het maakt veel lawaai en het maakt Candace wakker, maar ze is nu afgesneden van haar ballen en ze is alle seksueel verlangen kwijt, alle initiatief en ze klaagt niet eens.
+
+Ze hoort het meisje haar pik vragen naar de andere kamer en hij zegt dat het alleen maar zijn rare huisgenoot is. Hij weet niet hoe lang ze daar nog blijft.
+
+Hun – nee, haar, nee – Stuarts ouders komen hem voor het eerst in twee jaar bezoeken. Zijn penis heeft ze uitgenodigd. Ze merken haar niet eens op, praten niet met haar, alsof ze er niet eens is. Haar vader ziet haar niet maar hij straalt. Hij is zo trots op zijn zoon, Stuart, niet Candy. Ze heeft hem nog nooit zo trots gezien. Hij (haar vader) vertelt hem (haar penis) hoe sterk hij eruit ziet, hoe atletisch. Het appartement is zo schoon. Met zijn drieën gaan ze uit eten.
+
+Op een bepaalde manier vindt Candace het niet eens erg. Ze is vrij van alle verlangen, alle leed. Misschien is ze ontsnapt aan samsara, de cirkel van dood en wedergeboorte, heeft ze de vijf skandha’s losgelaten. Plots beseft ze zich dat ze nooit de naam op haar contract heeft gewijzigd en dat in juridische zin haar penis de rechtmatige huurder is. Misschien loopt ze de straat op, zingend in de regen, om voor goed te verdwijnen, te sterven in schande.
+
+Nu vraagt ik je, mijn vriend: wie sneed precies wat af?
