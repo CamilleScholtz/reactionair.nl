@@ -1,6 +1,6 @@
 +++
 title = "The Green New Deal"
-subtitle = "Je zult insecten eten, maar je zult niet in de pod leven"
+subtitle = "Je zult insecten eten, maar je zult niet in leven in de pod"
 auteurs = ["Redactie"]
 date = "2022-08-02"
 themas = "Cultuur & Maatschappij"
@@ -9,7 +9,7 @@ image = "pods.png"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
-*Dit is een vertaald verhaal, het origineel is [hier](https://zerohplovecraft.wordpress.com/2019/09/28/the-green-new-deal/) te lezen.*
+*Dit is een vertaling van een kort verhaal van de zeer getalenteerde auteur Zero HP Lovecraft, die we het best kunnen zien als een combinatie van Lovecraft, Borges en Houellebecq voor het internettijdperk.* Het origineel is [hier](https://zerohplovecraft.wordpress.com/2019/09/28/the-green-new-deal/) te vinden.*
 
 - - -
 
