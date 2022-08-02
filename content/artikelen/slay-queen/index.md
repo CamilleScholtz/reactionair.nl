@@ -8,7 +8,7 @@ image = "geoduck-2.webp"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
-*Dit is een vertaling van een kort verhaal van de zeer getalenteerde auteur Zero HP Lovecraft, die we het best kunnen zien als een combinatie van Lovecraft, Borges en Houellebecq voor het internettijdperk.* *We willen de lezer vantevoren waarschuwen dat de inhoud nogal onsmakelijk kan zijn, maar niettemin een belangrijke boodschap bevat en naar onze mening van hoge literaire waarde is. De ontknoping zal U verbazen! Het origineel is [hier](https://zerohplovecraft.wordpress.com/2021/09/27/the-diagnosis-of-aplasia/) te vinden.*
+*Dit is een vertaling van een kort verhaal van de zeer getalenteerde auteur Zero HP Lovecraft, die we het best kunnen zien als een combinatie van Lovecraft, Borges en Houellebecq voor het internettijdperk.* We willen de lezer vantevoren waarschuwen dat de inhoud nogal onsmakelijk kan zijn, maar niettemin een belangrijke boodschap bevat en naar onze mening van hoge literaire waarde is. De ontknoping zal U verbazen! Het origineel is [hier](https://zerohplovecraft.wordpress.com/2021/09/27/the-diagnosis-of-aplasia/) te vinden.
 
 - - -
 
@@ -34,7 +34,7 @@ En ergens tijdens die talloze uren schermtijd werd het net zo makkelijk om zichz
 
 De hoeveelheid camgirls die recht in het scherm keken en je aanmoedigden om te doen alsof je een meisje was (een heet, huwbaar, sexy meisje, niet een met brede schouders en lichaamsbeharing en grote handen en voeten) en een pantomime op te voeren van vrouwelijkheid, hielp niet mee. Hij zou zweren dat het een complot was van iemand die al die filmpjes op het internet zette om het idee in de hoofden van mensen te planten. Maar dat was flauwekul, het was gewoon kapitalisme, toch? Er was vraag naar dit, een hoop gasten moesten wel dit soort filmpjes willen zien van vrouwen die hen commandeerden om te doen alsof ze vrouwen waren, de vrije markt herkende die vraag en bevredigde hem. De markt is als een vervloekte geest uit een lamp die je alles geeft wat je wil maar met afschuwelijke bijwerkingen en onbedoelde gevolgen.
 
-~
+- - -
 
 Het duurde dus een tijdje voordat Stuart zelfs aan zichzelf toe kon geven dat hij dat allemaal deed, maar op zeker moment werd het te groot om te ontkennen, ik bedoel maar, hij verwijdert altijd zijn internetgeschiedenis zodat er geen bewijs is op zijn pc, maar zoals hij het zag, waren Google, Microsoft en Pornhub sowieso op de hoogte, toch? Ze hebben zijn IP-adres en ze weten waar hij op gezocht heeft en er moet wel een of andere databank zijn die al deze dingen aan elkaar koppelt en aan je permanente dossier toevoegt. Ze weten het dus; iemand weet het; de cloud weet het. Zijn Amazon-aanbevelingen begonnen zich te vullen met dildo’s en regenboogsokken.
 
@@ -56,7 +56,7 @@ Een andere poster zegt hem dat het ok is om te experimenteren met verschillende 
 
 De esthetische archetypen van de pornografie – de cheerleader, de gamer girl met haar controller en aquamarijnen haar en ahegao-gezicht, de kantoorslet in haar panties en kokerrokje, de milf, het schoolmeisje, de stiefzus in wit hemd en roze onderbroek, de goth girl, het verwende meisje – zijn allemaal voorstellingen, allemaal cultureel, allemaal toevallig – maar het zijn wegwijzers die hem mogelijk de weg kunnen wijzen naar iets echts in hemzelf.
 
-~
+- - -
 
 Zodoende gaat hij, zo ongemakkelijk als het voelt, online en vanuit de privacy van zijn huis koopt hij makeup en een pruik en een jurk en zwarte hoge hakken in mannenmaat 45 van een of ander warenhuis voor travestieten en hij koopt zelfs meisjesondergoed en hij kijkt filmpjes op youtube over hoe hij contouren moet aanbrengen op zijn gezicht en probeert zijn kaak en neus kleiner en vrouwelijker te doen lijken. Hij dost zich uit en dirkt zich op, maakt een selfie en post het voor zijn nieuwe online vrienden om te zien.
 
@@ -94,7 +94,7 @@ Veel van die onzekerheden en twijfels en ongemakken komen, denkt hij, van een so
 
 Vanzelfsprekend zeggen zijn online vrienden dat hij hem weg moet laten halen.
 
-~
+- - -
 
 Candace doet wat onderzoek naar ‘genderbevestigende chirurgie’ – de online brochures en pamfletten zijn altijd heel zorgvuldig in hun bewoording, heel positief, heel opbeurend. Zelfs als ze de details van de operatie beschrijven, slagen ze er nog in die vrolijk te doen klinken, alsof ze op eieren lopen, alsof de doelgroep bestaat uit mensen die op het randje van geweld of wanhoop staan. Alle officiële documenten en sites die ze vindt, vertellen haar hoe gelukkig ze zal zijn nadat ze haar operaties heeft gehad en er zijn voor-en-na-foto’s waar het er net uitziet als een normale vagina zoals ze die kent uit porno.
 
@@ -124,7 +124,7 @@ De medicijnen die ze Candy gegeven hebben, zijn nog niet uitgewerkt en normalite
 
 Terwijl ze in slaap valt, vraagt ze zich af wat ze met haar penis moet. Formaldehyde? Inkrimpen en balsemen zoals koppensnellers doen met hun schrompelkoppen? Opzetten en opstellen op de schouw? Het om haar nek dragen als een talisman? Roosteren en eten bij wijze van vreemd autokannibalistisch ritueel. Verkopen op internet. Dehydrateren en verpulveren en opsnuiven? Dat is raar. Gewoon raar. De slaap draagt haar weg.
 
-~
+- - -
 
 Zodra ze de volgende morgen wakker wordt, voelt haar hele lichaam ontstoken, vooral in de kruiszone. Ze neemt twee oxycodon-pillen als ontbijt voordat ze een kijkje neemt naar haar nu afgehakte anatomie. Maar wanneer ze de koelkast opent, ziet Candace dat de piepschuimen ijskist op zijn kant ligt, met het deksel eraf gescheurd en ineengedoken in het hoekje van de koelkast, bibberend en nauwelijks bij bewustzijn, is een homunculus ter grootte van haar vuist, een misvormd miniatuurmensje dat groeit vanuit de achterkant van haar pik en ballen, waarbij haar (voormalige) orgaan er komisch groot uitziet op dit kleine mannetje.
 
