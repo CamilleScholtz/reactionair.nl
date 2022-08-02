@@ -152,4 +152,4 @@ Hun – nee, haar, nee – Stuarts ouders komen hem voor het eerst in twee jaar 
 
 Op een bepaalde manier vindt Candace het niet eens erg. Ze is vrij van alle verlangen, alle leed. Misschien is ze ontsnapt aan samsara, de cirkel van dood en wedergeboorte, heeft ze de vijf skandha’s losgelaten. Plots beseft ze zich dat ze nooit de naam op haar contract heeft gewijzigd en dat in juridische zin haar penis de rechtmatige huurder is. Misschien loopt ze de straat op, zingend in de regen, om voor goed te verdwijnen, te sterven in schande.
 
-Nu vraagt ik je, mijn vriend: wie sneed precies wat af?
+Nu vraag ik je, mijn vriend: wie sneed precies wat af?
