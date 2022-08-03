@@ -1,5 +1,5 @@
 +++
-title = "Ne cherchez plus mon cœur"
+title = "Ne cherchez plus mon cœur [nog nakijken op spelling en vertalingen, daarna naar auteur voor goedkeuring]"
 subtitle = "Adorno, Proust en de liefde als maatschappelijk verschijnsel"
 auteurs = ["Redactie"]
 date = "2022-08-03"
