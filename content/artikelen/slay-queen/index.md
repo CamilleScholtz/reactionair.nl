@@ -90,7 +90,7 @@ Hoe Mandy en haar vriendinnen hem behandelen voelt geweldig, alsof hij echt gewo
 
 Na de voorstelling vraagt Mandy hem mee terug naar haar huis en ze zijn allebei erg dronken en ze probeert een beetje te friemelen onder zijn jurk. Maar de optelsom van drank, oestrogenen en zenuwen maken dat hij niet eens een halve erectie kan krijgen. Ze valt geirriteerd in slaap en hij belt een taxi en gaat naar huis en kan wel door de grond zakken. Ze praten er daarna nooit over.
 
-Veel van die onzekerheden en twijfels en ongemakken komen, denkt hij, van een soort lichamelijke incongruentie met wat zijn ziel voelt. Dat, wat voor gender performance hij ook geeft, er altijd dat brute, bungelende feit is dat zijn penis is, zijn ‘ware zelf’ (ondanks wat iedereen zegt) dat hem eraan herinnert dat hij een oplichter is, ongemakkelijk tussen zijn benen zit, hoe hij hem ook probeert neer te leggen, zijn penis blijft hem bespotten met zijn koppigheid.
+Veel van die onzekerheden en twijfels en ongemakken komen, denkt hij, van een soort lichamelijke incongruentie met wat zijn ziel voelt. Dat, wat voor gender performance hij ook geeft, er altijd dat brute, bungelende feit van zijn penis is, zijn ‘ware zelf’ (ondanks wat iedereen zegt) dat hem eraan herinnert dat hij een oplichter is en ongemakkelijk tussen zijn benen zit. Hoe hij hem ook probeert neer te leggen, zijn penis blijft hem bespotten met zijn koppigheid. 
 
 Vanzelfsprekend zeggen zijn online vrienden dat hij hem weg moet laten halen.
 
