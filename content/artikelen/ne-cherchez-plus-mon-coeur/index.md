@@ -14,13 +14,13 @@ question = "Wat zijn uw gedachten over dit artikel?"
 - - -
 
 \
-In aforisme 107 van zijn *Minima Moralia* analyseert Adorno de structuren waaraan zelfs de daarvan vrij gewaande liefde lijkt te beantwoorden door te refereren naar Prousts literaire verkenningen van de menselijke verhoudingen in de burgerlijke cultuur van de laat-negentiende eeuw. Elders in *Minima Moralia* zegt Adorno, dat ‘die Totenstarre der Gesellschaft … noch die Zelle der Intimität \[überzieht], die vor ihr sich geschützt meint’.[^1] In het aforisme *Ne cherchez plus mon cœur[^2]* probeert Adorno een beeld te geven van de verhouding tussen de heersende cultuur en het begrip van de liefde.
+In aforisme 107 van zijn *Minima Moralia* analyseert Adorno de structuren waaraan zelfs de daarvan vrij gewaande liefde lijkt te beantwoorden door te refereren naar Prousts literaire verkenningen van de menselijke verhoudingen in de burgerlijke cultuur van de laat-negentiende eeuw. Elders in *Minima Moralia* zegt Adorno, dat ‘die Totenstarre der Gesellschaft … noch die Zelle der Intimität \[überzieht], die vor ihr sich geschützt meint’.[^1] In het aforisme *Ne cherchez plus mon cœur*[^2] probeert Adorno een beeld te geven van de verhouding tussen de heersende cultuur en het begrip van de liefde.
 
 {{< image caption="Les amants (de geliefden) van René Magritte" >}}
 
-Proust heeft zich lange tijd in het mondaine milieu van zijn tijd opgehouden en zich gelaafd aan een leven vol geneugten. De zucht naar bevrediging bleek na verloop van tijd evenwel niet te zijn wat hij zich ervan had voorgesteld; de pretentieuze causerieën waren niet meer dan inhoudsloos tijdverdrijf, of, zoals Adorno dat uitdrukt, ‘prähistorischer Klatsch’.[^3] In zijn grote literaire werk *À la recherche du temps perdu*, feitelijk zijn memoires, legt Proust de illusie bloot van de zoektocht naar de liefde, de te onmiddellijk en te gemakkelijk veronderstelde relatie tussen verlangen en vervulling. Het absolute vertrouwen dat men stelde in de overgeleverde cultuur blijkt uiteindelijk lege mystificatie, die stuk loopt op de barsten die zich beginnen te vertonen in de traditie. Onder de ongegeneerde en vanzelfsprekend geachte bewondering en genieting van de vrijheid die de cultuur schijnt te bieden, geeft de laatste haar werkelijke gedaante, haar in wezen stompzinnige karakter bloot.
+Proust heeft zich lange tijd in het mondaine milieu van zijn tijd opgehouden en zich gelaafd aan een leven vol geneugten. De zucht naar bevrediging bleek na verloop van tijd evenwel niet te zijn wat hij zich ervan had voorgesteld; de pretentieuze causerieën waren niet meer dan inhoudsloos tijdverdrijf, of, zoals Adorno dat uitdrukt, ‘prähistorischer Klatsch’.[^3] In zijn grote literaire werk *À la recherche du temps perdu* (vertaald als *Op zoek naar de verloren tijd*), feitelijk zijn memoires, legt Proust de illusie bloot van de zoektocht naar de liefde, de te onmiddellijk en te gemakkelijk veronderstelde relatie tussen verlangen en vervulling. Het absolute vertrouwen dat men stelde in de overgeleverde cultuur blijkt uiteindelijk lege mystificatie, die stuk loopt op de barsten die zich beginnen te vertonen in de traditie. Onder de ongegeneerde en vanzelfsprekend geachte bewondering en genieting van de vrijheid die de cultuur schijnt te bieden, geeft de laatste haar werkelijke gedaante, haar in wezen stompzinnige karakter bloot.
 
-Juist in de ijdelheid en nutteloosheid van het luxueuze, overbodige leven (*Placet futile*!)[^4] waaraan de zich alles kunnende permitteren rijkeluiszoon zich overgeeft, toont zich in alle duidelijkheid het verval van de maatschappij, veel meer dan wanneer men vanuit een neutrale positie, door zich te fixeren op voor het maatschappelijk belang relevante details, kritiek zou leveren op de bestaande economisch-politieke situatie. De tendens die Proust ontwaart in zijn beschrijving van de *high society*, is dezelfde als wat Adorno ziet als de algehele aftakeling en afbrokkeling van de cultuur. Daarom kan Adorno zeggen dat Proust met zijn literaire analyses van de liefde en kenschetsing van de decadente cultuur een anthropologisch model levert waarmee het karakter van de liefde als maatschappelijk verschijnsel kan worden blootgelegd. Adorno zegt hierover:
+Juist in de ijdelheid en nutteloosheid van het luxueuze, overbodige leven (*Placet futile*!)[^4] waaraan de zich alles kunnende permitteren rijkeluiszoon zich overgeeft, toont zich in alle duidelijkheid het verval van de maatschappij, veel meer dan wanneer men vanuit een neutrale positie, door zich te fixeren op voor het maatschappelijk belang relevante details, kritiek zou leveren op de bestaande economisch-politieke situatie. De tendens die Proust ontwaart in zijn beschrijving van de *high society*, is dezelfde die Adorno ziet als de algehele aftakeling en afbrokkeling van de cultuur. Daarom kan Adorno zeggen dat Proust met zijn literaire analyses van de liefde en kenschetsing van de decadente cultuur een antropologisch model levert waarmee het karakter van de liefde als maatschappelijk verschijnsel kan worden blootgelegd. Adorno zegt hierover:
 
 > Das Tauschverhältnis, dem sie durchs bürgerliche Zeitalter hindurch partiell sich widersetzte, hat sie ganz aufgesogen; die letzte Unmittelbarkeit fällt der Ferne aller Kontrahente von allen zum Opfer.[^5]
 
@@ -40,13 +40,13 @@ De liefde wordt ontsubstantialiseerd en de vorm van de liefdesband wordt tot *a
 
 [^1]: Het gaat hier om aforisme 90. "De lijkstijfheid van de samenleving dringt zelfs de cellen van de intimiteit binnen, die zichzelf daartegen beschermd waanden."\
 \
-[^2]: Zoek niet langer naar mijn hart, een regel uit Baudelaire's gedicht *Causerie (Les fleurs du mal).*\
+[^2]: Zoek niet langer naar mijn hart, een regel uit Baudelaires gedicht *Causerie (Les fleurs du mal).*\
 \
 [^3]: Prehistorische achterklap.
 
-[^4]: het zinloze pleziert hem.
+[^4]: Het zinloze pleziert hem.
 
-[^5]: de ruilverhouding, waartegen zij zich tijdens het burgerlijke tijdperk deels verzette, heeft haar volledig opgeslokt; de laatste nabijheid wordt tot slachtoffer van de afstand van alle tegenstanders tot alle anderen.
+[^5]: De ruilverhouding, waartegen zij zich tijdens het burgerlijke tijdperk deels verzette, heeft haar volledig opgeslokt; de laatste nabijheid wordt tot slachtoffer van de afstand van alle tegenstanders tot alle anderen.
 
 [^6]:  "Liefde verkilt door de waarde, die het ik zichzelf toeschrijft."
 
