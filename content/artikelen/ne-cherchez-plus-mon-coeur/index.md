@@ -9,6 +9,10 @@ image = "0f86371b-24ea-4de2-8c85-6906961ae228.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
+Dit artikel is van de hand van Dennis Schulting, filosoof en specialist op het gebied van het Duitse idealisme, en is oorspronkelijk via Substack gepubliceerd. U kunt [hier ](https://kritik.substack.com/)meer artikelen van deze schrijver vinden.
+
+
+
 In aforisme 107 van zijn *Minima Moralia* analyseert Adorno de structuren waaraan zelfs de daarvan vrij gewaande liefde lijkt te beantwoorden door te refereren naar Prousts literaire verkenningen van de menselijke verhoudingen in de burgerlijke cultuur van de laat-negentiende eeuw. Elders in *Minima Moralia* zegt Adorno, dat ‘die Totenstarre der Gesellschaft … noch die Zelle der Intimität \[überzieht], die vor ihr sich geschützt meint’.[^1] In het aforisme *Ne cherchez plus mon cœur[^2]* probeert Adorno een beeld te geven van de verhouding tussen de heersende cultuur en het begrip van de liefde.
 
 {{< image caption="Les amants (de geliefden) van René Magritte" >}}
@@ -32,8 +36,6 @@ Het proces van het objectieve verval van de maatschappij is dit proces van de ab
 > Der frigiden Unerreichbarkeit des geliebten Wesens, mittlerweile einer anerkannten Institution der Massenkultur, antwortet das unstillbare Verlangen des Liebenden.
 
 De liefde wordt ontsubstantialiseerd en de vorm van de liefdesband wordt tot *absolutum* verheven, waardoor zelfs de liefde bijdraagt aan de sociale desintegratie. De vrouw gelooft niet langer in de liefde: zij laat zich niet inpalmen of ertoe verleiden méér in een relatie te investeren dan ze kan terugverwachten. Zij manœuvreert zich zelfbewust in een onbewust opgelegde quid pro quo-houding (*Entgelt — Leistung*), waarmee zij in feite meewerkt aan een desexualisering van de sexuele lust tot slechts een fysiologische bezigheid en meer nog aan haar eigen desexualisering, die zij bevestigt met de waarschuwende woorden ‘ne cherchez plus mon cœur’. Ook de vrouw tekent gedesillusioneerd het doodvonnis van de liefde, want meer dan haar vorm, geveinsde mechanische (cyber?)sex, valt van de liefde niet te verwachten.
-
-
 
 [^1]: Het gaat hier om aforisme 90. "De lijkstijfheid van de samenleving dringt zelfs de cellen van de intimiteit binnen, die zichzelf daartegen beschermd waanden."\
 \
