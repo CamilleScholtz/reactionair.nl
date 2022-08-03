@@ -63,7 +63,7 @@ il obtiendra ce qu’il désire." 
 
 [^9]: onvoorwaardelijke liefde.\
 \
-[^10]: Verwijzing naar een karakter uit het werk van Proust; een jonge violist die een relatie onderhoudt met Baron de Charlus. Een passage uit Prousts werk die de beschreven dynamiek zeer treffend verwoord is de volgende:
+[^10]: Verwijzing van Adorno naar een karakter uit het werk van Proust; Charlie Morel, een jonge violist die een relatie onderhoudt met Baron de Charlus. Een passage uit Prousts werk die de beschreven dynamiek zeer treffend verwoord is de volgende:
 
 "encore était-ce Morel qui avait le dessus s’il ne voulait pas se rendre. Et pour qu’il ne le voulût pas, il suffisait peut-être qu’il se sentît aimé."
 
