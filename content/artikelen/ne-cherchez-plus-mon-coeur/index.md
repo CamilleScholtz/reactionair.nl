@@ -1,0 +1,71 @@
++++
+title = "Ne cherchez plus mon cœur"
+subtitle = "Adorno, Proust en de liefde als maatschappelijk verschijnsel"
+auteurs = ["Redactie"]
+date = "2022-08-03"
+themas = "Religie & Metafysica"
+aangehaald = ["Adorno", "Proust", "Spinoza"]
+image = "0f86371b-24ea-4de2-8c85-6906961ae228.jpeg"
+anchor = "Smart"
+question = "Wat zijn uw gedachten over dit artikel?"
++++
+In aforisme 107 van zijn *Minima Moralia* analyseert Adorno de structuren waaraan zelfs de daarvan vrij gewaande liefde lijkt te beantwoorden door te refereren naar Prousts literaire verkenningen van de menselijke verhoudingen in de burgerlijke cultuur van de laat-negentiende eeuw. Elders in *Minima Moralia* zegt Adorno, dat ‘die Totenstarre der Gesellschaft … noch die Zelle der Intimität \[überzieht], die vor ihr sich geschützt meint’.[^1] In het aforisme *Ne cherchez plus mon cœur[^2]* probeert Adorno een beeld te geven van de verhouding tussen de heersende cultuur en het begrip van de liefde.
+
+{{< image caption="Les amants (de geliefden) van René Magritte" >}}
+
+Proust heeft zich lange tijd in het mondaine milieu van zijn tijd opgehouden en zich gelaafd aan een leven vol geneugten. De zucht naar bevrediging bleek na verloop van tijd evenwel niet te zijn wat hij zich ervan had voorgesteld; de pretentieuze causerieën waren niet meer dan inhoudsloos tijdverdrijf, of, zoals Adorno dat uitdrukt, ‘prähistorischer Klatsch’.[^3] In zijn grote literaire werk *À la recherche du temps perdu*, feitelijk zijn memoires, legt Proust de illusie bloot van de zoektocht naar de liefde, de te onmiddellijk en te gemakkelijk veronderstelde relatie tussen verlangen en vervulling. Het absolute vertrouwen dat men stelde in de overgeleverde cultuur blijkt uiteindelijk lege mystificatie, die stuk loopt op de barsten die zich beginnen te vertonen in de traditie. Onder de ongegeneerde en vanzelfsprekend geachte bewondering en genieting van de vrijheid die de cultuur schijnt te bieden, geeft de laatste haar werkelijke gedaante, haar in wezen stompzinnige karakter bloot.
+
+Juist in de ijdelheid en nutteloosheid van het luxueuze, overbodige leven (*Placet futile*!)[^4] waaraan de zich alles kunnende permitteren rijkeluiszoon zich overgeeft, toont zich in alle duidelijkheid het verval van de maatschappij, veel meer dan wanneer men vanuit een neutrale positie, door zich te fixeren op voor het maatschappelijk belang relevante details, kritiek zou leveren op de bestaande economisch-politieke situatie. De tendens die Proust ontwaart in zijn beschrijving van de *high society*, is dezelfde als wat Adorno ziet als de algehele aftakeling en afbrokkeling van de cultuur. Daarom kan Adorno zeggen dat Proust met zijn literaire analyses van de liefde en kenschetsing van de decadente cultuur een anthropologisch model levert waarmee het karakter van de liefde als maatschappelijk verschijnsel kan worden blootgelegd. Adorno zegt hierover:
+
+> Das Tauschverhältnis, dem sie durchs bürgerliche Zeitalter hindurch partiell sich widersetzte, hat sie ganz aufgesogen; die letzte Unmittelbarkeit fällt der Ferne aller Kontrahente von allen zum Opfer.[^5]
+
+Hij constateert dat de totalitaire ruilmaatschappij zelfs de laatste gaten die de warenwereld nog open had gelaten, volgens de eigen objectiverende logica poogt vol te stoppen. Zelfs dat waarvan men denkt dat het gevrijwaard is van ruilverhoudingen, de liefde, blijkt haar definitie van verhevenheid te ontlenen aan diezelfde kolonisatiecultuur. Op geen enkele wijze kan ze pretenderen een laatste bolwerk van onmiddellijke vrijheid te zijn.
+
+Vervolgens relateert Adorno het heersende begrip van de liefde aan het fetisjistische karakter van de ideologie van de subjectiviteit. ‘Liebe erkaltet am Wert, den das Ich sich selber zuschreibt.’[^6] Het misleidende belang dat men aan zichzelf hecht, de *Selbsterhaltung*, is een gebrek aan resistentiekracht tegen maatschappelijke imperatieven die een tweede natuur van het individu zijn geworden. In de waan dat het absoluut vrij en autonoom is, vrij van de dwingende invloeden van de maatschappij, doet het individu een vermetele poging zich te verabsoluteren. In de verheerlijking van zijn zelfgenoegzaamheid (*acquiescentia in se ipso*)[^7] wordt het individu verblind door zijn wat Adorno zijn ‘monadologische Einzelinteresse’ noemt, en verwordt het tot receptie-orgaan van de markt.
+
+De structuur die de maatschappij karakteriseert, die van de ruilverhoudingen, blijkt dan ook wat het individu voorstelt, te bepalen. Het individu als absoluut subject koestert, om terug te komen op het centrale thema, een door de ruilverhoudingen bepaald, onverzadigbaar verlangen naar de liefde. Het ‘ik’ heeft een quantificerende *quid pro quo*-attitude aangenomen ten aanzien van de liefde: het ziet de liefde in termen van bezit, als een produkt dat onbeperkt aangeleverd moet worden. Niet te stoppen bezitsvermeerdering en onbevredigbaar verlangen maken de definitie van liefde. De liefde die het ‘ik’ zichzelf rechtens toekent, is inhoudsloos en vervult nog slechts een formele functie in de machinaties van een door ruilverhoudingen gedomineerde maatschappij.
+
+Voor de geliefde is een dergelijke liefde verdacht en laat meer zien over de destructieve zelfingenomenheid en bezitterigheid van de minnaar. Omdat de minnaar niet in staat blijkt te zijn zijn behoeften in bedwang te houden en dus eigenlijk niet weet wat liefde impliceert—namelijk ‘mit zureichender Verstellung oder Gleichgültigkeit den Augenblick der Erfüllung abzuwarten’, zoals Proust met veel ironie adviseert—laat staan dat hij in staat is tot *amor sine conditionibus*, kan het zo zijn dat de geliefde de situatie de baas wordt en een platoonse verhouding afdwingt, aangezien ze zeker kan zijn van het onverzadigbare verlangen van haar minnaar. De geliefde behoudt de overhand, wanneer zij (dan wel hij, zoals in homofiele relaties, cf. ‘der Strichjunge Morel’) weigert in te gaan op de avances, omdat zij zich hoe dan ook geliefd weet. Zij kan zich daarenboven nog onbeperkt vergenoegen in de gepaardgaande omkooptrucs die de plichtmatige cadeau’s of het mogen delen in de luxueuze levensstijl van de minnaar feitelijk zijn. Een mechanische verhouding ontwikkelt zich waarbij de liefhebbende zich uit eigen wil onderwerpt aan het strikte dictaat van de geliefde, die de voorwaarden stelt. De liefdesbetrekking is niet meer dan de structuur van de ruilverhoudingen die is binnengedrongen in de intimiteit tussen twee mensen.
+
+Het proces van het objectieve verval van de maatschappij is dit proces van de absolute individuering, dat in de erotiek op pregnante wijze een uitdrukking vindt: de zichzelf in standhoudende monaden—de geliefde weet zich geïdealiseerd, de minnaar focust zich egocentrisch op zijn bandeloze behoefte aan intense intimiteit—verzwakken de kracht van de erotische drijfveer en veroordelen de liefdesband tot louter vorm. Deze ver-*vorm*ing van de liefde verwordt tot de legitimatie van de onbereikbare mythische liefde, een instituut dat zichzelf oneindig in stand lijkt te houden:
+
+> Der frigiden Unerreichbarkeit des geliebten Wesens, mittlerweile einer anerkannten Institution der Massenkultur, antwortet das unstillbare Verlangen des Liebenden.
+
+De liefde wordt ontsubstantialiseerd en de vorm van de liefdesband wordt tot *absolutum* verheven, waardoor zelfs de liefde bijdraagt aan de sociale desintegratie. De vrouw gelooft niet langer in de liefde: zij laat zich niet inpalmen of ertoe verleiden méér in een relatie te investeren dan ze kan terugverwachten. Zij manœuvreert zich zelfbewust in een onbewust opgelegde quid pro quo-houding (*Entgelt — Leistung*), waarmee zij in feite meewerkt aan een desexualisering van de sexuele lust tot slechts een fysiologische bezigheid en meer nog aan haar eigen desexualisering, die zij bevestigt met de waarschuwende woorden ‘ne cherchez plus mon cœur’. Ook de vrouw tekent gedesillusioneerd het doodvonnis van de liefde, want meer dan haar vorm, geveinsde mechanische (cyber?)sex, valt van de liefde niet te verwachten.
+
+
+
+[^1]: Het gaat hier om aforisme 90. "De lijkstijfheid van de samenleving dringt zelfs de cellen van de intimiteit binnen, die zichzelf daartegen beschermd waanden."\
+\
+[^2]: Zoek niet langer naar mijn hart, een regel uit Baudelaire's gedicht *Causerie (Les fleurs du mal).*\
+\
+[^3]: Prehistorische achterklap.
+
+[^4]: het zinloze pleziert hem.
+
+[^5]: de ruilverhouding, waartegen zij zich tijdens het burgerlijke tijdperk deels verzette, heeft haar volledig opgeslokt; de laatste nabijheid wordt tot slachtoffer van de afstand van alle tegenstanders tot alle anderen.
+
+[^6]:  "Liefde verkilt door de waarde, die het ik zichzelf toeschrijft."
+
+[^7]: Een term van Spinoza (Ethica, Pars tertia, def. aff. XXV): "Acquiescentia in se ipso est lætitia orta ex eo quod homo se ipsum suamque agendi potentiam contemplatur."
+
+"Zelfgenoegzaamheid is het genoegen dat verrijst uit de beschouwing van een mens van zichzelf en zijn eigen daadkracht."
+
+[^8]: De originele passage van Proust luidt: 
+
+"attendre avec une feinte suffisante d’indifférence le moment où\
+il obtiendra ce qu’il désire." 
+
+"met een toereikende schijn van onverschilligheid het moment waarop hij hetgeen hij verlangt zal verkrijgen afwachten."
+
+[^9]: onvoorwaardelijke liefde.\
+\
+[^10]: Verwijzing naar een karakter uit het werk van Proust; een jonge violist die een relatie onderhoudt met Baron de Charlus. Een passage uit Prousts werk die de beschreven dynamiek zeer treffend verwoord is de volgende:
+
+"encore était-ce Morel qui avait le dessus s’il ne voulait pas se rendre. Et pour qu’il ne le voulût pas, il suffisait peut-être qu’il se sentît aimé."
+
+"nog was het Morel die de overhand had, als hij zich niet geven wilde. En om zich niet te geven, was het voor hem waarschijnlijk afdoende te weten dat hij geliefd was."
+
+[^11]: De frigide onbereikbaarheid van de aard van de geliefde, onderhand een erkende institutie van de massacultuur, wordt beantwoord door het onstilbare verlangen van de liefhebbende.
+
+[^12]: prijs — dienst.
