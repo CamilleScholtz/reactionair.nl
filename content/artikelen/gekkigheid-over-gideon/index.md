@@ -1,4 +1,5 @@
 +++
+aangehaald = ["Johan Rudolph Thorbecke"]
 title = "Gekkigheid over Gideon"
 subtitle = "Wet, recht en geweld… wie weet nog wat?"
 auteurs = ["Sanura"]
