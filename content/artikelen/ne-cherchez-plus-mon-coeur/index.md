@@ -1,5 +1,5 @@
 +++
-title = "Ne cherchez plus mon cœur [naar auteur voor goedkeuring]"
+title = "Ne cherchez plus mon cœur"
 subtitle = "Liefde in een door ruilverhoudingen beheerste samenleving"
 auteurs = ["Redactie"]
 date = "2022-08-03"
