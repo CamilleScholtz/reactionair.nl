@@ -14,6 +14,8 @@ question = "Wat zijn uw gedachten over dit artikel?"
 
 Hij begon ermee zichzelf Candace te noemen. Candy eigenlijk, maar dat stond voor Candace. Eerst alleen op het internet. In het echte leven was zijn naam Stuart. Stuart hield veel van porno. Te veel. Hij keek er iedere dag naar, trok zich voortdurend af, wanneer hij maar tijd had. Gewoonlijk vrij gewoon spul, maar hij stond open. Soms, na drie keer te hebben geknald op een dag, had hij iets vreemders nodig om opgewonden te raken. Hij hield van filmpjes die hem zich ongemakkelijk deden voelen, niet dat hij per se opgewonden raakte van wat voor vreemde act dan ook, maar wel dat het gevoel van ongemak, van het weerzinwekkende, van ‘dit is fout’ het enige was dat hem over het randje trok.
 
+{{< image caption="" >}}
+
 Verboden vruchten verleiden. En wanneer niets verboden is, wat dan? Stuart hing vaak rond op 4chan, niet eens om porno te kijken, maar gewoon voor de prikkeling, voor een verrassing. Mensen postten allerlei vage porno daar, met als subtekst dat de desbetreffende porno vreemd of walgelijk was en niet erotisch en dat men er ironisch gebruik van zou maken, als een uitdaging.
 
 En dit concept om iets walgelijks voor te schotelen als ironisch sexy, gaf Stuart het excuus om misschien oprecht dit materiaal te ‘waarderen’, dat niet sexy was of althans niet zou moeten zijn. Sommige verhalen of plaatjes hadden herkenbare seksuele elementen – BDSM gewoonlijk, uiteindelijk gewone vaginale penetratie - maar andere, zoals *vore*, de fetisj om opgegeten te worden, waren gewoon desoriënterend. Hij voelde zich erg ongemakkelijk de eerste keer dat hij daar over las.
