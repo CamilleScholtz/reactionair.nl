@@ -1,5 +1,4 @@
 +++
-aangehaald = ['Rudy Bouma']
 auteurs = ['Paars van Grinsterer', 'De Melancholieke Nar']
 date = '2022-02-10'
 dossiers = ['Woke']

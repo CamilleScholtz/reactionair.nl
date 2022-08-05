@@ -1,5 +1,5 @@
 +++
-layout = 'donate'
+layout = 'misc'
 subtitle = 'Steun Reactionair.nl'
 title = 'Doneren'
 

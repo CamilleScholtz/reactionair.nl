@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Rudy Bouma', 'René Girard', 'Karl Marx']
+aangehaald = ['René Girard', 'Karl Marx']
 auteurs = ['De Melancholieke Nar']
 date = '2022-04-09'
 dossiers = ['Woke']
