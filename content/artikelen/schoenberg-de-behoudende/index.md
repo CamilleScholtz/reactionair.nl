@@ -1,4 +1,5 @@
 +++
+aangehaald = ['Theodor Adorno']
 anchor = 'Center'
 auteurs = ['Anton Prins']
 date = '2022-05-09'

@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Carl Jung', 'Jean-Paul Sartre', 'Roger Scruton']
+aangehaald = ['Theodor Adorno', 'Carl Jung', 'Jean-Paul Sartre', 'Roger Scruton']
 auteurs = ['Cedrik Vandooren']
 date = '2022-04-25'
 draft = true
