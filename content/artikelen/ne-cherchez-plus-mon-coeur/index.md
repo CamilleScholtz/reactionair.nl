@@ -2,9 +2,9 @@
 title = "Ne cherchez plus mon cœur"
 subtitle = "Liefde in een door ruilverhoudingen beheerste samenleving"
 auteurs = ["Redactie"]
-date = "2022-08-03"
+date = "2022-08-05"
 themas = "Religie & Metafysica"
-aangehaald = ["Theodor Adorno", "Marcel Proust", "Baruch Spinoza"]
+aangehaald = ["Theodor Adorno", "Baruch Spinoza"]
 image = "0f86371b-24ea-4de2-8c85-6906961ae228.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
@@ -13,12 +13,11 @@ question = "Wat zijn uw gedachten over dit artikel?"
 
 - - -
 
-\
-In aforisme 107 van zijn *Minima Moralia* analyseert Adorno de structuren waaraan zelfs de daarvan vrij gewaande liefde lijkt te beantwoorden door te refereren naar Prousts literaire verkenningen van de menselijke verhoudingen in de burgerlijke cultuur van de laat-negentiende eeuw. Elders in *Minima Moralia* zegt Adorno, dat ‘die Totenstarre der Gesellschaft … noch die Zelle der Intimität \[überzieht], die vor ihr sich geschützt meint’.[^1] In het aforisme *Ne cherchez plus mon cœur*[^2] probeert Adorno een beeld te geven van de verhouding tussen de heersende cultuur en het begrip van de liefde.
+In aforisme 107 van zijn *Minima Moralia* analyseert Adorno de structuren waaraan zelfs de daarvan vrij gewaande liefde lijkt te beantwoorden door te refereren naar Prousts literaire verkenningen van de menselijke verhoudingen in de burgerlijke cultuur van de laat-negentiende eeuw. Elders in *Minima Moralia* zegt Adorno, dat *‘die Totenstarre der Gesellschaft … noch die Zelle der Intimität [überzieht], die vor ihr sich geschützt meint’*.[^1] In het aforisme *Ne cherchez plus mon cœur* probeert Adorno een beeld te geven van de verhouding tussen de heersende cultuur en het begrip van de liefde.[^2]
 
 {{< image caption="Les amants (de geliefden) van René Magritte" >}}
 
-Proust heeft zich lange tijd in het mondaine milieu van zijn tijd opgehouden en zich gelaafd aan een leven vol geneugten. De zucht naar bevrediging bleek na verloop van tijd evenwel niet te zijn wat hij zich ervan had voorgesteld; de pretentieuze causerieën waren niet meer dan inhoudsloos tijdverdrijf, of, zoals Adorno dat uitdrukt, ‘prähistorischer Klatsch’.[^3] In zijn grote literaire werk *À la recherche du temps perdu* (vertaald als *Op zoek naar de verloren tijd*), feitelijk zijn memoires, legt Proust de illusie bloot van de zoektocht naar de liefde, de te onmiddellijk en te gemakkelijk veronderstelde relatie tussen verlangen en vervulling. Het absolute vertrouwen dat men stelde in de overgeleverde cultuur blijkt uiteindelijk lege mystificatie, die stuk loopt op de barsten die zich beginnen te vertonen in de traditie. Onder de ongegeneerde en vanzelfsprekend geachte bewondering en genieting van de vrijheid die de cultuur schijnt te bieden, geeft de laatste haar werkelijke gedaante, haar in wezen stompzinnige karakter bloot.
+Proust heeft zich lange tijd in het mondaine milieu van zijn tijd opgehouden en zich gelaafd aan een leven vol geneugten. De zucht naar bevrediging bleek na verloop van tijd evenwel niet te zijn wat hij zich ervan had voorgesteld; de pretentieuze causerieën waren niet meer dan inhoudsloos tijdverdrijf, of, zoals Adorno dat uitdrukt, *‘prähistorischer Klatsch’*.[^3] In zijn grote literaire werk *À la recherche du temps perdu* (vertaald als *Op zoek naar de verloren tijd*), feitelijk zijn memoires, legt Proust de illusie bloot van de zoektocht naar de liefde, de te onmiddellijk en te gemakkelijk veronderstelde relatie tussen verlangen en vervulling. Het absolute vertrouwen dat men stelde in de overgeleverde cultuur blijkt uiteindelijk lege mystificatie, die stuk loopt op de barsten die zich beginnen te vertonen in de traditie. Onder de ongegeneerde en vanzelfsprekend geachte bewondering en genieting van de vrijheid die de cultuur schijnt te bieden, geeft de laatste haar werkelijke gedaante, haar in wezen stompzinnige karakter bloot.
 
 Juist in de ijdelheid en nutteloosheid van het luxueuze, overbodige leven (*Placet futile*!)[^4] waaraan de zich alles kunnende permitteren rijkeluiszoon zich overgeeft, toont zich in alle duidelijkheid het verval van de maatschappij, veel meer dan wanneer men vanuit een neutrale positie, door zich te fixeren op voor het maatschappelijk belang relevante details, kritiek zou leveren op de bestaande economisch-politieke situatie. De tendens die Proust ontwaart in zijn beschrijving van de *high society*, is dezelfde als wat Adorno ziet als de algehele aftakeling en afbrokkeling van de cultuur. Daarom kan Adorno zeggen dat Proust met zijn literaire analyses van de liefde en kenschetsing van de decadente cultuur een antropologisch model levert waarmee het karakter van de liefde als maatschappelijk verschijnsel kan worden blootgelegd. Adorno zegt hierover:
 
@@ -38,37 +37,15 @@ Het proces van het objectieve verval van de maatschappij is dit proces van de ab
 
 De liefde wordt ontsubstantialiseerd en de vorm van de liefdesband wordt tot *absolutum* verheven, waardoor zelfs de liefde bijdraagt aan de sociale desintegratie. De vrouw gelooft niet langer in de liefde: zij laat zich niet inpalmen of ertoe verleiden méér in een relatie te investeren dan ze kan terugverwachten. Zij manœuvreert zich zelfbewust in een onbewust opgelegde *quid pro quo*-houding (*Entgelt — Leistung*[^12]), waarmee zij in feite meewerkt aan een deseksualisering van de seksuele lust tot slechts een fysiologische bezigheid en meer nog aan haar eigen deseksualisering, die zij bevestigt met de waarschuwende woorden ‘ne cherchez plus mon cœur’, zoek niet langer naar mijn hart. Ook de vrouw tekent gedesillusioneerd het doodvonnis van de liefde, want meer dan haar vorm, geveinsde, mechanische (cyber?)seks, valt van de liefde niet te verwachten.
 
-[^1]: Het gaat hier om aforisme 90. "De lijkstijfheid van de samenleving dringt zelfs de cellen van de intimiteit binnen, die zichzelf daartegen beschermd waanden."\
-\
-[^2]: Zoek niet langer naar mijn hart, een regel uit Baudelaires gedicht *Causerie (Les fleurs du mal).*\
-\
+[^1]: Het gaat hier om aforisme 90. "De lijkstijfheid van de samenleving dringt zelfs de cellen van de intimiteit binnen, die zichzelf daartegen beschermd waanden."
+[^2]: Zoek niet langer naar mijn hart, een regel uit Baudelaires gedicht *Causerie (Les fleurs du mal).*
 [^3]: Prehistorische achterklap.
-
 [^4]: Het zinloze pleziert hem.
-
 [^5]: De ruilverhouding, waartegen zij zich tijdens het burgerlijke tijdperk deels verzette, heeft haar volledig opgeslokt; de laatste nabijheid wordt tot slachtoffer van de afstand van alle tegenhangers tot alle anderen.
-
 [^6]:  "Liefde verkilt door de waarde, die het ik zichzelf toeschrijft."
-
-[^7]: Een term van Spinoza (Ethica, Pars tertia, def. aff. XXV): "Acquiescentia in se ipso est lætitia orta ex eo quod homo se ipsum suamque agendi potentiam contemplatur."
-
-"Zelfgenoegzaamheid is het genoegen dat verrijst uit de beschouwing van een mens van zichzelf en zijn eigen daadkracht."
-
-[^8]: De originele passage van Proust luidt: 
-
-"attendre avec une feinte suffisante d’indifférence le moment où\
-il obtiendra ce qu’il désire." 
-
-"met een toereikende schijn van onverschilligheid het moment waarop hij hetgeen hij verlangt zal verkrijgen afwachten."
-
-[^9]: onvoorwaardelijke liefde.\
-\
-[^10]: Verwijzing van Adorno naar een karakter uit het werk van Proust; Charlie Morel, een jonge violist die een relatie onderhoudt met Baron de Charlus. Een passage uit Prousts werk die de beschreven dynamiek zeer treffend verwoord is de volgende:
-
-"encore était-ce Morel qui avait le dessus s’il ne voulait pas se rendre. Et pour qu’il ne le voulût pas, il suffisait peut-être qu’il se sentît aimé."
-
-"nog was het Morel die de overhand had, als hij zich niet geven wilde. En om zich niet te geven, was het voor hem waarschijnlijk afdoende te weten dat hij geliefd was."
-
+[^7]: Een term van Spinoza (Ethica, Pars tertia, def. aff. XXV):<br><br>*"Acquiescentia in se ipso est lætitia orta ex eo quod homo se ipsum suamque agendi potentiam contemplatur."*"<br><br>Zelfgenoegzaamheid is het genoegen dat verrijst uit de beschouwing van een mens van zichzelf en zijn eigen daadkracht."
+[^8]: De originele passage van Proust luidt:<br><br>*"attendre avec une feinte suffisante d’indifférence le moment où il obtiendra ce qu’il désire."*<br><br>"met een toereikende schijn van onverschilligheid het moment waarop hij hetgeen hij verlangt zal verkrijgen afwachten."
+[^9]: onvoorwaardelijke liefde.
+[^10]: Verwijzing van Adorno naar een karakter uit het werk van Proust; Charlie Morel, een jonge violist die een relatie onderhoudt met Baron de Charlus. Een passage uit Prousts werk die de beschreven dynamiek zeer treffend verwoord is de volgende:<br><br>*"encore était-ce Morel qui avait le dessus s’il ne voulait pas se rendre. Et pour qu’il ne le voulût pas, il suffisait peut-être qu’il se sentît aimé."*<br><br>"nog was het Morel die de overhand had, als hij zich niet geven wilde. En om zich niet te geven, was het voor hem waarschijnlijk afdoende te weten dat hij geliefd was."<br><br>
 [^11]: De frigide onbereikbaarheid van de aard van de geliefde, onderhand een erkende institutie van de massacultuur, wordt beantwoord door het onstilbare verlangen van de liefhebbende.
-
 [^12]: prijs — dienst.
