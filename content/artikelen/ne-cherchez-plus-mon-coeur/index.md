@@ -1,7 +1,7 @@
 +++
 title = "Ne cherchez plus mon cœur"
 subtitle = "Liefde in een door ruilverhoudingen beheerste samenleving"
-auteurs = ["Redactie"]
+auteurs = ["Rainer Wüßle"]
 date = "2022-08-05"
 themas = "Religie & Metafysica"
 aangehaald = ["Theodor Adorno", "Baruch Spinoza"]
