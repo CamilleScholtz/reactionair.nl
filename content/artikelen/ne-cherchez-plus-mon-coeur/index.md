@@ -5,7 +5,7 @@ auteurs = ["Rainer Wüßle"]
 date = "2022-08-05"
 themas = "Religie & Metafysica"
 aangehaald = ["Theodor Adorno", "Baruch Spinoza"]
-image = "0f86371b-24ea-4de2-8c85-6906961ae228.jpeg"
+image = "the-lovers-1928-1-.jpg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
