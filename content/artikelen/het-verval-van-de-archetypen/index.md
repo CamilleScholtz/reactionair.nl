@@ -8,11 +8,9 @@ image = "fb83657c-9ac8-456b-a93f-90e250dd1ecd.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
-Dit artikel is een vertaling van *The Collapse of the Archetypes*, oorspronkelijk gepubliceerd op de substack van Tara Thieke*.*
+Dit artikel is een vertaling van *The Collapse of the Archetypes*, oorspronkelijk gepubliceerd op de substack van Tara Thieke. Het originele artikel is [hier](https://tarathieke.substack.com/p/the-collapse-of-the-archetypes) te vinden.
 
 - - -
-
-
 
 Het Victoriaanse tijdperk roept direct beelden op van gesmoorde vrouwelijkheid en beteugelde mannen. In een wereld van snelle verandering grepen mannen en vrouwen bepaalde kenmerken stevig vast om de veranderingen op het mentale en fysieke terrein te navigeren.
 
