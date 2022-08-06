@@ -9,10 +9,6 @@ image = "the-lovers-1928-1-.jpg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
-*Dit artikel is van de hand van Dennis Schulting, filosoof en specialist op het gebied van het Duitse idealisme, en is oorspronkelijk via Substack gepubliceerd. U kunt [hier](https://kritik.substack.com/) meer artikelen van deze schrijver vinden.*
-
-- - -
-
 In aforisme 107 van zijn *Minima Moralia* analyseert Adorno de structuren waaraan zelfs de daarvan vrij gewaande liefde lijkt te beantwoorden door te refereren naar Prousts literaire verkenningen van de menselijke verhoudingen in de burgerlijke cultuur van de laat-negentiende eeuw. Elders in *Minima Moralia* zegt Adorno, dat *‘die Totenstarre der Gesellschaft … noch die Zelle der Intimität \[überzieht], die vor ihr sich geschützt meint’*.[^1] In het aforisme *Ne cherchez plus mon cœur* probeert Adorno een beeld te geven van de verhouding tussen de heersende cultuur en het begrip van de liefde.[^2]
 
 {{< image caption="Les amants (de geliefden) van René Magritte" >}}
