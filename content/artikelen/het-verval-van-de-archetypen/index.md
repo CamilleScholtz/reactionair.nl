@@ -8,7 +8,9 @@ image = "fb83657c-9ac8-456b-a93f-90e250dd1ecd.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
-Dit artikel is een vertaling van *The Collapse of the Archetypes*, gepubliceerd op de substack van Tara Thieke
+Dit artikel is een vertaling van *The Collapse of the Archetypes*, oorspronkelijk gepubliceerd op de substack van Tara Thieke*.*
+
+- - -
 
 
 
