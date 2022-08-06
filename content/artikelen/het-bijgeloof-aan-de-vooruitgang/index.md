@@ -9,7 +9,7 @@ image = "aristo_lutkie-980x411.jpg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
-Dit essay was oorspronkelijk gepubliceerd door Anton Kerssemakers in het tijdschrift *Aristo-* van maart 1939.[^1]
+Dit essay werd oorspronkelijk gepubliceerd door Anton Kerssemakers in het tijdschrift *Aristo*, editie maart 1939.[^1]
 
 - - -
 
@@ -30,7 +30,7 @@ De moderne vooruitgangs-idee is, zooals wij zeiden, in strijd met de metaphysisc
 Wanneer men dus, ineen totalen en absoluten zin, van "De Vooruitgang" spreekt, stelt men zich op een standpunt, dat precies het tegenovergestelde van de waarheid is en noemt men "vooruitgang" wat in werkelijkheid "achteruitgang", degeneratie, is.
 
 Het is duidelijk, dat een dergelijke omkeering van de waarheid geen invloed en aanhang had kunnen verwerven, indien deze niet overeenkwam met een zekeren *schijn* van werkelijkheid; aldus nl. dat een zekere ontwikkeling op een bepaald en beperkt gebied der menschelijke activiteit, als een totale beschavingsvooruitgang voorgesteld kon worden — en indien er geen bijzondere mentaliteit aanwezig was, waarin die schijn past.
- 
+
 Het zou ons te ver voeren, hier de ontwikkeling van deze voorwaarden uit het individualisme der Renaissance, waarin de Middeleeuwsche spiritualiteit en hiërarchie ten onder ging, na te gaan, welk een interessante resultaten dat ook zou kunnen opleveren, vooral indien er rekening wordt gehouden met het geestelijke en sociale milieu, waarin zij zich ontwikkelen en waardoor zij gepropageerd worden. Het zij ons hier voldoende, het onmiddellijk ontstaan der vooruitgangs-idee inde achttiende eeuw te signaleeren: deze behoort nl. tot de stroomingen, die de Fransche revolutie voorbereidden en die door haar tot macht en invloed kwamen. Wij wijzen slechts op een Condorcet, wiens *"Esquisse dun tableau historique des progrès de I’esprit humain"*, posthume in 1795 verschenen, een soort samenvatting is van hetgeen de Encyclopedisten reeds in dat opzicht verkondigd hadden en tegelijk een program, een manifest, dat onberekenbaren invloed gehad heeft op de negentiende eeuw.
 
 Hebben deze philosofen het nog voornamelijk over "de vooruitgang van den menschelijken geest"; met de Utopische socialisten zijn wij aan den eigenlijken oorsprong van de vooruitgangs-idee in haar vollen omvang: een onbepaalde en absolute vooruitgang van de beschaving, ook deze laatste als exclusief en absoluut beschouwd. Beide opvattingen staan immers in onverbrekelijk verband met elkaar, het een groeit met het ander gelijk op, zooals Jacques Bainville het reeds scherp gezien heeft:
@@ -58,7 +58,6 @@ Zooals de door ons geschetste oorsprong en inhoud van de vooruitgangsidee reeds 
 Toen was een hoogere wereld de basis van het menschelijke kennen en van de menschelijke activiteit; was deze er niet alleen de basis van, maarde voedingsbron, de norm en het einddoel. Met het Renaissancistische individualisme, wordt deze hiërarchie verbroken, verdwijnt de daadwerkelijke ondergeschiktheid aan, en afhankelijkheid van, hoogere Beginselen voor een steeds toenemend besef van onafhankelijkheid en souvereiniteit der afzonderlijke gebieden van het menschelijk kennen, willen en handelen. De mensch wordt een autonome entiteit en waar nog hoogere Beginselen erkend blijven, wordt dat meer en meer een louter theoretische bevestiging, zonder dwingende consequenties en zonder daadwerkelijke toepassingen. De Renaissance is in werkelijkheid een BREUK, die niet enkel een historisch tijdsgewricht aandoet, maar die de geheele daaraan volgende Europeesche beschaving beheerscht.
 
 Het is dan het bijgeloof aan de Vooruitgang, dat inde achtiende eeuw de plaats van den Godsdienst effectief gaat innemen. Niet meer een hoogere wereld is het einddoel, dat de moderne menschheid zich stelt bij haar wetenschap, haar kunst, haar moraal, haar sociale activiteit; het is de "vooruitgang van de beschaving", die normatief geworden is en die als ideaal naar een wazige verte wijst. Niet meerde hoop op een "beter leven" in God is het, waarheen zij verwezen worden, die lijden aan de onvolmaaktheden van het bestaan; het is "de vooruitgang van de beschaving", de maatschappij der toekomst, die hun als schrale troost wordt voorgehouden. Het is de Utopie, die de plaats van den godsdienst heeft ingenomen, het bijgeloof dat de plaats van het geloof heeft ingenomen : hier werkt met ijzeren fataliteit de wet, dat hij, die den waren God niet meer erkent, zichzelf kluistert aan de afgoden uit de onderwereld, aan leugen en illuzie.
-
 
 [^1]: U kunt de oorspronkelijke versie *[hier](https://www.delpher.nl/nl/tijdschriften/view?identifier=MMKB26:000097013:00007)* lezen. Ik heb een korte biografie over Kerssemakers geschreven: *[Tussen twee oorlogen: Anton Kerssemakers](https://reactionair.nl/artikelen/tussen-twee-oorlogen-anton-kerssemakers/)*.
 [^2]: Alfred Rambaud, *Histoire de la civilisation française*.
