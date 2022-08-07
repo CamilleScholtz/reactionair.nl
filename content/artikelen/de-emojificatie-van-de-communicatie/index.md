@@ -25,7 +25,7 @@ Nu kan er met de zesentwintig letters van het alfabet oneindig gevarieerd worden
 
 Zoals ik in de eerste alinea al liet doorschemeren, hoeft het afnemend alfabetisme niet opgevat te worden als een symptoom van cultureel verval. Een grote ongeletterde massa en een kleine geletterde elite is wel zo *trad*.[^6] Een pictografische taal waarbij de relatie tussen betekenis en betekenaar niet arbitrair is, zoals dat in ons alfabet wel is, is veel minder abstract en sluit daarom beter aan bij de aard van het *animal symbolicum* dat de mens volgens de filosoof Ernst Cassirer is.[^7]Het is dan verder aan de knappe koppen om zich het hoofd te breken en zich kippig te lezen op het krioelende abracada van inktvlekken op papier wat het gewone volk niets zegt.
 
-Wel wil ik iedereen die vrij wil blijven denken meegeven dat hij ervoor moet waken dat hij zich niet laat inperken door de grenzen van de beeldtaal die hem van bovenaf wordt aangereikt. Ik ken de lezers van *Reactionair.nl* als ware aristocraten van de ziel, dus deze boodschap is aan hen wel besteed.
+Wel wil ik iedereen die vrij wil blijven denken meegeven dat hij ervoor moet waken dat hij zich niet laat inperken door de grenzen van de beeldtaal die hem van bovenaf wordt aangereikt. Ik ken de lezers van *Reactionair.nl* als ware aristocraten van de geest, dus deze boodschap is aan hen wel besteed.
 
 [^1]: 'Dass Jedermann lesen lernen darf, verdirbt auf die Dauer nicht allein das Schreiben, sondern auch das Denken.' uit *Also sprach Zarathustra* van Friedrich Nietzsche.
 [^2]: *NOS.nl*: [Kwart 15-jarigen kan bijsluiter of brief van school niet goed lezen](https://nos.nl/artikel/2331386-kwart-15-jarigen-kan-bijsluiter-of-brief-van-school-niet-goed-lezen).
