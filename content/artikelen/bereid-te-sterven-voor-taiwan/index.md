@@ -10,7 +10,7 @@ question = "Wat zijn uw gedachten over dit artikel?"
 +++
 Communistisch China zit liberaal China (Taiwan) weer eens te bedreigen. Nancy Pelosi bezocht het land, naar ze zelf verklaarde met de bedoeling een statement te maken (alhoewel ik niet weet wat dit in de praktijk daadwerkelijk voor haar moet inhouden). Ze heeft in ieder geval een symbolisch gebaar gemaakt tegen het totalitarisme en de dreigende imperialistiche ambities van de CCP. 
 
-{{< image caption="”we moeten Taiwan bevrijden”, Chinese propagandaposter uit 1958" >}}
+{{< image caption="”We moeten Taiwan bevrijden”, Chinese propagandaposter uit 1958." >}}
 
 Daarnaast heeft ze zich uitgesproken tegen de vervolging van kardinaal Zen in Hong Kong. Pelosi komt daadwerkelijk meer op voor de kardinaal dan het Vaticaan, dat slechts benadrukte te hopen dat de vervolging van de trouwe kardinaal niet een hernieuwing in de weg zou staan van de eerder gesloten geheime overeenkomst met de Chinese regering. Door deze overeenkomst kan de Chinese staat bisschoppen benoemen en wordt de ondergrondse Kerk, die decennia heeft geleden vanwege haar trouw aan de paus, verraden. Zelfs het europarlement heeft het Vaticaan opgeroepen kardinaal Zen te steunen.
 
