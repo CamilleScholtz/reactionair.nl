@@ -1,6 +1,6 @@
 +++
 title = "De emojificatie van de communicatie"
-subtitle = "En de gevolgen voor ons denken"
+subtitle = "💁👌🎍😍"
 auteurs = ["De Melancholieke Nar"]
 date = "2022-08-07"
 themas = "Religie & Metafysica"
