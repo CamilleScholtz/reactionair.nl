@@ -4,6 +4,7 @@ subtitle = "En de gevolgen voor ons denken"
 auteurs = ["De Melancholieke Nar"]
 date = "2022-08-07"
 themas = "Religie & Metafysica"
+aangehaald = ["Friedrich Nietzsche", "Ludwig Wittgenstein", "Ernst Cassirer"]
 image = "egyptian-hieroglyphs-1.jpg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
@@ -24,7 +25,7 @@ Nu kan er met de zesentwintig letters van het alfabet oneindig gevarieerd worden
 
 Zoals ik in de eerste alinea al liet doorschemeren, hoeft het afnemend alfabetisme niet opgevat te worden als een symptoom van cultureel verval. Een grote ongeletterde massa en een kleine geletterde elite is wel zo *trad*[^6]. Een pictografische taal waarbij de relatie tussen betekenis en betekenaar niet arbitrair is, zoals dat in ons alfabet wel is, is veel minder abstract en sluit daarom beter aan bij de aard van het *animal symbolicum* die wij volgens de filosoof Ernst Cassirer zijn.[^7]Het is dan verder aan de knappe koppen om zich het hoofd te breken en zich kippig te lezen op al die abracada-lettersoep die het gewone volk niets zegt.
 
-De lezers van *Reactionair.nl* die graag deel uitmaken van die toekomstige elite, wil ik wel meegeven 
+De lezers van *Reactionair.nl* die graag deel uitmaken van die toekomstige elite, wil ik wel meegeven dat ze ervoor op moeten passen dat ze in hun
 
 [^1]: 'Dass Jedermann lesen lernen darf, verdirbt auf die Dauer nicht allein das Schreiben, sondern auch das Denken.' uit Also sprach Zarathustra van Friedrich Nietzsche.
 [^2]: https://nos.nl/artikel/2331386-kwart-15-jarigen-kan-bijsluiter-of-brief-van-school-niet-goed-lezen
