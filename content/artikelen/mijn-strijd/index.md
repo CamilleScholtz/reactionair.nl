@@ -1,6 +1,6 @@
 +++
 title = "Mijn Strijd"
-subtitle = "Hoe dissidenten in slaap gesust worden en hoe we onszelf er uit slaan."
+subtitle = "Hoe dissidenten in slaap gesust worden en hoe we onszelf eruit slaan"
 auteurs = ["Redactie"]
 date = "2022-08-06"
 themas = "Cultuur & Maatschappij"
