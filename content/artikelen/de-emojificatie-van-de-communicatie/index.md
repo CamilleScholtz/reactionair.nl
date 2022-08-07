@@ -20,7 +20,7 @@ Het gebruik van deze emoji's is omgekeerd evenredig aan de taalvaardigheid van d
 
 Nu kan er met de zesentwintig letters van het alfabet oneindig gevarieerd worden en ook kunnen nieuwe woorden worden gemaakt die ook weer op zo'n wijze gerangschikt kunnen worden in een zin dat ze iets nieuws uitdrukken. Emoji's kunnen weliswaar een andere betekenis krijgen die oorspronkelijk niet zo bedoeld was (denk maar aan de aubergine en de perzik) en ze kunnen in beperkte mate gecombineerd worden om nieuwe betekenissen te scheppen, maar toch is er hier veel minder creatieve speelruimte. Het alfabet biedt ons een mate van vrijheid die het emoji-vocabulaire node mist. 
 
-'De grenzen van mijn taal zijn de grenzen van mijn wereld' zei Wittgenstein.[^4]Wie grens zegt, zegt ook grenswachter. Meer en meer wordt die rol nu vervuld door de grote mediabedrijven die bepalen welke emoji's wij mogen gebruiken.  ... overton
+'De grenzen van mijn taal zijn de grenzen van mijn wereld' zei Wittgenstein.[^4]Wie grens zegt, zegt ook grenswachter. Meer en meer wordt die rol nu vervuld door de grote mediabedrijven die bepalen welke emoji's wij mogen gebruiken.  We kunnen hier vergelijking maken met het welbekende Overton-venster, met dat verschil dat het hier een inperking van het spectrum aan emoties en symbolen betreft.
 
 Om de zoveel tijd kondigen de platforms de introductie van nieuwe emoji's aan, wat altijd met reuring gepaard gaat. Zo heeft de 'zwangere man-emoji', die in 2021 zijn intrede deed, om begrijpelijke redenen het nodige stof doen opwaaien in het volatiele genderdiscours.[^5]
 
