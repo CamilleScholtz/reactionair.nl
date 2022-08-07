@@ -17,7 +17,7 @@ Het Victoriaanse tijdperk roept direct beelden op van gesmoorde vrouwelijkheid e
 Gedurende het Victoriaanse tijdperk implementeerden de leidende vormgevers van het metafysische denken een wetenschappelijk reductionisme, dat zich concentreerde rondom de verhalen van Darwinisme, elektro-magnetisme en atomisme.
 
 \
-In het tijdperk van de Wereldoorlogen werd dit denken diep in onze culturele psyche verankerd. Ondanks een kort moment in de jaren ‘50, waar de Victoriaanse archetypen van geslacht zichzelf onveranderlijk dreigden te maken, zette de ontbinding voort. Een baby boomer schreef ooit dat als moeders hun kinderen afzetten op school in 1968, zij allemaal handschoenen droegen. In 1972 waren deze volledig verdwenen.
+In het tijdperk van de Wereldoorlogen werd dit denken diep in onze culturele psyche verankerd. Ondanks een kort moment in de jaren ‘50, waarin de Victoriaanse archetypen van geslacht zichzelf onveranderlijk dreigden te maken, zette de ontbinding voort. Een baby boomer schreef ooit dat als moeders hun kinderen afzetten op school in 1968, zij allemaal handschoenen droegen. In 1972 waren deze volledig verdwenen.
 
 Wat maakt een handschoen intrinsiek vrouwelijk? Waarom jezelf bekommeren met arbitraire totems die elders betekenisloos zijn? Vijftig jaar lang “wat maakt het uit?” zou hierop volgen. Waarom zou een vrouw zwanger moeten zijn? Waarom zou zij haar kind thuis ter wereld brengen? Waarom zou iemand borstvoeding geven? Waarom zouden de huishoudelijke taken niet 50/50 verdeeld worden? Waarom zou de seksuele markt niet ‘gelijk’ zijn? Waarom zouden mannen hun seksuele lusten moeten beteugelen? Waarom zouden vrouwen geen dromen hebben, perziken eten wanneer zij daar zin in hebben en ‘grootsheid’ bereiken?
 
@@ -27,7 +27,7 @@ De kritieken van de meeste traditionalisten werd genegeerd: de wereld was duidel
 
 Voor een korte tijd probeerden mensen het beste van beide werelden te hebben, terwijl ze de de teelaarde onder hun voeten verbruikte. Ons besef van de implicaties van de revolutie van ‘maar wat maakt het uit?’ kwam maar traag. 
 
-Met het verlies van betekenis, zingeving en een gevoel voor verticale oriëntatie, zijn gedesoriënteerde mensen samengekomen rondom het idee dat ze enkel maar een verzameling cellen zijn, met een inherente ‘zelf’ die mannelijk of vrouwelijk is. Het lichaam zit verkeerd maar de klant is altijd correct.
+Met het verlies van betekenis, zingeving en een gevoel voor verticale oriëntatie, zijn gedesoriënteerde mensen samengekomen rondom het idee dat ze enkel maar een verzameling cellen zijn, met een inherente ‘zelf’ die mannelijk of vrouwelijk is. Het lichaam zit verkeerd maar de klant heeft altijd gelijk.
 
 Archetypen van mannelijkheid en vrouwelijkheid verschillen drastisch. In een wereld opgebouwd uit inwisselbare atomen, waar mensen gereduceerd zijn tot hompen cellen, affronteren verschillen. Verschillen honen de machine en het algoritme, en duiden op een archaïsche complementaire factor van de Schepping. De Machine prefereert zijn eenzame standaardisatie.
 
