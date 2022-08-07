@@ -22,13 +22,13 @@ De oorlog duurde te lang (omdat de VS-leiding haar militairen onnodig beperkte
 
 Zuid-Vietnam werd verraden, evenals de anticommunistische regeringen in Cambodja en Laos; miljoenen onschuldige burgers stierven. [^5] Thailand had mazzel, want de onderlinge strijd tussen de communistische machten maakte haar verovering moeilijker. 
 
-Terwijl wij hier druk waren met omstreden ‘aan-uit’ lock-downs, werd het democratische verzet in Hong Kong gebroken. Laten we nu echt een jarenlange bondgenoot,gedurende 80 jaar, vallen? Laten we het communisme miljoenen nieuwe slachtoffers veroorzaken?
+Terwijl wij hier druk waren met omstreden ‘aan-uit’ lockdowns, werd het democratische verzet in Hong Kong gebroken. Laten we nu echt een jarenlange bondgenoot, gedurende 80 jaar, vallen? Laten we het communisme miljoenen nieuwe slachtoffers veroorzaken?
 
-Taiwan is natuurlijk niet het meest geliefde land onder reactionairen. Alhoewel de nationalistische regering decennialang een autoritair conservatief regime vormde, legaliseerde dit regime tijdens haar laatste jaren abortus; en de democratie die volgde kent ook haar liberale elementen. Het constitutionele hof introduceerde recentelijk het homohuwelijk (alhoewel 70+ % van de bevolking tegenstemde in een referendum). [^6]
+Taiwan is natuurlijk niet het meest geliefde land onder reactionairen. Alhoewel de nationalistische regering decennialang een autoritair conservatief regime vormde, legaliseerde dit regime tijdens haar laatste jaren abortus; en de democratie die volgde kent ook haar liberale elementen. Het constitutionele hof introduceerde recentelijk het homohuwelijk (alhoewel 70+% van de bevolking tegenstemde in een referendum). [^6]
 
 En het regime heeft een liberaal, zoals ikzelf, ook nog beledigd door lekenrechters in te stellen onder westerse druk (net als Japan); en een constitutioneel hof met benoemingen voor zulke korte termijnen (8 jaar) maakte hoe dan ook politisering onvermijdelijk. 
 
-Maar toch, het is een bondgenoot van het westen geweest sinds de Tweede Wereldoorlog. De nationalistische regering vocht aan de kant van de geallieerden tegen Japan en ze werd daarna gesteund tegen de communisten en de genocidale Mao. Deze alliantie hield stand tijdens de Koude Oorlog toen de rest van China door de communisten werd veroverd. 
+Maar toch, het land is een bondgenoot van het westen geweest sinds de tweede wereldoorlog. De nationalistische regering vocht aan de kant van de geallieerden tegen Japan en ze werd daarna gesteund tegen de communisten en de genocidale Mao. Deze alliantie hield stand tijdens de Koude Oorlog toen de rest van China door de communisten werd veroverd. 
 
 Oude bondgenoten laten vallen en landen voorliegen is een slecht idee. En waar houdt het op? De dominotheorie is in 2022 weer relevant geworden. De Zuid-Koreaanse oppositiebeschuldigde in 2020 China er al van dat ze betrokken waren bij verkiezingsfraude (en waarschuwde dat dit in de VS ook kon gebeuren tijdens de presidentsverkiezingen). [^7]
 
