@@ -22,7 +22,9 @@ Nu kan er met de zesentwintig letters van het alfabet oneindig gevarieerd worden
 
 'De grenzen van mijn taal zijn de grenzen van mijn wereld' zei Wittgenstein.[^4]Wie grens zegt, zegt ook grenswachter. Meer en meer wordt die rol nu vervuld door de grote mediabedrijven die bepalen welke emoji's wij mogen gebruiken.  We kunnen hier vergelijking maken met het welbekende Overton-venster, met dat verschil dat het hier een inperking van het spectrum aan emoties en symbolen betreft. Zo heeft de 'zwangere man-emoji', die in 2021 zijn intrede deed, waarschijnlijk meer bijgedragen aan het normaliseren van zwanger zijn als 'man' dan alle verbale propaganda op dit gebied bij elkaar.[^5]
 
-Zoals ik in de eerste alinea al liet doorschemeren, hoeft het afnemend alfabetisme niet opgevat te worden als een symptoom van cultureel verval. Een grote ongeletterde massa en een kleine geletterde elite is wel zo *trad*. 
+Zoals ik in de eerste alinea al liet doorschemeren, hoeft het afnemend alfabetisme niet opgevat te worden als een symptoom van cultureel verval. Een grote ongeletterde massa en een kleine geletterde elite is wel zo *trad*[^6]. Een pictografische taal waarbij de relatie tussen betekenis en betekenaar niet arbitrair is, zoals dat in ons alfabet wel is, is veel minder abstract en sluit daarom beter aan bij de aard van het *animal symbolicum* die wij volgens de filosoof Ernst Cassirer zijn.[^7]
+
+De lezers van *Reactionair.nl* die graag deel uitmaken van die toekomstige elite, wil ik wel meegeven 
 
 [^1]: 'Dass Jedermann lesen lernen darf, verdirbt auf die Dauer nicht allein das Schreiben, sondern auch das Denken.' uit Also sprach Zarathustra van Friedrich Nietzsche.
 [^2]: https://nos.nl/artikel/2331386-kwart-15-jarigen-kan-bijsluiter-of-brief-van-school-niet-goed-lezen
@@ -30,3 +32,7 @@ Zoals ik in de eerste alinea al liet doorschemeren, hoeft het afnemend alfabetis
 [^3]: De auteur past hier het stijlmiddel sarcasme toe.
 [^4]: https://emojipedia.org/pregnant-man/
 [^5]: 'Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt' uit Tractatus logico-philosophicus van Ludwig Wittgenstein.
+
+[^6]: Afkorting van 'traditioneel'.
+
+[^7]: https://www.cultureelwoordenboek.nl/filosofie/ernst-cassirer/
