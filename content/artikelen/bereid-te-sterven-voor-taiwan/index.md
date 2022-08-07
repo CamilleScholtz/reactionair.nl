@@ -34,9 +34,9 @@ Oude bondgenoten laten vallen en landen voorliegen is een slecht idee. En waar h
 
 Daarnaast wordt China ervan verdacht een rol te hebben gespeeld in het aftreden van paus Benedictus XVI en bij de opkomst van Franciscus. [^8]
 
-Dat zou de uitzonderlijk pro-Chinese (en pro-McCarrick) positie van Franciscus kunnen verklaren. Als China zelfs dusdanige invloed kan uitoefenen binnen de grootste religieuze gemeenschap in de wereld, dan zijn de ambities van dit land een gevaar voor het westen; voor iedereen die dezerepressieve Big-Brother-staat niet (verder) geëxporteerd wil zien.
+Dat zou de uitzonderlijk pro-Chinese (en pro-McCarrick) positie van Franciscus kunnen verklaren. Als China zelfs dusdanige invloed kan uitoefenen binnen de grootste religieuze gemeenschap in de wereld, dan zijn de ambities van dit land een gevaar voor het westen; voor iedereen die deze repressieve *Big Brother*-staat niet (verder) geëxporteerd wil zien.
 
-Taiwan heeft een van de belangrijkste economieën in heel Azië, zo niet de wereld. Als het valt, zal het de machtsbalans in de regio ingrijpend veranderen.
+Taiwan heeft met zijn grootscheepse chipproductie een van de belangrijkste economieën in heel Azië, zo niet de wereld. Als het valt, zal het de machtsbalans in de regio ingrijpend veranderen.
 
 We kunnen blijven wachten totdat het vuur ons brandt, of opkomen voor onze bondgenoten. Maar voor het laatste moet het westen eerst weer iets voorstellen. Herstellen we onze nationale economieën? Onze culturen? Onze legers? Zijn we weer bereid te vechten tegen imperialisme? Putten we inspiratie uit grootouders die vochten in Korea?
 
