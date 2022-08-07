@@ -12,13 +12,13 @@ Communistisch China zit liberaal China (Taiwan) weer eens te bedreigen. Nancy P
 
 Daarnaast heeft ze zich uitgesproken tegen de vervolging van kardinaal Zen in Hong Kong. Pelosi komt daadwerkelijk meer op voor de kardinaal dan het Vaticaan, dat slechts benadrukte te hopen dat de vervolging van de trouwe kardinaal niet een hernieuwing in de weg zou staan van de eerder gesloten geheime overeenkomst met de Chinese regering. Door deze overeenkomst kan de Chinese staat bisschoppen benoemen en wordt de ondergrondse Kerk, die decennia heeft geleden vanwege haar trouw aan de paus, verraden. Zelfs het Europarlement heeft het Vaticaan opgeroepen kardinaal Zen te steunen.
 
-Maar als China nu Taiwan gaat aanvallen, wie doet er dan echt wat? Laat het westen Taiwan vallen, net als Oekraïne? Wat denk je zelf? Een handvol wapens, een obligate veroordeling van China, plus een boycot die de eigen westerse burgers meer zal schaden…en vervolgens wordt Taiwan vermalen.
+Maar als China nu Taiwan gaat aanvallen, wie doet er dan echt wat? Laat het westen Taiwan vallen, net als Oekraïne? Wat denk je zelf? Een handvol wapens, een obligate veroordeling van China, plus een boycot die de eigen westerse burgers meer zal schaden… en vervolgens wordt Taiwan vermalen.
 
 Helaas kan Polen militair Oekraïne (nog?) niet helpen, maar misschien kan Japan Taiwan wél verdedigen. Het heeft inmiddels weer één van de sterkste legers ter wereld en het expansionisme van China is bovendien een gigantische bedreiging voor Japan. [^1]
 
 Dat we moeten hopen op ingrijpen van Japan laat echter de trieste staat van de westerse wereld zien. Specifiek van de VS (en NAVO) die vroeger konden claimen de vrije wereld te verdedigen en het nu bij symboolpolitiek moeten houden. Na WOII moest het westen andere, vrije (liefst democratische) landen verdedigen tegen nieuwe imperialistische machten. Dat deden we met Korea. Dat probeerden we ook te doen in Vietnam. Maar toen staken er protesten de kop op tegen de strijd voor onze anticommunistische bondgenoten. 
 
-De oorlog duurde te lang (omdat de VS-leiding haar militairen onnodig beperkte [^2]) en was tegelijk te onmenselijk (hoewelde militairen van de VS meer burgers doodden tijdens WWIIen de Korea Oorlog). [^3][^4]
+De oorlog duurde te lang (omdat de VS-leiding haar militairen onnodig beperkte [^2]) en was tegelijk te onmenselijk (hoewelde militairen van de VS meer burgers doodden tijdens WWIIen de Korea Oorlog). [^3]
 
 Zuid-Vietnam werd verraden, evenals de anticommunistische regeringen in Cambodja en Laos; miljoenen onschuldige burgers stierven. [^5] Thailand had mazzel, want de onderlinge strijd tussen de communistische machten maakte haar verovering moeilijker. 
 
@@ -34,7 +34,7 @@ Oude bondgenoten laten vallen en landen voorliegen is een slecht idee. En waar h
 
 Daarnaast wordt China ervan verdacht een rol te hebben gespeeld in het aftreden van paus Benedictus XVI en bij de opkomst van Franciscus. [^8]
 
-Dat zou de uitzonderlijk pro-Chinese (en pro-McCarrick) positie van Franciscus kunnen verklaren. Als China zelfs dusdanige invloed kan uitoefenen binnen de grootste religieuze gemeenschap in de wereld, dan zijn de ambities van dit land een gevaar voor het westen; voor iedereen die dezerepressieve Big-Brother-staat niet (verder) geëxporteerd wil zien.
+Dat zou de uitzonderlijk pro-Chinese (en pro-McCarrick) positie van Franciscus kunnen verklaren. Als China zelfs dusdanige invloed kan uitoefenen binnen de grootste religieuze gemeenschap in de wereld, dan zijn de ambities van dit land een gevaar voor het westen; voor iedereen die deze repressieve Big-Brother-staat niet (verder) geëxporteerd wil zien.
 
 Taiwan heeft een van de belangrijkste economieën in heel Azië, zo niet de wereld. Als het valt, zal het de machtsbalans in de regio ingrijpend veranderen.
 
