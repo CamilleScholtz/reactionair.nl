@@ -44,7 +44,7 @@ We kunnen blijven wachten totdat het vuur ons brandt, of opkomen voor onze bond
 
 Of zitten we uiteindelijk met China voor onze voordeur, en zeggen we dan: eerst kwamen ze voor Hong Kong…
 
-[^1] Ramon Giralt, [Should we defend Taiwan?](https://freefloatingphilosophy.org/should-we-defend-taiwan/).
+[^1] Ramon Giralt, *[Should we defend Taiwan?](https://freefloatingphilosophy.org/should-we-defend-taiwan/)*.
 [^2] Geoffrey Shaw, *The Lost Mandate of Heaven: The American Betrayal of Vietnamese President Ngo Dinh Diem*.
 [^3] Ishikida, Miki (July 13, 2005) - *Toward Peace: War Responsibility, Postwar Compensation, and Peace Movementsand Education in Japan*. iUniverse, Inc. p. 30.
 [^4] Zie [hier](http://www.hawaii.edu/powerkills/COM.TAB1.GIF) een tabel met schattingen van de aantallen slachtoffers van verschillende communistische regimes.
