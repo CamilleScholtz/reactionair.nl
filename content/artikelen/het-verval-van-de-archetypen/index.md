@@ -30,7 +30,7 @@ Met het verlies van betekenis, zingeving en een gevoel voor verticale oriëntati
 
 Archetypen van mannelijkheid en vrouwelijkheid verschillen drastisch. In een wereld opgebouwd uit inwisselbare atomen, waar mensen gereduceerd zijn tot hompen cellen, affronteren verschillen. Verschillen honen de machine en het algoritme, en duiden op een archaïsche complementaire factor van de Schepping. De Machine prefereert zijn eenzame standaardisatie.
 
-De doden zijn allen gelijkwaardig dood. Een levende wereld moet per definitie overstromen met verschillen en vormen. Boven elke bloem is een archetype van Vorm, onzichtbaar in het zaadje, maar het onthuld zichzelf nadrukkelijk in fruit en bloesem. Deze verschillen maken een levende tuin.
+De doden zijn allen gelijkwaardig dood. Een levende wereld moet per definitie overstromen met verschillen en vormen. Boven elke bloem is een archetype van Vorm, onzichtbaar in het zaadje, maar het onthult zichzelf nadrukkelijk in fruit en bloesem. Deze verschillen maken een levende tuin.
 
 De verschillen van mannelijkheid en vrouwelijkheid worden als aanstootgevend beschouwd in een platgeslagen wereld die zichzelf transformeert in een grote machine. De betekenis van het lichaam wordt ontkend en, ondanks het omarmen van karikaturen van de archetypen, wordt een unisex androgynie de norm (en daarmee ook steriliteit). 
 
