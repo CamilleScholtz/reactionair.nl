@@ -46,11 +46,11 @@ De archetypen lijken zich te verstoppen, maar net zoals dat lichtvervuiling de s
 
 Ik zal proberen deze vragen bondig te beantwoorden op mijn eigen manier, met de hoop enig geloof te zaaien in de echtheid van het transcendente, en dat het een geschenk is. 
 
-Hoe zijn we de archetypen verloren?
+### Hoe zijn we de archetypen verloren?
 
-Ivan Illichs Gender wijst erop dat de lokale (lees: niet-professionele) role van gender ondermijnt werd door technocratische waarden gedurende de afgelopen paar eeuwen. Instituten zijn niet gestopt met het koloniseren van de gewone man: zij doen dit nu meer dan ooit te voren. Aan het hart van deze veranderingen liggen problemen van de familie: wat betekent het om een thuis te hebben, te werken, te trouwen of een familie te zijn? 
+Ivan Illichs *Gender* wijst erop dat de lokale (lees: niet-professionele) genderrollen ondermijnd werden door technocratische waarden gedurende de afgelopen paar eeuwen. Instituten zijn niet gestopt met het koloniseren van de gewone man: zij doen dit nu zelfs meer dan ooit te voren. In het hart van deze veranderingen liggen problemen van de familie: wat betekent het om een thuis te hebben, te werken, te trouwen of een familie te zijn? 
 
-Tegenstrijdig aan de verhalen rondom de vrouw, zijn het de mannen die de initiële golf van archetypisch verlies ondergingen, en waren het mannen die dit toebrachten.
+Tegenstrijdig met de verhalen die de vrouw centraal stellen, zijn het de mannen die de initiële golf van archetypisch verlies ondergingen, en waren het mannen die dit toebrachten.
 
 Als vrouwelijkheid zich nu in een dramatische crisis bevindt (wat is een vrouw?), begon deze crisis voor mannelijkheid een paar honderd jaar geleden. Mannen uit de arbeidersklasse werden in de tijd van de Enclosure van het land naar de fabrieken en mijnen gedragen door de heersende klasse. Miljoenen mannen werden losgesneden van de vruchten van hun arbeid en vervangen door machines. Er bleef enkel hun lichaam over, gereduceerd tot een simpele automaton, gravend naar kolen, of trekkend aan hendels zodat sommige mannen miljonairs werden en de wereld hervormden naar hun beeltenis.
 
