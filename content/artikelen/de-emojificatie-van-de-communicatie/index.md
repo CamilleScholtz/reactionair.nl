@@ -31,11 +31,10 @@ Om de zoveel tijd kondigen de platforms de introductie van nieuwe emoji's aan, w
 
 guerilla
 
+overton
+
 
 [^1]: 'Dass Jedermann lesen lernen darf, verdirbt auf die Dauer nicht allein das Schreiben, sondern auch das Denken.' uit Also sprach Zarathustra van Friedrich Nietzsche.
 [^2]: https://nos.nl/artikel/2331386-kwart-15-jarigen-kan-bijsluiter-of-brief-van-school-niet-goed-lezen
 [^3]: https://emojipedia.org/pregnant-man/
 [^4]: 'Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt' uit Tractatus logico-philosophicus van Ludwig Wittgenstein.
-
-wittgenstein 
-pictografie, overton
