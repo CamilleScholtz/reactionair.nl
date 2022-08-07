@@ -28,12 +28,12 @@ Zoals ik in de eerste alinea al liet doorschemeren, hoeft het afnemend alfabetis
 Wel wil ik iedereen die vrij wil blijven denken meegeven dat hij ervoor moet waken dat hij zich niet laat inperken door de grenzen van de beeldtaal die hem van bovenaf wordt aangereikt. Ik ken de lezers van *Reactionair.nl* als ware aristocraten van de geest, dus deze boodschap is aan hen wel besteed.
 
 [^1]: 'Dass Jedermann lesen lernen darf, verdirbt auf die Dauer nicht allein das Schreiben, sondern auch das Denken.' uit *Also sprach Zarathustra* van Friedrich Nietzsche.
-[^2]: *NOS.nl*: [Kwart 15-jarigen kan bijsluiter of brief van school niet goed lezen](https://nos.nl/artikel/2331386-kwart-15-jarigen-kan-bijsluiter-of-brief-van-school-niet-goed-lezen).
+[^2]: NOS.nl: *[Kwart 15-jarigen kan bijsluiter of brief van school niet goed lezen](https://nos.nl/artikel/2331386-kwart-15-jarigen-kan-bijsluiter-of-brief-van-school-niet-goed-lezen)*.
 
 [^3]: De auteur past hier het stijlmiddel sarcasme toe.
-[^4]: *Emojipedia*: [pregnant man](https://emojipedia.org/pregnant-man/).
+[^4]: Emojipedia: *[pregnant man](https://emojipedia.org/pregnant-man/)*.
 [^5]: 'Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt' uit *Tractatus logico-philosophicus* van Ludwig Wittgenstein.
 
 [^6]: Afkorting van 'traditioneel'.
 
-[^7]: *Cultureel woordenboek.nl*: [Ernst Cassirer](https://www.cultureelwoordenboek.nl/filosofie/ernst-cassirer/).
+[^7]: Cultureel woordenboek.nl: *[Ernst Cassirer](https://www.cultureelwoordenboek.nl/filosofie/ernst-cassirer/)*.
