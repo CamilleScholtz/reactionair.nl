@@ -74,11 +74,11 @@ De vruchten zijn unisex rollen, een grootschalige crisis in het mentale welzijn,
 
 ### Welke lessen leert ons dit radicaal atomistisch beeld van het lichaam?
 
-We moeten proberen het goede van het slechte te onderscheiden, in plaats van slechts reactief voormalige kenmerken die we leuk vinden te selecteren en daaraan vast te houden, als reactie op deze ontwikkelingen. Veel traditionalisten gaan zo ver dat ze vrouwen gesluierd willen hebben, terwijl ze zwaar gebruik maken van technologie die in staat is een dystopie van porno te ontsluiten voor hun kinderen.
+We moeten proberen het goede van het slechte te onderscheiden, in plaats van als reactie op deze ontwikkelingen slechts voormalige kenmerken die we leuk vinden te selecteren en daaraan vast te houden. Veel traditionalisten gaan zo ver dat ze vrouwen gesluierd willen hebben, terwijl ze zwaar gebruik maken van technologie die in staat is een pornografische dystopie te ontsluiten voor hun kinderen.
 
-We leven niet langer in de wereld van onze voorouders. Maar het goede nieuws is dat deze wereld die we wel hebben niet louter een opeenvolging is van nachtmerries die zich ontvouwen op fletse schermen; er zit een verticale dimensie aan onze levens. Eens wandelden we in het transcendente als ware het een droom; nu worden we uitgenodigd om ons puberaal verzet te staken en te wijden wat ons gegeven is: “Nu kijken we nog in een wazige spiegel, maar straks staan we oog in oog. Nu is mijn kennen nog beperkt, maar straks zal ik volledig kennen, zoals ik zelf gekend ben” (NBV).
+We leven niet langer in de wereld van onze voorouders. Maar het goede nieuws is dat deze wereld die we wel hebben niet louter een opeenvolging is van nachtmerries die zich ontvouwen op fletse schermen; er zit een verticale dimensie aan onze levens. Eens wandelden we in het transcendente als ware het een droom; nu worden we uitgenodigd ons puberaal verzet te staken en te wijden wat ons gegeven is: "Nu kijken we nog in een wazige spiegel, maar straks staan we oog in oog. Nu is mijn kennen nog beperkt, maar straks zal ik volledig kennen, zoals ik zelf gekend ben.”[^2]
 
-We hebben zoveel verloren, maar we hebben ook de geschenk gekregen om de wereld op een vrije manier te ontmoeten. Ieder van ons heeft een mogelijkheid gehad om te kiezen voor hun menselijkheid, te kiezen om hun lichamen dichter bij de Creatie te brengen dan bij de Machine. 
+We hebben zoveel verloren, maar we hebben ook het geschenk gekregen om de wereld op een vrije manier tegemoet te treden. Ieder van ons heeft een mogelijkheid om te kiezen voor hun menselijkheid, te kiezen om hun lichamen dichter bij de Creatie te brengen dan bij de Machine. 
 
 Dit betekent niet dat deze dagen niet hachelijk zijn, en er geen mensen geofferd worden aan de Machine. Voor velen zal de genderideologie hun lichaam voor het leven tekenen. Het rijt families uiteen, het broedt psychische wanorde. Kwetsbare kinderen worden moedwillig in de war gemaakt en misbruikt. Onze beste inspanningen om een weg door deze tragedies te vinden, dienen het Kruis centraal te stellen. Wat ons te doen staat is niet het liefdeloze pad kiezen waar het lijden wordt ontkent en we onze lichamen vernietigen, maar er doorheen gaan naar een hernieuwd leven.
 
@@ -147,3 +147,5 @@ Dit is niet een reis om te missen.
 
 
 [^1]: In Engeland heeft men in de 18e eeuw veel *open fields* en *common fields;* grasvelden die tot dan in ieder geval een deel van het jaar gemeenschappelijk gebruikt werden, laten omheinen opdat zij in het bezit van grondbezitters zouden geraken. Het doel was om de winst van het land te optimaliseren, door de weiden specifiek voor het houden van schapen benutten en met de verkoop van wol winst te maken. Deze ontwikkeling, wettelijk beschermd door de *[Inclosure act](https://www.legislation.gov.uk/apgb/Geo3/13/81/contents)*, stortte een groot deel van de plattelanders in armoede en wordt als voorbode gezien van de industriële revolutie.
+
+[^2]: I Korintiërs 13:12 (NBV)
