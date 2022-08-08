@@ -100,9 +100,9 @@ Hetzelfde geldt voor mannelijkheid en vrouwelijkheid. De archetypen afwijzen ten
 
 
 
-### Hoe zou mannelijkheid en vrouwelijkheid eruit zien in een samenleving die wenst een post-lichamelijke dystopie te verwezenlijken?
+### Hoe zou mannelijkheid en vrouwelijkheid eruit zien in een samenleving die tracht een post-lichamelijke dystopie te verwezenlijken?
 
-In de Machine wordt ons (vooralsnog) de keuze geboden tussen een unisex ontkenning van ons lichaam en geadverteerde karikaturen. Een overdrijving van de gender-tweedeling, of een afwijzing ervan, maar nooit een liefhebbende, complementaire vervulling ervan.
+In de Machine wordt ons (vooralsnog) de keuze geboden tussen een unisex ontkenning van ons lichaam en karikaturen die hun wortels in het geadverteerde vinden. Een overdrijving van de gender-tweedeling, of een afwijzing ervan, maar nooit een liefhebbende, complementaire vervulling ervan.
 
 Als we kiezen om mannelijkheid of vrouwelijkheid te omarmen in een platgeslagen wereld, ontnomen van haar hemelen, zal het maar al te vaak een voorstelling worden voor derden. Het vereist een openheid voor het idee dat we gecreëerd zijn, om ons perspectief te veranderen en onze waarden te herschikken. Pas als we stoppen met spreken met een verlaagde stem, competitief mamma-bloggen of deelnemen in Kardashian-plastische chirurgie voor Instagram zullen we kunnen zien dat wat ons gegeven is harmoniseert met het transcendente, in plaats van dat het louter een middel is om sociale status te verkrijgen.
 
