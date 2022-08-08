@@ -36,13 +36,13 @@ De verschillen van mannelijkheid en vrouwelijkheid worden als aanstootgevend bes
 
 De archetypen lijken zich te verstoppen, maar net zoals dat lichtvervuiling de sterren  verhult, blijven de hemelen niettemin hetzelfde. Voor hen die wensen te vragen wat het betekent om een mens te zijn in een wereld gedomineerd door machines, is het tijd om de archetypen te herontdekken die ons naar een hechtere verbinding met onze lichamen en gemeenschappen leiden. Ik wil mij richten op verscheidene vragen:
 
-• Hoe zijn we de archetypen verloren?
+**• Hoe zijn we de archetypen verloren?**
 
-• Welke lessen kunnen we leren van het tijdperk van radicaal atomisme?
+**• Welke lessen kunnen we leren van het tijdperk van radicaal atomisme?**
 
-• Moeten we het mannelijke en vrouwelijke herontdekken?
+**• Moeten we het mannelijke en vrouwelijke herontdekken?**
 
-• Hoe zou mannelijkheid en vrouwelijkheid eruit zien in een samenleving die wenst een post-lichamelijke dystopie te verwezenlijken?
+**• Hoe zou mannelijkheid en vrouwelijkheid eruit zien in een samenleving die wenst een post-lichamelijke dystopie te verwezenlijken?**
 
 Ik zal proberen deze vragen bondig te beantwoorden op mijn eigen manier, met de hoop enig geloof te zaaien in de echtheid van het transcendente, en dat het een geschenk is. 
 
