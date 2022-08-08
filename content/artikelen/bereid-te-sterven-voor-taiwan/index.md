@@ -48,7 +48,7 @@ Of zitten we uiteindelijk met China voor onze voordeur, en zeggen we dan: eers
 
 [^1]: Ramon Giralt, *[Should we defend Taiwan?](https://freefloatingphilosophy.org/should-we-defend-taiwan/)*.
 [^2]: Geoffrey Shaw, *The Lost Mandate of Heaven: The American Betrayal of Vietnamese President Ngo Dinh Diem*.
-[^3]: Ishikida, Miki (July 13, 2005) - *Toward Peace: War Responsibility, Postwar Compensation, and Peace Movementsand Education in Japan*. iUniverse, Inc. p. 30.
+[^3]: Miki Ishikida, *Toward Peace: War Responsibility, Postwar Compensation, and Peace Movements and Education in Japan*.
 [^4]: Zie [hier](http://www.hawaii.edu/powerkills/COM.TAB1.GIF) een tabel met schattingen van de aantallen slachtoffers van verschillende communistische regimes.
 [^5]: BBC, *[Taiwan voters reject same-sex marriage in referendums](https://www.bbc.com/news/world-asia-46329877)*.
 [^6]: The New Institute, *[The fraudulent election in South Korea, China's meddling, and implications for the upcoming US presidential election in november 2020](https://www.prnewswire.com/news-releases/the-next-target-america---the-fraudulent-election-in-south-korea-chinas-meddling-and-implications-for-the-upcoming-us-presidential-election-in-november-2020-301138214.html)*.
