@@ -134,9 +134,9 @@ Onze manifestaties van deze archetypen komen met een bewuste keuze om verantwoor
 
 We betreden een tijdperk waarin we in toenemende mate moeten kiezen tussen het zijn van een mens of een machine. De archetypen begeleiden ons in deze keuze, verlichten de pijn en bieden ons een begrip van en verlossing door ons lijden.
 
-Je lichaam bestaat niet louter uit atomen. Je lichaam is geen verzameling delen. Je bent niet het monster van Frankenstein. Je bent eeuwen geleden gemaakt door de Meest Hoogste Heilige Drie-Eenheid en je hebt het geschenk gekregen om opnieuw je lichaam te treffen en deze materie te transformeren in een weerspiegeling van de heilige archetypen en het met liefde door te geven.
+Je lichaam bestaat niet louter uit atomen. Je lichaam is geen verzameling delen. Je bent niet het monster van Frankenstein. Je bent eeuwen geleden gemaakt door de Allerhoogste, Heilige Drie-Eenheid en je hebt het geschenk gekregen om je lichaam te herontdekken en deze stof te transformeren in een weerspiegeling van de heilige archetypen en het met liefde door te geven.
 
-Dit is niet een reis om te missen.
+Dit is geen reis om te missen.
 
 
 
