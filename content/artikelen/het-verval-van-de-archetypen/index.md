@@ -130,11 +130,11 @@ Kennen we onszelf meer of minder? Accepteren we onze eigen kracht als een gesche
 
 Wat er plaatsgevonden heeft hoeft geen vloek te zijn. In de eeuwen voor ons hebben  we veel zaken die we dachten te weten herzien, en nu hebben we de kans om de eeuwige waarheden opnieuw te herwinnen. Zij die wensen te blijven hangen in puberale rebellie, boos op hun lichamen, hun ouders en hun samenleving, ontnemen zichzelf een kans tot uitdaging en groei.
 
-Onze manifestatie van deze archetypen komen met een bewuste keuze om verantwoordelijk te zijn voor anderen. Als we chaos tonen richting onze kinderen dan zal die chaos ons volgen. Als we de teloorgang aanmoedigen van keuzes in een Frankenstein-assemblage van dissonante delen, zullen we de afbraak van ons lichaam versnellen. Als we onszelf vertellen dat materie zonder betekenis is, vervangen we dat wat beminnenswaardig is met dat wat liefdeloos is.
+Onze manifestaties van deze archetypen komen met een bewuste keuze om verantwoordelijk te zijn voor anderen. Als we wanorde tonen aan onze kinderen dan zal die chaos ons volgen. Als we de teloorgang aanmoedigen van keuze in een Frankenstein-assemblage van dissonante delen, zullen we de afbraak van ons lichaam versnellen. Als we onszelf vertellen dat materie zonder betekenis is, vervangen we dat wat beminnenswaardig is door dat wat liefdeloos is.
 
-We treden een tijdperk binnen waar we in toenemende mate moeten kiezen tussen een mens-zijn of een machine. De archetypen begeleiden ons in deze keuze, verlichten de pijn en bieden ons een begrip en verlossing van ons lijden.
+We betreden een tijdperk waarin we in toenemende mate moeten kiezen tussen het zijn van een mens of een machine. De archetypen begeleiden ons in deze keuze, verlichten de pijn en bieden ons een begrip van en verlossing door ons lijden.
 
-Je lichaam is niet louter atomen. Je lichaam is geen verzameling delen. Je bent geen Frankensteins monster. Je bent eeuwen geleden gemaakt door de Meest Hoogste Heilige Drie-Eenheid en je hebt het geschenk gekregen om opnieuw je lichaam te treffen en deze materie te transformeren in een weerspiegeling van de heilige archetypen en het met liefde door te geven.
+Je lichaam bestaat niet louter uit atomen. Je lichaam is geen verzameling delen. Je bent niet het monster van Frankenstein. Je bent eeuwen geleden gemaakt door de Meest Hoogste Heilige Drie-Eenheid en je hebt het geschenk gekregen om opnieuw je lichaam te treffen en deze materie te transformeren in een weerspiegeling van de heilige archetypen en het met liefde door te geven.
 
 Dit is niet een reis om te missen.
 
