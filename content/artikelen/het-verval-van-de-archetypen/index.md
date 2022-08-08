@@ -52,7 +52,7 @@ Ivan Illichs *Gender* wijst erop dat de lokale (lees: niet-professionele) gender
 
 Tegenstrijdig met de verhalen die de vrouw centraal stellen, zijn het de mannen die de initiële golf van archetypisch verlies ondergingen, en het waren mannen die dit elkaar toebrachten.
 
-Als de vrouwelijkheid zich nu in een dramatische crisis bevindt (“wat is een vrouw?”), begon deze crisis voor de mannelijkheid een paar honderd jaar geleden. Mannen uit de arbeidersklasse werden in de tijd van de Enclosure van het land naar de fabrieken en mijnen gesleept door de heersende klasse. Miljoenen mannen werden losgesneden van de vruchten van hun arbeid en vervangen door machines. Er bleef enkel hun lichaam over, gereduceerd tot een simpele automaton, gravend naar kolen, of trekkend aan hendels zodat sommige mannen miljonairs werden en de wereld konden hervormen naar hun beeltenis.
+Als de vrouwelijkheid zich nu in een dramatische crisis bevindt (“what is a woman?”), begon deze crisis voor de mannelijkheid een paar honderd jaar geleden. Mannen uit de arbeidersklasse werden in de tijd van de Enclosure van het land naar de fabrieken en mijnen gesleept door de heersende klasse.[^1] Miljoenen mannen werden losgesneden van de vruchten van hun arbeid en vervangen door machines. Er bleef enkel hun lichaam over, gereduceerd tot een simpele automaton, gravend naar kolen, of trekkend aan hendels zodat sommige mannen miljonairs werden en de wereld konden hervormen naar hun beeltenis.
 
 Deze veranderingen in de levens van de gewone mensen waren manifestaties van de mentale veranderingen in de geesten van deze machtige mensen. Terwijl de staat groeide, werd een klasse mannen in staat gesteld om grotere controle over de samenleving en de natuur na te streven. De afgezonderde scholen van logica brachten de nominalisten voort, die vervolgens een tijdperk van occulte wetenschap voortbrachten, waar koningen diegene beloonde die de kracht van de staat vermeerderde. De wil van deze leiders was losgezongen van de noden van hun gemeenschappen en in hun verovering van de natuur legden ze de machtelozen hun vernauwde begrip van de realiteit op.
 
@@ -135,3 +135,7 @@ We treden een tijdperk binnen waar we in toenemende mate moeten kiezen tussen ee
 Je lichaam is niet louter atomen. Je lichaam is geen verzameling delen. Je bent geen Frankensteins monster. Je bent eeuwen geleden gemaakt door de Meest Hoogste Heilige Drie-Eenheid en je hebt het geschenk gekregen om opnieuw je lichaam te treffen en deze materie te transformeren in een weerspiegeling van de heilige archetypen en het met liefde door te geven.
 
 Dit is niet een reis om te missen.
+
+
+
+[^1]: In Engeland heeft men in de 18e eeuw veel *open fields* en *common fields;* grasvelden die tot dan in ieder geval een deel van het jaar gemeenschappelijk gebruikt werden, laten omheinen opdat zij in het bezit van grondbezitters zouden geraken. Het doel was om de winst van het land te optimaliseren, door de weiden specifiek voor het houden van schapen benutten en met de verkoop van wol winst te maken. Deze ontwikkeling, wettelijk beschermd door de *[Inclosure act](https://www.legislation.gov.uk/apgb/Geo3/13/81/contents)*, stortte een groot deel van de plattelanders in armoede en wordt als voorbode gezien van de industriële revolutie.
