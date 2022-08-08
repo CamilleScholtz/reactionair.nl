@@ -90,11 +90,11 @@ We kunnen het transcendente vinden in cycli, complementaire vormen die opbloeien
 
 Gewillig onszelf opzadelen met deze cycli geneest onze lichamen. Ons gehele endocriene systeem komt tot rust als het deze ritmes volgt. Onze lichamen raken fysiek verward en kwaaltjes tieren welig wanneer wij uit deze ritmes worden gedwongen. Er zit waarheid en genezing in het verlaten van de Machine en het verkiezen van de Realiteit.
 
-Hetzelfde geldt voor mannelijkheid en vrouwelijkheid. De archetypen afwijzen ten faveure van een voorgepakte, unisexe identiteit leidt tot vervreemding van het lichaam. We verliezen een begrip van onszelf, onze huizen en onze gemeenschappen. Het is niet genoeg om vast te houden aan de chromosomale definities van mannelijk en vrouwelijk. XX en XY mogen waarde hebben als genetische waarheid, ze vertellen ons niet hoe ons leven te leiden, en we zien de consequenties van dit gebrek aan visie overal om ons heen. We moeten niet naar het kleinste kijken, maar naar het oneindige. Onze genezing vereist dat wij het transcendente herontdekken.
+Hetzelfde geldt voor mannelijkheid en vrouwelijkheid. De archetypen afwijzen ten faveure van een voorgepakte, sekseloze identiteit leidt tot vervreemding van het lichaam. We verliezen een begrip van onszelf, onze huizen en onze gemeenschappen. Het is niet genoeg om vast te houden aan de chromosomale definities van mannelijk en vrouwelijk. XX en XY mogen waarde hebben als genetische waarheid, ze vertellen ons niet hoe ons leven te leiden, en we zien de consequenties van dit gebrek aan visie overal om ons heen. We moeten niet naar het kleinste kijken, maar naar het oneindige. Onze genezing vereist dat wij het transcendente herontdekken.
 
 ### Hoe zou mannelijkheid en vrouwelijkheid eruit zien in een samenleving die tracht een post-lichamelijke dystopie te verwezenlijken?
 
-In de Machine wordt ons (vooralsnog) de keuze geboden tussen een unisex ontkenning van ons lichaam en karikaturen die hun wortels in het geadverteerde vinden. Een overdrijving van de gender-tweedeling, of een afwijzing ervan, maar nooit een liefhebbende, complementaire vervulling ervan.
+In de Machine wordt ons (vooralsnog) de keuze geboden tussen een genderneutrale ontkenning van ons lichaam en karikaturen die hun wortels in het geadverteerde vinden. Een overdrijving van de gender-tweedeling, of een afwijzing ervan, maar nooit een liefhebbende, complementaire vervulling ervan.
 
 Als we kiezen om mannelijkheid of vrouwelijkheid te omarmen in een platgeslagen wereld, losgeraakt van haar hemelen, zal het maar al te vaak een optreden worden voor derden. Het vereist een openheid voor het idee dat we geschapen zijn, om ons perspectief te veranderen en onze waarden te herschikken. Pas als we stoppen te spreken met een verlaagde stem, competitief mamma-bloggen of deelnemen aan Kardashian-plastische chirurgie voor Instagram zullen we kunnen zien dat wat ons gegeven is harmoniseert met het transcendente, in plaats van dat het louter een middel is om sociale status te verkrijgen.
 
@@ -112,7 +112,7 @@ Om tot een begrip van deze archetypen te komen na een levenlang ondergedompeld t
 
 In een Machinesamenleving zijn snelheid en kracht de hoogste prioriteiten. Hoe jammer en oneerlijk het ook mag lijken, vrouwen zijn niet zo snel of krachtig als mannen. Geen enkele conditionering in onze vroege kinderjaren kan of zou onze botstructuur veranderen.
 
-Vrouwen zijn wel veel meer flexibel. Dit ontsluit de mogelijkheid voor grote schoonheid en elegantie, maar deze kwaliteiten worden geminacht door de feministen die enkel kwantitatieve presentaties van mannen waarderen en unisex (machinale) normen wensen op te leggen aan het vrouwelijk lichaam.
+Vrouwen zijn wel veel meer flexibel. Dit ontsluit de mogelijkheid voor grote schoonheid en elegantie, maar deze kwaliteiten worden geminacht door de feministen die enkel kwantitatieve presentaties van mannen waarderen en genderneutrale (machinale) normen wensen op te leggen aan het vrouwelijk lichaam.
 
 Deze voorkeur voor mannelijke kracht, snelheid en macht is wijdverbreid in sport, kunst, technologie en geneeskunde. Zonder een vrouwelijke balans worden deze deugden verstikkend voor zowel mannen als vrouwen, die beiden een essentieel kwalitatief deel van de menselijke ervaring verliezen.
 
