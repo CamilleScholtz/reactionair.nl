@@ -32,7 +32,7 @@ Archetypen van mannelijkheid en vrouwelijkheid verschillen drastisch. In een wer
 
 De doden zijn allen gelijkwaardig dood. Een levende wereld moet per definitie overstromen met verschillen en vormen. Boven elke bloem is een archetype van Vorm, onzichtbaar in het zaadje, maar het onthult zichzelf nadrukkelijk in fruit en bloesem. Deze verschillen maken een levende tuin.
 
-De verschillen van mannelijkheid en vrouwelijkheid worden als aanstootgevend beschouwd in een platgeslagen wereld die zichzelf transformeert in een grote machine. De betekenis van het lichaam wordt ontkend en, ondanks het omarmen van karikaturen van de archetypen, wordt een uniseks androgynie de norm (en daarmee ook steriliteit). 
+De verschillen van mannelijkheid en vrouwelijkheid worden als aanstootgevend beschouwd in een platgeslagen wereld die zichzelf transformeert in een grote machine. De betekenis van het lichaam wordt ontkend en, ondanks het omarmen van karikaturen van de archetypen, wordt een sekseneutrale androgynie de norm (en daarmee ook steriliteit). 
 
 De archetypen lijken zich te verstoppen, maar net zoals dat lichtvervuiling de sterren  verhult, blijven de hemelen niettemin hetzelfde. Voor hen die wensen te vragen wat het betekent om een mens te zijn in een wereld gedomineerd door machines, is het tijd om de archetypen te herontdekken die ons naar een hechtere verbinding met onze lichamen en gemeenschappen leiden. Ik wil mij richten op verscheidene vragen:
 
@@ -66,7 +66,7 @@ Als klassenbewustzijn de mannelijke reactie was op de industriële revolutie , d
 
 In plaats van zich te bezinnen op wat ze verloren hadden en het te transformeren, rezen bij beide groepen gedachtepatronen op die reageerden op het machtsmisbruik door het voor zichzelf te grijpen. Mannen waren vervreemd geraakt van hun ledematen, vrouwen van hun baarmoeder, en de voornaamste reactie was het eisen van verdere vervreemding.
 
-De vruchten zijn uniseks rollen, een grootschalige crisis in het mentale welzijn, leeftijdssegregatie, het verwijderen van kwetsbare baby’s en kleuters uit de gezinszorg, een verlies van begrip van oorzaak-gevolg, wijdverbreide farmaceutische vervuiling, geporniseerde cultuur en veel lijdende mannen, vrouwen en kinderen. De Ring van Macht corrumpeert iedereen die haar tracht te gebruiken.
+De vruchten zijn genderneutrale rollen, een grootschalige crisis in het mentale welzijn, leeftijdssegregatie, het verwijderen van kwetsbare baby’s en kleuters uit de gezinszorg, een verlies van begrip van oorzaak-gevolg, wijdverbreide farmaceutische vervuiling, geporniseerde cultuur en veel lijdende mannen, vrouwen en kinderen. De Ring van Macht corrumpeert iedereen die haar tracht te gebruiken.
 
 ### Welke lessen leert ons dit radicaal atomistisch beeld van het lichaam?
 
@@ -86,7 +86,7 @@ De handen die accepteren wat hen gegeven is, kunnen in gemeenschap met de materi
 
 Gewijde mannelijkheid en vrouwelijkheid zijn wegwijzers. Vooral kinderen vinden troost in stabiliteit en routine, en daarom zijn de pogingen hen te vervreemden van hun lichaam bijzonder verontrustend.
 
-We kunnen het transcendente vinden in cycli, complementaire vormen die opbloeien en wegebben op het juiste moment. Door de herhaling van dag en nacht, de maanmaand, het zonnejaar, ervaren we de verandering van tijd en ruimte en komen bepaalde eeuwige waarheden bovendrijven. Het is geen toeval dat de opkomst van de uniseks machine plaatsvindt in een samenleving die binnenshuis leeft, die temperatuurveranderingen ontwijkt, die zichzelf zoveel mogelijk afzondert van het vlees. In plaats van in deze complementaire cyclus mee te gaan, verkiest de Machine platgeslagen standaardisatie.
+We kunnen het transcendente vinden in cycli, complementaire vormen die opbloeien en wegebben op het juiste moment. Door de herhaling van dag en nacht, de maanmaand, het zonnejaar, ervaren we de verandering van tijd en ruimte en komen bepaalde eeuwige waarheden bovendrijven. Het is geen toeval dat de opkomst van de sekseloze machine plaatsvindt in een samenleving die binnenshuis leeft, die temperatuurveranderingen ontwijkt, die zichzelf zoveel mogelijk afzondert van het vlees. In plaats van in deze complementaire cyclus mee te gaan, verkiest de Machine platgeslagen standaardisatie.
 
 Gewillig onszelf opzadelen met deze cycli geneest onze lichamen. Ons gehele endocriene systeem komt tot rust als het deze ritmes volgt. Onze lichamen raken fysiek verward en kwaaltjes tieren welig wanneer wij uit deze ritmes worden gedwongen. Er zit waarheid en genezing in het verlaten van de Machine en het verkiezen van de Realiteit.
 
