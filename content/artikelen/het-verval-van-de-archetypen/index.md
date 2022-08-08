@@ -46,8 +46,6 @@ De archetypen lijken zich te verstoppen, maar net zoals dat lichtvervuiling de s
 
 Ik zal proberen deze vragen bondig te beantwoorden op mijn eigen manier, met de hoop enig geloof te zaaien in de echtheid van het transcendente, en dat het een geschenk is. 
 
-
-
 ### Hoe zijn we de archetypen verloren?
 
 Ivan Illichs *Gender* wijst erop dat de lokale (lees: niet-professionele) genderrollen ondermijnd werden door technocratische waarden gedurende de afgelopen paar eeuwen. Instituten zijn niet gestopt met het koloniseren van de gewone man: zij doen dit nu zelfs meer dan ooit te voren. In het hart van deze veranderingen liggen problemen van de familie: wat betekent het om een thuis te hebben, te werken, te trouwen of een familie te zijn? 
@@ -70,19 +68,15 @@ In plaats van zich te bezinnen op wat ze verloren hadden en het te transformeren
 
 De vruchten zijn uniseks rollen, een grootschalige crisis in het mentale welzijn, leeftijdssegregatie, het verwijderen van kwetsbare baby’s en kleuters uit de gezinszorg, een verlies van begrip van oorzaak-gevolg, wijdverbreide farmaceutische vervuiling, geporniseerde cultuur en veel lijdende mannen, vrouwen en kinderen. De Ring van Macht corrumpeert iedereen die haar tracht te gebruiken.
 
-
-
 ### Welke lessen leert ons dit radicaal atomistisch beeld van het lichaam?
 
 We moeten proberen het goede van het slechte te onderscheiden, in plaats van als reactie op deze ontwikkelingen slechts voormalige kenmerken die we leuk vinden te selecteren en daaraan vast te houden. Veel traditionalisten gaan zo ver dat ze vrouwen gesluierd willen hebben, terwijl ze zwaar gebruik maken van technologie die in staat is een pornografische dystopie te ontsluiten voor hun kinderen.
 
 We leven niet langer in de wereld van onze voorouders. Maar het goede nieuws is dat deze wereld die we wel hebben niet louter een opeenvolging is van nachtmerries die zich ontvouwen op fletse schermen; er zit een verticale dimensie aan onze levens. Eens wandelden we in het transcendente als ware het een droom; nu worden we uitgenodigd ons puberaal verzet te staken en te wijden wat ons gegeven is: "Nu kijken we nog in een wazige spiegel, maar straks staan we oog in oog. Nu is mijn kennen nog beperkt, maar straks zal ik volledig kennen, zoals ik zelf gekend ben.”[^2]
 
-We hebben zoveel verloren, maar we hebben ook het geschenk gekregen om de wereld op een vrije manier tegemoet te treden. Ieder van ons heeft een mogelijkheid om te kiezen voor hun menselijkheid, te kiezen om hun lichamen dichter bij de Creatie te brengen dan bij de Machine. 
+We hebben zoveel verloren, maar we hebben ook het geschenk gekregen om de wereld op een vrije manier tegemoet te treden. Ieder van ons heeft een mogelijkheid om te kiezen voor hun menselijkheid, te kiezen om hun lichamen dichter bij de Schepping te brengen dan bij de Machine. 
 
 Dit betekent niet dat deze dagen niet hachelijk zijn, en er geen mensen geofferd worden aan de Machine. De genderideologie zal van velen het lichaam voor het leven tekenen. Het rijt families uiteen, het brengt psychische wanorde voort. Kwetsbare kinderen worden moedwillig in de war gebracht en misbruikt. Onze beste inspanningen om een weg door deze tragedies te vinden, dienen het Kruis centraal te stellen. Wat ons te doen staat is niet het liefdeloze pad kiezen waar het lijden wordt ontkend en we onze lichamen vernietigen, maar er doorheen gaan naar een hernieuwd leven.
-
-
 
 ### Moeten we het mannelijke en vrouwelijke herontdekken?
 
@@ -97,8 +91,6 @@ We kunnen het transcendente vinden in cycli, complementaire vormen die opbloeien
 Gewillig onszelf opzadelen met deze cycli geneest onze lichamen. Ons gehele endocriene systeem komt tot rust als het deze ritmes volgt. Onze lichamen raken fysiek verward en kwaaltjes tieren welig wanneer wij uit deze ritmes worden gedwongen. Er zit waarheid en genezing in het verlaten van de Machine en het verkiezen van de Realiteit.
 
 Hetzelfde geldt voor mannelijkheid en vrouwelijkheid. De archetypen afwijzen ten faveure van een voorgepakte, unisexe identiteit leidt tot vervreemding van het lichaam. We verliezen een begrip van onszelf, onze huizen en onze gemeenschappen. Het is niet genoeg om vast te houden aan de chromosomale definities van mannelijk en vrouwelijk. XX en XY mogen waarde hebben als genetische waarheid, ze vertellen ons niet hoe ons leven te leiden, en we zien de consequenties van dit gebrek aan visie overal om ons heen. We moeten niet naar het kleinste kijken, maar naar het oneindige. Onze genezing vereist dat wij het transcendente herontdekken.
-
-
 
 ### Hoe zou mannelijkheid en vrouwelijkheid eruit zien in een samenleving die tracht een post-lichamelijke dystopie te verwezenlijken?
 
@@ -143,8 +135,6 @@ We treden een tijdperk binnen waar we in toenemende mate moeten kiezen tussen ee
 Je lichaam is niet louter atomen. Je lichaam is geen verzameling delen. Je bent geen Frankensteins monster. Je bent eeuwen geleden gemaakt door de Meest Hoogste Heilige Drie-Eenheid en je hebt het geschenk gekregen om opnieuw je lichaam te treffen en deze materie te transformeren in een weerspiegeling van de heilige archetypen en het met liefde door te geven.
 
 Dit is niet een reis om te missen.
-
-
 
 [^1]: In Engeland heeft men in de 18e eeuw veel *open fields* en *common fields;* grasvelden die tot dan in ieder geval een deel van het jaar gemeenschappelijk gebruikt werden, laten omheinen opdat zij in het bezit van grondbezitters zouden geraken. Het doel was om de winst van het land te optimaliseren, door de weiden specifiek voor het houden van schapen benutten en met de verkoop van wol winst te maken. Deze ontwikkeling, wettelijk beschermd door de *[Inclosure act](https://www.legislation.gov.uk/apgb/Geo3/13/81/contents)*, stortte een groot deel van de plattelanders in armoede en wordt als voorbode gezien van de industriële revolutie.
 
