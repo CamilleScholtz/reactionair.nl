@@ -2,9 +2,9 @@
 title = "Bereid te sterven voor Taiwan?"
 subtitle = "Voorkom een tweede Vietnam; verraad geen bondgenoot"
 auteurs = ["Sanura"]
-date = "2022-08-07"
+date = "2022-08-08"
 themas = "Politiek & Actualiteit"
-image = "09916e7a-7b8b-4680-99b0-317a81d399f6.jpeg"
+image = "taiwan.webp"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
