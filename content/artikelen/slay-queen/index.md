@@ -2,8 +2,8 @@
 title = "Slay, Queen"
 subtitle = "Een kort griezelverhaal met komische twist over transgenderisme"
 auteurs = ["Redactie"]
-date = "2022-07-06"
-themas = "Recensie & Biografie"
+date = "2022-08-09"
+themas = "Cultuur & Maatschappij"
 image = "geoduck-2.webp"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
