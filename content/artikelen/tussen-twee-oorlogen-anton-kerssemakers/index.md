@@ -1,5 +1,5 @@
 +++
-aangehaald = ['René Guénon']
+aangehaald = ['René Guénon', 'Anton Kerssemakers']
 anchor = 'Top'
 auteurs = ['Camille Meloen']
 date = '2021-10-02'
