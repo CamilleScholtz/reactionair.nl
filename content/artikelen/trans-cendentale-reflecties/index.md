@@ -10,7 +10,7 @@ question = "Wat zijn uw gedachten over dit artikel?"
 +++
 Er wordt alom gesproken over ‘genderidentiteit’. Het is niet duidelijk wat er mee bedoeld wordt. Het lijkt vaag zoiets te betekenen als een diep in het innerlijk gevoelde associatie van iemands persoonlijkheid met mannelijkheid of vrouwelijkheid of iets daartussenin. Niemand heeft er tot nu toe een eenduidige definitie van kunnen geven. Ook is onduidelijk of men denkt dat het iets anders is dan ‘geslacht’ of ‘sekse’, of ermee inwisselbaar is. (Ik gebruik het woord ‘sekse’ als equivalent voor ‘geslacht’ in het verloop van mijn tekst.) Mensen die de terminologie van ‘genderidentiteit’ gebruiken verstoppen zich vaak achter dubbelzinnig taalgebruik, en wel met opzet, zoals zal blijken.
 
-{{< image caption="Tiresias tot vrouw getransformeerd van Pietro della Vecchia" >}}
+{{< image caption="Tiresias omgevormd tot een vrouw van Pietro della Vecchia" >}}
 
 Hier is een disjunctie:
 
@@ -22,7 +22,7 @@ Nu, als je het verschil tussen sekse en genderidentiteit affirmeert, dan moet je
 
 In bovenstaande en andere gelijke gevallen is de zin “transvrouwen zijn vrouwen” derhalve onwaar in de zin dat transvrouwen geen vrouwen in de biologisch-anatomische betekenis zijn, namelijk in de betekenis van sekse. De zin kan nog steeds in een andere betekenis waar zijn, namelijk in een fictieve zin (zoals Kathleen Stock beschrijft in haar Material Girls).
 
-Zijn transvrouwen in deze gevallen dan niet werkelijk vrouwen? Nee, inderdaad zijn transvrouwen niet werkelijk vrouwen als we ‘werkelijk’ opvatten als een verwijzing naar anatomie en biologie. En wanneer we over de biologische betekenis van sekse spreken kijken we niet slechts naar wat het karakteriseert—bijv. chromosomale opmaak, het hebben van een uiterlijk geslachtsorgaan, borsten dan wel het ontbreken daarvan, baardgroei dan wel het ontbreken daarvan enz.—maar naar wat sekse definieert, namelijk naar het reproductief vermogen die door gameten wordt bepaald, waarvan er slechts twee typen mogelijk zijn. 
+Zijn transvrouwen in deze gevallen dan niet werkelijk vrouwen? Nee, inderdaad zijn transvrouwen niet werkelijk vrouwen als we ‘werkelijk’ opvatten als een verwijzing naar anatomie en biologie. En wanneer we over de biologische betekenis van sekse spreken kijken we niet slechts naar wat het karakteriseert—bijv. chromosomale opmaak, het hebben van een uiterlijk geslachtsorgaan, borsten dan wel het ontbreken daarvan, baardgroei dan wel het ontbreken daarvan enz.—maar naar wat sekse definieert, namelijk naar het reproductief vermogen dat door gameten wordt bepaald, waarvan er slechts twee typen mogelijk zijn. 
 
 Maar dit zou geen probleem moeten zijn als je het verschil tussen biologische sekse en sociale/psychologische genderidentiteit affirmeert, wat we verder ook onder genderidentiteit willen of dienen te verstaan, en los van de vraag of het iets reëels is. Transactivisten houden er echter van om dubbelzinnig te doen over het verschil tussen sekse en gender. Soms geven ze toe dat er een verschil bestaat tussen sekse en gender, soms verwisselen ze beiden met elkaar, en soms zeggen ze dat sekse net zo goed een sociaal construct is als genderidentiteit. Dit is begrijpelijk want als men het verschil tussen sekse en genderidentiteit expliciet affirmeert, dan zal men ook de implicatie moeten accepteren dat het legitiem is te zeggen dat in sommige belangrijke gevallen sekse genderidentiteit overtroeft, wat betekent dat transvrouwen niet altijd vrouwen zijn, namelijk niet met betrekking tot sekse.  
 
