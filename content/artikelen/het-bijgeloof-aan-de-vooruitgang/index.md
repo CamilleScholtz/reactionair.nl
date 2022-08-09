@@ -2,7 +2,7 @@
 title = "Het bijgeloof aan \"De Vooruitgang\""
 subtitle = "Een essay uit 1939"
 auteurs = ["Redactie"]
-date = "2022-08-06"
+date = "2022-08-09"
 themas = "Religie & Metafysica"
 aangehaald = ["René Guénon", "Anton Kerssemakers", "Jean-Jacques Rousseau"]
 image = "aristo_lutkie-980x411.jpg"
