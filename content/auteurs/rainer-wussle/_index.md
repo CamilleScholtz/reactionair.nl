@@ -1,7 +1,7 @@
 +++
 # XXX: https://github.com/gohugoio/hugo/issues/9134
-title = "Rainer Wüßle"
+title = "Rainer Wüssle"
 profession = "Filosoof"
-description = "Rainer Wüßle is filosoof, cultureel modernist, en wil nog altijd een boek schrijven over Ludwig Klages"
+description = "Rainer Wüssle is filosoof, cultureel modernist, en wil nog altijd een boek schrijven over Ludwig Klages"
 pseudonym = true
 +++
