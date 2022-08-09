@@ -15,7 +15,7 @@ Dit essay was oorspronkelijk gepubliceerd door Anton Kerssemakers in het tijdsch
 
 Van de vele, welig op het individualisme woekerende, vormen van bijgeloof, die de werkelijkheid als het ware met een maskeradepak vermommen en de moderne wereld overleveren aan het Fata Morgana eener ondergaande beschaving, is het bijgeloof aan "De Vooruitgang" wel de ergste belemmering voor het bereiken van de Waarheid, die "vrij maakt". Want dit bijgeloof drukt zijn stempel op alle methoden, volgens welke de moderne wereld oorsprong, doel en beteekenis van het bestaan en van de menschelijke activiteit, doorgronden en verklaren wil; vergiftigt deze dus vanaf hun grondslagen.
 
-{{< image caption="" >}}
+{{< image caption="Het tijdschrift Aristo-, uit de documentaire Allen Tegen Allen." >}}
 
 Het blinde, redelooze en zelfs fanatieke geloof in het laïcistisch dogma van "De Vooruitgang", is een bij-geloof in den stricten zin van het woord, daar het op geen reëele gronden berust. De opvatting immers, dat het bestaan, de wereld, de menschheid en de beschaving in een toestand van altijddurende "vooruitgaande" ontwikkeling verkeeren; — d.w.z. dat alles en alles uit den laagst-mogelijken en meest rudimentairen toestand, welken men zich voor kan stellen, naar een steeds hooger niveau van vermogens, kennis, beschaving, moraal, techniek, enz. is uitgegroeid en (doorheen de, volgens deze opvatting, overweldigende hoogte die de moderne Europeesche beschaving reeds heeft bereikt) nog steeds doorgroeiende is naar een zeker summum van volmaaktheid, — deze opvatting is geheel onjuist en illusoir.
 
