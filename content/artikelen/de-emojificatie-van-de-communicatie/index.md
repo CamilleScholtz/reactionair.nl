@@ -9,9 +9,9 @@ image = "20220809_102027.jpg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
-{{< image caption="undefined" >}}
-
 Omstreeks het jaar 1900 was zo'n 80% van de wereldbevolking analfabeet, tegenwoordig is dat minder dan 20%. Het kan hard gaan met de vooruitgang, hoewel er ook mensen zijn die hier vraagtekens bij hebben gesteld. 'Dat iedereen mag leren lezen, bederft op den duur niet alleen het schrijven, maar ook het denken.' zei Nietzsche bij monde van Zarathustra.[^1] 
+
+{{< boekencast >}}
 
 Wat dat betreft kunnen zij die dat met hem eens zijn zich verheugen: de geletterdheid neemt, vooral in de ontwikkelde wereld in rap tempo af. Onder de jeugd is een kwart functioneel analfabeet en hoewel de overheid een hele campagne op touw heeft gezet om dat tegen te gaan, weet iedereen dat dat bij voorbaat kansloos is.[^2] De politiek komt de put pas dempen als het kalf al verdronken is. Bovendien begrijpt iedereen dat afnemend alfabetisme niet primair te wijten is aan falend onderwijs, maar aan het gegeven dat boeken niet kunnen wedijveren met games en smartphones qua amusementswaarde. Ook het feit dat zelfs universitaire studenten elementaire fouten maken op gebied van grammatica en spelling, spreekt boekdelen. Een mens vraagt zich af wat zo iemand überhaupt op de universiteit te zoeken heeft.
 
@@ -20,6 +20,8 @@ Dat betekent natuurlijk niet dat er minder gecommuniceerd wordt. In tegendeel, d
 Wat die laatste categorie betreft is het interessant om te kijken hoe verschillende platforms omgaan met de politieke neteligheden waar je dan onvermijdelijk tegenaan loopt. Zo verdwijnt de vlag van Taiwan als je de locatie van je telefoon instelt op China. De vlaggen van de staatsreligie van het westen mogen natuurlijk ook niet ontbreken in het vexillologische pantheon. Ik heb het hier natuurlijk over de regenboog-pridevlag en de transgendervlag. Het betreft hier overigens wel de traditionele regenboogvlag, wat eens te meer aantoont wat voor een aartsconservatief bolwerk de wereld van sociale media wel niet is.[^3]
 
 Het gebruik van deze emoji's is omgekeerd evenredig aan de taalvaardigheid van de jeugd. Steeds minder souplesse en creativiteit legt ze aan de dag in haar taalgebruik op de sociale media en wie een beetje vlot uit zijn woorden komt, wordt al gezien als een halve intellectueel. De emoji wint kortom steeds meer terrein. We zien hier in wezen een regressie richting het pictografische, het hiëroglyfische. Terzijde edoch terzake: het woord hiëroglief is samengesteld uit 'hieros', wat heilig betekent (vergelijk 'hiërarchie' = 'heilige heerschappij' en 'hiërofant' = 'toner van het heilige') en 'glyphos', wat groef of kerf betekent. Dit beeldschrift was dus onlosmakelijk verbonden met het hogere. 
+
+{{< image caption="undefined" >}}
 
 Nu kan er met de zesentwintig letters van het alfabet oneindig gevarieerd worden en ook kunnen nieuwe woorden worden gemaakt die ook weer op zo'n wijze gerangschikt kunnen worden in een zin dat ze iets nieuws uitdrukken. Emoji's kunnen weliswaar een andere betekenis krijgen die oorspronkelijk niet zo bedoeld was (denk maar aan de aubergine en de perzik) en ze kunnen ook in beperkte mate gecombineerd worden om nieuwe betekenissen te scheppen, maar toch is er hier veel minder creatieve speelruimte. Het alfabet biedt ons een mate van vrijheid die het emoji-vocabulaire node mist. 
 
