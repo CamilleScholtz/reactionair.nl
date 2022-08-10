@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Thierry Baudet', 'Julius Evola', 'Ernst Jünger', 'Erik von Kuehnelt-Leddihn', 'Sid Lukkassen', 'Oswald Spengler']
+aangehaald = ['Thierry Baudet', 'Julius Evola', 'Ernst Jünger', 'Erik von Kuehnelt-Leddihn', 'Sid Lukkassen', 'Oswald Spengler', 'Ludwig Wittgenstein']
 auteurs = ['Paars van Grinsterer']
 date = '2021-11-11'
 subtitle = 'Het belang van betekenis van termen en wat het ons kan leren over een reactionaire toekomst'

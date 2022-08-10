@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Jacques Derrida', 'René Guénon', 'Martin Heidegger', 'Friedrich Nietzsche', 'Plato']
+aangehaald = ['Jacques Derrida', 'René Guénon', 'Martin Heidegger', 'Friedrich Nietzsche', 'Ludwig Wittgenstein', 'Plato']
 anchor = 'Center'
 auteurs = ['De Melancholieke Nar']
 date = '2022-05-07'
