@@ -1,6 +1,6 @@
 +++
 title = "Trans*cendentale reflecties [afbeelding naar auteur/AP]"
-subtitle = "Waarom gender en sekse niet inwisselbaar zijn en wat dit voor de translobby betekent"
+subtitle = "Waarom gender en sekse niet inwisselbaar zijn"
 auteurs = ["Rainer Wüssle"]
 date = "2022-08-07"
 themas = "Religie & Metafysica"
