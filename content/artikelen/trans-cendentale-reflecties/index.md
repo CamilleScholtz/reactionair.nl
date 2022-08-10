@@ -1,7 +1,7 @@
 +++
 title = "Trans*cendentale reflecties [afbeelding naar auteur/AP]"
 subtitle = "Over gender en sekse"
-auteurs = ["Rainer Wüßle"]
+auteurs = ["Rainer Wüssle"]
 date = "2022-08-07"
 themas = "Religie & Metafysica"
 image = "067c9b1a-3930-4086-9afa-541b35f8ff33.jpeg"
