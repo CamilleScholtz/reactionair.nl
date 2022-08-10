@@ -48,7 +48,7 @@ Maar men zou zich hier eigenlijk niet zo over op hoeven te winden, want conc
 
 Dit is vergelijkbaar met het geval wanneer het conceptuele schema van de natuurkunde het biologische overtroeft in die zin dat bepaalde eigenschappen en relaties die in de biologie worden geïdentificeerd, op hun beurt afhankelijk zijn van omstandigheden die in de fysica worden bestudeerd, d.w.z. fysieke en causale relaties. Dat betekent echter geenszins dat de natuurkunde de biologie ongeldig verklaart. Deze verschillende conceptuele schema’s geven *sui generis* beschrijvingen van niet-identieke, variante aspecten van een multicomplexe werkelijkheid, beschrijvingen die elkaar niet vervangen en ook niet met elkaar concurreren.
 
-Wat genderidentiteit ook moge betekenen en welke functionele rol ze ook moge vervullen, en of ze daadwerkelijk iets reëels is of slechts een psychische fictie, een ding staat vast: ze heeft niets van doen met sekse. Eenieder die niet in staat is het verschil tussen sekse en genderidentiteit duidelijk te affirmeren kan men verdenken van opzettelijke verhulling of op z’n minst wetenschappelijke naïveteit.
+Wat genderidentiteit ook moge betekenen en welke functionele rol ze ook moge vervullen, en of ze daadwerkelijk iets reëels is of slechts een psychische fictie, een ding staat vast: ze heeft niets van doen met sekse. Eenieder die niet in staat is het verschil tussen sekse en genderidentiteit duidelijk te affirmeren kan men verdenken van opzettelijke verhulling of op z’n minst wetenschappelijke naïviteit.
 
 [^1]: Stock gaat in op de idee van legal fiction in hoofdstuk 6 van het genoemde werk, vanaf p. 178.
 
