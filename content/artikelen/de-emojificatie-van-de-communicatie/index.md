@@ -4,14 +4,14 @@ subtitle = "💁👌🎍😍🍉⛷️😱🍻💅🤣"
 auteurs = ["De Melancholieke Nar"]
 date = "2022-08-07"
 themas = "Religie & Metafysica"
-aangehaald = ["Friedrich Nietzsche", "Ludwig Wittgenstein", "Ernst Cassirer"]
+aangehaald = ["Friedrich Nietzsche", "Ludwig Wittgenstein"]
 image = "20220809_102027.jpg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
 Omstreeks het jaar 1900 was zo'n 80% van de wereldbevolking analfabeet, tegenwoordig is dat minder dan 20%. Het kan hard gaan met de vooruitgang, hoewel er ook mensen zijn die hier vraagtekens bij hebben gesteld. 'Dat iedereen mag leren lezen, bederft op den duur niet alleen het schrijven, maar ook het denken.' zei Nietzsche bij monde van Zarathustra.[^1] 
 
-{{< boekencast >}}
+{{< image caption="" >}}
 
 Wat dat betreft kunnen zij die dat met hem eens zijn zich verheugen: de geletterdheid neemt, vooral in de ontwikkelde wereld in rap tempo af. Onder de jeugd is een kwart functioneel analfabeet en hoewel de overheid een hele campagne op touw heeft gezet om dat tegen te gaan, weet iedereen dat dat bij voorbaat kansloos is.[^2] De politiek komt de put pas dempen als het kalf al verdronken is. Bovendien begrijpt iedereen dat afnemend alfabetisme niet primair te wijten is aan falend onderwijs, maar aan het gegeven dat boeken niet kunnen wedijveren met games en smartphones qua amusementswaarde. Ook het feit dat zelfs universitaire studenten elementaire fouten maken op gebied van grammatica en spelling, spreekt boekdelen. Een mens vraagt zich af wat zo iemand überhaupt op de universiteit te zoeken heeft.
 
@@ -21,23 +21,20 @@ Wat die laatste categorie betreft is het interessant om te kijken hoe verschille
 
 Het gebruik van deze emoji's is omgekeerd evenredig aan de taalvaardigheid van de jeugd. Steeds minder souplesse en creativiteit legt ze aan de dag in haar taalgebruik op de sociale media en wie een beetje vlot uit zijn woorden komt, wordt al gezien als een halve intellectueel. De emoji wint kortom steeds meer terrein. We zien hier in wezen een regressie richting het pictografische, het hiëroglyfische. Terzijde edoch terzake: het woord hiëroglief is samengesteld uit 'hieros', wat heilig betekent (vergelijk 'hiërarchie' = 'heilige heerschappij' en 'hiërofant' = 'toner van het heilige') en 'glyphos', wat groef of kerf betekent. Dit beeldschrift was dus onlosmakelijk verbonden met het hogere. 
 
-{{< image caption="" >}}
+{{< boekencast >}}
 
 Nu kan er met de zesentwintig letters van het alfabet oneindig gevarieerd worden en ook kunnen nieuwe woorden worden gemaakt die ook weer op zo'n wijze gerangschikt kunnen worden in een zin dat ze iets nieuws uitdrukken. Emoji's kunnen weliswaar een andere betekenis krijgen die oorspronkelijk niet zo bedoeld was (denk maar aan de aubergine en de perzik) en ze kunnen ook in beperkte mate gecombineerd worden om nieuwe betekenissen te scheppen, maar toch is er hier veel minder creatieve speelruimte. Het alfabet biedt ons een mate van vrijheid die het emoji-vocabulaire node mist. 
 
-'De grenzen van mijn taal zijn de grenzen van mijn wereld' zei Wittgenstein.[^4]Wie grens zegt, zegt ook grenswachter. Meer en meer wordt die rol nu vervuld door de grote mediabedrijven die bepalen welke emoji's wij mogen gebruiken.  We kunnen hier vergelijking maken met het welbekende Overton-venster, met dat verschil dat het hier een inperking van het spectrum aan emoties en symbolen betreft. Zo heeft de 'zwangere man-emoji', die in 2021 zijn intrede deed, waarschijnlijk meer bijgedragen aan het normaliseren van zwanger zijn als 'man' dan alle verbale propaganda op dit gebied bij elkaar.[^5]
+'De grenzen van mijn taal zijn de grenzen van mijn wereld' zei Wittgenstein.[^4] Wie grens zegt, zegt ook grenswachter. Meer en meer wordt die rol nu vervuld door de grote mediabedrijven die bepalen welke emoji's wij mogen gebruiken.  We kunnen hier vergelijking maken met het welbekende Overton-venster, met dat verschil dat het hier een inperking van het spectrum aan emoties en symbolen betreft. Zo heeft de 'zwangere man-emoji', die in 2021 zijn intrede deed, waarschijnlijk meer bijgedragen aan het normaliseren van zwanger zijn als 'man' dan alle verbale propaganda op dit gebied bij elkaar.[^5]
 
-Zoals ik in de eerste alinea al liet doorschemeren, hoeft het afnemend alfabetisme niet opgevat te worden als een symptoom van cultureel verval. Een grote ongeletterde massa en een kleine geletterde elite is wel zo *trad*.[^6] Een pictografische taal waarbij de relatie tussen betekenis en betekenaar niet arbitrair is, zoals dat in ons alfabet wel is, is veel minder abstract en sluit daarom beter aan bij de aard van het *animal symbolicum* dat de mens volgens de filosoof Ernst Cassirer is.[^7]Het is dan verder aan de knappe koppen om zich het hoofd te breken en zich kippig te lezen op het krioelende abracada van inktvlekken op papier wat het gewone volk niets zegt.
+Zoals ik in de eerste alinea al liet doorschemeren, hoeft het afnemend alfabetisme niet opgevat te worden als een symptoom van cultureel verval. Een grote ongeletterde massa en een kleine geletterde elite is wel zo *trad*.[^6] Een pictografische taal waarbij de relatie tussen betekenis en betekenaar niet arbitrair is, zoals dat in ons alfabet wel is, is veel minder abstract en sluit daarom beter aan bij de aard van het *animal symbolicum* dat de mens volgens de filosoof Ernst Cassirer is.[^7] Het is dan verder aan de knappe koppen om zich het hoofd te breken en zich kippig te lezen op het krioelende abracada van inktvlekken op papier wat het gewone volk niets zegt.
 
 Wel wil ik iedereen die vrij wil blijven denken meegeven dat hij ervoor moet waken dat hij zich niet laat inperken door de grenzen van de beeldtaal die hem van bovenaf wordt aangereikt. Ik ken de lezers van *Reactionair.nl* als ware aristocraten van de geest, dus deze boodschap is aan hen wel besteed.
 
 [^1]: 'Dass Jedermann lesen lernen darf, verdirbt auf die Dauer nicht allein das Schreiben, sondern auch das Denken.' uit *Also sprach Zarathustra* van Friedrich Nietzsche.
-[^2]: NOS.nl: *[Kwart 15-jarigen kan bijsluiter of brief van school niet goed lezen](https://nos.nl/artikel/2331386-kwart-15-jarigen-kan-bijsluiter-of-brief-van-school-niet-goed-lezen)*.
-
+[^2]: NOS, *[Kwart 15-jarigen kan bijsluiter of brief van school niet goed lezen](https://nos.nl/artikel/2331386-kwart-15-jarigen-kan-bijsluiter-of-brief-van-school-niet-goed-lezen)*.
 [^3]: De auteur past hier het stijlmiddel sarcasme toe.
-[^4]: Emojipedia: *[pregnant man](https://emojipedia.org/pregnant-man/)*.
+[^4]: Emojipedia, *[pregnant man](https://emojipedia.org/pregnant-man/)*.
 [^5]: 'Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt' uit *Tractatus logico-philosophicus* van Ludwig Wittgenstein.
-
 [^6]: Afkorting van 'traditioneel'.
-
-[^7]: Cultureel woordenboek.nl: *[Ernst Cassirer](https://www.cultureelwoordenboek.nl/filosofie/ernst-cassirer/)*.
+[^7]: Cultureel woordenboek.nl, *[Ernst Cassirer](https://www.cultureelwoordenboek.nl/filosofie/ernst-cassirer/)*.
