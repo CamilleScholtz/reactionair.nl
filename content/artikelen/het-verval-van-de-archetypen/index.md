@@ -104,7 +104,7 @@ Vrouwen hebben vooral een moeilijk pad, als we de verleidingen in acht nemen die
 
 Niet alleen dat, maar dit hernieuwde matriarchaat ziet zichzelf fundamenteel in strijd met mannelijkheid. In plaats van een complementair begrip van mannelijk en vrouwelijk te omarmen, ziet dit karikatuur de vrouw als op zichzelf reeds volmaakt, terwijl ze ironisch genoeg ook bereid blijkt om elke pil uit de door mannen gedomineerde industriële geneeskunde tot zich te nemen om haar vrouwelijk lichaam te onderdrukken!
 
-Dit zijn verwarrende verleidingen, en het is noodzakelijk dat wij deze weten te overkomen. De crisis van mannelijkheid manifesteerde zich in de verbitterde oorlogen tussen beheerders van de klassen in de 20e eeuw en is nooit opgelost. Deze mislukking heeft geleid tot een centralisatie van macht, verlies van rentmeesterschap over onze omgeving en massale sociale vervreemding. Als we niet een manier vinden om het vrouwelijke archetype van dit binnenstebuiten gekeerde karikatuur te redden, is het thuis en de familie volledig verloren en zal de institutionele machine de enige beheerder van alle aardse zaken worden.
+Dit zijn verwarrende verleidingen, en het is noodzakelijk dat wij deze weten te overkomen. De crisis van mannelijkheid manifesteerde zich in de verbitterde oorlogen tussen beheerders van de klassen in de 20e eeuw en is nooit opgelost. Deze mislukking heeft geleid tot een centralisatie van macht, verlies van rentmeesterschap over onze omgeving en massale sociale vervreemding. Als we niet een manier vinden om het vrouwelijke archetype van dit binnenstebuiten gekeerde karikatuur te redden, is het thuis en de familie volledig verloren en zal de institutionele Machine de enige beheerder van alle aardse zaken worden.
 
 Het omarmen van respectievelijk onze mannelijkheid en vrouwelijkheid door middel van de archetypes is de beste manier om een complementair bestaan te herstellen, dat leven geeft aan elkaar in plaats van vervreemding en verdeeldheid te zaaien waardoor we volledig afhankelijk gemaakt worden van de Machine. 
 
@@ -114,7 +114,7 @@ In een Machinesamenleving zijn snelheid en kracht de hoogste prioriteiten. Hoe j
 
 Vrouwen zijn wel veel meer flexibel. Dit ontsluit de mogelijkheid voor grote schoonheid en elegantie, maar deze kwaliteiten worden geminacht door de feministen die enkel kwantitatieve presentaties van mannen waarderen en genderneutrale (machinale) normen wensen op te leggen aan het vrouwelijk lichaam.
 
-Deze voorkeur voor mannelijke kracht, snelheid en macht is wijdverbreid in sport, kunst, technologie en geneeskunde. Zonder een vrouwelijke balans worden deze deugden verstikkend voor zowel mannen als vrouwen, die beiden een essentieel kwalitatief deel van de menselijke ervaring verliezen.
+Deze voorkeur voor mannelijke kracht, snelheid en macht is wijdverbreid in sport, kunst, technologie en geneeskunde. Zonder een vrouwelijke balans worden deze deugden verstikkend voor zowel mannen als vrouwen, die beide een essentieel kwalitatief deel van de menselijke ervaring verliezen.
 
 We treffen een tragische reflectie van deze verwarring in de meme die opdook na de Dobbs-bepaling, waar een zwangere vrouw zichzelf in competitie plaatst met haar kind en redetwist met een onzichtbare godheid: “Hoe zit het met mijn grootsheid?”
 
@@ -128,7 +128,7 @@ Vinden we een wereld waar al over deze problemen werd nagedacht, lang voor Judit
 
 Kennen we onszelf meer of minder? Accepteren we onze eigen kracht als een geschenk, om aan onze gemeenschappen door te geven?
 
-Wat er plaatsgevonden heeft hoeft geen vloek te zijn. In de eeuwen voor ons hebben  we veel zaken die we dachten te weten herzien, en nu hebben we de kans om de eeuwige waarheden opnieuw te herwinnen. Zij die wensen te blijven hangen in puberale rebellie, boos op hun lichamen, hun ouders en hun samenleving, ontnemen zichzelf een kans tot uitdaging en groei.
+Wat er plaatsgevonden heeft hoeft geen vloek te zijn. In de eeuwen voor ons hebben we veel zaken die we dachten te weten herzien, en nu hebben we de kans om de eeuwige waarheden opnieuw te herwinnen. Zij die wensen te blijven hangen in puberale rebellie, boos op hun lichamen, hun ouders en hun samenleving, ontnemen zichzelf een kans tot uitdaging en groei.
 
 Onze manifestaties van deze archetypen komen met een bewuste keuze om verantwoordelijk te zijn voor anderen. Als we wanorde tonen aan onze kinderen dan zal die chaos ons volgen. Als we de teloorgang aanmoedigen van keuze in een Frankenstein-assemblage van dissonante delen, zullen we de afbraak van ons lichaam versnellen. Als we onszelf vertellen dat materie zonder betekenis is, vervangen we dat wat beminnenswaardig is door dat wat liefdeloos is.
 
