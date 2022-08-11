@@ -62,11 +62,11 @@ Dit was wat er was overgebleven van de mannen nadat de revolutie was gekomen: ee
 
 Gedurende het industriële tijdperk werd een klasse van vrouwen, niet langer de beheerders van landgoederen op het platteland, overspoeld met hun eigen kenmerken en stereotypen. Nu de huisnijverheid verdwenen was, werd de vrouw de bestaansreden van het huishouden. Het was, zo suggereerde de media, voor haar eigen bestwil en veiligheid dat dit alles gebeurd was. Een (tijdelijke) cultus van sentimenteel moederschap dreef boven terwijl de technologische revolutie haar bestaansrecht net zo ondermijnde als het bij de man had gedaan. Het weefgetouw werd naar de fabriek verplaatst, de bedienden vervangen door afwasmachines, de maaltijd vervangen door de magnetron en een eeuw later voelde in het bijzonder de vrouw uit de middenklasse zichzelf net zo nutteloos in het huis als haar echtgenoot. 
 
-Als klassenbewustzijn de mannelijke reactie was op de industriële revolutie , dan was feminisme de vrouwelijke reactie op de consumentenproduct-revolutie.
+Als klassenbewustzijn de mannelijke reactie was op de industriële revolutie, dan was feminisme de vrouwelijke reactie op de consumentenproduct-revolutie.
 
 In plaats van zich te bezinnen op wat ze verloren hadden en het te transformeren, rezen bij beide groepen gedachtepatronen op die reageerden op het machtsmisbruik door het voor zichzelf te grijpen. Mannen waren vervreemd geraakt van hun ledematen, vrouwen van hun baarmoeder, en de voornaamste reactie was het eisen van verdere vervreemding.
 
-De vruchten zijn genderneutrale rollen, een grootschalige crisis in het mentale welzijn, leeftijdssegregatie, het verwijderen van kwetsbare baby’s en kleuters uit de gezinszorg, een verlies van begrip van oorzaak-gevolg, wijdverbreide farmaceutische vervuiling, geporniseerde cultuur en veel lijdende mannen, vrouwen en kinderen. De Ring van Macht corrumpeert iedereen die haar tracht te gebruiken.
+De vruchten zijn genderneutrale rollen, een grootschalige crisis in het mentale welzijn, leeftijdssegregatie, het verwijderen van kwetsbare babies en kleuters uit de gezinszorg, een verlies van begrip van oorzaak-gevolg, wijdverbreide farmaceutische vervuiling, gepornoficeerde cultuur en veel lijdende mannen, vrouwen en kinderen. De Ring van Macht corrumpeert iedereen die haar tracht te gebruiken.
 
 ### Welke lessen leert ons dit radicaal atomistisch beeld van het lichaam?
 
