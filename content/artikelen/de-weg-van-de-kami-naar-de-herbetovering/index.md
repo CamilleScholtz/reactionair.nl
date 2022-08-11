@@ -15,13 +15,11 @@ Weber zag door de onttovering een wereldbeeld ontstaan waarin een wetenschappe
 
 Over de onttovering is al veel geschreven, ook voordat Weber, die de term op zijn beurt leende van Friedrich Schiller, het duidde in zijn werk. Zo schreef Burke al in zijn Reflections on the Revolution in France:
 
-> “Het tijd van ridderlijkheid is voorbij. Die van woordverdraaiers, economen en rekenaars heeft hem opgevolgd en de glorie van Europa is voor eeuwig uitgedoofd.”
+> Het tijd van ridderlijkheid is voorbij. Die van woordverdraaiers, economen en rekenaars heeft hem opgevolgd en de glorie van Europa is voor eeuwig uitgedoofd.[^1]
 
 Ook voormalig milieuactivist Paul Kingsnorth duidt mijns inziens het probleem goed, als hem door Nederlands eigen Tegenlicht gevraagd wordt wat hij ziet als het probleem in onze samenleving waardoor we op dit punt zijn terecht gekomen:
 
-“Ik denk niet dat het een technologisch probleem is. Ik denk dat het een cultureel probleem is, zelfs een spiritueel probleem, dat we hebben in onze relatie ten opzichte van de rest van het leven, onze relatie met onze eigen verlangens en ons eigen hebzucht en ons idee van wat we bedoelen met ‘vooruitgang’ – wat veelal erg nauw gedefinieerd wordt. Voor mij ligt er een spirituele leegte aan de wortel hiervan. We weten niet wat onze verstandhouding is met de aarde. Natuurlijk kun je misschien deze kapitalistische groei samenleving laten draaien op zonne-energie in plaats van olie, maar je houdt nog steeds dezelfde problemen: de wereld die je eet, de hoeveelheden die je consumeert, de waarden die je hebt, het individualisme, het soort digitaal narcisme dat wij als cultuur hebben. Het is geen gezonde cultuur waarin we leven.”
-
-Bron: <https://www.vpro.nl/programmas/tegenlicht/kijk/afleveringen/2018-2019/de-aarde-draait-door.html>
+> Ik denk niet dat het een technologisch probleem is. Ik denk dat het een cultureel probleem is, zelfs een spiritueel probleem, dat we hebben in onze relatie ten opzichte van de rest van het leven, onze relatie met onze eigen verlangens en ons eigen hebzucht en ons idee van wat we bedoelen met ‘vooruitgang’ – wat veelal erg nauw gedefinieerd wordt. Voor mij ligt er een spirituele leegte aan de wortel hiervan. We weten niet wat onze verstandhouding is met de aarde. Natuurlijk kun je misschien deze kapitalistische groei samenleving laten draaien op zonne-energie in plaats van olie, maar je houdt nog steeds dezelfde problemen: de wereld die je eet, de hoeveelheden die je consumeert, de waarden die je hebt, het individualisme, het soort digitaal narcisme dat wij als cultuur hebben. Het is geen gezonde cultuur waarin we leven.[^2]
 
 De onttovering van de wereld leidt tot een spirituele leegte. 
 
