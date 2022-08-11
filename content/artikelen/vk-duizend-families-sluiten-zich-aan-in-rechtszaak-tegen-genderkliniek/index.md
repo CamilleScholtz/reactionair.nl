@@ -8,7 +8,7 @@ image = "e124008-1-.jpg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
-De genderkliniek Tavistock instituut in Engeland wordt geconfronteerd met juridische stappen van jongeren die beweren dat ze overhaast zijn overgehaald tot het nemen van levensveranderende puberteitsblokkers. Het is een nieuwe ontwikkeling in de dubieuze en controversiële geschiedenis van het instituut.[^1]
+De genderkliniek Tavistock in Engeland wordt geconfronteerd met juridische stappen van jongeren die beweren dat ze overhaast zijn overgehaald tot het nemen van levensveranderende puberteitsblokkers. Het is een nieuwe ontwikkeling in de dubieuze en controversiële geschiedenis van het instituut.[^1]
 
 Enkel het NRC heeft eerder geschreven over de aangekondigde sluiting van de genderkliniek.[^2] De rapportage is wel summier te noemen; slechts enkele alinea’s wordt er besteed aan deze grote verandering in beleid in Engeland. Het gaat namelijk niet om zomaar “een kliniek” maar om de centrale zorginstelling waar genderideologen al jaren de sceptor zwaaien en beleid hebben bepaald voor alle kinderen met “genderdysforie”.[^3]
 
