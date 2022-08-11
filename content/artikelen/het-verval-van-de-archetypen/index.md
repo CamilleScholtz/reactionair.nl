@@ -76,7 +76,7 @@ We leven niet langer in de wereld van onze voorouders. Maar het goede nieuws is 
 
 We hebben zoveel verloren, maar we hebben ook het geschenk gekregen om de wereld op een vrije manier tegemoet te treden. Ieder van ons heeft een mogelijkheid om te kiezen voor hun menselijkheid, te kiezen om hun lichamen dichter bij de Schepping te brengen dan bij de Machine. 
 
-Dit betekent niet dat deze dagen niet hachelijk zijn, en er geen mensen geofferd worden aan de Machine. De genderideologie zal van velen het lichaam voor het leven tekenen. Het rijt families uiteen, het brengt psychische wanorde voort. Kwetsbare kinderen worden moedwillig in de war gebracht en misbruikt. Onze beste inspanningen om een weg door deze tragedies te vinden, dienen het Kruis centraal te stellen. Wat ons te doen staat is niet het liefdeloze pad kiezen waar het lijden wordt ontkend en we onze lichamen vernietigen, maar er doorheen gaan naar een hernieuwd leven.
+Dit betekent niet dat deze dagen niet hachelijk zijn en er geen mensen geofferd worden aan de Machine. De genderideologie zal van velen het lichaam voor het leven tekenen. Het rijt families uiteen, het brengt psychische wanorde voort. Kwetsbare kinderen worden moedwillig in de war gebracht en misbruikt. Onze beste inspanningen om een weg door deze tragedies te vinden, dienen het Kruis centraal te stellen. Wat ons te doen staat is niet het liefdeloze pad kiezen waar het lijden wordt ontkend en we onze lichamen vernietigen, maar er doorheen gaan naar een hernieuwd leven.
 
 ### Moeten we het mannelijke en vrouwelijke herontdekken?
 
