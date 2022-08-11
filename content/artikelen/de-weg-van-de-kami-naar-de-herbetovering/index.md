@@ -4,7 +4,7 @@ subtitle = "Over het neergaande pad der onttovering"
 auteurs = ["Redactie"]
 date = "2022-08-10"
 themas = "Religie & Metafysica"
-aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke"]
+aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes"]
 image = "72e2392b-0210-404d-b832-ce8525d3017d.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
@@ -90,7 +90,7 @@ Wel onderschrijf ik Kingsnorths stelling dat een fundamenteel probleem van d
 
 Vaak zijn we enkel verder verdwaald in het labyrint doordat we niet goed doorhadden welke initiële a priori aannames over de wereld wij vasthielden tijdens onze zoektocht naar de uitgang. En het bevragen van deze a priori aannames door post-moderne denkers was noodzakelijk, maar leidde tot een verdere vervreemding van onze denkkaders. Nu weten we niet eens meer zeker of er ooit wel een sprake is geweest van een uitgang. 
 
-Verschillende soorten weten
+### Verschillende soorten weten
 
 Welke verschillende soorten weten zijn er? Hier zijn verschillende modellen voor. Voor dit essay wil mij focussen op het 4P-model uit de cognitiewetenschappen van Vervaekeen Ferraro(<https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cognitive_Science_of_Wisdom>). 
 
@@ -124,7 +124,7 @@ Dit omgevingsbewustzijn bouwt op zijn beurt op perspectief weten. Om omgevin
 
 De relatie tussen de verschillende P’s werkt in beide richtingen. Om tot een goede agent-arena relatie te komen, dien je allereerst te kunnen onderscheiden wat waar en niet waar is, zodat je jouw omgeving niet verkeerd in kaart brengt.
 
-Het probleem van de waardering van stellingen en orthodoxie
+### Het probleem van de waardering van stellingen en orthodoxie
 
 Het Westen is gevormd door eeuwen van een monistischekosmologie: er is één waarheid. Het Westers denken kan niet goed overweg met een pluriformiteit van waarheden. Zelfs de verwerping van God leidt in het Westen uiteindelijk tot eenmono-atheïsme; het vervangt de éne waarheid met één andere, zoals de rigide argumenten van de New Atheists meermaals etaleren.
 
@@ -146,7 +146,7 @@ Door de neiging naar orthodoxie werd elke voorgaande reactie op de onttovering�
 
 Als we ons tot het oosten richt, of terug in het verleden kijkennaar de Hellenistische Grieken en Romeinen, zien we echter iets heel anders. Niet zo zeer het juiste geloof of de juiste mening is belangrijk, maar het juiste handelen wordt gewaardeerd. Orthopraxie boven orthodoxie. Op de juiste manier de rituelen en riten uitvoeren. Op de juiste manier de hymnes reciteren. Op de juiste manier deelnemen aan de praxis. Wat de enkelvoudige waarheid precies is, en of je die in zijn totaliteit voor waar aanneemt, wordt minder belangrijk geacht. Dit lijkt inherent aan polytheïstische systemen, waar men niet één oppergod kent, en denominaties langs elkaar heen andere goden als ‘de belangrijkste’ aanwijzen, afhankelijk van kaste, sociaalmaatschappelijke positie, professie of locatie.
 
-Orthopraxie boven orthodoxie
+### Orthopraxie boven orthodoxie
 
 Wat gebeurt er met het 4P-model, als je orthopraxiewaardeert? Dan verlegt de focus zichzelf naar het participatief weten en de agent-arena relatie. 
 
@@ -158,7 +158,7 @@ Een verhouding met je directe omgeving vraagt een aandachtige agent-arena relat
 
 Je kunt nieuwe ideeën direct testen in de praktijk en inzichten en data direct ophalen om je agent-arena relatie te kalibreren. Er bestaat geen wereld waarin jij, als enkelvoudige agent, de totaliteit van alle mogelijke arena’s op aarde kuntdoorgronden om vervolgens een universele kaart van allearena’s voor jezelf op te bouwen.
 
-Shinto en de herbetovering
+### Shinto en de herbetovering
 
 We naderen de clou die ik reeds in de titel van dit essay verwerkt heb. Shinto, de weg van de kami. 
 
@@ -170,7 +170,7 @@ Shinto vertaalt als ‘Weg van de Kami’.
 
 Waarom haal ik Shinto aan, en niet een algemene vorm van animisme? Shinto is een sterk voorbeeld, omdat het een systeem is dat operationeel is binnen een moderne samenleving. De praxis van Shinto vergt geen grote vertaalslag richting onze eigen moderne samenleving. Shintobewijst in zijn bestaan dat het integreert met de moderniteit.
 
-Kami
+### Kami
 
 Kami heeft geen directe Europese vertaling. Vaak wordt het vertaald als geest of god, maar de moderne definities van deze woorden dekken niet helemaal de lading. 
 
@@ -190,7 +190,7 @@ De kracht van Shinto, is dat de kami in de hele wereld verweven zitten, waar 
 
 Maar als jij de kabouters niet ziet in je dagelijks leven, en ze enkel kunt zoeken als je erop uitgaat in de natuur, waar biedt het dan een meerwaarde voor het alledaagse? Shinto betovert het alledaagse leven midden in de moderne tijd.
 
-Jinja
+### Jinja
 
 Een Jinja is een Shinto-heiligdom. Het is de plaats waar een kami huist.
 
