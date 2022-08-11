@@ -1,6 +1,6 @@
 +++
 title = "VK: Duizend families sluiten zich aan in rechtszaak tegen genderkliniek"
-subtitle = "Nederlandse media opvallend stil."
+subtitle = "Nederlandse media opvallend stil"
 auteurs = ["Paars van Grinsterer"]
 date = "2022-08-11"
 themas = "Politiek & Actualiteit"
