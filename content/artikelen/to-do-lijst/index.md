@@ -12,7 +12,7 @@ question = "Wat zijn uw gedachten over dit artikel?"
 
 \-gesproken artikelen
 
-\-bellen overheid over vlag
+\-bellen overheid over regenboogvlag
 
 \-slideshow functie
 
