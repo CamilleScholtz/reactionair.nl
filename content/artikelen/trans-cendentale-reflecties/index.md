@@ -2,7 +2,7 @@
 title = "Trans*cendentale reflecties"
 subtitle = "Waarom gender en sekse niet inwisselbaar zijn"
 auteurs = ["Rainer Wüssle"]
-date = "2022-08-07"
+date = "2022-08-11"
 themas = "Religie & Metafysica"
 image = "067c9b1a-3930-4086-9afa-541b35f8ff33.jpeg"
 anchor = "Smart"
@@ -12,9 +12,7 @@ Er wordt alom gesproken over ‘genderidentiteit’. Het is niet duidelijk wa
 
 {{< image caption="Tiresias omgevormd tot een vrouw van Pietro della Vecchia." >}}
 
-Hier is een disjunctie:
-
-Ofwel ontken je het onderscheid tussen sekse en gender ofwel bevestig je het.
+Hier is een disjunctie; ofwel ontken je het onderscheid tussen sekse en gender ofwel bevestig je het.
 
 Men kan het onderscheid of verschil ontkennen of bevestigen onafhankelijk van de vraag of genderidentiteit iets reëels is, zodat we strikt genomen niet hoeven te weten wat men er eigenlijk mee bedoelt. Sekse daarentegen is een algemeen bekend en nauw gedefinieerd begrip. Het is namelijk gedefinieerd als de eigenschap biologisch mannelijk (male) of vrouwelijk (female) te zijn. De menselijke sekse is strikt binair en anisogaam, dat wil zeggen, met de menselijke seksuele reproductie, zoals bij de meeste dieren, zijn exact twee gameten gemoeid, de statische vrouwelijke eicel, die de grotere gameet is vergeleken met de bewegende mannelijke, de zaadcel. Dit feit wordt niet ontkracht door het bestaan van een relatief gering aantal mensen met intersekse-eigenschappen of mensen met chromosomale afwijkingen. Intersekse-mensen hebben ambiguë kenmerken van beide geslachten, maar vormen geen soort derde geslacht. Een derde geslacht is er biologisch gesproken gewoonweg niet. Het is belangrijk te onderkennen dat intersekse een medische categorie is, en niets met genderidentiteit van doen heeft, alsof het bijvoorbeeld een soort seksespectrum, waar vaak over gesproken wordt, aan zou duiden. Verwijzingen naar seksespectrum zijn de kwakzalverpraat van de transgender-lobby.  
 
@@ -32,11 +30,19 @@ Maar vervolgens ontkennen ze expliciet de distinctie tussen sekse en genderident
 
 Omdat de implicatie van het erkennen van het onderscheid tussen sekse en genderidentiteit hen onwelgevallig is, verhullen transactivisten de paradox in hun redeneren door vage uitspraken te doen over het verschil tussen sekse en genderidentiteit. Vaak zeggen ze dat sekse en genderidentiteit inwisselbare of vergelijkbare categorieën zijn, namelijk dat beiden sociale constructen zijn, waarbij de vraag welke echter, reëler, is dan de andere irrelevant is. Of ze zijn eenvoudigweg ambigu in hun gebruik van de termen ‘sekse’ en ‘gender’ door ze handig door elkaar te gebruiken—in het Duits wordt men in dat opzicht op zijn wenken bediend, omdat het Duitse woord voor beiden hetzelfde is: *Geschlecht*. Of ze zeggen met een zweem van wetenschappelijke *Überlegenheit* dat spreken over sekse in strikt onderscheid tot genderidentiteit getuigt van reductionistisch biologisme. Dat laatste is natuurlijk baarlijke onzin, want niemand beweert dat het hebben van een vrouwelijk reproductief vermogen de *voldoende* voorwaarde is voor het vrouw-zijn in bredere zin.
 
-Transactivisten kunnen derhalve het onderscheid tussen biologische sekse en sociale genderidentiteit niet affirmeren omdat, ten eerste, dat onderscheid zou suggereren dat genderidentiteit slechts een construct is terwijl alleen biologische sekse echt zou zijn en, ten tweede, transactivisten de poststructuralistische idee onderschrijven dat er geen werkelijkheid *hors-texte*[^2] bestaat, namelijk een gegeven, feitelijke werkelijkheid buiten onze begrippenkaders. De biologische werkelijkheid is volgens hen net zo goed een begrippelijk construct als genderidentiteit. Ze geloven in feite dat er überhaupt geen biologische *werkelijkheid* bestaat. Er bestaan alleen constructen. 
+{{< quote
+	text="Il n'y a pas de hors-texte."
+	author="Jacques Derrida"
+	aside=true
+>}}
+
+Transactivisten kunnen derhalve het onderscheid tussen biologische sekse en sociale genderidentiteit niet affirmeren omdat, ten eerste, dat onderscheid zou suggereren dat genderidentiteit slechts een construct is terwijl alleen biologische sekse echt zou zijn en, ten tweede, transactivisten de poststructuralistische idee onderschrijven dat er geen werkelijkheid *hors-texte* bestaat,[^2] namelijk een gegeven, feitelijke werkelijkheid buiten onze begrippenkaders. De biologische werkelijkheid is volgens hen net zo goed een begrippelijk construct als genderidentiteit. Ze geloven in feite dat er überhaupt geen biologische *werkelijkheid* bestaat. Er bestaan alleen constructen. 
 
 Veel door ideologisch activisme gedreven filosofen van zowel analytische als continentale snit beweren tegenwoordig, dat onze conceptuele schema’s, inclusief uitspraken over wetenschappelijke (en dus ook biologische) feiten, slechts relatief gezien waar zijn. Ze zijn alleen waar op grond van hun begrippelijke samenhang, sociale context, cultureel gebruik of historische betekenis, en niet omdat ze overeenkomen met een onafhankelijke realiteit. Geen enkele verwijzing naar een vermeende externe werkelijkheid verschaft, zo wordt betoogd, de zogenaamde ‘waarheidsmaker’ van een begrip, omdat, ten eerste, er geen externe werkelijkheid is waarnaar onze concepten verwijzen voor hun waarheid en, ten tweede, ‘realiteit’ zelf slechts een begrip onder vele mogelijke begrippen is.
 
 Evenzo beweren transactivisten dat sekse slechts een concept is, zoals genderidentiteit, terwijl ze op ongerijmde wijze ook beweren dat genderidentiteit het meest innerlijke gevoel van zichzelf is, zelfs essentiëler dan sekse. Het is onduidelijk wat met deze essentialistische gevoelsleer bedoeld kan zijn, en het valt nog te bezien welke metafysisch uitermate problematische vooronderstellingen aan een dergelijk essentialisme ten grondslag liggen. De zekerheid waarmee ze dit innerlijke gevoel paraderen, staat in ieder geval in schril contrast tot hun relativistische waarheidsopvatting.
+
+{{< boekenplank >}}
 
 Het feit dat waarheid niet beschikbaar is buiten onze begrippenkaders om, betekent echter niet dat waarheid slechts een conceptuele constructie is, laat staan ​​een psychologische constructie. Hoezeer onze kennis over de werkelijkheid ook noodzakelijkerwijs conceptueel bemiddeld is, de waarheid van onze gefundeerde oordelen over objecten komt nog altijd overeen met de materiële feiten.
 
@@ -51,5 +57,4 @@ Dit is vergelijkbaar met het geval wanneer het conceptuele schema van de natuur
 Wat genderidentiteit ook moge betekenen en welke functionele rol ze ook moge vervullen, en of ze daadwerkelijk iets reëels is of slechts een psychische fictie, een ding staat vast: ze heeft niets van doen met sekse. Eenieder die niet in staat is het verschil tussen sekse en genderidentiteit duidelijk te affirmeren kan men verdenken van opzettelijke verhulling of op z’n minst wetenschappelijke naïviteit.
 
 [^1]: Stock gaat in op de idee van legal fiction in hoofdstuk 6 van het genoemde werk, vanaf p. 178.
-
 [^2]: Verwijzing naar een bekend citaat van Derrida "Il n'y a pas de hors-texte" uit zijn *De la grammatologie*. Het laat zich het beste vertalen als: "er is geen buiten-tekst", waarmede hij bedoelde dat ook de waarneembare wereld zich als het ware als een tekst gedraagt: dingen refereren aan andere dingen en voor deze keten bestaat geen absolute grondslag.
