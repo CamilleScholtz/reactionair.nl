@@ -20,9 +20,9 @@ Deze taken gaan nu weer terug naar de eerste lijn, een gedecentraliseerde aanpak
 
 Advocaten verwachten dus dat ongeveer 1.000 gezinnen zich zullen aansluiten bij de rechtszaak wegens medische nalatigheid, waarin wordt beweerd dat kwetsbare kinderen een verkeerde diagnose hebben gekregen en in een schadelijk medisch traject terecht zijn gekomen.
 
-Ze beschuldigen de dienst *“gender identity development service”* (GIDS) bij het Tavistock instituut en Portman NHS Trust van meerdere tekortkomingen in zijn zorgplicht.
+Ze beschuldigen de dienst *“gender identity development service”* (GIDS) bij het Tavistock instituut en Portman NHS Trust van meerdere tekortkomingen in hun zorgplicht.
 
-Er zouden roekeloos puberteitsblokkers met schadelijke bijwerkingen zijn voorgeschreven en een "onvoorwaardelijke, bevestigende benadering" aangenomen voor kinderen die zich als transgender identificeren.
+Er zouden roekeloos puberteitsblokkers met schadelijke bijwerkingen zijn voorgeschreven en er is een "onvoorwaardelijke, bevestigende benadering" aangenomen voor kinderen die zich als transgender identificeren.
 
 Vorige maand kondigde NHS England aan dat het de Tavistock-kliniek zou sluiten vanwege veiligheidsproblemen na een vernietigende externe beoordeling. De zorg wordt overgedragen aan regionale kinderziekenhuizen na verwijzing van een huisarts.
 
@@ -33,8 +33,6 @@ Ik lees al jaren nauwelijks nog Nederlandse kranten. Het deplorabele niveau is t
 Ik snap de motivatie wel hoor, voor de afwezigheid van kritische journalisten in het genderdebat. Ik schrijf dit niet voor niets onder een pseudoniem. Het is makkelijker je koest te houden. De gevolgen van kritiek op de heilige LHBTI-kaste zijn niet mals.
 
 Daarom is het zeer goed nieuws dat de gang naar de rechter nu steeds vaker plaatsvindt. Iets dat medische professionals overigens al jaren geleden voorspelden. De absolute gekte in dit veld van onderzoek was evident voor iedereen die niet bevangen was met de gendermanie. In Zweden zijn ze vorig jaar al afgestapt van “het Nederlandse protocol”.[^4] Het is tijd dat ook in Nederland de gendermanie tot bedaren komt en we het kind vooropstellen. En dat ideologen niet meer zonder consequenties hun schadelijke zin door kunnen drijven.
-
-
 
 [^1]: Timbah.On.Toast, *[A critique of “Tavistock, Social Engineering the Masses”](https://www.youtube.com/watch?v=_fG8YM7ssJw)*.
 [^2]: 'kwaliteitskranten’ Trouw en de VK laten geen resultaten zien in hun archieven.
