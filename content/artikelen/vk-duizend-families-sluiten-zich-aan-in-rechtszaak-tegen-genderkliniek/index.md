@@ -8,27 +8,25 @@ image = "e124008-1-.jpg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
-De genderkliniek Tavistock instituut in Engeland wordt geconfronteerd met juridische stappen van jongeren die beweren dat ze overhaast zijn overgehaald tot het nemen van levensveranderende puberteitsblokkers. Het is een nieuwe ontwikkeling in de dubieuze en controversiële geschiedenis van het instituut.[](#_ftn1)[^1]
+De genderkliniek Tavistock instituut in Engeland wordt geconfronteerd met juridische stappen van jongeren die beweren dat ze overhaast zijn overgehaald tot het nemen van levensveranderende puberteitsblokkers. Het is een nieuwe ontwikkeling in de dubieuze en controversiële geschiedenis van het instituut.[^1]
 
-Enkel het NRC heeft eerder geschreven over de aangekondigde sluiting van de genderkliniek[](#_ftn2).[^2] De rapportage is wel summier te noemen; slechts enkele alinea’s wordt er besteed aan deze grote verandering in beleid in Engeland. Het gaat namelijk niet om zomaar “een kliniek” maar om de centrale zorginstelling waar genderideologen al jaren de sceptor zwaaien en beleid hebben bepaald voor alle kinderen met “genderdysforie”[](#_ftn3).\[ ^3]
+Enkel het NRC heeft eerder geschreven over de aangekondigde sluiting van de genderkliniek.[^2] De rapportage is wel summier te noemen; slechts enkele alinea’s wordt er besteed aan deze grote verandering in beleid in Engeland. Het gaat namelijk niet om zomaar “een kliniek” maar om de centrale zorginstelling waar genderideologen al jaren de sceptor zwaaien en beleid hebben bepaald voor alle kinderen met “genderdysforie”.[^3]
 
 Deze taken gaan nu weer terug naar de eerste lijn, een gecentraliseerde aanpak, met meerdere lagen van controle. Dat dit hard nodig is, is wel duidelijk geworden nu de waarheid langzaam naar buiten komt.
 
- 
 
-## [](<>)Wat is er gebeurd?
+### Wat is er gebeurd?
 
 Advocaten verwachten dus dat ongeveer 1.000 gezinnen zich zullen aansluiten bij de rechtszaak wegens medische nalatigheid, waarin wordt beweerd dat kwetsbare kinderen een verkeerde diagnose hebben gekregen en op een schadelijk medisch traject zijn terecht gekomen.
 
-Ze beschuldigen de dienst “gender identity development service” (GIDS) bij het Tavistock instituut en Portman NHS Trust van meerdere tekortkomingen in zijn zorgplicht.
+Ze beschuldigen de dienst *“gender identity development service”* (GIDS) bij het Tavistock instituut en Portman NHS Trust van meerdere tekortkomingen in zijn zorgplicht.
 
 Er zouden roekeloos puberteitsblokkers met schadelijke bijwerkingen zijn voorgeschreven en een "onvoorwaardelijke, bevestigende benadering" aangenomen voor kinderen die zich als transgender identificeren.
 
 Vorige maand kondigde NHS England aan dat het de Tavistock-kliniek zou sluiten vanwege veiligheidsproblemen na een vernietigende externe beoordeling. De zorg wordt overgedragen aan regionale kinderziekenhuizen na verwijzing van een huisarts.
 
  
-
-### [](<>)Gretigheid om over transgenderisme te schrijven in Nederlandse media gaat maar één kant op
+### Gretigheid om over transgenderisme te schrijven in Nederlandse media gaat maar één kant op
 
 Ik lees al jaren nauwelijks nog Nederlandse kranten. Het deplorabele niveau is te tenenkrommend om me ertoe te kunnen zetten. Toen ik onlangs met een journalist sprak over de sluiting van de genderkliniek in het VK stuitte ik op verbazing en verontwaardiging. Verbazing over de redenen en verontwaardiging over het feit dat de journalist hier niks over gelezen had in “zijn” krant. Zolang de Nederlandse media vooral één kant van het verhaal laten zien zijn ze wat mij betreft in gebreke. Het leven van vele kinderen kan hierdoor ernstig beschadigd worden. Wat is de functie van de journalist in dit soort zaken?
 
@@ -38,10 +36,7 @@ Daarom is het zeer goed nieuws dat de gang naar de rechter nu steeds vaker plaat
 
 
 
-[^1]: A critique of “Tavistock, Social Engineering the Masses” https://www.youtube.com/watch?v=_fG8YM7ssJw 
-
-[^2]: 'kwaliteitskranten’ Trouw en de VK laten geen resultaten zien in hun archieven
-
-[^3]: As Dr Cass wrote: “The support of wider services is vital.” Ideologues and fox-murderers can block out those they disagree with, but for healthcare services, that time is up. Bron:  https://unherd.com/2022/08/why-the-tavistock-wont-talk-to-me/
-
+[^1]: Timbah.On.Toast, *[A critique of “Tavistock, Social Engineering the Masses”](https://www.youtube.com/watch?v=_fG8YM7ssJw)*.
+[^2]: 'kwaliteitskranten’ Trouw en de VK laten geen resultaten zien in hun archieven.
+[^3]: As Dr Cass wrote: “The support of wider services is vital.” Ideologues and fox-murderers can block out those they disagree with, but for healthcare services, that time is up. *[Bron](https://unherd.com/2022/08/why-the-tavistock-wont-talk-to-me/)*.
 [^4]: Motivatie van NBWH leest u [hier](https://segm.org/segm-summary-sweden-prioritizes-therapy-curbs-hormones-for-gender-dysphoric-youth).
