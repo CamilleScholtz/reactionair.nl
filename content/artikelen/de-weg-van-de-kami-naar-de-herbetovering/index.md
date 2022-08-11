@@ -50,13 +50,13 @@ Het cartesiaanse schisma tussen het geestelijke en het lichamelijke is zover doo
 
 In een onttoverd wereldbeeld is ons bestaan louter willekeurig, er is geen teleologisch component in onze kosmologie. We weten door wetenschappelijk inzicht dat het universum bestaat uit inerte materie, welke aan wetmatige natuurkrachten onderhevig is. Ons wereldbeeld reduceert de menselijke ervaring tot een samenspel van hormonen, stofjes en elektrische impulsen in ons brein.
 
-De sterren die ‘s nachts vanuit het firmament op ons neerkijken – en waar wij in betoverde tijden hele mythologieën op projecteerden – blijken louter nucleaire explosies op onmenselijke afstanden van ons vandaan. De vormen die wij erin ontwaren enkel een samenspel van de menselijke mogelijkheid tot patroonherkenning, en hoe de sterren vanuit ons standpunt gezien aan de hemel staan. Als wij ver voorbij onze menselijke ervaring kijken (we leven immers gemiddeld maar 70-80 jaar), blijken zelfs de vormen van de sterrenbeelden niet stabiel maar verschuiven sterren afzonderlijk van elkaar door de hemel waardoor we nu niet kijken naar dezelfde hemel als degenen die er in eerste instantie hun beelden op projecteerden.
+De sterren die ‘s nachts vanuit het firmament op ons neerkijken – en waar wij in betoverde tijden hele mythologieën op projecteerden – blijken louter nucleaire explosies op onmenselijke afstanden van ons vandaan. De vormen die wij erin ontwaren enkel een samenspel van de menselijke mogelijkheid tot patroonherkenning en hoe de sterren vanuit ons standpunt gezien aan de hemel staan. Als wij ver voorbij onze menselijke ervaring kijken (we leven immers gemiddeld maar 70-80 jaar), blijken zelfs de vormen van de sterrenbeelden niet stabiel maar verschuiven sterren afzonderlijk van elkaar door de hemel waardoor we nu niet kijken naar dezelfde hemel als degenen die er in eerste instantie hun beelden op projecteerden.
 
 Er lijkt geen plaats te zijn voor de mens in een universum van dode materie, voorspelbare natuurwetten en miljarden jaren van ontwikkelingen zonder doel.
 
 Het probleem is dat niets wat hierboven beschreven is, op zichzelf onjuist is. Dus waar past de mens en zijn ervaring nog in dit wereldbeeld?
 
-Hoe de onttovering onze relatie met de wereld afsnijdt
+### Hoe de onttovering onze relatie met de wereld afsnijdt
 
 De vervreemding van onze omgeving heeft ertoe geleidt dat het Westers mensbeeld in zichzelf is gekeerd. Wie zich niet langer met de wereld kan relateren, zal zich eruit terugtrekken. De onttovering leidt ertoe dat we een kosmologisch model van stellingen dienen aan te nemen die meetbaar niet meer te weerleggen zijn, maar die we vanuit onze ervaring niet per se als waar kunnen ervaren.
 
