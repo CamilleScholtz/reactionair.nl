@@ -23,13 +23,16 @@ Ook voormalig milieuactivist Paul Kingsnorth duidt mijns inziens het proble
 
 De onttovering van de wereld leidt tot een spirituele leegte. 
 
-“Tegenwoordig weet men van alles de prijs, maar van niets de waarde.” – Oscar Wilde
+### De inherente betovering van de menselijke ervaring
 
-De inherente betovering van de menselijke ervaring
+{{< quote
+	text="Tegenwoordig weet men van alles de prijs, maar van niets de waarde."
+	author="Oscar Wilde"
+>}}
 
 De onttovering van de wereld leidt tot een existentiële vervreemding van onze eigen ervaring. De menselijke ervaring is inherent betoverd.
 
-Wij ervaren ons Zijn, door de Tijd. We dichten betekenis en zingeving toe aan gebeurtenissen die in een onttoverd wereldbeeld ontdaan zijn van alle betekenis en zin. Dit proces valt niet te overstijgen, want dit is in het diepste verankerd in onze ervaring van de Zelf en de wereld om ons heen. Je hebt een ervaring van een Zelf omdat je via zingeving en betekenis een voormalige vorm van je Zelf via een zelf-narratief koppelt aan je huidige Zelf. Je ontwikkelt jezelf, omdat je in staat bent een toekomstige Zelf te bedenken, en een plan kunt uitstippelen hoe je deze toekomstige Zelf kunt manifesteren.
+Wij ervaren ons Zijn, door de Tijd. We dichten betekenis en zingeving toe aan gebeurtenissen die in een onttoverd wereldbeeld ontdaan zijn van alle betekenis en zin. Dit proces valt niet te overstijgen, want dit is in het diepste verankerd in onze ervaring van het Zelf en de wereld om ons heen. Je hebt een ervaring van een Zelf omdat je via zingeving en betekenis een voormalige vorm van je Zelf via een zelf-narratief koppelt aan je huidige Zelf. Je ontwikkelt jezelf, omdat je in staat bent een toekomstige Zelf te bedenken, en een plan kunt uitstippelen hoe je deze toekomstige Zelf kunt manifesteren.
 
 De mens is een autopoëtisch systeem: het vormt uit zichzelf. Het Griekse ποίησις (poiesis) wijst in de filosofie naar de activiteit waarmee een mens iets voortbrengt dat voorheen niet bestond. Wij zijn in staat onze Zelf voort te brengen.
 
