@@ -32,9 +32,9 @@ Ik lees al jaren nauwelijks nog Nederlandse kranten. Het deplorabele niveau is t
 
 Ik snap de motivatie wel hoor, voor de afwezigheid van kritische journalisten in het genderdebat. Ik schrijf dit niet voor niets onder een pseudoniem. Het is makkelijker je koest te houden. De gevolgen van kritiek op de heilige LHBTI-kaste zijn niet mals.
 
-Daarom is het zeer goed nieuws dat de gang naar de rechter nu steeds vaker plaatsvindt. Iets dat medische professionals overigens al jaren geleden voorspelden. De absolute gekte in dit veld van onderzoek was evident voor iedereen die niet bevangen was met de gendermanie. In Zweden zijn ze vorig jaar al afgestapt van “het Nederlandse protocol”.[^4] Het is tijd dat ook in Nederland de gendermanie tot bedaren komt en we het kind vooropstellen. En dat ideologen niet meer zonder consequenties hun schadelijke zin door kunnen drijven.
+Daarom is het zeer goed nieuws dat de gang naar de rechter nu steeds vaker plaatsvindt. Iets dat medische professionals overigens al jaren geleden voorspelden. De absolute gekte in dit veld van onderzoek was evident voor iedereen die niet bevangen was door de gendermanie. In Zweden zijn ze vorig jaar al afgestapt van “het Nederlandse protocol”.[^4] Het is tijd dat ook in Nederland de gendermanie tot bedaren komt en we het kind vooropstellen. En dat ideologen niet meer zonder consequenties hun schadelijke zin door kunnen drijven.
 
 [^1]: Timbah.On.Toast, *[A critique of “Tavistock, Social Engineering the Masses”](https://www.youtube.com/watch?v=_fG8YM7ssJw)*.
-[^2]: 'kwaliteitskranten’ Trouw en de VK laten geen resultaten zien in hun archieven.
-[^3]: As Dr Cass wrote: “The support of wider services is vital.” Ideologues and fox-murderers can block out those they disagree with, but for healthcare services, that time is up. *[Bron](https://unherd.com/2022/08/why-the-tavistock-wont-talk-to-me/)*.
+[^2]: 'Kwaliteitskranten’ Trouw en de Volkskrant laten geen resultaten zien in hun archieven.
+[^3]: As Dr. Cass wrote: “The support of wider services is vital.” Ideologues and fox-murderers can block out those they disagree with, but for healthcare services, that time is up." *[Bron](https://unherd.com/2022/08/why-the-tavistock-wont-talk-to-me/)*.
 [^4]: Motivatie van NBWH leest u [hier](https://segm.org/segm-summary-sweden-prioritizes-therapy-curbs-hormones-for-gender-dysphoric-youth).
