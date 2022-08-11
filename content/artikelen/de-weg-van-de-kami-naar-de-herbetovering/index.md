@@ -46,7 +46,7 @@ Alle patroonherkenning en zelf-verhalende eigenschappen van de mens zijn introsp
 
 We zien de wereld buiten onszelf minder en minder, omdat we niet langer onszelf herkennen in de kosmologie die we door de onttovering hebben opgebouwd.
 
-De Cartesiaanse schisma tussen het geestelijke en het lichamelijke is zover doorgedrongen dat we het materiële niet langer herkennen als onderdeel van onszelf.  In deze introspectieve reis zoekt een deel van de mensen haar heil in het ontwaren van de Authentieke Zelf – de seculiere ziel – die diep in die Cartesiaanse klei verstopt zit en waar we onze ervaring van Zijn op kunnen funderen.
+Het cartesiaanse schisma tussen het geestelijke en het lichamelijke is zover doorgedrongen dat we het materiële niet langer herkennen als onderdeel van onszelf.  In deze introspectieve reis zoekt een deel van de mensen haar heil in het ontwaren van de Authentieke Zelf – de seculiere ziel – die diep in die cartesiaanse klei verstopt zit en waar we onze ervaring van Zijn op kunnen funderen.
 
 In een onttoverd wereldbeeld is ons bestaan louter willekeurig, er is geen teleologisch component in onzekosmologie. We weten door wetenschappelijk inzicht dat het universum bestaat uit inerte materie, welke aan wetmatige natuurkrachten onderhevig is. Ons wereldbeeld reduceert demenselijke ervaring tot een samenspel van hormonen, stofjes en elektrische impulsen in ons brein.
 
