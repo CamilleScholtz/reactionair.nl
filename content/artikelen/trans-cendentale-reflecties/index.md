@@ -1,5 +1,5 @@
 +++
-title = "Trans*cendentale reflecties [nagekeken, naar auteur voor goedkeuring/AP]"
+title = "Trans*cendentale reflecties"
 subtitle = "Waarom gender en sekse niet inwisselbaar zijn"
 auteurs = ["Rainer Wüssle"]
 date = "2022-08-07"
