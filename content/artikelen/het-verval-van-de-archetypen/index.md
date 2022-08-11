@@ -138,6 +138,6 @@ Je lichaam bestaat niet louter uit atomen. Je lichaam is geen verzameling delen.
 
 Dit is geen reis om te missen.
 
-[^1]: In Engeland had men in de 18e eeuw veel *open fields* en *common fields;* grasvelden die tot dan in ieder geval een deel van het jaar gemeenschappelijk gebruikt werden, laten omheinen opdat zij in het bezit van grondbezitters zouden geraken. Het doel was om de winst van het land te optimaliseren, door de weiden specifiek voor het houden van schapen benutten en met de verkoop van wol winst te maken. Deze ontwikkeling, wettelijk beschermd door de *[Enclosure act](https://www.legislation.gov.uk/apgb/Geo3/13/81/contents)*, stortte een groot deel van de plattelanders in armoede en wordt als voorbode gezien van de industriële revolutie.
+[^1]: In Engeland had men in de 18e eeuw veel *open fields* en *common fields;* grasvelden die tot dan in ieder geval een deel van het jaar gemeenschappelijk gebruikt werden, laten omheinen opdat zij in het bezit van grondbezitters zouden geraken. Het doel was om de winst van het land te optimaliseren, door de weiden specifiek voor het houden van schapen benutten en met de verkoop van wol winst te maken. Deze ontwikkeling, wettelijk beschermd door de *[Enclosure act](https://www.legislation.gov.uk/apgb/Geo3/13/81/contents)*, stortte een groot deel van de plattelanders in armoede en wordt als voorspel gezien van de industriële revolutie.
 
 [^2]: I Korintiërs 13:12 (NBV).
