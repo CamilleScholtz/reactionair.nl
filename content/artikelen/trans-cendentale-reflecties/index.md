@@ -4,6 +4,7 @@ subtitle = "Waarom gender en sekse niet inwisselbaar zijn"
 auteurs = ["Rainer Wüssle"]
 date = "2022-08-11"
 themas = "Religie & Metafysica"
+aangehaald = ["Jacques Derrida"]
 image = "067c9b1a-3930-4086-9afa-541b35f8ff33.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
