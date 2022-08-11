@@ -4,19 +4,18 @@ subtitle = "Over het neergaande pad der onttovering"
 auteurs = ["Redactie"]
 date = "2022-08-10"
 themas = "Religie & Metafysica"
-aangehaald = ["Max Weber"]
+aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke"]
 image = "72e2392b-0210-404d-b832-ce8525d3017d.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
 Met de onttovering van de wereld wees socioloog Max Weber in zijn werk ‘Wissenschaft als Beruf’ op de culturele rationalisering en devaluatie van religie die ontstond in het moderniserende, geseculariseerde westen. 
 
-Weber zag door de onttovering een wereldbeeld ontstaan waarin een wetenschappelijk begrip van de wereld dominant werd, en de wereld begrepen werd als een verzameling processen gericht op rationele doelen. Daar tegenover zou de wereld in een ‘betoverde’ samenleving gezien worden als een grote, betoverde tuin. De onttoverde wereld waardeert de wetenschappelijke proposities boven de eigen ervaring en ideeënwereld.
+Weber zag door de onttovering een wereldbeeld ontstaan waarin een wetenschappelijk begrip van de wereld dominant werd en de wereld begrepen werd als een verzameling processen gericht op rationele doelen. Daar tegenover zou de wereld in een ‘betoverde’ samenleving gezien worden als een grote, betoverde tuin. De onttoverde wereld waardeert de wetenschappelijke proposities boven de eigen ervaring en ideeënwereld.
 
 Over de onttovering is al veel geschreven, ook voordat Weber, die de term op zijn beurt leende van Friedrich Schiller, het duidde in zijn werk. Zo schreef Burke al in zijn Reflections on the Revolution in France:
 
-\
-“Het tijd van ridderlijkheid is voorbij. Die van woordverdraaiers, economen en rekenaars heeft hem opgevolgd en de glorie van Europa is voor eeuwig uitgedoofd.”
+> “Het tijd van ridderlijkheid is voorbij. Die van woordverdraaiers, economen en rekenaars heeft hem opgevolgd en de glorie van Europa is voor eeuwig uitgedoofd.”
 
 Ook voormalig milieuactivist Paul Kingsnorth duidt mijns inziens het probleem goed, als hem door Nederlands eigen Tegenlicht gevraagd wordt wat hij ziet als het probleem in onze samenleving waardoor we op dit punt zijn terecht gekomen:
 
