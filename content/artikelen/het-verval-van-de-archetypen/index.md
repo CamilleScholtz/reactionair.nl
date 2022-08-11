@@ -1,6 +1,6 @@
 +++
 title = "Het verval van de archetypen"
-subtitle = "Het herstellen van mannelijkheid en vrouwelijkheid in het tijdperk van de machine."
+subtitle = "Het herstellen van mannelijkheid en vrouwelijkheid in het tijdperk van de machine"
 auteurs = ["Tara Ann Thieke"]
 date = "2022-08-06"
 themas = "Cultuur & Maatschappij"
@@ -14,15 +14,15 @@ Dit artikel is een vertaling van *The Collapse of the Archetypes*, oorspronkelij
 
 Het Victoriaanse tijdperk roept direct beelden op van gesmoorde vrouwelijkheid en beteugelde mannen. In een wereld van snelle verandering grepen mannen en vrouwen bepaalde kenmerken stevig vast om de veranderingen op het mentale en fysieke terrein te navigeren.
 
-Gedurende het Victoriaanse tijdperk implementeerden de leidende vormgevers van het metafysische denken een wetenschappelijk reductionisme, dat zich concentreerde rondom de verhalen van Darwinisme, elektro-magnetisme en atomisme.
+Gedurende het Victoriaanse tijdperk implementeerden de leidende vormgevers van het metafysische denken een wetenschappelijk reductionisme, dat zich concentreerde rondom de verhalen van darwinisme, elektro-magnetisme en atomisme.
 
-In het tijdperk van de Wereldoorlogen werd dit denken diep in onze culturele psyche verankerd. Ondanks een kort moment in de jaren ‘50, waarin de Victoriaanse archetypen van geslacht zichzelf onveranderlijk dreigden te maken, zette de ontbinding voort. Een baby boomer schreef ooit dat als moeders hun kinderen afzetten op school in 1968, zij allemaal handschoenen droegen. In 1972 waren deze volledig verdwenen.
+In het tijdperk van de wereldoorlogen werd dit denken diep in onze culturele psyche verankerd. Ondanks een kort moment in de jaren ‘50, waarin de Victoriaanse archetypen van geslacht zichzelf onveranderlijk dreigden te maken, zette de ontbinding voort. Een babyboomer schreef ooit dat als moeders hun kinderen afzetten op school in 1968, zij allemaal handschoenen droegen. In 1972 waren deze volledig verdwenen.
 
 Wat maakt een handschoen intrinsiek vrouwelijk? Waarom jezelf bekommeren met arbitraire totems die elders betekenisloos zijn? Vijftig jaar lang “wat maakt het uit?” zou hierop volgen. Waarom zou een vrouw zwanger moeten zijn? Waarom zou zij haar kind thuis ter wereld brengen? Waarom zou iemand borstvoeding geven? Waarom zouden de huishoudelijke taken niet 50/50 verdeeld worden? Waarom zou de seksuele markt niet ‘gelijk’ zijn? Waarom zouden mannen hun seksuele lusten moeten beteugelen? Waarom zouden vrouwen geen dromen hebben, perziken eten wanneer zij daar zin in hebben en ‘grootsheid’ bereiken?
 
 Er waren, zo leek het, geen goede antwoorden op deze vragen in een cultuur waar seculiere reclamebeelden de transcendente archetypes hadden vervangen.
 
-De kritieken van de meeste traditionalisten werd genegeerd: de wereld was duidelijk veranderd. Vrouwen gingen naar het kantoor. Elektriciteit was in het huishouden gekomen. Vruchtbaarheid kon beheerd worden. Kinderen konden naar de opvang. 
+De kritieken van de meeste traditionalisten werden genegeerd: de wereld was duidelijk veranderd. Vrouwen gingen naar kantoor. Elektriciteit was in het huishouden gekomen. Vruchtbaarheid kon beheerd worden. Kinderen konden naar de opvang. 
 
 Voor een korte tijd probeerden mensen het beste van beide werelden te hebben, terwijl ze de de teelaarde onder hun voeten verbruikte. Ons besef van de implicaties van de revolutie van ‘maar wat maakt het uit?’ kwam maar traag. 
 
@@ -137,8 +137,6 @@ We betreden een tijdperk waarin we in toenemende mate moeten kiezen tussen het z
 Je lichaam bestaat niet louter uit atomen. Je lichaam is geen verzameling delen. Je bent niet het monster van Frankenstein. Je bent eeuwen geleden gemaakt door de Allerhoogste, Heilige Drie-Eenheid en je hebt het geschenk gekregen om je lichaam te herontdekken en deze stof te transformeren in een weerspiegeling van de heilige archetypen en het met liefde door te geven.
 
 Dit is geen reis om te missen.
-
-
 
 [^1]: In Engeland heeft men in de 18e eeuw veel *open fields* en *common fields;* grasvelden die tot dan in ieder geval een deel van het jaar gemeenschappelijk gebruikt werden, laten omheinen opdat zij in het bezit van grondbezitters zouden geraken. Het doel was om de winst van het land te optimaliseren, door de weiden specifiek voor het houden van schapen benutten en met de verkoop van wol winst te maken. Deze ontwikkeling, wettelijk beschermd door de *[Inclosure act](https://www.legislation.gov.uk/apgb/Geo3/13/81/contents)*, stortte een groot deel van de plattelanders in armoede en wordt als voorbode gezien van de industriële revolutie.
 
