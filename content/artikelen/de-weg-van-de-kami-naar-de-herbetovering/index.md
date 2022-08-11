@@ -36,16 +36,15 @@ Wij ervaren ons Zijn, door de Tijd. We dichten betekenis en zingeving toe aan ge
 
 De mens is een autopoëtisch systeem: het vormt uit zichzelf. Het Griekse ποίησις (poiesis) wijst in de filosofie naar de activiteit waarmee een mens iets voortbrengt dat voorheen niet bestond. Wij zijn in staat onze Zelf voort te brengen.
 
-Zonder deze mogelijkheden zou je jezelf ervaren als een willekeurige vorm. Toch is juist deze willekeur het zelfbeeld dat gecultiveerd wordt door de onttovering. Roger Scruton zeiin een interview (wederom van een NPO-programma – jaja,het kan wel!): 
+Zonder deze mogelijkheden zou je jezelf ervaren als een willekeurige vorm. Toch is juist deze willekeur het zelfbeeld dat gecultiveerd wordt door de onttovering. Roger Scruton zei in een interview (wederom van een NPO-programma – jaja, het kan wel!): 
 
-“Het droevige van de wereld van nu (…) is dat mensen in een heel klein schijfje van de tijd leven. Het huidige moment. Dat nemen ze met zich mee, maar niets van waarde beklijft. De weerklank van eeuwen is hun vreemd. Die eeuwen zijn volledig duister voor ze. Onverlichte gangen van waaruit ze dat ene straaltje licht binnen struikelen.” \
-Bron: <https://www.youtube.com/watch?v=UVd_kqKWpVk>
+> Het droevige van de wereld van nu (…) is dat mensen in een heel klein schijfje van de tijd leven. Het huidige moment. Dat nemen ze met zich mee, maar niets van waarde beklijft. De weerklank van eeuwen is hun vreemd. Die eeuwen zijn volledig duister voor ze. Onverlichte gangen van waaruit ze dat ene straaltje licht binnen struikelen.[^4]
 
-Dit tekent ons onttoverde zelfbeeld. We ontwaren niet langer de grote en kleine patronen in de wereld, maar zien enkel onze geatomiseerde Zelf, ontkoppeld van zijn omgeving (zowel in ruimte, als in tijd).
+Dit tekent ons onttoverde zelfbeeld. We ontwaren niet langer de grote en kleine patronen in de wereld, maar zien enkel ons geatomiseerde Zelf, ontkoppeld van zijn omgeving (zowel in ruimte, als in tijd).
 
 Alle patroonherkenning en zelf-verhalende eigenschappen van de mens zijn introspectief geworden. We weten hem nergens anders meer op te funderen.
 
-We zien de wereld buiten onszelf minder en minder, omdat we niet langer onszelf herkennen in de kosmologie1 die we door de onttovering hebben opgebouwd.
+We zien de wereld buiten onszelf minder en minder, omdat we niet langer onszelf herkennen in de kosmologie die we door de onttovering hebben opgebouwd.
 
 De Cartesiaanse schisma tussen het geestelijke en het lichamelijke is zover doorgedrongen dat we het materiële niet langer herkennen als onderdeel van onszelf.  In deze introspectieve reis zoekt een deel van de mensen haar heil in het ontwaren van de Authentieke Zelf – de seculiere ziel – die diep in die Cartesiaanse klei verstopt zit en waar we onze ervaring van Zijn op kunnen funderen.
 
