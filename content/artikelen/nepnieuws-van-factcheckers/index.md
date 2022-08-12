@@ -1,7 +1,7 @@
 +++
 title = "Nepnieuws van factcheckers"
 subtitle = "Hoe FVD-watchers langzaam in hun eigen complottheorie zijn gaan geloven"
-auteurs = ["Redactie"]
+auteurs = ["Dennis"]
 date = "2022-08-12"
 themas = "Politiek & Actualiteit"
 aangehaald = ["Thierry Baudet"]
