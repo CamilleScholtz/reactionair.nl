@@ -9,7 +9,7 @@ image = "fzyt-phwyaezntn.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
-Sommige mensen hebben op twitter teveel vrije tijd. Een aantal lui hebben het namelijk hun levenswerk gemaakt om Forum voor Democratie (FVD) constant in de gaten te houden. Iedereen die ook maar spreekt met iemand van FVD zit in een groot complot en moet *exposed* worden. Deze *‘FVD-watchers’* zoals zij zichzelf soms noemen hebben echter niet door dat zij – bewust of onbewust – verstrikt zijn geraakt in hun eigen complottheorie en de hele dag door broodkruimels zoeken om hun eigen waanbeeld te bevestigen. Dit werd bevestigd toen er een artikel in De Groene Amsterdammer verscheen genaamd *‘influencers van Wodan’* met een passage over de duistere Minecraft-geschiedenis van FVD-Kamerlid Freek Jansen.[^1]
+Sommige mensen op twitter hebben te veel vrije tijd. Een aantal lui hebben het namelijk hun levenswerk gemaakt om Forum voor Democratie (FVD) constant in de gaten te houden. Iedereen die ook maar spreekt met iemand van FVD zit in een groot complot en moet *exposed* worden. Deze *‘FVD-watchers’* zoals zij zichzelf soms noemen hebben echter niet door dat zij – bewust of onbewust – verstrikt zijn geraakt in hun eigen complottheorie en de hele dag door broodkruimels zoeken om hun eigen waanbeeld te bevestigen. Dit werd bevestigd toen er een artikel in De Groene Amsterdammer verscheen genaamd *‘influencers van Wodan’* met een passage over de duistere Minecraft-geschiedenis van FVD-Kamerlid Freek Jansen.[^1]
 
 {{< image caption="Chrishnarupa, een iconografische vorm van de ultieme manifestatie van de Hindoe-godheid Chrishna." >}}
 
