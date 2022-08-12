@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Nepnieuws van factcheckers"
 subtitle = "Hoe FVD-watchers langzaam in hun eigen complottheorie zijn gaan geloven"
 auteurs = ["Dennis"]
@@ -19,7 +20,7 @@ Meeuwisse is echter niet alleen. Haar twitter-vrienden en volgers helpen haar co
 
 {{< tweet ChrisAalberts 1557703546426073090 >}}
 
-Dit alles bevestigt hun eigen vermoedens, hun eigen complot. Echter, niks van dit alles is waar. Sterker nog; Baudet had niet eens spreekrechten in de Twitter-space en was slechts voor enkele minuten als luisteraar aanwezig; er was geen discussie over Hitler, maar onze gedachten over het artikel van De Groene Amsterdammer en de *“The Hunger Games”* Minecraft creaties die Freek Jansen 10 jaar geleden maakte, toen hij een tiener was, en die op een of andere manier eigenlijk een goed doordacht hondenfluitje naar neo-nazisme moeten voorstellen.
+Dit alles bevestigt hun eigen vermoedens, hun eigen complot. Echter, niks van dit alles is waar. Sterker nog; Baudet had niet eens spreekrechten in de Twitter-space en was slechts voor enkele minuten als luisteraar aanwezig; er was geen discussie over Hitler, maar er werd gesproken over het artikel van De Groene Amsterdammer en de *“The Hunger Games”* Minecraft creaties die Freek Jansen 10 jaar geleden maakte, toen hij een tiener was, en die op een of andere manier eigenlijk een goed doordacht hondenfluitje naar neo-nazisme moeten voorstellen.
 
 Alleen door deze complot-tweets van Meeuwisse en Aalberts – die direct meeging in deze theorie – krijgt het Openbaar Ministerie nu wel tweets van anonieme twitteraars dat ze een onderzoek in moeten stellen naar Baudet en FVD. Langzaam zijn de *FVD-watchers* gaan doen waar ze juist FVD van beschuldigen; nepnieuws verspreiden, suggestief knipwerk en mensen ophitsen.
 
@@ -27,6 +28,6 @@ Alleen door deze complot-tweets van Meeuwisse en Aalberts – die direct meeging
 
 Langzaam zijn de *FVD-watchers* in hun eigen complottheorieën gaan geloven en zijn ze dagelijks obsessief bezig met het zoeken naar verbanden die niet bestaan. Ze zijn spoken gaan zien. Humor bestaat niet meer en overal moet wel een duistere agenda achter zitten. Het is voor hun niet meer mogelijk voor te stellen dat met opmerkingen zoals “Fascisten voor Democratie” geen daadwerkelijk plan in werking wordt gezet om de naam aan te passen, maar er slechts de spot wordt gedreven met hun eigen obsessieve gedrag. Het zou voor deze mensen zelf beter zijn om hun Twitter te verwijderen, aan hun eigen bloeddruk te denken en lekker van hun pensioen te gaan genieten.
 
-[^1]: Sal Hagen, Jaap Tielbeke en Coen van de Ven, *[Influencers van Wodan.
+[^1]: Sal Hagen, Jaap Tielbeke en Coen van de Ven, *[Influencers van Wodan
 ](https://www.groene.nl/artikel/influencers-van-wodan)*.
 [^2]: Planet Minecraft, *[The Hunger Games Minecraft Server](https://www.planetminecraft.com/server/lantea-pvp---factions-/)*.
