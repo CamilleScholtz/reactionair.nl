@@ -12,7 +12,7 @@ Dit artikel is een vertaling van *The Collapse of the Archetypes*, oorspronkelij
 
 - - -
 
-Het Victoriaanse tijdperk roept direct beelden op van gesmoorde vrouwelijkheid en beteugelde mannen. In een wereld van snelle verandering grepen mannen en vrouwen bepaalde kenmerken stevig vast om de veranderingen op het mentale en fysieke terrein te navigeren.
+Het Victoriaanse tijdperk roept direct beelden op van gesmoorde vrouwelijkheid en bovenmatig gereserveerde mannen. In een wereld van snelle verandering grepen mannen en vrouwen bepaalde kenmerken stevig vast om de veranderingen op het mentale en fysieke terrein te navigeren.
 
 Gedurende het Victoriaanse tijdperk implementeerden de leidende vormgevers van het metafysische denken een wetenschappelijk reductionisme, dat zich concentreerde rondom de verhalen van darwinisme, elektro-magnetisme en atomisme.
 
