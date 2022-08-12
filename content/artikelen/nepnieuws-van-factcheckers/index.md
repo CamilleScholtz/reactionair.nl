@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Nepnieuws van factcheckers"
 subtitle = "Hoe FVD-watchers langzaam in hun eigen complottheorie zijn gaan geloven"
 auteurs = ["Dennis"]
