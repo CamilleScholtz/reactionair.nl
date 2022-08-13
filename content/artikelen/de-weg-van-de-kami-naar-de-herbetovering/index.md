@@ -128,7 +128,7 @@ De relatie tussen de verschillende P’s werkt in beide richtingen. Om tot een 
 
 ### Het probleem van de waardering van stellingen en orthodoxie
 
-Het westen is gevormd door eeuwen van een monistische kosmologie: er is één waarheid. Het westers denken kan niet goed overweg met een pluriformiteit van waarheden. Zelfs de verwerping van God leidt in het Westen uiteindelijk tot een mono-atheïsme; het vervangt de éne waarheid met één andere, zoals de rigide argumenten van de New Atheists meermaals etaleren.
+Het westen is gevormd door eeuwen van een monistische kosmologie: er is één waarheid. Het westers denken kan niet goed overweg met een pluriformiteit van waarheden. Zelfs de verwerping van God leidt in het Westen uiteindelijk tot een mono-atheïsme; het vervangt de éne waarheid met één andere, zoals de rigide argumenten van de New Atheists herhaaldelijk etaleren.
 
 Dit wereldbeeld van een enkele waarheid leidt tot een grote waardering voor orthodoxie. Orthodoxie komt van het Griekse ὀρθοδοξία (orthodoxía) dat ruwweg vertaald kan worden als: ‘het juiste geloof’ of ‘de juiste mening’. Orthodoxie wijst op het voor waar aannemen van bepaalde (geloofs)stellingen. Orthodoxie is een vorm van propositionele kennis.
 
