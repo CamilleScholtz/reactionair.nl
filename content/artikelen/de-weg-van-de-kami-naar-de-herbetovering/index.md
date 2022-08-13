@@ -60,7 +60,7 @@ Het probleem is dat niets wat hierboven beschreven is, op zichzelf onjuist is.
 
 De vervreemding van onze omgeving heeft ertoe geleid dat het westers mensbeeld in zichzelf is gekeerd. Wie zich niet langer met de wereld kan relateren, zal zich eruit terugtrekken. De onttovering leidt ertoe dat we een kosmologisch model van stellingen dienen aan te nemen die meetbaar niet meer te weerleggen zijn, maar die we vanuit onze ervaring niet per se als waar kunnen ervaren.
 
-De liefde voor je partner of kind is niet te kaderen als een ‘evolutionair voordeel voor het voortbestaan van de soort’ dat ontsloten wordt door een samenspel van stofjes in je lichaam, en wie dat beeld omarmt als de enige waarheid en zijn innerlijke ervaring daarover afwijst als illusionair zal weinig succes hebben in de liefde.
+De liefde voor je partner of kind is niet te kaderen als een ‘evolutionair voordeel voor het voortbestaan van de soort’ dat ontsloten wordt door een samenspel van stofjes in je lichaam, en wie dat beeld omarmt als de enige waarheid en zijn innerlijke ervaring daaromtrent afwijst als illusionair zal weinig succes hebben in de liefde.
 
 De moderne mens zoekt continu naar een compromis tussen zijn innerlijke ervaring en de stellingen waarvan hij weet dat ze (nog niet) weerlegt zijn door de voortschrijdende wetenschap. Waar deze compromis niet haalbaar is, ondermijnt de propositionele kennis van de wetenschappelijke kosmologie ons Zijn. De realisatie dat hetgeen men innerlijk ervaart dusdanig niet in relatie staat tot het wetenschappelijke wereldbeeld, dat ze als onwaar en illusionair ervaren worden leidt tot een diep nihilisme; een kosmologie waarin de menselijke ervaringen geen waarden meer hebben, omdat zij deze waarden niet weten te funderen in de kosmos.
 
