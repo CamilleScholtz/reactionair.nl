@@ -184,9 +184,9 @@ Huishoudens hebben ook een eigen kami, en voor de kami kun je in veel huishoud
 
 Het lijkt hierin sterk op de oude volkse gebruiken die aanwezig waren in Europa en hun wortels hadden in de oude voorchristelijke polytheïstische kosmologie. Kami’s zijn vergelijkbaar met nimfen, dryaden en nereïden uit het oude Griekenland en deze Grieken personificeerden ook fenomenen als de noorderwind en de boodschapper van de winter (Boreas) en de westenwind en boodschapper van de lente (Zephyros). Ook hadden ze goden voor begrenzingen (Terminus) en goden die grenzen doorbraken (Hermes). Ook kenden Europese tradities haardgoden (zoals Hestia) en huisgeesten waar onze eigen kabouter een voorbeeld van is.
 
-De relatie tussen mens en kami is er een van wederzijdse transactie. Men vraagt de kami om gunsten en zegeningen door middel van kleine offers (kleingeld, of wierook branden), en het onderhouden van de woonplaats van de kami.
+De relatie tussen mens en kami is er een van wederzijdse transactie. Men vraagt de kami om gunsten en zegeningen door middel van kleine offers (kleingeld of wierook branden) en het onderhouden van de woonplaats van de kami.
 
-Voor diegene die zeggen: “Maar Elvengast, waarom kijk je ver over de grenzen naar het Oosten? Europa heeft genoeg van zichzelf!” zeg ik: “Bijna. Europa had veel van zichzelf.We hoeven Shinto niet te importeren. We moeten onszelf laten inspireren door een nog steeds levende vorm van een oeroude kosmologie dat ook ooit hier levendig was, en in onze eigen wortels dit kosmologisch model nieuw leven inblazen!”.
+Voor diegenen die zeggen: “Maar Elvengast, waarom kijk je ver over de grenzen naar het Oosten? Europa heeft genoeg van zichzelf!” zeg ik: “Bijna. Europa had veel van zichzelf. We hoeven Shinto niet te importeren. We moeten onszelf laten inspireren door een nog steeds levende vorm van een oeroude kosmologie die ook ooit hier levendig was en in onze eigen wortels dit kosmologisch model nieuw leven inblazen!”
 
 De kracht van Shinto, is dat de kami in de hele wereld verweven zitten, waar veel Westerse pogingen tot herbetovering een sterke distinctie maken tussen de betoverde natuurlijke wereld en de onttoverde moderne samenleving.
 
