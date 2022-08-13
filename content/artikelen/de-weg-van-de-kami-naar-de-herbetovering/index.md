@@ -166,11 +166,11 @@ We naderen de clou die ik reeds in de titel van dit essay verwerkt heb. Shint
 
 Voor wie niet met Japanse cultuur bekend is een korte introductie: shinto is een systeem van animistische natuurverering uit Japan. Het is platgeslagen een vorm van verering van landgeesten, oftewel kami. 
 
-Hoewel Japan een sterk geseculariseerd land is – enkel 36% van de Japanners identificeert zichzelf als religieus, en daarvan is het gros Boeddhistisch (enkel 3% identificeert zichzelf Shinto) – neemt meer dan 70% van de Japanners in een of andere vorm actief deel aan Shinto-praxis.([https://en.wikipedia.org/wiki/Religion_in_Japan#cite_note-ACA_Yearbook-3](https://en.wikipedia.org/wiki/Religion_in_Japan))
+Hoewel Japan een sterk geseculariseerd land is – enkel 36% van de Japanners identificeert zichzelf als religieus en daarvan is het gros boeddhistisch (enkel 3% identificeert zichzelf als shinto) – neemt meer dan 70% van de Japanners in een of andere vorm actief deel aan Shinto-praxis.[^7]
 
-Shinto vertaalt als ‘Weg van de Kami’.
+Shinto laat zich vertalen als ‘Weg van de Kami’.
 
-Waarom haal ik Shinto aan, en niet een algemene vorm van animisme? Shinto is een sterk voorbeeld, omdat het een systeem is dat operationeel is binnen een moderne samenleving. De praxis van Shinto vergt geen grote vertaalslag richting onze eigen moderne samenleving. Shintobewijst in zijn bestaan dat het integreert met de moderniteit.
+Waarom haal ik Shinto aan, en niet een algemene vorm van animisme? Shinto is een sterk voorbeeld, omdat het een systeem is dat operationeel is binnen een moderne samenleving. De praxis van Shinto vergt geen grote vertaalslag richting onze eigen moderne samenleving. Shinto bewijst in zijn bestaan dat het integreert met de moderniteit.
 
 ### Kami
 
