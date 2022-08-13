@@ -126,7 +126,7 @@ Dit omgevingsbewustzijn bouwt op zijn beurt op perspectivisch weten. Om omge
 
 De relatie tussen de verschillende P’s werkt in beide richtingen. Om tot een goede agent-arena relatie te komen, dien je allereerst te kunnen onderscheiden wat waar en niet waar is, zodat je jouw omgeving niet verkeerd in kaart brengt.
 
-### Het probleem van de waardering van stellingen en orthodoxie
+### De westerse obsessie met orthodoxie
 
 Het westen is gevormd door eeuwen van een monistische kosmologie: er is één waarheid. Het westers denken kan niet goed overweg met een pluriformiteit van waarheden. Zelfs de verwerping van God leidt in het Westen uiteindelijk tot een mono-atheïsme; het vervangt de éne waarheid met één andere, zoals de rigide argumenten van de New Atheists herhaaldelijk etaleren.
 
@@ -144,9 +144,9 @@ Door dit paradigma vraagt het westers denken de mens en maatschappij één w
 
 Dit kenmerkt de eerdere pogingen van het Westen om zichzelf te herbetoveren; er werd gezocht naar een kosmologisch model dat de wereld in zijn totaliteit kon bevatten, of het verwierp de opkomende wetenschap voor een ander (veelal dogmatisch religieus) model. 
 
-Door de neiging naar orthodoxie werd elke voorgaande reactie op de onttovering gekenmerkt door een verzamelingstellingen die men voor waar moest aannemen. Als vervolgens één van deze stellingen wordt ingehaald door de tijd, implodeert het hele raamwerk en blijven enkel mensen over die zich stevig vastklampen aan een achterhaald wereldbeeld, welke bij wijze van spreken de functie heeft van een stuk drijfhout in de onmetelijke diepe oceaan van het nihilisme.
+Door de neiging naar orthodoxie werd elke voorgaande reactie op de onttovering gekenmerkt als een verzameling stellingen die men voor waar moest aannemen. Als vervolgens één van deze stellingen wordt ingehaald door de tijd, implodeert het hele raamwerk en blijven enkel mensen over die zich stevig vastklampen aan een achterhaald wereldbeeld, welke bij wijze van spreken de functie heeft van een stuk drijfhout in de onmetelijke diepe oceaan van het nihilisme.
 
-Als we ons tot het oosten richt, of terug in het verleden kijkennaar de Hellenistische Grieken en Romeinen, zien we echter iets heel anders. Niet zo zeer het juiste geloof of de juiste mening is belangrijk, maar het juiste handelen wordt gewaardeerd. Orthopraxie boven orthodoxie. Op de juiste manier de rituelen en riten uitvoeren. Op de juiste manier de hymnes reciteren. Op de juiste manier deelnemen aan de praxis. Wat de enkelvoudige waarheid precies is, en of je die in zijn totaliteit voor waar aanneemt, wordt minder belangrijk geacht. Dit lijkt inherent aan polytheïstische systemen, waar men niet één oppergod kent, en denominaties langs elkaar heen andere goden als ‘de belangrijkste’ aanwijzen, afhankelijk van kaste, sociaalmaatschappelijke positie, professie of locatie.
+Als we ons tot het oosten richt, of terug in het verleden kijken naar de hellenistische Grieken en Romeinen, zien we echter iets heel anders. Niet zo zeer het juiste geloof of de juiste mening is belangrijk, maar het juiste handelen wordt gewaardeerd. Orthopraxie boven orthodoxie. Op de juiste manier de rituelen en riten uitvoeren. Op de juiste manier de hymnes reciteren. Op de juiste manier deelnemen aan de praxis. Wat de enkelvoudige waarheid precies is en of je die in zijn totaliteit voor waar aanneemt, wordt minder belangrijk geacht. Dit lijkt inherent aan polytheïstische systemen, waar men niet één oppergod kent, en denominaties langs elkaar heen andere goden als ‘de belangrijkste’ aanwijzen, afhankelijk van kaste, sociaalmaatschappelijke positie, professie of locatie.
 
 ### Orthopraxie boven orthodoxie
 
