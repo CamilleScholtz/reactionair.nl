@@ -104,7 +104,7 @@ Dit model kadert 4 manieren van weten (de 4 P’s):
 
 Weten hoe je handelt binnen de relatie tussen agent (jijzelf) en arena (omgeving). Het is een fundamentele en diepgaande vorm van kennis. Participatieve kennis is het verschil tussen jezelf bevinden in een staat van verwarring en de zogenaamde ‘flow-state’; de ervaring dat je deelneemt in een natuurlijke ‘dans’ met je omgeving.
 
-1.   Perspectivisch weten
+1.  Perspectivisch weten
 
 Weten via de belichaamde waarneming. Het zien van de wereld en jouw plaats daarin vanuit een specifiek gezichtspunt en het begrijpen van de belangrijkste aspecten van de situatie waarin je jezelf bevindt.
 
@@ -128,7 +128,7 @@ De relatie tussen de verschillende P’s werkt in beide richtingen. Om tot een 
 
 ### Het probleem van de waardering van stellingen en orthodoxie
 
-Het Westen is gevormd door eeuwen van een monistische kosmologie: er is één waarheid. Het Westers denken kan niet goed overweg met een pluriformiteit van waarheden. Zelfs de verwerping van God leidt in het Westen uiteindelijk tot een mono-atheïsme; het vervangt de éne waarheid met één andere, zoals de rigide argumenten van de New Atheists meermaals etaleren.
+Het westen is gevormd door eeuwen van een monistische kosmologie: er is één waarheid. Het westers denken kan niet goed overweg met een pluriformiteit van waarheden. Zelfs de verwerping van God leidt in het Westen uiteindelijk tot een mono-atheïsme; het vervangt de éne waarheid met één andere, zoals de rigide argumenten van de New Atheists meermaals etaleren.
 
 Dit wereldbeeld van een enkele waarheid leidt tot een grote waardering voor orthodoxie. Orthodoxie komt van het Griekse ὀρθοδοξία (orthodoxía) dat ruwweg vertaald kan worden als: ‘het juiste geloof’ of ‘de juiste mening’. Orthodoxie wijst op het voor waar aannemen van bepaalde (geloofs)stellingen. Orthodoxie is een vorm van propositionele kennis.
 
