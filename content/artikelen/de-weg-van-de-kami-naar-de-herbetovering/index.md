@@ -164,7 +164,7 @@ Je kunt nieuwe ideeën direct testen in de praktijk en inzichten en data direct 
 
 We naderen de clou die ik reeds in de titel van dit essay verwerkt heb. Shinto, de weg van de kami. 
 
-Voor wie niet met Japanse cultuur bekend is een korte introductie: Shinto is een systeem van animistisch natuurverering uit Japan. Het is platgeslagen een vorm van landgeest (kami) verering. 
+Voor wie niet met Japanse cultuur bekend is een korte introductie: shinto is een systeem van animistische natuurverering uit Japan. Het is platgeslagen een vorm van verering van landgeesten, oftewel kami. 
 
 Hoewel Japan een sterk geseculariseerd land is – enkel 36% van de Japanners identificeert zichzelf als religieus, en daarvan is het gros Boeddhistisch (enkel 3% identificeert zichzelf Shinto) – neemt meer dan 70% van de Japanners in een of andere vorm actief deel aan Shinto-praxis.([https://en.wikipedia.org/wiki/Religion_in_Japan#cite_note-ACA_Yearbook-3](https://en.wikipedia.org/wiki/Religion_in_Japan))
 
