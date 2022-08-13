@@ -182,7 +182,7 @@ Kami’s hebben verschillende vormen. Soms zijn ze letterlijk het water in een 
 
 Huishoudens hebben ook een eigen kami, en voor de kami kun je in veel huishoudens een kamidana (een kami-kastje) vinden waar de kami een verblijfplaats heeft midden in het huishouden.
 
-Het lijkt hierin sterk op de oude volkse gebruiken die aanwezig waren in Europa en hun wortels hadden in de oude voorchristelijke polytheïstische kosmologie. Kami’s zijn vergelijkbaar met nimfen, dryaden en nereïden uit het oude Griekenland en deze Grieken personificeerden ook fenomenen als de noorderwind en de boodschapper van de winter (Boreas) en de westenwind en boodschapper van de lente (Zephyros). Ook hadden ze goden voor begrenzingen (Terminus) en goden die grenzen doorbraken (Hermes). Ook kenden Europese tradities haardgoden (zoals Hestia) en huisgeesten (onze eigen kabouter is hier een voorbeeld van.
+Het lijkt hierin sterk op de oude volkse gebruiken die aanwezig waren in Europa en hun wortels hadden in de oude voorchristelijke polytheïstische kosmologie. Kami’s zijn vergelijkbaar met nimfen, dryaden en nereïden uit het oude Griekenland en deze Grieken personificeerden ook fenomenen als de noorderwind en de boodschapper van de winter (Boreas) en de westenwind en boodschapper van de lente (Zephyros). Ook hadden ze goden voor begrenzingen (Terminus) en goden die grenzen doorbraken (Hermes). Ook kenden Europese tradities haardgoden (zoals Hestia) en huisgeesten waar onze eigen kabouter een voorbeeld van is.
 
 De relatie tussen mens en kami is er een van wederzijdse transactie. Men vraagt de kami om gunsten en zegeningen door middel van kleine offers (kleingeld, of wierook branden), en het onderhouden van de woonplaats van de kami.
 
