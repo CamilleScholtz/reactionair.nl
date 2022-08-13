@@ -128,9 +128,9 @@ De relatie tussen de verschillende P’s werkt in beide richtingen. Om tot een 
 
 ### Het probleem van de waardering van stellingen en orthodoxie
 
-Het Westen is gevormd door eeuwen van een monistischekosmologie: er is één waarheid. Het Westers denken kan niet goed overweg met een pluriformiteit van waarheden. Zelfs de verwerping van God leidt in het Westen uiteindelijk tot eenmono-atheïsme; het vervangt de éne waarheid met één andere, zoals de rigide argumenten van de New Atheists meermaals etaleren.
+Het Westen is gevormd door eeuwen van een monistische kosmologie: er is één waarheid. Het Westers denken kan niet goed overweg met een pluriformiteit van waarheden. Zelfs de verwerping van God leidt in het Westen uiteindelijk tot een mono-atheïsme; het vervangt de éne waarheid met één andere, zoals de rigide argumenten van de New Atheists meermaals etaleren.
 
-Dit wereldbeeld van een enkele waarheid leidt tot een grote waardering voor orthodoxie. Orthodoxie komt van het Griekse ὀρθοδοξία (orthodoxía) dat ruwweg vertaald kan worden als: ‘het juiste geloof’ of ‘de juiste mening’. Orthodoxie wijst op het voor waar aannemen van bepaalde (geloofs)stellingen.Orthodoxie is een vorm van propositionele kennis.
+Dit wereldbeeld van een enkele waarheid leidt tot een grote waardering voor orthodoxie. Orthodoxie komt van het Griekse ὀρθοδοξία (orthodoxía) dat ruwweg vertaald kan worden als: ‘het juiste geloof’ of ‘de juiste mening’. Orthodoxie wijst op het voor waar aannemen van bepaalde (geloofs)stellingen. Orthodoxie is een vorm van propositionele kennis.
 
 Het Westen waardeert ‘juist geloof’ - propositionele kennis - boven alle andere vormen van kennis. Ons denkkader is moeilijk in staat te doorgronden dat waarheid kan veranderen als je perspectief op datgeen waar iemand naar kijkt verandert. Dat het perspectief vervolgens doorzingt in de gehele agent-arena relatie, en dat daardoor elk perspectief dat de arena in kaart brengt tot een andere ‘waarheid’ zou kunnen komen, daar kan Westers denken moeilijk mee uit de voeten.
 
@@ -214,7 +214,7 @@ Orthopraxie: je doet de dingen omdat ze zo horen, en je doet ze met eerbied en v
 
 Natuurlijk voldoet Shinto aan allerlei kenmerken van een religie, ook zoals wij dat in het Westen duiden. Maar deelnemen aan Shinto praxis, maakt iemand nog geen Shintoist. Het zit hem in wat je doet, niet in wat je bent. Shinto-priesters zouden zichzelf potentieel wél religieus Boeddhist noemen, maar vaak niet religieus Shintoist.
 
-Voor het Westers (en misschien breder Abrahamitisch)paradigma kan dit even wennen zijn. Wij identificeren onszelf heel erg met ons religieus handelen (en daarom zweren veel niet-religieuzen het handelen in zijn totaliteit af), en ik kan me voorstellen dat het voor een christen of moslim moeilijk te rijmen is dat je de Jinja’s bezoekt, respect toont voor de kamien zelfs offers brengt voor hun zegens, zonder dat je daarmee in conflict komt met geloofstellingen van de eigen leer, noch dat je jezelf religieus verbindt met de kami.
+Voor het Westers (en misschien breder Abrahamitisch) paradigma kan dit even wennen zijn. Wij identificeren onszelf heel erg met ons religieus handelen (en daarom zweren veel niet-religieuzen het handelen in zijn totaliteit af), en ik kan me voorstellen dat het voor een christen of moslim moeilijk te rijmen is dat je de Jinja’s bezoekt, respect toont voor de kamien zelfs offers brengt voor hun zegens, zonder dat je daarmee in conflict komt met geloofstellingen van de eigen leer, noch dat je jezelf religieus verbindt met de kami.
 
 Toch tonen de cijfers dat in Japan men geen probleem heeft om vanuit een ander religieus systeem deel te nemen aan de Shinto-praxis. Daar ligt mijns inziens de kracht van Shinto. Het preekt geen ethiek of moraal, het laat dit over aan ander systemen. \
 \
