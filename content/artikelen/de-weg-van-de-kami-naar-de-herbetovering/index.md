@@ -100,19 +100,19 @@ Ik zal niet te veel uitweiden over het werk hierachter, maar ik vind het een 
 
 Dit model kadert 4 manieren van weten (de 4 P’s):
 
-\- Participatief weten
+1.  Participatief weten
 
 Weten hoe je handelt binnen de relatie tussen agent (jijzelf) en arena (omgeving). Het is een fundamentele en diepgaande vorm van kennis. Participatieve kennis is het verschil tussen jezelf bevinden in een staat van verwarring en de zogenaamde ‘flow-state’; de ervaring dat je deelneemt in een natuurlijke ‘dans’ met je omgeving.
 
-\- Perspectief weten
+1.   Perspectivisch weten
 
-Weten via de belichaamde waarneming. Het zien van de wereld en jouw plaats daarin vanuit een specifiek gezichtspunt, en het begrijpen van de belangrijkste en aspecten van de situatie waarin je jezelf bevindt.
+Weten via de belichaamde waarneming. Het zien van de wereld en jouw plaats daarin vanuit een specifiek gezichtspunt en het begrijpen van de belangrijkste aspecten van de situatie waarin je jezelf bevindt.
 
-\- Procedureel weten
+1. Procedureel weten
 
-Weten hoe iets moet. Dit omvat complexe kennis (neurochirurgie of sieraden maken) en simpele kennis (strikken je van veters).
+Weten hoe iets moet. Dit omvat complexe kennis (neurochirurgie of sieraden maken) en simpele kennis (veterstrikken).
 
-\- Propositioneel weten
+1. Propositioneel weten
 
 Weten of iets waar is. Propositionele kennis is gekaderd door taal. Daarin betreedt dit soort weten het domein van implicaties, context, betekenis, relaties tussen verschillende proposities. Dit is een immens complex domein, waarbij je snel tot de realisatie komt dat je eigenlijk niet propositioneel kunt weten zonder een enorme corpus aan programmatische voorkennis om überhaupt in taal te kunnen duiden wat waar is.
 
