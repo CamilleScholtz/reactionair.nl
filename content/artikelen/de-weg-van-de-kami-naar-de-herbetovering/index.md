@@ -122,7 +122,7 @@ Zoals Wittgenstein al aanwees in zijn Tractatus Logico-Philosophicus: Propos
 
 Procedureel weten vereist op zijn beurt een omgevingsbewustzijn. Je moet weten waar je jezelf bevindt en wat je wilt bereiken om processen en procedures te kunnen kaderen en wegen. 
 
-Dit omgevingsbewustzijn bouwt op zijn beurt op perspectief weten. Om omgevingsbewustzijn te ontwikkelen, moet je een agent-arena relatie hebben ontwikkeld. Het omgevingsbewustzijn is uiteindelijk afhankelijk van hoe je jouw omgeving in kaart hebt gebracht.
+Dit omgevingsbewustzijn bouwt op zijn beurt op perspectivisch weten. Om omgevingsbewustzijn te ontwikkelen, moet je een agent-arena-relatie hebben ontwikkeld. Het omgevingsbewustzijn is uiteindelijk afhankelijk van hoe je jouw omgeving in kaart hebt gebracht.
 
 De relatie tussen de verschillende P’s werkt in beide richtingen. Om tot een goede agent-arena relatie te komen, dien je allereerst te kunnen onderscheiden wat waar en niet waar is, zodat je jouw omgeving niet verkeerd in kaart brengt.
 
