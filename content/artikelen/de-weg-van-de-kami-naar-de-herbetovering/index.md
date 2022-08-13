@@ -4,7 +4,7 @@ subtitle = "Over het neergaande pad der onttovering"
 auteurs = ["Redactie"]
 date = "2022-08-10"
 themas = "Religie & Metafysica"
-aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes", "Jean-Jacques Rousseau", "Plato", "Paul Kingsnorth", "John Vervaeke", "Aristoteles"]
+aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes", "Jean-Jacques Rousseau", "Plato", "Paul Kingsnorth", "John Vervaeke", "Aristoteles", "Ludwig Wittgenstein"]
 image = "72e2392b-0210-404d-b832-ce8525d3017d.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
@@ -114,11 +114,11 @@ Weten hoe iets moet. Dit omvat complexe kennis (neurochirurgie of sieraden maken
 
 1. Propositioneel weten
 
-Weten of iets waar is. Propositionele kennis is gekaderd door taal. Daarin betreedt dit soort weten het domein van implicaties, context, betekenis, relaties tussen verschillende proposities. Dit is een immens complex domein, waarbij je snel tot de realisatie komt dat je eigenlijk niet propositioneel kunt weten zonder een enorme corpus aan programmatische voorkennis om überhaupt in taal te kunnen duiden wat waar is.
+Weten of iets waar is. Propositionele kennis is gekaderd door taal. Daarin betreedt dit soort weten het domein van implicaties, context, betekenis en relaties tussen verschillende proposities. Dit is een immens complex domein, waarbij je snel tot de realisatie komt dat je eigenlijk niet propositioneel kunt weten zonder een enorm corpus aan programmatische voorkennis om überhaupt in taal te kunnen duiden wat waar is.
 
 Om het wat wezenlijk te maken voor de lezer: de regels van het voetbalspel kennen (propositioneel), maakt je nog geen goede voetballer. Goed weten hoe je tegen een bal moet trappen (procedureel), maar de regels van het voetbalspel niet kennen, maakt je geen goede voetballer. Als je zowel de regels kent, als de balbeheersing hebt, geeft je dat nog niet automatisch het inzicht waar jij in het team past (perspectief) en hoe je op het veld moet samenspelen met 11 anderen tegen een ander team (participatief). Een goede voetballer heeft alle vier de vormen van weten onder de knie op het voetbalspel.
 
-Zoals Wittgenstein al aanwees in zijn Tractatus Logico-Philosophicus: Propositioneel weten bouwt voort op procedureel weten. De talige stelling vertegenwoordigt een proces of een symbool, en vereist een voorkennis van de wereld en de categorieën.
+Zoals Wittgenstein al aanwees in zijn Tractatus Logico-Philosophicus: Propositioneel weten bouwt voort op procedureel weten. De talige stelling vertegenwoordigt een proces of een symbool en vereist een voorkennis van de wereld en de categorieën.
 
 Procedureel weten vereist op zijn beurt een omgevingsbewustzijn. Je moet weten waar je jezelf bevindt en wat je wilt bereiken om processen en procedures te kunnen kaderen en wegen. 
 
