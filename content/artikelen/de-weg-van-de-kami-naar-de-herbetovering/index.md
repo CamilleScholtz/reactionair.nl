@@ -4,7 +4,7 @@ subtitle = "Over het neergaande pad der onttovering"
 auteurs = ["Redactie"]
 date = "2022-08-10"
 themas = "Religie & Metafysica"
-aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes", "Jean-Jacques Rousseau", "Plato"]
+aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes", "Jean-Jacques Rousseau", "Plato", "Paul Kingsnorth", "John Vervaeke"]
 image = "72e2392b-0210-404d-b832-ce8525d3017d.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
@@ -94,7 +94,7 @@ Vaak zijn we enkel verder verdwaald in het labyrint doordat we niet goed doo
 
 ### Verschillende soorten weten
 
-Welke verschillende soorten weten zijn er? Hier zijn verschillende modellen voor. Voor dit essay wil mij focussen op het 4P-model uit de cognitiewetenschappen van Vervaekeen Ferraro(<https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cognitive_Science_of_Wisdom>). 
+Welke verschillende soorten weten zijn er? Hier zijn verschillende modellen voor. Voor dit essay wil mij focussen op het 4P-model uit de cognitiewetenschappen van Vervaeke en Ferraro.[^6]
 
 Ik zal me niet te veel verdiepen in het werk hierachter, maar ik vind het een sterk kader om verder over de problematiek te praten. Het bouwt voort op de onderscheiding van soorten kennis die Aristoteles uiteenzet in de Ethica Nicomachae.
 
