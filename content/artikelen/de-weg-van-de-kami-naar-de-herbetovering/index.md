@@ -70,7 +70,7 @@ De onttovering als proces is al een lange tijd gaande, ver voordat Weber of Bu
 
 Op dit moment in de tijd lijkt er in onze samenleving een conflict te ontstaan tussen enerzijds het ‘fully automated luxury gnosticism' met als einddoel een technocratie voorbij alle kaders en vormen.[^5] Bevrijd van alle beperkingen kunnen zijn wat je maar wilt.
 
-Binnen dit wereldbeeld heeft het in-zichzelf-keren van het westers zelfbeeld geleid tot het idee dat diep binnen in elk persoon een Authentieke Zelf zit, dat uit de beperkingen van het lichaam en de materiële wereld gered dient te worden door middel van wetenschappelijke vooruitgang zoals het controleren van de vruchtbaarheid en de gevoelens, ingrepen en interventies op het lichaam of dit Zelf door middel van metaverses en transhumanisme zichzelf in een simulatie totauthentieke uiting laten komen. 
+Binnen dit wereldbeeld heeft het in-zichzelf-keren van het westers zelfbeeld geleid tot het idee dat diep binnen in elk persoon een Authentieke Zelf zit, dat uit de beperkingen van het lichaam en de materiële wereld gered dient te worden door middel van wetenschappelijke vooruitgang zoals het controleren van de vruchtbaarheid en de gevoelens, ingrepen en interventies op het lichaam of dit Zelf door middel van metaverses en transhumanisme in een simulatie tot authentieke uiting laten komen. 
 
 Aan deze kant vormt Rousseau’s Authentieke Zelf het laatste bolwerk tegen het nihilisme en de zingevingscrisis, en menwenst de wereld zo te vormen dat zij deze Authentieke Zelf gereflecteerd en bevestigd zien worden in de wereld om zich heen, in een poging zich af te wenden van de afgrond.
 
