@@ -130,13 +130,13 @@ De relatie tussen de verschillende P’s werkt in beide richtingen. Om tot een 
 
 Het westen is gevormd door eeuwen van een monistische kosmologie: er is één waarheid. Het westers denken kan niet goed overweg met een pluriformiteit van waarheden. Zelfs de verwerping van God leidt in het Westen uiteindelijk tot een mono-atheïsme; het vervangt de éne waarheid met één andere, zoals de rigide argumenten van de New Atheists herhaaldelijk etaleren.
 
-Dit wereldbeeld van een enkele waarheid leidt tot een grote waardering voor orthodoxie. Orthodoxie komt van het Griekse ὀρθοδοξία (orthodoxía) dat ruwweg vertaald kan worden als: ‘het juiste geloof’ of ‘de juiste mening’. Orthodoxie wijst op het voor waar aannemen van bepaalde (geloofs)stellingen. Orthodoxie is een vorm van propositionele kennis.
+Dit wereldbeeld van een enkele waarheid leidt tot een grote waardering voor orthodoxie. 'Orthodoxie' komt van het Griekse ὀρθοδοξία (orthodoxía) dat ruwweg vertaald kan worden als: ‘het juiste geloof’ of ‘de juiste mening’. Orthodoxie wijst op het voor waar aannemen van bepaalde (geloofs)stellingen. Orthodoxie is een vorm van propositionele kennis.
 
-Het Westen waardeert ‘juist geloof’ - propositionele kennis - boven alle andere vormen van kennis. Ons denkkader is moeilijk in staat te doorgronden dat waarheid kan veranderen als je perspectief op datgeen waar iemand naar kijkt verandert. Dat het perspectief vervolgens doorzingt in de gehele agent-arena relatie, en dat daardoor elk perspectief dat de arena in kaart brengt tot een andere ‘waarheid’ zou kunnen komen, daar kan Westers denken moeilijk mee uit de voeten.
+Het westen waardeert ‘juist geloof’ - propositionele kennis - boven alle andere vormen van kennis. Ons denkkader is moeilijk in staat te doorgronden dat waarheid kan veranderen als je perspectief op datgeen waar iemand naar kijkt verandert. Dat het perspectief vervolgens doorzingt in de gehele agent-arena relatie, en dat daardoor elk perspectief dat de arena in kaart brengt tot een andere ‘waarheid’ zou kunnen komen, daar kan westers denken moeilijk mee uit de voeten.
 
-Mijns inziens heeft het Westen daardoor een verkeerde afslag genomen om de spirituele leegte en de onttovering het hoofd te bieden.
+Mijns inziens heeft het westen daardoor een verkeerde afslag genomen om de spirituele leegte en de onttovering het hoofd te bieden.
 
-Tegenover de voortschrijdende inzichten van de wetenschap, ontbreekt het in het Westers denken in termen van gedecentraliseerde netwerken, knooppunten, processen en patronen, die een pluriformiteit van waarheden teweeg kan brengen. Deze waarheden zullen aan de hand van hun succes of mislukking kunnen aantonen of ze een juiste agent-arena relatie hebben opgebouwd. 
+Tegenover de voortschrijdende inzichten van de wetenschap, blijft het westers denken in gebreke in termen van gedecentraliseerde netwerken, knooppunten, processen en patronen die een pluriformiteit van waarheden teweeg kunnen brengen. Deze waarheden zullen aan de hand van hun succes of mislukking kunnen aantonen of ze een juiste agent-arena-relatie hebben opgebouwd. 
 
 Het Westen zit vast in een vorm van (hiërarchisch) systeemdenken. Ons denken leidt niet langer tot een goede agent-arena relatie op een collectief niveau.
 
