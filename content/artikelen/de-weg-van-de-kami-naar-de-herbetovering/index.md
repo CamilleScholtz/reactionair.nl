@@ -4,7 +4,7 @@ subtitle = "Over het neergaande pad der onttovering"
 auteurs = ["Redactie"]
 date = "2022-08-10"
 themas = "Religie & Metafysica"
-aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes"]
+aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes", "Jean-Jacques Rousseau"]
 image = "72e2392b-0210-404d-b832-ce8525d3017d.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
@@ -72,7 +72,7 @@ Op dit moment in de tijd lijkt er in onze samenleving een conflict te ontstaa
 
 Binnen dit wereldbeeld heeft het in-zichzelf-keren van het westers zelfbeeld geleid tot het idee dat diep binnen in elk persoon een Authentieke Zelf zit, dat uit de beperkingen van het lichaam en de materiële wereld gered dient te worden door middel van wetenschappelijke vooruitgang zoals het controleren van de vruchtbaarheid en de gevoelens, ingrepen en interventies op het lichaam of dit Zelf door middel van metaverses en transhumanisme in een simulatie tot authentieke uiting laten komen. 
 
-Aan deze kant vormt Rousseau’s Authentieke Zelf het laatste bolwerk tegen het nihilisme en de zingevingscrisis, en menwenst de wereld zo te vormen dat zij deze Authentieke Zelf gereflecteerd en bevestigd zien worden in de wereld om zich heen, in een poging zich af te wenden van de afgrond.
+Aan deze kant vormt Rousseaus Authentieke Zelf het laatste bolwerk tegen het nihilisme en de zingevingscrisis, en men wenst de wereld zo te vormen dat zij dit Authentieke Zelf gereflecteerd en bevestigd ziet worden in de wereld om zich heen, in een poging zich af te wenden van de afgrond.
 
 Een onmogelijkheid, want het is juist door beperkingen dat we in staat zijn iets wezenlijks te Zijn of te worden. Het is door de randvoorwaarden en beperkingen dat we iets als taal hebben. Zonder beperkingen vervallen we in lukraak geluid, niet langer geschikt om betekenis over te brengen.
 
