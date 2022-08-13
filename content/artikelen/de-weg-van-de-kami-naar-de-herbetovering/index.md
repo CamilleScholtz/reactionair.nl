@@ -150,15 +150,15 @@ Als we ons tot het oosten richt, of terug in het verleden kijken naar de hell
 
 ### Orthopraxie boven orthodoxie
 
-Wat gebeurt er met het 4P-model, als je orthopraxiewaardeert? Dan verlegt de focus zichzelf naar het participatief weten en de agent-arena relatie. 
+Wat gebeurt er met het 4P-model, als je orthopraxie waardeert? Dan verlegt de focus zichzelf naar het participatief weten en de agent-arena relatie. 
 
-Allereerst wordt gekeken of je jezelf als actor goed verhoudt tot je omgeving. Je omgeving is niet een mondiaal iets, maar je directe relaties met andere mensen, je directe omgeving(en) (thuis, kantoor, de lokale kroeg, sociaalmaatschappelijke positie, etc.). 
+Allereerst wordt gekeken of je jezelf als actor goed verhoudt tot je omgeving. Je omgeving is niet een mondiaal iets, maar je directe relaties met andere mensen, je directe omgeving(en), zoals thuis, kantoor, de lokale kroeg en samenleving. 
 
-De waarheid is pluriform: er wordt niet gezocht naar de universele stelling voor alle relaties tussen mensen op de wereld. Er wordt gezocht naar wat jij kunt stellen over jouw verhouding tot jouw wereld. Als jij op een antwoord komt datwezenlijk verschilt met het antwoord van anderen, is niet één van die stellingen waar en de rest per definitie onwaar. De agent, de arena en het perspectief zijn variabel en dus zullen de daaropvolgende procedures variabel zijn, waardoor de proposities die eruit voortkomen op hun beurt ook zullen verschillen.
+De waarheid is pluriform: er wordt niet gezocht naar de universele stelling voor alle relaties tussen mensen op de wereld. Er wordt gezocht naar wat jij kunt stellen over jouw verhouding tot jouw wereld. Als jij op een antwoord komt dat wezenlijk verschilt met het antwoord van anderen, is niet één van die stellingen waar en de rest per definitie onwaar. De agent, de arena en het perspectief zijn variabel en dus zullen de daaropvolgende procedures variabel zijn, waardoor de proposities die eruit voortkomen op hun beurt ook zullen verschillen.
 
-Een verhouding met je directe omgeving vraagt een aandachtige agent-arena relatie. Je kunt jezelf niet langer verliezen in modellen, de utopische vergezichten en universele theorieën over de economie, de moraal, metafysica, en wat waar of onwaar is. 
+Een verhouding met je directe omgeving vraagt een aandachtige agent-arena-relatie. Je kunt jezelf niet langer verliezen in modellen, de utopische vergezichten en universele theorieën over de economie, de moraal, metafysica en wat waar of onwaar is. 
 
-Je kunt nieuwe ideeën direct testen in de praktijk en inzichten en data direct ophalen om je agent-arena relatie te kalibreren. Er bestaat geen wereld waarin jij, als enkelvoudige agent, de totaliteit van alle mogelijke arena’s op aarde kuntdoorgronden om vervolgens een universele kaart van allearena’s voor jezelf op te bouwen.
+Je kunt nieuwe ideeën direct testen in de praktijk en inzichten en data direct ophalen om je agent-arena-relatie te kalibreren. Er bestaat geen wereld waarin jij, als enkelvoudige agent, de totaliteit van alle mogelijke arena’s op aarde kunt doorgronden om vervolgens een universele kaart van alle arena’s voor jezelf op te bouwen.
 
 ### Shinto en de herbetovering
 
