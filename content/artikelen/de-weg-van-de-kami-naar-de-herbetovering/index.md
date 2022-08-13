@@ -40,9 +40,9 @@ Zonder deze mogelijkheden zou je jezelf ervaren als een willekeurige vorm. Toch
 
 > Het droevige van de wereld van nu (…) is dat mensen in een heel klein schijfje van de tijd leven. Het huidige moment. Dat nemen ze met zich mee, maar niets van waarde beklijft. De weerklank van eeuwen is hun vreemd. Die eeuwen zijn volledig duister voor ze. Onverlichte gangen van waaruit ze dat ene straaltje licht binnen struikelen.[^4]
 
-Dit tekent ons onttoverde zelfbeeld. We ontwaren niet langer de grote en kleine patronen in de wereld, maar zien enkel ons geatomiseerde Zelf, ontkoppeld van zijn omgeving (zowel in ruimte, als in tijd).
+Dit tekent ons onttoverde zelfbeeld. We ontwaren niet langer de grote en kleine patronen in de wereld, maar zien enkel ons geatomiseerde Zelf, ontkoppeld van zijn omgeving (zowel in ruimte als in tijd).
 
-Alle patroonherkenning en zelf-verhalende eigenschappen van de mens zijn introspectief geworden. We weten hem nergens anders meer op te funderen.
+Alle patroonherkenning en zelf-verhalende eigenschappen van de mens zijn introspectief geworden. We weten ze nergens anders meer op te funderen.
 
 We zien de wereld buiten onszelf minder en minder, omdat we niet langer onszelf herkennen in de kosmologie die we door de onttovering hebben opgebouwd.
 
@@ -58,9 +58,9 @@ Het probleem is dat niets wat hierboven beschreven is, op zichzelf onjuist is.
 
 ### Hoe de onttovering onze relatie met de wereld afsnijdt
 
-De vervreemding van onze omgeving heeft ertoe geleidt dat het Westers mensbeeld in zichzelf is gekeerd. Wie zich niet langer met de wereld kan relateren, zal zich eruit terugtrekken. De onttovering leidt ertoe dat we een kosmologisch model van stellingen dienen aan te nemen die meetbaar niet meer te weerleggen zijn, maar die we vanuit onze ervaring niet per se als waar kunnen ervaren.
+De vervreemding van onze omgeving heeft ertoe geleidt dat het westers mensbeeld in zichzelf is gekeerd. Wie zich niet langer met de wereld kan relateren, zal zich eruit terugtrekken. De onttovering leidt ertoe dat we een kosmologisch model van stellingen dienen aan te nemen die meetbaar niet meer te weerleggen zijn, maar die we vanuit onze ervaring niet per se als waar kunnen ervaren.
 
-De liefde voor je partner of kind is niet te kaderen als een ‘evolutionair voordeel voor het voortbestaan van het soort’ dat ontsloten wordt door een samenspel van stofjes in je lichaam, en wie dat beeld omarmt als de enige waarheid en zijn innerlijke ervaring daarop afwijst als illusionair zal weinig succes hebben in de liefde.
+De liefde voor je partner of kind is niet te kaderen als een ‘evolutionair voordeel voor het voortbestaan van de soort’ dat ontsloten wordt door een samenspel van stofjes in je lichaam, en wie dat beeld omarmt als de enige waarheid en zijn innerlijke ervaring daarover afwijst als illusionair zal weinig succes hebben in de liefde.
 
 De moderne mens zoekt continu naar een compromis tussen zijn innerlijke ervaring en de stellingen waarvan hij weet dat ze (nog niet) weerlegt zijn door de voortschrijdende wetenschap. Waar deze compromis niet haalbaar is, ondermijnt de propositionele kennis van de wetenschappelijke kosmologie ons Zijn. De realisatie dat hetgeen men innerlijk ervaart dusdanig niet in relatie staat tot het wetenschappelijke wereldbeeld, dat ze als onwaar en illusionair ervaren worden leidt tot een diep nihilisme; een kosmologie waarin de menselijke ervaringen geen waarden meer hebben, omdat zij deze waarden niet weten te funderen in de kosmos.
 
