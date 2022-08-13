@@ -16,6 +16,8 @@ question = "Wat zijn uw gedachten over dit artikel?"
 
 \-slideshow functie
 
+\-dossiers/aangehaalde auteurs vervangen door 'lees ook'?
+
 \-mooi wegwerken klikaas (onder afbeelding bijvoorbeeld)
 
 \-volgende podcast
