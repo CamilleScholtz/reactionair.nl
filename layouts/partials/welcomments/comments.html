@@ -38,7 +38,7 @@
 
 		placeholderCommentFactory: function (comment) {
 			const year  = new Intl.DateTimeFormat("nl-NL", {year: "numeric"}).format(comment.date);
-			const m     = new Intl.DateTimeFormat("nl-NL", {month: "long"}).format(comment.date);
+			const m     = new Intl.DateTimeFormat("nl-NL", {month: "short"}).format(comment.date);
 			const month = m.charAt(0).toUpperCase() + m.slice(1);
 			const day   = new Intl.DateTimeFormat("nl-NL", {day: "2-digit"}).format(comment.date);
 
@@ -47,7 +47,7 @@
 			{{ $template = merge $template (dict "elementId" "welcomments__comment-${comment.id}") }}
 			{{ $template = merge $template (dict "elementClassName" "welcomments__comment") }}
 			{{ $template = merge $template (dict "nestingLevel" 0) }}
-			{{ $template = merge $template (dict "formattedDate" "${month} ${day}, ${year}") }}
+			{{ $template = merge $template (dict "formattedDate" "${day} ${month}, ${year}") }}
 			{{ $template = merge $template (dict "dateXmlSchema" "${comment.date}") }}
 			{{ $template = merge $template (dict "authorName" "${comment.author.name}") }}
 			{{ $template = merge $template (dict "message" "${comment.message}") }}
