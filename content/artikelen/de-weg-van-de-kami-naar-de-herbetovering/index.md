@@ -224,15 +224,15 @@ Een mate van *Dasein* in het alledaagse. *Dasein* is Heideggers term voor 
 
 Het vraagt om bezinning en om je te richten op jouw directe omgeving, wat je daarin wilt Zijn, en daarnaar te werken. Shinto biedt geen hemelse verblijfplaats in het hiernamaals, maar vraagt de aandacht in het hier en nu. Te midden van je gemeenschap, de fenomenen om je heen, actief deelnemend en gelaten observerend. Het dwingt je tot een mentale aanwezigheid in je eigen leven.
 
-Het is niet voor niets dat Japanse filosofen in de 20e eeuw Heideggers werk gebruiken om Westerse en Oosterse filosofie samen te brengen. De zogeheten Kyoto-school ziet in Heideggers *Dasein* een sterke overeenkomst met het bewuste Zijn, dat nagestreefd wordt in Zen.
+Het is niet voor niets dat Japanse filosofen in de 20e eeuw Heideggers werk gebruiken om westerse en oosterse filosofie samen te brengen. De zogeheten Kyoto-school ziet in Heideggers *Dasein* een sterke overeenkomst met het bewuste Zijn, dat nagestreefd wordt in Zen.
 
-Doordat shinto *Dasein* cultiveert, traint het een nieuwe verbinding met de vormen van weten die we in het Westen uit het oog verloren zijn. De weg van de kami leidt de weg uit de onttovering. Echter is een directe kopie van shinto introduceren niet de weg. 
+Doordat shinto *Dasein* cultiveert, traint het een nieuwe verbinding met de vormen van weten die we in het westen uit het oog verloren zijn. De weg van de kami leidt de weg uit de onttovering. Echter is een directe kopie van shinto introduceren niet de weg. 
 
-Zo’n systeem moet ontstaat vanuit een voortdurend dialoog tussen individu, gemeenschap en zijn omgeving. 
+Zo’n systeem moet ontstaan vanuit een voortdurend dialoog tussen individu, gemeenschap en zijn omgeving. 
 
-Breng de arena goed in kaart, bepaal vanuit welk perspectief je haar aanschouwt. Test en vind de juiste procedures om in de arena te Zijn en successen te behalen. Ervaar welke proposities voor het Westen van waarde zijn. 
+Breng de arena goed in kaart, bepaal vanuit welk perspectief je haar aanschouwt. Test en vind de juiste procedures om in de arena te Zijn en successen te behalen. Ervaar welke proposities voor het westen van waarde zijn. 
 
-Uiteraard zou ik nog pagina’s kunnen uitweiden over een hoop van de zaken die ik heb opgebracht, maar dit artikel is lang zat en ik wil hen die tot het einde zijn gekomen bedanken voor de aandacht die jullie mij gegeven hebben. 
+Uiteraard zou ik nog pagina’s kunnen uitweiden over een hoop van de zaken die ik heb aangesneden, maar dit artikel is lang zat en ik wil hen die tot het einde zijn gekomen bedanken voor de aandacht die jullie mij gegeven hebben. 
 
 1Ik gebruik kosmologie hier niet om te refereren aan de wetenschappelijke school waarbinnen de globale structuur van het heelal wordt bestudeerd, maar aan een metafysisch model van de kosmos; een verklaringsmodel voor de mens en zijn rol in de wereld en zijn verstandhouding tot andere wezens en vormen. 
 
