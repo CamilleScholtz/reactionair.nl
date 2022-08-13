@@ -4,7 +4,7 @@ subtitle = "Over het neergaande pad der onttovering"
 auteurs = ["Redactie"]
 date = "2022-08-10"
 themas = "Religie & Metafysica"
-aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes", "Jean-Jacques Rousseau", "Plato", "Paul Kingsnorth", "John Vervaeke", "Aristoteles", "Ludwig Wittgenstein"]
+aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes", "Jean-Jacques Rousseau", "Plato", "Paul Kingsnorth", "John Vervaeke", "Aristoteles", "Ludwig Wittgenstein", "Martin Heidegger"]
 image = "72e2392b-0210-404d-b832-ce8525d3017d.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
@@ -216,7 +216,9 @@ Voor het westerse (en misschien breder abrahamisch) paradigma kan dit even w
 
 Toch tonen de cijfers dat men in Japan geen probleem heeft om vanuit een ander religieus systeem deel te nemen aan de shinto-praxis. Daar ligt mijns inziens de kracht van shinto. Het preekt geen ethiek of moraal, het laat dit over aan ander systemen. \
 \
-Wees christen of moslim en leef die leer vroom. Dit raamwerk vraagt enkel je aandacht voor het hier en nu. Een eerbied voor de omgeving waar je jezelf in bevindt. De volle aandacht richten op de handeling die je nu doet, of je nu kookt, werkt op kantoor, jezelf bezighoudt met je hobby of even luistert naar de spelende kinderen of de vogels in de bomen van de Jinja, en je richten op de personificatie van die handeling. 
+Wees christen of moslim en leef die leer vroom. Dit raamwerk vraagt enkel je aandacht voor het hier en nu. Een eerbied voor de omgeving waar je jezelf in bevindt. De volle aandacht richten op de handeling die je nu doet, of je nu kookt, werkt op kantoor, jezelf bezighoudt met je hobby of even luistert naar de spelende kinderen of de vogels in de bomen van de jinja, en je richten op de personificatie van die handeling. 
+
+### Heidegger en shinto
 
 Een mate van *Dasein* in het alledaagse. *Dasein* is Heideggers term voor het volledig bewust Zijn, één-worden met de handeling. Het samenbrengen van de 4 soorten Weten in dit ene moment. De versmelting van subject en object. Volledig Er-Zijn.
 
