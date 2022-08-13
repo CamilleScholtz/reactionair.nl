@@ -188,9 +188,9 @@ De relatie tussen mens en kami is er een van wederzijdse transactie. Men vraag
 
 Voor diegenen die zeggen: “Maar Elvengast, waarom kijk je ver over de grenzen naar het Oosten? Europa heeft genoeg van zichzelf!” zeg ik: “Bijna. Europa had veel van zichzelf. We hoeven Shinto niet te importeren. We moeten onszelf laten inspireren door een nog steeds levende vorm van een oeroude kosmologie die ook ooit hier levendig was en in onze eigen wortels dit kosmologisch model nieuw leven inblazen!”
 
-De kracht van Shinto, is dat de kami in de hele wereld verweven zitten, waar veel Westerse pogingen tot herbetovering een sterke distinctie maken tussen de betoverde natuurlijke wereld en de onttoverde moderne samenleving.
+De kracht van shinto, is dat de kami in de hele wereld verweven zitten, waar veel westerse pogingen tot herbetovering een sterke distinctie maken tussen de betoverde natuurlijke wereld en de onttoverde moderne samenleving.
 
-Maar als jij de kabouters niet ziet in je dagelijks leven, en ze enkel kunt zoeken als je erop uitgaat in de natuur, waar biedt het dan een meerwaarde voor het alledaagse? Shinto betovert het alledaagse leven midden in de moderne tijd.
+Maar als jij de kabouters niet ziet in je dagelijks leve, en ze enkel kunt zoeken als je erop uitgaat in de natuur, waar biedt het dan een meerwaarde voor het alledaagse? Shinto betovert het alledaagse leven midden in de moderne tijd.
 
 ### Jinja
 
