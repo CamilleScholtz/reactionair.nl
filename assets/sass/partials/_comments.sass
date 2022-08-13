@@ -1,35 +1,71 @@
 #comments
 	margin-top: 60px
 
-	#welcomments__container .welcomments__form-group textarea
-		width: 100%
-
 	#welcomments__container
-		.welcomments__form-group button
-			float: right
+		.welcomments__nesting-level-1
+			margin-left: 10px
+
+		.welcomments__nesting-level-2
+			margin-left: 20px
+
+		.welcomments__nesting-level-3
+			margin-left: 30px
+
+		.welcomments__comment
+			background: var(--accent-background-color)
+			margin-bottom: 10px
+			padding: 30px
+
+			h3
+				font-family: "Quadraat Pro Sans", sans-serif
+				margin-top: 0
+				margin-bottom: 0
+
+			.welcomments__comment-time
+				color: var(--muted-color)
+				font-style: italic
+				margin-bottom: 20px !important
+
+			p:last-child
+				margin-bottom: 0
+
+			a
+				-ms-hyphens: auto
+				-webkit-hyphens: auto
+				hyphens: auto
+
+			.welcomments__comment-reply-link
+				font-size: 19px
+
+			#welcomments__form
+				margin-left: -30px
+				overflow: hidden
+				padding: 30px
+				padding-bottom: 0px
+				padding-top: 0px
+
+				textarea,
+				input
+					background: var(--background-color)
 
 	#welcomments__form
 		width: 100%
 
-	.welcomments__comment
-		background: var(--accent-background-color)
-		margin-bottom: 10px
-		padding: 30px
+		.welcomments__form-group
+			#message
+				width: 100%
 
-		h3
-			font-family: "Quadraat Pro Sans", sans-serif
-			margin-top: 0
-			margin-bottom: 0
+			#author-name,
+			#author-email
+				width: calc(50% - 30px)
 
-		p:last-child
-			margin-bottom: 0
+			#author-name
+				margin-right: 10px
 
-		a
-			-ms-hyphens: auto
-			-webkit-hyphens: auto
-			hyphens: auto
+			button
+				float: right
 
-	.welcomments__comment-time
-		color: var(--muted-color)
-		font-style: italic
-		margin-bottom: 20px !important
+	.welcomments__email-notice
+		float: left
+		font-size: 15px
+		margin-bottom: 0px

@@ -9,6 +9,10 @@
 			{{ range .Params.auteurs }}
 				{{ partial "asides/author-small.html" . }}
 			{{ end }}
+
+			{{ if .Params.recording }}
+				{{ partial "asides/recording.html" .Params.recording }}
+			{{ end }}
 		</div>
 	</aside>
 

@@ -16,8 +16,8 @@
 	</div>
 
 	<div itemprop="text" class="welcomments__comment-message">{{ .message }}</div>
-	<a class="welcomments__comment-reply-link" style="display: none;"
-	  	{{ printf "href=\"%s/websites/%s/comments/%s/reply\"" .apiUrl .websiteId .id | safeHTMLAttr }}>
-		Reply to {{ .authorName }}
+
+	<a class="welcomments__comment-reply-link" {{ printf "href=\"%s/websites/%s/comments/%s/reply\"" .apiUrl .websiteId .id | safeHTMLAttr }}>
+		→
 	</a>
 </div>

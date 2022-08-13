@@ -17,6 +17,7 @@
 {{- $data  = merge $data (dict "message" $message) -}}
 {{- $data  = merge $data (dict "apiUrl" .apiUrl) -}}
 {{- $data  = merge $data (dict "websiteId" .websiteId) -}}
+
 {{ partial "welcomments/template.html" $data }}
 
 {{- $parentId := (index .comment "id") -}}
@@ -24,6 +25,7 @@
 {{- $allComments := .allComments -}}
 {{- $apiUrl := .apiUrl -}}
 {{- $websiteId := .websiteId -}}
+
 {{- range .allComments -}}
 	{{- if eq $parentId (index . "replying_to") -}}
 		{{- $data := dict -}}
@@ -32,6 +34,7 @@
 		{{- $data  = merge $data (dict "comment" .) -}}
 		{{- $data  = merge $data (dict "apiUrl" $apiUrl) -}}
 		{{- $data  = merge $data (dict "websiteId" $websiteId) -}}
+
 		{{- partial "welcomments/single_comment" $data -}}
 	{{- end -}}
 {{- end -}}
