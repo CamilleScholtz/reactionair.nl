@@ -190,7 +190,7 @@ Voor diegenen die zeggen: “Maar Elvengast, waarom kijk je ver over de grenze
 
 De kracht van shinto, is dat de kami in de hele wereld verweven zitten, waar veel westerse pogingen tot herbetovering een sterke distinctie maken tussen de betoverde natuurlijke wereld en de onttoverde moderne samenleving.
 
-Maar als jij de kabouters niet ziet in je dagelijks leve, en ze enkel kunt zoeken als je erop uitgaat in de natuur, waar biedt het dan een meerwaarde voor het alledaagse? Shinto betovert het alledaagse leven midden in de moderne tijd.
+Maar als jij de kabouters niet ziet in je dagelijks leven, en ze enkel kunt zoeken als je erop uitgaat in de natuur, waar biedt het dan een meerwaarde voor het alledaagse? Shinto betovert het alledaagse leven midden in de moderne tijd.
 
 ### Jinja
 
