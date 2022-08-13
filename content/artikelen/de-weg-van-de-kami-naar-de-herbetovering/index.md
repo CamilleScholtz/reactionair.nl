@@ -58,7 +58,7 @@ Het probleem is dat niets wat hierboven beschreven is, op zichzelf onjuist is.
 
 ### Hoe de onttovering onze relatie met de wereld afsnijdt
 
-De vervreemding van onze omgeving heeft ertoe geleidt dat het westers mensbeeld in zichzelf is gekeerd. Wie zich niet langer met de wereld kan relateren, zal zich eruit terugtrekken. De onttovering leidt ertoe dat we een kosmologisch model van stellingen dienen aan te nemen die meetbaar niet meer te weerleggen zijn, maar die we vanuit onze ervaring niet per se als waar kunnen ervaren.
+De vervreemding van onze omgeving heeft ertoe geleid dat het westers mensbeeld in zichzelf is gekeerd. Wie zich niet langer met de wereld kan relateren, zal zich eruit terugtrekken. De onttovering leidt ertoe dat we een kosmologisch model van stellingen dienen aan te nemen die meetbaar niet meer te weerleggen zijn, maar die we vanuit onze ervaring niet per se als waar kunnen ervaren.
 
 De liefde voor je partner of kind is niet te kaderen als een ‘evolutionair voordeel voor het voortbestaan van de soort’ dat ontsloten wordt door een samenspel van stofjes in je lichaam, en wie dat beeld omarmt als de enige waarheid en zijn innerlijke ervaring daarover afwijst als illusionair zal weinig succes hebben in de liefde.
 
