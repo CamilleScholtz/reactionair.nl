@@ -192,21 +192,19 @@ De kracht van shinto, is dat de kami in de hele wereld verweven zitten, waar 
 
 Maar als jij de kabouters niet ziet in je dagelijks leven, en ze enkel kunt zoeken als je erop uitgaat in de natuur, waar biedt het dan een meerwaarde voor het alledaagse? Shinto betovert het alledaagse leven midden in de moderne tijd.
 
-### Jinja
-
 Naast de kamidana, de verblijfplek van de kami in het huishouden, is er ook de jinja: een shinto-heiligdom.
 
 Jinja zijn te herkennen aan de torii-boog. Deze boog functioneert als een grensmarkering. Wie er onderdoor loopt, betreedt het domein van de kami. Net zoals wanneer je een huis betreedt waar je te gast bent, wordt volgens de Japanse etiquetteregels een bepaalde eerbied verwacht van de bezoeker. Men maakt veelal een lichte buiging voordat ze er onderdoor lopen, als teken van respect.
 
-Wat opvalt aan een Jinja, en waar het sterk contrasteert met Westerse gebedshuizen, is dat de Torii-boog zichzelf overal kan bevinden. Het sacrale en het profane lopen door elkaar heen. Er zijn Jinja met een speeltuin midden in het domein van de kami, kustgebieden waar tussen strandgangers een torii-boog uit het water oprijst of plekken waar het rond lunchtijd erg druk is omdat medewerkers graag hun lunch eten op een plekje in de buitenlucht.
+Wat opvalt aan een jinja, en waar het sterk contrasteert met Westerse gebedshuizen, is dat de torii-boog zichzelf overal kan bevinden. Het sacrale en het profane lopen door elkaar heen. Er zijn jinja met een speeltuin midden in het domein van de kami, kustgebieden waar tussen strandgangers een torii-boog uit het water oprijst of op plekken waar het rond lunchtijd erg druk is omdat medewerkers graag hun lunch eten op een plekje in de buitenlucht.
 
-Jinja zijn vrijelijk te betreden. Wil je het hart van de van de Jinja betreden om de verblijfplaats van de kami te bezoeken – waar men een klein offer kan brengen aan de kami voor zijn zegen of giften - wordt een kort reinigingsritueel verlangd door de handen en de mond te spoelen met water.
+Jinja zijn vrijelijk te betreden. Wil je het hart van de van de jinja betreden om de verblijfplaats van de kami te bezoeken – waar men een klein offer kan brengen aan de kami voor zijn zegen of giften - wordt een kort reinigingsritueel verlangd door de handen en de mond te spoelen met water.
 
-Shinto, een oplossing voor de spirituele leegte die het Westen teistert?
+### Shinto een oplossing voor de spirituele leegte die het Westen teistert?
 
-Shinto is een raamwerk waarmee de wereld om je heen gesacraliseerd wordt. De Kami zijn overal. Ze zijn tastbaar als water, bomen, wind, het graan op de velden en de provocaties van vrienden en vijanden. Ze zitten verweven met je menselijke ervaring. Het Heilige bevindt zichzelf niet afgezonderd van de profane wereld, weggestopt en beschermd door de muren van een gebedshuis, maar staat onbeschaamd midden in de publieke ruimte. 
+Shinto is een raamwerk waarmee de wereld om je heen gesacraliseerd wordt. De kami zijn overal. Ze zijn tastbaar als water, bomen, wind, het graan op de velden en de provocaties van vrienden en vijanden. Ze zijn verweven met je menselijke ervaring. Het Heilige bevindt zichzelf niet afgezonderd van de profane wereld, weggestopt en beschermd door de muren van een gebedshuis, maar staat onbeschaamd midden in de publieke ruimte. 
 
-Stadsparken en stranden, steegjes of wandelpaden. Zelfs in de velden van boeren zijn gebieden aangewezen als verblijfplaats voor de kami. Wrath of Gnon heeft ooit een mooi draadje gewijd aan de Chinju no Mori (beschermende bossen). Let op de torii die overal geplaatst zijn, om het huis van de kami aan te duiden. (<https://twitter.com/wrathofgnon/status/1389596090211594241>). Het Heilige is overal en de hele dag wordt elk persoon geconfronteerd met de aanwezigheid van het transcendente. Er wordt aandacht geëist voor het transcendente.
+Stadsparken en stranden, steegjes of wandelpaden. Zelfs in de velden van boeren zijn gebieden aangewezen als verblijfplaats voor de kami. De internetauteur Wrath of Gnon heeft ooit een mooi draadje gewijd aan de chinju no mori (beschermende bossen). Let op de torii die overal geplaatst zijn, om het huis van de kami aan te duiden.[^8] Het Heilige is overal en de hele dag wordt elk persoon geconfronteerd met de aanwezigheid van het transcendente. Er wordt aandacht geëist voor het transcendente.
 
 Shinto richt zich op orthopraxie. De etiquette is van belang, niet wat je gelooft. Shinto leert geen ethiek of moraal. Haar priesters zijn zelfs vaak terughoudend om Shinto als een geloofssysteem te duiden. Voor veel Japanners is Shinto-praxis gewoon een onderdeel van de Japanse cultuur, omringd met gebruiken die je nu eenmaal doet omdat het zo hoort. In die zin zien Japanners Shinto als iets vergelijkbaar met hoe seculier Nederland Oud en Nieuw of Kerst en Pasen vieren, alleen dan wordt men elke dag, op allerlei plekken herinnerd aan de aanwezigheid van dit systeem, en denkt men niet enkel ergens op die koude decemberdag ineens ‘ohja, morgen Kerst. Dat was ook nog iets!’. Shinto omzeilt deze verbroken verbinding tussen het Heilige en het alledaagse en brengt de patronen in de wereld naar voren.
 
