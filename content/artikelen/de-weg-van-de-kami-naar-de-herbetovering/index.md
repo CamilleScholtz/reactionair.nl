@@ -138,9 +138,9 @@ Mijns inziens heeft het westen daardoor een verkeerde afslag genomen om de s
 
 Tegenover de voortschrijdende inzichten van de wetenschap, blijft het westers denken in gebreke in termen van gedecentraliseerde netwerken, knooppunten, processen en patronen die een pluriformiteit van waarheden teweeg kunnen brengen. Deze waarheden zullen aan de hand van hun succes of mislukking kunnen aantonen of ze een juiste agent-arena-relatie hebben opgebouwd. 
 
-Het Westen zit vast in een vorm van (hiërarchisch) systeemdenken. Ons denken leidt niet langer tot een goede agent-arena relatie op een collectief niveau.
+Het westen zit vast in een vorm van (hiërarchisch) systeemdenken. Ons denken leidt niet langer tot een goede agent-arena-relatie op collectief niveau.
 
-Door dit paradigma vraagt het Westers denken de mens en maatschappij één waarheid te kiezen, en deze boven alle andere waarheden te verheffen als ‘de meest correcte universele waarheid’.
+Door dit paradigma vraagt het westers denken de mens en maatschappij één waarheid te kiezen en deze boven alle andere waarheden te verheffen als ‘de meest correcte universele waarheid’.
 
 Dit kenmerkt de eerdere pogingen van het Westen om zichzelf te herbetoveren; er werd gezocht naar een kosmologisch model dat de wereld in zijn totaliteit kon bevatten, of het verwierp de opkomende wetenschap voor een ander (veelal dogmatisch religieus) model. 
 
