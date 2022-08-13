@@ -180,7 +180,7 @@ Kami zijn vaak een soort geesten die bossen, bergen, rivieren bomen en rotsen 
 
 Kami’s hebben verschillende vormen. Soms zijn ze letterlijk het water in een bron of rivier, en betreed je de kami zelf als je in het water baadt. Andere keren hebben ze de vorm van een aanwezigheid die in een gebouw huist, of komen ze in de vorm van een mens (voormalige keizers waren de belichaming van een kami), dieren of draken.
 
-Huishoudens hebben ook een eigen kami, en voor de kamikun je in veel huishoudens een kamidana (een kami-kastje) vinden waar de kami verblijfplaats heeft midden in het huishouden.
+Huishoudens hebben ook een eigen kami, en voor de kami kun je in veel huishoudens een kamidana (een kami-kastje) vinden waar de kami een verblijfplaats heeft midden in het huishouden.
 
 Het lijkt hierin sterk op de oude volkse gebruiken die aanwezig waren in Europa en hun wortel hadden in de oude voorchristelijke polytheïstische kosmologie. Kami’s zijn vergelijkbaar met nimfen, dryaden, nereïden uit het Oude Griekenland, en deze Grieken personificeerden ook fenomenen als de noorderwind en de boodschapper van de winter (Boreas) en de westenwind en boodschapper van de lente (Zephyrus). Ook hadden ze goden voor begrenzingen (Terminus) en goden die grenzen doorbraken (Hermes). Ook kenden Europese tradities haardgoden (zoals Hestia) en huisgeesten (onze eigen kabouter is hier een voorbeeld van.
 
