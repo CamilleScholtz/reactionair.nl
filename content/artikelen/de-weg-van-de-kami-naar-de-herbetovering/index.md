@@ -4,7 +4,7 @@ subtitle = "Over het neergaande pad der onttovering"
 auteurs = ["Redactie"]
 date = "2022-08-10"
 themas = "Religie & Metafysica"
-aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes", "Jean-Jacques Rousseau"]
+aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes", "Jean-Jacques Rousseau", "Plato"]
 image = "72e2392b-0210-404d-b832-ce8525d3017d.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
@@ -76,11 +76,11 @@ Aan deze kant vormt Rousseaus Authentieke Zelf het laatste bolwerk tegen het n
 
 Een onmogelijkheid, want het is juist door beperkingen dat we in staat zijn iets wezenlijks te Zijn of te worden. Het is door de randvoorwaarden en beperkingen dat we iets als taal hebben. Zonder beperkingen vervallen we in lukraak geluid, niet langer geschikt om betekenis over te brengen.
 
-Aan de andere kant van het conflict heerst er een net zo een Faustiaanse en utopische nostalgie, ingegeven door de wens terug te keren naar een betere tijd2 waarin een ideale staat wordt nagestreefd. Ideeën van homogene gemeenschappen (in de realiteit zullen ze niet zo homogeen blijken als je denkt), barmhartige filosoof-koningen (een sterke leider of een metafysisch ideaalbeeld) die onvoorwaardelijk onze loyaliteit krijgen, of een ‘verwijdering’ van alle onwelgevallige elementen kenmerken deze nostalgie.
+Aan de andere kant van het conflict heerst er een net zo een faustiaanse en utopische nostalgie, ingegeven door de wens terug te keren naar een betere tijd waarin een ideale staat wordt nagestreefd. Ideeën van homogene gemeenschappen (in de realiteit zullen ze niet zo homogeen blijken als je denkt), barmhartige filosoof-koningen (een sterke leider of een metafysisch ideaalbeeld) die onvoorwaardelijk onze loyaliteit krijgen, of een ‘verwijdering’ van alle onwelgevallige elementen, kenmerken deze nostalgie.
 
-Hier wordt gezocht naar een moment dat de wereld nog zinnig geordend leek, en probeert men deze ordening in ere te herstellen. Zij bewandelen de weg van het personage Cypheruit de film The Matrix: ze wensen te kunnen vergeten en zichzelf terug te stoppen in een sluimer van een comfortabele illusie. Terug Plato’s grot in, het helle licht van de zon inruilen voor de duisternis en schimmenwereld van een vergane tijd. 
+Hier wordt gezocht naar een moment dat de wereld nog zinnig geordend leek en probeert men deze ordening in ere te herstellen. Zij bewandelen de weg van het personage Cypher uit de film The Matrix: ze wensen te kunnen vergeten en zichzelf terug te stoppen in een sluimer van een comfortabele illusie. Terug Plato’s grot in, het helle licht van de zon inruilen voor de duisternis en schimmenwereld van een vergane tijd. 
 
-Wederom een onmogelijkheid. De wens dit te kunnen doen maakt de nostalgie Faustiaans, omdat het de poort openzet voor grootschalig menselijk leed om een totalitair ideaalbeeld te verwezenlijken. Een hel op aarde verwezenlijken, voor een vluchtig gevoel van geluk. Een pact met de duivel.
+Wederom een onmogelijkheid. De wens dit te kunnen doen maakt de nostalgie faustiaans, omdat het de poort openzet voor grootschalig menselijk leed om een totalitair ideaalbeeld te verwezenlijken. Een hel op aarde verwezenlijken, voor een vluchtig gevoel van geluk. Een pact met de duivel.
 
 De systemen waar men naar wenst terug te keren, zijn met reden verdwenen of uit gratie geraakt. Ze hebben hun tijd gehad, en wij leven in een andere tijd, met andere uitdagingen en andere kennis en kunde.
 
