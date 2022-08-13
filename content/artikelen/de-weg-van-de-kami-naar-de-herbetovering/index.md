@@ -194,7 +194,7 @@ Maar als jij de kabouters niet ziet in je dagelijks leven, en ze enkel kunt zoek
 
 ### Jinja
 
-Een Jinja is een Shinto-heiligdom. Het is de plaats waar een kami huist.
+Een jinja is een shinto-heiligdom. Het is de plaats waar een kami huist.
 
 Jinja zijn te herkennen aan de torii-boog. Deze boog functioneert als een grensmarkering. Wie er onderdoor loopt, betreedt het domein van de kami. Net zoals wanneer je een huis betreedt waar je te gast bent, wordt volgens de Japanse etiquetteregels een bepaalde eerbied verwacht van de bezoeker. Men maakt veelal een lichte buiging voordat ze er onderdoor lopen, als teken van respect.
 
