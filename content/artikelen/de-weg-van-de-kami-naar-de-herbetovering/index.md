@@ -66,9 +66,9 @@ De moderne mens zoekt continu naar een compromis tussen zijn innerlijke ervaring
 
 Het onttoverde wereldbeeld is een wereldbeeld van propositionele epistemologie; onze kennis van de wereld bestaat grotendeels uit stellingen die we voor waar aannemen. We hebben de ervaring en het eigen perspectief onbetrouwbaar geduid voor waarheidsvinding.
 
-### Hoe we daar mee om proberen te gaan
-
 De onttovering als proces is al een lange tijd gaande, ver voordat Weber of Burke hun observaties noteerden. De moderniteit kenmerkt zich door een overvloed aan manieren om deze onttovering het hoofd te bieden en de mens te integreren. Deze methodes gaan van een radicale afwijzing van het wetenschappelijk kader (bijvoorbeeld creationisme, bepaalde protestantse denominaties en verscheidende nieuwe religieuze bewegingen), naar pogingen tot betovering (theosofie, de romantiek, New Age en zelfs stromingen als het islamitisch salafisme ontstaan als reactie op het westen), tot de radicale omarming van het wegvallen van de menselijke maat (technocratie, transhumanisme of nihilisme).
+
+### Hoe we om proberen te gaan met de onttovering
 
 Op dit moment in de tijd lijkt er in onze samenleving een conflict te ontstaan tussen enerzijds het ‘fully automated luxury gnosticism' met als einddoel een technocratie voorbij alle kaders en vormen.[^5] Bevrijd van alle beperkingen kunnen zijn wat je maar wilt.
 
