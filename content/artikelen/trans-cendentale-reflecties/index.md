@@ -15,7 +15,7 @@ Er wordt alom gesproken over ‘genderidentiteit’. Het is niet duidelijk wa
 
 Hier is een disjunctie; 
 
-ofwel ontken je het onderscheid tussen sekse en gender ofwel bevestig je het.
+Ofwel ontken je het onderscheid tussen sekse en gender ofwel bevestig je het.
 
 Men kan het onderscheid of verschil ontkennen of bevestigen onafhankelijk van de vraag of genderidentiteit iets reëels is, zodat we strikt genomen niet hoeven te weten wat men er eigenlijk mee bedoelt. Sekse daarentegen is een algemeen bekend en nauw gedefinieerd begrip. Het is namelijk gedefinieerd als de eigenschap biologisch mannelijk (male) of vrouwelijk (female) te zijn. De menselijke sekse is strikt binair en anisogaam, dat wil zeggen, met de menselijke seksuele reproductie, zoals bij de meeste dieren, zijn exact twee gameten gemoeid, de statische vrouwelijke eicel, die de grotere gameet is vergeleken met de bewegende mannelijke, de zaadcel. Dit feit wordt niet ontkracht door het bestaan van een relatief gering aantal mensen met intersekse-eigenschappen of mensen met chromosomale afwijkingen. Intersekse-mensen hebben ambiguë kenmerken van beide geslachten, maar vormen geen soort derde geslacht. Een derde geslacht is er biologisch gesproken gewoonweg niet. Het is belangrijk te onderkennen dat intersekse een medische categorie is, en niets met genderidentiteit van doen heeft, alsof het bijvoorbeeld een soort seksespectrum, waar vaak over gesproken wordt, aan zou duiden. Verwijzingen naar seksespectrum zijn de kwakzalverpraat van de transgender-lobby.  
 
