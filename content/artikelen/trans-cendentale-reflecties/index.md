@@ -43,7 +43,7 @@ Veel door ideologisch activisme gedreven filosofen van zowel analytische als co
 
 Evenzo beweren transactivisten dat sekse slechts een concept is, zoals genderidentiteit, terwijl ze op ongerijmde wijze ook beweren dat genderidentiteit het meest innerlijke gevoel van zichzelf is, zelfs essentiëler dan sekse. Het is onduidelijk wat met deze essentialistische gevoelsleer bedoeld kan zijn, en het valt nog te bezien welke metafysisch uitermate problematische vooronderstellingen aan een dergelijk essentialisme ten grondslag liggen. De zekerheid waarmee ze dit innerlijke gevoel paraderen, staat in ieder geval in schril contrast tot hun relativistische waarheidsopvatting.
 
-{{< boekenplank >}}
+{{< boekencast >}}
 
 Het feit dat waarheid niet beschikbaar is buiten onze begrippenkaders om, betekent echter niet dat waarheid slechts een conceptuele constructie is, laat staan ​​een psychologische constructie. Hoezeer onze kennis over de werkelijkheid ook noodzakelijkerwijs conceptueel bemiddeld is, de waarheid van onze gefundeerde oordelen over objecten komt nog altijd overeen met de materiële feiten.
 
