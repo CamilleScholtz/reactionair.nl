@@ -13,7 +13,7 @@ Er wordt alom gesproken over ‘genderidentiteit’. Het is niet duidelijk wa
 
 {{< image caption="Tiresias omgevormd tot een vrouw van Pietro della Vecchia." >}}
 
-Hier is een disjunctie; 
+Hier is een disjunctie:
 
 Ofwel ontken je het onderscheid tussen sekse en gender ofwel bevestig je het.
 
