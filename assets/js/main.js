@@ -135,6 +135,12 @@ const footnotes = (main, mobile) => {
 	});
 }
 
+const justify = (main) => {
+	document.fonts.ready.then(() => {
+		texLinebreak_lib.texLinebreakDOM(main.querySelectorAll("article>p"));
+	});
+}
+
 const time = (header) => {
 	const now = header.querySelector(".now");
 	if (!now) {
@@ -365,8 +371,9 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	const main     = document.querySelector("main");
 	const stickies = main.querySelectorAll(".sticky");
 
-	scroll(header, stickies, mobile);
 	quote(main);
+	justify(main);
+	scroll(header, stickies, mobile);
 	time(header);
 	search(header, mobile);
 	footnotes(main, mobile);
