@@ -96,7 +96,7 @@ Vaak zijn we enkel verder verdwaald in het labyrint doordat we niet goed doo
 
 ### Verschillende soorten weten
 
-Welke verschillende soorten weten zijn er? Hier zijn verschillende modellen voor. Voor dit essay wil mij focussen op het 4P-model uit de cognitiewetenschappen van Vervaeke en Ferraro.[^6]
+Welke verschillende soorten weten zijn er? Hier zijn verschillende modellen voor. Voor dit essay wil mij focussen op het 4P-model uit de cognitiewetenschappen van Vervaeke en Ferraro.[^7]
 
 Ik zal niet te veel uitweiden over het werk hierachter, maar ik vind het een sterk kader om verder over de problematiek te praten. Het bouwt voort op de onderscheiding van soorten kennis die Aristoteles uiteenzet in de Ethica Nicomachea.
 
@@ -168,7 +168,7 @@ We naderen de clou die ik reeds in de titel van dit essay verwerkt heb. Shint
 
 Voor wie niet met Japanse cultuur bekend is een korte introductie: shinto is een systeem van animistische natuurverering uit Japan. Het is platgeslagen een vorm van verering van landgeesten, oftewel kami. 
 
-Hoewel Japan een sterk geseculariseerd land is – enkel 36% van de Japanners identificeert zichzelf als religieus en daarvan is het gros boeddhistisch (enkel 3% identificeert zichzelf als shinto) – neemt meer dan 70% van de Japanners in een of andere vorm actief deel aan Shinto-praxis.[^7]
+Hoewel Japan een sterk geseculariseerd land is – enkel 36% van de Japanners identificeert zichzelf als religieus en daarvan is het gros boeddhistisch (enkel 3% identificeert zichzelf als shinto) – neemt meer dan 70% van de Japanners in een of andere vorm actief deel aan Shinto-praxis.[^8]
 
 Shinto laat zich vertalen als ‘Weg van de Kami’.
 
@@ -208,7 +208,7 @@ Jinja zijn vrijelijk te betreden. Wil je het hart van de van de jinja betred
 
 Shinto is een raamwerk waarmee de wereld om je heen gesacraliseerd wordt. De kami zijn overal. Ze zijn tastbaar als water, bomen, wind, het graan op de velden en de provocaties van vrienden en vijanden. Ze zijn verweven met je menselijke ervaring. Het Heilige bevindt zichzelf niet afgezonderd van de profane wereld, weggestopt en beschermd door de muren van een gebedshuis, maar staat onbeschaamd midden in de publieke ruimte. 
 
-Stadsparken en stranden, steegjes of wandelpaden. Zelfs in de velden van boeren zijn gebieden aangewezen als verblijfplaats voor de kami. De internetauteur Wrath of Gnon heeft ooit een mooi draadje gewijd aan de chinju no mori (beschermende bossen). Let op de torii die overal geplaatst zijn, om het huis van de kami aan te duiden.[^8] Het Heilige is overal en de hele dag wordt elk persoon geconfronteerd met de aanwezigheid van het transcendente. Er wordt aandacht voor geëist.
+Stadsparken en stranden, steegjes of wandelpaden. Zelfs in de velden van boeren zijn gebieden aangewezen als verblijfplaats voor de kami. De internetauteur Wrath of Gnon heeft ooit een mooi draadje gewijd aan de chinju no mori (beschermende bossen). Let op de torii die overal geplaatst zijn, om het huis van de kami aan te duiden.[^9] Het Heilige is overal en de hele dag wordt elk persoon geconfronteerd met de aanwezigheid van het transcendente. Er wordt aandacht voor geëist.
 
 Shinto richt zich op orthopraxie. De etiquette is van belang, niet wat je gelooft. Shinto leert geen ethiek of moraal. Haar priesters zijn zelfs vaak terughoudend om shinto als een geloofssysteem te duiden. Voor veel Japanners is shinto-praxis gewoon een onderdeel van de Japanse cultuur, omringd met gebruiken die je nu eenmaal doet omdat het zo hoort. In die zin zien Japanners shinto als iets vergelijkbaar met hoe seculier Nederland Oud en Nieuw of Kerst en Pasen vieren, alleen dan wordt men elke dag, op allerlei plekken herinnerd aan de aanwezigheid van dit systeem en denkt men niet enkel ergens op die koude decemberdag ineens ‘ohja, morgen Kerst. Dat was ook nog iets!’ Shinto omzeilt deze verbroken verbinding tussen het Heilige en het alledaagse en brengt de patronen in de wereld naar voren.
 
@@ -245,6 +245,6 @@ Uiteraard zou ik nog pagina’s kunnen uitweiden over een hoop van de zaken die
 [^5]: Unherd: *[Welcome to fully automated luxury gnosticism](https://unherd.com/2021/09/welcome-to-fully-automated-luxury-gnosticism/).*  
 
 [^6]: Naar een concept van Karl Jaspers, zie [Wikipedia](https://en.wikipedia.org/wiki/Axial_Age).
-[^6]: John Vervaeke -* [Relevance, meaning and the cognitive science of wisdom](https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cognitive_Science_of_Wisdom)*.
-[^7]: Wikipedia - *[Religion in Japan](https://en.wikipedia.org/wiki/Religion_in_Japan#cite_note-ACA_Yearbook-3](https://en.wikipedia.org/wiki/Religion_in_Japan))*.
-[^8]: Draad van het bekende Twitter-account Wrath of Gnon over [](https://twitter.com/wrathofgnon/status/1389596090211594241)[gewijde Japanse bossen](https://twitter.com/wrathofgnon/status/1389596090211594241).
+[^7]: John Vervaeke -* [Relevance, meaning and the cognitive science of wisdom](https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cognitive_Science_of_Wisdom)*.
+[^8]: Wikipedia - *[Religion in Japan](https://en.wikipedia.org/wiki/Religion_in_Japan#cite_note-ACA_Yearbook-3](https://en.wikipedia.org/wiki/Religion_in_Japan))*.
+[^9]: Draad van het bekende Twitter-account Wrath of Gnon over [](https://twitter.com/wrathofgnon/status/1389596090211594241)[gewijde Japanse bossen](https://twitter.com/wrathofgnon/status/1389596090211594241).
