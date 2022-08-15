@@ -46,6 +46,8 @@ Alle patroonherkenning en zelf-verhalende eigenschappen van de mens zijn introsp
 
 We zien de wereld buiten onszelf minder en minder, omdat we niet langer onszelf herkennen in de kosmologie die we door de onttovering hebben opgebouwd.
 
+Ik gebruik kosmologie hier niet om te refereren aan de wetenschappelijke school waarbinnen de globale structuur van het heelal wordt bestudeerd, maar aan een metafysisch model van de kosmos; een verklaringsmodel voor de mens en zijn rol in de wereld en zijn verstandhouding tot andere wezens en vormen. Er zijn verschillende modellen van de kosmos geweest, en er opereren nog steeds verscheidende parallel aan elkaar. De metafysische kosmologie van een hindoe, moslim of atheïst zullen wezenlijk verschillen, zelfs als allen de wetenschappelijke kosmologische structuur accepteren als waarheid. De wetenschap biedt immers geen moreel kader noch is het in staat positief te duiden wat waar is. Het kan enkel bevestigen wat niet waar is, tot een idee niet ontkend kan worden.
+
 Het cartesiaanse schisma tussen het geestelijke en het lichamelijke is zover doorgedrongen dat we het materiële niet langer herkennen als onderdeel van onszelf.  In deze introspectieve reis zoekt een deel van de mensen haar heil in het ontwaren van de Authentieke Zelf – de seculiere ziel – die diep in die cartesiaanse klei verstopt zit en waar we onze ervaring van Zijn op kunnen funderen.
 
 In een onttoverd wereldbeeld is ons bestaan louter willekeurig, er is geen teleologisch component in onze kosmologie. We weten door wetenschappelijk inzicht dat het universum bestaat uit inerte materie, welke aan wetmatige natuurkrachten onderhevig is. Ons wereldbeeld reduceert de menselijke ervaring tot een samenspel van hormonen, stofjes en elektrische impulsen in ons brein.
@@ -235,12 +237,6 @@ Zo’n systeem moet ontstaan vanuit een voortdurend dialoog tussen individu, 
 Breng de arena goed in kaart, bepaal vanuit welk perspectief je haar aanschouwt. Test en vind de juiste procedures om in de arena te Zijn en successen te behalen. Ervaar welke proposities voor het westen van waarde zijn. 
 
 Uiteraard zou ik nog pagina’s kunnen uitweiden over een hoop van de zaken die ik heb aangesneden, maar dit artikel is lang zat en ik wil hen die tot het einde zijn gekomen bedanken voor de aandacht die jullie mij gegeven hebben. 
-
-1Ik gebruik kosmologie hier niet om te refereren aan de wetenschappelijke school waarbinnen de globale structuur van het heelal wordt bestudeerd, maar aan een metafysisch model van de kosmos; een verklaringsmodel voor de mens en zijn rol in de wereld en zijn verstandhouding tot andere wezens en vormen. 
-
-2Er zijn verschillende modellen van de kosmos geweest, en er opereren nog steeds verscheidende parallel aan elkaar. De metafysische kosmologie van een Hindoe, moslim of atheïst zullen wezenlijk verschillen, zelfs als allen de wetenschappelijke kosmologische structuur accepteren als waarheid. De wetenschap biedt immers geen moreel kader noch is het in staat positief te duiden wat waar is. Het kan enkel bevestigen wat niet waar is, tot een idee niet ontkent kan worden.
-
-2De vraag is, naar welke tijd keren we precies terug? Terug naar de tijd vóór de revoluties van 1968? Of liever terug naar vóór de Eerste Wereldoorlog? De Franse Revolutie? De Reformatie? De Renaissance? De Axiale Revolutie? Waarom omarmen we niet direct de [Bronstijd](https://www.amazon.nl/Bronze-Age-Mindset-Pervert/dp/1983090441) en beginnen we civilisatie van vooraf aan?
 
 [^1]: Volledig citaat: “The Age of Chivalry is gone. That of sophisters, economists, and calculators has succeeded; and the glory of Europe is extinguished for ever. Never, never more, shall we behold the generous loyalty to rank and sex, that proud submission, that dignified obedience, that subordination of the heart, which kept alive, even in servitude itself, the spirit of an exalted freedom. The unbought grace of life, the cheap defence of nations, the nurse of manly sentiment and heroic enterprize is gone!” uit *Reflections on the revolution in France* van Edmund Burke.
 [^2]: Tegenlicht: *[De aarde draait door](https://www.vpro.nl/programmas/tegenlicht/kijk/afleveringen/2018-2019/de-aarde-draait-door.html)*. 
