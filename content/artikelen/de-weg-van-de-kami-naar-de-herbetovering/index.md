@@ -4,7 +4,7 @@ subtitle = "Over het neergaande pad der onttovering"
 auteurs = ["Elvengast"]
 date = "2022-08-10"
 themas = "Religie & Metafysica"
-aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes", "Jean-Jacques Rousseau", "Bronze age pervert", "Plato", "Paul Kingsnorth", "John Vervaeke", "Aristoteles", "Ludwig Wittgenstein", "Martin Heidegger"]
+aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes", "Jean-Jacques Rousseau", "Karl Jaspers", "Bronze age pervert", "Plato", "Paul Kingsnorth", "John Vervaeke", "Aristoteles", "Ludwig Wittgenstein", "Martin Heidegger"]
 image = "torii.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
@@ -80,7 +80,7 @@ Aan deze kant vormt Rousseaus Authentieke Zelf het laatste bolwerk tegen het n
 
 Een onmogelijkheid, want het is juist door beperkingen dat we in staat zijn iets wezenlijks te Zijn of te worden. Het is door de randvoorwaarden en beperkingen dat we iets als taal hebben. Zonder beperkingen vervallen we in lukraak geluid, niet langer geschikt om betekenis over te brengen.
 
-Aan de andere kant van het conflict heerst er een net zo een faustiaanse en utopische nostalgie, ingegeven door de wens terug te keren naar een betere tijd waarin een ideale staat wordt nagestreefd. De vraag is, naar welke tijd keren we precies terug? Terug naar de tijd vóór de revoluties van 1968? Of liever terug naar vóór de eerste wereldoorlog? De Franse revolutie? De reformatie? De renaissance? De axiale revolutie? Waarom omarmen we niet direct de [](https://www.amazon.nl/Bronze-Age-Mindset-Pervert/dp/1983090441)bronstijd (zoals de cultschrijver Bronze age pervert) en beginnen we het beschavingsproces van vooraf aan? 
+Aan de andere kant van het conflict heerst er een net zo een faustiaanse en utopische nostalgie, ingegeven door de wens terug te keren naar een betere tijd waarin een ideale staat wordt nagestreefd. De vraag is, naar welke tijd keren we precies terug? Terug naar de tijd vóór de revoluties van 1968? Of liever terug naar vóór de eerste wereldoorlog? De Franse revolutie? De reformatie? De renaissance? De axiale revolutie?[^6] Waarom omarmen we niet direct de [](https://www.amazon.nl/Bronze-Age-Mindset-Pervert/dp/1983090441)bronstijd (zoals de cultschrijver Bronze age pervert) en beginnen we het beschavingsproces van vooraf aan? 
 
 Ideeën van homogene gemeenschappen (in de realiteit zullen ze niet zo homogeen blijken als je denkt), barmhartige filosoof-koningen (een sterke leider of een metafysisch ideaalbeeld) die onvoorwaardelijk onze loyaliteit krijgen, of een ‘verwijdering’ van alle onwelgevallige elementen, kenmerken deze nostalgie. Hier wordt gezocht naar een moment dat de wereld nog zinnig geordend leek en probeert men deze ordening in ere te herstellen. Zij bewandelen de weg van het personage Cypher uit de film The Matrix: ze wensen te kunnen vergeten en zichzelf terug te stoppen in een sluimer van een comfortabele illusie. Terug Plato’s grot in, het helle licht van de zon inruilen voor de duisternis en schimmenwereld van een vergane tijd. 
 
@@ -242,7 +242,9 @@ Uiteraard zou ik nog pagina’s kunnen uitweiden over een hoop van de zaken die
 [^2]: Tegenlicht: *[De aarde draait door](https://www.vpro.nl/programmas/tegenlicht/kijk/afleveringen/2018-2019/de-aarde-draait-door.html)*. 
 [^3]: “Nowadays people know the price of everything and the value of nothing.” uit *The picture of Dorian Gray* van Oscar Wilde.
 [^4]: Roger Scruton - *[Of beauty and consolatio](https://www.youtube.com/watch?v=UVd_kqKWpVk)[n](https://www.youtube.com/watch?v=UVd_kqKWpVk)* (vraaggesprek op YouTube).
-[^5]: Unherd: *[Welcome to fully automated luxury gnosticism](https://unherd.com/2021/09/welcome-to-fully-automated-luxury-gnosticism/).*
+[^5]: Unherd: *[Welcome to fully automated luxury gnosticism](https://unherd.com/2021/09/welcome-to-fully-automated-luxury-gnosticism/).*  
+
+[^6]: Naar een concept van Karl Jaspers, zie [Wikipedia](https://en.wikipedia.org/wiki/Axial_Age).
 [^6]: John Vervaeke -* [Relevance, meaning and the cognitive science of wisdom](https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cognitive_Science_of_Wisdom)*.
 [^7]: Wikipedia - *[Religion in Japan](https://en.wikipedia.org/wiki/Religion_in_Japan#cite_note-ACA_Yearbook-3](https://en.wikipedia.org/wiki/Religion_in_Japan))*.
 [^8]: Draad van het bekende Twitter-account Wrath of Gnon over [](https://twitter.com/wrathofgnon/status/1389596090211594241)[gewijde Japanse bossen](https://twitter.com/wrathofgnon/status/1389596090211594241).
