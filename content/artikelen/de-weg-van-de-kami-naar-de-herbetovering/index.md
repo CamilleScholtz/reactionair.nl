@@ -242,9 +242,9 @@ Uiteraard zou ik nog pagina’s kunnen uitweiden over een hoop van de zaken die
 
 2De vraag is, naar welke tijd keren we precies terug? Terug naar de tijd vóór de revoluties van 1968? Of liever terug naar vóór de Eerste Wereldoorlog? De Franse Revolutie? De Reformatie? De Renaissance? De Axiale Revolutie? Waarom omarmen we niet direct de [Bronstijd](https://www.amazon.nl/Bronze-Age-Mindset-Pervert/dp/1983090441) en beginnen we civilisatie van vooraf aan?
 
-[^1]: Volledig citaat: “The Age of Chivalry is gone. That of sophisters, economists, and calculators has succeeded; and the glory of Europe is extinguished for ever. Never, never more, shall we behold the generous loyalty to rank and sex, that proud submission, that dignified obedience, that subordination of the heart, which kept alive, even in servitude itself, the spirit of an exalted freedom. The unbought grace of life, the cheap defence of nations, the nurse of manly sentiment and heroic enterprize is gone!” uit Reflections on the revolution in France van Edmund Burke.
-[^2]: Tegenlicht: De aarde draait door. https://www.vpro.nl/programmas/tegenlicht/kijk/afleveringen/2018-2019/de-aarde-draait-door.html
-[^3]: “Nowadays people know the price of everything and the value of nothing.” uit The picture of Dorian Gray van Oscar Wilde.
+[^1]: Volledig citaat: “The Age of Chivalry is gone. That of sophisters, economists, and calculators has succeeded; and the glory of Europe is extinguished for ever. Never, never more, shall we behold the generous loyalty to rank and sex, that proud submission, that dignified obedience, that subordination of the heart, which kept alive, even in servitude itself, the spirit of an exalted freedom. The unbought grace of life, the cheap defence of nations, the nurse of manly sentiment and heroic enterprize is gone!” uit *Reflections on the revolution in France* van Edmund Burke.
+[^2]: Tegenlicht: *[De aarde draait door](https://www.vpro.nl/programmas/tegenlicht/kijk/afleveringen/2018-2019/de-aarde-draait-door.html)*. 
+[^3]: “Nowadays people know the price of everything and the value of nothing.” uit *The picture of Dorian Gray* van Oscar Wilde.
 [^4]: https://www.youtube.com/watch?v=UVd_kqKWpVk
 [^5]: https://unherd.com/2021/09/welcome-to-fully-automated-luxury-gnosticism/
 [^6]: https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cognitive_Science_of_Wisdom
