@@ -28,6 +28,8 @@ De onttovering van de wereld leidt tot een spirituele leegte. 
 {{< quote
 	text="Tegenwoordig weet men van alles de prijs, maar van niets de waarde."
 	author="Oscar Wilde"
+	aside=true
+	article=true
 >}}
 
 De onttovering van de wereld leidt tot een existentiële vervreemding van onze eigen ervaring. De menselijke ervaring is inherent betoverd.
@@ -80,7 +82,7 @@ Aan deze kant vormt Rousseaus Authentieke Zelf het laatste bolwerk tegen het n
 
 Een onmogelijkheid, want het is juist door beperkingen dat we in staat zijn iets wezenlijks te Zijn of te worden. Het is door de randvoorwaarden en beperkingen dat we iets als taal hebben. Zonder beperkingen vervallen we in lukraak geluid, niet langer geschikt om betekenis over te brengen.
 
-Aan de andere kant van het conflict heerst er een net zo een faustiaanse en utopische nostalgie, ingegeven door de wens terug te keren naar een betere tijd waarin een ideale staat wordt nagestreefd. De vraag is, naar welke tijd keren we precies terug? Terug naar de tijd vóór de revoluties van 1968? Of liever terug naar vóór de eerste wereldoorlog? De Franse revolutie? De reformatie? De renaissance? De axiale revolutie?[^6] Waarom omarmen we niet direct de [](https://www.amazon.nl/Bronze-Age-Mindset-Pervert/dp/1983090441)bronstijd (zoals de cultschrijver Bronze age pervert) en beginnen we het beschavingsproces van voor af aan? 
+Aan de andere kant van het conflict heerst er een net zo een faustiaanse en utopische nostalgie, ingegeven door de wens terug te keren naar een betere tijd waarin een ideale staat wordt nagestreefd. De vraag is, naar welke tijd keren we precies terug? Terug naar de tijd vóór de revoluties van 1968? Of liever terug naar vóór de eerste wereldoorlog? De Franse revolutie? De reformatie? De renaissance? De axiale revolutie?[^6] Waarom omarmen we niet direct de [bronstijd](https://www.amazon.nl/Bronze-Age-Mindset-Pervert/dp/1983090441) (zoals de cultschrijver Bronze age pervert) en beginnen we het beschavingsproces van vooraf aan? 
 
 Ideeën van homogene gemeenschappen (in de realiteit zullen ze niet zo homogeen blijken als je denkt), barmhartige filosoof-koningen (een sterke leider of een metafysisch ideaalbeeld) die onvoorwaardelijk onze loyaliteit krijgen, of een ‘verwijdering’ van alle onwelgevallige elementen, kenmerken deze nostalgie. Hier wordt gezocht naar een moment dat de wereld nog zinnig geordend leek en probeert men deze ordening in ere te herstellen. Zij bewandelen de weg van het personage Cypher uit de film The Matrix: ze wensen te kunnen vergeten en zichzelf terug te stoppen in een sluimer van een comfortabele illusie. Terug Plato’s grot in, het helle licht van de zon inruilen voor de duisternis en schimmenwereld van een vergane tijd. 
 
@@ -102,19 +104,19 @@ Ik zal niet te veel uitweiden over het werk hierachter, maar ik vind het een 
 
 Dit model kadert 4 manieren van weten (de 4 P’s):
 
-1.  Participatief weten
+1.  **Participatief weten:**
 
 Weten hoe je handelt binnen de relatie tussen agent (jijzelf) en arena (omgeving). Het is een fundamentele en diepgaande vorm van kennis. Participatieve kennis is het verschil tussen jezelf bevinden in een staat van verwarring en de zogenaamde ‘flow-state’; de ervaring dat je deelneemt in een natuurlijke ‘dans’ met je omgeving.
 
-1.  Perspectivisch weten
+2.  **Perspectivisch weten:**
 
 Weten via de belichaamde waarneming. Het zien van de wereld en jouw plaats daarin vanuit een specifiek gezichtspunt en het begrijpen van de belangrijkste aspecten van de situatie waarin je jezelf bevindt.
 
-1. Procedureel weten
+3. **Procedureel weten:**
 
 Weten hoe iets moet. Dit omvat complexe kennis (neurochirurgie of sieraden maken) en simpele kennis (veterstrikken).
 
-1. Propositioneel weten
+4. **Propositioneel weten:**
 
 Weten of iets waar is. Propositionele kennis is gekaderd door taal. Daarin betreedt dit soort weten het domein van implicaties, context, betekenis en relaties tussen verschillende proposities. Dit is een immens complex domein, waarbij je snel tot de realisatie komt dat je eigenlijk niet propositioneel kunt weten zonder een enorm corpus aan programmatische voorkennis om überhaupt in taal te kunnen duiden wat waar is.
 
@@ -243,7 +245,6 @@ Uiteraard zou ik nog pagina’s kunnen uitweiden over een hoop van de zaken die
 [^3]: “Nowadays people know the price of everything and the value of nothing.” uit *The picture of Dorian Gray* van Oscar Wilde.
 [^4]: Roger Scruton - *[Of beauty and consolatio](https://www.youtube.com/watch?v=UVd_kqKWpVk)**[n](https://www.youtube.com/watch?v=UVd_kqKWpVk)* (vraaggesprek op YouTube).
 [^5]: Unherd: *[Welcome to fully automated luxury gnosticism](https://unherd.com/2021/09/welcome-to-fully-automated-luxury-gnosticism/).*  
-
 [^6]: Naar een concept van Karl Jaspers, zie [Wikipedia](https://en.wikipedia.org/wiki/Axial_Age).
 [^7]: John Vervaeke -* [Relevance, meaning and the cognitive science of wisdom](https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cognitive_Science_of_Wisdom)*.
 [^8]: Wikipedia - *[Religion in Japan](https://en.wikipedia.org/wiki/Religion_in_Japan#cite_note-ACA_Yearbook-3](https://en.wikipedia.org/wiki/Religion_in_Japan))*.
