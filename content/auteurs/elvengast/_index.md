@@ -1,7 +1,7 @@
 +++
 title = "Elvengast"
 profession = "Rivendell-respecteerder"
-description = "..."
+description = "Surft op de golven van de kali joega."
 pseudonym = true
 avatar = "elvengast-profiel.jpeg"
 +++
