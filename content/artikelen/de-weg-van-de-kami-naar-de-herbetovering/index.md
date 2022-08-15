@@ -1,7 +1,7 @@
 +++
 title = "De weg van de kami naar de herbetovering [Nar; lijstje]"
 subtitle = "Over het neergaande pad der onttovering"
-auteurs = ["Redactie"]
+auteurs = ["Elvengast"]
 date = "2022-08-10"
 themas = "Religie & Metafysica"
 aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes", "Jean-Jacques Rousseau", "Plato", "Paul Kingsnorth", "John Vervaeke", "Aristoteles", "Ludwig Wittgenstein", "Martin Heidegger"]
