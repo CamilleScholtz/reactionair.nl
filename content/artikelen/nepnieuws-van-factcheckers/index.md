@@ -25,7 +25,7 @@ Alleen door deze complot-tweets van Meeuwisse en Aalberts – die direct meeging
 
 {{< tweet CamilleMeloen 1557756530346364932 >}}
 
-Langzaam zijn de *FVD-watchers* in hun eigen complottheorieën gaan geloven en zijn ze dagelijks obsessief bezig met het zoeken naar verbanden die niet bestaan. Ze zijn spoken gaan zien. Humor bestaat niet meer en overal moet wel een duistere agenda achter zitten. Het is voor hun niet meer mogelijk voor te stellen dat met opmerkingen zoals “Fascisten voor Democratie” geen daadwerkelijk plan in werking wordt gezet om de naam aan te passen, maar er slechts de spot wordt gedreven met hun eigen obsessieve gedrag. Het zou voor deze mensen zelf beter zijn om hun Twitter te verwijderen, aan hun eigen bloeddruk te denken en lekker van hun pensioen te gaan genieten.
+Langzaam zijn de *FVD-watchers* in hun eigen complottheorieën gaan geloven en zijn ze dagelijks obsessief bezig met het zoeken naar verbanden die niet bestaan. Ze zijn spoken gaan zien. Humor bestaat niet meer en overal moet wel een duistere agenda achter zitten. Het is voor hen niet meer mogelijk voor te stellen dat met opmerkingen zoals “Fascisten voor Democratie” geen daadwerkelijk plan in werking wordt gezet om de naam aan te passen, maar er slechts de spot wordt gedreven met hun eigen obsessieve gedrag. Het zou voor deze mensen zelf beter zijn om hun Twitter te verwijderen, aan hun eigen bloeddruk te denken en lekker van hun pensioen te gaan genieten.
 
 [^1]: Sal Hagen, Jaap Tielbeke en Coen van de Ven, *[Influencers van Wodan
 ](https://www.groene.nl/artikel/influencers-van-wodan)*.
