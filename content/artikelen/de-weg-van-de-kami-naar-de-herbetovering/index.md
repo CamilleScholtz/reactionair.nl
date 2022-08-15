@@ -249,4 +249,4 @@ Uiteraard zou ik nog pagina’s kunnen uitweiden over een hoop van de zaken die
 [^5]: Unherd: *[Welcome to fully automated luxury gnosticism](https://unherd.com/2021/09/welcome-to-fully-automated-luxury-gnosticism/).*
 [^6]: John Vervaeke -* [Relevance, meaning and the cognitive science of wisdom](https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cognitive_Science_of_Wisdom)*.
 [^7]: Wikipedia - *[Religion in Japan](https://en.wikipedia.org/wiki/Religion_in_Japan#cite_note-ACA_Yearbook-3](https://en.wikipedia.org/wiki/Religion_in_Japan))*.
-[^8]: https://twitter.com/wrathofgnon/status/1389596090211594241
+[^8]: Draad van het bekende Twitter-account Wrath of Gnon over [](https://twitter.com/wrathofgnon/status/1389596090211594241)[gewijde Japanse bossen](https://twitter.com/wrathofgnon/status/1389596090211594241).
