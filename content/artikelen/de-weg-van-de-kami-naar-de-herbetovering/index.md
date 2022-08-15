@@ -1,5 +1,5 @@
 +++
-title = "De weg van de kami naar de herbetovering [Nar; lijstje]"
+title = "De weg van de kami naar de herbetovering"
 subtitle = "Over het neergaande pad der onttovering"
 auteurs = ["Elvengast"]
 date = "2022-08-10"
