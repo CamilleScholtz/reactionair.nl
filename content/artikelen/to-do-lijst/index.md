@@ -8,7 +8,7 @@ image = "istockphoto-545593488-170667a.jpg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
-\-donatiepagina, hoe aandacht genereren?
+\-donatiepagina opleuken, hoe aandacht genereren?
 
 \-gesproken artikelen
 
@@ -23,3 +23,5 @@ question = "Wat zijn uw gedachten over dit artikel?"
 \-volgende podcast
 
 \-posters instagram?
+
+\-instagramlink op frontpage
