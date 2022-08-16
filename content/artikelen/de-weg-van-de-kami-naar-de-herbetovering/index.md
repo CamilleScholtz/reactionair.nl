@@ -85,6 +85,8 @@ Een onmogelijkheid, want het is juist door beperkingen dat we in staat zijn iets
 
 Aan de andere kant van het conflict heerst er een net zo een faustiaanse en utopische nostalgie, ingegeven door de wens terug te keren naar een betere tijd waarin een ideale staat wordt nagestreefd. De vraag is, naar welke tijd keren we precies terug? Terug naar de tijd vóór de revoluties van 1968? Of liever terug naar vóór de eerste wereldoorlog? De Franse revolutie? De reformatie? De renaissance? De axiale revolutie?[^6] Waarom omarmen we niet direct de *[bronstijd](https://www.amazon.nl/Bronze-Age-Mindset-Pervert/dp/1983090441)* (zoals de cultschrijver Bronze Age Pervert) en beginnen we het beschavingsproces van vooraf aan? 
 
+{{< boekencast >}}
+
 Ideeën van homogene gemeenschappen (in de realiteit zullen ze niet zo homogeen blijken als je denkt), barmhartige filosoof-koningen (een sterke leider of een metafysisch ideaalbeeld) die onvoorwaardelijk onze loyaliteit krijgen, of een ‘verwijdering’ van alle onwelgevallige elementen, kenmerken deze nostalgie. Hier wordt gezocht naar een moment dat de wereld nog zinnig geordend leek en probeert men deze ordening in ere te herstellen. Zij bewandelen de weg van het personage Cypher uit de film The Matrix: ze wensen te kunnen vergeten en zichzelf terug te stoppen in een sluimer van een comfortabele illusie. Terug Plato’s grot in, het helle licht van de zon inruilen voor de duisternis en schimmenwereld van een vergane tijd. 
 
 Wederom een onmogelijkheid. De wens dit te kunnen doen maakt de nostalgie faustiaans, omdat het de poort openzet voor grootschalig menselijk leed om een totalitair ideaalbeeld te verwezenlijken. Een hel op aarde verwezenlijken, voor een vluchtig gevoel van geluk. Een pact met de duivel.
