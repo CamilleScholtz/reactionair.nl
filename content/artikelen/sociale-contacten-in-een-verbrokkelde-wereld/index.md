@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Michel Foucault']
+aangehaald = ['Michel Foucault', 'Max Weber']
 auteurs = ['v. Deirm']
 date = '2021-12-07'
 subtitle = 'De industriële revolutie en haar invloed op sociale interactie'

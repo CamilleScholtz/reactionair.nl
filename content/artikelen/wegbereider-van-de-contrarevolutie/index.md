@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Michel Foucault']
+aangehaald = ['Edmund Burke', 'Michel Foucault']
 auteurs = ['J. Floressas des Esseintes']
 date = '2021-10-11'
 subtitle = 'Over Louis de Bonald'

@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Johann Wolfgang von Goethe', 'René Guénon', 'Karl Marx', 'Jean-Jacques Rousseau', 'Friedrich Schiller']
+aangehaald = ['Edmund Burke', 'Johann Wolfgang von Goethe', 'René Guénon', 'Karl Marx', 'Jean-Jacques Rousseau', 'Friedrich Schiller']
 auteurs = ['Jan-Willem Veldhuizen']
 date = '2021-11-17'
 dossiers = ['Klimaatverandering']
