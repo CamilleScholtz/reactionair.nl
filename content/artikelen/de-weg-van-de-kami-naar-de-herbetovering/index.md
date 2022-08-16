@@ -4,7 +4,7 @@ subtitle = "Over het neergaande pad der onttovering"
 auteurs = ["Elvengast"]
 date = "2022-08-16"
 themas = "Religie & Metafysica"
-aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes", "Jean-Jacques Rousseau", "Karl Jaspers", "Bronze age pervert", "Plato", "Paul Kingsnorth", "John Vervaeke", "Aristoteles", "Ludwig Wittgenstein", "Martin Heidegger"]
+aangehaald = ["Edmund Burke", "René Descartes", "Martin Heidegger", "Jean-Jacques Rousseau", "Friedrich Schiller", "Max Weber", "Ludwig Wittgenstein", "Aristoteles", "Plato"]
 image = "torii.jpeg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
@@ -72,9 +72,10 @@ Het onttoverde wereldbeeld is een wereldbeeld van propositionele epistemologie;
 
 De onttovering als proces is al een lange tijd gaande, ver voordat Weber of Burke hun observaties noteerden. De moderniteit kenmerkt zich door een overvloed aan manieren om deze onttovering het hoofd te bieden en de mens te integreren. Deze methodes gaan van een radicale afwijzing van het wetenschappelijk kader (bijvoorbeeld creationisme, bepaalde protestantse denominaties en verscheidende nieuwe religieuze bewegingen), naar pogingen tot betovering (theosofie, de romantiek, New Age en zelfs stromingen als het islamitisch salafisme ontstaan als reactie op het westen), tot de radicale omarming van het wegvallen van de menselijke maat (technocratie, transhumanisme of nihilisme).
 
+
 ### Hoe we om proberen te gaan met de onttovering
 
-Op dit moment in de tijd lijkt er in onze samenleving een conflict te ontstaan tussen enerzijds het ‘fully automated luxury gnosticism' met als einddoel een technocratie voorbij alle kaders en vormen.[^5] Bevrijd van alle beperkingen kunnen zijn wat je maar wilt.
+Op dit moment in de tijd lijkt er in onze samenleving een conflict te ontstaan tussen enerzijds het *‘fully automated luxury gnosticism'* met als einddoel een technocratie voorbij alle kaders en vormen.[^5] Bevrijd van alle beperkingen kunnen zijn wat je maar wilt.
 
 Binnen dit wereldbeeld heeft het in-zichzelf-keren van het westers zelfbeeld geleid tot het idee dat diep binnen in elk persoon een Authentieke Zelf zit, dat uit de beperkingen van het lichaam en de materiële wereld gered dient te worden door middel van wetenschappelijke vooruitgang zoals het controleren van de vruchtbaarheid en de gevoelens, ingrepen en interventies op het lichaam of dit Zelf door middel van metaverses en transhumanisme in een simulatie tot authentieke uiting laten komen. 
 
@@ -82,7 +83,7 @@ Aan deze kant vormt Rousseaus Authentieke Zelf het laatste bolwerk tegen het n
 
 Een onmogelijkheid, want het is juist door beperkingen dat we in staat zijn iets wezenlijks te Zijn of te worden. Het is door de randvoorwaarden en beperkingen dat we iets als taal hebben. Zonder beperkingen vervallen we in lukraak geluid, niet langer geschikt om betekenis over te brengen.
 
-Aan de andere kant van het conflict heerst er een net zo een faustiaanse en utopische nostalgie, ingegeven door de wens terug te keren naar een betere tijd waarin een ideale staat wordt nagestreefd. De vraag is, naar welke tijd keren we precies terug? Terug naar de tijd vóór de revoluties van 1968? Of liever terug naar vóór de eerste wereldoorlog? De Franse revolutie? De reformatie? De renaissance? De axiale revolutie?[^6] Waarom omarmen we niet direct de [bronstijd](https://www.amazon.nl/Bronze-Age-Mindset-Pervert/dp/1983090441) (zoals de cultschrijver Bronze age pervert) en beginnen we het beschavingsproces van vooraf aan? 
+Aan de andere kant van het conflict heerst er een net zo een faustiaanse en utopische nostalgie, ingegeven door de wens terug te keren naar een betere tijd waarin een ideale staat wordt nagestreefd. De vraag is, naar welke tijd keren we precies terug? Terug naar de tijd vóór de revoluties van 1968? Of liever terug naar vóór de eerste wereldoorlog? De Franse revolutie? De reformatie? De renaissance? De axiale revolutie?[^6] Waarom omarmen we niet direct de *[bronstijd](https://www.amazon.nl/Bronze-Age-Mindset-Pervert/dp/1983090441)* (zoals de cultschrijver Bronze Age Pervert) en beginnen we het beschavingsproces van vooraf aan? 
 
 Ideeën van homogene gemeenschappen (in de realiteit zullen ze niet zo homogeen blijken als je denkt), barmhartige filosoof-koningen (een sterke leider of een metafysisch ideaalbeeld) die onvoorwaardelijk onze loyaliteit krijgen, of een ‘verwijdering’ van alle onwelgevallige elementen, kenmerken deze nostalgie. Hier wordt gezocht naar een moment dat de wereld nog zinnig geordend leek en probeert men deze ordening in ere te herstellen. Zij bewandelen de weg van het personage Cypher uit de film The Matrix: ze wensen te kunnen vergeten en zichzelf terug te stoppen in een sluimer van een comfortabele illusie. Terug Plato’s grot in, het helle licht van de zon inruilen voor de duisternis en schimmenwereld van een vergane tijd. 
 
@@ -134,7 +135,7 @@ De relatie tussen de verschillende P’s werkt in beide richtingen. Om tot een 
 
 Het westen is gevormd door eeuwen van een monistische kosmologie: er is één waarheid. Het westers denken kan niet goed overweg met een pluriformiteit van waarheden. Zelfs de verwerping van God leidt in het Westen uiteindelijk tot een mono-atheïsme; het vervangt de éne waarheid met één andere, zoals de rigide argumenten van de New Atheists herhaaldelijk etaleren.
 
-Dit wereldbeeld van een enkele waarheid leidt tot een grote waardering voor orthodoxie. 'Orthodoxie' komt van het Griekse ὀρθοδοξία (orthodoxía) dat ruwweg vertaald kan worden als: ‘het juiste geloof’ of ‘de juiste mening’. Orthodoxie wijst op het voor waar aannemen van bepaalde (geloofs)stellingen. Orthodoxie is een vorm van propositionele kennis.
+Dit wereldbeeld van een enkele waarheid leidt tot een grote waardering voor orthodoxie. 'Orthodoxie' komt van het Griekse *ὀρθοδοξία* (*orthodoxía*) dat ruwweg vertaald kan worden als: ‘het juiste geloof’ of ‘de juiste mening’. Orthodoxie wijst op het voor waar aannemen van bepaalde (geloofs)stellingen. Orthodoxie is een vorm van propositionele kennis.
 
 Het westen waardeert ‘juist geloof’ - propositionele kennis - boven alle andere vormen van kennis. Ons denkkader is moeilijk in staat te doorgronden dat waarheid kan veranderen als je perspectief op datgeen waar iemand naar kijkt verandert. Dat het perspectief vervolgens doorzingt in de gehele agent-arena relatie, en dat daardoor elk perspectief dat de arena in kaart brengt tot een andere ‘waarheid’ zou kunnen komen, daar kan westers denken moeilijk mee uit de voeten.
 
@@ -220,8 +221,8 @@ Natuurlijk voldoet shinto aan allerlei kenmerken van een religie, ook zoals wi
 
 Voor het westerse (en misschien breder abrahamisch) paradigma kan dit even wennen zijn. Wij identificeren onszelf heel erg met ons religieus handelen (en daarom zweren veel niet-religieuzen het handelen in zijn totaliteit af), en ik kan me voorstellen dat het voor een christen of moslim moeilijk te rijmen is dat je de jinja’s bezoekt, respect toont voor de kami en zelfs offers brengt voor hun zegens, zonder dat je daarmee in conflict komt met geloofstellingen van de eigen leer, noch dat je jezelf religieus verbindt met de kami.
 
-Toch tonen de cijfers dat men in Japan geen probleem heeft om vanuit een ander religieus systeem deel te nemen aan de shinto-praxis. Daar ligt mijns inziens de kracht van shinto. Het preekt geen ethiek of moraal, het laat dit over aan ander systemen. \
-\
+Toch tonen de cijfers dat men in Japan geen probleem heeft om vanuit een ander religieus systeem deel te nemen aan de shinto-praxis. Daar ligt mijns inziens de kracht van shinto. Het preekt geen ethiek of moraal, het laat dit over aan ander systemen.
+
 Wees christen of moslim en leef die leer vroom. Dit raamwerk vraagt enkel je aandacht voor het hier en nu. Een eerbied voor de omgeving waar je jezelf in bevindt. De volle aandacht richten op de handeling die je nu doet, of je nu kookt, werkt op kantoor, jezelf bezighoudt met je hobby of even luistert naar de spelende kinderen of de vogels in de bomen van de jinja, en je richten op de personificatie van die handeling. 
 
 ### Heidegger en shinto
@@ -241,11 +242,11 @@ Breng de arena goed in kaart, bepaal vanuit welk perspectief je haar aanschouwt
 Uiteraard zou ik nog pagina’s kunnen uitweiden over een hoop van de zaken die ik heb aangesneden, maar dit artikel is lang zat en ik wil hen die tot het einde zijn gekomen bedanken voor de aandacht die jullie mij gegeven hebben. 
 
 [^1]: Volledig citaat: “The Age of Chivalry is gone. That of sophisters, economists, and calculators has succeeded; and the glory of Europe is extinguished for ever. Never, never more, shall we behold the generous loyalty to rank and sex, that proud submission, that dignified obedience, that subordination of the heart, which kept alive, even in servitude itself, the spirit of an exalted freedom. The unbought grace of life, the cheap defence of nations, the nurse of manly sentiment and heroic enterprize is gone!” uit *Reflections on the revolution in France* van Edmund Burke.
-[^2]: Tegenlicht: *[De aarde draait door](https://www.vpro.nl/programmas/tegenlicht/kijk/afleveringen/2018-2019/de-aarde-draait-door.html)*. 
+[^2]: Tegenlicht, *[De aarde draait door](https://www.vpro.nl/programmas/tegenlicht/kijk/afleveringen/2018-2019/de-aarde-draait-door.html)*. 
 [^3]: “Nowadays people know the price of everything and the value of nothing.” uit *The picture of Dorian Gray* van Oscar Wilde.
-[^4]: Roger Scruton - *[Of beauty and consolation](https://www.youtube.com/watch?v=UVd_kqKWpVk)* (vraaggesprek op YouTube).
-[^5]: Unherd: *[Welcome to fully automated luxury gnosticism](https://unherd.com/2021/09/welcome-to-fully-automated-luxury-gnosticism/).*
+[^4]: Roger Scruton, *[Of beauty and consolation](https://www.youtube.com/watch?v=UVd_kqKWpVk)* (vraaggesprek op YouTube).
+[^5]: Unherd, *[Welcome to fully automated luxury gnosticism](https://unherd.com/2021/09/welcome-to-fully-automated-luxury-gnosticism/).*
 [^6]: Naar een concept van Karl Jaspers, zie [Wikipedia](https://en.wikipedia.org/wiki/Axial_Age).
-[^7]: John Vervaeke - *[Relevance, meaning and the cognitive science of wisdom](https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cognitive_Science_of_Wisdom)*.
-[^8]: Wikipedia - *[Religion in Japan](https://en.wikipedia.org/wiki/Religion_in_Japan#cite_note-ACA_Yearbook-3](https://en.wikipedia.org/wiki/Religion_in_Japan))*.
-[^9]: Draad van het bekende Twitter-account Wrath of Gnon over [](https://twitter.com/wrathofgnon/status/1389596090211594241)[gewijde Japanse bossen](https://twitter.com/wrathofgnon/status/1389596090211594241).
+[^7]: John Vervaeke, *[Relevance, meaning and the cognitive science of wisdom](https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cognitive_Science_of_Wisdom)*.
+[^8]: Wikipedia, *[Religion in Japan](https://en.wikipedia.org/wiki/Religion_in_Japan#cite_note-ACA_Yearbook-3](https://en.wikipedia.org/wiki/Religion_in_Japan))*.
+[^9]: Draad van het bekende Twitter-account Wrath of Gnon over [gewijde Japanse bossen](https://twitter.com/wrathofgnon/status/1389596090211594241).
