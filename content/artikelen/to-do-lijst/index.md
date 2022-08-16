@@ -16,7 +16,11 @@ question = "Wat zijn uw gedachten over dit artikel?"
 
 \-slideshow functie
 
+\-auteursprofiel elvengast
+
 \-dossiers/aangehaalde auteurs vervangen door 'lees ook'?
+
+\-top 10 meest gelezen artikelen
 
 \-mooi wegwerken klikaas (onder afbeelding bijvoorbeeld)
 
