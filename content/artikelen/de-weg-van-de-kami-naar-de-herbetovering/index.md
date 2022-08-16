@@ -72,7 +72,6 @@ Het onttoverde wereldbeeld is een wereldbeeld van propositionele epistemologie;
 
 De onttovering als proces is al een lange tijd gaande, ver voordat Weber of Burke hun observaties noteerden. De moderniteit kenmerkt zich door een overvloed aan manieren om deze onttovering het hoofd te bieden en de mens te integreren. Deze methodes gaan van een radicale afwijzing van het wetenschappelijk kader (bijvoorbeeld creationisme, bepaalde protestantse denominaties en verscheidende nieuwe religieuze bewegingen), naar pogingen tot betovering (theosofie, de romantiek, New Age en zelfs stromingen als het islamitisch salafisme ontstaan als reactie op het westen), tot de radicale omarming van het wegvallen van de menselijke maat (technocratie, transhumanisme of nihilisme).
 
-
 ### Hoe we om proberen te gaan met de onttovering
 
 Op dit moment in de tijd lijkt er in onze samenleving een conflict te ontstaan tussen enerzijds het *‘fully automated luxury gnosticism'* met als einddoel een technocratie voorbij alle kaders en vormen.[^5] Bevrijd van alle beperkingen kunnen zijn wat je maar wilt.
@@ -83,7 +82,7 @@ Aan deze kant vormt Rousseaus Authentieke Zelf het laatste bolwerk tegen het n
 
 Een onmogelijkheid, want het is juist door beperkingen dat we in staat zijn iets wezenlijks te Zijn of te worden. Het is door de randvoorwaarden en beperkingen dat we iets als taal hebben. Zonder beperkingen vervallen we in lukraak geluid, niet langer geschikt om betekenis over te brengen.
 
-Aan de andere kant van het conflict heerst er een net zo een faustiaanse en utopische nostalgie, ingegeven door de wens terug te keren naar een betere tijd waarin een ideale staat wordt nagestreefd. De vraag is, naar welke tijd keren we precies terug? Terug naar de tijd vóór de revoluties van 1968? Of liever terug naar vóór de eerste wereldoorlog? De Franse revolutie? De reformatie? De renaissance? De axiale revolutie?[^6] Waarom omarmen we niet direct de *[bronstijd](https://www.amazon.nl/Bronze-Age-Mindset-Pervert/dp/1983090441)* (zoals de cultschrijver Bronze Age Pervert) en beginnen we het beschavingsproces van vooraf aan? 
+Aan de andere kant van het conflict heerst er een net zo faustiaanse en utopische nostalgie, ingegeven door de wens terug te keren naar een betere tijd waarin een ideale staat wordt nagestreefd. De vraag is, naar welke tijd keren we precies terug? Terug naar de tijd vóór de revoluties van 1968? Of liever terug naar vóór de eerste wereldoorlog? De Franse revolutie? De reformatie? De renaissance? De axiale revolutie?[^6] Waarom omarmen we niet direct de bronstijd (zoals de cultschrijver Bronze Age Pervert) en beginnen we het beschavingsproces van vooraf aan? 
 
 {{< boekencast >}}
 
