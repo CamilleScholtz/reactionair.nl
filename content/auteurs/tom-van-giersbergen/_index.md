@@ -3,4 +3,5 @@ description = 'Tom Van Giersbergen is een volksnationalist, Katholiek en Traditi
 profession = 'Non-comformist'
 pseudonym = true
 title = 'Tom van Giersbergen'
+image = 'avatar.webp'
 +++

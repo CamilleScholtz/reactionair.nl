@@ -4,4 +4,5 @@ profession = 'Schrijver'
 pseudonym = true
 title = 'J. Floressas des Esseintes'
 twitter = 'https://twitter.com/FDesesseintes'
+image = 'avatar.webp'
 +++

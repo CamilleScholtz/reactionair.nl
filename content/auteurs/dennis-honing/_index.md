@@ -6,4 +6,5 @@ title = 'Dennis Honing'
 twitter = 'https://twitter.com/DennisHoning90'
 wikipedia = 'https://nl.wikipedia.org/wiki/Dennis_Abdelkarim_Honing'
 youtube = 'https://www.youtube.com/channel/UCTg9SPEFN7yYDbVL-XJWWbg'
+image = 'avatar.webp'
 +++

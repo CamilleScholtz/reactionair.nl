@@ -4,4 +4,5 @@ profession = 'Gezelligheidsconnaisseur'
 pseudonym = false
 title = 'Jurbin van Hooff'
 twitter = 'https://twitter.com/jurbinvhooff'
+image = 'avatar.webp'
 +++

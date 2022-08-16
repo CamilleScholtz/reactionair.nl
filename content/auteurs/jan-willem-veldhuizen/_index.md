@@ -4,4 +4,5 @@ profession = 'Apologeet'
 pseudonym = true
 title = 'Jan-Willem Veldhuizen'
 twitter = 'https://twitter.com/refolutionair'
+image = 'avatar.webp'
 +++

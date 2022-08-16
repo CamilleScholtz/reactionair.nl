@@ -4,4 +4,5 @@ profession = 'Tegendraads'
 pseudonym = false
 title = 'Camille Meloen'
 twitter = 'https://twitter.com/CamilleMeloen'
+image = 'avatar.webp'
 +++

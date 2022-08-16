@@ -5,4 +5,5 @@ pseudonym = true
 title = 'Jan de Maansnijder'
 twitter = 'https://twitter.com/JohannesBaron'
 website = 'https://esoterictraditionalism.wordpress.com/'
+image = 'avatar.webp'
 +++

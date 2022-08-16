@@ -3,4 +3,5 @@ description = '‘Het Dorp’ Genieter is een conservatieve ingestelde man, opge
 profession = 'Vader'
 pseudonym = true
 title = '‘Het Dorp’ Genieter'
+image = 'avatar.webp'
 +++

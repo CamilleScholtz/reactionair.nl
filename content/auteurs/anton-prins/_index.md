@@ -5,4 +5,5 @@ pseudonym = true
 title = 'Anton Prins'
 twitter = 'https://twitter.com/AntonPrince7'
 website = 'https://medium.com/@antonvictorprince'
+image = 'avatar.webp'
 +++

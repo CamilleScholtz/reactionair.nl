@@ -4,4 +4,5 @@ profession = 'Schrijver'
 pseudonym = false
 title = 'Magnus Bradshaw'
 website = 'https://charlesbradshaw2.academia.edu/'
+image = 'avatar.webp'
 +++

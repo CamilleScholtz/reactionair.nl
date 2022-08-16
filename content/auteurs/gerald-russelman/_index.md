@@ -5,4 +5,5 @@ pseudonym = false
 title = 'Gerald Russelman'
 twitter = 'https://twitter.com/gherusselman'
 website = 'http://www.geraldrusselman.nl/'
+image = 'avatar.webp'
 +++

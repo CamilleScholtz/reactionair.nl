@@ -34,7 +34,7 @@
 		{{ else if and (eq .Type "auteurs") (eq .Kind "term") }}
 			"@type": "Person",
 			"name": "{{ .Params.title }}",
-			"image": "{{ (.Resources.GetMatch "avatar.webp").Permalink }}"
+			"image": "{{ (.Resources.GetMatch .Params.image).Permalink }}"
 		{{ else }}
 			"@type": "Organization",
 			"name": "Reactionair.nl",

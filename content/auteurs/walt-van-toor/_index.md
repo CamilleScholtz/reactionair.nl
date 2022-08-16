@@ -3,4 +3,5 @@ description = 'Walt van Toor is doemdenker, onheilsprofeet, zwartkijker. Tevens 
 profession = 'Filosoof'
 pseudonym = true
 title = 'Walt van Toor'
+image = 'avatar.webp'
 +++

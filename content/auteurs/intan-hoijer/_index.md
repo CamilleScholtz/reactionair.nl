@@ -3,4 +3,5 @@ description = 'Intan Hoijer is geïnteresseerd in de Traditionalistische school,
 profession = 'Filosoof'
 pseudonym = true
 title = 'Intan Hoijer'
+image = 'avatar.webp'
 +++

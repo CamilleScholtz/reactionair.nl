@@ -5,4 +5,5 @@ pseudonym = true
 title = 'Schwab'
 twitter = 'https://twitter.com/Schwabrealhuman'
 website = 'https://schwabstack.substack.com/'
+image = 'avatar.webp'
 +++

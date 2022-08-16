@@ -3,4 +3,5 @@ description = 'Alexander Wolfheze studeerde Semitische Talen en Culturen en prom
 profession = 'Schrijver'
 pseudonym = false
 title = 'Alexander Wolfheze'
+image = 'avatar.webp'
 +++
