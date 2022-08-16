@@ -14,7 +14,7 @@ question = "Wat zijn uw gedachten over dit artikel?"
 
 \-bellen overheid over regenboogvlag
 
-\-slideshow functie
+\-slideshow functie 
 
 \-dossiers/aangehaalde auteurs vervangen door 'lees ook'?
 
