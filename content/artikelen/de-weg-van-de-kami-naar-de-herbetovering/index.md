@@ -2,7 +2,7 @@
 title = "De weg van de kami naar de herbetovering"
 subtitle = "Over het neergaande pad der onttovering"
 auteurs = ["Elvengast"]
-date = "2022-08-10"
+date = "2022-08-16"
 themas = "Religie & Metafysica"
 aangehaald = ["Max Weber", "Friedrich Schiller", "Edmund Burke", "René Descartes", "Jean-Jacques Rousseau", "Karl Jaspers", "Bronze age pervert", "Plato", "Paul Kingsnorth", "John Vervaeke", "Aristoteles", "Ludwig Wittgenstein", "Martin Heidegger"]
 image = "torii.jpeg"
