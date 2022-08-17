@@ -18,7 +18,7 @@ question = "Wat zijn uw gedachten over dit artikel?"
 
 \-dossiers/aangehaalde auteurs vervangen door 'lees ook'?
 
-\-top 10 meest gelezen artikelen
+\-top 10/5 meest gelezen artikelen
 
 \-mooi wegwerken klikaas (onder afbeelding bijvoorbeeld)
 
