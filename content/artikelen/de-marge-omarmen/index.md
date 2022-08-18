@@ -1,6 +1,6 @@
 +++
 title = "De marge omarmen"
-subtitle = "Stap in, lullo. We gaan naar Hyperborea"
+subtitle = "Stap in, lullo, we gaan naar Hyperborea"
 auteurs = ["Redactie"]
 date = "2022-08-18"
 themas = "Politiek & Actualiteit"
