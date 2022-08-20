@@ -1,10 +1,10 @@
 +++
-title = "Retweet dit artikel of de kat gaat dood!!!!! [Nar, afbeelding is plaatsvervanger, alineaatje]"
+title = "Retweet dit artikel of de kat gaat dood!!!!! [Nar, afbeelding?, alineaatje]"
 subtitle = "Verslaving aan internetaandacht in een eenzame wereld"
 auteurs = ["Sanura"]
 date = "2022-08-20"
 themas = "Cultuur & Maatschappij"
-image = "hartmann.png"
+image = "downloads.jpg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
