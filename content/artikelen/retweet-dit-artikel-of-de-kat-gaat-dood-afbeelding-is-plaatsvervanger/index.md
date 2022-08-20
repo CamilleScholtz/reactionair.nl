@@ -1,5 +1,5 @@
 +++
-title = "Retweet dit artikel of de kat gaat dood!!!!! [Nar, afbeelding is plaatsvervanger, alineaatje + voetnoot]"
+title = "Retweet dit artikel of de kat gaat dood!!!!! [Nar, afbeelding is plaatsvervanger, alineaatje]"
 subtitle = "Verslaving aan internetaandacht in een eenzame wereld"
 auteurs = ["Sanura"]
 date = "2022-08-20"
