@@ -2,7 +2,7 @@
 title = "De emojificatie van de communicatie"
 subtitle = "💁👌🎍😍🍉⛷️😱🍻💅🤣"
 auteurs = ["De Melancholieke Nar"]
-date = "2022-08-07"
+date = "2022-08-20"
 themas = "Religie & Metafysica"
 aangehaald = ["Friedrich Nietzsche", "Ludwig Wittgenstein", "Ernst Cassirer"]
 image = "20220809_102027.jpg"
