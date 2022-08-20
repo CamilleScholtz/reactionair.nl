@@ -34,6 +34,4 @@ En dus schrijf ook ik een artikel met een aandachttrekkende titel. Misschien lee
 
 Noten:
 
-[[^1]](<>) https://www.npr.org/sections/health-shots/2017/03/06/518362255/feeling-lonely-too-much-time-on-social-media-may-be-why
-
-[^2] https://www.eurekalert.org/news-releases/598990
+[[^1]](<>) NPR: *[Feeling lonely? Too much time on social media may be why](https://www.npr.org/sections/health-shots/2017/03/06/518362255/feeling-lonely-too-much-time-on-social-media-may-be-why)* ; EurekAlert: *[Daily internet use is linked to social isolation](https://www.eurekalert.org/news-releases/598990)*.
