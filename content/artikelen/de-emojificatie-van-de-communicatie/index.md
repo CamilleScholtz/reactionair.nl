@@ -36,5 +36,5 @@ Wel wil ik iedereen die vrij wil blijven denken meegeven dat hij ervoor moet wak
 [^3]: De auteur past hier het stijlmiddel sarcasme toe.
 [^4]: Emojipedia, *[pregnant man](https://emojipedia.org/pregnant-man/)*.
 [^5]: 'Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt' uit *Tractatus logico-philosophicus* van Ludwig Wittgenstein.
-[^6]: Afkorting van 'traditioneel'.
+[^6]: Internetspraak, afkorting van 'traditioneel'.
 [^7]: Cultureel woordenboek.nl, *[Ernst Cassirer](https://www.cultureelwoordenboek.nl/filosofie/ernst-cassirer/)*.
