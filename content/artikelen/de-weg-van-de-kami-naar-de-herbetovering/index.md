@@ -5,7 +5,7 @@ auteurs = ["Elvengast"]
 date = "2022-08-16"
 themas = "Religie & Metafysica"
 aangehaald = ["Edmund Burke", "René Descartes", "Martin Heidegger", "Jean-Jacques Rousseau", "Friedrich Schiller", "Max Weber", "Ludwig Wittgenstein", "Aristoteles", "Plato"]
-image = "torii.jpeg"
+image = "kamishikimi_kumanoimasu_shrine_001.jpg"
 anchor = "Smart"
 +++
 Met de onttovering van de wereld wees socioloog Max Weber in zijn werk ‘Wissenschaft als Beruf’ op de culturele rationalisering en devaluatie van religie die ontstond in het moderniserende, geseculariseerde westen. 
