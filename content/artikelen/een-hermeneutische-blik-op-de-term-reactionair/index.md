@@ -11,10 +11,6 @@ image = "thumb.webp"
 
 In de loop van de 19e eeuw ontstonden er vanuit de reactionaire traditie twee Christelijke politieke stromingen in Nederland. Slechts één daarvan zou het Christelijk-historische geluid in de politiek van Nederland gaan domineren. Wat kunnen we leren van die tijd en welke valkuilen moet de reactionair van vandaag vermijden? Maar eerst; wat betekent reactionair eigenlijk?
 
-{{< image
-	caption="Willem Bilderdijk na zijn dood, door Gerrit Jan Michaëlis."
->}}
-
 Wellicht is het u al opgevallen, maar de betekenis van reactionair is onderhand vrij ambigu geworden. Net als de op Reactionair.nl onlangs aangehaalde Erik M.R von Kuehnelt-Leddihn denk ik dat harde definities en correcte terminologie zeer belangrijk zijn.[^1] Leddihn was een man met op het oog vele ideologische contradicties. Met strikte semantische regels kun je controle krijgen over betekenis (en contradicties vermijden). Maar ook juist nieuwe context en betekenis geven.
 
 Een term krijgt pas betekenis bij het gebruik - tot die tijd kan het van alles betekenen, gebruik geeft betekenis door context.[^2] Leddihn gebruikte holisme door via samenstellingen van termen zijn ideologie te beschrijven. Als we een prefix gebruiken kunnen we eenzelfde effect bereiken als een verzameling termen. Denk bijvoorbeeld aan _‘taalnazi’_. De betekenis van _‘nazi’_ is met het prefix _‘taal’_ totaal anders dan bv bij het prefix _‘neo’_ (nazi).  Zo raken (kern)termen besmet met oneigenlijke betekenissen. Het kernwoord komt in een nieuwe context (net als het prefix overigens maar dat heeft doorgaans minder effect). Passen we strenge categorisering en terminologie echter toe op het verleden (zoals Leddihn ook deed), als historiografische reflectie, mogen we verwachten eerlijk te zijn en onszelf niet toestaan te verzanden in selectief revisionisme. Dus, een lid van de _NSDAP_ noemde je een nazi, om het eerdere voorbeeld te blijven volgen.

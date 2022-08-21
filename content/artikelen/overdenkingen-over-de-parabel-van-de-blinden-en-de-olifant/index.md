@@ -20,11 +20,6 @@ Hieruit spreekt een fundamenteel verschil in kentheorie tussen het westen en het
 
 De gangbare waarheidstheorie in het oosten wordt gekenschetst door een oud Indiaas verhaal dat bekend staat als de parabel van de blinden en de olifant dat met het boeddhisme de Himalaya is overgestoken en zich over heel Azië en het Midden-Oosten verspreid heeft. Het verhaal gaat als volgt:
 
-{{< image
-	src="rumi.webp"
-	caption="De parabel van de blinden en de olifant, uit een manuscript met gedichten van Jalāl ad-Dīn Mohammad Rūmī."
->}}
-
 >Er was eens een groep blinde mannen die hadden gehoord dat er een wonderlijk dier dat olifant wordt genoemd in het dorp was. Uit nieuwsgierigheid zeiden ze, laten we naar de olifant toe gaan en te weten komen wat dat voor beest is door het aan te raken. Zo gezegd zo gedaan. Ze gingen op zoek naar de olifant en betastten hem rondom, aangezien dat voor hen de enige manier was om het dier te leren kennen. De eerste pakte de slurf beet en zei, dit wezen is lang, dik en kronkelig als een slang. De tweede vatte het oor en sprak: dit wezen is dun en beweeglijk als een waaier. Nee, zei de volgende, die zijn handen op het been had gelegd, een olifant is stevig als een pilaar of een boomstam. Weer een ander, die aan de buik van het beest voelde, zei dat het als een muur was. Degene die de staart vast had, zei dat een olifant als een touw was. De laatste tenslotte, die de slagtanden beroerde, was van mening dat een olifant glad en puntig is als een speer.[^4]
 
 De moraal van het verhaal is duidelijk: iedereen heeft een stukje van de waarheid -zelfs als die waarheden tegenstrijdig zijn- maar niemand heeft de héle waarheid in pacht. Het totaalplaatje ligt buiten ons bereik, omdat wij als het ware blind zijn. Hieruit volgt een verdraagzame en berustende levenshouding die ruimte laat voor verschil van inzicht.

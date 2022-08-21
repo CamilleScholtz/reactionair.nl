@@ -18,7 +18,7 @@
 				{{- $data  = merge $data (dict "comment" .) -}}
 				{{- $data  = merge $data (dict "apiUrl" $apiUrl) -}}
 				{{- $data  = merge $data (dict "websiteId" $websiteId) -}}
-				{{- partial "welcomments/single_comment" $data -}}
+				{{- partial "comments/single_comment" $data -}}
 			{{- end -}}
 		{{- end -}}
 	</div>
@@ -29,7 +29,7 @@
 	{{ $data  = merge $data (dict "permalink" .context.Permalink) }}
 	{{ $data  = merge $data (dict "slug" $slug) }}
 
-	{{ partial "welcomments/comment_form" $data }}
+	{{ partial "comments/comment_form" $data }}
 </div>
 
 <script type="text/javascript">
@@ -38,7 +38,7 @@
 
 		placeholderCommentFactory: function (comment) {
 			const year  = new Intl.DateTimeFormat("nl-NL", {year: "numeric"}).format(comment.date);
-			const m     = new Intl.DateTimeFormat("nl-NL", {month: "short"}).format(comment.date);
+			const m     = new Intl.DateTimeFormat("nl-NL", {month: "long"}).format(comment.date);
 			const month = m.charAt(0).toUpperCase() + m.slice(1);
 			const day   = new Intl.DateTimeFormat("nl-NL", {day: "2-digit"}).format(comment.date);
 
@@ -54,7 +54,7 @@
 			{{ $template = merge $template (dict "apiUrl" $apiUrl) }}
 			{{ $template = merge $template (dict "websiteId" $websiteId) }}
 
-			return `{{ safeJS (partial "welcomments/template.html" $template) }}`;
+			return `{{ safeJS (partial "comments/template.html" $template) }}`;
 		},
 	};
 </script>

@@ -27,10 +27,6 @@ Alhoewel Oosterse spiritualiteit verheerlijkt wordt in westerse cartoons en film
 
 Zo’n houding is logisch, wanneer je er overtuigd van bent, dat _‘you only live once’_. Als er niks bestaat buiten dit aardse leven dan is het belangrijk hier zo veel mogelijk uit te halen. En als er geen onsterfelijke ziel, noch objectief goed en kwaad is, dan is leven om wille van wijsheid, heiligheid of deugd tijdverspilling. 
 
-{{< image
-	caption="St. Catherine van Siena, door Giovanni Battista Tiepolo."
->}}
-
 Utilisme of hedonisme zijn dan de meest logische levensfilosofieën. Je kunt leven gericht op het vermeerderen van het aardse geluk van anderen, of dat van jezelf, of een combinatie van die twee. Je bezighouden met abstracte concepten met een betekenis of waarheid los hiervan, is dan tijdverspilling. Zelfs vriendschap in de Aristotelische zin, lijkt zinloos.
 
 De focus ligt op verlaten van het gezin, deel worden van de massa, de kudde en deelnemen aan de consumptiecyclus. Door te produceren voor de economie, door arbeid te verrichten, draag je bij aan de samenleving. Door weg te gaan bij je ouders ben je hen niet meer tot last en tegelijk wordt er niet meer verwacht dat je voor hen zorgt als ze oud zijn. Je talenten ontwikkelen betekent vooral je lichaam ontwikkelen, of praktische intelligentie, of kunst of filosofie waar je geld mee kan verdienen (dus eigenlijk vermaak voor anderen). Dingen die gewaardeerd worden terwijl je leeft. Wat waardevol is in de ogen van de meerderheid nu.

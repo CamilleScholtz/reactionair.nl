@@ -1,5 +1,5 @@
 +++
-auteurs = ['Redactie']
+auteurs = ['De redactie']
 date = '2022-02-26'
 subtitle = 'Tien zaken waar Poetin niet verantwoordelijk voor is'
 themas = 'Klikaas'

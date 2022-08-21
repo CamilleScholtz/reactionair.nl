@@ -5,7 +5,6 @@ auteurs = ["Anton Prins"]
 date = "2022-06-02"
 themas = "Cultuur & Maatschappij"
 aangehaald = ["Jean-Paul Sartre", "Arthur Schopenhauer", "Friedrich Schiller"]
-question = "Wat zijn uw gedachten over dit artikel?"
 image = "thumb.webp"
 anchor = "Smart"
 +++
@@ -15,8 +14,6 @@ Tot op zekere hoogte is dit uiteraard inherent aan het samenleven in het algemee
 > “Eine Gesellschaft Stachelschweine drängte sich, an einem kalten Wintertage, recht nahe zusammen, um, durch die gegenseitige Wärme, sich vor dem Erfrieren zu schützen. Jedoch bald empfanden sie die gegenseitigen Stacheln; welches sie dann wieder von einander entfernte. Wenn nun das Bedürfnis der Erwärmung sie wieder näher brachte, wiederholte sich jenes zweite Übel; so dass sie zwischen beiden Leiden hin und her geworfen wurden, bis sie eine mäßige Entfernung herausgefunden hatten, in der sie es am besten aushalten konnten.”[^1]
 
 In feite houdt deze impasse in dat werkelijke intimiteit een onbereikbaar ideaal is, en dat men vrijwel altijd op zijn tellen moet passen om zich uit te spreken, ongeacht het gezelschap. Men moet tegen *les autres* noodgedwongen muren opwerpen,[^2] en zelfs leugens worden in veel gevallen uit pure zelfbescherming geboren. Voor voorbeelden hoeven we niet ver te zoeken; kijk alleen al naar venijnige roddels of de tendens om op een later ogenblik woorden opzettelijk te verdraaien. De vijandigheid tegenover de oprechtheid overstijgt mildere vormen als we in ogenschouw nemen hoe wordt omgegaan met de zogenaamde vrijheid van meningsuiting, te weten dat *“cancel culture”* welig tiert en dat het risico altijd bestaat, dat werkgevers gebeld worden, of persoonlijke informatie wordt verspreid waar sprake is van het uitdrukken van onwelgevallige denkbeelden.
-
-{{< image caption="Lorenzo Lippi, L'allégorie de la Simulation" >}}
 
 Het is daarbij wrang te noemen dat met plechtigheid wordt gesproken over de vrijheid van meningsuiting, en dat men pronkt met diversiteit, daar het zich hier handelt om een kolossale listigheid. De meningen en gedachten onder de oppervlakte zijn eenvorming, en de liberale tolerantie gelimiteerd tot de inzichten die daarbinnen passen. Men gaat erg ver om de denkbeelden die beschouwd worden als achterhaald zwart te maken, en maakt zich ongestraft schuldig aan de meest grove beschuldigingen en ongenuanceerde vergelijkingen.
 

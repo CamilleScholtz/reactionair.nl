@@ -22,10 +22,6 @@ Deze manier van denken, waarbij waarheid in essentie een sociaal construct is, w
 
 Het andere deel van Poppers erfenis betreft zijn visie op de maatschappij. Zijn ideaal is _'de open samenleving'_,[^4] waar niemand minder dan George Soros, gewezen financieel roofridder en thans lieveling van links, het vehikel van zijn internationale filantropische ondernemingen (_kuch_), namelijk _The Open Society Foundation_, naar vernoemd heeft.[^5] Centraal hierin staat de zogeheten verdraagzaamheidsparadox. U kent hem ongetwijfeld van onderstaande infographic:
 
-{{< image
-	caption=""
->}}
-
 Wat klopt er hier niet aan? Eerstens is de neonazi skinhead in het bovenste paneel een lachwekkende stropop. Nagenoeg niemand die het etiket neonazi krijgt opgeplakt, voldoet aan deze lasterlijke karikatuur. Het begrip fungeert als excuus om andersdenkenden uit te sluiten en te vervolgen en niet op wezenlijke kritiek in te hoeven gaan.
 
 Daarnaast is de logische conclusie van deze denktrant dat de verdraagzamen alleen zichzelf kunnen verdragen. Dit is in principe niet incoherent. Je kunt verdraagzaamheid inderdaad verheffen tot _summum bonum_ van je ideologie. Maar het is ook niet per se logisch of vanzelfsprekend: je kan ook een ander ideaal tot hoogste goed verklaren, de wil van God bijvoorbeeld of de klasseloze maatschappij. 

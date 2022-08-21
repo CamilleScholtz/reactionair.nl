@@ -1,6 +1,6 @@
 +++
 anchor = 'Center'
-auteurs = ['Redactie']
+auteurs = ['De redactie']
 date = '2022-05-10'
 subtitle = 'Een experiment in kunstmatige intelligentie'
 themas = 'Politiek & Actualiteit'
@@ -10,10 +10,6 @@ image = "thumb.webp"
 
 
 In de toekomst zal al het werk door robots worden gedaan. Zelfs creatief werk, wat dan weer de vraag oproept of creativiteit wel echt de schepping van iets nieuws is, of slechts de herschikking van bekende elementen. Het GPT-3-algoritme[^1] kreeg (in het Engels) de zinnen 'links is de politieke uitdrukking van' en 'het meest linkse land ter wereld is' gevoed en spuwde het volgende weer uit:
-
-{{< image
-	caption="Illustratie uit het boek The Invention of Hugo Cabret."
->}}
 
 >Links is de politieke uitdrukking van natuurlijke vrouwelijke belangen en gedragingen. Daarom is het linksdenken bijna volledig een vrouwelijk fenomeen. 
 

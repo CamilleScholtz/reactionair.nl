@@ -1,67 +1,128 @@
 article
-	>p
-		text-align: justify
+	.hero
+		display: grid
+		justify-content: center
+		margin-bottom: 100px
+		width: 100%
 
-	blockquote p
-		color: var(--muted-color)
-		padding-left: 40px
-
-	p
-		margin-bottom: 30px
-
-	table
-		border-collapse: collapse
-		margin-bottom: 30px
-
-	td,
-	th
-		border: 1px dashed var(--border-color)
-		font-size: 18px
-		padding: 8px
-		text-align: center
-
-	th,
-	td:nth-child(1)
-		font-size: 16px
-		font-weight: 600
-
-	td:nth-child(1)
-		text-align: right
-
-	th:nth-child(1)
-		background: transparent
-
-	ul,
-	ol
-		margin-bottom: 30px
-
-	// https://bugs.webkit.org/show_bug.cgi?id=204163
-	li::marker
-		//content: "\2022"
-		color: var(--accent-color)
-		//display: inline-block
-		//margin-left: -1.4em
-		//width: 1.4em
-
-	.blockquote
-		text-align: center
-
-		p
-			padding-right: 40px
-
-	figure
-		margin-bottom: 15px
-
+	.left
 		img
 			width: 100%
+			object-fit: cover
+
+	.right
+		align-content: center
+		display: grid
+		text-align: center
+
+		.category
+			color: var(--accent-color)
+			font-family: 'Courier Prime', monospace
+			font-size: 13px
+			margin-bottom: 30px
+			text-transform: uppercase
+
+		h1
+			margin-bottom: 30px
+
+		.authors,
+		.authors a
+			color: var(--text-color)
+			font-size: 24px
+			line-height: 32px
+			margin-top: 30px
+
+			a
+				border-bottom: 1px dashed var(--border-color)
+				display: inline-block
+				height: 29px
+
+	.content
+		border-top: 1px dashed var(--border-color)
+		margin: 0 auto
+		padding-top: 30px
 
 		p
-			font-size: 15px
-			margin-bottom: 0px !important
+			margin-bottom: 30px
 
-	.twitter-tweet-rendered
-		margin: 0 auto
-		margin-bottom: 30px !important
+			>&
+				text-align: justify
 
-	div[style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden"]
-		margin-bottom: 30px !important
+		blockquote p
+			color: var(--muted-color)
+
+			>&
+				text-align: justify
+
+		.blockquote
+			border-bottom:  1px dashed var(--border-color)
+			border-top: 1px dashed var(--border-color)
+			margin-bottom: 30px
+			padding-bottom: 15px
+			padding-top: 30px
+			text-align: center
+
+			.text
+				font-size: 28px
+				font-style: italic
+				line-height: 40px
+
+			.author
+				margin-top: -15px
+				font-size: 18px
+				line-height: 25px
+				color: var(--muted-color)
+
+				.dash
+					color: var(--accent-color)
+
+		table
+			border-collapse: collapse
+			margin-bottom: 30px
+
+		td,
+		th
+			border: 1px dashed var(--border-color)
+			font-size: 18px
+			padding: 8px
+			text-align: center
+
+		th,
+		td:nth-child(1)
+			font-size: 16px
+			font-weight: 600
+
+		td:nth-child(1)
+			text-align: right
+
+		th:nth-child(1)
+			background: transparent
+
+		ul,
+		ol
+			margin-bottom: 30px
+
+		// https://bugs.webkit.org/show_bug.cgi?id=204163
+		li::marker
+			//content: "\2022"
+			color: var(--accent-color)
+			//display: inline-block
+			//margin-left: -1.4em
+			//width: 1.4em
+
+		figure
+			margin-bottom: 15px
+
+			img
+				width: 100%
+
+			p
+				font-size: 15px
+				margin-bottom: 0px !important
+
+		.twitter-tweet-rendered
+			margin: 0 auto
+			margin-bottom: 30px !important
+
+		div[style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden"]
+			margin-bottom: 30px !important

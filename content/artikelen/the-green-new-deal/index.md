@@ -1,21 +1,18 @@
 +++
 title = "The Green New Deal"
 subtitle = "Je zult insecten eten, maar je zult niet leven in de pod"
-auteurs = ["Redactie"]
+auteurs = ["De redactie"]
 date = "2022-08-02"
 themas = "Cultuur & Maatschappij"
 dossiers = ["Klimaatverandering"]
 image = "pods.png"
 anchor = "Smart"
-question = "Wat zijn uw gedachten over dit artikel?"
 +++
 *Dit is een vertaling van een kort verhaal van de zeer getalenteerde auteur Zero HP Lovecraft, die we het best kunnen zien als een combinatie van Lovecraft, Borges en Houellebecq voor het internettijdperk. Het origineel is [hier](https://zerohplovecraft.wordpress.com/2019/09/28/the-green-new-deal/) te vinden.*
 
 - - -
 
 De eerste keer dat ik een Greenlight pod in het echt zag was gisteren. Hij was glanzend wit met een in het oog springende verticale groene streep, dennenboomgroen, subtiel verlicht door LED's in het midden. Er was een portret op de zijkant op ooghoogte, een mooie blonde vrouw die een jongetje vasthield en rustig en tevreden naar hem glimlachte. De jongen had bruin haar en glimlachte ook, warmroze wangen, blauwe ogen. De vrouw leek een beetje op mij, alsof ze mijn nicht had kunnen zijn. Onder het portret stond een enkel woord in Helvetica-blokletters: HOPE.
-
-{{< image caption=" " >}}
 
 Ik was op weg van mijn werk naar huis en passeerde een plein naast mijn bushalte. Er speelde een straatmuzikant op een gitaar, en er waren enkele foodtrucks; *plant.BASED & Bread-Filled*, *Soy Meats Girl*, en mijn persoonlijke favoriet, *Grub One Out*. Het eten rook goed, en terwijl ik een uitgebreid avondmaal overwoog, viel mijn oog op de pod. Het zag er futuristisch uit, als iets uit een sci-fi utopie. De deuren schoven open, geruisloos en uitnodigend, en een verborgen cabine verscheen, zoals de deuren in Star Trek. Ik weet dat ik het me verbeeldde, maar ik zou zweren dat ik van binnenuit een stem mijn naam hoorde zeggen.
 

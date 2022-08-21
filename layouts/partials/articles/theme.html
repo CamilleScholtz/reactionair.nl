@@ -18,10 +18,9 @@
 		<a href="/{{ .section }}/{{ urlize .term }}/" class="more">Zie meer…</a>
 	</div>
 
-	{{ partial "articles/featured.html" (dict
+	{{ partial "articles/large.html" (dict
 		"context"   $featured
-		"size"      "small"
 		"imageless" (eq .term "Klikaas")
-		"lazy"      .lazy
+		"lazy"      true
 	) }}
 </div>

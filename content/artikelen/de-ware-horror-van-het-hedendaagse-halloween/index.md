@@ -11,10 +11,6 @@ image = "thumb.webp"
 
 De viering van Halloween zoals deze zich vandaag de dag manifesteert heeft als voorname functie ieder, door middel van een verkleedpartijtje, de mogelijkheid te geven te ontsnappen aan het zware juk van een deel van de kleinburgerlijke moraliteit, zodat kinderen zich volvreten met de nieuwste Amerikaanse fabricages van suikerdrab en jongvolwassenen zich voldrinken en hun lul nat proberen te krijgen. In deze functie is de huidige viering een slap aftreksel, een overblijfsel, van de oorspronkelijke viering ervan, ongeveer als de latere _Saturnalia_. Nu, laten we dan zien naar de betekenis van de oorspronkelijke viering.
 
-{{< image
-	caption="Dance Macabre fresco  van Johannes de Castua."
->}}
-
 ‘Halloween’ komt van _‘All Hallows Eve’_, ofwel Allerheiligenavond. De datum waarop het gevierd wordt, 31 oktober, is namelijk, voor u die niet zo bekend zijn met de kerkelijke kalender, de avond voor Allerheiligen, het feest ter nagedachtenis aan alle heiligen en martelaren. Ook belangrijk om te gedenken is de feestdag die er op volgt, namelijk Allerzielen, waar de zielen in het vagevuur worden herdacht.
 
 De data waarop deze dagen plaatsvinden zijn niet, zoals de revolutionairen (en hun zonen, de modernen) met hun feestdagen wel doen, willekeurig gekozen, maar zijn een indicatie voor de aard ervan. Ze vinden namelijk een tijd na de equinox, maar nog ruim voor de zonnewende plaats. Deze feesten zijn dientengevolge _‘overgangsfeesten’_, of _‘liminale’_ (van _‘limen’_: grens) feesten. De barrière, voornamelijk tussen de levenden en de doden, vervaagt, of wordt zelfs verbroken. Dit moge dan de primaire grens zijn die wordt verbroken, als afgeleide hiervan worden ook nog vele andere grenzen, zoals die tussen standen en seksen en leeftijden, vervaagd, verbroken of omgedraaid. Zo kon bijvoorbeeld een jongetje (of een student) tot voor een dag tot bisschop benoemd worden, en zou de echte clerus maskers opdoen of zich als vrouw verkleden. Een ander voorbeeld is de dodendans of _‘danse macabre’_, waarbij de horigen zich als dode pauzen of koningen verkleedden, om te tonen hoe ieder gelijk was in de dood.

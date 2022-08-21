@@ -10,10 +10,6 @@ image = "thumb.webp"
 
 De strenge dictie waarmee Enoch Powell zijn publiek toesprak schetst een stem van een sobere politicus. Wie wat langer luistert zal echter onder de invloed raken van de bezwerende toon en achter de façade van rigoureuze logica een man zien die geleid werd door eerst zijn hart en daarna zijn hersenen. Vandaar lijkt hij vol te zitten met ogenschijnlijke tegenstrijdigheden. Wie had gedacht dat de schrijver van de ten onrechte racistisch genoemde _‘Rivers of blood’_ speech fel opkwam voor de rechten van vermoorde Kenianen tijdens de Mau Mau-opstand? Even paradoxaal was zijn steun voor de genationaliseerde gezondheidszorg en vakbonden terwijl hij als grondlegger gold voor het vrijemarktdenken en uiteindelijk de inspiratie was voor het monetaire beleid van Thatcher.
 
-{{< image
-	caption="River of Blood 1, van Jack Goresko."
->}}
-
 De vurige retoricus, zoals die bekend stond, had die naam niet te danken aan poëtische speeches, maar aan het gevoel van passie wat die gaf aan de meest prozaïsche en rauwe woorden. Dit taalgebruik volgde vanzelfsprekend uit zijn hoewel analytisch, erg heldere benadering tot vraagstukken. Onder al de logica en syntaxis begaf zich een echter onderstroom van wat Powell motiveerde, namelijk zijn grote liefde voor zijn vaderland. Al voor de oorlog was hij vastberaden zijn plicht te volbrengen en het leger in te gaan om Groot-Brittannië te beschermen van het fascistisch gevaar dat hij scherp op het netvlies had na een paar weken bij een joodse familie in Duitsland te hebben doorgebracht.
 
 Zijn nationalisme uitte zich in een grote liefde voor India tijdens de Britse heerschappij. Voor zijn ambitie om de gouverneur-generaal van India te worden achtte hij het cruciaal om Urdu te leren om met de lokale bevolking te communiceren. De rest van zijn leven berouwde hij nog het verlies van India, wier relatie met Groot-Brittannië hij als integraal en _a priori_ achtte.

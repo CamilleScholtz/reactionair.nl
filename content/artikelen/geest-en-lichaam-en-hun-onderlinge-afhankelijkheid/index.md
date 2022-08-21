@@ -7,11 +7,8 @@ themas = "Religie & Metafysica"
 aangehaald = ["Plato", "Socrates"]
 image = "img_4010.jpeg"
 anchor = "Smart"
-question = "Wat zijn uw gedachten over dit artikel?"
 +++
 Er was een tijd, lang geleden, dat de meest briljante academici naast het ontplooien van hun geestelijke capaciteiten ook de lichamelijke vermogens ten volle pleegden te ontwikkelen. Ten dele bevindt de oorsprong van dit historische gegeven zich in de noodzaak om, in verband met de onvrede die destijds heerste tussen verschillende volkeren en stadsstaten, de gemeenschap te beschermen tegen gevaar van buitenaf. Zo werd elke gezonde man geacht als soldaat zijn gemeenschap te dienen alvorens hij de voordelen mochten genieten die de titel van burger hem schonk.[^1] Deze omstandigheid vindt haar weerklank in de levens en woorden van de destijdse filosofen. In dit artikel wil ik derhalve graag twee grote denkers in verband brengen met zowel de noodzaak om de krachten van het lichaam te ontwikkelen, als met de lijfelijke verdediging van de burgerlijke idealen.
-
-{{< image caption="Alcibiades krijgt les van Socrates, François-André Vincent." >}}
 
 Graag neem ik u mee naar de bloeiperiode van het befaamde Athene, die zo rond de zesde eeuw voor Christus begon, en eindigde na de dood van Alexander de Grote. In dit tijdperk, dat bekend staat als de klassieke periode, floreerden filosofie, wiskunde, beeldende kunst, dichtkunst en muziek. Zo stond hier rond 470 voor Christus de wieg van een man die heden ten dage algemeen beschouwd wordt als de vader van de westerse filosofie. In zijn eigen tijd, zo blijft vaak onbenoemd, werd Socrates echter tevens door velen—waaronder de Atheense generaal Alcibiades—gezien als groots soldaat. Sterker nog: hij was een ware oorlogsheld van de Peloponnesische oorlog.
 

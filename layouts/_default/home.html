@@ -2,35 +2,64 @@
 	{{ $themes   := slice "Politiek & Actualiteit" "Cultuur & Maatschappij" "Recensie & Biografie" "Religie & Metafysica" }}
 	{{ $articles := where site.RegularPages "Params.themas" "in" $themes }}
 
-	<aside class="intro quote">
-		<div class="sticky">
-			{{ partial "asides/quote.html" (dict
-				"text"   ""
-				"author" ""
+	<section class="hero">
+		<section class="left">
+			{{ partial "articles/large.html" (dict
+				"context" (index $articles 1)
 			) }}
 
-			<div class="links">
-				<a href="/auteurs/">Auteurs</a>
+			{{ partial "articles/large.html" (dict
+				"context" (index $articles 2)
+			) }}
+		</section>
+	
+		{{ partial "articles/featured.html" (dict
+			"context" (index $articles 0)
+		) }}
 
-				<span class="pipe">|</span>
-
-				<a href="/doneren/">Doneren</a>
-				
-				<span class="pipe">|</span>
-				
-				<a href="/artikelen/wie-zijn-wij/">Wie zijn wij?</a>
+		<section class="right">
+			<div class="header">
+				<h2>Meest recente artikelen</h2>
 			</div>
+
+			<div class="articles">
+				{{ partial "articles/small.html" (dict
+					"context" (index $articles 3)
+				) }}
+
+				{{ partial "articles/small.html" (dict
+					"context" (index $articles 4)
+				) }}
+
+				{{ partial "articles/small.html" (dict
+					"context" (index $articles 5)
+				) }}
+
+				{{ partial "articles/small.html" (dict
+					"context" (index $articles 6)
+				) }}
+			</div>
+		</section>
+	</section>
+
+	<aside class="intro">
+		<p class="text">“...”</p>
+		<p class="author"><span class="dash">—</span> ...</p>
+
+		<div class="links">
+			<a href="/auteurs/">Auteurs</a>
+
+			<span class="pipe">|</span>
+
+			<a href="/doneren/">Doneren</a>
+			
+			<span class="pipe">|</span>
+			
+			<a href="/artikelen/wie-zijn-wij/">Wie zijn wij?</a>
 		</div>
 	</aside>
 
-	<section>
-		{{ partial "articles/featured.html" (dict
-			"context" (index $articles 0)
-			"size"    "large"
-		) }}
-	</section>
-
-	{{ $articles = $articles | after 1 }}
+	{{ $articles = $articles | after 7 }}
 
 	<section>
 		{{ $themes := slice "Politiek & Actualiteit" "Cultuur & Maatschappij" }}

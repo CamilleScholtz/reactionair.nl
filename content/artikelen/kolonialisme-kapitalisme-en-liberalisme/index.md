@@ -19,11 +19,6 @@ Deze hysterie rondom kolonialisme, welke vaak gepaard gaat met oproepen tot _can
 Dit is iets wat men wel vaker ziet in de hedendaagse Westerse politiek. De ene kant van het politieke spectrum neemt automatisch de tegenovergestelde mening aan van degene die worden gezien als de “vijand”. In dit artikel zal ik mij echter grotendeels achter links scharen en mij kritisch uitlaten over de Europese periode van kolonisatie en imperialisme. Echter zal ik dit doen zonder de hysterie die de kritiek op het kolonialisme vanuit links kenmerkt en regelmatig ook met andere argumenten. Ik zal trachten een rechtse, en specifieker, een rechts-reactionaire kritiek te geven, als evenwicht tegen de links-progressieve overmacht met betrekking tot dit onderwerp. Hierbij zal ik mij focussen op het Midden-Oosten, hoewel de argumenten in grote mate ook gelden voor het kolonialisme en imperialisme in andere gebieden van de wereld.
 
 
-{{< image
-	caption="Amerikaanse cartoon van John Bull als een imperialistische octopus."
->}}
-
-
 ### Kolonialisme als voortvloeisel uit kapitalisme en liberalisme
 
 De persoon die de artikelen op deze website met enige regelmaat leest weet inmiddels dat wij vaak kritiek hebben op het liberalisme en haar als oorzaak zien voor veel van de problemen die vandaag de dag spelen. Niet anders is dit met betrekking tot de Europese periode van kolonialisme. Ook hier heeft het liberalisme en het hieruit voortvloeiende kapitalisme als ideologie een flinke hand in gehad. Het gros van de kolonisatie begon rond de 18e eeuw, na de wetenschappelijke revolutie, tegelijkertijd met de Verlichting en nadat het humanisme haar ideologische sporen had achtergelaten in de maatschappij.

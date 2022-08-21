@@ -14,20 +14,23 @@
 		.welcomments__comment
 			background: var(--accent-background-color)
 			margin-bottom: 10px
-			padding: 30px
+			padding: 40px
 
 			h3
-				font-family: "Quadraat Pro Sans", sans-serif
+				font-family: 'Work Sans', sans-serif
 				margin-top: 0
 				margin-bottom: 0
 
 			.welcomments__comment-time
 				color: var(--muted-color)
-				font-style: italic
+				font-family: 'Courier Prime', monospace
+				font-size: 13px
 				margin-bottom: 20px !important
+				text-transform: uppercase
 
-			p:last-child
-				margin-bottom: 0
+			.welcomments__comment-message
+				text-align: justified
+				margin-bottom: 15px
 
 			a
 				-ms-hyphens: auto
@@ -38,7 +41,8 @@
 				font-size: 19px
 
 			#welcomments__form
-				margin-left: -30px
+				margin-left: -30px !important
+				margin-top: 10px !important
 				overflow: hidden
 				padding: 30px
 				padding-bottom: 0px
@@ -49,7 +53,7 @@
 					background: var(--background-color)
 
 	#welcomments__form
-		width: 100%
+		margin-top: 40px
 
 		.welcomments__form-group
 			#message

@@ -1,4 +1,12 @@
 .theme
+	margin: 0 auto
+	margin-bottom: 40px
+	margin-top: 40px
+	max-width: 835px
+
+	&:first-of-type
+		margin-top: 0px
+
 	&.left
 		grid-template-areas: "article description" "article pages"
 		grid-template-columns: auto 56%
@@ -6,6 +14,3 @@
 	&.right
 		grid-template-areas: "description article" "pages article"
 		grid-template-columns: 56% auto
-
-	.article img
-		height: 320px

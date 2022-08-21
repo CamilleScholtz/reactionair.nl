@@ -4,13 +4,10 @@ subtitle = "Schieten op boeren en Ongehoord Nederland de mond snoeren"
 auteurs = ["Sanura"]
 date = "2022-07-11"
 themas = "Politiek & Actualiteit"
-question = "Wat zijn uw gedachten over dit artikel?"
 image = "4eddcbdda3e0a47c7c8c7c419bbe3cc7_c2b648de25235549e071d703d10d1bfe.jpg"
 anchor = "Center"
 +++
 Het is een leuke week geweest zeg! Er is op een minderjarige geschoten, traangas gebruikt, familiebedrijven worden bedreigd door de staat en nu komt er censuur bij. Nee, niet in Hongarije of Polen, maar hier in Nederland. 
-
-{{< image caption="1984 poster." >}}
 
 Ongehoord Nederland heeft een forse boete gekregen van het ministerie van waarheid. Blijkbaar onderscheidden ze feiten en meningen te weinig en eisten ze geen betere onderbouwing voor beweringen die tijdens hun shows gemaakt worden (die ingaan tegen regeringsbeleid). Politici uit de rechtse anti-establishment hoek een podium geven is nu misdadig. De staat houdt toezicht op de media en besluit wat wel en niet mag. Tegenwoordig is dat ‘liberale democratie’. 
 

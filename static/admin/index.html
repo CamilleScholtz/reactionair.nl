@@ -119,41 +119,19 @@
 					name:   "author",
 					label:  "Auteur",
 					widget: "string",
-				},
-				{
-					name:   "aside",
-					label:  "Tonen in zijbalk",
-					widget: "boolean",
-				},
-				{
-					name:   "article",
-					label:  "Tonen in artikel",
-					widget: "boolean",
 				}],
 
-				pattern: /^{{< quote\n?(?:\stext="(?<text>.*)")\n?(?:\sauthor="(?<author>.*)")\n?(?:\saside=(?<aside>true|false))?\n?(?:\sarticle=(?<article>true|false))?\s?>}}/,
+				pattern: /^{{< quote\n?(?:\stext="(?<text>.*)")\n?(?:\sauthor="(?<author>.*)")\n?\s?>}}/,
 				
 				fromBlock: (match) => {
 					return {
 						text:    match.groups.text,
 						author:  match.groups.author,
-						aside:   match.groups.aside === "true",
-						article: match.groups.article === "true",
 					};
 				},
 
 				toBlock: (obj) => {
-					let aside   = '';
-					let article = '';
-
-					if (obj.aside) {
-						aside = '\n\taside=true';
-					}
-					if (obj.article) {
-						article = '\n\tarticle=true';
-					}
-
-					return `{{< quote\n\ttext="${obj.text}"\n\tauthor="${obj.author}"${aside}${article}\n>}}`;
+					return `{{< quote\n\ttext="${obj.text}"\n\tauthor="${obj.author}"\n>}}`;
 				},
 			});
 

@@ -9,11 +9,6 @@ title = 'They pee on your leg and tell you it’s raining'
 image = "thumb.webp"
 +++
 
-
-{{< image
-	caption="Brave New World illustratie door Mirko Rastic."
->}}
-
 >Sekten, die alle sociale klassen hebben doordrongen, zullen manieren vinden om zichzelf in het hart van de huizen te introduceren om de onschuld van kinderen te corrumperen. De harten van de kinderen zullen heerlijke hapjes zijn om de duivel te verwennen...[^1]
 
 Dit was een profetie in 1634 in Ecuador van _Onze-Lieve-Vrouw van Goed Succes_. Extreme morele degradatie tijdens de tweede helft van de twintigste eeuw werd voorspeld. Aanval op de onschuld van kinderen. We hebben het voor onze eigen ogen kunnen zien uitkomen.

@@ -8,11 +8,8 @@ dossiers = ["Christendom"]
 aangehaald = ["Friedrich Nietzsche"]
 image = "henry_wallis_-_chatterton_-_google_art_project.jpg"
 anchor = "Smart"
-question = "Wat zijn uw gedachten over dit artikel?"
 +++
 Een man van begin twintig, viriel en intellectueel aangelegd, klaar om de wereld met storm te veroveren. Maar wat als deze wereld meer tot afschuw beweegt dan tot aantrekking? Een toekomstbeeld dat vervuild wordt door alsmaar toenemende decadentie, wanneer alle hoop op stabiliteit weg lijkt te ebben en geborgenheid een ongrijpbare utopie is. Wat doet zo iemand? Er dienen zich tal van opties aan waarmee een jongeman deze vijandige realiteit kan gaan bekampen.
-
-{{< image caption="The Death of Chatterton, door Henry Wallis." >}}
 
 In dit essay zullen enkele van deze opties uiteengezet worden en welke gevolgen die met zich meedragen. Hierbij wordt niet gepretendeerd om een handleiding in het omgaan met de realiteit aan te bieden. Wel wil dit stuk aanzetten tot reflectie en signaleren dat alsmaar meer bekwame jonge geesten verloren gaan door de moderne maatschappij. Hierbij moet sterk benadrukt worden dat het hier niet gaat om puberale situaties waar jongeren zich ‘misbegrepen’ voelen en rebelleren tegen hun ouders. Het gaat hier in tegendeel tot een algehele afkeer van de buitenwereld, met een totale vorm van ontworteling tot gevolg. De originaliteit van dit stuk moet vooral gezocht worden in het feit dat het geen uiteenzetting is van al wat fout loopt in samenleving, maar wat de gevolgen en de reacties hierop kunnen zijn.
 

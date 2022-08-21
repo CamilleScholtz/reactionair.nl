@@ -1,56 +1,21 @@
-@import partials/desktop/article
-@import partials/desktop/authors
+@import partials/desktop/typography
 @import partials/desktop/base
+
+@import partials/desktop/article
+@import partials/desktop/articles
 @import partials/desktop/boekencast
 @import partials/desktop/comments
-@import partials/desktop/featured
 @import partials/desktop/footer
+@import partials/desktop/footnotes
 @import partials/desktop/header
-@import partials/desktop/intro
+@import partials/desktop/home
 @import partials/desktop/list
-@import partials/desktop/question
 @import partials/desktop/recording
 @import partials/desktop/theme
 @import partials/desktop/tooltip
-@import partials/desktop/typography
 
 
 // Main
 
 main
-	column-gap: 5%
-	grid-template-columns: auto minmax(60%, calc(100% - 5% - 560px))
-	grid-template-rows: auto
-	margin-top: 40px
-
-	>aside
-		align-self: stretch
-		grid-column: 1
-		grid-row: auto
-		margin-top: -110px
-		margin-bottom: 40px
-
-		.sticky
-			position: sticky
-			top: calc(110px + 30px + 111px)
-			transition: top .2s
-
-	>article,
-	>section
-		grid-column: 2
-		grid-row: auto
-
-#page
-	grid-template-columns: 5fr minmax(0, 750px) 2fr
-
-
-// Asides
-
-aside
-	margin-bottom: 31px
-
-
-// Donate
-
-#donate
-	grid-column: 2
+	width: 90%

@@ -17,10 +17,6 @@ En,
 
 >... wetenschappelijk verantwoorde lesprogramma's met een objectief positief effect op de maatschappij ten behoeve van het algemene belang van emancipatie. Neutraal dus.[^2]
 
-{{< image
-	caption="De parabel der blinden van Pieter Bruegel de Oude. Gebaseerd op Mattheüs 15:1-20."
->}}
-
 Hoewel iedereen die een wereldbeeld heeft dat ook maar enigszins afwijkt van de norm zal zien dat dit natuurlijk onzin is. Neutraliteit bestaat niet in de echte wereld, elk standpunt en elke beslissing is gekleurd door ideologie. Bijvoorbeeld het zien van "emancipatie" als iets waarnaar gestreefd moet worden is ingegeven door de liberale ideologie.
 
 Vreemd genoeg weten de meeste religieuze mensen dat ze dogmatisch zijn, maar de gemiddelde liberaal is echter compleet blind voor eigen dogmatiek. Ik vermoed dat dit komt doordat de liberaal geboren en getogen is in een liberale samenleving en als zodanig nooit _echt_ in contact is geweest met enig ander wereldbeeld, hetzelfde kan echter niet gezegd worden van de gemarginaliseerde godsdienstige persoon die dagelijks te horen krijgt dat hij zijn wereldbeeld en belangrijkste overtuigingen maar weg moet stoppen _“achter de voordeur”_. Om G. K. Chesterton te citeren:

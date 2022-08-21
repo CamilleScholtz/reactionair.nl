@@ -18,10 +18,6 @@ Baudrillard onderscheidde drie fasen in de geschiedenis van het _simulacrum_, da
 
 Het Nationaal park de Hoge Veluwe. De doorsnee Nederlander zal het een mooi en ook natuurlijk tafereel vinden, of tenminste een getrouwe weergave van de natuur. Maar het is geen van beide. We zien namelijk een heidelandschap, iets wat pas vanaf de middeleeuwen is ontstaan door roofbouw en overbegrazing op plekken waar voorheen bos was. Sterker nog, het vergt veel menselijke inspanning om een natuurreservaat er zo uit te doen zien. Er moeten dieren geimporteerd worden en bomen gekapt. Zonder menselijke interventie zou het bos teruggroeien. Opnieuw wint het symbool het van de werkelijkheid. Andere goede voorbeelden van hyperreeële simulaties zijn Disneyland en pornografie; beide bootsen een werkelijkheid na die als het ware minder echt is dan de nabootsing.
 
-{{< image
-	src="zelenski.webp"
-	caption="Vladimir Zelenski aan de telefoon."
->}}
 
 Laten we nog een ander voorbeeld bekijken waarin het _simulacrum_ vooraf ging en vorm heeft gegeven aan de werkelijkheid: de Oekraïense president Vladimir Zelenski. Op het bovenstaand beeld zien we hem een telefoontje krijgen van de Europese Unie, om er dan achter te komen dat het eigenlijk voor Montenegro bestemd was. Maar het is niet echt. Zelenski speelde hier de rol van president voor een komische tv-serie.[^2] Deze serie was zeer populair in Oekraïne, wat er uiteindelijk toe heeft geleid dat Zelenski zich echt kandidaat stelde voor het presidentschap en, met behulp van dezelfde schimmige oligarchen die zijn acteercarrière hebben gestimuleerd, won. Opnieuw: _life imitates art_.
 

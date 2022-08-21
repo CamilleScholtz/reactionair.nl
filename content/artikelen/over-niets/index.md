@@ -19,10 +19,6 @@ _Dit is een vertaald artikel, het origineel is [hier](https://esoterictraditiona
 
 Apofatische theologie tracht God uit te drukken door te zeggen wat Hij niet is. Dit omdat het zich ervan bewust is dat God niet kan worden uitgedrukt. Want Hem op een bepaalde manier uitdrukken zou een beperking van Hem zijn, en proberen het Oneindige te beperken is een dwaze onderneming, misschien zelfs een grote, zo niet de grootste zonde. Zo zeggen wij dat God niet de wereld is maar bóven de wereld, niet het Goede maar bóven het Goede, niet het zichtbare maar bóven het zichtbare, enzovoort. Het logische einde van dit streven is God te beschrijven als Niets, want er is niets buiten Hem om Hem mee te vergelijken.
 
-{{< image
-	caption="In den beginne schiep God den hemel en de aarde."
->}}
-
 {{< quote
 	text="Ook verduistert de duisternis voor U niet; maar de nacht licht als de dag; de duisternis is als het licht."
 	author="Psalm 139:12"

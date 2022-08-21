@@ -11,10 +11,6 @@ image = "thumb.webp"
 
 _‘Life, liberty and the pursuit of happiness’_. Daar horen we over in onze vaak door Amerika geobsedeerde, media en geschiedschrijving. We horen over Locke en het liberalisme. Het sociaal contract. Over de ontwikkeling van mensenrechten en hoe de democratie onze rechten zou waarborgen. En gelukkig horen we ook nog wel eens over de tachtigjarige oorlog tegen de Spaanse heersers en hun hoge belastingen. 
 
-{{< image
-	caption="Voorzitter Mao is de rode zon in onze harten."
->}}
-
 Toch horen we nu juist over hoe Nederlandse boeren, een van de meest belangrijke producenten voor de Nederlandse economie, hun vee en zelfs hun bedrijf kunnen verliezen. Uitkopen wordt genoemd, maar onteigening hangt als een zwaard van Damocles boven de hoofden van boeren die hun familiebedrijf graag willen voortzetten. Lang waren ze het kloppende hart van de Nederlandse economie, maar nu passen ze niet bij het huidige regeringsbeleid. 
 
 Velden met koeien moeten plaatsmaken voor nieuwe huizen en buurten. Daar wordt Nederland groener van. 

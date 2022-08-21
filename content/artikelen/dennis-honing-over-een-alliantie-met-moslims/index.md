@@ -2,7 +2,6 @@
 auteurs = ['Dennis Honing']
 date = '2021-11-01'
 dossiers = ['Islam', 'Conservatieve Alliantie']
-question = 'Denkt u dat een dergelijke alliantie mogelijk is?'
 subtitle = 'Over reactionairen en moslims, deel 2'
 themas = 'Politiek & Actualiteit'
 title = 'Dennis Honing over een alliantie met moslims'
@@ -13,10 +12,6 @@ image = "thumb.webp"
 _Dit artikel is een reactie op een eerder gepubliceerd artikel op Reactionair.nl._[^1]
 
 We kijken naar de vraag of er en mogelijkheid is voor een rechtse coalitie met de Islam, ofwel moslims. Zoiets lijkt aanvankelijk een 'ver van je bed show'. De moslims heulen overwegend met linkse partijen, komen met eigen partijen die linkse agendapunten ageren en zijn als opiniemakers en activisten vaak te horen over het grote boze kapitalistische westen die de arme mensen-kinderen van de wereld vertrapt. Dat is inderdaad het profiel dat de nieuwe generaties moslims vaak hebben geëtaleerd. Met name Marokkanen en bekeerde Nederlandse autochtonen. Hierbij sloot men zich al te gemakkelijk aan bij de eerste verbintenis met links, en dan met name de PvdA, maar achter die wereld van goedbedoelde ethiek zoals: Gelijke rechten, gelijke kansen, inclusie, regenbogen en rondedansen gaat een conservatieve religie schuil. Geflankeerd door een etnische cultuur die vaak bol staat van traditie, tribalisme, racisme en man-vrouw rolverdelingen.
-
-{{< image
-	caption="De Westernmoskee in Amsterdam. Combineert de stijl van de Amsterdamse School met traditionele Ottomaanse vorm."
->}}
 
 Moslims zijn hierin een goed voorbeeld van dat linkse progressieve doelen vaak helemaal niet aansluiten bij een alledaagse realiteit of de 'aard van het beestje' bij de mens. Het zijn zwevende morele idealen geworden die je slechts ‘beaamt’ omdat dat mooi of goed klinkt. Het is je reinste _lip service_. De Nederlandse moslimgemeenschap is daarmee vaak een electoraat gebleken met twee gezichten. Cultureel religieuze salonsocialisten. Wanneer men op de universiteit, in de media of bij een protest progressieve standpunten had gescandeerd of zelfs gesteund, kwam men 's avonds thuis in een conservatieve woonkamer en hing de rode jas aan de kapstok. In deze woonkamer was homoseksualiteit verboden, abortus verboden, het huwelijk een norm, afvalligheid taboe en collectivisme een realiteit. De oude generatie Marokkanen is nooit openlijk bekritiseerd door deze Marokkaanse jongeren. De ouders zijn heilig. Het doet ons denken aan hoe een geëmotioneerde Nasrdin Dchar zich tot zijn moeder wendde tijdens zijn _Gouden Kalf_ speech. Het was mooie televisie, maar hoe progressief de Marokkaanse jeugd hierin ook pretendeert, de eigen conservatieve ouders worden comfortabel en hypocriet buiten de wind gehouden. De pijlen der maatschappelijke hervormingen zijn louter bestemd voor de Germanen, dit toont ook de onderliggende blankenhaat aan bij nieuw links. Marokkaanse homo afwijzende vader wordt doodgezwegen, maar een Zwarte Piet bejubelende Friese vader moet inbinden, en wel nu.
 

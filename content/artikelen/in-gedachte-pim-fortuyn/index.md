@@ -14,10 +14,6 @@ Vandaag is het twintig jaar geleden dat Pim Fortuyn werd vermoord door een extre
 
 Met terugwerkende kracht heb ik al het op YouTube beschikbare beeldmateriaal van Fortuyn verslonden. Bepaalde dingen meermalen. Pim was een ziener. Dat is niet veel mensen gegeven. Pim was een zeer transparante man. Dat is niet veel mensen gegeven. 
 
-{{< image
-	caption="Pim Fortuyn, door Derek Bacon."
->}}
-
 Ik herinner me het beeldmateriaal dat hij met een kort maar hevig getailleerd leren jasje de Rotterdamse Kocateppe-moskee bezoekt. Hij neemt er de Qur'an ter hand en kijkt er in. Ik herinner me het beeldmateriaal dat hij de dialoog aan gaat met wijlen imam Abdullah Hazelhoef. 
 
 Ik herinner me dat hij huilde op tv. Over dat Marcel van Dam hem een hoogst minderwaardig mens had genoemd. Ik herinner me dat hij op tv zei dat hij eenzaam was. Dat hij tegenover een irritant zoekerige en opdringerige Ivo Niehe zegt dat hij nog altijd gemis heeft aan Arie, zijn grote liefde. 

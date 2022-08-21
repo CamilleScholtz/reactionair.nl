@@ -1,0 +1,38 @@
+.article
+	figure
+		img
+			height: 100%
+
+.featured
+	border-left: 1px dashed var(--border-color)
+	border-right: 1px dashed var(--border-color)
+	height: calc(85vh - 167px - 40px - 40px)
+	padding-left: 20px
+	padding-right: 20px
+
+	.text
+		padding: 30px
+
+		h2
+			font-size: 44px
+			line-height: 48px
+
+		h3
+			font-size: 24px
+			line-height: 32px
+
+.large
+	height: calc((85vh - 167px - 40px - 40px) / 2 - 13px)
+
+.small
+	border-bottom: 1px dashed var(--border-color)
+	grid-template-columns: auto 4vw
+	height: calc((85vh - 167px - 40px - 40px - 40px + 26px) / 4 - 32px)
+	padding-bottom: 13px
+
+	figure
+		width: 4vw
+
+	&:last-of-type
+		border-bottom: none
+		padding-bottom: 0px

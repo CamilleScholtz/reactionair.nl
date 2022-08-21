@@ -1,7 +1,7 @@
 +++
 aangehaald = ['Martin Heidegger', 'Oswald Spengler']
 anchor = 'Center'
-auteurs = ['Redactie']
+auteurs = ['De redactie']
 date = '2022-05-28'
 subtitle = 'Heidegger en onze Terminator-toekomst, deel 1'
 themas = 'Religie & Metafysica'
@@ -13,10 +13,6 @@ image = "thumb.webp"
 _Dit is een vertaald artikel, het origineel is [hier](https://astralflight.substack.com/p/terminator-future) te lezen._
 
 In _Die Frage nach der Technik_ beweert Martin Heidegger dat het wezen of de essentie van technologie _'Gestell'_ is (in het Nederlands soms als _'bestel'_ en in het Engels als _'enframing'_ vertaald), iets wat op zichzelf niets technologisch is. Hoe is dat mogelijk? Als technologie slechts een werktuig is met een zeker nut voor ons, de uitvinders, hoe kan het wezen ervan iets anders zijn dan zijn bedoelde functie? Technologie is inert, daarom kan de essentie ervan niets anders zijn dan het doel of de betekenis die wij er aan toekennen. Heidegger is het daar niet mee eens. In werkelijkheid zit het wezen van de technologie niet in technologie, maar in onszelf. Tegelijkertijd is dit wezen niet ons wezen. Dat wil zeggen, _Gestell_ is niet de essentie van het Zijn in zijn totaliteit. Veeleer is het een aspect van het Zijn dat andere aspecten verbergt of bedekt. Wanneer we gevangen zitten in de essentie van de techniek, wanneer technologie ons 'inkadert', hebben we geen toegang meer tot de andere facetten van het Zijn en is het wezen van de mens teruggebracht tot het wezen van de techniek.
-
-{{< image
-	caption="Tous des cyborg? non merci, door Etzi."
->}}
 
 Heidegger zegt dat _Gestell_ als een boekenkast kan zijn die een verzameling boeken omvat en ondersteunt, of als een skelet waar een lichaam aan hangt. In het eerste voorbeeld 'herbergt' de techniek ons. In het tweede ondersteunt en onderligt het onze cultuur en ons Zijn. Zonder dit raamwerk zou ons lichaam tot een vormeloze, inerte blob ineenstorten en zonder boekenkast zouden de boeken in chaotische stapels door het huis slingeren of vergeten stof verzamelen in een donker hoekje. Een eenvoudiger, directer voorbeeld kan Heideggers concept nog duidelijker illustreren, namelijk dat van de lijst van een schilderij. De vier randen van de lijst kaderen het afgebeelde tafereel in. De lijst is geen onderdeel van de afbeelding, maar niettemin noodzakelijk om het te tonen en om überhaupt te bestaan. Een beeld is op zichzelf louter een nabootsing van het leven en de lijst geeft de grens tussen de afbeelding en het echte leven aan. Op deze manier kunnen we begrijpen hoe _Gestell_ (denk aan de Engelse vertaling _'enframing'_) de essentie van de technologie is en niet die van de mensheid. We zijn ermee verknoopt maar het bepaalt ons niet. De nabootsing van de werkelijkheid binnen de lijst kan nooit uit zijn lijst ontsnappen en deelnemen aan de volheid van het Zijn. Net zo kan de mensheid ingekaderd door de techniek niet aan de grenzen hiervan ontsnappen en de volheid van het menselijke bestaan ervaren. 
  

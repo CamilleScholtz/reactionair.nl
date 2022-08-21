@@ -1,6 +1,6 @@
 +++
 aangehaald = ['Jacues Ellul']
-auteurs = ['Schwab']
+auteurs = ['De redactie']
 date = '2022-05-08'
 subtitle = 'Het spectrum van geweld'
 themas = 'Cultuur & Maatschappij'

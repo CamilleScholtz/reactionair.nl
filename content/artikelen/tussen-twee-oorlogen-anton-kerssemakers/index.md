@@ -12,11 +12,6 @@ image = "thumb.webp"
 
 Onlangs heb ik de website Delpher herontdekt, deze website categoriseert oude boeken en krantenknipsels. Natuurlijk zocht ik op René Guénon, om te zien of er Nederlandse auteurs of krantenknipsels waren die hem vermeldden. Van het tiental resultaten trok één boek mijn aandacht met de titel _“Vrijmetselarij en Jodendom: traditioneele inhoud, moderne ontaarding en invloed”_ omdat Guénon op de allereerste bladzijde werd geciteerd, en de bladzijden daarna vrijwel woord voor woord Guénon's werk over Traditie, intellectuele intuïtie en de crisis van de moderne wereld weerspiegelden. Ik besloot wat te gaan spitten over wie deze auteur was en kwam een aantal interessante dingen tegen.
 
-{{< image
-	caption="Omslag van het boek Vrijmetselarij en Jodendom."
->}}
-
-
 ### Vrijmetselarij en Jodendom
 
 Laten we beginnen met een korte bespreking van het boek _Vrijmetselarij en Jodendom_. Gezien de titel en de tijd van publicatie (1939) zou je kunnen denken dat dit een of ander antisemitisch werk is, maar het is vrijwel het tegendeel. Kerssemakers betoogt dat zowel de Vrijmetselarij als het Jodendom geldige Tradities zijn, en gaat zelfs zover te stellen dat het Jodendom in zekere zin het fundament van het Christendom vormt, en dat als zodanig het openlijk aanvallen van de Thora, of zelfs het traditionele religieuze commentaar op de Thora, de Talmoed, het fundament van het Christendom zal schaden:

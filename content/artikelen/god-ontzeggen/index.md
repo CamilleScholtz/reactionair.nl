@@ -12,10 +12,6 @@ image = "thumb.webp"
 
 Een van de dingen waar ik geobsedeerd mee ben is het concept van het Oneindige. In het bijzonder hoe ware oneindigheid ook eindig moet zijn om trouw te zijn aan de definitie ervan.[^1] Het is duidelijk dat dit veel te maken heeft met theologie, en daarmee bedoel ik de wetenschap van het 'begrijpen' van God. 
 
-{{< image
-	caption="Een pagina uit Farīd ud-Dīn's Taal van de Vogels."
->}}
-
 In het bijzonder de apofatische theologie, die deze eerder genoemde paradox beschouwt als iets dat de dialoog te boven gaat. Paradox betekent etymologisch 'voorbij het denken' en apofatisch betekent etymologisch 'anders dan spreken'.
 
 Ongeveer een jaar geleden, tijdens mijn onderzoek naar deze concepten, stuitte ik op een boek getiteld _'Unsaying God: Negative Theology in Medieval Islam'_ van Aydogan Kars. Kars bespreekt in dit boek vier verschillende 'soorten' apofatische theologie met behulp van vele originele vertalingen van verschillende citaten en gedichten van middeleeuwse islamitische theologen en mystici. Het boek is duidelijk 'academisch' van aard, en de ietwat hoge prijs van 90 euro laat dat zien. Gezien de hoge prijs en de onbeschikbaarheid online wil ik enkele parels uit dit werk daarom graag met u delen. Zo zal ik niet te veel redigeren en enkel de verschillende gedichten en citaten presenteren zoals ze zijn.

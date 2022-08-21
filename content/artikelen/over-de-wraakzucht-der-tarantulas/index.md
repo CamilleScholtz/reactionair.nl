@@ -1,7 +1,7 @@
 +++
 aangehaald = ['Friedrich Nietzsche']
 anchor = 'Center'
-auteurs = ['Redactie']
+auteurs = ['De redactie']
 date = '2022-05-26'
 dossiers = ['Woke']
 subtitle = 'Nietzsches negentiende-eeuwse blik op social justice warriors'
@@ -12,10 +12,6 @@ image = "thumb.webp"
 
 
 Dit artikel is een hoofdstuk uit _Also sprach Zarathustra_ van Friedrich Nietzsche:
-
-{{< image
-	caption="Een spin op haar web, houtsnede, 1547."
->}}
 
 Aanschouw, dit is het hol van de tarantula! Wilt gij haar zelf zien? Hier hangt haar web: raak het maar eens aan, zodat het trilt. Daar komt ze reeds welwillend aan: welkom, tarantula! Zwart draagt gij op uw rug uw driehoek en merkteken; en ik weet ook wat er in uw ziel leeft. Wraak leeft in uw ziel: waar gij heen bijt, daar groeit zwarte korst; met wraak maakt uw gif de ziel duizelig!
 

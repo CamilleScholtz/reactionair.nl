@@ -11,10 +11,6 @@ image = "thumb.webp"
 
 Vlak na de Eerste Wereldoorlog verscheen het filosofische magnum opus van de Nederlandse auteur Carry van Bruggen, _Prometheus_ (1919). Hoewel Van Bruggen (1881-1932) zelf hoge verwachtingen had van het boek, raakte het al tijdens diens verschijning in de vergetelheid. Was dit terecht? Zeker niet, want het werk bevat een vernuftig vertoog over de ontwikkeling van het mensdom. Hier bekijken wij het nader.
 
-{{< image
-	caption="Portret van Carry van Bruggen."
->}}
-
 Waarover handelt _Prometheus_? Wie afgaat op de titel, ziet al snel een rode draad. Prometheus was de Griekse god die in opstand kwam tegen de andere Griekse goden, onder leiding van oppergod Zeus. De sage staat symbool voor de strijd tussen ‘het strevende individu tegen de machthebbende meerderheid’. Maar het zou oppervlakkig zijn om deze strijd enkel op het niveau te denken van een goede held tegen een kwade menigte. Nog meer is het een strijd tussen ‘de in zichzelf verdeelde mensheid, de in zichzelf verdeelde mens, de in zichzelf verdeelde Eenheid’. Oftewel: niemand is volledig de edele Prometheus, of de lage Zeus. Men strijdt dus niet tegen een externe slechterik, los van zichzelf - maar altijd tegen het lage deel in zichzelf. Dit lage deel is: zijn eigen vooroordelen, zijn eigen wanen en illusies.
 
 De strijd speelt zich niet alleen af binnen de mens als individu, maar ook binnen de mensheid als geheel. Gedurende de geschiedenis boekte het mensdom grote vooruitgang op talloze gebieden. Middels (wetenschappelijk) onderzoek en rationeel getheoretiseer rijpte het mensdom steeds meer in het proces van een diepere bewustwording. Deze bewustwording kan men ook opvatten als zelfkennis, of levensbesef.
