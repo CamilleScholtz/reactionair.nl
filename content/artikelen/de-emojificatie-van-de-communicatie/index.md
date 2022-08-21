@@ -5,7 +5,7 @@ auteurs = ["De Melancholieke Nar"]
 date = "2022-08-20"
 themas = "Religie & Metafysica"
 aangehaald = ["Friedrich Nietzsche", "Ludwig Wittgenstein"]
-image = "20220809_102027.jpg"
+image = "jeremy-zero-wpxr-qsdqjm-unsplash-scaled-1.jpg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
