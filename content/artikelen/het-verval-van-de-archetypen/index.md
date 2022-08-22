@@ -4,7 +4,7 @@ subtitle = "Het herstellen van mannelijkheid en vrouwelijkheid in het tijdperk v
 auteurs = ["Tara Ann Thieke"]
 date = "2022-08-22"
 themas = "Cultuur & Maatschappij"
-image = "imago0080790130w.jpg"
+image = "imago0080790130w.webp"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
