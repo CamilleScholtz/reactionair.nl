@@ -1,5 +1,5 @@
 +++
-auteurs = ['Redactie']
+auteurs = ['De redactie']
 date = '2022-02-11'
 subtitle = 'Nummer 8 zal je versteld doen staan'
 themas = 'Klikaas'

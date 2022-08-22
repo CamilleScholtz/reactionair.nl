@@ -1,10 +1,9 @@
 +++
 title = "Hitler, het nationaal-socialisme en Wodan"
 subtitle = "Een opstel van Carl Gustav Jung"
-auteurs = ["Redactie"]
+auteurs = ["De redactie"]
 date = "2022-07-26"
 themas = "Recensie & Biografie"
-question = "Wat zijn uw gedachten over dit artikel?"
 noindex = true
 aangehaald = ["Carl Jung", "Friedrich Nietzsche"]
 image = "franz.jpg"
@@ -19,8 +18,6 @@ anchor = "Smart"
 >}}
 
 Met de Wereldoorlog (1914-1918) lijkt voor Europa een tijd aangebroken, waarin dingen gebeuren waarover vroeger hoogstens gedroomd werd. We hielden immers een oorlog tussen twee cultuurlanden al bijna voor een fabel, want we waren van mening dat zo'n absurditeit in deze rationele, internationaal georganiseerde wereld in toenemende mate onmogelijk werd. Wat na deze oorlog volgde, was een ware heksendans van fantastische revoluties, veranderingen van de landkaart, politiek teruggrijpen op middeleeuwse en antieke voorbeelden, staten die andere volkeren opslorpen, en die met een absolute aanspraak op totaliteit alle vroegere theocratische pogingen in dit opzicht ruimschoots overtroeven, christen- en jodenvervolgingen, politieke massamoord, en tenslotte nog een luchthartige piratenoverval op een vredig, half-geciviliseerd volk.[^1]
-
-{{< image caption="Die wilde Jagd van Franz von Stuck uit 1889. Men zegt dat Hitler zijn uiterlijk modelleerde naar de figuur met de rode mantel." >}}
 
 Waar dergelijke dingen in het groot gebeuren, mag men er zich volstrekt niet over verbazen wanneer zich in het kleine en kleinste even merkwaardige dingen afspelen. Op filosofisch gebied moeten we overigens nog even wachten tot iemand zich er grondig op bezonnen heeft in wat voor tijd we eigenlijk leven. Op religieus gebied echter spelen zich belangrijke dingen af. Dat in Rusland na de bonte heerlijkheden van de Grieks-orthodoxe kerk een wat betreft smaak en intelligentie erbarmelijke goddeloze beweging inzette, is eigenlijk niet verbazend, hoe betreurenswaardig laag het geestelijke niveau van de 'wetenschappelijke' reactie ook is. Tenslotte herademen we in het nabije Oosten ook, wanneer we vanuit de walm van deze lampenverzamelingen, die zich voor orthodoxe kerk uitgeven, in een fatsoenlijke moskee komen, waar de verheven onzichtbaarheid en alomtegenwoordigheid van God niet meer wordt vervangen door een overvloed aan rites en heilige instrumenten. En uiteindelijk moest ook voor Rusland eens de negentiende eeuw met zijn 'wetenschappelijke' verlichting aanbreken. Dat echter in een wezenlijk cultuurland, dat al geruime tijd aan gene zijde van de middeleeuwen werd gewaand, een oude storm- en roesgod, namelijk de zich sinds lang in ruste bevindende Wodan, nu weer, als een uitgedoofde vulkaan, tot nieuwe activiteit kon komen, is meer dan curieus; het is regelrecht pikant.[^2] Hij is, zoals we weten, tot leven gekomen in de jeugdbeweging, en werd meteen aan het begin van zijn wederopstanding geëerd met een paar bloedige schapenoffers. Het ging om die blonde jongelingen (soms ook jonge vrouwen), die we als rusteloze zwervers zagen op alle landwegen, vanaf de Noordkaap tot aan Sicilië, uitgerust met rugzak en banjo, trouwe dienaren van de dolende zwerver-god.[^3] Later, tegen het einde van de republiek van Weimar, werd dit zwerven overgenomen door de duizenden en duizenden werklozen, die we overal op doelloze zwerftochten aantroffen. In 1933 zwierf men niet meer, maar marcheerde men met honderdduizenden tegelijk, van vijfjarige kleuters tot en met veteranen. De Hitler-beweging bracht letterlijk heel Duitsland op de been en produceerde het schouwspel van een volksverhuizing ter plekke. Wodan, de zwerver-god, was ontwaakt. In een noord-Duitse sekte van eenvoudige mensen staat hij in een verenigingslokaal, gezeten op een wit paard en beschroomd 'Christus' genoemd. Ik weet niet of deze mensen zich bewust zijn van Wodans oerverwantschap met de Christus- en Dionysos-figuur; waarschijnlijk is dat niet.[^4]
 

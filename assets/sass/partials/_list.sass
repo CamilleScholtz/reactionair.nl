@@ -1,41 +1,28 @@
 #taxonomy,
 #term
+	.list-header
+		border-bottom: 1px dashed var(--border-color)
+		padding-bottom: 50px
+		text-align: center
+
 	#authors,
 	#articles
 		display: grid
+		gap: 50px
+		padding-top: 50px
 
 		.article
-			background: var(--background-color)
 			border-bottom: 1px dashed var(--border-color)
-			position: relative
+			grid-template-rows: 200px auto
+			height: 500px
 			text-align: center
 
-			&:last-of-type
-				border-bottom: none
+			figure
+				height: 200px
 
-			img
-				height: 300px
-				margin: 0 auto
-				margin-bottom: 50px
-				object-fit: cover
-				width: 100%
+			.text
+				align-content: center
+				display: grid
 
-			h2
-				font-size: 28px
-				font-weight: 700
-				line-height: 34px
-				margin-bottom: 10px
-
-			h3
-				font-size: 24px
-				font-weight: 400
-				line-height: 30px
-				margin-bottom: 60px
-				margin-top: 0px
-
-			.author
-				bottom: 40px
-				color: var(--accent-color)
-				font-family: "Quadraat Pro Sans", sans-serif
-				font-size: 18px
-				position: absolute
+				.author
+					margin-top: 30px

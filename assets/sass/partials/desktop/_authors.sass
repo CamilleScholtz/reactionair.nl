@@ -1,30 +1,8 @@
-.author-large
-	grid-row: span 5
-	margin-top: 10px
+.author-info
+	text-align: left !important
 
-.author-small
-	border-right: 1px dashed var(--border-color)
-	margin-top: 40px
-	padding-right: 60px
+	&.large
+		grid-template-columns: 200px auto
 
-	h3
-		font-size: 31px
-
-	p
-		color: var(--muted-color)
-		font-style: italic
-		margin-bottom: 5px
-		line-height: 23px
-		margin-top: 4px
-		margin-bottom: 10px
-
-	img
-		left: -28px
-		top: -25px
-
-.authors
-	grid-row: 1 / span 2
-
-#authors
-	.author-large
-		grid-row: auto
+	&.small
+		grid-template-columns: 100px auto

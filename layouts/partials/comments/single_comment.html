@@ -18,7 +18,7 @@
 {{- $data  = merge $data (dict "apiUrl" .apiUrl) -}}
 {{- $data  = merge $data (dict "websiteId" .websiteId) -}}
 
-{{ partial "welcomments/template.html" $data }}
+{{ partial "comments/template.html" $data }}
 
 {{- $parentId := (index .comment "id") -}}
 {{- $nestingLevel := (add (int .nestingLevel) 1) -}}
@@ -35,6 +35,6 @@
 		{{- $data  = merge $data (dict "apiUrl" $apiUrl) -}}
 		{{- $data  = merge $data (dict "websiteId" $websiteId) -}}
 
-		{{- partial "welcomments/single_comment" $data -}}
+		{{- partial "comments/single_comment" $data -}}
 	{{- end -}}
 {{- end -}}

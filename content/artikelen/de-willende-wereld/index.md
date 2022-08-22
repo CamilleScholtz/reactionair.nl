@@ -5,7 +5,6 @@ auteurs = ["Anton Prins"]
 date = "2022-06-23"
 themas = "Religie & Metafysica"
 aangehaald = ["George Berkeley", "Johann Wolfgang von Goethe", "Immanuel Kant", "Friedrich Nietzsche", "Arthur Schopenhauer", "William Shakespeare", "Baruch Spinoza", "Plato"]
-question = "Wat zijn uw gedachten over dit artikel?"
 image = "thumb.webp"
 anchor = "Center"
 +++
@@ -15,10 +14,6 @@ Het volgende stuk is geschreven ter gelegendheid van de lezing van de heer Joris
 ---
 
 _“De wereld is mijn voorstelling”_;[^1] zo vangt het bijna duizend woorden tellende Hauptwerk van de Duitse filosoof Arthur Schopenhauer aan. Deze onschuldig ogende openingszin vat, samen met de vergezellende hypothese van de wereld als wil,  Schopenhauers filosofie effectief samen. Zo ligt in zekere zin reeds in de titel van dit werk —_Die Welt als Wille und Vorstellung_— zijn gehele filosofie besloten.
-
-{{< image 
-	caption="Arthur Schopenhauer, Johannes Schäfer."
->}}
 
 In het voorwoord van zijn boek vinden wij een verontschuldiging van Schopenhauer: hij kon geen kortere wijze vinden zijn filosofie mede te delen dan het gehele boek.[^2] Het is geen zelfspot maar een scherpe observatie van het soort waarin Schopenhauer meester is; de uitgebreidheid van zijn werk is geboren uit pure noodzaak, enerzijds om de totaliteit van de menselijke ervaring te omarmen, anderzijds omdat de kern van Schopenhauers filosofie de westerse wereld wezensvreemd is. De prachtige metaforen, de verwijzingen naar kunst en naar eerdere filosofen maar ook citaten uit natuurkundige werken of religieuze teksten vullen de pagina‘s en verlenen Schopenhauers werk een bijzondere dichterlijkheid en geven zijn abstracte concepten die soms ver van de westerling af staan een grote begrijpbaarheid.
 

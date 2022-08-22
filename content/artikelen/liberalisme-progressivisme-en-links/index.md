@@ -1,6 +1,6 @@
 +++
 anchor = 'Center'
-auteurs = ['Redactie']
+auteurs = ['De redactie']
 date = '2022-05-31'
 subtitle = 'Drie machten die samenspannen tegen de middenklasse'
 themas = 'Politiek & Actualiteit'
@@ -12,10 +12,6 @@ image = "thumb.webp"
 _Dit is een vertaald artikel, het origineel is [hier](https://www.eugyppius.com/p/liberalism-progressivism-leftism) te lezen._
 
 Naar mijn mening zijn er heden ten dage drie basale, onderling verbonden en elkaar versterkende ideologische systemen werkzaam in de westerse wereld. Te weten het liberalisme, het progressivisme en het 'linksisme'.
-
-{{< image
-	caption="La Mort de Marat, door Jacques-Louis David."
->}}
 
 Met liberalisme bedoel ik het cluster van morele en politieke ideeen dat de nadruk legt op individuele rechten en zelfbeschikking. De liberale traditie is nu enige honderden jaren oud en het is noodzakelijk een een minimum van liberale beginselen te omarmen om deel te mogen nemen aan het discours van beschaafde mensen. Zelfs linksen moeten door deze hoepels springen. 
 

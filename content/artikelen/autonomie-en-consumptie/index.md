@@ -17,10 +17,6 @@ De omgeving is voor de mens dus van wezenlijk belang. Allerlei andere factoren b
 
 Zoals Spengler in dit citaat aangeeft is de mens gegrond in zijn, eenvoudig gezegd, omgeving. En deze omgeving wordt weer beïnvloed door allerlei factoren. Die factoren worden hier holistisch geschaard onder “de maatschappelijke moraal”. In de huidige maatschappelijke moraal gaat men er vaak van uit dat bepaald soort zaken zijn en dat er rond dat zijn een neutraliteit en objectiviteit waant. Dit kan teruggezien worden door de in de maatschappij veel gebezigde mantra _‘je moet gewoon lekker jezelf kunnen zijn’_. Maar dit mantra is een rookgordijn, zoals al eerder besproken is men geen grondeenheid en stoelt het zijn op factoren waar men zelf niet of nauwelijks invloed op kan uitoefenen. Wat is precies de huidige maatschappelijke moraal? Deze alinea schetst al een voorbeeld omtrent het individualisme, maar verder is het nog belangrijk om nader naar de consumptiemaatschappij te kijken, omdat die van wezenlijk belang is voor ons zijn.
 
-{{< image
-	caption="De duivel vervult het menselijke hart met begeerte naar rijkdom, macht en genot, Maarten van Heemskerck."
->}}
-
 Velen gaan er vanuit dat men autonoom kan bepalen wat goed voor hen is en op basis daarvan ook consumeert. Zoals al eerder is aangegeven bestaat een volledig autonoom mens, die zelf kan bepalen wat zijn begeertes zijn, niet. Men wordt veelal gevormd door de omgeving. Dit is bij consumeren ook niet anders. Edward Bernays, tevens neef van Sigmund Freud, veronderstelde in 1928 in zijn boek _Propaganda_ dat,[^3] door het begrijpen van de groepsdynamiek, het mogelijk zou zijn om het gedrag van mensen te manipuleren zonder dat ze het zelf beseffen. Om deze veronderstelling te testen lanceerde Bernays een van zijn beroemdste PR-campagnes: vrouwen overtuigen om te roken.
 
 In een tijd dat sigarettenconsumptie door vrouwen als een taboe werd beschouwd, schilderde hij sigaretten af als _‘fakkels van vrijheid’_ die een uitdaging zouden zijn voor de mannelijke autoriteit. Hij bracht daarmee een paradigmaverschuiving in de samenleving: het idee dat het roken van sigaretten een vrouw onafhankelijker maakt.[^4]

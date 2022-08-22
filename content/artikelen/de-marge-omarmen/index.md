@@ -1,20 +1,17 @@
 +++
 title = "De marge omarmen"
 subtitle = "Stap in, lullo, we gaan naar Hyperborea"
-auteurs = ["Redactie"]
+auteurs = ["De redactie"]
 date = "2022-08-18"
 themas = "Politiek & Actualiteit"
 image = "egpfllzu8aahd9d.jpeg"
 anchor = "Smart"
-question = "Wat zijn uw gedachten over dit artikel?"
 +++
 *Dit is een vertaald artikel van Apollonian Germ, het origineel is [hier](https://apolloniangerm.substack.com/p/embracing-the-fringe) te lezen.*
 
 - - -
 
 Iedereen die genoeg tijd heeft besteed aan onderzoek naar alternatieve ideeën en samenzweringstheorieën op het internet, zal een fantasierijke mengelmoes van zogeheten "marginale" ideeën en theorieën tegenkomen. Deze variëren van uiterst plausibel en goed onderbouwd tot werkelijk irrationeel en "schizofreen". Het is onmogelijk om ze allemaal op te noemen, maar er zijn het Tartaarse Rijk & de grote "modderstroom" theorieën, fantoomtijd en nieuwe chronologieën, de platte-aarde-theorie en al haar varianten, vage vragen over de waarheid over Antarctica, theorieën over de elites waarbij reptielachtigen en/of buitenaardse wezens betrokken zijn, beweringen dat de ruimte "nep" is, mensen die geloven dat alle belangrijke mainstream gerapporteerde nieuwsgebeurtenissen nep zijn, enz...
-
-{{< image caption="Schizo afbeelding gevonden op Twitter met behulp van de zoektermen '666 gangstalking targeted individual'." >}}
 
 Hoewel ik niet elke marginale theorie geloof die ik tegenkom, denk ik dat er een aantal redenen zijn om deze alternatieve "marginale" ideeën uit principe te omarmen. Kort samengevat zijn de drie belangrijkste redenen:
 

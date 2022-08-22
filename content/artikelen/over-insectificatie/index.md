@@ -5,7 +5,6 @@ auteurs = ["De Melancholieke Nar"]
 date = "2022-07-12"
 themas = "Cultuur & Maatschappij"
 aangehaald = ["Carl Schmitt"]
-question = "Wat zijn uw gedachten over dit artikel?"
 image = "12eac8367a00449eb7bba730006f4c8b-medium.jpg"
 anchor = "Smart"
 +++
@@ -28,8 +27,6 @@ anchor = "Smart"
 Het is mogelijk de moderniteit te zien als een project om een mierenhoop te bouwen van geatomiseerde chimpansees, maar de sombere waarheid is dat dat slechts de eerste trede is in een tweetrapsproces.
 
 In de tweede, doortraptere fase worden chimpansees tot mieren hervormd, om de stabiliteit van De Mierenhoop op langere termijn te garanderen.
-
-{{< image caption="Bestiarium uit Engeland, circa 1255." >}}
 
 Mensen zijn hogere primaten; hun naaste verwanten uit het dierenrijk zijn de chimpansees. Chimpansees zijn vergelijkbaar met mensen en daarom vertoont de sociale orde die chimpansees erop nahouden grote gelijkenissen met de sociale structuren die mensen, en hun voorlopers, duizenden jaren hebben voortgebracht en bewoond.
 

@@ -11,10 +11,6 @@ image = "thumb.webp"
 
 De kruistochten worden meestal aangehaald om het christendom, en specifiek het katholicisme, aan te vallen. Men doet dan, alsof het een voorbeeld was van christelijk terrorisme, het begin van een reeks conflicten in een tevoren vredig Midden-Oosten, of een christelijke veroveringsstrijd.
 
-{{< image
-	caption="Illustratie van de Slag bij Hattin"
->}}
-
 Dat is vergelijkbaar met kritiek uiten op de VS en Engeland vanwege het bevrijden van België en Nederland tijdens de Tweede Wereldoorlog; of op landen en huursoldaten die nu op verzoek gewapende steun bieden aan Oekraïne. Het vereist dat je compleet negeert wat eraan voorafging. In dit geval: ruim 450 jaar lang invasie.
 
 

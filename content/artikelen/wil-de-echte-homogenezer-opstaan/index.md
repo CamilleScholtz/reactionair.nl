@@ -10,10 +10,6 @@ image = "thumb.webp"
 
 Vandaag kwam naar buiten dat _D66_ en de _VVD_, samen met _PvdA_, _GroenLinks_, _SP_ en de _PvdD_ en wetsvoorstel zullen indienen die homogenezing illegaal maakt op straffe van hoge boetes, gevangenisstraf en potentieel ontheffing uit een ambt.
 
-{{< image
-	caption="Middeleeuwse arts die de schedel van een patiënt opensnijdt met een hamer en een mes. Illustratie uit een 14e eeuws Frans medisch manuscript van Guy van Pavia."
->}}
-
 Maar wat is een homogenezer? Dat moet je aan de liberalen zelf vragen. Op internet zijn precies nul zelf omschreven homogenezers te vinden. Dit wordt bevestigd als we kijken naar de _Google Trends_.[^1]
 
 _RTL Nieuws_ bracht vorig jaar een verhaal over een jongen (Wouter) die uit een orthodox reformatorisch milieu komt waar blijkbaar in tongen gesproken wordt.[^2] Zeer bijzonder, daar dit zeker niet de norm is en absoluut niet orthodox. Nu wil ik niet aan _‘victim blaming’_ doen maar het is exemplarisch voor de berichtgeving omtrent dit veronderstelde gevaar. De zogenaamde therapie bleek te bestaan uit een bijeenkomst waar dus in tongen gesproken werd om de demon van de homofilie te verdrijven. Geen therapeut kwam er aan te pas, maar een ouderling en een ‘vooraanstaande evangelist’ die het ritueel uitvoerden. 

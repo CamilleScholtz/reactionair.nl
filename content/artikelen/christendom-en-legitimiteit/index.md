@@ -14,11 +14,6 @@ Een priester hield een keer een preek (een clichématig begin, ik weet het) over
 
 Dit is altijd een essentieel kernpunt geweest van het traditionalisme; primair binnen religie en secondair op politiek niveau, en eigenlijk in wereldse kwesties in het algemeen. Steun voor hiërarchie staat bekend als klassiek rechts, en dat is het ook. Maar hiërarchie betekent niet _‘Befehl ist Befehl’_ of _‘de wet is de wet’_. Autoriteit wordt ontleend aan een objectief gegeven of een hoger principe, verwijst naar iets dat uitstijgt boven de persoon die autoriteit bekleedt of uitstraalt. In die zin is autoriteit gebaseerd op waarheid. Het moet legitiem verkregen worden en kan zichzelf niet tegenspreken, want waarheid is consistent en ondubbelzinnig.
 
-
-{{< image
-	caption="Paus Bonifatius VIII, schilderij van Andrea Gastaldi."
->}}
-
 Dit is wat traditionalisme onderscheidt van relativisme en subjectivisme. Dit heeft haar oorsprong in de traditionele christelijke visie op waarheid en op God zelf.
 
 God is in die visie almachtig, maar geen despoot. God, zoals Hij zich openbaarde volgens het christendom, is gebonden aan zijn eigen rechtvaardigheid en goedheid. Daarom is God ook betrouwbaar en geen God van willekeur. God liegt niet. God wilt niet het kwade, dwingt er mensen ook niet toe. Hij staat het toe, maar bestemt mensen er niet onconditioneel toe. En tenslotte heeft hij de mens geschapen met een natuurlijke ratio, waarmee hij morele grondwetten kan onderkennen en inzicht krijgen in de hem omringende wereld.

@@ -10,18 +10,19 @@
 	<div class="pages">
 		{{ range first 5 .pages | after 1 }}
 			<a href="{{ .RelPermalink }}">
-				<span class="arrow">→</span>
+				<span class="arrow">
+					-›
+				</span>
 				<span class="text">{{ .Params.title }}</span>
 			</a>
 		{{ end }}
 
-		<a href="/{{ .section }}/{{ urlize .term }}/" class="more">Zie meer…</a>
+		<a href="/{{ .section }}/{{ urlize .term }}/" class="more">Meer artikelen...</a>
 	</div>
 
-	{{ partial "articles/featured.html" (dict
+	{{ partial "articles/large.html" (dict
 		"context"   $featured
-		"size"      "small"
 		"imageless" (eq .term "Klikaas")
-		"lazy"      .lazy
+		"lazy"      true
 	) }}
 </div>

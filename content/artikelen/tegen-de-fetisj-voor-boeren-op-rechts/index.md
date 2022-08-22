@@ -5,13 +5,10 @@ auteurs = ["Rintrah Radagast"]
 date = "2022-07-01"
 themas = "Politiek & Actualiteit"
 dossiers = ["Klimaatverandering"]
-question = "Wat zijn uw gedachten over dit artikel?"
 image = "x22075-tif.jpeg"
 anchor = "Bottom"
 +++
 Vandaag wil ik met een rechtse mythe afrekenen: Het idee dat de stikstofcrisis alleen op papier bestaat en er een soort complot bekokstooft wordt vanuit de regering om de veeteelt om zeep te helpen, met als doel ruimte te scheppen voor nieuwe woningen. Dit idee is dus je reinste flauwekul.
-
-{{< image caption="Landschap met wilgen aan het Gein, Piet Mondriaan." >}}
 
 Allereerst lopen we tegen het probleem aan dat er sprake zou moeten zijn van een complot dat de scheiding der machten overstijgt. Het kabinet moet de rechterlijke macht zo om haar vinger gewonden hebben dat een rechter een uitspraak doet waardoor de bouw stil kwam te liggen en het voor de VVD vernederende besluit genomen moest worden om de maximumsnelheid op de snelwegen te verlagen, met als hoger overkoepelend doel om het kabinet een excuus te geven de boeren te onteigenen.
 

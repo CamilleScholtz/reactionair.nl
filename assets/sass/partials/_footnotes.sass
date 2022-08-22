@@ -2,11 +2,23 @@
 	background: var(--accent-background-color)
 	margin-bottom: 40px
 	margin-top: 50px
-	padding: 50px
 	padding-bottom: calc(50px - 30px)
 
-	li::marker
-		color: var(--text-color)
+	ol
+		margin-bottom: 0px !important
+
+		li
+			&::marker
+				color: var(--text-color)
+				font-family: 'Courier Prime', monospace
+				font-size: 13px
+
+			&:last-of-type
+				p
+					margin-bottom: 0px
+
+			.footnote-backref
+				margin-left: 3px
 
 	hr
 		display: none

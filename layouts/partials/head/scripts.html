@@ -7,17 +7,12 @@
 	<script defer src="{{ (resources.Get "js/vendor/welcomments.js").RelPermalink }}?v=1660483810" id="welcomments__script"></script>
 {{ end }}
 
-<script type="application/javascript">
-	if (!sessionStorage.getItem("_swa") && document.referrer.indexOf(location.protocol + "//" + location.host) !== 0) {
-		fetch("https://counter.dev/track?" + new URLSearchParams({
-			referrer:  document.referrer,
-			screen:    screen.width + "x" + screen.height,
-			user:      "admin@camille.sh",
-			utcoffset: "2",
-		}), {
-			referrerPolicy: "no-referrer-when-downgrade",
-		});
-	}
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MM83VY2NM0"></script>
 
-	sessionStorage.setItem("_swa", "1");
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-MM83VY2NM0');
 </script>

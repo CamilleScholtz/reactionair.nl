@@ -7,11 +7,8 @@ themas = "Cultuur & Maatschappij"
 aangehaald = ["Sigmund Freud", "Immanuel Kant", "Jean-Jacques Rousseau", "Jean-Paul Sartre"]
 image = "caspar-david-friedrich-011-daac9d.jpg"
 anchor = "Top"
-question = "Wat zijn uw gedachten over dit artikel?"
 +++
 Postmoderniteit wordt gekenmerkt door de delegitimisering en het verval van elke traditionele structuur. Het postmoderne individu erkent enkel nog zijn eigen subjectiviteit als legitimeringsgrond. De geworpenheid van het individu in de reeds bestaande wereld opgebouwd uit pre-existerende structuren is vervangen door het centrale credo der existentialisten ‘existentie gaat vooraf aan essentie’.[^1] Deze situatie waarbij het individu de enige locus is van waarheid kan worden omschreven als hyperindividualisme.
-
-{{< image caption="Der Träumer - Klosterruine Oybin van Caspar David Friedrich." >}}
 
 Dit hyperindividualisme is, door de erosie van noodzakelijke structuren, bijvoorbeeld gezin en natie, die een voorwaarde zijn voor stabiliteit en continuïteit binnen een gemeenschap, een van de oorzaken van de civilizationele crisis waar de Westerse wereld zich nu in bevindt.  
 

@@ -16,10 +16,6 @@ Tijd veranderd in ruimte, dit is de titel van een hoofdstuk 23 in René Guénon'
 
 Lemm haalde Spengler aan over dit onderwerp. Spengler identificeert de _Faustiaanse beschaving_ — dat wil zeggen, het resultaat van de cultuur van West-Europa — als bezeten met het concept van _oneindige ruimte_. Deze obsessie komt volgens Spengler tot uiting in de spitsen en bogen van de gotische kathedraal, die naar het oneindige streven,[^1] het gebruik van perspectief in de schilderkunst, wat het oog leidt naar het verdwijnpunt, het oneindig kleine, terwijl middeleeuwse schilderijen zonder perspectief waren.
 
-{{< image
-	caption="Flammarion's houtgravure. De missionaris steekt zijn hoofd buiten de Magische koepel, in de Faustische oneindige ruimte?"
->}}
-
 Guénon daarentegen is het volstrekt oneens met deze notie van oneindige ruimte, en identificeert zich meer met wat Spengler de _Magische beschaving_ zou noemen. Hij schreef zelfs een compleet boek over dit onderwerp, _Les principes du calcul infinitésimal_. Voor de Faustiaan is de ruimte niet alleen oneindig, maar ook leeg, en precies daarom is deze in feite oneindig; objecten zijn ingesloten in dit oneindige, lege vat dat we ruimte noemen. Guénon daarentegen vindt dit absurd, ruimte wordt in feite gekwalificeerd en gedefinieerd door de objecten erin, ruimte is coëxtensief met de objecten erin.[^2] Dit is de premoderne en pre-perspectieve opvatting van ruimte. We namen eerder het voorbeeld van de gotische kathedraal als symbool voor de Faustiaanse beschaving. Het symbool van de _Magische beschaving_ is de koepel, de moskee. De koepel die de ruimte begrenst en zo definieert. Het is dan ook geen verrassing dat Guénon zich bekeerde tot de Islam.
 
 

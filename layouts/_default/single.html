@@ -1,33 +1,43 @@
 {{ define "main" }}
-	<article>		
-		<h1>{{ .Params.title }}</h1>
-		<h2>{{ .Params.subtitle }}</h2>
-	</article>
-
-	<aside class="authors">
-		<div class="sticky" stuck>
-			{{ range .Params.auteurs }}
-				{{ partial "asides/author-small.html" . }}
-			{{ end }}
-
-			{{ if .Params.recording }}
-				{{ partial "asides/recording.html" .Params.recording }}
-			{{ end }}
-		</div>
-	</aside>
-
 	<article>
-		{{ .Content }}
+		<section class="hero">
+			<div class="left">
+				{{ $image := .Resources.GetMatch .Params.image }}
 
-		{{ if isset .Params "aangehaald" }}
-			<div class="cited">
-				<p>Aangehaald in dit artikel:</p>
-
-				{{ range .Params.aangehaald }}
-					<a href="/aangehaald/{{ urlize . }}">{{ . }}</a>
-				{{ end }}
+				<img 
+					srcset="{{ ($image.Resize "x1024 webp").RelPermalink }} 1x,
+					        {{ ($image.Resize "x2048 webp").RelPermalink }} 2x"
+					src="{{ ($image.Resize "x2048 webp").RelPermalink }}"
+					alt="{{ .Params.caption }}">
 			</div>
-		{{ end }}
+
+			<div class="right">
+				<a class="category" href="/themas/{{ urlize .Params.themas }}">{{ .Params.themas }}</a>
+			
+				<h1>{{ .Params.title }}</h1>
+				<h2>{{ .Params.subtitle }}</h2>
+
+				<p class="authors">Door
+					{{ range $index, $author := .Params.auteurs }}
+						<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>{{ if ne (add $index 1) (len $.Params.auteurs) }},{{ end }}
+					{{ end }}
+				</p>
+			</div>
+		</section>
+
+		<section class="content">
+			{{ .Content }}
+
+			{{ if isset .Params "aangehaald" }}
+				<section class="cited">
+					<p>Aangehaald in dit artikel:</p>
+
+					{{ range .Params.aangehaald }}
+						<a href="/aangehaald/{{ urlize . }}">{{ . }}</a>
+					{{ end }}
+				</section>
+			{{ end }}
+		</section>
 	</article>
 
 	{{ if isset .Params "dossiers" }}
@@ -53,19 +63,10 @@
 		</section>
 	{{ end }}
 
-	<aside class="question">
-		<div class="sticky">
-			{{ if isset .Params "question" }}
-				{{ .Params.question }}
-			{{ else }}
-				Wat zijn uw gedachten over dit artikel?
-			{{ end }}
-
-			<div class="arrow"></div>
-		</div>
-	</aside>
-
 	<section id="comments">
-		{{ partial "welcomments/comments" (dict "context" . "websiteId" "BHkB0mKadpRI9gniJfThtn9LU" ) }}
+		{{ partial "comments/comments" (dict
+			"context"   .
+			"websiteId" "BHkB0mKadpRI9gniJfThtn9LU"
+		) }}
 	</section>
 {{ end }}

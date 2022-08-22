@@ -4,15 +4,12 @@ subtitle = "Een parabel"
 auteurs = ["Tom van Giersbergen"]
 date = "2022-06-29"
 themas = "Religie & Metafysica"
-question = "Wat zijn uw gedachten over dit artikel?"
 image = "cosmos-7.jpg"
 anchor = "Smart"
 +++
 Ooit, zo stel ik me voor, schiep God hemel en aarde en alle levende wezens erin met ons mensen als de kroon op de schepping.
 
 We waren zowel gezegend als belast met het vermogen om de goddelijke muziek te horen, het bewuste besef onderdeel uit te maken van een door God gegeven menselijke ervaring.
-
-{{< image caption="De annunciatie aan de herders, door Georges Trubert." >}}
 
 Wat voor strijd er in de hemelen ook heeft plaatsgevonden, feit is dat op een moment het kwaad het niet verdragen kon dat de mens daar beneden alleen maar die goddelijke muziek hoorde.
 

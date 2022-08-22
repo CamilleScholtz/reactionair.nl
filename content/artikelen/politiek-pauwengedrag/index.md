@@ -11,10 +11,6 @@ image = "thumb.webp"
 
 Er is een interessant concept in evolutionaire theorieën dat _'counter-signalling'_ heet. Om dit concept uit te leggen neem ik het voorbeeld van de pauw. 
 
-{{< image
-	caption="Illustratie van een pauw uit een getijdenboek."
->}}
-
 Het evolutionaire idee van camouflage is vrij gemakkelijk te begrijpen, als je moeilijker te zien bent heb je minder kans te worden opgegeten door roofdieren. Hoe zit het nu met de pauw met zijn kleurrijke, grote veren? Het is duidelijk dat dit in strijd is met het idee van camouflage. Kort na het publiceren van _The Origin of Species_, schreef Charles Darwin: "De aanblik van een veer in de staart van een pauw, telkens als ik er naar kijk, maakt me ziek!". Hij schreef dit omdat, voor hem, zo'n staart totaal absurd was binnen zijn evolutietheorie; het schaadt namelijk de overlevingskans van de pauw.
 
 Echter, deze kleurrijke lange veren hebben wel degelijk een doel vanuit evolutionair oogpunt. In de jaren 70 stelde evolutionair bioloog Amotz Zahavi voor dat het evolutionaire doel achter pauwenstaarten _juist_ is dat deze de drager ervan benadelen. Alleen een sterke pauw kan zo'n handicap aan. Als een zieke, zwakke pauw zo'n grote staart probeert te mee te sleuren, is het snel met hem gedaan. In evolutionair jargon is de staart van de pauw een uitstekende fitnessindicator. Hij geeft een potentiële partner het signaal: "Ik ben zo sterk en fit dat ik me niet hoef te camoufleren, ik kan de hele dag door deze lange veren dragen!".

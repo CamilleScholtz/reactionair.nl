@@ -12,10 +12,6 @@ image = "thumb.webp"
 
 Het liberalisme heeft als beginsel vrijheid, _liberté_. In vergelijking met andere wereldbeelden is dit beginsel uniek in die zin dat het negatief is, waarmee ik bedoel dat vrijheid alleen bestaat doormiddel van _negatie_. Je kunt alleen uit een kooi worden bevrijd door het omhulsel af te breken; dit kan worden vertaald naar een aantal andere domeinen: in de sociale sfeer kun je bevrijd worden van de grenzen die normativiteit stelt, zoals traditionele seksuele rollen, door ze neer te halen. In het categorische domein kun je bijvoorbeeld de _"gender binary"_ open breken door er een spectrum van te maken: in plaats van _beperkt_ te zijn tot slechts twee keuzes, is er nu een theoretisch onbepaald aantal _genders_ om uit te kiezen, vrijheid! In het geval van moraal of kunst, schaf _"goed"_ en _"slecht"_, _"mooi"_ en _"lelijk"_ af, haal het neer, wees bevrijd.
 
-{{< image
-	caption="Satan ondersteboven, illustratie bij Dante's Goddelijke Komedie, Codex Altonesis."
->}}
-
 Een tijdje geleden sprak ik in een _Twitter space_, een soort groepsvoicechat waar iedereen aan kan schuiven. We hadden het over het onderwerp vrijheid en ik benoemde het eerdere voorbeeld van de kooi. Een andere persoon zei dat we ons in plaats van de kooi ook een grote weide kunnen voorstellen met een hek eromheen. In deze weide hebben we de vrijheid om verschillende wereldbeelden op te bouwen. Volgens hem was vrijheid dus in zekere zin de grondslag, het fundament, van elk wereldbeeld. Het is het overkoepelende, of liever, onderliggende principe waaraan elk wereldbeeld noodzakelijkerwijs deelneemt.
 
 Dit deed me aan twee dingen denken. Ten eerste, gezien het feit dat de weide nog steeds omheind is door hekken, is dit niet _zuivere vrijheid_. _Zuivere vrijheid_ is eigenlijk het eindeloze veld, en niet het toch omheinde veld. Dit grijpt terug op het idee van oneindige ruimte waarover we het in een eerder artikel hadden.[^1] Het tweede waar het me aan deed denken is de _omgekeerde analogie_.

@@ -14,10 +14,6 @@ image = "thumb.webp"
 
 Als reactionair geloof ik niet dat de materiële conditie van de samenleving of van de geschiedenis het enige is wat er toe doet, noch dat dat hetgeen is waar we onze acties op zouden moeten baseren. Maar wanneer Marx, voortbordurend op Hegel, beweert dat de geschiedenis zich constant herhaalt dan kan ik het niet met hem oneens zijn. Iedereen die de ontwikkelingen in de samenleving van de afgelopen jaren observeert zou parallellen kunnen trekken tussen gebeurtenissen nu en gebeurtenissen uit de 20e eeuw. Maar niet elke geschiedkundige gebeurtenis is een tragedie, en als we niet zouden leren van de successen uit de geschiedenis is dat net zo zeer een klucht als wanneer we niet zouden leren van de verliezen.
 
-{{< image
-	caption="Iraanse postzegel. Een duidelijke combinatie van linkse, revolutionaire esthetiek met islamitische beeldtaal."
->}}
-
 Het einde van de Tweede Wereldoorlog leidde ook een einde in van de populariteit van verschillende reactionaire, conservatieve en religieuze bewegingen in een groot deel van Europa. Elke beweging die ook maar rook naar de hard rechtse bewegingen die zo populair waren in de jaren ’20 en ’30 van de vorige eeuw werd op een hoop gegooid met de gruweldaden van de nazi’s. Reactionaire schrijvers verdwenen grotendeels in de luwte en het intellectuele discours werd beheerst door de ideologieën van de overwinnaars; de Verenigde Staten en de Sovjet-Unie.
 
 Maar waar de Verenigde Staten vooral in de schaduwen te werk ging en via CIA missies, oorlogen en consumentisme haar kapitalistische ideologie probeerde op te dringen, was het vooral het links van de Sovjet-Unie waar de interessante verschuivingen plaatsvonden. De Sino-Sovjet split, de Hongaarse opstand tegen de Sovjet-Unie en de imperialistische trekjes van de staat leidde bij velen op links tot steeds meer afkeer. Tegelijkertijd was de linkse beweging in het westen ook steeds minder een beweging van de werkende klasse. De sterk toenemende automatisering leidde tot een verkleining van de groep arbeiders en een sterke toename aan _"witte boorden werk"_.[^2]

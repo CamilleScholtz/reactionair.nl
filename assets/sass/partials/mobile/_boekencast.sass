@@ -2,9 +2,11 @@
 	.boekencast-container
 		align-content: center
 		background: var(--popup-background-color)
-		box-shadow: -20px 0 var(--popup-background-color), 20px 0 var(--popup-background-color)
+		box-shadow: 40px 0 var(--popup-background-color)
 		grid-template-rows: 4fr 5fr
-		margin-left: -10px
+		width: calc(100vw - 40px)
+		margin-left: -20px
+		padding-left: 5px
 
 		.text
 			grid-row: 2
@@ -13,16 +15,15 @@
 			text-align: center
 
 			h3
-				font-size: unquote("min(7vw, 28px)")
-				margin-left: unquote("min(47vw, 193px)")
-				margin-bottom: 4px
+				font-size: 7vw
+				text-align: right
 				margin-top: 20px
 
 				.de
-					font-size: unquote("min(4vw, 20px)")
+					font-size: 4vw
 
 			h2
-				font-size: unquote("min(20vw, 82px)")
+				font-size: 13vw
 				margin: 0 auto
 
 			p

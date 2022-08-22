@@ -7,7 +7,7 @@
 		"subtitle"  .Params.subtitle
 		"authors"   .Params.auteurs
 		"content"   .Plain
-		"permalink" .Permalink
+		"permalink" .RelPermalink
 	) }}
 {{ end }}
 

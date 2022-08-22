@@ -23,10 +23,6 @@ _Ik ben niet gelovig, maar..._ Dit type persoon heeft vaak een mening over mooie
 
 Wat deze mensen vaak willen aangeven, is dat zij geen deel uitmaken van een religieuze structuur. Dat betekent dat zij op zondag niet deelnemen aan de liturgie, of dat zij geen God aanbidden.
 
-{{< image
-	caption="Kathedraal van St Davids."
->}}
-
 Wanneer men leest over de oude Egyptische, Mesopotamische of zelfs middeleeuwse Europese beschavingen, komt men tot de ontdekking dat het woord voor godsdienst niet bestond. Het was niet gescheiden van de werkelijkheid. Alles wat je deed was voor God. Dit is wat er in de 18e eeuw gebeurde: plotseling konden mensen die deden alsof ze buiten een moreel systeem stonden oordelen dat alle religies evenveel waarde hadden. Dit veroorzaakte grote opschudding in Frankrijk...
 
 In dit essay wil ik betogen dat alles nog steeds religieus is, waardoor de term onzinnig is.

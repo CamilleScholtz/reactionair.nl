@@ -7,7 +7,6 @@ themas = "Religie & Metafysica"
 aangehaald = ["Edmund Burke", "René Descartes", "Martin Heidegger", "Jean-Jacques Rousseau", "Friedrich Schiller", "Max Weber", "Ludwig Wittgenstein", "Aristoteles", "Plato"]
 image = "kamishikimi_kumanoimasu_shrine_001.jpg"
 anchor = "Smart"
-question = "Wat zijn uw gedachten over dit artikel?"
 +++
 Met de onttovering van de wereld wees socioloog Max Weber in zijn werk ‘Wissenschaft als Beruf’ op de culturele rationalisering en devaluatie van religie die ontstond in het moderniserende, geseculariseerde westen. 
 
@@ -201,8 +200,6 @@ Maar als jij de kabouters niet ziet in je dagelijks leven, en ze enkel kunt zoek
 Naast de kamidana, de verblijfplek van de kami in het huishouden, is er ook de jinja: een shinto-heiligdom.
 
 Jinja zijn te herkennen aan de torii-boog. Deze boog functioneert als een grensmarkering. Wie er onderdoor loopt, betreedt het domein van de kami. Net zoals wanneer je een huis betreedt waar je te gast bent, wordt volgens de Japanse etiquetteregels een bepaalde eerbied verwacht van de bezoeker. Men maakt veelal een lichte buiging voordat ze er onderdoor lopen, als teken van respect.
-
-{{< image caption="Een torii, een toegangsboog die het domein van de kami, de jinja, ontsluit." >}}
 
 Wat opvalt aan een jinja, en waar het sterk contrasteert met Westerse gebedshuizen, is dat de torii-boog zichzelf overal kan bevinden. Het sacrale en het profane lopen door elkaar heen. Er zijn jinja met een speeltuin midden in het domein van de kami, kustgebieden waar tussen strandgangers een torii-boog uit het water oprijst of op plekken waar het rond lunchtijd erg druk is omdat medewerkers graag hun lunch eten op een plekje in de buitenlucht.
 

@@ -1,10 +1,9 @@
 +++
 title = "Bent u een rechtsextremist?"
 subtitle = "Doe de test!"
-auteurs = ["Redactie"]
+auteurs = ["De redactie"]
 date = "2022-04-29"
 themas = "Klikaas"
-question = "En, bent u een rechtsextremist?"
 image = "thumb.webp"
 anchor = "Smart"
 +++

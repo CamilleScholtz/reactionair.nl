@@ -27,10 +27,6 @@ Elke vorm van “oneindigheid” of “onbegrensdheid” die begrensd is, is nie
 
 ### Paradox van almacht
 
-{{< image
-	caption="Vishvarupa, een iconografische vorm en theofanie van de Hindoegod Vishnu dat zijn oneindigheid en alomtegenwoordigheid symboliseert."
->}}
-
 Nu we deze schijnbare tegenstrijdigheid, die eerder van semantische dan van metafysische aard lijkt te zijn, hebben opgelost, gaat _Aarvoll_ verder met te verklaren:
 
 >When we are discussing the term [infinite], we are asking _“does this apply to the universe?”_, and if it does apply, there are all sorts of contradictions that we're going to run into immediately; one of them being, “can the infinite be finite?”... No, clearly that violates the law of identity, but then you are saying _“the infinite is limited to the metalogical laws”_. This is really just a variant of the problem of omnipotence; _“can God create a boulder so large he can't life it?”_. That is saying, is the omnipotent force capable of rendering itself not omnipotent? Can omnipotence  negate its identity? or is it restricted by its identity and therefore not fully omnipotent because it can't overcome that identity.

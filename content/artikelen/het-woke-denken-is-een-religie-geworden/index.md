@@ -11,10 +11,6 @@ image = "thumb.webp"
 
 U heeft waarschijnlijk wel een krantenkop of twee gezien met een titel als _“Het woke denken is een religie geworden!”_,[^1] _“Eerst waren er de christenen, toen de moslims en nu de woke-beweging!”_,[^2] enzovoort. Niet alleen linkse mensen en journalisten maken deze vergelijkingen en analogieën, maar ik heb het zelfs vrij rechtse mensen zien doen. Wat houdt deze vergelijking eigenlijk in? Laten we daar eens over nadenken.
 
-{{< image
-	caption=" "
->}}
-
 Wat zouden _“woke”_ en religie gemeen hebben? Slechts zeer weinig dingen die je als positief zou kunnen classificeren, misschien het fanatisme. Maar waar de vergelijking meestal op bouwt is het feit dat zowel _“woke”_ als _“religie”_ een onwrikbare toewijding en geloof in zogenaamde irrationele principes en dogmatiek zouden hebben. Wat geïmpliceerd wordt is dat _“woke”_ een incarnatie is van de nu bijna van de aardbodem verdwenen praktiserende christen, en dat is natuurlijk iets slechts! _Wij klassiek liberalen_ weten hoe de wereld _écht_ in elkaar zit, de misleide mensen van vroeger vertrouwden op priesters, geloofden in dogma's, waren achterlijk, en, _onwetenschappelijk_! Net als _woke_!
 
 

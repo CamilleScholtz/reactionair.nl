@@ -1,30 +1,17 @@
-<a href="{{ .context.RelPermalink }}" class="featured {{.size}}">
-	{{ if not .imageless }}
-		{{ $image  := .context.Resources.GetMatch .context.Params.image }}
-		{{ $anchor := "Smart" }}
-		{{ if isset .context.Params "anchor" }}
-			{{ $anchor = .context.Params.anchor }}
-		{{ end }}
-
-		<img
-			{{ if eq .size "large" }}
-				srcset="{{ ($image.Fill (printf "744x320 webp %s" $anchor)).RelPermalink }} 320w,
-				        {{ ($image.Fill (printf "1488x640 webp %s" $anchor)).RelPermalink }} 640w"
-				sizes="(max-width: 1920px) 320px,
-				       640px"
-				src="{{ ($image.Fill (printf "1488x640 webp %s" $anchor)).RelPermalink }}"
-			{{ else }}
-				srcset="{{ ($image.Fill (printf "337x320 webp %s" $anchor)).RelPermalink }} 337w,
-				        {{ ($image.Fill (printf "674x640 webp %s" $anchor)).RelPermalink }} 674w"
-				sizes="(max-width: 1920px) 337px,
-				       674px"
-				src="{{ ($image.Fill (printf "674x640 webp %s" $anchor)).RelPermalink }}"
-			{{ end }}
-			{{ if .lazy }}
-				loading="lazy"
-			{{ end }}
-			alt="{{ .context.Params.title }}">
+<a href="{{ .context.RelPermalink }}" class="article featured">
+	{{ $image  := .context.Resources.GetMatch .context.Params.image }}
+	{{ $anchor := "Smart" }}
+	{{ if isset .context.Params "anchor" }}
+		{{ $anchor = .context.Params.anchor }}
 	{{ end }}
+
+	<figure>
+		<img
+			srcset="{{ ($image.Fill (printf "705x676 webp %s" $anchor)).RelPermalink }} 1x,
+			        {{ ($image.Fill (printf "1410x1352 webp %s" $anchor)).RelPermalink }} 2x"
+			src="{{ ($image.Fill (printf "1410x1352 webp %s" $anchor)).RelPermalink }}"
+			alt="{{ .context.Params.title }}">
+	</figure>
 
 	<div class="text">
 		<h2>{{ .context.Params.title }}</h2>

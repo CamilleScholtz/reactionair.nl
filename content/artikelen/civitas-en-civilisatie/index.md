@@ -4,7 +4,6 @@ subtitle = "Het belang van vriendschap en loyaliteit"
 auteurs = ["De Melancholieke Nar"]
 date = "2022-07-03"
 themas = "Cultuur & Maatschappij"
-question = "Wat zijn uw gedachten over dit artikel?"
 image = "discurso_funebre_pericles.png"
 anchor = "Smart"
 +++
@@ -27,8 +26,6 @@ Vergilius noemt de Aequi ‘een volk van ruwe bergbewoners, verslingerd aan de j
 Nee, authentieke civitas moet van binnenuit komen. Civitas is de deugd die dorpen tot steden doet uitgroeien uit eigen, innerlijke kracht. De Aequi werden bijeengehouden door familiebanden, niet door civitas. Op dezelfde manier worden moderne steden niet bijeengehouden door civitas, maar door economisch gemak. Mensen stromen binnen en drijven weer weg zoals het geld dicteert, zonder loyaliteit. De civiele staat daarentegen wordt niet door bloed of geld bijeengehouden maar door het ideaal van een samenleving. De machtige families van de familie-dorpen groeien naar elkaar toe om een grotere, civiele samenleving te stichten, op basis van gedeelde dromen of idealen. De onderklasse volgde hun voorbeeld. We zien dat de aristocratische klasse als eerst het *idee* van een stad opvat en zodoende de *daimon* van de stad baart, de gidsende geest of het superego. Dan begint de stad te leven, bevolkt door minderen die de aristocratische visie niet even nauwgezet kunnen volgen als de aristocraten zelf.
 
 Athene werd bestuurd door de *Eupatridai* (letterlijk: uit goede vaders geborenen), krachtige mannen die de geest van de stad levend hielden, de economie vergrootten en oorlogen aanvoerden om de stad te verdedigen, tot op het bot loyaal aan de plaats die zij bestuurden door hun civitas (Grieks: *arète*). Later vervulden de *Pentekosiomedimnoi* (vijfhonderdschepelmannen) dezelfde rol. De bereidheid van de edelman om de stad en zijn idealen overeind te houden, is het eerste kenmerk van civitas. De stad is niet opgebouwd rondom gemakzucht en wordt niet op een passieve, trage, afwachtende manier geleid. Nee, het doel ervan ervan is een droom te vervullen en daarom moet het leiderschap actief, kordaat en krachtig zijn. Deze deugden zijn alleen kenmerkend voor de meest deugdzame mannen van de samenleving, niet voor de onderklasse. Maar de onderklasse wordt geladen met de energie en doelgerichtheid van de leiders en wordt op die manier boven zichzelf uitgetild.
-
-{{< image caption="Perikles houdt de begrafenisrede waarin hij zijn lof spreekt over het Atheense ideaal, door Philipp Foltz" >}}
 
 Maar veel steden uit de antieke oudheid en nog meer in de moderne tijd zijn verstoken van de geest van civilisatie. Geen deugdzame leiders en daarom geen deugdzaam volk. Hele naties moeten het zonder civitas stellen en hebben geen echte steden. Stedelijke huisvesting verwordt tot slavenvertrekken voor het mondiale financiële grootkapitaal.
 

@@ -11,10 +11,6 @@ image = "thumb.webp"
 
 René Guénon schrijft in zijn boek _'Le Règne de la Quantité et les Signes des Temps'_ over de degeneratie van het muntgeld. Geld in zijn uitsluitend "economisch" standpunt behoort zo volledig mogelijk tot de "heerschappij van de kwantiteit", en volgens Guénon is dit ook de reden waarom geld zo'n belangrijke rol speelt in de moderne maatschappij.
 
-{{< image
-	caption="De muntmeester, middeleeuws graveerwerk."
->}}
-
 Munten waren vanouds letterlijk bedekt met traditionele symbolen van diepgaande betekenis. Bij de Kelten kunnen de symbolen op de munten alleen worden verklaard als zij verband houden met de kennis die alleen aan de Druïden toebehoorde, hetgeen een rechtstreekse tussenkomst van de Druïden in het monetaire domein impliceert. Nog vrij recent kon men op munten een religieus karakter aantreffen, zij het beperkt tot misschien de rand van de munten, maar zelfs dat is verdwenen. Neem nu de Euro: op de biljetten staan slechts afbeeldingen van fictieve bogen en bruggen. Een opmerkelijke uitzondering is dat op de zijkant van de Nederlandse 2-euromunt _"GOD ZIJ MET ONS"_ staat, waarbij moet worden opgemerkt dat _D66_ verklaarde dat dit _"echt niet meer bij de tijd zou passen"_. Een tijd waar de kwantiteit regeert.
 
 De kwalitatieve degeneratie zaken is nauw verbonden met die van het geld, zoals blijkt uit het feit dat tegenwoordig de "waarde" van een voorwerp gewoonlijk alleen wordt geschat in termen van zijn prijs, eenvoudig beschouwd als een "cijfer", een numerieke hoeveelheid geld; in feite is vandaag de dag het enige oordeel over een voorwerp bijna altijd uitsluitend gebaseerd op wat het kost. Dit is ook te zien in onze taal: 'waarde' heeft duidelijk twee betekenissen, een meer kwalitatieve en een meer kwantitatieve, en wanneer wij over waarde spreken lijkt dat vrijwel altijd de kwantitatieve variant te zijn.

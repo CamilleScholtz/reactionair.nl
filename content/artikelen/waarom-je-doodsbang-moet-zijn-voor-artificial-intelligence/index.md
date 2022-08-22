@@ -5,14 +5,11 @@ auteurs = ["Camille Meloen"]
 date = "2022-07-24"
 themas = "Religie & Metafysica"
 aangehaald = ["René Guénon"]
-question = "Wat zijn uw gedachten over dit artikel?"
 image = "test.jpg"
 anchor = "Smart"
 +++
 
 In de visie van René Guénon is het universum een hiërarchie van zijn, met als hoogste niveau het spirituele rijk, gevolgd door het psychische rijk, het intellectuele rijk en tenslotte het fysieke rijk. Deze hiërarchie is gebaseerd op het principe van kwalitatieve superioriteit, waarbij elk hoger niveau kwalitatiever (en dus reëler) is dan het niveau eronder.
-
-{{< image caption="René Guénon schrijft zijn boek The Symbolic Language of Traditional Architecture." >}}
 
 Guénon was echter ook van mening dat de moderne wereld steeds meer werd gedomineerd door het principe van de pure kwantiteit. Dit is de opvatting dat alles kan worden herleid tot een numerieke waarde en dat de enige werkelijkheid datgene is wat kan worden gemeten. 
 
@@ -20,14 +17,12 @@ AI is de belichaming van dit principe van pure kwantiteit. Het is gebaseerd op h
 
 ### De betekenis van intelligentie
 
+Guénon zou echter willen beweren dat AI helemaal niet zo intelligent is. Dit komt omdat het berust op het principe van pure kwantiteit, wat een lager niveau van werkelijkheid is dan de kwalitatieve niveaus van het spirituele en psychische rijk. Als zodanig kan AI de hogere niveaus van de werkelijkheid nooit echt begrijpen of reproduceren. Het kan zich alleen maar bezighouden met het lagere, kwantitatieve niveau.
+
 {{< quote
 	text="In de heerschappij van de kwantiteit wordt alles tot hetzelfde niveau teruggebracht; dit is het geval met de kunstmatige intelligentie, die alleen intelligentie kan imiteren zonder die ooit te bereiken, omdat haar iets ontbreekt wat haar werkelijk intelligent zou maken."
 	author="René Guénon"
-	aside=true
-	article=true
 >}}
-
-Guénon zou echter willen beweren dat AI helemaal niet zo intelligent is. Dit komt omdat het berust op het principe van pure kwantiteit, wat een lager niveau van werkelijkheid is dan de kwalitatieve niveaus van het spirituele en psychische rijk. Als zodanig kan AI de hogere niveaus van de werkelijkheid nooit echt begrijpen of reproduceren. Het kan zich alleen maar bezighouden met het lagere, kwantitatieve niveau.
 
 In zijn boek *'The Symbolic Language of Traditional Architecture'* bespreekt René Guénon de etymologische betekenis van de term intelligentie.[^1] Hij schrijft dat het Latijnse woord *intelligere*, waarvan het Nederlandse woord intelligentie is afgeleid, "begrijpen" betekent. Guénon zegt verder dat intelligentie dus "het vermogen om te begrijpen" is, en dat het "verwant is aan de daad van het oordelen".
 
@@ -37,14 +32,12 @@ Heeft AI het vermogen om dingen te zien in het licht van het absolute? Het feit 
 
 ### Digitale ruis
 
+Als we naar de term digitaal kijken, zien we gemakkelijk hoe deze verband houdt met het concept van pure kwantiteit, namelijk dat alles kan worden weergegeven door getallen. Dit is waar Guénon op doelde toen hij sprak over de toenemende overheersing van het principe van de pure kwantiteit in de moderne wereld. En naarmate AI geavanceerder wordt, zal deze trend zich waarschijnlijk voortzetten.
+
 {{< quote
 	text="Het digitale tijdperk is het tijdperk van ruis, en ruis is de dood van betekenis."
 	author="René Guénon"
-	aside=true
-	article=true
 >}}
-
-Als we naar de term digitaal kijken, zien we gemakkelijk hoe deze verband houdt met het concept van pure kwantiteit, namelijk dat alles kan worden weergegeven door getallen. Dit is waar Guénon op doelde toen hij sprak over de toenemende overheersing van het principe van de pure kwantiteit in de moderne wereld. En naarmate AI geavanceerder wordt, zal deze trend zich waarschijnlijk voortzetten.
 
 Het digitale spiegelt het principe van de pure kwantiteit en breidt dit uit tot elk aspect van ons leven. We leven steeds meer in een wereld waarin alles uit gegevens bestaat en waarin alles tot een numerieke waarde kan worden herleid. Dit is de wereld waar Guénon ons voor waarschuwde, en het is een wereld die steeds meer vorm krijgt door AI. Het is niet voor niets dat getal synoniem is met *digit*, en dat getal de basis is van het principe van de pure kwantiteit.
 

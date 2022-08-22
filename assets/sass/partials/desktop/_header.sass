@@ -1,23 +1,35 @@
 header
 	#logo-container
-		background: radial-gradient(circle at bottom, var(--header-background-gradient-color), var(--header-background-color) 120px)
+		background: var(--header-background-color)
+		border-bottom: 1px dashed var(--header-border-color)
 		height: 110px
-
-		#logo-background
-			height: 113px
-			width: 113px
+		justify-content: center
 
 		#search
 			top: calc((110px / 2) - 25px)
 
+			form			
+				button
+					.search-icon
+						background: var(--header-background-color)
+
 	.utility
+		align-items: center
+		background: var(--utility-color)
+		border-bottom: 1px dashed var(--border-color)
+		display: flex
+		font-family: 'Courier Prime', monospace
+		font-size: 13px
+		height: 55px
 		justify-content: space-between
 	
 		.left
+			color: var(--accent-color)
 			margin-left: 40px
 			text-align: left 
+			text-transform: uppercase
 
 		.right
+			color: var(--text-color)
 			margin-right: 40px
 			text-align: right 
-

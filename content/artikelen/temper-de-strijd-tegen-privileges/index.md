@@ -13,10 +13,6 @@ _Dit artikel is eerder gepubliceerd in het NRC handelsblad._[^1]
 
 Het is de nacht van 4 op 5 augustus, 1789. De revolutionaire Franse Nationale Vergadering is in extase, want vannacht nog worden alle privileges afgeschaft. Het voelt als een bevrijding, ook voor aanwezigen die hun privileges juist moeten opgeven. Huilend van blijdschap zweren aristocraten, geestelijken en regionale vertegenwoordigers hun privileges af. Als de zon opgaat, is alles en iedereen gelijk. Vanaf die nacht werden in Frankrijk en daarna door heel Europa in rap tempo alle middeleeuwse privileges afgeschaft. Het woord _‘privilege’_ stamt van het Latijnse privus en legum en betekent _‘privérecht’_, oftewel speciaal voorrecht. Naast belastingvrijstelling voor aristocraten en geestelijken ging het om zelfbeschikkingsrechten voor universiteiten, kerkordes, vrije steden en gildes.
 
-{{< image
-	caption="Le Peuple sous l’ancien Régime, ‘Het volk onder het Ancien Régime’: Franse spotprent uit 1815 met Lodewijk XVI, een bisschop en een edelman op de rug van een geketende en geblinddoekte man die ‘het volk’ verbeeldt."
->}}
-
 Maar hoewel we de privileges dus al hebben afgeschaft, maakte het begrip de laatste jaren vanuit de Verenigde Staten een grote comeback in activistische kringen. ‘Privilege’ fungeert nu als het kernconcept van de linkse identiteitspolitiek. _‘Wittenprivilege’_ en _‘mannenprivilege’_ zouden gekleurde en vrouwelijke identiteiten onderdrukken. Het gaat niet letterlijk om privileges, want dat zijn formele toekenningen van de staat. In het nieuwe discours zijn _‘privileges’_ onbewuste onderdrukkingsstructuren.
 
 Een andere erfenis van de Revolutie in onze taal is dat we regeringen die we slecht vinden, _‘regimes’_ noemen. Het _‘Assad-regime’_, het _‘Apartheidsregime’_. Zulke landen associëren we impliciet met het _Ancien Régime_, dat door de Revolutie omvergeworpen werd. Onterecht, want dat _Ancien Régime_ was zo slecht nog niet. De vererfde privileges van aristocraten mochten weg, want gelijke burgerrechten zijn een groot goed. Maar de institutionele privileges voorzagen universiteiten, kerken en vrije steden van zelfbestuur en autonomie jegens de staat.

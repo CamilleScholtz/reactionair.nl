@@ -9,7 +9,6 @@ title = 'Was Jezus een Reactionair?'
 image = "thumb.webp"
 +++
 
-
 Van aangepaste bijbelvertalingen met _“gender-inclusief”_ taalgebruik tot het drastisch aanpassen van traditionele vormen van liturgie,[^1] overal zien we een agressieve en fanatieke push binnen het westen om het christendom aan te passen aan een moderne, seculiere, antichristelijke cultuur.
 
 Voorstanders van dergelijke modernisering proberen de tegenstrijdigheid te rechtvaardigen van geloven in een transcendente God en tegelijkertijd proberen de wetten van die God aan te passen aan de cultuur waarin ze leven (die vijandig staat tegenover hun geloofsleer en -tradities), - in plaats van andersom-, door te beweren dat hun geloofstradities in feite een misinterpretatie zijn van de oorspronkelijke leer van Jezus. Jezus, zo stellen zij, stond eigenlijk heel dicht bij de idealen van de Franse Revolutie, die eigenlijk alleen maar het katholieke christendom verwierp omdat het de ware boodschap van Jezus onderdrukte. Wat een mazzel. De talloze oproepen om in de wereld maar niet van de wereld te zijn, om bereid te zijn afwijzing en vervolging te ondergaan, om je kruis te dragen, zijn niet van toepassing op de vrijzinnige christen. Die kan geaccepteerd worden door atheïsten en andersgelovigen en is zelf nog feller gekant tegen zijn fundamentalistische medechristenen. Hij kan de belijders van een seculiere _mainstream_ levensbeschouwing helpen hen te bespotten. Een comfortabel leven leiden vol technologisch gemak. 
@@ -42,10 +41,6 @@ De latere Hasmoneeën omarmden echter niet hen, maar de Sadduceeën, en vervolgd
 
 De Chasideeën splitsten uiteindelijk op in twee groepen: de reactionaire en sectarische Essenen en de conservatieve Farizeeën. 
 Waar de Sadduceeën alleen de Schrift volgden (‘sola scriptura’), baseerden de Farizeeën en Essenen daarentegen zich ook op de Traditie. 
-
-{{< image
-	caption="Een deel van de Tempelrol die gevonden is in Qumran Grot 11."
->}}
 
 De Essenen praktiseerden daarbij een strenge ascetische levenswijze waaronder het celibaat.[^6] Ook verwierpen ze de usurpatie van het hogepriesterschap door de Sadduceeën en bleven trouw aan de mysterieuze “Leraar van Rechtvaardigheid” die verdreven en vervolgd zou zijn. Ze volgden een lijn van profetische leiders die de restgroep moesten leiden, maar tegelijkertijd hielden ze een tijdlang een zekere band met de Nasi en de rest van het Sanhedrin.[^7]
 

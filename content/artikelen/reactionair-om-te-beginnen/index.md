@@ -15,10 +15,6 @@ image = "thumb.webp"
 
 Aldus de Colombiaanse filosoof Nicolás Gómez Dávila (1913-1994). Wie het christendom verlaat, belandt in de duisternis, aldus de Spaanse filosoof Juan Donoso Cortés in zijn boek _Katholicisme, liberalisme, socialisme_ (1850). Dat is het standpunt van de reactionair. En het is van toepassing, volgens de katholieke traditionalist Gómez Dávila, op de weldenkenden onder de schrijvers en filosofen uit Europa en uit alle delen van de planeet waar de Europese beschaving via het christendom ingang heeft gevonden.
 
-{{< image
-	caption="Nicolás Gómez Dávila."
->}}
-
 Conservatief is iets anders, want dat heeft liberale wortels, en het liberalisme is een dwaalleer. En een van de liberale dwalingen is de stelling dat alle godsdiensten gelijk of gelijkwaardig zijn (of, eigenlijk, even onbelangrijk).
 
 Reactionair is het gezonde verstand. Het is realistisch, want het begrijpt dat de mensheid niet voor verbetering vatbaar is. Alleen de individuele mens kan beter en wijzer worden.

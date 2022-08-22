@@ -1,17 +1,3 @@
-const featured = (main) => {
-	const links = main.querySelectorAll(".featured");
-
-	links.forEach((link) => {	
-		link.addEventListener("mouseenter", (ev) => {
-			link.style.transform = `scale(1.012) rotate(${Math.random() < 0.5 ? "-" : ""}0.4deg)`;
-		});
-
-		link.addEventListener("mouseleave", (ev) => {
-			link.style.transform = "scale(1) rotate(0deg)";
-		});
-	});
-}
-
 const footnotes = (main, mobile) => {
 	if (typeof main.id != "string" || main.id != "page") {
 		return;
@@ -76,7 +62,7 @@ const footnotes = (main, mobile) => {
 				}
 
 				tooltip.style.left = `${location}px`;
-				arrow.style.left   = `${refCenter - 5}px`;
+				arrow.style.left   = `${refCenter - 9}px`;
 
 				setTimeout(() => {
 					tooltip.style.transform = "translateY(4px)";
@@ -137,7 +123,7 @@ const footnotes = (main, mobile) => {
 
 const justify = (main) => {
 	document.fonts.ready.then(() => {
-		texLinebreak_lib.texLinebreakDOM(main.querySelectorAll("article>p"));
+		texLinebreak.texLinebreakDOM(main.querySelectorAll(".content>p, .content>blockquote p, .content>li p, .welcomments__comment-message"));
 	});
 }
 
@@ -150,21 +136,23 @@ const time = (header) => {
 	const date   = new Date();
 	const format = new Intl.DateTimeFormat("nl-NL", {
 		day:   "numeric",
-		month: "short",
+		month: "long",
 		year:  "numeric",
 	}).formatToParts(date);
 
 	now.innerHTML = `${format.find((e) => e.type == "day").value} ${format.find((e) => e.type == "month").value.replace(".", "").toUpperCase()}, ${format.find((e) => e.type == "year").value}`;
 }
 
-const scroll = (header, stickies, mobile) => {
+const scroll = (header, main, mobile) => {
 	const logo    = header.querySelector("#logo");
 	const input   = header.querySelector("#search input");
 	const button  = header.querySelector("#search button");
 	const arrow   = header.querySelector(".arrow");
 	const results = header.querySelector(".results");
+	const right   = header.querySelector(".right");
 
-	const height = header.querySelector("#logo-container").clientHeight + 1;
+	const headerHeight = header.querySelector("#logo-container").clientHeight + 1;
+	const heroHeight   = main.querySelector(".hero")?.getBoundingClientRect().bottom;
 
 	let hidden     = false;
 	let lastScroll = 0;
@@ -172,9 +160,9 @@ const scroll = (header, stickies, mobile) => {
 
 	const hide = (scroll) => {
 		if (mobile.matches) {
-			header.style.transform = `translateY(calc(-${height}px - 15px))`;
+			header.style.transform = `translateY(calc(-${headerHeight}px - 15px))`;
 		} else {
-			header.style.transform = `translateY(-${height}px)`;
+			header.style.transform = `translateY(-${headerHeight}px)`;
 		}
 		logo.style.transform = "translateY(-40px)";
 
@@ -186,12 +174,6 @@ const scroll = (header, stickies, mobile) => {
 		results.innerHTML   = ""
 		arrow.style.display = "none";
 
-		if (!mobile.matches) {
-			stickies.forEach((sticky) => {		
-				sticky.style.top = "calc(110px + 30px)";
-			});
-		}
-
 		hidden = true;
 	}
 
@@ -199,13 +181,15 @@ const scroll = (header, stickies, mobile) => {
 		header.style.transform = "translateY(0px)";
 		logo.style.transform   = "translateY(0px)";
 
-		if (!mobile.matches) {
-			stickies.forEach((sticky) => {
-				sticky.style.top = `calc(110px + 30px + ${height}px)`;
-			});
+		hidden = false;
+	}
+
+	const utility = (scroll) => {
+		if (scroll < heroHeight) {
+			return;
 		}
 
-		hidden = false;
+		right.style.transform = "translateX(0px)";
 	}
 
 	window.addEventListener("scroll", () => {
@@ -216,6 +200,8 @@ const scroll = (header, stickies, mobile) => {
 			}, 100);
 
 			const scroll = window.scrollY;
+
+			utility(scroll);
 
 			if (scroll < 300) {
 				if (hidden) {
@@ -324,8 +310,8 @@ const search = (header, mobile) => {
 }
 
 const quote = (main) => {
-	const sticky = main.querySelector(".intro");
-	if (!sticky) {
+	const intro = main.querySelector(".intro");
+	if (!intro) {
 		return;
 	}
 
@@ -343,6 +329,7 @@ const quote = (main) => {
 		["René Guénon", "Ware ideeën veranderen of ontwikkelen zich niet, maar blijven zoals ze zijn in het tijdloze 'heden'."],
 		["René Guénon", "Metafysica is de kennis van de universele beginselen, een kennis die verder gaat dan de natuur als zodanig en verder dan de verschijnselen die door de mens kunnen worden begrepen."],
 		["René Guénon", "Wetenschap is een rationele, discursieve, altijd indirecte vorm van kennis, een kennis van reflectie, metafysica is een superrationele kennis, intuïtief en onmiddellijk."],
+		["Friedrich Hölderlin", "De mens is een bedelaar wanneer hij denkt, maar een God wanneer hij droomt."],
 		["Robert Lemm", "De reactionair, kijkt niet vooruit, en niet achteruit, maar naar boven, naar de sterren en de hemel."],
 		["Julius Evola", "Mijn principes zijn de principes die, voor de Franse Revolutie, ieder welgeboren mens als normaal en gezond beschouwde."],
 		["Julius Evola", "Geen idee is zo absurd als het idee van vooruitgang."],
@@ -360,22 +347,20 @@ const quote = (main) => {
 
 	const quote = quotes[Math.floor(Math.random() * quotes.length)];
 
-	sticky.querySelector("q").innerHTML       = quote[1];
-	sticky.querySelector(".author").innerHTML = "- " + quote[0];
+	intro.querySelector(".text").innerHTML   = `“${quote[1]}”`;
+	intro.querySelector(".author").innerHTML = `<span class="dash">—</span> ${quote[0]}`;
 }
 
 window.addEventListener("DOMContentLoaded", (ev) => {
 	const mobile = window.matchMedia("(max-width: 1024px)");
 
-	const header   = document.querySelector("header");
-	const main     = document.querySelector("main");
-	const stickies = main.querySelectorAll(".sticky");
+	const header = document.querySelector("header");
+	const main   = document.querySelector("main");
 
 	quote(main);
 	justify(main);
-	scroll(header, stickies, mobile);
+	scroll(header, main, mobile);
 	time(header);
 	search(header, mobile);
 	footnotes(main, mobile);
-	featured(main);
 });

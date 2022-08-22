@@ -11,10 +11,6 @@ image = "thumb.webp"
 
 We vragen wel eens, waar begint de filosofie? In de verwondering, antwoorden we dan. Het is wanneer wat voorheen evident was, object van verwondering wordt. Waar voorheen vanzelfsprekende meningen tot vraag worden in de verwondering, _daar_ begint de filosofie. Deze onschuldige vaststelling heeft menig filosofen doen concluderen dat de filosofie wezenlijk bestaat uit het vragen, en uit niet veel anders. Filosofie _is_ de in vraag stelling van de _doxa_, geboren uit de verwondering. En hoe radicaler, hoe beter. ‘Filosofie is kritiek.’ 
 
-{{< image
-	caption="Hersenen met optische zenuw, illustratie uit L'homme et un traitté de la formation du foetus."
->}}
-
 Maar is dit wel zo? Moeten alle meningen in vraag gesteld worden? En bestaat de filosofie uit niets anders dan het zich verwonderen over wat voorheen evident was, en het in vraag stellen van deze evidentie? Is het niet ook zo, dat een exces aan vragen vaak een teken van domheid is? Is het niet zo, dat het vooral kinderen en dwazen zijn die zich over alles verwonderen en het meest onophoudelijk vragen? Is het niet de filosoof die, in stille erkenning van de waarheid, neerkijkt op het eindeloos gevraag der mensen?  
 
 

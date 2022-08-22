@@ -1,16 +1,11 @@
 +++
-auteurs = ['Redactie']
+auteurs = ['De redactie']
 date = '2022-06-03'
 subtitle = 'Nummer is 3 is echt zo van: hoe dan??'
 themas = 'Klikaas'
 title = 'Tien presocratische wijsheden die je doen zeggen: broooo'
 image = "thumb.webp"
 +++
-
-
-{{< image
-	caption=""
->}}
 
 {{< slider
 	"Waaruit de bestaande dingen hun geboorte hebben, daarin vinden ze ook hun ondergang, zoals het hoort; ze geven elkaar immers recht en boete voor het onrecht, overeenkomstig de verordening van de tijd - Anaximenes"

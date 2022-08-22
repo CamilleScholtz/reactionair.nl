@@ -1,70 +1,43 @@
 {{ define "main" }}
-	{{ if eq .Section "auteurs" }}
-		<aside class="author-large">
-			<div class="sticky">
-				{{ partial "asides/author-large.html" .Params.title }}
-			</div>	
-		</aside>
-	{{ else }}
-		<aside class="intro quote">
-			<div class="sticky">
-				{{ partial "asides/quote.html" (dict
-					"text"   ""
-					"author" ""
-				) }}
-			</div>	
-		</aside>
-	{{ end }}	
+	<div class="list-header">
+		{{ if eq .Section "auteurs" }}
+			{{ partial "authors/large.html" (site.GetPage (printf "/auteurs/%s" (urlize .Params.title))) }}
+		{{ else }}
+			<h1>{{ .Params.title }}</h1>
+		{{ end }}	
+	</div>
 
-	{{ $paginator := .Paginate (.RegularPages | after 1) }}
-
-	{{ if not $paginator.HasPrev }}
-		<section>
-			{{ partial "articles/featured.html" (dict
-				"context" (index .RegularPages 0)
-				"size"    "large"
-			) }}
-		</section>
-	{{ end }}
+	{{ $paginator := .Paginate .RegularPages }}
 
 	<section>	
 		<div id="articles">
 			{{ range $paginator.Pages }}			
-				<a href="{{ .RelPermalink }}" class="article">
-					{{ $image := .Resources.GetMatch .Params.image }}
-					{{ $anchor := "Smart" }}
-					{{ if isset .Params "anchor" }}
-						{{ $anchor = .Params.anchor }}
-					{{ end }}
-
-					<img
-						srcset="{{ ($image.Fill (printf "311x300 webp %s" $anchor)).RelPermalink }} 311w,
-						        {{ ($image.Fill (printf "622x600 webp %s" $anchor)).RelPermalink }} 622w"
-						sizes="(max-width: 1920px) 311px,
-						       622px"
-						src="{{ ($image.Fill (printf "622x600 webp %s" $anchor)).RelPermalink}}"
-						alt="{{ .Params.title }}">
-				
-					<h2>{{ .Params.title }}</h2>
-					<h3>{{ .Params.subtitle}}</h3>
-				
-					<p class="author">{{ delimit .Params.auteurs ", " " & " }}</p>
-				</a>
+				{{ partial "articles/large.html" (dict
+					"context" .
+				) }}
 			{{ end }}
 		</div>
 
 		{{ if gt $paginator.TotalPages 1 }}
 			<nav class="paginator">
 				{{ if $paginator.HasPrev }}
-					<a class="button prev" href="{{ $paginator.Prev.URL }}">←</a>
+					<a class="button prev" href="{{ $paginator.Prev.URL }}">
+						‹-
+					</a>
 				{{ else }}
-					<a class="button prev disabled">←</a>
+					<a class="button prev disabled">
+						-›
+					</a>
 				{{ end }}
 
 				{{ if $paginator.HasNext }}
-					<a class="button next" href="{{ $paginator.Next.URL }}">→</a>
+					<a class="button next" href="{{ $paginator.Next.URL }}">
+						‹-
+					</a>
 				{{ else }}
-					<a class="button next disabled">→</a>
+					<a class="button next disabled">
+						-›
+					</a>
 				{{ end }}
 			</nav>
 		{{ end }}

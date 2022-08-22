@@ -5,7 +5,6 @@ auteurs = ["Camille Meloen"]
 date = "2022-07-01"
 themas = "Religie & Metafysica"
 dossiers = ["Islam"]
-question = "Wat zijn uw gedachten over dit artikel?"
 image = "l19224-9m4zh-9-ksharp.jpg"
 anchor = "Center"
 +++
@@ -25,8 +24,6 @@ anchor = "Center"
 
 Dit artikel is een bewerking en vertaling van verschillende artikelen die te vinden zijn op de blog *Qur'anic Musings* over de samenstelling van de eerste soera (hoofdstuk, bij gebrek aan een betere term) van de Koran.[^1] Deze artikelen deden mij de schoonheid van de soera inzien en introduceerden mij ook tot het zeer interessante concept van de chiastische structuur, een literaire stijlfiguur dat ook te vinden is in andere oude teksten, zoals de Bijbel en de Illias.[^2]
 
-{{< image caption="Koran uit Perzië, eerste helft van de 16e eeuw." >}}
-
 In het geloof en de praktijk van de moslims is de *Fātiḥa* (letterlijk "De Opening") het volmaakte gebed dat door God is onderwezen om te worden gereciteerd als het belangrijkste deel van het dagelijkse gebed. Het vertegenwoordigt ook een samenvatting van de hoofdthema's van de Koran, vandaar dat het de titel *Umm al-kitāb* heeft gekregen, "Moeder van het Boek". Er is een *ḥadīth* (overlevering) die wordt toegeschreven aan Alī ibn Abī Ṭālib, waarin hij verklaart:
 
 > Weet dat alle wijsheid van de Hemelse Geschriften in de Koran is en wat in de Koran is, is in de *Fātiḥa*.[^3]
@@ -42,13 +39,6 @@ Een ander voorbeeld is te vinden in de tweede soera van de Koran. Die telt 286 v
 > Zo maakten Wij u tot een *midden*gemeenschap, opdat gij getuigen moogt zijn voor de mensen en opdat de boodschapper een getuige moogt zijn voor u. En Wij hebben de *qiblah* daarom veranderd, opdat men zou kunnen onderscheiden tussen hen, welke hem volgen en diegenen welke hem den rug toekeren.
 
 ### De Opening
-
-{{< quote
-	text="Ik heb het gebed tussen Mijzelf en Mijn dienaar in twee helften verdeeld, en Mijn dienaar zal bezitten hetgeen hij heeft gevraagd."
-	author="De Profeet namens God"
-	aside=true
-	article=true
->}}
 
 Een chiastische structuur is ook te vinden in de *Fātiḥa*. Deze soera is samengesteld uit twee chiasmes die in een ringcompositie passen. De structuur geeft een diepgaand inzicht in de betekenis van de afzonderlijke verzen van de soera. Laten we de compositie eerst uitschetsen:
 
@@ -71,6 +61,11 @@ Laten we beginnen met de uitleg van het eerste chiasme (in blauw):
 
 *A* beschrijft Gods relatie met mensen in deze wereld, terwijl *A'* zijn relatie met hen in het hiernamaals beschrijft. *A* gebruikt de term *rabb* (vertaald als "Heer") terwijl *A'* de term *mālik* (vertaald als "Meester") gebruikt. Dit zijn synoniemen in de Arabische taal, waarbij *mālik* een van de betekenissen van het woord *rabb* is.
 
+{{< quote
+	text="Ik heb het gebed tussen Mijzelf en Mijn dienaar in twee helften verdeeld, en Mijn dienaar zal bezitten hetgeen hij heeft gevraagd."
+	author="De Profeet namens God"
+>}}
+
 Het verband tussen *B* en *B'* is duidelijk. Het zijn beide namen van God die zijn barmhartigheid (*raḥma*) benadrukken. De nuance in hun betekenissen wordt echter naar voren gebracht door hun plaatsing in het chiasme. *B* is nauw verbonden met *A*, omdat zij in de eerste plaats deze wereld betreffen. *B'* is nauw verbonden met *A'*, omdat zij in de eerste plaats de volgende wereld betreffen.
 
 Laten we *C-C'* even overslaan en kijken naar het tweede chiasme (in rood):
@@ -91,16 +86,15 @@ De soera heeft dus een briljante structuur, die nauw verbonden is met zijn betek
 
 ### De remedie
 
-{{< quote
-	text="De Opening van het Boek is een remedie voor elk vergif."
-	author="De Profeet"
-	aside=true
-	article=true
->}}
-
 De *Fātiḥa* staat ook bekend als "De Remedie" (*al-Shifāʾ*), omdat er wordt gezegd dat het genezende krachten heeft voor zowel lichaam als ziel.
 
 Het einde van de soera verdeelt degenen die geen leiding hebben in twee groepen mensen. De eerste van deze groepen zijn degenen die toorn hebben verdiend. Uit andere Koranteksten en uit het commentaar van de Profeet op deze verzen, wordt dit begrepen als een verwijzing naar mensen die, ondanks het feit dat zij kennis hebben van Gods geboden, besloten hebben om tegen deze geboden te handelen.
+
+
+{{< quote
+	text="De Opening van het Boek is een remedie voor elk vergif."
+	author="De Profeet"
+>}}
 
 De tweede groep mensen zijn zij die dwalen. In tegenstelling tot de vorige groep verwijst dit naar mensen die geen leiding hebben omdat zij niet de juiste kennis hebben over wat het Rechte Pad inhoudt.
 

@@ -21,10 +21,6 @@ Dynamiet, van het Griekse woord _δύναμις_, wat kracht betekent en waar oo
 
 ### Filosoferen met een hamer
 
-{{< image
-	caption="Friedrich Nietzsche, door Edvard Munch."
->}}
-
 _'I'm TNT, I'm dynamite'_ zong AC/DC-zanger Brian Johnson in 1976, zich daarmee vereenzelvigende met de tegelijkertijd respect afdwingende en angst aanjagende, prometheische kracht van Nobels uitvinding.[^3] Maar hij was niet de eerste mens die zich vergeleek met deze springstof. _'Ich bin kein Mensch, ich bin Dynamit.'_, zei Nobels tijdgenoot Nietzsche. Wat bedoelde hij hiermee? Eerder al gaf Nietzsche zijn boek _Götzen-Dämmerung_ (Afgodenschemering) de ondertitel _'Wie man mit dem Hammer philosophiert'_ mee. De filosoof met de hamer, zoals een van zijn bijnamen luidt, zag zijn taak vooral als sloopwerk. Het slopen van de in zijn ogen verderfelijke kathedraal van het platonisme en het christendom, wat volgens hem immers niet meer was dan _'Platonismus fürs Volk'_, was zijn goddeloze opdracht.[^4] Hij hief de hamer tegen de afgoden van weleer en sloeg ze in duizend stukjes. En als de hamer nog niet destructief genoeg was, kon hij altijd nog dynamiet inzetten, zoals de Taliban dat heeft gedaan bij de Boeddha's van Bamyan.[^5] Dit is hetzelfde slopen dat via Heideggers _Abbau_ en _Destruktion_ evolueerde tot Derrida's deconstructie. Let wel: de-constructie, niet zomaar destructie. Want wie een muur afbreekt of een afgod aan gruzelementen slaat, opent nieuwe vergezichten.
 
 

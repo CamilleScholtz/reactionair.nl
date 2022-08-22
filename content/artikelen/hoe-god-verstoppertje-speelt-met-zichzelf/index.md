@@ -21,10 +21,6 @@ De dualiteit subject-object is in wezen dezelfde als de dualiteit stof-geest (ma
 
 In een materialistisch tijdperk als het onze, is het de usance om geest te verklaren vanuit stof, of zoals de titel van de bestseller van Dick Swaab luidt: wij zijn ons brein. Het bewustzijn is niets dan de hersens en daarmee uit, volgens Swaab.[^2] Zonder de prestaties van de hersenwetenschap te willen miskennen, is dit filosofisch ongefundeerd. De neurologie is er namelijk wel in geslaagd om diepgaande correlaties tussen hersen- en bewustzijnstoestanden aan te tonen, maar zoals iedereen weet: correlatie is niet hetzelfde als causatie. 
 
-{{< image
-	caption="De hindoegod Krishna speelt verstoppertje met zijn geliefde Radha en de gopi's."
->}}
-
 Noch zijn hersen- en bewustzijnstoestanden identiek. Ik voel immers alleen mijn eigen hersens en niet die van een ander. Het is dan ook een grove misvatting dat bijvoorbeeld geluid luchttrillingen of liefde een bepaalde hormonencocktail is. Je kan luchttrillingen ook zien of voelen zonder ze te horen. Geluid is de subjectieve waarneming van luchttrillingen áls geluid. Je kan die hormonencocktail ook in een glas schenken zonder dat iemand iets voelt. Liefde is de subjectieve waarneming van een bepaalde hormonencocktail áls liefde.
 
 Het loont om nog even te benadrukken hoe wonderlijk de suggestie is dat bewustzijn zou kunnen worden afgescheiden door de prikkeling van zenuwweefsel, ongeveer zoals de nieren urine afscheiden. De bioloog Thomas Huxley (grootvader van Aldous) vergeleek dit met de geest die te voorschijn kwam uit de lamp nadat Aladdin erop wreef:

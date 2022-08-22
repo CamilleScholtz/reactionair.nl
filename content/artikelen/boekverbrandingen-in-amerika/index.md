@@ -11,10 +11,6 @@ image = "thumb.webp"
 
 Er is veel te doen over zogenaamde boekverbrandingen, _blacklists_ en verboden titels in Amerikaanse schoolbibliotheken. Laten we beginnen met de desinformatie die verspreid wordt door de hoofdstroom-media in zowel Nederland als Amerika.  Er zijn toch geen ”verboden boeken” zoals we die in Nederland kennen (bijvoorbeeld _Mein Kampf_) in het vrije Amerika? Toch wordt consequent over _“banned books”_ gesproken. Ik heb er echter geen enkel voorbeeld van kunnen vinden. Wel zijn er boeken die van leeslijsten worden gehaald. Boeken die niet in de collectie van school of publieke bibliotheken worden opgenomen. Het staat echter iedere particulier vrij om boeken te kopen of in hun particuliere bibliotheek op te nemen.
 
-{{< image
-	caption="Luther verbrandt de bul van verbanning en de canonieke rechten voor de Elsterpoort in Wittenberg, ingekleurde houtsnede 1557."
->}}
-
 Opvallend zijn ook de zoekresultaten op Google over _“banned books”_. Ook hier komt consequent hetzelfde frame naar boven; republikeinen en conservatieven willen boeken verbieden. Is er dan geen tegengeluid? Uiteraard wel. Maar wat Google als normatieve informatie classificeert, is nu eenmaal inherent politiek links. U zult zelf op conservatieve websites moeten zoeken om een andere mening te lezen. Op Wikipedia staat  _‘banned’_ tussen aanhalingstekens in het artikel met een lijst boeken die niet verkrijgbaar zijn in publieke en/of school bibliotheken in diverse staten.[^1]
 
 Is het censuur om bepaalde boeken niet op een leeslijst te zetten? Is het censuur om bepaalde boeken niet op te nemen in een collectie? Mijns inziens moeten we dan naar de autoriteit kijken van degene die de beslissing neemt. Of dit nu in een republikeinse staat gebeurt of in een democratische. Want ja, ook democraten en linkse activisten “verbannen” boeken. Ironisch genoeg leek de Californische gouverneur daar niet van op de hoogte, waardoor een tweet bedoeld als sneer naar republikeinen niet het gewenste effect had.[^2]

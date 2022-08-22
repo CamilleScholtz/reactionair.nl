@@ -5,7 +5,6 @@ subtitle = "Wet, recht en geweld… wie weet nog wat?"
 auteurs = ["Sanura"]
 date = "2022-07-23"
 themas = "Politiek & Actualiteit"
-question = "Wat zijn uw gedachten over dit artikel?"
 image = "900.jpeg"
 anchor = "Top"
 +++

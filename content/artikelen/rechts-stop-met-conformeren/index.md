@@ -13,10 +13,6 @@ _Dit essay is oorspronkelijk geschreven voor de JONG21 'Wedstrijd van het Vrije 
 
 Het uitgangspunt van rechts is vaak fout, er wordt namelijk geïmpliceerd dat er een eerlijk speelveld op de markt der meningen mogelijk zou zijn. Maar je hebt altijd te maken met een bepaald soort tijdsgeest waaraan geconformeerd moet worden. Progressieven beseften dit eind jaren '60 en hebben toen — met onder andere de ideeën van neomarxisten over machtsstructuren — een geslaagde studentenrevolte op touw gezet. De zuilenmaatschappij, die toch al zijn laatste stuiptrekkingen kende door het breken met de traditie en door technologische ontwikkelingen waardoor de wereld steeds kleiner werd, heeft sindsdien plaatsgemaakt voor één progressieve hegemonie: de enige zuil die overeind is blijven staan. Laten we zeggen dat sindsdien de progressieven de spelregels, en daarmee ook de fatsoenlijkheidskaders van het speelveld, bepalen.
 
-{{< image
-	caption="Het overton-venster."
->}}
-
 De progressieve hegemonie zien we terug in verschillende facetten die een belangrijke invloed uitoefenen op de massamens: de media, de publieke instituties, de universiteiten en, conformerend aan die hegemonie, ook het grootkapitaal. Zij denken min of meer hetzelfde en sturen aan op thema’s die progressieven belangrijk vinden. Progressief-liberalen hebben hierdoor een enorme metapolitieke invloed.
 
 De tijdsgeest staat niet stil en wordt bepaald door metapolitieke invloeden. Het is belangrijk om deze metapolitieke invloed van progressieven te herkennen. Hoe kan het zijn dat progressieven steeds bepalen welk spoor de trein van Nederland gaat nemen: dat komt doordat zij de metapolitiek bepalen en de pragmatiek van de partijpolitiek uiteindelijk de metapolitiek volgt. Enkele voorbeelden hiervan: Wopke Hoekstra noemde zichzelf laatst een feminist, maar aan de andere zijde waren veel VVD’ers onder Bolkestein eind jaren '90 nog tegen het homohuwelijk. Je kunt je een van beiden in wisseling van tijdsgeest niet voorstellen. Het mooiste voorbeeld hiervan is, waarin de eigen ideologie ook schuilgaat, het schijnargument dat iets ‘niet meer van deze tijd’ is.

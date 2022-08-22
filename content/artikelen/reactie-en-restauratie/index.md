@@ -16,10 +16,6 @@ Er zijn al veel discussies geweest over de definitie van ‘reactionair’ (even
 
 Reactionair gebruiken als vies woord is bizar. Ten tijde van crises is het niet meer dan normaal om terug te willen naar de tijd van vóór de problemen. Om de consequenties van foute keuzes ongedaan te willen maken, en die fouten niet te herhalen. Fouten blijven herhalen, of denken dat de oplossing voor revolutionair leed ligt in nóg meer revolutie, komt neer op denken dat je harder op je duim moet slaan met die hamer, opdat de pijn ophoudt. 
 
-{{< image
-	caption="Ruïne aan Zee van Arnold Böcklin."
->}}
-
 Reactionair heeft echter ook een oppositioneel element. De hamvraag is: waar is het een reactie op? Kort gezegd, de Franse Revolutie en al haar gevolgen. Het is zowel (een uitvloeisel van) die eerste contrarevolutie, als tegelijkertijd… niet loúter contrarevolutionair. Contrarevolutie is als fenomeen veel meer tijd- en plaatsgebonden. In tegenstelling tot conservatisme wil het wél dingen terugdraaien, maar vaak alleen maar de meest recente revolutie. Liberalen die een socialistische revolutie willen terugdraaien of socialisten die een communistische revolutie bestrijden.
 
 Contrarevolutie heeft altijd een bredere politieke connotatie gehad. Revolutie is ook een politiek bredere term dan het concept progressivisme dat klassiek links is. Contrarevolutie is de ultieme aantijging binnen communistische staten. Die zijn tot stand gekomen door geloof in de revolutie. Een perfecte revolutie. Alles wat daarvan afwijkt, is ketterij… sorry, ik bedoel contrarevolutie. 

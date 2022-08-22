@@ -11,10 +11,6 @@ image = "thumb.webp"
 
 Een paar dagen geleden las ik een artikel in het Britse Metro waarin de auteur van wal stak tegen het privilege wat blanke _“queers”_ zouden genieten. Er werd gesproken over het racisme dat zwarte en Aziatische mensen zouden ervaringen in de LGBT-gemeenschap.
 
-{{< image
-	caption="Kinderen spelen met slee, door Yulia Parabina."
->}}
-
 Dit soort meningen zie ik steeds vaker voorbij komen. Ook in Nederland zien we soortgelijke discussies. Zo kreeg bij het tv-programma _HLF8_ John de Bever het aan de stok met Barbara Barend. Bever, zelf homoseksueel, vond het hedendaagse discours volledig belachelijk. 
 Al die identiteiten en het gezeur om discriminatie ging hem veel te ver. “Conservatieven” in het Westen breken tegenwoordig dan ook vaak een lans voor de “gewone witte homo”. Veel “conservatieve” partijen aan de rechterzijde kennen inmiddels ook een homoseksueel die zich maar al te graag uitspreekt tegen de doorgeslagen LGBT-gemeenschap en als “normale homo” ten toon wordt gesteld. Iets waar de gemiddelde rechts-reactionair hard om kan lachen.
 

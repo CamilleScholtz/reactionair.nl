@@ -2,7 +2,6 @@
 auteurs = ['Camille Meloen']
 date = '2021-10-15'
 dossiers = ['Woke']
-question = 'Is woke deze keer écht te ver gegaan?'
 subtitle = 'Of toch niet?'
 themas = 'Klikaas'
 title = 'Woke is NU ECHT te ver gegaan!'
@@ -15,10 +14,6 @@ _GeenStijl_, _TPO_, Geerten Waling, Afshin Ellian, Wierd Duk, Roderick Veelo. Ik
 ### Wat is woke?
 
 _Woke_, of zoals we in eerdere artikelen hebben besproken, de meer passende term _progressief liberalisme_, is eenvoudigweg de herinterpretatie van de waarden van het liberalisme, waarden als gelijkheid en _vrijheid_. Verder maakt _woke_ gebruik van methoden die hun wortels hebben in het liberalisme, zoals de kritische theorie, een benadering van sociale filosofie met als doel _“mensen te bevrijden uit de omstandigheden die hen tot slaaf maken”_.[^1]
-
-{{< image
-	caption="10 keer dat woke ECHT TE ver ging! Nummer 7 zal je niet geloven!"
->}}
 
 Ik val in herhaling,[^2] maar de _“gendergekte”_ is gewoonweg het concept van vrijheid toegepast op het concept van gender, zoals al eerder is gedaan maar dan op seksualiteit en seksuele rolverdeling, iets wat degenen die miezeren over _woke_ accepteren, en zelfs fel verdedigen. Gebonden zijn aan je geslacht, of _gender_, beperkt je individuele vrijheid, je moet immers lekker jezelf kunnen zijn. Dus naast de keuze of je met een man of vrouw wilt trouwen, ben je nu ook vrij om te kiezen of je je als man of vrouw identificeert. Maar wacht, dit is nog steeds vrij beperkend, per slot van rekening is _gender_ beperkt tot een simpele binaire; man of vrouw. Dit kan bevrijd worden door over te stappen naar een _genderspectrum_, dat minder gebonden is dan een tweedeling, en zo dus _vrijer_.
 

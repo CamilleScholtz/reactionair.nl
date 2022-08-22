@@ -1,77 +1,23 @@
-.author-large
-	text-align: center
+.author-info
+	display: grid
+	gap: 50px
 
-	.sticky
-		padding: 60px
+	.text
+		align-content: center
+		display: grid
 
-	h3
-		color: var(--slightly-muted-color)
-		display: inline
-		font-size: 31px
-		font-family: "Quadraat Pro Sans", sans-serif
-		margin: 0
+		small
+			font-size: 16px
 
-	.feather
-		background: none
-		filter: var(--popup-background-filter)
-		margin-left: -28px
-		margin-top: -35px
-		position: absolute
-		z-index: -1
+		p
+			margin-top: 30px
 
-	.profession
-		color: var(--muted-color)
-		font-style: italic
-		margin-bottom: 5px
+	&.small
+		figure
+			align-content: center
+			display: grid
 
-	.description
-		margin-left: -15px
-		width: calc(100% + 30px)
-
-	.socials
-		display: flex
-		justify-content: center
-		gap: 12px
-		margin-top: 10px
-	
-		img
-			background: none
-			filter: var(--popup-background-filter)
-
-
-.author-small
-	display: block
-	line-height: 31px
-	padding-top: 10px
-	position: relative
-
-	h3
-		color: var(--slightly-muted-color)
-		font-family: "Quadraat Pro Sans", sans-serif
-		margin: 0
-		overflow: hidden
-		text-overflow: ellipsis
-		white-space: nowrap
-
-	img
-		background: none
-		filter: var(--popup-background-filter)
-		position: absolute
-		z-index: -1
-
-#authors
-	.author-large
-		border-bottom: 1px dashed var(--border-color)
-		text-align: left
-		margin-bottom: 60px
-		padding-bottom: 60px
-
-		.feather
-			display: none
-
-		.description
-			margin-left: 0px
-			width: 100%
-
-		.socials
-			justify-content: start
+		.text
+			h2
+				font-size: 44px
+				line-height: 48px

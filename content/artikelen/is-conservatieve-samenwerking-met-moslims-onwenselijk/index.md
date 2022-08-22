@@ -3,7 +3,6 @@ aangehaald = ['René Guénon', 'Martin Lings', 'Hamza Yusuf']
 auteurs = ['Dennis Honing']
 date = '2022-01-15'
 dossiers = ['Islam', 'Conservatieve Alliantie']
-question = 'Wat zijn uw gedachten over een dergelijke alliantie?'
 subtitle = 'Een reactie op ‘tegen een politiek verbond met moslims’'
 themas = 'Politiek & Actualiteit'
 title = 'Is conservatieve samenwerking met moslims onwenselijk?'
@@ -20,10 +19,6 @@ Ga je die negeren door jezelf zoals in Amerika terug te trekken naar het plattel
 Ga je die elimineren zoals de nationaal socialisten? 
 
 Neem daar eerst een helder standpunt over in alvorens te mijmeren over de redding van de etnische Germanen in Nederland. 
-
-{{< image
-	caption="\"Konservative allianz? Nein danke!\""
->}}
 
 
 ### Het *‘millet systeem’*

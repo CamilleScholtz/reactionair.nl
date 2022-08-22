@@ -9,11 +9,6 @@ title = 'Verberg uw zondes'
 image = "thumb.webp"
 +++
 
-
-{{< image
-	caption="Iblis, uit Kitāb al-mawālīd."
->}}
-
 Ter ere van het einde van de Islamitische vastenmaand de Ramadan zal ik in dit artikel een Islamitisch gebod onder de loep nemen waar de meeste Moslims vandaag de dag van af zijn geweken en waarvan ik betoog dat het niet enkel voor Moslims maar ook voor niet-Moslims van belang is om zich aan dit gebod te houden willen zij toewerken naar een morelere samenleving.
 
 Het gebod waar ik het over heb is te vinden in een _hadith_ die vermeld staat in het boek _Sahih al-Bukhari_:

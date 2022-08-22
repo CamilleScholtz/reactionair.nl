@@ -1,35 +1,25 @@
 header
 	#logo-container
-		background: radial-gradient(circle at bottom, var(--header-background-gradient-color), var(--header-background-color) 90px)
+		background: var(--background-color)
+		border-bottom: 1px dashed var(--border-color)
 		height: 80px
-
-		#logo-background
-			height: 83px
-			width: 83px
+		justify-content: start
 
 		#search
 			top: calc((80px / 2) - 25px)
 			width: calc(100vw - 50px)
 
-	#logo img
-		height: 83px !important
-		width: 83px !important
+			form			
+				button
+					.search-icon
+						background: var(--background-color)
+
+		#logo
+			left: 15px
+		
+			img
+				height: 83px !important
+				width: 83px !important
 
 	.utility
-		flex-direction: column
-		justify-content: center
-		line-height: 25px
-		padding-bottom: 10px
-		padding-top: 25px
-		transition: padding-top .2s
-
-		.left,
-		.right
-			overflow: hidden
-			text-align: center
-			width: calc(100vw - 40px)
-
-			div
-				overflow: hidden
-				text-overflow: ellipsis
-				white-space: nowrap
+		display: none

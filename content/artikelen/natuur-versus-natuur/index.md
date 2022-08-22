@@ -11,11 +11,6 @@ image = "thumb.webp"
 
 We zien vaak vergelijkingen in de vorm van _“homoseksualiteit komt voor bij enkele diersoorten, dus is het natuurlijk”_, aan de andere kant zien we atheïsten beweren dat de religieuze filosofie gebruik maakt van een _“beroep op de natuur”_ drogredenering. Beide komen voort uit een misverstand. De eerste over een misverstand over de betekenis van de natuur, en de tweede over een betekenis van de Natuur, met een hoofdletter N.
 
-{{< image
-	caption="Allegorie van goed en van slecht bestuur door Ambrogio Lorenzetti."
->}}
-
-
 ### Natuur
 
 De etymologie van de term natuur is als volgt: van het Latijnse _nātūra_, dat _“aard, kwaliteit, substantie, karakter, neiging, aanleg of essentie van een ding”_ betekent, dat op zijn beurt is afgeleid van _natus_, dat _“voortbrengen, verwekken, geboren worden“_ betekent. Dit impliceert ontstaan en vergaan; beweging, ontwikkeling. Iets dat vervuld moet worden. Het Latijnse _nātūra_ is een vertaling van het Griekse _physis_, wat betekent _“datgene wat geboren wordt en het domein van de verandering betreedt”_.[^1] _“Worden”_, _“natuur”_ en _“physis”_ zijn synoniemen, en het was dan ook zo dat de Grieken, en met name Aristoteles, de term _fysica_ verstonden als een wetenschap die zich bezighoudt met de meest algemene wetten van het worden.[^2][^3]
