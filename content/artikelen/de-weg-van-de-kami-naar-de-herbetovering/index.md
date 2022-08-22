@@ -99,7 +99,7 @@ Vaak zijn we enkel verder verdwaald in het labyrint doordat we niet goed doo
 
 ### Verschillende soorten weten
 
-Welke verschillende soorten weten zijn er? Hier zijn verschillende modellen voor. Voor dit essay wil mij focussen op het 4P-model uit de cognitiewetenschappen van Vervaeke en Ferraro.[^7]
+Welke verschillende soorten weten zijn er? Hier zijn verschillende modellen voor. Voor dit essay wil ik mij focussen op het 4P-model uit de cognitiewetenschappen van Vervaeke en Ferraro.[^7]
 
 Ik zal niet te veel uitweiden over het werk hierachter, maar ik vind het een sterk kader om verder over de problematiek te praten. Het bouwt voort op de onderscheiding van soorten kennis die Aristoteles uiteenzet in de Ethica Nicomachea.
 
@@ -151,7 +151,7 @@ Dit kenmerkt de eerdere pogingen van het Westen om zichzelf te herbetoveren; er
 
 Door de neiging naar orthodoxie werd elke voorgaande reactie op de onttovering gekenmerkt als een verzameling stellingen die men voor waar moest aannemen. Als vervolgens één van deze stellingen wordt ingehaald door de tijd, implodeert het hele raamwerk en blijven enkel mensen over die zich stevig vastklampen aan een achterhaald wereldbeeld, welke bij wijze van spreken de functie heeft van een stuk drijfhout in de onmetelijke diepe oceaan van het nihilisme.
 
-Als we ons tot het oosten richt, of terug in het verleden kijken naar de hellenistische Grieken en Romeinen, zien we echter iets heel anders. Niet zo zeer het juiste geloof of de juiste mening is belangrijk, maar het juiste handelen wordt gewaardeerd. Orthopraxie boven orthodoxie. Op de juiste manier de rituelen en riten uitvoeren. Op de juiste manier de hymnes reciteren. Op de juiste manier deelnemen aan de praxis. Wat de enkelvoudige waarheid precies is en of je die in zijn totaliteit voor waar aanneemt, wordt minder belangrijk geacht. Dit lijkt inherent aan polytheïstische systemen, waar men niet één oppergod kent, en denominaties langs elkaar heen andere goden als ‘de belangrijkste’ aanwijzen, afhankelijk van kaste, sociaalmaatschappelijke positie, professie of locatie.
+Als we ons tot het oosten richten, of terug in het verleden kijken naar de hellenistische Grieken en Romeinen, zien we echter iets heel anders. Niet zo zeer het juiste geloof of de juiste mening is belangrijk, maar het juiste handelen wordt gewaardeerd. Orthopraxie boven orthodoxie. Op de juiste manier de rituelen en riten uitvoeren. Op de juiste manier de hymnes reciteren. Op de juiste manier deelnemen aan de praxis. Wat de enkelvoudige waarheid precies is en of je die in zijn totaliteit voor waar aanneemt, wordt minder belangrijk geacht. Dit lijkt inherent aan polytheïstische systemen, waar men niet één oppergod kent, en denominaties langs elkaar heen andere goden als ‘de belangrijkste’ aanwijzen, afhankelijk van kaste, sociaalmaatschappelijke positie, professie of locatie.
 
 ### Orthopraxie boven orthodoxie
 
