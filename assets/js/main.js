@@ -123,9 +123,12 @@ const footnotes = (main, mobile) => {
 
 const justify = (main) => {
 	document.fonts.ready.then(() => {
+		texLinebreak.texLinebreakDOM(main.querySelectorAll(".content>p, .content>blockquote p, .content>li p, .welcomments__comment-message"));
+
+		// XXX: Some bug? I have to open an issue.
 		setTimeout(() => {
 			texLinebreak.texLinebreakDOM(main.querySelectorAll(".content>p, .content>blockquote p, .content>li p, .welcomments__comment-message"));
-		}, 200);
+		}, 1000);
 	});
 }
 
