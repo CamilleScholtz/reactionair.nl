@@ -1,7 +1,11 @@
 {{ define "main" }}
-	{{ if eq .Section "auteurs" }}
-
-	{{ end }}	
+	<div class="list-header">
+		{{ if eq .Section "auteurs" }}
+			{{ partial "authors/large.html" (site.GetPage (printf "/auteurs/%s" (urlize .Params.title))) }}
+		{{ else }}
+			<h1>{{ .Params.title }}</h1>
+		{{ end }}	
+	</div>
 
 	{{ $paginator := .Paginate .RegularPages }}
 
@@ -17,15 +21,23 @@
 		{{ if gt $paginator.TotalPages 1 }}
 			<nav class="paginator">
 				{{ if $paginator.HasPrev }}
-					<a class="button prev" href="{{ $paginator.Prev.URL }}">←</a>
+					<a class="button prev" href="{{ $paginator.Prev.URL }}">
+						‹-
+					</a>
 				{{ else }}
-					<a class="button prev disabled">←</a>
+					<a class="button prev disabled">
+						-›
+					</a>
 				{{ end }}
 
 				{{ if $paginator.HasNext }}
-					<a class="button next" href="{{ $paginator.Next.URL }}">→</a>
+					<a class="button next" href="{{ $paginator.Next.URL }}">
+						‹-
+					</a>
 				{{ else }}
-					<a class="button next disabled">→</a>
+					<a class="button next disabled">
+						-›
+					</a>
 				{{ end }}
 			</nav>
 		{{ end }}
