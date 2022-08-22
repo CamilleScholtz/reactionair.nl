@@ -1,6 +1,6 @@
 +++
 title = "De weg van de kami naar de herbetovering"
-subtitle = "Over het neergaande pad der onttovering"
+subtitle = "Over het nergaande pad der onttovering"
 auteurs = ["Elvengast"]
 date = "2022-08-16"
 themas = "Religie & Metafysica"
