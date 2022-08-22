@@ -2,9 +2,9 @@
 title = "Het verval van de archetypen"
 subtitle = "Het herstellen van mannelijkheid en vrouwelijkheid in het tijdperk van de machine"
 auteurs = ["Tara Ann Thieke"]
-date = "2022-08-06"
+date = "2022-08-22"
 themas = "Cultuur & Maatschappij"
-image = "fb83657c-9ac8-456b-a93f-90e250dd1ecd.jpeg"
+image = "imago0080790130w.jpg"
 anchor = "Smart"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
@@ -36,13 +36,13 @@ De verschillen van mannelijkheid en vrouwelijkheid worden als aanstootgevend bes
 
 De archetypen lijken zich te verstoppen, maar net zoals dat lichtvervuiling de sterren  verhult, blijven de hemelen niettemin hetzelfde. Voor hen die wensen te vragen wat het betekent om een mens te zijn in een wereld gedomineerd door machines, is het tijd om de archetypen te herontdekken die ons naar een hechtere verbinding met onze lichamen en gemeenschappen leiden. Ik wil mij richten op verscheidene vragen:
 
-**• Hoe zijn we de archetypen verloren?**
+* Hoe zijn we de archetypen verloren?
 
-**• Welke lessen kunnen we leren van het tijdperk van radicaal atomisme?**
+* Welke lessen kunnen we leren van het tijdperk van radicaal atomisme?
 
-**• Moeten we het mannelijke en vrouwelijke herontdekken?**
+* Moeten we het mannelijke en vrouwelijke herontdekken?
 
-**• Hoe zou mannelijkheid en vrouwelijkheid eruit zien in een samenleving die wenst een post-lichamelijke dystopie te verwezenlijken?**
+* Hoe zou mannelijkheid en vrouwelijkheid eruit zien in een samenleving die wenst een post-lichamelijke dystopie te verwezenlijken?
 
 Ik zal proberen deze vragen bondig te beantwoorden op mijn eigen manier, met de hoop enig geloof te zaaien in de echtheid van het transcendente, en dat het een geschenk is. 
 
@@ -122,8 +122,8 @@ Verwarring alom. Waarom zou enkel de grootsheid van de krijger gelden? Waarom wo
 
 De elites verachten het vrouwelijk lichaam. Mannelijkheid en vrouwelijkheid onder de rijken zijn gereduceerd tot louter kenmerken, en draagmoederschap wordt genormaliseerd. De rijke droom van een kunstmatige baarmoeder. Het gezicht wordt strakgetrokken, de borsten geamputeerd, het lichaam aangepast en de levensschenkende connectie tussen man en vrouw wordt gereduceerd tot slechts een uitvoering van permanenente seksuele beschikbaarheid.
 
-Zij die leven in een menselijke wereld worden geroepen om de betekenis van deze ingrepen in ons lichaam te revalueren. Zien wij onze vruchtbaarheid als een geschenk om gekend te worden, of accepteren we ingrepen die we niet kunnen doorgronden? \
-\
+Zij die leven in een menselijke wereld worden geroepen om de betekenis van deze ingrepen in ons lichaam te revalueren. Zien wij onze vruchtbaarheid als een geschenk om gekend te worden, of accepteren we ingrepen die we niet kunnen doorgronden?
+
 Vinden we een wereld waar al over deze problemen werd nagedacht, lang voor Judith Butler er was, en benaderen we opnieuw ideeën als de yin-yang en complementariteit? Staan we onszelf toe de flexibele kracht in het vrouwelijke en de zachtaardige rentmeesterschap in het mannelijke te zien?
 
 Kennen we onszelf meer of minder? Accepteren we onze eigen kracht als een geschenk, om aan onze gemeenschappen door te geven?
@@ -139,5 +139,4 @@ Je lichaam bestaat niet louter uit atomen. Je lichaam is geen verzameling delen.
 Dit is geen reis om te missen.
 
 [^1]: In Engeland had men in de 18e eeuw veel *open fields* en *common fields;* grasvelden die tot dan in ieder geval een deel van het jaar gemeenschappelijk gebruikt werden, laten omheinen opdat zij in het bezit van grondbezitters zouden geraken. Het doel was om de winst van het land te optimaliseren, door de weiden specifiek voor het houden van schapen benutten en met de verkoop van wol winst te maken. Deze ontwikkeling, wettelijk beschermd door de *[Enclosure act](https://www.legislation.gov.uk/apgb/Geo3/13/81/contents)*, stortte een groot deel van de plattelanders in armoede en wordt als voorspel gezien van de industriële revolutie.
-
 [^2]: I Korintiërs 13:12 (NBV).
