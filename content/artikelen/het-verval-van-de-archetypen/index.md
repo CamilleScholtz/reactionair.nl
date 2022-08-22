@@ -52,7 +52,7 @@ Ivan Illichs *Gender* wijst erop dat de lokale (lees: niet-professionele) gender
 
 Tegenstrijdig met de verhalen die de vrouw centraal stellen, zijn het de mannen die de initiële golf van archetypisch verlies ondergingen, en het waren mannen die dit elkaar toebrachten.
 
-Als de vrouwelijkheid zich nu in een dramatische crisis bevindt (“what is a woman?”), begon deze crisis voor de mannelijkheid een paar honderd jaar geleden. Mannen uit de arbeidersklasse werden in de tijd van de Enclosure van het land naar de fabrieken en mijnen gesleept door de heersende klasse.[^1] Miljoenen mannen werden losgesneden van de vruchten van hun arbeid en vervangen door machines. Er bleef enkel hun lichaam over, gereduceerd tot een simpele automaton, gravend naar kolen, of trekkend aan hendels zodat sommige mannen miljonairs werden en de wereld konden hervormen naar hun beeltenis.
+Als de vrouwelijkheid zich nu in een dramatische crisis bevindt (*“what is a woman?”*), begon deze crisis voor de mannelijkheid een paar honderd jaar geleden. Mannen uit de arbeidersklasse werden in de tijd van de Enclosure van het land naar de fabrieken en mijnen gesleept door de heersende klasse.[^1] Miljoenen mannen werden losgesneden van de vruchten van hun arbeid en vervangen door machines. Er bleef enkel hun lichaam over, gereduceerd tot een simpele automaton, gravend naar kolen, of trekkend aan hendels zodat sommige mannen miljonairs werden en de wereld konden hervormen naar hun beeltenis.
 
 Deze veranderingen in de levens van de gewone mensen waren manifestaties van de mentale veranderingen in de geesten van deze machtige mensen. Terwijl de staat groeide, werd een klasse mannen in staat gesteld om grotere controle over de samenleving en de natuur na te streven. De afgezonderde scholen van logica brachten de nominalisten voort, die vervolgens een tijdperk van occulte wetenschap voortbrachten, waar koningen diegene beloonden die de kracht van de staat vermeerderde. De wil van deze leiders was losgezongen van de noden van hun gemeenschappen en in hun verovering van de natuur legden ze de machtelozen hun vernauwde begrip van de realiteit op.
 
@@ -72,7 +72,12 @@ De vruchten zijn genderneutrale rollen, een grootschalige crisis in het mentale 
 
 We moeten proberen het goede van het slechte te onderscheiden, in plaats van als reactie op deze ontwikkelingen slechts voormalige kenmerken die we leuk vinden te selecteren en daaraan vast te houden. Veel traditionalisten gaan zo ver dat ze vrouwen gesluierd willen hebben, terwijl ze zwaar gebruik maken van technologie die in staat is een pornografische dystopie te ontsluiten voor hun kinderen.
 
-We leven niet langer in de wereld van onze voorouders. Maar het goede nieuws is dat deze wereld die we wel hebben niet louter een opeenvolging is van nachtmerries die zich ontvouwen op fletse schermen; er zit een verticale dimensie aan onze levens. Eens wandelden we in het transcendente als ware het een droom; nu worden we uitgenodigd ons puberaal verzet te staken en te wijden wat ons gegeven is: "Nu kijken we nog in een wazige spiegel, maar straks staan we oog in oog. Nu is mijn kennen nog beperkt, maar straks zal ik volledig kennen, zoals ik zelf gekend ben.”[^2]
+We leven niet langer in de wereld van onze voorouders. Maar het goede nieuws is dat deze wereld die we wel hebben niet louter een opeenvolging is van nachtmerries die zich ontvouwen op fletse schermen; er zit een verticale dimensie aan onze levens. Eens wandelden we in het transcendente als ware het een droom; nu worden we uitgenodigd ons puberaal verzet te staken en te wijden wat ons gegeven is:
+
+{{< quote
+	text="Nu kijken we nog in een wazige spiegel, maar straks staan we oog in oog. Nu is mijn kennen nog beperkt, maar straks zal ik volledig kennen, zoals ik zelf gekend ben."
+	author="I Korintiërs 13:12 (NBV)"
+>}}
 
 We hebben zoveel verloren, maar we hebben ook het geschenk gekregen om de wereld op een vrije manier tegemoet te treden. Ieder van ons heeft een mogelijkheid om te kiezen voor hun menselijkheid, te kiezen om hun lichamen dichter bij de Schepping te brengen dan bij de Machine. 
 
@@ -108,6 +113,8 @@ Dit zijn verwarrende verleidingen, en het is noodzakelijk dat wij deze weten te 
 
 Het omarmen van respectievelijk onze mannelijkheid en vrouwelijkheid door middel van de archetypes is de beste manier om een complementair bestaan te herstellen, dat leven geeft aan elkaar in plaats van vervreemding en verdeeldheid te zaaien waardoor we volledig afhankelijk gemaakt worden van de Machine. 
 
+{{< boekencast >}}
+
 Om tot een begrip van deze archetypen te komen na een leven lang ondergedompeld te zijn in de “Je kunt alles worden wat je wilt!”-cultuur kan pijnlijk zijn. Het vereist jaren van onszelf openstellen voor onze krachten en beperkingen, begrijpen hoe we ons verhouden tot anderen, onze tekortkomingen accepteren en de verantwoordelijkheid van onze keuzes dragen. Dit is niet een pad dat wij kunnen bewandelen voor anderen; dat is het tegenovergestelde van verantwoordelijkheid nemen. Maar we kunnen wel elkaar in een bepaalde richting wijzen die wij zelf als verrijkend hebben ervaren, en ik zal wijzen op één richting om de lezers die een tip waarderen voor hun eigen reis op weg te helpen.
 
 In een Machinesamenleving zijn snelheid en kracht de hoogste prioriteiten. Hoe jammer en oneerlijk het ook mag lijken, vrouwen zijn niet zo snel of krachtig als mannen. Geen enkele conditionering in onze vroege kinderjaren kan of zou onze botstructuur veranderen.
@@ -139,4 +146,3 @@ Je lichaam bestaat niet louter uit atomen. Je lichaam is geen verzameling delen.
 Dit is geen reis om te missen.
 
 [^1]: In Engeland had men in de 18e eeuw veel *open fields* en *common fields;* grasvelden die tot dan in ieder geval een deel van het jaar gemeenschappelijk gebruikt werden, laten omheinen opdat zij in het bezit van grondbezitters zouden geraken. Het doel was om de winst van het land te optimaliseren, door de weiden specifiek voor het houden van schapen benutten en met de verkoop van wol winst te maken. Deze ontwikkeling, wettelijk beschermd door de *[Enclosure act](https://www.legislation.gov.uk/apgb/Geo3/13/81/contents)*, stortte een groot deel van de plattelanders in armoede en wordt als voorspel gezien van de industriële revolutie.
-[^2]: I Korintiërs 13:12 (NBV).
