@@ -5,7 +5,7 @@ auteurs = ["Tara Ann Thieke"]
 date = "2022-08-22"
 themas = "Cultuur & Maatschappij"
 image = "imago0080790130w.webp"
-anchor = "Smart"
+anchor = "Top"
 question = "Wat zijn uw gedachten over dit artikel?"
 +++
 Dit artikel is een vertaling van *The Collapse of the Archetypes*, oorspronkelijk gepubliceerd op de substack van Tara Thieke. Het originele artikel is [hier](https://tarathieke.substack.com/p/the-collapse-of-the-archetypes) te vinden.
