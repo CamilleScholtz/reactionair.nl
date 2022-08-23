@@ -123,7 +123,11 @@ const footnotes = (main, mobile) => {
 
 const justify = (main) => {
 	document.fonts.ready.then(() => {
-		texLinebreak.texLinebreakDOM(main.querySelectorAll(".content>p, .content>blockquote p, .content>ul li p, .content>ol li p, .welcomments__comment-message"));
+		const elements = main.querySelectorAll(".content p, .content>blockquote p, .content>ul li p, .content>ol li p, .footnotes p, .welcomments__comment-message");
+
+		texLinebreak.texLinebreakDOM(elements, {
+			ignoreFloatingElements: true,
+		});
 	});
 }
 
