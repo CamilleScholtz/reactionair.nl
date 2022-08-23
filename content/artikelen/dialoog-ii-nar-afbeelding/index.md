@@ -1,5 +1,5 @@
 +++
-title = "Dialoog II [Nar, afbeelding]"
+title = "Dialoog II"
 subtitle = "Verdere deliberatie over ongehoorzaamheid"
 auteurs = ["Walt van Toor"]
 date = "2022-08-22"
