@@ -207,7 +207,7 @@ const scroll = (header, main, mobile) => {
 
 			utility(scroll);
 
-			if (scroll < 300) {
+			if (scroll < 40) {
 				if (hidden) {
 					show(scroll);
 				}
