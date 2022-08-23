@@ -1,10 +1,10 @@
-<script defer src="{{ (resources.Get "js/vendor/linebreak2.js").RelPermalink }}?v=1660483812"></script>
-<script defer src="{{ (resources.Get "js/vendor/minisearch.js").RelPermalink }}?v=1660483812"></script>
+<script defer src="{{ (resources.Get "js/vendor/linebreak2.js").RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
+<script defer src="{{ (resources.Get "js/vendor/minisearch.js").RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
 
-<script defer src="{{ (resources.Get "js/main.js" | resources.Minify).RelPermalink }}?v=1660483812"></script>
+<script defer src="{{ (resources.Get "js/main.js" | resources.Minify).RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
 
 {{ if eq .Kind "page" }}
-	<script defer src="{{ (resources.Get "js/vendor/welcomments.js").RelPermalink }}?v=1660483812" id="welcomments__script"></script>
+	<script defer src="{{ (resources.Get "js/vendor/welcomments.js").RelPermalink }}?v={{ $.Site.Params.revision }}" id="welcomments__script"></script>
 {{ end }}
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-MM83VY2NM0"></script>
