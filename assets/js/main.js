@@ -123,7 +123,8 @@ const footnotes = (main, mobile) => {
 
 const justify = (main) => {
 	document.fonts.ready.then(() => {
-		const elements = main.querySelectorAll(".content>p, .content>blockquote p, .content>ul li p, .content>ol li p, .welcomments__comment-message");
+		// TODO: Comments without paragraphs don't have p elements.
+		const elements = main.querySelectorAll(".content>p, .content>blockquote p, .content>ul li p, .content>ol li p, .welcomments__comment-message p");
 
 		texLinebreak.texLinebreakDOM(elements, {
 			ignoreFloatingElements: true,

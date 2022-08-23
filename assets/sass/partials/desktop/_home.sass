@@ -1,19 +1,19 @@
 #home
 	.hero
-		height: calc(100vh - 167px - 40px - 40px - 115px)
+		height: 600px
 		grid-template-columns: 4fr 8fr 3fr
 
 		.left,
 		.right
-			height: calc(100vh - 167px - 40px - 40px - 115px)
+			height: 600px
 
 		.left
 			gap: 26px
-			grid-template-rows: auto auto
+			grid-template-rows: repeat(2, auto)
 
 		.right		
 			.articles
-				grid-template-rows: auto auto auto auto
+				grid-template-rows: repeat(4, 1fr)
 
 	.intro
 		width: 835px
