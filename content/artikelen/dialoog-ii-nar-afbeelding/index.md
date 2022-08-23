@@ -28,10 +28,16 @@ anchor = "Smart"
 
 **Johan**: Dat laatste ben ik met je eens. Misdadigheid wordt verhuld door vermeende onkunde. Maar vergeet daarbij niet dat we kunnen opgaan tussen de tassendragers, tussen de souffleurs en tussen de gedachtenpolitie. Het is mogelijk daar onze plek in te nemen. Het staat ons vrij deel te nemen aan hun politieke spel dus ligt daar een uitdaging: te peilen hoe diep de corruptie reikt.
 
-**Mark**: *Homo homini lupus*, ik denk daar vaak over na. Is de mens een wolf voor zijn medemens? Allicht, maar ik merk op dat onze medemensen op elk moreel appel reageren als een gebeten hond. Is het juist dat de samenleving een hiërarchie van het kwaad bepaalt en dat er leden van de samenleving zijn die hun handelen afstemmen op die hiërarchie? Waar staat dat God van jou vraagt om het kwaad af te wijzen, maar om sterk te twijfelen bij het categorisch afwijzen ervan? Om die vragen te beantwoorden zoek ik steun bij verschillende schrijvers, de laatste tijd zijn dat: Randolph Bourne, Imre Kertész, Simone Weil en Elie Wiesel. We kunnen niet anders dan het kwaad het hoofd bieden, daarbij te leunen op een bepaalde traditie is onmogelijk. *Es gibt unendlich viel Hoffnung, nur nicht für uns.*
+**Mark**: *Homo homini lupus*, ik denk daar vaak over na. Is de mens een wolf voor zijn medemens? Allicht, maar ik merk op dat onze medemensen op elk moreel appèl reageren als een gebeten hond. Is het juist dat de samenleving een hiërarchie van het kwaad bepaalt en dat er leden van de samenleving zijn die hun handelen afstemmen op die hiërarchie? Waar staat dat God van jou vraagt om het kwaad af te wijzen, maar om sterk te twijfelen bij het categorisch afwijzen ervan? Om die vragen te beantwoorden zoek ik steun bij verschillende schrijvers, de laatste tijd zijn dat Randolph Bourne, Imre Kertész, Simone Weil en Elie Wiesel. We kunnen niet anders dan het kwaad het hoofd bieden, daarbij te leunen op een bepaalde traditie is onmogelijk. *Es gibt unendlich viel Hoffnung, nur nicht für uns.*[^1]
+
+{{< quote text="Es gibt unendlich viel Hoffnung, nur nicht für uns." author="Franz Kafka" aside=true
+
+> }}
 
 **Johan**: Hoe weet je dan dat je het juiste doet? Hoe weet je wat je moet doen, dat jouw oordelen geldig zijn, dat je opkomt voor de juiste mensen en de juiste belangen? Soms bereik je met je handelen een tegengesteld effect. De leiders van nu dragen verantwoordelijkheden die door ons niet gekend worden en niet gekend kunnen worden.
 
-**Mark**: Dat kan zo zijn, maar we dienen verdomd goed uit te kijken voor mensen met goede bedoelingen. Omwille van goede bedoelingen geschieden de ergste misdaden. Bereiden we ons voor op een leven in herwonnen vrijheid of bereiden we ons voor op het zwartste scenario? We mogen de nomenklatoera niet onderschatten en tegelijkertijd mogen we onze blijmoedigheid niet verliezen.
+**Mark**: Dat kan zo zijn, maar we dienen verdomd goed uit te kijken voor mensen met goede bedoelingen. Omwille van goede bedoelingen geschieden de ergste misdaden. Bereiden we ons voor op een leven in herwonnen vrijheid of bereiden we ons voor op het zwartste scenario? We mogen de *nomenklatoera* niet onderschatten en tegelijkertijd mogen we onze blijmoedigheid niet verliezen.
 
 **Johan**: Ik denk dat je hiermee heel scherp de *middle ground* hebt aangeduid. Ik wens je een fijn einde van de zomer en zal je verder spreken na je reizen.
+
+[^1]: 'Er is oneindig veel hoop, maar niet voor ons', citaat van Franz Kafka.
