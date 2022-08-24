@@ -13,6 +13,9 @@ enableRobotsTXT = true
 
 ignoreErrors = ["error-output-taxonomy"]
 
+[params]
+	revision = "1661285566"
+
 [taxonomies]
 	auteur     = "auteurs"
 	dossier    = "dossiers"
