@@ -32,5 +32,5 @@ Veel aandacht voor mensen die praten over hun seksleven of intriges. Over haat e
 
 En dus schrijf ook ik een artikel met een aandachttrekkende titel. Misschien leert iemand er iets van. Hopelijk komen mensen die echt contact willen, en normen en waarden willen delen, in de toekomst weer samen. Bouwen we onze eigen wijk om te wonen. Waar we echte vrienden, echte gesprekken en wortels zullen hebben. Ik ga ervoor… als ik 100.000 volgers heb!
 
-[^1] NPR: *[Feeling lonely? Too much time on social media may be why](https://www.npr.org/sections/health-shots/2017/03/06/518362255/feeling-lonely-too-much-time-on-social-media-may-be-why)*;
+[^1]: NPR: *[Feeling lonely? Too much time on social media may be why](https://www.npr.org/sections/health-shots/2017/03/06/518362255/feeling-lonely-too-much-time-on-social-media-may-be-why)*;
 [^2]: EurekAlert: *[Daily internet use is linked to social isolation](https://www.eurekalert.org/news-releases/598990)*.
