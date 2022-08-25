@@ -4,8 +4,7 @@ subtitle = "Over uniformiteit"
 auteurs = ["Camille Meloen"]
 date = "2022-07-04"
 themas = "Politiek & Actualiteit"
-aangehaald = "List [ \"‪René Guénon‬\" ]"
-question = "Wat zijn uw gedachten over dit artikel?"
+aangehaald = ["René Guénon"]
 image = "u-58-266258290752-tookerlunch.jpg"
 anchor = "Smart"
 +++
