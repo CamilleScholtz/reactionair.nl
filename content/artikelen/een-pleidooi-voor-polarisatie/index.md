@@ -2,7 +2,7 @@
 title = "Een pleidooi vóór polarisatie"
 subtitle = "Over uniformiteit"
 auteurs = ["Camille Meloen"]
-date = "2022-07-04"
+date = "2022-08-25"
 themas = "Politiek & Actualiteit"
 aangehaald = ["René Guénon"]
 image = "u-58-266258290752-tookerlunch.jpg"
@@ -10,15 +10,18 @@ anchor = "Smart"
 +++
 Een van de grootste zonden in de moderne politiek is “polariserend” te zijn. Als Freek Jansen het heeft over de massale immigratie, de bevolkingsgroei en hoe dit vraag en aanbod van huizen zou kunnen beïnvloeden, reageert een of andere oubollige CDA'er dat meneer Jansen (via de voorzitter) toch echt aan het polariseren is!
 
-Het is duidelijk dat we de termen die deze politici rondstrooien niet al te serieus moeten nemen, aangezien deze mensen zuiver liberaal zijn. Naast hun aangeboren liberale wereldbeeld is er niet echt spake van een “ideologie” of van “visie” en het enige wat hun mond verlaat zijn gemeenplaatsen. Maar als we deze terminologie toch op een grotere schaal bekijken, op de schaal van de tijdgeest, dan kunnen we daar wellicht het een en ander van leren.
+Het is duidelijk dat we de termen die deze politici rondstrooien niet al te serieus moeten nemen, er is namelijk niet echt spake van een “ideologie” of van een “visie”. Het enige wat hun mond verlaat zijn gemeenplaatsen. Maar als we deze terminologie toch op een grotere schaal bekijken, op de schaal van de tijdgeest, dan kunnen we daar wellicht het een en ander van leren.
 
 ### Uniformiteit als desintegratie
 
-> Uniformiteit, opdat zij mogelijk zou zijn, veronderstelt wezens ontdaan van alle kwaliteiten en gereduceerd tot niets meer dan eenvoudige numerieke “eenheden”.
-
 Polariseren betekent “een tweedeling in een groep of systeem aanwakkeren”, maar is aanwakkeren en creëren wel hetzelfde? Interessanter is echter de etymologie van de term. *Polariteit* betekent de scheiding, uitlijning of oriëntatie van iets in twee tegenovergestelde polen, een dualiteit dus. In zijn werk *Le Règne de la Quantité et les Signes des Temps* stelt Guénon dat het meest fundamentele 'polaire' onderscheid dat van kwaliteit en kwantiteit is; de “essentiële pool” en de “substantiële pool”, de twee polen waartussen alle manifestatie is voortgebracht.
 
-Het omgekeerde van polarisatie is eenwording, uniformiteit, en ook dit is een van de obsessies van de moderne politicus. Elk onderscheid moet worden bestreden en betwist. Landen moeten opgaan in grotere supranationale organismen, of zelfs grote, mondiale. Culturele en etnische verschillen moeten worden weggemengd, tot we eindigen met een grijs globaal liberalisme en zijn *universele* mensenrechten. Schoonheid is in het oog van de toeschouwer. Het binaire onderscheid tussen man en vrouw is in feite een polair onderscheid, het genderspectrum is zonder grenzen.
+{{< quote
+	text="Uniformiteit, opdat zij mogelijk zou zijn, veronderstelt wezens ontdaan van alle kwaliteiten en gereduceerd tot niets meer dan eenvoudige numerieke “eenheden”."
+	author="René Guénon"
+>}}
+
+Het omgekeerde van polarisatie is eenwording, uniformiteit, en ook dit is een van de obsessies van de moderne politicus. Elk onderscheid moet worden bestreden en betwist. Landen moeten opgaan in grotere supranationale organismen. Culturele en etnische verschillen moeten worden weggemengd, tot we eindigen met een grijs globaal liberalisme en haar *universele* mensenrechten. Schoonheid is in het oog van het individu. Het binaire onderscheid tussen man en vrouw is in feite een polair onderscheid, het genderspectrum is zonder grenzen, zonder polarisatie.
 
 We eindigen met categorieën die alles bevatten, en daardoor helemaal niets bevatten. Dat zonder onderscheid kan net zo goed alles zijn als niets, aangezien het letterlijk ononderscheidbaar is.
 
