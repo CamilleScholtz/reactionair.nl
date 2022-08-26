@@ -4,6 +4,7 @@ subtitle = "Over een zelfvoorzienend Nederland "
 auteurs = ["Jan-Jaap Moltman"]
 date = "2022-08-26"
 themas = "Politiek & Actualiteit"
+dossiers = ["Oekraïne"]
 image = "pm_03.jpg"
 anchor = "Smart"
 +++
