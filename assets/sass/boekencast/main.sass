@@ -30,6 +30,7 @@ footer
 		color: var(--text-color)
 		text-align: right
 		font-weight: 700
+		letter-spacing: 0
 		position: relative
 		z-index: 2
 
@@ -40,6 +41,7 @@ footer
 
 	.quote
 		color: #B35F5A
+		font-weight: 700
 		mix-blend-mode: hard-light
 		position: absolute
 
@@ -69,7 +71,7 @@ footer
 			.pages
 				background: repeating-linear-gradient(to right, #FFF9F6, #E1C8A4 4.75px)
 				border-radius: 3px
-				content: " "
+				content: ' '
 				height: 40.5vh
 				left: 0
 				position: absolute
@@ -78,7 +80,7 @@ footer
 			.back
 				background-color: #5C3020
 				border-radius: 0 3px 3px 0
-				content: " "
+				content: ' '
 				height: 42vh
 				left: 0
 				position: absolute
@@ -104,14 +106,24 @@ footer
 
 		li
 			h2
+				font-family: 'Work Sans', sans-serif
+				font-size: 36px
 				font-weight: 700
+				line-height: 48px
 				margin-top: -31px
+				margin-bottom: 15px
 
 			.number
 				color: var(--popup-background-color)
+				display: inline
 				font-weight: 700
 				font-size: 120px
 				font-style: italic
+				margin-left: -4px
+				margin-top: -66px
+				opacity: 0.5
+				position: absolute
+				z-index: -1
 
 			.listen
 				font-size: 16px
