@@ -2,20 +2,18 @@
 title = "Dialoog II"
 subtitle = "Verdere deliberatie over ongehoorzaamheid"
 auteurs = ["Walt van Toor"]
-date = "2022-08-22"
+date = "2022-08-28"
 themas = "Cultuur & Maatschappij"
 image = "caspar_david_friedrich_zwei_manner_am_meer.jpg"
 anchor = "Smart"
 +++
-**Johan**: Bedankt voor ons [vorige gesprek](https://reactionair.nl/artikelen/dialoog-i/), het heeft me nog meer doen nadenken over de plicht tot verzet in tijden als deze; tijden waarin sprake is van wijdverbreid ongenoegen onder de bevolking. De vanzelfsprekendheid van het openbaar bestuur en de vanzelfsprekendheid van het gezag staan onder druk. Dit komt door belangenverstrengeling, door de leugenachtige ambtenarij en door het gebrek aan controle op uitvoerenden. Achtergestelde, gekleineerde en verontwaardigde burgers dienen het heft in handen te nemen met een besef van eigenwaarde én met zekere trots, zaken die men van niemand kan wegnemen. Zodoende zal georganiseerd protest concreet resultaat opleveren; waardering die ooit vanzelfsprekend was zal hernieuwd worden; het land zal zich daardoor herstellen.
+**Johan**: Bedankt voor ons *[vorige gesprek](https://reactionair.nl/artikelen/dialoog-i/)*, het heeft me nog meer doen nadenken over de plicht tot verzet in tijden als deze; tijden waarin sprake is van wijdverbreid ongenoegen onder de bevolking. De vanzelfsprekendheid van het openbaar bestuur en de vanzelfsprekendheid van het gezag staan onder druk. Dit komt door belangenverstrengeling, door de leugenachtige ambtenarij en door het gebrek aan controle op uitvoerenden. Achtergestelde, gekleineerde en verontwaardigde burgers dienen het heft in handen te nemen met een besef van eigenwaarde én met zekere trots, zaken die men van niemand kan wegnemen. Zodoende zal georganiseerd protest concreet resultaat opleveren; waardering die ooit vanzelfsprekend was zal hernieuwd worden; het land zal zich daardoor herstellen.
 
 **Mark**: Beste Johan, ik ben het met je eens dat er zoiets bestaat als een plicht tot verzet. Het is een van de vele plichten die worden veronachtzaamd door de moderne burger, want de moderne burger maakt zich alleen druk wanneer hij niet krijgt wat hem toekomt. Initiatiefrijk verzet begeestert hem nauwelijks, het beangstigt hem veel meer. Hij denkt de grenzen van toegestaan verzet te moeten bewaken met zijn afkeuring, hij vat autoriteitsargumenten op als interessante gespreksstof, het maakt hem niet uit dat zijn voorkeuren ontstaan door willekeurige verdenkingen. De bekrompen geestesgesteldheid van Nederlanders zorgt ervoor dat ze nog maar drie situaties kennen waar ze op reflecteren: het normaal, het nieuwe normaal en de grillige plaag van bestuurlijke crises.
 
 {{< quote
 	text="De bekrompen geestesgesteldheid van Nederlanders zorgt ervoor dat ze nog maar drie situaties kennen waar ze op reflecteren: het normaal, het nieuwe normaal en de grillige plaag van bestuurlijke crises."
 	author="Mark"
-	aside=true
-
 > }}
 
 **Johan**: Wat probeer je daarmee te zeggen?
@@ -30,8 +28,9 @@ anchor = "Smart"
 
 **Mark**: *Homo homini lupus*, ik denk daar vaak over na. Is de mens een wolf voor zijn medemens? Allicht, maar ik merk op dat onze medemensen op elk moreel appèl reageren als een gebeten hond. Is het juist dat de samenleving een hiërarchie van het kwaad bepaalt en dat er leden van de samenleving zijn die hun handelen afstemmen op die hiërarchie? Waar staat dat God van jou vraagt om het kwaad af te wijzen, maar om sterk te twijfelen bij het categorisch afwijzen ervan? Om die vragen te beantwoorden zoek ik steun bij verschillende schrijvers, de laatste tijd zijn dat Randolph Bourne, Imre Kertész, Simone Weil en Elie Wiesel. We kunnen niet anders dan het kwaad het hoofd bieden, daarbij te leunen op een bepaalde traditie is onmogelijk. *Es gibt unendlich viel Hoffnung, nur nicht für uns.*[^1]
 
-{{< quote text="Es gibt unendlich viel Hoffnung, nur nicht für uns." author="Franz Kafka" aside=true
-
+{{< quote
+	text="Es gibt unendlich viel Hoffnung, nur nicht für uns."
+	author="Franz Kafka"
 > }}
 
 **Johan**: Hoe weet je dan dat je het juiste doet? Hoe weet je wat je moet doen, dat jouw oordelen geldig zijn, dat je opkomt voor de juiste mensen en de juiste belangen? Soms bereik je met je handelen een tegengesteld effect. De leiders van nu dragen verantwoordelijkheden die door ons niet gekend worden en niet gekend kunnen worden.
