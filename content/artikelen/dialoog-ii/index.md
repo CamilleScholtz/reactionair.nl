@@ -14,7 +14,7 @@ anchor = "Smart"
 {{< quote
 	text="De bekrompen geestesgesteldheid van Nederlanders zorgt ervoor dat ze nog maar drie situaties kennen waar ze op reflecteren: het normaal, het nieuwe normaal en de grillige plaag van bestuurlijke crises."
 	author="Mark"
-> }}
+>}}
 
 **Johan**: Wat probeer je daarmee te zeggen?
 
@@ -31,7 +31,7 @@ anchor = "Smart"
 {{< quote
 	text="Es gibt unendlich viel Hoffnung, nur nicht für uns."
 	author="Franz Kafka"
-> }}
+>}}
 
 **Johan**: Hoe weet je dan dat je het juiste doet? Hoe weet je wat je moet doen, dat jouw oordelen geldig zijn, dat je opkomt voor de juiste mensen en de juiste belangen? Soms bereik je met je handelen een tegengesteld effect. De leiders van nu dragen verantwoordelijkheden die door ons niet gekend worden en niet gekend kunnen worden.
 
