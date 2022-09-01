@@ -17,7 +17,7 @@ De Noordpool vertegenwoordigt dan het Paradijs, het oorspronkelijke thuis van al
 
 
 
-[^1]: Een steen waarvan men geloofde dat het toegang verschafte tot een Godheid. Cf. 
+[^1]: van Bet el, lett.: “huis van God”. Een steen waarvan men geloofde dat het toegang verschafte tot een Godheid. Cf. Genesis 28, het verhaal van Jakobs droom: hij nam dien steen, dien hij tot zijn hoofdpeluw gelegd had, en zette hem tot een opgericht teken, en goot daar olie boven op. En hij noemde den naam dier plaats Beth-el.
 
 [^2]:De ὀμφαλός (navel) was een steen bij de tempel van Apollo in Delphi, men geloofde dat deze het middelpunt der aarde aangaf.  
 
