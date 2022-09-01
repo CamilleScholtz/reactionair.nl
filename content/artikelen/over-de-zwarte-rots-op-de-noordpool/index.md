@@ -7,11 +7,10 @@ themas = "Religie & Metafysica"
 image = "1606_mercator_hondius_map_of_the_arctic_-first_map_of_the_north_pole-_-_geographicus_-_northpole-mercator-1606.jpg"
 anchor = "Center"
 +++
-\
 Dit is een vertaald artikel, het origineel is [hier](https://esoterictraditionalism.wordpress.com/2020/08/28/on-the-black-rock-at-the-north-pole/) \
-te lezen.
+te lezen*.*
 
-
+- - -
 
 De opvatting van de noordpool als een zwarte magnetische rots omgeven door een cirkelvormig continent verdeeld door vier machtige rivieren is vrij oud (misschien zelfs teruggaand tot de eerste mens), maar werd misschien voor het eerst enigszins uitvoerig beschreven in een boek uit de veertiende eeuw dat verloren is gegaan genaamd de *Inventio Fortunata* (het is natuurlijk mogelijk dat er eerdere uitgebreidere beschrijvingen zijn die niet zijn opgeschreven, of als ze zijn opgeschreven, volledig verloren zijn gegaan in de loop der tijd). De eerste samenvatting van dit boek is ook verloren gegaan, maar gelukkig was het zo invloedrijk dat alle kaarten die in de eeuwen daarna werden gemaakt deze voorstelling van de noordpool bevatten. Wij zullen hier geen beweringen doen over de stoffelijke verschijning van de huidige Noordpool, maar veeleer trachten de symbolische betekenis te vatten van de kenmerken ervan zoals beschreven in de oudheid en de middeleeuwen.
 
