@@ -13,6 +13,8 @@ enableRobotsTXT = true
 
 ignoreErrors = ["error-output-taxonomy"]
 
+disableHugoGeneratorInject = true
+
 [params]
 	revision = "1661285566"
 
