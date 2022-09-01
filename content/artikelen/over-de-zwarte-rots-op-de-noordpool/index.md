@@ -17,7 +17,7 @@ Nu, als de *Rupes Nigra* (zwarte rots) dan *Materia Prima* voorstelt, wat dan te
 
 De noordpool vertegenwoordigt dan het Paradijs, het oorspronkelijke thuis van allen, waarheen wij verlangen terug te keren.
 
-[^1]: van Bet el, lett.: “huis van God”. Een steen waarvan men geloofde dat het toegang verschafte tot een Godheid. Cf. Genesis 28, het verhaal van Jakobs droom: hij nam dien steen, dien hij tot zijn hoofdpeluw gelegd had, en zette hem tot een opgericht teken, en goot daar olie boven op. En hij noemde den naam dier plaats Beth-el.
+[^1]: Van Bet el, letterlijk “huis van God”. Een steen waarvan men geloofde dat het toegang verschafte tot een Godheid. Vergelijk ook Genesis 28, het verhaal van Jakobs droom: "hij nam dien steen, dien hij tot zijn hoofdpeluw gelegd had, en zette hem tot een opgericht teken, en goot daar olie boven op. En hij noemde den naam dier plaats Beth-el".
 [^2]: De *ὀμφαλός* (navel) was een steen bij de tempel van Apollo in Delphi, men geloofde dat deze het middelpunt der aarde aangaf.
 [^3]: Duitse of Franse mijlen, deze verwarring geeft wellicht aan dat dit niet helemaal letterlijk moet worden genomen.
 [^4]: 1000 (of soms 10000) staat voor geheel of een hele verzameling.
