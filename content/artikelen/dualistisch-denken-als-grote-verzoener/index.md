@@ -14,8 +14,8 @@ Zoals de Engelse taal dit mooi omschrijft: *"The Science is settled"* Maar toch,
 
 Een poll op Twitter deed me besluiten om dit artikel uit te werken. In deze poll werd de Twitteraars de keuze gegeven tussen twee op het oog diametraal contrasterende mensbeelden. De poll luidde *"De mens is een..."*
 
-* geklommen aap
-* gevallen Engel
+* *geklommen aap*
+* *gevallen Engel*
 
 De eindstand van de poll toonde de tweede mogelijkheid met 55% van de stemmen als winnaar. De mens als gevallen Engel dus.
 
