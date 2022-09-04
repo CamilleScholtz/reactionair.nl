@@ -78,8 +78,12 @@ collections:
         widget: "image"
         allow_multiple: false
         choose_url: false
+      - name: "caption"
+        label: "Onderschrift afbeelding"
+        widget: "string"
+        required: false
       - name: "anchor"
-        label: "Uitsnijdvak"
+        label: "Uitsnijdvak afbeelding"
         widget: "select"
         options: ["Smart", "Top", "Center", "Bottom"]
         default: "Smart"

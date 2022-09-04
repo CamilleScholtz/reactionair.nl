@@ -4,11 +4,17 @@
 			<div class="left">
 				{{ $image := .Resources.GetMatch .Params.image }}
 
-				<img 
-					srcset="{{ ($image.Resize "x1024 webp").RelPermalink }} 1x,
-					        {{ ($image.Resize "x2048 webp").RelPermalink }} 2x"
-					src="{{ ($image.Resize "x2048 webp").RelPermalink }}"
-					alt="{{ .Params.caption }}">
+				<figure>
+					<img 
+						srcset="{{ ($image.Resize "x1024 webp").RelPermalink }} 1x,
+						        {{ ($image.Resize "x2048 webp").RelPermalink }} 2x"
+						src="{{ ($image.Resize "x2048 webp").RelPermalink }}"
+						alt="{{ if isset .Params "caption" }}{{ .Params.caption }}{{ else }}{{ .Params.title }}{{ end }}">
+
+					{{ if isset .Params "caption" }}
+						<figcaption>{{ .Params.caption }}</figcaption>
+					{{ end }}
+				</figure>
 			</div>
 
 			<div class="right">

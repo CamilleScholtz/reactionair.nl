@@ -149,12 +149,12 @@ const time = (header) => {
 }
 
 const scroll = (header, main, mobile) => {
-	const logo    = header.querySelector("#logo");
 	const input   = header.querySelector("#search input");
 	const button  = header.querySelector("#search button");
 	const arrow   = header.querySelector(".arrow");
 	const results = header.querySelector(".results");
-	const right   = header.querySelector(".right");
+	const utility = header.querySelector(".utility");
+	const right   = utility.querySelector(".right");
 
 	const headerHeight = header.querySelector("#logo-container").clientHeight + 1;
 	const heroHeight   = main.querySelector(".hero")?.getBoundingClientRect().bottom;
@@ -164,12 +164,8 @@ const scroll = (header, main, mobile) => {
 	let ticking    = false;
 
 	const hide = (scroll) => {
-		if (mobile.matches) {
-			header.style.transform = `translateY(calc(-${headerHeight}px - 15px))`;
-		} else {
-			header.style.transform = `translateY(-${headerHeight}px)`;
-		}
-		logo.style.transform = "translateY(-40px)";
+		header.style.transform = `translateY(-${headerHeight}px)`;
+		utility.style.opacity  = 1;
 
 		input.style.transform    = "rotateY(90deg)";
 		button.style.transform   = "rotateY(0deg)";
@@ -184,17 +180,9 @@ const scroll = (header, main, mobile) => {
 
 	const show = (scroll) => {
 		header.style.transform = "translateY(0px)";
-		logo.style.transform   = "translateY(0px)";
+		utility.style.opacity  = 0;
 
 		hidden = false;
-	}
-
-	const utility = (scroll) => {
-		if (scroll < heroHeight) {
-			return;
-		}
-
-		right.style.transform = "translateX(0px)";
 	}
 
 	window.addEventListener("scroll", () => {
@@ -205,8 +193,6 @@ const scroll = (header, main, mobile) => {
 			}, 100);
 
 			const scroll = window.scrollY;
-
-			utility(scroll);
 
 			if (scroll < 40) {
 				if (hidden) {

@@ -1,6 +1,5 @@
 header
 	display: grid
-	justify-content: center
 	position: sticky
 	top: 0px
 	transition: transform .2s
@@ -13,16 +12,16 @@ header
 
 		#logo
 			background-color: #A62F27
+			display: flex
+			font-variant: small-caps
 			height: 0
-			justify-self: center
 			position: relative
-			top: 15px
-			transform-origin-y: 15px
 			transition: all .3s .1s
+			letter-spacing: 1.5px
 			z-index: 99
 
-			&:hover
-				transform: scale(1.05) translateY(2px) !important
+			img
+				margin-right: 30px
 
 		#search
 			position: absolute
@@ -109,6 +108,25 @@ header
 						color: var(--accent-color)
 						font-family: 'Courier Prime', monospace
 						font-size: 13px
+
+	.utility
+		align-items: center
+		background: var(--background-color)
+		border-bottom: 1px dashed var(--border-color)
+		display: flex
+		font-family: 'Courier Prime', monospace
+		font-size: 13px
+		height: 55px
+		transition: opacity 0.1s
+		opacity: 0
+		margin-bottom: -56px
+
+		.right
+			color: var(--text-color)
+			margin-right: 40px
+			text-align: right 
+			text-transform: uppercase
+
 
 #logo:hover ~ #logo-container > #logo-background
 	box-shadow: 0 10px 60px -6px rgba(108, 19, 15, 0.35)

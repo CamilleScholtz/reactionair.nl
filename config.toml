@@ -16,7 +16,7 @@ ignoreErrors = ["error-output-taxonomy"]
 disableHugoGeneratorInject = true
 
 [params]
-	revision = "1661285566"
+	revision = "847"
 
 [taxonomies]
 	auteur     = "auteurs"
