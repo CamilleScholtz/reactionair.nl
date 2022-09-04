@@ -2,17 +2,12 @@
 title = "Dualistisch denken als grote verzoener"
 subtitle = "Over het licht van de Zwarte Zon"
 auteurs = ["Tom van Giersbergen"]
-date = "2022-09-03"
+date = "2022-09-04"
 themas = "Religie & Metafysica"
 aangehaald = ["Aristoteles"]
 image = "a.jpg"
 anchor = "Smart"
 +++
-{{< quote
-	text="Het is een teken van een ontwikkelde geest om met een gedachte te kunnen spelen zonder die te accepteren."
-	author="Aristoteles"
->}}
-
 In deze tijden waarin de moderne westerling zich gedwongen ziet om zijn hele wereldbeschouwing opnieuw tegen het licht te houden zien we in de marge ook bepaalde zaken opnieuw ter discussie gesteld worden waarvan de discussie voor eens en altijd gevoerd leek.
 
 Zoals de Engelse taal dit mooi omschrijft: *"The Science is settled"* Maar toch, na het pionierswerk van de vroege astronomen, de grote ontdekkers en denkers uit de Renaissance en na de eeuwen die zouden volgen waarin het wetenschappelijke model ons denken en ons begrip van het universum vorm heeft gekregen lijken er met het wankelen van het naoorlogse westers liberalisme barsten te ontstaan in het granieten beeldhouwwerk genaamd 'wetenschap'. Met de politisering van de academische wereld en het groeiende aantal ideologisch gemotiveerde wetenschappers is het ook geen onnodige luxe dat het beeldhouwwerk van de wetenschap eens werd opgeschud.
@@ -27,6 +22,11 @@ De eindstand van de poll toonde de tweede mogelijkheid met 55% van de stemmen al
 Een jongedame reageerde in de reacties met "allebei"
 
 Hoe kan iemand tegelijkertijd het scheppingsverhaal en de evolutietheorie aanhangen? Het lijkt een onverzoenbare tegenstelling. Een andere voorheen als onbetwiste zekerheid geaccepteerde kijk op de wereld die desondanks een groeiende gemeenschap van revisionisten kent is het heliocentrisch model van ons zonnestelsel. Het welbekende model van het universum waarin onze Aarde, een ronde planeet die om z'n eigen as draait en samen met de andere hemellichamen een baan beschrijft rondom onze zon, die op zijn beurt weer onderdeel is van honderdduizenden andere sterren die een baan beschrijven rondom een hete, compact massa in het centrum van ons melkwegstelsel. En dit onvoorstelbaar groot melkwegstelsel is op zijn beurt weer één van de ontelbare melkwegstelsels die zich langzaam van elkaar verwijderen in een uitdijend universum. De uitdaging van het heliocentrisch model komt in de vorm van een groeiende gemeenschap van mensen die de platte aarde theorie aanhangen.
+
+{{< quote
+	text="Het is een teken van een ontwikkelde geest om met een gedachte te kunnen spelen zonder die te accepteren."
+	author="Aristoteles"
+>}}
 
 Toen ik de eerste keer van deze gemeenschap hoorde was hoongelach mijn eerste reactie. De jaren verstreken en de groep mensen met vraagtekens bij het alom geaccepteerde model van het universum groeide gestaag en bleef even sterk geloven in hun theorie. Toen ikzelf steeds meer vragen ging stellen bij het totaalplaatje van de werkelijkheid zoals het ons door media, onderwijs, gevestigde wetenschappelijke wereld en de politiek voorgeschoteld wordt kwam ik ook in contact met steeds meer aanhangers van de platte aarde theorie. Mijn oude aanname aangaande deze mensen als ware het knettergekke, wereldvreemde zonderlingen die teveel geestverruimende middelen genomen hadden klopte niet. Meestal ging het om intelligente, sociale en goedaardige mensen. Wat is er dan aan de hand?
 
