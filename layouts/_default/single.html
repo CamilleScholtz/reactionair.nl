@@ -23,7 +23,7 @@
 				<h1>{{ .Params.title }}</h1>
 				<h2>{{ .Params.subtitle }}</h2>
 
-				<p class="authors">Door
+				<p class="authors"><span>door</span>
 					{{ range $index, $author := .Params.auteurs }}
 						<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>{{ if ne (add $index 1) (len $.Params.auteurs) }},{{ end }}
 					{{ end }}
