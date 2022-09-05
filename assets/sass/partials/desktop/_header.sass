@@ -5,7 +5,7 @@ header
 		height: 100px
 
 		#logo
-			font-size: 25px
+			font-size: 18px
 			line-height: 100px
 
 		#search
@@ -17,9 +17,25 @@ header
 						background: var(--background-color)
 
 	.utility
+		align-items: center
+		background: var(--background-color)
+		border-bottom: 1px dashed var(--border-color)
+		display: flex
+		font-family: 'Courier Prime', monospace
+		font-size: 13px
+		height: 55px
 		justify-content: space-between
+		transition: opacity 0.1s
+		opacity: 0
+		margin-bottom: -56px
 
 		.left
 			color: var(--accent-color)
 			margin-left: 40px
 			text-align: left
+
+		.right
+			color: var(--text-color)
+			margin-right: 40px
+			text-align: right 
+			text-transform: uppercase

@@ -165,7 +165,10 @@ const scroll = (header, main, mobile) => {
 
 	const hide = (scroll) => {
 		header.style.transform = `translateY(-${headerHeight}px)`;
-		utility.style.opacity  = 1;
+		if (!mobile.matches) {
+			utility.style.opacity = 1;
+		}
+		
 
 		input.style.transform    = "rotateY(90deg)";
 		button.style.transform   = "rotateY(0deg)";
@@ -180,7 +183,9 @@ const scroll = (header, main, mobile) => {
 
 	const show = (scroll) => {
 		header.style.transform = "translateY(0px)";
-		utility.style.opacity  = 0;
+		if (!mobile.matches) {
+			utility.style.opacity = 0;
+		}
 
 		hidden = false;
 	}
