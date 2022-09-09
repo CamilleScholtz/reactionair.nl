@@ -1,13 +1,13 @@
 +++
-title = "De macht van de tolk [toestemming auteur ontbreekt nog]"
+question = "Wat zijn uw gedachten over dit artikel?"
+title = "De macht van de tolk"
 subtitle = "Een waarschuwing"
-auteurs = ["Philip van Houten"]
-date = "2022-07-04"
+auteurs = ["De redactie"]
+date = "2022-09-09"
 themas = "Cultuur & Maatschappij"
 aangehaald = ["Socrates"]
 image = "native.jpg"
 anchor = "Center"
-question = "Wat zijn uw gedachten over dit artikel?"
 +++
 Dit is een vertaling van een transcriptie van een podcast door Asha Logos genaamd *In Pursuit of Clarity, Episode #14: The Power of the Interpreter*. Hierin beschrijft hij hoe tolken de macht hebben om woorden te verdraaien, woorden weg te laten en woorden toe te voegen. De vertolking van zijn woorden is hier zo eerlijk mogelijk gedaan maar ik raad de lezer aan om ook naar het origineel te luisteren.
 
