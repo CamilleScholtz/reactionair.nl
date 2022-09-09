@@ -1,5 +1,4 @@
 +++
-question = "Wat zijn uw gedachten over dit artikel?"
 title = "De macht van de tolk"
 subtitle = "Een waarschuwing"
 auteurs = ["De redactie"]
