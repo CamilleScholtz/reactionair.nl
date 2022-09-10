@@ -3,7 +3,7 @@ anchor = 'Top'
 auteurs = ['v. Stormberg']
 date = '2022-06-20'
 subtitle = 'José Calvo Sotelo en het begin van de Spaanse Burgeroorlog'
-themas = 'Recensie & Biografie'
+themas = 'Recensie en Biografie'
 title = 'Onhoudbare maanden'
 image = "thumb.webp"
 +++

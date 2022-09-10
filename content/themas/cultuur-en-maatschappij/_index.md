@@ -1,7 +1,6 @@
 +++
 description = 'Artikelen over de cultuur, maatschappij, geschiedenis, cultuur, kunst, en meer.'
-heading = 'Cultuur & Maatschappij'
+heading = 'Cultuur <i>en</i> Maatschappij'
 title = 'Cultuur & Maatschappij'
-
 +++
 

@@ -3,7 +3,7 @@ aangehaald = ['George Berkeley', 'Pythagoras']
 auteurs = ['De Melancholieke Nar']
 date = '2022-02-01'
 subtitle = 'Waarom het streven naar objectiviteit een doodlopend pad is, deel 2'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Een lesje grammatica, een lesje metafysica'
 image = "thumb.webp"
 +++

@@ -4,7 +4,7 @@ auteurs = ['Sanura']
 date = '2021-10-05'
 dossiers = ['Woke']
 subtitle = 'Misbruikers moeten kinderen weerbaar maken tegen misbruik'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = 'They pee on your leg and tell you it’s raining'
 image = "thumb.webp"
 +++

@@ -4,7 +4,7 @@ auteurs = ['Camille Meloen']
 date = '2022-06-17'
 dossiers = ['Islam']
 subtitle = 'Een verzameling apofatische gedichten en citaten'
-themas = 'Recensie & Biografie'
+themas = 'Recensie en Biografie'
 title = 'God ontzeggen'
 image = "thumb.webp"
 +++

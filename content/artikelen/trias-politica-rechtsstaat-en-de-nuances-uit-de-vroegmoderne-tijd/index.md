@@ -3,7 +3,7 @@ aangehaald = ['Thierry Baudet', 'Immanuel Kant', 'C. S. Lewis', 'Jean-Jacques Ro
 auteurs = ['Sanura']
 date = '2022-04-28'
 subtitle = "De l'Esprit des Lois 2.0, deel 2"
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Trias politica, rechtsstaat en de nuances uit de vroegmoderne tijd'
 image = "thumb.webp"
 +++

@@ -3,7 +3,7 @@ aangehaald = ['René Descartes', 'Oswald Spengler']
 auteurs = ['Jurbin van Hooff']
 date = '2021-11-25'
 subtitle = 'Wordt onze samenleving gegijzeld door een gemechaniseerd wereldbeeld?'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = 'De mechanisering van de wereld'
 image = "thumb.webp"
 +++

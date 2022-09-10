@@ -4,7 +4,7 @@ auteurs = ['Camille Meloen']
 date = '2022-05-02'
 dossiers = ['Islam']
 subtitle = 'al-Tawhīdu wāhidun'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'De leer van de Eenheid is één'
 image = "thumb.webp"
 +++

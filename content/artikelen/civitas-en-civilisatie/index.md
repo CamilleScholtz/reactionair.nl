@@ -3,7 +3,7 @@ title = "Civitas en civilisatie"
 subtitle = "Het belang van vriendschap en loyaliteit"
 auteurs = ["De Melancholieke Nar"]
 date = "2022-07-03"
-themas = "Cultuur & Maatschappij"
+themas = "Cultuur en Maatschappij"
 image = "discurso_funebre_pericles.png"
 anchor = "Smart"
 +++

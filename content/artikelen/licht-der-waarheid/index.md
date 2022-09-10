@@ -4,7 +4,7 @@ auteurs = ['Sanura']
 date = '2022-02-11'
 dossiers = ['Christendom']
 subtitle = 'Een reactie op ‘Overdenkingen over de parabel van de blinden en de olifant’'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Licht der waarheid'
 image = "thumb.webp"
 +++

@@ -3,7 +3,7 @@ anchor = 'Center'
 auteurs = ['De redactie']
 date = '2022-05-31'
 subtitle = 'Drie machten die samenspannen tegen de middenklasse'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Liberalisme, progressivisme en links'
 image = "thumb.webp"
 +++

@@ -5,9 +5,11 @@
 			img
 				height: 200px
 
+	&.featured
+		width: calc(100vw - 40px)
+
 		.text
-			text-align: center
-			padding: 20px
+			padding-bottom: 20px
 
 			h2
 				font-size: 32px
@@ -16,6 +18,14 @@
 			h3
 				font-size: 20px
 				line-height: 32px
+
+	&.large
+		.text
+			margin-top: 30px
+		
+			h2
+				font-size: 28px
+				line-height: 30px
 
 	&.small
 		grid-template-columns: auto 100px

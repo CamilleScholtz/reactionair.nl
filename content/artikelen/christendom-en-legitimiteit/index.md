@@ -4,7 +4,7 @@ auteurs = ['Sanura']
 date = '2021-12-29'
 dossiers = ['Christendom']
 subtitle = 'Autoriteit versus macht'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Christendom en legitimiteit'
 image = "thumb.webp"
 +++

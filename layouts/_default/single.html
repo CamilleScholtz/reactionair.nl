@@ -18,16 +18,14 @@
 			</div>
 
 			<div class="right">
-				<a class="category" href="/themas/{{ urlize .Params.themas }}">{{ .Params.themas }}</a>
-			
-				<h1>{{ .Params.title }}</h1>
-				<h2>{{ .Params.subtitle }}</h2>
-
-				<p class="authors"><span>door</span>
+				<div class="authors">
 					{{ range $index, $author := .Params.auteurs }}
 						<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>{{ if ne (add $index 1) (len $.Params.auteurs) }},{{ end }}
 					{{ end }}
-				</p>
+				</div>
+
+				<h1>{{ .Params.title }}</h1>
+				<h2>{{ .Params.subtitle }}</h2>
 			</div>
 		</section>
 

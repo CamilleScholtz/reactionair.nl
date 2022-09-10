@@ -3,7 +3,7 @@ aangehaald = ['Charles Darwin', 'Friedrich Nietzsche']
 auteurs = ['Alexander Wolfheze']
 date = '2021-12-23'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 1'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = 'Devolutie theorie'
 image = "thumb.webp"
 +++

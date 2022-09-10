@@ -4,7 +4,7 @@ auteurs = ['Rintrah Radagast', 'De Melancholieke Nar']
 date = '2022-04-03'
 dossiers = ['Oekraïne']
 subtitle = 'Een baudrillardiaanse visie'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Het hyperreeële presidentschap van de acteur Zelenski'
 image = "thumb.webp"
 +++

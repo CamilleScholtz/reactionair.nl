@@ -4,7 +4,7 @@ anchor = 'Center'
 auteurs = ['Tólma']
 date = '2022-05-11'
 subtitle = 'Descartes over verwondering en wijsheid'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Domme vragen'
 image = "thumb.webp"
 +++

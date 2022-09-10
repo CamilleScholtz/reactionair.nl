@@ -3,7 +3,7 @@ auteurs = ['Sanura']
 date = '2022-04-06'
 dossiers = ['Oekraïne']
 subtitle = 'Hongarije en de EU'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'De dreigende storm in het Oosten'
 image = "thumb.webp"
 +++

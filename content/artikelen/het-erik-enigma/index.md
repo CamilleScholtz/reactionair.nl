@@ -3,7 +3,7 @@ aangehaald = ['Erik von Kuehnelt-Leddihn', 'Karl Marx']
 auteurs = ['Sanura']
 date = '2021-10-09'
 subtitle = 'Extreemrechtse liberaal'
-themas = 'Recensie & Biografie'
+themas = 'Recensie en Biografie'
 title = 'Het Erik Enigma'
 image = "thumb.webp"
 +++

@@ -2,7 +2,7 @@
 auteurs = ['Marit Elechan']
 date = '2022-03-06'
 subtitle = 'Waarom hebben de hoogste autoriteiten soms zulke wereldvreemde meningen?'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = 'De expert als geleerde dommerik'
 image = "thumb.webp"
 +++

@@ -4,7 +4,7 @@ anchor = 'Top'
 auteurs = ['Camille Meloen']
 date = '2021-10-02'
 subtitle = 'Onderzoek naar een onbekende auteur'
-themas = 'Recensie & Biografie'
+themas = 'Recensie en Biografie'
 title = 'Tussen twee oorlogen: Anton Kerssemakers'
 image = "thumb.webp"
 +++

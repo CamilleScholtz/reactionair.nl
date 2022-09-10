@@ -4,7 +4,7 @@ anchor = 'Center'
 auteurs = ['Sanura']
 date = '2022-05-05'
 subtitle = 'De vergeten geschiedenis van conservatief verzet, de bevrijding en Neurenberg'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'De Nazi-Antifa Alliantie'
 image = "thumb.webp"
 +++

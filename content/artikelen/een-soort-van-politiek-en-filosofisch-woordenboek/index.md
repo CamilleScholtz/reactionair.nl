@@ -3,7 +3,7 @@ aangehaald = ['Thomas van Aquino', 'Erik von Kuehnelt-Leddihn', 'Plato']
 auteurs = ['Sanura']
 date = '2022-04-16'
 subtitle = "De l'Esprit des Lois 2.0, deel 1"
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Een soort van politiek en filosofisch woordenboek'
 image = "thumb.webp"
 +++

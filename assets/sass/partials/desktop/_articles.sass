@@ -12,29 +12,32 @@
 
 		.text
 			padding: 30px
+			padding-top: 0px
+			text-align: center
 
 			h2
 				font-size: 36px
 				letter-spacing: 1.8px
 				line-height: 46px
-				text-transform: uppercase
 
 			h3
 				font-size: 24px
-				font-style: italic
 				line-height: 32px
 
 	&.large
-		height: calc(600px / 2 - 13px)
+		border-bottom: 1px dashed var(--border-color)
+		height: calc((600px / 2) - 20px - 0.5px)
+		padding-bottom: 20px
+
+		&:last-of-type
+			border-bottom: none
+			padding-bottom: 0px
 
 	&.small
 		border-bottom: 1px dashed var(--border-color)
-		grid-template-columns: auto 4vw
-		height: calc(600px / 4 - (13px * 3))
-		padding-bottom: 13px
-
-		figure
-			width: 4vw
+		grid-template-columns: auto 25%
+		height: calc((600px / 4) + 10px - (20px * 3) + (1px * 4))
+		padding-bottom: 20px
 
 		&:last-of-type
 			border-bottom: none

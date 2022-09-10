@@ -2,7 +2,7 @@
 auteurs = ['Stained Glass Zealot']
 date = '2022-04-13'
 subtitle = 'Over de betekenis van religie'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Ik ben niet gelovig maar...'
 image = "thumb.webp"
 +++

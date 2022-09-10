@@ -4,7 +4,7 @@ auteurs = ['Dennis Honing']
 date = '2021-11-09'
 dossiers = ['Conservatieve Alliantie', 'Islam']
 subtitle = 'Traditionalisme als genezing voor het postmodernisme'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Dennis Honing ‘hoe echt om te gaan met diversiteit in Nederland’'
 image = "thumb.webp"
 +++

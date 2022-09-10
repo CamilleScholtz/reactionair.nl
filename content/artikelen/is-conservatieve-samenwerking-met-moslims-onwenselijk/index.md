@@ -4,7 +4,7 @@ auteurs = ['Dennis Honing']
 date = '2022-01-15'
 dossiers = ['Islam', 'Conservatieve Alliantie']
 subtitle = 'Een reactie op ‘tegen een politiek verbond met moslims’'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Is conservatieve samenwerking met moslims onwenselijk?'
 image = "thumb.webp"
 +++

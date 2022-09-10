@@ -4,7 +4,7 @@ auteurs = ['Sanura']
 date = '2022-03-19'
 dossiers = ['Christendom']
 subtitle = 'Traditie=historische context'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Was Jezus een Reactionair?'
 image = "thumb.webp"
 +++

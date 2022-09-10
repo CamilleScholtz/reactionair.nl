@@ -4,7 +4,7 @@ auteurs = ['De Melancholieke Nar']
 date = '2022-04-09'
 dossiers = ['Woke']
 subtitle = 'Twitter als toneel van de strijd om sociaal prestige'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = 'Autistische internetfascisten versus bioleninisten'
 image = "thumb.webp"
 +++

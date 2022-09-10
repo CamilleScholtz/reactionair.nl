@@ -3,7 +3,7 @@ auteurs = ['Paars van Grinsterer']
 date = '2022-03-02'
 dossiers = ['Christendom']
 subtitle = 'Over de functie van de 40 dagentijd en het ritueel van het askruis'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Nederland, omarm Aswoensdag'
 image = "thumb.webp"
 +++

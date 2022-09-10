@@ -4,7 +4,7 @@ auteurs = ['Jan de Maansnijder']
 date = '2022-06-04'
 dossiers = ['Christendom']
 subtitle = 'De uitersten ontmoeten elkaar in het niets'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Over Niets'
 image = "thumb.webp"
 +++

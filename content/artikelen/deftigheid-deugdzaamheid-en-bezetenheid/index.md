@@ -3,7 +3,7 @@ aangehaald = ['Rutger Bregman', 'Jacues Ellul', 'Immanuel Kant', 'Robert Lemm']
 auteurs = ['Walt van Toor']
 date = '2022-04-21'
 subtitle = 'Overweging over het mensbeeld van de meeste mensen'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = 'Deftigheid, deugdzaamheid en bezetenheid'
 image = "thumb.webp"
 +++

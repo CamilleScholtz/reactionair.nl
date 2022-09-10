@@ -3,7 +3,7 @@
 
 	{{ with site.GetPage (printf "/%s/%s" .section (urlize .term)) }}
 		<div class="description">
-			<h2>{{ .Params.heading }}</h2>
+			<h2>{{ .Params.heading | safeHTML }}</h2>
 		</div>
 	{{ end }}
 

@@ -3,7 +3,7 @@ title = "De marge omarmen"
 subtitle = "Stap in, lullo, we gaan naar Hyperborea"
 auteurs = ["De redactie"]
 date = "2022-08-18"
-themas = "Politiek & Actualiteit"
+themas = "Politiek en Actualiteit"
 image = "egpfllzu8aahd9d.jpeg"
 anchor = "Smart"
 +++

@@ -1,20 +1,20 @@
 <a href="{{ .context.RelPermalink }}" class="article small">
-	{{ $image  := .context.Resources.GetMatch .context.Params.image }}
-	{{ $anchor := "Smart" }}
-	{{ if isset .context.Params "anchor" }}
-		{{ $anchor = .context.Params.anchor }}
-	{{ end }}
-
 	<div class="text">
+		<div class="author">{{ delimit .context.Params.auteurs ", " " & " }}</div>
 		<h2>{{ .context.Params.title }}</h2>
-		<p class="author">{{ delimit .context.Params.auteurs ", " " & " }}</p>
 	</div>
 
 	<figure>
+		{{ $image  := .context.Resources.GetMatch .context.Params.image }}
+		{{ $anchor := "Smart" }}
+		{{ if isset .context.Params "anchor" }}
+			{{ $anchor = .context.Params.anchor }}
+		{{ end }}
+
 		<img
-			srcset="{{ ($image.Fill (printf "77x111 webp %s" $anchor)).RelPermalink }} 1x,
-			        {{ ($image.Fill (printf "154x222 webp %s" $anchor)).RelPermalink }} 2x"
-			src="{{ ($image.Fill (printf "154x222 webp %s" $anchor)).RelPermalink }}"
+			srcset="{{ ($image.Fill (printf "78x104 webp %s" $anchor)).RelPermalink }} 1x,
+			        {{ ($image.Fill (printf "155x208 webp %s" $anchor)).RelPermalink }} 2x"
+			src="{{ ($image.Fill (printf "155x208 webp %s" $anchor)).RelPermalink }}"
 			alt="{{ .context.Params.title }}">
 	</figure>
 </a>

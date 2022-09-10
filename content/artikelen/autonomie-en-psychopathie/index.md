@@ -3,7 +3,7 @@ aangehaald = ['C. S. Lewis', 'Aristoteles']
 auteurs = ['Philip van Houten']
 date = '2021-11-18'
 subtitle = 'Hoe individuen autonomie na kunnen streven in de consumptiemaatschappij'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = 'Autonomie en psychopathie'
 image = "thumb.webp"
 +++

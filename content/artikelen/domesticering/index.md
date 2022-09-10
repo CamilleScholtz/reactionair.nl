@@ -3,7 +3,7 @@ aangehaald = ['Thierry Baudet', 'Carl Schmitt']
 auteurs = ['Alexander Wolfheze']
 date = '2022-01-02'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 3'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = 'Domesticering'
 image = "thumb.webp"
 +++

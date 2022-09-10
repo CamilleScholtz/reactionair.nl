@@ -4,7 +4,7 @@ anchor = 'Top'
 auteurs = ['Camille Meloen']
 date = '2021-11-21'
 subtitle = 'Over de omgekeerde analogie'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'God en vrijheid'
 image = "thumb.webp"
 +++

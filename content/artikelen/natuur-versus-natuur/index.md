@@ -3,7 +3,7 @@ aangehaald = ['René Guénon', 'Aristoteles']
 auteurs = ['Camille Meloen']
 date = '2021-10-14'
 subtitle = 'Een modern misverstand'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Natuur versus natuur'
 image = "thumb.webp"
 +++

@@ -1,25 +1,25 @@
 <a href="{{ .context.RelPermalink }}" class="article large">
-	{{ if not .imageless }}
-		{{ $image  := .context.Resources.GetMatch .context.Params.image }}
-		{{ $anchor := "Smart" }}
-		{{ if isset .context.Params "anchor" }}
-			{{ $anchor = .context.Params.anchor }}
-		{{ end }}
+	<div class="text">
+		<div class="author">{{ delimit .context.Params.auteurs ", " " & " }}</div>
+		<h2>{{ .context.Params.title }}</h2>
+	</div>
 
+	{{ if not .imageless }}
 		<figure>
+			{{ $image  := .context.Resources.GetMatch .context.Params.image }}
+			{{ $anchor := "Smart" }}
+			{{ if isset .context.Params "anchor" }}
+				{{ $anchor = .context.Params.anchor }}
+			{{ end }}
+
 			<img
-				srcset="{{ ($image.Fill (printf "331x180 webp %s" $anchor)).RelPermalink }} 1x,
-				        {{ ($image.Fill (printf "662x360 webp %s" $anchor)).RelPermalink }} 2x"
-				src="{{ ($image.Fill (printf "662x360 webp %s" $anchor)).RelPermalink }}"
+				srcset="{{ ($image.Fill (printf "310x180 webp %s" $anchor)).RelPermalink }} 1x,
+				        {{ ($image.Fill (printf "620x359 webp %s" $anchor)).RelPermalink }} 2x"
+				src="{{ ($image.Fill (printf "620x359 webp %s" $anchor)).RelPermalink }}"
 				{{ if .lazy }}
 					loading="lazy"
 				{{ end }}
 				alt="{{ .context.Params.title }}">
 		</figure>
 	{{ end }}
-
-	<div class="text">
-		<h2>{{ .context.Params.title }}</h2>
-		<p class="author">{{ delimit .context.Params.auteurs ", " " & " }}</p>
-	</div>
 </a>

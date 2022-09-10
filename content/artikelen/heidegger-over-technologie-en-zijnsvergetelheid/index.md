@@ -4,7 +4,7 @@ anchor = 'Center'
 auteurs = ['De redactie']
 date = '2022-05-28'
 subtitle = 'Heidegger en onze Terminator-toekomst, deel 1'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Het wezen van de technologie'
 image = "thumb.webp"
 +++

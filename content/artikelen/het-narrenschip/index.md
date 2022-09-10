@@ -4,7 +4,7 @@ auteurs = ['De redactie']
 date = '2022-02-21'
 noindex = true
 subtitle = 'Een allegorie van wokisme avant la lettre'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Het narrenschip'
 image = "thumb.webp"
 +++

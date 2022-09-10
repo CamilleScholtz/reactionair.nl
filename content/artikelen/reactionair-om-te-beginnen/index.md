@@ -5,7 +5,7 @@ auteurs = ['Robert Lemm']
 date = '2021-11-29'
 dossiers = ['Christendom']
 subtitle = 'Fragment uit een boek in voorbereiding'
-themas = 'Recensie & Biografie'
+themas = 'Recensie en Biografie'
 title = 'Reactionair, om te beginnen'
 image = "thumb.webp"
 +++

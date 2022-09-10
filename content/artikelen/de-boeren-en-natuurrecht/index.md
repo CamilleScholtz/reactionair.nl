@@ -4,7 +4,7 @@ anchor = 'Center'
 auteurs = ['Sanura']
 date = '2022-06-13'
 subtitle = 'Hoe hebben we dit kookpunt bereikt en wat kunnen we verwachten van hun woede?'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'De boeren en natuurrecht!'
 image = "thumb.webp"
 +++

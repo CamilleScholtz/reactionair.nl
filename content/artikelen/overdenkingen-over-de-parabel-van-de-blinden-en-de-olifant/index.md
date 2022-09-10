@@ -3,7 +3,7 @@ aangehaald = ['Thomas van Aquino', 'Immanuel Kant', 'Oswald Spengler']
 auteurs = ['De Melancholieke Nar']
 date = '2022-01-27'
 subtitle = 'Waarom het streven naar objectiviteit een doodlopend pad is, deel 1'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Overdenkingen over de parabel van de blinden en de olifant'
 image = "thumb.webp"
 +++

@@ -3,7 +3,7 @@ aangehaald = ['George Berkeley', 'René Descartes', 'Fjodor Dostojevski', 'Marti
 auteurs = ['De Melancholieke Nar']
 date = '2022-02-09'
 subtitle = 'Waarom het streven naar objectiviteit een doodlopend pad is, deel 3'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Hoe God verstoppertje speelt met zichzelf'
 image = "thumb.webp"
 +++

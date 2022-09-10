@@ -4,7 +4,7 @@ auteurs = ['Eco al-Hollandi']
 date = '2022-02-28'
 dossiers = ['Islam']
 subtitle = 'Drie ideeën met dezelfde oorsprong'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Kolonialisme, kapitalisme en liberalisme'
 image = "thumb.webp"
 +++

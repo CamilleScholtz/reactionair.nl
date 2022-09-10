@@ -4,7 +4,7 @@ auteurs = ['Cedrik Vandooren']
 date = '2022-04-25'
 draft = true
 subtitle = 'Het muzikaal verval in de 20e eeuw'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = 'Ontluisterend luisteren'
 image = "thumb.webp"
 +++

@@ -4,7 +4,7 @@ auteurs = ['Vrederijk']
 date = '2021-10-28'
 dossiers = ['Woke']
 subtitle = 'Afscheid van een achterhaald begrip'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Honey Pot en de definitie van “rechts”'
 image = "thumb.webp"
 +++

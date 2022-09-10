@@ -3,7 +3,7 @@ aangehaald = ['Jacues Ellul']
 auteurs = ['De redactie']
 date = '2022-05-08'
 subtitle = 'Het spectrum van geweld'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = 'Welkom in de netwerkoorlog'
 image = "thumb.webp"
 +++

@@ -4,7 +4,7 @@ auteurs = ['Robert Lemm']
 date = '2022-03-11'
 dossiers = ['Oekraïne']
 subtitle = 'Over NAVO, Rusland en Oekraïne'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Het recht van de sterkste'
 image = "thumb.webp"
 +++

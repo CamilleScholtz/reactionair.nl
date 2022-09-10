@@ -4,7 +4,7 @@ auteurs = ['Mootje']
 date = '2021-12-26'
 dossiers = ['Conservatieve Alliantie', 'Islam']
 subtitle = 'Van een Marokkaan'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Boodschap aan de Germaan'
 image = "thumb.webp"
 +++

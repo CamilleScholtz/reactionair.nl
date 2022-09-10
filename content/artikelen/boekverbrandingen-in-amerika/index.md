@@ -3,7 +3,7 @@ anchor = 'Center'
 auteurs = ['Paars van Grinsterer']
 date = '2022-05-12'
 subtitle = 'Hoe de MSM desinformatie verspreidt over censuur'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Boekverbrandingen in Amerika?'
 image = "thumb.webp"
 +++

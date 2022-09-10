@@ -3,7 +3,7 @@ title = "Dialoog I"
 subtitle = "Thoreau en de plicht tot burgerlijke ongehoorzaamheid"
 auteurs = ["Walt van Toor"]
 date = "2022-07-17"
-themas = "Cultuur & Maatschappij"
+themas = "Cultuur en Maatschappij"
 image = "caspar_david_friedrich_-_mondaufgang_-ca.1835-37-.jpg"
 anchor = "Smart"
 +++

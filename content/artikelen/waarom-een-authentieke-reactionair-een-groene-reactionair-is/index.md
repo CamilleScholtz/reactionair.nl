@@ -4,7 +4,7 @@ auteurs = ['Jan-Willem Veldhuizen']
 date = '2021-11-17'
 dossiers = ['Klimaatverandering']
 subtitle = 'Over ecologie'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Waarom een authentieke reactionair een groene reactionair is'
 image = "thumb.webp"
 +++

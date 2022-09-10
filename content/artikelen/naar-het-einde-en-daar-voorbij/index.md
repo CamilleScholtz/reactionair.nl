@@ -3,7 +3,7 @@ aangehaald = ['René Guénon', 'Martin Heidegger', 'Martin Lings']
 auteurs = ['Camille Meloen']
 date = '2021-10-21'
 subtitle = 'Gedachten over het Onbegrensde'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Naar het einde en daar voorbij!'
 image = "thumb.webp"
 +++

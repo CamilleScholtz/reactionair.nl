@@ -4,7 +4,7 @@ anchor = 'Center'
 auteurs = ['Dennis Honing']
 date = '2022-05-06'
 subtitle = 'De enige dandy-salafist van Nederland'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'In gedachte Pim Fortuyn'
 image = "thumb.webp"
 +++

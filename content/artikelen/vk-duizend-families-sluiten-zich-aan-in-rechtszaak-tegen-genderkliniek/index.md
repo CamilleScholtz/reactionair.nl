@@ -3,7 +3,7 @@ title = "Verenigd Koninkrijk: Duizend families sluiten zich aan in rechtszaak te
 subtitle = "Nederlandse media opvallend stil"
 auteurs = ["Paars van Grinsterer"]
 date = "2022-08-11"
-themas = "Politiek & Actualiteit"
+themas = "Politiek en Actualiteit"
 image = "kid.jpg"
 anchor = "Smart"
 +++

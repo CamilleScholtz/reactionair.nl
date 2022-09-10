@@ -3,7 +3,7 @@ auteurs = ['Eco al-Hollandi']
 date = '2022-06-15'
 dossiers = ['Woke']
 subtitle = 'Drogreden of werkelijkheid?'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Reflectie op de glijdende schaal'
 image = "thumb.webp"
 +++

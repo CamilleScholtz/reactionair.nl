@@ -3,7 +3,7 @@ auteurs = ['Eric Hendriks-Kim']
 date = '2021-10-24'
 noindex = true
 subtitle = 'Hoe de gekte van de Franse Revolutie doorleeft in het hedendaagse activisme'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = 'Temper de strijd tegen ‘privileges’'
 image = "thumb.webp"
 +++

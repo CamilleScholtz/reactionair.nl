@@ -3,7 +3,7 @@ aangehaald = ['Theodor Adorno', 'Charles Darwin', 'Fjodor Dostojevski', 'Sigmund
 auteurs = ['Magnus Bradshaw']
 date = '2022-04-01'
 subtitle = 'De eclips van de seculiere ethiek'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Van humanisme naar nihilisme'
 image = "thumb.webp"
 +++

@@ -4,7 +4,7 @@ title = "Retweet dit artikel of de kat gaat dood!!!!! "
 subtitle = "Verslaving aan internetaandacht in een eenzame wereld"
 auteurs = ["Sanura"]
 date = "2022-08-24"
-themas = "Cultuur & Maatschappij"
+themas = "Cultuur en Maatschappij"
 image = "hands-up.cat.webp"
 anchor = "Smart"
 +++

@@ -4,7 +4,7 @@ auteurs = ['Eco al-Hollandi']
 date = '2022-05-01'
 dossiers = ['Islam']
 subtitle = 'En red de samenleving'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Verberg uw zondes'
 image = "thumb.webp"
 +++

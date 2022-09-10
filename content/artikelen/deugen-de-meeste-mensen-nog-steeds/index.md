@@ -3,7 +3,7 @@ aangehaald = ['Rutger Bregman', 'Friedrich Nietzsche', 'Aristoteles']
 auteurs = ['De Melancholieke Nar']
 date = '2022-04-15'
 subtitle = 'De misanthrope verleiding'
-themas = 'Recensie & Biografie'
+themas = 'Recensie en Biografie'
 title = 'Deugen de meeste mensen nog steeds?'
 image = "thumb.webp"
 +++

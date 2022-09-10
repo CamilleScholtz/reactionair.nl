@@ -4,7 +4,7 @@ title = "Een crisis van grootsheid"
 subtitle = "Tegen groei om de groei"
 auteurs = ["Eco al-Hollandi"]
 date = "2022-07-05"
-themas = "Cultuur & Maatschappij"
+themas = "Cultuur en Maatschappij"
 image = "krauze-006.jpg.jpg"
 anchor = "Smart"
 +++

@@ -3,7 +3,7 @@ aangehaald = ['Friedrich Schiller']
 auteurs = ['Alexander Wolfheze']
 date = '2022-01-17'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 5'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = 'Verelendungstheorie'
 image = "thumb.webp"
 +++

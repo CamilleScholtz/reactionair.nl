@@ -3,7 +3,7 @@ title = "De macht van de tolk"
 subtitle = "Een waarschuwing"
 auteurs = ["De redactie"]
 date = "2022-09-09"
-themas = "Cultuur & Maatschappij"
+themas = "Cultuur en Maatschappij"
 aangehaald = ["Socrates"]
 image = "native.jpg"
 +++

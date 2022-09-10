@@ -1,21 +1,21 @@
 <a href="{{ .context.RelPermalink }}" class="article featured">
-	{{ $image  := .context.Resources.GetMatch .context.Params.image }}
-	{{ $anchor := "Smart" }}
-	{{ if isset .context.Params "anchor" }}
-		{{ $anchor = .context.Params.anchor }}
-	{{ end }}
-
-	<figure>
-		<img
-			srcset="{{ ($image.Fill (printf "620x359 webp %s" $anchor)).RelPermalink }} 1x,
-			        {{ ($image.Fill (printf "1240x718 webp %s" $anchor)).RelPermalink }} 2x"
-			src="{{ ($image.Fill (printf "1240x718 webp %s" $anchor)).RelPermalink }}"
-			alt="{{ .context.Params.title }}">
-	</figure>
-
 	<div class="text">
+		<div class="author">{{ delimit .context.Params.auteurs ", " " & " }}</div>
 		<h2>{{ .context.Params.title }}</h2>
 		<h3>{{ .context.Params.subTitle }}</h3>
-		<p class="author">{{ delimit .context.Params.auteurs ", " " & " }}</p>
 	</div>
+
+	<figure>
+		{{ $image  := .context.Resources.GetMatch .context.Params.image }}
+		{{ $anchor := "Smart" }}
+		{{ if isset .context.Params "anchor" }}
+			{{ $anchor = .context.Params.anchor }}
+		{{ end }}
+	
+		<img
+			srcset="{{ ($image.Fill (printf "578x413 webp %s" $anchor)).RelPermalink }} 1x,
+			        {{ ($image.Fill (printf "1156x826 webp %s" $anchor)).RelPermalink }} 2x"
+			src="{{ ($image.Fill (printf "1156x826 webp %s" $anchor)).RelPermalink }}"
+			alt="{{ .context.Params.title }}">
+	</figure>
 </a>

@@ -3,7 +3,7 @@ title = "Dialoog II"
 subtitle = "Verdere deliberatie over ongehoorzaamheid"
 auteurs = ["Walt van Toor"]
 date = "2022-08-28"
-themas = "Cultuur & Maatschappij"
+themas = "Cultuur en Maatschappij"
 image = "caspar_david_friedrich_zwei_manner_am_meer.jpg"
 anchor = "Smart"
 +++

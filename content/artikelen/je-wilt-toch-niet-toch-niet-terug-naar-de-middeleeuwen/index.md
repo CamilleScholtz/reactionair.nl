@@ -2,7 +2,7 @@
 auteurs = ['Jan-Willem Veldhuizen']
 date = '2022-01-20'
 subtitle = 'Een antwoord'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = '“Je wilt toch niet toch niet terug naar de middeleeuwen?!”'
 image = "thumb.webp"
 +++

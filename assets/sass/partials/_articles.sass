@@ -1,9 +1,8 @@
 .article
 	display: grid
-	transition: transform .2s .1s
 
-	&:hover
-		transform: scale(1.007)
+	&:hover img
+		transform: scale(1.05)
 
 	figure
 		display: grid
@@ -11,49 +10,51 @@
 
 		img
 			object-fit: cover
+			transition: transform .2s .1s
 			width: 100%
 
 	.text
-		h2,
-		h3
-			color: var(--text-color)
-
-		h3
-			font-weight: 400
-			margin-top: 0px
-
 		.author
 			color: var(--accent-color)
 			font-family: 'Courier Prime', monospace
 			font-size: 13px
+	
+		h2
+			color: var(--text-color)
+
+		h3
+			color: var(--text-color)
+			font-style: italic
+			font-weight: 400
+			margin: 0px
 
 	&.featured
-		grid-template-rows: 1fr min-content
+		grid-template-rows: min-content auto
+		gap: 20px
 
 		figure
 			width: 100%
 		
 		.text
-			text-align: center
-		
-			h3
-				margin-bottom: 40px
-
 			h2
+				letter-spacing: 2px
 				margin-bottom: 10px
+				text-transform: uppercase
+
+			.author
+				margin-bottom: 30px
 
 	&.large
-		grid-template-rows: 1fr min-content
-		gap: 10px
+		gap: 15px
+		grid-template-rows: min-content auto
 
 		figure
 			width: 100%
 
-		.text
+		.text		
 			h2
 				font-size: 27px
 				line-height: 33px
-				margin-bottom: 15px
 
 	&.small
 		gap: 15px
@@ -63,10 +64,8 @@
 			display: grid
 
 			h2
-				display: -webkit-box;
 				font-size: 18px
 				line-height: 25px
-				margin-bottom: 10px
+				overflow: hidden
 				-webkit-line-clamp: 3
 				-webkit-box-orient: vertical
-				overflow: hidden

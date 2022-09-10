@@ -3,7 +3,7 @@ title = "Het trauma van 9/11"
 subtitle = "De goedgelovige idioot en de krankzinnige schizo"
 auteurs = ["Rintrah Radagast"]
 date = "2022-07-16"
-themas = "Cultuur & Maatschappij"
+themas = "Cultuur en Maatschappij"
 image = "inkblot-1_wide-4721996e4c8fb2aaa203cbe26968c64b742ebaa9.jpg"
 anchor = "Smart"
 +++

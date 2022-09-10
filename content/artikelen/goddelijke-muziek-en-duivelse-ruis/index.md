@@ -3,7 +3,7 @@ title = "Goddelijke muziek en duivelse ruis"
 subtitle = "Een parabel"
 auteurs = ["Tom van Giersbergen"]
 date = "2022-06-29"
-themas = "Religie & Metafysica"
+themas = "Religie en Metafysica"
 image = "cosmos-7.jpg"
 anchor = "Smart"
 +++

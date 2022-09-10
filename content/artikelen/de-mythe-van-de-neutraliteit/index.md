@@ -3,7 +3,7 @@ aangehaald = ['G. K. Chesterton', 'Karl Popper']
 auteurs = ['Camille Meloen']
 date = '2021-10-06'
 subtitle = 'En de blindheid van de liberalen'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'De mythe van de neutraliteit'
 image = "thumb.webp"
 +++

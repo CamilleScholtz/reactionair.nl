@@ -4,7 +4,7 @@ anchor = 'Top'
 auteurs = ['De Melancholieke Nar']
 date = '2022-01-19'
 subtitle = 'Een recensie van In Stahlgewittern'
-themas = 'Recensie & Biografie'
+themas = 'Recensie en Biografie'
 title = 'Oorlog als avontuur'
 image = "thumb.webp"
 +++

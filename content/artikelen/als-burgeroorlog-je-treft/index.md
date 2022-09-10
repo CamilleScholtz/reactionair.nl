@@ -3,7 +3,7 @@ title = "Als burgeroorlog je treft "
 subtitle = "Behoud je principes, gezin, bezit en geloof!"
 auteurs = ["Sanura"]
 date = "2022-06-28"
-themas = "Politiek & Actualiteit"
+themas = "Politiek en Actualiteit"
 image = "thumbo.jpg"
 anchor = "Top"
 +++

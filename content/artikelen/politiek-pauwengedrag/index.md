@@ -3,7 +3,7 @@ aangehaald = ['Charles Darwin']
 auteurs = ['Camille Meloen']
 date = '2022-04-20'
 subtitle = 'Over ‘counter-signalling’'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = 'Politiek pauwengedrag'
 image = "thumb.webp"
 +++

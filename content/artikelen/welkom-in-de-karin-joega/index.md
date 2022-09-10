@@ -4,7 +4,7 @@ anchor = 'Top'
 auteurs = ['De Melancholieke Nar']
 date = '2021-12-12'
 subtitle = 'Veiligheid voor alles'
-themas = 'Cultuur & Maatschappij'
+themas = 'Cultuur en Maatschappij'
 title = 'Welkom in de Karin joega'
 image = "thumb.webp"
 +++

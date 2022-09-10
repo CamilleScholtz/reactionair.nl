@@ -3,7 +3,7 @@ title = "Over de Zwarte Rots op de Noordpool"
 subtitle = "De Noordpool als symbool voor het Paradijs"
 auteurs = ["Jan de Maansnijder"]
 date = "2022-09-01"
-themas = "Religie & Metafysica"
+themas = "Religie en Metafysica"
 image = "1606_mercator_hondius_map_of_the_arctic_-first_map_of_the_north_pole-_-_geographicus_-_northpole-mercator-1606.jpg"
 anchor = "Center"
 +++

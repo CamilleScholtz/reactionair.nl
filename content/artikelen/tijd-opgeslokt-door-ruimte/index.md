@@ -3,7 +3,7 @@ aangehaald = ['René Guénon', 'Robert Lemm', 'Oswald Spengler']
 auteurs = ['Camille Meloen']
 date = '2021-11-05'
 subtitle = 'De eschatologie van René Guénon'
-themas = 'Religie & Metafysica'
+themas = 'Religie en Metafysica'
 title = 'Tijd opgeslokt door ruimte'
 image = "thumb.webp"
 +++

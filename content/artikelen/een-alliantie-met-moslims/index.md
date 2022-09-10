@@ -4,7 +4,7 @@ auteurs = ['Vrederijk']
 date = '2021-10-13'
 dossiers = ['Islam', 'Conservatieve Alliantie']
 subtitle = 'Over reactionairen en moslims'
-themas = 'Politiek & Actualiteit'
+themas = 'Politiek en Actualiteit'
 title = 'Een alliantie met moslims!?'
 image = "thumb.webp"
 +++

@@ -1,25 +1,27 @@
 {{ define "main" }}
-	{{ $themes   := slice "Politiek & Actualiteit" "Cultuur & Maatschappij" "Recensie & Biografie" "Religie & Metafysica" }}
+	{{ $themes   := slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Recensie en Biografie" "Religie en Metafysica" }}
 	{{ $articles := where site.RegularPages "Params.themas" "in" $themes }}
 
 	<section class="hero">
-		<section class="left">
-			{{ partial "articles/large.html" (dict
-				"context" (index $articles 1)
-			) }}
+		<section class="left"> 
+			<div class="scroll">
+				{{ partial "articles/large.html" (dict
+					"context" (index $articles 1)
+				) }}
 
-			{{ partial "articles/large.html" (dict
-				"context" (index $articles 2)
-			) }}
+				{{ partial "articles/large.html" (dict
+					"context" (index $articles 2)
+				) }}
+			</div>
 		</section>
-	
+
 		{{ partial "articles/featured.html" (dict
 			"context" (index $articles 0)
 		) }}
 
 		<section class="right">
 			<div class="header">
-				<h2>Meest recente artikelen</h2>
+				<h2>Laatste <i>van</i> Reactionair.nl</h2>
 			</div>
 
 			<div class="articles">
@@ -62,7 +64,7 @@
 	{{ $articles = $articles | after 7 }}
 
 	<section>
-		{{ $themes := slice "Politiek & Actualiteit" "Cultuur & Maatschappij" }}
+		{{ $themes := slice "Politiek en Actualiteit" "Cultuur en Maatschappij" }}
 		{{ $pages  := where $articles "Params.themas" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}		
@@ -91,7 +93,7 @@
 	</section>
 
 	<section>
-		{{ $themes := slice "Recensie & Biografie" "Religie & Metafysica"  }}
+		{{ $themes := slice "Recensie en Biografie" "Religie en Metafysica"  }}
 		{{ $pages  := where $articles "Params.themas" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}		
