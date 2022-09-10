@@ -9,179 +9,99 @@ anchor = "Smart"
 +++
 Dit artikel is een vertaling van het stuk *The Terrifying Vacuity of Klaus Schwab* van Eugyppius, het origineel is [hier](https://www.eugyppius.com/p/the-terrifying-vacuity-of-klaus-schwab?sd=pf) te lezen.
 
+- - -
+
 \
 Zoals veel slechte boeken, vervalt The Great Reset van tijd tot tijd in een onbedoelde autobiografie. Voornamelijk in de laatste pagina’s, waar Klaus Schwab zijn hoop uit voor een ‘Persoonlijke Reset’ door middel van staatsdwang, werpen we een blik op de man gedurende de eerste lockdown in zijn huis in Cologny. In eerste instantie genoot hij van de breuk met routine en de mogelijkheden om in de natuur te leven, maar het duurde niet lang voordat hij een knagende ongemakkelijkheid begon te voelen. Hij had in de jaren voor 2020 ‘stakeholder kapitalisme’ opgezweept, zijn overkoepelende term voor verschillende plannetjes om kritiek op de globalistische, corporatieve Borg te breken en linkse oppositie te coöpteren. Schwab slaagde erin zijn simplistische ideeën aan de man te brengen in het internationale conferentie-circuit, beter bekend als het World Economic Forum, waar hij kon keuvelen met zakelijke en politieke bekendheden en zijn Bond-vijand reputatie kon polijsten onder politieke dissidenten. 
 
- 
-
 Maar de pandemie had Schwab van zijn stuk gebracht. Opeens was zijn herkauwde gebakken lucht over milieu-, sociale en corporate governance-kwesties niet langer in trek; in plaats daarvan vulden virologen en epidemiologen en exponentiële groeicurves het journaal. Zijn machtige en bekende netwerk luisterde ineens naar andere mensen. Obscuriteit doemde op.
-
- 
 
 Dus trommelde Schwab zijn knecht onderzoeksassistent Thierry Malteret, startte zijn laptop op en spendeerde een aantal maanden met het uitschenken van de wolk van modewoorden, praatplaten en half-herinnerde powerpoint-presentaties die zijn hersenen teisteren in een kronkelig en volkomen nutteloos document. Toen hij klaar was, stuurde hij het hele ding ter correctie naar de vrouw van Malleret, en daarna bestelde hij bij zijn eigen Forum Press een paar duizend kopieën. En zo geschiedde wederom een betreurenswaardige oefening in zelfpublicatie.
 
- 
-
 The Great Reset is niet een boek dat begint met een volledig gevormd argument, dat zich vervolgens probeert te formuleren door een aaneenschakeling van waterdichte argumenten. Het is ook geen boek dat zijn doel ergens onderweg vindt. Het is van een nog ellendiger soort, dat altijd blijft hangen op het randje van ontdekken wat het wil zeggen, maar er nooit helemaal overheen komt. Ik heb een visioen van Schwab in zijn studeerkamer, driftig typend met uitgestrekte wijsvingers als een tweepotige kip, zijn weinige krachten bundelend om de zeer onverwachte pandemie waarin hij zich bevond dusdanig om te vormen dat het beter zou passen op het soort wereldwijde ESG-stakeholder kapitalisme woo crisis waar Schwab zijn voorkeur voor heeft. “We moeten ons weer richten op mijn paradepaardjes” is wat Schwab ons probeert te vertellen in The Great Reset. Het is boven alles een kinderachtig boek.
-
- 
 
 Schwabs kernidee is dat de pandemie de wereld of wel gaat herschikken, of opnieuw gaat maken, en dat politieke en zakelijke leiders een unieke kans voor zich hebben liggen om ‘Beter Terug te Bouwen’ (Build Back Better) en alles in lijn te trekken met de ESG. Dat is allemaal heel duidelijk, maar voor iemand die de term “reset” in zijn titel gebruikt, lijkt hij zeer besluiteloos te zijn over wat deze reset nou precies inhoudt, en welke rol het virus heeft om dit te verwezenlijken.
 
- 
-
 In de introductie bijvoorbeeld vinden we de volgende reeks absurditeiten:
-
- 
 
 Velen van ons vragen zich af wanneer alles weer normaal zal worden. Het korte antwoord is: nooit. Niets zal ooit terugkeren naar het "gebroken" gevoel van normaal dat vóór de crisis heerste, omdat de pandemie van het coronavirus een fundamenteel keerpunt markeert in ons wereldwijde traject …. Er komen radicale veranderingen met zulke gevolgen dat sommige experts hebben verwezen naar een tijdperk "vóór coronavirus" (BC) en "na coronavirus". … (blz. 12)
 
- 
-
 Maar verder op in dezelfde pagina wankelt het zelfvertrouwen van Schwab op en geeft hij opeens toe dat hij “op zichzelf zal de wereld waarschijnlijk niet volledig veranderd worden door de pandemie” maar slechts enkel “vele veranderingen versnellen die al plaatsvonden voordat het uitbrak”.
-
- 
 
 Zes pagina’s later benadrukt hij dat "De pandemie op zijn minst de systeemveranderingen zal versnellen die al vóór de crisis zichtbaar waren", maar in de volgende adem heeft hij het weer over een schone breuk, reppend over "de mogelijkheden voor verandering en de resulterende nieuwe orde" die “nu onbeperkt en alleen gebonden aan onze verbeelding zijn” (p. 18). In de conclusie komt Schwab tot de bizarre beslissing dat het virus niet eens heel gevaarlijk is; "de coronacrisis is (tot nu toe) een van de minst dodelijke pandemieën die de wereld heeft meegemaakt” en “tenzij de pandemie zich op een onvoorziene manier ontwikkelt, zullen de gevolgen … in termen van gezondheid en sterfte mild zijn” (p. 264f.) vergeleken met andere pandemieën. De echte bron van zijn reset is eigenlijk “de onderling afhankelijke wereld” waar “risico’s met elkaar samenvoegen” (p. 247).
 
- 
-
 Het probleem van Schwab is dat hij niet kan beslissen of hij zich in het fort wil verschuilen, of juist de poort uit wil rijden. Soms wil hij dat de pandemie een fundamenteel nieuw moment is, en op andere momenten wil hij liever corona ondergeschikt maken aan alle slechte sociale ongelijkheden en klimaatonevenwichtigheden en de onhoudbaarheid van onze uitstoot, aangezien deze onderwerpen meer zijn terrein zijn. De eerste positie is intern consistent en verdedigbaar, maar het riskeert om teveel terrein af te staan aan een concept dat buiten Schwabs zorgen ligt; de tweede positie is heel irrationeel, maar stelt Schwab in staat zijn favoriete thema’s te gebruiken als verklaring voor alles. 
-
- 
 
 Meer dan alles maakt deze ongedisciplineerde gedachtegang The Great Reset zo’n weerzinwekkende leeservaring. Schwab probeert elke keer van twee walletjes te eten. Hij is altijd vergeten wat hij een paar paragrafen geleden had gezegd, hij verspilt keer op keer je tijd met irrelevante lijsten en details en omschrijvingen die nergens naartoe gaan. Meer dan eens verliest hij al het contact met concrete ideeën en vertrekt volledig in een wollige wolk van betekenisloos, abstract jargon.
 
- 
-
 Waarom, bijvoorbeeld, moeten dit soort zinnen geschreven worden?
-
- 
 
 Een pandemie is een complex adaptief systeem dat bestaat uit veel verschillende componenten of stukjes informatie (zo divers als biologie of psychologie), waarvan het gedrag wordt beïnvloed door variabelen als de rol van bedrijven, economisch beleid, overheidsinterventie, gezondheidszorgbeleid of nationaal bestuur … beheer … van een complex adaptief systeem vereist continue realtime maar steeds veranderende samenwerking tussen een breed scala aan disciplines en tussen verschillende velden binnen deze disciplines. (blz. 32f.)
 
- 
-
 Of deze?
 
- 
-
 Overheden … hebben instrumenten tot hun beschikking om de verschuiving naar meer inclusieve en duurzame welvaart te maken, door het bepalen van de richting en prikkels van de publieke sector te combineren met commerciële innovatiecapaciteit door een fundamentele heroverweging van markten en hun rol in onze economie en samenleving. (blz. 62)
-
- 
 
 Deze momenten van uitzonderlijke zinloosheid bevinden zich overal in The Great Reset, en ik heb een kleine maar groeiende verzameling van wat ik voorstel om Schwabismses te noemen. Dit zijn korte uitspraken die zo tautologisch, banaal of bizar zijn dat elke auteur zich ervoor zou moeten schamen.
 
 Uitspraken als “Everything now runs on fast-forward” (p. 7); of: “Complexity can be defined as what we don’t understand or find difficult to understand” (p.31); of: “If an observer can only make sense of ‘reality’ through different idiosyncratic lenses, this forces us to rethink our notion of objectivity” (p. 121); of: “Predicting is a guessing game for fools” (p. 126); of: “Many states that exhibit characteristics of fragility risk failing” (p. 127); ofr: “Dystopian scenarios are not a fatality” (p. 170); or: “In times of adversity, innovation often thrives – necessity has long been recognized as the mother of invention” (p. 232).
 
- 
-
 Je krijgt het gevoel dat hier niet enkel een zielig klein mannetje worstelt om de rol te spelen van mondiale regerings-guru, maar ook zijn even pathetische publiek van Hillary Clintons en Olaf Scholzes en Emmanuel Macrons, die deze onzin aanhoren en het inzichtgevend vinden en zich ermee willen associëren. Wat moeten deze mensen zich met hun hoofd in de intellectuele wolken bevinden.
-
- 
 
 In zijn dappere momenten oppert Schwab dat Corona enkel gebeurde omdat de wereld niet klimaatverandering en duurzaamheid en stakeholder kapitalisme stevig genoeg omarmde. Schwab wil je laten geloven dat we op de rand staat van een mondiaal tekort aan orde, dat we moeten verhelpen met een geopolitieke reset: 
 
 In deze rommelige nieuwe wereld die wordt bepaald door een verschuiving naar multipolariteit en intense concurrentie om invloed, zullen de conflicten of spanningen niet langer worden gedreven door ideologie … maar worden aangespoord door nationalisme en de concurrentie om hulpbronnen. Als geen enkele macht orde kan handhaven, zal onze wereld lijden onder een ‘global order deficit’ (p. 104)
 
- 
-
 Het is interessant hoeveel pessimisme Schwab koestert voor de toekomstige vooruitzichten van globalisatie. Hij schrijft dat hyperglobalisatie (wat dat ook moge zijn) “has lost all its political and social capital and defending it is no longer politically tenable” (p. 112f.) en dat zelfs normale globalisatie in verval is. Dus moeten politici hun best doen om het terugtrekken te beheren, door het inclusiever en billijk te maken, en ook zo duurzaam mogelijk, zowel op sociaal vlak als milieu (p.112). Dit zijn merkwaardige toezeggingen en zelfs als je ze neemt als nominale waarden, bekruipt je het gevoel dat Davos kliek zich echt bedreigd voelt, voornamelijk vanuit de linkerzijde en een aanzienlijke deel van hun politieke programma vertegenwoordigd een ietwat verwarrende poging om zich te verzoenen met gefantaseerde politieke tegenstanders.
-
- 
 
 Schwab schrijft dat de pandemie gebeurde door een vacuüm in mondiale regering en omdat internationale samenwerking non-existent of beperkt was (p.115). Hij onthult een kinderlijke zucht naar een wereldregering (p.118), zodat we niet eindigen met een wereld waar niemand de baas is (p.114). De onderstroom van angst keert terug en de pandemie verdwijnt uit het schijnwerpers als slechts een van de voorbeelden van rampen die ons kan overkomen als de instituten van de globalisten vervallen:\
 \
 Er is geen tijd te verliezen. Als we het functioneren en de legitimiteit van onze mondiale instellingen niet verbeteren, zal de wereld spoedig onhandelbaar en zeer gevaarlijk worden. Er kan geen duurzaam herstel zijn zonder een globaal strategisch kader van bestuur... Hoe meer nationalisme en isolationisme de mondiale staatsbestel doordringen, hoe groter de kans dat mondiaal bestuur zijn relevantie verliest. (blz. 113)
 
- 
-
 Elders poogt Schwab Corona neer te zetten als een voorwaarde voor zijn favoriete thema’s door te suggereren dat de moraliteit van het virus verergerd wordt door vervuiling, wat in zijn ogen de risico’s op een pandemie vergroot.
-
- 
 
 We weten nu dat luchtvervuiling de impact van elk coronavirus (niet enkel die van SARS-CoV-2) op onze gezondheid verergert… in de VS concludeert een recent medisch onderzoek dat de regio’s met meer luchtvervuiling een verhoogde mortaliteit ondervinden van COVID-19, wat aantoont dat gebieden in de VS met hogere vervuilingswaarden een verhoogde dodental en ziekenhuisopnames te lijden heeft. Er heeft zich een consensus gevormd… dat er een synergetisch effect tussen blootstelling aan luchtvervuiling en mogelijk opduiken van COVID-19, met een slechtere uitkomst als het virus echt opduikt (p.139)
 
- 
-
 Schwab is hier heel erg de definities aan het oprekken. Allereerst, hier is de studie waar we het over hebben, die absoluut waardeloos is omdat, zoals de auteurs zelf toegeven, hun ecologische regressie analyses niet in staat zijn om individuele risicofactoren in kaart te brengen, en dus niet bruikbaar zijn om conclusies aan te verbinden voor individuele associaties. Deze associaties omvatten dingen als leeftijd en ras. Op dit moment leg je dit onderzoek in de prullenbak, ja? Maar het wordt erger, want Schwab lijkt te denken dat dit onderzoek een toekomstige projectie is, terwijl het eigenlijk een retrospectieve observationele studie is.
-
- 
 
 Zonder enige fundering suggereert Schwab avontuurlijk dat via een hocus-pocus synergetisch effect vervuiling op een of andere manier virus infecties veroorzaakt. Veel momenten in The Great Reset zijn net als dit - zodra je erin begint te prikken, valt het als een kaartenhuis uit elkaar.
 
- 
-
 Een laatste ongemakkelijke poging om Corona een gevolg van ons falen te verduurzamen komt als Schwab meldt dat, aldus de wetenschap, het de vernietiging van ons milieu de ware oorzaak is van de pandemieën.
-
- 
 
 By now, an increasing number of scientists have shown that it is in fact the destruction of biodiversity caused by humans that is the source of new viruses like COVID-19. These researchers have coalesced around the new discipline of “planetary health” that studies the subtle and complex connections that exist between the well-being of humans, other living species and entire ecosystems, and their findings have made it clear that the destruction of biodiversity will increase the number of pandemics. (p. 137)
 
- 
-
 Als we even voorbijgaan aan Schwabs aanhoudend talent om dingen verkeerd te krijgen - het is niet de vernietiging van biodiversiteit dat geopperd wordt als de bron van nieuwe virussen, maar de oplopende nabijheid van menselijke populaties en dierenreservoirs. Nee, het interessante punt hier is hoe ongeïnformeerd Schwab zich hier toont, in zijn totale verwaarlozing van de neppe pangolinthesis voor de oorsprong van Corona. Halverwege 2020 was dit onderwerp overal over het journaal en toch heeft Schwab dit gemist, en als gevolg daarvan mist hij een argument dat als een handschoen past op zijn langdradige zedenvertelling. Hij had ons kunnen trakteren op alinea na alinea over hoe enkel mondiale regering de handel in bedreigde diersoorten kan stoppen en hoe het ons kan redden van dodelijke pangolin virussen, maar in plaats daarvan koos hij voor deze slappe hap, omdat hij geen idee heeft waar hij over praat.
 
- 
-
 Diep van binnen verwacht Schwab niet dat zijn lezers aannemen dat de pandemie plaatsvond omdat we niet de passende offers gebracht hebben aan de ESG idolen. Dus biedt hij een alternatieve positie; Corona is niet zozeer afhankelijk van de milieu- en duurzaamheidscatastrofe, maar het is dezelfde soort catastrofe, of op zijn minst dusdanig verweven met de andere potentiële catastrofes, dat het net zo goed hetzelfde ding kan zijn:
-
- 
 
 \[I]n termen van mondiale risico’s staat de pandemie het meest op gelijke voet met klimaatverandering en ineenstorten van ecosystemen. Deze drie vertegenwoordigen, in hun natuur en in variërende gradaties existentiele gevaren voor de mensheid, en we kunnen beargumenteren dat COVID-19 ons een glimp gegeven, een voorproefje, van wat een volwaardige klimaatcrisis en ineenstorting van ecosysteem zou inhouden vanuit een economisch perspectief .. de vijf hoofdzakelijke kenmerken zijn: 1) ze zijn bekend … systeemrisico's die zich zeer snel verspreiden in onze onderling verbonden wereld en daardoor andere risico's uit verschillende categorieën versterken; 2) ze zijn non-lineair, wat betekent dat ze boven een bepaalde drempel of omslagpunt catastrofale gevolgen kunnen hebben; 3) de kansen en verdeling van hun gevolgen zijn erg moeilijk, zo niet onmogelijk, te meten…; 4) ze zijn van nature mondiaal en kunnen daardoor enkel goed beantwoord worden op een mondiaal gecoördineerde manier; en 5) ze hebben disproportionele invloed op de reeds meest kwetsbare landen en delen van de bevolking. (p.133f.)
 
 Schwab voegt zelfs een zinloze grafiek toe om zijn geliefde hyperconnectiviteit-thesis te illustreren, waarmee alles automatisch over allerlei andere dingen gaat.
 
- 
-
- 
-
 Het is duidelijk dat er niet echt nagedacht is over deze grafiek. Je kunt dit herkennen aan het feit dat dingen niet met elkaar verbonden zijn, die dat wel hadden moeten zijn - er is bijvoorbeeld geen lijn die ‘massavernietigingswapens’ en ‘milieurampen door de mens veroorzaakte milieurampen’ met elkaar verbindt, ondanks dat het meest gretige voorbeeld van ‘milieurampen door de mens veroorzaakte milieurampen’ een nucleaire winter is. Schwab is voornamelijk geïntereseerd in het aanleveren van een academische esthetiek aan zijn lezers, en om het gevoel te geven dat ze iets geraffineerd en geleerd lezen, zelfs als ze dat niet doen.
-
- 
 
 Gelukkig krijgen we geen klimaat lockdowns. Schwab is teleurgesteld dat de voorspellingen uitwijzen dat de lente-lockdown van 2020 enkel de uitstoot van koolstofdioxide met 8% verlagen:
 
 Gezien de ernst van de lockdowns ziet \[dat] cijfer er nogal teleurstellend uit. Het lijkt erop te wijzen dat kleine individuele acties … van weinig betekenis zijn in vergelijking met de omvang van de emissies die worden gegenereerd door elektriciteit, landbouw en industrie … Zelfs ongekende en draconische lockdowns waarbij een derde van de wereldbevolking langer dan een maand aan huis moest lang niet in de buurt van een levensvatbare decarbonisatiestrategie, omdat de wereldeconomie echter grote hoeveelheden kooldioxide bleef uitstoten … (p. 140f.)
 
- 
-
 Wederom worden we geconfronteerd met Schwabs klaarblijkelijke onwetendheid en naïviteit, zelfs op onderwerpen die toch binnen zijn expertise zouden vallen. Mensen hebben al lang uitgewezen dat beteugelingen op individuele consumptie, voornamelijk in het Westen, zeer beperkt effect hebben op de uitkomsten voor het milieu. De meeste uitstoot komt van uitstoot overzee.
-
- 
 
 Tot dusver heb ik me proberen te concentreren op Schwabs kernideeën, om aan te tonen dat ze onzinnig zijn, zelfs binnen hun eigen kaders. Schwab zit er op zoveel dingen naast, en er zitten echte dijenkletsers op deze pagina’s. Zo is er klaarblijkelijk zijn oprechte overtuiging dat het post-pandemische tijdperk een periode zal inluiden van massale herverdeling van rijkdom, van rijk naar arm en van kapitaal naar arbeid” (p. 77). Als je uitgelachen bent, zul je zien dat deze uitspraak rust op oppervlakkige historische vergelijkingen met de Zwarte Dood, waardoor de prijs van arbeid opgedreven werd door  het sterven van millioenen en millioenen boeren en ambachtslieden. Schwab ziet niet in dat er geen vergelijking te maken is tussen een ziekte die 40% van de Europese populatie doodt, en een virus met op zijn beste dag een 0,4% IFR, met sterfgevallen voornamelijk geconcentreerd onder de bejaarden. Dat toont aan hoe dom hij is. \
 \
 Dan zijn er zijn vreemde pogingen om de pandemie verantwoordelijk te maken voor de Floyd-rellen en zijn terugkerende bewering dat “de grootste onderliggende oorzaak voor sociale onrust ongelijkheid is.”(p.88) - daarbij voorbij gaan aan het historische patroon dat het liberale hervormingen zijn en de oplopende verwachtingen waar sociale ongeregeldheden opvlammen. En dan is er zijn herhaald aandringen dat naties wiens acties “beschouwd worden als een ondermaatse reactie op de pandemie” (p. 98) mogelijk een legitimiteitscrisis voor zich krijgen, en “dat veel regeringen ter verantwoording zullen worden geroepen, met veel woede gericht op die beleidsmakers en politieke figuren die ontoereikend of slecht voorbereid leken te zijn in hun reactie op het omgaan met COVID-19” (p. 76). 
 
- 
-
 Het enige wat er natuurlijk gebeurd is, sinds Schwab dit neerpende, is de gestage verwerping van de massale opsluiting, die elke dag meer vrijgegeven wordt. Schwab heeft het niet alleen verkeerd, hij is ook een engerd, maar ik ben niet de eerste wie dit opviel en er dieper ingaan op dit aspect van The Great Reset heeft weinig zin. Hij overpeinst gretig de mogelijkheden van massa-surveillance en krijgt duidelijk een stijve van apps die kunnen traceren, misschien wel de meest openlijk in diskrediet gebrachte beperkende maatregel van ze allemaal. He schrijft vrolijk dat de pandemie regeringen de overhand geven en hoopt dat “alles dat komt in het post-pandemie tijdperk  zal leiden tot het heroverwegen van de rol van een regering” (p.91). Hij prijst ook goedkeurend de theorieën van economist Dani Rodrik, volgens wie “economische globalisering, politieke democratie en de natiestaat onderling onverenigbaar zijn” (p. 107) - waarbij het de ongemakkelijke implicatie omarmt dat zijn programma ten koste gaat van nationale regeringen en onze parlementaire instituten.
-
- 
 
 Sommige mogen twijfelen aan het idee dat The Great Reset een poging is om de aandacht terug te buigen naar stakeholder-kapitalistische klimaatverandering, in plaats van het omhelzen van de lockdowns en virushysteria, maar ik beloof je dat dit de boodschap is van het boek. In zijn privécorrespondentie met deelnemers aan de WEF conferentie is Schwab zelfs meer expliciet over dit punt, en informeert hij de Nederlandse minister van Financiën dan zijn doel voor de 2020 conferentie was het podium vrijmaken voor de boodschap dat “ aan het begin van volgend jaar de wereld weer uit de COVID-19 pandemie zou zijn”. Echter verklaarde niemand de pandemie voorbij in 2021 en daar mag je zelf je conclusies trekken over de echte invloed die onze globlaistische guru heeft over het handelen van onze nationale regeringen.
 
- 
-
 Uiteindelijk is het belang van Schwab ongrijpbaar. Ik zou zelf stellen dat hij voornamelijk een spreekbuis is voor de doelen en ambities van de politieke en zakelijke leiders die zich ophouden rondom het World Economic Forum. Hij is een slechte denker en luie intellectueel, maar hij is goed in het vertellen wat deze mensen van hem willen horen en dat maakt hem een interessant lens waardoor wij hun angsten, overtuigingen en neigingen kunnen aanschouwen. De achteloosheid en halfgare aard van zijn analyse lijkt een krachtige metafoor voor de aandachtsspanne en nabije horizon die kenmerkend zijn voor de elite politieke vooruitzichten. Het is de moeite waard te vermelden dat er een hoop onzekerheid en angst in deze pagina’s zit - over sociale onrust dat kan ontbranden op elk moment door vage abstracties als ongelijkheid, onduidelijke klimaatrampen die mogelijk overal kunnen opduiken omdat de wereld niet ESG genoeg is, over de pandemie en de beheersing ervan die elk moment uit de bocht kan vliegen en over hoe ver politici kunnen gaan met hun onderdrukkende maatregelen voor al deze tikkende tijdbommen.
-
- 
 
 Een van de weinige dingen die ik beter ben gaan begrijpen na het lezen van dit droevig stuk proza, is de gewichtigheid die klimaatverandering heeft voor deze globaliserende instituten. Bezorgdheden over duurzaamheid zijn belangrijk omdat ze een archetypische crisis vormen die niet opgelost kan worden zonder “mondiale coordinatie”. Het gevecht tegen klimaatverandering is een ding waar mondiale instituten zich over moeten bekommeren, en als ze dat niet doen verliezen ze hun legitimiteit, omdat niemand in staat is geweest met andere problemen die zij zouden kunnen oplossen.
 
- 
-
 In het licht van … een vacuüm in mondiaal bestuur, zijn alleen natiestaten samenhangend genoeg om collectieve beslissingen te kunnen nemen, maar dit model werkt niet in het geval van wereldrisico’s die gezamenlijke wereldwijde beslissingen vereisen. De wereld zal een zeer gevaarlijke plaats zijn als we geen multilaterale instellingen oprichten. Wereldwijde coördinatie zal in de nasleep van de epidemiologische crisis nog noodzakelijker zijn, want het is ondenkbaar dat de wereldeconomie zou kunnen ‘herstarten’ zonder duurzame internationale samenwerking. (blz. 118)
-
- 
 
 Schwab will heel graag dat Corona een soortgelijke crisis is als klimaatverandering, omdat hij vanuit zijn werk enkel geïnteresseerd is in problemen die een natie-overstijgende aanpak vereisen. Helaas voor hem is dit niet hoe de pandemie zich heeft uitgewerkt. Globale instituten hadden niet meer dan een kleine rol te spelen in de reactie op de pandemie: de voornaamste instituten waren de nationale bureaucratiën. Schwab en zijn gezelschap hebben hun hele leven geprobeerd iedereen in het harnas te jagen voor global warming, maar ze zijn nooit in de buurt gekomen van het verwezenlijken van het enthousiasme en de bureaucratische ijver die massale opsluiting bereikte in de spanne van een paar weken. The Great Reset is weinig meer dan een 300-pagina tellende poging om het hoofd te bieden aan deze ongemakkelijke realisatie.
 
- 
-
 De Davos kliek zien zichzelfs als post-ideologische technocratische probleemoplossers, maar het is onmogelijk te ontkennen dat er een diepzinnig misvormd ideologisch systeem schuil gaat in het werk van Schwab. Het is misschien niet fijnzinnig genoeg en te gebroken om te erkennen of te verdedigen, en het is erg moeilijk om je vinger er op te leggen, maar het is aanwezig.
-
- 
 
 Naoorlogs optimisme en de generatie van ononderbroken technologische vooruitgang die erop volgde, hebben bij sommige mensen het geloof gekoesterd dat we op de rand stonden van een nieuwe wereld, eentje waar de utopische mondiale orde zowel natiestaten en bedrijven zou overstijgen, om een post-kapitalistisch, post-nationalistisch tijdperk in te luiden waar al onze prangende problemen opgelost zouden worden. Echter bleven de natiestaten aanwezig, bedrijven met een winstoogmerk zijn er nog steeds en technologische vooruitgang is gestagneerd. Wat overblijft is een hoop jargon en ledigheid, zonder enige betekenis.
