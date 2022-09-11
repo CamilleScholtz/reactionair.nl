@@ -11,7 +11,11 @@
 			.scroll
 				gap: 26px
 				grid-template-columns: 1fr 1fr
+				scrollbar-width: none
 				width: 140vw
+
+				&::-webkit-scrollbar
+					display: none
 
 				.article:last-of-type
 					margin-right: 20px
