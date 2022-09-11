@@ -117,7 +117,7 @@ collections:
       - name: "pseudonym"
         label: "Anoniem"
         widget: "boolean"
-      - name: "avatar"
+      - name: "image"
         label: "Afbeelding"
         widget: "image"
         allow_multiple: false

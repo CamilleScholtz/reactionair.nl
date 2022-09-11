@@ -3,7 +3,7 @@ title = "Reactionair recht"
 subtitle = "We moeten het over Roe en rechten hebben"
 auteurs = ["Sanura", "Calvin Tanglender"]
 date = "2022-09-11"
-themas = "Cultuur & Maatschappij"
+themas = "Cultuur en Maatschappij"
 image = "3000.jpeg"
 anchor = "Smart"
 +++

@@ -20,7 +20,7 @@
 			<div class="right">
 				<div class="authors">
 					{{ range $index, $author := .Params.auteurs }}
-						<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>{{ if ne (add $index 1) (len $.Params.auteurs) }},{{ end }}
+						<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>{{ if ne (add $index 1) (len $.Params.auteurs) }},&nbsp{{ end }}
 					{{ end }}
 				</div>
 
