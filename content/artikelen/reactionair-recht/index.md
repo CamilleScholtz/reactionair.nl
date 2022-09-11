@@ -173,7 +173,7 @@ Hebben ongeboren kinderen rechten die de vrijheden van hun ouders inperken, net 
 [^3]: Pasi Ihalainen, *Agents of the People: Democracy and popular sovereignty in British and Swedish Parliamentary and Public Debates*, p. 117.
 [^4]: Deutschsprachiges Fallrecht, *[Schwangerschaftsabbruch I](http://www.servat.unibe.ch/dfr/bv039001.html)*.
 [^5]: Florian Miedel, *[Is West Germany’s 1975 Abortion Decision a Solution to the American Abortion Debate: A Critique of Mary Ann Glendon and Donald Kommers](https://socialchangenyu.com/wp-content/uploads/2017/12/Florian-Miedel_RLSC_20.3.pdf)*.
-[^6]: Helen Boak, &Women in the Weimar Republic*.
+[^6]: Helen Boak, *Women in the Weimar Republic*.
 [^7]: Atina Grossmann, *Reforming Sex: The German Movement for Birth Control and Abortion Reform*.
 [^8]: *Nuremberg military tribunal: Volume V*, p. 163.
 [^9]: Jill Stephenson, *Women in Nazi Germany*.
