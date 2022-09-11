@@ -4,7 +4,7 @@ subtitle = "We moeten het over Roe en rechten hebben"
 auteurs = ["Sanura", "Calvin Tanglender"]
 date = "2022-09-11"
 themas = "Cultuur & Maatschappij"
-image = "5311f800-43fb-4179-838d-28df696692a5.webp"
+image = "3000.jpeg"
 anchor = "Smart"
 +++
 Het Westen gaat gebukt onder een extreem simplistische en bijna mythische visie op de Franse Revolutie en de Verlichting. Door de Franse Revolutie zouden we zogenaamd democratie en dingen als rechtsstaat, vrijheid en ‘gelijkheid’ hebben. Daarvoor was er onderdrukking, uitbuiting en oneerlijkheid. De duistere Middeleeuwen en heksenjachten.
