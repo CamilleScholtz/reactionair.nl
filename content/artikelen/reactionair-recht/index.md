@@ -79,6 +79,8 @@ De totaal onrealistische onderzoeken en theorieën van Alfred Kinsey – de man 
 
 Dit alles resulteerde in de grote seksuele revolutie in de jaren 60. Kinsey’s werk vormde het nieuwe fundament voor de seksuele voorlichting. Heteroseksualiteit en traditionele waarden werden gereduceerd tot een vreemde pathologie. Kinderen, jong in hun tienerjaren, werden geïndoctrineerd door onderwijsinstellingen die de bovengenoemde ‘theorieën’ van Kinsey lovend overnamen. 
 
+{{ boekencast }}
+
 En zo werden ideeën als huwelijk, monogamie en heteroseksualiteit aan de kant geschoven voor een pedofiele, pornografische en biseksuele leer. Zaken als abortussen, scheidingen, sadomasochisme, verkrachtingen en kindermisbruik namen buitenmatig toe. Zo schreef dr. Judith Reismann – een schrijfster en grondlegger van de zogenoemde ‘anti-Kinsey beweging’ – in haar boek *“Kinsey, Seks, And Fraud”* dat al deze zorgwekkende gevallen direct te wijten waren aan Kinsey en zijn enorm gefraudeerde onderzoeken.[^15]
 
 Zoals eerder aangegeven veranderde de gehele denkwijze en het hele fundament van seks en huwelijk naar iets dat de reactionair zou zien als dystopisch en ongewenst, om het maar zo onschuldig en beknopt mogelijk te benoemen. Het was al gauw een kwestie van wachten totdat ook de wetgeving zou worden aangepast aan deze geperverteerde idioterie.
