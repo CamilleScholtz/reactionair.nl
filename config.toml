@@ -11,7 +11,7 @@ removePathAccents = true
 
 enableRobotsTXT = true
 
-ignoreErrors = ["error-output-taxonomy"]
+ignoreErrors = ["error-output-taxonomy", "error-remote-getjson"]
 
 disableHugoGeneratorInject = true
 
