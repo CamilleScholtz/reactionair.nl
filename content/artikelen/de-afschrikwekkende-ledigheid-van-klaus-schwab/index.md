@@ -53,7 +53,7 @@ Het is interessant hoeveel pessimisme Schwab koestert over het toekomstperspecti
 
 Schwab schrijft dat de pandemie plaatsvond dankzij “een vacuüm in bestuur op mondiaal niveau” en omdat “internationale samenwerking non-existent of beperkt” was (p.115). Hij onthult een kinderlijke zucht naar een “wereldregering” (p.118), zodat we niet eindigen “in een wereld waar niemand de baas is” (p.114). De onderstroom van angst keert terug en de pandemie verdwijnt uit het schijnwerpers als slechts een van de voorbeelden van rampen die ons ten dele kan vallen als de instituten van de globalisten falen:
 
-Er is geen tijd te verliezen. Als we het functioneren en de legitimiteit van onze mondiale instellingen niet verbeteren, zal de wereld spoedig onhandelbaar en zeer gevaarlijk worden. Er kan geen duurzaam herstel zijn zonder een globaal strategisch kader van bestuur... Hoe meer nationalisme en isolationisme de mondiale staatsbestel doordringen, hoe groter de kans dat mondiaal bestuur zijn relevantie verliest. (blz. 113)
+> Er is geen tijd te verliezen. Als we het functioneren en de legitimiteit van onze mondiale instellingen niet verbeteren, zal de wereld spoedig onhandelbaar en zeer gevaarlijk worden. Er kan geen duurzaam herstel zijn zonder een globaal strategisch kader van bestuur... Hoe meer nationalisme en isolationisme de mondiale staatsbestel doordringen, hoe groter de kans dat mondiaal bestuur zijn relevantie verliest. (blz. 113)
 
 Elders poogt Schwab Corona neer te zetten als een voorwaarde voor zijn favoriete thema’s door te suggereren dat de moraliteit van het virus verergerd wordt door vervuiling, wat in zijn ogen de risico’s op een pandemie vergroot.
 
