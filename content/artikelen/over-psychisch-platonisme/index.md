@@ -5,7 +5,7 @@ auteurs = ["Jan de Maansnijder"]
 date = "2022-09-14"
 themas = "Religie en Metafysica"
 image = "v.jpg"
-anchor = "Smart"
+anchor = "Top"
 +++
 *Dit is een vertaald artikel, het origineel is [hier](https://esoterictraditionalism.wordpress.com/2019/12/23/on-psychic-platonism/) te lezen.*
 
