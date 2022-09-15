@@ -110,7 +110,7 @@ Naoorlogs optimisme en de generatie van ononderbroken technologische vooruitgang
 
 \[﻿^3]: Dit document is op verzoek van kamerlid Van Houwelingen van de Forum voor Democratie vrijgegeven en [hier](https://open.overheid.nl/repository/ronl-3ce77537-2a5a-41d4-9d3d-64c12b88ec6d/1/pdf/Bijlage%203%20-%20Nazending%20Kamervragen%20Van%20Houwelingen.pdf) te vinden op pagina 17.
 
-\[﻿^4]: Verwijzing van de auteur naar een passage uit Shakespeares Macbeth (Vijfde bedrijf, scene 5):
+\[﻿^4]: Verwijzing van de auteur naar een passage uit Shakespeares *Macbeth* (Vijfde bedrijf, scene 5):
 
 Out, out, brief candle!\
 Life's but a walking shadow, a poor player,\
