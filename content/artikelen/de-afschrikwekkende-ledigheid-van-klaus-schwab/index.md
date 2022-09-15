@@ -63,7 +63,7 @@ Schwab is hier heel erg de definities aan het oprekken. Allereerst de studie waa
 
 Zonder enige fundering is Schwabs laatste avontuurlijke suggestie dat middels een obscuur synergetisch effect vervuiling op een of andere manier virusinfecties veroorzaakt. Veel passages uit *The Great Reset* zijn deze gelijk - zodra je erin begint te prikken, valt het als een kaartenhuis uit elkaar.
 
-Een laatste ongemakkelijke poging om Corona een gevolg van ons falen te verduurzamen komt als Schwab meldt dat, aldus de wetenschap, het de vernietiging van ons milieu de ware oorzaak is van de pandemieën.
+Een laatste ongemakkelijke poging om Corona neer te zetten als een gevolg van ons falen te verduurzamen komt wanneer Schwab meldt dat, volgens de wetenschap, de vernietiging van ons milieu de ware oorzaak is van pandemieën.
 
 By now, an increasing number of scientists have shown that it is in fact the destruction of biodiversity caused by humans that is the source of new viruses like COVID-19. These researchers have coalesced around the new discipline of “planetary health” that studies the subtle and complex connections that exist between the well-being of humans, other living species and entire ecosystems, and their findings have made it clear that the destruction of biodiversity will increase the number of pandemics. (p. 137)
 
