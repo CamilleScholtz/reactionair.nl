@@ -1,5 +1,5 @@
 +++
-title = "Gotta catch them all!! "
+title = "Gotta catch 'em All!!"
 subtitle = "De betekenis van nostalgie en kinderlijkheid in een trieste tijd"
 auteurs = ["Sanura"]
 date = "2022-09-18"
