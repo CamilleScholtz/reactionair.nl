@@ -58,7 +58,7 @@ Philip Zimbardo had 11 jaar geleden al een *Ted-talk* waarin de alarmklok luid
 
 [^5]: Over de resultaten van het betreffende onderzoek kunt u [hier](https://psycnet.apa.org/record/2014-09544-001) lezen. 
 
-[^6]: Het CBS heeft deze cijfers hier openbaar beschikbaar.
+[^6]: Het CBS heeft deze cijfers [hier](https://www.cbs.nl/nl-nl/longread/statistische-trends/2021/zelfdoding-in-nederland-een-overzicht-vanaf-1950/2-resultaten) openbaar beschikbaar.
 
 [^7]: Lees [hier](https://www.eoswetenschap.eu/psyche-brein/meer-mannen-dan-vrouwen-sterven-door-zelfmoord) een uitgebreider artikel over dit onderscheid. 
 
