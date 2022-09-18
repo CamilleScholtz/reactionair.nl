@@ -14,7 +14,7 @@ Veel seksuele roofdieren zijn ook meteen veelplegers, waardoor mannen zich als g
 
 **De *trad* playboy**
 
-Komt het doordat mannen allemaal linksige *sojapussies* zijn geworden, dat ze een rechtse *scumfuck* nodig hebben, die ze even vertelt hoe het zit? Eerst komen de sojapraatjes, en dan zegt Tate hoe het zit, waarop de *cuck*[^1] zegt: ‘Dat is ook wel waar’ Dat is natuurlijk net zo kort door de bocht als dat Tate volledig verantwoordelijk gehouden wordt voor het verpesten van een hele mannelijke generatie. Toch is dit wel wat verschillende artikelen in de media suggereren. Laten we een artikel van *De Correspondent* eruit pikken:
+Komt het doordat mannen allemaal linksige *sojapussies* zijn geworden, dat ze een rechtse *scumfuck* nodig hebben, die ze even vertelt hoe het zit? Eerst komen de sojapraatjes, en dan zegt Tate hoe het zit, waarop de *cuck*[^1] zegt: ‘Dat is ook wel waar’? Dat is natuurlijk net zo kort door de bocht als dat Tate volledig verantwoordelijk gehouden wordt voor het verpesten van een hele mannelijke generatie. Toch is dit wel wat verschillende artikelen in de media suggereren. Laten we een artikel van *De Correspondent* eruit pikken:
 
 “Een online beweging van voornamelijk jongemannen zint al enige jaren op eerherstel – terug naar de tijd waarin je vrouw een gebraad voor je neus zette en verder haar bek hield. En voor hen rispt het internet eens in de zoveel tijd een nieuwe heiland op. Een bullebak die zijn volgers in het gareel blaft door ze hun kamer op te laten ruimen, naar de gym te sturen, een dropship-imperium op de mouw te spelden, en ze gelijktijdig een gezonde dosis misogynie, transhaat en complotdenken toe te dienen.
 
