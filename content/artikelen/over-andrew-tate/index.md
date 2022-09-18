@@ -1,7 +1,7 @@
 +++
 title = "Over Andrew Tate"
 subtitle = "En het belang van een gezond mannelijk rolmodel"
-auteurs = ["De redactie"]
+auteurs = ["Het huisloeder"]
 date = "2022-09-18"
 themas = "Cultuur en Maatschappij"
 aangehaald = ["Peterson", "Zimbardo"]
