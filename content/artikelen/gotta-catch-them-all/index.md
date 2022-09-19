@@ -5,7 +5,7 @@ auteurs = ["Sanura"]
 date = "2022-09-19"
 themas = "Cultuur en Maatschappij"
 image = "pokemon-oil-paintings-copy.jpg"
-anchor = "Smart"
+anchor = "Bottom"
 +++
 Nostalgie lijkt hand over hand toe te nemen. Overal is het waar te nemen, maar het meest op het internet. Video’s over films en cartoons van decennia geleden. Jong-volwassenen die nog steeds bezig zijn met *Yu-Gi-Oh*, *Digimon* of *Pokémon*. Fan-conventies, fanfic, video’s. Millennials kijken zelfs nieuwe cartoons van *Miraculous Ladybug* en *Gravity Falls* tot aan… *My Little Pony; Friendship is Magic* (maar dat is een verhaal op zich). 
 
