@@ -42,4 +42,4 @@ Laten we wel vooral uitkijken voor alle misleidende sprookjes die we dagelijks v
 [^2]: Lauren Friedman, *[Why Nostalgia Marketing Works So Well With Millennials, And How Your Brand Can Benefit](https://www.forbes.com/sites/laurenfriedman/2016/08/02/why-nostalgia-marketing-works-so-well-with-millennials-and-how-your-brand-can-benefit/)*.
 [^3]: Faust, *[Some reflections on fiction and escapism, James Herriot and LotGH](https://www.youtube.com/watch?v=yG0ecqWqj6Q)*.
 [^4]: RTL Nieuws, *[50 jaar na z'n dood: Che Guevara, held of schurk?](https://www.rtlnieuws.nl/buitenland/artikel/3690651/50-jaar-na-zn-dood-che-guevara-held-schurk)*.
-[^5]: Bob van Leeuwen, [Che Guevara, een controversiële erfenis]*(https://studenttheses.uu.nl/bitstream/handle/20.500.12932/6789/Herschrijving%20Che%20Guevara%20Bob%20van%20Leeuwen%20Masterscriptie%20IBEM%20Bob%20de%20Graaff.pdf?sequence=1&isAllowed=y)*.
+[^5]: Bob van Leeuwen, [Che Guevara, een controversiële erfenis](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/6789/Herschrijving%20Che%20Guevara%20Bob%20van%20Leeuwen%20Masterscriptie%20IBEM%20Bob%20de%20Graaff.pdf?sequence=1&isAllowed=y)*.
