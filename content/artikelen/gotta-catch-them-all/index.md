@@ -9,7 +9,7 @@ anchor = "Bottom"
 +++
 Nostalgie lijkt hand over hand toe te nemen. Overal is het waar te nemen, maar het meest op het internet. Video’s over films en cartoons van decennia geleden. Jong-volwassenen die nog steeds bezig zijn met *Yu-Gi-Oh*, *Digimon* of *Pokémon*. Fan-conventies, fanfic, video’s. Millennials kijken zelfs nieuwe cartoons van *Miraculous Ladybug* en *Gravity Falls* tot aan… *My Little Pony; Friendship is Magic* (maar dat is een verhaal op zich). 
 
-Nostalgie lijkt uitzonderlijk sterk voor te komen onder millennials en naar het schijnt ook onder generatie Z.[^1] Verder blijft de smaak voor kinderlijke vormen van vermaak veel sterker aanwezig en rust hier niet meer hetzelfde taboe op als 15 tot 25 jaar geleden.
+Nostalgie lijkt uitzonderlijk sterk voor te komen onder millennials en naar het schijnt ook onder generatie Z.[^1][^2] Verder blijft de smaak voor kinderlijke vormen van vermaak veel sterker aanwezig en rust hier niet meer hetzelfde taboe op als 15 tot 25 jaar geleden.
 
 De *‘boomers’* braken als eersten volledig met de regels en verantwoordelijkheden van de talloze generaties voor hen. Wel hielden ze er nog steeds een bepaalde mate van normativiteit op na. Met name maakten ze ruimte voor libertinisme en bepaalde minderheidsgroepen. Seksuele verantwoordelijkheid werd ook minder verwacht, maar als volwassene interesseer je je niet voor kinderspelletjes in hun ogen.
 
@@ -36,7 +36,7 @@ Sommige mensen, waaronder ook millenials, bekritiseren escapisme vanwege hoe het
 Escapisme wordt pas slecht wanneer het daadwerkelijk een voortdurende vlucht wordt uit de realiteit of vooral wegvluchten wordt van verantwoordelijkheid. Echter, uitrusten van alle indrukken en activiteiten in de realiteit, kan net zo verfrissend zijn als uitrusten van werk. Nodig om ons te helpen bijkomen. Kijken naar andere levensverhalen, andere toekomstvisioenen, mooiere werelden kan ook inspireren, leed verzachten, hoop geven of de blik verruimen. Nog afgezien van het beleven van zoiets als plaatsvervangend, en veilig, ingrijpende gebeurtenissen beleven of een catharsis ondergaan via empathie met personages in een verhaal of spel. Bovendien kan het een vorm van gezamenlijke ontspanning zijn, waarover je ook nog met elkaar van gedachten kunt wisselen.
 
 Fictie inspireerde mensen al in de tijd van de oude Grieken en Romeinen. Mythen, sagen, legenden, toneel, opera, literatuur, film: een wereld zonder vormen van escapisme lijkt me een mechanische, tegennatuurlijke, en bovenal ook saaie, wereld. 
-Laten we wel vooral uitkijken voor alle misleidende sprookjes die we dagelijks vanuit de ‘echte wereld’ voorgeschoteld krijgen; en die ons juist doen vastklampen aan vertekende illusies, zoals bijvoorbeeld veel *‘boomers’* deden bij iemand als Che Guevara.[^4]
+Laten we wel vooral uitkijken voor alle misleidende sprookjes die we dagelijks vanuit de ‘echte wereld’ voorgeschoteld krijgen; en die ons juist doen vastklampen aan vertekende illusies, zoals bijvoorbeeld veel *‘boomers’* deden bij iemand als Che Guevara.[^4][^5]
 
 [^1]: Vicky Spratt, *[Why Are Millennials The Most Nostalgic Generation Ever?](https://graziadaily.co.uk/life/opinion/millennials-nostalgic-generation-ever/)*.
 [^2]: Lauren Friedman, *[Why Nostalgia Marketing Works So Well With Millennials, And How Your Brand Can Benefit](https://www.forbes.com/sites/laurenfriedman/2016/08/02/why-nostalgia-marketing-works-so-well-with-millennials-and-how-your-brand-can-benefit/)*.
