@@ -10,23 +10,23 @@ anchor = "Smart"
 +++
 Het kabinet vluchtte onverwacht de kamer uit.[^1] De democratische rechtsstaat stort in elkaar. Armoede en chaos zijn het nieuwe normaal. *‘We zijn een grens over gegaan!’* zei Rutte. Hij heeft helemaal gelijk. De emmer is over gelopen. Wat er gebeurde was onacceptabel. Weg gaan was de enige juist reactie gezien:
 
-* De ontvoering van ruim 1000 kinderen tijdens de toeslagenaffaire[^2]
-* De ruim 5 miljard die verdween[^3]
-* Het geheim houden van rechterlijke adviezen voor de kamer door Huge de Jonge[^4]
-* Demmink[^5]
-* Sywert van Lienden’s mondkapjes deal
-* Omtzigt *functie elders*
-* Demmink 
-* Nederlanders die de winter niet door kunnen komen
-* De verwijderde telefoonberichtjes
-* Demmink
-* Grapperhaus die de kamer voorloog over illegale privacy schending
-* Demmink
+* De ontvoering van ruim 1000 kinderen tijdens de toeslagenaffaire.[^2]
+* De ruim 5 miljard die verdween.[^3]
+* Het geheim houden van rechterlijke adviezen voor de kamer door Huge de Jonge.[^4]
+* Demmink.^5]
+* Sywert van Lienden’s mondkapjes deal.
+* Omtzigt *functie elders*.
+* Demmink.
+* Nederlanders die de winter niet door kunnen komen.
+* De verwijderde telefoonberichtjes.
+* Demmink.
+* Grapperhaus die de kamer voorloog over illegale privacy schending.
+* Demmink.
 
 Rutte zei dat het kabinet te gast was in de kamer en dat je als gast een limiet hebt. Hier dacht ik dat het kabinet verantwoording verschuldigd is aan de kamer, maar ik weet natuurlijk niet zo veel van de rechtsstaat als Rutte. Hij had vast een uitzonderlijk belangrijke reden om met het hele kabinet de kamer uit te lopen. Rutte heeft de Rutte doctrine uitgevonden. De man is geen watje. Hij is flexibel als het gaat om de wet, dualisme, de rechtsstaat, de waarheid en moraliteit. 
 Staatssecretaris van der Burg maakte vandaag kamerlid Wilders belachelijk. Maar respectloosheid van de regering tegenover de kamer is ook al normaal.
 
-Toen echter! Ging Baudet de grens over! Hij kwam met een samenzweringstheorie over Kaag en haar opleiding op de ‘spionnenschool’. De Rutte doctrine was niet zo handig, dom foutje, maar je blijft verdorie wel beleefd. Je moet het niet op de man spelen. Rutte zei dat weglopen de enige mogelijke reactie was. Dus… het hele kabinet geen inhoudelijk weerwoord?
+Toen echter! Ging Baudet de grens over! Hij kwam met een *samenzweringstheorie* over Kaag en haar opleiding op de ‘spionnenschool’. De Rutte doctrine was niet zo handig, dat was een dom foutje, maar je blijft verdorie wel beleefd! Je moet het niet op de man spelen. Rutte zei dat weglopen de enige mogelijke reactie was.
 
 Van der Burg liep als een van de eerste weg. Hij had zich al moeten inhouden bij Wilders. Gelukkig kwam voorzitter Bergkamp op voor haar partijleider en snoerde ze Baudet de mond. De regeringspartijen CDA, VVD, CU, PVDA en GroenLinks steunden haar.
 
