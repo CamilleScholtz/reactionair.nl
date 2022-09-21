@@ -5,32 +5,31 @@ auteurs = ["Het huisloeder"]
 date = "2022-09-18"
 themas = "Cultuur en Maatschappij"
 aangehaald = ["Peterson", "Zimbardo"]
-image = "3fc3e471-c9d0-41b8-86b3-241d47546771.jpeg"
+image = "9fe.jpg"
 anchor = "Smart"
 +++
 Als je de krantenkoppen moet geloven, gaat Andrew Tate er persoonlijk verantwoordelijk voor zijn, dat de wereld verandert in een *Handmaid’s Tale* en een *Playboy Mansion* tegelijkertijd. De razernij is opmerkelijk maar tegelijkertijd begrijpelijk. Als iemand die zware seksuele intimidatie heeft meegemaakt, had ik ook een *fight or flight* reactie bij het zien van sommige filmpjes van Andrew Tate. Adrenaline begon door mijn lijf te stromen bij bepaalde uitspraken en het frustreert me dat ik nu onvoldoende kan uitleggen waarom ik totaal niet verbaasd was dat hij in de bak heeft gezeten voor het mishandelen van een vrouw. Iets in zijn hele houding herkende ik, maar ik kan  er helaas niet de vinger op leggen, of het nou een specifiek element was of het totaalpakket. 
 
 Veel seksuele roofdieren zijn ook meteen veelplegers, waardoor mannen zich als geslacht aangeklaagd voelen en de bereidheid om dit soort verhalen serieus te nemen minder wordt. Als voor jouw gevoel bijna elke vrouw een verhaal heeft, terwijl jij amper iemand kent die daartoe in staat zou zijn, is een verklaring dat het aangedikt wordt niet heel raar, maar wellicht wel onjuist. Als 1 man 25 vrouwen lastig valt, maar 24 mannen gedragen zich, komt het nog steeds over alsof alle mannen ransberen zijn. Nu het vrouwelijke perspectief naar voren is gekomen, moet ook een poging gedaan worden, om de achterban van Andrew Tate te begrijpen, zodat wij een gezondere variant van masculiniteit kunnen aanbieden.
 
-**De *trad* playboy**
+### De *trad* playboy
 
 Komt het doordat mannen allemaal linksige *sojapussies* zijn geworden, dat ze een rechtse *scumfuck* nodig hebben, die ze even vertelt hoe het zit? Eerst komen de sojapraatjes, en dan zegt Tate hoe het zit, waarop de *cuck*[^1] zegt: ‘Dat is ook wel waar’? Dat is natuurlijk net zo kort door de bocht als dat Tate volledig verantwoordelijk gehouden wordt voor het verpesten van een hele mannelijke generatie. Toch is dit wel wat verschillende artikelen in de media suggereren. Laten we een artikel van *De Correspondent* eruit pikken:
 
-“Een online beweging van voornamelijk jongemannen zint al enige jaren op eerherstel – terug naar de tijd waarin je vrouw een gebraad voor je neus zette en verder haar bek hield. En voor hen rispt het internet eens in de zoveel tijd een nieuwe heiland op. Een bullebak die zijn volgers in het gareel blaft door ze hun kamer op te laten ruimen, naar de gym te sturen, een dropship-imperium op de mouw te spelden, en ze gelijktijdig een gezonde dosis misogynie, transhaat en complotdenken toe te dienen.
-
-Psycholoog Jordan Peterson geldt zo’n beetje als de messias van dit redpilled evangelie. En nu is daar de ex-vriend van zijn dochter, Andrew Tate” [^2]
+> Een online beweging van voornamelijk jongemannen zint al enige jaren op eerherstel – terug naar de tijd waarin je vrouw een gebraad voor je neus zette en verder haar bek hield. En voor hen rispt het internet eens in de zoveel tijd een nieuwe heiland op. Een bullebak die zijn volgers in het gareel blaft door ze hun kamer op te laten ruimen, naar de gym te sturen, een dropship-imperium op de mouw te spelden, en ze gelijktijdig een gezonde dosis misogynie, transhaat en complotdenken toe te dienen. Psycholoog Jordan Peterson geldt zo’n beetje als de messias van dit redpilled evangelie. En nu is daar de ex-vriend van zijn dochter, Andrew Tate.[^2]
 
 Het is al opmerkelijk dat de sentimentele Jordan Peterson ideologisch op één lijn wordt gesteld met Andrew Tate. Waar Peterson juist wel gevoelens uit -hij het tijdens vraaggesprekken regelmatig niet droog houden- zit Tate juist te hameren op dat jij als man geen zwakte mag tonen. Er zijn wel overeenkomsten, maar ook enorme verschillen. Jordan Peterson zou je niet horen zeggen dat het voor een man minder erg is om vreemd te gaan en dat je je bitch moet meppen als ze je confronteert met vreemdgaan. 
 
 Hoewel er genoeg kritiek op Peterson mogelijk is, lijkt hij juist eerder vrouwen te willen behoeden  voor types zoals Tate dan dat hij Tate geschapen zou hebben, wat de Correspondentinsinueert. Tate gelooft niet in duurzame relaties, waar Peterson dat juist aanmoedigt in verband met stabiliteit en levensgeluk. 
 
-Mikhaila Peterson, zijn dochter, geeft toe dat zij een paar keer met Tate uit eten is geweest en Tate kennende kan dat inderdaad betekenen dat bepaalde kamers in het lichaam een goede schoonmaakbeurt hebben gehad. Mikhaila zelf beweert op Twitter dat het is gebleven bij eten. [^3] Dat ze toch opgevoerd wordt als de ex van, zegt iets over het journalistieke niveau van *de Correspondent*. Klaarblijkelijk mag je als kwaliteitsmedium creatief omspringen met de feiten als het gaat om een karaktermoord op een rechts icoon. Dat zou ook verklaren waarom Peterson in verband wordt gebracht met dropshipping, iets waar hij werkelijk niets mee te maken heeft.
+Mikhaila Peterson, zijn dochter, geeft toe dat zij een paar keer met Tate uit eten is geweest en Tate kennende kan dat inderdaad betekenen dat bepaalde kamers in het lichaam een goede schoonmaakbeurt hebben gehad. Mikhaila zelf beweert op Twitter dat het is gebleven bij eten.[^3] Dat ze toch opgevoerd wordt als de ex van, zegt iets over het journalistieke niveau van *de Correspondent*. Klaarblijkelijk mag je als kwaliteitsmedium creatief omspringen met de feiten als het gaat om een karaktermoord op een rechts icoon. Dat zou ook verklaren waarom Peterson in verband wordt gebracht met dropshipping, iets waar hij werkelijk niets mee te maken heeft.
 
-Het hele stuk van *de Correspondent* slaat de plank mis. Er wordt gesuggereerd dat volgens de fans van Tate en Peterson de draagzakpapa’s het probleem zijn en de lege-eierdoosmentaliteit van vrouwen platgeslagen moet worden met de harde kloppende fallus van de *gigatsjaad.*[^4] Met zijn magnifieke toverstaf, die een echte traditionalist nooit heeft opgemeten natuurlijk - terwijl hij dondersgoed weet dat hij 15,6 cm is - draait hij de traditionele genderrollen wel weer terug, want Jordan Peterson en Andrew Tate zijn ideologisch bijna hetzelfde - volgens *de Correspondent*. 
+Het hele stuk van *de Correspondent* slaat de plank mis. Er wordt gesuggereerd dat volgens de fans van Tate en Peterson de draagzakpapa’s het probleem zijn en de lege-eierdoosmentaliteit van vrouwen platgeslagen moet worden met de harde kloppende fallus van de *gigatsjaad*.[^4] Met zijn magnifieke toverstaf, die een echte traditionalist nooit heeft opgemeten natuurlijk - terwijl hij dondersgoed weet dat hij 15,6 cm is - draait hij de traditionele genderrollen wel weer terug, want Jordan Peterson en Andrew Tate zijn ideologisch bijna hetzelfde - volgens *de Correspondent*. 
 
 Nu we deze boeketreeksfantasie, die door Lale Gül opgeschreven had kunnen worden, hebben behandeld, gaan we nog dieper in op waar *de Correspondent* de plank gigantisch misslaat. Dit artikel heet immers *Over Andrew Tate* en niet *Ik ga baren*.
 
-**Vervangbaarheid**
+
+### Vervangbaarheid
 
 Terug naar de draagzakpapa’s. Heel veel van de jongens die opkijken naar Tate, waren blij geweest met een vader die papadag gehad zou hebben. Ze moeten naar mijn inzicht begrepen worden als reactie op liefdeloze gebroken gezinnen, waar geen aandacht en genegenheid is. Ja, ze zijn bang voor cucks, maar meer vanwege mannen die niets te vertellen hebben, en misschien zelf de hopeloos afhankelijke cuck te worden, waardoor het doel van gelijkwaardigheid voorbij geschoten wordt. Waar mannen tegenwoordig net zo vervangbaar zijn als vroeger, maar ook geen nieuwe rol toegewezen krijgen. Men ging er vanuit dat dit vanzelf wel groeit, en dat is dus niet gebeurd. Veel jongens en jongemannen zitten op hun kamer te gamen, rukken, gamen, rukken en komen daardoor weinig buiten. Vaak zijn het ook jongens met weinig vrienden, wat ook eigenlijk niemand lijkt te boeien, want we zien mannen nog steeds als vervangbaar.
 
@@ -38,7 +37,8 @@ De vervangbaarheid uit zich ook in andere dingen. De #MeToo-beweging noemt regel
 
 Hoewel het stereotype is dat mannen stabiel zijn en vrouwen emotionele chaos, blijkt uit onderzoek van het CBS dat mannen wel meer dan twee keer zo vaak zelfmoord plegen.[^6] Weliswaar doen vrouwen vaker een poging, maar ze kiezen vaker voor methodes waarbij de overlevingskans groter is. Mannen opteren vaker voor drastische middelen zoals lood door het brein, waar vrouwen een overdosis nemen of de polsen doorsnijden.[^7] Hier is de sociologische verklaring van *toxic masculinity* terecht, omdat van mannen verwacht worden dat ze hun emoties niet tonen, wat ook een kritiek op Andrew Tate is. Emoties uiten hoeft niet op een feminiene manier. Als er een of andere therapeut met een onderzoek zou komen waarbij hij mannelijke patiënten meeneemt naar een café om samen een drankje te doen en te praten over het leven en dat dat een beter resultaat oplevert, moet hij er vooral mee doorgaan.
 
-**Wat is mannelijkheid überhaupt tegenwoordig?**
+
+### Wat is mannelijkheid überhaupt tegenwoordig?
 
 Het concept van mannelijkheid is tegenwoordig vrij wazig gedefinieerd. Intersectionele denkers leggen vaak de nadruk op zaken als macht en overheersing. Daardoor voelen mannen zich vaak weggezet als een stel neanderthalers, die vrouwen nog steeds hun grot in willen sleuren en alles wat anders is dan blank, cisgender en heteroseksueel graag willen onderdrukken. Als iemand zoals Tate van dat stereotype zijn handelsmerk maakt, gaan die tieners eerst kijken met een houding van ‘*Lol*, dit kan echt niet eigenlijk.’ Dan krijg je volwassenen die geschokt reageren en dan begint het pas echt leuk te worden. Nu kun jij je lekker afzetten tegen die stomme *boomers*. Dat kunnen ouders, leraren, trainers op de sportclub of andere gezagsfiguren zijn. Mooi man!
 
@@ -47,19 +47,11 @@ De vraag is hoe je dat rellen een halt toeroept. Wat begint met rellen, kan eind
 Philip Zimbardo had 11 jaar geleden al een *Ted-talk* waarin de alarmklok luidde over de toestand van opgroeiende jongens en jongemannen.[^8] Het is jammer dat er in de tussentijd zo weinig mee is gedaan. We kijken naar de fans van Tate alleen als monsters, *incels*, die we vooral belachelijk moeten maken omdat ze geen seks kunnen krijgen. Misschien zijn ze dat ook wel op een manier en daarom moet jij misschien iets doen dat moeilijker is dan haat. De monsters die liefde het minste lijken te verdienen, hebben het soms juist het meeste nodig. Zeker als je wil dat het menselijke in hen terugkeert. 
 
 
-
 [^1]: Afkorting van cuckold, het Engelse woord voor een bedrogen echtgenoot, maar tegenwoordig heeft het de specifieke betekenis van iemand die graag toekijkt terwijl zijn echtgenote de liefde bedrijft met een ander.
-
 [^2]: Lees het artikel van *de Correspondent* [hier](https://decorrespondent.nl/13630/wie-is-toch-die-andrew-tate-die-elke-dag-mijn-sociale-media-bevuilt/20910852696030-b536910a).
-
-[^3]: [](https://twitter.com/MikhailaFuller/status/1294314790421237761?t=pyIEOLr5PU74bLxYV4KG1w&s=19)Lees [hier](https://twitter.com/mikhailafuller/status/1294314790421237761?s=21) haar Tweet daarover.
-
+[^3]: Lees [hier](https://twitter.com/mikhailafuller/status/1294314790421237761?s=21) haar Tweet daarover.
 [^4]: Lege-eierdoosmentaliteit: de mentaliteit van een vrouw wier vruchtbare jaren (bijna) voorbij zijn. Gigatsjaad: Nederlandse versie van gigachad, een ultramasculiene man.
-
 [^5]: Over de resultaten van het betreffende onderzoek kunt u [hier](https://psycnet.apa.org/record/2014-09544-001) lezen. 
-
 [^6]: Het CBS heeft deze cijfers [hier](https://www.cbs.nl/nl-nl/longread/statistische-trends/2021/zelfdoding-in-nederland-een-overzicht-vanaf-1950/2-resultaten) openbaar beschikbaar.
-
 [^7]: Lees [hier](https://www.eoswetenschap.eu/psyche-brein/meer-mannen-dan-vrouwen-sterven-door-zelfmoord) een uitgebreider artikel over dit onderscheid. 
-
 [^8]: Philip Zimbardo – [Why boys are failing](https://youtu.be/sgAu1i6aChs)
