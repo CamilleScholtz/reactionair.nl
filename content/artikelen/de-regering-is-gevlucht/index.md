@@ -5,7 +5,7 @@ auteurs = ["Sanura"]
 date = "2022-09-21"
 themas = "Politiek en Actualiteit"
 aangehaald = ["Thierry Baudet"]
-image = "fdm7xdnxkaau8gd.jpeg"
+image = "data90997978-6e6fda.jpg"
 anchor = "Smart"
 +++
 Het kabinet vluchtte onverwacht de kamer uit.[^1] De democratische rechtsstaat stort in elkaar. Armoede en chaos zijn het nieuwe normaal. *‘We zijn een grens over gegaan!’* zei Rutte. Hij heeft helemaal gelijk. De emmer is over gelopen. Wat er gebeurde was onacceptabel. Weg gaan was de enige juist reactie gezien:
