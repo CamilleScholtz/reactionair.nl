@@ -4,7 +4,7 @@ subtitle = "En het belang van een gezond mannelijk rolmodel"
 auteurs = ["Het huisloeder"]
 date = "2022-09-21"
 themas = "Cultuur en Maatschappij"
-aangehaald = ["Peterson", "Zimbardo"]
+aangehaald = ["Jordan Peterson"]
 image = "9fe.webp"
 anchor = "Smart"
 +++
@@ -28,7 +28,6 @@ Het hele stuk van *de Correspondent* slaat de plank mis. Er wordt gesuggereerd
 
 Nu we deze boeketreeksfantasie, die door Lale Gül opgeschreven had kunnen worden, hebben behandeld, gaan we nog dieper in op waar *de Correspondent* de plank gigantisch misslaat. Dit artikel heet immers *Over Andrew Tate* en niet *Ik ga baren*.
 
-
 ### Vervangbaarheid
 
 Terug naar de draagzakpapa’s. Heel veel van de jongens die opkijken naar Tate, waren blij geweest met een vader die papadag gehad zou hebben. Ze moeten naar mijn inzicht begrepen worden als reactie op liefdeloze gebroken gezinnen, waar geen aandacht en genegenheid is. Ja, ze zijn bang voor cucks, maar meer vanwege mannen die niets te vertellen hebben, en misschien zelf de hopeloos afhankelijke cuck te worden, waardoor het doel van gelijkwaardigheid voorbij geschoten wordt. Waar mannen tegenwoordig net zo vervangbaar zijn als vroeger, maar ook geen nieuwe rol toegewezen krijgen. Men ging er vanuit dat dit vanzelf wel groeit, en dat is dus niet gebeurd. Veel jongens en jongemannen zitten op hun kamer te gamen, rukken, gamen, rukken en komen daardoor weinig buiten. Vaak zijn het ook jongens met weinig vrienden, wat ook eigenlijk niemand lijkt te boeien, want we zien mannen nog steeds als vervangbaar.
@@ -36,7 +35,6 @@ Terug naar de draagzakpapa’s. Heel veel van de jongens die opkijken naar Tate,
 De vervangbaarheid uit zich ook in andere dingen. De #MeToo-beweging noemt regelmatig het probleem, dat vrouwen die seksuele intimidatie of misbruik hebben meegemaakt, vaak niet worden geloofd. Hoewel waar, ook om o.a. de reden die ik in het begin van dit stuk noemde, namelijk dat daders ook vaak veelplegers zijn, worden mannen veel minder vaak geloofd. Uit een onderzoek van de Universiteit van Missouri uit 2014 blijkt dat 43% van de ondervraagde mannen minstens een keer seks tegen zijn wil hebben gehad.[^5] In 95% van de gevallen was het een vrouw die als agressor werd aangeduid. Bij 18% werd ook gebruik gemaakt van geweld. Als je als man al wordt geloofd, heb je kans om uitgelachen te worden wanneer de dader een vrouw is. Jij bent de zwakkeling die een vrouw niet aankan, of als man wil je toch wel seks.
 
 Hoewel het stereotype is dat mannen stabiel zijn en vrouwen emotionele chaos, blijkt uit onderzoek van het CBS dat mannen wel meer dan twee keer zo vaak zelfmoord plegen.[^6] Weliswaar doen vrouwen vaker een poging, maar ze kiezen vaker voor methodes waarbij de overlevingskans groter is. Mannen opteren vaker voor drastische middelen zoals lood door het brein, waar vrouwen een overdosis nemen of de polsen doorsnijden.[^7] Hier is de sociologische verklaring van *toxic masculinity* terecht, omdat van mannen verwacht worden dat ze hun emoties niet tonen, wat ook een kritiek op Andrew Tate is. Emoties uiten hoeft niet op een feminiene manier. Als er een of andere therapeut met een onderzoek zou komen waarbij hij mannelijke patiënten meeneemt naar een café om samen een drankje te doen en te praten over het leven en dat dat een beter resultaat oplevert, moet hij er vooral mee doorgaan.
-
 
 ### Wat is mannelijkheid überhaupt tegenwoordig?
 
@@ -46,12 +44,11 @@ De vraag is hoe je dat rellen een halt toeroept. Wat begint met rellen, kan eind
 
 Philip Zimbardo had 11 jaar geleden al een *Ted-talk* waarin de alarmklok luidde over de toestand van opgroeiende jongens en jongemannen.[^8] Het is jammer dat er in de tussentijd zo weinig mee is gedaan. We kijken naar de fans van Tate alleen als monsters, *incels*, die we vooral belachelijk moeten maken omdat ze geen seks kunnen krijgen. Misschien zijn ze dat ook wel op een manier en daarom moet jij misschien iets doen dat moeilijker is dan haat. De monsters die liefde het minste lijken te verdienen, hebben het soms juist het meeste nodig. Zeker als je wil dat het menselijke in hen terugkeert. 
 
-
 [^1]: Afkorting van cuckold, het Engelse woord voor een bedrogen echtgenoot, maar tegenwoordig heeft het de specifieke betekenis van iemand die graag toekijkt terwijl zijn echtgenote de liefde bedrijft met een ander.
-[^2]: Lees het artikel van *de Correspondent* [hier](https://decorrespondent.nl/13630/wie-is-toch-die-andrew-tate-die-elke-dag-mijn-sociale-media-bevuilt/20910852696030-b536910a).
-[^3]: Lees [hier](https://twitter.com/mikhailafuller/status/1294314790421237761?s=21) haar Tweet daarover.
+[^2]: De correspondent: *[Wie is toch die Andrew Tate, die elke dag mijn tijdlijn bevuilt?](https://decorrespondent.nl/13630/wie-is-toch-die-andrew-tate-die-elke-dag-mijn-sociale-media-bevuilt/20910852696030-b536910a)*
+[^3]: [Desbetreffende tweet](https://twitter.com/mikhailafuller/status/1294314790421237761?s=21) van Mikhaila Peterson.
 [^4]: Lege-eierdoosmentaliteit: de mentaliteit van een vrouw wier vruchtbare jaren (bijna) voorbij zijn. Gigatsjaad: Nederlandse versie van gigachad, een ultramasculiene man.
-[^5]: Over de resultaten van het betreffende onderzoek kunt u [hier](https://psycnet.apa.org/record/2014-09544-001) lezen. 
-[^6]: Het CBS heeft deze cijfers [hier](https://www.cbs.nl/nl-nl/longread/statistische-trends/2021/zelfdoding-in-nederland-een-overzicht-vanaf-1950/2-resultaten) openbaar beschikbaar.
-[^7]: Lees [hier](https://www.eoswetenschap.eu/psyche-brein/meer-mannen-dan-vrouwen-sterven-door-zelfmoord) een uitgebreider artikel over dit onderscheid. 
+[^5]: APA Psycnet: *[Sexual coercion context and psychosocial correlates among diverse males](https://psycnet.apa.org/record/2014-09544-001)*.
+[^6]: CBS: *[Zelfdoding in Nederland: een overzicht vanaf 1950.](https://www.cbs.nl/nl-nl/longread/statistische-trends/2021/zelfdoding-in-nederland-een-overzicht-vanaf-1950/2-resultaten)*
+[^7]: Eos wetenschap: *[meer mannen dan vrouwen sterven door zelfmoord](https://www.eoswetenschap.eu/psyche-brein/meer-mannen-dan-vrouwen-sterven-door-zelfmoord)*.
 [^8]: Philip Zimbardo – [Why boys are failing](https://youtu.be/sgAu1i6aChs)
