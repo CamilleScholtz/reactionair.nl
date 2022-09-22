@@ -13,7 +13,7 @@ Het kabinet vluchtte onverwacht de kamer uit.[^1] De democratische rechtsstaat s
 * De ontvoering van ruim 1000 kinderen tijdens de toeslagenaffaire.[^2]
 * De ruim 5 miljard die verdween.[^3]
 * Het geheim houden van rechterlijke adviezen voor de kamer door Huge de Jonge.[^4]
-* Demmink.^5]
+* Demmink.[^5]
 * Sywert van Lienden’s mondkapjes deal.
 * Omtzigt *functie elders*.
 * Demmink.
