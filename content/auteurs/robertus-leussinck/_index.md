@@ -1,7 +1,7 @@
 +++
 title = "Robertus Leussinck "
 profession = "Bestrijder van Calvinisme"
-description = "Robertus Leussinck is Katholiek."
+description = "Robertus Leussinck is onbeschaamd katholiek, fier traditionalist en connaisseur in alle verfijnde zaken.\n"
 pseudonym = true
-image = "ksjea2dt_400x400.jpg"
+image = "robert-bellarmine.jpeg"
 +++
