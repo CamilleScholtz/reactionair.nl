@@ -191,30 +191,32 @@ const scroll = (header, main, mobile) => {
 	}
 
 	window.addEventListener("scroll", () => {
-		if (!ticking) {
-			ticking = true;
-			setTimeout(() => {
-				ticking = false;	
-			}, 100);
+		if (ticking) {
+			return;
+		}
 
-			const scroll = window.scrollY;
+		ticking = true;
+		setTimeout(() => {
+			ticking = false;	
+		}, 100);
 
-			if (scroll < 40) {
-				if (hidden) {
-					show(scroll);
-				}
+		const scroll = window.scrollY;
 
-				return;
-			}
-
-			if (!hidden && scroll > lastScroll + 12) {
-				hide(scroll);
-			} else if (hidden && scroll < lastScroll - 100) {
+		if (scroll < 40) {
+			if (hidden) {
 				show(scroll);
 			}
 
-			lastScroll = scroll;
+			return;
 		}
+
+		if (!hidden && scroll > lastScroll + 12) {
+			hide(scroll);
+		} else if (hidden && scroll < lastScroll - 100) {
+			show(scroll);
+		}
+
+		lastScroll = scroll;
 	});
 }
 

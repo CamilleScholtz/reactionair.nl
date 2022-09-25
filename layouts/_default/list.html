@@ -3,7 +3,7 @@
 		{{ if eq .Section "auteurs" }}
 			{{ partial "authors/large.html" (site.GetPage (printf "/auteurs/%s" (urlize .Params.title))) }}
 		{{ else }}
-			<h1>{{ .Params.title }}</h1>
+			<h1>{{ .Params.heading | safeHTML }}</h1>
 		{{ end }}	
 	</div>
 
