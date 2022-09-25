@@ -1,6 +1,5 @@
 /public
 /resources
-/assets/js/vendor
 /.hugo_build.lock
 node_modules
 .DS_Store
