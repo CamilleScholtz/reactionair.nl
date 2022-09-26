@@ -1,6 +1,6 @@
 +++
-title = "Transgenderwet: hoe de gendergekte nu ook via het recht de samenleving verzwakt en subjectiveert"
-subtitle = "Wat de wijziging van de Transgenderwet inhoudt"
+title = "De implicaties van de Transgenderwet"
+subtitle = "Hoe de gendergekte nu via het recht de samenleving verzwakt en subjectiveert"
 auteurs = ["Calvin Tangelder"]
 date = "2022-09-26"
 themas = "Politiek en Actualiteit"
