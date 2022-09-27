@@ -127,6 +127,7 @@ const justify = (main) => {
 		const elements = main.querySelectorAll(".content>p, .content>blockquote p, .content>ul li p, .content>ol li p, .welcomments__comment-message p");
 
 		texLinebreak.texLinebreakDOM(elements, {
+			hangingPunctuation:     false,
 			ignoreFloatingElements: true,
 		});
 	});

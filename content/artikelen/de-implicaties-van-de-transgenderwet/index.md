@@ -4,7 +4,7 @@ subtitle = "Hoe de gendergekte nu via het recht de samenleving verzwakt en subje
 auteurs = ["Calvin Tangelder"]
 date = "2022-09-26"
 themas = "Politiek en Actualiteit"
-dossiers = ["Woke"]
+dossiers = ["Transgenderisme", "Woke"]
 image = "inter.webp"
 anchor = "Top"
 +++
