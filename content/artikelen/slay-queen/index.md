@@ -7,7 +7,6 @@ date = "2022-09-08"
 themas = "Cultuur & Maatschappij"
 image = "geoduck-2.webp"
 anchor = "Smart"
-draft = true
 +++
 *Dit is een vertaling van een kort verhaal van de zeer getalenteerde auteur Zero HP Lovecraft, die we het best kunnen zien als een combinatie van Lovecraft, Borges en Houellebecq voor het internettijdperk. We willen de lezer vantevoren waarschuwen dat de inhoud nogal onsmakelijk kan zijn, maar niettemin een belangrijke boodschap bevat en naar onze mening van hoge literaire waarde is. De ontknoping zal U verbazen! Het origineel is [hier](https://zerohplovecraft.wordpress.com/2021/09/27/the-diagnosis-of-aplasia/) te vinden.*
 
