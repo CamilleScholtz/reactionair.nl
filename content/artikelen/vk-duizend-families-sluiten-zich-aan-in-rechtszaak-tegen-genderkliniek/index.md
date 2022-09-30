@@ -4,7 +4,7 @@ subtitle = "Nederlandse media opvallend stil"
 auteurs = ["Paars van Grinsterer"]
 date = "2022-08-11"
 themas = "Politiek en Actualiteit"
-dossiers = ["Transgenderisme", "Woke"]
+dossiers = ["Woke"]
 image = "kid.jpg"
 anchor = "Smart"
 +++

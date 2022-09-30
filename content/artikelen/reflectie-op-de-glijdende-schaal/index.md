@@ -1,7 +1,7 @@
 +++
 auteurs = ['Eco al-Hollandi']
 date = '2022-06-15'
-dossiers = ['Woke', 'Transgenderisme']
+dossiers = ['Woke']
 subtitle = 'Drogreden of werkelijkheid?'
 themas = 'Politiek en Actualiteit'
 title = 'Reflectie op de glijdende schaal'
