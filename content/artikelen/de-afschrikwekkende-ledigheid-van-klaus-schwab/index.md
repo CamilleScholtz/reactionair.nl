@@ -4,7 +4,7 @@ subtitle = "Een recensie van COVID-19: The Great Reset"
 auteurs = ["De redactie"]
 date = "2022-10-05"
 themas = "Recensie en Biografie"
-image = "8sr.jpeg"
+image = "demon.webp"
 anchor = "Top"
 +++
 Dit artikel is een vertaling van het stuk *The Terrifying Vacuity of Klaus Schwab* van Eugyppius, het origineel is [hier](https://www.eugyppius.com/p/the-terrifying-vacuity-of-klaus-schwab) te lezen.
