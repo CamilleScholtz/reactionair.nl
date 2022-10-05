@@ -1,5 +1,5 @@
 +++
-title = "De afschrikwekkende ledigheid van Klaus Schwab [grafiek ontbreekt nog in tekst/AP]"
+title = "De afschrikwekkende ledigheid van Klaus Schwab"
 subtitle = "Een recensie van COVID-19: The Great Reset"
 auteurs = ["De redactie"]
 date = "2022-10-05"
