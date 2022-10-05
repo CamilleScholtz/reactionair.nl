@@ -5,13 +5,19 @@
 	{{ end }}
 	{{ $image := .Page.Resources.GetMatch $src }}
 
-	<img 
-		srcset="{{ ($image.Resize "864x webp").RelPermalink }} 864w,
-		        {{ ($image.Resize "1728x webp").RelPermalink }} 1728w"
-		sizes="(max-width: 1920px) 864px,
-		       1728px"
-		src="{{ ($image.Resize "1728x webp").RelPermalink }}"
-		alt="{{ .Get "caption" }}">
+	{{ if eq $image.MediaType.SubType "svg" }}
+		<img 
+			src="{{ $image.RelPermalink }}"
+			alt="{{ .Get "caption" }}">
+	{{ else }}
+		<img 
+			srcset="{{ ($image.Resize "864x webp").RelPermalink }} 864w,
+			        {{ ($image.Resize "1728x webp").RelPermalink }} 1728w"
+			sizes="(max-width: 1920px) 864px,
+			       1728px"
+			src="{{ ($image.Resize "1728x webp").RelPermalink }}"
+			alt="{{ .Get "caption" }}">
+	{{ end }}
 
 	<figcaption>
 		<p>{{ .Get "caption" | safeHTML }}</p>
