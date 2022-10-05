@@ -106,8 +106,6 @@ De Davos-kliek zien zichzelf als post-ideologische technocratische probleemoplos
 Naoorlogs optimisme en de generatie van ononderbroken technologische vooruitgang die erop volgde, hebben bij sommige mensen het geloof aangewakkerd dat we op de rand stonden van een nieuwe wereld, eentje waar de utopische mondiale orde zowel natiestaten als bedrijven zou overstijgen, om een post-kapitalistisch, post-nationalistisch tijdperk in te luiden waar al onze prangende problemen opgelost zouden worden. Echter bleven de natiestaten aanwezig, bedrijven met een winstoogmerk zijn er nog steeds en technologische vooruitgang is gestagneerd. Wat overblijft is een hoop jargon en ledigheid, zonder enige betekenis.[^4]
 
 [^1]: Science Advances, *[Air pollution and COVID-19 mortality in the United States: Strengths and limitations of an ecological regression analysis](https://www.science.org/doi/10.1126/sciadv.abd4049)*.
-
-
 [﻿^2]: Van de these in kwestie, dat het Coronavirus afkomstig zou zijn van schubdieren, is reeds aangetoond dat dit zeer onwaarschijnlijk is, lees *[hier](https://www.nature.com/articles/s41564-020-0771-4)* meer over waarom dit het geval is.
 [﻿^3]: Dit document is op verzoek van kamerlid Van Houwelingen van de Forum voor Democratie vrijgegeven en *[hier](https://open.overheid.nl/repository/ronl-3ce77537-2a5a-41d4-9d3d-64c12b88ec6d/1/pdf/Bijlage%203%20-%20Nazending%20Kamervragen%20Van%20Houwelingen.pdf)* te vinden op pagina 17.
 [﻿^4]: Verwijzing van de auteur naar een passage uit Shakespeares *Macbeth* (Vijfde bedrijf, scene 5):<br>
