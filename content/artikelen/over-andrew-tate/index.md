@@ -2,7 +2,7 @@
 title = "Over Andrew Tate"
 subtitle = "En het belang van een gezond mannelijk rolmodel"
 auteurs = ["Het huisloeder"]
-date = "2022-09-21"
+date = "2022-10-08"
 themas = "Cultuur en Maatschappij"
 aangehaald = ["Jordan Peterson"]
 image = "9fe.webp"
