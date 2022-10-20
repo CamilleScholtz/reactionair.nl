@@ -21,11 +21,9 @@ Dus strippen om het katholicisme te beledigen is vrijheid van meningsuiting, het
 
 Geldt dit recht ook voor halfnaakte protesten in synagogen of moskeeën om kritiek te uiten op jodendom of islam door hun bijeenkomsten te verstoren en ze te beledigen? Mogen neofascistische vrouwen ook een demonstratief namaakexorcisme laten zien bij een COC-bijeenkomst?
 
-Vrijheid van meningsuiting wordt al decennia beperkt in de naam van het tegengaan van haat. Maar haat uiten tegen over traditionalistische christenen is helemaal toppie blijkbaar. Verbod op haat geldt alleen voor buitenlandse godsdiensten en voor moderne minderheidsgroepen. Het vervolgen van haat tegen de traditionele nationale religie past niet bij de oikofobie en grootouderhaat die dominant zijn in het culturele marxisme.
+Vrijheid van meningsuiting wordt al decennia beperkt in de naam van het tegengaan van haat. Maar haat uiten tegenover traditionalistische christenen is helemaal toppie blijkbaar. Verbod op haat geldt alleen voor buitenlandse godsdiensten en voor moderne minderheidsgroepen. Het vervolgen van haat tegen de traditionele nationale religie past niet bij de oikofobie en grootouderhaat die dominant zijn in het culturele marxisme.
 
 Het Europese Hof voor de Rechten van de Mens, gelooft niet in gelijke rechten. Het is een puur politiek instituut dat de soevereiniteit van landen aantast. Moslims hebben het recht dat mensen geen kritische dingen zeggen over hun geloof, katholieken zijn niet veilig in hun eigen kerken.
-
- 
 
 [^1] https://cvandaag.nl/93060-franse-activist-promootte-abortus-in-kerk-parijs-met-topless-vertoning-en-krijgt-na-9-jaar-schadevergoeding
 
