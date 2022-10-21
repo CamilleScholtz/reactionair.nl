@@ -4,6 +4,7 @@ subtitle = "In een synagoge ook?"
 auteurs = ["Sanura"]
 date = "2022-10-20"
 themas = "Cultuur en Maatschappij"
+dossiers = ["Christendom"]
 image = "eloisebouton_femen1.jpg"
 anchor = "Smart"
 +++
