@@ -5,7 +5,7 @@ auteurs = ["Sanura"]
 date = "2022-10-20"
 themas = "Cultuur en Maatschappij"
 dossiers = ["Christendom"]
-image = "eloisebouton_femen1.jpg"
+image = "untitled-4.png"
 anchor = "Smart"
 +++
 Het Europese Hof voor de Rechten van de Mens heeft Frankrijk veroordeeld voor het bestraffen van Éloïse Bouton, voor haar halfnaakte protest in een katholieke kerk. Ze was een kerk in gelopen en had de boel verstoord door topless een abortus na te doen van een zogenaamd kindje Jezus op het altaar.[^1]
