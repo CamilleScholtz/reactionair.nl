@@ -1,5 +1,5 @@
 +++
-title = "Waarom sommige mensen gelijker zijn dan anderen"
+title = "Over het gelijkheidsprincipe"
 subtitle = "Enkele reflecties op de betekenis van gelijkheid in onze samenleving "
 auteurs = ["Anton Prins"]
 date = "2022-10-23"
