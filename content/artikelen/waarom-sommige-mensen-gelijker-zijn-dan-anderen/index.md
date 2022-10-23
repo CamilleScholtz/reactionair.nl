@@ -1,10 +1,10 @@
 +++
 title = "Waarom sommige mensen gelijker zijn dan anderen"
-subtitle = "Enkele reflecties over wat gelijkheid in onze samenleving betekent"
+subtitle = "Enkele reflecties op de betekenis van gelijkheid in onze samenleving "
 auteurs = ["Anton Prins"]
 date = "2022-09-16"
 themas = "Religie en Metafysica"
-aangehaald = ["Nietzsche", "Schopenhauer", "Derrida", "Foucault", "De Chateaubriand"]
+aangehaald = ["Friedrich Nietzsche", "Arthur Schopenhauer", "Jacques Derrida", "Michel Foucault", "François René De Chateaubriand"]
 image = "petrov-vodkin-fantasy.jpg"
 anchor = "Smart"
 caption = "Kuzma Petrov-Vodkin, Fantasia"
