@@ -3,7 +3,7 @@ title = "Waarom sommige mensen gelijker zijn dan anderen"
 subtitle = "Enkele reflecties op de betekenis van gelijkheid in onze samenleving "
 auteurs = ["Anton Prins"]
 date = "2022-10-23"
-themas = "Cultuur en Maatschappij"
+themas = "Religie en Metafysica"
 aangehaald = ["Friedrich Nietzsche", "Arthur Schopenhauer", "Jacques Derrida", "Michel Foucault", "François René De Chateaubriand"]
 image = "petrov-vodkin-fantasy.jpg"
 anchor = "Smart"
@@ -35,26 +35,18 @@ Wat die retoriek betreft: deze kan het beste worden bezien in het licht van de r
 
 Door deze retoriek, door de ogenschijnlijk redelijke onderbouwingen die door gelijkheidsstrijders worden aangewend in een poging ons te overbluffen moeten we heen prikken net zozeer als we de deugdelijke maskerade die de gelijkheidsstrijder opvoert moeten doorzien. De sleutel dit te doen ligt in het erkennen en benoemen van de fundamentele *onwaarde* van gelijkheid als kernprincipe. Laat mij hier uiterst precies zijn: er zijn wel degelijk contexten waarin een bepaalde toepassing van gelijkheid niet onverdienstelijk kan zijn, mits ondergeschikt aan andere, hogere waarden. Ik meen dat ook De Chateaubriand deze gedachte deelt, als wij lezen hoe hij over gelijkheid spreekt: 
 
-> *L'égalité, notre passion naturelle, est magnifique dans les grands cœurs, mais, pour les âmes étroites, c'est tout simplement de l'envie; et, dans la foule, des meurtres et des désordres; et puis l'égalité, comme le cheval de la fable, se laisse brider et seller pour se défaire de son ennemi; toujours l'égalité s'est perdue dans le despotisme.*[^5]
+*L'égalité, notre passion naturelle, est magnifique dans les grands cœurs, mais, pour les âmes étroites, c'est tout simplement de l'envie; et, dans la foule, des meurtres et des désordres; et puis l'égalité, comme le cheval de la fable, se laisse brider et seller pour se défaire de son ennemi; toujours l'égalité s'est perdue dans le despotisme.*[^5]
 
 De problemen ontstaan in de context van het wegvallen van deze hogere waarden in een geseculariseerde samenleving waar andere Goden ten grave zijn gedragen, wanneer het gelijkheidsprincipe als absoluut wordt verheven. Om de waanzin van de gelijkheidsdrang te bestrijden, zullen wij derhalve genoodzaakt zijn om de vanzelfsprekendheid waarmede de gelijkheid als principe wordt onderschreven te doorbreken en andere waarden weer op de voorgrond te brengen.
 
 Dit zal niet, zoals men misschien zou denken, een verschuiving betekenen van het gehele paradigma waarop de Westerse samenleving is gebouwd: integendeel, het voormalige vuur van deze oude waarden smeult nog na en hoeft louter aangewakkerd te worden. Het is zaak de schuimbekkende hordes die beneveld zijn door hun fanatisme het hoofd te bieden en standvastig te blijven in ons ongeloof aan de gelijkheid. Nee, laat ons zelfs de ongelijkheid *omarmen*; want de grenzeloos geborneerden[^5] waaruit het merendeel van de mensheid bestaat bestormen de paleizen en de tempels enkel en alleen om zich als beesten aan de dis van edelen en priesters neer te vlijen en zich vol te vreten. Het is de zelfzucht die hen leidt en onder dit brute geweld zullen de nobelere kwaliteiten der mensheid breken, tenzij wij ze vurig blijven uitdragen en verdedigen en in de harten van de mensen het vuur, het verlangen naar tijdloze waarden, weer weten te ontsteken. 
 
-[^1]: Gij predikers der gelijkheid, de tirannenwaanzin der onmacht schreeuwt zodoende uit u om "gelijkheid": uw heimelijkste tirannieke verlangens vermommen zich zo in deugdzame woorden!
-
+[^1]: Gij predikers der gelijkheid, de tirannenwaanzin der onmacht schreeuwt zodoende uit u om "gelijkheid": uw heimelijkste tirannieke verlangens vermommen zich zo in deugdzame woorden!<br><br>
 Friedrich Nietzsche, Also sprach Zarathustra, II. Teil, Von den Taranteln; zie [Over de wraakzucht der tarantula's](https://reactionair.nl/artikelen/over-de-wraakzucht-der-tarantulas/).
-
-\[﻿^2]: 1 Korintiërs 15:32: Laten we eten en drinken, want morgen zullen we sterven.
-
-[^3]: Zelfs bij een redelijk gelijk niveau qua scholing kunnen wij de conversatie tussen een grote geest en een gemiddeld intellect vergelijken met de gezamenlijke reis van een man die op een levendig paard zit met een voetganger. Voor beiden wordt deze reis al gauw uiterst vermoeiend en uiteindelijk onmogelijk. Kortstondig kan de ruiter afstijgen om met de ander te wandelen, hoewel zelfs dan het ongeduld van zijn paard het hem lastig zal maken.
-
+[﻿^2]: 1 Korintiërs 15:32: Laten we eten en drinken, want morgen zullen we sterven.
+[^3]: Zelfs bij een redelijk gelijk niveau qua scholing kunnen wij de conversatie tussen een grote geest en een gemiddeld intellect vergelijken met de gezamenlijke reis van een man die op een levendig paard zit met een voetganger. Voor beiden wordt deze reis al gauw uiterst vermoeiend en uiteindelijk onmogelijk. Kortstondig kan de ruiter afstijgen om met de ander te wandelen, hoewel zelfs dan het ongeduld van zijn paard het hem lastig zal maken.<br><br>
 Arthur Schopenhauer, *Die Welt als Wille und Vorstellung*, II. Band, Ergänzungen zum ersten Buch, Kapitel XV
-
 [^4]: Hierover is eerder op deze website een treffend artikel gepubliceerd. Het betreffende artikel is [hier]([https://reactionair.nl/​artikelen/wat-zijn-gelijke-​kansen/](https://reactionair.nl/artikelen/wat-zijn-gelijke-kansen/)) te lezen.
-
-[^5]: De gelijkheid, onze natuurlijke passie, is magnifiek in grote harten, maar, voor de kleine zielen, is het eenvoudigweg nijd; en, in de menigte, moorden en wanorde; en gelijkheid laat zich dan, zoals het fabelpaard, teugelen en opzadelen om zich van haar vijanden te ontdoen; de gelijkheid is altijd verloren geweest in despotisme.
-
+[^5]: De gelijkheid, onze natuurlijke passie, is magnifiek in grote harten, maar, voor de kleine zielen, is het eenvoudigweg nijd; en, in de menigte, moorden en wanorde; en gelijkheid laat zich dan, zoals het fabelpaard, teugelen en opzadelen om zich van haar vijanden te ontdoen; de gelijkheid is altijd verloren geweest in despotisme.<br><br>
 De Chateaubriand, *Mémoires d'outre-tombe.*
-
 [^6]: Dit woordgrapje wordt bij monde van het personage herr Marcellus Stengel gemaakt door Thomas Mann in zijn *Buddenbrooks*.
