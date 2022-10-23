@@ -41,13 +41,9 @@ De problemen ontstaan in de context van het wegvallen van deze hogere waarden in
 
 Dit zal niet, zoals men misschien zou denken, een verschuiving betekenen van het gehele paradigma waarop de Westerse samenleving is gebouwd: integendeel, het voormalige vuur van deze oude waarden smeult nog na en hoeft louter aangewakkerd te worden. Het is zaak de schuimbekkende hordes die beneveld zijn door hun fanatisme het hoofd te bieden en standvastig te blijven in ons ongeloof aan de gelijkheid. Nee, laat ons zelfs de ongelijkheid *omarmen*; want de grenzenloos geborneerden[^5] waaruit het merendeel van de mensheid bestaat bestormen de paleizen en de tempels enkel en alleen om zich als beesten aan de dis van edelen en priesters neer te vlijen en zich vol te vreten. Het is de zelfzucht die hen leidt, en onder dit brute geweld zullen de nobelere kwaliteiten des mensheids breken, tenzij wij hen vurig blijven uitdragen en verdedigen en in de harten van de mensen het vuur, het verlangen naar tijdloze waarden, weer weten te ontsteken.
 
-
-
-
-
 [^1]: Gij predikers der gelijkheid, de tirannenwaanzin der onmacht schreeuwt zodoende uit u om "gelijkheid": uw heimelijkste tirannieke verlangens vermommen zich zo in deugdzame woorden!
 
-Friedrich Nietzsche, Also sprach Zarathustra, II. Teil, Von den Taranteln
+Friedrich Nietzsche, Also sprach Zarathustra, II. Teil, Von den Taranteln; zie ook [Over de wraakzucht der tarantula's](https://reactionair.nl/artikelen/over-de-wraakzucht-der-tarantulas/).
 
 [^2]: Zelfs bij een redelijk gelijk niveau qua scholing kunnen wij de conversatie tussen een grote geest en een gemiddeld intellect vergelijken met de gezamenlijke reis van een man die op een levendig paard zit met een voetganger. Voor beiden wordt deze reis al gauw uiterst vermoeiend, en uiteindelijk onmogelijk. Kortstondig kan de ruiter afstijgen om met de ander te wandelen, hoewel zelfs dan het ongeduld van zijn paard het hem lastig zal maken.
 
