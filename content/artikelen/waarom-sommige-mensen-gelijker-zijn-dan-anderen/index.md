@@ -2,7 +2,7 @@
 title = "Waarom sommige mensen gelijker zijn dan anderen"
 subtitle = "Enkele reflecties op de betekenis van gelijkheid in onze samenleving "
 auteurs = ["Anton Prins"]
-date = "2022-09-16"
+date = "2022-10-23"
 themas = "Religie en Metafysica"
 aangehaald = ["Friedrich Nietzsche", "Arthur Schopenhauer", "Jacques Derrida", "Michel Foucault", "François René De Chateaubriand"]
 image = "petrov-vodkin-fantasy.jpg"
