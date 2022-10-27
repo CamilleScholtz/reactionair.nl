@@ -46,7 +46,7 @@ Friedrich Nietzsche, Also sprach Zarathustra, II. Teil, Von den Taranteln; zie *
 [^2]: 1 Korintiërs 15:32: Laten we eten en drinken, want morgen zullen we sterven.
 [^3]: Zelfs bij een redelijk gelijk niveau qua scholing kunnen wij de conversatie tussen een grote geest en een gemiddeld intellect vergelijken met de gezamenlijke reis van een man die op een levendig paard zit met een voetganger. Voor beiden wordt deze reis al gauw uiterst vermoeiend en uiteindelijk onmogelijk. Kortstondig kan de ruiter afstijgen om met de ander te wandelen, hoewel zelfs dan het ongeduld van zijn paard het hem lastig zal maken.<br><br>
 Arthur Schopenhauer, *Die Welt als Wille und Vorstellung*, II. Band, Ergänzungen zum ersten Buch, Kapitel XV
-[^4]: Hierover is eerder op deze website een treffend artikel gepubliceerd. Het betreffende artikel is *[hier]([https://reactionair.nl/​artikelen/wat-zijn-gelijke-​kansen/)* te lezen.
+[^4]: Hierover is eerder op deze website een treffend artikel gepubliceerd. Het betreffende artikel is *[hier](https://reactionair.nl/​artikelen/wat-zijn-gelijke-​kansen/)* te lezen.
 [^5]: De gelijkheid, onze natuurlijke passie, is magnifiek in grote harten, maar, voor de kleine zielen, is het eenvoudigweg nijd; en, in de menigte, moorden en wanorde; en gelijkheid laat zich dan, zoals het fabelpaard, teugelen en opzadelen om zich van haar vijanden te ontdoen; de gelijkheid is altijd verloren geweest in despotisme.<br><br>
 De Chateaubriand, *Mémoires d'outre-tombe.*
 [^6]: Dit woordgrapje wordt bij monde van het personage herr Marcellus Stengel gemaakt door Thomas Mann in zijn *Buddenbrooks*.
