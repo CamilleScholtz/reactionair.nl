@@ -5,7 +5,7 @@ auteurs = ["Sanura"]
 date = "2022-10-29"
 themas = "Politiek en Actualiteit"
 image = "fiesta.jpg"
-anchor = "Smart"
+anchor = "Top"
 +++
 De Spaanse senaat heeft begin deze maand eindelijk de controversiële ‘democratische’ herinnering wet goedgekeurd. Een stokpaardje van de socialistisch-communistische regering in Spanje. Dit voorstel werd meer als 4 jaar besproken. De New York Times beschreef indertijd hoe de huidige extreem linkse regering haar ideologische en eenzijdige versie van de geschiedenis tot wet wil verheffen en tegengeluiden wil verbieden.[^1]
 
