@@ -1,16 +1,17 @@
 +++
-aangehaald = ['René Guénon']
-auteurs = ['Camille Meloen']
-date = '2022-05-02'
-dossiers = ['Islam']
-subtitle = 'al-Tawhīdu wāhidun'
-themas = 'Religie en Metafysica'
-title = 'De leer van de Eenheid is één'
+title = "De leer van de Eenheid is één"
+subtitle = "al-Tawhīdu wāhidun"
+auteurs = ["Camille Meloen"]
+date = "2022-05-02"
+themas = "Religie en Metafysica"
+dossiers = ["Islam"]
+aangehaald = ["René Guénon"]
 image = "thumb.webp"
+anchor = "Center"
 +++
 
 
-Wanneer ik boeken lees, vergeet ik de meeste zinnen binnen enkele minuten. Ik lees boeken voor de kleine goudklompjes die toch blijven hangen. Eén zo'n goudklompje is te vinden in de volgende alinea in het boek van René Guénon, _Aperçus sur l'ésotérisme islamique et le taoïsme_:
+Wanneer ik boeken lees, vergeet ik de meeste zinnen binnen enkele minuten. Ik lees boeken voor de zeldzame parels. Eén zo'n parel is de volgende alinea in een boek van René Guénon, _Aperçus sur l'ésotérisme islamique et le taoïsme_:
 
 >De leer van de Eenheid, dat wil zeggen de bevestiging dat het Beginsel van alle bestaan in wezen Eén is, is een fundamenteel punt dat alle orthodoxe tradities gemeen hebben, en we zouden zelfs kunnen zeggen dat het op dit punt is dat hun fundamentele identiteit het duidelijkst naar voren komt, zich uitend in haar eigen uitdrukking. Inderdaad, waar Eenheid is, verdwijnt alle verscheidenheid, en het is slechts in het afdalen naar veelheid dat verschillen in vorm verschijnen, waarbij de uitdrukkingswijzen zelf dan even veelvoudig zijn als datgene waarnaar zij verwijzen, en vatbaar voor onbepaalde variatie in het zich aanpassen aan de omstandigheden van tijd en plaats. Maar "de leer van de Eenheid is één" (volgens de Arabische formule _al-Tawhīdu wāhidun_), dat wil zeggen dat deze overal en altijd hetzelfde is, onveranderlijk als het Beginsel, onafhankelijk van veelheid en verandering, die alleen toepassingen van een contingente orde kunnen beïnvloeden.
 
