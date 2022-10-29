@@ -2,7 +2,7 @@
 title = "Illusie van democratie?"
 subtitle = "EU gedoogd totalitarisme en censuur in Spanje"
 auteurs = ["Sanura"]
-date = "2022-10-28"
+date = "2022-10-29"
 themas = "Politiek en Actualiteit"
 image = "fiesta.jpg"
 anchor = "Smart"
