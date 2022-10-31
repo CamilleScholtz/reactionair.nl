@@ -121,16 +121,27 @@ const footnotes = (main, mobile) => {
 	});
 }
 
-const justify = (main) => {
-	document.fonts.ready.then(() => {
-		// TODO: Comments without paragraphs don't have p elements.
-		const elements = main.querySelectorAll(".content>p, .content>blockquote p, .content>ul li p, .content>ol li p, .welcomments__comment-message p");
+/*const justify = (main) => {
+	// TODO: Comments without paragraphs don't have p elements.
+	const elements = main.querySelectorAll(".content>p, .content>blockquote p, .content>ul li p, .content>ol li p, .welcomments__comment-message p");
 
+	document.fonts.ready.then(() => {
 		texLinebreak.texLinebreakDOM(elements, {
 			hangingPunctuation:     false,
 			ignoreFloatingElements: true,
 		});
 	});
+}*/
+
+const smallcaps = (main) => {
+	const sentence = main.querySelector(".content>p");
+
+	let pattern = /^(.*?[^\w\d\s\'‘’“”\-\u00C0-\u024F\u1E00-\u1EFF<>/])/;
+	if (sentence.innerHTML.match(pattern)[0].split(" ").length > 10) {
+		pattern = /^([\S]+\s[\S]+\s[\S]+)/;
+	}
+
+	sentence.innerHTML = sentence.innerHTML.replace(pattern, "<span style=\"font-variant: small-caps;\">$1</span>");
 }
 
 const time = (header) => {
@@ -357,7 +368,8 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	const main   = document.querySelector("main");
 
 	quote(main);
-	justify(main);
+	//justify(main);
+	smallcaps(main)
 	scroll(header, main, mobile);
 	time(header);
 	search(header, mobile);
