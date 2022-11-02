@@ -19,7 +19,8 @@
 				{{ if .lazy }}
 					loading="lazy"
 				{{ end }}
-				alt="{{ .context.Params.title }}">
+				alt="{{ .context.Params.title }}"
+				style="background: {{ index $image.Colors 0 }};">
 		</figure>
 	{{ end }}
 </a>

@@ -135,9 +135,12 @@ const footnotes = (main, mobile) => {
 
 const smallcaps = (main) => {
 	const sentence = main.querySelector(".content>p");
+	if (!sentence) {
+		return;
+	}
 
 	let pattern = /^(.*?[^\w\d\s\'‘’“”\-\u00C0-\u024F\u1E00-\u1EFF<>/])/;
-	if (sentence.innerHTML.match(pattern)[0].split(" ").length > 10) {
+	if (sentence.innerHTML.match(pattern)[0].split(" ").length > 9) {
 		pattern = /^([\S]+\s[\S]+\s[\S]+)/;
 	}
 

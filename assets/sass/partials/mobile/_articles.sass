@@ -22,14 +22,14 @@
 	&.large
 		.text
 			margin-top: 30px
-			overflow: hidden
-			white-space: nowrap
 
 			h2
+				display: -webkit-box
 				font-size: 28px
-				line-height: 30px
+				line-height: 36px
+				-webkit-line-clamp: 2
+				-webkit-box-orient: vertical
 				overflow: hidden
-				text-overflow: ellipsis
 
 	&.small
 		grid-template-columns: auto 100px

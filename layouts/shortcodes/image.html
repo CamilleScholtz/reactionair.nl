@@ -16,7 +16,8 @@
 			sizes="(max-width: 1920px) 864px,
 			       1728px"
 			src="{{ ($image.Resize "1728x webp").RelPermalink }}"
-			alt="{{ .Get "caption" }}">
+			alt="{{ .Get "caption" }}"
+			style="background: {{ index $image.Colors 0 }};">
 	{{ end }}
 
 	<figcaption>

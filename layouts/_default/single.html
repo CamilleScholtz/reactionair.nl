@@ -9,7 +9,8 @@
 						srcset="{{ ($image.Resize "x1024 webp").RelPermalink }} 1x,
 						        {{ ($image.Resize "x2048 webp").RelPermalink }} 2x"
 						src="{{ ($image.Resize "x2048 webp").RelPermalink }}"
-						alt="{{ if isset .Params "caption" }}{{ .Params.caption }}{{ else }}{{ .Params.title }}{{ end }}">
+						alt="{{ if isset .Params "caption" }}{{ .Params.caption }}{{ else }}{{ .Params.title }}{{ end }}"
+						style="background: {{ index $image.Colors 0 }};">
 
 					{{ if isset .Params "caption" }}
 						<figcaption>{{ .Params.caption }}</figcaption>

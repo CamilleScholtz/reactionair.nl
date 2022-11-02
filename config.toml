@@ -16,7 +16,7 @@ ignoreErrors = ["error-output-taxonomy", "error-remote-getjson"]
 disableHugoGeneratorInject = true
 
 [params]
-	revision = "852"
+	revision = "853"
 
 [taxonomies]
 	auteur     = "auteurs"
