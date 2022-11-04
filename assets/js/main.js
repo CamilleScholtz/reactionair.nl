@@ -138,6 +138,7 @@ const smallcaps = (main) => {
 	if (!sentence) {
 		return;
 	}
+	console.log(sentence.innerHTML);
 
 	let pattern = /^(.*?[^\w\d\s\'‘’“”\-\u00C0-\u024F\u1E00-\u1EFF<>/])/;
 	if (sentence.innerHTML.match(pattern)[0].split(" ").length > 9) {
