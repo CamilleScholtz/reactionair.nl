@@ -120,23 +120,40 @@ In het bijzonder, zegt Socrates tegen Parrhasius, drukt de kunstenaar datgene ui
 
 **V**
 Er is een band tussen de Schoonheid en het leven, zoals er een band is tussen de Schoonheid en de ziel. En is het niet zo dat wanneer wij proberen uit te drukken waarom we iets schoon vinden, vaak niet verder komen dan te zeggen dat hier leven is, dat hier ziel is, dat hier kracht is. En zo, zegt Plotinus, vinden wij iets schoon wanneer we er ziel in herkennen, wanneer we onszelf er in herkennen. De Schoonheid, doorheen al haar verschillende manifestaties, brengt ons dichter bij onszelf, en zo dichter bij het leven. Want wat zijn wij anders, dan een levend leven?
+
+
 Daar waar de schoonheid zich toont, is ziel, en daar is ons ware leven. De kunst vormt zo nooit een ontwijking van de realiteit, maar een van de plekken waar zij zich reveleert. De kunst is niet een activiteit die ons helpt te ontsnappen aan het leven, maar brengt ons tot leven.
-“C’est au point même où elles nous montrent leur beauté que les choses nous découvrent aussi leur réalité.” (Louis Lavelle, 332)
-8
 
- “Het is precies op het punt waar ze ons hun schoonheid laten zien, dat de dingen ook hun realiteit aan ons onthullen.” (Louis Lavelle, 332)
+
+*“C’est au point même où elles nous montrent leur beauté que les choses nous découvrent aussi leur réalité.”* (Louis Lavelle, 332)
+
+
+*“Het is precies op het punt waar ze ons hun schoonheid laten zien, dat de dingen ook hun realiteit aan ons onthullen.”* (Louis Lavelle, 332)
+
+
 Het moge gezegd zijn, dat diegenen die de schoonheid trachten te ontmantelen, of haar trachten te verplaatsen naar datgene dat niet de schoonheid is, hiermee ook het leven wegdragen van zichzelf. En zij die de schoonheid nergens vinden, zijn zij die zelf weinig schoon zijn, want gelijken herkennen gelijken.
-De schoonheid is niet gekend doorheen bepaalde criteria, maar wordt spontaan ervaren, “Het is iets wat zelfs bij de eerste blik wordt waargenomen, en de ziel spreekt erover, alsof ze het begrijpt, en bij de herkenning neemt ze het op en vormt ze er als het ware een harmonieus paar mee.” (Plotinus, I.6.2.)
-En zo ook is het wanneer de ziel op het lelijke stuit, dan “‘deinst ze terug’ en moet ze er niets van hebben en ze keert zich er vanaf, daar ze er niet mee accordeert en zich er niet mee verwant voelt.” (Plotinus, I.6.2.)
+
+
+De schoonheid is niet gekend doorheen bepaalde criteria, maar wordt spontaan ervaren, *“Het is iets wat zelfs bij de eerste blik wordt waargenomen, en de ziel spreekt erover, alsof ze het begrijpt, en bij de herkenning neemt ze het op en vormt ze er als het ware een harmonieus paar mee.”* (Plotinus, I.6.2.)
+
+
+En zo ook is het wanneer de ziel op het lelijke stuit, dan *“‘deinst ze terug’ en moet ze er niets van hebben en ze keert zich er vanaf, daar ze er niet mee accordeert en zich er niet mee verwant voelt.”* (Plotinus, I.6.2.)
+
+
 Intuïtief herkennen wij de schoonheid, en intuïtief kunnen wij haar onderscheiden van het lelijke. En enkel zij die vragend naar een verklaring de weg zijn kwijtgeraakt, kunnen dit ontkennen. De vraag naar wat het schone schoon maakt, kan ons dichter tot de schoonheid brengen, maar ons er ook van weg dragen.
+
+
 Het moge gezegd zijn, dat zij die geen schoonheid kennen in de klassieke vorm, zelf weinig gevormd zijn. En het moge gezegd zijn, dat zij die weinig schoonheid zien in het licht van de zon, zelf ver weg staan van hun natuur.
+
+
 Zij die zich keren tegen de schoonheid, om zo het zijn te redden, hebben niet begrepen dat het zijn daar is waar de schoonheid is.
-Bronnen:
-9
 
- Immanuel Kant. Kritiek van de zuivere rede. Vertaald door Jabik Veenbaas en Willem Visser. Amsterdam: Boom, 2004.
-Louis Lavelle. Philosophie et Intériorité. Paris: Vrin, 2004.
-Platoon. Dialogen. Vertaald door M.A. Schwartz. Antwerpen: Spectrum,
 
-1960. Plotinus. Enneaden. Vertaald door Rein Ferwerda. Budel: Damon, 2005.
-      10
+**Bronnen:**\
+Immanuel Kant. *Kritiek van de zuivere rede.* Vertaald door Jabik Veenbaas en Willem Visser. Amsterdam: Boom, 2004.
+\
+Louis Lavelle. *Philosophie et Intériorité.* Paris: Vrin, 2004.
+\
+Platoon. *Dialogen*. Vertaald door M.A. Schwartz. Antwerpen: Spectrum, 1960.\
+\
+Plotinus. *Enneaden*. Vertaald door Rein Ferwerda. Budel: Damon, 2005.
