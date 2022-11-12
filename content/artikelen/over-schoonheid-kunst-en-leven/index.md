@@ -55,39 +55,60 @@ Het schone kan zich op veel plekken tonen, maar ze is deze plekken niet. Als sch
 Want langs *“hoe en langs welke weg zij ook heeft plaatsgevonden”*, hierover kan ik niets met zekerheid zeggen, *“behalve dat door het schone alle schone dingen schoon worden.”* (Plato, Phaidoon) De schoonheid kan zich overal tonen, zolang ze er maar is.
 
 
-Het lijkt dat we hier spreken in tautologieën zonder betekenis, resulterend uit een luie rede, een ignava ratio, die *“ertoe leidt dat men het natuuronderzoek, op welk terrein dan ook, als absoluut voltooid beschouwt, zodat de rede zich te ruste begeeft alsof ze haar taak volledig heeft volbracht.”* (Kant, KrV, A689-690/B717-718) We zoeken naar de schoonheid, we vinden haar niet, en moe van al het zoeken geven we het dan maar op en zeggen vermoeid; het schone is simpelweg schoon omwille van de Schoonheid. Maar is het zo, dat deze uitspraak het resultaat is van luiheid en een onvermogen van onze kant om de schoonheid te vinden? Of is het zo, dat deze uitspraak net het resultaat is van een denken dat tot het uiterste gegaan is, een denken dat de jacht naar het schone tot zijn uiterste heeft gedreven? We hebben alle mogelijkheden uitgesloten, en alleen de Schoonheid blijft over. Dat is, zolang we tenminste blijven geloven dat onze ervaring van schoonheid ons iets zegt over het daadwerkelijk bestaan van schoonheid. Het schone is schoon omwille van de Schoonheid, is dit de uitspraak van een lui denken, of van een denken dat tot het uiterste is gegaan?
+Het lijkt dat we hier spreken in tautologieën zonder betekenis, resulterend uit een luie rede, een ignava ratio, die *“ertoe leidt dat men het natuuronderzoek, op welk terrein dan ook, als absoluut voltooid beschouwt, zodat de rede zich te ruste begeeft alsof ze haar taak volledig heeft volbracht.”* (Kant, KrV, A689-690/B717-718) We zoeken naar de schoonheid, we vinden haar niet, en moe van al het zoeken geven we het dan maar op en zeggen vermoeid; het schone is simpelweg schoon omwille van de Schoonheid. Maar is het zo, dat deze uitspraak het resultaat is van luiheid en een onvermogen van onze kant om de schoonheid te vinden? Of is het zo, dat deze uitspraak net het resultaat is van een denken dat tot het uiterste gegaan is, een denken dat de jacht naar het schone tot haar uiterste heeft gedreven? We hebben alle mogelijkheden uitgesloten, en alleen de Schoonheid blijft over. Dat is, zolang we tenminste blijven geloven dat onze ervaring van schoonheid ons iets zegt over het daadwerkelijk bestaan van schoonheid. Het schone is schoon omwille van de Schoonheid, is dit de uitspraak van een lui denken, of van een denken dat tot het uiterste is gegaan?
 
 
 De Idee legt misschien niet zo zeer een stop op het denken, als dat ze het resultaat is van het meest volhardende denken.
-III
-4
 
- In veel opzichten zijn zij die beweren dat schoonheid relatief is, en zij die volhouden aan het meest absolute criterium dat het schone schoon is omwille van de Schoonheid, op hetzelfde spoor. Beiden gaan uit van de ervaring van schoonheid, en gaan vervolgens op zoek naar een verklaring. Wat is het dat schone dingen schoon maakt? En alle mogelijkheden doorlopen, valt er nog steeds niets te vinden.
+
+**III**\
+In veel opzichten zijn zij die beweren dat schoonheid relatief is, en zij die volhouden aan het meest absolute criterium dat het schone schoon is omwille van de Schoonheid, op hetzelfde spoor. Beiden gaan uit van de ervaring van schoonheid, en gaan vervolgens op zoek naar een verklaring. Wat is het dat schone dingen schoon maakt? En alle mogelijkheden doorlopen, valt er nog steeds niets te vinden.
+
+
 Nu is er een die hieruit concludeert dat er niet één ding is dat de schone dingen schoon maakt, maar dat het ene nu als schoon verschijnt en dan als lelijk, en dat iets soms mooi is en soms niet, en dan weer voor de ene persoon schoon, maar voor een ander lelijk. Alles kan schoon zijn, want niets is noodzakelijk schoon. Wat een bevrijding, eindelijk klaar met die schoonheid die zich maar niet liet vangen. Er valt geen criterium voor schoonheid te vinden, dus alles kan schoon zijn, of niets, dat is zijn antwoord.
+
+
 Een ander doorloopt de zelfde zoektocht, maar zijn conclusie is van een heel andere aard. Hij zegt; we hebben gezien dat de schoonheid van niets in het bijzonder afhangt, en precies daarom hebben we haar gevonden. We hebben voorbij al haar maskers gekeken, hebben al haar valse gedaantes gezien, en kunnen haar nu vatten op zichzelf; het schone is schoon omwille van de Schoonheid. Niet alles is schoon, maar enkel datgene waarin de Schoonheid zich toont.
+
+
 We zijn gestart met de ervaring die ons vertelde dat schone dingen schoon zijn. En het denken voltooid kunnen we nu bevestigen, schone dingen zijn schoon omdat ze schoon zijn. Zoekend naar wat schone dingen schoon maakt, hoe hadden we ooit gedacht tevreden te kunnen zijn, met een verklaring die zich op iets anders beroept dan de schoonheid zelf?
-Er is hier sprake van twee verschillende denk-houdingen. De een verwerpt een vaste grond van de schoonheid op basis van de afwezigheid van criteria. Er is geen vast criterium te vinden, dus zijn er ook geen vaste criteria waaraan voldaan moet worden opdat het schone schoon kan zijn. En indien de schoonheid geen grond heeft, waarom dan zelfs nog over haar spreken? Immers, hoe kan dat wat geen grond heeft, een écht bestaan hebben? Het andere denken neemt precies deze afwezigheid van criteria als haar criterium voor schoonheid. Er zijn geen criteria te vinden, en dit toont maar aan hoe écht de schoonheid is, want, we hebben gezien dat ze volledig op zichzelf staat, niet afhankelijk van symmetrie, vorm, narratief,
-5
 
- of wat dan ook. In afwezigheid voor heldere criteria die iets schoon zouden maken, wordt de schoonheid zelf het criterium.
+
+Er is hier sprake van twee verschillende denk-houdingen. De een verwerpt een vaste grond van de schoonheid op basis van de afwezigheid van criteria. Er is geen vast criterium te vinden, dus zijn er ook geen vaste criteria waaraan voldaan moet worden opdat het schone schoon kan zijn. En indien de schoonheid geen grond heeft, waarom dan zelfs nog over haar spreken? Immers, hoe kan dat wat geen grond heeft, een écht bestaan hebben? Het andere denken neemt precies deze afwezigheid van criteria als haar criterium voor schoonheid. Er zijn geen criteria te vinden, en dit toont maar aan hoe écht de schoonheid is, want, we hebben gezien dat ze volledig op zichzelf staat, niet afhankelijk van symmetrie, vorm, narratief, of wat dan ook. In afwezigheid van heldere criteria die iets schoon zouden maken, wordt de schoonheid zelf het criterium.
+
+
 Wat bepaalt het verschil tussen deze twee houdingen?
+
+
 We hebben hier een denken dat niet meer gelooft in zijn eigen kracht de schoonheid te vatten, wanneer het zich niet langer kan beroepen op iets buiten dit schone —de symmetrie, de vorm, de kleur, etc. En we hebben een denken dat, wat de schoonheid vreemd is eens afgeworpen, des te zekerder is over de schoonheid.
+
+
 We starten allemaal met de ervaring van schoonheid, maar sommigen verliezen hun geloof in deze ervaring wanneer ze haar niet kunnen gronden. Anderen, kunnen hierdoor net deze ervaring zelf denken als grond.
-IV
+
+
+**IV**
 Vele dingen zijn schoon, maar wat hen precies schoon maakt, dit kunnen we nooit precies bepalen. Vandaar, dat hij die te erg naar een bepaling zoekt naast de schoonheid, het gevaar loopt de Schoonheid nooit te vatten. Soms is dit mooi, en soms dat. Maar de Schoonheid als zodanig is nergens, en volledig onzichtbaar.
+
+
 We zien, horen, en voelen soms de Schoonheid. Ook al zien we haar niet.
-Wat bedoelen we wanneer we voor een kunstwerk staan, en zeggen dat het schoon is? De kunst drukt de Schoonheid uit, soms doorheen dit, soms doorheen dat. En hoe meer de Schoonheid zich uitdrukt in het kunstwerk, hoe schoner. Maar, wat is de Schoonheid, wat is dat wat uitgedrukt wordt in het kunstwerk? Wat is dat, als het niet eens zichtbaar is? Hoe valt de Schoonheid te kennen, als ze niet kenbaar is? En we kennen haar wel degelijk.
+
+
+Wat bedoelen we wanneer we voor een kunstwerk staan, en zeggen dat het schoon is? De kunst drukt de Schoonheid uit, soms doorheen dit, soms doorheen dat. En hoe meer de Schoonheid zich uitdrukt in het kunstwerk, hoe schoner. Maar, wat is de Schoonheid, wat is dat wat uitgedrukt wordt in het kunstwerk? Wat is *dat*, als het niet eens zichtbaar is? Hoe valt de Schoonheid te kennen, als ze niet kenbaar is? En we kennen haar wel degelijk.\
+
 Als wij teveel met onze ogen willen zien, zouden we bepaalde zaken wel eens helemaal niet meer kunnen zien.
-6
 
- “En ik vreesde dat ik geheel verblind van ziel zou worden, als ik met de ogen naar de dingen zou kijken.” (Plato, Phaidoon, 99e)
+ *“En ik vreesde dat ik geheel verblind van ziel zou worden, als ik met de ogen naar de dingen zou kijken.”* (Plato, Phaidoon, 99e)\
+
 We zien schone dingen, maar de schoonheid zelf valt nooit te zien.
-Het is deze paradox, het zowel zichtbare als onzichtbare karakter van de schoonheid, die het onderwerp vormt van een dialoog in Xenophon’s Memorabilia. In deze dialoog ondervraagt Socrates de kunstenaar Parrhasius, beroemd omwille van zijn levens-echte schilderijen. De vraag die op het spel staat is of kunst de dingen uitbeeldt. Geeft kunst een imitatie van de dingen?
-Socrates vraagt aan Parrhasius of de kunst bestaat uit het gelijkenis maken van dat wat zichtbaar is. De kunstenaar bevestigt, waarop Socrates vraagt of de kunst dan ook de ziel uitbeeldt. Maar hoe, zegt Parrhasius, zou de kunstenaar de ziel kunnen uitbeelden? De ziel heeft immers geen proportie, kleur, of wat dan ook, en ze is volkomen onzichtbaar. De ziel is niet als zodanig zichtbaar, want zij is eerder datgene dat ziet. Hoe zou de kunstenaar, die noodzakelijk gebruik maakt van zichtbare materialen, de ziel dan kunnen uitbeelden? Socrates is niet tevreden met het antwoord, en vraagt Parrhasius of de ziel niet zichtbaar is in de uitdrukkingen op iemands gezicht, in zijn ogen, in hoe hij zijn lichaam draagt, in zijn handelingen. De ziel is inderdaad onzichtbaar, maar toch, ze drukt zich uit in het zichtbare lichaam. En het lichaam kan wel degelijk uitgebeeld worden door de kunstenaar. Parrhasius is gedwongen het eens te zijn.
-Niets dat het waard is valt in zijn volle glorie waar te nemen. Waar vinden wij ooit iemand die volledig wijsheid is, of een kunstwerk dat volledig schoonheid is, of iemand die volledig moedig is? Of waar zien wij ooit een ziel? Zelfs onze eigen ziel kunnen we strikt genomen niet ‘zien.’ Deze dingen vallen niet te zien, maar in uitgebeelde vorm, in hun uitdrukkingen in het zichtbare, verrijken ze alsnog het leven. We zien nooit de wijsheid, maar wij herkennen wijze mensen. We zien nooit de moed, maar wij herkennen moedige daden. En we zien nooit de schoonheid, maar wij worden geraakt door de schoonheid van de dingen. Moeten wij dan ophouden te spreken over de Schoonheid, de Moed, of de Wijsheid, omdat we haar niet kunnen zien? Zullen we de ziel uit ons vocabularium schrappen, omdat we haar enkel kunnen zien in haar uitdrukkingen? Niets, zegt Kant, is “schadelijker en een filosoof onwaardiger dan een vulgair
-7
+Het is deze paradox, het zowel zichtbare als onzichtbare karakter van de schoonheid, die het onderwerp vormt van een dialoog in Xenophons *Memorabilia*. In deze dialoog ondervraagt Socrates de kunstenaar Parrhasius, beroemd omwille van zijn levens-echte schilderijen. De vraag die op het spel staat is of kunst de dingen uitbeeldt. Geeft kunst een imitatie van de dingen?
 
- beroep op de zogenaamd tegenstrijdige ervaring.” (Kant, KrV, A316/ B376)
+
+Socrates vraagt aan Parrhasius of de kunst bestaat uit het gelijkenis maken van dat wat zichtbaar is. De kunstenaar bevestigt, waarop Socrates vraagt of de kunst dan ook de ziel uitbeeldt. Maar hoe, zegt Parrhasius, zou de kunstenaar de ziel kunnen uitbeelden? De ziel heeft immers geen proportie, kleur, of wat dan ook, en ze is volkomen onzichtbaar. De ziel is niet als zodanig zichtbaar, want zij is eerder datgene dat ziet. Hoe zou de kunstenaar, die noodzakelijk gebruik maakt van zichtbare materialen, de ziel dan kunnen uitbeelden? Socrates is niet tevreden met het antwoord, en vraagt Parrhasius of de ziel niet zichtbaar is in de uitdrukkingen op iemands gezicht, in zijn ogen, in hoe hij zijn lichaam draagt, in zijn handelingen. De ziel is inderdaad onzichtbaar, maar toch, ze drukt zich uit in het zichtbare lichaam. En het lichaam kan wel degelijk uitgebeeld worden door de kunstenaar. Parrhasius is gedwongen het eens te zijn.
+
+
+Niets dat het waard is valt in zijn volle glorie waar te nemen. Waar vinden wij ooit iemand die volledig wijsheid is, of een kunstwerk dat volledig schoonheid is, of iemand die volledig moedig is? Of waar zien wij ooit een ziel? Zelfs onze eigen ziel kunnen we strikt genomen niet ‘zien.’ Deze dingen vallen niet te zien, maar in uitgebeelde vorm, in hun uitdrukkingen in het zichtbare, verrijken ze alsnog het leven. We zien nooit de wijsheid, maar wij herkennen wijze mensen. We zien nooit de moed, maar wij herkennen moedige daden. En we zien nooit de schoonheid, maar wij worden geraakt door de schoonheid van de dingen. Moeten wij dan ophouden te spreken over de Schoonheid, de Moed, of de Wijsheid, omdat we haar niet kunnen zien? Zullen we de ziel uit ons vocabularium schrappen, omdat we haar enkel kunnen zien in haar uitdrukkingen? Niets, zegt Kant, is “schadelijker en een filosoof onwaardiger dan een vulgair beroep op de zogenaamd tegenstrijdige ervaring.” (Kant, KrV, A316/ B376)
+
+
 De Schoonheid is onzichtbaar, maar soms zichtbaar omdat er symmetrie is, soms omdat er kleur is, soms omdat er verhaal is, soms omdat er deugd is, en zo verder. De fout bestaat erin te denken dat de Schoonheid volledig gevat kan worden door te verwijzen naar haar uitdrukkingen. Maar de schoonheid bevindt zich niet in de symmetrie, maar schijnt ons toe doorheen de symmetrie, en soms door wat anders.
 Het is misschien accurater te stellen dat de schoonheid ons vat, doorheen de vormen waarin ze zich uitdrukt. En de taak van de kunstenaar bestaat erin de dingen zo vorm te geven, dat de schoonheid zich welkom voelt.
 In het bijzonder, zegt Socrates tegen Parrhasius, drukt de kunstenaar datgene uit dat mensen het meest aantrekt, de schijn van levendigheid. De kunst drukt dat in het leven uit dat het leven haar karakter van levendigheid geeft. En de beste kunst is de meest levendige kunst. Niet dat de beste kunst noodzakelijk de meest ‘realistische’ kunst is. Immers, een enkele penseelstreek kan veel meer leven bevatten dan een slecht mens.
