@@ -112,10 +112,10 @@ Niets dat het waard is valt in zijn volle glorie waar te nemen. Waar vinden wij 
 De Schoonheid is onzichtbaar, maar soms zichtbaar omdat er symmetrie is, soms omdat er kleur is, soms omdat er verhaal is, soms omdat er deugd is, en zo verder. De fout bestaat erin te denken dat de Schoonheid volledig gevat kan worden door te verwijzen naar haar uitdrukkingen. Maar de schoonheid bevindt zich niet in de symmetrie, maar schijnt ons toe doorheen de symmetrie, en soms door wat anders.
 
 
-Het is misschien accurater te stellen dat de schoonheid ons vat, doorheen de vormen waarin ze zich uitdrukt. En de taak van de kunstenaar bestaat erin de dingen zo vorm te geven, dat de schoonheid zich welkom voelt.
+Het is misschien accurater te stellen dat de schoonheid *ons* vat, doorheen de vormen waarin ze zich uitdrukt. En de taak van de kunstenaar bestaat erin de dingen zo vorm te geven, dat de schoonheid zich welkom voelt.
 
 
-In het bijzonder, zegt Socrates tegen Parrhasius, drukt de kunstenaar datgene uit dat mensen het meest aantrekt, de schijn van levendigheid. De kunst drukt dat in het leven uit dat het leven haar karakter van levendigheid geeft. En de beste kunst is de meest levendige kunst. Niet dat de beste kunst noodzakelijk de meest ‘realistische’ kunst is. Immers, een enkele penseelstreek kan veel meer leven bevatten dan een slecht mens.
+In het bijzonder, zegt Socrates tegen Parrhasius, drukt de kunstenaar datgene uit dat mensen het meest aantrekt, *de schijn van levendigheid*. De kunst drukt dat in het leven uit dat het leven haar karakter van levendigheid geeft. En de beste kunst is de meest levendige kunst. Niet dat de beste kunst noodzakelijk de meest ‘realistische’ kunst is. Immers, een enkele penseelstreek kan veel meer leven bevatten dan een slecht mens.
 
 
 **V**
