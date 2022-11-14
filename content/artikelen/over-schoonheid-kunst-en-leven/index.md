@@ -126,7 +126,7 @@ Zij die zich keren tegen de schoonheid, om zo het zijn te redden, hebben niet be
 
 [^3]: Plato, Phaidoon
 
-[^4]: Plato, Phaidoon
+[^4]: Ibid.
 
 [^5]: Immanuel Kant, *Kritiek van de zuivere rede*, A689-690/B717-718. Vertaald door Jabik Veenbaas en Willem Visser. Amsterdam: Boom, 2004.
 
@@ -138,4 +138,4 @@ Zij die zich keren tegen de schoonheid, om zo het zijn te redden, hebben niet be
 
 [^9]: Plotinus, *Enneaden*, I.6.2.
 
-[^9]:
+[^10]: Ibid.
