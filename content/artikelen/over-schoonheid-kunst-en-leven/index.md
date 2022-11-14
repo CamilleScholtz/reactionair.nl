@@ -1,6 +1,6 @@
 +++
-title = "Over schoonheid, kunst, en leven"
-subtitle = "Een reflectie"
+title = "Het veiligste antwoord"
+subtitle = "Over schoonheid, kunst, en leven"
 auteurs = ["Tólma"]
 date = "2022-11-12"
 themas = "Religie en Metafysica"
