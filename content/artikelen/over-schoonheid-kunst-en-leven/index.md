@@ -31,21 +31,21 @@ Alle wegen leiden naar een aporie. Schoonheid valt niet te vinden, en blijkt wat
 Als we onze vragen te serieus zouden nemen, zouden we nog wel eens het gevaar lopen de schoonheid van de zon te ontkennen... Voor een denken dat niet oplet, is goud even schoon als modder.
 
 **II**
-Wat is het nu? Is de schoonheid overal, of is ze enkel daar waar aan bepaalde criteria voldaan wordt? Beide antwoorden leiden tot een tekort aan schoonheid. Want als de schoonheid overal is, is ze nergens meer. En als ze alleen daar is waar er bijvoorbeeld vorm is of een verhaal, lopen we heel wat schoonheid mis.\
+Wat is het nu? Is de schoonheid overal, of is ze enkel daar waar aan bepaalde criteria voldaan wordt? Beide antwoorden leiden tot een tekort aan schoonheid. Want als de schoonheid overal is, is ze nergens meer. En als ze alleen daar is waar er bijvoorbeeld vorm is of een verhaal, lopen we heel wat schoonheid mis.
 
 Maar er is een derde optie, die we schijnbaar vergeten zijn. In al ons zoeken naar de schoonheid is iets merkwaardigs op te merken. Want hoe zijn wij op zoek gegaan naar de schoonheid? Wij hebben schoonheid ervaren op een bepaald moment op een bepaalde plaats, in bepaalde omstandigheden, en vervolgens vroegen wij ons af hoe het kwam dat hier de schoonheid zich toonde.
 
-Wij zijn op zoek gegaan naar de omstandigheden waarin de schoonheid zich toont, en dachten met deze omstandigheden te benoemen de schoonheid benoemd te hebben. Wij zijn op zoek gegaan naar de plek waar zij zich toont. Maar de plek waar ik mij bevind, ben ik niet. En de plek waar de schoonheid zich toont, is niet de schoonheid. Is schoonheid te vinden waar er harmonie is? Zeer zeker, maar hierdoor *is* schoonheid nog niet gelijk aan deze harmonie. Is schoonheid te vinden waar er een krachtig verhaal is? Zeer vaak wel ja, maar daardoor *is* schoonheid nog niet hetzelfde als verhaal.\
+Wij zijn op zoek gegaan naar de omstandigheden waarin de schoonheid zich toont, en dachten met deze omstandigheden te benoemen de schoonheid benoemd te hebben. Wij zijn op zoek gegaan naar de plek waar zij zich toont. Maar de plek waar ik mij bevind, ben ik niet. En de plek waar de schoonheid zich toont, is niet de schoonheid. Is schoonheid te vinden waar er harmonie is? Zeer zeker, maar hierdoor *is* schoonheid nog niet gelijk aan deze harmonie. Is schoonheid te vinden waar er een krachtig verhaal is? Zeer vaak wel ja, maar daardoor *is* schoonheid nog niet hetzelfde als verhaal.
 
 De schoonheid toont zich langs allerlei wegen, maar hierdoor is ze nog niet gelijk aan deze wegen. De schoonheid is op allerlei plekken aanwezig; in wat we horen, in muziek, in wat we zien, in de schilderkunst, in ritme, in handelingen, levenshoudingen, in de deugd. Maar de schoonheid is niet deze plekken. Wat voor zin heeft het te zeggen dat harmonie schoon is, wanneer ook het lelijke met zichzelf kan accorderen? Zoals wanneer een zondige ziel, volledig in harmonie met zijn natuur, zich bevlekt met verderfelijke handelingen.
 
 Het schone kan zich op veel plekken tonen, maar ze is deze plekken niet. Als schoonheid nergens te vinden is, wat rest ons dan nog te doen, wij die zoeken naar de schoonheid? Er komt een moment, waarop we ons geloof in een verklaring van de schoonheid moeten laten varen, want ze laat zich niet vangen. Of, we volgen het spoor van Plato, en zeggen dat het schone schoon is omwille van de Schoonheid.
 
-*“Dat door het schone alle schone dingen schoon worden. Dat schijnt mij het veiligste antwoord aan mijzelf en aan een ander.”* (Plato, Phaidoon)
+*“Dat door het schone alle schone dingen schoon worden. Dat schijnt mij het veiligste antwoord aan mijzelf en aan een ander.”*[^3]
 
-Want *“hoe en langs welke weg zij ook heeft plaatsgevonden”*, hierover kan ik niets met zekerheid zeggen, *“behalve dat door het schone alle schone dingen schoon worden.”* (Plato, Phaidoon) De schoonheid kan zich overal tonen, zolang ze er maar is.
+Want *“hoe en langs welke weg zij ook heeft plaatsgevonden”*, hierover kan ik niets met zekerheid zeggen, *“behalve dat door het schone alle schone dingen schoon worden.”*[^4]  De schoonheid kan zich overal tonen, zolang ze er maar is.
 
-Het lijkt dat we hier spreken in tautologieën zonder betekenis, resulterend uit een luie rede, een ignava ratio, die *“ertoe leidt dat men het natuuronderzoek, op welk terrein dan ook, als absoluut voltooid beschouwt, zodat de rede zich te ruste begeeft alsof ze haar taak volledig heeft volbracht.”* (Kant, KrV, A689-690/B717-718) We zoeken naar de schoonheid, we vinden haar niet, en moe van al het zoeken geven we het dan maar op en zeggen vermoeid; het schone is simpelweg schoon omwille van de Schoonheid. Maar is het zo, dat deze uitspraak het resultaat is van luiheid en een onvermogen van onze kant om de schoonheid te vinden? Of is het zo, dat deze uitspraak net het resultaat is van een denken dat tot het uiterste gegaan is, een denken dat de jacht naar het schone tot haar uiterste heeft gedreven? We hebben alle mogelijkheden uitgesloten, en alleen de Schoonheid blijft over. Dat is, zolang we tenminste blijven geloven dat onze ervaring van schoonheid ons iets zegt over het daadwerkelijk bestaan van schoonheid. Het schone is schoon omwille van de Schoonheid, is dit de uitspraak van een lui denken, of van een denken dat tot het uiterste is gegaan?
+Het lijkt dat we hier spreken in tautologieën zonder betekenis, resulterend uit een luie rede, een ignava ratio, die *“ertoe leidt dat men het natuuronderzoek, op welk terrein dan ook, als absoluut voltooid beschouwt, zodat de rede zich te ruste begeeft alsof ze haar taak volledig heeft volbracht.”*[^5] We zoeken naar de schoonheid, we vinden haar niet, en moe van al het zoeken geven we het dan maar op en zeggen vermoeid; het schone is simpelweg schoon omwille van de Schoonheid. Maar is het zo, dat deze uitspraak het resultaat is van luiheid en een onvermogen van onze kant om de schoonheid te vinden? Of is het zo, dat deze uitspraak net het resultaat is van een denken dat tot het uiterste gegaan is, een denken dat de jacht naar het schone tot haar uiterste heeft gedreven? We hebben alle mogelijkheden uitgesloten, en alleen de Schoonheid blijft over. Dat is, zolang we tenminste blijven geloven dat onze ervaring van schoonheid ons iets zegt over het daadwerkelijk bestaan van schoonheid. Het schone is schoon omwille van de Schoonheid, is dit de uitspraak van een lui denken, of van een denken dat tot het uiterste is gegaan?
 
 De Idee legt misschien niet zo zeer een stop op het denken, als dat ze het resultaat is van het meest volhardende denken.
 
@@ -116,9 +116,15 @@ Zij die zich keren tegen de schoonheid, om zo het zijn te redden, hebben niet be
 
 [^2]: (Plotinus, I.6.1)
 
-[^3]:
+[^3]: (Plato, Phaidoon)
 
-[^4]:
+[^4]: (Plato, Phaidoon)
+
+[^5]: (Kant, KrV, A689-690/B717-718)
+
+[^6]:
+
+[^7]:
 
 Immanuel Kant. *Kritiek van de zuivere rede.* Vertaald door Jabik Veenbaas en Willem Visser. Amsterdam: Boom, 2004.
 \
