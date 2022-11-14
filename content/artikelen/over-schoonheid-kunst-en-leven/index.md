@@ -120,28 +120,24 @@ Zij die zich keren tegen de schoonheid, om zo het zijn te redden, hebben niet be
 
 
 \
-[^1]: (Plato, Phaidoon, 100 c-e.)
+[^1]: Plato, Phaidoon, 100 c-e. Uit: Platoon. *Dialogen*. Vertaald door M.A. Schwartz. Antwerpen: Spectrum, 1960.
 
-[^2]: (Plotinus, I.6.1)
+[^2]: Plotinus, *Enneaden,* I.6.1. Vertaald door Rein Ferwerda. Budel: Damon, 2005.
 
-[^3]: (Plato, Phaidoon)
+[^3]: Plato, Phaidoon
 
-[^4]: (Plato, Phaidoon)
+[^4]: Plato, Phaidoon
 
-[^5]: (Kant, KrV, A689-690/B717-718)
+[^5]: Immanuel Kant, *Kritiek van de zuivere rede*, A689-690/B717-718. Vertaald door Jabik Veenbaas en Willem Visser. Amsterdam: Boom, 2004.
 
-[^6]: (Plato, Phaidoon, 99e)
+[^6]: Plato, Phaidoon, 99e
 
 [^7]: (Kant, KrV, A316/ B376)
 
 [^8]: *“Het is precies op het punt waar ze ons hun schoonheid laten zien, dat de dingen ook hun realiteit aan ons onthullen.”* (Louis Lavelle, 332)
 
-[^9]: (Plotinus, I.6.2.)
+[^9]: (Plotinus, *Enneaden*, I.6.2.)
 
 Immanuel Kant. *Kritiek van de zuivere rede.* Vertaald door Jabik Veenbaas en Willem Visser. Amsterdam: Boom, 2004.
 \
 Louis Lavelle. *Philosophie et Intériorité.* Paris: Vrin, 2004.
-\
-Platoon. *Dialogen*. Vertaald door M.A. Schwartz. Antwerpen: Spectrum, 1960.\
-\
-Plotinus. *Enneaden*. Vertaald door Rein Ferwerda. Budel: Damon, 2005.
