@@ -12,8 +12,8 @@ caption = "James Ensor, De val van de opstandige engelen"
 *“‘Indien iets anders schoon is behalve het schone zelf, dan is het, naar ik meen, om geen andere reden schoon dan omdat het aan het schone zelf deel heeft. Hetzelfde constateer ik van alle andere dingen. Kunt ge u met die oorzaaksverklaring verenigen?’
 ‘Ja’, zei hij.
 ‘Dan versta ik,’ zei hij, ‘en begrijp ik die andere geleerde oorzaaksverklaringen niet meer. Maar indien men mij vertelt waarom iets schoon is, dáárom omdat het een bloeiende kleur heeft of gestalte of iets anders van dien aard, laat ik het overige buiten beschouwing, want door alle andere dingen word ik in verwarring gebracht en ik houd mij er eenvoudig en kortweg en misschien onnozel aan vast, dat niets anders het schoon maakt dan de aanwezigheid en de gemeenschap met dat schone zelf, hoe en langs welke weg zij ook heeft plaatsgevonden. Want hierover stel ik niets met zekerheid vast, behalve dat door het schone alle schone dingen schoon worden. Dat schijnt mij het veiligste antwoord aan mijzelf en aan een ander. Wanneer ik mij daaraan vasthoud, meen ik nooit te zullen vallen, maar ik voel mij veilig door aan mijzelf en ieder ander te antwoorden dat door het schone alle schone dingen schoon zijn. Gelooft ge dat ook niet?’
-‘Stellig.’”*
-(Plato, Phaidoon, 100 c-e.)
+‘Stellig.’”*[^1]
+
 
 **I**
 We zijn het er gewoonlijk over eens dat kunst draait om het schone. Maar wat is schoonheid? Wat maakt het dat wij iets schoon vinden, en iets anders lelijk? Is het de aanwezigheid van symmetrie of vorm? Duidelijk niet, want wat dan met de schoonheid van een simpele kleur? Is iets mooi wanneer het een verhaal vertelt? Onmogelijk, want wat dan met de schoonheid van het zonlicht? Is de schoonheid daar waar een museumcontext is? Maar wat dan als we er een urinoir aantreffen? En wat met al die werken die nooit een atelier verlieten?
@@ -71,11 +71,11 @@ Vele dingen zijn schoon, maar wat hen precies schoon maakt, dit kunnen we nooit 
 
 We zien, horen, en voelen soms de Schoonheid. Ook al zien we haar niet.
 
-Wat bedoelen we wanneer we voor een kunstwerk staan, en zeggen dat het schoon is? De kunst drukt de Schoonheid uit, soms doorheen dit, soms doorheen dat. En hoe meer de Schoonheid zich uitdrukt in het kunstwerk, hoe schoner. Maar, wat is de Schoonheid, wat is dat wat uitgedrukt wordt in het kunstwerk? Wat is *dat*, als het niet eens zichtbaar is? Hoe valt de Schoonheid te kennen, als ze niet kenbaar is? En we kennen haar wel degelijk.\
+Wat bedoelen we wanneer we voor een kunstwerk staan, en zeggen dat het schoon is? De kunst drukt de Schoonheid uit, soms doorheen dit, soms doorheen dat. En hoe meer de Schoonheid zich uitdrukt in het kunstwerk, hoe schoner. Maar, wat is de Schoonheid, wat is dat wat uitgedrukt wordt in het kunstwerk? Wat is *dat*, als het niet eens zichtbaar is? Hoe valt de Schoonheid te kennen, als ze niet kenbaar is? En we kennen haar wel degelijk.
 
 Als wij teveel met onze ogen willen zien, zouden we bepaalde zaken wel eens helemaal niet meer kunnen zien.
 
- *“En ik vreesde dat ik geheel verblind van ziel zou worden, als ik met de ogen naar de dingen zou kijken.”* (Plato, Phaidoon, 99e)\
+ *“En ik vreesde dat ik geheel verblind van ziel zou worden, als ik met de ogen naar de dingen zou kijken.”* (Plato, Phaidoon, 99e)
 
 We zien schone dingen, maar de schoonheid zelf valt nooit te zien.
 Het is deze paradox, het zowel zichtbare als onzichtbare karakter van de schoonheid, die het onderwerp vormt van een dialoog in Xenophons *Memorabilia*. In deze dialoog ondervraagt Socrates de kunstenaar Parrhasius, beroemd omwille van zijn levens-echte schilderijen. De vraag die op het spel staat is of kunst de dingen uitbeeldt. Geeft kunst een imitatie van de dingen?
@@ -112,6 +112,14 @@ Het moge gezegd zijn, dat zij die geen schoonheid kennen in de klassieke vorm, z
 Zij die zich keren tegen de schoonheid, om zo het zijn te redden, hebben niet begrepen dat het zijn daar is waar de schoonheid is.
 
 **Bronnen:**\
+[^1]: (Plato, Phaidoon, 100 c-e.)
+
+[^2]:
+
+[^3]:
+
+[^4]:
+
 Immanuel Kant. *Kritiek van de zuivere rede.* Vertaald door Jabik Veenbaas en Willem Visser. Amsterdam: Boom, 2004.
 \
 Louis Lavelle. *Philosophie et Intériorité.* Paris: Vrin, 2004.
