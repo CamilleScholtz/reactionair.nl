@@ -5,9 +5,9 @@ auteurs = ["Tólma"]
 date = "2022-11-12"
 themas = "Religie en Metafysica"
 aangehaald = ["Plato", "Plotinus"]
-image = "2bdd0bdb-3d91-49f7-b10f-e292003930e2.jpeg"
+image = "img_4541.jpg"
 anchor = "Smart"
-caption = "Laocoon en zijn zonen"
+caption = "James Ensor, De val van de opstandige engelen"
 +++
 *“‘Indien iets anders schoon is behalve het schone zelf, dan is het, naar ik meen, om geen andere reden schoon dan omdat het aan het schone zelf deel heeft. Hetzelfde constateer ik van alle andere dingen. Kunt ge u met die oorzaaksverklaring verenigen?’
 ‘Ja’, zei hij.
