@@ -130,14 +130,10 @@ Zij die zich keren tegen de schoonheid, om zo het zijn te redden, hebben niet be
 
 [^5]: Immanuel Kant, *Kritiek van de zuivere rede*, A689-690/B717-718. Vertaald door Jabik Veenbaas en Willem Visser. Amsterdam: Boom, 2004.
 
-[^6]: Plato, Phaidoon, 99e
+[^6]: Plato, Phaidoon, 99e.
 
-[^7]: (Kant, KrV, A316/ B376)
+[^7]: Kant, *Kritiek van de zuivere rede*, A316/ B376.
 
-[^8]: *“Het is precies op het punt waar ze ons hun schoonheid laten zien, dat de dingen ook hun realiteit aan ons onthullen.”* (Louis Lavelle, 332)
+[^8]: *“Het is precies op het punt waar ze ons hun schoonheid laten zien, dat de dingen ook hun realiteit aan ons onthullen.”* Louis Lavelle, *Philosophie et Intériorité,* 332. Paris: Vrin, 2004.
 
-[^9]: (Plotinus, *Enneaden*, I.6.2.)
-
-Immanuel Kant. *Kritiek van de zuivere rede.* Vertaald door Jabik Veenbaas en Willem Visser. Amsterdam: Boom, 2004.
-\
-Louis Lavelle. *Philosophie et Intériorité.* Paris: Vrin, 2004.
+[^9]: Plotinus, *Enneaden*, I.6.2.
