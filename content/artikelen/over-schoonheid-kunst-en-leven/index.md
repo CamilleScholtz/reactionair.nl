@@ -130,10 +130,6 @@ Zij die zich keren tegen de schoonheid, om zo het zijn te redden, hebben niet be
 
 [^9]: (Plotinus, I.6.2.)
 
-[^9]:
-
-[^9]:
-
 Immanuel Kant. *Kritiek van de zuivere rede.* Vertaald door Jabik Veenbaas en Willem Visser. Amsterdam: Boom, 2004.
 \
 Louis Lavelle. *Philosophie et Intériorité.* Paris: Vrin, 2004.
