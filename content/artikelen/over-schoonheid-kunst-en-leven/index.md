@@ -107,9 +107,9 @@ Daar waar de schoonheid zich toont, is ziel, en daar is ons ware leven. De kunst
 
 Het moge gezegd zijn, dat diegenen die de schoonheid trachten te ontmantelen, of haar trachten te verplaatsen naar datgene dat niet de schoonheid is, hiermee ook het leven wegdragen van zichzelf. En zij die de schoonheid nergens vinden, zijn zij die zelf weinig schoon zijn, want gelijken herkennen gelijken.
 
-De schoonheid is niet gekend doorheen bepaalde criteria, maar wordt spontaan ervaren, *“Het is iets wat zelfs bij de eerste blik wordt waargenomen, en de ziel spreekt erover, alsof ze het begrijpt, en bij de herkenning neemt ze het op en vormt ze er als het ware een harmonieus paar mee.”*
+De schoonheid is niet gekend doorheen bepaalde criteria, maar wordt spontaan ervaren, *“Het is iets wat zelfs bij de eerste blik wordt waargenomen, en de ziel spreekt erover, alsof ze het begrijpt, en bij de herkenning neemt ze het op en vormt ze er als het ware een harmonieus paar mee.”*[^9]
 
-En zo ook is het wanneer de ziel op het lelijke stuit, dan *“‘deinst ze terug’ en moet ze er niets van hebben en ze keert zich er vanaf, daar ze er niet mee accordeert en zich er niet mee verwant voelt.”*[^9]
+En zo ook is het wanneer de ziel op het lelijke stuit, dan *“‘deinst ze terug’ en moet ze er niets van hebben en ze keert zich er vanaf, daar ze er niet mee accordeert en zich er niet mee verwant voelt.”*[^10]
 
 Intuïtief herkennen wij de schoonheid, en intuïtief kunnen wij haar onderscheiden van het lelijke. En enkel zij die vragend naar een verklaring de weg zijn kwijtgeraakt, kunnen dit ontkennen. De vraag naar wat het schone schoon maakt, kan ons dichter tot de schoonheid brengen, maar ons er ook van weg dragen.
 
@@ -137,3 +137,5 @@ Zij die zich keren tegen de schoonheid, om zo het zijn te redden, hebben niet be
 [^8]: *“Het is precies op het punt waar ze ons hun schoonheid laten zien, dat de dingen ook hun realiteit aan ons onthullen.”* Louis Lavelle, *Philosophie et Intériorité,* 332. Paris: Vrin, 2004.
 
 [^9]: Plotinus, *Enneaden*, I.6.2.
+
+[^9]:
