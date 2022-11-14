@@ -75,14 +75,14 @@ Wat bedoelen we wanneer we voor een kunstwerk staan, en zeggen dat het schoon is
 
 Als wij teveel met onze ogen willen zien, zouden we bepaalde zaken wel eens helemaal niet meer kunnen zien.
 
- *“En ik vreesde dat ik geheel verblind van ziel zou worden, als ik met de ogen naar de dingen zou kijken.”* (Plato, Phaidoon, 99e)
+ *“En ik vreesde dat ik geheel verblind van ziel zou worden, als ik met de ogen naar de dingen zou kijken.”*[^6]
 
 We zien schone dingen, maar de schoonheid zelf valt nooit te zien.
 Het is deze paradox, het zowel zichtbare als onzichtbare karakter van de schoonheid, die het onderwerp vormt van een dialoog in Xenophons *Memorabilia*. In deze dialoog ondervraagt Socrates de kunstenaar Parrhasius, beroemd omwille van zijn levens-echte schilderijen. De vraag die op het spel staat is of kunst de dingen uitbeeldt. Geeft kunst een imitatie van de dingen?
 
 Socrates vraagt aan Parrhasius of de kunst bestaat uit het gelijkenis maken van dat wat zichtbaar is. De kunstenaar bevestigt, waarop Socrates vraagt of de kunst dan ook de ziel uitbeeldt. Maar hoe, zegt Parrhasius, zou de kunstenaar de ziel kunnen uitbeelden? De ziel heeft immers geen proportie, kleur, of wat dan ook, en ze is volkomen onzichtbaar. De ziel is niet als zodanig zichtbaar, want zij is eerder datgene dat ziet. Hoe zou de kunstenaar, die noodzakelijk gebruik maakt van zichtbare materialen, de ziel dan kunnen uitbeelden? Socrates is niet tevreden met het antwoord, en vraagt Parrhasius of de ziel niet zichtbaar is in de uitdrukkingen op iemands gezicht, in zijn ogen, in hoe hij zijn lichaam draagt, in zijn handelingen. De ziel is inderdaad onzichtbaar, maar toch, ze drukt zich uit in het zichtbare lichaam. En het lichaam kan wel degelijk uitgebeeld worden door de kunstenaar. Parrhasius is gedwongen het eens te zijn.
 
-Niets dat het waard is valt in zijn volle glorie waar te nemen. Waar vinden wij ooit iemand die volledig wijsheid is, of een kunstwerk dat volledig schoonheid is, of iemand die volledig moedig is? Of waar zien wij ooit een ziel? Zelfs onze eigen ziel kunnen we strikt genomen niet ‘zien.’ Deze dingen vallen niet te zien, maar in uitgebeelde vorm, in hun uitdrukkingen in het zichtbare, verrijken ze alsnog het leven. We zien nooit de wijsheid, maar wij herkennen wijze mensen. We zien nooit de moed, maar wij herkennen moedige daden. En we zien nooit de schoonheid, maar wij worden geraakt door de schoonheid van de dingen. Moeten wij dan ophouden te spreken over de Schoonheid, de Moed, of de Wijsheid, omdat we haar niet kunnen zien? Zullen we de ziel uit ons vocabularium schrappen, omdat we haar enkel kunnen zien in haar uitdrukkingen? *“Niets”*, zegt Kant, *“is schadelijker en een filosoof onwaardiger dan een vulgair beroep op de zogenaamd tegenstrijdige ervaring.”* (Kant, KrV, A316/ B376)
+Niets dat het waard is valt in zijn volle glorie waar te nemen. Waar vinden wij ooit iemand die volledig wijsheid is, of een kunstwerk dat volledig schoonheid is, of iemand die volledig moedig is? Of waar zien wij ooit een ziel? Zelfs onze eigen ziel kunnen we strikt genomen niet ‘zien.’ Deze dingen vallen niet te zien, maar in uitgebeelde vorm, in hun uitdrukkingen in het zichtbare, verrijken ze alsnog het leven. We zien nooit de wijsheid, maar wij herkennen wijze mensen. We zien nooit de moed, maar wij herkennen moedige daden. En we zien nooit de schoonheid, maar wij worden geraakt door de schoonheid van de dingen. Moeten wij dan ophouden te spreken over de Schoonheid, de Moed, of de Wijsheid, omdat we haar niet kunnen zien? Zullen we de ziel uit ons vocabularium schrappen, omdat we haar enkel kunnen zien in haar uitdrukkingen? *“Niets”*, zegt Kant, *“is schadelijker en een filosoof onwaardiger dan een vulgair beroep op de zogenaamd tegenstrijdige ervaring.”*[^7]
 
 De Schoonheid is onzichtbaar, maar soms zichtbaar omdat er symmetrie is, soms omdat er kleur is, soms omdat er verhaal is, soms omdat er deugd is, en zo verder. De fout bestaat erin te denken dat de Schoonheid volledig gevat kan worden door te verwijzen naar haar uitdrukkingen. Maar de schoonheid bevindt zich niet in de symmetrie, maar schijnt ons toe doorheen de symmetrie, en soms door wat anders.
 
@@ -95,15 +95,13 @@ Er is een band tussen de Schoonheid en het leven, zoals er een band is tussen de
 
 Daar waar de schoonheid zich toont, is ziel, en daar is ons ware leven. De kunst vormt zo nooit een ontwijking van de realiteit, maar een van de plekken waar zij zich reveleert. De kunst is niet een activiteit die ons helpt te ontsnappen aan het leven, maar brengt ons tot leven.
 
-*“C’est au point même où elles nous montrent leur beauté que les choses nous découvrent aussi leur réalité.”* (Louis Lavelle, 332)
-
-*“Het is precies op het punt waar ze ons hun schoonheid laten zien, dat de dingen ook hun realiteit aan ons onthullen.”* (Louis Lavelle, 332)
+*“C’est au point même où elles nous montrent leur beauté que les choses nous découvrent aussi leur réalité.”*[^8] 
 
 Het moge gezegd zijn, dat diegenen die de schoonheid trachten te ontmantelen, of haar trachten te verplaatsen naar datgene dat niet de schoonheid is, hiermee ook het leven wegdragen van zichzelf. En zij die de schoonheid nergens vinden, zijn zij die zelf weinig schoon zijn, want gelijken herkennen gelijken.
 
-De schoonheid is niet gekend doorheen bepaalde criteria, maar wordt spontaan ervaren, *“Het is iets wat zelfs bij de eerste blik wordt waargenomen, en de ziel spreekt erover, alsof ze het begrijpt, en bij de herkenning neemt ze het op en vormt ze er als het ware een harmonieus paar mee.”* (Plotinus, I.6.2.)
+De schoonheid is niet gekend doorheen bepaalde criteria, maar wordt spontaan ervaren, *“Het is iets wat zelfs bij de eerste blik wordt waargenomen, en de ziel spreekt erover, alsof ze het begrijpt, en bij de herkenning neemt ze het op en vormt ze er als het ware een harmonieus paar mee.”*
 
-En zo ook is het wanneer de ziel op het lelijke stuit, dan *“‘deinst ze terug’ en moet ze er niets van hebben en ze keert zich er vanaf, daar ze er niet mee accordeert en zich er niet mee verwant voelt.”* (Plotinus, I.6.2.)
+En zo ook is het wanneer de ziel op het lelijke stuit, dan *“‘deinst ze terug’ en moet ze er niets van hebben en ze keert zich er vanaf, daar ze er niet mee accordeert en zich er niet mee verwant voelt.”*[^9]
 
 Intuïtief herkennen wij de schoonheid, en intuïtief kunnen wij haar onderscheiden van het lelijke. En enkel zij die vragend naar een verklaring de weg zijn kwijtgeraakt, kunnen dit ontkennen. De vraag naar wat het schone schoon maakt, kan ons dichter tot de schoonheid brengen, maar ons er ook van weg dragen.
 
@@ -111,7 +109,9 @@ Het moge gezegd zijn, dat zij die geen schoonheid kennen in de klassieke vorm, z
 
 Zij die zich keren tegen de schoonheid, om zo het zijn te redden, hebben niet begrepen dat het zijn daar is waar de schoonheid is.
 
-**Bronnen:**\
+
+
+\
 [^1]: (Plato, Phaidoon, 100 c-e.)
 
 [^2]: (Plotinus, I.6.1)
@@ -122,9 +122,17 @@ Zij die zich keren tegen de schoonheid, om zo het zijn te redden, hebben niet be
 
 [^5]: (Kant, KrV, A689-690/B717-718)
 
-[^6]:
+[^6]: (Plato, Phaidoon, 99e)
 
-[^7]:
+[^7]: (Kant, KrV, A316/ B376)
+
+[^8]: *“Het is precies op het punt waar ze ons hun schoonheid laten zien, dat de dingen ook hun realiteit aan ons onthullen.”* (Louis Lavelle, 332)
+
+[^9]: (Plotinus, I.6.2.)
+
+[^9]:
+
+[^9]:
 
 Immanuel Kant. *Kritiek van de zuivere rede.* Vertaald door Jabik Veenbaas en Willem Visser. Amsterdam: Boom, 2004.
 \
