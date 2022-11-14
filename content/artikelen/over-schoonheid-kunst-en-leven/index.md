@@ -30,6 +30,8 @@ Alle wegen leiden naar een aporie. Schoonheid valt niet te vinden, en blijkt wat
 
 Als we onze vragen te serieus zouden nemen, zouden we nog wel eens het gevaar lopen de schoonheid van de zon te ontkennen... Voor een denken dat niet oplet, is goud even schoon als modder.
 
+
+
 **II**
 Wat is het nu? Is de schoonheid overal, of is ze enkel daar waar aan bepaalde criteria voldaan wordt? Beide antwoorden leiden tot een tekort aan schoonheid. Want als de schoonheid overal is, is ze nergens meer. En als ze alleen daar is waar er bijvoorbeeld vorm is of een verhaal, lopen we heel wat schoonheid mis.
 
@@ -49,6 +51,8 @@ Het lijkt dat we hier spreken in tautologieën zonder betekenis, resulterend uit
 
 De Idee legt misschien niet zo zeer een stop op het denken, als dat ze het resultaat is van het meest volhardende denken.
 
+
+
 **III**\
 In veel opzichten zijn zij die beweren dat schoonheid relatief is, en zij die volhouden aan het meest absolute criterium dat het schone schoon is omwille van de Schoonheid, op hetzelfde spoor. Beiden gaan uit van de ervaring van schoonheid, en gaan vervolgens op zoek naar een verklaring. Wat is het dat schone dingen schoon maakt? En alle mogelijkheden doorlopen, valt er nog steeds niets te vinden.
 
@@ -65,6 +69,8 @@ Wat bepaalt het verschil tussen deze twee houdingen?
 We hebben hier een denken dat niet meer gelooft in zijn eigen kracht de schoonheid te vatten, wanneer het zich niet langer kan beroepen op iets buiten dit schone —de symmetrie, de vorm, de kleur, etc. En we hebben een denken dat, wat de schoonheid vreemd is eens afgeworpen, des te zekerder is over de schoonheid.
 
 We starten allemaal met de ervaring van schoonheid, maar sommigen verliezen hun geloof in deze ervaring wanneer ze haar niet kunnen gronden. Anderen, kunnen hierdoor net deze ervaring zelf denken als grond.
+
+
 
 **IV**
 Vele dingen zijn schoon, maar wat hen precies schoon maakt, dit kunnen we nooit precies bepalen. Vandaar, dat hij die te erg naar een bepaling zoekt naast de schoonheid, het gevaar loopt de Schoonheid nooit te vatten. Soms is dit mooi, en soms dat. Maar de Schoonheid als zodanig is nergens, en volledig onzichtbaar.
@@ -89,6 +95,8 @@ De Schoonheid is onzichtbaar, maar soms zichtbaar omdat er symmetrie is, soms om
 Het is misschien accurater te stellen dat de schoonheid *ons* vat, doorheen de vormen waarin ze zich uitdrukt. En de taak van de kunstenaar bestaat erin de dingen zo vorm te geven, dat de schoonheid zich welkom voelt.
 
 In het bijzonder, zegt Socrates tegen Parrhasius, drukt de kunstenaar datgene uit dat mensen het meest aantrekt, *de schijn van levendigheid*. De kunst drukt dat in het leven uit dat het leven haar karakter van levendigheid geeft. En de beste kunst is de meest levendige kunst. Niet dat de beste kunst noodzakelijk de meest ‘realistische’ kunst is. Immers, een enkele penseelstreek kan veel meer leven bevatten dan een slecht mens.
+
+
 
 **V**
 Er is een band tussen de Schoonheid en het leven, zoals er een band is tussen de Schoonheid en de ziel. En is het niet zo dat wanneer wij proberen uit te drukken waarom we iets schoon vinden, vaak niet verder komen dan te zeggen dat hier leven is, dat hier ziel is, dat hier kracht is. En zo, zegt Plotinus, vinden wij iets schoon wanneer we er ziel in herkennen, wanneer we onszelf er in herkennen. De Schoonheid, doorheen al haar verschillende manifestaties, brengt ons dichter bij onszelf, en zo dichter bij het leven. Want wat zijn wij anders, dan een levend leven?
