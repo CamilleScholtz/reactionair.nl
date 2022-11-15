@@ -17,6 +17,8 @@ caption = "James Ensor, De val van de opstandige engelen"
 >
 > ‘Stellig.’[^1]
 
+<br>
+
 # I
 
 We zijn het er gewoonlijk over eens dat kunst draait om het schone. Maar wat is schoonheid? Wat maakt het dat wij iets schoon vinden, en iets anders lelijk? Is het de aanwezigheid van symmetrie of vorm? Duidelijk niet, want wat dan met de schoonheid van een simpele kleur? Is iets mooi wanneer het een verhaal vertelt? Onmogelijk, want wat dan met de schoonheid van het zonlicht? Is de schoonheid daar waar een museumcontext is? Maar wat dan als we er een urinoir aantreffen? En wat met al die werken die nooit een atelier verlieten?
@@ -50,7 +52,7 @@ Het schone kan zich op veel plekken tonen, maar ze is deze plekken niet. Als sch
 	author="Plato"
 >}}
 
-Want *“hoe en langs welke weg zij ook heeft plaatsgevonden”*, hierover kan ik niets met zekerheid zeggen, *“behalve dat door het schone alle schone dingen schoon worden.”*[^3]( De schoonheid kan zich overal tonen, zolang ze er maar is.
+Want *“hoe en langs welke weg zij ook heeft plaatsgevonden”*, hierover kan ik niets met zekerheid zeggen, *“behalve dat door het schone alle schone dingen schoon worden.”*[^3] De schoonheid kan zich overal tonen, zolang ze er maar is.
 
 Het lijkt dat we hier spreken in tautologieën zonder betekenis, resulterend uit een luie rede, een ignava ratio, die *“ertoe leidt dat men het natuuronderzoek, op welk terrein dan ook, als absoluut voltooid beschouwt, zodat de rede zich te ruste begeeft alsof ze haar taak volledig heeft volbracht.”*[^4] We zoeken naar de schoonheid, we vinden haar niet, en moe van al het zoeken geven we het dan maar op en zeggen vermoeid; het schone is simpelweg schoon omwille van de Schoonheid. Maar is het zo, dat deze uitspraak het resultaat is van luiheid en een onvermogen van onze kant om de schoonheid te vinden? Of is het zo, dat deze uitspraak net het resultaat is van een denken dat tot het uiterste gegaan is, een denken dat de jacht naar het schone tot haar uiterste heeft gedreven? We hebben alle mogelijkheden uitgesloten, en alleen de Schoonheid blijft over. Dat is, zolang we tenminste blijven geloven dat onze ervaring van schoonheid ons iets zegt over het daadwerkelijk bestaan van schoonheid. Het schone is schoon omwille van de Schoonheid, is dit de uitspraak van een lui denken, of van een denken dat tot het uiterste is gegaan?
 
@@ -86,7 +88,7 @@ Als wij teveel met onze ogen willen zien, zouden we bepaalde zaken wel eens hele
 
 {{< quote
 	text="En ik vreesde dat ik geheel verblind van ziel zou worden, als ik met de ogen naar de dingen zou kijken."
-	author="Immanuel Kant"
+	author="Plato"
 >}}
 
 We zien schone dingen, maar de schoonheid zelf valt nooit te zien.
@@ -104,13 +106,13 @@ In het bijzonder, zegt Socrates tegen Parrhasius, drukt de kunstenaar datgene ui
 
 ### V
 
-Er is een band tussen de Schoonheid en het leven, zoals er een band is tussen de Schoonheid en de ziel. En is het niet zo dat wanneer wij proberen uit te drukken waarom we iets schoon vinden, vaak niet verder komen dan te zeggen dat hier leven is, dat hier ziel is, dat hier kracht is. En zo, zegt Plotinus, vinden wij iets schoon wanneer we er ziel in herkennen, wanneer we onszelf er in herkennen. De Schoonheid, doorheen al haar verschillende manifestaties, brengt ons dichter bij onszelf, en zo dichter bij het leven. Want wat zijn wij anders, dan een levend leven?
+Er is een band tussen de Schoonheid en het leven, zoals er een band is tussen de Schoonheid en de ziel. En is het niet zo dat wanneer wij proberen uit te drukken waarom we iets schoon vinden, we vaak niet verder komen dan te zeggen dat hier leven is, dat hier ziel is, dat hier kracht is. En zo, zegt Plotinus, vinden wij iets schoon wanneer we er ziel in herkennen, wanneer we onszelf er in herkennen. De Schoonheid, doorheen al haar verschillende manifestaties, brengt ons dichter bij onszelf, en zo dichter bij het leven. Want wat zijn wij anders, dan een levend leven?
 
 Daar waar de schoonheid zich toont, is ziel, en daar is ons ware leven. De kunst vormt zo nooit een ontwijking van de realiteit, maar een van de plekken waar zij zich reveleert. De kunst is niet een activiteit die ons helpt te ontsnappen aan het leven, maar brengt ons tot leven.
 
 {{< quote
 	text="Het is precies op het punt waar ze ons hun schoonheid laten zien, dat de dingen ook hun realiteit aan ons onthullen."
-	author="Plato"
+	author="Louis Lavelle"
 >}}
 
 Het moge gezegd zijn, dat diegenen die de schoonheid trachten te ontmantelen, of haar trachten te verplaatsen naar datgene dat niet de schoonheid is, hiermee ook het leven wegdragen van zichzelf. En zij die de schoonheid nergens vinden, zijn zij die zelf weinig schoon zijn, want gelijken herkennen gelijken.
