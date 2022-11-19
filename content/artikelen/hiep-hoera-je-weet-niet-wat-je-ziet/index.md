@@ -64,6 +64,5 @@ Dit is deel van de Nederlandse traditie. Ouder dan het liberalisme. Ouder dan de
 [^3]: Vittore Carpaccio, 
 *[Miracolo della reliquia della Croce al ponte di Rialto
 ](https://www.gallerieaccademia.it/miracolo-della-reliquia-della-croce-al-ponte-di-rialto)*
-[^4]: 
-Iransafar Tours, *[Nowruz Celebration in Iran](https://www.iransafar.co/nowruz-new-year-celebration-in-iran/)*.
+[^4]: Iransafar Tours, *[Nowruz Celebration in Iran](https://www.iransafar.co/nowruz-new-year-celebration-in-iran/)*.
 [^5]: Ongehoord Nederland, [ON! tekent bezwaar aan tegen weigering Zwarte Pietenjournaal](https://ongehoordnederland.tv/2022/11/08/persberichten/on-tekent-bezwaar-aan-tegen-weigering-zwarte-pietenjournaal/)*.
