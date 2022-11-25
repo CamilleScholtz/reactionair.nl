@@ -3,10 +3,10 @@ aangehaald = ['Ernst Jünger']
 anchor = 'Top'
 auteurs = ['De Melancholieke Nar']
 date = '2022-01-19'
+image = 'thumb.webp'
 subtitle = 'Een recensie van In Stahlgewittern'
 themas = 'Recensie en Biografie'
 title = 'Oorlog als avontuur'
-image = "thumb.webp"
 +++
 
 

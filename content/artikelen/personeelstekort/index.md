@@ -1,10 +1,10 @@
 +++
 auteurs = ["'Het Dorp' Genieter"]
 date = '2022-05-19'
+image = 'thumb.webp'
 subtitle = 'Over omvolking en onnodig werk'
 themas = 'Politiek en Actualiteit'
 title = 'Personeelstekort?'
-image = "thumb.webp"
 +++
 
 

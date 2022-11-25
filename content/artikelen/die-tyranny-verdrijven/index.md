@@ -2,10 +2,10 @@
 aangehaald = ['Charles Darwin']
 auteurs = ['Alexander Wolfheze']
 date = '2022-01-26'
+image = 'thumb.webp'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 6'
 themas = 'Cultuur en Maatschappij'
 title = '‘Die tyranny verdrijven’'
-image = "thumb.webp"
 +++
 
 

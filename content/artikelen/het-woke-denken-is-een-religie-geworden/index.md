@@ -2,10 +2,10 @@
 auteurs = ['Camille Meloen']
 date = '2021-10-08'
 dossiers = ['Woke']
+image = 'thumb.webp'
 subtitle = 'En waarom deze vergelijking niet klopt'
 themas = 'Politiek en Actualiteit'
 title = '“Het woke denken is een religie geworden!”'
-image = "thumb.webp"
 +++
 
 

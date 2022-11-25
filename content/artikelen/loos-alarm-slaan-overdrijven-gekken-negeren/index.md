@@ -1,11 +1,11 @@
 +++
-title = "Loos alarm slaan, overdrijven, gekken negeren "
-subtitle = "David Icke en toenemende censuur"
-auteurs = ["Sanura"]
-date = "2022-11-09"
-themas = "Politiek en Actualiteit"
-image = "aa.webp"
-anchor = "Smart"
+anchor = 'Smart'
+auteurs = ['Sanura']
+date = '2022-11-09'
+image = 'aa.webp'
+subtitle = 'David Icke en toenemende censuur'
+themas = 'Politiek en Actualiteit'
+title = 'Loos alarm slaan, overdrijven, gekken negeren '
 +++
 Ooit was er een man actief als leidend persoon binnen de Green Party in het Verenigd Koninkrijk. In 1991 beweerde deze in een interview een Zoon van de Godheid te zijn.[^1] Ook voorspelde hij dat Los Angeles een eiland zou worden en dat er vulkaanuitbarstingen zouden plaatsvinden op Cuba. Hij werd belachelijk gemaakt en zijn leven veranderde voorgoed. The Guardian betoonde hem nog enig medeleven.[^2] Die man is David Icke.
 

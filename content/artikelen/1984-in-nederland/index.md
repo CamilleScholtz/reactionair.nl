@@ -1,11 +1,11 @@
 +++
-title = "1984 in Nederland"
-subtitle = "Schieten op boeren en Ongehoord Nederland de mond snoeren"
-auteurs = ["Sanura"]
-date = "2022-07-11"
-themas = "Politiek en Actualiteit"
-image = "4eddcbdda3e0a47c7c8c7c419bbe3cc7_c2b648de25235549e071d703d10d1bfe.jpg"
-anchor = "Center"
+anchor = 'Center'
+auteurs = ['Sanura']
+date = '2022-07-11'
+image = '4eddcbdda3e0a47c7c8c7c419bbe3cc7_c2b648de25235549e071d703d10d1bfe.jpg'
+subtitle = 'Schieten op boeren en Ongehoord Nederland de mond snoeren'
+themas = 'Politiek en Actualiteit'
+title = '1984 in Nederland'
 +++
 Het is een leuke week geweest zeg! Er is op een minderjarige geschoten, traangas gebruikt, familiebedrijven worden bedreigd door de staat en nu komt er censuur bij. Nee, niet in Hongarije of Polen, maar hier in Nederland. 
 

@@ -1,11 +1,11 @@
 +++
-title = "Dialoog I"
-subtitle = "Thoreau en de plicht tot burgerlijke ongehoorzaamheid"
-auteurs = ["Walt van Toor"]
-date = "2022-07-17"
-themas = "Cultuur en Maatschappij"
-image = "caspar_david_friedrich_-_mondaufgang_-ca.1835-37-.jpg"
-anchor = "Smart"
+anchor = 'Smart'
+auteurs = ['Walt van Toor']
+date = '2022-07-17'
+image = 'caspar_david_friedrich_-_mondaufgang_-ca.1835-37-.jpg'
+subtitle = 'Thoreau en de plicht tot burgerlijke ongehoorzaamheid'
+themas = 'Cultuur en Maatschappij'
+title = 'Dialoog I'
 +++
 **Johan**: Ik moet toegeven dat ik eerst niet zoveel op had met activisme, het leek mij dat burgers zich onder de gegeven omstandigheden van het openbaar bestuur zo vrij mogelijk dienden te ontwikkelen en dat zich daarbuiten enkel ontregelaars ophielden die de samenleving niets te bieden hadden, extreme omstandigheden daargelaten natuurlijk. De liberale democratie leek mij tot voorheen de meest ideale plek voor de meest grote groep, het juiste antwoord op de dreiging van anarchie. Daar ben ik van teruggekomen. De laatste tijd herken ik veel verschillende vormen van gerechtvaardigd protest, het gaat om mensen wier grondrechten worden afgenomen en mensen die in hun bestaansrecht worden bedreigd. Zij hebben dit niet over zich afgeroepen, al doet men het daar wel op lijken.  
 

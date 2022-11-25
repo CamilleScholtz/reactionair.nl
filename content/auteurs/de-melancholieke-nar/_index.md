@@ -1,8 +1,8 @@
 +++
-title = "De Melancholieke Nar"
-profession = "Loonslaaf"
-description = "De Melancholieke Nar is een incarnatie van het schelmarchetype."
+description = 'De Melancholieke Nar is een incarnatie van het schelmarchetype.'
+image = 'avatar.webp'
+profession = 'Loonslaaf'
 pseudonym = true
-twitter = "https://twitter.com/MetafyziekeNar"
-image = "avatar.webp"
+title = 'De Melancholieke Nar'
+twitter = 'https://twitter.com/MetafyziekeNar'
 +++

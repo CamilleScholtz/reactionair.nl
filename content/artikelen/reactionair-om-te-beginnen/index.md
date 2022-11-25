@@ -4,10 +4,10 @@ anchor = 'Center'
 auteurs = ['Robert Lemm']
 date = '2021-11-29'
 dossiers = ['Christendom']
+image = 'thumb.webp'
 subtitle = 'Fragment uit een boek in voorbereiding'
 themas = 'Recensie en Biografie'
 title = 'Reactionair, om te beginnen'
-image = "thumb.webp"
 +++
 
 

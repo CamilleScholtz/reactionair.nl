@@ -2,14 +2,12 @@
 aangehaald = ['Jacues Ellul']
 auteurs = ['De redactie']
 date = '2022-05-08'
+image = 'thumb.webp'
+note = "Dit is een vertaling van het essay 'The Spectrum of Violence', het origineel is [hier](https://schwabstack.substack.com/p/the-spectrum-of-violence) te lezen."
 subtitle = 'Het spectrum van geweld'
 themas = 'Cultuur en Maatschappij'
 title = 'Welkom in de netwerkoorlog'
-image = "thumb.webp"
 +++
-
-
-_Dit is een vertaald artikel, het origineel is [hier](https://schwabstack.substack.com/p/the-spectrum-of-violence) te lezen._
 
 {{< quote
 	text="Oorlog bereikt nooit zijn absolute toestand omdat oorlog nooit een geisoleerde daad is: oorlog bestaat niet uit een enkele, korte stoot: ook ligt in oorlog de uitkomst nooit voor goed vast."

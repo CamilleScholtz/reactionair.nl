@@ -1,16 +1,14 @@
 +++
-title = "The Green New Deal"
-subtitle = "Je zult insecten eten, maar je zult niet leven in de pod"
-auteurs = ["De redactie"]
-date = "2022-08-02"
-themas = "Cultuur en Maatschappij"
-dossiers = ["Klimaatverandering"]
-image = "pods.png"
-anchor = "Smart"
+anchor = 'Smart'
+auteurs = ['De redactie']
+date = '2022-08-02'
+dossiers = ['Klimaatverandering']
+image = 'pods.png'
+note = "Dit is een vertaling van het essay 'The Green New Deal', het origineel is [hier](https://zerohplovecraft.substack.com/p/the-green-new-deal) te lezen."
+subtitle = 'Je zult insecten eten, maar je zult niet leven in de pod'
+themas = 'Cultuur en Maatschappij'
+title = 'The Green New Deal'
 +++
-*Dit is een vertaling van een kort verhaal van de zeer getalenteerde auteur Zero HP Lovecraft, die we het best kunnen zien als een combinatie van Lovecraft, Borges en Houellebecq voor het internettijdperk. Het origineel is [hier](https://zerohplovecraft.wordpress.com/2019/09/28/the-green-new-deal/) te vinden.*
-
-- - -
 
 De eerste keer dat ik een Greenlight pod in het echt zag was gisteren. Hij was glanzend wit met een in het oog springende verticale groene streep, dennenboomgroen, subtiel verlicht door LED's in het midden. Er was een portret op de zijkant op ooghoogte, een mooie blonde vrouw die een jongetje vasthield en rustig en tevreden naar hem glimlachte. De jongen had bruin haar en glimlachte ook, warmroze wangen, blauwe ogen. De vrouw leek een beetje op mij, alsof ze mijn nicht had kunnen zijn. Onder het portret stond een enkel woord in Helvetica-blokletters: HOPE.
 

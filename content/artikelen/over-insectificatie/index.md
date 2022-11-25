@@ -1,14 +1,14 @@
 +++
-title = "Over insectificatie"
-subtitle = "Hoe we afglijden van mens tot bugman"
-auteurs = ["De Melancholieke Nar"]
-date = "2022-07-12"
-themas = "Cultuur en Maatschappij"
-aangehaald = ["Carl Schmitt"]
-image = "12eac8367a00449eb7bba730006f4c8b-medium.jpg"
-anchor = "Smart"
+aangehaald = ['Carl Schmitt']
+anchor = 'Smart'
+auteurs = ['De Melancholieke Nar']
+date = '2022-07-12'
+note = "Dit is een vertaling van het essay 'On Insectisation', het origineel is [hier](https://parallaxoptics.com/2020/12/30/on-insectisation/) te lezen."
+image = '12eac8367a00449eb7bba730006f4c8b-medium.jpg'
+subtitle = 'Hoe we afglijden van mens tot bugman'
+themas = 'Cultuur en Maatschappij'
+title = 'Over insectificatie'
 +++
-*Dit is een vertaling en bewerking van een artikel van Parallax optics. Het origineel is [hier](https://parallaxoptics.com/2020/12/30/on-insectisation/) te vinden. Graag laat ik het voorafgaan door twee citaten die mij toepasselijk leken.*[^1][^2]
 
 {{< quote
 	text="Während der Ameisen-, Thermiten- und Bienenstaat nur durch völlige Vernichtung der Sexualität dieser Tiere möglich wird, ist das Problem der Staatswerdung beim Menschen unendlich schwieriger, weil dieser seine Sexualität nicht aufgibt und damit seinen ganzen rebellischen Individualismus."

@@ -1,12 +1,12 @@
 +++
-title = "Dualistisch denken als grote verzoener"
-subtitle = "Over het licht van de Zwarte Zon"
-auteurs = ["Tom van Giersbergen"]
-date = "2022-09-04"
-themas = "Religie en Metafysica"
-aangehaald = ["Aristoteles"]
-image = "a.jpg"
-anchor = "Smart"
+aangehaald = ['Aristoteles']
+anchor = 'Smart'
+auteurs = ['Tom van Giersbergen']
+date = '2022-09-04'
+image = 'a.jpg'
+subtitle = 'Over het licht van de Zwarte Zon'
+themas = 'Religie en Metafysica'
+title = 'Dualistisch denken als grote verzoener'
 +++
 In deze tijden waarin de moderne westerling zich gedwongen ziet om zijn hele wereldbeschouwing opnieuw tegen het licht te houden zien we in de marge ook bepaalde zaken opnieuw ter discussie gesteld worden waarvan de discussie voor eens en altijd gevoerd leek.
 

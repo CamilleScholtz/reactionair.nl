@@ -2,10 +2,10 @@
 auteurs = ['Dennis Honing']
 date = '2021-11-01'
 dossiers = ['Islam', 'Conservatieve Alliantie']
+image = 'thumb.webp'
 subtitle = 'Over reactionairen en moslims, deel 2'
 themas = 'Politiek en Actualiteit'
 title = 'Dennis Honing over een alliantie met moslims'
-image = "thumb.webp"
 +++
 
 

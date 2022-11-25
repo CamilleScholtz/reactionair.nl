@@ -2,10 +2,10 @@
 aangehaald = ['G. K. Chesterton']
 auteurs = ['Jurbin van Hooff']
 date = '2022-03-09'
+image = 'thumb.webp'
 subtitle = 'Enkele fragmenten uit Orthodoxie door G.K. Chesterton die mij zijn opgevallen'
 themas = 'Recensie en Biografie'
 title = 'Zal ik je vertellen waar degenen zijn die in zichzelf geloven?'
-image = "thumb.webp"
 +++
 
 

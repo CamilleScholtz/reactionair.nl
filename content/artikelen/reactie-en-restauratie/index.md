@@ -2,10 +2,10 @@
 aanghaald = ['Jean-Jacques Rousseau']
 auteurs = ['Sanura']
 date = '2022-01-09'
+image = 'thumb.webp'
 subtitle = 'Een rechts woordenboek'
 themas = 'Cultuur en Maatschappij'
 title = 'Reactie en restauratie'
-image = "thumb.webp"
 +++
 
 

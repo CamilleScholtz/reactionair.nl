@@ -1,12 +1,12 @@
 +++
-title = "De weg van de kami naar de herbetovering"
-subtitle = "Over het neergaande pad der onttovering"
-auteurs = ["Elvengast"]
-date = "2022-08-16"
-themas = "Religie en Metafysica"
-aangehaald = ["Edmund Burke", "René Descartes", "Martin Heidegger", "Jean-Jacques Rousseau", "Friedrich Schiller", "Max Weber", "Ludwig Wittgenstein", "Aristoteles", "Plato"]
-image = "kamishikimi_kumanoimasu_shrine_001.jpg"
-anchor = "Smart"
+aangehaald = ['Edmund Burke', 'René Descartes', 'Martin Heidegger', 'Jean-Jacques Rousseau', 'Friedrich Schiller', 'Max Weber', 'Ludwig Wittgenstein', 'Aristoteles', 'Plato']
+anchor = 'Smart'
+auteurs = ['Elvengast']
+date = '2022-08-16'
+image = 'kamishikimi_kumanoimasu_shrine_001.jpg'
+subtitle = 'Over het neergaande pad der onttovering'
+themas = 'Religie en Metafysica'
+title = 'De weg van de kami naar de herbetovering'
 +++
 Met de onttovering van de wereld wees socioloog Max Weber in zijn werk ‘Wissenschaft als Beruf’ op de culturele rationalisering en devaluatie van religie die ontstond in het moderniserende, geseculariseerde westen.
 

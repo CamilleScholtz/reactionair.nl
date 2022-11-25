@@ -3,10 +3,10 @@ aangehaald = ['René Guénon']
 auteurs = ['Camille Meloen']
 date = '2022-01-20'
 draft = true
+image = 'thumb.webp'
 subtitle = ''
 themas = 'Politiek & Maatschappij'
 title = 'Mijmeringen over de Metaverse'
-image = "thumb.webp"
 +++
 
 

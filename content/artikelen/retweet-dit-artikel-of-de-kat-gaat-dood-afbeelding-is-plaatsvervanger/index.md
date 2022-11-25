@@ -1,12 +1,12 @@
 +++
-question = "Wat zijn uw gedachten over dit artikel?"
-title = "Retweet dit artikel of de kat gaat dood!!!!! "
-subtitle = "Verslaving aan internetaandacht in een eenzame wereld"
-auteurs = ["Sanura"]
-date = "2022-08-24"
-themas = "Cultuur en Maatschappij"
-image = "hands-up.cat.webp"
-anchor = "Smart"
+anchor = 'Smart'
+auteurs = ['Sanura']
+date = '2022-08-24'
+image = 'hands-up.cat.webp'
+question = 'Wat zijn uw gedachten over dit artikel?'
+subtitle = 'Verslaving aan internetaandacht in een eenzame wereld'
+themas = 'Cultuur en Maatschappij'
+title = 'Retweet dit artikel of de kat gaat dood!!!!! '
 +++
 Trok de titel je aandacht? Het grappige plaatje? Ik heb likes nodig. Mijn buurt is geen gemeenschap. Ik ken mijn buren nauwelijks. Ik ken niemand meer van vroeger, van school. Ik heb niet 30 neefjes en nichtjes. Geef me aandacht!
 

@@ -2,14 +2,12 @@
 anchor = 'Center'
 auteurs = ['De redactie']
 date = '2022-05-31'
+image = 'thumb.webp'
+note = "Dit is een vertaling van het essay 'Liberalism, Progressivism, Leftism', het origineel is [hier](https://www.eugyppius.com/p/liberalism-progressivism-leftism) te lezen."
 subtitle = 'Drie machten die samenspannen tegen de middenklasse'
 themas = 'Politiek en Actualiteit'
 title = 'Liberalisme, progressivisme en links'
-image = "thumb.webp"
 +++
-
-
-_Dit is een vertaald artikel, het origineel is [hier](https://www.eugyppius.com/p/liberalism-progressivism-leftism) te lezen._
 
 Naar mijn mening zijn er heden ten dage drie basale, onderling verbonden en elkaar versterkende ideologische systemen werkzaam in de westerse wereld. Te weten het liberalisme, het progressivisme en het 'linksisme'.
 

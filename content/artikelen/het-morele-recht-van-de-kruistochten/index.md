@@ -2,10 +2,10 @@
 auteurs = ['Sanura']
 date = '2022-06-12'
 dossiers = ['Christendom', 'Islam']
+image = 'thumb.webp'
 subtitle = 'Ja, dat las je goed...'
 themas = 'Cultuur en Maatschappij'
 title = 'Het morele recht van de kruistochten'
-image = "thumb.webp"
 +++
 
 

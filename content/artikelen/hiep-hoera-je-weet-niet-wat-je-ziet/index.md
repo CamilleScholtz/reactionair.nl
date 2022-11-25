@@ -1,11 +1,11 @@
 +++
-title = "Hiep hoera, je weet niet wat je ziet"
-subtitle = "Daar zijn ze weer: Sinterklaas… Zwarte Piet?"
-auteurs = ["Sanura"]
-date = "2022-11-19"
-themas = "Politiek en Actualiteit"
-image = "ae8fa3133f73d195ae95ca8ef795c36362315da3-2.jpg"
-anchor = "Smart"
+anchor = 'Smart'
+auteurs = ['Sanura']
+date = '2022-11-19'
+image = 'ae8fa3133f73d195ae95ca8ef795c36362315da3-2.jpg'
+subtitle = 'Daar zijn ze weer: Sinterklaas… Zwarte Piet?'
+themas = 'Politiek en Actualiteit'
+title = 'Hiep hoera, je weet niet wat je ziet'
 +++
 Nu de pakjesboot ergens naast de Titanic ligt en de hulpsinterklaas het milieu heeft vervuild, is het weer die tijd van het jaar, dat je beseft dat Nederland een vazalstaat is van de VS. We vieren tegenwoordig al Halloween, maar Sinterklaas en Zwarte Piet mogen niet meer omdat Zwarte Piet *blackface* is. 
 

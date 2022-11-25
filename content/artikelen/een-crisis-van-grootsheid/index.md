@@ -1,12 +1,12 @@
 +++
 aangehaald = ['Karl Marx']
-title = "Een crisis van grootsheid"
-subtitle = "Tegen groei om de groei"
-auteurs = ["Eco al-Hollandi"]
-date = "2022-07-05"
-themas = "Cultuur en Maatschappij"
-image = "krauze-006.jpg.jpg"
-anchor = "Smart"
+anchor = 'Smart'
+auteurs = ['Eco al-Hollandi']
+date = '2022-07-05'
+image = 'krauze-006.jpg.jpg'
+subtitle = 'Tegen groei om de groei'
+themas = 'Cultuur en Maatschappij'
+title = 'Een crisis van grootsheid'
 +++
 Rechts wordt in politieke zin vaak op een lijn gesteld met kapitalisme, grote multinationals, een sterke groeiend BNP en de uitbreiding van macht, al zal de gemiddelde lezer van *Reactionair.nl* zich inmiddels wel ontdaan hebben van deze gedachte. Met het vergeten van de grote zaken zoals God, monarchie, volk en/of andere overkoepelende ideen en instituten die groter waren dan het individu hebben we de ineenstorting van de samenleving in gang gezet. Doordat we ons zijn gaan richten op het individu zijn we te klein gaan denken en zijn we vervallen tot een schim van de grootse natie die we ooit waren. We zouden de grote zaken dus weer moeten omarmen, opdat wij als mensheid weer verder kunnen groeien en onszelf kunnen ontstijgen. 
 

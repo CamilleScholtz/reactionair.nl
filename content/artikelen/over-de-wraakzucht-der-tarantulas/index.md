@@ -4,10 +4,10 @@ anchor = 'Center'
 auteurs = ['De redactie']
 date = '2022-05-26'
 dossiers = ['Woke']
+image = 'thumb.webp'
 subtitle = 'Nietzsches negentiende-eeuwse blik op social justice warriors'
 themas = 'Cultuur en Maatschappij'
 title = 'Over de wraakzucht der tarantula’s'
-image = "thumb.webp"
 +++
 
 

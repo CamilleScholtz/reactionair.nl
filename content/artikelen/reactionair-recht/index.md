@@ -1,11 +1,11 @@
 +++
-title = "Reactionair recht"
-subtitle = "We moeten het over Roe en rechten hebben"
-auteurs = ["Sanura", "Calvin Tangelder"]
-date = "2022-09-11"
-themas = "Cultuur en Maatschappij"
-image = "3000.jpeg"
-anchor = "Smart"
+anchor = 'Smart'
+auteurs = ['Sanura', 'Calvin Tangelder']
+date = '2022-09-11'
+image = '3000.jpeg'
+subtitle = 'We moeten het over Roe en rechten hebben'
+themas = 'Cultuur en Maatschappij'
+title = 'Reactionair recht'
 +++
 Het Westen gaat gebukt onder een extreem simplistische en bijna mythische visie op de Franse Revolutie en de Verlichting. Door de Franse Revolutie zouden we zogenaamd democratie en dingen als rechtsstaat, vrijheid en ‘gelijkheid’ hebben. Daarvoor was er onderdrukking, uitbuiting en oneerlijkheid. De duistere Middeleeuwen en heksenjachten.
 

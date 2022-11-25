@@ -2,10 +2,10 @@
 aangehaald = ['Michel Foucault', 'Max Weber']
 auteurs = ['v. Deirm']
 date = '2021-12-07'
+image = 'thumb.webp'
 subtitle = 'De industriële revolutie en haar invloed op sociale interactie'
 themas = 'Cultuur en Maatschappij'
 title = 'Sociale contacten in een verbrokkelde wereld'
-image = "thumb.webp"
 +++
 
 

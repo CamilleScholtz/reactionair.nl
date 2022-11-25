@@ -1,12 +1,12 @@
 +++
-title = "De begrafenis van Elizabeth II en onze heilige huisjes"
-subtitle = "O death, where is thy sting? O grave, where is thy victory?"
-auteurs = ["Robertus Leussinck "]
-date = "2022-09-23"
-themas = "Politiek en Actualiteit"
-dossiers = ["Christendom"]
-image = "photo-1663610311981-4a904f3504d4.webp"
-anchor = "Smart"
+anchor = 'Smart'
+auteurs = ['Robertus Leussinck ']
+date = '2022-09-23'
+dossiers = ['Christendom']
+image = 'photo-1663610311981-4a904f3504d4.webp'
+subtitle = 'O death, where is thy sting? O grave, where is thy victory?'
+themas = 'Politiek en Actualiteit'
+title = 'De begrafenis van Elizabeth II en onze heilige huisjes'
 +++
 Het was maandag 19 september 2022 en samen met meer dan honderd miljoen mensen over heel deze aardkloot projecteerde mijn scherm *the British Broadcasting Corporation*. Op deze dag werd namelijk Koningin Elizabeth II, die 70 jaar en 214 dagen op de troon van het Verenigd Koninkrijk en het Gemenebest gezeten heeft, begraven. Een markant evenement evenement dat naar horen zeggen al sinds de jaren 60 is voorbereid. Het was een dag vol van pracht, minutieuze choreografie en aangename muziek.
 

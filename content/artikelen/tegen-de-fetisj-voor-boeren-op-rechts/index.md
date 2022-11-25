@@ -1,12 +1,12 @@
 +++
-title = "Tegen de fetisj voor boeren op rechts"
-subtitle = "Conservatief sentimentalisme als nieuwe melkkoe"
-auteurs = ["Rintrah Radagast"]
-date = "2022-07-01"
-themas = "Politiek en Actualiteit"
-dossiers = ["Klimaatverandering"]
-image = "x22075-tif.jpeg"
-anchor = "Bottom"
+anchor = 'Bottom'
+auteurs = ['Rintrah Radagast']
+date = '2022-07-01'
+dossiers = ['Klimaatverandering']
+image = 'x22075-tif.jpeg'
+subtitle = 'Conservatief sentimentalisme als nieuwe melkkoe'
+themas = 'Politiek en Actualiteit'
+title = 'Tegen de fetisj voor boeren op rechts'
 +++
 Vandaag wil ik met een rechtse mythe afrekenen: Het idee dat de stikstofcrisis alleen op papier bestaat en er een soort complot bekokstooft wordt vanuit de regering om de veeteelt om zeep te helpen, met als doel ruimte te scheppen voor nieuwe woningen. Dit idee is dus je reinste flauwekul.
 

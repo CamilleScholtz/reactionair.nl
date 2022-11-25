@@ -1,12 +1,12 @@
 +++
-title = "Ne cherchez plus mon cœur"
-subtitle = "Liefde in een door ruilverhoudingen beheerste samenleving"
-auteurs = ["Rainer Wüssle"]
-date = "2022-08-05"
-themas = "Religie en Metafysica"
-aangehaald = ["Theodor Adorno", "Baruch Spinoza"]
-image = "the-lovers-1928-1-.jpg"
-anchor = "Smart"
+aangehaald = ['Theodor Adorno', 'Baruch Spinoza']
+anchor = 'Smart'
+auteurs = ['Rainer Wüssle']
+date = '2022-08-05'
+image = 'the-lovers-1928-1-.jpg'
+subtitle = 'Liefde in een door ruilverhoudingen beheerste samenleving'
+themas = 'Religie en Metafysica'
+title = 'Ne cherchez plus mon cœur'
 +++
 In aforisme 107 van zijn *Minima Moralia* analyseert Adorno de structuren waaraan zelfs de daarvan vrij gewaande liefde lijkt te beantwoorden door te refereren naar Prousts literaire verkenningen van de menselijke verhoudingen in de burgerlijke cultuur van de laat-negentiende eeuw. Elders in *Minima Moralia* zegt Adorno, dat *‘die Totenstarre der Gesellschaft … noch die Zelle der Intimität \[überzieht], die vor ihr sich geschützt meint’*.[^1] In het aforisme *Ne cherchez plus mon cœur* probeert Adorno een beeld te geven van de verhouding tussen de heersende cultuur en het begrip van de liefde.[^2]
 

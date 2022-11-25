@@ -1,15 +1,13 @@
 +++
-title = "De macht van de tolk"
-subtitle = "Een waarschuwing"
-auteurs = ["De redactie"]
-date = "2022-09-09"
-themas = "Cultuur en Maatschappij"
-aangehaald = ["Socrates"]
-image = "native.jpg"
+aangehaald = ['Socrates']
+auteurs = ['De redactie']
+date = '2022-09-09'
+image = 'native.jpg'
+note = "Dit is een vertaling van een transcriptie van een podcast door Asha Logos genaamd 'In Pursuit of Clarity, Episode #14: The Power of the Interpreter'."
+subtitle = 'Een waarschuwing'
+themas = 'Cultuur en Maatschappij'
+title = 'De macht van de tolk'
 +++
-Dit is een vertaling van een transcriptie van een podcast door Asha Logos genaamd *In Pursuit of Clarity, Episode #14: The Power of the Interpreter*. Hierin beschrijft hij hoe tolken de macht hebben om woorden te verdraaien, woorden weg te laten en woorden toe te voegen. De vertolking van zijn woorden is hier zo eerlijk mogelijk gedaan maar ik raad de lezer aan om ook naar het origineel te luisteren.
-
-- - -
 
 Stel je voor dat je het staatshoofd bent van een machtige natie, en dat je te maken hebt met een buitenlands staatshoofd dat een taal spreekt die je niet kent. Je neemt een tolk mee, aangezien dit je enige mogelijkheid is om te kunnen communiceren. Wanneer je tegenover de buitenlandse leider zit, kan je een gevoel krijgen van wat voor persoon het is en wat ze denken en wat ze proberen over te brengen. Maar natuurlijk gaat het grootste gedeelte van de communicatie via de woorden die worden gesproken. Op het eerste gezicht kan deze situatie heel gewoon lijken, maar als we de hele situatie overwegen realiseren we ons dat de tolk enorm veel macht heeft in deze situatie. Misschien zelfs bijna zoveel als jijzelf als staatshoofd. Zeker als de tolk direct met het buitenlandse staatshoofd spreekt in plaats van via een andere vertaler. 
 

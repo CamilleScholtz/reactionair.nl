@@ -2,11 +2,11 @@
 aangehaald = ['Theodore J. Kaczynski']
 auteurs = ['De redactie']
 date = '2022-02-21'
+image = 'thumb.webp'
 noindex = true
 subtitle = 'Een allegorie van wokisme avant la lettre'
 themas = 'Politiek en Actualiteit'
 title = 'Het narrenschip'
-image = "thumb.webp"
 +++
 
 

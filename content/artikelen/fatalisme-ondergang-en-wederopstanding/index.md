@@ -3,10 +3,10 @@ aangehaald = ['René Guénon', 'Friedrich Nietzsche', 'Karl Marx', 'Oswald Speng
 anchor = 'Center'
 auteurs = ['Intan Hoijer']
 date = '2021-11-03'
+image = 'thumb.webp'
 subtitle = 'Beschouwing over het lot der Westerse beschaving'
 themas = 'Cultuur en Maatschappij'
 title = 'Fatalisme, ondergang en wederopstanding'
-image = "thumb.webp"
 +++
 
 

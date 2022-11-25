@@ -3,10 +3,10 @@ aangehaald = ['Karl Marx']
 auteurs = ['Eco al-Hollandi']
 date = '2021-11-06'
 dossiers = ['Islam']
+image = 'thumb.webp'
 subtitle = 'Een blik op nieuw-links en de Iraanse revolutie'
 themas = 'Politiek en Actualiteit'
 title = 'Leren van gebeurtenissen uit de geschiedenis'
-image = "thumb.webp"
 +++
 
 

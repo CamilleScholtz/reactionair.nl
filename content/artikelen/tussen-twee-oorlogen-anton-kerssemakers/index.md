@@ -3,10 +3,10 @@ aangehaald = ['René Guénon', 'Anton Kerssemakers']
 anchor = 'Top'
 auteurs = ['Camille Meloen']
 date = '2021-10-02'
+image = 'thumb.webp'
 subtitle = 'Onderzoek naar een onbekende auteur'
 themas = 'Recensie en Biografie'
 title = 'Tussen twee oorlogen: Anton Kerssemakers'
-image = "thumb.webp"
 +++
 
 

@@ -2,10 +2,10 @@
 auteurs = ['Camille Meloen']
 date = '2021-12-05'
 dossiers = ['Islam']
+image = 'thumb.webp'
 subtitle = 'Onderzoek naar Soumaya Sahla'
 themas = 'Politiek en Actualiteit'
 title = 'De weg van terroriste naar VVD-adviseur'
-image = "thumb.webp"
 +++
 
 

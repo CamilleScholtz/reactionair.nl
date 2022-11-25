@@ -1,7 +1,7 @@
 +++
-title = "Dennis"
-profession = "Nette jongen"
-description = "Dennis is een politicoloog in spe."
+description = 'Dennis is een politicoloog in spe.'
+image = 'avatar.webp'
+profession = 'Nette jongen'
 pseudonym = true
-image = "avatar.webp"
+title = 'Dennis'
 +++

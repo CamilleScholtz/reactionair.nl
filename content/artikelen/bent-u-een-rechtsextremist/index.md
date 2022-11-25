@@ -1,11 +1,11 @@
 +++
-title = "Bent u een rechtsextremist?"
-subtitle = "Doe de test!"
-auteurs = ["De redactie"]
-date = "2022-04-29"
-themas = "Klikaas"
-image = "thumb.webp"
-anchor = "Smart"
+anchor = 'Smart'
+auteurs = ['De redactie']
+date = '2022-04-29'
+image = 'thumb.webp'
+subtitle = 'Doe de test!'
+themas = 'Klikaas'
+title = 'Bent u een rechtsextremist?'
 +++
 
 

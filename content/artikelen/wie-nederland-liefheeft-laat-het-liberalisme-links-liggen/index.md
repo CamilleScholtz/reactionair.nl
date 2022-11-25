@@ -1,10 +1,10 @@
 +++
 auteurs = ['Jan-Jaap Moltman']
 date = '2022-04-11'
+image = 'thumb.webp'
 subtitle = 'Over onze toekomst'
 themas = 'Politiek en Actualiteit'
 title = 'Wie Nederland liefheeft, laat het liberalisme links liggen'
-image = "thumb.webp"
 +++
 
 

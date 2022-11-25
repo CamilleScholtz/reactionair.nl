@@ -2,10 +2,10 @@
 aangehaald = ['Baruch Spinoza']
 auteurs = ['Marit Elechan']
 date = '2022-02-17'
+image = 'thumb.webp'
 subtitle = 'Een vergeten Nederlandse filosofe over dogmatisch kuddegedrag, versus zoeken naar Waarheid'
 themas = 'Recensie en Biografie'
 title = 'Carry van Bruggen: Eenheid en schijneenheid'
-image = "thumb.webp"
 +++
 
 

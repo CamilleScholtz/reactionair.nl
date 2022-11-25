@@ -1,15 +1,13 @@
 +++
-title = "Civitas en civilisatie"
-subtitle = "Het belang van vriendschap en loyaliteit"
-auteurs = ["De Melancholieke Nar"]
-date = "2022-07-03"
-themas = "Cultuur en Maatschappij"
-image = "discurso_funebre_pericles.png"
-anchor = "Smart"
+anchor = 'Smart'
+auteurs = ['De Melancholieke Nar']
+date = '2022-07-03'
+image = 'discurso_funebre_pericles.png'
+note = "Dit is een vertaling en bewerking van een Twitter-draad van [Mac Finn](https://twitter.com/ogmios)."
+subtitle = 'Het belang van vriendschap en loyaliteit'
+themas = 'Cultuur en Maatschappij'
+title = 'Civitas en civilisatie'
 +++
-*Dit artikel is een vertaling en bewerking van een twitterdraad van Mac Finn (@ogmios).* Hoewel ‘beschaving’ de gangbare vertaling is van het Engelse woord ‘civilization’, hier zelfs Amerikaans gespeld, heb ik er toch voor gekozen het te vertalen met ‘civilisatie’ omwille van etymologie. Dit riekt weliswaar naar een anglicisme, maar het is niettemin een licht archaïsch, maar daarom niet minder deugdelijk Nederlands woord van Latijnse oorsprong. De originele draad is [hier](https://twitter.com/ogmios/status/1541900763705872385) te vinden.
-
-- - -
 
 {{< quote
 	text="Chinezen hebben altijd in huizen gewoond inderdaad, als dat alles is wat je bedoelt met ‘civilisatie’."

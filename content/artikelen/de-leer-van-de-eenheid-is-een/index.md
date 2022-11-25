@@ -1,13 +1,13 @@
 +++
-title = "De leer van de Eenheid is één"
-subtitle = "al-Tawhīdu wāhidun"
-auteurs = ["Camille Meloen"]
-date = "2022-05-02"
-themas = "Religie en Metafysica"
-dossiers = ["Islam"]
-aangehaald = ["René Guénon"]
-image = "thumb.webp"
-anchor = "Center"
+aangehaald = ['René Guénon']
+anchor = 'Center'
+auteurs = ['Camille Meloen']
+date = '2022-05-02'
+dossiers = ['Islam']
+image = 'thumb.webp'
+subtitle = 'al-Tawhīdu wāhidun'
+themas = 'Religie en Metafysica'
+title = 'De leer van de Eenheid is één'
 +++
 
 

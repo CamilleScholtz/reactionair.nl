@@ -1,10 +1,10 @@
 +++
 auteurs = ['Paars van Grinsterer']
 date = '2022-02-14'
+image = 'thumb.webp'
 subtitle = 'Hoe we wegkijken bij fysiek en mentaal verminken bij genderdysforie maar rituelen en bidden illegaal verklaren'
 themas = 'Politiek en Actualiteit'
 title = 'Wil de echte homogenezer opstaan?'
-image = "thumb.webp"
 +++
 
 

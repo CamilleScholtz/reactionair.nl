@@ -1,13 +1,13 @@
 +++
-title = "Hitler, het nationaal-socialisme en Wodan"
-subtitle = "Een opstel van Carl Gustav Jung"
-auteurs = ["De redactie"]
-date = "2022-07-26"
-themas = "Recensie en Biografie"
+aangehaald = ['Carl Jung', 'Friedrich Nietzsche']
+anchor = 'Smart'
+auteurs = ['De redactie']
+date = '2022-07-26'
+image = 'franz.jpg'
 noindex = true
-aangehaald = ["Carl Jung", "Friedrich Nietzsche"]
-image = "franz.jpg"
-anchor = "Smart"
+subtitle = 'Een opstel van Carl Gustav Jung'
+themas = 'Recensie en Biografie'
+title = 'Hitler, het nationaal-socialisme en Wodan'
 +++
 *Dit opstel van de bekende Zwitserse psycholoog en esotericus Carl Gustav Jung (1875-1961) verscheen voor het eerst in 1936 onder de titel 'Wotan'*.
 

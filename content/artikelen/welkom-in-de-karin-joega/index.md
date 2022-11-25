@@ -3,10 +3,10 @@ aangehaald = ['Friedrich Nietzsche', 'Slavoj Žižek']
 anchor = 'Top'
 auteurs = ['De Melancholieke Nar']
 date = '2021-12-12'
+image = 'thumb.webp'
 subtitle = 'Veiligheid voor alles'
 themas = 'Cultuur en Maatschappij'
 title = 'Welkom in de Karin joega'
-image = "thumb.webp"
 +++
 
 

@@ -3,10 +3,10 @@ aangehaald = ['Jean-Jacques Rousseau']
 anchor = 'Center'
 auteurs = ['Sanura']
 date = '2022-06-13'
+image = 'thumb.webp'
 subtitle = 'Hoe hebben we dit kookpunt bereikt en wat kunnen we verwachten van hun woede?'
 themas = 'Politiek en Actualiteit'
 title = 'De boeren en natuurrecht!'
-image = "thumb.webp"
 +++
 
 _‘Life, liberty and the pursuit of happiness’_. Daar horen we over in onze vaak door Amerika geobsedeerde, media en geschiedschrijving. We horen over Locke en het liberalisme. Het sociaal contract. Over de ontwikkeling van mensenrechten en hoe de democratie onze rechten zou waarborgen. En gelukkig horen we ook nog wel eens over de tachtigjarige oorlog tegen de Spaanse heersers en hun hoge belastingen. 

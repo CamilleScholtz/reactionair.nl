@@ -1,11 +1,11 @@
 +++
-title = "Goddelijke muziek en duivelse ruis"
-subtitle = "Een parabel"
-auteurs = ["Tom van Giersbergen"]
-date = "2022-06-29"
-themas = "Religie en Metafysica"
-image = "cosmos-7.jpg"
-anchor = "Smart"
+anchor = 'Smart'
+auteurs = ['Tom van Giersbergen']
+date = '2022-06-29'
+image = 'cosmos-7.jpg'
+subtitle = 'Een parabel'
+themas = 'Religie en Metafysica'
+title = 'Goddelijke muziek en duivelse ruis'
 +++
 Ooit, zo stel ik me voor, schiep God hemel en aarde en alle levende wezens erin met ons mensen als de kroon op de schepping.
 

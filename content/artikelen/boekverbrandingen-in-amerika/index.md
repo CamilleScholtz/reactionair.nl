@@ -2,10 +2,10 @@
 anchor = 'Center'
 auteurs = ['Paars van Grinsterer']
 date = '2022-05-12'
+image = 'thumb.webp'
 subtitle = 'Hoe de MSM desinformatie verspreidt over censuur'
 themas = 'Politiek en Actualiteit'
 title = 'Boekverbrandingen in Amerika?'
-image = "thumb.webp"
 +++
 
 

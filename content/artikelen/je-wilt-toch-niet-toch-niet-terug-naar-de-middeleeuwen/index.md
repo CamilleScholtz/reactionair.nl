@@ -1,10 +1,10 @@
 +++
 auteurs = ['Jan-Willem Veldhuizen']
 date = '2022-01-20'
+image = 'thumb.webp'
 subtitle = 'Een antwoord'
 themas = 'Cultuur en Maatschappij'
 title = '“Je wilt toch niet toch niet terug naar de middeleeuwen?!”'
-image = "thumb.webp"
 +++
 
 

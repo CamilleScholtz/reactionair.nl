@@ -1,16 +1,14 @@
 +++
-title = "Het verval van de archetypen"
-subtitle = "Het herstellen van mannelijkheid en vrouwelijkheid in het tijdperk van de machine"
-auteurs = ["Tara Ann Thieke"]
-date = "2022-08-22"
-themas = "Cultuur en Maatschappij"
-image = "imago0080790130w.webp"
-anchor = "Top"
-question = "Wat zijn uw gedachten over dit artikel?"
+anchor = 'Top'
+auteurs = ['Tara Ann Thieke']
+date = '2022-08-22'
+image = 'imago0080790130w.webp'
+question = 'Wat zijn uw gedachten over dit artikel?'
+note = "Dit is een vertaling van het essay 'The Collapse of the Archetypes', het origineel is [hier](https://tarathieke.substack.com/p/the-collapse-of-the-archetypes/) te lezen."
+subtitle = 'Het herstellen van mannelijkheid en vrouwelijkheid in het tijdperk van de machine'
+themas = 'Cultuur en Maatschappij'
+title = 'Het verval van de archetypen'
 +++
-Dit artikel is een vertaling van *The Collapse of the Archetypes*, oorspronkelijk gepubliceerd op de substack van Tara Thieke. Het originele artikel is [hier](https://tarathieke.substack.com/p/the-collapse-of-the-archetypes) te vinden.
-
-- - -
 
 Het Victoriaanse tijdperk roept direct beelden op van gesmoorde vrouwelijkheid en bovenmatig gereserveerde mannen. In een wereld van snelle verandering grepen mannen en vrouwen bepaalde kenmerken stevig vast om de veranderingen op het mentale en fysieke terrein te navigeren.
 

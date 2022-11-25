@@ -2,10 +2,10 @@
 aangehaald = ['Immanuel Kant']
 auteurs = ['Sanura']
 date = '2021-10-12'
+image = 'thumb.webp'
 subtitle = 'Dictatoriale rechtsstaat'
 themas = 'Cultuur en Maatschappij'
 title = 'Verlichting en contraverlichting'
-image = "thumb.webp"
 +++
 
 

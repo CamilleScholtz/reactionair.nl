@@ -1,12 +1,12 @@
 +++
-title = "De regering is gevlucht!"
-subtitle = "Maar helaas niet naar Londen"
-auteurs = ["Sanura"]
-date = "2022-09-21"
-themas = "Politiek en Actualiteit"
-aangehaald = ["Thierry Baudet"]
-image = "data90997978-6e6fda.jpg"
-anchor = "Smart"
+aangehaald = ['Thierry Baudet']
+anchor = 'Smart'
+auteurs = ['Sanura']
+date = '2022-09-21'
+image = 'data90997978-6e6fda.jpg'
+subtitle = 'Maar helaas niet naar Londen'
+themas = 'Politiek en Actualiteit'
+title = 'De regering is gevlucht!'
 +++
 Het kabinet vluchtte onverwacht de kamer uit.[^1] De democratische rechtsstaat stort in elkaar. Armoede en chaos zijn het nieuwe normaal. *‘We zijn een grens over gegaan!’* zei Rutte. Hij heeft helemaal gelijk. De emmer is over gelopen. Wat er gebeurde was onacceptabel. Weg gaan was de enige juist reactie gezien:
 

@@ -1,10 +1,10 @@
 +++
 auteurs = ['De redactie']
 date = '2022-06-03'
+image = 'thumb.webp'
 subtitle = 'Nummer is 3 is echt zo van: hoe dan??'
 themas = 'Klikaas'
 title = 'Tien presocratische wijsheden die je doen zeggen: broooo'
-image = "thumb.webp"
 +++
 
 {{< slider

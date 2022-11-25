@@ -2,10 +2,10 @@
 aangehaald = ['Michel Foucault', 'Aristoteles', 'Plato', 'Pythagoras', 'Socrates']
 auteurs = ['Sanura']
 date = '2022-04-19'
+image = 'thumb.webp'
 subtitle = 'Verdwenen vrijheid en zingeving in het liberale consumptiekapitalisme'
 themas = 'Cultuur en Maatschappij'
 title = 'Wonen op zolder bij je ouders: loser of ascetische intellectueel?'
-image = "thumb.webp"
 +++
 
 

@@ -3,10 +3,10 @@ aangehaald = ['Edmund Burke', 'Johann Wolfgang von Goethe', 'René Guénon', 'Ka
 auteurs = ['Jan-Willem Veldhuizen']
 date = '2021-11-17'
 dossiers = ['Klimaatverandering']
+image = 'thumb.webp'
 subtitle = 'Over ecologie'
 themas = 'Politiek en Actualiteit'
 title = 'Waarom een authentieke reactionair een groene reactionair is'
-image = "thumb.webp"
 +++
 
 

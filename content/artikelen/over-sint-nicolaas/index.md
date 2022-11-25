@@ -2,10 +2,10 @@
 auteurs = ['Jan de Maansnijder']
 date = '2021-12-01'
 dossiers = ['Christendom']
+image = 'thumb.webp'
 subtitle = 'Een interpretatie van de symboliek uit het leven van deze heilige, losjes gebaseerd op de Gulden Legende'
 themas = 'Religie en Metafysica'
 title = 'Over Sint Nicolaas'
-image = "thumb.webp"
 +++
 
 

@@ -2,10 +2,10 @@
 aangehaald = ['Immanuel Kant', 'Roger Scruton', 'William Shakespeare', 'Plato']
 auteurs = ['Cedrik Vandooren']
 date = '2022-01-11'
+image = 'thumb.webp'
 subtitle = 'Wat is schoonheid?'
 themas = 'Cultuur en Maatschappij'
 title = 'Scruton en esthetisch oordelen'
-image = "thumb.webp"
 +++
 
 

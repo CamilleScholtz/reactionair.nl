@@ -3,10 +3,10 @@ aangehaald = ['Thierry Baudet', 'Geert Wilders']
 auteurs = ['Dennis Honing']
 date = '2021-11-09'
 dossiers = ['Conservatieve Alliantie', 'Islam']
+image = 'thumb.webp'
 subtitle = 'Traditionalisme als genezing voor het postmodernisme'
 themas = 'Politiek en Actualiteit'
 title = 'Dennis Honing ‘hoe echt om te gaan met diversiteit in Nederland’'
-image = "thumb.webp"
 +++
 
 

@@ -1,7 +1,7 @@
 +++
-title = "Elvengast"
-profession = "Rivendell-respecteerder"
-description = "Elvengast surft op de golven van de kali joega."
+description = 'Elvengast surft op de golven van de kali joega.'
+image = 'elvengast-profiel.jpeg'
+profession = 'Rivendell-respecteerder'
 pseudonym = true
-image = "elvengast-profiel.jpeg"
+title = 'Elvengast'
 +++

@@ -2,10 +2,10 @@
 aangehaald = ['Arthur Schopenhauer']
 auteurs = ['Alexander Wolfheze']
 date = '2022-02-07'
+image = 'thumb.webp'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 7'
 themas = 'Cultuur en Maatschappij'
 title = '‘Edge of Tomorrow’'
-image = "thumb.webp"
 +++
 
 

@@ -1,12 +1,12 @@
 +++
-title = "Het bijgeloof aan “De Vooruitgang”"
-subtitle = "Een essay uit 1939"
-auteurs = ["De redactie"]
-date = "2022-08-09"
-themas = "Religie en Metafysica"
-aangehaald = ["René Guénon", "Anton Kerssemakers", "Jean-Jacques Rousseau"]
-image = "aristo_lutkie-980x411.jpg"
-anchor = "Smart"
+aangehaald = ['René Guénon', 'Anton Kerssemakers', 'Jean-Jacques Rousseau']
+anchor = 'Smart'
+auteurs = ['De redactie']
+date = '2022-08-09'
+image = 'aristo_lutkie-980x411.jpg'
+subtitle = 'Een essay uit 1939'
+themas = 'Religie en Metafysica'
+title = 'Het bijgeloof aan “De Vooruitgang”'
 +++
 Dit essay was oorspronkelijk gepubliceerd door Anton Kerssemakers in het tijdschrift *Aristo-* van maart 1939.[^1]
 

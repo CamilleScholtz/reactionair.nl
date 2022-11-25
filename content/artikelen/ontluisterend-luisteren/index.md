@@ -3,10 +3,10 @@ aangehaald = ['Theodor Adorno', 'Carl Jung', 'Jean-Paul Sartre', 'Roger Scruton'
 auteurs = ['Cedrik Vandooren']
 date = '2022-04-25'
 draft = true
+image = 'thumb.webp'
 subtitle = 'Het muzikaal verval in de 20e eeuw'
 themas = 'Cultuur en Maatschappij'
 title = 'Ontluisterend luisteren'
-image = "thumb.webp"
 +++
 
 A.E. Housman schreef nostalgisch over _‘the happy highways where I went / and cannot come again’_.[^1] De erfenis van ons mooie continent brengt met zich mee Bach, Mozart, Brahms, Beethoven en Schubert. Tegenwoordig wordt muziek van dit kaliber niet meer geproduceerd en daarmee gaat een groot deel, als niet het belangrijkste deel van de Europese traditie verloren. Beschavingen door de geschiedenis heen hadden instrumenten en getalenteerde artiesten om er zuivere klanken uit te laten komen, maar geen heeft ooit de muziek geschreven zoals de titanen uit het Westen dat deden. Wat onderscheidt deze muziek precies van het andere? En wat heeft de beschaving die ooit melancholie wist te beschrijven in een enkele partituur en troost kon samenvatten in een liedje zo ver doen laten wegzinken?[^2]

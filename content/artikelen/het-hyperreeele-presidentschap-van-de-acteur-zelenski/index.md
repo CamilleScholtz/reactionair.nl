@@ -3,12 +3,11 @@ aangehaald = ['Jean Baudrillard']
 auteurs = ['Rintrah Radagast', 'De Melancholieke Nar']
 date = '2022-04-03'
 dossiers = ['Oekraïne']
+image = 'thumb.webp'
 subtitle = 'Een baudrillardiaanse visie'
 themas = 'Politiek en Actualiteit'
 title = 'Het hyperreeële presidentschap van de acteur Zelenski'
-image = "thumb.webp"
 +++
-
 
 Jean Baudrillard (1929-2007) was een post-marxistische filosoof die vooral bekend is geworden om het concept hyperrealiteit. Hiermee bedoelde hij dat we in een fase van de geschiedenis zijn gekomen waarin het menselijke bewustzijn niet meer in staat is de werkelijkheid van een simulatie daarvan te onderscheiden.
 
@@ -30,7 +29,6 @@ Zulke zaken gebeuren niet zomaar. Dit is een postmoderne oorlog. Het doel is om 
 Er is hier geen gewone oorlog van land tegen land gaande. Rusland heerst in de lucht en heeft genoeg wapentuig om Oekraïense steden met de grond gelijk te maken. Ze doen dit niet omwille van de burgers. Het is volwassen mannen niet toegestaan het land te verlaten en tijdens de avondklok moet iedereen binnen blijven.
 
 De Oekraïense strategie voor overwinning is om de propaganda-oorlog te winnen. Heel Oekraïne is een podium geworden waarop de hoofdrolspeler Zelenski oorlogje speelt in de hoop buitenlandse mogendheden aan zijn zijde te krijgen. Niet voor niets zijn *showbizz*-figuren en mediaproducten rijk vertegenwoordigd in zijn kabinet. Niet voor niets werd voorheen het beroep acteur als van lager allooi gezien dan dat van prostitué.
-
 
 [^1]: Oscar Wilde, _The picture of Dorian Gray_.
 [^2]: _Wikipedia_, _[Servant of the People](https://en.wikipedia.org/wiki/Servant_of_the_People_(TV_series))_.

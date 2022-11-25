@@ -1,13 +1,13 @@
 +++
-title = "Kolonialisme, kapitalisme en liberalisme"
-subtitle = "Drie ideeën met dezelfde oorsprong"
-auteurs = ["Eco al-Hollandi"]
-date = "2022-02-28"
-themas = "Politiek en Actualiteit"
-dossiers = ["Islam"]
-aangehaald = ["Karl Marx"]
-image = "thumb.webp"
-anchor = "Smart"
+aangehaald = ['Karl Marx']
+anchor = 'Smart'
+auteurs = ['Eco al-Hollandi']
+date = '2022-02-28'
+dossiers = ['Islam']
+image = 'thumb.webp'
+subtitle = 'Drie ideeën met dezelfde oorsprong'
+themas = 'Politiek en Actualiteit'
+title = 'Kolonialisme, kapitalisme en liberalisme'
 +++
 Kolonialisme. Als je het beste voorbeeld van de Engelse term _“buzzword”_ zou moeten geven zou dit woord een goede kandidaat zijn. We hebben de afgelopen jaren gezien dat standbeelden naar beneden worden gehaald, straatnamen worden gewijzigd, curricula op universiteiten worden omgegooid en helden uit het nationale verleden worden beschimpt. Kritiek op kolonialisme is mainstream, al zijn de hardste “anti-kolonialisme” schreeuwers vaak van mening dat het nog niet mainstream genoeg is, of dat men er harder tegen op moet treden. 
 

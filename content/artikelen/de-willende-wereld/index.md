@@ -1,13 +1,13 @@
 +++
-title = "De willende wereld"
-subtitle = "Enkele woorden als voorbereiding op een lezing"
-auteurs = ["Anton Prins"]
-date = "2022-06-23"
-themas = "Religie en Metafysica"
-aangehaald = ["George Berkeley", "Johann Wolfgang von Goethe", "Immanuel Kant", "Friedrich Nietzsche", "Arthur Schopenhauer", "William Shakespeare", "Baruch Spinoza", "Plato"]
-image = "thumb.webp"
-anchor = "Center"
-caption = "Portretfoto van Arthur Schopenhauer, Johannes Schäfer"
+aangehaald = ['George Berkeley', 'Johann Wolfgang von Goethe', 'Immanuel Kant', 'Friedrich Nietzsche', 'Arthur Schopenhauer', 'William Shakespeare', 'Baruch Spinoza', 'Plato']
+anchor = 'Center'
+auteurs = ['Anton Prins']
+caption = 'Portretfoto van Arthur Schopenhauer, Johannes Schäfer'
+date = '2022-06-23'
+image = 'thumb.webp'
+subtitle = 'Enkele woorden als voorbereiding op een lezing'
+themas = 'Religie en Metafysica'
+title = 'De willende wereld'
 +++
 Het volgende stuk is geschreven ter gelegendheid van de lezing van de heer Joris van Rossum van 24 juni 2022. Mijn hoop is dat dit kan dienen als voorbereidende lectuur voor geïnteresseerden die deze lezing bij zullen wonen.
 

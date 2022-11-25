@@ -2,10 +2,10 @@
 auteurs = ['Sanura']
 date = '2022-04-05'
 dossiers = ['Oekraïne']
+image = 'thumb.webp'
 subtitle = 'De rechtstaat in Oekraïne: verleden en toekomst'
 themas = 'Politiek en Actualiteit'
 title = 'De strijd voor de democratie'
-image = "thumb.webp"
 +++
 
 

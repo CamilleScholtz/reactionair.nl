@@ -3,10 +3,10 @@ aangehaald = ['Thierry Baudet']
 auteurs = ['Vrederijk']
 date = '2021-10-13'
 dossiers = ['Islam', 'Conservatieve Alliantie']
+image = 'thumb.webp'
 subtitle = 'Over reactionairen en moslims'
 themas = 'Politiek en Actualiteit'
 title = 'Een alliantie met moslims!?'
-image = "thumb.webp"
 +++
 
 

@@ -1,10 +1,10 @@
 +++
 auteurs = ['Cedrik Vandooren']
 date = '2022-04-30'
+image = 'thumb.webp'
 subtitle = 'Politieke paria en patriot'
 themas = 'Recensie en Biografie'
 title = 'Enoch Powell'
-image = "thumb.webp"
 +++
 
 

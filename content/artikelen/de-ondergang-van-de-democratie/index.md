@@ -2,10 +2,10 @@
 aangehaald = ['Erik von Kuehnelt-Leddihn', 'Karl Marx', 'Jean-Jacques Rousseau', 'Aristoteles', 'Plato', 'Pythagoras', 'Socrates']
 auteurs = ['Sanura']
 date = '2022-05-14'
+image = 'thumb.webp'
 subtitle = '‘Degeneratie van het midden’ na revolutie, tirannie en terreur'
 themas = 'Politiek en Actualiteit'
 title = 'De ondergang van de democratie?'
-image = "thumb.webp"
 +++
 
 

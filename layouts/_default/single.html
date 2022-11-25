@@ -25,12 +25,18 @@
 					{{ end }}
 				</div>
 
+				{{ if isset .Params "note" }}
+					<section class="note">
+						<small>{{ .Params.note | markdownify }}</small>
+					</section>
+				{{ end }}
+
 				<h1>{{ .Params.title }}</h1>
 				<h2>{{ .Params.subtitle }}</h2>
 			</div>
 		</section>
 
-		<section class="content">
+		<section class="content">		
 			{{ .Content }}
 
 			{{ if isset .Params "aangehaald" }}

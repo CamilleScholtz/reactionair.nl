@@ -2,10 +2,10 @@
 auteurs = ['Camille Meloen']
 date = '2021-10-24'
 draft = true
+image = 'thumb.webp'
 subtitle = 'Deconstructie van categorieën'
 themas = ['Filosofie']
 title = 'De natuur maakt geen sprongen'
-image = "thumb.webp"
 +++
 
 

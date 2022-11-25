@@ -2,10 +2,10 @@
 anchor = 'Center'
 auteurs = ['De redactie']
 date = '2022-05-10'
+image = 'thumb.webp'
 subtitle = 'Een experiment in kunstmatige intelligentie'
 themas = 'Politiek en Actualiteit'
 title = 'De essentie van linkse politiek volgens een algoritme'
-image = "thumb.webp"
 +++
 
 
