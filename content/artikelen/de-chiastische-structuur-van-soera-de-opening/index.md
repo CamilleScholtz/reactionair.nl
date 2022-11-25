@@ -9,7 +9,7 @@ themas = 'Religie en Metafysica'
 title = 'De chiastische structuur van soera De Opening'
 +++
 <blockquote style="text-align: center; color: var(--muted-color); max-width: 90%;">
-
+<p style="text-align: center;">
 <span style="color: var(--accent-color); font-size: 14px;">1.</span> In naam van God, de Barmhartige, de Genadevolle. 
 <span style="color: var(--accent-color); margin-left: 9px; font-size: 14px;">2.</span> Alle lof zij God, de Heer der Werelden. 
 <span style="color: var(--accent-color); margin-left: 9px; font-size: 14px;">3.</span> De Barmhartige, de Genadevolle. 
@@ -17,7 +17,7 @@ title = 'De chiastische structuur van soera De Opening'
 <span style="color: var(--accent-color); margin-left: 9px; font-size: 14px;">5.</span> U alleen aanbidden wij en U alleen smeken wij om hulp. 
 <span style="color: var(--accent-color); margin-left: 9px; font-size: 14px;">6.</span> Leid ons op het rechte pad, 
 <span style="color: var(--accent-color); margin-left: 9px; font-size: 14px;">7.</span> Het pad dergenen, aan wie Gij gunsten hebt geschonken — niet dat van hen, op wie toorn is nedergedaald, noch dat der dwalenden.
-
+</p>
 </blockquote>
 
 - - -
