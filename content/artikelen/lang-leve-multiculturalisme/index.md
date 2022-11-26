@@ -1,5 +1,5 @@
 +++
-title = "Alle culturen zijn gelijk, maar sommigen meer gelijk dan anderen"
+title = "Lang leve... multiculturalisme?"
 subtitle = "De hypocrisie van progressief-liberaal imperialisme en Qatar"
 auteurs = ["Calvin Tangelder"]
 date = "2022-11-26"
