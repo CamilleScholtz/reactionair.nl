@@ -37,7 +37,7 @@ const footnotes = (main, mobile) => {
 
 				tooltip.setAttribute("class", "tooltip");
 				arrow.setAttribute("class", "arrow");
-				
+
 				tooltip.innerHTML = `
 					<div class="hover"></div>
 					${backref.innerHTML}
@@ -78,7 +78,7 @@ const footnotes = (main, mobile) => {
 			if (mobile.matches) {
 				return;
 			}
-		
+
 			clearTimeout(timer);
 
 			const tooltip = sup.querySelector(".tooltip");
@@ -183,7 +183,6 @@ const scroll = (header, main, mobile) => {
 		if (!mobile.matches) {
 			utility.style.opacity = 1;
 		}
-		
 
 		input.style.transform    = "rotateY(90deg)";
 		button.style.transform   = "rotateY(0deg)";
@@ -322,6 +321,28 @@ const search = (header, mobile) => {
 	});
 }
 
+const slider = (mobile) => {
+	if (!mobile.matches) {
+		return;
+	}
+
+	const scroll = document.querySelector(".left .scroll");
+	if (!scroll) {
+		return;
+	}
+
+	let height = 0;
+	scroll.querySelectorAll("h2").forEach((el) => {
+		if (el.offsetHeight > height) {
+			height = el.offsetHeight;
+		}
+	});
+
+	scroll.querySelectorAll("h2").forEach((el) => {
+		el.style.height = `${height}px`;
+	});
+}
+
 const quote = (main) => {
 	const intro = main.querySelector(".intro");
 	if (!intro) {
@@ -376,5 +397,6 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	scroll(header, main, mobile);
 	time(header);
 	search(header, mobile);
+	slider(mobile);
 	footnotes(main, mobile);
 });
