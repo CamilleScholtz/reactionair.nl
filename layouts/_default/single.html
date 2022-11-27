@@ -31,8 +31,8 @@
 					</section>
 				{{ end }}
 
-				<h1>{{ .Params.title }}</h1>
-				<h2>{{ .Params.subtitle }}</h2>
+				<h1>{{ .Params.title | safeHTML }}</h1>
+				<h2>{{ .Params.subtitle | safeHTML }}</h2>
 			</div>
 		</section>
 

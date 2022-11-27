@@ -13,7 +13,7 @@
 				<span class="arrow">
 					-
 				</span>
-				<span class="text">{{ .Params.title }}</span>
+				<span class="text">{{ .Params.title | safeHTML }}</span>
 			</a>
 		{{ end }}
 

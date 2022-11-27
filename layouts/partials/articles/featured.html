@@ -1,8 +1,8 @@
 <a href="{{ .context.RelPermalink }}" class="article featured">
 	<div class="text">
 		<div class="author">{{ delimit .context.Params.auteurs ", " " & " }}</div>
-		<h2>{{ .context.Params.title }}</h2>
-		<h3>{{ .context.Params.subTitle }}</h3>
+		<h2>{{ .context.Params.title | safeHTML }}</h2>
+		<h3>{{ .context.Params.subTitle | safeHTML }}</h3>
 	</div>
 
 	<figure>

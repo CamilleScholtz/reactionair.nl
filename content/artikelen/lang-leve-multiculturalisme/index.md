@@ -1,5 +1,5 @@
 +++
-title = "Lang leve... multiculturalisme?"
+title = "Lang leve... multi&shy;culturalisme?"
 subtitle = "De hypocrisie van progressief-liberaal imperialisme en Qatar"
 auteurs = ["Calvin Tangelder"]
 date = "2022-11-26"
