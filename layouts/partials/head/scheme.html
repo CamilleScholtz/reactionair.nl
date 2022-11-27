@@ -10,8 +10,8 @@
 			{{ end }}
 		
 			"@type": "Article",
-			"headline": "{{ .Params.title }}",
-			"alternativeHeadline": "{{ .Params.subtitle }}",
+			"headline": "{{ .Params.title | plainify }}",
+			"alternativeHeadline": "{{ .Params.subtitle | plainify }}",
 			"datePublished": "{{ .Params.date.Format "2006-01-02" }}",
 			"image": [
 				"{{ ($image.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}"
@@ -33,7 +33,7 @@
 			}
 		{{ else if and (eq .Type "auteurs") (eq .Kind "term") }}
 			"@type": "Person",
-			"name": "{{ .Params.title }}",
+			"name": "{{ .Params.title | safeHTML }}",
 			"image": "{{ (.Resources.GetMatch .Params.image).Permalink }}"
 		{{ else }}
 			"@type": "Organization",

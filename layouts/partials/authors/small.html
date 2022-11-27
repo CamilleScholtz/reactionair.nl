@@ -6,16 +6,16 @@
 			srcset="{{ ($image.Fill "100x100 webp").RelPermalink }} 1x,
 			        {{ ($image.Fill "200x200 webp").RelPermalink }} 2x"
 			src="{{ ($image.Fill "200x200 webp").RelPermalink }}"
-			alt="{{ .Params.title }}"
+			alt="{{ .Params.title | safeHTML }}"
 			style="background: {{ index $image.Colors 0 }};">
 	</figure>
 
 	<div class="text">
-		<h2>{{ .Params.title }}</h2>
+		<h2>{{ .Params.title | safeHTML }}</h2>
 		<small>{{ .Params.profession }}</small>
 
 		<p>{{ .Params.description }}</p>
 
-		<a href="/auteurs/{{ urlize .Params.title }}/" class="more">Zie artikelen...</a>
+		<a href="/auteurs/{{ urlize (.Params.title | safeHTML) }}/" class="more">Zie artikelen...</a>
 	</div>
 </div>

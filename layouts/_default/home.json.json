@@ -3,8 +3,8 @@
 {{ range $i, $_ := where site.RegularPages "Type" "eq" "artikelen" }}
 	{{ $.Scratch.Add "index" (dict
 		"id"        $i
-		"title"     .Params.title
-		"subtitle"  .Params.subtitle
+		"title"     (.Params.title | plainify)
+		"subtitle"  (.Params.subtitle | plainify)
 		"authors"   .Params.auteurs
 		"content"   .Plain
 		"permalink" .RelPermalink

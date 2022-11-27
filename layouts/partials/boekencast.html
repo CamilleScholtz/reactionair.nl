@@ -14,7 +14,7 @@
 			<img
 				src="{{ ($image.Fit "660x440 webp").RelPermalink }}"
 				loading="lazy"
-				alt="{{ .title }}"
+				alt="{{ .title | safeHTML }}"
 				class="cover" 
 				style="transform: translateZ({{ $thickness }}px);">
 			<div class="pages" style="transform: translateX({{ sub 214 $thickness }}px) rotateY(90deg); width: {{ mul $thickness 1.99 }}px;"></div>

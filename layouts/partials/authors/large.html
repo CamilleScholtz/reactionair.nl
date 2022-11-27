@@ -6,12 +6,12 @@
 			srcset="{{ ($image.Fill "200x200 webp").RelPermalink }} 1x,
 			        {{ ($image.Fill "400x400 webp").RelPermalink }} 2x"
 			src="{{ ($image.Fill "400x400 webp").RelPermalink }}"
-			alt="{{ .Params.title }}"
+			alt="{{ .Params.title | safeHTML }}"
 			style="background: {{ index $image.Colors 0 }};">
 	</figure>
 
 	<div class="text">
-		<h1>{{ .Params.title }}</h1>
+		<h1>{{ .Params.title | safeHTML }}</h1>
 		<small>{{ .Params.profession }}</small>
 
 		<p>{{ .Params.description }}</p>

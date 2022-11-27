@@ -2,8 +2,8 @@
 	<main id="singe">		
 		<article id="donate">
 			<section class="content">
-				<h1>{{ .Params.title }}</h1>
-				<h2>{{ .Params.subtitle }}</h2>
+				<h1>{{ .Params.title | safeHTML }}</h1>
+				<h2>{{ .Params.subtitle | safeHTML }}</h2>
 
 				<p>U kunt doneren via het fondsenwervingsplatform <em><a href="https://whydonate.nl/fundraising/reactionair/nl/" target="_blank">WhyDonate</a></em>. Zowel eenmalig als maandelijks doneren is mogelijk:</p>
 
