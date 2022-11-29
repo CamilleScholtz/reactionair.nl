@@ -32,8 +32,6 @@ Om dit te beantwoorden moet ik eerst wat uitleggen over hoe men dacht over goden
 \
 Het idee van een louter goedaardige God is bijvoorbeeld de oudere vormen van theïsme relatief vreemd. Goden hadden een eigen wil en stonden boven zoiets als de menselijke moraliteit. Ze waren vormloos en tegelijkertijd alle vormen tegelijkertijd. Ze manifesteerden zich in dieren, in concepten; waren de nacht die de jager verhulde, of het inzicht dat een oplossing openbaarde. God was de inspiratie (iemand kreeg de geest)[^1], hij was de hemel, de aarde en de zee. God was de plant, de storm en de sloten van deuren die niet meer open gingen. God was de lust die zich roerde in je lendenen met de ontwakende lente, of de woede die je verblindde in de strijd. God was niet een fysiek wezen, maar een geest die bezit nam van jou, de mensen en dieren om je heen en deze voortdreef. Een vormloze entiteit die zichzelf in allerlei vormen kon manifesteren.
 
-Een goed boek over deze oudere vormen van theïsme is *Die Götter Griechenlands. Das Bild des Göttlichen im Spiegel des griechischen Geistes* van Walter F. Otto, waarin de Griekse goden Athena, Hermes, Aphrodite en Apollo worden uitgewerkt vanuit het wereldbeeld van de Homerische epiek.
-
 Als voorbeeld wil ik kijken naar Zeus Triophthalmus (Ζεύς Τριόφθαλμος). Triophthalmus betekent Drie-ogige. Wij zien Zeus niet als een drie-ogig wezen, maar voor de vroegere conceptie van god, was dit geen enkel probleem.
 
 Elk oog was een eigen manifestatie van de Olympische Zeus, en elke manifestatie was een eigen vorm. Zoals Proklós het omschreef in *Commentaar van Proklós op Plato's Cratylus*:
@@ -47,7 +45,11 @@ In dit godsbeeld komt de oude vorm van theïsme wellicht het sterkst naar voren:
 
 τρεῖς δὲ ὀφθαλμοὺς ἔχειν ἐπὶ τῷδε ἄν τις τεκμαίροιτο αὐτόν. Δία γὰρ ἐν οὐρανῷ βασιλεύειν, οὗτος μὲν λόγος κοινὸς πάντων ἐστὶν ἀνθρώπων. ὃν δὲ ἄρχειν φασὶν ὑπὸ γῆς, ἔστιν ἔπος τῶν Ὁμήρου Δία ὀνομάζον καὶ τοῦτον·\
 “ ‘Ζεύς τε καταχθόνιος καὶ ἐπαινὴ Περσεφόνεια.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
-“Αἰσχύλος δὲ ὁ Εὐφορίωνος καλεῖ Δία καὶ τὸν ἐν θαλάσσῃ. τρισὶν οὖν ὁρῶντα ἐποίησεν ὀφθαλμοῖς ὅστις δὴ ἦν ὁ ποιήσας, ἅτε ἐν ταῖς τρισὶ ταῖς λεγομέναις λήξεσιν ἄρχοντα τὸν αὐτὸν τοῦτον θεόν.[^3]
+“Αἰσχύλος δὲ ὁ Εὐφορίωνος καλεῖ Δία καὶ τὸν ἐν θαλάσσῃ. τρισὶν οὖν ὁρῶντα ἐποίησεν ὀφθαλμοῖς ὅστις δὴ ἦν ὁ ποιήσας, ἅτε ἐν ταῖς τρισὶ ταῖς λεγομέναις λήξεσιν ἄρχοντα τὸν αὐτὸν τοῦτον θεόν.[^3]\
+\
+Een goed boek dat ik graag aanraad over deze oudere vormen van theïsme is *Die Götter Griechenlands. Das Bild des Göttlichen im Spiegel des griechischen Geistes* van Walter F. Otto, waarin de Griekse goden Athena, Hermes, Aphrodite en Apollo worden uitgewerkt vanuit het wereldbeeld van de Homerische epiek.
+
+
 
 **Goden en hun vormen**
 
