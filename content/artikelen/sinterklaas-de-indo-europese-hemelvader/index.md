@@ -9,9 +9,9 @@ anchor = "Smart"
 +++
 Was jij als kind bang voor de Sint? Wellicht dat je in deze jeugdige jaren, toen de hedendaagse volwassenheid onze diepe connectie tot onze bron nog niet had afgestompt, iets realiseerde middels jouw bloedgeheugen: dat je in feite de Indo-Europese Hemelvader in de ogen staarde.\
 \
-Want hoewel dit wellicht een vreemd idee kan lijken—ik hoor je denken: Sint Nicolaas is toch een katholieke heilige? Een kerk die niets met de heidense meergoderij heeft?—zal ik je tonen dat Sinterklaas een van de laatst levende restanten van de Indo-Europese Hemelvader Dyáuṣ Pitṛ́ is, wiens naam ons wellicht beter bekend is in de vorm ‘Jupiter’.\
+Want hoewel dit wellicht een vreemd idee kan lijken—ik hoor je denken: Sint Nicolaas is toch een *katholieke* heilige? Een kerk die niets met de heidense meergoderij heeft?—zal ik je tonen dat Sinterklaas een van de laatst levende restanten van de Indo-Europese Hemelvader Dyáuṣ Pitṛ́ is, wiens naam ons wellicht beter bekend is in de vorm ‘Jupiter’.\
 \
-Sinterklaas is zo een levende uiting van één van de meest perennialistische patronen waarvan de wortel dieper terug loopt in de tijd dan de Abrahamitische tradities. Het is eenvoudig vast te stellen dat de Sinterklaasgebruiken vandaag de dag geen basis hebben in de Bijbel, noch in de tradities uit de Levant. De vorm van het Sinterklaasfeest is duidelijk van buiten die tradities geassimileerd. Wel zien we verschillende gebruiken en tradities uit het Indo-Europese gebied die sterke overeenkomsten hebben.\
+Sinterklaas is zo een levende uiting van één van de meest perennialistische patronen waarvan de wortel dieper terug loopt in de tijd dan de Abrahamitische tradities. Het is eenvoudig vast te stellen dat de Sinterklaasgebruiken vandaag de dag geen basis hebben in de Bijbel, noch in de tradities uit de Levant. De vorm van het Sinterklaasfeest is duidelijk van buiten die tradities geassimileerd. Wel zien we verschillende gebruiken en tradities uit het Indo-Europese gebied die sterke overeenkomsten vertonen met hoe wij Sinterklaas vieren.\
 \
 In dit artikel nodig ik je uit om mee te gaan op reis door de tijd, en wil ik je langs een aantal manifestaties van de Hemelvader voeren, om zo de wortels van onze Sint Nicolaas bloot te leggen en het feest in een nieuw daglicht te plaatsen.\
 Ik hoop dat nieuw licht tot nieuwe inzichten leidt, en dat men hierdoor beter gaat begrijpen waar het feest voor dient, waar het om draait, welk perennialistisch patroon in deze belichaamde mythos wordt uitgeleefd en waarom het belangrijk is dat deze gebruiken niet verloren gaan in de waan van de dag.\
@@ -19,18 +19,18 @@ Ook zal ik de jeugdige nostalgie, de hang naar het “gezellige kinderfeest” n
 
 ### [](<>)De Hemelvader is één, hij heeft vele maskers
 
-Wie is is Dyáuṣ Pitṛ́? Twee Dyáuṣ, van de wortel *dyú* dat ‘hemel’ betekent en Pitṛ́, wat ‘vader’ betekent. Dyáuṣ is specifiek de hemel bij daglicht, en connoteert met de zon, het licht en de dag.
+Wie is is Dyáuṣ Pitṛ́? Allereerst een etymologische achtergrond: Dyáuṣ komt van *dyú*, dat ‘hemel’ betekent, en Pitṛ́ betekent ‘vader’. Dyáuṣ is specifiek de hemel bij daglicht, en connoteert met de zon, het licht en de dag.
 
-Ons woord ‘dag’ gaat terug op dezelfde wortel als Dyáuṣ, en ook aan het Latijnse *dies* (dag) en *Deus* (God) en het Engelse *divine* (hemels) en *dawn* (dageraad) ligt dezelfde wortel ten grondslag.
+Ons woord ‘dag’ gaat terug op dezelfde wortel als Dyáuṣ, en ook aan de Latijnse woorden *dies* (dag) en *Deus* (God) en de Engelse woorden *divine* (hemels) en *dawn* (dageraad) ligt dezelfde wortel ten grondslag.
 
-Toch lijkt deze naam een titel te zijn, want er is geen bewijs van een gepraktiseerde cultus van Dyáuṣ Pitṛ́ gevonden, en hij wordt maar vier keer bij naam genoemd in het oudste Indo-Europese collectie van lofzangen;, de Rigveda..
+Toch lijkt deze naam een titel te zijn, want er is geen bewijs van een gepraktiseerde cultus van Dyáuṣ Pitṛ́ gevonden, en daarbij wordt hij maar vier keer bij naam genoemd in de oudste Indo-Europese collectie van lofzangen; de *Rigveda*.
 
- Wie was deze god, waar komt hij vandaan? En op welke manier werd hij aanbeden? 
+Wie was deze god, waar komt hij vandaan en op welke manier werd hij aanbeden? 
 
 **Bronstijd Theïsme**\
-Om dit te beantwoorden moet ik eerst wat uitleggen over hoe men dacht over goden in polytheistische religies uit de vroege bronstijd. Ze hadden namelijk een heel ander godsbeeld dan wij dat vandaag de dag kennen. Modern, westers theïsme neigt vaak God te zien als een wezen. Een wezen boven andere wezens (engelen, mensen, dieren), maar desalniettemin een wezen. Ook is dit wezen een bron van al het Goede en Ordelijkheid. Deze vorm van theïsme is relatief modern, en zou niet gedeeld worden door oudere culturen.\
+Om dit te beantwoorden moet ik eerst wat uitleggen over hoe men dacht over goden in polytheistische religies uit de vroege bronstijd. Ze hadden namelijk een heel ander godsbeeld dan wij dat vandaag de dag kennen. Modern, westers theïsme neigt vaak God te zien als een wezen. Een wezen boven andere wezens (engelen, mensen, dieren), maar desalniettemin een wezen. Ook is dit wezen een bron van al het Goede en Ordelijkheid. Deze vorm van theïsme is echter relatief modern, en oudere culturen houden er een geheel andere visie op na.\
 \
-Zo’n idee van een puur goede God is relatief vreemd in oudere vormen van theïsme. Goden hadden een eigen wil en stonden voorbij zoiets als menselijke moraliteit. Ze waren vormloos en tegelijkertijd alle vormen tegelijkertijd. Ze manifesteerden zich in dieren, in concepten, ze waren de nacht die een jager verhulde, of het inzicht dat een oplossing openbaarde. God was de inspiratie (iemand kreeg de geest), God was de hemel, de aarde en de zee. God was de plant, de storm en de sloten van deuren die niet meer open gingen. God was de lust die zich roerde in je lendenen met de ontwakende lente, of de woede die je verblinde in de strijd. God was niet een fysiek wezen, maar een geest die controle nam van jou, de mensen en dieren om je heen en je voortdreef. Een vormloze entiteit die zichzelf in allerlei vormen kon manifesteren.
+Het idee van een louter goedaardige God is bijvoorbeeld relatief vreemd in de oudere vormen van theïsme. Goden hadden een eigen wil en stonden boven zoiets als de menselijke moraliteit. Ze waren vormloos en tegelijkertijd alle vormen tegelijkertijd. Ze manifesteerden zich in dieren, in concepten, waren de nacht die de jager verhulde, of het inzicht dat een oplossing openbaarde. God was de inspiratie (iemand kreeg de geest)[^1], hij was de hemel, de aarde en de zee. God was de plant, de storm en de sloten van deuren die niet meer open gingen. God was de lust die zich roerde in je lendenen met de ontwakende lente, of de woede die je verblindde in de strijd. God was niet een fysiek wezen, maar een geest die bezit nam van jou, de mensen en dieren om je heen en je voortdreef. Een vormloze entiteit die zichzelf in allerlei vormen kon manifesteren.
 
 Een goed boek over deze oudere vormen van theïsme is *Die Götter Griechenlands. Das Bild des Göttlichen im Spiegel des griechischen Geistes* van Walter F. Otto, waarin de Griekse goden Athena, Hermes, Aphrodite en Apollo worden uitgewerkt vanuit het wereldbeeld van de Homerische epiek.
 
@@ -39,15 +39,15 @@ Als voorbeeld wil ik kijken naar Zeus Triophthalmus (Ζεύς Τριόφθαλμ
 Elk oog was een eigen manifestatie van de Olympische Zeus, en elke manifestatie was een eigen vorm. Zoals Proklós het omschreef in *Commentaar van Proklós op Plato's Cratylus*:
 
 > \
-> *“Hij (Olympische Zeus) is ook de samenvoeging van de drie, heeft dezelfde naam als de bron Jupiter (Zeus), is met hem verenigd en wordt monadisch Jupiter genoemd. Maar de tweede wordt dyadisch genoemd , mariene Jupiter en Neptunus (Ποσειδῶν). En de derde wordt triadisch genoemd, terrestrische Jupiter, Pluto (Πλούτων) en Hades (Ἅιδης). De eerste hiervan bewaart, fabriceert en verlevendigt toppen, maar de tweede, dingen van een tweede rang, en de derde die van een derde orde. Vandaar dat deze laatste Proserpine (Περσεφόνη) zou hebben verkracht, zodat hij samen met haar de uiteinden van het universum zou kunnen animeren."*[^1]
+> *“Hij (Olympische Zeus) is ook de samenvoeging van de drie, heeft dezelfde naam als de bron Jupiter (Zeus), is met hem verenigd en wordt monadisch Jupiter genoemd. Maar de tweede wordt dyadisch genoemd , mariene Jupiter en Neptunus (Ποσειδῶν). En de derde wordt triadisch genoemd, terrestrische Jupiter, Pluto (Πλούτων) en Hades (Ἅιδης). De eerste hiervan bewaart, fabriceert en verlevendigt toppen, maar de tweede, dingen van een tweede rang, en de derde die van een derde orde. Vandaar dat deze laatste Proserpine (Περσεφόνη) zou hebben verkracht, zodat hij samen met haar de uiteinden van het universum zou kunnen animeren."*[^2]
 
 Drie Zeusen. Ζεὺς Ὀλυμπιακός (Zèfs Olympiakós, de Olympische Zeus), Ζεὺς Θαλάσσιος:  Ποσειδῶν (Zèfs Thalássios: Poseidón) en Ζεὺς Χθόνιος:  Πλούτων (Zèfs Chthónios: Ploúton).
 
 In dit godsbeeld komt de oude vorm van theïsme wellicht het sterkst naar voren: Zeus is zowel zichzelf, als Hades en Poseidon. De Hemelvader is een drie-eenheid van de drie Olympische broers, waarbij zij alledrie de essentie hebben van de Olympische Zeus. In deze drie aspecten omvat de Olympische Zeus de gehele wereld; het land, de zee en de lucht. Elk aspect een eigen domein, maar alledrie dezelfde Hemelvader, aldus Pausanias in zijn werk Hellados Periegesis (Ἑλλάδος Περιήγησις):
 
-> τρεῖς δὲ ὀφθαλμοὺς ἔχειν ἐπὶ τῷδε ἄν τις τεκμαίροιτο αὐτόν. Δία γὰρ ἐν οὐρανῷ βασιλεύειν, οὗτος μὲν λόγος κοινὸς πάντων ἐστὶν ἀνθρώπων. ὃν δὲ ἄρχειν φασὶν ὑπὸ γῆς, ἔστιν ἔπος τῶν Ὁμήρου Δία ὀνομάζον καὶ τοῦτον·\
-> “ ‘Ζεύς τε καταχθόνιος καὶ ἐπαινὴ Περσεφόνεια.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
-> “Αἰσχύλος δὲ ὁ Εὐφορίωνος καλεῖ Δία καὶ τὸν ἐν θαλάσσῃ. τρισὶν οὖν ὁρῶντα ἐποίησεν ὀφθαλμοῖς ὅστις δὴ ἦν ὁ ποιήσας, ἅτε ἐν ταῖς τρισὶ ταῖς λεγομέναις λήξεσιν ἄρχοντα τὸν αὐτὸν τοῦτον θεόν.[^2]
+τρεῖς δὲ ὀφθαλμοὺς ἔχειν ἐπὶ τῷδε ἄν τις τεκμαίροιτο αὐτόν. Δία γὰρ ἐν οὐρανῷ βασιλεύειν, οὗτος μὲν λόγος κοινὸς πάντων ἐστὶν ἀνθρώπων. ὃν δὲ ἄρχειν φασὶν ὑπὸ γῆς, ἔστιν ἔπος τῶν Ὁμήρου Δία ὀνομάζον καὶ τοῦτον·\
+“ ‘Ζεύς τε καταχθόνιος καὶ ἐπαινὴ Περσεφόνεια.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
+“Αἰσχύλος δὲ ὁ Εὐφορίωνος καλεῖ Δία καὶ τὸν ἐν θαλάσσῃ. τρισὶν οὖν ὁρῶντα ἐποίησεν ὀφθαλμοῖς ὅστις δὴ ἦν ὁ ποιήσας, ἅτε ἐν ταῖς τρισὶ ταῖς λεγομέναις λήξεσιν ἄρχοντα τὸν αὐτὸν τοῦτον θεόν.[^3]
 
 **Goden en hun vormen**
 
@@ -352,9 +352,12 @@ They never entirely go, they hang onto the world by the tip of a fingernail, alw
 
 *― Terry Pratchett, Hogfather*
 
-\[﻿^1]: "He (Olympian Zefs) is also the summit of the three, has the same name with the fontal (he who is the source) Jupiter (*Ζεύς*), is united to him, and is monadically called Jupiter. But the second is called dyadically, marine Jupiter and Neptune (*Ποσειδῶν*). And the third is triadically denominated, terrestrial Jupiter, Pluto (*Πλούτων*) and Hades (*Ἅιδης*). The first of these also preserves, fabricates, and vivifies summits, but the second, things of a second rank, and the third those of a third order. Hence this last is said to have ravished Proserpine (*[Περσεφόνη](https://sites.google.com/a/hellenicgods.org/www/paersaephone---persephone)*), that together with her he might animate the extremities of the universe." - *σχόλιον Πρόκλου επί Κρατύλου Πλάτωνος*, trans. Thomas Taylor.
+\
+[^1]: Aldus is ook het woord “inspiratie” afgeleid van het Latijnse “spiritus” (geest).
 
- [^2]: “Men zou kunnen concluderen dat dit de reden is voor zijn drie ogen (red. een standbeeld van
+\[﻿^2]: "He (Olympian Zefs) is also the summit of the three, has the same name with the fontal (he who is the source) Jupiter (*Ζεύς*), is united to him, and is monadically called Jupiter. But the second is called dyadically, marine Jupiter and Neptune (*Ποσειδῶν*). And the third is triadically denominated, terrestrial Jupiter, Pluto (*Πλούτων*) and Hades (*Ἅιδης*). The first of these also preserves, fabricates, and vivifies summits, but the second, things of a second rank, and the third those of a third order. Hence this last is said to have ravished Proserpine (*[Περσεφόνη](https://sites.google.com/a/hellenicgods.org/www/paersaephone---persephone)*), that together with her he might animate the extremities of the universe." - *σχόλιον Πρόκλου επί Κρατύλου Πλάτωνος*, trans. Thomas Taylor.
+
+ [^3]: “Men zou kunnen concluderen dat dit de reden is voor zijn drie ogen (red. een standbeeld van
 Zefs oorspronkelijk uit Troje). Dat Zeus koning in de hemel is, is een gezegde dat alle mensen
 kennen. Wat betreft degene van wie wordt gezegd dat hij onder de aarde regeert, er is een vers
 van Homerus dat hem ook Zeus noemt:
