@@ -27,7 +27,7 @@ Toch lijkt deze naam een titel te zijn, want er is geen bewijs van een gepraktis
 
 Wie was deze god, waar komt hij vandaan en op welke manier werd hij aanbeden? 
 
-**Theïsme in de Bronstijd**\
+**Theïsme in de bronstijd**\
 Om dit te beantwoorden moet ik eerst wat uitleggen over hoe men dacht over goden in polytheistische religies uit de vroege bronstijd. Ze hadden namelijk een heel ander godsbeeld dan wij dat vandaag de dag kennen. Modern, westers theïsme neigt vaak God te zien als een wezen. Een wezen boven andere wezens (engelen, mensen, dieren), maar desalniettemin een wezen. Ook is dit wezen een bron van al het Goede en Ordelijkheid. Deze vorm van theïsme is echter relatief modern, en oudere culturen houden er een geheel andere visie op na.\
 \
 Het idee van een louter goedaardige God is bijvoorbeeld relatief vreemd in de oudere vormen van theïsme. Goden hadden een eigen wil en stonden boven zoiets als de menselijke moraliteit. Ze waren vormloos en tegelijkertijd alle vormen tegelijkertijd. Ze manifesteerden zich in dieren, in concepten, waren de nacht die de jager verhulde, of het inzicht dat een oplossing openbaarde. God was de inspiratie (iemand kreeg de geest)[^1], hij was de hemel, de aarde en de zee. God was de plant, de storm en de sloten van deuren die niet meer open gingen. God was de lust die zich roerde in je lendenen met de ontwakende lente, of de woede die je verblindde in de strijd. God was niet een fysiek wezen, maar een geest die bezit nam van jou, de mensen en dieren om je heen en je voortdreef. Een vormloze entiteit die zichzelf in allerlei vormen kon manifesteren.
