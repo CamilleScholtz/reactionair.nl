@@ -353,7 +353,7 @@ They never entirely go, they hang onto the world by the tip of a fingernail, alw
 *― Terry Pratchett, Hogfather*
 
 \
-[^1]: Aldus is ook het woord “inspiratie” afgeleid van het Latijnse “spiritus” (geest).
+[^1]: Aldus is ook het woord “inspiratie” afgeleid van het Latijnse “spiritus” (geest/adem).
 
 \[﻿^2]: "He (Olympian Zefs) is also the summit of the three, has the same name with the fontal (he who is the source) Jupiter (*Ζεύς*), is united to him, and is monadically called Jupiter. But the second is called dyadically, marine Jupiter and Neptune (*Ποσειδῶν*). And the third is triadically denominated, terrestrial Jupiter, Pluto (*Πλούτων*) and Hades (*Ἅιδης*). The first of these also preserves, fabricates, and vivifies summits, but the second, things of a second rank, and the third those of a third order. Hence this last is said to have ravished Proserpine (*[Περσεφόνη](https://sites.google.com/a/hellenicgods.org/www/paersaephone---persephone)*), that together with her he might animate the extremities of the universe." - *σχόλιον Πρόκλου επί Κρατύλου Πλάτωνος*, trans. Thomas Taylor.
 
