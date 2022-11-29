@@ -34,10 +34,10 @@ Het idee van een louter goedaardige God is bijvoorbeeld de oudere vormen van the
 
 Als voorbeeld wil ik kijken naar Zeus Triophthalmus (Ζεύς Τριόφθαλμος). Triophthalmus betekent Drie-ogige. Wij zien Zeus doorgaans niet als een drie-ogig wezen, maar in de vroegere conceptie van deze god was een dergelijk beeld geen enkel probleem.
 
-Elk oog was een eigen manifestatie van de Olympische Zeus, en elke manifestatie was een eigen vorm. Zoals Proklós het omschreef in *Commentaar van Proklós op Plato's Cratylus*:
+Elk oog vertegenwoordigde een andere manifestatie van de Olympische Zeus, en elke manifestatie had een eigen vorm, zoals Proklós het omschreef in *Commentaar van Proklós op Plato's Cratylus*:
 
 > \
-> *“Hij (Olympische Zeus) is ook de samenvoeging van de drie, heeft dezelfde naam als de bron Jupiter (Zeus), is met hem verenigd en wordt monadisch Jupiter genoemd. Maar de tweede wordt dyadisch genoemd , mariene Jupiter en Neptunus (Ποσειδῶν). En de derde wordt triadisch genoemd, terrestrische Jupiter, Pluto (Πλούτων) en Hades (Ἅιδης). De eerste hiervan bewaart, fabriceert en verlevendigt toppen, maar de tweede, dingen van een tweede rang, en de derde die van een derde orde. Vandaar dat deze laatste Proserpine (Περσεφόνη) zou hebben verkracht, zodat hij samen met haar de uiteinden van het universum zou kunnen animeren."*[^2]
+> *“Hij (Olympische Zeus) is ook de samenvoeging van de drie, heeft dezelfde naam als de bron Jupiter (Zeus), is met hem verenigd en wordt monadisch Jupiter genoemd. Maar de tweede wordt dyadisch genoemd, mariene Jupiter en Neptunus (Ποσειδῶν). En de derde wordt triadisch genoemd, terrestrische Jupiter, Pluto (Πλούτων) en Hades (Ἅιδης). De eerste hiervan bewaart, fabriceert en verlevendigt toppen, maar de tweede, dingen van een tweede rang, en de derde die van een derde orde. Vandaar dat deze laatste Proserpine (Περσεφόνη) zou hebben verkracht, zodat hij samen met haar de uiteinden van het universum zou kunnen animeren."*[^2]
 
 Drie Zeusen. Ζεὺς Ὀλυμπιακός (Zèfs Olympiakós, de Olympische Zeus), Ζεὺς Θαλάσσιος:  Ποσειδῶν (Zèfs Thalássios: Poseidón) en Ζεὺς Χθόνιος:  Πλούτων (Zèfs Chthónios: Ploúton).
 
