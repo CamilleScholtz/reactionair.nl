@@ -7,23 +7,15 @@ themas = "Religie en Metafysica"
 image = "arbo_wildhunt.jpg"
 anchor = "Smart"
 +++
-Is Sinterklaas een van de laatst levende restanten van de Indo-Europese Hemelvader Dyáuṣ Pitṛ́, wiens naam ons wellicht beter bekend is in de vorm ‘Jupiter’?
-
-Hoe kom ik op zo’n vreemd idee? Sint Nicolaas is een immers een katholieke heilige, en de kerk heeft niets met gekke, heidense meergoderij!
-
-Nee! Sinterklaas is een levende uiting van een van de meest perennialistische patronen, en die wortel loopt dieper terug in de tijd dan de Abrahamitische tradities.
-
- Het is eenvoudig vast te stellen dat wat wij zien rond Sinterklaasgebruiken geen basis heeft in de Bijbel, noch de tradities uit de Levant. De vorm is duidelijk van buiten die tradities geassimileerd. Wel zien we verschillende gebruiken en tradities uit het Indo-Europese gebied die sterke overeenkomsten hebben.
-
- In dit artikel wil ik je meenemen op reis door de tijd, langs een aantal manifestaties van de Hemelvader om zo de wortels van onze Sint Nicolaas bloot te leggen, en het feest in een nieuw daglicht te plaatsen.
-
-Ik hoop dat nieuw licht tot nieuwe inzichten leidt, en dat men beter gaat begrijpen waar het feest voor dient, waar het om draait, welk perennialistisch patroon in deze belichaamde mythos wordt uitgeleefd en waarom het belangrijk is dat deze gebruiken niet verloren gaan door de waan van de dag.
-
-Ook zal de jeugdige nostalgie niet gespaard blijven door deze openbaring, want ik kan je verzekeren dat Zwarte Piet niet langer gezien zal worden als een olijke kindervriend tegen de tijd dat wij bij het einde gekomen zijn.
-
- Was jij als kind bang voor de Sint? Wellicht kwam dit omdat jouw bloedgeheugen wist dat je de Indo-Europese Hemelvader in de ogen staarde.
-
-
+Was jij als kind bang voor de Sint? Wellicht dat je in deze jeugdige jaren, toen de hedendaagse volwassenheid onze diepe connectie tot onze bron nog niet had afgestompt, iets realiseerde middels jouw bloedgeheugen: dat je in feite de Indo-Europese Hemelvader in de ogen staarde.\
+\
+Want hoewel dit wellicht een vreemd idee kan lijken—ik hoor je denken: Sint Nicolaas is toch een katholieke heilige? Een kerk die niets met de heidense meergoderij heeft?—zal ik je tonen dat Sinterklaas een van de laatst levende restanten van de Indo-Europese Hemelvader Dyáuṣ Pitṛ́ is, wiens naam ons wellicht beter bekend is in de vorm ‘Jupiter’.\
+\
+Sinterklaas is zo een levende uiting van één van de meest perennialistische patronen waarvan de wortel dieper terug loopt in de tijd dan de Abrahamitische tradities. Het is eenvoudig vast te stellen dat de Sinterklaasgebruiken vandaag de dag geen basis hebben in de Bijbel, noch in de tradities uit de Levant. De vorm van het Sinterklaasfeest is duidelijk van buiten die tradities geassimileerd. Wel zien we verschillende gebruiken en tradities uit het Indo-Europese gebied die sterke overeenkomsten hebben.\
+\
+In dit artikel nodig ik je uit om mee te gaan op reis door de tijd, en wil ik je langs een aantal manifestaties van de Hemelvader voeren, om zo de wortels van onze Sint Nicolaas bloot te leggen en het feest in een nieuw daglicht te plaatsen.\
+Ik hoop dat nieuw licht tot nieuwe inzichten leidt, en dat men hierdoor beter gaat begrijpen waar het feest voor dient, waar het om draait, welk perennialistisch patroon in deze belichaamde mythos wordt uitgeleefd en waarom het belangrijk is dat deze gebruiken niet verloren gaan in de waan van de dag.\
+Ook zal ik de jeugdige nostalgie, de hang naar het “gezellige kinderfeest” niet sparen met deze openbaring, want ik kan je verzekeren dat Zwarte Piet niet langer gezien zal worden als een olijke kindervriend tegen de tijd dat wij tezamen bij het eindpunt van onze reis zijn aangeland.
 
 ### [](<>)De Hemelvader is één, hij heeft vele maskers
 
@@ -57,8 +49,6 @@ In dit godsbeeld komt de oude vorm van theïsme wellicht het sterkst naar voren:
 > “ ‘Ζεύς τε καταχθόνιος καὶ ἐπαινὴ Περσεφόνεια.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
 > “Αἰσχύλος δὲ ὁ Εὐφορίωνος καλεῖ Δία καὶ τὸν ἐν θαλάσσῃ. τρισὶν οὖν ὁρῶντα ἐποίησεν ὀφθαλμοῖς ὅστις δὴ ἦν ὁ ποιήσας, ἅτε ἐν ταῖς τρισὶ ταῖς λεγομέναις λήξεσιν ἄρχοντα τὸν αὐτὸν τοῦτον θεόν.[^2]
 
-
-
 **Goden en hun vormen**
 
 Goden waren niet één ding. Ze hadden aspecten, welke gevangen werden in titels. Aspecten zijn lastig uit te leggen, maar je zou het kunnen vergelijken met het breken van één straal wit licht met een prisma, in alle kleuren. Elke kleur zit in de oorspronkelijke straal wit licht, maar de kleur komt pas naar voren als het licht breekt. Dan wordt het ‘aspect’ rood zichtbaar, maar het rood bevat niet langer het ‘aspect’ blauw.
@@ -68,8 +58,6 @@ In welke ‘kleur’ de godheid verschijnt, is een aspect van de godheid. In de 
 Het tweede wat belangrijk is, is dat symbolen in een mythisch domein niet één ding betekenen. Afhankelijk van de context waarin een symbool zich toont, kan de aanleg van het symbool veranderen. Zo kan een god een wapen dragen, dat soms een drietand is, soms een bliksemschicht, of heeft hij soms een blauwe huid en dan weer een zwarte huid. Soms zijn ze echtgenoot, dan weer zoon of dochter, en afhankelijk van wat je uitbeeldt misschien wel negen godinnen in één keer. De goden zijn niet fysieke wezens en behouden tot een bepaalde vorm. Terwijl de tijd arena’s en connotaties verandert, blijft een beeld behouden. Of de vorm verandert uiterlijk, maar niet in betekenis.
 
 De Hemelvader heeft vele maskers, en een hoop van die maskers zijn moeilijk te vereenzelvigen met de connotaties die onze moderne, christelijk-geïnspireerde cultuur heeft bij God.
-
-
 
 ## [](<>)Maskers van de Indo-Europese Hemelvader
 
@@ -87,8 +75,6 @@ Een beetje vreemde oppergod, zegt u? Dat valt mee. Onthou, het theïsme uit onze
 
 De volgende versen in de Rigveda en Yajurveda maken via titels Rudra bekend als de Hemelvader. De vertalingen komen uit *The Rigveda: The Earliest Religious Poetry of India, door Stephanie W. Jamison en Joel P. Brereton* en
 
-
-
 > **तवमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पर्क्ष ईशिषे |**
 >
 > **तवं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु तमना ||**\
@@ -100,11 +86,7 @@ De volgende versen in de Rigveda en Yajurveda maken via titels Rudra bekend als 
 > you, as the troop of Maruts, are master of strengthening nourishment
 >
 > **Rigveda, Maṇḍala 2, Sūkta 1, Ṛc 6***Divastvaṃ* is ‘hij die (van) de hemel is’.
-
-
-
-
-
+>
 > **सथिरेभिरङगैः पुरुरूप उग्रो बभ्रुः शुक्रेभिः पिपिशेहिरण्यैः |**
 >
 > **ईशानादस्य भुवनस्य भूरेर्न वा उ योषद रुद्रादसुर्यम ||**\
@@ -127,8 +109,6 @@ De volgende versen in de Rigveda en Yajurveda maken via titels Rudra bekend als 
 > Worthily you bear the arrows and the bow and *worthily the sacrificial neck ornament of all forms*.\
 > Worthily you *parcel out the whole formless void*. Surely there exists *nothing more powerful than you*, Rudra.\
 > **Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 10**
-
-
 
 De titel *viśvarūpam (*विश्वरूपम) is een titel die ‘Vorm van (het) Alles’ betekent.
 
@@ -371,10 +351,6 @@ Het is voor ons belangrijk om in het Sinterklaasfeest de perennialistische patro
 They never entirely go, they hang onto the world by the tip of a fingernail, always fighting to find a way back. Once a god, always a god. Dead, perhaps, but only like the world in winter—”*
 
 *― Terry Pratchett, Hogfather*
-
-
-
-
 
 \[﻿^1]: "He (Olympian Zefs) is also the summit of the three, has the same name with the fontal (he who is the source) Jupiter (*Ζεύς*), is united to him, and is monadically called Jupiter. But the second is called dyadically, marine Jupiter and Neptune (*Ποσειδῶν*). And the third is triadically denominated, terrestrial Jupiter, Pluto (*Πλούτων*) and Hades (*Ἅιδης*). The first of these also preserves, fabricates, and vivifies summits, but the second, things of a second rank, and the third those of a third order. Hence this last is said to have ravished Proserpine (*[Περσεφόνη](https://sites.google.com/a/hellenicgods.org/www/paersaephone---persephone)*), that together with her he might animate the extremities of the universe." - *σχόλιον Πρόκλου επί Κρατύλου Πλάτωνος*, trans. Thomas Taylor.
 
