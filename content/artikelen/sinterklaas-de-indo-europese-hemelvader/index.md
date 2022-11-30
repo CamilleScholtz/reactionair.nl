@@ -17,6 +17,8 @@ In dit artikel nodig ik je uit om mee te gaan op reis door de tijd, en wil ik je
 Ik hoop dat nieuw licht tot nieuwe inzichten leidt, en dat men hierdoor beter gaat begrijpen waar het feest voor dient, waar het om draait, welk perennialistisch patroon in deze belichaamde mythos wordt uitgeleefd en waarom het belangrijk is dat deze gebruiken niet verloren gaan in de waan van de dag.\
 Ook zal ik de jeugdige nostalgie, de hang naar het “gezellige kinderfeest” niet sparen met deze openbaring, want ik kan je verzekeren dat Zwarte Piet niet langer gezien zal worden als een olijke kindervriend tegen de tijd dat wij tezamen bij het eindpunt van onze reis zijn aangeland.
 
+
+
 ### [](<>)De Hemelvader is één, hij heeft vele maskers
 
 Wie is is Dyáuṣ Pitṛ́? Allereerst een etymologische achtergrond: Dyáuṣ komt van *dyú*, dat ‘hemel’ betekent, en Pitṛ́ betekent ‘vader’. Dyáuṣ is specifiek de hemel bij daglicht, en connoteert met de zon, het licht en de dag.
@@ -28,7 +30,7 @@ Toch lijkt deze naam een titel te zijn, want er is geen bewijs van een gepraktis
 Wie was deze god, waar komt hij vandaan en op welke manier werd hij aanbeden? 
 
 **Theïsme in de bronstijd**\
-Om dit te beantwoorden moet ik eerst wat uitleggen over hoe men dacht over goden in polytheistische religies uit de vroege bronstijd. Ze hadden namelijk een heel ander godsbeeld dan wij dat vandaag de dag kennen. Modern, westers theïsme neigt vaak God te zien als een wezen. Een wezen boven andere wezens (engelen, mensen, dieren), maar desalniettemin een wezen. Ook is dit wezen een bron van al het Goede en Ordelijkheid. Deze vorm van theïsme is echter relatief modern, en oudere culturen houden er een geheel andere visie op na.\
+Om dit te beantwoorden moet ik eerst wat uitleggen over hoe men dacht over goden in polytheïstische religies uit de vroege bronstijd. Ze hadden namelijk een heel ander godsbeeld dan wij dat vandaag de dag kennen. Modern, westers theïsme neigt vaak naar het zien van God als God een wezen. Een wezen boven andere wezens (engelen, mensen, dieren), maar desalniettemin een wezen. Ook is dit wezen een bron van al het Goede en Ordelijkheid. Deze vorm van theïsme is echter relatief modern, en oudere culturen houden er een geheel andere visie op na.\
 \
 Het idee van een louter goedaardige God is bijvoorbeeld de oudere vormen van theïsme relatief vreemd. Goden hadden een eigen wil en stonden boven zoiets als de menselijke moraliteit. Ze waren vormloos en tegelijkertijd alle vormen tegelijkertijd. Ze manifesteerden zich in dieren, in concepten; waren de nacht die de jager verhulde, of het inzicht dat een oplossing openbaarde. God was de inspiratie (iemand kreeg de geest)[^1], hij was de hemel, de aarde en de zee. God was de plant, de storm en de sloten van deuren die niet meer open gingen. God was de lust die zich roerde in je lendenen met de ontwakende lente, of de woede die je verblindde in de strijd. God was niet een fysiek wezen, maar een geest die bezit nam van jou, de mensen en dieren om je heen en deze voortdreef. Een vormloze entiteit die zichzelf in allerlei vormen kon manifesteren.
 
@@ -37,7 +39,7 @@ Als voorbeeld wil ik kijken naar Zeus Triophthalmus (Ζεύς Τριόφθαλμ
 Elk oog vertegenwoordigde een andere manifestatie van de Olympische Zeus, en elke manifestatie had een eigen vorm, zoals Proklós het omschreef in *Commentaar van Proklós op Plato's Cratylus*:
 
 > \
-> *“Hij (Olympische Zeus) is ook de samenvoeging van de drie, heeft dezelfde naam als de bron Jupiter (Zeus), is met hem verenigd en wordt monadisch Jupiter genoemd. Maar de tweede wordt dyadisch genoemd, mariene Jupiter en Neptunus (Ποσειδῶν). En de derde wordt triadisch genoemd, terrestrische Jupiter, Pluto (Πλούτων) en Hades (Ἅιδης). De eerste hiervan bewaart, fabriceert en verlevendigt toppen, maar de tweede, dingen van een tweede rang, en de derde die van een derde orde. Vandaar dat deze laatste Proserpine (Περσεφόνη) zou hebben verkracht, zodat hij samen met haar de uiteinden van het universum zou kunnen animeren."*[^2]
+> *“Hij (de Olympische Zeus) is ook de samenvoeging van de drie, heeft dezelfde naam als de bron Jupiter (Zeus), is met hem verenigd en wordt monadisch Jupiter genoemd. Maar de tweede wordt dyadisch genoemd, mariene Jupiter en Neptunus (Ποσειδῶν). En de derde wordt triadisch genoemd, terrestrische Jupiter, Pluto (Πλούτων) en Hades (Ἅιδης). De eerste hiervan bewaart, fabriceert en verlevendigt toppen, maar de tweede, dingen van een tweede rang, en de derde die van een derde orde. Vandaar dat deze laatste Proserpine (Περσεφόνη) zou hebben verkracht, zodat hij samen met haar de uiteinden van het universum zou kunnen animeren."*[^2]
 
 Drie Zeusen. Ζεὺς Ὀλυμπιακός (Zèfs Olympiakós, de Olympische Zeus), Ζεὺς Θαλάσσιος:  Ποσειδῶν (Zèfs Thalássios: Poseidón) en Ζεὺς Χθόνιος:  Πλούτων (Zèfs Chthónios: Ploúton).
 
@@ -48,8 +50,6 @@ In dit godsbeeld komt de oude vorm van theïsme wellicht het sterkst naar voren:
 “Αἰσχύλος δὲ ὁ Εὐφορίωνος καλεῖ Δία καὶ τὸν ἐν θαλάσσῃ. τρισὶν οὖν ὁρῶντα ἐποίησεν ὀφθαλμοῖς ὅστις δὴ ἦν ὁ ποιήσας, ἅτε ἐν ταῖς τρισὶ ταῖς λεγομέναις λήξεσιν ἄρχοντα τὸν αὐτὸν τοῦτον θεόν.[^3]\
 \
 Een goed boek dat ik graag aanraad over deze oudere vormen van theïsme is *Die Götter Griechenlands. Das Bild des Göttlichen im Spiegel des griechischen Geistes* van Walter F. Otto, waarin de Griekse goden Athena, Hermes, Aphrodite en Apollo worden uitgewerkt vanuit het wereldbeeld van de Homerische epiek.
-
-
 
 **Goden en hun vormen**
 
@@ -357,7 +357,7 @@ They never entirely go, they hang onto the world by the tip of a fingernail, alw
 \
 [^1]: Aldus is ook het woord “inspiratie” afgeleid van het Latijnse “spiritus” (geest/adem).
 
-\[﻿^2]: "He (Olympian Zefs) is also the summit of the three, has the same name with the fontal (he who is the source) Jupiter (*Ζεύς*), is united to him, and is monadically called Jupiter. But the second is called dyadically, marine Jupiter and Neptune (*Ποσειδῶν*). And the third is triadically denominated, terrestrial Jupiter, Pluto (*Πλούτων*) and Hades (*Ἅιδης*). The first of these also preserves, fabricates, and vivifies summits, but the second, things of a second rank, and the third those of a third order. Hence this last is said to have ravished Proserpine (*[Περσεφόνη](https://sites.google.com/a/hellenicgods.org/www/paersaephone---persephone)*), that together with her he might animate the extremities of the universe." - *σχόλιον Πρόκλου επί Κρατύλου Πλάτωνος*, trans. Thomas Taylor.
+\[﻿^2]: "He (Olympian Zefs) is also the summit of the three, has the same name with the fontal (he who is the source) Jupiter (*Ζεύς*), is united to him, and is monadically called Jupiter. But the second is called dyadically, marine Jupiter and Neptune (*Ποσειδῶν*). And the third is triadically denominated, terrestrial Jupiter, Pluto (*Πλούτων*) and Hades (*Ἅιδης*). The first of these also preserves, fabricates, and vivifies summits, but the second, things of a second rank, and the third those of a third order. Hence this last is said to have ravished Proserpine (*Περσεφόνη*), that together with her he might animate the extremities of the universe." - *σχόλιον Πρόκλου επί Κρατύλου Πλάτωνος*, trans. Thomas Taylor.
 
  [^3]: “Men zou kunnen concluderen dat dit de reden is voor zijn drie ogen (red. een standbeeld van
 Zefs oorspronkelijk uit Troje). Dat Zeus koning in de hemel is, is een gezegde dat alle mensen
