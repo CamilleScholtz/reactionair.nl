@@ -159,7 +159,7 @@ Rudra is de Vedische Hemelvader, een angstaanjagende stormgod. Vader van de Maru
 
 Maṇḍala 8, Sūkta 20, gericht aan deze Maruts, toont ons een ander aspect van hun vader Rudra. De Maruts in de Sūkta worden gevraagd om genezing. De strofes roepen de Maruts aan om het medicijn van hun vader te brengen.
 
-Hier wordt Rudra omgetoverd tot Vaidyanatha, de heer van de geneesheren. Genezer van mensen en verjager van ziekte en de dood. Twee lofzangen uit de Rigveda roepen Rudra (verhuld) aan, met de titel Bṛhaspati (बृहस्पति, Heer van de Gebeden, en de personificatie van de planeet Jupiter) in Rigveda M10.S97, en Savitṛ (सवितृ, de Ontwaker, en een titel van Surya, de zon) in Rigveda M10.S161.
+Hier wordt Rudra omgetoverd tot Vaidyanatha, de heer van de geneesheren. Genezer van mensen en verjager van ziekte en de dood. Twee lofzangen uit de Rigveda roepen Rudra (verhuld) aan, met de titel *Bṛhaspati* (बृहस्पति, Heer van de Gebeden, en de personificatie van de planeet Jupiter) in Rigveda M10.S97, en *Savitṛ* (सवितृ, de Ontwaker, en een titel van Surya, de zon) in Rigveda M10.S161.
 
 Maar Rudra’s onstuimige razernij is niet het enige masker van de vedische Hemelvader. Er is ook het masker Shiva.
 
