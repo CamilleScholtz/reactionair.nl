@@ -46,20 +46,22 @@ Drie Zeusen. Ζεὺς Ὀλυμπιακός (Zèfs Olympiakós, de Olympische Z
 In dit godsbeeld komt de oude vorm van theïsme wellicht het sterkst naar voren: Zeus is zowel zichzelf, *als* Hades en Poseidon. De Hemelvader is een drie-eenheid van de drie Olympische broers, waarbij zij alledrie de essentie hebben van de Olympische Zeus. In deze drie aspecten omvat de Olympische Zeus de gehele wereld; het land, de zee en de lucht. Elk aspect heeft zijn eigen domein, maar alledrie deze aspecten zijn dezelfde Hemelvader, aldus Pausanias in zijn werk Hellados Periegesis (Ἑλλάδος Περιήγησις):
 
 τρεῖς δὲ ὀφθαλμοὺς ἔχειν ἐπὶ τῷδε ἄν τις τεκμαίροιτο αὐτόν. Δία γὰρ ἐν οὐρανῷ βασιλεύειν, οὗτος μὲν λόγος κοινὸς πάντων ἐστὶν ἀνθρώπων. ὃν δὲ ἄρχειν φασὶν ὑπὸ γῆς, ἔστιν ἔπος τῶν Ὁμήρου Δία ὀνομάζον καὶ τοῦτον·\
-“ ‘Ζεύς τε καταχθόνιος καὶ ἐπαινὴ Περσεφόνεια.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
-“Αἰσχύλος δὲ ὁ Εὐφορίωνος καλεῖ Δία καὶ τὸν ἐν θαλάσσῃ. τρισὶν οὖν ὁρῶντα ἐποίησεν ὀφθαλμοῖς ὅστις δὴ ἦν ὁ ποιήσας, ἅτε ἐν ταῖς τρισὶ ταῖς λεγομέναις λήξεσιν ἄρχοντα τὸν αὐτὸν τοῦτον θεόν.[^3]\
+‘Ζεύς τε καταχθόνιος καὶ ἐπαινὴ Περσεφόνεια.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
+Αἰσχύλος δὲ ὁ Εὐφορίωνος καλεῖ Δία καὶ τὸν ἐν θαλάσσῃ. τρισὶν οὖν ὁρῶντα ἐποίησεν ὀφθαλμοῖς ὅστις δὴ ἦν ὁ ποιήσας, ἅτε ἐν ταῖς τρισὶ ταῖς λεγομέναις λήξεσιν ἄρχοντα τὸν αὐτὸν τοῦτον θεόν.[^3]\
 \
 Een goed boek dat ik graag aanraad over deze oudere vormen van theïsme is *Die Götter Griechenlands. Das Bild des Göttlichen im Spiegel des griechischen Geistes* van Walter F. Otto, waarin de Griekse goden Athena, Hermes, Aphrodite en Apollo worden uitgewerkt vanuit het wereldbeeld van de Homerische epiek.
 
 **Goden en hun vormen**
 
-Goden waren niet één ding. Ze hadden aspecten, welke gevangen werden in titels. Aspecten zijn lastig uit te leggen, maar je zou het kunnen vergelijken met het breken van één straal wit licht met een prisma, in alle kleuren. Elke kleur zit in de oorspronkelijke straal wit licht, maar de kleur komt pas naar voren als het licht breekt. Dan wordt het ‘aspect’ rood zichtbaar, maar het rood bevat niet langer het ‘aspect’ blauw.
+Goden waren niet tot één vorm beperkt. Ze hadden aspecten, die gevangen werden in titels. Aspecten zijn lastig uit te leggen, maar je zou het enigszins kunnen vergelijken met het breken van een enkele straal wit licht met een prisma in vele verschillende kleuren. Elke kleur is aanwezig in de oorspronkelijke straal wit licht, maar de kleur komt pas als zodanig naar voren als het licht breekt. Zo kan bijvoorbeeld het 'aspect' rood zichtbaar worden, die niet gelijk is aan het 'aspect' blauw, noch bevat één van beiden de ander.
 
-In welke ‘kleur’ de godheid verschijnt, is een aspect van de godheid. In de verschijning verliest de godheid attributen van een andere ‘kleur’, al kan hij deze alsnog wel aanspreken vanuit de bron (en dus van kleur veranderen). Via zijn aspecten kan een god zich in verschillende gedaantes aandienen.
+In welke ‘kleur’ de godheid verschijnt, dat is een aspect van de godheid. In de verschijning verliest de godheid de attributen van een andere ‘kleur’, al kan hij deze alsnog wel aanspreken vanuit de bron (en dus van kleur veranderen). Via zijn aspecten kan een god zich in verschillende gedaantes aandienen.
 
-Het tweede wat belangrijk is, is dat symbolen in een mythisch domein niet één ding betekenen. Afhankelijk van de context waarin een symbool zich toont, kan de aanleg van het symbool veranderen. Zo kan een god een wapen dragen, dat soms een drietand is, soms een bliksemschicht, of heeft hij soms een blauwe huid en dan weer een zwarte huid. Soms zijn ze echtgenoot, dan weer zoon of dochter, en afhankelijk van wat je uitbeeldt misschien wel negen godinnen in één keer. De goden zijn niet fysieke wezens en behouden tot een bepaalde vorm. Terwijl de tijd arena’s en connotaties verandert, blijft een beeld behouden. Of de vorm verandert uiterlijk, maar niet in betekenis.
+Het tweede wat belangrijk is, is dat symbolen in een mythisch domein niet slechts één ding betekenen. Afhankelijk van de context waarin een symbool zich toont, kan de neiging van het symbool veranderen. Zo kan een god een wapen dragen, dat soms een drietand is, soms een bliksemschicht, of heeft hij soms een blauwe huid en dan weer een zwarte huid. Soms zijn ze echtgenoot, dan weer zoon of dochter, en afhankelijk van wat wordt uitgebeeld  misschien wel negen godinnen in één keer. De goden zijn geen fysieke wezens en daarmede niet beperkt tot het moeten behouden van een bepaalde vorm. Terwijl de tijd arena’s en connotaties verandert, blijft een beeld behouden. Of het uiterlijk verandert, terwijl de betekenis blijft.
 
-De Hemelvader heeft vele maskers, en een hoop van die maskers zijn moeilijk te vereenzelvigen met de connotaties die onze moderne, christelijk-geïnspireerde cultuur heeft bij God.
+De Hemelvader heeft vele maskers, en een groot aantal van die maskers zijn moeilijk te vereenzelvigen met de connotaties die onze moderne, op het Christendom geïnspireerde, cultuur heeft bij God.
+
+
 
 ## [](<>)Maskers van de Indo-Europese Hemelvader
 
