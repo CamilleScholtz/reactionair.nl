@@ -106,12 +106,11 @@ De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend
 > *arhan bibharṣi sāyakāni dhanvārhan niṣkaṃ yajataṃ viśvarūpam |*
 >
 > *arhannidaṃ dayase viśvamabhvaṃ na vā ojīyo rudra tvadasti ||*\
+> \
 > Worthily you bear the arrows and the bow and *worthily the sacrificial neck ornament of all forms*.\
 > Worthily you *parcel out the whole formless void*. Surely there exists *nothing more powerful than you*, Rudra.\
-> **Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 10**
-
-De titel *viśvarūpam (*विश्वरूपम) is een titel die ‘Vorm van (het) Alles’ betekent.
-
+> **Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 10**[^5]
+>
 > **यथा रुद्रस्य सूनवो दिवो वशन्त्यसुरस्य वेधसः |**
 >
 > **युवानस्तथेदसत ||**
@@ -125,9 +124,9 @@ De titel *viśvarūpam (*विश्वरूपम) is een titel die ‘Vorm v
 >
 > **Rigveda,** **Maṇḍala 8, Sūkta 20, Ṛc 17**
 
-*Divo* is weer de genitive van *dyú*: ‘van de hemel’. Ook de Maruts, Rudra’s zonen, worden hier aangehaald; mythische stormvogels.
+*Divo* is weer de genitief van *dyú*: ‘van de hemel’. Ook de Maruts, Rudra’s zonen, worden hier aangehaald; mythische stormvogels.
 
-De volgende strofe biedt een inkijkje in een belangrijkste aspect van Rudra: een kwade godheid voor wie zelfs de Dood bang is. Deze strofe is ook wel bekend als de *Mahamrityunjaya* *Mantra*, de grote mantra die de dood verslaat. Tevens ruikt Rudra lekker, en vergroot hij welvaart. De titel Tryambaka (त्र्यम्बक) betekent drie-ogige, en als woord direct gerelateerd aan Zeus Triophthalmus.
+De volgende strofe biedt een inkijkje in een belangrijkste aspect van Rudra: een kwade godheid voor wie zelfs de Dood bang is. Deze strofe is ook wel bekend als de *Mahamrityunjaya* *Mantra*, de grote mantra die de dood verslaat. Tevens is Rudra welriekend, en vergroot hij welvaart. De titel *Tryambaka* (त्र्यम्बक) betekent drie-ogige, en is als woord direct verbonden aan *Zeus Triophthalmus*.
 
 > **तर्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम |**
 >
@@ -367,4 +366,6 @@ De God in de zee wordt ook Zeus genoemd door Aeschylus, de zoon van Euphorion. D
 *“The reason for its three eyes (ed. a statue of Zefs originally from Troy) one might infer to be this. That Zeus is king in heaven is a saying common to all men. As for him who is said to rule under the earth, there is a verse of Homer which calls him, too, Zeus:‘Zeus of the Underworld, and the august Persephonea.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
 The God in the sea, also, is called Zeus by Aeschylus, the son of Euphorion. So whoever made the image made it with three eyes, as signifying that this same God rules in all the three “allotments” of the Universe, as they are called.” (trans. W. H. S. Jones, 1918)*
 
-*[^4]:* Divastvaṃ betekent ‘hij die (van) de hemel is’.
+[^4]: *Divastvaṃ* betekent ‘hij die (van) de hemel is’.
+
+[^5]: De titel *viśvarūpam (*विश्वरूपम) is een titel die ‘Vorm van (het) Alles’ betekent.
