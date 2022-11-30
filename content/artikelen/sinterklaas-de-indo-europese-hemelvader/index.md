@@ -73,7 +73,7 @@ Een beetje vreemde oppergod, zegt u? Dat valt mee. Onthoud: het soort theïsme u
 
 #### [](<>)Rudra de Hemelvader
 
-De volgende versen in de Rigveda en Yajurveda maken via titels Rudra bekend als de Hemelvader. De vertalingen komen uit *The Rigveda: The Earliest Religious Poetry of India, door Stephanie W. Jamison en Joel P. Brereton* en
+De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend als de Hemelvader. De vertalingen komen uit *The Rigveda: The Earliest Religious Poetry of India, door Stephanie W. Jamison en Joel P. Brereton* en
 
 > **तवमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पर्क्ष ईशिषे |**
 >
