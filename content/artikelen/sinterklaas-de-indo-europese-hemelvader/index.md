@@ -167,7 +167,7 @@ Maar Rudra’s onstuimige razernij is niet het enige masker van de vedische Heme
 
 **Shiva, de Wijze Leraar**
 
-Shiva. De Voorspoedige en Welwillende. De ultieme leraar van de mensen, schenker van wijsheid, van giften, van innerlijke rust en orde. Shiva is de Grote Yogi, het grote voorbeeld voor elke asceet. Shiva is een god die zich begeeft op de kerkhoven en vertoeft in de grensgebieden van de bewoonde wereld. Hoewel hij in zijn vorm geassocieerd wordt met de sadhu, zijn veel van zijn titels juist gericht op het brengen van materiële welvaart. Shambhu (शंभू), Schenker van wereldse welvaart, Varada (वरद), Schenker van Gunsten, Dhanadeepa (धनदीप), Heer van de Weelde, Bhūdeva (भूदेव), God van de Aarde (wat uiteraard ook verwijst naar de oogst, en de edelstenen en metalen die eruit gemijnd kunnen worden.
+Shiva. De Voorspoedige en Welwillende. De ultieme leraar van de mensen, schenker van wijsheid, van giften, van innerlijke rust en orde. Shiva is de Grote Yogi, het grote voorbeeld voor elke asceet. Shiva is een god die zich begeeft op de kerkhoven en die vertoeft in de grensgebieden van de bewoonde wereld. Hoewel hij in zijn vorm geassocieerd wordt met de sadhu, zijn veel van zijn titels juist gericht op het brengen van materiële welvaart. Shambhu (शंभू), Schenker van wereldse welvaart, Varada (वरद), Schenker van Gunsten, Dhanadeepa (धनदीप), Heer van de Weelde, Bhūdeva (भूदेव), God van de Aarde (wat uiteraard ook verwijst naar de oogst, en de edelstenen en metalen die eruit gemijnd kunnen worden.
 
 Shiva is een wijze god. Als de Grote Yogi is hij Guṇagrāhin (गुनाग्रहीन), de Weger van de Deugden, zodat mensen die hem benaderen gezien worden voor de beste versie van zichzelf.
 
