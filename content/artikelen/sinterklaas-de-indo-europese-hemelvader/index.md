@@ -65,9 +65,9 @@ De Hemelvader heeft vele maskers, en een groot aantal van die maskers zijn moeil
 
 ## [](<>)Maskers van de Indo-Europese Hemelvader
 
-In dit hoofdstuk neem ik je mee langs drie takken binnen de Indo-Europese familie. We beginnen in de Vedische traditie, die in India vandaag de dag voortleeft in het Hindoeïsme. Daarna gaan we naar Hellenistisch Griekenland, langs de - voor velen hier - wat bekendere goden.
+In dit stuk neem ik je mee langs drie takken binnen de Indo-Europese familie. We beginnen in de Vedische traditie, die in India vandaag de dag voortleeft in het Hindoeïsme. Daarna gaan we naar Hellenistisch Griekenland, langs de - voor velen hier - wat bekendere goden.
 
-Daarna zullen we afreizen naar Noord-West Europa, waar de Sinterklaasgebruiken bestaan die voor ons bekend zijn.
+Hierna zullen we afreizen naar Noord-West Europa, waar de Sinterklaasgebruiken bestaan die voor ons bekend zijn.
 
 ### [](<>)Razende Rudra Shiva uit de Veda’s
 
