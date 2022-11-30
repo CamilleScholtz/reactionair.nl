@@ -17,8 +17,6 @@ In dit artikel nodig ik je uit om mee te gaan op reis door de tijd, en wil ik je
 Ik hoop dat nieuw licht tot nieuwe inzichten leidt, en dat men hierdoor beter gaat begrijpen waar het feest voor dient, waar het om draait, welk perennialistisch patroon in deze belichaamde mythos wordt uitgeleefd en waarom het belangrijk is dat deze gebruiken niet verloren gaan in de waan van de dag.\
 Ook zal ik de jeugdige nostalgie, de hang naar het “gezellige kinderfeest” niet sparen met deze openbaring, want ik kan je verzekeren dat Zwarte Piet niet langer gezien zal worden als een olijke kindervriend tegen de tijd dat wij tezamen bij het eindpunt van onze reis zijn aangeland.
 
-
-
 ### [](<>)De Hemelvader is één, hij heeft vele maskers
 
 Wie is is Dyáuṣ Pitṛ́? Allereerst een etymologische achtergrond: Dyáuṣ komt van *dyú*, dat ‘hemel’ betekent, en Pitṛ́ betekent ‘vader’. Dyáuṣ is specifiek de hemel bij daglicht, en connoteert met de zon, het licht en de dag.
@@ -61,8 +59,6 @@ Het tweede wat belangrijk is, is dat symbolen in een mythisch domein niet slecht
 
 De Hemelvader heeft vele maskers, en een groot aantal van die maskers zijn moeilijk te vereenzelvigen met de connotaties die onze moderne, op het Christendom geïnspireerde, cultuur heeft bij God.
 
-
-
 ## [](<>)Maskers van de Indo-Europese Hemelvader
 
 In dit stuk neem ik je mee langs drie takken binnen de Indo-Europese familie. We beginnen in de Vedische traditie, die in India vandaag de dag voortleeft in het Hindoeïsme. Daarna gaan we naar Hellenistisch Griekenland, langs de - voor velen hier - wat bekendere goden.
@@ -71,7 +67,7 @@ Hierna zullen we afreizen naar Noord-West Europa, waar de Sinterklaasgebruiken b
 
 ### [](<>)Razende Rudra Shiva uit de Veda’s
 
-De meest directe link met Dyáuṣ Pitṛ́ is de Vedisch god Rudra. Rudra is een godheid uit de Vedische geschriften, waar ook de term Dyáuṣ Pitṛ́ wordt genoemd. Rudra is een razende godheid, een kwade stormgod. Zijn naam zou teruggaan op ‘De Brullende’.
+De meest directe link met Dyáuṣ Pitṛ́ is de Vedisch god Rudra. Rudra is een godheid uit de Vedische geschriften, waar ook de Dyáuṣ Pitṛ́ wordt genoemd. Rudra is een razende godheid, een kwade stormgod. Zijn naam zou teruggaan op ‘De Brullende’.
 
 Een beetje vreemde oppergod, zegt u? Dat valt mee. Onthou, het theïsme uit onze tijd wordt niet gedeeld in vroegere culten. Ik zal je laten zien waarom Rudra de beste kanshebber is voor de titel Dyáuṣ Pitṛ́.
 
