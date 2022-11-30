@@ -157,7 +157,7 @@ Ook de volgende strofe is belangrijk, want hierin wordt Rudra geïdentificeerd a
 
 Rudra is de Vedische Hemelvader, een angstaanjagende stormgod. Vader van de Maruts, gigantische stormvogels die met lichtflitsen en bliksemschichten en donderend geweld door de hemelen razen. Ontembare wezens die bergen laten beven en die de wolken met hun wapens splijten om het te laten regenen. De filoloog Georges Dumézil vergeleek deze Maruts met de Germaanse Wilde Jacht, en ze hebben overeenkomsten met de Einherjar en de Griekse Myrmidon. Zo hebben de Maruts bijvoorbeeld geen individualiteit.
 
-Maṇḍala 8, Sūkta 20, gericht aan deze Maruts, toont ons een ander aspect van hun vader Rudra. De Maruts in de Sūkta worden gevraagd om genezing. De strofes roepen de Maruts aan om het medicijn van hun vader te brengen.
+Maṇḍala 8, Sūkta 20, gericht aan deze Maruts, toont ons een ander aspect van hun vader Rudra. De Maruts in de Sūkta worden gevraagd om genezing. De strofen roepen de Maruts aan om het medicijn van hun vader te brengen.
 
 Hier wordt Rudra omgetoverd tot Vaidyanatha, de heer van de geneesheren. Genezer van mensen en verjager van ziekte en de dood. Twee lofzangen uit de Rigveda roepen Rudra (verhuld) aan, met de titel *Bṛhaspati* (बृहस्पति, Heer van de Gebeden, en de personificatie van de planeet Jupiter) in Rigveda M10.S97, en *Savitṛ* (सवितृ, de Ontwaker, en een titel van Surya, de zon) in Rigveda M10.S161.
 
