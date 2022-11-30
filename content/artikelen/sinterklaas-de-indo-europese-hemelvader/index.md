@@ -69,11 +69,11 @@ Hierna zullen we afreizen naar Noord-West Europa, waar de Sinterklaasgebruiken b
 
 De meest directe link met Dyáuṣ Pitṛ́ is de Vedisch god Rudra. Rudra is een godheid uit de Vedische geschriften, waar ook Dyáuṣ Pitṛ́ wordt genoemd. Rudra is een razende godheid, een kwade stormgod. Zijn naam zou teruggaan op ‘De Brullende’.
 
-Een beetje vreemde oppergod, zegt u? Dat valt mee. Onthoud: het soort theïsme uit onze tijd was de vroegere culturen grotendeels vreemd. Ik zal je laten zien waarom Rudra de beste kanshebber is voor de titel Dyáuṣ Pitṛ́.
+Een beetje een vreemde oppergod, zeg je? Dat valt mee. Onthoud: het soort theïsme uit onze tijd was de vroegere culturen grotendeels vreemd. Ik zal je laten zien waarom Rudra de beste kanshebber is voor de titel Dyáuṣ Pitṛ́.
 
 #### [](<>)Rudra de Hemelvader
 
-De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend als de Hemelvader. De vertalingen komen uit *The Rigveda: The Earliest Religious Poetry of India, door Stephanie W. Jamison en Joel P. Brereton*
+De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend als de Hemelvader. De vertalingen komen uit *The Rigveda: The Earliest Religious Poetry of India, door Stephanie W. Jamison en Joel P. Brereton.*
 
 > **तवमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पर्क्ष ईशिषे |**
 >
@@ -85,7 +85,7 @@ De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend
 > You, Agni, as *lord of great heaven*, are Rudra;\
 > you, as the troop of Maruts, are master of strengthening nourishment
 >
-> **Rigveda, Maṇḍala 2, Sūkta 1, Ṛc 6***Divastvaṃ* is ‘hij die (van) de hemel is’.
+> **Rigveda, Maṇḍala 2, Sūkta 1, Ṛc 6**[^4]
 >
 > **सथिरेभिरङगैः पुरुरूप उग्रो बभ्रुः शुक्रेभिः पिपिशेहिरण्यैः |**
 >
@@ -362,10 +362,9 @@ Zefs oorspronkelijk uit Troje). Dat Zeus koning in de hemel is, is een gezegde d
 kennen. Wat betreft degene van wie wordt gezegd dat hij onder de aarde regeert, is er een vers
 van Homerus dat hem ook Zeus noemt:
 'Zeus van de onderwereld en de verheven Persephonea.' (Ἰλιὰς Ὁμήρου 2.9.457)
-De God in de zee wordt ook Zeus genoemd door Aeschylus, de zoon van Euphorion. Dus
-degene die het beeld heeft gemaakt, heeft het met drie ogen gemaakt, om aan te geven dat
-dezelfde God regeert in alle drie de 'toewijzingen' van het universum, zoals ze worden genoemd.”
+De God in de zee wordt ook Zeus genoemd door Aeschylus, de zoon van Euphorion. Dus degene die het beeld heeft gemaakt, heeft het met drie ogen gemaakt, om aan te geven dat dezelfde God regeert in alle drie de 'toewijzingen' van het universum, zoals ze worden genoemd.”
 
-*“The reason for its three eyes (ed. a statue of Zefs originally from Troy) one might infer to be this. That Zeus is king in heaven is a saying common to all men. As for him who is said to rule under the earth, there is a verse of Homer which calls him, too, Zeus:—\
-‘Zeus of the Underworld, and the august Persephonea.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
+*“The reason for its three eyes (ed. a statue of Zefs originally from Troy) one might infer to be this. That Zeus is king in heaven is a saying common to all men. As for him who is said to rule under the earth, there is a verse of Homer which calls him, too, Zeus:‘Zeus of the Underworld, and the august Persephonea.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
 The God in the sea, also, is called Zeus by Aeschylus, the son of Euphorion. So whoever made the image made it with three eyes, as signifying that this same God rules in all the three “allotments” of the Universe, as they are called.” (trans. W. H. S. Jones, 1918)*
+
+*[^4]:* Divastvaṃ betekent ‘hij die (van) de hemel is’.
