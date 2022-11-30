@@ -39,11 +39,11 @@ Als voorbeeld wil ik kijken naar Zeus Triophthalmus (Ζεύς Τριόφθαλμ
 Elk oog vertegenwoordigde een andere manifestatie van de Olympische Zeus, en elke manifestatie had een eigen vorm, zoals Proklós het omschreef in *Commentaar van Proklós op Plato's Cratylus*:
 
 > \
-> *“Hij (de Olympische Zeus) is ook de samenvoeging van de drie, heeft dezelfde naam als de bron Jupiter (Zeus), is met hem verenigd en wordt monadisch Jupiter genoemd. Maar de tweede wordt dyadisch genoemd, mariene Jupiter en Neptunus (Ποσειδῶν). En de derde wordt triadisch genoemd, terrestrische Jupiter, Pluto (Πλούτων) en Hades (Ἅιδης). De eerste hiervan bewaart, fabriceert en verlevendigt toppen, maar de tweede, dingen van een tweede rang, en de derde die van een derde orde. Vandaar dat deze laatste Proserpine (Περσεφόνη) zou hebben verkracht, zodat hij samen met haar de uiteinden van het universum zou kunnen animeren."*[^2]
+> *“Hij (de Olympische Zeus) is ook de culminatie van de drie, heeft dezelfde naam als de bron Jupiter (Zeus), is met hem verenigd en wordt monadisch Jupiter genoemd. Maar de tweede wordt dyadisch de mariene Jupiter en Neptunus (Ποσειδῶν) genoemd. En de derde wordt triadisch de terrestrische Jupiter, Pluto (Πλούτων) en Hades (Ἅιδης) genoemd. De eerste hiervan bewaart, maakt en verlevendigt hoogtepunten, de tweede echter, dingen van een tweede rang, en de derde die van een derde orde. Vandaar dat deze laatste Proserpine (Περσεφόνη) zou hebben verkracht, zodat hij samen met haar de uiteinden van het universum zou kunnen animeren."*[^2]
 
 Drie Zeusen. Ζεὺς Ὀλυμπιακός (Zèfs Olympiakós, de Olympische Zeus), Ζεὺς Θαλάσσιος:  Ποσειδῶν (Zèfs Thalássios: Poseidón) en Ζεὺς Χθόνιος:  Πλούτων (Zèfs Chthónios: Ploúton).
 
-In dit godsbeeld komt de oude vorm van theïsme wellicht het sterkst naar voren: Zeus is zowel zichzelf, als Hades en Poseidon. De Hemelvader is een drie-eenheid van de drie Olympische broers, waarbij zij alledrie de essentie hebben van de Olympische Zeus. In deze drie aspecten omvat de Olympische Zeus de gehele wereld; het land, de zee en de lucht. Elk aspect een eigen domein, maar alledrie dezelfde Hemelvader, aldus Pausanias in zijn werk Hellados Periegesis (Ἑλλάδος Περιήγησις):
+In dit godsbeeld komt de oude vorm van theïsme wellicht het sterkst naar voren: Zeus is zowel zichzelf, *als* Hades en Poseidon. De Hemelvader is een drie-eenheid van de drie Olympische broers, waarbij zij alledrie de essentie hebben van de Olympische Zeus. In deze drie aspecten omvat de Olympische Zeus de gehele wereld; het land, de zee en de lucht. Elk aspect heeft zijn eigen domein, maar alledrie deze aspecten zijn dezelfde Hemelvader, aldus Pausanias in zijn werk Hellados Periegesis (Ἑλλάδος Περιήγησις):
 
 τρεῖς δὲ ὀφθαλμοὺς ἔχειν ἐπὶ τῷδε ἄν τις τεκμαίροιτο αὐτόν. Δία γὰρ ἐν οὐρανῷ βασιλεύειν, οὗτος μὲν λόγος κοινὸς πάντων ἐστὶν ἀνθρώπων. ὃν δὲ ἄρχειν φασὶν ὑπὸ γῆς, ἔστιν ἔπος τῶν Ὁμήρου Δία ὀνομάζον καὶ τοῦτον·\
 “ ‘Ζεύς τε καταχθόνιος καὶ ἐπαινὴ Περσεφόνεια.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
@@ -357,17 +357,17 @@ They never entirely go, they hang onto the world by the tip of a fingernail, alw
 \
 [^1]: Aldus is ook het woord “inspiratie” afgeleid van het Latijnse “spiritus” (geest/adem).
 
-\[﻿^2]: "He (Olympian Zefs) is also the summit of the three, has the same name with the fontal (he who is the source) Jupiter (*Ζεύς*), is united to him, and is monadically called Jupiter. But the second is called dyadically, marine Jupiter and Neptune (*Ποσειδῶν*). And the third is triadically denominated, terrestrial Jupiter, Pluto (*Πλούτων*) and Hades (*Ἅιδης*). The first of these also preserves, fabricates, and vivifies summits, but the second, things of a second rank, and the third those of a third order. Hence this last is said to have ravished Proserpine (*Περσεφόνη*), that together with her he might animate the extremities of the universe." - *σχόλιον Πρόκλου επί Κρατύλου Πλάτωνος*, trans. Thomas Taylor.
+\[﻿^2]: Σ*χόλιον Πρόκλου επί Κρατύλου Πλάτωνος (Commentaar van Proklós op Plato's Cratylus).* Het citaat, in de vertaling van Thomas Taylor luidt: "He (Olympian Zefs) is also the summit of the three, has the same name with the fontal (he who is the source) Jupiter (*Ζεύς*), is united to him, and is monadically called Jupiter. But the second is called dyadically, marine Jupiter and Neptune (*Ποσειδῶν*). And the third is triadically denominated, terrestrial Jupiter, Pluto (*Πλούτων*) and Hades (*Ἅιδης*). The first of these also preserves, fabricates, and vivifies summits, but the second, things of a second rank, and the third those of a third order. Hence this last is said to have ravished Proserpine (*Περσεφόνη*), that together with her he might animate the extremities of the universe."
 
- [^3]: “Men zou kunnen concluderen dat dit de reden is voor zijn drie ogen (red. een standbeeld van
+ [^3]: “Men zou kunnen concluderen dat dit de reden is voor zijn drie ogen (red. van een standbeeld van
 Zefs oorspronkelijk uit Troje). Dat Zeus koning in de hemel is, is een gezegde dat alle mensen
-kennen. Wat betreft degene van wie wordt gezegd dat hij onder de aarde regeert, er is een vers
+kennen. Wat betreft degene van wie wordt gezegd dat hij onder de aarde regeert, is er een vers
 van Homerus dat hem ook Zeus noemt:
-"'Zeus van de onderwereld en de verheven Persephonea.' (Ἰλιὰς Ὁμήρου 2.9.457)
-“De God in de zee wordt ook Zeus genoemd door Aeschylus, de zoon van Euphorion. Dus
+'Zeus van de onderwereld en de verheven Persephonea.' (Ἰλιὰς Ὁμήρου 2.9.457)
+De God in de zee wordt ook Zeus genoemd door Aeschylus, de zoon van Euphorion. Dus
 degene die het beeld heeft gemaakt, heeft het met drie ogen gemaakt, om aan te geven dat
-dezelfde God regeert in alle drie de &quot;toewijzingen&quot; van het heelal, zoals ze worden genoemd.”
+dezelfde God regeert in alle drie de 'toewijzingen' van het universum, zoals ze worden genoemd.”
 
 *“The reason for its three eyes (ed. a statue of Zefs originally from Troy) one might infer to be this. That Zeus is king in heaven is a saying common to all men. As for him who is said to rule under the earth, there is a verse of Homer which calls him, too, Zeus:—\
-“ ‘Zeus of the Underworld, and the august Persephonea.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
-“The God in the sea, also, is called Zeus by Aeschylus, the son of Euphorion. So whoever made the image made it with three eyes, as signifying that this same God rules in all the three “allotments” of the Universe, as they are called.” (trans. W. H. S. Jones, 1918)*
+‘Zeus of the Underworld, and the august Persephonea.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
+The God in the sea, also, is called Zeus by Aeschylus, the son of Euphorion. So whoever made the image made it with three eyes, as signifying that this same God rules in all the three “allotments” of the Universe, as they are called.” (trans. W. H. S. Jones, 1918)*
