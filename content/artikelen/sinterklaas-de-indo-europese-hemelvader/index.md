@@ -71,7 +71,7 @@ Hierna zullen we afreizen naar Noord-West Europa, waar de Sinterklaasgebruiken b
 
 ### [](<>)Razende Rudra Shiva uit de Veda’s
 
-De meest directe link met Dyáuṣ Pitṛ́ is de Vedisch god Rudra. Rudra is een godheid uit de Vedische geschriften, waar de term Dyáuṣ Pitṛ́ ook uit komt. Rudra is een razende godheid, een kwade stormgod. Zijn naam zou teruggaan op ‘De Brullende’.
+De meest directe link met Dyáuṣ Pitṛ́ is de Vedisch god Rudra. Rudra is een godheid uit de Vedische geschriften, waar ook de term Dyáuṣ Pitṛ́ wordt genoemd. Rudra is een razende godheid, een kwade stormgod. Zijn naam zou teruggaan op ‘De Brullende’.
 
 Een beetje vreemde oppergod, zegt u? Dat valt mee. Onthou, het theïsme uit onze tijd wordt niet gedeeld in vroegere culten. Ik zal je laten zien waarom Rudra de beste kanshebber is voor de titel Dyáuṣ Pitṛ́.
 
