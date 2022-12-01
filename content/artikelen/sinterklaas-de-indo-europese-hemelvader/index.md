@@ -75,6 +75,8 @@ Een beetje een vreemde oppergod, zeg je? Dat valt mee. Onthoud: het soort theïs
 
 De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend als de Hemelvader. De vertalingen komen uit *The Rigveda: The Earliest Religious Poetry of India, door Stephanie W. Jamison en Joel P. Brereton.*
 
+
+
 > **तवमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पर्क्ष ईशिषे |**
 >
 > **तवं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु तमना ||**\
@@ -85,8 +87,12 @@ De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend
 > You, Agni, as *lord of great heaven*, are Rudra;\
 > you, as the troop of Maruts, are master of strengthening nourishment
 >
-> **Rigveda, Maṇḍala 2, Sūkta 1, Ṛc 6**[^4]
->
+> **Rigveda, Maṇḍala 2, Sūkta 1, Ṛc 6**
+
+*Divastvaṃ* betekent ‘hij die (van) de hemel is’.
+
+
+
 > **सथिरेभिरङगैः पुरुरूप उग्रो बभ्रुः शुक्रेभिः पिपिशेहिरण्यैः |**
 >
 > **ईशानादस्य भुवनस्य भूरेर्न वा उ योषद रुद्रादसुर्यम ||**\
@@ -109,8 +115,12 @@ De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend
 > \
 > Worthily you bear the arrows and the bow and *worthily the sacrificial neck ornament of all forms*.\
 > Worthily you *parcel out the whole formless void*. Surely there exists *nothing more powerful than you*, Rudra.\
-> **Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 10**[^5]
->
+> **Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 10**
+
+De titel *viśvarūpam (*विश्वरूपम) is een titel die ‘Vorm van (het) Alles’ betekent.
+
+
+
 > **यथा रुद्रस्य सूनवो दिवो वशन्त्यसुरस्य वेधसः |**
 >
 > **युवानस्तथेदसत ||**
@@ -365,7 +375,3 @@ De God in de zee wordt ook Zeus genoemd door Aeschylus, de zoon van Euphorion. D
 
 *“The reason for its three eyes (ed. a statue of Zefs originally from Troy) one might infer to be this. That Zeus is king in heaven is a saying common to all men. As for him who is said to rule under the earth, there is a verse of Homer which calls him, too, Zeus:‘Zeus of the Underworld, and the august Persephonea.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
 The God in the sea, also, is called Zeus by Aeschylus, the son of Euphorion. So whoever made the image made it with three eyes, as signifying that this same God rules in all the three “allotments” of the Universe, as they are called.” (trans. W. H. S. Jones, 1918)*
-
-[^4]: *Divastvaṃ* betekent ‘hij die (van) de hemel is’.
-
-[^5]: De titel *viśvarūpam (*विश्वरूपम) is een titel die ‘Vorm van (het) Alles’ betekent.
