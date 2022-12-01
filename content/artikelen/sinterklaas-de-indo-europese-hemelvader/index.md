@@ -184,7 +184,8 @@ Een Bhūta is een geest, spook, duivel of kobold. Als *Bhūtanātha* (भूत�
 Shiva’s zoon Ganesha, wiens naam men letterlijk kan vertalen als ‘Gaṇa-Meester, wordt vaak aangeduid als de aanvoerder van Shiva’s Bhūtagaṇa.\
 Een van de belangrijkste mythen rond Ganesha geeft hem de rol als schildwacht van zijn moeder. Hierin zit een belangrijke taak van de Bhūtagaṇa; ze bewaken de grensgebieden. Het zijn de wezens aan de randen van de ordelijke realiteit, als demonische roofdieren die nét buiten het licht van je kampvuur zich roeren.\
 \
-Als de Bhūtanātha heeft Shiva ze onderworpen aan Zijn orde. Als Bhūtanātha zijn de duivels de legers van Shiva, en niet van *Adharma* (अधर्म), de krachten die zich tegen de goddelijke orde der dingen verzetten. Als het gevolg van Shiva zetten ze hun hondsdolle vechtlust in dienst van de bescherming van de Dharma en zo vormen deze duivelse legers de schildwachten van Goddelijke Orde.
+Als de Bhūtanātha heeft Shiva ze onderworpen aan Zijn orde. \
+, en niet van *Adharma* (अधर्म), de krachten die zich tegen de goddelijke orde der dingen verzetten. Als het gevolg van Shiva zetten ze hun hondsdolle vechtlust in dienst van de bescherming van de Dharma en zo vormen deze duivelse legers de schildwachten van Goddelijke Orde.
 
 **Shiva Bhairava, de Afschrikwekkende**
 
