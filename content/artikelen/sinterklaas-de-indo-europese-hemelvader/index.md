@@ -75,8 +75,6 @@ Een beetje een vreemde oppergod, zeg je? Dat valt mee. Onthoud: het soort theïs
 
 De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend als de Hemelvader. De vertalingen komen uit *The Rigveda: The Earliest Religious Poetry of India, door Stephanie W. Jamison en Joel P. Brereton.*
 
-
-
 > **तवमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पर्क्ष ईशिषे |**
 >
 > **तवं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु तमना ||**\
@@ -90,8 +88,6 @@ De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend
 > **Rigveda, Maṇḍala 2, Sūkta 1, Ṛc 6**
 
 *Divastvaṃ* betekent ‘hij die (van) de hemel is’.
-
-
 
 > **सथिरेभिरङगैः पुरुरूप उग्रो बभ्रुः शुक्रेभिः पिपिशेहिरण्यैः |**
 >
@@ -118,8 +114,6 @@ De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend
 > **Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 10**
 
 De titel *viśvarūpam (*विश्वरूपम) is een titel die ‘Vorm van (het) Alles’ betekent.
-
-
 
 > **यथा रुद्रस्य सूनवो दिवो वशन्त्यसुरस्य वेधसः |**
 >
@@ -177,15 +171,15 @@ Maar Rudra’s onstuimige razernij is niet het enige masker van de vedische Heme
 
 **Shiva, de Wijze Leraar**
 
-Shiva. De Voorspoedige en Welwillende. De ultieme leraar van de mensen, schenker van wijsheid, van giften, van innerlijke rust en orde. Shiva is de Grote Yogi, het grote voorbeeld voor elke asceet. Shiva is een god die zich begeeft op de kerkhoven en die vertoeft in de grensgebieden van de bewoonde wereld. Hoewel hij in zijn vorm geassocieerd wordt met de sadhu[^4], zijn veel van zijn titels juist gericht op het brengen van materiële welvaart. *Shambhu* (शंभू), Schenker van wereldse welvaart, *Varada* (वरद), Schenker van Gunsten, *Dhanadeepa* (धनदीप), Heer van de Weelde, Bhūdeva (भूदेव), God van de Aarde (wat uiteraard ook verwijst naar de oogst, en de edelstenen en metalen die eruit gemijnd kunnen worden.
+Shiva. De Voorspoedige en Welwillende. De ultieme leraar van de mensen, schenker van wijsheid, van giften, van innerlijke rust en orde. Shiva is de Grote Yogi, het grote voorbeeld voor elke asceet. Shiva is een god die zich begeeft op de kerkhoven en die vertoeft in de grensgebieden van de bewoonde wereld. Hoewel hij in zijn vorm geassocieerd wordt met de sadhu[^4], zijn veel van zijn titels juist gericht op het brengen van materiële welvaart. *Shambhu* (शंभू), Schenker van wereldse welvaart; *Varada* (वरद), Schenker van Gunsten, *Dhanadeepa* (धनदीप), Heer van de Weelde, *Bhūdeva* (भूदेव), God van de Aarde (wat uiteraard ook verwijst naar de oogst, en de edelstenen en metalen die uit de diepten der aarde gewonnen kunnen worden.
 
-Shiva is een wijze god. Als de Grote Yogi is hij Guṇagrāhin (गुनाग्रहीन), de Weger van de Deugden, zodat mensen die hem benaderen gezien worden voor de beste versie van zichzelf.
+Shiva is een wijze god. Als de Grote Yogi is hij *Guṇagrāhin* (गुनाग्रहीन), de Weger van de Deugden, zodat mensen die hem benaderen gezien worden als de beste versie van zichzelf.
 
-Als Dakṣiṇāmūrti (दक्षिणामूर्ति) is Shiva in zijn rol als de leraar van alle vormen van kennis, dans, zang, poëzie. Hij is Gurudeva (गुरुदेव), de Leraargod en in In deze manifestatie bevat Shiva de Ātmavidyā, de kennis van de ziel of Zelf. Hij is Vachaspati (वाचस्पति), Meester van de Spraak.
+Als *Dakṣiṇāmūrti* (दक्षिणामूर्ति) zien we Shiva in zijn rol als de leraar van alle vormen van kennis, dans, zang en poëzie. Hij is *Gurudeva* (गुरुदेव), de Leraargod en in In deze manifestatie bevat Shiva de *Ātmavidyā*, de kennis van de ziel of de Zelf. Hij is daarnaast en daaran verwant tevens *Vachaspati* (वाचस्पति), Meester van de Spraak.
 
 **Shiva Bhūtanātha, de aanvoerder van legers**
 
-Een Bhūta is een geest, spook, duivel of kobold. Als Bhūtanātha (भूतनाथ), Heer van de Bhūtas, toont Shiva zich in het aspect als temmer van de onhandelbare, chaotische krachten. Hij onderwerpt ze, en maakt ze tot zijn gevolg; de Bhūtagaṇa (भूतगण), de Menigte Bhūtas.
+Een Bhūta is een geest, spook, duivel of kobold. Als *Bhūtanātha* (भूतनाथ), Heer van de Bhūtas, toont Shiva zich in zijn aspect waarin hij temmer van de onhandelbare, chaotische krachten is. Hij onderwerpt ze, en maakt ze tot zijn gevolg; de *Bhūtagaṇa* (भूतगण), de Menigte Bhūtas.
 
 Shiva’s zoon Ganesha, wiens naam letterlijk vertaalt naar ‘Gaṇa-Meester, is vaak aangeduid als de aanvoerder van Shiva’s Bhūtagaṇa.\
 Een van de belangrijkste mythen rond Ganesha geeft hem de rol van de schildwacht van zijn moeder. Hierin zit een belangrijke taak van de Bhūtagaṇa; ze bewaken de grensgebieden. Het zijn de wezens aan de randen van de ordelijke realiteit, als demonische roofdieren nét buiten het licht van je kampvuur.\
