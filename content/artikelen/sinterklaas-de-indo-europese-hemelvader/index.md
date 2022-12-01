@@ -179,7 +179,7 @@ Als *Dakṣiṇāmūrti* (दक्षिणामूर्ति) zien we Shiva
 
 **Shiva Bhūtanātha, de aanvoerder van legers**
 
-Een Bhūta is een geest, spook, duivel of kobold. Als *Bhūtanātha* (भूतनाथ), Heer van de Bhūtas, toont Shiva zich in zijn aspect waarin hij temmer van de onhandelbare, chaotische krachten is. Hij onderwerpt ze, en maakt ze tot zijn gevolg; de *Bhūtagaṇa* (भूतगण), de Menigte Bhūtas.
+Een Bhūta is een geest, spook, duivel of kobold. Als *Bhūtanātha* (भूतनाथ), Heer van de Bhūtas, toont Shiva zich in zijn aspect waarin hij temmer van de onhandelbare, chaotische krachten is. Hij onderwerpt ze, en maakt ze tot zijn gevolg; de *Bhūtagaṇa* (भूतगण), de schare Bhūtas.
 
 Shiva’s zoon Ganesha, wiens naam letterlijk vertaalt naar ‘Gaṇa-Meester, is vaak aangeduid als de aanvoerder van Shiva’s Bhūtagaṇa.\
 Een van de belangrijkste mythen rond Ganesha geeft hem de rol van de schildwacht van zijn moeder. Hierin zit een belangrijke taak van de Bhūtagaṇa; ze bewaken de grensgebieden. Het zijn de wezens aan de randen van de ordelijke realiteit, als demonische roofdieren nét buiten het licht van je kampvuur.\
