@@ -189,7 +189,7 @@ Als de Bhūtanātha heeft Shiva ze onderworpen aan Zijn orde. \
 
 **Shiva Bhairava, de Afschrikwekkende**
 
-Voor degenen die de Dharma vijandig zijn is Shiva *Bhairava* (भैरव), de Afschrikwekkende. In deze vorm beschermt Shiva tegen hebzucht, lust en woede. In deze manifestatie draagt Shiva de titels Dandapani (दंडपाणि), hij die de knuppel draagt, waarmee hij de kwade machten geselt en Śvāśva (श्वाश्व), hij die een hond berijdt als paard.
+Voor degenen die de Dharma vijandig zijn is Shiva *Bhairava* (भैरव), de Afschrikwekkende. In deze vorm beschermt Shiva tegen hebzucht, lust en woede. In deze manifestatie draagt Shiva de titels *Dandapani* (दंडपाणि), hij die de knuppel draagt, waarmee hij de kwade machten geselt en *Śvāśva* (श्वाश्व), hij die een hond berijdt als paard.
 
 In Bhairava manifesteert Shiva zich in zijn wraakzuchtige aspect en is hij de Palanhaar (पालनहार), de Verdediger van Alles, die met zijn derde oog de gevaren verschroeit. Bhūtas die zich niet tot Shiva’s Bhūtagaṇa voegen wacht dit lot.
 
