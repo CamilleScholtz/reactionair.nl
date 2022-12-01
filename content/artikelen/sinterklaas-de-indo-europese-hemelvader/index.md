@@ -191,7 +191,7 @@ Als de Bhūtanātha heeft Shiva ze onderworpen aan Zijn orde. \
 
 Voor degenen die de Dharma vijandig zijn is Shiva *Bhairava* (भैरव), de Afschrikwekkende. In deze vorm beschermt Shiva tegen hebzucht, lust en woede. In deze manifestatie draagt Shiva de verdere titels *Dandapani* (दंडपाणि), hij die de knuppel draagt, waarmee hij de kwade machten geselt en *Śvāśva* (श्वाश्व), hij die een hond berijdt als paard.
 
-In Bhairava manifesteert Shiva zich in zijn wraakzuchtige aspect en is hij de Palanhaar (पालनहार), de Verdediger van Alles, die met zijn derde oog de gevaren verschroeit. Bhūtas die zich niet tot Shiva’s Bhūtagaṇa voegen wacht dit lot.
+In Bhairava manifesteert Shiva zich in zijn wraakzuchtige aspect en is hij de *Palanhaar* (पालनहार), de Verdediger van Alles, die met zijn derde oog de gevaren verschroeit. Bhūtas die weigeren zich bij Shiva’s Bhūtagaṇa te voegen wacht dit lot.
 
 Toch geldt voor de wijzen een diepere waarheid in dit afschrikwekkende aspect, besloten in Shiva Naṭarāja (नटराज), de Heer van de Dans. Met deze dans openbaart Shiva de wereld, niet als een wereld van vormen, maar één van eeuwige patronen. Met zijn dans vertrapt hij de dwerg van onwetendheid en bevrijdt ons met schroeiende vlammen van onze beperkte ervaring van de wereld. In zijn handen heeft Shiva de symbolen van creatie, tijd en de uiteindelijke vernietiging. Maar de twee andere handen gebaren dat je niet bang hoeft te zijn. Onze vorm is tijdelijk, maar de energieën zijn onveranderlijk. Als Naṭarāja vangt Shiva de totaliteit van het leven en het realiteit, voorbij de aspecten. Hij brengt de *amṛta* (अमृत), de nectar van de goden, de drank waar je onsterfelijkheid mee bereikt.
 
