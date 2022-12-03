@@ -265,42 +265,42 @@ In zijn vlucht voor de reuzen verloor Wodan een klein beetje van de mede uit zij
 
 In de Merseburger toverspreuken, een tweetal bewaard gebleven middeleeuwse toverspreuken uit de voor-christelijke traditie, staat Wodan beschreven als de zanger van genezende liederen:
 
-*Phol ende uuodan uuorun zi holza*\
-*du uuart demo balderes uolon sin uuoz birenkit*
-
-*thu biguol en sinhtgunt• sunna era suister*\
-*thu biguol en friia, uolla era suister*\
-*thu biguol en uuodan so he uuola conda*
-
-*sose benrenki*\
-*sose bluotrenki*\
-*sose lidirenki*
-
-*ben zi bena*\
-*bluot zi bluoda*\
-*lid zi geliden*
-
-*sose gelimida sin*
-
-\
-Phol en Wodan reden naar het bos.\
-Daar raakte de voet van het veulen van Baldr gewond.
-
-Toen zong Sinhtgunt tot hem (tot de voet), haar zuster Sunna;
-
-Toen zong Frija tot hem, haar zuster Volla;
-
-Toen zong Wodan tot hem zoals hij dat goed kon.
-
-Zo botkwetsuur,\
-zo bloedkwetsuur,\
-zo ledemaatkwetsuur:
-
-bot tot bot,\
-bloed tot bloed,\
-lid tot ledematen:
-
-laat als gelijmd hen zijn.
+> *Phol ende uuodan uuorun zi holza*\
+> *du uuart demo balderes uolon sin uuoz birenkit*
+>
+> *thu biguol en sinhtgunt• sunna era suister*\
+> *thu biguol en friia, uolla era suister*\
+> *thu biguol en uuodan so he uuola conda*
+>
+> *sose benrenki*\
+> *sose bluotrenki*\
+> *sose lidirenki*
+>
+> *ben zi bena*\
+> *bluot zi bluoda*\
+> *lid zi geliden*
+>
+> *sose gelimida sin*
+>
+> \
+> Phol en Wodan reden naar het bos.\
+> Daar raakte de voet van het veulen van Baldr gewond.
+>
+> Toen zong Sinhtgunt tot hem (tot de voet), haar zuster Sunna;
+>
+> Toen zong Frija tot hem, haar zuster Volla;
+>
+> Toen zong Wodan tot hem zoals hij dat goed kon.
+>
+> Zo botkwetsuur,\
+> zo bloedkwetsuur,\
+> zo ledemaatkwetsuur:
+>
+> bot tot bot,\
+> bloed tot bloed,\
+> lid tot ledematen:
+>
+> laat als gelijmd hen zijn.
 
 **Wodan als Heer van Legers**
 
