@@ -120,23 +120,23 @@ De titel *viśvarūpam (*विश्वरूपम) is een titel die ‘Vorm v
 
 De volgende strofe biedt een inkijkje in een belangrijkste aspect van Rudra: een kwade godheid voor wie zelfs de Dood bang is. Deze strofe is ook wel bekend als de *Mahamrityunjaya* *Mantra*, de grote mantra die de dood verslaat. Tevens is Rudra welriekend, en vergroot hij welvaart. De titel *Tryambaka* (त्र्यम्बक) betekent drie-ogige, en is als woord direct verbonden aan *Zeus Triophthalmus*.
 
-**तर्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम |**\
-**उर्वारुकमिवबन्धनान मर्त्योर्मुक्षीय माम्र्तात |**\
-*tryambakaṃ yajāmahe sughandhiṃ puṣṭivardhanam |*\
-*urvārukamivabandhanān mṛtyormukṣīya māmṛtāt ||*\
-We sacrifice to Tryambaka the fragrant, increaser of prosperity.\
-Like a cucumber from its stem, might I be freed from death, not from deathlessness.\
-**Rigveda,** **Maṇḍala 7, Sūkta 59, Ṛc 12**
+> **तर्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम |**\
+> **उर्वारुकमिवबन्धनान मर्त्योर्मुक्षीय माम्र्तात |**\
+> *tryambakaṃ yajāmahe sughandhiṃ puṣṭivardhanam |*\
+> *urvārukamivabandhanān mṛtyormukṣīya māmṛtāt ||*\
+> We sacrifice to Tryambaka the fragrant, increaser of prosperity.\
+> Like a cucumber from its stem, might I be freed from death, not from deathlessness.\
+> **Rigveda,** **Maṇḍala 7, Sūkta 59, Ṛc 12**
 
 Ook de volgende strofe is belangrijk, want hierin wordt Rudra geïdentificeerd als Shiva. Shiva is dus een titel van Rudra en betekent ‘de Voorspoedige’. Dit wordt later belangrijk, als we op de duale vorm van de Hemelvader komen.
 
-**सतोमं वो अद्य रुद्राय शिक्वसे कषयद्वीराय नमसादिदिष्टन |**\
-**येभिः शिवः सववानेवयावभिर्दिवःसिषक्ति सवयशा निकामभिः ||**\
-*stomaṃ vo adya rudrāya śikvase kṣayadvīrāya namasādidiṣṭana |*\
-*yebhiḥ śivaḥ svavānevayāvabhirdivaḥsiṣakti svayaśā nikāmabhiḥ ||*\
-With reverence show forth your praise today to Rudra the skillful, who rules over heroes,\
-(and to those \[=Maruts]) with whom he, the well-disposed, very helpful, self-glorious one, keeps company—with those of heaven who travel their ways, the avid ones.\
-**Rigveda,** **Maṇḍala 10, Sūkta 92, Ṛc 9**
+> **सतोमं वो अद्य रुद्राय शिक्वसे कषयद्वीराय नमसादिदिष्टन |**\
+> **येभिः शिवः सववानेवयावभिर्दिवःसिषक्ति सवयशा निकामभिः ||**\
+> *stomaṃ vo adya rudrāya śikvase kṣayadvīrāya namasādidiṣṭana |*\
+> *yebhiḥ śivaḥ svavānevayāvabhirdivaḥsiṣakti svayaśā nikāmabhiḥ ||*\
+> With reverence show forth your praise today to Rudra the skillful, who rules over heroes,\
+> (and to those \[=Maruts]) with whom he, the well-disposed, very helpful, self-glorious one, keeps company—with those of heaven who travel their ways, the avid ones.\
+> **Rigveda,** **Maṇḍala 10, Sūkta 92, Ṛc 9**
 
 Rudra is de Vedische Hemelvader, een angstaanjagende stormgod. Vader van de Maruts, gigantische stormvogels die met lichtflitsen en bliksemschichten en donderend geweld door de hemelen razen. Ontembare wezens die bergen laten beven en die de wolken met hun wapens splijten om het te laten regenen. De filoloog Georges Dumézil vergeleek deze Maruts met de Germaanse Wilde Jacht, en ze hebben tevens overeenkomsten met de Einherjar en de Griekse Myrmidonen. Zo hebben de Maruts bijvoorbeeld geen individualiteit.
 
