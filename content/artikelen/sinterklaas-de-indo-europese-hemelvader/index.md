@@ -7,7 +7,7 @@ themas = "Religie en Metafysica"
 image = "arbo_wildhunt.jpg"
 anchor = "Smart"
 +++
-> *“Gods don’t die. Never completely die . . . ” There’s always somewhere, inside some stone, perhaps, or the words of a song, or riding the mind of some animal, or maybe in a whisper on the wind.\
+> *“Gods don’t die. Never completely die... There’s always somewhere, inside some stone, perhaps, or the words of a song, or riding the mind of some animal, or maybe in a whisper on the wind.\
 > They never entirely go, they hang onto the world by the tip of a fingernail, always fighting to find a way back. Once a god, always a god. Dead, perhaps, but only like the world in winter—”*
 
 *― Terry Pratchett, Hogfather*
