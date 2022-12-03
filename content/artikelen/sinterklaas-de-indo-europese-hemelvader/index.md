@@ -281,6 +281,7 @@ In de Merseburger toverspreuken, een tweetal bewaard gebleven middeleeuwse tover
 
 *sose gelimida sin*
 
+\
 Phol en Wodan reden naar het bos.\
 Daar raakte de voet van het veulen van Baldr gewond.
 
