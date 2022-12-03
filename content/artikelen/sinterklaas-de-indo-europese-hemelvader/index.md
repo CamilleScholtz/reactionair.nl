@@ -1,6 +1,6 @@
 +++
 title = "Sinterklaas, de Indo-Europese Hemelvader?"
-subtitle = "Een afdaling in de goddelijke grond van de Sinterklaastraditie"
+subtitle = "Een afdaling in de goddelijke essentie van de Sinterklaastraditie"
 auteurs = ["Elvengast"]
 date = "2022-11-28"
 themas = "Religie en Metafysica"
