@@ -369,4 +369,4 @@ De God in de zee wordt ook Zeus genoemd door Aeschylus, de zoon van Euphorion. D
 *“The reason for its three eyes (ed. a statue of Zefs originally from Troy) one might infer to be this. That Zeus is king in heaven is a saying common to all men. As for him who is said to rule under the earth, there is a verse of Homer which calls him, too, Zeus:‘Zeus of the Underworld, and the august Persephonea.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
 The God in the sea, also, is called Zeus by Aeschylus, the son of Euphorion. So whoever made the image made it with three eyes, as signifying that this same God rules in all the three “allotments” of the Universe, as they are called.” (trans. W. H. S. Jones, 1918)*
 
-[^4]: Een Sadhu of Sadhoe is een asceet in het Hindoeïsme. Deze wijdt zich aan het bereiken van geestelijke bevrijding door
+[^4]: Een Sadhu of Sadhoe is een asceet in het Hindoeïsme. Deze wijdt zich aan het bereiken van geestelijke bevrijding, door meditatie en onthouding.
