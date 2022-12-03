@@ -12,8 +12,6 @@ They never entirely go, they hang onto the world by the tip of a fingernail, alw
 
 *― Terry Pratchett, Hogfather*
 
-
-
 Was jij als kind bang voor de Sint? Wellicht dat je in deze jeugdige jaren, toen de hedendaagse volwassenheid onze diepe connectie tot onze bron nog niet had afgestompt, iets realiseerde middels jouw bloedgeheugen: dat je in feite de Indo-Europese Hemelvader in de ogen staarde.\
 \
 Want hoewel dit wellicht een vreemd idee kan lijken—ik hoor je denken: Sint Nicolaas is toch een *katholieke* heilige? Een kerk die niets met de heidense meergoderij heeft?—zal ik je tonen dat Sinterklaas een van de laatst levende restanten van de Indo-Europese Hemelvader Dyáuṣ Pitṛ́ is, wiens naam ons wellicht beter bekend is in de vorm ‘Jupiter’.\
@@ -92,10 +90,9 @@ you, as the troop of Maruts, are master of strengthening nourishment\
 *Divastvaṃ* betekent ‘hij die (van) de hemel is’.
 
 **सथिरेभिरङगैः पुरुरूप उग्रो बभ्रुः शुक्रेभिः पिपिशेहिरण्यैः |**\
-**ईशानादस्य भुवनस्य भूरेर्न वा उ योषद रुद्रादसुर्यम ||***sthirebhiraṅghaiḥ pururūpa ughro babhruḥ śukrebhiḥ pipiśehiraṇyaiḥ |*\
-*īśānādasya bhuvanasya bhūrerna vā u yoṣad rudrādasuryam ||*\
+**ईशानादस्य भुवनस्य भूरेर्न वा उ योषद रुद्रादसुर्यम ||***sthirebhiraṅghaiḥ pururūpa ughro babhruḥ śukrebhiḥ pipiśehiraṇyaiḥ |īśānādasya bhuvanasya bhūrerna vā u yoṣad rudrādasuryam ||*\
 With sturdy limbs, the mighty red-brown one of many forms has adorned himself with gleaming golden (ornaments).                                                             \
-From Rudra, who is *master over the abundant living world*, lordly power will surely not be distant.\
+From Rudra, who is* master over the abundant living world*, lordly power will surely not be distant.\
 **Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 9**
 
 **\
@@ -267,68 +264,38 @@ In zijn vlucht voor de reuzen verloor Wodan een klein beetje van de mede uit zij
 
 In de Merseburger toverspreuken, een tweetal bewaard gebleven middeleeuwse toverspreuken uit de voor-christelijke traditie, staat Wodan beschreven als de zanger van genezende liederen:
 
-*Phol ende uuodan uuorun zi holza*
-
+*Phol ende uuodan uuorun zi holza*\
 *du uuart demo balderes uolon sin uuoz birenkit*
 
-*1 thu biguol en sinhtgunt·*
+*thu biguol en sinhtgunt• sunna era suister*\
+*thu biguol en friia, uolla era suister*\
+*thu biguol en uuodan so he uuola conda*
 
-*sunna era suister*
-
-*thu biguol en friia*
-
-*uolla era suister*
-
-*thu biguol en uuodan*
-
- *so he uuola conda*
-
-
-
-*sose benrenki*
-
-*sose bluotrenki*
-
+*sose benrenki*\
+*sose bluotrenki*\
 *sose lidirenki*
 
-*ben zi bena*
-
-*bluot zi bluoda*
-
+*ben zi bena*\
+*bluot zi bluoda*\
 *lid zi geliden*
 
 *sose gelimida sin*
 
-
-
-Phol en Wodan reden naar het bos.
-
+Phol en Wodan reden naar het bos.\
 Daar raakte de voet van het veulen van Baldr gewond.
 
-Toen zong Sinhtgunt tot hem (tot de voet),
+Toen zong Sinhtgunt tot hem (tot de voet), haar zuster Sunna;
 
-haar zuster Sunna;
+Toen zong Frija tot hem, haar zuster Volla;
 
-Toen zong Frija tot hem,
+Toen zong Wodan tot hem zoals hij dat goed kon.
 
-haar zuster Volla;
-
-Toen zong Wodan tot hem,
-
-zoals hij goed kon.
-
- 
-
-Zo botkwetsuur,
-
-zo bloedkwetsuur,
-
+Zo botkwetsuur,\
+zo bloedkwetsuur,\
 zo ledemaatkwetsuur:
 
-bot tot bot,
-
-bloed tot bloed,
-
+bot tot bot,\
+bloed tot bloed,\
 lid tot ledematen:
 
 laat als gelijmd hen zijn.
