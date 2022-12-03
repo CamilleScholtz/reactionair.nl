@@ -199,23 +199,23 @@ De riten werden ingeluid door de extatische kreten van de Maenaeden in de bossen
 
 De Orfische hymne gericht aan Dionysus noemt Dionysus expliciet de zoon van Zeus, de Hemelvader, en Persephone, de vrouw van Hades (of; zoals wij hebben aangetoond, van Zeus *als* Hades) Hier zien we zo de aspecten-theologie van Zeus Triophthalmus terug:
 
-Κικλήσκω Διόνυσον ἐρίβρομον, εὐαστῆρα, πρωτόγονον, διφυῆ, τρίγονον, Βακχεῖον ἄνακτα, ἄγριον, ἄρρητον, κρύφιον, δικέρωτα, δίμορφον, κισσόβρυον, ταυρωπόν, ἀρήϊον, εὔϊον, ἁγνόν, ὠμάδιον, τριετῆ, βοτρυοτρὸφον, ἐρνεσίπεπλον. Εὐβουλεῦ, πολύβουλε, Διὸς καὶ Περσεφονείης ἀρρήτοις λέκτροισι τεκνωθείς, ἄμβροτε δαῖμον· κλῦθι μάκαρ φωνῆς, ἡδὺς δ’ ἐπίπνευσον ἐνηής, εὐμενὲς ἦτορ ἔχων, σὺν ἐυζώνοισι τιθήναις.
+> Κικλήσκω Διόνυσον ἐρίβρομον, εὐαστῆρα, πρωτόγονον, διφυῆ, τρίγονον, Βακχεῖον ἄνακτα, ἄγριον, ἄρρητον, κρύφιον, δικέρωτα, δίμορφον, κισσόβρυον, ταυρωπόν, ἀρήϊον, εὔϊον, ἁγνόν, ὠμάδιον, τριετῆ, βοτρυοτρὸφον, ἐρνεσίπεπλον. Εὐβουλεῦ, πολύβουλε, Διὸς καὶ Περσεφονείης ἀρρήτοις λέκτροισι τεκνωθείς, ἄμβροτε δαῖμον· κλῦθι μάκαρ φωνῆς, ἡδὺς δ’ ἐπίπνευσον ἐνηής, εὐμενὲς ἦτορ ἔχων, σὺν ἐυζώνοισι τιθήναις.
+>
+> \
+> *Kiklískoh Diónyson ærívromon, evastíra,\
+> prohtógonon, diphií, trígonon, Vakheion ánakta,\
+> ágrion, árriton, krýphion, dikǽrohta, dímorphon,\
+> kissóvryon, tavrohpón, Aríion, évion, agnón,\
+> ohmádion, triætí, votryotróphon, ærnæsípæplon.\
+> Evvouléf, polývoulæ, Diós kai Pærsæphoneiis\
+> arrítis lǽktrisi tæknohtheis, ámvrotæ daimon;\
+> klýthi, mákar phohnís, idýs d' æpípnefson æniís,\
+> evmænǽs ítor ǽkhohn, sýn evzóhnisi tithínais.*\
+> \
+> Ik roep Dionysus aan, de luidbrullende, die de kreet van extase (εὐαί!) uitschreeuwt, de eerstgeborene, hij die een duale natuur heeft, de driemaal-geborene, de koning van de Bacchische rite, de wilde, ondoorgrondelijk en verborgen, tweehoorning, tweevorming. Bedekt in wijnranken, met het gezicht van de stier, strijdvaardig, joelend, heilig, die zichzelf offert, van het drie-jaarlijkse feest, overhangen met druiven, bedekt in struikgewas.\
+> Wijze raadgever, Zeus en Persephone baarden jou, op een geheim bed, onsterfelijke daimon;\
+> Hoor welwillend mijn stem! Schenk mij de milde inspiratie, wees vriendelijk en vervul mijn verlangen met de hulp van uw vrome verzorgsters![^4]
 
-\
-*Kiklískoh Diónyson ærívromon, evastíra,\
-prohtógonon, diphií, trígonon, Vakheion ánakta,\
-ágrion, árriton, krýphion, dikǽrohta, dímorphon,\
-kissóvryon, tavrohpón, Aríion, évion, agnón,\
-ohmádion, triætí, votryotróphon, ærnæsípæplon.\
-Evvouléf, polývoulæ, Diós kai Pærsæphoneiis\
-arrítis lǽktrisi tæknohtheis, ámvrotæ daimon;\
-klýthi, mákar phohnís, idýs d' æpípnefson æniís,\
-evmænǽs ítor ǽkhohn, sýn evzóhnisi tithínais.*
-
-\
-Ik roep Dionysus aan, de luidbrullende, die de kreet van extase (εὐαί!) uitschreeuwt, de eerstgeborene, hij die een duale natuur heeft, de driemaal-geborene, de koning van de Bacchische rite, de wilde, ondoorgrondelijk en verborgen, tweehoorning, tweevorming. Bedekt in wijnranken, met het gezicht van de stier, strijdvaardig, joelend, heilig, die zichzelf offert, van het drie-jaarlijkse feest, overhangen met druiven, bedekt in struikgewas.\
-Wijze raadgever, Zeus en Persephone baarden jou, op een geheim bed, onsterfelijke daimon;\
-Hoor welwillend mijn stem! Schenk mij de milde inspiratie, wees vriendelijk en vervul mijn verlangen met de hulp van uw vrome verzorgsters![^4]\
 \
 De Thiasos kon zo tot waanzin gedreven raken onder de geestdriften jegens de god, dat er doden bij vielen. In zijn theaterstuk *Bakchai* (Βάκχαι) toont Euripides ons in een belangrijke scène zelfs hoe de koning van Thebe, Pentheus, in de extase die de progressie van Dionysus vergezelde door zijn eigen moeder in stukken gereten wordt. Pentheus had echter de verering van Dionysus niet toegelaten in zijn stad, en het was op deze wijze dat Dionysus zich wreekte.
 
