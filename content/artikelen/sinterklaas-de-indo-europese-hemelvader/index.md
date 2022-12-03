@@ -7,8 +7,8 @@ themas = "Religie en Metafysica"
 image = "arbo_wildhunt.jpg"
 anchor = "Smart"
 +++
-*“Gods don’t die. Never completely die . . . ” There’s always somewhere, inside some stone, perhaps, or the words of a song, or riding the mind of some animal, or maybe in a whisper on the wind.\
-They never entirely go, they hang onto the world by the tip of a fingernail, always fighting to find a way back. Once a god, always a god. Dead, perhaps, but only like the world in winter—”*
+> *“Gods don’t die. Never completely die . . . ” There’s always somewhere, inside some stone, perhaps, or the words of a song, or riding the mind of some animal, or maybe in a whisper on the wind.\
+> They never entirely go, they hang onto the world by the tip of a fingernail, always fighting to find a way back. Once a god, always a god. Dead, perhaps, but only like the world in winter—”*
 
 *― Terry Pratchett, Hogfather*
 
@@ -41,15 +41,16 @@ Als voorbeeld wil ik kijken naar Zeus Triophthalmus (Ζεύς Τριόφθαλμ
 
 Elk oog vertegenwoordigde een andere manifestatie van de Olympische Zeus, en elke manifestatie had een eigen vorm, zoals Proklós het omschreef in *Commentaar van Proklós op Plato's Cratylus*:
 
-*“Hij (de Olympische Zeus) is ook de culminatie van de drie, heeft dezelfde naam als de bron Jupiter (Zeus), is met hem verenigd en wordt monadisch Jupiter genoemd. Maar de tweede wordt dyadisch de mariene Jupiter en Neptunus (Ποσειδῶν) genoemd. En de derde wordt triadisch de terrestrische Jupiter, Pluto (Πλούτων) en Hades (Ἅιδης) genoemd. De eerste hiervan bewaart, maakt en verlevendigt hoogtepunten, de tweede echter, dingen van een tweede rang, en de derde die van een derde orde. Vandaar dat deze laatste Proserpine (Περσεφόνη) zou hebben verkracht, zodat hij samen met haar de uiteinden van het universum zou kunnen animeren."*[^2]
+> *“Hij (de Olympische Zeus) is ook de culminatie van de drie, heeft dezelfde naam als de bron Jupiter (Zeus), is met hem verenigd en wordt monadisch Jupiter genoemd. Maar de tweede wordt dyadisch de mariene Jupiter en Neptunus (Ποσειδῶν) genoemd. En de derde wordt triadisch de terrestrische Jupiter, Pluto (Πλούτων) en Hades (Ἅιδης) genoemd. De eerste hiervan bewaart, maakt en verlevendigt hoogtepunten, de tweede echter, dingen van een tweede rang, en de derde die van een derde orde. Vandaar dat deze laatste Proserpine (Περσεφόνη) zou hebben verkracht, zodat hij samen met haar de uiteinden van het universum zou kunnen animeren."*[^2]
 
 Drie Zeusen. Ζεὺς Ὀλυμπιακός (Zèfs Olympiakós, de Olympische Zeus), Ζεὺς Θαλάσσιος:  Ποσειδῶν (Zèfs Thalássios: Poseidón) en Ζεὺς Χθόνιος:  Πλούτων (Zèfs Chthónios: Ploúton).
 
 In dit godsbeeld komt de oude vorm van theïsme wellicht het sterkst naar voren: Zeus is zowel zichzelf, *als* Hades en Poseidon. De Hemelvader is een drie-eenheid van de drie Olympische broers, waarbij zij alledrie de essentie hebben van de Olympische Zeus. In deze drie aspecten omvat de Olympische Zeus de gehele wereld; het land, de zee en de lucht. Elk aspect heeft zijn eigen domein, maar alledrie deze aspecten zijn dezelfde Hemelvader, aldus Pausanias in zijn werk Hellados Periegesis (Ἑλλάδος Περιήγησις):
 
-τρεῖς δὲ ὀφθαλμοὺς ἔχειν ἐπὶ τῷδε ἄν τις τεκμαίροιτο αὐτόν. Δία γὰρ ἐν οὐρανῷ βασιλεύειν, οὗτος μὲν λόγος κοινὸς πάντων ἐστὶν ἀνθρώπων. ὃν δὲ ἄρχειν φασὶν ὑπὸ γῆς, ἔστιν ἔπος τῶν Ὁμήρου Δία ὀνομάζον καὶ τοῦτον·\
-‘Ζεύς τε καταχθόνιος καὶ ἐπαινὴ Περσεφόνεια.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
-Αἰσχύλος δὲ ὁ Εὐφορίωνος καλεῖ Δία καὶ τὸν ἐν θαλάσσῃ. τρισὶν οὖν ὁρῶντα ἐποίησεν ὀφθαλμοῖς ὅστις δὴ ἦν ὁ ποιήσας, ἅτε ἐν ταῖς τρισὶ ταῖς λεγομέναις λήξεσιν ἄρχοντα τὸν αὐτὸν τοῦτον θεόν.[^3]\
+> τρεῖς δὲ ὀφθαλμοὺς ἔχειν ἐπὶ τῷδε ἄν τις τεκμαίροιτο αὐτόν. Δία γὰρ ἐν οὐρανῷ βασιλεύειν, οὗτος μὲν λόγος κοινὸς πάντων ἐστὶν ἀνθρώπων. ὃν δὲ ἄρχειν φασὶν ὑπὸ γῆς, ἔστιν ἔπος τῶν Ὁμήρου Δία ὀνομάζον καὶ τοῦτον·\
+> ‘Ζεύς τε καταχθόνιος καὶ ἐπαινὴ Περσεφόνεια.’ (Ἰλιὰς Ὁμήρου 2.9.457)\
+> Αἰσχύλος δὲ ὁ Εὐφορίωνος καλεῖ Δία καὶ τὸν ἐν θαλάσσῃ. τρισὶν οὖν ὁρῶντα ἐποίησεν ὀφθαλμοῖς ὅστις δὴ ἦν ὁ ποιήσας, ἅτε ἐν ταῖς τρισὶ ταῖς λεγομέναις λήξεσιν ἄρχοντα τὸν αὐτὸν τοῦτον θεόν.[^3]
+
 \
 Een goed boek dat ik graag aanraad over deze oudere vormen van theïsme is *Die Götter Griechenlands. Das Bild des Göttlichen im Spiegel des griechischen Geistes* van Walter F. Otto, waarin de Griekse goden Athena, Hermes, Aphrodite en Apollo worden uitgewerkt vanuit het wereldbeeld van de Homerische epiek.
 
