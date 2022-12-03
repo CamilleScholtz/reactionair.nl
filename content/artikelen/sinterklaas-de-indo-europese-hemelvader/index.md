@@ -80,41 +80,41 @@ Een beetje een vreemde oppergod, zeg je? Dat valt mee. Onthoud: het soort theïs
 
 De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend als de Hemelvader. De vertalingen komen uit *The Rigveda: The Earliest Religious Poetry of India, door Stephanie W. Jamison en Joel P. Brereton.*
 
-**तवमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पर्क्ष ईशिषे |**\
-**तवं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु तमना ||**\
-*tvamaghne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe |*\
-*tvaṃ vātairaruṇairyāsi śaṃghayastvaṃ pūṣā vidhataḥ pāsi nu tmanā ||*\
-You, Agni, as *lord of great heaven*, are Rudra;\
-you, as the troop of Maruts, are master of strengthening nourishment\
-**Rigveda, Maṇḍala 2, Sūkta 1, Ṛc 6**
+> **तवमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पर्क्ष ईशिषे |**\
+> **तवं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु तमना ||**\
+> *tvamaghne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe |*\
+> *tvaṃ vātairaruṇairyāsi śaṃghayastvaṃ pūṣā vidhataḥ pāsi nu tmanā ||*\
+> You, Agni, as *lord of great heaven*, are Rudra;\
+> you, as the troop of Maruts, are master of strengthening nourishment\
+> **Rigveda, Maṇḍala 2, Sūkta 1, Ṛc 6**
 
 *Divastvaṃ* betekent ‘hij die (van) de hemel is’.
 
-**सथिरेभिरङगैः पुरुरूप उग्रो बभ्रुः शुक्रेभिः पिपिशेहिरण्यैः |**\
-**ईशानादस्य भुवनस्य भूरेर्न वा उ योषद रुद्रादसुर्यम ||***sthirebhiraṅghaiḥ pururūpa ughro babhruḥ śukrebhiḥ pipiśehiraṇyaiḥ |īśānādasya bhuvanasya bhūrerna vā u yoṣad rudrādasuryam ||*\
-With sturdy limbs, the mighty red-brown one of many forms has adorned himself with gleaming golden (ornaments).                                                             \
-From Rudra, who is* master over the abundant living world*, lordly power will surely not be distant.\
-**Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 9**
-
-**\
-अर्हन बिभर्षि सायकानि धन्वार्हन निष्कं यजतं विश्वरूपम |**\
-**अर्हन्निदं दयसे विश्वमभ्वं न वा ओजीयो रुद्र तवदस्ति ||**\
-*arhan bibharṣi sāyakāni dhanvārhan niṣkaṃ yajataṃ viśvarūpam |*\
-*arhannidaṃ dayase viśvamabhvaṃ na vā ojīyo rudra tvadasti ||*\
-Worthily you bear the arrows and the bow and *worthily the sacrificial neck ornament of all forms*.\
-Worthily you *parcel out the whole formless void*. Surely there exists *nothing more powerful than you*, Rudra.\
-**Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 10**
+> **सथिरेभिरङगैः पुरुरूप उग्रो बभ्रुः शुक्रेभिः पिपिशेहिरण्यैः |**\
+> **ईशानादस्य भुवनस्य भूरेर्न वा उ योषद रुद्रादसुर्यम ||***sthirebhiraṅghaiḥ pururūpa ughro babhruḥ śukrebhiḥ pipiśehiraṇyaiḥ |īśānādasya bhuvanasya bhūrerna vā u yoṣad rudrādasuryam ||*\
+> With sturdy limbs, the mighty red-brown one of many forms has adorned himself with gleaming golden (ornaments).                                                             \
+> From Rudra, who is* master over the abundant living world*, lordly power will surely not be distant.\
+> **Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 9**
+>
+> **\
+> अर्हन बिभर्षि सायकानि धन्वार्हन निष्कं यजतं विश्वरूपम |**\
+> **अर्हन्निदं दयसे विश्वमभ्वं न वा ओजीयो रुद्र तवदस्ति ||**\
+> *arhan bibharṣi sāyakāni dhanvārhan niṣkaṃ yajataṃ viśvarūpam |*\
+> *arhannidaṃ dayase viśvamabhvaṃ na vā ojīyo rudra tvadasti ||*\
+> Worthily you bear the arrows and the bow and *worthily the sacrificial neck ornament of all forms*.\
+> Worthily you *parcel out the whole formless void*. Surely there exists *nothing more powerful than you*, Rudra.\
+> **Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 10**
 
 De titel *viśvarūpam (*विश्वरूपम) is een titel die ‘Vorm van (het) Alles’ betekent.
 
-**यथा रुद्रस्य सूनवो दिवो वशन्त्यसुरस्य वेधसः |**\
-**युवानस्तथेदसत ||**\
-*yathā rudrasya sūnavo divo vaśantyasurasya vedhasaḥ |*\
-*yuvānastathedasat ||*\
-Just as they wish, so shall it be—they,\
-the sons of Rudra \[the Maruts], *lord of heaven*, the ritual adepts, the youths
-
-**Rigveda,** **Maṇḍala 8, Sūkta 20, Ṛc 17**
+> **यथा रुद्रस्य सूनवो दिवो वशन्त्यसुरस्य वेधसः |**\
+> **युवानस्तथेदसत ||**\
+> *yathā rudrasya sūnavo divo vaśantyasurasya vedhasaḥ |*\
+> *yuvānastathedasat ||*\
+> Just as they wish, so shall it be—they,\
+> the sons of Rudra \[the Maruts], *lord of heaven*, the ritual adepts, the youths
+>
+> **Rigveda,** **Maṇḍala 8, Sūkta 20, Ṛc 17**
 
 *Divo* is weer de genitief van *dyú*: ‘van de hemel’. Ook de Maruts, Rudra’s zonen, worden hier aangehaald; mythische stormvogels.
 
