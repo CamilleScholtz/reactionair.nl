@@ -103,10 +103,8 @@ De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend
 > *īśānādasya bhuvanasya bhūrerna vā u yoṣad rudrādasuryam*
 > 
 > With sturdy limbs, the mighty red-brown one of many forms has adorned himself with gleaming golden (ornaments).                                                             
-> From Rudra, who is* master over the abundant living world*, lordly power will surely not be distant.
+> From Rudra, who is* master over the abundant living world*, lordly power will surely not be distant.[^5]
 
-> **Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 9**
->
 > *अर्हन बिभर्षि सायकानि धन्वार्हन निष्कं यजतं विश्वरूपम*
 > *अर्हन्निदं दयसे विश्वमभ्वं न वा ओजीयो रुद्र तवदस्ति*
 >
@@ -115,7 +113,6 @@ De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend
 >
 > Worthily you bear the arrows and the bow and *worthily the sacrificial neck ornament of all forms*.
 > Worthily you *parcel out the whole formless void*. Surely there exists *nothing more powerful than you*, Rudra.
-> **Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 10**
 
 De titel *viśvarūpam* (*विश्वरूपम*) is een titel die ‘Vorm van (het) Alles’ betekent.
 
@@ -126,9 +123,7 @@ De titel *viśvarūpam* (*विश्वरूपम*) is een titel die ‘Vorm
 > *yuvānastathedasat*
 > 
 > Just as they wish, so shall it be—they,
-> the sons of Rudra \[the Maruts], *lord of heaven*, the ritual adepts, the youths
->
-> **Rigveda,** **Maṇḍala 8, Sūkta 20, Ṛc 17**
+> the sons of Rudra \[the Maruts], *lord of heaven*, the ritual adepts, the youths[^7]
 
 *Divo* is weer de genitief van *dyú*: ‘van de hemel’. Ook de Maruts, Rudra’s zonen, worden hier aangehaald; mythische stormvogels.
 
@@ -141,8 +136,7 @@ De volgende strofe biedt een inkijkje in een belangrijkste aspect van Rudra: een
 > *urvārukamivabandhanān mṛtyormukṣīya māmṛtāt*
 >
 > We sacrifice to Tryambaka the fragrant, increaser of prosperity.
-> Like a cucumber from its stem, might I be freed from death, not from deathlessness.
-> **Rigveda,** **Maṇḍala 7, Sūkta 59, Ṛc 12**
+> Like a cucumber from its stem, might I be freed from death, not from deathlessness.[^8]
 
 Ook de volgende strofe is belangrijk, want hierin wordt Rudra geïdentificeerd als Shiva. Shiva is dus een titel van Rudra en betekent ‘de Voorspoedige’. Dit wordt later belangrijk, als we op de duale vorm van de Hemelvader komen.
 
@@ -153,14 +147,13 @@ Ook de volgende strofe is belangrijk, want hierin wordt Rudra geïdentificeerd a
 > *yebhiḥ śivaḥ svavānevayāvabhirdivaḥsiṣakti svayaśā nikāmabhiḥ*
 > 
 > With reverence show forth your praise today to Rudra the skillful, who rules over heroes,
-> (and to those \[=Maruts]) with whom he, the well-disposed, very helpful, self-glorious one, keeps company—with those of heaven who travel their ways, the avid ones.
-> **Rigveda,** **Maṇḍala 10, Sūkta 92, Ṛc 9**
+> (and to those \[=Maruts]) with whom he, the well-disposed, very helpful, self-glorious one, keeps company—with those of heaven who travel their ways, the avid ones.[^9]
 
 Rudra is de Vedische Hemelvader, een angstaanjagende stormgod. Vader van de Maruts, gigantische stormvogels die met lichtflitsen en bliksemschichten en donderend geweld door de hemelen razen. Ontembare wezens die bergen laten beven en die de wolken met hun wapens splijten om het te laten regenen. De filoloog Georges Dumézil vergeleek deze Maruts met de Germaanse Wilde Jacht, en ze hebben tevens overeenkomsten met de Einherjar en de Griekse Myrmidonen. Zo hebben de Maruts bijvoorbeeld geen individualiteit.
 
 Maṇḍala 8, Sūkta 20, gericht aan deze Maruts, toont ons een ander aspect van hun vader Rudra. De Maruts in de Sūkta worden gevraagd om genezing. De strofen roepen de Maruts aan om het medicijn van hun vader te brengen.
 
-Hier wordt Rudra omgetoverd tot *Vaidyanātha* (*वैद्यनाथ*), de Heer van de Geneesheren. Genezer van mensen en verjager van ziekte en de dood. Twee lofzangen uit de Rigveda roepen Rudra (verhuld) aan, met de titel *Bṛhaspati* (बृहस्पति), Heer van de Gebeden, en de personificatie van de planeet Jupiter in Rigveda M10.S97, en *Savitṛ* (सवितृ, de Ontwaker, en een titel van Surya, de zon) in Rigveda M10.S161.
+Hier wordt Rudra omgetoverd tot *Vaidyanātha* (*वैद्यनाथ*), de Heer van de Geneesheren. Genezer van mensen en verjager van ziekte en de dood. Twee lofzangen uit de Rigveda roepen Rudra (verhuld) aan, met de titel *Bṛhaspati* (बृहस्पति), Heer van de Gebeden, en de personificatie van de planeet Jupiter in *Rigveda* M10.S97, en *Savitṛ* (सवितृ, de Ontwaker, en een titel van Surya, de zon) in *Rigveda* M10.S161.
 
 Maar Rudra’s onstuimige razernij is niet het enige masker van de vedische Hemelvader. Er is ook het masker Shiva.
 
@@ -186,12 +179,12 @@ Voor degenen die de Dharma vijandig zijn is Shiva *Bhairava* (भैरव), de 
 
 In Bhairava manifesteert Shiva zich in zijn wraakzuchtige aspect en is hij de *Palanhaar* (पालनहार), de Verdediger van Alles, die met zijn derde oog de gevaren verschroeit. Bhūtas die weigeren zich bij Shiva’s Bhūtagaṇa te voegen wacht dit lot.
 
-Toch bestaat voor de wijzen een diepere waarheid in dit afschrikwekkende aspect, die ligt besloten in de titel *Naṭarāja* (नटराज), de Heer van de Dans. Met deze dans openbaart Shiva de wereld, niet als een wereld van vormen, maar als één van eeuwige patronen. Met zijn dans vertrapt hij de dwerg van onwetendheid en bevrijdt ons met zijn verschroeiende vlammen van onze beperkte ervaring van de wereld. In twee van zijn vier handen heeft Shiva de symbolen van schepping, tijd en de uiteindelijke vernietiging. Maar de twee andere handen gebaren dat je niet bang hoeft te zijn. Onze vorm is tijdelijk, maar de energieën zijn onveranderlijk. Als Naṭarāja vangt Shiva de totaliteit van het leven en de realiteit voorbij de aspecten. Hij brengt ons de *amṛta* (अमृत), de nectar van de goden, de drank waarmee onsterfelijkheid wordt gewonnen.
+Toch bestaat voor de wijzen een diepere waarheid in dit afschrikwekkende aspect, die ligt besloten in de titel *Naṭarāja* (*नटराज*), de Heer van de Dans. Met deze dans openbaart Shiva de wereld, niet als een wereld van vormen, maar als één van eeuwige patronen. Met zijn dans vertrapt hij de dwerg van onwetendheid en bevrijdt ons met zijn verschroeiende vlammen van onze beperkte ervaring van de wereld. In twee van zijn vier handen heeft Shiva de symbolen van schepping, tijd en de uiteindelijke vernietiging. Maar de twee andere handen gebaren dat je niet bang hoeft te zijn. Onze vorm is tijdelijk, maar de energieën zijn onveranderlijk. Als Naṭarāja vangt Shiva de totaliteit van het leven en de realiteit voorbij de aspecten. Hij brengt ons de *amṛta* (*अमृत*), de nectar van de goden, de drank waarmee onsterfelijkheid wordt gewonnen.
 
 
 ### Rudra, de wortel van Sinterklaas?
 
-De Veda’s roepen Rudra aan in verschillende Sūkta’s. Deze gebeden en lofzangen lijken vooral bedoeld te zijn om Rudra over te halen zich aan de spreker te onthullen als Shiva. Denk hierbij eens aan hoe wij kinderen leren dat de geschenken van de goede Sint pas komen nádat er gezongen is. Want zij die niet zingen om Rudra, de Weger van de Deugden te behagen, zullen hem treffen als Rudra *Pitarmarutāṃ* (पितर्मरुतां), vader van de Maruts. Voor de hebzuchtige kinderen zal hij komen als Bhairava om deze kwaadaardige demonen te vernietigen. Voor de kinderen die *bhakti* भक्ति, vroomheid, tonen, komt deze aloude hemelgod die heden ten dage aan ons als Sinterklaas verschijnt echter als brenger van giften en wijsheid.
+De Veda’s roepen Rudra aan in verschillende Sūkta’s. Deze gebeden en lofzangen lijken vooral bedoeld te zijn om Rudra over te halen zich aan de spreker te onthullen als Shiva. Denk hierbij eens aan hoe wij kinderen leren dat de geschenken van de goede Sint pas komen nádat er gezongen is. Want zij die niet zingen om Rudra, de Weger van de Deugden te behagen, zullen hem treffen als Rudra *Pitarmarutāṃ* (*पितर्मरुतां*), vader van de Maruts. Voor de hebzuchtige kinderen zal hij komen als Bhairava om deze kwaadaardige demonen te vernietigen. Voor de kinderen die *bhakti* (*भक्ति*), vroomheid, tonen, komt deze aloude hemelgod die heden ten dage aan ons als Sinterklaas verschijnt echter als brenger van giften en wijsheid.
 
 ### Dolle Dionysus uit Hellenistisch Griekenland
 
@@ -211,13 +204,12 @@ Want de extatische dans brengt je in een wereld voorbij het dagelijkse zelf. Het
 
 ### Dionysus, de waanzinnige
 
-De riten werden ingeluid door de extatische kreten van de Maenaeden in de bossen, wat mogelijk Dionysus de titel *Bromios* (Βρομιος), de luidruchtige, opleverde, een titel die ook zijn vader Zeus toekwam, als de hemelvader en donderaar. De god voer altijd met zijn Thiasos vanaf de buitengrenzen naar het centrum.
+De riten werden ingeluid door de extatische kreten van de Maenaeden in de bossen, wat mogelijk Dionysus de titel *Bromios* (*Βρομιος*), de luidruchtige, opleverde, een titel die ook zijn vader Zeus toekwam, als de hemelvader en donderaar. De god voer altijd met zijn Thiasos vanaf de buitengrenzen naar het centrum.
 
 De Orfische hymne gericht aan Dionysus noemt Dionysus expliciet de zoon van Zeus, de Hemelvader, en Persephone, de vrouw van Hades (of; zoals wij hebben aangetoond, van Zeus *als* Hades) Hier zien we zo de aspecten-theologie van Zeus Triophthalmus terug:
 
 > Κικλήσκω Διόνυσον ἐρίβρομον, εὐαστῆρα, πρωτόγονον, διφυῆ, τρίγονον, Βακχεῖον ἄνακτα, ἄγριον, ἄρρητον, κρύφιον, δικέρωτα, δίμορφον, κισσόβρυον, ταυρωπόν, ἀρήϊον, εὔϊον, ἁγνόν, ὠμάδιον, τριετῆ, βοτρυοτρὸφον, ἐρνεσίπεπλον. Εὐβουλεῦ, πολύβουλε, Διὸς καὶ Περσεφονείης ἀρρήτοις λέκτροισι τεκνωθείς, ἄμβροτε δαῖμον· κλῦθι μάκαρ φωνῆς, ἡδὺς δ’ ἐπίπνευσον ἐνηής, εὐμενὲς ἦτορ ἔχων, σὺν ἐυζώνοισι τιθήναις.
 >
-> 
 > *Kiklískoh Diónyson ærívromon, evastíra,
 > prohtógonon, diphií, trígonon, Vakheion ánakta,
 > ágrion, árriton, krýphion, dikǽrohta, dímorphon,
@@ -228,20 +220,20 @@ De Orfische hymne gericht aan Dionysus noemt Dionysus expliciet de zoon van Zeus
 > klýthi, mákar phohnís, idýs d' æpípnefson æniís,
 > evmænǽs ítor ǽkhohn, sýn evzóhnisi tithínais.*
 > 
-> Ik roep Dionysus aan, de luidbrullende, die de kreet van extase (εὐαί!) uitschreeuwt, de eerstgeborene, hij die een duale natuur heeft, de driemaal-geborene, de koning van de Bacchische rite, de wilde, ondoorgrondelijk en verborgen, tweehoorning, tweevorming. Bedekt in wijnranken, met het gezicht van de stier, strijdvaardig, joelend, heilig, die zichzelf offert, van het drie-jaarlijkse feest, overhangen met druiven, bedekt in struikgewas.
+> Ik roep Dionysus aan, de luidbrullende, die de kreet van extase (*εὐαί!*) uitschreeuwt, de eerstgeborene, hij die een duale natuur heeft, de driemaal-geborene, de koning van de Bacchische rite, de wilde, ondoorgrondelijk en verborgen, tweehoorning, tweevorming. Bedekt in wijnranken, met het gezicht van de stier, strijdvaardig, joelend, heilig, die zichzelf offert, van het drie-jaarlijkse feest, overhangen met druiven, bedekt in struikgewas.
 > Wijze raadgever, Zeus en Persephone baarden jou, op een geheim bed, onsterfelijke daimon;
-> Hoor welwillend mijn stem! Schenk mij de milde inspiratie, wees vriendelijk en vervul mijn verlangen met de hulp van uw vrome verzorgsters![^5]
+> Hoor welwillend mijn stem! Schenk mij de milde inspiratie, wees vriendelijk en vervul mijn verlangen met de hulp van uw vrome verzorgsters![^10]
 
 
-De Thiasos kon zo tot waanzin gedreven raken onder de geestdriften jegens de god, dat er doden bij vielen. In zijn theaterstuk *Bakchai* (Βάκχαι) toont Euripides ons in een belangrijke scène zelfs hoe de koning van Thebe, Pentheus, in de extase die de progressie van Dionysus vergezelde door zijn eigen moeder in stukken gereten wordt. Pentheus had echter de verering van Dionysus niet toegelaten in zijn stad, en het was op deze wijze dat Dionysus zich wreekte.
+De Thiasos kon zo tot waanzin gedreven raken onder de geestdriften jegens de god, dat er doden bij vielen. In zijn theaterstuk *Bakchai* (*Βάκχαι*) toont Euripides ons in een belangrijke scène zelfs hoe de koning van Thebe, Pentheus, in de extase die de progressie van Dionysus vergezelde door zijn eigen moeder in stukken gereten wordt. Pentheus had echter de verering van Dionysus niet toegelaten in zijn stad, en het was op deze wijze dat Dionysus zich wreekte.
 
-Toch wordt de waanzinnigheid ook duidelijk gekaderd in Dionysus’ aspecten; de titels *Polygethes* (πολυγέθες), de vrolijke god, *Ploutodótis* (πλουτοδότης), de weldoener en *Auxitês* (Αυξιτης), schenker van weelde. Wederom een god met twee gezichten, wederom, tevens, is het hier Dionysus, net als zijn Oosterse evenknie Shiva, die verbonden is met materiële rijkdom. De extatische dans lijkt het gereedschap te zijn waarmee men iets belangrijks ontvangt, een gift van de god. Dit gebruik zien we overigens zelfs vandaag de dag nog terug in de dansen van de Dervish uit de Soefistische traditie binnen de islam.
+Toch wordt de waanzinnigheid ook duidelijk gekaderd in Dionysus’ aspecten; de titels *Polygethes* (*πολυγέθες*), de vrolijke god, *Ploutodótis* (*πλουτοδότης*), de weldoener en *Auxitês* (*Αυξιτης*), schenker van weelde. Wederom een god met twee gezichten, wederom, tevens, is het hier Dionysus, net als zijn Oosterse evenknie Shiva, die verbonden is met materiële rijkdom. De extatische dans lijkt het gereedschap te zijn waarmee men iets belangrijks ontvangt, een gift van de god. Dit gebruik zien we overigens zelfs vandaag de dag nog terug in de dansen van de Dervish uit de Soefistische traditie binnen de islam.
 
 ### Dionysus, de stervende en herrijzende god
 
-De extatische dans is in zekere zin een sterven dat plaatsvindt voordat je lichaam sterft. Men verzinkt in de waanzin, en Dionysos, *Sôtêrios* (Σωτηριος), De Hersteller (van waazin) brengt de in waanzin verlorene daarna weer terug. Deze herrijst als herboren uit de zinsverbijstering. De God heeft twee gezichten, en enkel wie beide gezichten kent ontvangt zijn giften; het herboren leven.
+De extatische dans is in zekere zin een sterven dat plaatsvindt voordat je lichaam sterft. Men verzinkt in de waanzin, en Dionysos, *Sôtêrios* (*Σωτηριος*), De Hersteller (van waazin) brengt de in waanzin verlorene daarna weer terug. Deze herrijst als herboren uit de zinsverbijstering. De God heeft twee gezichten, en enkel wie beide gezichten kent ontvangt zijn giften; het herboren leven.
 
-Velen zien Dionysus als een voorloper van de latere Christuscultus. Dionysus werd namelijk gezien als een bevrijder (Σαωτης, Saôtês) en vrijheidsbrenger (Ελευθερευς, Eleuthereus), en hij was een god die het domein van sterven en herrijzen domineerde. Laat dit nu exact de kern van het geloof rondom de Christus zijn.
+Velen zien Dionysus als een voorloper van de latere Christuscultus. Dionysus werd namelijk gezien als een bevrijder (*Σαωτης*, *Saôtês*) en vrijheidsbrenger (*Ελευθερευς*, *Eleuthereus*), en hij was een god die het domein van sterven en herrijzen domineerde. Laat dit nu exact de kern van het geloof rondom de Christus zijn.
 
 Hier ligt ook de relatie tussen Dionysus, vruchtbaarheid, het nieuw leven en de wijn. De wijnrank is als plant net zo onderhevig aan de cycli van de natuur als al het andere verbouwde voedsel. Maar de vruchten van de wijnrank zijn zaadjes die het goddelijke domein openbaren, in tegenstelling tot de graankorrel, of de olijf. Dit goddelijke potentieel van wijn is zo sterk dat het ook nog voortleeft in het Christendom; bij de Communie of het heilig avondmaal staat immers niet voor niets de wijn centraal. De katholieken hangen hierin zelfs de transsubstantiatieleer aan, waarin wijn en brood *werkelijk* tot bloed en lichaam van de Christus worden.
 
@@ -256,7 +248,7 @@ Wodan-Odin is al vaker in verband gebracht met Sinterklaas. Ik ben niet de eerst
 
 ### Wodan als Hemelvader en Brenger van Giften
 
-Wodan is *Aldafaðr*, de vader van alles, en *Ít-rekr*, de Glorieuze Heerser. Hij is *Fjǫlnir*, de Ene van vele vormen, een titel die hij deelt met Rudra, bij wie deze *Pururūpa* (पुरुरूप) luidt. Wodan is *Foldardróttinn*, Heer van de Aarde, weer een titel die hij deelt met zowel Rudra als Dionysus, en Hades als aspect van Zeus Triophthalmus.
+Wodan is *Aldafaðr*, de vader van alles, en *Ít-rekr*, de Glorieuze Heerser. Hij is *Fjǫlnir*, de Ene van vele vormen, een titel die hij deelt met Rudra, bij wie deze *Pururūpa* (*पुरुरूप*) luidt. Wodan is *Foldardróttinn*, Heer van de Aarde, weer een titel die hij deelt met zowel Rudra als Dionysus, en Hades als aspect van Zeus Triophthalmus.
 
 Hij is Hárr, Jafnhárr en Þriði, Hoog, Evenhoog en Derde. Ook hier zien we die drie-eenheid terug, die we reeds bij onze Griekse Zeus tegenkwamen.
 
@@ -268,15 +260,15 @@ Wodan als Hemelvader acht ik nu redelijk duidelijk te hebben geschetst, maar zij
 
 ### Wodan als Leraar
 
-Wodan was ook de god van de Seiðr. Seiðr is een term voor de sjamanistische en magische tradities van het oude Noorden. Deze praxis genoot een zeker aanzien, maar het bracht ook een zeker stigma met zich mee.
+Wodan was ook de god van de *Seiðr*. *Seiðr* is een term voor de sjamanistische en magische tradities van het oude Noorden. Deze praxis genoot een zeker aanzien, maar het bracht ook een zeker stigma met zich mee.
 
 Mannen die zich namelijk aan deze magie waagden, werden gezien als ergi, een woord dat onmannelijkheid aanduidt. In de huidige tijd wellicht vergelijkbaar met ‘mietje’, of wellicht zelfs ‘flikker’. Het was niet het terrein waar een goede viking-huisvader werd geacht zich op te begeven. Het is niettemin moeilijk te zeggen of dit domein enkel voor vrouwen bestemd was.
 
-Dit is het terrein waar Wodan domineerde, hier was hij *Gagnráðr*, de Voordelige Raadgever, *Hroptatýr*, de Wijze God en *Sviðurr*, de Wijze. Als Seiðr-god is Wodan *Sanngetall*, de Waarheidsvinder en *Hleifruðr*, de Wegvinder. Hij is degene die Weet (met hoofdletter W) en aan wiens kennis men met Seiðr kan deelgenoot kan worden.
+Dit is het terrein waar Wodan domineerde, hier was hij *Gagnráðr*, de Voordelige Raadgever, *Hroptatýr*, de Wijze God en *Sviðurr*, de Wijze. Als *Seiðr*-god is Wodan *Sanngetall*, de Waarheidsvinder en *Hleifruðr*, de Wegvinder. Hij is degene die Weet (met hoofdletter W) en aan wiens kennis men met Seiðr kan deelgenoot kan worden.
 
 In onze tijd relateren wij zulke kennis aan boeken, wij slaan hierin middels het schrift op wat wij weten. En heeft niet Sinterklaas een Groot Boek waar in staat of een kind zoet of stout is geweest, en wordt niet in dit boek alle kennis van de goedheiligman over alle kindjes bewaard? Binnen een orale traditie, bestaan er geen boeken en ligt dit soort kennis besloten in de liederen. Wodan is daarom *Galdrafǫðr*, de Liederenvader, een zeer belangrijke titel in een tijd van orale tradities. Hij die de liederen kende, had de kennis. Dat is in zekere zin vergelijkbaar met iemand die vandaag de dag toegang tot het internet zou hebben, terwijl niemand anders dat heeft.
 
-Wodan was de bewaker van de Mede van Poëzie, Óðrœrir, die hij stal van de reuzen zoals verteld in het gedicht *Skáldskaparmál*. De wortel Óðr- ligt ook onder de naam Odin, en betekent zoveel als goddelijke inspiratie. Wederom zien we de Hemelvader in verband gebracht met een middel dat tot groots inzicht kan leiden. Poëzie verwijst natuurlijk de liederen die binnen een orale traditie het vat zijn, waarin de kennis van de cultuur bewaart wordt. Wodan ontworstelde deze mede uit de handen van drie reuzen, door zich te vermommen als Bǫlverkr, de Kwaadwerker. Wodan dronk alle mede op, veranderde zich in een adelaar en ging met zijn buik vol mede op de vlucht.
+Wodan was de bewaker van de Mede van Poëzie, Óðrœrir, die hij stal van de reuzen zoals verteld in het gedicht *Skáldskaparmál*. De wortel *Óðr*- ligt ook onder de naam Odin, en betekent zoveel als goddelijke inspiratie. Wederom zien we de Hemelvader in verband gebracht met een middel dat tot groots inzicht kan leiden. Poëzie verwijst natuurlijk de liederen die binnen een orale traditie het vat zijn, waarin de kennis van de cultuur bewaart wordt. Wodan ontworstelde deze mede uit de handen van drie reuzen, door zich te vermommen als *Bǫlverkr*, de Kwaadwerker. Wodan dronk alle mede op, veranderde zich in een adelaar en ging met zijn buik vol mede op de vlucht.
 
 In zijn vlucht voor de reuzen verloor Wodan een klein beetje van de mede uit zijn anus. Dit deel (*Skáldfífla hlutr*, het aandeel van de rijmelaar) viel op aarde, en kan door de mensen ingenomen worden om poëzie te beoefenen. Voor de echte meesters van de liederen brengt Wodan echter de mede langs die hij uit zijn mond opbraakte toen hij het terug naar Asgard bracht.
 
@@ -346,11 +338,11 @@ De Harlekijn, in zijn opvallend vrolijke pakje met zijn zwarte masker roept gema
 
 De Hemelvader heeft twee gezichten. Hij is enerzijds de brenger van giften en anderzijds de god die de deugden weegt. Voor demonen, priesters van de duivel en de mensen die hun plannen in hun gedrag uitvoeren komt de Hemelvader als een afschrikwekkende godheid om de orde te verdedigen en de chaos te bestraffen.
 
-Zodra het gebruik gekerstend werd, viel het afschrikwekkende aspect de duivel ten deel, en werd de Hemelvader in twee verschillende figuren gesplitst. Door heel Europa zie je dat in de Sinterklaas- en Kerstgebruiken. Tegenover Sinterklaas, staat de Zwarte Piet, de Krampus of de Percht. Tegenover Father Christmas stond de Lord of Misrule.[^6]
+Zodra het gebruik gekerstend werd, viel het afschrikwekkende aspect de duivel ten deel, en werd de Hemelvader in twee verschillende figuren gesplitst. Door heel Europa zie je dat in de Sinterklaas- en Kerstgebruiken. Tegenover Sinterklaas, staat de Zwarte Piet, de Krampus of de Percht. Tegenover Father Christmas stond de Lord of Misrule.[^11]
 
 Helaas hadden de generaties die ons voorgingen het niet zo op met een godheid die straft, of oordeelt of überhaupt iets doet wat niet past in de wereld na generatie ‘68. Zo zijn geleidelijk deze kwade, wilde aspecten uit de feesten verbannen.
 
-In de Amerikaanse Santa Claus is er geen duivelse *trickster* of menigte onhandelbare figuren meer aanwezig.[^7]  In dit precedent raakt ook het Nederlandse Sinterklaas-gebruik meegetrokken. Het moet mak worden—tam gemaakt.
+In de Amerikaanse Santa Claus is er geen duivelse *trickster* of menigte onhandelbare figuren meer aanwezig.[^12]  In dit precedent raakt ook het Nederlandse Sinterklaas-gebruik meegetrokken. Het moet mak worden—tam gemaakt.
 
 Het angstaanjagende aspect verdween, de woeste hemelvader werd zo een olijke kindervriend en de menigte extatische wezens veranderden in acrobaten die kinderen vermaken. De wijze Hemelvader is niet langer de kenner van de genezende liederen en de brenger van goddelijke nectar, maar is verworden tot een versufte, oude man die het eigenlijk ook allemaal niet meer zo goed weet, maar wel graag kadootjes geeft, ongeacht aan wie (want sinds de zeventiger jaren bestaan er geen “stoute kindjes” meer). Niet langer is hij daarom de Weger van Deugden, maar een welvarende, dementerende man met een gat in zijn hand.
 
@@ -370,17 +362,22 @@ Daarnaast verjoeg hij de kwade machten die aanwezig waren in de gemeenschap, en 
 
 Het is voor ons belangrijk om in het Sinterklaasfeest de perennialistische patronen te ontwaren, opdat wij het zo nieuw leven in kunnen blazen. Doordat we deze patronen namelijk niet langer erin ontwaren, is de vorm tot het enige belangrijke geworden. Enkel nu de vorm onder druk is komen te staan, zijn mensen opgestaan om de vorm te verdedigen, terwijl ze alle connectie met de onderliggende ziel van het gebruik uit het oog verloren zijn.
 
-Als we echter nog in contact hadden gestaan met de perennialistische wortels van het Sinterklaasfeest, was het veranderen van de vorm geen enkel probleem geweest. Zoals ik heb aangetoond, veranderde er nogal wat aan de vorm sinds Razende Rudra (als Shiva) uitreed met zijn Bhūtagaṇa. Wat wij herkennen als Sinterklaas is in zekere zin al een gecastreerde versie van oeroude patronen. Een vorm die salonfähig is gemaakt voor de smaak en gevoeligheden van de moderne burgerij, en daarmee de essentie al reeds lange tijd verloren is—ver vóór discussies over de vorm überhaupt op gang kwamen.
+Als we echter nog in contact hadden gestaan met de perennialistische wortels van het Sinterklaasfeest, was het veranderen van de vorm geen enkel probleem geweest. Zoals ik heb aangetoond, veranderde er nogal wat aan de vorm sinds Razende Rudra (als Shiva) uitreed met zijn *Bhūtagaṇa*. Wat wij herkennen als Sinterklaas is in zekere zin al een gecastreerde versie van oeroude patronen. Een vorm die salonfähig is gemaakt voor de smaak en gevoeligheden van de moderne burgerij, en daarmee de essentie al reeds lange tijd verloren is—ver vóór discussies over de vorm überhaupt op gang kwamen.
 
-Nu we aan het begin van een vormverandering staan, wellicht is het slim om van dit *kairos*[^8] gebruik te maken en het gebruik weer in contact te brengen met zijn wortels, om het nieuw leven in te blazen en het uit de klauwen van de zielloze consumptiemaatschappij te redden. Geef het Sinterklaasfeest zijn Yggr/Bhairava energie terug, en de Bhūtagaṇa rijdt weer uit. Laat de vorm van de Bhūta los, en kijk naar de vele vormen van geesten, duivels en andersoortige randfiguren die achter de verschillende manifestaties van de Hemelvader aantrekken. Vier het feest omwille van zijn essentie, niet om de vorm.
+Nu we aan het begin van een vormverandering staan, wellicht is het slim om van dit *kairos*[^14] gebruik te maken en het gebruik weer in contact te brengen met zijn wortels, om het nieuw leven in te blazen en het uit de klauwen van de zielloze consumptiemaatschappij te redden. Geef het Sinterklaasfeest zijn Yggr/Bhairava energie terug, en de Bhūtagaṇa rijdt weer uit. Laat de vorm van de Bhūta los, en kijk naar de vele vormen van geesten, duivels en andersoortige randfiguren die achter de verschillende manifestaties van de Hemelvader aantrekken. Vier het feest omwille van zijn essentie, niet om de vorm.
 
 [^1]: Aldus is ook het woord “inspiratie” afgeleid van het Latijnse “spiritus” (geest/adem).
 [﻿^2]: Σ*χόλιον Πρόκλου επί Κρατύλου Πλάτωνος (Commentaar van Proklós op Plato's Cratylus).* Het citaat, in de vertaling van Thomas Taylor luidt: *"He (Olympian Zefs) is also the summit of the three, has the same name with the fontal (he who is the source) Jupiter (Ζεύς), is united to him, and is monadically called Jupiter. But the second is called dyadically, marine Jupiter and Neptune (Ποσειδῶν). And the third is triadically denominated, terrestrial Jupiter, Pluto (Πλούτων) and Hades (Ἅιδης). The first of these also preserves, fabricates, and vivifies summits, but the second, things of a second rank, and the third those of a third order. Hence this last is said to have ravished Proserpine (Περσεφόνη), that together with her he might animate the extremities of the universe."*
 [^3]: *“The reason for its three eyes (ed. a statue of Zefs originally from Troy) one might infer to be this. That Zeus is king in heaven is a saying common to all men. As for him who is said to rule under the earth, there is a verse of Homer which calls him, too, Zeus:‘Zeus of the Underworld, and the august Persephonea.’ (Ἰλιὰς Ὁμήρου 2.9.457)
 The God in the sea, also, is called Zeus by Aeschylus, the son of Euphorion. So whoever made the image made it with three eyes, as signifying that this same God rules in all the three “allotments” of the Universe, as they are called.” (trans. W. H. S. Jones, 1918)*
-[^4]: Rigveda, Maṇḍala 2, Sūkta 1, Ṛc 6.
-[^4]: Een Sadhu of Sadhoe is een asceet in het Hindoeïsme. Deze wijdt zich aan het bereiken van geestelijke bevrijding, door meditatie en onthouding.
-[^5]: Orfische Hymne 30. Διονύσου, θυμίαμα, στύρακα.
-[^6]: Een oud gebruik in Europa rond de kersttijd waarbij iemand werd aangewezen als verantwoordelijke voor de feestelijkheden, specifiek degene waarbij veel drank en onbeteugeldheid kwam kijken.
-[^7]: Wel is het interessant te benoemen dat Santa Claus daarentegen een element van de Erlkönig overneemt, daar hij elfjes als gevolg heeft. Helaas is dit slechts een cosmetische terugval, deze elfjes zijn hoogstens *impish*, nooit echter zijn zij op wat voor wijze ook chaotisch of waanzinnig.
-[^8]: Kairos duidt een moment aan, maar met de specifieke lading dat hier sprake is van een scharnierpunt in de tijd. Een belangrijk keuzemoment. Een opportuun moment waarop iets wat eerst onmogelijk was, nu mogelijk wordt.
+[^4]: *Rigveda*, *Maṇḍala* 2, *Sūkta* 1, *Ṛc* 6.
+[^5]: *Rigveda*, *Maṇḍala* 2, *Sūkta* 33, *Ṛc* 9.
+[^6]: *Rigveda*, *Maṇḍala* 2, *Sūkta* 33, *Ṛc* 10.
+[^7]: *Rigveda*, *Maṇḍala* 8, *Sūkta* 20, *Ṛc* 17.
+[^8]: *Rigveda*, *Maṇḍala* 7, *Sūkta* 59, *Ṛc* 12.
+[^9]: *Rigveda*, *Maṇḍala* 10, *Sūkta* 92, *Ṛc* 9.
+[^10]: Een Sadhu of Sadhoe is een asceet in het Hindoeïsme. Deze wijdt zich aan het bereiken van geestelijke bevrijding, door meditatie en onthouding.
+[^11]: Orfische Hymne 30. Διονύσου, θυμίαμα, στύρακα.
+[^12]: Een oud gebruik in Europa rond de kersttijd waarbij iemand werd aangewezen als verantwoordelijke voor de feestelijkheden, specifiek degene waarbij veel drank en onbeteugeldheid kwam kijken.
+[^13]: Wel is het interessant te benoemen dat Santa Claus daarentegen een element van de Erlkönig overneemt, daar hij elfjes als gevolg heeft. Helaas is dit slechts een cosmetische terugval, deze elfjes zijn hoogstens *impish*, nooit echter zijn zij op wat voor wijze ook chaotisch of waanzinnig.
+[^14]: Kairos duidt een moment aan, maar met de specifieke lading dat hier sprake is van een scharnierpunt in de tijd. Een belangrijk keuzemoment. Een opportuun moment waarop iets wat eerst onmogelijk was, nu mogelijk wordt.
