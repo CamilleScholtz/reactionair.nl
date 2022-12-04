@@ -14,7 +14,7 @@ anchor = "Smart"
 
 Was jij als kind bang voor de Sint? Wellicht dat je in deze jeugdige jaren, toen de hedendaagse volwassenheid onze diepe connectie tot onze bron nog niet had afgestompt, iets realiseerde middels jouw bloedgeheugen: dat je in feite de Indo-Europese Hemelvader in de ogen staarde.
 
-Want hoewel dit wellicht een vreemd idee kan lijken—ik hoor je denken: Sint Nicolaas is toch een *katholieke* heilige? Een kerk die niets met de heidense meergoderij heeft?—zal ik je tonen dat Sinterklaas een van de laatst levende restanten van de Indo-Europese Hemelvader Dyáuṣ Pitṛ́ is, wiens naam ons wellicht beter bekend is in de vorm ‘Jupiter’.
+Want hoewel dit wellicht een vreemd idee kan lijken—ik hoor je denken: Sint Nicolaas is toch een *katholieke* heilige? Een kerk die niets met de heidense meergoderij heeft?—zal ik je tonen dat Sinterklaas een van de laatst levende restanten van de Indo-Europese Hemelvader *Dyáuṣ Pitṛ́* is, wiens naam ons wellicht beter bekend is in de vorm ‘Jupiter’.
 
 Sinterklaas is zo een levende uiting van één van de meest perennialistische patronen waarvan de wortel dieper terug loopt in de tijd dan de Abrahamitische tradities. Het is eenvoudig vast te stellen dat de Sinterklaasgebruiken vandaag de dag geen basis hebben in de Bijbel, noch in de tradities uit de Levant. De vorm van het Sinterklaasfeest is duidelijk van buiten die tradities geassimileerd. Wel zien we verschillende gebruiken en tradities uit het Indo-Europese gebied die sterke overeenkomsten vertonen met hoe wij Sinterklaas vieren.
 
@@ -85,39 +85,46 @@ Een beetje een vreemde oppergod, zeg je? Dat valt mee. Onthoud: het soort theïs
 
 De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend als de Hemelvader. De vertalingen komen uit *The Rigveda: The Earliest Religious Poetry of India, door Stephanie W. Jamison en Joel P. Brereton.*
 
-> *तवमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पर्क्ष ईशिषे*\
-> *तवं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु तमना*\
+> *तवमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पर्क्ष ईशिषे*
+> *तवं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु तमना*
 > 
-> *tvamaghne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe*\
-> *tvaṃ vātairaruṇairyāsi śaṃghayastvaṃ pūṣā vidhataḥ pāsi nu tmanā*\
+> *tvamaghne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe*
+> *tvaṃ vātairaruṇairyāsi śaṃghayastvaṃ pūṣā vidhataḥ pāsi nu tmanā*
 > 
-> You, Agni, as *lord of great heaven*, are Rudra;\
+> You, Agni, as *lord of great heaven*, are Rudra;
 > you, as the troop of Maruts, are master of strengthening nourishment[^4]
 
 *Divastvaṃ* betekent ‘hij die (van) de hemel is’.
 
-> **सथिरेभिरङगैः पुरुरूप उग्रो बभ्रुः शुक्रेभिः पिपिशेहिरण्यैः |**
-> **ईशानादस्य भुवनस्य भूरेर्न वा उ योषद रुद्रादसुर्यम ||***sthirebhiraṅghaiḥ pururūpa ughro babhruḥ śukrebhiḥ pipiśehiraṇyaiḥ |īśānādasya bhuvanasya bhūrerna vā u yoṣad rudrādasuryam ||*
+> सथिरेभिरङगैः पुरुरूप उग्रो बभ्रुः शुक्रेभिः पिपिशेहिरण्यैः
+> ईशानादस्य भुवनस्य भूरेर्न वा उ योषद रुद्रादसुर्यम
+>
+> *sthirebhiraṅghaiḥ pururūpa ughro babhruḥ śukrebhiḥ pipiśehiraṇyaiḥ
+> *īśānādasya bhuvanasya bhūrerna vā u yoṣad rudrādasuryam*
+> 
 > With sturdy limbs, the mighty red-brown one of many forms has adorned himself with gleaming golden (ornaments).                                                             
 > From Rudra, who is* master over the abundant living world*, lordly power will surely not be distant.
 
 > **Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 9**
 >
-> **
-> अर्हन बिभर्षि सायकानि धन्वार्हन निष्कं यजतं विश्वरूपम |**
-> **अर्हन्निदं दयसे विश्वमभ्वं न वा ओजीयो रुद्र तवदस्ति ||**
-> *arhan bibharṣi sāyakāni dhanvārhan niṣkaṃ yajataṃ viśvarūpam |*
-> *arhannidaṃ dayase viśvamabhvaṃ na vā ojīyo rudra tvadasti ||*
+> *अर्हन बिभर्षि सायकानि धन्वार्हन निष्कं यजतं विश्वरूपम*
+> *अर्हन्निदं दयसे विश्वमभ्वं न वा ओजीयो रुद्र तवदस्ति*
+>
+> *arhan bibharṣi sāyakāni dhanvārhan niṣkaṃ yajataṃ viśvarūpam*
+> *arhannidaṃ dayase viśvamabhvaṃ na vā ojīyo rudra tvadasti*
+>
 > Worthily you bear the arrows and the bow and *worthily the sacrificial neck ornament of all forms*.
 > Worthily you *parcel out the whole formless void*. Surely there exists *nothing more powerful than you*, Rudra.
 > **Rigveda,** **Maṇḍala 2, Sūkta 33, Ṛc 10**
 
-De titel *viśvarūpam (*विश्वरूपम) is een titel die ‘Vorm van (het) Alles’ betekent.
+De titel *viśvarūpam* (*विश्वरूपम*) is een titel die ‘Vorm van (het) Alles’ betekent.
 
-> **यथा रुद्रस्य सूनवो दिवो वशन्त्यसुरस्य वेधसः |**
-> **युवानस्तथेदसत ||**
-> *yathā rudrasya sūnavo divo vaśantyasurasya vedhasaḥ |*
-> *yuvānastathedasat ||*
+> *यथा रुद्रस्य सूनवो दिवो वशन्त्यसुरस्य वेधसः*
+> *युवानस्तथेदसत*
+> 
+> *yathā rudrasya sūnavo divo vaśantyasurasya vedhasaḥ*
+> *yuvānastathedasat*
+> 
 > Just as they wish, so shall it be—they,
 > the sons of Rudra \[the Maruts], *lord of heaven*, the ritual adepts, the youths
 >
@@ -127,20 +134,24 @@ De titel *viśvarūpam (*विश्वरूपम) is een titel die ‘Vorm v
 
 De volgende strofe biedt een inkijkje in een belangrijkste aspect van Rudra: een kwade godheid voor wie zelfs de Dood bang is. Deze strofe is ook wel bekend als de *Mahamrityunjaya* *Mantra*, de grote mantra die de dood verslaat. Tevens is Rudra welriekend, en vergroot hij welvaart. De titel *Tryambaka* (*त्र्यम्बक*) betekent drie-ogige, en is als woord direct verbonden aan *Zeus Triophthalmus*.
 
-> **तर्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम |**
-> **उर्वारुकमिवबन्धनान मर्त्योर्मुक्षीय माम्र्तात |**
-> *tryambakaṃ yajāmahe sughandhiṃ puṣṭivardhanam |*
-> *urvārukamivabandhanān mṛtyormukṣīya māmṛtāt ||*
+> *तर्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम*
+> *उर्वारुकमिवबन्धनान मर्त्योर्मुक्षीय माम्र्तात*
+> 
+> *tryambakaṃ yajāmahe sughandhiṃ puṣṭivardhanam*
+> *urvārukamivabandhanān mṛtyormukṣīya māmṛtāt*
+>
 > We sacrifice to Tryambaka the fragrant, increaser of prosperity.
 > Like a cucumber from its stem, might I be freed from death, not from deathlessness.
 > **Rigveda,** **Maṇḍala 7, Sūkta 59, Ṛc 12**
 
 Ook de volgende strofe is belangrijk, want hierin wordt Rudra geïdentificeerd als Shiva. Shiva is dus een titel van Rudra en betekent ‘de Voorspoedige’. Dit wordt later belangrijk, als we op de duale vorm van de Hemelvader komen.
 
-> **सतोमं वो अद्य रुद्राय शिक्वसे कषयद्वीराय नमसादिदिष्टन |**
-> **येभिः शिवः सववानेवयावभिर्दिवःसिषक्ति सवयशा निकामभिः ||**
-> *stomaṃ vo adya rudrāya śikvase kṣayadvīrāya namasādidiṣṭana |*
-> *yebhiḥ śivaḥ svavānevayāvabhirdivaḥsiṣakti svayaśā nikāmabhiḥ ||*
+> सतोमं वो अद्य रुद्राय शिक्वसे कषयद्वीराय नमसादिदिष्टन*
+> येभिः शिवः सववानेवयावभिर्दिवःसिषक्ति सवयशा निकामभि*
+>
+> *stomaṃ vo adya rudrāya śikvase kṣayadvīrāya namasādidiṣṭana*
+> *yebhiḥ śivaḥ svavānevayāvabhirdivaḥsiṣakti svayaśā nikāmabhiḥ*
+> 
 > With reverence show forth your praise today to Rudra the skillful, who rules over heroes,
 > (and to those \[=Maruts]) with whom he, the well-disposed, very helpful, self-glorious one, keeps company—with those of heaven who travel their ways, the avid ones.
 > **Rigveda,** **Maṇḍala 10, Sūkta 92, Ṛc 9**
@@ -149,7 +160,7 @@ Rudra is de Vedische Hemelvader, een angstaanjagende stormgod. Vader van de Maru
 
 Maṇḍala 8, Sūkta 20, gericht aan deze Maruts, toont ons een ander aspect van hun vader Rudra. De Maruts in de Sūkta worden gevraagd om genezing. De strofen roepen de Maruts aan om het medicijn van hun vader te brengen.
 
-Hier wordt Rudra omgetoverd tot *Vaidyanātha* (वैद्यनाथ), de Heer van de Geneesheren. Genezer van mensen en verjager van ziekte en de dood. Twee lofzangen uit de Rigveda roepen Rudra (verhuld) aan, met de titel *Bṛhaspati* (बृहस्पति), Heer van de Gebeden, en de personificatie van de planeet Jupiter in Rigveda M10.S97, en *Savitṛ* (सवितृ, de Ontwaker, en een titel van Surya, de zon) in Rigveda M10.S161.
+Hier wordt Rudra omgetoverd tot *Vaidyanātha* (*वैद्यनाथ*), de Heer van de Geneesheren. Genezer van mensen en verjager van ziekte en de dood. Twee lofzangen uit de Rigveda roepen Rudra (verhuld) aan, met de titel *Bṛhaspati* (बृहस्पति), Heer van de Gebeden, en de personificatie van de planeet Jupiter in Rigveda M10.S97, en *Savitṛ* (सवितृ, de Ontwaker, en een titel van Surya, de zon) in Rigveda M10.S161.
 
 Maar Rudra’s onstuimige razernij is niet het enige masker van de vedische Hemelvader. Er is ook het masker Shiva.
 
