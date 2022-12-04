@@ -26,11 +26,11 @@ Ook zal ik de jeugdige nostalgie, de hang naar het “gezellige kinderfeest” n
 
 ### De Hemelvader is één, hij heeft vele maskers
 
-Wie is is Dyáuṣ Pitṛ́? Allereerst een etymologische achtergrond: Dyáuṣ komt van *dyú*, dat ‘hemel’ betekent, en Pitṛ́ betekent ‘vader’. Dyáuṣ is specifiek de hemel bij daglicht, en connoteert met de zon, het licht en de dag.
+Wie is is *Dyáuṣ Pitṛ́*? Allereerst een etymologische achtergrond: *Dyáuṣ* komt van *dyú*, dat ‘hemel’ betekent, en *Pitṛ́* betekent ‘vader’. *Dyáuṣ* is specifiek de hemel bij daglicht, en connoteert met de zon, het licht en de dag.
 
-Ons woord ‘dag’ gaat terug op dezelfde wortel als Dyáuṣ, en ook aan de Latijnse woorden *dies* (dag) en *Deus* (God) en de Engelse woorden *divine* (hemels) en *dawn* (dageraad) ligt dezelfde wortel ten grondslag.
+Ons woord ‘dag’ gaat terug op dezelfde wortel als *Dyáuṣ*, en ook aan de Latijnse woorden *dies* (dag) en *Deus* (God) en de Engelse woorden *divine* (hemels) en *dawn* (dageraad) ligt dezelfde wortel ten grondslag.
 
-Toch lijkt deze naam een titel te zijn, want er is geen bewijs van een gepraktiseerde cultus van Dyáuṣ Pitṛ́ gevonden, en daarbij wordt hij maar vier keer bij naam genoemd in de oudste Indo-Europese collectie van lofzangen; de *Rigveda*.
+Toch lijkt deze naam een titel te zijn, want er is geen bewijs van een gepraktiseerde cultus van *Dyáuṣ Pitṛ́* gevonden, en daarbij wordt hij maar vier keer bij naam genoemd in de oudste Indo-Europese collectie van lofzangen; de *Rigveda*.
 
 Wie was deze god, waar komt hij vandaan en op welke manier werd hij aanbeden? 
 
@@ -77,21 +77,22 @@ Hierna zullen we afreizen naar Noord-West Europa, waar de Sinterklaasgebruiken b
 
 ### Razende Rudra Shiva uit de Veda’s
 
-De meest directe link met Dyáuṣ Pitṛ́ is de Vedisch god Rudra. Rudra is een godheid uit de Vedische geschriften, waar ook Dyáuṣ Pitṛ́ wordt genoemd. Rudra is een razende godheid, een kwade stormgod. Zijn naam zou teruggaan op ‘De Brullende’.
+De meest directe link met *Dyáuṣ Pitṛ́* is de Vedisch god Rudra. Rudra is een godheid uit de Vedische geschriften, waar ook *Dyáuṣ Pitṛ́ *wordt genoemd. Rudra is een razende godheid, een kwade stormgod. Zijn naam zou teruggaan op ‘De Brullende’.
 
-Een beetje een vreemde oppergod, zeg je? Dat valt mee. Onthoud: het soort theïsme uit onze tijd was de vroegere culturen grotendeels vreemd. Ik zal je laten zien waarom Rudra de beste kanshebber is voor de titel Dyáuṣ Pitṛ́.
+Een beetje een vreemde oppergod, zeg je? Dat valt mee. Onthoud: het soort theïsme uit onze tijd was de vroegere culturen grotendeels vreemd. Ik zal je laten zien waarom Rudra de beste kanshebber is voor de titel *Dyáuṣ Pitṛ́*.
 
 ### Rudra de Hemelvader
 
 De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend als de Hemelvader. De vertalingen komen uit *The Rigveda: The Earliest Religious Poetry of India, door Stephanie W. Jamison en Joel P. Brereton.*
 
-> **तवमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पर्क्ष ईशिषे |**
-> **तवं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु तमना ||**
-> *tvamaghne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe |*
-> *tvaṃ vātairaruṇairyāsi śaṃghayastvaṃ pūṣā vidhataḥ pāsi nu tmanā ||*
-> You, Agni, as *lord of great heaven*, are Rudra;
-> you, as the troop of Maruts, are master of strengthening nourishment
-> **Rigveda, Maṇḍala 2, Sūkta 1, Ṛc 6**
+> *तवमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पर्क्ष ईशिषे*\
+> *तवं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु तमना*\
+> 
+> *tvamaghne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe*\
+> *tvaṃ vātairaruṇairyāsi śaṃghayastvaṃ pūṣā vidhataḥ pāsi nu tmanā*\
+> 
+> You, Agni, as *lord of great heaven*, are Rudra;\
+> you, as the troop of Maruts, are master of strengthening nourishment[^4]
 
 *Divastvaṃ* betekent ‘hij die (van) de hemel is’.
 
@@ -218,7 +219,7 @@ De Orfische hymne gericht aan Dionysus noemt Dionysus expliciet de zoon van Zeus
 > 
 > Ik roep Dionysus aan, de luidbrullende, die de kreet van extase (εὐαί!) uitschreeuwt, de eerstgeborene, hij die een duale natuur heeft, de driemaal-geborene, de koning van de Bacchische rite, de wilde, ondoorgrondelijk en verborgen, tweehoorning, tweevorming. Bedekt in wijnranken, met het gezicht van de stier, strijdvaardig, joelend, heilig, die zichzelf offert, van het drie-jaarlijkse feest, overhangen met druiven, bedekt in struikgewas.
 > Wijze raadgever, Zeus en Persephone baarden jou, op een geheim bed, onsterfelijke daimon;
-> Hoor welwillend mijn stem! Schenk mij de milde inspiratie, wees vriendelijk en vervul mijn verlangen met de hulp van uw vrome verzorgsters![^4]
+> Hoor welwillend mijn stem! Schenk mij de milde inspiratie, wees vriendelijk en vervul mijn verlangen met de hulp van uw vrome verzorgsters![^5]
 
 
 De Thiasos kon zo tot waanzin gedreven raken onder de geestdriften jegens de god, dat er doden bij vielen. In zijn theaterstuk *Bakchai* (Βάκχαι) toont Euripides ons in een belangrijke scène zelfs hoe de koning van Thebe, Pentheus, in de extase die de progressie van Dionysus vergezelde door zijn eigen moeder in stukken gereten wordt. Pentheus had echter de verering van Dionysus niet toegelaten in zijn stad, en het was op deze wijze dat Dionysus zich wreekte.
@@ -366,6 +367,7 @@ Nu we aan het begin van een vormverandering staan, wellicht is het slim om van d
 [﻿^2]: Σ*χόλιον Πρόκλου επί Κρατύλου Πλάτωνος (Commentaar van Proklós op Plato's Cratylus).* Het citaat, in de vertaling van Thomas Taylor luidt: *"He (Olympian Zefs) is also the summit of the three, has the same name with the fontal (he who is the source) Jupiter (Ζεύς), is united to him, and is monadically called Jupiter. But the second is called dyadically, marine Jupiter and Neptune (Ποσειδῶν). And the third is triadically denominated, terrestrial Jupiter, Pluto (Πλούτων) and Hades (Ἅιδης). The first of these also preserves, fabricates, and vivifies summits, but the second, things of a second rank, and the third those of a third order. Hence this last is said to have ravished Proserpine (Περσεφόνη), that together with her he might animate the extremities of the universe."*
 [^3]: *“The reason for its three eyes (ed. a statue of Zefs originally from Troy) one might infer to be this. That Zeus is king in heaven is a saying common to all men. As for him who is said to rule under the earth, there is a verse of Homer which calls him, too, Zeus:‘Zeus of the Underworld, and the august Persephonea.’ (Ἰλιὰς Ὁμήρου 2.9.457)
 The God in the sea, also, is called Zeus by Aeschylus, the son of Euphorion. So whoever made the image made it with three eyes, as signifying that this same God rules in all the three “allotments” of the Universe, as they are called.” (trans. W. H. S. Jones, 1918)*
+[^4]: Rigveda, Maṇḍala 2, Sūkta 1, Ṛc 6.
 [^4]: Een Sadhu of Sadhoe is een asceet in het Hindoeïsme. Deze wijdt zich aan het bereiken van geestelijke bevrijding, door meditatie en onthouding.
 [^5]: Orfische Hymne 30. Διονύσου, θυμίαμα, στύρακα.
 [^6]: Een oud gebruik in Europa rond de kersttijd waarbij iemand werd aangewezen als verantwoordelijke voor de feestelijkheden, specifiek degene waarbij veel drank en onbeteugeldheid kwam kijken.
