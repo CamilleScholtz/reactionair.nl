@@ -103,7 +103,7 @@ De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend
 > *īśānādasya bhuvanasya bhūrerna vā u yoṣad rudrādasuryam*
 > 
 > With sturdy limbs, the mighty red-brown one of many forms has adorned himself with gleaming golden (ornaments).                                                             
-> From Rudra, who is* master over the abundant living world*, lordly power will surely not be distant.[^5]
+> From Rudra, who is *master over the abundant living world*, lordly power will surely not be distant.[^5]
 
 > *अर्हन बिभर्षि सायकानि धन्वार्हन निष्कं यजतं विश्वरूपम*
 > *अर्हन्निदं दयसे विश्वमभ्वं न वा ओजीयो रुद्र तवदस्ति*
