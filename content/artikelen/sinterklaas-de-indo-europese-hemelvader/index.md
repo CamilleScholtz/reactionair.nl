@@ -112,7 +112,7 @@ De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend
 > *arhannidaṃ dayase viśvamabhvaṃ na vā ojīyo rudra tvadasti*
 >
 > Worthily you bear the arrows and the bow and *worthily the sacrificial neck ornament of all forms*.
-> Worthily you *parcel out the whole formless void*. Surely there exists *nothing more powerful than you*, Rudra.
+> Worthily you *parcel out the whole formless void*. Surely there exists *nothing more powerful than you*, Rudra.[^6]
 
 De titel *viśvarūpam* (*विश्वरूपम*) is een titel die ‘Vorm van (het) Alles’ betekent.
 
@@ -159,7 +159,7 @@ Maar Rudra’s onstuimige razernij is niet het enige masker van de vedische Heme
 
 ### Shiva, de Wijze Leraar
 
-Shiva. De Voorspoedige en Welwillende. De ultieme leraar van de mensen, schenker van wijsheid, van giften, van innerlijke rust en orde. Shiva is de Grote Yogi, het grote voorbeeld voor elke asceet. Shiva is een god die zich begeeft op de kerkhoven en die vertoeft in de grensgebieden van de bewoonde wereld. Hoewel hij in zijn vorm geassocieerd wordt met de sadhu[^4], zijn veel van zijn titels juist gericht op het brengen van materiële welvaart. *Shambhu* (*शंभू*), Schenker van wereldse welvaart; *Varada* (*वरद*), Schenker van Gunsten, *Dhanadeepa* *(धनदीप*), Heer van de Weelde, *Bhūdeva* (*भूदेव*), God van de Aarde—wat uiteraard ook verwijst naar de oogst, en de edelstenen en metalen die uit de diepten der aarde gewonnen kunnen worden.
+Shiva. De Voorspoedige en Welwillende. De ultieme leraar van de mensen, schenker van wijsheid, van giften, van innerlijke rust en orde. Shiva is de Grote Yogi, het grote voorbeeld voor elke asceet. Shiva is een god die zich begeeft op de kerkhoven en die vertoeft in de grensgebieden van de bewoonde wereld. Hoewel hij in zijn vorm geassocieerd wordt met de sadhu[^10], zijn veel van zijn titels juist gericht op het brengen van materiële welvaart. *Shambhu* (*शंभू*), Schenker van wereldse welvaart; *Varada* (*वरद*), Schenker van Gunsten, *Dhanadeepa* *(धनदीप*), Heer van de Weelde, *Bhūdeva* (*भूदेव*), God van de Aarde—wat uiteraard ook verwijst naar de oogst, en de edelstenen en metalen die uit de diepten der aarde gewonnen kunnen worden.
 
 Shiva is een wijze god. Als de Grote Yogi is hij *Guṇagrāhin* (*गुनाग्रहीन*), de Weger van de Deugden, zodat mensen die hem benaderen gezien worden als de beste versie van zichzelf.
 
@@ -222,7 +222,7 @@ De Orfische hymne gericht aan Dionysus noemt Dionysus expliciet de zoon van Zeus
 > 
 > Ik roep Dionysus aan, de luidbrullende, die de kreet van extase (*εὐαί!*) uitschreeuwt, de eerstgeborene, hij die een duale natuur heeft, de driemaal-geborene, de koning van de Bacchische rite, de wilde, ondoorgrondelijk en verborgen, tweehoorning, tweevorming. Bedekt in wijnranken, met het gezicht van de stier, strijdvaardig, joelend, heilig, die zichzelf offert, van het drie-jaarlijkse feest, overhangen met druiven, bedekt in struikgewas.
 > Wijze raadgever, Zeus en Persephone baarden jou, op een geheim bed, onsterfelijke daimon;
-> Hoor welwillend mijn stem! Schenk mij de milde inspiratie, wees vriendelijk en vervul mijn verlangen met de hulp van uw vrome verzorgsters![^10]
+> Hoor welwillend mijn stem! Schenk mij de milde inspiratie, wees vriendelijk en vervul mijn verlangen met de hulp van uw vrome verzorgsters![^11]
 
 
 De Thiasos kon zo tot waanzin gedreven raken onder de geestdriften jegens de god, dat er doden bij vielen. In zijn theaterstuk *Bakchai* (*Βάκχαι*) toont Euripides ons in een belangrijke scène zelfs hoe de koning van Thebe, Pentheus, in de extase die de progressie van Dionysus vergezelde door zijn eigen moeder in stukken gereten wordt. Pentheus had echter de verering van Dionysus niet toegelaten in zijn stad, en het was op deze wijze dat Dionysus zich wreekte.
@@ -338,11 +338,11 @@ De Harlekijn, in zijn opvallend vrolijke pakje met zijn zwarte masker roept gema
 
 De Hemelvader heeft twee gezichten. Hij is enerzijds de brenger van giften en anderzijds de god die de deugden weegt. Voor demonen, priesters van de duivel en de mensen die hun plannen in hun gedrag uitvoeren komt de Hemelvader als een afschrikwekkende godheid om de orde te verdedigen en de chaos te bestraffen.
 
-Zodra het gebruik gekerstend werd, viel het afschrikwekkende aspect de duivel ten deel, en werd de Hemelvader in twee verschillende figuren gesplitst. Door heel Europa zie je dat in de Sinterklaas- en Kerstgebruiken. Tegenover Sinterklaas, staat de Zwarte Piet, de Krampus of de Percht. Tegenover Father Christmas stond de Lord of Misrule.[^11]
+Zodra het gebruik gekerstend werd, viel het afschrikwekkende aspect de duivel ten deel, en werd de Hemelvader in twee verschillende figuren gesplitst. Door heel Europa zie je dat in de Sinterklaas- en Kerstgebruiken. Tegenover Sinterklaas, staat de Zwarte Piet, de Krampus of de Percht. Tegenover Father Christmas stond de Lord of Misrule.[^12]
 
 Helaas hadden de generaties die ons voorgingen het niet zo op met een godheid die straft, of oordeelt of überhaupt iets doet wat niet past in de wereld na generatie ‘68. Zo zijn geleidelijk deze kwade, wilde aspecten uit de feesten verbannen.
 
-In de Amerikaanse Santa Claus is er geen duivelse *trickster* of menigte onhandelbare figuren meer aanwezig.[^12]  In dit precedent raakt ook het Nederlandse Sinterklaas-gebruik meegetrokken. Het moet mak worden—tam gemaakt.
+In de Amerikaanse Santa Claus is er geen duivelse *trickster* of menigte onhandelbare figuren meer aanwezig.[^13]  In dit precedent raakt ook het Nederlandse Sinterklaas-gebruik meegetrokken. Het moet mak worden—tam gemaakt.
 
 Het angstaanjagende aspect verdween, de woeste hemelvader werd zo een olijke kindervriend en de menigte extatische wezens veranderden in acrobaten die kinderen vermaken. De wijze Hemelvader is niet langer de kenner van de genezende liederen en de brenger van goddelijke nectar, maar is verworden tot een versufte, oude man die het eigenlijk ook allemaal niet meer zo goed weet, maar wel graag kadootjes geeft, ongeacht aan wie (want sinds de zeventiger jaren bestaan er geen “stoute kindjes” meer). Niet langer is hij daarom de Weger van Deugden, maar een welvarende, dementerende man met een gat in zijn hand.
 
@@ -367,9 +367,8 @@ Als we echter nog in contact hadden gestaan met de perennialistische wortels van
 Nu we aan het begin van een vormverandering staan, wellicht is het slim om van dit *kairos*[^14] gebruik te maken en het gebruik weer in contact te brengen met zijn wortels, om het nieuw leven in te blazen en het uit de klauwen van de zielloze consumptiemaatschappij te redden. Geef het Sinterklaasfeest zijn Yggr/Bhairava energie terug, en de Bhūtagaṇa rijdt weer uit. Laat de vorm van de Bhūta los, en kijk naar de vele vormen van geesten, duivels en andersoortige randfiguren die achter de verschillende manifestaties van de Hemelvader aantrekken. Vier het feest omwille van zijn essentie, niet om de vorm.
 
 [^1]: Aldus is ook het woord “inspiratie” afgeleid van het Latijnse “spiritus” (geest/adem).
-[﻿^2]: Σ*χόλιον Πρόκλου επί Κρατύλου Πλάτωνος (Commentaar van Proklós op Plato's Cratylus).* Het citaat, in de vertaling van Thomas Taylor luidt: *"He (Olympian Zefs) is also the summit of the three, has the same name with the fontal (he who is the source) Jupiter (Ζεύς), is united to him, and is monadically called Jupiter. But the second is called dyadically, marine Jupiter and Neptune (Ποσειδῶν). And the third is triadically denominated, terrestrial Jupiter, Pluto (Πλούτων) and Hades (Ἅιδης). The first of these also preserves, fabricates, and vivifies summits, but the second, things of a second rank, and the third those of a third order. Hence this last is said to have ravished Proserpine (Περσεφόνη), that together with her he might animate the extremities of the universe."*
-[^3]: *“The reason for its three eyes (ed. a statue of Zefs originally from Troy) one might infer to be this. That Zeus is king in heaven is a saying common to all men. As for him who is said to rule under the earth, there is a verse of Homer which calls him, too, Zeus:‘Zeus of the Underworld, and the august Persephonea.’ (Ἰλιὰς Ὁμήρου 2.9.457)
-The God in the sea, also, is called Zeus by Aeschylus, the son of Euphorion. So whoever made the image made it with three eyes, as signifying that this same God rules in all the three “allotments” of the Universe, as they are called.” (trans. W. H. S. Jones, 1918)*
+[﻿^2]: *Σχόλιον Πρόκλου επί Κρατύλου Πλάτωνος* (Commentaar van Proklós op Plato's Cratylus). Het citaat, in de vertaling van Thomas Taylor luidt:<br><br>*"He (Olympian Zefs) is also the summit of the three, has the same name with the fontal (he who is the source) Jupiter (Ζεύς), is united to him, and is monadically called Jupiter. But the second is called dyadically, marine Jupiter and Neptune (Ποσειδῶν). And the third is triadically denominated, terrestrial Jupiter, Pluto (Πλούτων) and Hades (Ἅιδης). The first of these also preserves, fabricates, and vivifies summits, but the second, things of a second rank, and the third those of a third order. Hence this last is said to have ravished Proserpine (Περσεφόνη), that together with her he might animate the extremities of the universe."*
+[^3]: *“The reason for its three eyes (ed. a statue of Zefs originally from Troy) one might infer to be this. That Zeus is king in heaven is a saying common to all men. As for him who is said to rule under the earth, there is a verse of Homer which calls him, too, Zeus: ‘Zeus of the Underworld, and the august Persephonea.’ (Ἰλιὰς Ὁμήρου 2.9.457)<br><br>The God in the sea, also, is called Zeus by Aeschylus, the son of Euphorion. So whoever made the image made it with three eyes, as signifying that this same God rules in all the three “allotments” of the Universe, as they are called.” (trans. W. H. S. Jones, 1918)*
 [^4]: *Rigveda*, *Maṇḍala* 2, *Sūkta* 1, *Ṛc* 6.
 [^5]: *Rigveda*, *Maṇḍala* 2, *Sūkta* 33, *Ṛc* 9.
 [^6]: *Rigveda*, *Maṇḍala* 2, *Sūkta* 33, *Ṛc* 10.
@@ -377,7 +376,7 @@ The God in the sea, also, is called Zeus by Aeschylus, the son of Euphorion. So 
 [^8]: *Rigveda*, *Maṇḍala* 7, *Sūkta* 59, *Ṛc* 12.
 [^9]: *Rigveda*, *Maṇḍala* 10, *Sūkta* 92, *Ṛc* 9.
 [^10]: Een Sadhu of Sadhoe is een asceet in het Hindoeïsme. Deze wijdt zich aan het bereiken van geestelijke bevrijding, door meditatie en onthouding.
-[^11]: Orfische Hymne 30. Διονύσου, θυμίαμα, στύρακα.
+[^11]: Orfische Hymne 30. *Διονύσου, θυμίαμα, στύρακα*.
 [^12]: Een oud gebruik in Europa rond de kersttijd waarbij iemand werd aangewezen als verantwoordelijke voor de feestelijkheden, specifiek degene waarbij veel drank en onbeteugeldheid kwam kijken.
 [^13]: Wel is het interessant te benoemen dat Santa Claus daarentegen een element van de Erlkönig overneemt, daar hij elfjes als gevolg heeft. Helaas is dit slechts een cosmetische terugval, deze elfjes zijn hoogstens *impish*, nooit echter zijn zij op wat voor wijze ook chaotisch of waanzinnig.
 [^14]: Kairos duidt een moment aan, maar met de specifieke lading dat hier sprake is van een scharnierpunt in de tijd. Een belangrijk keuzemoment. Een opportuun moment waarop iets wat eerst onmogelijk was, nu mogelijk wordt.
