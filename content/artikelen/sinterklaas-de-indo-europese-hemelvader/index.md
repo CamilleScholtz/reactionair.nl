@@ -59,7 +59,7 @@ In dit godsbeeld komt de oude vorm van theïsme wellicht het sterkst naar voren:
 
 Een goed boek dat ik graag aanraad over deze oudere vormen van theïsme is *Die Götter Griechenlands. Das Bild des Göttlichen im Spiegel des griechischen Geistes* van Walter F. Otto, waarin de Griekse goden Athena, Hermes, Aphrodite en Apollo worden uitgewerkt vanuit het wereldbeeld van de Homerische epiek.
 
-## Goden en hun vormen
+### Goden en hun vormen
 
 Goden waren niet tot één vorm beperkt. Ze hadden aspecten, die gevangen werden in titels. Aspecten zijn lastig uit te leggen, maar je zou het enigszins kunnen vergelijken met het breken van een enkele straal wit licht met een prisma in vele verschillende kleuren. Elke kleur is aanwezig in de oorspronkelijke straal wit licht, maar de kleur komt pas als zodanig naar voren als het licht breekt. Zo kan bijvoorbeeld het 'aspect' rood zichtbaar worden, die niet gelijk is aan het 'aspect' blauw, noch bevat één van beiden de ander.
 
