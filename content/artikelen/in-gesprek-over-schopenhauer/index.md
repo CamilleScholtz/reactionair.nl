@@ -62,6 +62,10 @@ Na deze overpeinzingen over het fysicalisme keren we terug naar de wil; en Van R
 
 “Het bewustzijn is als een lampje dat ook een klein lichtje schijnt op ons eigen bestaan in de vorm van de uitingen van de wil, en is dus een leidraad om te leren begrijpen wat wij zijn.”[^11]
 
+Het feit echter dat wij ons bewuste ik doorgaans als primair beschouwen ontneemt ons het zicht op ons ware zelf. Het bewustzijn, echter, is louter 
+
+”Dat is inderdaad waartoe het ik, wat wij voor een groot deel beschouwen als ons ware zijn, gereduceerd is. Als onlosmakelijk deel van de voorstelling, een voorstelling die datgene wat wel dicht bij ons ligt, de wil, dient.” (p. 90)
+
  
 
 [^1]: Marcel Proust, *La Prisonnière*, Ch. II
