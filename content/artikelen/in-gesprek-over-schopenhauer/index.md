@@ -58,13 +58,11 @@ Ook bij Dawkins loopt de theorie echter vast op de creatieve processen want op h
 
 Onderaan de streep houdt dit in dat we met het proces van evolutie het teleologische argument in feite hebben uitgebreid.[^10] Het ontmantelen van natuurlijke selectie als primaire motor achter de evolutie legt een bom onder het fysicalisme omdat het onweerlegbaar aanduidt dat er geen sprake is van botsende deeltjes in het luchtledige, van absolute willekeur maar dat er een vitaal principe is dat het proces van evolutie aanstuurt.
 
-Na deze overpeinzingen over het fysicalisme keren we terug naar de wil; en Van Rossum maakt de lezer duidelijk dat hier ons bewustzijn zich openbaart als een zeer gebrekkig instrument, enkel bedoeld als middel opdat we ons tot de buitenwereld kunnen verhouden. Niettemin ligt in dit bewustzijn ook de sleutel tot zelfkennis:
-
-> “Het bewustzijn is als een lampje dat ook een klein lichtje schijnt op ons eigen bestaan in de vorm van de uitingen van de wil, en is dus een leidraad om te leren begrijpen wat wij zijn.”[^11]
-
-Het is hierin van groot belang dat de beperkte reikwijdte van ons bewustzijn in ogenschouw wordt gehouden:
+Het behoeft geen verassing te heten dat dit principe de wil is; en hierbij moeten we in ogenschouw houden dat ons bewustzijn een zeer gebrekkig instrument is, slechts bedoeld om de buitenwereld in kaart te brengen voor de wil, om deze te voeden met informatie die vervolgens werkt als motief voor wilsuitingen:
 
 ”Dat is inderdaad waartoe het ik, wat wij voor een groot deel beschouwen als ons ware zijn, gereduceerd is. Als onlosmakelijk deel van de voorstelling, een voorstelling die datgene wat wel dicht bij ons ligt, de wil, dient.” (p. 90)
+
+
 
 Vanuit één kant gezien overkomt het leven ons. Wij worden op een schijnbaar willekeurig moment in de tijd in het leven geworpen als uit het niets, behept met een lichaam dat wij niet gecreëerd hebben. Zo dient het leven zich aan in de verschijning. Maar aan de andere, veel essentiëlere kant, namelijk de metafysische, zijn wij die schepper zelf. Wij staan zelf aan de basis van het lichaam, ons zijn, ons alles; wij zijn de schepper van onszelf en van de hele creatie, alhoewel deze kennis zich niet vanzelf aandient. p. 99
 
