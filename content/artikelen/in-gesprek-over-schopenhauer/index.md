@@ -54,15 +54,15 @@ Het feit dat neodarwinisten als Dawkins, dit onderkennende, op zoek zijn gegaan 
 
 Ook bij Dawkins loopt de theorie echter vast op de creatieve processen want op het niveau waarop Dawkins de natuurlijke selectie poogt te verklaren kán helemaal niet over seksuele reproductie gesproken worden; daarnaast spreken we met dit model altijd slechts over *conservatieve* processen, terwijl evolutie—neem de ontwikkeling van een nieuw zintuig zoals het oog—een *creatief* proces is.
 
-“Als adaptaties evolueren voor het belang van het gen, hoe kan het dan dat de helft van de genen verloren raakt. \[...] Seks zou geëvolueerd zijn voor het gen, maar de helft van de genen wordt als het ware weggegooid bij de seksuele voortplanting!”[^9]
+> “Als adaptaties evolueren voor het belang van het gen, hoe kan het dan dat de helft van de genen verloren raakt. \[...] Seks zou geëvolueerd zijn voor het gen, maar de helft van de genen wordt als het ware weggegooid bij de seksuele voortplanting!”[^9]
 
 Onderaan de streep houdt dit in dat we met het proces van evolutie het teleologische argument in feite hebben uitgebreid.[^10] Het ontmantelen van natuurlijke selectie als primaire motor achter de evolutie legt een bom onder het fysicalisme omdat het onweerlegbaar aanduidt dat er geen sprake is van botsende deeltjes in het luchtledige, van absolute willekeur maar dat er een vitaal principe is dat het proces van evolutie aanstuurt.
 
 Na deze overpeinzingen over het fysicalisme keren we terug naar de wil; en Van Rossum maakt de lezer duidelijk dat hier ons bewustzijn zich openbaart als een zeer gebrekkig instrument, enkel bedoeld als middel opdat we ons tot de buitenwereld kunnen verhouden. Niettemin ligt in dit bewustzijn ook de sleutel tot zelfkennis:
 
-“Het bewustzijn is als een lampje dat ook een klein lichtje schijnt op ons eigen bestaan in de vorm van de uitingen van de wil, en is dus een leidraad om te leren begrijpen wat wij zijn.”[^11]
+> “Het bewustzijn is als een lampje dat ook een klein lichtje schijnt op ons eigen bestaan in de vorm van de uitingen van de wil, en is dus een leidraad om te leren begrijpen wat wij zijn.”[^11]
 
-Dat 
+Het is hierin van groot belang dat de beperkte reikwijdte van ons bewustzijn in ogenschouw wordt gehouden:
 
 ”Dat is inderdaad waartoe het ik, wat wij voor een groot deel beschouwen als ons ware zijn, gereduceerd is. Als onlosmakelijk deel van de voorstelling, een voorstelling die datgene wat wel dicht bij ons ligt, de wil, dient.” (p. 90)
 
