@@ -60,17 +60,17 @@ Onderaan de streep houdt dit in dat we met het proces van evolutie het teleologi
 
 Het behoeft geen verassing te heten dat dit principe de wil is; en hierbij moeten we in ogenschouw houden dat ons bewustzijn een zeer gebrekkig instrument is, slechts bedoeld om de buitenwereld in kaart te brengen voor de wil, om deze te voeden met informatie die vervolgens werkt als motief voor wilsuitingen:
 
-”Dat is inderdaad waartoe het ik, wat wij voor een groot deel beschouwen als ons ware zijn, gereduceerd is. Als onlosmakelijk deel van de voorstelling, een voorstelling die datgene wat wel dicht bij ons ligt, de wil, dient.” (p. 90)
+> ”Dat is inderdaad waartoe het ik, wat wij voor een groot deel beschouwen als ons ware zijn, gereduceerd is. Als onlosmakelijk deel van de voorstelling, een voorstelling die datgene wat wel dicht bij ons ligt, de wil, dient.” (p. 90)
 
 Het is dan ook door de wil dat wij ons zijn kunnen begrijpen en omdat we deze wil als het scheppende principe aannemen dat we de ontwikkeling van complexe levensvormen en het ontwaken van het bewustzijn kunnen verklaren. Slechts in het beperkte bewustzijn verschijnen wij als individuen, slechts door deze lens gezien zijn wij een vreemdeling in deze wereld, wij zijn echter de wereld zelf en deze is niets minder dan de schepping van onze wil:
 
-“Vanuit één kant gezien overkomt het leven ons. Wij worden op een schijnbaar willekeurig moment in de tijd in het leven geworpen als uit het niets, behept met een lichaam dat wij niet gecreëerd hebben. Zo dient het leven zich aan in de verschijning. Maar aan de andere, veel essentiëlere kant, namelijk de metafysische, zijn wij die schepper zelf. Wij staan zelf aan de basis van het lichaam, ons zijn, ons alles; wij zijn de schepper van onszelf en van de hele creatie, alhoewel deze kennis zich niet vanzelf aandient.” p. 99
+> “Vanuit één kant gezien overkomt het leven ons. Wij worden op een schijnbaar willekeurig moment in de tijd in het leven geworpen als uit het niets, behept met een lichaam dat wij niet gecreëerd hebben. Zo dient het leven zich aan in de verschijning. Maar aan de andere, veel essentiëlere kant, namelijk de metafysische, zijn wij die schepper zelf. Wij staan zelf aan de basis van het lichaam, ons zijn, ons alles; wij zijn de schepper van onszelf en van de hele creatie, alhoewel deze kennis zich niet vanzelf aandient.” p. 99
 
 Wij dalen verder af na de wil zowel in onze onbewuste processen als in alle andere levende wetens te hebben ontwaard naar de levenloze natuur. Naast een heldere uitleg van Schopenhauers stelling dat de wil ook schuilt in wat wij natuurkrachten noemen, vinden wij hier hoe Van Rossum het fundament wegtrekt onder ons alledaagse begrip van objecten. Zo toont hij overtuigend aan dat bijvoorbeeld de objecten die wij zien afhankelijk zijn van de aanwezigheid van licht en we zowel het waargenomene als het licht dat de waarneming mogelijk maakt als energieophopingen moeten beschouwen.
 
-Ook de zwaartekracht en de notie van de nauwe veiligheidsmarges waarin het universum zich handhaaft worden niet meer mechanisch maar staan ook
+Ook de zwaartekracht en de notie van de nauwe veiligheidsmarges waarin het universum zich handhaaft zijn zo niet langer als mechanisch te beschouwen maar staan ook binnen de teleologische structuur van de wereld.
 
-
+Een noemenswaardig element dat Van Rossum hier toevoegt aan zijn uiteenzetting is de Holon-theorie die hij ontleent aan het werk van de Hongaars-Britse schrijver Arthur Koestler. Dit model gaat uit van een hierarchische structuur van eenheden (Holons) die zowel op zichzelf staan (een zelf-assertieve tendens hebben) alsook deel zijn van een groter geheel (een integratieve tendens hebben). Op deze manier slaat Van Rossum een brug tussen de levende als de levenloze natuur want dit model is op beiden goed toepasbaar.
 
 
 
