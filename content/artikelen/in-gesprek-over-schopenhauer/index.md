@@ -42,9 +42,9 @@ Sterfelijkheid bestaat door deze lens beschouwd omdat we ons valselijk identific
 
 “Het individu sterft, daar is geen twijfel over mogelijk. Dus als wij dit individu zouden zijn, dit ik, dan is er geen leven na de dood. Maar zijn wij niet het individu maar de wil, de wil die eeuwig is, de wil die in mij maar ook in jou huist, in feite in alles, dan treft de dood ons niet.”[^6]
 
-Zo wordt ook helder in beeld gebracht hoe het materialistische wereldbeeld het eeuwige, onveranderlijke zijn in de vergankelijke wereld poogt te plaatsen en daartoe een eeuwige zoektocht 
+Zo wordt ook helder in beeld gebracht hoe het materialistische wereldbeeld het eeuwige, onveranderlijke zijn in de vergankelijke wereld poogt te plaatsen en daartoe een eeuwige zoektocht onderneemt naar het kleinste deeltje. Dat dit een mogelijk hachelijke onderneming is, komt scherp naar voren in de volgende passage:
 
-
+“\[L]aten we niet vergeten dat de huidige stand van de kwantumfysica—het deelgebied van de natuurkunde dat zich bezighoudt met deze deeltjes—een behoorlijk verwarrend, of, laten we eerlijk zijn, bizar beeld geeft. Het is niet alleen dat voorheen als ondeelbaar beschouwde deeltjes deelbaar blijken te zijn: überhaupt het idee van 'deeltjes' als bouwstenen van het universum is op losse schroeven komen te staan.”[^7]
 
 
 
@@ -59,5 +59,5 @@ Zo wordt ook helder in beeld gebracht hoe het materialistische wereldbeeld het e
 [^4]: p. 38\
 [^5]: p. 47; het originele citaat luidt: “*Es ist der Sonne ähnlich, die bloß unsern irdischen Augen unterzugehn scheint, die aber eigentlich nie untergeht, sondern unaufhörlich fortleuchtet*”. Deze zou van Goethe zijn, hoewel Schopenhauer beweert dat Goethe deze redewending juist van hem had.\
 [^6]: p. 49\
-[^7]:\
+[^7]: p. 55\
 [^8]:
