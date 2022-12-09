@@ -66,6 +66,12 @@ Het is hierin van groot belang dat de beperkte reikwijdte van ons bewustzijn in 
 
 ”Dat is inderdaad waartoe het ik, wat wij voor een groot deel beschouwen als ons ware zijn, gereduceerd is. Als onlosmakelijk deel van de voorstelling, een voorstelling die datgene wat wel dicht bij ons ligt, de wil, dient.” (p. 90)
 
+Vanuit één kant gezien overkomt het leven ons. Wij worden op een schijnbaar willekeurig moment in de tijd in het leven geworpen als uit het niets, behept met een lichaam dat wij niet gecreëerd hebben. Zo dient het leven zich aan in de verschijning. Maar aan de andere, veel essentiëlere kant, namelijk de metafysische, zijn wij die schepper zelf. Wij staan zelf aan de basis van het lichaam, ons zijn, ons alles; wij zijn de schepper van onszelf en van de hele creatie, alhoewel deze kennis zich niet vanzelf aandient. p. 99
+
+
+
+
+
  
 
 [^1]: Marcel Proust, *La Prisonnière*, Ch. II
