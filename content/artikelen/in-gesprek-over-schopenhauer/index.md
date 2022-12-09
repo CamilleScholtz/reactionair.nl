@@ -42,6 +42,12 @@ Sterfelijkheid bestaat door deze lens beschouwd omdat we ons valselijk identific
 
 “Het individu sterft, daar is geen twijfel over mogelijk. Dus als wij dit individu zouden zijn, dit ik, dan is er geen leven na de dood. Maar zijn wij niet het individu maar de wil, de wil die eeuwig is, de wil die in mij maar ook in jou huist, in feite in alles, dan treft de dood ons niet.”[^6]
 
+Zo wordt ook helder in beeld gebracht hoe het materialistische wereldbeeld het eeuwige, onveranderlijke zijn in de vergankelijke wereld poogt te plaatsen en daartoe een eeuwige zoektocht 
+
+
+
+
+
 
 
 
