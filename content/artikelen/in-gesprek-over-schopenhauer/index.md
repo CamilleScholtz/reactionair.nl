@@ -22,9 +22,17 @@ Voor de regelmatige lezer van Reactionair zal het geen geheim zijn dat de filoso
 
 In zijn wondermooie boek laat doctor van Rossum ons afdalen in de diepten van ons zijn. Als een moderne Vergilius neemt hij ons daartoe aan de hand, in een poging om ons in deze dolende wereld het juiste pad terug te doen vinden; want de wereld is dolende—ja, dwaalleer op dwaalleer stapelt zich op in de moderne *Weltanschauung* die zich rondom het materialisme heeft gevormd.
 
+De hedendaagse verarming van wat wij als kennis aanduiden vormt hierbij een primair aanknopingspunt om onze dwalingen te duiden en te corrigeren. Verzand in het letterlijke, is men blind geworden voor de waarde van inzicht en de capaciteit van de rijke allegorieën die religie zo kenmerken om dit inzicht over te brengen.
+
+Vanaf het eerste hoofdstuk wordt de lezer daarom aangespoord tot reflectie en wordt het concept van wat kennis inhoudt verdiept; louter abstracte kennis is niet genoeg: deze moet doorleefd worden, filosofische theorieën moeten indalen als besef—als inzicht: "Kennis is waardeloos als het theoretisch blijft".[^3]
+
+
+
 
 
 [^1]: Marcel Proust, *La Prisonnière*, Ch. II
 
 [^2]: Dit artikel, geschreven ter gelegenheid van een lezing van Van Rossum in juni 2022, kunt u [hier](*[https://reactionair.nl/​artikelen/de-willende-wereld/](https://reactionair.nl/artikelen/de-willende-wereld/)*) lezen.\
-[^3]:
+[^3]: p. 19\
+[^4]:\
+[^5]:
