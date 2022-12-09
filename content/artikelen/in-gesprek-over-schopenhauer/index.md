@@ -56,7 +56,6 @@ Ook bij Dawkins loopt de theorie echter vast op de creatieve processen want op h
 
 “Als adaptaties evolueren voor het belang van het gen, hoe kan het dan dat de helft van de genen verloren raakt. \[...] Seks zou geëvolueerd zijn voor het gen, maar de helft van de genen wordt als het ware weggegooid bij de seksuele voortplanting!”[^9]
 
-\
 Onderaan de streep houdt dit in dat we met het proces van evolutie het teleologische argument in feite hebben uitgebreid.[^10] Het ontmantelen van natuurlijke selectie als primaire motor achter de evolutie legt een bom onder het fysicalisme omdat het onweerlegbaar aanduidt dat er geen sprake is van botsende deeltjes in het luchtledige, van absolute willekeur maar dat er een vitaal principe is dat het proces van evolutie aanstuurt.
 
 Na deze overpeinzingen over het fysicalisme keren we terug naar de wil; en Van Rossum maakt de lezer duidelijk dat hier ons bewustzijn een zeer beperkt instrument is, enkel bedoeld als middel opdat we ons tot de buitenwereld kunnen verhouden. Slechts met een omweg kunnen wij tot zelfkennis geraken, daar dit bewustzijn hier niet voor bedoeld is; niettemin:
