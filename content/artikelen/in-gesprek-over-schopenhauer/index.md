@@ -57,9 +57,7 @@ Ook bij Dawkins loopt de theorie echter vast op de creatieve processen want op h
 “Als adaptaties evolueren voor het belang van het gen, hoe kan het dan dat de helft van de genen verloren raakt. \[...] Seks zou geëvolueerd zijn voor het gen, maar de helft van de genen wordt als het ware weggegooid bij de seksuele voortplanting!”[^9]
 
 \
-Onderaan de streep houdt dit in dat we met het proces van evolutie het teleologische argument in feite hebben uitgebreid.[^10] Het ontmantelen van de natuurlijke selectie als primaire motor achter de evolutie werpt ons namelijk terug naar de vraag wat deze ontwikkeling van steeds complexere levensvormen dan teweeg heeft gebracht. \
-\
-Natuurlijk is het hier de wil, die zichzelf steeds 
+Onderaan de streep houdt dit in dat we met het proces van evolutie het teleologische argument in feite hebben uitgebreid.[^10] Het ontmantelen van natuurlijke selectie als primaire motor achter de evolutie werpt ons immers terug naar de vraag wat deze ontwikkeling van steeds complexere levensvormen dan teweeg heeft gebracht. 
 
 
 
