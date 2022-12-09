@@ -50,9 +50,9 @@ Een hoogtepunt in het werk is wel het vierde hoofdstuk waarin wordt ingegaan op 
 
 > “Je kunt een voorwaarde voor het optreden van een proces vervolgens niet verklaren door dat proces zelf!”[^8]
 
-Het feit dat neodarwinisten als Dawkins, dit onderkennende, op zoek gaan naar de “kleinste eenheid” binnen het proces van natuurlijke selectie in een poging dit binnen het fysicalistische wereldbeeld in te passen spiegelt enigszins hoe men in de natuurkunde op zoek is gegaan naar het kleinste deeltje.
+Het feit dat neodarwinisten als Dawkins, dit onderkennende, op zoek zijn gegaan naar de “kleinste eenheid” binnen het proces van natuurlijke selectie in een poging dit in het fysicalistische procrustesbed te passen is interessant, daar het in mijn beleving enigszins spiegelt hoe men in de natuurkunde op zoek ging naar het kleinste deeltje.
 
-Ook hier loopt de theorie vast op creatieve processen want op het niveau waarop Dawkins de natuurlijke selectie poogt te verklaren kán helemaal over seksuele reproductie gesproken worden; daarnaast spreken we met dit model altijd slechts over conservatieve processen, terwijl evolutie—neem de ontwikkeling van een nieuw zintuig zoals het oog—een creatief proces is.
+Ook bij Dawkins loopt de theorie echter vast op de creatieve processen want op het niveau waarop Dawkins de natuurlijke selectie poogt te verklaren kán helemaal niet over seksuele reproductie gesproken worden; daarnaast spreken we met dit model altijd slechts over *conservatieve* processen, terwijl evolutie—neem de ontwikkeling van een nieuw zintuig zoals het oog—een *creatief* proces is.
 
 
 
