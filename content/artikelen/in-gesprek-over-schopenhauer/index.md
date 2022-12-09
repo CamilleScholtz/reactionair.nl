@@ -24,7 +24,7 @@ In zijn wondermooie boek laat doctor van Rossum ons afdalen in de diepten van on
 
 De hedendaagse verarming van wat wij als kennis aanduiden vormt hierbij een primair aanknopingspunt om onze dwalingen te duiden en te corrigeren. Verzand in het letterlijke, is men blind geworden voor de waarde van inzicht en de capaciteit van de rijke allegorieën die religie zo kenmerken om dit inzicht over te brengen.
 
-Vanaf het eerste hoofdstuk wordt de lezer daarom aangespoord tot reflectie en wordt het concept van wat kennis inhoudt verdiept; louter abstracte kennis is niet genoeg: deze moet doorleefd worden, filosofische theorieën moeten indalen als besef—als inzicht: "Kennis is waardeloos als het theoretisch blijft".[^3]
+Vanaf het eerste hoofdstuk wordt de lezer daarom aangespoord tot reflectie en wordt het concept van wat kennis inhoudt verdiept; louter abstracte kennis is niet genoeg: deze moet doorleefd worden, filosofische theorieën moeten indalen als besef—als inzicht: "Kennis is waardeloos als het theoretisch blijft en wordt pas effectief als we die realiseren als een onmiddelijke, intuïtieve ervaring".[^3]
 
 Met dit uitgangspunt laat Van Rossum ons een proces van zelfontdekking doorlopen waarin hij de gebruikelijke definitie van de Wil—in navolging van Schopenhauer—omkeert en deze vervolgens overtuigend betrekt op zowel onze bewuste als onze semi-onbewuste en onbewuste wilsprocessen, die achteraf altijd als gewild voelen en temeer als eigen. 
 
