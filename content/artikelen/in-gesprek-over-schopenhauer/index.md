@@ -46,7 +46,7 @@ Zo wordt ook helder in beeld gebracht hoe het materialistische wereldbeeld het e
 
 “\[L]aten we niet vergeten dat de huidige stand van de kwantumfysica—het deelgebied van de natuurkunde dat zich bezighoudt met deze deeltjes—een behoorlijk verwarrend, of, laten we eerlijk zijn, bizar beeld geeft. Het is niet alleen dat voorheen als ondeelbaar beschouwde deeltjes deelbaar blijken te zijn: überhaupt het idee van 'deeltjes' als bouwstenen van het universum is op losse schroeven komen te staan.”[^7]\
 \
-Een hoogtepunt in het werk is wel het vierde hoofdstuk waarin wordt ingegaan op de evolutietheorie. De lezer zal direct bemerken dat de auteur hier zijn grote kennis van het biologische met gemak en grote helderheid kan overbrengen. Dat het Darwinisme over een aanname heen stapt; namelijk dat er bij natuurlijke selectie wordt uitgegaan van seksuele voortplanting, zonder dat dit proces zelf verklaard wordt, wordt hier erg duidelijk uit de doeken gedaan, want:
+Een hoogtepunt in het werk is wel het vierde hoofdstuk waarin wordt ingegaan op de evolutietheorie en natuurlijke selectie. De lezer zal direct bemerken dat de auteur hier zijn grote kennis van het biologische met gemak en grote helderheid kan overbrengen. Dat het Darwinisme over een aanname heen stapt; namelijk dat er bij natuurlijke selectie wordt uitgegaan van seksuele voortplanting, zonder dat dit proces zelf verklaard wordt, wordt hier erg duidelijk uit de doeken gedaan, want:
 
 > “Je kunt een voorwaarde voor het optreden van een proces vervolgens niet verklaren door dat proces zelf!”[^8]
 
@@ -56,7 +56,10 @@ Ook bij Dawkins loopt de theorie echter vast op de creatieve processen want op h
 
 “Als adaptaties evolueren voor het belang van het gen, hoe kan het dan dat de helft van de genen verloren raakt. \[...] Seks zou geëvolueerd zijn voor het gen, maar de helft van de genen wordt als het ware weggegooid bij de seksuele voortplanting!”[^9]
 
-
+\
+Onderaan de streep houdt dit in dat we met het proces van evolutie het teleologische argument in feite hebben uitgebreid.[^10] Het ontmantelen van de natuurlijke selectie als primaire motor achter de evolutie werpt ons namelijk terug naar de vraag wat deze ontwikkeling van steeds complexere levensvormen dan teweeg heeft gebracht. \
+\
+Natuurlijk is het hier de wil, die zichzelf steeds 
 
 
 
@@ -70,3 +73,5 @@ Ook bij Dawkins loopt de theorie echter vast op de creatieve processen want op h
 [^7]: p. 55\
 [^8]: p. 64 \
 [^9]: p. 75
+
+[^10]: p. 79; parafrase
