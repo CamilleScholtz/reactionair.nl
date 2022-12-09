@@ -26,6 +26,10 @@ De hedendaagse verarming van wat wij als kennis aanduiden vormt hierbij een prim
 
 Vanaf het eerste hoofdstuk wordt de lezer daarom aangespoord tot reflectie en wordt het concept van wat kennis inhoudt verdiept; louter abstracte kennis is niet genoeg: deze moet doorleefd worden, filosofische theorieën moeten indalen als besef—als inzicht: "Kennis is waardeloos als het theoretisch blijft".[^3]
 
+Met dit uitgangspunt laat Van Rossum ons een proces van zelfontdekking doorlopen waarin hij de gebruikelijke definitie van de Wil—in navolging van Schopenhauer—omkeert en deze vervolgens overtuigend betrekt op zowel onze bewuste als onze semi-onbewuste en onbewuste wilsprocessen, die achteraf altijd als gewild voelen en temeer als eigen. 
+
+De vorm waarin dit gebeurt verdient het vermeld te worden, want de uiteenzetting geschiedt in dialoogvorm. Een gewaagde keuze; daar de dialoogvorm vandaag de dag over het algemeen in onbruik is geraakt. De keuze loont zich echter, want de expositie is helder, de beide karakters, Hugo (de auteursstem) en Adam (de scepticus) worden met overtuiging geschetst en het geheel ontvouwt zich soepel en vloeiend.
+
 
 
 
