@@ -57,4 +57,7 @@ Sterfelijkheid bestaat door deze lens beschouwd omdat we ons valselijk identific
 [^2]: Dit artikel, geschreven ter gelegenheid van een lezing van Van Rossum in juni 2022, kunt u [hier](*[https://reactionair.nl/​artikelen/de-willende-wereld/](https://reactionair.nl/artikelen/de-willende-wereld/)*) lezen.\
 [^3]: p. 19\
 [^4]: p. 38\
-[^5]:
+[^5]: p. 47\
+[^6]:\
+[^7]:\
+[^8]:
