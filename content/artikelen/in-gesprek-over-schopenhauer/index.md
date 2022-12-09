@@ -50,8 +50,6 @@ Zo wordt ook helder in beeld gebracht hoe het materialistische wereldbeeld het e
 
 
 
-
-
 [^1]: Marcel Proust, *La Prisonnière*, Ch. II
 
 [^2]: Dit artikel, geschreven ter gelegenheid van een lezing van Van Rossum in juni 2022, kunt u [hier](*[https://reactionair.nl/​artikelen/de-willende-wereld/](https://reactionair.nl/artikelen/de-willende-wereld/)*) lezen.\
