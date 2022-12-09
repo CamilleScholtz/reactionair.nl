@@ -24,13 +24,17 @@ In zijn wondermooie boek laat doctor van Rossum ons afdalen in de diepten van on
 
 De hedendaagse verarming van wat wij als kennis aanduiden vormt hierbij een primair aanknopingspunt om onze dwalingen te duiden en te corrigeren. Verzand in het letterlijke, is men blind geworden voor de waarde van inzicht en de capaciteit van de rijke allegorieën die religie zo kenmerken om dit inzicht over te brengen.
 
-Vanaf het eerste hoofdstuk wordt de lezer daarom aangespoord tot reflectie en wordt het concept van wat kennis inhoudt verdiept; louter abstracte kennis is niet genoeg: deze moet doorleefd worden, filosofische theorieën moeten indalen als besef—als inzicht: "Kennis is waardeloos als het theoretisch blijft en wordt pas effectief als we die realiseren als een onmiddelijke, intuïtieve ervaring".[^3]
+Vanaf het eerste hoofdstuk wordt de lezer daarom aangespoord tot reflectie en wordt het concept van wat kennis inhoudt verdiept; louter abstracte kennis is niet genoeg: deze moet doorleefd worden, filosofische theorieën moeten indalen als besef—als inzicht: 
+
+> "Kennis is waardeloos als het theoretisch blijft en wordt pas effectief als we die realiseren als een onmiddelijke, intuïtieve ervaring".[^3]
 
 Met dit uitgangspunt laat Van Rossum ons een proces van zelfontdekking doorlopen waarin hij de gebruikelijke definitie van de Wil—in navolging van Schopenhauer—omkeert en deze vervolgens overtuigend betrekt op zowel onze bewuste als onze semi-onbewuste en onbewuste wilsprocessen, die achteraf altijd als gewild voelen en temeer als eigen. 
 
 De vorm waarin dit gebeurt verdient het vermeld te worden, want de uiteenzetting geschiedt in dialoogvorm. Een gewaagde keuze; daar de dialoogvorm vandaag de dag over het algemeen in onbruik is geraakt. De keuze loont zich echter, want de expositie is helder, de beide karakters, Hugo (de auteursstem) en Adam (de scepticus) worden met overtuiging geschetst en het geheel ontvouwt zich soepel en vloeiend.
 
 Wat sterk en overtuigend naar voren wordt gebracht in de eerdere hoofdstukken is wat de kern is van ons *zijn*: Van Rossum verschuift heel kundig de gebruikelijke blik van ons werkelijke zelf als hoofdzakelijk individu, naar een zelf, dat door en door *wil* is. Het is op deze wijze dat wij kunnen verklaren waarom wat wij *zijn* vaak zo lastig is te aan te wijzen en het verleggen van de definitie van dit zijn lost dit probleem bijna moeiteloos op. Hoewel dit inzicht met geen millimeter afwijkt van Schopenhauer, is de zegswijze niettemin fris en klinkt deze niet, zoals men de wilshypothese van Schopenhauer soms pleegt uit te leggen, zweverig en ongrijpbaar.
+
+> “Het feit dat handelingen 'als vanzelf' optreden, handelingen waarin wij wel onze wil herkennen maar geen causaal verband in de tijd tussen wil en handeling kunnen zien, betekent dat het onderscheid tussen wat wij zien als onszelf—het kennende en denkende ik—en het lichaam niet duidelijk te maken is.”[^4]
 
 (...)
 
@@ -48,5 +52,5 @@ Sterfelijkheid bestaat door deze lens beschouwd omdat we ons valselijk identific
 
 [^2]: Dit artikel, geschreven ter gelegenheid van een lezing van Van Rossum in juni 2022, kunt u [hier](*[https://reactionair.nl/​artikelen/de-willende-wereld/](https://reactionair.nl/artikelen/de-willende-wereld/)*) lezen.\
 [^3]: p. 19\
-[^4]:\
+[^4]: p. 38\
 [^5]:
