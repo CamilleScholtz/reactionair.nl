@@ -62,9 +62,9 @@ Het behoeft geen verassing te heten dat dit principe de wil is; en hierbij moete
 
 ”Dat is inderdaad waartoe het ik, wat wij voor een groot deel beschouwen als ons ware zijn, gereduceerd is. Als onlosmakelijk deel van de voorstelling, een voorstelling die datgene wat wel dicht bij ons ligt, de wil, dient.” (p. 90)
 
-Het is dan ook door de wil dat wij ons zijn kunnen begrijpen.
+Het is dan ook door de wil dat wij ons zijn kunnen begrijpen en omdat we deze wil als het scheppende principe aannemen dat we de ontwikkeling van complexe levensvormen en het ontwaken van het bewustzijn kunnen verklaren. Slechts in het beperkte bewustzijn verschijnen wij als individuen, slechts door deze lens gezien zijn wij een vreemdeling in deze wereld, wij zijn echter de wereld zelf en deze is niets minder dan de schepping van onze wil:
 
-Vanuit één kant gezien overkomt het leven ons. Wij worden op een schijnbaar willekeurig moment in de tijd in het leven geworpen als uit het niets, behept met een lichaam dat wij niet gecreëerd hebben. Zo dient het leven zich aan in de verschijning. Maar aan de andere, veel essentiëlere kant, namelijk de metafysische, zijn wij die schepper zelf. Wij staan zelf aan de basis van het lichaam, ons zijn, ons alles; wij zijn de schepper van onszelf en van de hele creatie, alhoewel deze kennis zich niet vanzelf aandient. p. 99
+“Vanuit één kant gezien overkomt het leven ons. Wij worden op een schijnbaar willekeurig moment in de tijd in het leven geworpen als uit het niets, behept met een lichaam dat wij niet gecreëerd hebben. Zo dient het leven zich aan in de verschijning. Maar aan de andere, veel essentiëlere kant, namelijk de metafysische, zijn wij die schepper zelf. Wij staan zelf aan de basis van het lichaam, ons zijn, ons alles; wij zijn de schepper van onszelf en van de hele creatie, alhoewel deze kennis zich niet vanzelf aandient.” p. 99
 
 
 
