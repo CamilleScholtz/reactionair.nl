@@ -8,15 +8,15 @@ themas = "Klikaas"
 image = "istockphoto-545593488-170667a.jpg"
 anchor = "Smart"
 +++
+\-﻿Gesproken artikelen: toevoegen luidspreker-icoon met geluidsbestand. evt. met balkje dat vervolgens verschijnt (niet als pop-up) en de luistertijd aangeeft. 
+
+\-﻿Slideshowformat voor klikaas met plaatjes en stukje tekst daaronder, pijltjes aan weerszijden.
+
+
+
 \-donatiepagina opleuken, hoe aandacht genereren?
 
-\-gesproken artikelen
-
 \-bellen overheid over regenboogvlag
-
-\-slideshow functie 
-
-\-onderschrift afbeeldingen
 
 \-dossiers/aangehaalde auteurs vervangen door 'lees ook'?
 
@@ -29,3 +29,9 @@ anchor = "Smart"
 \-posters instagram?
 
 \-instagramlink op frontpage
+
+
+
+D﻿one:
+
+> \-onderschrift afbeeldingen
