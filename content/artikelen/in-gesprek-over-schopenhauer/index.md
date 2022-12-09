@@ -40,6 +40,10 @@ Wat sterk en overtuigend naar voren wordt gebracht in de eerdere hoofdstukken is
 
 Sterfelijkheid bestaat door deze lens beschouwd omdat we ons valselijk identificeren met het individu. Met de wil als ons ware zijn is daar de onsterfelijkheid! En hier toont Van Rossum ons dat het plengen van tranen om het verlies van ons leven niet nodig is—wij zullen, als wil zijnde, nooit de kus des doods op onze lippen voelen:
 
+“Ons wezen is 'als de zon die alleen voor onze aarde ogen onder lijkt te gaan, maar die in werkelijkheid nooit ondergaat en onophoudelijk door blijft schijnen'”.[^5]
+
+
+
 ”Nee, wij zijn nooit geboren en gaan nooit dood: wij zijn onze maker en schepper, en het kwaad en het lijden van de wereld is ons eigen fabricaat.”
 
 (p. 160)
