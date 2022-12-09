@@ -62,8 +62,6 @@ Na deze overpeinzingen over het fysicalisme keren we terug naar de wil; en Van R
 
 “Het bewustzijn is als een lampje dat ook een klein lichtje schijnt op ons eigen bestaan in de vorm van de uitingen van de wil, en is dus een leidraad om te leren begrijpen wat wij zijn.”[^11]
 
-
-
  
 
 [^1]: Marcel Proust, *La Prisonnière*, Ch. II
