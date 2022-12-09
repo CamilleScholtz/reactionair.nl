@@ -54,7 +54,7 @@ Het feit dat neodarwinisten als Dawkins, dit onderkennende, op zoek zijn gegaan 
 
 Ook bij Dawkins loopt de theorie echter vast op de creatieve processen want op het niveau waarop Dawkins de natuurlijke selectie poogt te verklaren kán helemaal niet over seksuele reproductie gesproken worden; daarnaast spreken we met dit model altijd slechts over *conservatieve* processen, terwijl evolutie—neem de ontwikkeling van een nieuw zintuig zoals het oog—een *creatief* proces is.
 
-“Als adaptaties evolueren voor het belang van het gen, hoe kan het dan dat de helft van de genen verloren raakt. \[...] Seks zou geëvolueerd zijn voor het gen, maar de helft van de genen wordt als het ware weggegooid bij de seksuele voortplanting!”
+“Als adaptaties evolueren voor het belang van het gen, hoe kan het dan dat de helft van de genen verloren raakt. \[...] Seks zou geëvolueerd zijn voor het gen, maar de helft van de genen wordt als het ware weggegooid bij de seksuele voortplanting!”[^9]
 
 
 
@@ -68,4 +68,5 @@ Ook bij Dawkins loopt de theorie echter vast op de creatieve processen want op h
 [^5]: p. 47; het originele citaat luidt: “*Es ist der Sonne ähnlich, die bloß unsern irdischen Augen unterzugehn scheint, die aber eigentlich nie untergeht, sondern unaufhörlich fortleuchtet*”. Deze zou van Goethe zijn, hoewel Schopenhauer beweert dat Goethe deze redewending juist van hem had.\
 [^6]: p. 49\
 [^7]: p. 55\
-[^8]: p. 64
+[^8]: p. 64 \
+[^9]: p. 75
