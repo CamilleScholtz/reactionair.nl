@@ -51,7 +51,7 @@ Sterfelijkheid bestaat door deze lens beschouwd omdat we ons valselijk identific
 [^2]: Dit artikel, geschreven ter gelegenheid van een lezing van Van Rossum in juni 2022, kunt u [hier](*[https://reactionair.nl/​artikelen/de-willende-wereld/](https://reactionair.nl/artikelen/de-willende-wereld/)*) lezen.\
 [^3]: p. 19\
 [^4]: p. 38\
-[^5]: p. 47; het originele citaat luidt: “Es ist der Sonne ähnlich, die bloß unsern irdischen Augen unterzugehn scheint, die aber eigentlich nie untergeht, sondern unaufhörlich fortleuchtet”. Deze zou van Goethe zijn, hoewel Schopenhauer beweert dat Goethe deze redewending juist van hem had.\
+[^5]: p. 47; het originele citaat luidt: “*Es ist der Sonne ähnlich, die bloß unsern irdischen Augen unterzugehn scheint, die aber eigentlich nie untergeht, sondern unaufhörlich fortleuchtet*”. Deze zou van Goethe zijn, hoewel Schopenhauer beweert dat Goethe deze redewending juist van hem had.\
 [^6]: p. 49\
 [^7]:\
 [^8]:
