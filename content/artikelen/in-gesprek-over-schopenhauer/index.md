@@ -72,16 +72,20 @@ Een noemenswaardig element dat Van Rossum hier toevoegt aan zijn uiteenzetting i
 
 Ook hier, namelijk, onthult zich de wil als  drijvende kracht achter de anorganische natuur; en zowel de zwaartekracht, als integratieve tendens; een principe dat niet strookt met een willekeurige dans van botsende deeltjes, als de paradox van het “fine-tuned universe” vinden in de wilshypothese hun plaats.
 
-“Materie—dat wat wij als materie zien—is wil. Deze drang, zowel onze wilsuitingen als de natuurkrachten, is de drang tot manifestatie in tijd en ruimte in de vorm van steeds grotere structuren. Dat zijn wij, dat is het leven, dat is materie, dat is evolutie, dat is het universum. Dat is alles, dat zijn wij.”[^13]
+> “Materie—dat wat wij als materie zien—is wil. Deze drang, zowel onze wilsuitingen als de natuurkrachten, is de drang tot manifestatie in tijd en ruimte in de vorm van steeds grotere structuren. Dat zijn wij, dat is het leven, dat is materie, dat is evolutie, dat is het universum. Dat is alles, dat zijn wij.”[^13]
 
 \
-Tot nu toe heeft Van Rossum Schopenhauer op de voet gevolgd; echter op één vlak wijkt hij van zijn ideeën af. Het zevende hoofdstuk behandelt namelijk het idealisme; en hier wordt afgeweken van het adagium *esse est percipi* inzake de aard van het *zijn.*
+Tot nu toe heeft Van Rossum Schopenhauer op de voet gevolgd; echter op één vlak wijkt hij nu van zijn ideeën af. Het zevende hoofdstuk behandelt namelijk het idealisme; en hier wordt afgeweken van het adagium *esse est percipi* inzake de aard van het *zijn.*
 
-Hier wordt de kritiek geschetst, dat zowel tijd en ruimte reeds beslotem liggen in het begrip wil; daar het een zekere drang veronderstelt, en de idee van een wil buiten tijd en ruimte verliest alle betekenis. Deze afwijzing van het idealisme brengt Schopenhauers wilsfilosofie dichter bij de wetenschappelijke inzichten maar we lijken in zekere zin ook terug te keren naar een visie waarbij een half idealisme aan de dag wordt gelegd, waarbij ruimte en tijd in zekere zin de noumena kenmerken die schuilgaan achter de fenomenen. Spreken we hier niet in zekere zin wederom van de primaire en secundaire kwaliteiten van Locke? Die kwaliteiten die Berkeley zo kundig heeft ontmanteld voor ons in zijn fameuze dialoog tussen Philonous en Hylas?
+Hier wordt de kritiek geschetst, dat zowel tijd en ruimte reeds besloten liggen in het begrip drang; en zo is de wil zonder tijd en ruimte een leeg begrip. Deze afwijzing van het idealisme brengt Schopenhauers wilsfilosofie dichter bij de wetenschappelijke inzichten maar we lijken in zekere zin ook terug te keren naar een visie waarbij een half idealisme aan de dag wordt gelegd, waarbij ruimte en tijd in zekere zin de noumena kenmerken die schuilgaan achter de fenomenen. Spreken we hier niet wederom van de primaire en secundaire kwaliteiten van Locke? Die kwaliteiten die Berkeley zo kundig heeft ontmanteld voor ons in zijn fameuze dialoog tussen Philonous en Hylas?
 
-Hier komt Van Rossums ontmanteling van de klassieke idee van objecten echter om de hoek kijken en hij stelt:
+Echter meent Van Rossum dat:
 
-“Het is een active manifestatie in de ruimte, een active ruimtelijke realisatie, een manifestatie bovendien die wij ook in onszelf herkennen. Een realisatie die overigens eenvoudig is, maar pas meervoudig overkomt in de voorstelling. Maar een ook realisatie waar fundamenteel onmogelijk een voorstelling van te maken is.”[^14]
+> “Als het ding-op-zichzelf een wetmatige manifestatie in de tijd en in de ruimte is, als, met andere woorden, tijd, ruimte en causaliteit een essentieel onderdeel zijn van het ding-op-zichzelf, dan moeten die toch bestaan buiten het subject om?”[^14]
+
+De wil is zo een active manifestatie in de ruimte, een manifestatie bovendien die wij ook in onszelf herkennen. Het is op deze wijze dat verklaard kan worden dat de wereld bestond voordat er een bewustzijn was deze waar te nemen. Een belangrijke voetnoot is dat de wereld als voorstelling, wel degelijk afhankelijk is van het bewustzijn en de wereld an sich is dan ook niet in de voorstelling te vatten.
+
+
 
 
 
@@ -104,4 +108,6 @@ Hier komt Van Rossums ontmanteling van de klassieke idee van objecten echter om 
 
 [^13]: p. 117
 
-[^14]: Uit correspondentie tussen de auteur en doctor van Rossum
+[^14]: p. 126
+
+ Uit correspondentie tussen de auteur en doctor van Rossum
