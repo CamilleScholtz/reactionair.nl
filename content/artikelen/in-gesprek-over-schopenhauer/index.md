@@ -122,7 +122,9 @@ Want ook op politiek vlak heeft deze denkwijze haar uitwerking en veroorzaakt al
 
 Met de ontkerkelijking en het materialisme is men begonnen met het zoeken van verlossing in de wereld zelf. Zo zien wij dat men de spirituele neiging verlegd heeft naar surrogaat-doelen; de religiositeit vindt uiting in politieke bewegingen: van het communistische en het socialistische, waar de oneerlijke verdeling van welvaart als de *radix malorum* wordt aangewezen tot de huidige klimaatbeweging—die zowel een schuldbeginsel, waarbij de zondeval ten tijde van de industriële revolutie plaats zou hebben gevonden, als een eschatologie bevat.
 
-Temidden van de onttovering zien wij dat met dergelijke ideologieën niet alleen niet afdoende wordt tegemoetgekomen aan de spirituele behoefte van de mens maar dat deze ook tot grote excessen van lijden kunnen lijden. De hoeveeldheid slachtoffers die het communisme en het nazisme tezamen gemaakt hebben in de vorige eeuw overstijgen de tientallen miljoenen.
+Temidden van de onttovering zien wij dat met dergelijke ideologieën niet alleen niet afdoende wordt tegemoetgekomen aan de spirituele behoefte van de mens maar dat deze ook tot grote excessen van lijden kunnen lijden. De hoeveeldheid slachtoffers die het communisme en het nazisme tezamen gemaakt hebben in de vorige eeuw overstijgen de tientallen miljoenen. Over een materialistische invulling op het politieke vlak van onze spirituele neiging schrijft Huxley dan ook dat:
+
+\[I]t may be remarked that the cult of unity on the political level is only an idolatrous *ersatz* for the genuine religion of unity on the personal and spiritual levels. Totalitarian regimes justify their existence by means of a philosophy of political monism, according to which the state is God on earth, unification under the heel of the divine state is salvation, and all means to such unification, however intrinsically wicked, are right and may be used without scruple.[^20]
 
 
 
@@ -185,4 +187,4 @@ Mattheus XIII. 13-14
 
 [^19]: Parafrase uit het artikel [Homo Credens](https://reactionair.nl/artikelen/homo-credens/) dat eerder op deze website verscheen.
 
-[^20]:
+[^20]: Aldous Huxley, The perennial philosophy, Ch. I
