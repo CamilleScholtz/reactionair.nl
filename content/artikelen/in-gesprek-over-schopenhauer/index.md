@@ -105,7 +105,7 @@ Ook hier is het verstand iets wat onze blik beperkt en kan het ons niet als wegw
 \
 Wat dan ook in de visie van Van Rossum naar voren komt is dat een deel van de verlorenheid die de mens in de hedendaagse wereld ervaart te wijten is aan de mate waarin de allegorieën van de verschillende religies passen bij de tijd en de omstandigheden daar dit beïnvloedt of zij effectief de waarheden die daarin besloten liggen over te kunnen brengen. De westerse mens zou uit het Christendom gegroeid zijn als kind uit zijn kleren.
 
-Ook dit hangt wederom samen met het materialisme, dat tot de laatste zin van het boek opduikt als een fundamentele dwaling in onze mentaliteit. De moderne mens dwingt zichzelf daarom ook religie volgens de maatstaven van het letterlijke en het figuurlijke te beschouwen en dit is ook wat de absurdistische taferelen van Christenen die Gods letterlijke bestaan pogen te verdedigen veroorzaakt, terwijl hun waarheden, allegorisch als zij zijn, op een geheel ander *niveau* waar zijn, zowel boven het letterlijke als het figuurlijke uitstijgende.
+Ook dit hangt wederom samen met het materialisme, dat zich tot de laatste zin van het boek laat zien als een fundamentele dwaling in onze mentaliteit. De moderne mens dwingt zichzelf daarom ook religie volgens de maatstaven van het letterlijke en het figuurlijke te beschouwen en dit is ook wat de absurdistische taferelen van Christenen die Gods letterlijke bestaan pogen te verdedigen veroorzaakt, terwijl hun waarheden, allegorisch als zij zijn, op een geheel ander *niveau* waar zijn, zowel boven het letterlijke als het figuurlijke uitstijgende.
 
 
 
