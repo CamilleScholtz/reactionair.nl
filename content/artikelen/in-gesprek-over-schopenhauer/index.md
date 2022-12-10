@@ -120,10 +120,11 @@ Wat hierin noodzakelijk is, blijkt wederom dat wij ons bewustzijn niet overschat
 
 Want ook op politiek vlak heeft deze denkwijze haar uitwerking en veroorzaakt allerlei dwalingen. Wij komen zo aan het einde van onze reis en ook vinden wij hier hoe al de voorgaande reflecties hun weerslag vinden in de problemen die wij heden ten dage om ons heen zien. De moderne mens is verloren geraakt in de betonnen wildernis, waar de fata morgana‘s van zijn individuele verlangens hem leiden. 
 
-Met de ontkerkelijking en het materialisme is men begonnen met het zoeken van verlossing in de wereld zelf. Zo vinden wij dat men de spirituele neiging verlegd heeft naar surrogaat-doelen; de religiositeit vindt uiting in politieke bewegingen. Van het communistische en het socialistische, waar de oneerlijke verdeling van welvaart als de *radix malorum* wordt aangewezen tot de huidige klimaatbeweging—die zowel een schuldbeginsel, waarbij de zondeval ten tijde van de industriële revolutie plaats zou hebben gevonden, en een eschatologie bevat—in al deze 
+Met de ontkerkelijking en het materialisme is men begonnen met het zoeken van verlossing in de wereld zelf. Zo zien wij dat men de spirituele neiging verlegd heeft naar surrogaat-doelen; de religiositeit vindt uiting in politieke bewegingen: van het communistische en het socialistische, waar de oneerlijke verdeling van welvaart als de *radix malorum* wordt aangewezen tot de huidige klimaatbeweging—die zowel een schuldbeginsel, waarbij de zondeval ten tijde van de industriële revolutie plaats zou hebben gevonden, als een eschatologie bevat.
 
-\
-Surrogaat-doelen; religiositeit in o.a. de klimaatbeweging—probleem met dit laatste is het materialisme, want de ideologie hangt sterk samen met individuele schuld en de zorg voor de schepping en voor dieren...
+Temidden van de onttovering zien wij dat met dergelijke ideologieën niet alleen niet afdoende wordt tegemoetgekomen aan de spirituele behoefte van de mens maar dat deze ook tot grote excessen van lijden kunnen lijden. De hoeveeldheid slachtoffers die het communisme en het nazisme gemaakt hebben in de vorige eeuw overstijgen
+
+
 
 Onttovering/mensen zijn ten diepste diep spiritueel
 
