@@ -72,12 +72,6 @@ Ook de zwaartekracht en de notie van de nauwe veiligheidsmarges waarin het unive
 
 Een noemenswaardig element dat Van Rossum hier toevoegt aan zijn uiteenzetting is de Holon-theorie die hij ontleent aan het werk van de Hongaars-Britse schrijver Arthur Koestler. Dit model gaat uit van een hierarchische structuur van eenheden (Holons) die zowel op zichzelf staan (een zelf-assertieve tendens hebben) alsook deel zijn van een groter geheel (een integratieve tendens hebben). Op deze manier slaat Van Rossum een brug tussen de levende als de levenloze natuur want dit model is op beiden goed toepasbaar.
 
-
-
-
-
- 
-
 [^1]: Marcel Proust, *La Prisonnière*, Ch. II
 
 [^2]: Dit artikel, geschreven ter gelegenheid van een lezing van Van Rossum in juni 2022, kunt u [hier](*[https://reactionair.nl/​artikelen/de-willende-wereld/](https://reactionair.nl/artikelen/de-willende-wereld/)*) lezen.\
