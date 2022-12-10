@@ -36,7 +36,7 @@ Wat sterk en overtuigend naar voren wordt gebracht in de eerdere hoofdstukken is
 
 > “Het feit dat handelingen 'als vanzelf' optreden, handelingen waarin wij wel onze wil herkennen maar geen causaal verband in de tijd tussen wil en handeling kunnen zien, betekent dat het onderscheid tussen wat wij zien als onszelf—het kennende en denkende ik—en het lichaam niet duidelijk te maken is.”[^4]
 
-Sterfelijkheid bestaat door deze lens beschouwd omdat we ons valselijk identificeren met het individu. Met de wil als ons ware zijn is daar de onsterfelijkheid! En hier toont Van Rossum ons dat het plengen van tranen om het verlies van ons leven niet nodig is—wij zullen, als wil zijnde, nooit de kus des doods op onze lippen voelen:
+Sterfelijkheid bestaat door deze lens beschouwd omdat we ons valselijk identificeren met het individu. Met de wil als ons ware zijn is daar de onsterfelijkheid! En hier toont Van Rossum ons dat het plengen van tranen om het verlies van ons leven niet nodig is—wij zullen, als wil zijnde, nooit de kus des doods op onze lippen voelen; *mors est ianua vitæ*:
 
 > “Ons wezen is 'als de zon die alleen voor onze aarde ogen onder lijkt te gaan, maar die in werkelijkheid nooit ondergaat en onophoudelijk door blijft schijnen'”.[^5]
 >
@@ -114,6 +114,44 @@ Want ook op politiek vlak heeft deze denkwijze haar uitwerking en veroorzaakt al
 Met de ontkerkelijking en het materialisme is men begonnen met het zoeken van verlossing in de wereld zelf; er bestaat immers niets buiten de materiële wereld.
 
 
+
+1 [Verti me ad alia, et vidi calumnias
+
+quæ sub sole geruntur,
+
+et lacrimas innocentium,
+
+et neminem consolatorem,
+
+nec posse resistere eorum violentiæ,
+
+cunctorum auxilio destitutos,
+
+2 et laudavi magis mortuos quam viventes;
+
+3 et feliciorem utroque judicavi
+
+qui necdum natus est,
+
+nec vidit mala quæ sub sole fiunt
+
+
+
+So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
+
+2 Wherefore I praised the dead which are already dead more than the living which are yet alive.
+
+3 Yea, better is he than both they, which hath not yet been, who hath not seen the evil work that is done under the sun.
+
+
+
+Daarna wende ik mij, en zag aan al de onderdrukkingen, die onder de zon geschieden; en ziet, er waren de tranen der verdrukten, en dergenen, die geen trooster hadden; en aan de zijde hunner verdrukkers was macht, zij daarentegen hadden geen vertrooster.
+
+2 Dies prees ik de doden, die alrede gestorven waren, boven de levenden, die tot nog toe levend zijn.
+
+3 Ja, hij is beter dan die beiden, die nog niet geweest is, die niet gezien heeft het boze werk, dat onder de zon geschiedt.
+
+~ Ecclesiastes 4
 
 [^1]: Marcel Proust, *La Prisonnière*, Ch. II
 
