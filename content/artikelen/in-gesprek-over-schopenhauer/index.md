@@ -109,7 +109,9 @@ Ook dit hangt wederom samen met het materialisme, dat zich tot de laatste zin va
 
 Wat hierin noodzakelijk is, blijkt wederom dat wij ons bewustzijn niet overschatten, en dat wij, welk pad wij ook opwaarts nemen terug naar het spirituele, wij niet langer de *meer dan twijfelbare spiegeling die men werkelijkheid noemt tot absoluut verheffen*[^18] zoals het materialistische wereldbeeld dit doet.
 
-Want ook op politiek vlak heeft deze denkwijze haar uitwerking en veroorzaakt allerlei dwalingen. Wij komen zo aan het einde van onze reis en ook vinden wij hier hoe al de voorgaande reflecties hun weerslag vinden in de problemen die wij heden ten dage om ons heen zien. De moderne mens is verloren geraakt in de betonnen wildernis, waar de fata morgana‘s van zijn individuele verlangens hem leiden
+Want ook op politiek vlak heeft deze denkwijze haar uitwerking en veroorzaakt allerlei dwalingen. Wij komen zo aan het einde van onze reis en ook vinden wij hier hoe al de voorgaande reflecties hun weerslag vinden in de problemen die wij heden ten dage om ons heen zien. De moderne mens is verloren geraakt in de betonnen wildernis, waar de fata morgana‘s van zijn individuele verlangens hem leiden. 
+
+Met de ontkerkelijking en het materialisme is men begonnen met het zoeken van verlossing in de wereld zelf; er bestaat immers niets buiten de materiële wereld.
 
 
 
