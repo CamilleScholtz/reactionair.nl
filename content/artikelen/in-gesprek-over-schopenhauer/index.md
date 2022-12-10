@@ -122,7 +122,26 @@ Want ook op politiek vlak heeft deze denkwijze haar uitwerking en veroorzaakt al
 
 Met de ontkerkelijking en het materialisme is men begonnen met het zoeken van verlossing in de wereld zelf; er bestaat immers niets buiten de materiële wereld.
 
+\
+Surrogaat-doelen; religiositeit in o.a. de klimaatbeweging—probleem met dit laatste is het materialisme, want de ideologie hangt sterk samen met individuele schuld en de zorg voor de schepping en voor dieren...
 
+Onttovering/mensen zijn ten diepste diep spiritueel
+
+Variaties op het marxistische thema
+
+Artikel: gelijkheid, artikel vooruitgang
+
+Maakbare wereld; overschatten menselijk verstand: Schopenhauer over de functie van straf en de aanmoediging van sociale controle tot goed gedrag als motieven die zwaarder wegen voor de mens dan het verlangen slecht te doen. Ter onderdrukking van de aard der mensen
+
+WWV II, K. XLVII; Zur Ethik
+
+Oversimplificatie wetenschappelijke inzichten; vergelijking tussen groepen lijdt hier ook onder
+
+Democratische correctie; of monarchie? Weten de mensen wel wat ze willen? Kunnen zij wel verder kijken dan hun directe belangen?
+
+Conservatisme; ja, en een visie op de grondprincipes die problemen onderleggen
+
+Het verstand als slecht werkend kompas
 
 
 
