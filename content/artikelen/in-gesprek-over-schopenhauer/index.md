@@ -128,7 +128,9 @@ Temidden van de onttovering zien wij dat met dergelijke ideologieën niet alleen
 
 In onze tijd passeren een grote verscheidenheid aan dergelijke ideologieen de revue, en velen daarvan kunnen wij beschouwen als variaties op het marxistische thema; waarbij slechts verschuift wie de onderdrukkers zijn en wie de onderdrukten. De nieuwe proletariërs die zich dienen te verenigen zijn minderheden met een bepaalde seksuele voorkeur of met een bepaalde etnische identiteit. \
 \
-De vermeende maakbaarheid des werelds en het oversch
+De vermeende maakbaarheid des werelds en het schromelijk overschatten van het menselijk verstand vormen de kernproblemen.
+
+
 
 Maakbare wereld; overschatten menselijk verstand: Schopenhauer over de functie van straf en de aanmoediging van sociale controle tot goed gedrag als motieven die zwaarder wegen voor de mens dan het verlangen slecht te doen. Ter onderdrukking van de aard der mensen
 
