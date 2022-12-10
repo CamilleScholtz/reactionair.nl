@@ -85,6 +85,12 @@ Echter meent Van Rossum dat:
 
 De wil is zo een active manifestatie in de ruimte, een manifestatie bovendien die wij ook in onszelf herkennen. Het is op deze wijze dat verklaard kan worden dat de wereld bestond voordat er een bewustzijn was deze waar te nemen. Een belangrijke voetnoot is dat de wereld als voorstelling, wel degelijk afhankelijk is van het bewustzijn en de wereld an sich is dan ook niet in de voorstelling te vatten. Dit is, aldus Van Rossum, een onoverkomelijke grens van ons verstand.
 
+
+
+“\[W]e zien dat volgens Schopenhauer aan de ene kant het bestaan van de hele wereld afhangt van het eerste kennende wezen, en hoe anderzijds het bestaan van dit eerste kennende wezen volkomen afhankelijk is van een lange keten van oorzaken en gevolgen die eraan vooraf is gegaan.” p. 130
+
+Volgens Van Rossum beschouwt Schopenhauer dit voorgenoemde als antinomie; een wijsgerige paradox. Wat echter onbenoemd blijft is hoe Schopenhauer deze antinomie oplost, want het is een term die hij slechts gebruikt om een schijntegenstelling aan te duiden en hij schrijft dan ook het volgende:
+
 Uit de afwijzing van het idealisme volgt echter nog een probleem, dat een separate oplossing vereist. Dit betreft het ethische aspect, het doven van de Wil; want in de niet-idealistische visie van Van Rossum blijft het probleem dat met het doven van de wil slechts een, zo kunnen we zeggen, individuele wil, op zichzelf is teruggekeerd.
 
 Het voortbestaan van de wil is zo afhankelijk van de afwijzing van het idealisme, want in het idealistische zal wereld in zekere zin met toeschouwer vergaan; de wil verstilt, keert terug naar zijn bron als één en ondeelbaar, en omdat deze één en ondeelbaar is, heft deze zich in zijn geheel op.
