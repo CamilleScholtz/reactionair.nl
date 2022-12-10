@@ -112,7 +112,7 @@ Logisch redeneren verliest geleidelijk zijn betekenis als kompas naarmate de gee
 [^8]: p. 64 \
 [^9]: p. 75
 
-[^10]: p. 79; parafrase
+[^10]: Parafrase van een passage op p. 79
 
 [^11]: p. 85
 
