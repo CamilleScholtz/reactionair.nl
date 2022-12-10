@@ -132,6 +132,8 @@ De vermeende maakbaarheid des werelds en het schromelijk overschatten van het me
 \
 Dit vraagt van ons dat wij, zoals Van Rossum aantoont, de wereld fundamenteel anders moeten gaan beschouwen. Dat we het materialistische wereldbeeld ontmantelen en hier andere fundamenten voor in de plaats leggen. Alleen zo kunnen we de waan van de dag duiden en ons hiertegen wapenen. Dit zal ons in staat stellen de weg te vinden, de weg die ons naar zelfkennis voert, naar waarheid en naar verlossing.   
 
+
+
 [^1]: Marcel Proust, *La Prisonnière*, Ch. II
 
 [^2]: Dit artikel, geschreven ter gelegenheid van een lezing van Van Rossum in juni 2022, kunt u [hier](*[https://reactionair.nl/​artikelen/de-willende-wereld/](https://reactionair.nl/artikelen/de-willende-wereld/)*) lezen.\
