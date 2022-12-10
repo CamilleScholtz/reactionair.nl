@@ -109,7 +109,7 @@ Ook dit hangt wederom samen met het materialisme, dat zich tot de laatste zin va
 
 Wat hierin noodzakelijk is, blijkt wederom dat wij ons bewustzijn niet overschatten, en dat wij, welk pad wij ook opwaarts nemen terug naar het spirituele, wij niet langer de *meer dan twijfelbare spiegeling die men werkelijkheid noemt tot absoluut verheffen*[^18] zoals het materialistische wereldbeeld dit doet.
 
-Want ook op politiek vlak heeft deze denkwijze zijn uitwerking en veroorzaakt.
+Want ook op politiek vlak heeft deze denkwijze haar uitwerking en veroorzaakt allerlei dwalingen. Wij komen zo aan het einde
 
 
 
