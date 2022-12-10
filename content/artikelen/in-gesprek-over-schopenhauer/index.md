@@ -72,6 +72,8 @@ Een noemenswaardig element dat Van Rossum hier toevoegt aan zijn uiteenzetting i
 
 Ook hier, namelijk, onthult zich de wil als  drijvende kracht achter de anorganische natuur; en zowel de zwaartekracht, als integratieve tendens; een principe dat niet strookt met een willekeurige dans van botsende deeltjes, als de paradox van het “fine-tuned universe” vinden in de wilshypothese hun plaats.
 
+“Materie—dat wat wij als materie zien—is wil. Deze drang, zowel onze wilsuitingen als de natuurkrachten, is de drang tot manifestatie in tijd en ruimte in de vorm van steeds grotere structuren. Dat zijn wij, dat is het leven, dat is materie, dat is evolutie, dat is het universum. Dat is alles, dat zijn wij.”[^13]
+
 
 
 [^1]: Marcel Proust, *La Prisonnière*, Ch. II
@@ -90,3 +92,5 @@ Ook hier, namelijk, onthult zich de wil als  drijvende kracht achter de anorgani
 [^11]: p. 85
 
 [^12]: p. 114
+
+[^13]: p. 117
