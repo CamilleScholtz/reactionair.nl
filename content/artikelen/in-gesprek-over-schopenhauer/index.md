@@ -83,11 +83,21 @@ Echter meent Van Rossum dat:
 
 > “Als het ding-op-zichzelf een wetmatige manifestatie in de tijd en in de ruimte is, als, met andere woorden, tijd, ruimte en causaliteit een essentieel onderdeel zijn van het ding-op-zichzelf, dan moeten die toch bestaan buiten het subject om?”[^14]
 
-De wil is zo een active manifestatie in de ruimte, een manifestatie bovendien die wij ook in onszelf herkennen. Het is op deze wijze dat verklaard kan worden dat de wereld bestond voordat er een bewustzijn was deze waar te nemen. Een belangrijke voetnoot is dat de wereld als voorstelling, wel degelijk afhankelijk is van het bewustzijn en de wereld an sich is dan ook niet in de voorstelling te vatten.
+De wil is zo een active manifestatie in de ruimte, een manifestatie bovendien die wij ook in onszelf herkennen. Het is op deze wijze dat verklaard kan worden dat de wereld bestond voordat er een bewustzijn was deze waar te nemen. Een belangrijke voetnoot is dat de wereld als voorstelling, wel degelijk afhankelijk is van het bewustzijn en de wereld an sich is dan ook niet in de voorstelling te vatten. Dit is, aldus Van Rossum, een onoverkomelijke grens van ons verstand.
 
-Uit de afwijzing van het idealisme volgen echter een aantal problemen, die een separate oplossing vereisen. Van Rossum springt hier elegant mee om en weet bevredigend voor elk van deze euvelen een antwoord te bieden. Als we bijvoorbeeld kijken naar het ethische aspect, het doven van de Wil, dan blijft in de niet-idealistische visie van Van Rossum het probleem dat met het doven van de wil slechts een, zo kunnen we zeggen, individuele wil, op zichzelf is teruggekeerd. Hier wordt geoppert dat totale verlossing wellicht niet lijkt plaats te vinden, maar dat er wellicht een toekomst bestaat waarin de wil van eenieder besluit op zichzelf terug te keren:
+Uit de afwijzing van het idealisme volgt echter nog een probleem, dat een separate oplossing vereist. Dit betreft het ethische aspect, het doven van de Wil; want in de niet-idealistische visie van Van Rossum blijft het probleem dat met het doven van de wil slechts een, zo kunnen we zeggen, individuele wil, op zichzelf is teruggekeerd.
 
-“Streven wij wellicht terug naar dat punt van perfecte orde, van eenheid? Is dat het doel van ons streven, en zullen wij—zal de wil—daar uiteindelijk rust vinden?”[^15]
+Het voortbestaan van de wil is zo afhankelijk van de afwijzing van het idealisme, want in het idealistische zal wereld in zekere zin met toeschouwer vergaan; de wil verstilt, keert terug naar zijn bron als één en ondeelbaar, en omdat deze één en ondeelbaar is, heft deze zich in zijn geheel op.
+
+Hier wordt geoppert dat totale verlossing wellicht niet lijkt plaats te vinden, maar dat er wellicht een toekomst bestaat waarin de wil van eenieder besluit op zichzelf terug te keren:
+
+> “Streven wij wellicht terug naar dat punt van perfecte orde, van eenheid? Is dat het doel van ons streven, en zullen wij—zal de wil—daar uiteindelijk rust vinden?”[^15]
+
+Ook hier is het voor het verstand moeilijk om ons van gidsing te voorzien, en de woorden van Koestler worden geciteerd:
+
+Logisch redeneren verliest geleidelijk zijn betekenis als kompas naarmate de geest de magnetische pool der waarheid nadert
+
+
 
 
 
