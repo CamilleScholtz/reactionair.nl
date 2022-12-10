@@ -128,17 +128,9 @@ Temidden van de onttovering zien wij dat met dergelijke ideologieën niet alleen
 
 In onze tijd passeren een grote verscheidenheid aan dergelijke ideologieën de revue, en velen daarvan kunnen wij beschouwen als variaties op het marxistische thema; waarbij slechts verschuift wie de onderdrukkers zijn en wie de onderdrukten. De nieuwe proletariërs die zich dienen te verenigen zijn minderheden met een bepaalde seksuele voorkeur of met een bepaalde etnische identiteit. \
 \
-De vermeende maakbaarheid des werelds en het schromelijk overschatten van het menselijk verstand vormen kernproblemen in het politieke discours. Het is dan ook met een politiek conservatieve houding, waarbij tradities die zeer langzaam tot stand zijn gekomen niet zomaar overboord worden gegooid en waarbij wordt erkend dat het verstand een slecht werkend kompas is dat wij deze utopische stromingen het hoofd kunnen bieden. Natuurlijk vereist een dergelijke politieke houding gedegen fundamenten; en het is derhalve noodzakelijk om de politiek in verbinding te brengen met een levensbeschouwelijk paradigma dat fundamenteel anders is dan het hedendaagse materialisme. \
+De vermeende maakbaarheid des werelds en het schromelijk overschatten van het menselijk verstand vormen kernproblemen in het politieke discours. Het is dan ook met een politiek conservatieve houding, waarbij tradities die zeer langzaam tot stand zijn gekomen niet zomaar overboord worden gegooid en waarbij wordt erkend dat het verstand een slecht werkend kompas is dat wij deze utopische stromingen het hoofd kunnen bieden. Natuurlijk vereist een dergelijke politieke houding gedegen fundamenten; en het is derhalve noodzakelijk om de politiek in verbinding te brengen met een levensbeschouwelijk paradigma dat fundamenteel anders is dan het hedendaagse. \
 \
-Dit vraagt van ons dat wij, zoals Van Rossum ons aantoont, de wereld fundamenteel anders moeten gaan beschouwen. Dat we het wereldbeeld waarbij de materiele wereld voor absoluut wordt gehouden ontmantelen en dat de mens weer een nieuwe zingeving zal vinden. Of dit in het Christendom gevonden kan worden, waarvan wij de aftakeling voor onze ogen zien gebeuren en waarvan de gelovigen grotendeels slechts nog omringd zijn door de brokstukken van hun heilige algemene Christelijke kerk, is te betwijfelen. Niettemin kunnen wij door op onze schreden terug te keren het verloren pad weer terugvinden. 
-
- 
-
-
-
-
-
-
+Dit vraagt van ons dat wij, zoals Van Rossum aantoont, de wereld fundamenteel anders moeten gaan beschouwen. Dat we het materialistische wereldbeeld ontmantelen en hier andere fundamenten voor in de plaats leggen. Alleen zo kunnen we de waan van de dag duiden en ons hiertegen wapenen. Dit zal ons in staat stellen de weg te vinden, de weg die ons naar zelfkennis voert, naar waarheid en naar verlossing.   
 
 [^1]: Marcel Proust, *La Prisonnière*, Ch. II
 
