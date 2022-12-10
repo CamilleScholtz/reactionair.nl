@@ -68,12 +68,6 @@ Het is dan ook door de wil dat wij ons zijn kunnen begrijpen en omdat we deze wi
 
 Wij dalen verder af na de wil zowel in onze onbewuste processen als in alle andere levende wetens te hebben ontwaard naar de levenloze natuur. Naast een heldere uitleg van Schopenhauers stelling dat de wil ook schuilt in wat wij natuurkrachten noemen, vinden wij hier hoe Van Rossum het fundament wegtrekt onder ons alledaagse begrip van objecten. Hij toont overtuigend aan dat objecten, of opeenhopingen van energie, enkel voor ons als objecten verschijnen in zoverre ze inwerken op andere opeenhopingen van energie—namelijk de fotonen in licht en in zoverre dit licht ons oog bereikt.[^12] 
 
-
-
-
-
-Ook de zwaartekracht en de notie van de nauwe veiligheidsmarges waarin het universum zich handhaaft zijn zo niet langer als mechanisch te beschouwen maar staan ook binnen de teleologische structuur van de wereld.
-
 Een noemenswaardig element dat Van Rossum hier toevoegt aan zijn uiteenzetting is de Holon-theorie die hij ontleent aan het werk van de Hongaars-Britse schrijver Arthur Koestler. Dit model gaat uit van een hierarchische structuur van eenheden (Holons) die zowel op zichzelf staan (een zelf-assertieve tendens hebben) alsook deel zijn van een groter geheel (een integratieve tendens hebben). Op deze manier slaat Van Rossum een brug tussen de levende als de levenloze natuur want dit model is op beiden goed toepasbaar.
 
 [^1]: Marcel Proust, *La Prisonnière*, Ch. II
