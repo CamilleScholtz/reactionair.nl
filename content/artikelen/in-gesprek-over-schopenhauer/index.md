@@ -126,9 +126,9 @@ Temidden van de onttovering zien wij dat met dergelijke ideologieën niet alleen
 
 \[I]t may be remarked that the cult of unity on the political level is only an idolatrous *ersatz* for the genuine religion of unity on the personal and spiritual levels. Totalitarian regimes justify their existence by means of a philosophy of political monism, according to which the state is God on earth, unification under the heel of the divine state is salvation, and all means to such unification, however intrinsically wicked, are right and may be used without scruple.[^20]
 
-In deze tijd passeren een grote verscheidenheid aan dergelijke ideologieen de revue, en velen daarvan kunnen wij beschouwen als variaties op het marxistische thema; waarbij slechts verschuift wie de onderdrukkers zijn en wie de onderdrukten. De nieuwe proletariërs die zich dienen te verenigen zijn minderheden met een bepaalde seksuele voorkeur of met een bepaalde etnische identiteit.
-
-Artikel: gelijkheid, artikel vooruitgang
+In onze tijd passeren een grote verscheidenheid aan dergelijke ideologieen de revue, en velen daarvan kunnen wij beschouwen als variaties op het marxistische thema; waarbij slechts verschuift wie de onderdrukkers zijn en wie de onderdrukten. De nieuwe proletariërs die zich dienen te verenigen zijn minderheden met een bepaalde seksuele voorkeur of met een bepaalde etnische identiteit. \
+\
+De vermeende maakbaarheid des werelds en het oversch
 
 Maakbare wereld; overschatten menselijk verstand: Schopenhauer over de functie van straf en de aanmoediging van sociale controle tot goed gedrag als motieven die zwaarder wegen voor de mens dan het verlangen slecht te doen. Ter onderdrukking van de aard der mensen
 
@@ -183,6 +183,6 @@ Mattheus XIII. 13-14
 
 [^19]: Parafrase uit het artikel [Homo Credens](https://reactionair.nl/artikelen/homo-credens/) dat eerder op deze website verscheen.
 
-[^20]: “Het mag opgemerkt worden dat de eenheidscultus op het politieke niveau slechts een huichelachtig surrogaat voor de ware eenheidsreligie op zowel het persoonlijke als het spirituele vlak is. Totalitaire regimes rechtvaardigen hun bestaan door middel van een filosofie van politiek monisme, in overeenstemming waarmede de staat God op aarde is, eenwording onder de hiel van de heilige staat verlossing, en alle middelen om deze eenwording te bereiken, hoezeer deze ook wezenlijk kwaadaardig zijn, juist en deze mogen zonder aangewend worden.”
+[^20]: “Het mag opgemerkt worden dat de eenheidscultus op het politieke niveau slechts een huichelachtig surrogaat voor de ware eenheidsreligie op zowel het persoonlijke als het spirituele vlak is. Totalitaire regimes rechtvaardigen hun bestaan door middel van een filosofie van politiek monisme, in overeenstemming waarmede de staat God op aarde is, eenwording onder de hiel van de heilige staat verlossing, en alle middelen om deze eenwording te bereiken juist, hoezeer deze ook wezenlijk kwaadaardig zijn, en deze mogen zonder gewetensbezwaren aangewend worden.”
 
 Aldous Huxley, The perennial philosophy, Ch. I
