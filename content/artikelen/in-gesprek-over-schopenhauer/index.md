@@ -122,7 +122,7 @@ Want ook op politiek vlak heeft deze denkwijze haar uitwerking en veroorzaakt al
 
 Met de ontkerkelijking en het materialisme is men begonnen met het zoeken van verlossing in de wereld zelf. Zo zien wij dat men de spirituele neiging verlegd heeft naar surrogaat-doelen; de religiositeit vindt uiting in politieke bewegingen: van het communistische en het socialistische, waar de oneerlijke verdeling van welvaart als de *radix malorum* wordt aangewezen tot de huidige klimaatbeweging—die zowel een schuldbeginsel, waarbij de zondeval ten tijde van de industriële revolutie plaats zou hebben gevonden, als een eschatologie bevat.
 
-Temidden van de onttovering zien wij dat met dergelijke ideologieën niet alleen niet afdoende wordt tegemoetgekomen aan de spirituele behoefte van de mens maar dat deze ook tot grote excessen van lijden kunnen lijden. De hoeveeldheid slachtoffers die het communisme en het nazisme gemaakt hebben in de vorige eeuw overstijgen
+Temidden van de onttovering zien wij dat met dergelijke ideologieën niet alleen niet afdoende wordt tegemoetgekomen aan de spirituele behoefte van de mens maar dat deze ook tot grote excessen van lijden kunnen lijden. De hoeveeldheid slachtoffers die het communisme en het nazisme tezamen gemaakt hebben in de vorige eeuw overstijgen de tientallen miljoenen.
 
 
 
