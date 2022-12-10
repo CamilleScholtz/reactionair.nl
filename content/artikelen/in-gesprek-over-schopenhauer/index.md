@@ -74,7 +74,14 @@ Ook hier, namelijk, onthult zich de wil als  drijvende kracht achter de anorgani
 
 “Materie—dat wat wij als materie zien—is wil. Deze drang, zowel onze wilsuitingen als de natuurkrachten, is de drang tot manifestatie in tijd en ruimte in de vorm van steeds grotere structuren. Dat zijn wij, dat is het leven, dat is materie, dat is evolutie, dat is het universum. Dat is alles, dat zijn wij.”[^13]
 
+\
+Tot nu toe heeft Van Rossum Schopenhauer op de voet gevolgd; echter op één vlak wijkt hij van zijn ideeën af. Het zevende hoofdstuk behandelt namelijk het idealisme; en hier wordt afgeweken van het adagium *esse est percipi* inzake de aard van het *zijn.*
 
+Hier wordt de kritiek geschetst, dat zowel tijd en ruimte reeds beslotem liggen in het begrip wil; daar het een zekere drang veronderstelt, en de idee van een wil buiten tijd en ruimte verliest alle betekenis. Deze afwijzing van het idealisme brengt Schopenhauers wilsfilosofie dichter bij de wetenschappelijke inzichten maar we lijken in zekere zin ook terug te keren naar een visie waarbij een half idealisme aan de dag wordt gelegd, waarbij meervoudigheid en successie de noumena kenmerken die schuilgaan achter de fenomenen. Spreken we hier niet in zekere zin wederom van de primaire en secundaire kwaliteiten van Locke? Die kwaliteiten die Berkeley zo kundig heeft ontmanteld voor ons in zijn fameuze dialoog tussen Philonous en Hylas?
+
+Hier komt Van Rossums ontmanteling van de klassieke idee van objecten echter om de hoek kijken en hij stelt:
+
+“Het is een active manifestatie in de ruimte, een active ruimtelijke realisatie, een manifestatie bovendien die wij ook in onszelf herkennen. Een realisatie die overigens eenvoudig is, maar pas meervoudig overkomt in de voorstelling. Maar een ook realisatie waar fundamenteel onmogelijk een voorstelling van te maken is.”[^14]
 
 
 
@@ -96,3 +103,5 @@ Ook hier, namelijk, onthult zich de wil als  drijvende kracht achter de anorgani
 [^12]: p. 114
 
 [^13]: p. 117
+
+[^14]: Uit correspondentie tussen de auteur en doctor van Rossum
