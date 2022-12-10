@@ -83,15 +83,17 @@ Echter meent Van Rossum dat:
 
 > “Als het ding-op-zichzelf een wetmatige manifestatie in de tijd en in de ruimte is, als, met andere woorden, tijd, ruimte en causaliteit een essentieel onderdeel zijn van het ding-op-zichzelf, dan moeten die toch bestaan buiten het subject om?”[^14]
 
-De wil is zo een active manifestatie in de ruimte, een manifestatie bovendien die wij ook in onszelf herkennen. Het is op deze wijze dat verklaard kan worden dat de wereld bestond voordat er een bewustzijn was deze waar te nemen. Een belangrijke voetnoot is dat de wereld als voorstelling, wel degelijk afhankelijk is van het bewustzijn en de wereld an sich is dan ook niet in de voorstelling te vatten. Dit is, aldus Van Rossum, een onoverkomelijke grens van ons verstand.
+De wil is zo een active manifestatie in de ruimte, een manifestatie bovendien die wij ook in onszelf herkennen. Het is op deze wijze dat verklaard kan worden dat de wereld bestond voordat er een bewustzijn was deze waar te nemen. Het bewustzijn is immers afhankelijk in zijn bestaan van de evolutionaire ontwikkelingen die tot zijn ontstaan hebben geleid. zo meent Van Rossum een paradox te bespeuren in het idealisme zoals Schopenhauer deze schetst, want:
 
+> “\[W]e zien dat volgens Schopenhauer aan de ene kant het bestaan van de hele wereld afhangt van het eerste kennende wezen, en hoe anderzijds het bestaan van dit eerste kennende wezen volkomen afhankelijk is van een lange keten van oorzaken en gevolgen die eraan vooraf is gegaan.” 
 
+Schopenhauer zou dit voorgenoemde als antinomie; een wijsgerige paradox beschouwen. Wat echter onbenoemd blijft is dat Schopenhauer deze antinomie oplost, want het is een term die hij slechts gebruikt om een schijntegenstelling aan te duiden en hij schrijft dan ook het volgende:
 
-“\[W]e zien dat volgens Schopenhauer aan de ene kant het bestaan van de hele wereld afhangt van het eerste kennende wezen, en hoe anderzijds het bestaan van dit eerste kennende wezen volkomen afhankelijk is van een lange keten van oorzaken en gevolgen die eraan vooraf is gegaan.” p. 130
+“Der sich uns hier zuletzt nothwendig ergebende Widerspruch findet jedoch seine Auflösung darin, daß, in Kants Sprache zu reden, Zeit, Raum und Kausalität nicht dem Dinge an sich zukommen, sondern allein seiner Erscheinung, deren Form sie sind; welches in meiner Sprache so lautet, daß die objektive Welt, die Welt als Vorstellung, nicht die einzige, sondern nur die eine, gleichsam die äußere Seite der Welt ist, welche noch eine ganz und gar andere Seite hat, die ihr Innerstes Wesen, ihr Kern, das Ding an sich ist: und dieses werden wir im folgenden Buche betrachten, es benennend, nach der unmittelbarsten seiner Objektivationen, Wille. Die Welt als Vorstellung aber, welche allein wir hier betrachten, hebt allerdings erst an mit dem Aufschlagen des ersten Auges, ohne welches Medium der Erkenntniß sie nicht seyn kann, also auch nicht vorher war.”[^17]
 
-Volgens Van Rossum beschouwt Schopenhauer dit voorgenoemde als antinomie; een wijsgerige paradox. Wat echter onbenoemd blijft is hoe Schopenhauer deze antinomie oplost, want het is een term die hij slechts gebruikt om een schijntegenstelling aan te duiden en hij schrijft dan ook het volgende:
+Dit is ondanks zijn kritische noot inzake deze passage toch ook wat Van Rossum zegt; want de wereld als voorstelling is wel degelijk afhankelijk van het verstand. Het is echter een onoverkomelijke grens van ons verstand, dat de wereld zoals deze an sich is, onmogelijk voor te stellen is.
 
-Uit de afwijzing van het idealisme volgt echter nog een probleem, dat een separate oplossing vereist. Dit betreft het ethische aspect, het doven van de Wil; want in de niet-idealistische visie van Van Rossum blijft het probleem dat met het doven van de wil slechts een, zo kunnen we zeggen, individuele wil, op zichzelf is teruggekeerd.
+Uit de afwijzing van het idealisme volgt echter wel een probleem, dat een separate oplossing vereist. Dit betreft het ethische aspect, het doven van de Wil; want in de niet-idealistische visie van Van Rossum blijft het probleem dat met het doven van de wil slechts een, zo kunnen we zeggen, individuele wil, op zichzelf is teruggekeerd.
 
 Het voortbestaan van de wil is zo afhankelijk van de afwijzing van het idealisme, want in het idealistische zal wereld in zekere zin met toeschouwer vergaan; de wil verstilt, keert terug naar zijn bron als één en ondeelbaar, en omdat deze één en ondeelbaar is, heft deze zich in zijn geheel op.
 
@@ -129,3 +131,7 @@ Logisch redeneren verliest geleidelijk zijn betekenis als kompas naarmate de gee
 [^14]: p. 126
 
 [^15]: p. 159
+
+[^16]: p. 130
+
+[^17]: Schopenhauer, Die Welt als Wille und Vorstellung, I. Band, I. Buch, §7
