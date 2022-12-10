@@ -124,11 +124,13 @@ Met de ontkerkelijking en het materialisme is men begonnen met het zoeken van ve
 
 Temidden van de onttovering zien wij dat met dergelijke ideologieën niet alleen niet afdoende wordt tegemoetgekomen aan de spirituele behoefte van de mens maar dat deze ook tot grote excessen van lijden kunnen lijden. De hoeveeldheid slachtoffers die het communisme en het nazisme tezamen gemaakt hebben in de vorige eeuw overstijgen de tientallen miljoenen. Over een materialistische invulling op het politieke vlak van onze spirituele neiging schrijft Huxley dan ook dat:
 
-\[I]t may be remarked that the cult of unity on the political level is only an idolatrous *ersatz* for the genuine religion of unity on the personal and spiritual levels. Totalitarian regimes justify their existence by means of a philosophy of political monism, according to which the state is God on earth, unification under the heel of the divine state is salvation, and all means to such unification, however intrinsically wicked, are right and may be used without scruple.[^20]
+> \[I]t may be remarked that the cult of unity on the political level is only an idolatrous *ersatz* for the genuine religion of unity on the personal and spiritual levels. Totalitarian regimes justify their existence by means of a philosophy of political monism, according to which the state is God on earth, unification under the heel of the divine state is salvation, and all means to such unification, however intrinsically wicked, are right and may be used without scruple.[^20]
 
 In onze tijd passeren een grote verscheidenheid aan dergelijke ideologieën de revue, en velen daarvan kunnen wij beschouwen als variaties op het marxistische thema; waarbij slechts verschuift wie de onderdrukkers zijn en wie de onderdrukten. De nieuwe proletariërs die zich dienen te verenigen zijn minderheden met een bepaalde seksuele voorkeur of met een bepaalde etnische identiteit. \
 \
-De vermeende maakbaarheid des werelds en het schromelijk overschatten van het menselijk verstand vormen kernproblemen in het politieke discours. Het is dan ook met een conservatieve houding, waarbij tradities die zeer langzaam tot stand zijn gekomen niet zomaar overboord worden gegooid en waarbij wordt erkend dat het verstand een slecht werkend kompas is dat wij deze utopische stromingen het hoofd kunnen bieden.
+De vermeende maakbaarheid des werelds en het schromelijk overschatten van het menselijk verstand vormen kernproblemen in het politieke discours. Het is dan ook met een politiek conservatieve houding, waarbij tradities die zeer langzaam tot stand zijn gekomen niet zomaar overboord worden gegooid en waarbij wordt erkend dat het verstand een slecht werkend kompas is dat wij deze utopische stromingen het hoofd kunnen bieden. Natuurlijk vereist een dergelijke politieke houding gedegen fundamenten; en het is noodzakelijk om de ideologische levenshouding in verbinding te brengen met een levensbeschouwelijk paradigma dat fundamenteel anders is dan het hedendaagse materialisme. 
+
+De weg voorwaarts is de weg terug; en wordt ons 
 
 
 
