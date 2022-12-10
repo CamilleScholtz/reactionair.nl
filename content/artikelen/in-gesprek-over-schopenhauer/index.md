@@ -104,13 +104,19 @@ Als mogelijke oplossing voor dit probleem wordt geoppert dat er op kosmische sch
 \
 Dit blijft echter speculatie; wij kunnen dit niet weten, niettemin blijft Van Rossum hoopvol. Als de wil ondanks individuele verlossing toch door blijft razen—als er geen eeuwige verlossing is—biedt dit toch een welkom moment van rust in de storm van het bestaan.
 
-Ook in het verkrijgen van mystieke wijsheid  is het verstand iets wat onze blik beperkt en kan het ons niet als wegwijzer dienen. Om de direct verkregen inzichten toch over te kunnen brengen en over de abstractie te kunnen tillen van het droge verstandelijke bedienen de profeten, oude wijzen en stichters van religies zich derhalve van de rijkdom van het allegorische. \
+Ook in het verkrijgen van mystieke wijsheid  is het verstand iets wat onze blik beperkt en kan het ons niet als wegwijzer dienen. Om de direct verkregen inzichten toch over te kunnen brengen en over de abstractie te kunnen tillen van het droge verstandelijke bedienen de profeten, oude wijzen en stichters van religies zich derhalve van de rijkdom van het allegorische.
+
+>  Ideo in parabolis loquor eis: quia videntes non vident, et audientes non audiunt, neque intelligunt.
+>
+> [](<>)Et adimpletur in eis prophetia Isaiæ, dicentis: Auditu audietis, et non intelligetis:\
+> et videntes videbitis, et non videbitis.[^18]
+
 \
 Wat dan ook in de visie van Van Rossum naar voren komt is dat een deel van de verlorenheid die de mens in de hedendaagse wereld ervaart te wijten is aan de mate waarin de allegorieën van de verschillende religies passen bij de tijd en de omstandigheden daar dit beïnvloedt of zij effectief de waarheden die daarin besloten liggen over te kunnen brengen. De westerse mens zou uit het Christendom gegroeid zijn als kind uit zijn kleren.
 
 Ook dit hangt wederom samen met het materialisme, dat zich tot de laatste zin van het boek laat zien als een fundamentele dwaling in onze mentaliteit. De moderne mens dwingt zichzelf daarom ook religie volgens de maatstaven van het letterlijke en het figuurlijke te beschouwen en dit is ook wat de absurdistische taferelen van Christenen die Gods letterlijke bestaan pogen te verdedigen veroorzaakt, terwijl hun waarheden, allegorisch als zij zijn, op een geheel ander *niveau* waar zijn, zowel boven het letterlijke als het figuurlijke uitstijgende.
 
-Wat hierin noodzakelijk is, blijkt wederom dat wij ons bewustzijn niet overschatten, en dat wij, welk pad wij ook opwaarts nemen terug naar het spirituele, wij niet langer de *meer dan twijfelbare spiegeling die men werkelijkheid noemt tot absoluut verheffen*[^18] zoals het materialistische wereldbeeld dit doet.
+Wat hierin noodzakelijk is, blijkt wederom dat wij ons bewustzijn niet overschatten, en dat wij, welk pad wij ook opwaarts nemen terug naar het spirituele, wij niet langer de *meer dan twijfelbare spiegeling die men werkelijkheid noemt tot absoluut verheffen*[^19] zoals het materialistische wereldbeeld dit doet.
 
 Want ook op politiek vlak heeft deze denkwijze haar uitwerking en veroorzaakt allerlei dwalingen. Wij komen zo aan het einde van onze reis en ook vinden wij hier hoe al de voorgaande reflecties hun weerslag vinden in de problemen die wij heden ten dage om ons heen zien. De moderne mens is verloren geraakt in de betonnen wildernis, waar de fata morgana‘s van zijn individuele verlangens hem leiden. 
 
@@ -151,6 +157,12 @@ Schopenhauer, Die Welt als Wille und Vorstellung, I. Band, I. Buch, §7
 
 [^17]: p. 159
 
-[^18]: Parafrase uit het artikel [Homo Credens](https://reactionair.nl/artikelen/homo-credens/) dat eerder op deze website verscheen.
+[^18]: [](<>)Daarom spreek Ik tot hen door gelijkenissen, omdat zij ziende niet zien, en horende niet horen, noch ook verstaan.
 
-[^19]:
+[](<>)En in hen wordt de profetie van Jesaja vervuld, die zegt: Met het gehoor zult gij horen, en geenszins verstaan; en ziende zult gij zien, en geenszins bemerken.
+
+Mattheus XIII. 13-14
+
+[^19]: Parafrase uit het artikel [Homo Credens](https://reactionair.nl/artikelen/homo-credens/) dat eerder op deze website verscheen.
+
+[^20]:
