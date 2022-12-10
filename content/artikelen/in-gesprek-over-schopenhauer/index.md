@@ -101,9 +101,7 @@ Als mogelijke oplossing voor dit probleem wordt geoppert dat er op kosmische sch
 
 > “Streven wij wellicht terug naar dat punt van perfecte orde, van eenheid? Is dat het doel van ons streven, en zullen wij—zal de wil—daar uiteindelijk rust vinden?”[^15]
 
-Ook hier is het voor het verstand moeilijk om ons van gidsing te voorzien, en de woorden van Koestler worden geciteerd:
-
-Logisch redeneren verliest geleidelijk zijn betekenis als kompas naarmate de geest de magnetische pool der waarheid nadert
+Ook hier is het verstand iets wat onze blik beperkt en kan het ons niet als wegwijzer dienen. 
 
 
 
