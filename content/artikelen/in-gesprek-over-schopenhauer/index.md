@@ -130,10 +130,9 @@ In onze tijd passeren een grote verscheidenheid aan dergelijke ideologieën de r
 \
 De vermeende maakbaarheid des werelds en het schromelijk overschatten van het menselijk verstand vormen kernproblemen in het politieke discours. Het is dan ook met een politiek conservatieve houding, waarbij tradities die zeer langzaam tot stand zijn gekomen niet zomaar overboord worden gegooid en waarbij wordt erkend dat het verstand een slecht werkend kompas is dat wij deze utopische stromingen het hoofd kunnen bieden. Natuurlijk vereist een dergelijke politieke houding gedegen fundamenten; en het is derhalve noodzakelijk om de politiek in verbinding te brengen met een levensbeschouwelijk paradigma dat fundamenteel anders is dan het hedendaagse materialisme. \
 \
-Dit vraagt van ons dat wij, zoals Van Rossum ons aantoont, de wereld fundamenteel anders moeten gaan beschouwen. Dat we haar 
+Dit vraagt van ons dat wij, zoals Van Rossum ons aantoont, de wereld fundamenteel anders moeten gaan beschouwen. Dat we het wereldbeeld waarbij de materiele wereld voor absoluut wordt gehouden ontmantelen en dat de mens weer een nieuwe zingeving zal vinden. Of dit in het Christendom gevonden kan worden, waarvan wij de aftakeling voor onze ogen zien gebeuren en waarvan de gelovigen grotendeels slechts nog omringd zijn door de brokstukken van hun heilige algemene Christelijke kerk, is te betwijfelen. Niettemin kunnen wij door op onze schreden terug te keren het verloren pad weer terugvinden. 
 
-\
- van ons dat wij ons bezinnen op onze moderne levenswijze; op onze schreden terugkeren en de onbegrensde mogelijkheden onze verlangens onmiddellijk te bevredigen weerstaan. Dit vAlleen dan kunnen wij, dolende mensen, het juiste pad weer terugvinden. Alleen dan
+ 
 
 
 
