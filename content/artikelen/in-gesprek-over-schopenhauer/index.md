@@ -97,6 +97,8 @@ Uit de afwijzing van het idealisme volgt echter wel een probleem, dat een separa
 
 Het voortbestaan van de wil is zo afhankelijk van de afwijzing van het idealisme, want in het idealistische zal wereld in zekere zin met toeschouwer vergaan; de wil verstilt, keert terug naar zijn bron als één en ondeelbaar, en omdat deze één en ondeelbaar is, heft deze zich in zijn geheel op.
 
+
+
 Hier wordt geoppert dat totale verlossing wellicht niet lijkt plaats te vinden, maar dat er wellicht een toekomst bestaat waarin de wil van eenieder besluit op zichzelf terug te keren:
 
 > “Streven wij wellicht terug naar dat punt van perfecte orde, van eenheid? Is dat het doel van ons streven, en zullen wij—zal de wil—daar uiteindelijk rust vinden?”[^15]
