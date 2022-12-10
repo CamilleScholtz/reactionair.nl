@@ -85,11 +85,11 @@ Echter meent Van Rossum dat:
 
 De wil is zo een active manifestatie in de ruimte, een manifestatie bovendien die wij ook in onszelf herkennen. Het is op deze wijze dat verklaard kan worden dat de wereld bestond voordat er een bewustzijn was deze waar te nemen. Het bewustzijn is immers afhankelijk in zijn bestaan van de evolutionaire ontwikkelingen die tot zijn ontstaan hebben geleid. zo meent Van Rossum een paradox te bespeuren in het idealisme zoals Schopenhauer deze schetst, want:
 
-> “\[W]e zien dat volgens Schopenhauer aan de ene kant het bestaan van de hele wereld afhangt van het eerste kennende wezen, en hoe anderzijds het bestaan van dit eerste kennende wezen volkomen afhankelijk is van een lange keten van oorzaken en gevolgen die eraan vooraf is gegaan.” 
+> “\[W]e zien dat volgens Schopenhauer aan de ene kant het bestaan van de hele wereld afhangt van het eerste kennende wezen, en hoe anderzijds het bestaan van dit eerste kennende wezen volkomen afhankelijk is van een lange keten van oorzaken en gevolgen die eraan vooraf is gegaan.” [^15]
 
 Schopenhauer zou dit voorgenoemde als antinomie; een wijsgerige paradox beschouwen. Wat echter onbenoemd blijft is dat Schopenhauer de antinomieën van Kant verwierp als *Spiegelfechterei* en, dat hij deze term slechts gebruikt om een schijntegenstelling aan te duiden. Hij schrijft dan ook het volgende:
 
-> “Der sich uns hier zuletzt nothwendig ergebende Widerspruch findet jedoch seine Auflösung darin, daß, in Kants Sprache zu reden, Zeit, Raum und Kausalität nicht dem Dinge an sich zukommen, sondern allein seiner Erscheinung, deren Form sie sind; welches in meiner Sprache so lautet, daß die objektive Welt, die Welt als Vorstellung, nicht die einzige, sondern nur die eine, gleichsam die äußere Seite der Welt ist, welche noch eine ganz und gar andere Seite hat, die ihr Innerstes Wesen, ihr Kern, das Ding an sich ist: und dieses werden wir im folgenden Buche betrachten, es benennend, nach der unmittelbarsten seiner Objektivationen, Wille. Die Welt als Vorstellung aber, welche allein wir hier betrachten, hebt allerdings erst an mit dem Aufschlagen des ersten Auges, ohne welches Medium der Erkenntniß sie nicht seyn kann, also auch nicht vorher war.”[^17]
+> “Der sich uns hier zuletzt nothwendig ergebende Widerspruch findet jedoch seine Auflösung darin, daß, in Kants Sprache zu reden, Zeit, Raum und Kausalität nicht dem Dinge an sich zukommen, sondern allein seiner Erscheinung, deren Form sie sind; welches in meiner Sprache so lautet, daß die objektive Welt, die Welt als Vorstellung, nicht die einzige, sondern nur die eine, gleichsam die äußere Seite der Welt ist, welche noch eine ganz und gar andere Seite hat, die ihr Innerstes Wesen, ihr Kern, das Ding an sich ist: und dieses werden wir im folgenden Buche betrachten, es benennend, nach der unmittelbarsten seiner Objektivationen, Wille. Die Welt als Vorstellung aber, welche allein wir hier betrachten, hebt allerdings erst an mit dem Aufschlagen des ersten Auges, ohne welches Medium der Erkenntniß sie nicht seyn kann, also auch nicht vorher war.”[^16]
 
 Dit is ondanks zijn kritische noot inzake deze passage toch ook exact wat Van Rossum zegt; want de wereld *als voorstelling* is wel degelijk afhankelijk van het bewustzijn. Het is echter een onoverkomelijke grens van ons verstand, dat de wereld zoals deze *an sich* is, onmogelijk is voor te stellen.
 
@@ -99,7 +99,7 @@ Het voortbestaan van de wil is zo afhankelijk van de afwijzing van het idealisme
 
 Als mogelijke oplossing voor dit probleem wordt geoppert dat er op kosmische schaal wellicht ondanks dat er geen einde aan het lijden des werelds in zich is een moment zal zijn, een eindpunt waar de wil rust zal vinden:
 
-> “Streven wij wellicht terug naar dat punt van perfecte orde, van eenheid? Is dat het doel van ons streven, en zullen wij—zal de wil—daar uiteindelijk rust vinden?”[^15]
+> “Streven wij wellicht terug naar dat punt van perfecte orde, van eenheid? Is dat het doel van ons streven, en zullen wij—zal de wil—daar uiteindelijk rust vinden?”[^17]
 
 Ook hier is het verstand iets wat onze blik beperkt en kan het ons niet als wegwijzer dienen. Om de direct verkregen inzichten toch over te kunnen brengen en over de abstractie te kunnen tillen van het droge verstandelijke bedienen de profeten, oude wijzen en stichters van religies zich van allegorieën. \
 \
@@ -132,10 +132,10 @@ Ook dit hangt wederom samen met het materialisme, dat zich tot de laatste zin va
 
 [^14]: p. 126
 
-[^15]: p. 159
+[^15]: p. 130
 
-[^16]: p. 130
-
-[^17]: “De tegenstrijdigheid die hier ten slotte noodzakelijkerwijs uit voortvloeit vind echter zijn oplossing in het gegeven dat, om met Kants woorden te spreken, tijd, ruimte en causaliteit niet het Ding-an-sich toebehoren, maar slechts zijn verschijning, wier vorm zij zijn; wat in mijn woorden zo klinkt, dat de objectieve wereld, de wereld als voorstelling, niet de enige, maar louter de ene, als het ware uiterlijke zijde des werelds is, die tevens een totaal andere zijde heeft, die haar binnenste wezen, haar kern, het Ding-an-sich is: en deze zullen we in het volgende boek beschouwen, waar we het naar de meest directe objectivering, wil noemen. De wereld als voorstelling waartoe wij ons hier beperken vangt daarentegen pas aan met het openen van het eerste oog, zonder wiens medium van aanschouwing deze niet kan bestaan, derhalve voorheen ook niet was.” (Vert. auteur)
+[^16]: “De tegenstrijdigheid die hier ten slotte noodzakelijkerwijs uit voortvloeit vind echter zijn oplossing in het gegeven dat, om met Kants woorden te spreken, tijd, ruimte en causaliteit niet het Ding-an-sich toebehoren, maar slechts zijn verschijning, wier vorm zij zijn; wat in mijn woorden zo klinkt, dat de objectieve wereld, de wereld als voorstelling, niet de enige, maar louter de ene, als het ware uiterlijke zijde des werelds is, die tevens een totaal andere zijde heeft, die haar binnenste wezen, haar kern, het Ding-an-sich is: en deze zullen we in het volgende boek beschouwen, waar we het naar de meest directe objectivering, wil noemen. De wereld als voorstelling waartoe wij ons hier beperken vangt daarentegen pas aan met het openen van het eerste oog, zonder wiens medium van aanschouwing deze niet kan bestaan, derhalve voorheen ook niet was.” (Vert. auteur)
 
 Schopenhauer, Die Welt als Wille und Vorstellung, I. Band, I. Buch, §7
+
+[^17]: p. 159
