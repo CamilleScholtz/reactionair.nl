@@ -115,43 +115,7 @@ Met de ontkerkelijking en het materialisme is men begonnen met het zoeken van ve
 
 
 
-1 [Verti me ad alia, et vidi calumnias
 
-quæ sub sole geruntur,
-
-et lacrimas innocentium,
-
-et neminem consolatorem,
-
-nec posse resistere eorum violentiæ,
-
-cunctorum auxilio destitutos,
-
-2 et laudavi magis mortuos quam viventes;
-
-3 et feliciorem utroque judicavi
-
-qui necdum natus est,
-
-nec vidit mala quæ sub sole fiunt
-
-
-
-So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
-
-2 Wherefore I praised the dead which are already dead more than the living which are yet alive.
-
-3 Yea, better is he than both they, which hath not yet been, who hath not seen the evil work that is done under the sun.
-
-
-
-Daarna wende ik mij, en zag aan al de onderdrukkingen, die onder de zon geschieden; en ziet, er waren de tranen der verdrukten, en dergenen, die geen trooster hadden; en aan de zijde hunner verdrukkers was macht, zij daarentegen hadden geen vertrooster.
-
-2 Dies prees ik de doden, die alrede gestorven waren, boven de levenden, die tot nog toe levend zijn.
-
-3 Ja, hij is beter dan die beiden, die nog niet geweest is, die niet gezien heeft het boze werk, dat onder de zon geschiedt.
-
-~ Ecclesiastes 4
 
 
 
