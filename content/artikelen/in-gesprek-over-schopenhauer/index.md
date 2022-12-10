@@ -153,6 +153,8 @@ Daarna wende ik mij, en zag aan al de onderdrukkingen, die onder de zon geschied
 
 ~ Ecclesiastes 4
 
+
+
 [^1]: Marcel Proust, *La Prisonnière*, Ch. II
 
 [^2]: Dit artikel, geschreven ter gelegenheid van een lezing van Van Rossum in juni 2022, kunt u [hier](*[https://reactionair.nl/​artikelen/de-willende-wereld/](https://reactionair.nl/artikelen/de-willende-wereld/)*) lezen.\
