@@ -126,11 +126,7 @@ Temidden van de onttovering zien wij dat met dergelijke ideologieën niet alleen
 
 \[I]t may be remarked that the cult of unity on the political level is only an idolatrous *ersatz* for the genuine religion of unity on the personal and spiritual levels. Totalitarian regimes justify their existence by means of a philosophy of political monism, according to which the state is God on earth, unification under the heel of the divine state is salvation, and all means to such unification, however intrinsically wicked, are right and may be used without scruple.[^20]
 
-
-
-Onttovering/mensen zijn ten diepste diep spiritueel
-
-Variaties op het marxistische thema
+In deze tijd passeren een grote verscheidenheid aan dergelijke ideologieen de revue, en velen daarvan kunnen wij beschouwen als variaties op het marxistische thema; waarbij slechts verschuift wie de onderdrukkers zijn en wie de onderdrukten. De nieuwe proletariërs die zich dienen te verenigen zijn minderheden met een bepaalde seksuele voorkeur of met een bepaalde etnische identiteit.
 
 Artikel: gelijkheid, artikel vooruitgang
 
