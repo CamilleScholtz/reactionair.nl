@@ -150,7 +150,7 @@ Dit vraagt van ons dat wij, zoals Van Rossum aantoont, de wereld fundamenteel an
 
 [^8]: p. 64 \
 \
-[^9]: p. 75
+[^9]: p. 75 
 
 [^10]: Parafrase van een passage op p. 79
 
