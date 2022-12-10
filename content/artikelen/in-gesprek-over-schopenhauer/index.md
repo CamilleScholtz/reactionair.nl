@@ -135,12 +135,19 @@ Dit vraagt van ons dat wij, zoals Van Rossum aantoont, de wereld fundamenteel an
 [^1]: Marcel Proust, *La Prisonnière*, Ch. II
 
 [^2]: Dit artikel, geschreven ter gelegenheid van een lezing van Van Rossum in juni 2022, kunt u [hier](*[https://reactionair.nl/​artikelen/de-willende-wereld/](https://reactionair.nl/artikelen/de-willende-wereld/)*) lezen.\
+\
 [^3]: p. 19\
+\
 [^4]: p. 38\
+\
 [^5]: p. 47; het originele citaat luidt: “*Es ist der Sonne ähnlich, die bloß unsern irdischen Augen unterzugehn scheint, die aber eigentlich nie untergeht, sondern unaufhörlich fortleuchtet*”. Deze zou van Goethe zijn, hoewel Schopenhauer beweert dat Goethe deze redewending juist van hem had.\
+\
 [^6]: p. 49\
-[^7]: p. 55\
+\
+[^7]: p. 55
+
 [^8]: p. 64 \
+\
 [^9]: p. 75
 
 [^10]: Parafrase van een passage op p. 79
@@ -157,7 +164,7 @@ Dit vraagt van ons dat wij, zoals Van Rossum aantoont, de wereld fundamenteel an
 
 [^16]: “De tegenstrijdigheid die hier ten slotte noodzakelijkerwijs uit voortvloeit vind echter zijn oplossing in het gegeven dat, om met Kants woorden te spreken, tijd, ruimte en causaliteit niet het Ding-an-sich toebehoren, maar slechts zijn verschijning, wier vorm zij zijn; wat in mijn woorden zo klinkt, dat de objectieve wereld, de wereld als voorstelling, niet de enige, maar louter de ene, als het ware uiterlijke zijde des werelds is, die tevens een totaal andere zijde heeft, die haar binnenste wezen, haar kern, het Ding-an-sich is: en deze zullen we in het volgende boek beschouwen, waar we het naar de meest directe objectivering, wil noemen. De wereld als voorstelling waartoe wij ons hier beperken vangt daarentegen pas aan met het openen van het eerste oog, zonder wiens medium van aanschouwing deze niet kan bestaan, derhalve voorheen ook niet was.” (Vert. auteur)
 
-Schopenhauer, Die Welt als Wille und Vorstellung, I. Band, I. Buch, §7
+Arthur Schopenhauer, Die Welt als Wille und Vorstellung, I. Band, I. Buch, §7
 
 [^17]: p. 159
 
