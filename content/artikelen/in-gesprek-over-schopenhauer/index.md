@@ -101,7 +101,9 @@ Als mogelijke oplossing voor dit probleem wordt geoppert dat er op kosmische sch
 
 > “Streven wij wellicht terug naar dat punt van perfecte orde, van eenheid? Is dat het doel van ons streven, en zullen wij—zal de wil—daar uiteindelijk rust vinden?”[^15]
 
-Ook hier is het verstand iets wat onze blik beperkt en kan het ons niet als wegwijzer dienen. Om de direct verkregen inzichten toch over te kunnen brengen en over de abstractie te kunnen tillen van het droge verstandelijke bedienen de profeten, oude wijzen en stichters van religies zich van allegorieën. Van Rossum besteedt hier het voorlaatste hoofdstuk van zijn boek aan. 
+Ook hier is het verstand iets wat onze blik beperkt en kan het ons niet als wegwijzer dienen. Om de direct verkregen inzichten toch over te kunnen brengen en over de abstractie te kunnen tillen van het droge verstandelijke bedienen de profeten, oude wijzen en stichters van religies zich van allegorieën. \
+\
+Wat dan ook in de visie van Van Rossum naar voren komt is dat een deel van de verlorenheid die de mens in de hedendaagse wereld ervaart te wijten is aan de mate waarin de allegorieën van de verschillende religies passen bij de tijd en de omstandigheden daar dit beïnvloedt of zij effectief de waarheden die daarin besloten liggen over te kunnen brengen. De westerse mens zou uit het Christendom gegroeid zijn als kind uit zijn kleren.
 
 
 
