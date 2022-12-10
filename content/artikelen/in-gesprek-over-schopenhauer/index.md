@@ -183,8 +183,6 @@ Mattheus XIII. 13-14
 
 [^19]: Parafrase uit het artikel [Homo Credens](https://reactionair.nl/artikelen/homo-credens/) dat eerder op deze website verscheen.
 
-[^20]: Het mag opgemerkt worden dat de eenheidscultus op het politieke niveau slechts een huichelachtig surrogaat voor de ware eenheidsreligie op zowel het persoonlijke als het spirituele vlak is. Totalitaire regimes rechtvaardigen hun bestaan door middel van een filosofie van politiek monisme, 
-
- according to which the state is God on earth, unification under the heel of the divine state is salvation, and all means to such unification, however intrinsically wicked, are right and may be used without scruple.
+[^20]: “Het mag opgemerkt worden dat de eenheidscultus op het politieke niveau slechts een huichelachtig surrogaat voor de ware eenheidsreligie op zowel het persoonlijke als het spirituele vlak is. Totalitaire regimes rechtvaardigen hun bestaan door middel van een filosofie van politiek monisme, in overeenstemming waarmede de staat God op aarde is, eenwording onder de hiel van de heilige staat verlossing, en alle middelen om deze eenwording te bereiken, hoezeer deze ook wezenlijk kwaadaardig zijn, juist en deze mogen zonder aangewend worden.”
 
 Aldous Huxley, The perennial philosophy, Ch. I
