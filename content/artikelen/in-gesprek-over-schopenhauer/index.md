@@ -66,7 +66,11 @@ Het is dan ook door de wil dat wij ons zijn kunnen begrijpen en omdat we deze wi
 
 > “Vanuit één kant gezien overkomt het leven ons. Wij worden op een schijnbaar willekeurig moment in de tijd in het leven geworpen als uit het niets, behept met een lichaam dat wij niet gecreëerd hebben. Zo dient het leven zich aan in de verschijning. Maar aan de andere, veel essentiëlere kant, namelijk de metafysische, zijn wij die schepper zelf. Wij staan zelf aan de basis van het lichaam, ons zijn, ons alles; wij zijn de schepper van onszelf en van de hele creatie, alhoewel deze kennis zich niet vanzelf aandient.” p. 99
 
-Wij dalen verder af na de wil zowel in onze onbewuste processen als in alle andere levende wetens te hebben ontwaard naar de levenloze natuur. Naast een heldere uitleg van Schopenhauers stelling dat de wil ook schuilt in wat wij natuurkrachten noemen, vinden wij hier hoe Van Rossum het fundament wegtrekt onder ons alledaagse begrip van objecten. Zo toont hij overtuigend aan dat bijvoorbeeld de objecten die wij zien afhankelijk zijn van de aanwezigheid van licht en we zowel het waargenomene als het licht dat de waarneming mogelijk maakt als energieophopingen moeten beschouwen.
+Wij dalen verder af na de wil zowel in onze onbewuste processen als in alle andere levende wetens te hebben ontwaard naar de levenloze natuur. Naast een heldere uitleg van Schopenhauers stelling dat de wil ook schuilt in wat wij natuurkrachten noemen, vinden wij hier hoe Van Rossum het fundament wegtrekt onder ons alledaagse begrip van objecten. Hij toont overtuigend aan dat objecten, of opeenhopingen van energie, enkel voor ons als objecten verschijnen in zoverre ze inwerken op andere opeenhopingen van energie—namelijk de fotonen in licht en in zoverre dit licht ons oog bereikt.[^12] 
+
+
+
+
 
 Ook de zwaartekracht en de notie van de nauwe veiligheidsmarges waarin het universum zich handhaaft zijn zo niet langer als mechanisch te beschouwen maar staan ook binnen de teleologische structuur van de wereld.
 
@@ -86,3 +90,5 @@ Een noemenswaardig element dat Van Rossum hier toevoegt aan zijn uiteenzetting i
 [^10]: p. 79; parafrase
 
 [^11]: p. 85
+
+[^12]: p. 114
