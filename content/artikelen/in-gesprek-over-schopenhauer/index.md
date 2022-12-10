@@ -101,7 +101,7 @@ Als mogelijke oplossing voor dit probleem wordt geoppert dat er op kosmische sch
 
 > “Streven wij wellicht terug naar dat punt van perfecte orde, van eenheid? Is dat het doel van ons streven, en zullen wij—zal de wil—daar uiteindelijk rust vinden?”[^15]
 
-Ook hier is het verstand iets wat onze blik beperkt en kan het ons niet als wegwijzer dienen. Om de direct verkregen inzichten toch over te kunnen dragen en over de abstractie te kunnen tillen van het droge verstandelijke bedienen de profeten, oude wijzen en stichters van religies zich van allegorieën. Van Rossum besteedt het voorlaatste hoofdstuk van zijn boek om aan te tonen hoe 
+Ook hier is het verstand iets wat onze blik beperkt en kan het ons niet als wegwijzer dienen. Om de direct verkregen inzichten toch over te kunnen dragen en over de abstractie te kunnen tillen van het droge verstandelijke bedienen de profeten, oude wijzen en stichters van religies zich van allegorieën. Van Rossum besteedt het voorlaatste hoofdstuk van zijn boek aan de rol die religie kan spelen.
 
 
 
