@@ -85,7 +85,9 @@ Echter meent Van Rossum dat:
 
 De wil is zo een active manifestatie in de ruimte, een manifestatie bovendien die wij ook in onszelf herkennen. Het is op deze wijze dat verklaard kan worden dat de wereld bestond voordat er een bewustzijn was deze waar te nemen. Een belangrijke voetnoot is dat de wereld als voorstelling, wel degelijk afhankelijk is van het bewustzijn en de wereld an sich is dan ook niet in de voorstelling te vatten.
 
+Uit de afwijzing van het idealisme volgen echter een aantal problemen, die een separate oplossing vereisen. Van Rossum springt hier elegant mee om en weet bevredigend voor elk van deze euvelen een antwoord te bieden. Als we bijvoorbeeld kijken naar het ethische aspect, het doven van de Wil, dan blijft in de niet-idealistische visie van Van Rossum het probleem dat met het doven van de wil slechts een, zo kunnen we zeggen, individuele wil, op zichzelf is teruggekeerd. Hier wordt geoppert dat totale verlossing wellicht niet lijkt plaats te vinden, maar dat er wellicht een toekomst bestaat waarin de wil van eenieder besluit op zichzelf terug te keren:
 
+“Streven wij wellicht terug naar dat punt van perfecte orde, van eenheid? Is dat het doel van ons streven, en zullen wij—zal de wil—daar uiteindelijk rust vinden?”[^15]
 
 
 
@@ -110,4 +112,4 @@ De wil is zo een active manifestatie in de ruimte, een manifestatie bovendien di
 
 [^14]: p. 126
 
- Uit correspondentie tussen de auteur en doctor van Rossum
+[^15]: p. 159
