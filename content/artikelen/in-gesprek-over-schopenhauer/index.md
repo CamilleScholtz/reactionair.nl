@@ -107,7 +107,9 @@ Wat dan ook in de visie van Van Rossum naar voren komt is dat een deel van de ve
 
 Ook dit hangt wederom samen met het materialisme, dat zich tot de laatste zin van het boek laat zien als een fundamentele dwaling in onze mentaliteit. De moderne mens dwingt zichzelf daarom ook religie volgens de maatstaven van het letterlijke en het figuurlijke te beschouwen en dit is ook wat de absurdistische taferelen van Christenen die Gods letterlijke bestaan pogen te verdedigen veroorzaakt, terwijl hun waarheden, allegorisch als zij zijn, op een geheel ander *niveau* waar zijn, zowel boven het letterlijke als het figuurlijke uitstijgende.
 
-Wat hierin noodzakelijk is, blijkt wederom dat wij ons bewustzijn niet overschatten, en dat wij, welk pad wij ook opwaarts nemen terug naar het spirituele, wij niet langer meer de *meer dan twijfelbare spiegeling die men werkelijkheid noemt tot absoluut verheffen*[^18] zoals het materialistische wereldbeeld dit doet, en wat ook tot dwalingen op politiek vlak leidt.
+Wat hierin noodzakelijk is, blijkt wederom dat wij ons bewustzijn niet overschatten, en dat wij, welk pad wij ook opwaarts nemen terug naar het spirituele, wij niet langer de *meer dan twijfelbare spiegeling die men werkelijkheid noemt tot absoluut verheffen*[^18] zoals het materialistische wereldbeeld dit doet.
+
+Want ook op politiek vlak heeft deze denkwijze zijn uitwerking en veroorzaakt.
 
 
 
