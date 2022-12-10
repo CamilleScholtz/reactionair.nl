@@ -126,23 +126,11 @@ Temidden van de onttovering zien wij dat met dergelijke ideologieën niet alleen
 
 \[I]t may be remarked that the cult of unity on the political level is only an idolatrous *ersatz* for the genuine religion of unity on the personal and spiritual levels. Totalitarian regimes justify their existence by means of a philosophy of political monism, according to which the state is God on earth, unification under the heel of the divine state is salvation, and all means to such unification, however intrinsically wicked, are right and may be used without scruple.[^20]
 
-In onze tijd passeren een grote verscheidenheid aan dergelijke ideologieen de revue, en velen daarvan kunnen wij beschouwen als variaties op het marxistische thema; waarbij slechts verschuift wie de onderdrukkers zijn en wie de onderdrukten. De nieuwe proletariërs die zich dienen te verenigen zijn minderheden met een bepaalde seksuele voorkeur of met een bepaalde etnische identiteit. \
+In onze tijd passeren een grote verscheidenheid aan dergelijke ideologieën de revue, en velen daarvan kunnen wij beschouwen als variaties op het marxistische thema; waarbij slechts verschuift wie de onderdrukkers zijn en wie de onderdrukten. De nieuwe proletariërs die zich dienen te verenigen zijn minderheden met een bepaalde seksuele voorkeur of met een bepaalde etnische identiteit. \
 \
-De vermeende maakbaarheid des werelds en het schromelijk overschatten van het menselijk verstand vormen de kernproblemen.
+De vermeende maakbaarheid des werelds en het schromelijk overschatten van het menselijk verstand vormen kernproblemen in het politieke discours. Het is dan ook met een conservatieve houding, waarbij tradities die zeer langzaam tot stand zijn gekomen niet zomaar overboord worden gegooid en waarbij wordt erkend dat het verstand een slecht werkend kompas is dat wij deze utopische stromingen het hoofd kunnen bieden.
 
 
-
-Maakbare wereld; overschatten menselijk verstand: Schopenhauer over de functie van straf en de aanmoediging van sociale controle tot goed gedrag als motieven die zwaarder wegen voor de mens dan het verlangen slecht te doen. Ter onderdrukking van de aard der mensen
-
-WWV II, K. XLVII; Zur Ethik
-
-Oversimplificatie wetenschappelijke inzichten; vergelijking tussen groepen lijdt hier ook onder
-
-Democratische correctie; of monarchie? Weten de mensen wel wat ze willen? Kunnen zij wel verder kijken dan hun directe belangen?
-
-Conservatisme; ja, en een visie op de grondprincipes die problemen onderleggen
-
-Het verstand als slecht werkend kompas
 
 
 
