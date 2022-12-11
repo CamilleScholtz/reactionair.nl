@@ -4,7 +4,7 @@ subtitle = "Een recensie van het boek \"De weg terug\""
 auteurs = ["Anton Prins"]
 date = "2022-12-09"
 themas = "Recensie en Biografie"
-aangehaald = ["Van Rossum", "Proust", "Schopenhauer"]
+aangehaald = ["Van Rossum", "Proust", "Schopenhauer", "Huxley"]
 image = "der_chasseur_im_walde_-_caspar_david_friedrich-1-.jpg"
 anchor = "Smart"
 caption = "Caspar David Friedrich, Der Chasseur im Walde"
@@ -83,7 +83,7 @@ Echter meent Van Rossum dat:
 
 > “Als het ding-op-zichzelf een wetmatige manifestatie in de tijd en in de ruimte is, als, met andere woorden, tijd, ruimte en causaliteit een essentieel onderdeel zijn van het ding-op-zichzelf, dan moeten die toch bestaan buiten het subject om?”[^14]
 
-De wil is zo een active manifestatie in de ruimte, een manifestatie bovendien die wij ook in onszelf herkennen. Het is op deze wijze dat verklaard kan worden dat de wereld bestond voordat er een bewustzijn was deze waar te nemen. Het bewustzijn is immers afhankelijk in zijn bestaan van de evolutionaire ontwikkelingen die tot zijn ontstaan hebben geleid. zo meent Van Rossum een paradox te bespeuren in het idealisme zoals Schopenhauer deze schetst, want:
+De wil is zo een active manifestatie in de ruimte, een manifestatie bovendien die wij ook in onszelf herkennen. Het is op deze wijze dat verklaard kan worden dat de wereld bestond voordat er een bewustzijn was deze waar te nemen. Het bewustzijn is immers afhankelijk in zijn bestaan van de evolutionaire ontwikkelingen die tot zijn ontstaan hebben geleid. Zo meent Van Rossum een paradox te bespeuren in het idealisme zoals Schopenhauer deze schetst, want:
 
 > “\[W]e zien dat volgens Schopenhauer aan de ene kant het bestaan van de hele wereld afhangt van het eerste kennende wezen, en hoe anderzijds het bestaan van dit eerste kennende wezen volkomen afhankelijk is van een lange keten van oorzaken en gevolgen die eraan vooraf is gegaan.” [^15]
 
