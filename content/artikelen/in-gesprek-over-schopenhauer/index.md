@@ -32,7 +32,7 @@ Met dit uitgangspunt laat Van Rossum ons een proces van zelfontdekking doorlopen
 
 De vorm waarin dit gebeurt verdient het vermeld te worden, want de uiteenzetting geschiedt in dialoogvorm. Een gewaagde keuze; daar de dialoogvorm vandaag de dag over het algemeen in onbruik is geraakt. De keuze loont zich echter, want de expositie is helder, de beide karakters, Hugo (de auteursstem) en Adam (de scepticus) worden met overtuiging geschetst en het geheel ontvouwt zich soepel en vloeiend.
 
-Wat sterk en overtuigend naar voren wordt gebracht in de eerdere hoofdstukken is wat de kern is van ons *zijn*: Van Rossum verschuift heel kundig de gebruikelijke blik van ons werkelijke zelf als hoofdzakelijk denkend individu die onze handelingen vewusg aanstuurt, naar een zelf, dat door en door *wil* is. Het is op deze wijze dat wij kunnen verklaren waarom wat wij *zijn* vaak zo lastig is te aan te wijzen en het verleggen van de definitie van dit zijn lost dit probleem bijna moeiteloos op. Hoewel dit inzicht met geen millimeter afwijkt van Schopenhauer, is de zegswijze niettemin fris en klinkt deze niet, zoals men de wilshypothese van Schopenhauer soms pleegt uit te leggen, zweverig en ongrijpbaar.
+Wat sterk en overtuigend naar voren wordt gebracht in de eerdere hoofdstukken is wat de kern is van ons *zijn*: Van Rossum verschuift heel kundig de gebruikelijke blik van ons werkelijke zelf als hoofdzakelijk denkend individu die onze handelingen bewust aanstuurt, naar een zelf, dat door en door *wil* is. Het is op deze wijze dat wij kunnen verklaren waarom wat wij *zijn* vaak zo lastig is te aan te wijzen en het verleggen van de definitie van dit zijn lost dit probleem bijna moeiteloos op. Hoewel dit inzicht met geen millimeter afwijkt van Schopenhauer, is de zegswijze niettemin fris en klinkt deze niet, zoals men de wilshypothese van Schopenhauer soms pleegt uit te leggen, zweverig en ongrijpbaar.
 
 > “Het feit dat handelingen 'als vanzelf' optreden, handelingen waarin wij wel onze wil herkennen maar geen causaal verband in de tijd tussen wil en handeling kunnen zien, betekent dat het onderscheid tussen wat wij zien als onszelf—het kennende en denkende ik—en het lichaam niet duidelijk te maken is.”[^4]
 
@@ -131,8 +131,6 @@ In onze tijd passeren een grote verscheidenheid aan dergelijke ideologieën de r
 De vermeende maakbaarheid des werelds en het schromelijk overschatten van het menselijk verstand vormen kernproblemen in het politieke discours. Het is dan ook met een politiek conservatieve houding, waarbij tradities die zeer langzaam tot stand zijn gekomen niet zomaar overboord worden gegooid en waarbij wordt erkend dat het verstand een slecht werkend kompas is dat wij deze utopische stromingen het hoofd kunnen bieden. Natuurlijk vereist een dergelijke politieke houding gedegen fundamenten; en het is derhalve noodzakelijk om de politiek in verbinding te brengen met een levensbeschouwelijk paradigma dat fundamenteel anders is dan het hedendaagse. \
 \
 Dit vraagt van ons dat wij, zoals Van Rossum aantoont, de wereld fundamenteel anders moeten gaan beschouwen. Dat we het materialistische wereldbeeld ontmantelen en hier andere fundamenten voor in de plaats leggen. Alleen zo kunnen we de waan van de dag duiden en ons hiertegen wapenen. Dit zal ons in staat stellen de weg te vinden, de weg die ons naar zelfkennis voert, naar waarheid en naar verlossing.   
-
-
 
 [^1]: Marcel Proust, *La Prisonnière*, Ch. II
 
