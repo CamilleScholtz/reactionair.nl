@@ -39,7 +39,7 @@ Wat sterk en overtuigend naar voren wordt gebracht in de eerdere hoofdstukken is
 
 > “Het feit dat handelingen 'als vanzelf' optreden, handelingen waarin wij wel onze wil herkennen maar geen causaal verband in de tijd tussen wil en handeling kunnen zien, betekent dat het onderscheid tussen wat wij zien als onszelf—het kennende en denkende ik—en het lichaam niet duidelijk te maken is.”[^4]
 
-Sterfelijkheid bestaat door deze lens beschouwd omdat we ons valselijk identificeren met het individu. Met de wil als ons ware zijn is daar de onsterfelijkheid! En hier toont Van Rossum ons dat het plengen van tranen om het verlies van ons leven niet nodig is—wij zullen, als wil zijnde, nooit de kus des doods op onze lippen voelen; *mors est ianua vitæ* (de dood is de deur van het leven):
+Sterfelijkheid bestaat door deze lens beschouwd omdat we ons valselijk identificeren met het individu. Met de wil als ons ware zijn is daar de onsterfelijkheid! En hier toont Van Rossum ons dat het plengen van tranen om het verlies van ons leven niet nodig is—wij zullen, als wil zijnde, nooit de kus des doods op onze lippen voelen; *mors est ianua vitæ* (de dood is de deur des levens):
 
 > “Ons wezen is 'als de zon die alleen voor onze aardse ogen onder lijkt te gaan, maar die in werkelijkheid nooit ondergaat en onophoudelijk door blijft schijnen'”.[^5]
 >
