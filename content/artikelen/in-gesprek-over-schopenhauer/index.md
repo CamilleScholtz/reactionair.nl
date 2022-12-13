@@ -60,7 +60,7 @@ Ook bij Dawkins loopt de theorie echter vast op de creatieve processen want op h
 
 > “Als adaptaties evolueren voor het belang van het gen, hoe kan het dan dat de helft van de genen verloren raakt. \[...] Seks zou geëvolueerd zijn voor het gen, maar de helft van de genen wordt als het ware weggegooid bij de seksuele voortplanting!”[^9]
 
-Onderaan de streep houdt dit in dat we met het proces van evolutie het teleologische argument in feite hebben uitgebreid.[^10] Het ontmantelen van natuurlijke selectie als primaire motor achter de evolutie legt een bom onder het fysicalisme omdat het onweerlegbaar aanduidt dat er geen sprake is van botsende deeltjes in het luchtledige, van absolute willekeur, maar dat er een vitaal principe is dat het proces van evolutie aanstuurt.
+Onderaan de streep houdt dit in dat we met het proces van evolutie het argument dat er in de wereld sprake is van doelmatigheid in feite hebben uitgebreid.[^10] Het ontmantelen van natuurlijke selectie als primaire motor achter de evolutie legt een bom onder het fysicalisme omdat het onweerlegbaar aanduidt dat er geen sprake is van botsende deeltjes in het luchtledige, van absolute willekeur, maar dat er een vitaal principe is dat het proces van evolutie aanstuurt.
 
 Het behoeft geen verassing te heten dat dit principe de wil is; en hierbij moeten we in ogenschouw houden dat ons bewustzijn een zeer gebrekkig instrument is, slechts bedoeld om de buitenwereld in kaart te brengen voor de wil, om deze te voeden met informatie die vervolgens werkt als motief voor wilsuitingen:
 
