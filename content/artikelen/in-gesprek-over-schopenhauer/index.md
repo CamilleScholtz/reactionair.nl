@@ -4,17 +4,17 @@ subtitle = "Een recensie van het boek \"De weg terug\""
 auteurs = ["Anton Prins"]
 date = "2022-12-09"
 themas = "Recensie en Biografie"
-aangehaald = ["Van Rossum", "Proust", "Schopenhauer", "Huxley"]
+aangehaald = ["Joris Van Rossum", "Marcel Proust", "Arthur Schopenhauer", "Aldous Huxley"]
 image = "der_chasseur_im_walde_-_caspar_david_friedrich-1-.jpg"
 anchor = "Smart"
 caption = "Caspar David Friedrich, Der Chasseur im Walde"
 +++
-Dit artikel is een recensie van het boek De weg terug: Schopenhauer voor een dolende wereld van Dr. Joris van Rossum. Is uw interesse door dit artikel gewekt? Bestel het boek dan [hier]([https://deblauwetijger.com/​product/joris-van-rossum-de-​weg-terug-schopenhauer-voor-​een-dolende-wereld/](https://deblauwetijger.com/product/joris-van-rossum-de-weg-terug-schopenhauer-voor-een-dolende-wereld/))
+Dit artikel is een recensie van het boek De weg terug: Schopenhauer voor een dolende wereld van dr. Joris van Rossum. Is uw interesse door dit artikel gewekt? Bestel het boek dan [hier]([https://deblauwetijger.com/​product/joris-van-rossum-de-​weg-terug-schopenhauer-voor-​een-dolende-wereld/](https://deblauwetijger.com/product/joris-van-rossum-de-weg-terug-schopenhauer-voor-een-dolende-wereld/))
 
 - - -
 
 {{< quote
-	text="“Le seul véritable voyage ce ne serait pas d'aller vers de nouveaux paysages, mais d'avoir d'autres yeux“  "
+	text="Le seul véritable voyage ce ne serait pas d'aller vers de nouveaux paysages, mais d'avoir d'autres yeux"
 	author="~ Marcel Proust[^1]"
 >}}
 
@@ -124,7 +124,7 @@ De vermeende maakbaarheid des werelds en het schromelijk overschatten van het me
 \
 Dit vraagt van ons dat wij, zoals Van Rossum aantoont, de wereld fundamenteel anders moeten gaan beschouwen. Dat we het materialistische wereldbeeld ontmantelen en hier andere fundamenten voor in de plaats leggen. Alleen zo kunnen we de waan van de dag duiden en ons hiertegen wapenen. Dit zal ons in staat stellen de weg te vinden, de weg die ons naar zelfkennis voert, naar waarheid en naar verlossing.   
 
-[^1]: Marcel Proust, *La Prisonnière*, Ch. II
+[^1]: "De enige ware reis zou niet zijn om naar nieuwe landschappen te gaan, maar om andere ogen te hebben." -Marcel Proust, *La Prisonnière*, Ch. II
 
 [^2]: Dit artikel, geschreven ter gelegenheid van een lezing van Van Rossum in juni 2022, kunt u [hier](*[https://reactionair.nl/​artikelen/de-willende-wereld/](https://reactionair.nl/artikelen/de-willende-wereld/)*) lezen.\
 \
