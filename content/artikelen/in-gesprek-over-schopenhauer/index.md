@@ -72,45 +72,48 @@ Het is dan ook door de wil dat wij ons zijn kunnen begrijpen en omdat we deze wi
 
 ### D﻿e wil in de levenloze natuur
 
-Wij dalen verder af na de wil zowel in onze onbewuste processen als in alle andere levende wetens te hebben ontwaard naar de levenloze natuur. Naast een heldere uitleg van Schopenhauers stelling dat de wil ook schuilt in wat wij natuurkrachten noemen, vinden wij hier hoe Van Rossum het fundament wegtrekt onder ons alledaagse begrip van objecten. Hij toont overtuigend aan dat objecten, of opeenhopingen van energie, enkel voor ons als objecten verschijnen in zoverre ze inwerken op andere opeenhopingen van energie—namelijk de fotonen in licht en in zoverre dit licht ons oog bereikt.[^12] 
+Wij dalen verder af, na de wil zowel in onze onbewuste processen als in alle andere levende wezens te hebben ontwaard, naar de levenloze natuur. Naast een heldere uitleg van Schopenhauers stelling dat de wil ook schuilt in wat wij natuurkrachten noemen, vinden wij hier hoe Van Rossum het fundament wegtrekt onder ons alledaagse begrip van objecten. Hij toont overtuigend aan dat objecten, of opeenhopingen van energie, enkel voor ons als objecten verschijnen in zoverre ze inwerken op andere opeenhopingen van energie—namelijk de fotonen in licht en in zoverre dit licht ons oog bereikt.[^12] 
 
-Een noemenswaardig element dat Van Rossum hier toevoegt aan zijn uiteenzetting is de Holon-theorie die hij ontleent aan het werk van de Hongaars-Britse schrijver Arthur Koestler. Dit model gaat uit van een hierarchische structuur van eenheden (Holons) die zowel op zichzelf staan (een zelf-assertieve tendens hebben) alsook deel zijn van een groter geheel (een integratieve tendens hebben). Op deze manier slaat Van Rossum een brug tussen de levende als de levenloze natuur; want dit model is op beiden goed toepasbaar en omdat het streven naar complexe organisaties inherent is aan de natuur, blijkt de kloof tussen het levende en levenloze grotendeels een waanvoorstelling.
+Een noemenswaardig element dat Van Rossum hier toevoegt aan zijn uiteenzetting is de holon-theorie die hij ontleent aan het werk van de Hongaars-Britse schrijver Arthur Koestler. Dit model gaat uit van een hiërarchische structuur van eenheden (holons) die zowel op zichzelf staan (een zelf-assertieve tendens hebben) alsook deel zijn van een groter geheel (een integratieve tendens hebben). Op deze manier slaat Van Rossum een brug tussen de levende en de levenloze natuur; want dit model is op beiden goed toepasbaar en omdat het streven naar complexe organisaties inherent is aan de natuur, blijkt de kloof tussen het levende en levenloze grotendeels een waanvoorstelling.
 
-Ook hier, namelijk, onthult zich de wil als  drijvende kracht achter de anorganische natuur; en zowel de zwaartekracht, als integratieve tendens; een principe dat niet strookt met een willekeurige dans van botsende deeltjes, als de paradox van het “fine-tuned universe” vinden in de wilshypothese hun plaats.
+Ook hier, namelijk, onthult zich de wil als drijvende kracht achter de anorganische natuur; en zowel de zwaartekracht, als integratieve tendens; een principe dat niet strookt met een willekeurige dans van botsende deeltjes, als de paradox van het “fine-tuned universe” vinden in de wilshypothese hun plaats.
 
 > “Materie—dat wat wij als materie zien—is wil. Deze drang, zowel onze wilsuitingen als de natuurkrachten, is de drang tot manifestatie in tijd en ruimte in de vorm van steeds grotere structuren. Dat zijn wij, dat is het leven, dat is materie, dat is evolutie, dat is het universum. Dat is alles, dat zijn wij.”[^13]
 
-\
-Tot nu toe heeft Van Rossum Schopenhauer op de voet gevolgd; echter op één vlak wijkt hij nu van zijn ideeën af. Het zevende hoofdstuk behandelt namelijk het idealisme; en hier wordt afgeweken van het adagium *esse est percipi* inzake de aard van het *zijn.*
+### V﻿an Rossum contra het idealisme
 
-Hier wordt de kritiek geschetst, dat zowel tijd en ruimte reeds besloten liggen in het begrip drang; en zo is de wil zonder tijd en ruimte een leeg begrip. Deze afwijzing van het idealisme brengt Schopenhauers wilsfilosofie dichter bij de wetenschappelijke inzichten maar we lijken in zekere zin ook terug te keren naar een visie waarbij een half idealisme aan de dag wordt gelegd, waarbij ruimte en tijd in zekere zin de noumena kenmerken die schuilgaan achter de fenomenen. Spreken we hier niet wederom van de primaire en secundaire kwaliteiten van Locke? Die kwaliteiten die Berkeley zo kundig heeft ontmanteld voor ons in zijn fameuze dialoog tussen Philonous en Hylas?
+Tot nu toe heeft Van Rossum Schopenhauer op de voet gevolgd; echter op één vlak wijkt hij nu van zijn ideeën af. Het zevende hoofdstuk behandelt namelijk het idealisme; en hier wordt afgeweken van het adagium *esse est percipi* (zijn is waargenomen worden, de filosofie van George Berkeley) inzake de aard van het *zijn.*
+
+Hier wordt de kritiek geschetst, dat zowel tijd en ruimte reeds besloten liggen in het begrip drang; en zo is de wil zonder tijd en ruimte een leeg begrip. Deze afwijzing van het idealisme brengt Schopenhauers wilsfilosofie dichter bij de wetenschappelijke inzichten van vandaag maar we lijken in zekere zin ook terug te keren naar een visie waarbij een half idealisme aan de dag wordt gelegd, waarbij ruimte en tijd in zekere zin de noumena kenmerken die schuilgaan achter de fenomenen. Spreken we hier niet wederom van de primaire en secundaire kwaliteiten van Locke? Die kwaliteiten die Berkeley zo kundig heeft ontmanteld voor ons in zijn fameuze dialoog tussen Philonous en Hylas?
 
 Echter meent Van Rossum dat:
 
 > “Als het ding-op-zichzelf een wetmatige manifestatie in de tijd en in de ruimte is, als, met andere woorden, tijd, ruimte en causaliteit een essentieel onderdeel zijn van het ding-op-zichzelf, dan moeten die toch bestaan buiten het subject om?”[^14]
 
-De wil is zo een actieve manifestatie in de ruimte, een manifestatie bovendien die wij ook in onszelf herkennen. Het is op deze wijze dat verklaard kan worden dat de wereld bestond voordat er een bewustzijn was deze waar te nemen. Het bewustzijn is immers afhankelijk in zijn bestaan van de evolutionaire ontwikkelingen die tot zijn ontstaan hebben geleid. Desalniettemin stelt Van Rossum dat de wereld als *voorstelling* wel degelijk afhankelijk is van het bewustzijn. Zijn visie brengt met zich mee dat wij ons de wereld *an sich* in tijd en ruimte buiten de voorstelling met geen mogelijkheid in kunnen beelden en dat deze voorbij de onoverkomelijke grens van ons verstand ligt, maar we desondanks het bestaan van een wereld vóór het bestaan van bewustzijn aan moeten nemen omdat slechts zo het bewustzijn heeft kunnen ontstaan.
+De wil is zo een actieve manifestatie in de ruimte, een manifestatie bovendien die wij ook in onszelf herkennen. Het is op deze wijze dat verklaard kan worden dat de wereld bestond voordat er een bewustzijn was om deze waar te nemen. Het bewustzijn is immers afhankelijk voor zijn bestaan van de evolutionaire ontwikkelingen die tot zijn ontstaan hebben geleid. Desalniettemin stelt Van Rossum dat de wereld als *voorstelling* wel degelijk afhankelijk is van het bewustzijn. Zijn visie brengt met zich mee dat wij ons de wereld *an sich* in tijd en ruimte buiten de voorstelling met geen mogelijkheid in kunnen beelden en dat deze voorbij de onoverkomelijke grens van ons verstand ligt, maar we desondanks het bestaan van een wereld vóór het bestaan van bewustzijn aan moeten nemen omdat slechts zo het bewustzijn heeft kunnen ontstaan.
 
 Uit de afwijzing van het idealisme volgt echter wel een probleem, dat een separate oplossing vereist. Dit betreft het ethische aspect, het doven van de Wil; want in de niet-idealistische visie van Van Rossum blijft het probleem dat met het doven van de wil slechts een, zo kunnen we zeggen, individuele wil, op zichzelf is teruggekeerd.
 
 Het voortbestaan van de wil is zo afhankelijk van de afwijzing van het idealisme, want in het idealistische zal wereld in zekere zin met toeschouwer vergaan; de wil verstilt, keert terug naar zijn bron als één en ondeelbaar, en omdat deze één en ondeelbaar is, heft deze zich in zijn geheel op.
 
-Als mogelijke oplossing voor dit probleem wordt geoppert dat er op kosmische schaal wellicht ondanks dat er geen einde aan het lijden des werelds in zich is een moment zal zijn, een eindpunt waar de wil rust zal vinden:
+Als mogelijke oplossing voor dit probleem wordt geopperd dat er op kosmische schaal wellicht ondanks dat er geen einde aan het lijden des werelds in zicht is, een moment zal zijn, een eindpunt waar de wil rust zal vinden:
 
 > “Streven wij wellicht terug naar dat punt van perfecte orde, van eenheid? Is dat het doel van ons streven, en zullen wij—zal de wil—daar uiteindelijk rust vinden?”[^15]
 
 \
-Dit blijft echter speculatie; wij kunnen dit niet weten, niettemin blijft Van Rossum hoopvol. Als de wil ondanks individuele verlossing toch door blijft razen—als er geen eeuwige verlossing is—biedt dit toch een welkom moment van rust in de storm van het bestaan.
+Dit blijft echter speculatie; wij kunnen dit niet weten. Niettemin blijft Van Rossum hoopvol. Als de wil ondanks individuele verlossing toch door blijft razen—als er geen eeuwige verlossing is—biedt dit toch een welkom moment van rust in de storm van het bestaan.
+
+### M﻿ystieke wijsheid voorbij het verstand
 
 Ook in het verkrijgen van mystieke wijsheid  is het verstand iets wat onze blik beperkt en kan het ons niet als wegwijzer dienen. Om de direct verkregen inzichten toch over te kunnen brengen en over de abstractie te kunnen tillen van het droge verstandelijke bedienen de profeten, oude wijzen en stichters van religies zich derhalve van de rijkdom van het allegorische.
 
->  Ideo in parabolis loquor eis: quia videntes non vident, et audientes non audiunt, neque intelligunt.
+> Ideo in parabolis loquor eis: quia videntes non vident, et audientes non audiunt, neque intelligunt.
 >
 > [](<>)Et adimpletur in eis prophetia Isaiæ, dicentis: Auditu audietis, et non intelligetis:\
 > et videntes videbitis, et non videbitis.[^16]
 
 \
-Wat dan ook in de visie van Van Rossum naar voren komt is dat een deel van de verlorenheid die de mens in de hedendaagse wereld ervaart te wijten is aan de mate waarin de allegorieën van de verschillende religies passen bij de tijd en de omstandigheden daar dit beïnvloedt of zij effectief de waarheden die daarin besloten liggen over te kunnen brengen. De westerse mens zou uit het Christendom gegroeid zijn als kind uit zijn kleren.
+Wat dan ook in de visie van Van Rossum naar voren komt is dat een deel van de verlorenheid die de mens in de hedendaagse wereld ervaart, te wijten is aan de mate waarin de allegorieën van de verschillende religies passen bij de tijd en de omstandigheden daar dit beïnvloedt of zij effectief de waarheden die daarin besloten liggen over te kunnen brengen. De westerse mens zou uit het Christendom gegroeid zijn als kind uit zijn kleren.
 
 Ook dit hangt wederom samen met het materialisme, dat zich tot de laatste zin van het boek laat zien als een fundamentele dwaling in onze mentaliteit. De moderne mens dwingt zichzelf daarom ook religie volgens de maatstaven van het letterlijke en het figuurlijke te beschouwen en dit is ook wat de absurdistische taferelen van Christenen die Gods letterlijke bestaan pogen te verdedigen veroorzaakt, terwijl hun waarheden, allegorisch als zij zijn, op een geheel ander *niveau* waar zijn, zowel boven het letterlijke als het figuurlijke uitstijgende.
 
@@ -164,7 +167,7 @@ Dit vraagt van ons dat wij, zoals Van Rossum aantoont, de wereld fundamenteel an
 
 [](<>)En in hen wordt de profetie van Jesaja vervuld, die zegt: Met het gehoor zult gij horen, en geenszins verstaan; en ziende zult gij zien, en geenszins bemerken.
 
-Mattheus XIII. 13-14
+Mattheus 13:13-14.
 
 [^17]: Parafrase uit het artikel [Homo Credens](https://reactionair.nl/artikelen/homo-credens/) dat eerder op deze website verscheen.
 
