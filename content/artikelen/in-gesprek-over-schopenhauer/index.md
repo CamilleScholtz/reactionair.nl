@@ -32,7 +32,9 @@ Met dit uitgangspunt laat Van Rossum ons een proces van zelfontdekking doorlopen
 
 De vorm waarin dit gebeurt verdient het vermeld te worden, want de uiteenzetting geschiedt in dialoogvorm. Een gewaagde keuze; daar de dialoogvorm vandaag de dag over het algemeen in onbruik is geraakt. De keuze loont zich echter, want de expositie is helder, de beide karakters, Hugo (de auteursstem) en Adam (de scepticus) worden met overtuiging geschetst en het geheel ontvouwt zich soepel en vloeiend.
 
-### D﻿e wil als ons ware wezen
+### \
+\
+D﻿e wil als ons ware wezen
 
 Wat sterk en overtuigend naar voren wordt gebracht in de eerdere hoofdstukken is wat de kern is van ons *zijn*: Van Rossum verschuift heel kundig de gebruikelijke blik van ons werkelijke zelf als hoofdzakelijk denkend individu dat onze handelingen bewust aanstuurt, naar een zelf, dat door en door *wil* is. Het is op deze wijze dat wij kunnen verklaren waarom wat wij *zijn* vaak zo lastig is aan te wijzen en het verleggen van de definitie van dit zijn lost dit probleem bijna moeiteloos op. Hoewel dit inzicht met geen millimeter afwijkt van Schopenhauer, is de zegswijze niettemin fris en klinkt deze niet, zoals men de wilshypothese van Schopenhauer soms pleegt uit te leggen, zweverig en ongrijpbaar.
 
@@ -48,7 +50,8 @@ Ook wordt helder in beeld gebracht hoe het materialistische wereldbeeld het eeuw
 
 “\[L]aten we niet vergeten dat de huidige stand van de kwantumfysica—het deelgebied van de natuurkunde dat zich bezighoudt met deze deeltjes—een behoorlijk verwarrend, of, laten we eerlijk zijn, bizar beeld geeft. Het is niet alleen dat voorheen als ondeelbaar beschouwde deeltjes deelbaar blijken te zijn: überhaupt het idee van 'deeltjes' als bouwstenen van het universum is op losse schroeven komen te staan.”[^7]
 
-### D﻿e evolutietheorie opnieuw bezien
+### \
+D﻿e evolutietheorie opnieuw beschouwd
 
 Een hoogtepunt in het werk is wel het vierde hoofdstuk waarin wordt ingegaan op de evolutietheorie en natuurlijke selectie. De lezer zal direct bemerken dat de auteur hier zijn grote kennis van het biologische met gemak en grote helderheid kan overbrengen. Dat het darwinisme over een aanname heen stapt; namelijk dat er bij natuurlijke selectie wordt uitgegaan van seksuele voortplanting, zonder dat dit proces zelf verklaard wordt, wordt hier erg duidelijk uit de doeken gedaan. Van Rossum schrijft: 
 
@@ -70,7 +73,9 @@ Het is dan ook door de wil dat wij ons zijn kunnen begrijpen en omdat we deze wi
 
 > “Vanuit één kant gezien overkomt het leven ons. Wij worden op een schijnbaar willekeurig moment in de tijd in het leven geworpen als uit het niets, behept met een lichaam dat wij niet gecreëerd hebben. Zo dient het leven zich aan in de verschijning. Maar aan de andere, veel essentiëlere kant, namelijk de metafysische, zijn wij die schepper zelf. Wij staan zelf aan de basis van het lichaam, ons zijn, ons alles; wij zijn de schepper van onszelf en van de hele creatie, alhoewel deze kennis zich niet vanzelf aandient.” p. 99
 
-### D﻿e wil in de levenloze natuur
+### \
+\
+D﻿e wil in de levenloze natuur
 
 Wij dalen verder af, na de wil zowel in onze onbewuste processen als in alle andere levende wezens te hebben ontwaard, naar de levenloze natuur. Naast een heldere uitleg van Schopenhauers stelling dat de wil ook schuilt in wat wij natuurkrachten noemen, vinden wij hier hoe Van Rossum het fundament wegtrekt onder ons alledaagse begrip van objecten. Hij toont overtuigend aan dat objecten, of opeenhopingen van energie, enkel voor ons als objecten verschijnen in zoverre ze inwerken op andere opeenhopingen van energie—namelijk de fotonen in licht en in zoverre dit licht ons oog bereikt.[^12] 
 
@@ -80,7 +85,9 @@ Ook hier, namelijk, onthult zich de wil als drijvende kracht achter de anorganis
 
 > “Materie—dat wat wij als materie zien—is wil. Deze drang, zowel onze wilsuitingen als de natuurkrachten, is de drang tot manifestatie in tijd en ruimte in de vorm van steeds grotere structuren. Dat zijn wij, dat is het leven, dat is materie, dat is evolutie, dat is het universum. Dat is alles, dat zijn wij.”[^13]
 
-### V﻿an Rossum contra het idealisme
+### \
+\
+V﻿an Rossum contra het idealisme
 
 Tot nu toe heeft Van Rossum Schopenhauer op de voet gevolgd; echter op één vlak wijkt hij nu van zijn ideeën af. Het zevende hoofdstuk behandelt namelijk het idealisme; en hier wordt afgeweken van het adagium *esse est percipi* (zijn is waargenomen worden, de filosofie van George Berkeley) inzake de aard van het *zijn.*
 
@@ -103,7 +110,9 @@ Als mogelijke oplossing voor dit probleem wordt geopperd dat er op kosmische sch
 \
 Dit blijft echter speculatie; wij kunnen dit niet weten. Niettemin blijft Van Rossum hoopvol. Als de wil ondanks individuele verlossing toch door blijft razen—als er geen eeuwige verlossing is—biedt dit toch een welkom moment van rust in de storm van het bestaan.
 
-### M﻿ystieke wijsheid voorbij het verstand
+
+
+### Voorbij het verstand
 
 Ook in het verkrijgen van mystieke wijsheid  is het verstand iets wat onze blik beperkt en kan het ons niet als wegwijzer dienen. Om de direct verkregen inzichten toch over te kunnen brengen en over de abstractie te kunnen tillen van het droge verstandelijke bedienen de profeten, oude wijzen en stichters van religies zich derhalve van de rijkdom van het allegorische.
 
@@ -133,6 +142,8 @@ In onze tijd passeert een grote verscheidenheid aan dergelijke ideologieën de r
 \
 De vermeende maakbaarheid des werelds en het schromelijk overschatten van het menselijk verstand vormen kernproblemen in het politieke discours. Het is dan ook met een conservatieve houding, waarbij tradities die zeer langzaam tot stand zijn gekomen niet zomaar overboord worden gegooid en waarbij wordt erkend dat het verstand een slecht werkend kompas is, dat wij deze utopische stromingen het hoofd kunnen bieden. Natuurlijk vereist een dergelijke politieke houding gedegen fundamenten; en het is derhalve noodzakelijk om de politiek in verbinding te brengen met een levensbeschouwelijk paradigma dat fundamenteel anders is dan het hedendaagse. \
 Dit vraagt van ons dat wij, zoals Van Rossum aantoont, de wereld fundamenteel anders moeten gaan beschouwen. Dat we het materialistische wereldbeeld ontmantelen en hier andere fundamenten voor in de plaats leggen. Alleen zo kunnen we de waan van de dag duiden en ons hiertegen wapenen. Dit zal ons in staat stellen de weg te vinden, de weg die ons naar zelfkennis voert, naar waarheid en naar verlossing.   
+
+
 
 [^1]: "De enige ware reis zou niet zijn om naar nieuwe landschappen te gaan, maar om andere ogen te hebben." -Marcel Proust, *La Prisonnière*, Ch. II
 
