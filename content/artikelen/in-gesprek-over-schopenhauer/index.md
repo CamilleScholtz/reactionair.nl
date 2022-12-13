@@ -18,13 +18,13 @@ Dit artikel is een recensie van het boek De weg terug: Schopenhauer voor een dol
 	author="~ Marcel Proust[^1]"
 >}}
 
-Voor de regelmatige lezer van Reactionair zal het geen geheim zijn dat de filosofie van Arthur Schopenhauer mij na aan het hart ligt. Reeds eerder verscheen op deze website een beknopte introductie van zijn gedachtegoed van mijn hand.[^2] Ik was dan ook verblijd om onlangs een boek te mogen lezen waarin zijn filosofie de kern van de verhandeling vormt.
+Voor de regelmatige lezer van Reactionair.nl zal het geen geheim zijn dat de filosofie van Arthur Schopenhauer mij na aan het hart ligt. Reeds eerder verscheen op deze website een beknopte introductie van zijn gedachtegoed van mijn hand.[^2] Ik was dan ook verblijd om onlangs een boek te mogen lezen waarin zijn filosofie de kern van de verhandeling vormt.
 
-In zijn wondermooie boek laat doctor van Rossum ons afdalen in de diepten van ons zijn. Als een moderne Vergilius neemt hij ons daartoe aan de hand, in een poging om ons in deze dolende wereld het juiste pad terug te doen vinden; want de wereld is dolende—ja, dwaalleer op dwaalleer stapelt zich op in de moderne *Weltanschauung* die zich rondom het materialisme heeft gevormd.
+In zijn wondermooie boek laat doctor Van Rossum ons afdalen in de diepten van ons zijn. Als een moderne Vergilius neemt hij ons daartoe aan de hand, in een poging om ons in deze dolende wereld het juiste pad terug te doen vinden; want de wereld is dolende—ja, dwaalleer op dwaalleer stapelt zich op in de moderne *Weltanschauung* die zich rondom het materialisme heeft gevormd.
 
 De hedendaagse verarming van wat wij als kennis aanduiden vormt hierbij een primair aanknopingspunt om onze dwalingen te duiden en te corrigeren. Verzand in het letterlijke, is men blind geworden voor de waarde van inzicht en de capaciteit van de rijke allegorieën die religie zo kenmerken om dit inzicht over te brengen.
 
-Vanaf het eerste hoofdstuk wordt de lezer daarom aangespoord tot reflectie en wordt het concept van wat kennis inhoudt verdiept; louter abstracte kennis is niet genoeg: deze moet doorleefd worden, filosofische theorieën moeten indalen als besef—als inzicht: 
+Vanaf het eerste hoofdstuk wordt de lezer daarom aangespoord tot reflectie en wordt het concept van wat kennis inhoudt, verdiept; louter abstracte kennis is niet genoeg: deze moet doorleefd worden, filosofische theorieën moeten indalen als besef—als inzicht: 
 
 > "Kennis is waardeloos als het theoretisch blijft en wordt pas effectief als we die realiseren als een onmiddelijke, intuïtieve ervaring".[^3]
 
@@ -32,27 +32,31 @@ Met dit uitgangspunt laat Van Rossum ons een proces van zelfontdekking doorlopen
 
 De vorm waarin dit gebeurt verdient het vermeld te worden, want de uiteenzetting geschiedt in dialoogvorm. Een gewaagde keuze; daar de dialoogvorm vandaag de dag over het algemeen in onbruik is geraakt. De keuze loont zich echter, want de expositie is helder, de beide karakters, Hugo (de auteursstem) en Adam (de scepticus) worden met overtuiging geschetst en het geheel ontvouwt zich soepel en vloeiend.
 
-Wat sterk en overtuigend naar voren wordt gebracht in de eerdere hoofdstukken is wat de kern is van ons *zijn*: Van Rossum verschuift heel kundig de gebruikelijke blik van ons werkelijke zelf als hoofdzakelijk denkend individu die onze handelingen bewust aanstuurt, naar een zelf, dat door en door *wil* is. Het is op deze wijze dat wij kunnen verklaren waarom wat wij *zijn* vaak zo lastig is te aan te wijzen en het verleggen van de definitie van dit zijn lost dit probleem bijna moeiteloos op. Hoewel dit inzicht met geen millimeter afwijkt van Schopenhauer, is de zegswijze niettemin fris en klinkt deze niet, zoals men de wilshypothese van Schopenhauer soms pleegt uit te leggen, zweverig en ongrijpbaar.
+### D﻿e wil als ons ware wezen
+
+Wat sterk en overtuigend naar voren wordt gebracht in de eerdere hoofdstukken is wat de kern is van ons *zijn*: Van Rossum verschuift heel kundig de gebruikelijke blik van ons werkelijke zelf als hoofdzakelijk denkend individu dat onze handelingen bewust aanstuurt, naar een zelf, dat door en door *wil* is. Het is op deze wijze dat wij kunnen verklaren waarom wat wij *zijn* vaak zo lastig is aan te wijzen en het verleggen van de definitie van dit zijn lost dit probleem bijna moeiteloos op. Hoewel dit inzicht met geen millimeter afwijkt van Schopenhauer, is de zegswijze niettemin fris en klinkt deze niet, zoals men de wilshypothese van Schopenhauer soms pleegt uit te leggen, zweverig en ongrijpbaar.
 
 > “Het feit dat handelingen 'als vanzelf' optreden, handelingen waarin wij wel onze wil herkennen maar geen causaal verband in de tijd tussen wil en handeling kunnen zien, betekent dat het onderscheid tussen wat wij zien als onszelf—het kennende en denkende ik—en het lichaam niet duidelijk te maken is.”[^4]
 
-Sterfelijkheid bestaat door deze lens beschouwd omdat we ons valselijk identificeren met het individu. Met de wil als ons ware zijn is daar de onsterfelijkheid! En hier toont Van Rossum ons dat het plengen van tranen om het verlies van ons leven niet nodig is—wij zullen, als wil zijnde, nooit de kus des doods op onze lippen voelen; *mors est ianua vitæ*:
+Sterfelijkheid bestaat door deze lens beschouwd omdat we ons valselijk identificeren met het individu. Met de wil als ons ware zijn is daar de onsterfelijkheid! En hier toont Van Rossum ons dat het plengen van tranen om het verlies van ons leven niet nodig is—wij zullen, als wil zijnde, nooit de kus des doods op onze lippen voelen; *mors est ianua vitæ* (de dood is de deur van het leven):
 
-> “Ons wezen is 'als de zon die alleen voor onze aarde ogen onder lijkt te gaan, maar die in werkelijkheid nooit ondergaat en onophoudelijk door blijft schijnen'”.[^5]
+> “Ons wezen is 'als de zon die alleen voor onze aardse ogen onder lijkt te gaan, maar die in werkelijkheid nooit ondergaat en onophoudelijk door blijft schijnen'”.[^5]
 >
 > “Het individu sterft, daar is geen twijfel over mogelijk. Dus als wij dit individu zouden zijn, dit ik, dan is er geen leven na de dood. Maar zijn wij niet het individu maar de wil, de wil die eeuwig is, de wil die in mij maar ook in jou huist, in feite in alles, dan treft de dood ons niet.”[^6]
 
 Ook wordt helder in beeld gebracht hoe het materialistische wereldbeeld het eeuwige, onveranderlijke zijn in de vergankelijke wereld poogt te plaatsen en daartoe een eeuwige zoektocht onderneemt naar het kleinste deeltje. Dat dit een mogelijk hachelijke onderneming is, komt scherp naar voren in de volgende passage:
 
-“\[L]aten we niet vergeten dat de huidige stand van de kwantumfysica—het deelgebied van de natuurkunde dat zich bezighoudt met deze deeltjes—een behoorlijk verwarrend, of, laten we eerlijk zijn, bizar beeld geeft. Het is niet alleen dat voorheen als ondeelbaar beschouwde deeltjes deelbaar blijken te zijn: überhaupt het idee van 'deeltjes' als bouwstenen van het universum is op losse schroeven komen te staan.”[^7]\
-\
-Een hoogtepunt in het werk is wel het vierde hoofdstuk waarin wordt ingegaan op de evolutietheorie en natuurlijke selectie. De lezer zal direct bemerken dat de auteur hier zijn grote kennis van het biologische met gemak en grote helderheid kan overbrengen. Dat het Darwinisme over een aanname heen stapt; namelijk dat er bij natuurlijke selectie wordt uitgegaan van seksuele voortplanting, zonder dat dit proces zelf verklaard wordt, wordt hier erg duidelijk uit de doeken gedaan, en Van Rossum schrijft:
+“\[L]aten we niet vergeten dat de huidige stand van de kwantumfysica—het deelgebied van de natuurkunde dat zich bezighoudt met deze deeltjes—een behoorlijk verwarrend, of, laten we eerlijk zijn, bizar beeld geeft. Het is niet alleen dat voorheen als ondeelbaar beschouwde deeltjes deelbaar blijken te zijn: überhaupt het idee van 'deeltjes' als bouwstenen van het universum is op losse schroeven komen te staan.”[^7]
+
+### D﻿e evolutietheorie opnieuw bezien
+
+Een hoogtepunt in het werk is wel het vierde hoofdstuk waarin wordt ingegaan op de evolutietheorie en natuurlijke selectie. De lezer zal direct bemerken dat de auteur hier zijn grote kennis van het biologische met gemak en grote helderheid kan overbrengen. Dat het darwinisme over een aanname heen stapt; namelijk dat er bij natuurlijke selectie wordt uitgegaan van seksuele voortplanting, zonder dat dit proces zelf verklaard wordt, wordt hier erg duidelijk uit de doeken gedaan. Van Rossum schrijft: 
 
 > “Je kunt een voorwaarde voor het optreden van een proces vervolgens niet verklaren door dat proces zelf!”[^8]
 
 Het feit dat neodarwinisten als Dawkins, dit onderkennende, op zoek zijn gegaan naar de “kleinste eenheid van selectie” binnen het proces van natuurlijke selectie in een poging dit principe in het fysicalistische procrustesbed te passen is interessant, daar het in mijn beleving enigszins spiegelt hoe men in de natuurkunde op zoek ging naar het kleinste deeltje.
 
-Ook bij Dawkins loopt de theorie echter vast op de creatieve processen want op het niveau waarop Dawkins de natuurlijke selectie poogt te verklaren kán helemaal niet over seksuele reproductie gesproken worden; daarnaast spreken we bij natuurlijle selectie altijd slechts over *conservatieve* processen, terwijl evolutie—neem de ontwikkeling van een nieuw zintuig zoals het oog—een *creatief* proces is.
+Ook bij Dawkins loopt de theorie echter vast op de creatieve processen want op het niveau waarop Dawkins de natuurlijke selectie poogt te verklaren kán helemaal niet over seksuele reproductie gesproken worden; daarnaast spreken we bij natuurlijke selectie altijd slechts over *conservatieve* processen, terwijl evolutie—neem de ontwikkeling van een nieuw zintuig zoals het oog—een *creatief* proces is.
 
 > “Als adaptaties evolueren voor het belang van het gen, hoe kan het dan dat de helft van de genen verloren raakt. \[...] Seks zou geëvolueerd zijn voor het gen, maar de helft van de genen wordt als het ware weggegooid bij de seksuele voortplanting!”[^9]
 
@@ -65,6 +69,8 @@ Het behoeft geen verassing te heten dat dit principe de wil is; en hierbij moete
 Het is dan ook door de wil dat wij ons zijn kunnen begrijpen en omdat we deze wil als het scheppende principe aannemen dat we de ontwikkeling van complexe levensvormen en het ontwaken van het bewustzijn kunnen verklaren. Slechts in het beperkte bewustzijn verschijnen wij als individuen, slechts door deze lens gezien zijn wij een vreemdeling in deze wereld, wij zijn echter tegelijk de wereld zelf en deze is niets minder dan de schepping van onze wil:
 
 > “Vanuit één kant gezien overkomt het leven ons. Wij worden op een schijnbaar willekeurig moment in de tijd in het leven geworpen als uit het niets, behept met een lichaam dat wij niet gecreëerd hebben. Zo dient het leven zich aan in de verschijning. Maar aan de andere, veel essentiëlere kant, namelijk de metafysische, zijn wij die schepper zelf. Wij staan zelf aan de basis van het lichaam, ons zijn, ons alles; wij zijn de schepper van onszelf en van de hele creatie, alhoewel deze kennis zich niet vanzelf aandient.” p. 99
+
+### D﻿e wil in de levenloze natuur
 
 Wij dalen verder af na de wil zowel in onze onbewuste processen als in alle andere levende wetens te hebben ontwaard naar de levenloze natuur. Naast een heldere uitleg van Schopenhauers stelling dat de wil ook schuilt in wat wij natuurkrachten noemen, vinden wij hier hoe Van Rossum het fundament wegtrekt onder ons alledaagse begrip van objecten. Hij toont overtuigend aan dat objecten, of opeenhopingen van energie, enkel voor ons als objecten verschijnen in zoverre ze inwerken op andere opeenhopingen van energie—namelijk de fotonen in licht en in zoverre dit licht ons oog bereikt.[^12] 
 
