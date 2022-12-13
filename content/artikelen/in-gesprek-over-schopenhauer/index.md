@@ -83,15 +83,7 @@ Echter meent Van Rossum dat:
 
 > “Als het ding-op-zichzelf een wetmatige manifestatie in de tijd en in de ruimte is, als, met andere woorden, tijd, ruimte en causaliteit een essentieel onderdeel zijn van het ding-op-zichzelf, dan moeten die toch bestaan buiten het subject om?”[^14]
 
-De wil is zo een active manifestatie in de ruimte, een manifestatie bovendien die wij ook in onszelf herkennen. Het is op deze wijze dat verklaard kan worden dat de wereld bestond voordat er een bewustzijn was deze waar te nemen. Het bewustzijn is immers afhankelijk in zijn bestaan van de evolutionaire ontwikkelingen die tot zijn ontstaan hebben geleid. Zo meent Van Rossum een paradox te bespeuren in het idealisme zoals Schopenhauer deze schetst, want:
-
-> “\[W]e zien dat volgens Schopenhauer aan de ene kant het bestaan van de hele wereld afhangt van het eerste kennende wezen, en hoe anderzijds het bestaan van dit eerste kennende wezen volkomen afhankelijk is van een lange keten van oorzaken en gevolgen die eraan vooraf is gegaan.” [^15]
-
-Schopenhauer zou dit voorgenoemde als antinomie; een wijsgerige paradox beschouwen. Wat echter onbenoemd blijft is dat Schopenhauer de antinomieën van Kant verwierp als *Spiegelfechterei* en, dat hij deze term slechts gebruikt om een schijntegenstelling aan te duiden. Hij schrijft dan ook het volgende:
-
-> “Der sich uns hier zuletzt nothwendig ergebende Widerspruch findet jedoch seine Auflösung darin, daß, in Kants Sprache zu reden, Zeit, Raum und Kausalität nicht dem Dinge an sich zukommen, sondern allein seiner Erscheinung, deren Form sie sind; welches in meiner Sprache so lautet, daß die objektive Welt, die Welt als Vorstellung, nicht die einzige, sondern nur die eine, gleichsam die äußere Seite der Welt ist, welche noch eine ganz und gar andere Seite hat, die ihr Innerstes Wesen, ihr Kern, das Ding an sich ist: und dieses werden wir im folgenden Buche betrachten, es benennend, nach der unmittelbarsten seiner Objektivationen, Wille. Die Welt als Vorstellung aber, welche allein wir hier betrachten, hebt allerdings erst an mit dem Aufschlagen des ersten Auges, ohne welches Medium der Erkenntniß sie nicht seyn kann, also auch nicht vorher war.”[^16]
-
-Dit is ondanks zijn kritische noot inzake deze passage toch ook exact wat Van Rossum zegt; want de wereld *als voorstelling* is wel degelijk afhankelijk van het bewustzijn. Het is echter een onoverkomelijke grens van ons verstand, dat de wereld zoals deze *an sich* is, onmogelijk is voor te stellen.
+De wil is zo een actieve manifestatie in de ruimte, een manifestatie bovendien die wij ook in onszelf herkennen. Het is op deze wijze dat verklaard kan worden dat de wereld bestond voordat er een bewustzijn was deze waar te nemen. Het bewustzijn is immers afhankelijk in zijn bestaan van de evolutionaire ontwikkelingen die tot zijn ontstaan hebben geleid. Desalniettemin stelt Van Rossum dat de wereld als *voorstelling* wel degelijk afhankelijk is van het bewustzijn. Zijn visie brengt met zich mee dat wij ons de wereld *an sich* in tijd en ruimte buiten de voorstelling met geen mogelijkheid in kunnen beelden en dat deze voorbij de onoverkomelijke grens van ons verstand ligt, maar we desondanks het bestaan van een wereld vóór het bestaan van bewustzijn aan moeten nemen omdat slechts zo het bewustzijn heeft kunnen ontstaan.
 
 Uit de afwijzing van het idealisme volgt echter wel een probleem, dat een separate oplossing vereist. Dit betreft het ethische aspect, het doven van de Wil; want in de niet-idealistische visie van Van Rossum blijft het probleem dat met het doven van de wil slechts een, zo kunnen we zeggen, individuele wil, op zichzelf is teruggekeerd.
 
@@ -99,7 +91,7 @@ Het voortbestaan van de wil is zo afhankelijk van de afwijzing van het idealisme
 
 Als mogelijke oplossing voor dit probleem wordt geoppert dat er op kosmische schaal wellicht ondanks dat er geen einde aan het lijden des werelds in zich is een moment zal zijn, een eindpunt waar de wil rust zal vinden:
 
-> “Streven wij wellicht terug naar dat punt van perfecte orde, van eenheid? Is dat het doel van ons streven, en zullen wij—zal de wil—daar uiteindelijk rust vinden?”[^17]
+> “Streven wij wellicht terug naar dat punt van perfecte orde, van eenheid? Is dat het doel van ons streven, en zullen wij—zal de wil—daar uiteindelijk rust vinden?”[^15]
 
 \
 Dit blijft echter speculatie; wij kunnen dit niet weten, niettemin blijft Van Rossum hoopvol. Als de wil ondanks individuele verlossing toch door blijft razen—als er geen eeuwige verlossing is—biedt dit toch een welkom moment van rust in de storm van het bestaan.
@@ -109,14 +101,14 @@ Ook in het verkrijgen van mystieke wijsheid  is het verstand iets wat onze blik 
 >  Ideo in parabolis loquor eis: quia videntes non vident, et audientes non audiunt, neque intelligunt.
 >
 > [](<>)Et adimpletur in eis prophetia Isaiæ, dicentis: Auditu audietis, et non intelligetis:\
-> et videntes videbitis, et non videbitis.[^18]
+> et videntes videbitis, et non videbitis.[^16]
 
 \
 Wat dan ook in de visie van Van Rossum naar voren komt is dat een deel van de verlorenheid die de mens in de hedendaagse wereld ervaart te wijten is aan de mate waarin de allegorieën van de verschillende religies passen bij de tijd en de omstandigheden daar dit beïnvloedt of zij effectief de waarheden die daarin besloten liggen over te kunnen brengen. De westerse mens zou uit het Christendom gegroeid zijn als kind uit zijn kleren.
 
 Ook dit hangt wederom samen met het materialisme, dat zich tot de laatste zin van het boek laat zien als een fundamentele dwaling in onze mentaliteit. De moderne mens dwingt zichzelf daarom ook religie volgens de maatstaven van het letterlijke en het figuurlijke te beschouwen en dit is ook wat de absurdistische taferelen van Christenen die Gods letterlijke bestaan pogen te verdedigen veroorzaakt, terwijl hun waarheden, allegorisch als zij zijn, op een geheel ander *niveau* waar zijn, zowel boven het letterlijke als het figuurlijke uitstijgende.
 
-Wat hierin noodzakelijk is, blijkt wederom dat wij ons bewustzijn niet overschatten, en dat wij, welk pad wij ook opwaarts nemen terug naar het spirituele, wij niet langer de *meer dan twijfelbare spiegeling die men werkelijkheid noemt tot absoluut verheffen*[^19] zoals het materialistische wereldbeeld dit doet.
+Wat hierin noodzakelijk is, blijkt wederom dat wij ons bewustzijn niet overschatten, en dat wij, welk pad wij ook opwaarts nemen terug naar het spirituele, wij niet langer de *meer dan twijfelbare spiegeling die men werkelijkheid noemt tot absoluut verheffen*[^17] zoals het materialistische wereldbeeld dit doet.
 
 Want ook op politiek vlak heeft deze denkwijze haar uitwerking en veroorzaakt allerlei dwalingen. Wij komen zo aan het einde van onze reis en ook vinden wij hier hoe al de voorgaande reflecties hun weerslag vinden in de problemen die wij heden ten dage om ons heen zien. De moderne mens is verloren geraakt in de betonnen wildernis, waar de fata morgana‘s van zijn individuele verlangens hem leiden. 
 
@@ -124,7 +116,7 @@ Met de ontkerkelijking en het materialisme is men begonnen met het zoeken van ve
 
 Temidden van de onttovering zien wij dat met dergelijke ideologieën niet alleen niet afdoende wordt tegemoetgekomen aan de spirituele behoefte van de mens maar dat deze ook tot grote excessen van lijden kunnen lijden. De hoeveeldheid slachtoffers die het communisme en het nazisme tezamen gemaakt hebben in de vorige eeuw overstijgen de tientallen miljoenen. Over een materialistische invulling op het politieke vlak van onze spirituele neiging schrijft Huxley dan ook dat:
 
-> \[I]t may be remarked that the cult of unity on the political level is only an idolatrous *ersatz* for the genuine religion of unity on the personal and spiritual levels. Totalitarian regimes justify their existence by means of a philosophy of political monism, according to which the state is God on earth, unification under the heel of the divine state is salvation, and all means to such unification, however intrinsically wicked, are right and may be used without scruple.[^20]
+> \[I]t may be remarked that the cult of unity on the political level is only an idolatrous *ersatz* for the genuine religion of unity on the personal and spiritual levels. Totalitarian regimes justify their existence by means of a philosophy of political monism, according to which the state is God on earth, unification under the heel of the divine state is salvation, and all means to such unification, however intrinsically wicked, are right and may be used without scruple.[^18]
 
 In onze tijd passeren een grote verscheidenheid aan dergelijke ideologieën de revue, en velen daarvan kunnen wij beschouwen als variaties op het marxistische thema; waarbij slechts verschuift wie de onderdrukkers zijn en wie de onderdrukten. De nieuwe proletariërs die zich dienen te verenigen zijn minderheden met een bepaalde seksuele voorkeur of met een bepaalde etnische identiteit. \
 \
@@ -160,22 +152,16 @@ Dit vraagt van ons dat wij, zoals Van Rossum aantoont, de wereld fundamenteel an
 
 [^14]: p. 126
 
-[^15]: p. 130
+[^15]: p. 159
 
-[^16]: “De tegenstrijdigheid die hier ten slotte noodzakelijkerwijs uit voortvloeit vind echter zijn oplossing in het gegeven dat, om met Kants woorden te spreken, tijd, ruimte en causaliteit niet het Ding-an-sich toebehoren, maar slechts zijn verschijning, wier vorm zij zijn; wat in mijn woorden zo klinkt, dat de objectieve wereld, de wereld als voorstelling, niet de enige, maar louter de ene, als het ware uiterlijke zijde des werelds is, die tevens een totaal andere zijde heeft, die haar binnenste wezen, haar kern, het Ding-an-sich is: en deze zullen we in het volgende boek beschouwen, waar we het naar de meest directe objectivering, wil noemen. De wereld als voorstelling waartoe wij ons hier beperken vangt daarentegen pas aan met het openen van het eerste oog, zonder wiens medium van aanschouwing deze niet kan bestaan, derhalve voorheen ook niet was.” (Vert. auteur)
-
-Arthur Schopenhauer, Die Welt als Wille und Vorstellung, I. Band, I. Buch, §7
-
-[^17]: p. 159
-
-[^18]: [](<>)Daarom spreek Ik tot hen door gelijkenissen, omdat zij ziende niet zien, en horende niet horen, noch ook verstaan.
+[^16]: [](<>)Daarom spreek Ik tot hen door gelijkenissen, omdat zij ziende niet zien, en horende niet horen, noch ook verstaan.
 
 [](<>)En in hen wordt de profetie van Jesaja vervuld, die zegt: Met het gehoor zult gij horen, en geenszins verstaan; en ziende zult gij zien, en geenszins bemerken.
 
 Mattheus XIII. 13-14
 
-[^19]: Parafrase uit het artikel [Homo Credens](https://reactionair.nl/artikelen/homo-credens/) dat eerder op deze website verscheen.
+[^17]: Parafrase uit het artikel [Homo Credens](https://reactionair.nl/artikelen/homo-credens/) dat eerder op deze website verscheen.
 
-[^20]: “Het mag opgemerkt worden dat de eenheidscultus op het politieke niveau slechts een huichelachtig surrogaat voor de ware eenheidsreligie op zowel het persoonlijke als het spirituele vlak is. Totalitaire regimes rechtvaardigen hun bestaan door middel van een filosofie van politiek monisme, in overeenstemming waarmede de staat God op aarde is, eenwording onder de hiel van de heilige staat verlossing, en alle middelen om deze eenwording te bereiken juist, hoezeer deze ook wezenlijk kwaadaardig zijn, en deze mogen daartoe zonder gewetensbezwaren aangewend worden.” (Vert. auteur)
+[^18]: “Het mag opgemerkt worden dat de eenheidscultus op het politieke niveau slechts een huichelachtig surrogaat voor de ware eenheidsreligie op zowel het persoonlijke als het spirituele vlak is. Totalitaire regimes rechtvaardigen hun bestaan door middel van een filosofie van politiek monisme, in overeenstemming waarmede de staat God op aarde is, eenwording onder de hiel van de heilige staat verlossing, en alle middelen om deze eenwording te bereiken juist, hoezeer deze ook wezenlijk kwaadaardig zijn, en deze mogen daartoe zonder gewetensbezwaren aangewend worden.” (Vert. auteur)
 
 Aldous Huxley, The perennial philosophy, Ch. I
