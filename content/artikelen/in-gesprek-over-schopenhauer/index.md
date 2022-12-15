@@ -1,16 +1,15 @@
 +++
 title = "In gesprek over Schopenhauer"
-subtitle = "Een recensie van het boek “De weg terug”"
 auteurs = ["Anton Prins"]
 date = "2022-12-09"
 themas = "Recensie en Biografie"
-aangehaald = ["Aldous Huxley", "Marcel Proust", "Joris van Rossum", "Arthur Schopenhauer"]
-note = "Dit artikel is een recensie van het boek 'De weg terug: Schopenhauer voor een dolende wereld' van dr. Joris van Rossum. Is uw interesse door dit artikel gewekt? Bestel het boek dan [hier](https://deblauwetijger.com/product/joris-van-rossum-de-weg-terug-schopenhauer-voor-een-dolende-wereld/)."
 image = "der_chasseur_im_walde_-_caspar_david_friedrich-1-.jpg"
-anchor = "Smart"
 caption = "Caspar David Friedrich, Der Chasseur im Walde"
+note = "Dit artikel is een recensie van het boek 'De weg terug: Schopenhauer voor een dolende wereld' van dr. Joris van Rossum. Is uw interesse door dit artikel gewekt? Bestel het boek dan [hier](https://deblauwetijger.com/product/joris-van-rossum-de-weg-terug-schopenhauer-voor-een-dolende-wereld/)."
+subtitle = "Een recensie van het boek “De weg terug”"
+aangehaald = ["Aldous Huxley", "Marcel Proust", "Joris van Rossum", "Arthur Schopenhauer"]
+anchor = "Smart"
 +++
-
 {{< quote
 	text="Le seul véritable voyage ce ne serait pas d'aller vers de nouveaux paysages, mais d'avoir d'autres yeux"
 	author="Marcel Proust"
@@ -39,7 +38,7 @@ Wat sterk en overtuigend naar voren wordt gebracht in de eerdere hoofdstukken is
 Sterfelijkheid bestaat door deze lens beschouwd omdat we ons valselijk identificeren met het individu. Met de wil als ons ware zijn is daar de onsterfelijkheid! En hier toont Van Rossum ons dat het plengen van tranen om het verlies van ons leven niet nodig is—wij zullen, als wil zijnde, nooit de kus des doods op onze lippen voelen; *mors est ianua vitæ* (de dood is de deur des levens):
 
 > Ons wezen is 'als de zon die alleen voor onze aardse ogen onder lijkt te gaan, maar die in werkelijkheid nooit ondergaat en onophoudelijk door blijft schijnen'.[^4]
-
+>
 > Het individu sterft, daar is geen twijfel over mogelijk. Dus als wij dit individu zouden zijn, dit ik, dan is er geen leven na de dood. Maar zijn wij niet het individu maar de wil, de wil die eeuwig is, de wil die in mij maar ook in jou huist, in feite in alles, dan treft de dood ons niet.[^5]
 
 Ook wordt helder in beeld gebracht hoe het materialistische wereldbeeld het eeuwige, onveranderlijke zijn in de vergankelijke wereld poogt te plaatsen en daartoe een eeuwige zoektocht onderneemt naar het kleinste deeltje. Dat dit een mogelijk hachelijke onderneming is, komt scherp naar voren in de volgende passage:
@@ -98,7 +97,6 @@ Als mogelijke oplossing voor dit probleem wordt geopperd dat er op kosmische sch
 
 > Streven wij wellicht terug naar dat punt van perfecte orde, van eenheid? Is dat het doel van ons streven, en zullen wij—zal de wil—daar uiteindelijk rust vinden?[^15]
 
-
 Dit blijft echter speculatie; wij kunnen dit niet weten. Niettemin blijft Van Rossum hoopvol. Als de wil ondanks individuele verlossing toch door blijft razen—als er geen eeuwige verlossing is—biedt dit toch een welkom moment van rust in de storm van het bestaan.
 
 ### Voorbij het verstand
@@ -133,7 +131,7 @@ De vermeende maakbaarheid des werelds en het schromelijk overschatten van het me
 
 Dit vraagt van ons dat wij, zoals Van Rossum aantoont, de wereld fundamenteel anders moeten gaan beschouwen. Dat we het materialistische wereldbeeld ontmantelen en hier andere fundamenten voor in de plaats leggen. Alleen zo kunnen we de waan van de dag duiden en ons hiertegen wapenen. Dit zal ons in staat stellen de weg te vinden, de weg die ons naar zelfkennis voert, naar waarheid en naar verlossing.   
 
-[^1]: Dit artikel, geschreven ter gelegenheid van een lezing van Van Rossum in juni 2022, kunt u *[hier](*[https://reactionair.nl/​artikelen/de-willende-wereld/](https://reactionair.nl/artikelen/de-willende-wereld/)*)* lezen.
+[^1]: Dit artikel, geschreven ter gelegenheid van een lezing van Van Rossum in juni 2022, kunt u [hier](https://reactionair.nl/artikelen/de-willende-wereld/) lezen.
 [^2]: p. 19.
 [^3]: p. 38.
 [^4]: p. 47; het originele citaat luidt: “*Es ist der Sonne ähnlich, die bloß unsern irdischen Augen unterzugehn scheint, die aber eigentlich nie untergeht, sondern unaufhörlich fortleuchtet*”. Deze zou van Goethe zijn, hoewel Schopenhauer beweert dat Goethe deze redewending juist van hem had.
