@@ -1,5 +1,5 @@
 +++
-aangehaald = ['Theodor Adorno', 'Charles Darwin', 'Fjodor Dostojevski', 'Sigmund Freud', 'John Gray', 'David Hume', 'Immanuel Kant', 'Karl Marx', 'Friedrich Nietzsche', 'Jean-Jacques Rousseau', 'Roger Scruton', 'William Shakespeare']
+aangehaald = ['Theodor Adorno', 'Charles Darwin', 'Fjodor Dostojevski', 'Sigmund Freud', 'John Gray', 'David Hume', 'Aldous Huxley', 'Immanuel Kant', 'Karl Marx', 'Friedrich Nietzsche', 'Jean-Jacques Rousseau', 'Roger Scruton', 'William Shakespeare']
 auteurs = ['Magnus Bradshaw']
 date = '2022-04-01'
 image = 'thumb.webp'
