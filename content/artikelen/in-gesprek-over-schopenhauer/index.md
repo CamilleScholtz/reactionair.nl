@@ -1,12 +1,14 @@
 +++
 title = "In gesprek over Schopenhauer"
+subtitle = "Een recensie van het boek “De weg terug”"
 auteurs = ["Anton Prins"]
 date = "2022-12-09"
 themas = "Recensie en Biografie"
 aangehaald = ["Aldous Huxley", "Joris van Rossum", "Arthur Schopenhauer"]
 note = "Dit artikel is een recensie van het boek 'De weg terug: Schopenhauer voor een dolende wereld' van dr. Joris van Rossum. Is uw interesse door dit artikel gewekt? Bestel het boek dan [hier](https://deblauwetijger.com/product/joris-van-rossum-de-weg-terug-schopenhauer-voor-een-dolende-wereld/)."
-subtitle = "Een recensie van het boek “De weg terug”"
+image = "der_chasseur_im_walde_-_caspar_david_friedrich-1-.jpg"
 anchor = "Smart"
+caption = "Caspar David Friedrich, Der Chasseur im Walde"
 +++
 
 {{< quote
@@ -16,28 +18,28 @@ anchor = "Smart"
 
 Voor de regelmatige lezer van Reactionair.nl zal het geen geheim zijn dat de filosofie van Arthur Schopenhauer mij na aan het hart ligt. Reeds eerder verscheen op deze website een beknopte introductie van zijn gedachtegoed van mijn hand.[^1] Ik was dan ook verblijd om onlangs een boek te mogen lezen waarin zijn filosofie de kern van de verhandeling vormt.
 
-In zijn wondermooie boek laat doctor Van Rossum ons afdalen in de diepten van ons zijn. Als een moderne Vergilius neemt hij ons daartoe aan de hand, in een poging om ons in deze dolende wereld het juiste pad terug te doen vinden; want de wereld is dolende—ja, dwaalleer op dwaalleer stapelt zich op in de moderne *Weltanschauung* die zich rondom het materialisme heeft gevormd.
+In zijn wondermooie boek laat doctor Van Rossum ons afdalen in de diepten van ons zijn. Als een moderne Vergilius neemt hij ons daartoe aan de hand, in een poging om ons in deze dolende wereld het juiste pad terug te doen vinden; want de wereld is dolende—ja, dwaalleer op dwaalleer stapelt zich op in de moderne *Weltanschauung* die zich rondom het materialisme heeft gevormd.
 
 De hedendaagse verarming van wat wij als kennis aanduiden vormt hierbij een primair aanknopingspunt om onze dwalingen te duiden en te corrigeren. Verzand in het letterlijke, is men blind geworden voor de waarde van inzicht en de capaciteit van de rijke allegorieën die religie zo kenmerken om dit inzicht over te brengen.
 
-Vanaf het eerste hoofdstuk wordt de lezer daarom aangespoord tot reflectie en wordt het concept van wat kennis inhoudt, verdiept; louter abstracte kennis is niet genoeg: deze moet doorleefd worden, filosofische theorieën moeten indalen als besef—als inzicht: 
+Vanaf het eerste hoofdstuk wordt de lezer daarom aangespoord tot reflectie en wordt het concept van wat kennis inhoudt, verdiept; louter abstracte kennis is niet genoeg: deze moet doorleefd worden, filosofische theorieën moeten indalen als besef—als inzicht: 
 
 > Kennis is waardeloos als het theoretisch blijft en wordt pas effectief als we die realiseren als een onmiddelijke, intuïtieve ervaring.[^2]
 
-Met dit uitgangspunt laat Van Rossum ons een proces van zelfontdekking doorlopen waarin hij de gebruikelijke definitie van de Wil—in navolging van Schopenhauer—omkeert en deze vervolgens overtuigend betrekt op zowel onze bewuste als onze semi-onbewuste en onbewuste wilsprocessen, die achteraf altijd als gewild voelen en temeer als eigen. 
+Met dit uitgangspunt laat Van Rossum ons een proces van zelfontdekking doorlopen waarin hij de gebruikelijke definitie van de Wil—in navolging van Schopenhauer—omkeert en deze vervolgens overtuigend betrekt op zowel onze bewuste als onze semi-onbewuste en onbewuste wilsprocessen, die achteraf altijd als gewild voelen en temeer als eigen. 
 
 De vorm waarin dit gebeurt verdient het vermeld te worden, want de uiteenzetting geschiedt in dialoogvorm. Een gewaagde keuze; daar de dialoogvorm vandaag de dag over het algemeen in onbruik is geraakt. De keuze loont zich echter, want de expositie is helder, de beide karakters, Hugo (de auteursstem) en Adam (de scepticus) worden met overtuiging geschetst en het geheel ontvouwt zich soepel en vloeiend.
 
 ### D﻿e wil als ons ware wezen
 
-Wat sterk en overtuigend naar voren wordt gebracht in de eerdere hoofdstukken is wat de kern is van ons *zijn*: Van Rossum verschuift heel kundig de gebruikelijke blik van ons werkelijke zelf als hoofdzakelijk denkend individu dat onze handelingen bewust aanstuurt, naar een zelf, dat door en door *wil* is. Het is op deze wijze dat wij kunnen verklaren waarom wat wij *zijn* vaak zo lastig is aan te wijzen en het verleggen van de definitie van dit zijn lost dit probleem bijna moeiteloos op. Hoewel dit inzicht met geen millimeter afwijkt van Schopenhauer, is de zegswijze niettemin fris en klinkt deze niet, zoals men de wilshypothese van Schopenhauer soms pleegt uit te leggen, zweverig en ongrijpbaar.
+Wat sterk en overtuigend naar voren wordt gebracht in de eerdere hoofdstukken is wat de kern is van ons *zijn*: Van Rossum verschuift heel kundig de gebruikelijke blik van ons werkelijke zelf als hoofdzakelijk denkend individu dat onze handelingen bewust aanstuurt, naar een zelf, dat door en door *wil* is. Het is op deze wijze dat wij kunnen verklaren waarom wat wij *zijn* vaak zo lastig is aan te wijzen en het verleggen van de definitie van dit zijn lost dit probleem bijna moeiteloos op. Hoewel dit inzicht met geen millimeter afwijkt van Schopenhauer, is de zegswijze niettemin fris en klinkt deze niet, zoals men de wilshypothese van Schopenhauer soms pleegt uit te leggen, zweverig en ongrijpbaar.
 
 > Het feit dat handelingen 'als vanzelf' optreden, handelingen waarin wij wel onze wil herkennen maar geen causaal verband in de tijd tussen wil en handeling kunnen zien, betekent dat het onderscheid tussen wat wij zien als onszelf—het kennende en denkende ik—en het lichaam niet duidelijk te maken is.[^3]
 
 Sterfelijkheid bestaat door deze lens beschouwd omdat we ons valselijk identificeren met het individu. Met de wil als ons ware zijn is daar de onsterfelijkheid! En hier toont Van Rossum ons dat het plengen van tranen om het verlies van ons leven niet nodig is—wij zullen, als wil zijnde, nooit de kus des doods op onze lippen voelen; *mors est ianua vitæ* (de dood is de deur des levens):
 
 > Ons wezen is 'als de zon die alleen voor onze aardse ogen onder lijkt te gaan, maar die in werkelijkheid nooit ondergaat en onophoudelijk door blijft schijnen'.[^4]
->
+
 > Het individu sterft, daar is geen twijfel over mogelijk. Dus als wij dit individu zouden zijn, dit ik, dan is er geen leven na de dood. Maar zijn wij niet het individu maar de wil, de wil die eeuwig is, de wil die in mij maar ook in jou huist, in feite in alles, dan treft de dood ons niet.[^5]
 
 Ook wordt helder in beeld gebracht hoe het materialistische wereldbeeld het eeuwige, onveranderlijke zijn in de vergankelijke wereld poogt te plaatsen en daartoe een eeuwige zoektocht onderneemt naar het kleinste deeltje. Dat dit een mogelijk hachelijke onderneming is, komt scherp naar voren in de volgende passage:
@@ -78,9 +80,9 @@ Ook hier, namelijk, onthult zich de wil als drijvende kracht achter de anorganis
 
 ### V﻿an Rossum contra het idealisme
 
-Tot nu toe heeft Van Rossum Schopenhauer op de voet gevolgd; echter op één vlak wijkt hij nu van zijn ideeën af. Het zevende hoofdstuk behandelt namelijk het idealisme; en hier wordt afgeweken van het adagium *esse est percipi* (zijn is waargenomen worden, de filosofie van George Berkeley) inzake de aard van het *zijn.*
+Tot nu toe heeft Van Rossum Schopenhauer op de voet gevolgd; echter op één vlak wijkt hij nu van zijn ideeën af. Het zevende hoofdstuk behandelt namelijk het idealisme; en hier wordt afgeweken van het adagium *esse est percipi* (zijn is waargenomen worden, de filosofie van George Berkeley) inzake de aard van het *zijn.*
 
-Hier wordt de kritiek geschetst, dat zowel tijd en ruimte reeds besloten liggen in het begrip drang; en zo is de wil zonder tijd en ruimte een leeg begrip. Deze afwijzing van het idealisme brengt Schopenhauers wilsfilosofie dichter bij de wetenschappelijke inzichten van vandaag maar we lijken in zekere zin ook terug te keren naar een visie waarbij een half idealisme aan de dag wordt gelegd, waarbij ruimte en tijd in zekere zin de noumena kenmerken die schuilgaan achter de fenomenen. Spreken we hier niet wederom van de primaire en secundaire kwaliteiten van Locke? Die kwaliteiten die Berkeley zo kundig heeft ontmanteld voor ons in zijn fameuze dialoog tussen Philonous en Hylas?
+Hier wordt de kritiek geschetst, dat zowel tijd en ruimte reeds besloten liggen in het begrip drang; en zo is de wil zonder tijd en ruimte een leeg begrip. Deze afwijzing van het idealisme brengt Schopenhauers wilsfilosofie dichter bij de wetenschappelijke inzichten van vandaag maar we lijken in zekere zin ook terug te keren naar een visie waarbij een half idealisme aan de dag wordt gelegd, waarbij ruimte en tijd in zekere zin de noumena kenmerken die schuilgaan achter de fenomenen. Spreken we hier niet wederom van de primaire en secundaire kwaliteiten van Locke? Die kwaliteiten die Berkeley zo kundig heeft ontmanteld voor ons in zijn fameuze dialoog tussen Philonous en Hylas?
 
 Echter meent Van Rossum dat:
 
@@ -96,6 +98,7 @@ Als mogelijke oplossing voor dit probleem wordt geopperd dat er op kosmische sch
 
 > Streven wij wellicht terug naar dat punt van perfecte orde, van eenheid? Is dat het doel van ons streven, en zullen wij—zal de wil—daar uiteindelijk rust vinden?[^15]
 
+
 Dit blijft echter speculatie; wij kunnen dit niet weten. Niettemin blijft Van Rossum hoopvol. Als de wil ondanks individuele verlossing toch door blijft razen—als er geen eeuwige verlossing is—biedt dit toch een welkom moment van rust in de storm van het bestaan.
 
 ### Voorbij het verstand
@@ -110,7 +113,7 @@ Ook in het verkrijgen van mystieke wijsheid  is het verstand iets wat onze blik 
 
 Wat dan ook in de visie van Van Rossum naar voren komt is dat een deel van de verlorenheid die de mens in de hedendaagse wereld ervaart, te wijten is aan de mate waarin de allegorieën van de verschillende religies passen bij de tijd en de omstandigheden, daar dit beïnvloedt of zij effectief de waarheden die daarin besloten liggen over kunnen brengen. De westerse mens zou uit het christendom gegroeid zijn als een kind uit zijn kleren.
 
-Ook dit hangt wederom samen met het materialisme, dat zich tot de laatste zin van het boek laat zien als een fundamentele dwaling in onze mentaliteit. De moderne mens dwingt zichzelf daarom ook religie volgens de maatstaven van het letterlijke en het figuurlijke te beschouwen en dit is ook wat de absurdistische taferelen van christenen die Gods letterlijke bestaan pogen te verdedigen veroorzaakt, terwijl hun waarheden, allegorisch als zij zijn, op een geheel ander *niveau* waar zijn, boven het letterlijke en het figuurlijke uitstijgende.
+Ook dit hangt wederom samen met het materialisme, dat zich tot de laatste zin van het boek laat zien als een fundamentele dwaling in onze mentaliteit. De moderne mens dwingt zichzelf daarom ook religie volgens de maatstaven van het letterlijke en het figuurlijke te beschouwen en dit is ook wat de absurdistische taferelen van christenen die Gods letterlijke bestaan pogen te verdedigen veroorzaakt, terwijl hun waarheden, allegorisch als zij zijn, op een geheel ander *niveau* waar zijn, boven het letterlijke en het figuurlijke uitstijgende.
 
 Wat hierin noodzakelijk is, blijkt wederom dat wij ons bewustzijn niet overschatten, en dat wij, welk pad wij ook opwaarts nemen terug naar het spirituele, wij niet langer de *meer dan twijfelbare spiegeling die men werkelijkheid noemt tot absoluut verheffen*[^17] zoals het materialistische wereldbeeld dit doet.
 
@@ -130,7 +133,7 @@ De vermeende maakbaarheid des werelds en het schromelijk overschatten van het me
 
 Dit vraagt van ons dat wij, zoals Van Rossum aantoont, de wereld fundamenteel anders moeten gaan beschouwen. Dat we het materialistische wereldbeeld ontmantelen en hier andere fundamenten voor in de plaats leggen. Alleen zo kunnen we de waan van de dag duiden en ons hiertegen wapenen. Dit zal ons in staat stellen de weg te vinden, de weg die ons naar zelfkennis voert, naar waarheid en naar verlossing.   
 
-[^1]: Dit artikel, geschreven ter gelegenheid van een lezing van Van Rossum in juni 2022, kunt u [hier](https://reactionair.nl/artikelen/de-willende-wereld/) lezen.
+[^1]: Dit artikel, geschreven ter gelegenheid van een lezing van Van Rossum in juni 2022, kunt u *[hier](https://reactionair.nl/artikelen/de-willende-wereld/)* lezen.
 [^2]: p. 19.
 [^3]: p. 38.
 [^4]: p. 47; het originele citaat luidt: “*Es ist der Sonne ähnlich, die bloß unsern irdischen Augen unterzugehn scheint, die aber eigentlich nie untergeht, sondern unaufhörlich fortleuchtet*”. Deze zou van Goethe zijn, hoewel Schopenhauer beweert dat Goethe deze redewending juist van hem had.
