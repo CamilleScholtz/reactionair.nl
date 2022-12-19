@@ -29,7 +29,7 @@
 	{{ $data  = merge $data (dict "permalink" .context.Permalink) }}
 	{{ $data  = merge $data (dict "slug" $slug) }}
 
-	{{ partial "comments/comment_form" $data }}
+	{{ partialCached "comments/comment_form" $data }}
 </div>
 
 <script type="text/javascript">
