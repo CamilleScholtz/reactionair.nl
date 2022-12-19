@@ -1,12 +1,21 @@
-+++
-aangehaald = ['Thierry Baudet', 'Julius Evola', 'Ernst Jünger', 'Erik von Kuehnelt-Leddihn', 'Sid Lukkassen', 'Oswald Spengler', 'Ludwig Wittgenstein']
-auteurs = ['Paars van Grinsterer']
-date = '2021-11-11'
-image = 'thumb.webp'
-subtitle = 'Het belang van betekenis van termen en wat het ons kan leren over een reactionaire toekomst'
-themas = 'Politiek en Actualiteit'
-title = 'Een hermeneutische blik op de term reactionair'
-+++
+---
+aangehaald:
+- Thierry Baudet
+- Julius Evola
+- Ernst Jünger
+- Erik von Kuehnelt-Leddihn
+- Sid Lukkassen
+- Oswald Spengler
+- Ludwig Wittgenstein
+auteurs:
+- Paars van Grinsterer
+date: "2021-11-11"
+image: thumb.webp
+subtitle: Het belang van betekenis van termen en wat het ons kan leren over een reactionaire
+  toekomst
+themas: Politiek en Actualiteit
+title: Een hermeneutische blik op de term reactionair
+---
 
 
 In de loop van de 19e eeuw ontstonden er vanuit de reactionaire traditie twee Christelijke politieke stromingen in Nederland. Slechts één daarvan zou het Christelijk-historische geluid in de politiek van Nederland gaan domineren. Wat kunnen we leren van die tijd en welke valkuilen moet de reactionair van vandaag vermijden? Maar eerst; wat betekent reactionair eigenlijk?

@@ -1,12 +1,13 @@
-+++
-title = "Sinterklaas, de Indo-Europese Hemelvader?"
-subtitle = "Een afdaling in de goddelijke essentie van de Sinterklaastraditie"
-auteurs = ["Elvengast"]
-date = "2022-12-04"
-themas = "Religie en Metafysica"
-image = "wekyztlb.jpg-medium.webp"
-anchor = "Smart"
-+++
+---
+anchor: Smart
+auteurs:
+- Elvengast
+date: "2022-12-04"
+image: wekyztlb.jpg-medium.webp
+subtitle: Een afdaling in de goddelijke essentie van de Sinterklaastraditie
+themas: Religie en Metafysica
+title: Sinterklaas, de Indo-Europese Hemelvader?
+---
 {{< quote
 	text="Gods don’t die. Never completely die... There’s always somewhere, inside some stone, perhaps, or the words of a song, or riding the mind of some animal, or maybe in a whisper on the wind. They never entirely go, they hang onto the world by the tip of a fingernail, always fighting to find a way back. Once a god, always a god. Dead, perhaps, but only like the world in winter—"
 	author="Terry Pratchett, Hogfather"

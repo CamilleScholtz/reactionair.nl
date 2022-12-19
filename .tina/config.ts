@@ -20,21 +20,22 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "artikel",
+        name: "artikelen",
         label: "Artikelen",
         path: "content/artikelen",
+        format: "md",
         fields: [
           {
-            type: "string",
             name: "title",
             label: "Title",
+            type: "string",
             isTitle: true,
             required: true,
           },
           {
-            type: "rich-text",
             name: "body",
             label: "Body",
+            type: "rich-text",
             isBody: true,
           },
         ],

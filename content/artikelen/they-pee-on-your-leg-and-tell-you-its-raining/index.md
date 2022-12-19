@@ -1,13 +1,19 @@
-+++
-aangehaald = ['Jacques Derrida', 'Michel Foucault', 'Karl Marx', 'Jean-Paul Sartre']
-auteurs = ['Sanura']
-date = '2021-10-05'
-dossiers = ['Woke']
-image = 'thumb.webp'
-subtitle = 'Misbruikers moeten kinderen weerbaar maken tegen misbruik'
-themas = 'Cultuur en Maatschappij'
-title = 'They pee on your leg and tell you it’s raining'
-+++
+---
+aangehaald:
+- Jacques Derrida
+- Michel Foucault
+- Karl Marx
+- Jean-Paul Sartre
+auteurs:
+- Sanura
+date: "2021-10-05"
+dossiers:
+- Woke
+image: thumb.webp
+subtitle: Misbruikers moeten kinderen weerbaar maken tegen misbruik
+themas: Cultuur en Maatschappij
+title: They pee on your leg and tell you it’s raining
+---
 
 >Sekten, die alle sociale klassen hebben doordrongen, zullen manieren vinden om zichzelf in het hart van de huizen te introduceren om de onschuld van kinderen te corrumperen. De harten van de kinderen zullen heerlijke hapjes zijn om de duivel te verwennen...[^1]
 

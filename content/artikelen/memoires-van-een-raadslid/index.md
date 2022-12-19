@@ -1,12 +1,13 @@
-+++
-anchor = 'Smart'
-auteurs = ['‘Het Dorp’ Genieter']
-date = '2022-07-08'
-image = 'qts5jkz.jpeg'
-subtitle = 'Subtiele manipulaties in de gemeentepolitiek'
-themas = 'Politiek en Actualiteit'
-title = 'Memoires van een raadslid'
-+++
+---
+anchor: Smart
+auteurs:
+- ‘Het Dorp’ Genieter
+date: "2022-07-08"
+image: qts5jkz.jpeg
+subtitle: Subtiele manipulaties in de gemeentepolitiek
+themas: Politiek en Actualiteit
+title: Memoires van een raadslid
+---
 
 De gemeentepolitiek, een minder saai onderwerp is moeilijk te vinden. Een groep mensen die zich bekommeren over laadpalen, hoge beschoeiingen en bestemmingsplannen in commissies en vergaderingen en, minstens zo belangrijk, de borrel achteraf. 
 

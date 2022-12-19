@@ -1,12 +1,15 @@
-+++
-aangehaald = ['G. K. Chesterton', 'Karl Popper']
-auteurs = ['Camille Meloen']
-date = '2021-10-06'
-image = 'thumb.webp'
-subtitle = 'En de blindheid van de liberalen'
-themas = 'Politiek en Actualiteit'
-title = 'De mythe van de neutraliteit'
-+++
+---
+aangehaald:
+- G. K. Chesterton
+- Karl Popper
+auteurs:
+- Camille Meloen
+date: "2021-10-06"
+image: thumb.webp
+subtitle: En de blindheid van de liberalen
+themas: Politiek en Actualiteit
+title: De mythe van de neutraliteit
+---
 
 
 Onlangs heeft de Tweede Kamer een voorstel aanvaard om ervoor te zorgen dat geen enkele school een verklaring van de ouders mag eisen waarin zij de identiteit van de school onderschrijven. Veel liberalen waren hier erg blij mee, zich beroepend op een zogenaamde “neutraliteit”. Op Twitter lazen we beweringen als:

@@ -1,12 +1,14 @@
-+++
-auteurs = ['Camille Meloen']
-date = '2021-10-15'
-dossiers = ['Woke']
-image = 'thumb.webp'
-subtitle = 'Of toch niet?'
-themas = 'Klikaas'
-title = 'Woke is NU ECHT te ver gegaan!'
-+++
+---
+auteurs:
+- Camille Meloen
+date: "2021-10-15"
+dossiers:
+- Woke
+image: thumb.webp
+subtitle: Of toch niet?
+themas: Klikaas
+title: Woke is NU ECHT te ver gegaan!
+---
 
 
 _GeenStijl_, _TPO_, Geerten Waling, Afshin Ellian, Wierd Duk, Roderick Veelo. Ik kan nog wel even doorgaan, _boomers_ die artikel na artikel schrijven over hoe _woke_ nu _ECHT_ te ver is gegaan. Maar is dat ook echt zo? Wat is de oorsprong van _woke_? Laten we dit uitzoeken!

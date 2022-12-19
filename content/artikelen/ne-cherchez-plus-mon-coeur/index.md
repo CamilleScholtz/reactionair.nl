@@ -1,13 +1,16 @@
-+++
-aangehaald = ['Theodor Adorno', 'Baruch Spinoza']
-anchor = 'Smart'
-auteurs = ['Rainer Wüssle']
-date = '2022-08-05'
-image = 'the-lovers-1928-1-.jpg'
-subtitle = 'Liefde in een door ruilverhoudingen beheerste samenleving'
-themas = 'Religie en Metafysica'
-title = 'Ne cherchez plus mon cœur'
-+++
+---
+aangehaald:
+- Theodor Adorno
+- Baruch Spinoza
+anchor: Smart
+auteurs:
+- Rainer Wüssle
+date: "2022-08-05"
+image: the-lovers-1928-1-.jpg
+subtitle: Liefde in een door ruilverhoudingen beheerste samenleving
+themas: Religie en Metafysica
+title: Ne cherchez plus mon cœur
+---
 In aforisme 107 van zijn *Minima Moralia* analyseert Adorno de structuren waaraan zelfs de daarvan vrij gewaande liefde lijkt te beantwoorden door te refereren naar Prousts literaire verkenningen van de menselijke verhoudingen in de burgerlijke cultuur van de laat-negentiende eeuw. Elders in *Minima Moralia* zegt Adorno, dat *‘die Totenstarre der Gesellschaft … noch die Zelle der Intimität \[überzieht], die vor ihr sich geschützt meint’*.[^1] In het aforisme *Ne cherchez plus mon cœur* probeert Adorno een beeld te geven van de verhouding tussen de heersende cultuur en het begrip van de liefde.[^2]
 
 Proust heeft zich lange tijd in het mondaine milieu van zijn tijd opgehouden en zich gelaafd aan een leven vol geneugten. De zucht naar bevrediging bleek na verloop van tijd evenwel niet te zijn wat hij zich ervan had voorgesteld; de pretentieuze causerieën waren niet meer dan inhoudsloos tijdverdrijf, of, zoals Adorno dat uitdrukt, *‘prähistorischer Klatsch’*.[^3] In zijn grote literaire werk *À la recherche du temps perdu* (vertaald als *Op zoek naar de verloren tijd*), feitelijk zijn memoires, legt Proust de illusie bloot van de zoektocht naar de liefde, de te onmiddellijk en te gemakkelijk veronderstelde relatie tussen verlangen en vervulling. Het absolute vertrouwen dat men stelde in de overgeleverde cultuur blijkt uiteindelijk lege mystificatie, die stuk loopt op de barsten die zich beginnen te vertonen in de traditie. Onder de ongegeneerde en vanzelfsprekend geachte bewondering en genieting van de vrijheid die de cultuur schijnt te bieden, geeft de laatste haar werkelijke gedaante, haar in wezen stompzinnige karakter bloot.

@@ -1,14 +1,17 @@
-+++
-aangehaald = ['Jacques Derrida']
-anchor = 'Top'
-auteurs = ['Rainer Wüssle']
-date = '2022-08-14'
-dossiers = ['Woke']
-image = '067c9b1a-3930-4086-9afa-541b35f8ff33.jpeg'
-subtitle = 'Waarom gender en sekse niet inwisselbaar zijn'
-themas = 'Religie en Metafysica'
-title = 'Trans*cendentale reflecties'
-+++
+---
+aangehaald:
+- Jacques Derrida
+anchor: Top
+auteurs:
+- Rainer Wüssle
+date: "2022-08-14"
+dossiers:
+- Woke
+image: 067c9b1a-3930-4086-9afa-541b35f8ff33.jpeg
+subtitle: Waarom gender en sekse niet inwisselbaar zijn
+themas: Religie en Metafysica
+title: Trans*cendentale reflecties
+---
 Er wordt alom gesproken over ‘genderidentiteit’. Het is niet duidelijk wat er mee bedoeld wordt. Het lijkt vaag zoiets te betekenen als een diep in het innerlijk gevoelde associatie van iemands persoonlijkheid met mannelijkheid of vrouwelijkheid of iets daartussenin. Niemand heeft er tot nu toe een eenduidige definitie van kunnen geven. Ook is onduidelijk of men denkt dat het iets anders is dan ‘geslacht’ of ‘sekse’, of ermee inwisselbaar is. (Ik gebruik het woord ‘sekse’ als equivalent voor ‘geslacht’ in het verloop van mijn tekst.) Mensen die de terminologie van ‘genderidentiteit’ gebruiken verstoppen zich vaak achter dubbelzinnig taalgebruik, en wel met opzet, zoals zal blijken.
 
 Hier is een disjunctie:

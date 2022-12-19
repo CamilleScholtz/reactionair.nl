@@ -1,12 +1,13 @@
-+++
-anchor = 'Top'
-auteurs = ['De redactie']
-date = '2022-05-23'
-image = 'thumb.webp'
-subtitle = 'Hoeveel punten herken jij!?'
-themas = 'Klikaas'
-title = 'Hoe een beschaving te verwoesten in 10 makkelijke stappen...'
-+++
+---
+anchor: Top
+auteurs:
+- De redactie
+date: "2022-05-23"
+image: thumb.webp
+subtitle: Hoeveel punten herken jij!?
+themas: Klikaas
+title: Hoe een beschaving te verwoesten in 10 makkelijke stappen...
+---
 
 {{< slider
 	"Maak kunst lelijk."

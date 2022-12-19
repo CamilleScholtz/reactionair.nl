@@ -1,12 +1,14 @@
-+++
-aangehaald = ['René Guénon']
-auteurs = ['Camille Meloen']
-date = '2021-12-24'
-image = 'thumb.webp'
-subtitle = 'Geld en de heerschappij van kwantiteit'
-themas = 'Religie en Metafysica'
-title = 'Cryptocurrency en de degeneratie van het muntgeld'
-+++
+---
+aangehaald:
+- René Guénon
+auteurs:
+- Camille Meloen
+date: "2021-12-24"
+image: thumb.webp
+subtitle: Geld en de heerschappij van kwantiteit
+themas: Religie en Metafysica
+title: Cryptocurrency en de degeneratie van het muntgeld
+---
 
 
 René Guénon schrijft in zijn boek _'Le Règne de la Quantité et les Signes des Temps'_ over de degeneratie van het muntgeld. Geld in zijn uitsluitend "economisch" standpunt behoort zo volledig mogelijk tot de "heerschappij van de kwantiteit", en volgens Guénon is dit ook de reden waarom geld zo'n belangrijke rol speelt in de moderne maatschappij.

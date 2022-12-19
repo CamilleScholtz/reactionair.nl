@@ -1,13 +1,19 @@
-+++
-aangehaald = ['Immanuel Kant', 'Erik von Kuehnelt-Leddihn', 'Karl Popper', 'Plato']
-auteurs = ['Sanura']
-date = '2022-02-11'
-dossiers = ['Christendom']
-image = 'thumb.webp'
-subtitle = 'Een reactie op ‘Overdenkingen over de parabel van de blinden en de olifant’'
-themas = 'Religie en Metafysica'
-title = 'Licht der waarheid'
-+++
+---
+aangehaald:
+- Immanuel Kant
+- Erik von Kuehnelt-Leddihn
+- Karl Popper
+- Plato
+auteurs:
+- Sanura
+date: "2022-02-11"
+dossiers:
+- Christendom
+image: thumb.webp
+subtitle: Een reactie op ‘Overdenkingen over de parabel van de blinden en de olifant’
+themas: Religie en Metafysica
+title: Licht der waarheid
+---
 
 
 Op deze site is de auteur De Melancholieke Nar recent geleden begonnen aan een serie artikelen,[^1] waarin hij het streven naar objectiviteit tot een zinloze onderneming bestempelt. 

@@ -1,13 +1,14 @@
-+++
-anchor = 'Smart'
-auteurs = ['De Melancholieke Nar']
-date = '2022-07-03'
-image = 'discurso_funebre_pericles.png'
-note = "Dit is een vertaling en bewerking van een Twitter-draad van [Mac Finn](https://twitter.com/ogmios)."
-subtitle = 'Het belang van vriendschap en loyaliteit'
-themas = 'Cultuur en Maatschappij'
-title = 'Civitas en civilisatie'
-+++
+---
+anchor: Smart
+auteurs:
+- De Melancholieke Nar
+date: "2022-07-03"
+image: discurso_funebre_pericles.png
+note: Dit is een vertaling en bewerking van een Twitter-draad van [Mac Finn](https://twitter.com/ogmios).
+subtitle: Het belang van vriendschap en loyaliteit
+themas: Cultuur en Maatschappij
+title: Civitas en civilisatie
+---
 
 {{< quote
 	text="Chinezen hebben altijd in huizen gewoond inderdaad, als dat alles is wat je bedoelt met ‘civilisatie’."

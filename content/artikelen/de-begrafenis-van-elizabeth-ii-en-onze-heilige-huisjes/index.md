@@ -1,13 +1,15 @@
-+++
-anchor = 'Smart'
-auteurs = ['Robertus Leussinck ']
-date = '2022-09-23'
-dossiers = ['Christendom']
-image = 'photo-1663610311981-4a904f3504d4.webp'
-subtitle = 'O death, where is thy sting? O grave, where is thy victory?'
-themas = 'Politiek en Actualiteit'
-title = 'De begrafenis van Elizabeth II en onze heilige huisjes'
-+++
+---
+anchor: Smart
+auteurs:
+- 'Robertus Leussinck '
+date: "2022-09-23"
+dossiers:
+- Christendom
+image: photo-1663610311981-4a904f3504d4.webp
+subtitle: O death, where is thy sting? O grave, where is thy victory?
+themas: Politiek en Actualiteit
+title: De begrafenis van Elizabeth II en onze heilige huisjes
+---
 Het was maandag 19 september 2022 en samen met meer dan honderd miljoen mensen over heel deze aardkloot projecteerde mijn scherm *the British Broadcasting Corporation*. Op deze dag werd namelijk Koningin Elizabeth II, die 70 jaar en 214 dagen op de troon van het Verenigd Koninkrijk en het Gemenebest gezeten heeft, begraven. Een markant evenement evenement dat naar horen zeggen al sinds de jaren 60 is voorbereid. Het was een dag vol van pracht, minutieuze choreografie en aangename muziek.
 
 Even was het alsof Engeland echt weer Engeland was, en niet de perversie die we er dagelijks van voorbij zien komen op TikTok en Twitter. Het meest pijnlijke was dan ook de andere kant van de medaille. De ironie zit hem hier in het feit dat de regering al sinds de jaren 60 is begonnen met voorbereiding, wat precies de tijd was van heilige huisjes omver trappen, secularisering en vrije seks. Samen met de ‘Queen’ werd dan ook het westen, zoals onze voorouders dat kenden begraven. Met Lilibeth als het levende fossiel uit een tijd die onze voorouders nog hebben gekend.[^1]

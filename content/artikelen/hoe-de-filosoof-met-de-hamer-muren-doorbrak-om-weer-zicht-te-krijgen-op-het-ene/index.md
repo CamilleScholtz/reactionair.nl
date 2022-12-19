@@ -1,13 +1,21 @@
-+++
-aangehaald = ['Jacques Derrida', 'René Guénon', 'Martin Heidegger', 'Friedrich Nietzsche', 'Ludwig Wittgenstein', 'Plato']
-anchor = 'Center'
-auteurs = ['De Melancholieke Nar']
-date = '2022-05-07'
-image = 'thumb.webp'
-subtitle = 'Over taaltovenarij met hamer en mes'
-themas = 'Religie en Metafysica'
-title = 'Hoe de filosoof met de hamer muren doorbrak om weer zicht te krijgen op het Ene'
-+++
+---
+aangehaald:
+- Jacques Derrida
+- René Guénon
+- Martin Heidegger
+- Friedrich Nietzsche
+- Ludwig Wittgenstein
+- Plato
+anchor: Center
+auteurs:
+- De Melancholieke Nar
+date: "2022-05-07"
+image: thumb.webp
+subtitle: Over taaltovenarij met hamer en mes
+themas: Religie en Metafysica
+title: Hoe de filosoof met de hamer muren doorbrak om weer zicht te krijgen op het
+  Ene
+---
 
 
 {{< quote

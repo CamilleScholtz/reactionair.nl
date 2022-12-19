@@ -1,14 +1,20 @@
-+++
-aangehaald = ['François-René de Chateaubriand', 'Jacques Derrida', 'Michel Foucault', 'Friedrich Nietzsche', 'Arthur Schopenhauer']
-anchor = 'Smart'
-auteurs = ['Anton Prins']
-caption = 'Kuzma Petrov-Vodkin, Fantasia'
-date = '2022-10-23'
-image = 'petrov-vodkin-fantasy.jpg'
-subtitle = 'Enkele reflecties op de betekenis van gelijkheid in onze samenleving '
-themas = 'Religie en Metafysica'
-title = 'Over het gelijkheidsprincipe'
-+++
+---
+aangehaald:
+- François-René de Chateaubriand
+- Jacques Derrida
+- Michel Foucault
+- Friedrich Nietzsche
+- Arthur Schopenhauer
+anchor: Smart
+auteurs:
+- Anton Prins
+caption: Kuzma Petrov-Vodkin, Fantasia
+date: "2022-10-23"
+image: petrov-vodkin-fantasy.jpg
+subtitle: 'Enkele reflecties op de betekenis van gelijkheid in onze samenleving '
+themas: Religie en Metafysica
+title: Over het gelijkheidsprincipe
+---
 > *Ihr Prediger der Gleichheit, der Tyrannen-Wahnsinn der Ohnmacht schreit also aus euch nach »Gleichheit«: eure heimlichsten Tyrannen-Gelüste vermummen sich also in Tugend-Worte!*[^1]
 
 Gelijkheid is het zand waarop de contemporaine samenleving haar kerk heeft gebouwd. Met deze gelijkheidsmoraal wordt getracht een leemte te vullen die in ethisch opzicht ontstond bij het aanvaarden van het materialisme als leidende kosmologie van de Westerse samenleving. Niet langer immers gehoorzamen wij koning en kerk, maar hebben het centrum van het universum en van de samenleving verschoven naar het individu. Deze omgekeerde copernicaanse revolutie heeft als gevolg gehad dat de mens slechts zichzelf is gaan dienen. Wij zijn allen koningen en moeten ook zo behandeld worden, hogere doelen hebben wij verworpen, want het leven is eindig en onze persoonlijke belangen, uit kleingeestigheid ontsprongen, zijn derhalve heilig: *manducemus, et bibamus, cras enim moriemur!*[^2]
