@@ -1,0 +1,24 @@
+{
+  "name": "reactionair.nl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/onodera-punpun/reactionair.nl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onodera-punpun/reactionair.nl/issues"
+  },
+  "homepage": "https://github.com/onodera-punpun/reactionair.nl#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.0.4",
+    "tinacms": "^1.1.1"
+  }
+}

@@ -9,8 +9,7 @@
 
 			<span class="pipe">|</span>
 
-			{{ $duration := math.Round (div .WordCount 225.0) }}
-			<span class="eta" data-eta="{{ $duration }}">{{ $duration }} {{ if gt $duration 1 }}minuten{{ else }}minuut{{ end }} leestijd</span>
+			<span class="eta" data-eta="{{ .ReadingTime }}">{{ .ReadingTime }} {{ if gt .ReadingTime 1 }}minuten{{ else }}minuut{{ end }} leestijd</span>
 		{{ else }}
 			<time class="now">{{ now.Day }} {{ index $.Site.Data.months (printf "%d" now.Month) }}, {{ now.Year }}</time>
 		{{ end }}
