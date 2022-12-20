@@ -23,7 +23,7 @@ export default defineConfig({
         name: "artikelen",
         label: "Artikelen",
         path: "content/artikelen",
-        format: "mdx",
+        format: "md",
         fields: [
           {
             name: "title",
