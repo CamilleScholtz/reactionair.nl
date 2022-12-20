@@ -96,6 +96,7 @@ En dit is tenslotte het belangrijkste, blijkt uit _Prometheus_: innerlijke vrijh
 Op deze manier heft een mens de begrenzingen van zijn denken op. Hij ziet steeds minder de tegenstellingen in de ogenschijnlijk verschillende verschijnselen om hem heen, en onderkent juist hun onderliggende Eenheid. Hij verkrijgt een _bewuste_ aanblik, oftewel een diepere bewustwording.
 
 
+<section>
 
 Alle citaten zijn ontleend aan:
 Carry van Bruggen. _Prometheus: een bijdrage tot het begrip der ontwikkeling van het

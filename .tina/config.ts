@@ -23,20 +23,58 @@ export default defineConfig({
         name: "artikelen",
         label: "Artikelen",
         path: "content/artikelen",
-        format: "md",
+        format: "mdx",
         fields: [
           {
             name: "title",
-            label: "Title",
+            label: "Titel",
             type: "string",
             isTitle: true,
             required: true,
           },
           {
             name: "body",
-            label: "Body",
+            label: "Content",
             type: "rich-text",
             isBody: true,
+            templates: [
+              {
+                 name: "Shortcode",
+                 label: "Shortcode",
+                 inline: true,
+                 match: {
+                   start: "{{<",
+                   end: ">}}",
+                 },
+                 fields: [
+                   {
+                     name: "text",
+                     label: "Text",
+                     type: "string",
+                     required: true,
+                     isTitle: true,
+                     ui: {
+                       component: "textarea",
+                     },
+                   },
+                 ],
+              },
+            ],
+          },
+        ],
+      },
+      {
+        name: "auteurs",
+        label: "Auteurs",
+        path: "content/auteurs",
+        format: "md",
+        fields: [
+          {
+            name: "title",
+            label: "Naam",
+            type: "string",
+            isTitle: true,
+            required: true,
           },
         ],
       },
