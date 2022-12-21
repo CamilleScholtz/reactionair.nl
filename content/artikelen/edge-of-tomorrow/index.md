@@ -17,7 +17,7 @@ _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revo
 
 
 <p style="text-align: center;">
-Motto: *‘terugkeren tot lang verloren kenmerken’*<br>
+Motto: *‘terugkeren tot lang verloren kenmerken’*<br />
 (*Lagebesprechung* en *frontverkenning</i>)
 </p>
 

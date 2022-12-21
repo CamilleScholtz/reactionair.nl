@@ -39,10 +39,10 @@ Toegeschreven aan ʿAlī ibn Abī Ṭālib door ibn al-Ḥusayn al-Ḥāmidī:
 
 >Wat uw verbeelding als de meest waarachtige betekenissen met betrekking tot Hem beschouwt, heeft waarlijk niets met Hem te maken en keert weder tot u, zoals zij geschapen en ontstaan zijn.
 
->Het onvermogen om te bereiken is de bereiking,<br>
+>Het onvermogen om te bereiken is de bereiking,<br />
 >Op zoek gaan naar het geheim van de kern van de eigenheid [van God] is polytheïsme.
 
->De diepten van het onzichtbare ontsluieren is blindheid,<br>
+>De diepten van het onzichtbare ontsluieren is blindheid,<br />
 >Op degene wiens horizon slechts de duisternis van onvermogen is.
 
 Naṣīr al-Dīn al-Ṭūsī:
@@ -93,40 +93,40 @@ Er zijn nog twee andere secties in het boek, één over "filosofische apofatisch
 
 Laten we dan eindigen met een gedicht door Farīd ud-Dīn:
 
->Als je Hem in het verborgene zoekt, is Hij manifest,<br>
+>Als je Hem in het verborgene zoekt, is Hij manifest,<br />
 >Wanneer je Hem manifest zoekt, is Hij verborgen.
 
->Hij is verborgen wanneer je Hem manifest zoekt,<br>
+>Hij is verborgen wanneer je Hem manifest zoekt,<br />
 >Manifest, wanneer je Hem verborgen zoekt.
 
->Wanneer u Hem in beide zoekt,<br>
+>Wanneer u Hem in beide zoekt,<br />
 >Hij is boven hen beiden.
 
->Je hebt niets verloren - zoek niet.<br>
+>Je hebt niets verloren - zoek niet.<br />
 >Wat je ook zegt is dat niet - zeg niet.
 
->Wat je ook zegt, wat je ook weet - dat ben jij.<br>
+>Wat je ook zegt, wat je ook weet - dat ben jij.<br />
 >Erken wie je bent - je bent honderd keer verder dan dat.
 
->Ken Hem met Hem - nee met jou.<br>
+>Ken Hem met Hem - nee met jou.<br />
 >De weg naar Hem begint vanuit Hem - niet vanuit jouw rede.
 
->Beschrijvingen van beschrijvingen bereiken Hem niet.<br>
+>Beschrijvingen van beschrijvingen bereiken Hem niet.<br />
 >Het ligt niet in ieders vermogen.
 
->Het niet kunnen beschrijven van Hem gaat hand in hand met Zijn gnosis,<br>
+>Het niet kunnen beschrijven van Hem gaat hand in hand met Zijn gnosis,<br />
 >Want, Hij is noch uit te spreken noch te beschrijven.
 
->Hij is zo transcendent aan kennis, en voorbij visie dat<br>
+>Hij is zo transcendent aan kennis, en voorbij visie dat<br />
 >Hij spoorloos is in Zijn eminentie.
 
->Men kan geen spoor van Hem vinden, behalve de spoorloosheid,<br>
+>Men kan geen spoor van Hem vinden, behalve de spoorloosheid,<br />
 >of een remedie behalve het verlaten van de ziel.
 
->Niemand, bewust of extatisch, heeft deel aan Hem,<br>
+>Niemand, bewust of extatisch, heeft deel aan Hem,<br />
 >behalve deze transcendentie.
 
->Zelfs als je Hem zoekt in elk atoom, in deze en de volgende wereld,<br>
+>Zelfs als je Hem zoekt in elk atoom, in deze en de volgende wereld,<br />
 >Wat je ook vindt of zegt is je begrip - God is voorbij.
 
 

@@ -40,7 +40,7 @@ Verder ziet Scruton Wagner als zijn grote held, iemand die het Christendom zijn 
 
 De objectieve esthetiek die ik hierboven heb geprobeerd te formuleren is onder aanval. Alhoewel uitspraken van Jan en alleman vaak nog onderscheid tussen schoon en lelijk maken is die gedachte snel verloren wanneer je vraagt of dit ook objectief valt te bepalen. Misschien is het de bedeesdheid die vaak een persoon ervan weerhoud om stellingname te doen. Of zijn het de hippe slogans zoals _“Beauty is in the eye of the beholder!”_ die iemand ideologisch doet verstarren wanneer je vraagt om een mening? Ik geloof dat mensen niet meer weten hoe ze het überhaupt onder woorden zouden moeten brengen. Zoals Gerrit Komrij al eens over een bevolkingsgroep zei die almaar niet verder kwamen dan _“leuk”_, alles is _“leuk”_. Shakespeare zei het best:
 
->“For we, which now behold these present days,<br>
+>“For we, which now behold these present days,<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Have eyes to wonder, but lack tongues to praise.”[^2]
 
 Op de dag dat dit online komt is Sir Roger precies twee jaar niet meer bij ons. Dit artikel probeert zijn gedachten over esthetiek samen te vatten. Esthetiek bracht hem tot zijn conservatisme. Een politieke stroming die, volgens Scruton, eerst het mooie in dingen ziet voordat het begint te contempleren over hoe het systeem naar beneden moet worden gehaald, en de hegemonie (een woord waar de conservatieve tegenpolen maar al te dol op zijn) kan worden _kaltgestellt_. Dat is, naar mijn mening, het speerpunt wat conservatieven naar voren zouden moeten brengen. Niet omdat het de kern van het conservatisme tentoonstelt, maar omdat het tot diep in de mens spreekt. Sir Roger Scruton wist dit.

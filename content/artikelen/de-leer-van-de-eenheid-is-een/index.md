@@ -48,7 +48,7 @@ In aanmerking genomen dat de Waarheid één en uniek is, moet Hij ook boven uitd
 
 Toen ik op zoek was naar de bron van _al-Tawhīdu wāhidun_ kwam ik het volgende gedicht tegen, waarin deze ideeën zeer goed worden samengevat:
 
->Niemand beaamt de eenheid van de Ene<br>want wie Zijn eenheid bevestigt, ontkent die.<br>Wie Hem ook beschrijft, Zijn beschrijving van Eenheid<br>is nietig en onaanvaardbaar voor de Ene.<br>De echte bevestiging van Zijn eenheid<br>is wat de Ene Zelf doet, en<br>wie Hem probeert te beschrijven is een afvallige.[^4]
+>Niemand beaamt de eenheid van de Ene<br />want wie Zijn eenheid bevestigt, ontkent die.<br />Wie Hem ook beschrijft, Zijn beschrijving van Eenheid<br />is nietig en onaanvaardbaar voor de Ene.<br />De echte bevestiging van Zijn eenheid<br />is wat de Ene Zelf doet, en<br />wie Hem probeert te beschrijven is een afvallige.[^4]
 
 Of nog korter samengevat, in de woorden van Ibn ʿArabi:
 

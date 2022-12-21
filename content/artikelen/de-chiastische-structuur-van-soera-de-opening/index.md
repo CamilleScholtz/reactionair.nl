@@ -46,17 +46,17 @@ Een chiastische structuur is ook te vinden in de *Fātiḥa*. Deze soera is same
 
 > In naam van God, de Barmhartige, de Genadevolle. 
 >
-> <span style="color: var(--accent-color); filter: invert(0.8);">A. Alle lof zij God, de Heer der Werelden.</span><br>
-> <span style="opacity: 0.4;">—</span> <span style="color: var(--accent-color); filter: invert(0.8);">B. De Barmhartige,</span><br>
-> <span style="opacity: 0.4;">—</span> <span style="color: var(--accent-color); filter: invert(0.8);">B'. de Genadevolle.</span><br>
+> <span style="color: var(--accent-color); filter: invert(0.8);">A. Alle lof zij God, de Heer der Werelden.</span><br />
+> <span style="opacity: 0.4;">—</span> <span style="color: var(--accent-color); filter: invert(0.8);">B. De Barmhartige,</span><br />
+> <span style="opacity: 0.4;">—</span> <span style="color: var(--accent-color); filter: invert(0.8);">B'. de Genadevolle.</span><br />
 > <span style="color: var(--accent-color); filter: invert(0.8);">A'. Meester van de Dag des Oordeels.</span>
 >
-> <span style="color: var(--accent-color); filter: invert(0.8);">C. U alleen aanbidden wij</span><br>
+> <span style="color: var(--accent-color); filter: invert(0.8);">C. U alleen aanbidden wij</span><br />
 > <span style="color: var(--accent-color);">C'. en U alleen smeken wij om hulp.</span>
 >
-> <span style="color: var(--accent-color);">A. Leid ons op het rechte pad,</span><br>
-> <span style="opacity: 0.4;">—</span> <span style="color: var(--accent-color);">B. Het pad dergenen, aan wie Gij gunsten hebt geschonken</span><br>
-> <span style="opacity: 0.4;">—</span> <span style="color: var(--accent-color);">B'. niet dat van hen, op wie toorn is nedergedaald,</span><br>
+> <span style="color: var(--accent-color);">A. Leid ons op het rechte pad,</span><br />
+> <span style="opacity: 0.4;">—</span> <span style="color: var(--accent-color);">B. Het pad dergenen, aan wie Gij gunsten hebt geschonken</span><br />
+> <span style="opacity: 0.4;">—</span> <span style="color: var(--accent-color);">B'. niet dat van hen, op wie toorn is nedergedaald,</span><br />
 > <span style="color: var(--accent-color);">A'. noch dat der dwalenden.</span>
 
 Laten we beginnen met de uitleg van het eerste chiasme (in blauw):

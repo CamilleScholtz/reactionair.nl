@@ -111,10 +111,10 @@ Naoorlogs optimisme en de generatie van ononderbroken technologische vooruitgang
 [^1]: Science Advances, *[Air pollution and COVID-19 mortality in the United States: Strengths and limitations of an ecological regression analysis](https://www.science.org/doi/10.1126/sciadv.abd4049)*.
 [^2]: Van de these in kwestie, dat het Coronavirus afkomstig zou zijn van schubdieren, is reeds aangetoond dat dit zeer onwaarschijnlijk is, lees *[hier](https://www.nature.com/articles/s41564-020-0771-4)* meer over waarom dit het geval is.
 [^3]: Dit document is op verzoek van kamerlid Van Houwelingen van de Forum voor Democratie vrijgegeven en *[hier](https://open.overheid.nl/repository/ronl-3ce77537-2a5a-41d4-9d3d-64c12b88ec6d/1/pdf/Bijlage%203%20-%20Nazending%20Kamervragen%20Van%20Houwelingen.pdf)* te vinden op pagina 17.
-[^4]: Verwijzing van de auteur naar een passage uit Shakespeares *Macbeth* (Vijfde bedrijf, scene 5):<br>
-Out, out, brief candle!<br>
-Life's but a walking shadow, a poor player,<br>
-That struts and frets his hour upon the stage,<br>
-And then is heard no more. It is a tale<br>
-Told by an idiot, full of sound and fury,<br>
+[^4]: Verwijzing van de auteur naar een passage uit Shakespeares *Macbeth* (Vijfde bedrijf, scene 5):<br />
+Out, out, brief candle!<br />
+Life's but a walking shadow, a poor player,<br />
+That struts and frets his hour upon the stage,<br />
+And then is heard no more. It is a tale<br />
+Told by an idiot, full of sound and fury,<br />
 Signifying nothing.

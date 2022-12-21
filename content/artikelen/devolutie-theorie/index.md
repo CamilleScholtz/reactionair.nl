@@ -29,23 +29,23 @@ Voor de radicaal-negatieve ‘devolutie theorie’ van de globalistische vijande
 
 Vóór alles zal echter het _wereldbeeld_ van de globalistische vijandelijke elite moeten worden geëlimineerd: haar _infrastructuur_, dat wil zeggen haar fysieke (economische, politieke) macht, valt en staat immers met haar _superstructuur_, dat wil zeggen haar psychologische (ideologische, filosofische) autoriteit. Het is dus tijd voor een kritische evaluatie van de ‘devolutietheorie’ van de vijandelijke elite: het eenvoudigst kan dat door die nieuwe ‘devolutietheorie’ simpelweg naast de lat te leggen van de oude evolutietheorie. En dan leveren oude evolutietheorie termen plotseling een aantal heel nieuwe inzichten: een paar van die termen leveren toepasselijke motto’s voor de zes delen van deze essay-serie:
 
-- **Tegen-natuurlijke selectie**:<br>
-	motto: _‘snelle verandering van wezens buiten de natuurstaat’_<br>
+- **Tegen-natuurlijke selectie**:<br />
+	motto: _‘snelle verandering van wezens buiten de natuurstaat’_<br />
 	_(culturele devolutie: democratisering, feminisering, infantilisering)_
-- **Domesticering**:<br>
-	motto: _‘het gewennen aan het klimaat’_<br>
+- **Domesticering**:<br />
+	motto: _‘het gewennen aan het klimaat’_<br />
 	_(intensieve menshouderij: economische, sociale, psychologische, politieke selectie)_
-- **Hibridisering**:<br>
-	motto: _‘inheems worden’_<br>
+- **Hibridisering**:<br />
+	motto: _‘inheems worden’_<br />
 	_(open grenzen: asielopvang=slavenimport, diversiteit=piraterij; immigratie=kolonisatie)_
-- **Verelendungstheorie**:<br>
-	motto: _‘wiskundige toename in getal’_<br>
+- **Verelendungstheorie**:<br />
+	motto: _‘wiskundige toename in getal’_<br />
 	_(accelerationisme: wiskundige zekerheid als postmoderne voorzienigheid)_
-- **‘Een remedie tegen chaos’**:<br>
-	motto: _‘afwezigheid of zeldzaamheid van overgangsvormen’_<br>
+- **‘Een remedie tegen chaos’**:<br />
+	motto: _‘afwezigheid of zeldzaamheid van overgangsvormen’_<br />
 	_(de Futuro-Fundamentalistische Revolutie)_
-- **‘Edge of Tomorrow’**:<br>
-	motto: _‘terugkeren tot lang verloren kenmerken’_<br>
+- **‘Edge of Tomorrow’**:<br />
+	motto: _‘terugkeren tot lang verloren kenmerken’_<br />
 	_(Lagebesprechung en frontverkenning)_
 
 

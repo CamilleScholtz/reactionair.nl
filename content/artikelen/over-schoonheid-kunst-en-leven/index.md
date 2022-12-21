@@ -22,7 +22,7 @@ title: Het veiligste antwoord
 >
 > ‘Stellig.’[^1]
 
-<br>
+<br />
 
 # I
 

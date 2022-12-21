@@ -45,11 +45,11 @@ Het nazisme is vaak weggezet als conservatief. Tegenwoordig verwerpen echter vel
 
 Zo valt het nazistische _‘Horst Wessellied’_ de reactionairen even hard aan als de marxisten:
 
->“Die Fahne hoch! Die Reihen fest geschlossen! SA marschiert mit ruhig festem Schritt.<br>Kam'raden, die Rotfront und Reaktion erschossen, Marschier'n im Geist in unser'n Reihen mit.”
+>“Die Fahne hoch! Die Reihen fest geschlossen! SA marschiert mit ruhig festem Schritt.<br />Kam'raden, die Rotfront und Reaktion erschossen, Marschier'n im Geist in unser'n Reihen mit.”
 
 Nederlandse vertaling:
 
->“Het vaandel hoog! De rijen hecht gesloten! SA marcheert met rustige vaste tred.<br>Kameraden neergeschoten door het Rode Front en de reactionairen, Marcheren in de geest in onze rijen mee.”
+>“Het vaandel hoog! De rijen hecht gesloten! SA marcheert met rustige vaste tred.<br />Kameraden neergeschoten door het Rode Front en de reactionairen, Marcheren in de geest in onze rijen mee.”
 
 Op veel punten waren de nazi’s openlijk progressief, revolutionair en modernistisch. Ze waren tegen het herstel van de monarchie en vervolgden zelfs monarchisten. Ze stonden eveneens vijandig tegenover de voormalige adel.[^5] ‘Republikeins rechts’ is op zich al een discutabel concept in een land met een sterke monarchistische traditie, maar al helemaal onmogelijk wanneer dit ook nog vermengd is met afkeer voor de oude adel en de traditionele religies.
 

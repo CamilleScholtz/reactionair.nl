@@ -52,9 +52,9 @@ Toch is het beeld van Schopenhauer als zwartkijker niet geheel terecht en kan he
 
 Wellicht komt dit over als misplaatste doodsverheerlijking, maar in feite hebben wij als moderne mensen een ongezonde relatie met het sterven — wij vluchten voor het aangezicht van de Dood. Maar het is niet voor niets dat de Dood in het Duits *“Freund Hein”* genoemd wordt. Het is daarom dat de Dood in het bekende gedicht van Matthias Claudius de wanhoop van het jonge meisje aan wier bed hij verschijnt beantwoordt met een geruststelling:
 
-> Gib deine Hand, du schön und zart Gebild!<br>
-> Bin Freund, und komme nicht, zu strafen.<br>
-> Sei gutes Muts! ich bin nicht wild,<br>
+> Gib deine Hand, du schön und zart Gebild!<br />
+> Bin Freund, und komme nicht, zu strafen.<br />
+> Sei gutes Muts! ich bin nicht wild,<br />
 > Sollst sanft in meinen Armen schlafen![^8]
 
 Deze pessimistische blik op het leven is de hedendaagse samenleving vreemd, want de gemiddelde mens jaagt zijn geluk na, en zoekt dit in het vervullen van de eigen verlangens. De aloude notie dat wij in *le meilleur des mondes possibles* leven kenmerkt de hedendaagse cultuur;[^9] alles moet vooral leuk en positief zijn. Men wordt gemaand om optimistisch te zijn. Tevens verwijs ik graag naar de ideeën die ons in het humanisme voorgehouden worden, van de zoektocht naar onsterfelijkheid en gezondheid door de ontwikkelingen in de medische wetenschap. Maar hiermede stapelen zich alleen maar de teleurstellingen op, terwijl het inzicht van de wereld als lijden de wereld vrijwaart van de verwachting dat zij enig goeds kan voortbrengen.
@@ -67,10 +67,10 @@ De ethiek van Schopenhauer volgt als vanzelfsprekend uit zijn visie van de werel
 
 Wij kunnen daarom slechts het grootste medelijden hebben met de mensen die verblind blijven door hun eigen wil en de verlangens die hieruit ontspringen. De hedendaagse mens die tot slaaf is van zijn verlangens ontbeert een moreel imperatief om de eigen verlangens aan de kant te zetten. Het nutsdenken dat onze samenleving sterk kenmerkt, maakt dat hij zelfs bij het doen van een goede daad verwacht dat het iets oplevert. Zo realiseert hij zich niet hoezeer hij met zijn streven zichzelf leed aandoet:
 
-> in Flucht geschlagen<br>
-> wähnt er zu jagen;<br>
-> hört nicht sein eigen Schmerzgekreisch,<br>
-> wenn er sich wühlt ins eigne Fleisch,<br>
+> in Flucht geschlagen<br />
+> wähnt er zu jagen;<br />
+> hört nicht sein eigen Schmerzgekreisch,<br />
+> wenn er sich wühlt ins eigne Fleisch,<br />
 > wähnt Lust sich zu erzeigen![^11]
 
 Het zal u bij een lezing van Schopenhauer niet ontgaan dat hij veelvuldig citeert uit de werken van dichters als Shakespeare, Byron, Calderón en Goethe en de kunst als kennisvorm niet ridiculiseert of slechts een marginale plaats geeft in zijn filosofie. De ware kunstenaar heeft de capaciteit om de wereld als voorstelling in geconcentreerde vorm aan ons te tonen, vrij van enige motieven die als correlatief van verlangens kunnen dienen.
@@ -93,16 +93,16 @@ Die Welt als Wille und Vorstellung, I. Band, I. Buch, §1.
 [^5]: Zie: Spinoza, *Ethica*, *pars secunda*, Prop. XIII: *“Objectum ideæ humanam mentem constituentis est corpus.”* (Het object van het idee dat de menselijke geest vormt is het lichaam).
 [^6]: Cf. *Die Welt als Wille und Vorstellung*, I. Band, I. Buch, §6.
 [^7]: Junghuhn (Franz Wilhelm Junghuhn) vertelt, dat hij op Java een vlakte zag die zover het oog reikte met geraamtes bedekt was en hield deze voor een slachtveld: het waren echter slechts de geraamtes van schildpadden, vijf voet lang, drie voet breed en net zo hoog, die vanaf de zee deze weg afleggen om hun eieren te leggen, en dan door wilde honden (*canis rutilans*) worden aangevallen, die hen met vereende krachten op de rug leggen en het onderste deel van hun harnas, het kleine buikschild, openrijten en hen levend verorberen. Vaak werpt echter een tijger zich weer op de honden. Deze hele ellende herhaalt zich duizend en duizendmaal, jaar in, jaar uit. Hiervoor worden deze schildpadden dus geboren. Voor wiens schuld moeten zij deze kwelling ondergaan? Waarom dit gruwelijke schouwspel? Daarop is het enig mogelijke antwoord: zo objectiveert zich *de wil tot leven*. — *Die Welt als Wille und Vorstellung*, II. Band, Ergänzungen zum II. Buch, K. XXVIII.
-[^8]: Geef uw hand, gij schoon en teder schepsel!<br>
-Ik ben een vriend, en kom niet om te straffen:<br>
-Heb goede moed! ik ben niet wild,<br>
+[^8]: Geef uw hand, gij schoon en teder schepsel!<br />
+Ik ben een vriend, en kom niet om te straffen:<br />
+Heb goede moed! ik ben niet wild,<br />
 Zacht zult gij in mijn armen slapen. — Matthias Claudius, *Der Tod und das Mädchen*.
 [^9]: Leibniz, *Théodicée*.
 [^10]: Vanwaar zullen deze allen komen? Waar zijn zij nu? Waar is de vruchtbare schoot van het wereldzwangere niets, die deze komende geslachten nog in zich bergt? Zou daarop niet het glimlachende en ware antwoord zijn: waar anders zouden zij zijn, dan daar waar alleen het werkelijke steeds was en zal zijn, in het heden en zijn inhoud? Derhalve met u, de begoochelde vrager, die in het zich vergissen in de eigen natuur het blad aan de boom gelijkt, die verwelkend in de herfst en op het punt staat van de boom af te vallen, klaagt over zijn ondergang en zich niet wil laten troosten met het vooruitzicht van het frisse groen, dat in de lente de boom bekleden zal, maar weeklaagt: "dat ben ik niet! Dat zijn geheel andere bladeren!" — O, dwaas blad! Werwaarts wilt gij? En vanwaar zouden anderen moeten komen? Waar is het niets, wiens afgrond gij vreest? — *Die Welt als Wille und Vorstellung*, II. Band, Ergänzungen zum IV. Buch, K. XLI.
-[^11]: op de vlucht geslagen<br>
-waant hij zich jagende;<br>
-Hoort niet zijn eigen schreeuw van pijn<br>
-Als hij zich in 't eigen vlees woelt<br>
-Verbeeldt hij zich dat hij geniet.<br> — Richard Wagner, *Die Meistersinger von Nürnberg*, III. Aufzug, I. Szene. Wahn-Monolog.
+[^11]: op de vlucht geslagen<br />
+waant hij zich jagende;<br />
+Hoort niet zijn eigen schreeuw van pijn<br />
+Als hij zich in 't eigen vlees woelt<br />
+Verbeeldt hij zich dat hij geniet.<br /> — Richard Wagner, *Die Meistersinger von Nürnberg*, III. Aufzug, I. Szene. Wahn-Monolog.
 [^12]: De wereld kwijtraken, verwijzing naar een gedicht van Friedrich Rückert.
 [^13]: Daar kan de troosteloos vereenzaamde geen beter symbool kiezen dan de ridder met de Dood en de Duivel, zoals Dürer hem voor ons heeft getekend, de ridder in zijn harnas, met de bronzen, harde blik, die zijn gruwelweg weet te gaan, niet bevreesd voor zijn vreselijke metgezellen, en zonder hoop, alleen met ros en hond. Een dergelijke dürerse ridder was onze Schopenhauer: hem ontbrak elke hoop, maar hij wilde de waarheid. Hij kent geen gelijke. — Nietzsche, *Die Geburt der Tragödie*. Noot: Nietzsche verwijst hier naar Dürers houtsnede Ritter, Tod und Teufel.

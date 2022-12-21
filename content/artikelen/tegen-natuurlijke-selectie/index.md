@@ -17,7 +17,7 @@ _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revo
 
 
 <p style="text-align: center;">
-Motto: *‘snelle verandering van wezens buiten de natuurstaat’*<br>
+Motto: *‘snelle verandering van wezens buiten de natuurstaat’*<br />
 (culturele devolutie: democratisering, feminisering, infantilisering)
 </p>
 

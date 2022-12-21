@@ -17,7 +17,7 @@ _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revo
 
 
 <p style="text-align: center;">
-Motto: *‘wiskundige toename in getal’*<br>
+Motto: *‘wiskundige toename in getal’*<br />
 (accelerationisme: wiskundige zekerheid als postmoderne voorzienigheid)
 </p>
 
@@ -32,9 +32,9 @@ Het is daarom nuttig goed na te denken over de razendsnelle ontwikkelingen in Am
 >Het is zinloos om [onze steden] te heroveren als [niemand] nog wil dat [ze deel] blijven van een gezonde en rationele Amerikaanse beschaving. Laat ze maar afbranden. […] Laten links en het linkse stemvee maar de consequenties dragen voor de onafgebroken serie politieke blunders en foute beslissingen die zij hebben gemaakt gedurende de laatste decennia. Als zij de politie haten, laten wij hen dan welwillend zijn - en geen politie sturen. […] Detroit ziet er nu erger uit dan Hirosjima - en er was geen onplezierige ontmoeting met de _Enola Gay_ voor nodig om het zover te laten komen.[^1] Voor Nagasaki wilde Japan al niet meer sterven. Wij moeten even weinig nostalgie voelen voor Los Angeles. President Trump kan simpelweg de Zwarte _Oehoeroe_ afkondigen in al dat soort steden en hij kan daar dan ‘vrijheid’ laten neervallen, als zwavel en vuur op deze post-moderne versies van Sodom en Gomorra.[^2] […] Laat deze hippe, snoezige linkse hipsters zich maar uitleven. Laat hen hun eigen doctrines maar eens écht voelen - en ruiken - in al hun fantastische glorie. Laat hen hun ideologische pretentie maar opeten en inslikken, twee weken nadat de laatste supermarkt is geplunderd en neergebrand. Dan zullen ze om vrede smeken - maar dan zullen ze er geen meer kennen. De beste manier om de stedelijke rellen te beëindigen is om ze simpelweg uit te laten woeden - totdat de ammunitie op is en er niets meer is om te verbranden. […] Tot die tijd: _#NoWarInAmerika_ - pak je popcorn en frisdrank en geniet van het vlammenspel.[^3]
 
 <blockquote style="text-align: center;">
-<p>*Ein Gaukelspiel, ohnmächtigen Gewürmen von mächtigen gegönnt*<br>
-*Schrekfeuer, angestekt auf hohen Thürmen*<br>
-*Die Phantasie des Träumers zu bestürmen wo des Gesezes Fakel dunkel brennt*<br>
+<p>*Ein Gaukelspiel, ohnmächtigen Gewürmen von mächtigen gegönnt*<br />
+*Schrekfeuer, angestekt auf hohen Thürmen*<br />
+*Die Phantasie des Träumers zu bestürmen wo des Gesezes Fakel dunkel brennt*<br />
 *Die Weltgeschichte ist das Weltgericht*</p>
 <p>‘Clownesk vermaak, aan onmachtige wormen door machtigen gegund
 Vuur van afschrikking, op hoge torens ontstoken
