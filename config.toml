@@ -11,7 +11,7 @@ removePathAccents = true
 
 enableRobotsTXT = true
 
-ignoreErrors = ["error-output-taxonomy", "error-remote-getjson"]
+#ignoreErrors = ["error-output-taxonomy", "error-remote-getjson"]
 
 disableHugoGeneratorInject = true
 
@@ -40,6 +40,6 @@ disableHugoGeneratorInject = true
 [outputs]
 	home     = ["HTML", "JSON", "RSS"]
 	section  = ["RSS"]
-	taxonomy = ["RSS"]
+	taxonomy = ["RSS", "JSON"]
 	term     = ["HTML", "RSS"]
 	page     = ["HTML"]

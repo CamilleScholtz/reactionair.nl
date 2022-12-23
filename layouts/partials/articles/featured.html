@@ -11,12 +11,15 @@
 		{{ if isset .context.Params "anchor" }}
 			{{ $anchor = .context.Params.anchor }}
 		{{ end }}
+
+		{{ $1x := $image.Fill (printf "578x413 webp %s" $anchor) }}
+		{{ $2x := $image.Fill (printf "1156x826 webp %s" $anchor) }}
 	
 		<img
-			srcset="{{ ($image.Fill (printf "578x413 webp %s" $anchor)).RelPermalink }} 1x,
-			        {{ ($image.Fill (printf "1156x826 webp %s" $anchor)).RelPermalink }} 2x"
-			src="{{ ($image.Fill (printf "1156x826 webp %s" $anchor)).RelPermalink }}"
+			srcset="{{ $1x.RelPermalink }} 1x,
+			        {{ $2x.RelPermalink }} 2x"
+			src="{{ $2x.RelPermalink }}"
 			alt="{{ .context.Params.title | safeHTML }}"
-			style="background: {{ index $image.Colors 0 }};">
+			style="background: {{ index $1x.Colors 0 }};">
 	</figure>
 </a>

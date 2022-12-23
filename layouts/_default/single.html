@@ -4,13 +4,16 @@
 			<div class="left">
 				{{ $image := .Resources.GetMatch .Params.image }}
 
+				{{ $1x := $image.Resize "x1024 webp" }}
+				{{ $2x := $image.Resize "x2048 webp" }}
+
 				<figure>
 					<img 
-						srcset="{{ ($image.Resize "x1024 webp").RelPermalink }} 1x,
-						        {{ ($image.Resize "x2048 webp").RelPermalink }} 2x"
-						src="{{ ($image.Resize "x2048 webp").RelPermalink }}"
+						srcset="{{ $1x.RelPermalink }} 1x,
+						        {{ $2x.RelPermalink }} 2x"
+						src="{{ $2x.RelPermalink }}"
 						alt="{{ if isset .Params "caption" }}{{ .Params.caption }}{{ else }}{{ .Params.title | safeHTML }}{{ end }}"
-						style="background: {{ index $image.Colors 0 }};">
+						style="background: {{ index $1x.Colors 0 }};">
 
 					{{ if isset .Params "caption" }}
 						<figcaption>{{ .Params.caption }}</figcaption>
@@ -19,11 +22,10 @@
 			</div>
 
 			<div class="right">
-				<div class="authors">
-					{{ range $index, $author := .Params.auteurs }}
-						<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>{{ if ne (add $index 1) (len $.Params.auteurs) }},&nbsp{{ end }}
-					{{ end }}
-				</div>
+				{{ range $index, $author := .Params.auteurs }}
+					<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>
+					{{ if ne (add $index 1) (len $.Params.auteurs) }},&nbsp{{ end }}
+				{{ end }}</div>
 
 				{{ if isset .Params "note" }}
 					<section class="note">
@@ -62,14 +64,14 @@
 					{{ $side = "right" }}
 				{{ end }}
 
-				{{ partial "articles/theme.html" (dict
+				{{ partialCached "articles/theme.html" (dict
 					"context" .
 					"section" "dossiers"
 					"term"    $dossier
 					"pages"   $pages
 					"side"    $side
 					"lazy"    true
-				) }}
+				) "dossiers" $dossier $side }}
 			{{ end }}
 		</section>
 	{{ end }}

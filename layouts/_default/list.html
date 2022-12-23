@@ -1,7 +1,7 @@
 {{ define "main" }}
 	<div class="list-header">
 		{{ if eq .Section "auteurs" }}
-			{{ partial "authors/large.html" (site.GetPage (printf "/auteurs/%s" (urlize .Params.title))) }}
+			{{ partial "authors/large.html" . }}
 		{{ else }}
 			<h1>{{ .Params.heading | safeHTML }}</h1>
 		{{ end }}	

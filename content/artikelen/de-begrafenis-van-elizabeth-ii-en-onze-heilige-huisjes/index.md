@@ -1,7 +1,7 @@
 ---
 anchor: Smart
 auteurs:
-- 'Robertus Leussinck '
+- Robertus Leussinck
 date: "2022-09-23"
 dossiers:
 - Christendom

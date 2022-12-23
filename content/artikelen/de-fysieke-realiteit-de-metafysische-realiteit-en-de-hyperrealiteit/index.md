@@ -1,6 +1,6 @@
 ---
 auteurs:
-- Tom Van Giersbergen
+- Tom van Giersbergen
 date: "2022-05-21"
 image: thumb.webp
 subtitle: De drie-eenheid van werkelijkheid

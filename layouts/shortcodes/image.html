@@ -10,14 +10,17 @@
 			src="{{ $image.RelPermalink }}"
 			alt="{{ .Get "caption" }}">
 	{{ else }}
+		{{ $1x := $image.Resize "864x webp" }}
+		{{ $2x := $image.Resize "1728x webp" }}
+	
 		<img 
-			srcset="{{ ($image.Resize "864x webp").RelPermalink }} 864w,
-			        {{ ($image.Resize "1728x webp").RelPermalink }} 1728w"
+			srcset="{{ $1x.RelPermalink }} 864w,
+			        {{ $2x.RelPermalink }} 1728w"
 			sizes="(max-width: 1920px) 864px,
 			       1728px"
-			src="{{ ($image.Resize "1728x webp").RelPermalink }}"
+			src="{{ $2x.RelPermalink }}"
 			alt="{{ .Get "caption" }}"
-			style="background: {{ index $image.Colors 0 }};">
+			style="background: {{ index $1x.Colors 0 }};">
 	{{ end }}
 
 	<figcaption>

@@ -2,7 +2,7 @@
 
 {{ range .Pages.ByTitle }}
 	{{ $.Scratch.Add "index" (slice
-		.Params.title | safeHTML
+		(.Params.title | safeHTML)
 	) }}
 {{ end }}
 

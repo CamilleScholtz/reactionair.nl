@@ -1,13 +1,16 @@
 <div class="author-info small">
 	{{ $image  := .Resources.GetMatch .Params.image }}
 
+	{{ $1x := $image.Fill "100x100 webp" }}
+	{{ $2x := $image.Fill "200x200 webp" }}
+
 	<figure>
 		<img 
-			srcset="{{ ($image.Fill "100x100 webp").RelPermalink }} 1x,
-			        {{ ($image.Fill "200x200 webp").RelPermalink }} 2x"
-			src="{{ ($image.Fill "200x200 webp").RelPermalink }}"
+			srcset="{{ $1x.RelPermalink }} 1x,
+			        {{ $2x.RelPermalink }} 2x"
+			src="{{ $2x.RelPermalink }}"
 			alt="{{ .Params.title | safeHTML }}"
-			style="background: {{ index $image.Colors 0 }};">
+			style="background: {{ index $1x.Colors 0 }};">
 	</figure>
 
 	<div class="text">
