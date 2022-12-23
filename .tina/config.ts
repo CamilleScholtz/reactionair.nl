@@ -1,14 +1,8 @@
 import { defineConfig } from "tinacms";
+import fetch from 'sync-fetch';
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
-
-const slugify = (val) => {
-	return val
-		.toLowerCase()
-		.split(' ')
-		.join('-');
-}
 
 export default defineConfig({
 	branch,
@@ -63,43 +57,26 @@ export default defineConfig({
 					{
 						name: "auteurs",
 						label: "Auteurs",
-						type: "object",
+						type: "string",
 						required: true,
 						list: true,
-						fields: [
-							{
-								name: "auteur",
-								label: "Auteur",
-								type: "reference",
-								collections: ["auteurs"],
-							},
-						],
+						options: fetch("https://dev.reactionair.nl/auteurs/index.json").json(),
 					},
 
 					{
 						name: "themas",
 						label: "Thema",
-						type: "reference",
+						type: "string",
 						required: true,
-						collections: ["themas"],
-						ui: {
-							parse: (val?: string) => `content/auteurs/${slugify(val)}/_index.md`,
-						},
+						options: fetch("https://dev.reactionair.nl/themas/index.json").json(),
 					},
 
 					{
 						name: "dossiers",
 						label: "Dossiers",
-						type: "object",
+						type: "string",
 						list: true,
-						fields: [
-							{
-								name: "dossier",
-								label: "Dossier",
-								type: "reference",
-								collections: ["dossiers"],
-							},
-						],
+						options: fetch("https://dev.reactionair.nl/dossiers/index.json").json(),
 					},
 
 					{
@@ -107,6 +84,7 @@ export default defineConfig({
 						label: "Aangehaald",
 						type: "string",
 						list: true,
+						options: fetch("https://dev.reactionair.nl/aangehaald/index.json").json(),
 					},
 
 					{

@@ -22,10 +22,11 @@
 			</div>
 
 			<div class="right">
-				{{ range $index, $author := .Params.auteurs }}
-					<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>
-					{{ if ne (add $index 1) (len $.Params.auteurs) }},&nbsp{{ end }}
-				{{ end }}</div>
+				<div class="authors">
+					{{ range $index, $author := .Params.auteurs }}
+						<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>{{ if ne (add $index 1) (len $.Params.auteurs) }},&nbsp{{ end }}
+					{{ end }}
+				</div>
 
 				{{ if isset .Params "note" }}
 					<section class="note">
