@@ -1,8 +1,14 @@
 import { defineConfig } from "tinacms";
+import { client } from '../.tina/__generated__/client'
 import fetch from 'sync-fetch';
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+
+const query = async (value: string, name: string) => {
+	console.log(value.split("/").slice(2).join("/"));
+	return await client.queries.themas({ relativePath: value.split("/").slice(2).join("/") })
+}
 
 export default defineConfig({
 	branch,
@@ -60,15 +66,21 @@ export default defineConfig({
 						type: "string",
 						required: true,
 						list: true,
-						options: fetch("https://dev.reactionair.nl/auteurs/index.json").json(),
+						ui: {
+							compnenent: "group-list"
+						},
 					},
 
 					{
 						name: "themas",
 						label: "Thema",
-						type: "string",
+						type: "reference",
 						required: true,
-						options: fetch("https://dev.reactionair.nl/themas/index.json").json(),
+						collections: ["themas"],
+						ui: {
+							format: (value: string, name: string, field: F) => query(value, name),
+							//parse: (value: string, name: string, field: F) => console.log(value, name, field.parse()),
+						}
 					},
 
 					{
@@ -77,6 +89,9 @@ export default defineConfig({
 						type: "string",
 						list: true,
 						options: fetch("https://dev.reactionair.nl/dossiers/index.json").json(),
+						ui: {
+							component: "select",
+						},
 					},
 
 					{
@@ -85,6 +100,9 @@ export default defineConfig({
 						type: "string",
 						list: true,
 						options: fetch("https://dev.reactionair.nl/aangehaald/index.json").json(),
+						ui: {
+							component: "tags",
+						},
 					},
 
 					{
