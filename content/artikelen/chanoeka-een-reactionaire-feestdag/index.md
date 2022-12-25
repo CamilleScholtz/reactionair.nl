@@ -4,7 +4,7 @@ date = '2022-12-24'
 dossiers = ['Christendom']
 image = 'thumb.jpg'
 subtitle = 'De Makkabeeën als inspiratie voor christelijke martelaren en contrarevolutionairen'
-themas = 'Cultuur en Maatschappij'
+themas = 'Religie en Metafysica'
 title = 'Chanoeka, een reactionaire feestdag'
 +++
 
