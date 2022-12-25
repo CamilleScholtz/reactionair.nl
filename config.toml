@@ -40,6 +40,6 @@ disableHugoGeneratorInject = true
 [outputs]
 	home     = ["HTML", "JSON", "RSS"]
 	section  = ["RSS"]
-	taxonomy = ["RSS", "JSON"]
+	taxonomy = ["RSS"]
 	term     = ["HTML", "RSS"]
 	page     = ["HTML"]
