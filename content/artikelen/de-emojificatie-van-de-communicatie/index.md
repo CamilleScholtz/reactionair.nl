@@ -1,16 +1,13 @@
----
-aangehaald:
-- Friedrich Nietzsche
-- Ludwig Wittgenstein
-anchor: Smart
-auteurs:
-- De Melancholieke Nar
-date: "2022-08-20"
-image: jeremy-zero-wpxr-qsdqjm-unsplash-scaled-1.jpg
-subtitle: "\U0001F481\U0001F44C\U0001F38D\U0001F60D\U0001F349⛷️\U0001F631\U0001F37B\U0001F485\U0001F923"
-themas: Religie en Metafysica
-title: De emojificatie van de communicatie
----
++++
+aangehaald = ['Friedrich Nietzsche', 'Ludwig Wittgenstein']
+anchor = 'Smart'
+auteurs = ['De Melancholieke Nar']
+date = '2022-08-20'
+image = 'jeremy-zero-wpxr-qsdqjm-unsplash-scaled-1.jpg'
+subtitle = '💁👌🎍😍🍉⛷️😱🍻💅🤣'
+themas = 'Religie en Metafysica'
+title = 'De emojificatie van de communicatie'
++++
 Omstreeks het jaar 1900 was zo'n 80% van de wereldbevolking analfabeet, tegenwoordig is dat minder dan 20%. Het kan hard gaan met de vooruitgang, hoewel er ook mensen zijn die hier vraagtekens bij hebben gesteld. 'Dat iedereen mag leren lezen, bederft op den duur niet alleen het schrijven, maar ook het denken.' zei Nietzsche bij monde van Zarathoestra.[^1] 
 
 Wat dat betreft kunnen zij die dat met hem eens zijn zich verheugen: de geletterdheid neemt, vooral in de ontwikkelde wereld in rap tempo af. Onder de jeugd is een kwart functioneel analfabeet en hoewel de overheid een hele campagne op touw heeft gezet om dat tegen te gaan, weet iedereen dat dat bij voorbaat kansloos is.[^2] De politiek komt de put pas dempen als het kalf al verdronken is. Bovendien begrijpt iedereen dat afnemend alfabetisme niet primair te wijten is aan falend onderwijs, maar aan het gegeven dat boeken niet kunnen wedijveren met games en smartphones qua amusementswaarde. Ook het feit dat zelfs universitaire studenten elementaire fouten maken op gebied van grammatica en spelling, spreekt boekdelen. Een mens vraagt zich af wat zo iemand überhaupt op de universiteit te zoeken heeft.

@@ -1,15 +1,13 @@
----
-aangehaald:
-- Aristoteles
-anchor: Smart
-auteurs:
-- Tom van Giersbergen
-date: "2022-09-04"
-image: a.jpg
-subtitle: Over het licht van de Zwarte Zon
-themas: Religie en Metafysica
-title: Dualistisch denken als grote verzoener
----
++++
+aangehaald = ['Aristoteles']
+anchor = 'Smart'
+auteurs = ['Tom van Giersbergen']
+date = '2022-09-04'
+image = 'a.jpg'
+subtitle = 'Over het licht van de Zwarte Zon'
+themas = 'Religie en Metafysica'
+title = 'Dualistisch denken als grote verzoener'
++++
 In deze tijden waarin de moderne westerling zich gedwongen ziet om zijn hele wereldbeschouwing opnieuw tegen het licht te houden zien we in de marge ook bepaalde zaken opnieuw ter discussie gesteld worden waarvan de discussie voor eens en altijd gevoerd leek.
 
 Zoals de Engelse taal dit mooi omschrijft: *"The Science is settled"* Maar toch, na het pionierswerk van de vroege astronomen, de grote ontdekkers en denkers uit de Renaissance en na de eeuwen die zouden volgen waarin het wetenschappelijke model ons denken en ons begrip van het universum vorm heeft gekregen lijken er met het wankelen van het naoorlogse westers liberalisme barsten te ontstaan in het granieten beeldhouwwerk genaamd 'wetenschap'. Met de politisering van de academische wereld en het groeiende aantal ideologisch gemotiveerde wetenschappers is het ook geen onnodige luxe dat het beeldhouwwerk van de wetenschap eens werd opgeschud.

@@ -1,16 +1,13 @@
----
-anchor: Top
-auteurs:
-- De redactie
-date: "2022-10-05"
-image: demon.webp
-note: Dit is een vertaling van het essay 'The Terrifying Vacuity of Klaus Schwab',
-  het origineel is [hier](https://www.eugyppius.com/p/the-terrifying-vacuity-of-klaus-schwab)
-  te lezen.
-subtitle: 'Een recensie van COVID-19: The Great Reset'
-themas: Recensie en Biografie
-title: De afschrikwekkende ledigheid van Klaus Schwab
----
++++
+anchor = 'Top'
+auteurs = ['De redactie']
+date = '2022-10-05'
+image = 'demon.webp'
+note = "Dit is een vertaling van het essay 'The Terrifying Vacuity of Klaus Schwab', het origineel is [hier](https://www.eugyppius.com/p/the-terrifying-vacuity-of-klaus-schwab) te lezen."
+subtitle = 'Een recensie van COVID-19: The Great Reset'
+themas = 'Recensie en Biografie'
+title = 'De afschrikwekkende ledigheid van Klaus Schwab'
++++
 
 Zoals veel slechte boeken, verwordt *The Great Reset* van tijd tot tijd tot een onbedoelde autobiografie. Voornamelijk in de laatste pagina’s, waar Klaus Schwab zijn hoop uit voor een ‘Persoonlijke Reset’ door middel van staatsdwang, werpen we een blik op de man gedurende de eerste lockdown in zijn huis in Cologny. In eerste instantie genoot hij van de breuk met routine en de mogelijkheden om in de natuur te leven, maar het duurde niet lang voordat hij een knagende ongemakkelijkheid begon te voelen. Hij had in de jaren voor 2020 ‘stakeholder kapitalisme’ tomeloos aangeprezen, zijn overkoepelende term voor verschillende plannetjes om kritiek op de globalistische, corporatieve termietenheuvel en de linkse gecoöpteerde oppositie te breken. Schwab slaagde erin zijn simplistische ideeën aan de man te brengen in een internationaal conferentie-circuit, heden beter bekend als het World Economic Forum, waar hij kon keuvelen met zakelijke en politieke bekendheden en gelijktijdig zijn Bond-schurk reputatie opdofte onder politieke dissidenten. 
 

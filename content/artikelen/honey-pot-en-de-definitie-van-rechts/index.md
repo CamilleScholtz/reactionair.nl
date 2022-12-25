@@ -1,17 +1,13 @@
----
-aangehaald:
-- Thierry Baudet
-- Sid Lukkassen
-auteurs:
-- Vrederijk
-date: "2021-10-28"
-dossiers:
-- Woke
-image: thumb.webp
-subtitle: Afscheid van een achterhaald begrip
-themas: Politiek en Actualiteit
-title: Honey Pot en de definitie van “rechts”
----
++++
+aangehaald = ['Thierry Baudet', 'Sid Lukkassen']
+auteurs = ['Vrederijk']
+date = '2021-10-28'
+dossiers = ['Woke']
+image = 'thumb.webp'
+subtitle = 'Afscheid van een achterhaald begrip'
+themas = 'Politiek en Actualiteit'
+title = 'Honey Pot en de definitie van “rechts”'
++++
 
 
 Gisteren heb ik de nieuwste film van kunstcollectief _KIRAC_ gezien, _Honey Pot_. Dit is een verfilming van een gezamenlijk conceptueel-kunstinitiatief met Jini van Rooijen, een 22 jarige UvA studente met een _OnlyFans_ porno-kanaal. De bedoeling van dit initiatief, zo vertelde Jini zelf op camera,[^1] is om seks te hebben met een _“rechts”_ persoon om _“de kloof”_ (tussen links en rechts) te dichten.

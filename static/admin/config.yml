@@ -1,0 +1,149 @@
+backend:
+  name: "git-gateway"
+  branch: "main"
+  identity_url: "https://reactionair.nl/.netlify/identity"
+  gateway_url: "https://reactionair.nl/.netlify/git"
+
+media_folder: ""
+public_folder: ""
+
+site_url: "https://reactionair.nl"
+logo_url: "https://reactionair.nl/img/logo.svg"
+
+locale: "nl"
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+collections:
+  - name: "artikelen"
+    label: "Artikelen"
+    label_singular: "Artikel"
+    folder: "content/artikelen"
+    path: "{{slug}}/index"
+    format: "toml-frontmatter"
+    create: true
+    delete: false
+    fields:
+      - name: "title"
+        label: "Titel"
+        widget: "string"
+      - name: "subtitle"
+        label: "Ondertitel"
+        widget: "string"
+      - name: "auteurs"
+        label: "Auteurs"
+        widget: "relation"
+        collection: "auteurs"
+        value_field: "title"
+        search_fields: ["title"]
+        multiple: true
+      - name: "date"
+        label: "Publicatie datum"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+      - name: "themas"
+        label: "Thema"
+        widget: "relation"
+        collection: "themas"
+        value_field: "title"
+        search_fields: ["title"]
+      - name: "dossiers"
+        label: "Dossiers"
+        widget: "relation"
+        collection: "dossiers"
+        value_field: "title"
+        search_fields: ["title"]
+        multiple: true
+        required: false
+      - name: "aangehaald"
+        label: "Aangehaald"
+        widget: "array"
+        required: false
+      - name: "image"
+        label: "Afbeelding"
+        widget: "image"
+        allow_multiple: false
+        choose_url: false
+      - name: "anchor"
+        label: "Uitsnijdvak afbeelding"
+        widget: "select"
+        options: ["Smart", "Top", "Center", "Bottom"]
+        default: "Smart"
+      - name: "caption"
+        label: "Onderschrift afbeelding"
+        widget: "string"
+        required: false
+      - name: "recording"
+        label: "Opname"
+        widget: "string"
+        required: false
+      - name: "body"
+        label: "Content"
+        widget: "markdown"
+        buttons: ["bold", "italic", "link", "heading-three", "quote", "bulleted-list", "numbered-list"]
+        editor_components: ["image", "twitter", "quote", "youtube", "boekencast"]
+  - name: "auteurs"
+    label: "Auteurs"
+    label_singular: "Auteur"
+    folder: "content/auteurs"
+    path: "{{slug}}/_index"
+    format: "toml-frontmatter"
+    create: true
+    delete: false
+    fields:
+      - name: "title"
+        label: "Naam"
+        widget: "string"
+      - name: "profession"
+        label: "Kernwoord"
+        widget: "string"
+      - name: "description"
+        label: "Beschrijving"
+        widget: "text"
+      - name: "pseudonym"
+        label: "Anoniem"
+        widget: "boolean"
+      - name: "image"
+        label: "Afbeelding"
+        widget: "image"
+        allow_multiple: false
+        choose_url: false
+  - name: "dossiers"
+    label: "Dossiers"
+    label_singular: "Dossier"
+    folder: "content/dossiers"
+    path: "{{slug}}/_index"
+    format: "toml-frontmatter"
+    create: true
+    delete: false
+    fields:
+      - name: "title"
+        label: "Naam"
+        widget: "string"
+      - name: "description"
+        label: "Beschrijving"
+        widget: "text"
+      - name: "heading"
+        label: "Titel (op pagina's)"
+        widget: "string"
+  - name: "themas"
+    label: "Themas"
+    label_singular: "Thema"
+    folder: "content/themas"
+    path: "{{slug}}/_index"
+    format: "toml-frontmatter"
+    delete: false
+    fields:
+      - name: "title"
+        label: "Naam"
+        widget: "string"
+      - name: "description"
+        label: "Beschrijving"
+        widget: "text"
+      - name: "heading"
+        label: "Titel (op pagina's)"
+        widget: "string"

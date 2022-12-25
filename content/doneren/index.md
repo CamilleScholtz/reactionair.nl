@@ -1,8 +1,8 @@
----
-layout: donate
-subtitle: Steun Reactionair.nl
-title: Doneren
----
++++
+layout = 'donate'
+subtitle = 'Steun Reactionair.nl'
+title = 'Doneren'
++++
 
 Wat begon als project van een gemotiveerde eenling groeit nu uit tot een volwaardig intellectueel platform van formaat. Het pad bewandeld door *Reactionair.nl* is nog maar kort, maar we mogen zo onderhand al wel spreken van een mooie tocht, die nog lang niet ten einde komt.
 

@@ -1,13 +1,12 @@
----
-anchor: Smart
-auteurs:
-- Walt van Toor
-date: "2022-07-17"
-image: caspar_david_friedrich_-_mondaufgang_-ca.1835-37-.jpg
-subtitle: Thoreau en de plicht tot burgerlijke ongehoorzaamheid
-themas: Cultuur en Maatschappij
-title: Dialoog I
----
++++
+anchor = 'Smart'
+auteurs = ['Walt van Toor']
+date = '2022-07-17'
+image = 'caspar_david_friedrich_-_mondaufgang_-ca.1835-37-.jpg'
+subtitle = 'Thoreau en de plicht tot burgerlijke ongehoorzaamheid'
+themas = 'Cultuur en Maatschappij'
+title = 'Dialoog I'
++++
 **Johan**: Ik moet toegeven dat ik eerst niet zoveel op had met activisme, het leek mij dat burgers zich onder de gegeven omstandigheden van het openbaar bestuur zo vrij mogelijk dienden te ontwikkelen en dat zich daarbuiten enkel ontregelaars ophielden die de samenleving niets te bieden hadden, extreme omstandigheden daargelaten natuurlijk. De liberale democratie leek mij tot voorheen de meest ideale plek voor de meest grote groep, het juiste antwoord op de dreiging van anarchie. Daar ben ik van teruggekomen. De laatste tijd herken ik veel verschillende vormen van gerechtvaardigd protest, het gaat om mensen wier grondrechten worden afgenomen en mensen die in hun bestaansrecht worden bedreigd. Zij hebben dit niet over zich afgeroepen, al doet men het daar wel op lijken.  
 
 **Mark**: De beeldvorming is inderdaad kwalijk, ik weet dat we er allebei voor kiezen om onze inname van het geregisseerde nieuws te beperken. Vergeleken met tien jaar geleden mag je nu geen verwachtingen meer hebben over de betrouwbaarheid en kwaliteit van reguliere nieuwskanalen; dat wat er op de nieuwszenders wordt uitgezonden en dat wat er in de grote kranten wordt geschreven – aan leugens en aan framing valt daarin niet te ontkomen. Het was me al opgevallen dat je houding was veranderd ten opzichte van burgerlijke ongehoorzaamheid. Ik zou dat niet ongehoord willen noemen… nee, het lijkt me juist een prima ontwikkeling. Weet wel: daar houdt het niet op, onze houding ten opzichte van burgerlijkheid *in toto* dient te veranderen. Waarom? Omdat het ons gevangen houdt in de illusie van maakbaarheid, het levert ons over aan corrumpeerbare ordehandhavers, het verstoort de afwegingen die ieder voor zich heeft te maken… Waarmee worden die essentiële afwegingen verstoord? met de overwegingen van een decadente, tot stilstand gekomen natie.  

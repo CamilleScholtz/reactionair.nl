@@ -1,17 +1,13 @@
----
-aangehaald:
-- René Guénon
-- Aristoteles
-- Pythagoras
-anchor: Top
-auteurs:
-- Camille Meloen
-date: "2021-11-21"
-image: thumb.webp
-subtitle: Over de omgekeerde analogie
-themas: Religie en Metafysica
-title: God en vrijheid
----
++++
+aangehaald = ['René Guénon', 'Aristoteles', 'Pythagoras']
+anchor = 'Top'
+auteurs = ['Camille Meloen']
+date = '2021-11-21'
+image = 'thumb.webp'
+subtitle = 'Over de omgekeerde analogie'
+themas = 'Religie en Metafysica'
+title = 'God en vrijheid'
++++
 
 
 Het liberalisme heeft als beginsel vrijheid, _liberté_. In vergelijking met andere wereldbeelden is dit beginsel uniek in die zin dat het negatief is, waarmee ik bedoel dat vrijheid alleen bestaat doormiddel van _negatie_. Je kunt alleen uit een kooi worden bevrijd door het omhulsel af te breken; dit kan worden vertaald naar een aantal andere domeinen: in de sociale sfeer kun je bevrijd worden van de grenzen die normativiteit stelt, zoals traditionele seksuele rollen, door ze neer te halen. In het categorische domein kun je bijvoorbeeld de _"gender binary"_ open breken door er een spectrum van te maken: in plaats van _beperkt_ te zijn tot slechts twee keuzes, is er nu een theoretisch onbepaald aantal _genders_ om uit te kiezen, vrijheid! In het geval van moraal of kunst, schaf _"goed"_ en _"slecht"_, _"mooi"_ en _"lelijk"_ af, haal het neer, wees bevrijd.

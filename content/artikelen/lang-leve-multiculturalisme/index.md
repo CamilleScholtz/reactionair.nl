@@ -1,15 +1,13 @@
----
-anchor: Smart
-auteurs:
-- Calvin Tangelder
-date: "2022-11-26"
-dossiers:
-- Islam
-image: a-2.webp
-subtitle: De hypocrisie van progressief-liberaal imperialisme en Qatar
-themas: Cultuur en Maatschappij
-title: Lang leve... multi&shy;culturalisme?
----
++++
+anchor = 'Smart'
+auteurs = ['Calvin Tangelder']
+date = '2022-11-26'
+dossiers = ['Islam']
+image = 'a-2.webp'
+subtitle = 'De hypocrisie van progressief-liberaal imperialisme en Qatar'
+themas = 'Cultuur en Maatschappij'
+title = 'Lang leve... multi&shy;culturalisme?'
++++
 Vorige week vond de aftrap (woordspeling bedoeld) van het Wereldkampioenschap voetbal (bij ons bekend als ‘het WK’) plaats. Dat betekent voor de gemiddelde voetbalfan: met een pot bier op de bank, overheerst door chauvinisme, uit volle borst meezingend met het volkslied, of voor de student het tijdens het hoorcollege openklappen van de laptops, VPN aan, en stilletjes juichen als het vaderland scoort. De plek waar landen en culturen bijeen komen, om eens een goed potje voetbal te spelen. Al lijkt het er op dat de ene cultuur toch de andere niet is. We kwamen er allemaal ineens achter dat Qatar homoseksualiteit niet goedkeurt!
 
 Nou ben ik geen fervent kijker van voetbal, waar ik dat eens wel geweest ben – toen voetbal niet draaide om politieke stunts en huilend naar de grond duiken bij iedere slag of stoot, maar toen het nog hard mocht zijn, en harmonie binnen een team van belang was – maar ik kan nu al voorspellen dat, ongeacht de uitslagen van de wedstrijden, de schoonheid van de goals die gescoord mogen worden of de uitbundigheid van de schwalbes, het WK volledig gekaapt is door de cultuur oorlog tussen het “vrije Westen” en het Oosten (in dit geval Qatar, waar het WK plaatsvindt). Geen enkele gebeurtenis zal de LHBTI kwestie nog overschaduwen; het conflict gaat over de ‘rechten’ van LHBTI-ers versus het ‘onderdrukkende’ en ‘homohatende’, islamitische Qatar, en wordt volledig uitgespeeld op het voetbalveld als podium. Qatar wordt uitgejouwd door Westerse media; voetbalfans, ‘influencers’ en journalisten plaatsen massaal video’s op internet waarbij ze met verontwaardigde gezichten de toegang wordt geweigerd tot het stadion.[^1] Boos richten ze zich tot de camera en verklaren ze hoe *totalitair* en *hatelijk* de cultuur daar in Qatar wel niet is. Maar, waar is dat *‘respect the culture’* idee gebleven? Afijn, voor zover het respect voor multiculturalisme…

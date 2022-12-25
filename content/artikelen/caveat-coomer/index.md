@@ -1,17 +1,14 @@
----
-aangehaald:
-- Curtis Yarvin
-auteurs:
-- De Melancholieke Nar
-date: "2022-02-24"
-dossiers:
-- Woke
-image: thumb.webp
-note: Dit is een vertaling en bewerking van een Twitter-draad van [Curtis Yarvin](https://twitter.com/moldbugman).
-subtitle: Over de giftige alchemie tussen coomer en e-girl
-themas: Cultuur en Maatschappij
-title: Caveat coomer
----
++++
+aangehaald = ['Curtis Yarvin']
+auteurs = ['De Melancholieke Nar']
+date = '2022-02-24'
+dossiers = ['Woke']
+image = 'thumb.webp'
+note = 'Dit is een vertaling en bewerking van een Twitter-draad van [Curtis Yarvin](https://twitter.com/moldbugman).'
+subtitle = 'Over de giftige alchemie tussen coomer en e-girl'
+themas = 'Cultuur en Maatschappij'
+title = 'Caveat coomer'
++++
 
 In het kader van _OnlyFans_ moet men de eeuwige wet van de lichtekooi in gedachten houden.[^1] Het is een wet die in zijn eenvoud en logica elegant kan worden beschreven: hoe onbevredigender de ervaring voor de klant, hoe bevredigender voor de hoer.
 

@@ -1,17 +1,14 @@
----
-aangehaald:
-- René Guénon
-anchor: Center
-auteurs:
-- Camille Meloen
-date: "2022-05-02"
-dossiers:
-- Islam
-image: thumb.webp
-subtitle: al-Tawhīdu wāhidun
-themas: Religie en Metafysica
-title: De leer van de Eenheid is één
----
++++
+aangehaald = ['René Guénon']
+anchor = 'Center'
+auteurs = ['Camille Meloen']
+date = '2022-05-02'
+dossiers = ['Islam']
+image = 'thumb.webp'
+subtitle = 'al-Tawhīdu wāhidun'
+themas = 'Religie en Metafysica'
+title = 'De leer van de Eenheid is één'
++++
 
 
 Wanneer ik boeken lees, vergeet ik de meeste zinnen binnen enkele minuten. Ik lees boeken voor de zeldzame parels. Eén zo'n parel is de volgende alinea in een boek van René Guénon, _Aperçus sur l'ésotérisme islamique et le taoïsme_:

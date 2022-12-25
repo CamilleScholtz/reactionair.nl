@@ -1,15 +1,13 @@
----
-anchor: Smart
-auteurs:
-- De redactie
-date: "2022-08-18"
-image: egpfllzu8aahd9d.jpeg
-note: Dit is een vertaling van het essay 'Embracing the Fringe', het origineel is
-  [hier](https://apolloniangerm.substack.com/p/embracing-the-fringe) te lezen.
-subtitle: Stap in, lullo, we gaan naar Hyperborea
-themas: Politiek en Actualiteit
-title: De marge omarmen
----
++++
+anchor = 'Smart'
+auteurs = ['De redactie']
+date = '2022-08-18'
+image = 'egpfllzu8aahd9d.jpeg'
+note = "Dit is een vertaling van het essay 'Embracing the Fringe', het origineel is [hier](https://apolloniangerm.substack.com/p/embracing-the-fringe) te lezen."
+subtitle = 'Stap in, lullo, we gaan naar Hyperborea'
+themas = 'Politiek en Actualiteit'
+title = 'De marge omarmen'
++++
 
 Iedereen die genoeg tijd heeft besteed aan onderzoek naar alternatieve ideeën en samenzweringstheorieën op het internet, zal een fantasierijke mengelmoes van zogeheten "marginale" ideeën en theorieën tegenkomen. Deze variëren van uiterst plausibel en goed onderbouwd tot werkelijk irrationeel en "schizofreen". Het is onmogelijk om ze allemaal op te noemen, maar er zijn het Tartaarse Rijk & de grote "modderstroom" theorieën, fantoomtijd en nieuwe chronologieën, de platte-aarde-theorie en al haar varianten, vage vragen over de waarheid over Antarctica, theorieën over de elites waarbij reptielachtigen en/of buitenaardse wezens betrokken zijn, beweringen dat de ruimte "nep" is, mensen die geloven dat alle belangrijke mainstream gerapporteerde nieuwsgebeurtenissen nep zijn, enz...
 

@@ -1,13 +1,12 @@
----
-anchor: Center
-auteurs:
-- De redactie
-date: "2022-05-10"
-image: thumb.webp
-subtitle: Een experiment in kunstmatige intelligentie
-themas: Politiek en Actualiteit
-title: De essentie van linkse politiek volgens een algoritme
----
++++
+anchor = 'Center'
+auteurs = ['De redactie']
+date = '2022-05-10'
+image = 'thumb.webp'
+subtitle = 'Een experiment in kunstmatige intelligentie'
+themas = 'Politiek en Actualiteit'
+title = 'De essentie van linkse politiek volgens een algoritme'
++++
 
 
 In de toekomst zal al het werk door robots worden gedaan. Zelfs creatief werk, wat dan weer de vraag oproept of creativiteit wel echt de schepping van iets nieuws is, of slechts de herschikking van bekende elementen. Het GPT-3-algoritme[^1] kreeg (in het Engels) de zinnen 'links is de politieke uitdrukking van' en 'het meest linkse land ter wereld is' gevoed en spuwde het volgende weer uit:

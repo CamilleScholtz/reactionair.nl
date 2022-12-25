@@ -1,16 +1,13 @@
----
-aangehaald:
-- Erik von Kuehnelt-Leddihn
-auteurs:
-- Sanura
-date: "2021-12-29"
-dossiers:
-- Christendom
-image: thumb.webp
-subtitle: Autoriteit versus macht
-themas: Religie en Metafysica
-title: Christendom en legitimiteit
----
++++
+aangehaald = ['Erik von Kuehnelt-Leddihn']
+auteurs = ['Sanura']
+date = '2021-12-29'
+dossiers = ['Christendom']
+image = 'thumb.webp'
+subtitle = 'Autoriteit versus macht'
+themas = 'Religie en Metafysica'
+title = 'Christendom en legitimiteit'
++++
 
 
 Een priester hield een keer een preek (een clichématig begin, ik weet het) over het verschil tussen macht en autoriteit; en inderdaad, daar is een essentieel verschil tussen. Macht kan geüsurpeerd en misbruikt worden. Autoriteit niet. Autoriteit is legitimiteit. Net als liefde en moed kan het niet vervalst worden of gestolen.

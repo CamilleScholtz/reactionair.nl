@@ -1,15 +1,12 @@
----
-aangehaald:
-- Pim Fortuyn
-- Alexis de Tocqueville
-auteurs:
-- Robert Lemm
-date: "2022-06-08"
-image: thumb.webp
-subtitle: Herzien door Robert Lemm
-themas: Recensie en Biografie
-title: De democratie voorbij
----
++++
+aangehaald = ['Pim Fortuyn', 'Alexis de Tocqueville']
+auteurs = ['Robert Lemm']
+date = '2022-06-08'
+image = 'thumb.webp'
+subtitle = 'Herzien door Robert Lemm'
+themas = 'Recensie en Biografie'
+title = 'De democratie voorbij'
++++
 
 _De democratie voorbij, door Frank Karsen en Karel Beckman._
 

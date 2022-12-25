@@ -1,16 +1,12 @@
----
-aangehaald:
-- René Guénon
-- Martin Heidegger
-- Martin Lings
-auteurs:
-- Camille Meloen
-date: "2021-10-21"
-image: thumb.webp
-subtitle: Gedachten over het Onbegrensde
-themas: Religie en Metafysica
-title: Naar het einde en daar voorbij!
----
++++
+aangehaald = ['René Guénon', 'Martin Heidegger', 'Martin Lings']
+auteurs = ['Camille Meloen']
+date = '2021-10-21'
+image = 'thumb.webp'
+subtitle = 'Gedachten over het Onbegrensde'
+themas = 'Religie en Metafysica'
+title = 'Naar het einde en daar voorbij!'
++++
 
 
 Dit artikel gaat over enkele interacties met het idee van het onbegrensde, het eindeloze, oneindigheid, en enkele logische consequenties van deze concepten en de mogelijke implicaties voor theologie.

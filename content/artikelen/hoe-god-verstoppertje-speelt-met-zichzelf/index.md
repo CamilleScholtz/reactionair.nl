@@ -1,18 +1,12 @@
----
-aangehaald:
-- George Berkeley
-- René Descartes
-- Fjodor Dostojevski
-- Martin Heidegger
-- Baruch Spinoza
-auteurs:
-- De Melancholieke Nar
-date: "2022-02-09"
-image: thumb.webp
-subtitle: Waarom het streven naar objectiviteit een doodlopend pad is, deel 3
-themas: Religie en Metafysica
-title: Hoe God verstoppertje speelt met zichzelf
----
++++
+aangehaald = ['George Berkeley', 'René Descartes', 'Fjodor Dostojevski', 'Martin Heidegger', 'Baruch Spinoza']
+auteurs = ['De Melancholieke Nar']
+date = '2022-02-09'
+image = 'thumb.webp'
+subtitle = 'Waarom het streven naar objectiviteit een doodlopend pad is, deel 3'
+themas = 'Religie en Metafysica'
+title = 'Hoe God verstoppertje speelt met zichzelf'
++++
 
 
 _Dit essay maakt deel uit van de essay-serie 'Waarom het streven naar objectiviteit een doodlopend pad is'. Zie [hier](https://reactionair.nl/artikelen/een-lesje-grammatica-een-lesje-metafysica/) het vorige deel._

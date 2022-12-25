@@ -1,14 +1,12 @@
----
-aangehaald:
-- G. K. Chesterton
-auteurs:
-- Jurbin van Hooff
-date: "2022-03-09"
-image: thumb.webp
-subtitle: Enkele fragmenten uit Orthodoxie door G.K. Chesterton die mij zijn opgevallen
-themas: Recensie en Biografie
-title: Zal ik je vertellen waar degenen zijn die in zichzelf geloven?
----
++++
+aangehaald = ['G. K. Chesterton']
+auteurs = ['Jurbin van Hooff']
+date = '2022-03-09'
+image = 'thumb.webp'
+subtitle = 'Enkele fragmenten uit Orthodoxie door G.K. Chesterton die mij zijn opgevallen'
+themas = 'Recensie en Biografie'
+title = 'Zal ik je vertellen waar degenen zijn die in zichzelf geloven?'
++++
 
 
 _Orthodoxie_ is een boek gepubliceerd in 1908 door Gilbert Keith Chesterton (1874-1936). _Orthodoxie_ werd door Chesterton geschreven toen hij agnost was, die zelf verveeld werd door de modes van zijn tijd die we vandaag de dag ook steeds zien terugkomen: materialisme, scepticisme, rationalisme, determinisme, positivisme, hedonisme en socialisme. Chesterton valt deze moderne “denkstromen” op een spraakmakende wijze aan en probeert aan te tonen waarom het Christendom superieur is aan deze denkstromen. Er zal in deze recensie een weergave worden gegeven van enkele fragmenten uit _Orthodoxie_ die mij zijn opgevallen.

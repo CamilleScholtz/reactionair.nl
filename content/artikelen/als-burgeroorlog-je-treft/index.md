@@ -1,13 +1,12 @@
----
-anchor: Top
-auteurs:
-- Sanura
-date: "2022-06-28"
-image: thumbo.jpg
-subtitle: Behoud je principes, gezin, bezit en geloof!
-themas: Politiek en Actualiteit
-title: 'Als burgeroorlog je treft '
----
++++
+anchor = 'Top'
+auteurs = ['Sanura']
+date = '2022-06-28'
+image = 'thumbo.jpg'
+subtitle = 'Behoud je principes, gezin, bezit en geloof!'
+themas = 'Politiek en Actualiteit'
+title = 'Als burgeroorlog je treft '
++++
 Gert-Jan Segers, (ja, die windvaan van een CU-leider) sprak recent over een burgeroorlog die zou kunnen volgen uit het belachelijke stikstofbeleid en de aanvallen op het boerenbestaan. Burgeroorlog in ons polderland? Rutte-Kaag maakt het mogelijk blijkbaar.
 
 De dreiging van burgeroorlog waaide vorig jaar al over Frankrijk, in Hongarije tijdens de recente verkiezingen en natuurlijk Spanje. De stormwolken drijven weer over Europa en nu is het onze beurt. 

@@ -1,8 +1,8 @@
----
-description: v. Stormberg is voorzitter Hoogbejaardenfanclub NL.
-image: avatar.webp
-profession: Student
-pseudonym: true
-title: v. Stormberg
-twitter: https://twitter.com/VanStormberg
----
++++
+description = 'v. Stormberg is voorzitter Hoogbejaardenfanclub NL.'
+image = 'avatar.webp'
+profession = 'Student'
+pseudonym = true
+title = 'v. Stormberg'
+twitter = 'https://twitter.com/VanStormberg'
++++

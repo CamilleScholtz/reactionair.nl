@@ -1,17 +1,13 @@
----
-aangehaald:
-- René Descartes
-- Fjodor Dostojevski
-- Socrates
-anchor: Center
-auteurs:
-- Tólma
-date: "2022-05-11"
-image: thumb.webp
-subtitle: Descartes over verwondering en wijsheid
-themas: Religie en Metafysica
-title: Domme vragen
----
++++
+aangehaald = ['René Descartes', 'Fjodor Dostojevski', 'Socrates']
+anchor = 'Center'
+auteurs = ['Tólma']
+date = '2022-05-11'
+image = 'thumb.webp'
+subtitle = 'Descartes over verwondering en wijsheid'
+themas = 'Religie en Metafysica'
+title = 'Domme vragen'
++++
 
 We vragen wel eens, waar begint de filosofie? In de verwondering, antwoorden we dan. Het is wanneer wat voorheen evident was, object van verwondering wordt. Waar voorheen vanzelfsprekende meningen tot vraag worden in de verwondering, _daar_ begint de filosofie. Deze onschuldige vaststelling heeft menig filosofen doen concluderen dat de filosofie wezenlijk bestaat uit het vragen, en uit niet veel anders. Filosofie _is_ de in vraag stelling van de _doxa_, geboren uit de verwondering. En hoe radicaler, hoe beter. ‘Filosofie is kritiek.’ 
 

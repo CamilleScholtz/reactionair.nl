@@ -1,15 +1,12 @@
----
-aangehaald:
-- Erik von Kuehnelt-Leddihn
-- Karl Marx
-auteurs:
-- Sanura
-date: "2021-10-09"
-image: thumb.webp
-subtitle: Extreemrechtse liberaal
-themas: Recensie en Biografie
-title: Het Erik Enigma
----
++++
+aangehaald = ['Erik von Kuehnelt-Leddihn', 'Karl Marx']
+auteurs = ['Sanura']
+date = '2021-10-09'
+image = 'thumb.webp'
+subtitle = 'Extreemrechtse liberaal'
+themas = 'Recensie en Biografie'
+title = 'Het Erik Enigma'
++++
 
 
 Erik Maria Ritter von Kuehnelt-Leddihn was een Katholieke aristocraat uit Oostenrijk evenals een historicus, politiek wetenschapper, filosoof, theoloog, journalist, schilder, schrijver van fictie en polyglot die 8 talen kon spreken en 17 meer kon lezen. Hij bezocht de Sovjet-Unie onder Stalin en Spanje tijdens de burgeroorlog. Saai was zijn leven beslist niet. Ook trouwde hij met een Katholieke aristocraat en kreeg 3 kinderen, altijd fijn. 

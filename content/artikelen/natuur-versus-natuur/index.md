@@ -1,15 +1,12 @@
----
-aangehaald:
-- René Guénon
-- Aristoteles
-auteurs:
-- Camille Meloen
-date: "2021-10-14"
-image: thumb.webp
-subtitle: Een modern misverstand
-themas: Religie en Metafysica
-title: Natuur versus natuur
----
++++
+aangehaald = ['René Guénon', 'Aristoteles']
+auteurs = ['Camille Meloen']
+date = '2021-10-14'
+image = 'thumb.webp'
+subtitle = 'Een modern misverstand'
+themas = 'Religie en Metafysica'
+title = 'Natuur versus natuur'
++++
 
 
 We zien vaak vergelijkingen in de vorm van _“homoseksualiteit komt voor bij enkele diersoorten, dus is het natuurlijk”_, aan de andere kant zien we atheïsten beweren dat de religieuze filosofie gebruik maakt van een _“beroep op de natuur”_ drogredenering. Beide komen voort uit een misverstand. De eerste over een misverstand over de betekenis van de natuur, en de tweede over een betekenis van de Natuur, met een hoofdletter N.

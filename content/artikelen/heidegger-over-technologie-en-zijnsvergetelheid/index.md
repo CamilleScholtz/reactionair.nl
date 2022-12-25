@@ -1,18 +1,14 @@
----
-aangehaald:
-- Martin Heidegger
-- Oswald Spengler
-anchor: Center
-auteurs:
-- De redactie
-date: "2022-05-28"
-image: thumb.webp
-note: Dit is een vertaling van het essay 'Terminator Future', het origineel is [hier](https://astralflight.substack.com/p/terminator-future)
-  te lezen.
-subtitle: Heidegger en onze Terminator-toekomst, deel 1
-themas: Religie en Metafysica
-title: Het wezen van de technologie
----
++++
+aangehaald = ['Martin Heidegger', 'Oswald Spengler']
+anchor = 'Center'
+auteurs = ['De redactie']
+date = '2022-05-28'
+image = 'thumb.webp'
+note = "Dit is een vertaling van het essay 'Terminator Future', het origineel is [hier](https://astralflight.substack.com/p/terminator-future) te lezen."
+subtitle = 'Heidegger en onze Terminator-toekomst, deel 1'
+themas = 'Religie en Metafysica'
+title = 'Het wezen van de technologie'
++++
 
 In _Die Frage nach der Technik_ beweert Martin Heidegger dat het wezen of de essentie van technologie _'Gestell'_ is (in het Nederlands soms als _'bestel'_ en in het Engels als _'enframing'_ vertaald), iets wat op zichzelf niets technologisch is. Hoe is dat mogelijk? Als technologie slechts een werktuig is met een zeker nut voor ons, de uitvinders, hoe kan het wezen ervan iets anders zijn dan zijn bedoelde functie? Technologie is inert, daarom kan de essentie ervan niets anders zijn dan het doel of de betekenis die wij er aan toekennen. Heidegger is het daar niet mee eens. In werkelijkheid zit het wezen van de technologie niet in technologie, maar in onszelf. Tegelijkertijd is dit wezen niet ons wezen. Dat wil zeggen, _Gestell_ is niet de essentie van het Zijn in zijn totaliteit. Veeleer is het een aspect van het Zijn dat andere aspecten verbergt of bedekt. Wanneer we gevangen zitten in de essentie van de techniek, wanneer technologie ons 'inkadert', hebben we geen toegang meer tot de andere facetten van het Zijn en is het wezen van de mens teruggebracht tot het wezen van de techniek.
 

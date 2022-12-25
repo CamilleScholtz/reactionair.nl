@@ -1,15 +1,12 @@
----
-aangehaald:
-- Thierry Baudet
-- Carl Schmitt
-auteurs:
-- Alexander Wolfheze
-date: "2022-01-02"
-image: thumb.webp
-subtitle: De Futuro-Fundamentalistische Revolutie, deel 3
-themas: Cultuur en Maatschappij
-title: Domesticering
----
++++
+aangehaald = ['Thierry Baudet', 'Carl Schmitt']
+auteurs = ['Alexander Wolfheze']
+date = '2022-01-02'
+image = 'thumb.webp'
+subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 3'
+themas = 'Cultuur en Maatschappij'
+title = 'Domesticering'
++++
 
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/tegen-natuurlijke-selectie/) het vorige deel._
