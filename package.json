@@ -1,0 +1,12 @@
+{
+  "name": "reactionair.nl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://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@github.com/onodera-punpun/reactionair.nl.git",
+  "author": "Camille Scholtz <admin@camille.sh>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "datocms-client": "^3.5.21"
+  }
+}
