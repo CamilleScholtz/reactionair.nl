@@ -1,13 +1,15 @@
-+++
-anchor = 'Center'
-authors = ['Camille Meloen']
-date = '2022-07-01'
-files = ['Islam']
-image = 'l19224-9m4zh-9-ksharp.jpg'
-subtitle = 'Over ringcomposities'
-themes = 'Religie en Metafysica'
-title = 'De chiastische structuur van soera De Opening'
-+++
+---
+anchor: Center
+authors:
+- Camille Meloen
+date: "2022-07-01"
+files:
+- Islam
+image: l19224-9m4zh-9-ksharp.jpg
+subtitle: Over ringcomposities
+themes: Religie en Metafysica
+title: De chiastische structuur van soera De Opening
+---
 <blockquote style="text-align: center; color: var(--muted-color); max-width: 90%;">
 <p style="text-align: center;">
 <span style="color: var(--accent-color); font-size: 14px;">1.</span> In naam van God, de Barmhartige, de Genadevolle. 

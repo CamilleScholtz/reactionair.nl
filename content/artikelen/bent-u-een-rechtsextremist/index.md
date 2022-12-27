@@ -1,12 +1,13 @@
-+++
-anchor = 'Smart'
-authors = ['De redactie']
-date = '2022-04-29'
-image = 'thumb.webp'
-subtitle = 'Doe de test!'
-themes = 'Klikaas'
-title = 'Bent u een rechtsextremist?'
-+++
+---
+anchor: Smart
+authors:
+- De redactie
+date: "2022-04-29"
+image: thumb.webp
+subtitle: Doe de test!
+themes: Klikaas
+title: Bent u een rechtsextremist?
+---
 
 
 De AIVD bracht hun jaarverslag uit[^1] en gaf het volgende aan:

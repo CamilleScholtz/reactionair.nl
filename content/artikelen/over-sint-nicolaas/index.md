@@ -1,12 +1,15 @@
-+++
-authors = ['Jan de Maansnijder']
-date = '2021-12-01'
-files = ['Christendom']
-image = 'thumb.webp'
-subtitle = 'Een interpretatie van de symboliek uit het leven van deze heilige, losjes gebaseerd op de Gulden Legende'
-themes = 'Religie en Metafysica'
-title = 'Over Sint Nicolaas'
-+++
+---
+authors:
+- Jan de Maansnijder
+date: "2021-12-01"
+files:
+- Christendom
+image: thumb.webp
+subtitle: Een interpretatie van de symboliek uit het leven van deze heilige, losjes
+  gebaseerd op de Gulden Legende
+themes: Religie en Metafysica
+title: Over Sint Nicolaas
+---
 
 
 >_"Bedenkt u dat hoewel wij onszelf als rechtvaardig mogen beschouwen en er vaak in slagen de mensen daar ook van te overtuigen, wij niks kunnen verbergen voor God"._ – Sint Nicolaas

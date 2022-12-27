@@ -1,12 +1,15 @@
-+++
-cited = ['George Berkeley', 'Pythagoras']
-authors = ['De Melancholieke Nar']
-date = '2022-02-01'
-image = 'thumb.webp'
-subtitle = 'Waarom het streven naar objectiviteit een doodlopend pad is, deel 2'
-themes = 'Religie en Metafysica'
-title = 'Een lesje grammatica, een lesje metafysica'
-+++
+---
+authors:
+- De Melancholieke Nar
+cited:
+- George Berkeley
+- Pythagoras
+date: "2022-02-01"
+image: thumb.webp
+subtitle: Waarom het streven naar objectiviteit een doodlopend pad is, deel 2
+themes: Religie en Metafysica
+title: Een lesje grammatica, een lesje metafysica
+---
 
 
 _Dit essay maakt deel uit van de essay-serie 'Waarom het streven naar objectiviteit een doodlopend pad is'. Zie [hier](https://reactionair.nl/artikelen/overdenkingen-over-de-parabel-van-de-blinden-en-de-olifant/) het vorige deel._

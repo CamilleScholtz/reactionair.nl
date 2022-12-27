@@ -1,14 +1,17 @@
-+++
-anchor = 'Top'
-authors = ['Jan de Maansnijder']
-date = '2022-06-04'
-files = ['Christendom']
-image = 'thumb.webp'
-note = "Dit is een vertaling van het essay 'On Nothing', het origineel is [hier](https://esoterictraditionalism.wordpress.com/2019/08/02/on-nothing/) te lezen."
-subtitle = 'De uitersten ontmoeten elkaar in het niets'
-themes = 'Religie en Metafysica'
-title = 'Over Niets'
-+++
+---
+anchor: Top
+authors:
+- Jan de Maansnijder
+date: "2022-06-04"
+files:
+- Christendom
+image: thumb.webp
+note: Dit is een vertaling van het essay 'On Nothing', het origineel is [hier](https://esoterictraditionalism.wordpress.com/2019/08/02/on-nothing/)
+  te lezen.
+subtitle: De uitersten ontmoeten elkaar in het niets
+themes: Religie en Metafysica
+title: Over Niets
+---
 
 {{< quote
 	text="Met de naam 'Niets' wordt de onuitsprekelijke en onbegrijpelijke en ontoegankelijke schittering van de Goddelijke Goedheid bedoeld, die onbekend is voor alle intellect, hetzij menselijk of engelachtig, (...) vandaar dat de ontoegankelijke schittering van de hemelse machten in de theologie vaak 'Duisternis' wordt genoemd."

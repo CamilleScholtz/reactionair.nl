@@ -1,12 +1,15 @@
-+++
-cited = ['C. S. Lewis', 'Aristoteles']
-authors = ['Philip van Houten']
-date = '2021-11-18'
-image = 'thumb.webp'
-subtitle = 'Hoe individuen autonomie na kunnen streven in de consumptiemaatschappij'
-themes = 'Cultuur en Maatschappij'
-title = 'Autonomie en psychopathie'
-+++
+---
+authors:
+- Philip van Houten
+cited:
+- C. S. Lewis
+- Aristoteles
+date: "2021-11-18"
+image: thumb.webp
+subtitle: Hoe individuen autonomie na kunnen streven in de consumptiemaatschappij
+themes: Cultuur en Maatschappij
+title: Autonomie en psychopathie
+---
 
 
 In een artikel eerder gepubliceerd op Reactionair.nl, _Autonomie en consumptie: Hoe autonomie met de consumptiemaatschappij samenhangt_,[^1] vroeg Jurbin van Hooff zich af of er een mogelijkheid is om te ontsnappen aan de consumptiemaatschappij _“waarin wij, min of meer, sinds de 20e eeuw leven”_. In dit artikel ga ik op zoek naar de mogelijkheden voor individuen om autonomie na te streven.

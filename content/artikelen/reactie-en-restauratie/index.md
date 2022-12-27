@@ -1,12 +1,14 @@
-+++
-aanghaald = ['Jean-Jacques Rousseau']
-authors = ['Sanura']
-date = '2022-01-09'
-image = 'thumb.webp'
-subtitle = 'Een rechts woordenboek'
-themes = 'Cultuur en Maatschappij'
-title = 'Reactie en restauratie'
-+++
+---
+aanghaald:
+- Jean-Jacques Rousseau
+authors:
+- Sanura
+date: "2022-01-09"
+image: thumb.webp
+subtitle: Een rechts woordenboek
+themes: Cultuur en Maatschappij
+title: Reactie en restauratie
+---
 
 
 Er zijn al veel discussies geweest over de definitie van ‘reactionair’ (evenals ‘conservatief’, ‘liberaal’, ‘socialist’ en zelfs ‘fascist’) en over de betekenis van ‘rechts’. Ik besloot eindelijk eens mijn steentje bij te dragen. Een duidelijke terminologie ondermijnt demagogie. Taal is een levend iets en soms kan dit leiden tot spraakverwarring en het ontstaan van archaÏsmen. Teruggaan naar de oorspronkelijke betekenis van woorden is op zich al reactionair.

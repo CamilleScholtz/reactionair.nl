@@ -1,12 +1,15 @@
-+++
-authors = ['Sanura', 'Calvin Tangelder']
-date = '2022-12-25'
-files = ['Christendom']
-image = 'thumb.jpg'
-subtitle = 'De echte betekenis van kerstmis'
-themes = 'Religie en Metafysica'
-title = 'Licht in de duisternis'
-+++
+---
+authors:
+- Sanura
+- Calvin Tangelder
+date: "2022-12-25"
+files:
+- Christendom
+image: thumb.jpg
+subtitle: De echte betekenis van kerstmis
+themes: Religie en Metafysica
+title: Licht in de duisternis
+---
 
 Leven temidden van dood en duisternis. Geen afleiding door tv, internet of andere moderne luxe. Een duidelijk bewustzijn van de realiteit, de natuur en zelfs glimpen van de bovennatuur. Geen escapisme, wel leven in de schaduw van een gevallen wereld. Leven in schaduw; sterven in schaduw. Altijd staren naar de duisternis in de afgrond. Wandelend door de grot. In de verte, bij het einde van de grot, zien rechtvaardige en wijze personen vaag het bovennatuurlijke licht. Daar lopen ze naartoe. Daar leiden de schaduwen naartoe. De afspiegelingen. Ze trachten de volle waarheid te aanschouwen.
 

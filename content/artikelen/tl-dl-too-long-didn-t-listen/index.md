@@ -1,12 +1,14 @@
-+++
-cited = ['Thierry Baudet']
-authors = ['‘Het Dorp’ Genieter']
-date = '2022-03-02'
-image = 'thumb.webp'
-subtitle = 'De TikTok-isering van het debat'
-themes = 'Klikaas'
-title = 'TL;DL: too long, didn’t listen'
-+++
+---
+authors:
+- ‘Het Dorp’ Genieter
+cited:
+- Thierry Baudet
+date: "2022-03-02"
+image: thumb.webp
+subtitle: De TikTok-isering van het debat
+themes: Klikaas
+title: 'TL;DL: too long, didn’t listen'
+---
 
 
 >de·bat (het; o; meervoud: debatten)<br />

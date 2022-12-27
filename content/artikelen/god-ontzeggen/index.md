@@ -1,13 +1,15 @@
-+++
-anchor = 'Center'
-authors = ['Camille Meloen']
-date = '2022-06-17'
-files = ['Islam']
-image = 'thumb.webp'
-subtitle = 'Een verzameling apofatische gedichten en citaten'
-themes = 'Recensie en Biografie'
-title = 'God ontzeggen'
-+++
+---
+anchor: Center
+authors:
+- Camille Meloen
+date: "2022-06-17"
+files:
+- Islam
+image: thumb.webp
+subtitle: Een verzameling apofatische gedichten en citaten
+themes: Recensie en Biografie
+title: God ontzeggen
+---
 
 
 Een van de dingen waar ik geobsedeerd mee ben is het concept van het Oneindige. In het bijzonder hoe ware oneindigheid ook eindig moet zijn om trouw te zijn aan de definitie ervan.[^1] Het is duidelijk dat dit veel te maken heeft met theologie, en daarmee bedoel ik de wetenschap van het 'begrijpen' van God. 

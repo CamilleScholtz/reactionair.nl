@@ -1,13 +1,17 @@
-+++
-cited = ['Karl Marx', 'Johan Rudolph Thorbecke']
-anchor = 'Bottom'
-authors = ['Jan-Jaap Moltman']
-date = '2022-08-04'
-image = '20524fc8-59a5-4b3c-8628-83ef0f3f7ad6.jpeg'
-subtitle = 'Hoe regentesk gedrag van gevestigde partijen klinkt als een echo uit het verleden'
-themes = 'Cultuur en Maatschappij'
-title = 'Houtrot in het schip van staat'
-+++
+---
+anchor: Bottom
+authors:
+- Jan-Jaap Moltman
+cited:
+- Karl Marx
+- Johan Rudolph Thorbecke
+date: "2022-08-04"
+image: 20524fc8-59a5-4b3c-8628-83ef0f3f7ad6.jpeg
+subtitle: Hoe regentesk gedrag van gevestigde partijen klinkt als een echo uit het
+  verleden
+themes: Cultuur en Maatschappij
+title: Houtrot in het schip van staat
+---
 “In Nederland zal nooit een revolutie uitbreken, want het is daar verboden om over het gras te lopen.” Of het hem echt toegeschreven mag worden of niet, deze vermeende uitspraak van Karl Marx is één van de weinige standpunten waar weinig tegenin valt te brengen. De apathische opstelling van veel Nederlanders als het gaat om politiek, overheid en het niet aanpakken van het houtrot in het schip van staat houdt niet alleen innovatie en verandering tegen, maar het is ook ironisch. Het waren immers de Nederlanders die in opstand kwamen tegen een onderdrukkend systeem, verandering eisten en vervolgens een revolutionaire staatsvorm bedachten waarin verschillende gewesten hun eigenheid bewaakten, maar ook samenwerkten om 's lands glorie te vergroten. Samenwerken, overleggen, polderen. Of het werkte? Zeker.
 
 De fundamenten die werden gelegd hebben voor eeuwenlange voorspoed gezorgd. Tegelijkertijd zit hierin ook een valkuil: als bepaalde groepen lang en relatief ongestoord besturen en dit normaliseert tot de 'bestuurscultuur', ontstaat een regenteske klasse die geen baat heeft bij verandering. Dit zagen we aan het einde van de Nederlandse Republiek en dit zien we ook nu. Waar in de Republiek het regentesk gedrag zich vooral binnen families concentreerde, heeft de moderne politieke partij dit gif overgenomen. En de burger? Door decennialang doorgedrukte nadruk op geld en economische mobiliteit, en door onzekere economische tijden kijkt de burger vooral naar het directe eigen financiële belang. Hierbij vertoont men risicomijdend gedrag en kiest men voor gevestigde partijen of voor hen die de status quo slechts ten dele willen wijzigen. Hierdoor nestelt het houtrot zich steeds dieper en breder in het schip van staat en doet het de echo van lang vervlogen en vergeten dagen weerklinken.  

@@ -1,13 +1,15 @@
-+++
-cited = ['Theodor Adorno']
-anchor = 'Center'
-authors = ['Anton Prins']
-date = '2022-05-09'
-image = 'thumb.webp'
-subtitle = 'De meester en de moderniteit'
-themes = 'Recensie en Biografie'
-title = 'Schönberg  de behoudende'
-+++
+---
+anchor: Center
+authors:
+- Anton Prins
+cited:
+- Theodor Adorno
+date: "2022-05-09"
+image: thumb.webp
+subtitle: De meester en de moderniteit
+themes: Recensie en Biografie
+title: Schönberg  de behoudende
+---
 
 
 {{< quote

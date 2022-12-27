@@ -1,12 +1,16 @@
-+++
-cited = ['Thomas van Aquino', 'Immanuel Kant', 'Oswald Spengler']
-authors = ['De Melancholieke Nar']
-date = '2022-01-27'
-image = 'thumb.webp'
-subtitle = 'Waarom het streven naar objectiviteit een doodlopend pad is, deel 1'
-themes = 'Religie en Metafysica'
-title = 'Overdenkingen over de parabel van de blinden en de olifant'
-+++
+---
+authors:
+- De Melancholieke Nar
+cited:
+- Thomas van Aquino
+- Immanuel Kant
+- Oswald Spengler
+date: "2022-01-27"
+image: thumb.webp
+subtitle: Waarom het streven naar objectiviteit een doodlopend pad is, deel 1
+themes: Religie en Metafysica
+title: Overdenkingen over de parabel van de blinden en de olifant
+---
 
 ### Kentheorie in het westen...
 

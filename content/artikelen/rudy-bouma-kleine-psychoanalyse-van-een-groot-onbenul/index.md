@@ -1,13 +1,18 @@
-+++
-cited = ['Rudy Bouma']
-authors = ['Paars van Grinsterer', 'De Melancholieke Nar']
-date = '2022-02-10'
-files = ['Woke']
-image = 'thumb.webp'
-subtitle = 'Of hoe een emoticon-connaisseur als ridder voor globohomo de vermaledijde wappies bestrijdt'
-themes = 'Klikaas'
-title = 'Rudy Bouma, kleine psychoanalyse van een groot onbenul'
-+++
+---
+authors:
+- Paars van Grinsterer
+- De Melancholieke Nar
+cited:
+- Rudy Bouma
+date: "2022-02-10"
+files:
+- Woke
+image: thumb.webp
+subtitle: Of hoe een emoticon-connaisseur als ridder voor globohomo de vermaledijde
+  wappies bestrijdt
+themes: Klikaas
+title: Rudy Bouma, kleine psychoanalyse van een groot onbenul
+---
 
 
 Als Rudy Bouma niet in een afgehuurde loods staat om ons bang te maken met verhalen over eenzame wolven en neo-nazi’s, lijkt hij vooral zijn tijd door te brengen op Twitter. Alwaar hij simpele zielen de les leest om hen “de wetenschap” bij te brengen, net zoals de zendelingen van weleer de ongewassen inboorlingen van donker Afrika het woord van God kwamen brengen.

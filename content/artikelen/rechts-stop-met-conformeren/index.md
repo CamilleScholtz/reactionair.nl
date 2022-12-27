@@ -1,12 +1,13 @@
-+++
-anchor = 'Center'
-authors = ['Jurbin van Hooff']
-date = '2022-06-07'
-image = 'thumb.webp'
-subtitle = 'Hoe rechts de verwezenlijking van hun eigen idealen in de weg zit'
-themes = 'Politiek en Actualiteit'
-title = 'Rechts, stop met conformeren!'
-+++
+---
+anchor: Center
+authors:
+- Jurbin van Hooff
+date: "2022-06-07"
+image: thumb.webp
+subtitle: Hoe rechts de verwezenlijking van hun eigen idealen in de weg zit
+themes: Politiek en Actualiteit
+title: Rechts, stop met conformeren!
+---
 
 
 _Dit essay is oorspronkelijk geschreven voor de JONG21 'Wedstrijd van het Vrije Woord'._

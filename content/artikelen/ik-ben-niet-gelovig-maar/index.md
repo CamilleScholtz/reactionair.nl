@@ -1,12 +1,14 @@
-+++
-authors = ['Stained Glass Zealot']
-date = '2022-04-13'
-image = 'thumb.webp'
-note = "Dit is een vertaling van het essay 'I'm not religious, but...', het origineel is [hier](https://glasszealot.substack.com/p/im-not-religious-but) te lezen."
-subtitle = 'Over de betekenis van religie'
-themes = 'Religie en Metafysica'
-title = 'Ik ben niet gelovig maar...'
-+++
+---
+authors:
+- Stained Glass Zealot
+date: "2022-04-13"
+image: thumb.webp
+note: Dit is een vertaling van het essay 'I'm not religious, but...', het origineel
+  is [hier](https://glasszealot.substack.com/p/im-not-religious-but) te lezen.
+subtitle: Over de betekenis van religie
+themes: Religie en Metafysica
+title: Ik ben niet gelovig maar...
+---
 
 _Ik ben niet gelovig, maar..._ Dit type persoon heeft vaak een mening over mooie foto's, of over mooie stukken liturgische muziek. Hoe ouder ik word, hoe minder het woord geloof of religie voor mij betekent, want we nemen er allemaal deel aan.
 

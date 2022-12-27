@@ -1,13 +1,16 @@
-+++
-authors = ['Stained Glass Zealot']
-date = '2022-03-10'
-files = ['Christendom']
-image = 'thumb.webp'
-note = "Dit is een vertaling van het essay 'The Timeframe of Art', het origineel is [hier](https://glasszealot.substack.com/p/the-timeframe-of-art) te lezen."
-subtitle = 'Over mode en architectuur'
-themes = 'Cultuur en Maatschappij'
-title = 'Het tijdsbestek van kunst'
-+++
+---
+authors:
+- Stained Glass Zealot
+date: "2022-03-10"
+files:
+- Christendom
+image: thumb.webp
+note: Dit is een vertaling van het essay 'The Timeframe of Art', het origineel is
+  [hier](https://glasszealot.substack.com/p/the-timeframe-of-art) te lezen.
+subtitle: Over mode en architectuur
+themes: Cultuur en Maatschappij
+title: Het tijdsbestek van kunst
+---
 
 wanneer ik mooie beelden van kathedralen post, krijg ik vaak hetzelfde commentaar: "Dit is niet meer mogelijk, want het kost te veel". In een wereld waarin gebouwen worden vernietigd, bijna net zo snel als ze worden gebouwd, moet deze valse tweedeling verdwijnen. Het hangt vooral af van het tijdsbestek waarin je denkt.
 

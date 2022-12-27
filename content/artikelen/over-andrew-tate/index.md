@@ -1,13 +1,15 @@
-+++
-cited = ['Jordan Peterson']
-anchor = 'Smart'
-authors = ['Het huisloeder']
-date = '2022-10-08'
-image = 'b.webp'
-subtitle = 'En het belang van een gezond mannelijk rolmodel'
-themes = 'Cultuur en Maatschappij'
-title = 'Over Andrew Tate'
-+++
+---
+anchor: Smart
+authors:
+- Het huisloeder
+cited:
+- Jordan Peterson
+date: "2022-10-08"
+image: b.webp
+subtitle: En het belang van een gezond mannelijk rolmodel
+themes: Cultuur en Maatschappij
+title: Over Andrew Tate
+---
 Als je de krantenkoppen moet geloven, gaat Andrew Tate er persoonlijk verantwoordelijk voor zijn, dat de wereld verandert in een *Handmaid’s Tale* en een *Playboy Mansion* tegelijkertijd. De razernij is opmerkelijk maar tegelijkertijd begrijpelijk. Als iemand die zware seksuele intimidatie heeft meegemaakt, had ik ook een *fight or flight* reactie bij het zien van sommige filmpjes van Andrew Tate. Adrenaline begon door mijn lijf te stromen bij bepaalde uitspraken en het frustreert me dat ik nu onvoldoende kan uitleggen waarom ik totaal niet verbaasd was dat hij in de bak heeft gezeten voor het mishandelen van een vrouw. Iets in zijn hele houding herkende ik, maar ik kan  er helaas niet de vinger op leggen, of het nou een specifiek element was of het totaalpakket. 
 
 Veel seksuele roofdieren zijn ook meteen veelplegers, waardoor mannen zich als geslacht aangeklaagd voelen en de bereidheid om dit soort verhalen serieus te nemen minder wordt. Als voor jouw gevoel bijna elke vrouw een verhaal heeft, terwijl jij amper iemand kent die daartoe in staat zou zijn, is een verklaring dat het aangedikt wordt niet heel raar, maar wellicht wel onjuist. Als 1 man 25 vrouwen lastig valt, maar 24 mannen gedragen zich, komt het nog steeds over alsof alle mannen ransberen zijn. Nu het vrouwelijke perspectief naar voren is gekomen, moet ook een poging gedaan worden, om de achterban van Andrew Tate te begrijpen, zodat wij een gezondere variant van masculiniteit kunnen aanbieden.

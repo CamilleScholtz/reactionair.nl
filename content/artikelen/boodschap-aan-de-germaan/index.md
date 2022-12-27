@@ -1,13 +1,19 @@
-+++
-cited = ['Pim Fortuyn', 'Geert Wilders', 'Plato']
-authors = ['Mootje']
-date = '2021-12-26'
-files = ['Conservatieve Alliantie', 'Islam']
-image = 'thumb.webp'
-subtitle = 'Van een Marokkaan'
-themes = 'Politiek en Actualiteit'
-title = 'Boodschap aan de Germaan'
-+++
+---
+authors:
+- Mootje
+cited:
+- Pim Fortuyn
+- Geert Wilders
+- Plato
+date: "2021-12-26"
+files:
+- Conservatieve Alliantie
+- Islam
+image: thumb.webp
+subtitle: Van een Marokkaan
+themes: Politiek en Actualiteit
+title: Boodschap aan de Germaan
+---
 
 
 Het eindeloos gehuil om migratie, omvolking en weet ik allemaal niet wat, begint mij langzamerhand de keel uit te hangen. In plaats van te externaliseren moet er grondig aan introspectie gedaan worden.

@@ -1,12 +1,16 @@
-+++
-cited = ['Michel Foucault', 'Friedrich Nietzsche', 'Karl Popper']
-authors = ['De Melancholieke Nar']
-date = '2022-01-08'
-image = 'thumb.webp'
-subtitle = 'Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?'
-themes = 'Politiek en Actualiteit'
-title = 'Popper: een afrekening'
-+++
+---
+authors:
+- De Melancholieke Nar
+cited:
+- Michel Foucault
+- Friedrich Nietzsche
+- Karl Popper
+date: "2022-01-08"
+image: thumb.webp
+subtitle: Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?
+themes: Politiek en Actualiteit
+title: 'Popper: een afrekening'
+---
 
 
 ### I: wetenschap

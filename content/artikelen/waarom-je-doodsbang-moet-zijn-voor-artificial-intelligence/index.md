@@ -1,13 +1,15 @@
-+++
-cited = ['René Guénon']
-anchor = 'Smart'
-authors = ['Camille Meloen']
-date = '2022-07-24'
-image = 'test.jpg'
-subtitle = 'Onze realiteit gereduceerd tot pure kwantiteit — lees tot het einde!'
-themes = 'Religie en Metafysica'
-title = 'Waarom je doodsbang moet zijn voor Artificiële Intelligentie '
-+++
+---
+anchor: Smart
+authors:
+- Camille Meloen
+cited:
+- René Guénon
+date: "2022-07-24"
+image: test.jpg
+subtitle: Onze realiteit gereduceerd tot pure kwantiteit — lees tot het einde!
+themes: Religie en Metafysica
+title: 'Waarom je doodsbang moet zijn voor Artificiële Intelligentie '
+---
 
 In de visie van René Guénon is het universum een hiërarchie van zijn, met als hoogste niveau het spirituele rijk, gevolgd door het psychische rijk, het intellectuele rijk en tenslotte het fysieke rijk. Deze hiërarchie is gebaseerd op het principe van kwalitatieve superioriteit, waarbij elk hoger niveau kwalitatiever (en dus reëler) is dan het niveau eronder.
 

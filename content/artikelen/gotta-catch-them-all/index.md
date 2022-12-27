@@ -1,12 +1,13 @@
-+++
-anchor = 'Bottom'
-authors = ['Sanura']
-date = '2022-09-19'
-image = 'pokemon-oil-paintings-copy.jpg'
-subtitle = 'De betekenis van nostalgie en kinderlijkheid in een trieste tijd'
-themes = 'Cultuur en Maatschappij'
-title = "Gotta catch 'em All!!"
-+++
+---
+anchor: Bottom
+authors:
+- Sanura
+date: "2022-09-19"
+image: pokemon-oil-paintings-copy.jpg
+subtitle: De betekenis van nostalgie en kinderlijkheid in een trieste tijd
+themes: Cultuur en Maatschappij
+title: Gotta catch 'em All!!
+---
 Nostalgie lijkt hand over hand toe te nemen. Overal is het waar te nemen, maar het meest op het internet. Video’s over films en cartoons van decennia geleden. Jong-volwassenen die nog steeds bezig zijn met *Yu-Gi-Oh*, *Digimon* of *Pokémon*. Fan-conventies, fanfic, video’s. Millennials kijken zelfs nieuwe cartoons van *Miraculous Ladybug* en *Gravity Falls* tot aan… *My Little Pony; Friendship is Magic* (maar dat is een verhaal op zich). 
 
 Nostalgie lijkt uitzonderlijk sterk voor te komen onder millennials en naar het schijnt ook onder generatie Z.[^1] Verder blijft de smaak voor kinderlijke vormen van vermaak veel sterker aanwezig en rust hier niet meer hetzelfde taboe op als 15 tot 25 jaar geleden.

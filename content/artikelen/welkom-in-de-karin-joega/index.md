@@ -1,13 +1,16 @@
-+++
-cited = ['Friedrich Nietzsche', 'Slavoj Žižek']
-anchor = 'Top'
-authors = ['De Melancholieke Nar']
-date = '2021-12-12'
-image = 'thumb.webp'
-subtitle = 'Veiligheid voor alles'
-themes = 'Cultuur en Maatschappij'
-title = 'Welkom in de Karin joega'
-+++
+---
+anchor: Top
+authors:
+- De Melancholieke Nar
+cited:
+- Friedrich Nietzsche
+- Slavoj Žižek
+date: "2021-12-12"
+image: thumb.webp
+subtitle: Veiligheid voor alles
+themes: Cultuur en Maatschappij
+title: Welkom in de Karin joega
+---
 
 
 ### De bevrijding van de jaren '60

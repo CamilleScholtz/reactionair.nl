@@ -1,15 +1,21 @@
-+++
-cited = ['Aldous Huxley', 'Joris van Rossum', 'Arthur Schopenhauer']
-anchor = 'Smart'
-authors = ['Anton Prins']
-caption = 'Caspar David Friedrich, Der Chasseur im Walde'
-date = '2022-12-09'
-image = 'der_chasseur_im_walde_-_caspar_david_friedrich-1-.jpg'
-note = "Dit artikel is een recensie van het boek 'De weg terug: Schopenhauer voor een dolende wereld' van dr. Joris van Rossum. Is uw interesse door dit artikel gewekt? Bestel het boek dan [hier](https://deblauwetijger.com/product/joris-van-rossum-de-weg-terug-schopenhauer-voor-een-dolende-wereld/)."
-subtitle = 'Een recensie van het boek “De weg terug”'
-themes = 'Recensie en Biografie'
-title = 'In gesprek over Schopenhauer'
-+++
+---
+anchor: Smart
+authors:
+- Anton Prins
+caption: Caspar David Friedrich, Der Chasseur im Walde
+cited:
+- Aldous Huxley
+- Joris van Rossum
+- Arthur Schopenhauer
+date: "2022-12-09"
+image: der_chasseur_im_walde_-_caspar_david_friedrich-1-.jpg
+note: 'Dit artikel is een recensie van het boek ''De weg terug: Schopenhauer voor
+  een dolende wereld'' van dr. Joris van Rossum. Is uw interesse door dit artikel
+  gewekt? Bestel het boek dan [hier](https://deblauwetijger.com/product/joris-van-rossum-de-weg-terug-schopenhauer-voor-een-dolende-wereld/).'
+subtitle: Een recensie van het boek “De weg terug”
+themes: Recensie en Biografie
+title: In gesprek over Schopenhauer
+---
 
 {{< quote
 	text="Le seul véritable voyage ce ne serait pas d'aller vers de nouveaux paysages, mais d'avoir d'autres yeux"

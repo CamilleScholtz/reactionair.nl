@@ -1,12 +1,14 @@
-+++
-authors = ['Sanura']
-date = '2022-12-24'
-files = ['Christendom']
-image = 'thumb.jpg'
-subtitle = 'De Makkabeeën als inspiratie voor christelijke martelaren en contrarevolutionairen'
-themes = 'Religie en Metafysica'
-title = 'Chanoeka, een reactionaire feestdag'
-+++
+---
+authors:
+- Sanura
+date: "2022-12-24"
+files:
+- Christendom
+image: thumb.jpg
+subtitle: De Makkabeeën als inspiratie voor christelijke martelaren en contrarevolutionairen
+themes: Religie en Metafysica
+title: Chanoeka, een reactionaire feestdag
+---
 
 Chanoeka, het feest van de herinwijding, ook wel bekend als 'het feest van de lichtjes', is tegenwoordig meer een culturele feestdag voor joden. Het heeft geen officiële religieuze status. Dit komt, doordat de bijbelboeken waarin het feest haar oorsprong heeft, Makkabeeën 1 en 2, verwijderd werden uit de rabbijnse canon van de Thora, rond het einde van het eerste eeuw (om deze reden zijn deze boeken ook verwijderd uit de protestantse canon). De voornaamste huidige betekenis van de feestdag lijkt te zijn, dat hij dient als een alternatief voor de christelijke viering van kerstmis. 
 

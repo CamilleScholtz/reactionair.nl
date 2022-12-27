@@ -1,12 +1,14 @@
-+++
-authors = ['Camille Meloen']
-date = '2021-10-08'
-files = ['Woke']
-image = 'thumb.webp'
-subtitle = 'En waarom deze vergelijking niet klopt'
-themes = 'Politiek en Actualiteit'
-title = '“Het woke denken is een religie geworden!”'
-+++
+---
+authors:
+- Camille Meloen
+date: "2021-10-08"
+files:
+- Woke
+image: thumb.webp
+subtitle: En waarom deze vergelijking niet klopt
+themes: Politiek en Actualiteit
+title: “Het woke denken is een religie geworden!”
+---
 
 
 U heeft waarschijnlijk wel een krantenkop of twee gezien met een titel als _“Het woke denken is een religie geworden!”_,[^1] _“Eerst waren er de christenen, toen de moslims en nu de woke-beweging!”_,[^2] enzovoort. Niet alleen linkse mensen en journalisten maken deze vergelijkingen en analogieën, maar ik heb het zelfs vrij rechtse mensen zien doen. Wat houdt deze vergelijking eigenlijk in? Laten we daar eens over nadenken.

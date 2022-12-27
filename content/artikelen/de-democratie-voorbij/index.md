@@ -1,12 +1,15 @@
-+++
-cited = ['Pim Fortuyn', 'Alexis de Tocqueville']
-authors = ['Robert Lemm']
-date = '2022-06-08'
-image = 'thumb.webp'
-subtitle = 'Herzien door Robert Lemm'
-themes = 'Recensie en Biografie'
-title = 'De democratie voorbij'
-+++
+---
+authors:
+- Robert Lemm
+cited:
+- Pim Fortuyn
+- Alexis de Tocqueville
+date: "2022-06-08"
+image: thumb.webp
+subtitle: Herzien door Robert Lemm
+themes: Recensie en Biografie
+title: De democratie voorbij
+---
 
 _De democratie voorbij, door Frank Karsen en Karel Beckman._
 

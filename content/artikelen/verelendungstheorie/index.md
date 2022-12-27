@@ -1,12 +1,14 @@
-+++
-cited = ['Friedrich Schiller']
-authors = ['Alexander Wolfheze']
-date = '2022-01-17'
-image = 'thumb.webp'
-subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 5'
-themes = 'Cultuur en Maatschappij'
-title = 'Verelendungstheorie'
-+++
+---
+authors:
+- Alexander Wolfheze
+cited:
+- Friedrich Schiller
+date: "2022-01-17"
+image: thumb.webp
+subtitle: De Futuro-Fundamentalistische Revolutie, deel 5
+themes: Cultuur en Maatschappij
+title: Verelendungstheorie
+---
 
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/hybridisering/) het vorige deel._

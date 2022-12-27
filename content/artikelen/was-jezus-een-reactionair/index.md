@@ -1,13 +1,18 @@
-+++
-cited = ['Aristoteles', 'Plato', 'Socrates']
-authors = ['Sanura']
-date = '2022-03-19'
-files = ['Christendom']
-image = 'thumb.webp'
-subtitle = 'Traditie=historische context'
-themes = 'Religie en Metafysica'
-title = 'Was Jezus een Reactionair?'
-+++
+---
+authors:
+- Sanura
+cited:
+- Aristoteles
+- Plato
+- Socrates
+date: "2022-03-19"
+files:
+- Christendom
+image: thumb.webp
+subtitle: Traditie=historische context
+themes: Religie en Metafysica
+title: Was Jezus een Reactionair?
+---
 
 Van aangepaste bijbelvertalingen met _“gender-inclusief”_ taalgebruik tot het drastisch aanpassen van traditionele vormen van liturgie,[^1] overal zien we een agressieve en fanatieke push binnen het westen om het christendom aan te passen aan een moderne, seculiere, antichristelijke cultuur.
 

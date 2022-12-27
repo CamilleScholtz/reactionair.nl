@@ -1,13 +1,15 @@
-+++
-anchor = 'Top'
-authors = ['Eco al-Hollandi']
-date = '2022-05-01'
-files = ['Islam']
-image = 'thumb.webp'
-subtitle = 'En red de samenleving'
-themes = 'Religie en Metafysica'
-title = 'Verberg uw zondes'
-+++
+---
+anchor: Top
+authors:
+- Eco al-Hollandi
+date: "2022-05-01"
+files:
+- Islam
+image: thumb.webp
+subtitle: En red de samenleving
+themes: Religie en Metafysica
+title: Verberg uw zondes
+---
 
 Ter ere van het einde van de Islamitische vastenmaand de Ramadan zal ik in dit artikel een Islamitisch gebod onder de loep nemen waar de meeste Moslims vandaag de dag van af zijn geweken en waarvan ik betoog dat het niet enkel voor Moslims maar ook voor niet-Moslims van belang is om zich aan dit gebod te houden willen zij toewerken naar een morelere samenleving.
 

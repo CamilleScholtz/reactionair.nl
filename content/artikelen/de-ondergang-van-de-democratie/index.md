@@ -1,12 +1,20 @@
-+++
-cited = ['Erik von Kuehnelt-Leddihn', 'Karl Marx', 'Jean-Jacques Rousseau', 'Aristoteles', 'Plato', 'Pythagoras', 'Socrates']
-authors = ['Sanura']
-date = '2022-05-14'
-image = 'thumb.webp'
-subtitle = '‘Degeneratie van het midden’ na revolutie, tirannie en terreur'
-themes = 'Politiek en Actualiteit'
-title = 'De ondergang van de democratie?'
-+++
+---
+authors:
+- Sanura
+cited:
+- Erik von Kuehnelt-Leddihn
+- Karl Marx
+- Jean-Jacques Rousseau
+- Aristoteles
+- Plato
+- Pythagoras
+- Socrates
+date: "2022-05-14"
+image: thumb.webp
+subtitle: ‘Degeneratie van het midden’ na revolutie, tirannie en terreur
+themes: Politiek en Actualiteit
+title: De ondergang van de democratie?
+---
 
 
 Liberale westerse democratie houdt zichzelf niet per definitie in stand. Revolutionaire bewegingen aan de linkerkant en contrarevolutionairen aan de rechter, kunnen gebruik maken van verkiezingen om het liberaal-democratische systeem af te schaffen.

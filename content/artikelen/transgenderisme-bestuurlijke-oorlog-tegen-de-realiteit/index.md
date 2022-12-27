@@ -1,13 +1,15 @@
-+++
-authors = ['Tara Ann Thieke']
-date = '2022-03-15'
-files = ['Woke']
-image = 'thumb.webp'
-note = 'Dit is een vertaling en bewerking van een Twitter-draad van [Tara Ann Thieke](https://twitter.com/TaraAnnThieke).'
-subtitle = 'Hoe technocraten onze jeugd blijvend verminken'
-themes = 'Cultuur en Maatschappij'
-title = 'Transgenderisme: bestuurlijke oorlog tegen de realiteit'
-+++
+---
+authors:
+- Tara Ann Thieke
+date: "2022-03-15"
+files:
+- Woke
+image: thumb.webp
+note: Dit is een vertaling en bewerking van een Twitter-draad van [Tara Ann Thieke](https://twitter.com/TaraAnnThieke).
+subtitle: Hoe technocraten onze jeugd blijvend verminken
+themes: Cultuur en Maatschappij
+title: 'Transgenderisme: bestuurlijke oorlog tegen de realiteit'
+---
 
 >De korte versie van mijn detransitieverhaal [...], is dat ik op mijn vijftiende kennismaakte met genderideologie op _Tumblr_ en mezelf _non-binair_ begon te noemen.[^1] De komende jaren zou ik steeds dieper het konijnenhol van de trans-identiteit ingaan, en tegen de tijd dat ik achttien was zag ik mezelf als een _'transman'_, ook wel bekend als _'FtM'_.
 

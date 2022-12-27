@@ -1,14 +1,17 @@
-+++
-cited = ['Karl Marx']
-anchor = 'Smart'
-authors = ['Eco al-Hollandi']
-date = '2022-02-28'
-files = ['Islam']
-image = 'thumb.webp'
-subtitle = 'Drie ideeën met dezelfde oorsprong'
-themes = 'Politiek en Actualiteit'
-title = 'Kolonialisme, kapitalisme en liberalisme'
-+++
+---
+anchor: Smart
+authors:
+- Eco al-Hollandi
+cited:
+- Karl Marx
+date: "2022-02-28"
+files:
+- Islam
+image: thumb.webp
+subtitle: Drie ideeën met dezelfde oorsprong
+themes: Politiek en Actualiteit
+title: Kolonialisme, kapitalisme en liberalisme
+---
 Kolonialisme. Als je het beste voorbeeld van de Engelse term _“buzzword”_ zou moeten geven zou dit woord een goede kandidaat zijn. We hebben de afgelopen jaren gezien dat standbeelden naar beneden worden gehaald, straatnamen worden gewijzigd, curricula op universiteiten worden omgegooid en helden uit het nationale verleden worden beschimpt. Kritiek op kolonialisme is mainstream, al zijn de hardste “anti-kolonialisme” schreeuwers vaak van mening dat het nog niet mainstream genoeg is, of dat men er harder tegen op moet treden. 
 
 Deze hysterie rondom kolonialisme, welke vaak gepaard gaat met oproepen tot _cancellen_, wordt gezien als iets typisch progressief-links en de reactie vanuit rechts Nederland hierop varieert van een relatief mild _“we hebben inderdaad fouten gemaakt en juist daarom mogen we dit verleden niet wegpoetsen, op dat we ervan leren”_ tot omstreden uitspraken die zich positief uitlaten over het koloniale verleden. 

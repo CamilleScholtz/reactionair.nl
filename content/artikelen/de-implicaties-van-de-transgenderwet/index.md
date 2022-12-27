@@ -1,13 +1,15 @@
-+++
-anchor = 'Top'
-authors = ['Calvin Tangelder']
-date = '2022-09-26'
-files = ['Woke']
-image = 'inter.webp'
-subtitle = 'Hoe de gendergekte nu via het recht de samenleving verzwakt en subjectiveert'
-themes = 'Politiek en Actualiteit'
-title = 'De implicaties van de Transgenderwet'
-+++
+---
+anchor: Top
+authors:
+- Calvin Tangelder
+date: "2022-09-26"
+files:
+- Woke
+image: inter.webp
+subtitle: Hoe de gendergekte nu via het recht de samenleving verzwakt en subjectiveert
+themes: Politiek en Actualiteit
+title: De implicaties van de Transgenderwet
+---
 Binnenkort behandelt de Tweede Kamer de wijziging van de Transgenderwet. De kans is aanzienlijk dat de Tweede Kamer binnenkort voorstander bij meerderheid zal blijken voor de aanpassing van de Transgenderwet. Het is met deze wetswijziging de bedoeling dat jongvolwassenen, kinderen zelfs, makkelijker hun geslachtsregistratie kunnen laten wijzigen in de akte van geboorte. Niet alleen het versoepelen van de procedure van deze wijziging wordt beoogd: ook is het de bedoeling om de leeftijdsgrens van zestien jaar (geheel) te laten vervallen. 
 
 Zeg nou zelf: vind jij het zelf ook niet enorm transfobisch dat er een deskundige(!) aan te pas moet komen om te beoordelen of de desbetreffende persoon een serieus belang heeft bij deze geslachtswijziging, of dat je pas vanaf 16 jaar je geslachtsregistratie kan laten wijzigen? Ik bedoel: waarom mag mijn 13-jarige buurjongetje, wie overigens enorm rationeel kan nadenken over allerlei complexe levenskeuzes (ironie), niet gewoon zijn geslachtsdeel laten afhakken (wat eigenlijk ook al geen vereiste meer is), en zijn geboorte akte wijzigen van een *M* naar een *V*, of een *O*?

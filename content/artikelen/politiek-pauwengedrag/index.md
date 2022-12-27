@@ -1,12 +1,14 @@
-+++
-cited = ['Charles Darwin']
-authors = ['Camille Meloen']
-date = '2022-04-20'
-image = 'thumb.webp'
-subtitle = 'Over ‘counter-signalling’'
-themes = 'Cultuur en Maatschappij'
-title = 'Politiek pauwengedrag'
-+++
+---
+authors:
+- Camille Meloen
+cited:
+- Charles Darwin
+date: "2022-04-20"
+image: thumb.webp
+subtitle: Over ‘counter-signalling’
+themes: Cultuur en Maatschappij
+title: Politiek pauwengedrag
+---
 
 
 Er is een interessant concept in evolutionaire theorieën dat _'counter-signalling'_ heet. Om dit concept uit te leggen neem ik het voorbeeld van de pauw. 

@@ -1,12 +1,15 @@
-+++
-cited = ['René Descartes', 'Oswald Spengler']
-authors = ['Jurbin van Hooff']
-date = '2021-11-25'
-image = 'thumb.webp'
-subtitle = 'Wordt onze samenleving gegijzeld door een gemechaniseerd wereldbeeld?'
-themes = 'Cultuur en Maatschappij'
-title = 'De mechanisering van de wereld'
-+++
+---
+authors:
+- Jurbin van Hooff
+cited:
+- René Descartes
+- Oswald Spengler
+date: "2021-11-25"
+image: thumb.webp
+subtitle: Wordt onze samenleving gegijzeld door een gemechaniseerd wereldbeeld?
+themes: Cultuur en Maatschappij
+title: De mechanisering van de wereld
+---
 
 
 _“De dwaas op de heuvel die de zon ziet ondergaan, maar de denkende ogen in zijn hoofd zien de wereld draaien”_.[^1] Ons moderne wereldbeeld is in de ban van mechanisering. Sinds rationaliteit dominant is geworden in ons moderne discours valt mechanisering daarbij ook niet weg te denken. Mechanisering als parapluterm voor begrippen als kwantificering en technologische vooruitgang. De vraag is of deze mechanisering, die leidend is in ons moderne discours, alomvattend is voor de begrijpelijkheid van de werkelijkheid van onze wereld

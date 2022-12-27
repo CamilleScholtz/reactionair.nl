@@ -1,12 +1,13 @@
-+++
-anchor = 'Smart'
-authors = ['De redactie']
-date = '2022-10-02'
-image = 'fullsizeoutput_55ad8-scaled.jpeg.webp'
-subtitle = 'Proost!'
-themes = 'Politiek en Actualiteit'
-title = 'Reactionair.nl bestaat één jaar!'
-+++
+---
+anchor: Smart
+authors:
+- De redactie
+date: "2022-10-02"
+image: fullsizeoutput_55ad8-scaled.jpeg.webp
+subtitle: Proost!
+themes: Politiek en Actualiteit
+title: Reactionair.nl bestaat één jaar!
+---
 Vandaag bestaat *Reactionair.nl* één jaar. Wij zijn u, onze lezer, zeer dankbaar voor het lezen en waarderen van onze artikelen en hopen u de komende jaren steeds opnieuw van mooie artikelen met verfrissende inzichten te mogen voorzien.
 
 Wat begon als project van een gemotiveerde eenling is uitgegroeid tot een 

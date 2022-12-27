@@ -1,12 +1,13 @@
-+++
-anchor = 'Smart'
-authors = ['Camille Meloen']
-date = '2022-09-16'
-image = '459h-k3r2j5zkscpht4y90gdwfs.jpg'
-subtitle = 'Over het Ongehoord Nederland debacle'
-themes = 'Politiek en Actualiteit'
-title = 'De hypocrisie van de media'
-+++
+---
+anchor: Smart
+authors:
+- Camille Meloen
+date: "2022-09-16"
+image: 459h-k3r2j5zkscpht4y90gdwfs.jpg
+subtitle: Over het Ongehoord Nederland debacle
+themes: Politiek en Actualiteit
+title: De hypocrisie van de media
+---
 Weet u nog hoe het "fatsoenlijke" nieuws over Trump berichtte tijdens zijn presidentschap, élke dag, vier jaar lang? De NOS opende een 8 uur journaal met "nieuws" over Trump die onder geplast zou zijn door een prostituee in een hotel in Moskou. Het bleek natuurlijk niet waar te zijn, en we hoorden er nooit meer wat over. Snel op naar de volgende leugen, maar dat maakt niet uit voor journalisten. De toon was gezet, de kop was in de hoofden van de mensen gegrift. Dat is wat telt.
 
 Nu, vier jaar later, staat er een nieuwe man aan het hoofd van de Verenigde Staten. Een man die 79 jaar oud is en duidelijk lijdt aan beginnende vormen van dementie. Er zijn segmenten waarin hij gewoon wartaal spreekt.[^1] Doelloos weglopen tijdens een interview.[^2] Verklaren, zonder enige vorm van spot of ironie, dat hij "zevenhonderd en twintig jaar geleden in de senaat kwam" (meerdere keren in verschillende toespraken).[^3] U denkt nu misschien dat dit hyperbolisch is of zo, maar kijk zelf maar eens naar de bronnen.

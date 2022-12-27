@@ -1,12 +1,16 @@
-+++
-cited = ['Rutger Bregman', 'Friedrich Nietzsche', 'Aristoteles']
-authors = ['De Melancholieke Nar']
-date = '2022-04-15'
-image = 'thumb.webp'
-subtitle = 'De misanthrope verleiding'
-themes = 'Recensie en Biografie'
-title = 'Deugen de meeste mensen nog steeds?'
-+++
+---
+authors:
+- De Melancholieke Nar
+cited:
+- Rutger Bregman
+- Friedrich Nietzsche
+- Aristoteles
+date: "2022-04-15"
+image: thumb.webp
+subtitle: De misanthrope verleiding
+themes: Recensie en Biografie
+title: Deugen de meeste mensen nog steeds?
+---
 
 {{< quote
 	text="Um allein zu leben, muss man ein Thier oder ein Gott sein - sagt Aristoteles. Fehlt der dritte Fall: man muss Beides sein - Philosoph…"
