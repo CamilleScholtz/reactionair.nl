@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Thierry Baudet']
-auteurs = ['Robert Lemm']
+cited = ['Thierry Baudet']
+authors = ['Robert Lemm']
 date = '2022-03-11'
-dossiers = ['Oekraïne']
+files = ['Oekraïne']
 image = 'thumb.webp'
 subtitle = 'Over NAVO, Rusland en Oekraïne'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Het recht van de sterkste'
 +++
 

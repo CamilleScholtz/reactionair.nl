@@ -1,10 +1,10 @@
 +++
-auteurs = ['Sanura', 'Calvin Tangelder']
+authors = ['Sanura', 'Calvin Tangelder']
 date = '2022-12-25'
-dossiers = ['Christendom']
+files = ['Christendom']
 image = 'thumb.jpg'
 subtitle = 'De echte betekenis van kerstmis'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Licht in de duisternis'
 +++
 

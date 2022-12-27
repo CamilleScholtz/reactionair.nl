@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Immanuel Kant', 'Erik von Kuehnelt-Leddihn', 'Karl Popper', 'Plato']
-auteurs = ['Sanura']
+cited = ['Immanuel Kant', 'Erik von Kuehnelt-Leddihn', 'Karl Popper', 'Plato']
+authors = ['Sanura']
 date = '2022-02-11'
-dossiers = ['Christendom']
+files = ['Christendom']
 image = 'thumb.webp'
 subtitle = 'Een reactie op ‘Overdenkingen over de parabel van de blinden en de olifant’'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Licht der waarheid'
 +++
 

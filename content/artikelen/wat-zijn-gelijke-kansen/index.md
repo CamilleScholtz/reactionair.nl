@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Sigmund Freud', 'David Hume', 'Immanuel Kant', 'Arthur Schopenhauer']
+cited = ['Sigmund Freud', 'David Hume', 'Immanuel Kant', 'Arthur Schopenhauer']
 anchor = 'Top'
-auteurs = ['De Melancholieke Nar']
+authors = ['De Melancholieke Nar']
 date = '2022-07-10'
 image = 'radvanfortuin.webp'
 subtitle = 'En waarom vinden we die zo belangrijk?'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Wat zijn gelijke kansen?'
 +++
 

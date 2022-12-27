@@ -1,10 +1,10 @@
 +++
-aangehaald = ['George Berkeley', 'René Descartes', 'Fjodor Dostojevski', 'Martin Heidegger', 'Baruch Spinoza']
-auteurs = ['De Melancholieke Nar']
+cited = ['George Berkeley', 'René Descartes', 'Fjodor Dostojevski', 'Martin Heidegger', 'Baruch Spinoza']
+authors = ['De Melancholieke Nar']
 date = '2022-02-09'
 image = 'thumb.webp'
 subtitle = 'Waarom het streven naar objectiviteit een doodlopend pad is, deel 3'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Hoe God verstoppertje speelt met zichzelf'
 +++
 

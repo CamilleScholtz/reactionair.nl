@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Edmund Burke', 'Johann Wolfgang von Goethe', 'René Guénon', 'Karl Marx', 'Jean-Jacques Rousseau', 'Friedrich Schiller']
-auteurs = ['Jan-Willem Veldhuizen']
+cited = ['Edmund Burke', 'Johann Wolfgang von Goethe', 'René Guénon', 'Karl Marx', 'Jean-Jacques Rousseau', 'Friedrich Schiller']
+authors = ['Jan-Willem Veldhuizen']
 date = '2021-11-17'
-dossiers = ['Klimaatverandering']
+files = ['Klimaatverandering']
 image = 'thumb.webp'
 subtitle = 'Over ecologie'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Waarom een authentieke reactionair een groene reactionair is'
 +++
 

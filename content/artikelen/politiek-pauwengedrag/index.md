@@ -1,10 +1,10 @@
 +++
-aangehaald = ['Charles Darwin']
-auteurs = ['Camille Meloen']
+cited = ['Charles Darwin']
+authors = ['Camille Meloen']
 date = '2022-04-20'
 image = 'thumb.webp'
 subtitle = 'Over ‘counter-signalling’'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Politiek pauwengedrag'
 +++
 

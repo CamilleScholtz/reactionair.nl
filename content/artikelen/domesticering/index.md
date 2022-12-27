@@ -1,10 +1,10 @@
 +++
-aangehaald = ['Thierry Baudet', 'Carl Schmitt']
-auteurs = ['Alexander Wolfheze']
+cited = ['Thierry Baudet', 'Carl Schmitt']
+authors = ['Alexander Wolfheze']
 date = '2022-01-02'
 image = 'thumb.webp'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 3'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Domesticering'
 +++
 

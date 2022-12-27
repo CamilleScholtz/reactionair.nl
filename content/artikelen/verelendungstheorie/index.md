@@ -1,10 +1,10 @@
 +++
-aangehaald = ['Friedrich Schiller']
-auteurs = ['Alexander Wolfheze']
+cited = ['Friedrich Schiller']
+authors = ['Alexander Wolfheze']
 date = '2022-01-17'
 image = 'thumb.webp'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 5'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Verelendungstheorie'
 +++
 

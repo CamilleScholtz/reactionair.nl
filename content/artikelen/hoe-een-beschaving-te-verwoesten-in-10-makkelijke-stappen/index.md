@@ -1,10 +1,10 @@
 +++
 anchor = 'Top'
-auteurs = ['De redactie']
+authors = ['De redactie']
 date = '2022-05-23'
 image = 'thumb.webp'
 subtitle = 'Hoeveel punten herken jij!?'
-themas = 'Klikaas'
+themes = 'Klikaas'
 title = 'Hoe een beschaving te verwoesten in 10 makkelijke stappen...'
 +++
 

@@ -1,11 +1,11 @@
 +++
-aangehaald = ['René Guénon', 'Friedrich Nietzsche', 'Karl Marx', 'Oswald Spengler']
+cited = ['René Guénon', 'Friedrich Nietzsche', 'Karl Marx', 'Oswald Spengler']
 anchor = 'Center'
-auteurs = ['Intan Hoijer']
+authors = ['Intan Hoijer']
 date = '2021-11-03'
 image = 'thumb.webp'
 subtitle = 'Beschouwing over het lot der Westerse beschaving'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Fatalisme, ondergang en wederopstanding'
 +++
 

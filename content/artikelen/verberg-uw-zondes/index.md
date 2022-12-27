@@ -1,11 +1,11 @@
 +++
 anchor = 'Top'
-auteurs = ['Eco al-Hollandi']
+authors = ['Eco al-Hollandi']
 date = '2022-05-01'
-dossiers = ['Islam']
+files = ['Islam']
 image = 'thumb.webp'
 subtitle = 'En red de samenleving'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Verberg uw zondes'
 +++
 

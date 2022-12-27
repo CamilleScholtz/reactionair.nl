@@ -1,12 +1,12 @@
 +++
 anchor = 'Smart'
-auteurs = ['De redactie']
+authors = ['De redactie']
 date = '2022-08-02'
-dossiers = ['Klimaatverandering']
+files = ['Klimaatverandering']
 image = 'pods.png'
 note = "Dit is een vertaling van het essay 'The Green New Deal', het origineel is [hier](https://zerohplovecraft.substack.com/p/the-green-new-deal) te lezen."
 subtitle = 'Je zult insecten eten, maar je zult niet leven in de pod'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'The Green New Deal'
 +++
 

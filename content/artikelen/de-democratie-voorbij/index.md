@@ -1,10 +1,10 @@
 +++
-aangehaald = ['Pim Fortuyn', 'Alexis de Tocqueville']
-auteurs = ['Robert Lemm']
+cited = ['Pim Fortuyn', 'Alexis de Tocqueville']
+authors = ['Robert Lemm']
 date = '2022-06-08'
 image = 'thumb.webp'
 subtitle = 'Herzien door Robert Lemm'
-themas = 'Recensie en Biografie'
+themes = 'Recensie en Biografie'
 title = 'De democratie voorbij'
 +++
 

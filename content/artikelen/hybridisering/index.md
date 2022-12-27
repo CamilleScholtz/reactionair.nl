@@ -1,9 +1,9 @@
 +++
-auteurs = ['Alexander Wolfheze']
+authors = ['Alexander Wolfheze']
 date = '2022-01-10'
 image = 'thumb.webp'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 4'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Hybridisering'
 +++
 

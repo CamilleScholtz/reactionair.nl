@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Erik von Kuehnelt-Leddihn', 'Oswald Spengler']
+cited = ['Erik von Kuehnelt-Leddihn', 'Oswald Spengler']
 anchor = 'Center'
-auteurs = ['Sanura']
+authors = ['Sanura']
 date = '2022-05-05'
 image = 'thumb.webp'
 subtitle = 'De vergeten geschiedenis van conservatief verzet, de bevrijding en Neurenberg'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'De Nazi-Antifa Alliantie'
 +++
 

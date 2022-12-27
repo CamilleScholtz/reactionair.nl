@@ -1,11 +1,11 @@
 +++
 anchor = 'Center'
-auteurs = ['Camille Meloen']
+authors = ['Camille Meloen']
 date = '2022-07-01'
-dossiers = ['Islam']
+files = ['Islam']
 image = 'l19224-9m4zh-9-ksharp.jpg'
 subtitle = 'Over ringcomposities'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'De chiastische structuur van soera De Opening'
 +++
 <blockquote style="text-align: center; color: var(--muted-color); max-width: 90%;">

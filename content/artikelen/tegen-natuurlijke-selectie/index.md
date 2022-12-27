@@ -1,10 +1,10 @@
 +++
-aangehaald = ['Nicolás Gómez Dávila']
-auteurs = ['Alexander Wolfheze']
+cited = ['Nicolás Gómez Dávila']
+authors = ['Alexander Wolfheze']
 date = '2021-12-28'
 image = 'thumb.webp'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 2'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Tegen-natuurlijke selectie'
 +++
 

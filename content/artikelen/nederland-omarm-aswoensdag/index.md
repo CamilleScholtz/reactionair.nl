@@ -1,10 +1,10 @@
 +++
-auteurs = ['Paars van Grinsterer']
+authors = ['Paars van Grinsterer']
 date = '2022-03-02'
-dossiers = ['Christendom']
+files = ['Christendom']
 image = 'thumb.webp'
 subtitle = 'Over de functie van de 40 dagentijd en het ritueel van het askruis'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Nederland, omarm Aswoensdag'
 +++
 

@@ -1,11 +1,11 @@
 +++
 anchor = 'Smart'
-auteurs = ['De redactie']
+authors = ['De redactie']
 date = '2022-07-19'
-dossiers = ['Woke']
+files = ['Woke']
 image = 'lenin.jpg'
 note = "Dit is een vertaling van het essay 'Clown World Chronicles: What Is ‘Bioleninism’?', het origineel is [hier](https://vjmpublishing.nz/?p=21454) te lezen."
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Wat is bioleninisme?'
 +++
 

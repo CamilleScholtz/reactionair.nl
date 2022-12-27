@@ -1,10 +1,10 @@
 +++
-auteurs = ['Vrederijk']
+authors = ['Vrederijk']
 date = '2022-04-04'
-dossiers = ['Woke']
+files = ['Woke']
 image = 'thumb.webp'
 subtitle = 'Over het COC en wie onze kinderen nu eigenlijk opvoedt'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Stront aan de knikker'
 +++
 

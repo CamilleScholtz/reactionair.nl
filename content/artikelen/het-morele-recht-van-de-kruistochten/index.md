@@ -1,10 +1,10 @@
 +++
-auteurs = ['Sanura']
+authors = ['Sanura']
 date = '2022-06-12'
-dossiers = ['Christendom', 'Islam']
+files = ['Christendom', 'Islam']
 image = 'thumb.webp'
 subtitle = 'Ja, dat las je goed...'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Het morele recht van de kruistochten'
 +++
 

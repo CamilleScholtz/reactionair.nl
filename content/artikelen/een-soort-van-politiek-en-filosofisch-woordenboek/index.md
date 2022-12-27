@@ -1,10 +1,10 @@
 +++
-aangehaald = ['Thomas van Aquino', 'Erik von Kuehnelt-Leddihn', 'Plato']
-auteurs = ['Sanura']
+cited = ['Thomas van Aquino', 'Erik von Kuehnelt-Leddihn', 'Plato']
+authors = ['Sanura']
 date = '2022-04-16'
 image = 'thumb.webp'
 subtitle = "De l'Esprit des Lois 2.0, deel 1"
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Een soort van politiek en filosofisch woordenboek'
 +++
 

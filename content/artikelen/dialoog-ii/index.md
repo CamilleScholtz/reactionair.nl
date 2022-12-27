@@ -1,10 +1,10 @@
 +++
 anchor = 'Smart'
-auteurs = ['Walt van Toor']
+authors = ['Walt van Toor']
 date = '2022-08-28'
 image = 'caspar_david_friedrich_zwei_manner_am_meer.jpg'
 subtitle = 'Verdere deliberatie over ongehoorzaamheid'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Dialoog II'
 +++
 **Johan**: Bedankt voor ons *[vorige gesprek](https://reactionair.nl/artikelen/dialoog-i/)*, het heeft me nog meer doen nadenken over de plicht tot verzet in tijden als deze; tijden waarin sprake is van wijdverbreid ongenoegen onder de bevolking. De vanzelfsprekendheid van het openbaar bestuur en de vanzelfsprekendheid van het gezag staan onder druk. Dit komt door belangenverstrengeling, door de leugenachtige ambtenarij en door het gebrek aan controle op uitvoerenden. Achtergestelde, gekleineerde en verontwaardigde burgers dienen het heft in handen te nemen met een besef van eigenwaarde én met zekere trots, zaken die men van niemand kan wegnemen. Zodoende zal georganiseerd protest concreet resultaat opleveren; waardering die ooit vanzelfsprekend was zal hernieuwd worden; het land zal zich daardoor herstellen.

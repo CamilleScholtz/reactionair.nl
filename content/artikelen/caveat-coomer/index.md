@@ -1,12 +1,12 @@
 +++
-aangehaald = ['Curtis Yarvin']
-auteurs = ['De Melancholieke Nar']
+cited = ['Curtis Yarvin']
+authors = ['De Melancholieke Nar']
 date = '2022-02-24'
-dossiers = ['Woke']
+files = ['Woke']
 image = 'thumb.webp'
 note = 'Dit is een vertaling en bewerking van een Twitter-draad van [Curtis Yarvin](https://twitter.com/moldbugman).'
 subtitle = 'Over de giftige alchemie tussen coomer en e-girl'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Caveat coomer'
 +++
 

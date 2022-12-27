@@ -1,10 +1,10 @@
 +++
-aangehaald = ['Thomas van Aquino', 'Immanuel Kant', 'Oswald Spengler']
-auteurs = ['De Melancholieke Nar']
+cited = ['Thomas van Aquino', 'Immanuel Kant', 'Oswald Spengler']
+authors = ['De Melancholieke Nar']
 date = '2022-01-27'
 image = 'thumb.webp'
 subtitle = 'Waarom het streven naar objectiviteit een doodlopend pad is, deel 1'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Overdenkingen over de parabel van de blinden en de olifant'
 +++
 

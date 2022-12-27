@@ -1,10 +1,10 @@
 +++
 anchor = 'Smart'
-auteurs = ['Rintrah Radagast']
+authors = ['Rintrah Radagast']
 date = '2022-07-16'
 image = 'inkblot-1_wide-4721996e4c8fb2aaa203cbe26968c64b742ebaa9.jpg'
 subtitle = 'De goedgelovige idioot en de krankzinnige schizo'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Het trauma van 9/11'
 +++
 Ik denk dat we onderschatten hoe traumatisch 9/11 is geweest voor dat deel van de bevolking dat ervan overtuigd raakte dat de Amerikaanse en/of Israëlische regering er een rol in hadden. Als je eenmaal tot die conclusie bent gekomen, ben je veroordeeld tot een leven in een staat van voortdurend wantrouwen tegen je regering.

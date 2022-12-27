@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Sigmund Freud', 'Immanuel Kant', 'Jean-Jacques Rousseau', 'Jean-Paul Sartre']
+cited = ['Sigmund Freud', 'Immanuel Kant', 'Jean-Jacques Rousseau', 'Jean-Paul Sartre']
 anchor = 'Top'
-auteurs = ['Intan Hoijer']
+authors = ['Intan Hoijer']
 date = '2022-07-31'
 image = 'caspar-david-friedrich-011-daac9d.jpg'
 subtitle = 'De ondergang van de samen-leving'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Hyperindividualisme'
 +++
 Postmoderniteit wordt gekenmerkt door de delegitimisering en het verval van elke traditionele structuur. Het postmoderne individu erkent enkel nog zijn eigen subjectiviteit als legitimeringsgrond. De geworpenheid van het individu in de reeds bestaande wereld opgebouwd uit pre-existerende structuren is vervangen door het centrale credo der existentialisten ‘existentie gaat vooraf aan essentie’.[^1] Deze situatie waarbij het individu de enige locus is van waarheid kan worden omschreven als hyperindividualisme.

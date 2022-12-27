@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Pim Fortuyn', 'Geert Wilders', 'Plato']
-auteurs = ['Mootje']
+cited = ['Pim Fortuyn', 'Geert Wilders', 'Plato']
+authors = ['Mootje']
 date = '2021-12-26'
-dossiers = ['Conservatieve Alliantie', 'Islam']
+files = ['Conservatieve Alliantie', 'Islam']
 image = 'thumb.webp'
 subtitle = 'Van een Marokkaan'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Boodschap aan de Germaan'
 +++
 

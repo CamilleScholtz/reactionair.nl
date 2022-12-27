@@ -3,7 +3,7 @@
 
 	<meta name="description" content="{{ if isset .Params "description" }}{{ .Params.description }}{{ else }}{{ .Params.subtitle }} - {{ .Summary }}{{ end }}">
 	{{ if eq .Type "artikelen" }}
-		<meta name="author" content="{{ delimit .Params.auteurs ", " }}">
+		<meta name="author" content="{{ delimit .Params.authors ", " }}">
 	{{ end }}
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">

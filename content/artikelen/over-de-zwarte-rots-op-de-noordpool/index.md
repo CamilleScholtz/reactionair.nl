@@ -1,11 +1,11 @@
 +++
 anchor = 'Center'
-auteurs = ['Jan de Maansnijder']
+authors = ['Jan de Maansnijder']
 date = '2022-09-01'
 image = '1606_mercator_hondius_map_of_the_arctic_-first_map_of_the_north_pole-_-_geographicus_-_northpole-mercator-1606.jpg'
 note = "Dit is een vertaling van het essay 'On the Black Rock at the North Pole', het origineel is [hier](https://esoterictraditionalism.wordpress.com/2020/08/28/on-the-black-rock-at-the-north-pole/) te lezen."
 subtitle = 'De Noordpool als symbool voor het Paradijs'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Over de Zwarte Rots op de Noordpool'
 +++
 

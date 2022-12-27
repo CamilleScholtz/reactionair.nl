@@ -1,10 +1,10 @@
 +++
 anchor = 'Top'
-auteurs = ['Sanura']
+authors = ['Sanura']
 date = '2022-06-28'
 image = 'thumbo.jpg'
 subtitle = 'Behoud je principes, gezin, bezit en geloof!'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Als burgeroorlog je treft '
 +++
 Gert-Jan Segers, (ja, die windvaan van een CU-leider) sprak recent over een burgeroorlog die zou kunnen volgen uit het belachelijke stikstofbeleid en de aanvallen op het boerenbestaan. Burgeroorlog in ons polderland? Rutte-Kaag maakt het mogelijk blijkbaar.

@@ -1,11 +1,11 @@
 +++
-aangehaald = ['René Guénon', 'Anton Kerssemakers', 'Jean-Jacques Rousseau']
+cited = ['René Guénon', 'Anton Kerssemakers', 'Jean-Jacques Rousseau']
 anchor = 'Smart'
-auteurs = ['De redactie']
+authors = ['De redactie']
 date = '2022-08-09'
 image = 'aristo_lutkie-980x411.jpg'
 subtitle = 'Een essay uit 1939'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Het bijgeloof aan “De Vooruitgang”'
 +++
 Dit essay was oorspronkelijk gepubliceerd door Anton Kerssemakers in het tijdschrift *Aristo-* van maart 1939.[^1]

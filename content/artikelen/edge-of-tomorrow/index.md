@@ -1,10 +1,10 @@
 +++
-aangehaald = ['Arthur Schopenhauer']
-auteurs = ['Alexander Wolfheze']
+cited = ['Arthur Schopenhauer']
+authors = ['Alexander Wolfheze']
 date = '2022-02-07'
 image = 'thumb.webp'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 7'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = '‘Edge of Tomorrow’'
 +++
 

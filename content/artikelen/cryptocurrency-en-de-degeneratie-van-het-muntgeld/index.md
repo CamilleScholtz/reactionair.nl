@@ -1,10 +1,10 @@
 +++
-aangehaald = ['René Guénon']
-auteurs = ['Camille Meloen']
+cited = ['René Guénon']
+authors = ['Camille Meloen']
 date = '2021-12-24'
 image = 'thumb.webp'
 subtitle = 'Geld en de heerschappij van kwantiteit'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Cryptocurrency en de degeneratie van het muntgeld'
 +++
 

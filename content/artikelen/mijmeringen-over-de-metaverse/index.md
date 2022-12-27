@@ -1,11 +1,11 @@
 +++
-aangehaald = ['René Guénon']
-auteurs = ['Camille Meloen']
+cited = ['René Guénon']
+authors = ['Camille Meloen']
 date = '2022-01-20'
 draft = true
 image = 'thumb.webp'
 subtitle = ''
-themas = 'Politiek & Maatschappij'
+themes = 'Politiek & Maatschappij'
 title = 'Mijmeringen over de Metaverse'
 +++
 

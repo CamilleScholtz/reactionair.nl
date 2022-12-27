@@ -1,10 +1,10 @@
 +++
 anchor = 'Smart'
-auteurs = ['Elvengast']
+authors = ['Elvengast']
 date = '2022-12-04'
 image = 'wekyztlb.jpg-medium.webp'
 subtitle = 'Een afdaling in de goddelijke essentie van de Sinterklaastraditie'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Sinterklaas, de Indo-Europese Hemelvader?'
 +++
 {{< quote

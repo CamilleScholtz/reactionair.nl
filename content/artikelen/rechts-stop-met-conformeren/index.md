@@ -1,10 +1,10 @@
 +++
 anchor = 'Center'
-auteurs = ['Jurbin van Hooff']
+authors = ['Jurbin van Hooff']
 date = '2022-06-07'
 image = 'thumb.webp'
 subtitle = 'Hoe rechts de verwezenlijking van hun eigen idealen in de weg zit'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Rechts, stop met conformeren!'
 +++
 

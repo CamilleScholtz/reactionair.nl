@@ -1,10 +1,10 @@
 +++
-aangehaald = ['René Guénon', 'Robert Lemm', 'Oswald Spengler']
-auteurs = ['Camille Meloen']
+cited = ['René Guénon', 'Robert Lemm', 'Oswald Spengler']
+authors = ['Camille Meloen']
 date = '2021-11-05'
 image = 'thumb.webp'
 subtitle = 'De eschatologie van René Guénon'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Tijd opgeslokt door ruimte'
 +++
 

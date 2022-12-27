@@ -1,10 +1,10 @@
 +++
 anchor = 'Smart'
-auteurs = ['Camille Meloen']
+authors = ['Camille Meloen']
 date = '2022-09-16'
 image = '459h-k3r2j5zkscpht4y90gdwfs.jpg'
 subtitle = 'Over het Ongehoord Nederland debacle'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'De hypocrisie van de media'
 +++
 Weet u nog hoe het "fatsoenlijke" nieuws over Trump berichtte tijdens zijn presidentschap, élke dag, vier jaar lang? De NOS opende een 8 uur journaal met "nieuws" over Trump die onder geplast zou zijn door een prostituee in een hotel in Moskou. Het bleek natuurlijk niet waar te zijn, en we hoorden er nooit meer wat over. Snel op naar de volgende leugen, maar dat maakt niet uit voor journalisten. De toon was gezet, de kop was in de hoofden van de mensen gegrift. Dat is wat telt.

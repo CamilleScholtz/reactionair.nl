@@ -11,18 +11,22 @@ removePathAccents = true
 
 enableRobotsTXT = true
 
-#ignoreErrors = ["error-output-taxonomy", "error-remote-getjson"]
-
 disableHugoGeneratorInject = true
 
 [params]
 	revision = "855"
 
 [taxonomies]
-	auteur     = "auteurs"
-	dossier    = "dossiers"
-	thema      = "themas"
-	aangehaald = "aangehaald"
+	author = "authors"
+	file   = "files"
+	theme  = "themes"
+	cited  = "cited"
+
+[permalinks]
+	authors = "/auteurs/:slug/"
+	files   = "/dossiers/:slug/"
+	themes  = "/themas/:slug/"
+	cited   = "/aangehaald/:slug/"
 
 [markup]
 	[markup.goldmark]

@@ -1,9 +1,9 @@
 +++
-auteurs = ['Tom van Giersbergen']
+authors = ['Tom van Giersbergen']
 date = '2022-05-21'
 image = 'thumb.webp'
 subtitle = 'De drie-eenheid van werkelijkheid'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'De fysieke realiteit, de metafysische realiteit en de hyperrealiteit'
 +++
 

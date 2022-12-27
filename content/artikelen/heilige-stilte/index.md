@@ -1,9 +1,9 @@
 +++
-auteurs = ['Walt van Toor']
+authors = ['Walt van Toor']
 date = '2021-11-28'
 image = 'thumb.webp'
 subtitle = 'Tussen waarheid, ongeluk en burgermentaliteit'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Heilige stilte'
 +++
 

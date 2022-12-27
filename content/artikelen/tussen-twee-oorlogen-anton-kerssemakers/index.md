@@ -1,11 +1,11 @@
 +++
-aangehaald = ['René Guénon', 'Anton Kerssemakers']
+cited = ['René Guénon', 'Anton Kerssemakers']
 anchor = 'Top'
-auteurs = ['Camille Meloen']
+authors = ['Camille Meloen']
 date = '2021-10-02'
 image = 'thumb.webp'
 subtitle = 'Onderzoek naar een onbekende auteur'
-themas = 'Recensie en Biografie'
+themes = 'Recensie en Biografie'
 title = 'Tussen twee oorlogen: Anton Kerssemakers'
 +++
 

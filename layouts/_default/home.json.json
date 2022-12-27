@@ -5,7 +5,7 @@
 		"id"        $i
 		"title"     (.Params.title | plainify)
 		"subtitle"  (.Params.subtitle | plainify)
-		"authors"   .Params.auteurs
+		"authors"   .Params.authors
 		"content"   .Plain
 		"permalink" .RelPermalink
 	) }}

@@ -1,6 +1,6 @@
 {{ define "main" }}
 	{{ $themes   := slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Recensie en Biografie" "Religie en Metafysica" }}
-	{{ $articles := where site.RegularPages "Params.themas" "in" $themes }}
+	{{ $articles := where site.RegularPages "Params.themes" "in" $themes }}
 
 	<section class="hero">
 		<section class="left"> 
@@ -65,7 +65,7 @@
 
 	<section>
 		{{ $themes := slice "Politiek en Actualiteit" "Cultuur en Maatschappij" }}
-		{{ $pages  := where $articles "Params.themas" "in" $themes }}
+		{{ $pages  := where $articles "Params.themes" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}		
 			{{ $side := "right" }}
@@ -75,9 +75,9 @@
 		
 			{{ partial "articles/theme.html" (dict
 				"context" .
-				"section" "themas"
+				"section" "themes"
 				"term"    $theme
-				"pages"   (where $pages "Params.themas" "eq" $theme)
+				"pages"   (where $pages "Params.themes" "eq" $theme)
 				"side"    $side
 				"lazy"    (ge $i 1)
 			) }}
@@ -94,7 +94,7 @@
 
 	<section>
 		{{ $themes := slice "Recensie en Biografie" "Religie en Metafysica"  }}
-		{{ $pages  := where $articles "Params.themas" "in" $themes }}
+		{{ $pages  := where $articles "Params.themes" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}		
 			{{ $side := "right" }}
@@ -104,9 +104,9 @@
 		
 			{{ partial "articles/theme.html" (dict
 				"context" .
-				"section" "themas"
+				"section" "themes"
 				"term"    $theme
-				"pages"   (where $pages "Params.themas" "eq" $theme)
+				"pages"   (where $pages "Params.themes" "eq" $theme)
 				"side"    $side
 				"lazy"    (ge $i 1)
 			) }}
@@ -114,9 +114,9 @@
 	
 		{{ partial "articles/theme.html" (dict
 			"context" .
-			"section" "themas"
+			"section" "themes"
 			"term"    "Klikaas"
-			"pages"   (where site.RegularPages "Params.themas" "eq" "Klikaas")
+			"pages"   (where site.RegularPages "Params.themes" "eq" "Klikaas")
 			"side"    "right"
 			"lazy"    true
 		) }}

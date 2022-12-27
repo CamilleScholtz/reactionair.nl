@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Socrates']
-auteurs = ['De redactie']
+cited = ['Socrates']
+authors = ['De redactie']
 date = '2022-09-09'
 image = 'native.jpg'
 note = "Dit is een vertaling van een transcriptie van een podcast door Asha Logos genaamd 'In Pursuit of Clarity, Episode #14: The Power of the Interpreter'."
 subtitle = 'Een waarschuwing'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'De macht van de tolk'
 +++
 

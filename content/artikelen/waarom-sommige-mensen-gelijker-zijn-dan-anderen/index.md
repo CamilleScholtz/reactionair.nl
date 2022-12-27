@@ -1,12 +1,12 @@
 +++
-aangehaald = ['François-René de Chateaubriand', 'Jacques Derrida', 'Michel Foucault', 'Friedrich Nietzsche', 'Arthur Schopenhauer']
+cited = ['François-René de Chateaubriand', 'Jacques Derrida', 'Michel Foucault', 'Friedrich Nietzsche', 'Arthur Schopenhauer']
 anchor = 'Smart'
-auteurs = ['Anton Prins']
+authors = ['Anton Prins']
 caption = 'Kuzma Petrov-Vodkin, Fantasia'
 date = '2022-10-23'
 image = 'petrov-vodkin-fantasy.jpg'
 subtitle = 'Enkele reflecties op de betekenis van gelijkheid in onze samenleving '
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Over het gelijkheidsprincipe'
 +++
 > *Ihr Prediger der Gleichheit, der Tyrannen-Wahnsinn der Ohnmacht schreit also aus euch nach »Gleichheit«: eure heimlichsten Tyrannen-Gelüste vermummen sich also in Tugend-Worte!*[^1]

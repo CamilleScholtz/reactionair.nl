@@ -1,11 +1,11 @@
 +++
-aangehaald = ['René Descartes', 'Fjodor Dostojevski', 'Socrates']
+cited = ['René Descartes', 'Fjodor Dostojevski', 'Socrates']
 anchor = 'Center'
-auteurs = ['Tólma']
+authors = ['Tólma']
 date = '2022-05-11'
 image = 'thumb.webp'
 subtitle = 'Descartes over verwondering en wijsheid'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Domme vragen'
 +++
 

@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Karl Marx', 'Johan Rudolph Thorbecke']
+cited = ['Karl Marx', 'Johan Rudolph Thorbecke']
 anchor = 'Bottom'
-auteurs = ['Jan-Jaap Moltman']
+authors = ['Jan-Jaap Moltman']
 date = '2022-08-04'
 image = '20524fc8-59a5-4b3c-8628-83ef0f3f7ad6.jpeg'
 subtitle = 'Hoe regentesk gedrag van gevestigde partijen klinkt als een echo uit het verleden'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Houtrot in het schip van staat'
 +++
 “In Nederland zal nooit een revolutie uitbreken, want het is daar verboden om over het gras te lopen.” Of het hem echt toegeschreven mag worden of niet, deze vermeende uitspraak van Karl Marx is één van de weinige standpunten waar weinig tegenin valt te brengen. De apathische opstelling van veel Nederlanders als het gaat om politiek, overheid en het niet aanpakken van het houtrot in het schip van staat houdt niet alleen innovatie en verandering tegen, maar het is ook ironisch. Het waren immers de Nederlanders die in opstand kwamen tegen een onderdrukkend systeem, verandering eisten en vervolgens een revolutionaire staatsvorm bedachten waarin verschillende gewesten hun eigenheid bewaakten, maar ook samenwerkten om 's lands glorie te vergroten. Samenwerken, overleggen, polderen. Of het werkte? Zeker.

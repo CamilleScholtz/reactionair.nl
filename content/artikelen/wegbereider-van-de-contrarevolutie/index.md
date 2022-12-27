@@ -1,10 +1,10 @@
 +++
-aangehaald = ['Edmund Burke', 'François-René de Chateaubriand', 'Michel Foucault']
-auteurs = ['J. Floressas des Esseintes']
+cited = ['Edmund Burke', 'François-René de Chateaubriand', 'Michel Foucault']
+authors = ['J. Floressas des Esseintes']
 date = '2021-10-11'
 image = 'thumb.webp'
 subtitle = 'Over Louis de Bonald'
-themas = 'Recensie en Biografie'
+themes = 'Recensie en Biografie'
 title = 'Wegbereider van de contrarevolutie'
 +++
 

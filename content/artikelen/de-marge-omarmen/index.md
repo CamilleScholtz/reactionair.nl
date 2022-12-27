@@ -1,11 +1,11 @@
 +++
 anchor = 'Smart'
-auteurs = ['De redactie']
+authors = ['De redactie']
 date = '2022-08-18'
 image = 'egpfllzu8aahd9d.jpeg'
 note = "Dit is een vertaling van het essay 'Embracing the Fringe', het origineel is [hier](https://apolloniangerm.substack.com/p/embracing-the-fringe) te lezen."
 subtitle = 'Stap in, lullo, we gaan naar Hyperborea'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'De marge omarmen'
 +++
 

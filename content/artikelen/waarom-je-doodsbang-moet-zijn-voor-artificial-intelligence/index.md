@@ -1,11 +1,11 @@
 +++
-aangehaald = ['René Guénon']
+cited = ['René Guénon']
 anchor = 'Smart'
-auteurs = ['Camille Meloen']
+authors = ['Camille Meloen']
 date = '2022-07-24'
 image = 'test.jpg'
 subtitle = 'Onze realiteit gereduceerd tot pure kwantiteit — lees tot het einde!'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Waarom je doodsbang moet zijn voor Artificiële Intelligentie '
 +++
 

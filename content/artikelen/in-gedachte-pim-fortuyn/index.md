@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Thierry Baudet', 'Pim Fortuyn', 'Geert Wilders']
+cited = ['Thierry Baudet', 'Pim Fortuyn', 'Geert Wilders']
 anchor = 'Center'
-auteurs = ['Dennis Honing']
+authors = ['Dennis Honing']
 date = '2022-05-06'
 image = 'thumb.webp'
 subtitle = 'De enige dandy-salafist van Nederland'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'In gedachte Pim Fortuyn'
 +++
 

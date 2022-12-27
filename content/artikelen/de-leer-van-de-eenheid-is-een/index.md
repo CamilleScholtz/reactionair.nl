@@ -1,12 +1,12 @@
 +++
-aangehaald = ['René Guénon']
+cited = ['René Guénon']
 anchor = 'Center'
-auteurs = ['Camille Meloen']
+authors = ['Camille Meloen']
 date = '2022-05-02'
-dossiers = ['Islam']
+files = ['Islam']
 image = 'thumb.webp'
 subtitle = 'al-Tawhīdu wāhidun'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'De leer van de Eenheid is één'
 +++
 

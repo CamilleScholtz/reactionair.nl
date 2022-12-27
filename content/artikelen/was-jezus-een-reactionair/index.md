@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Aristoteles', 'Plato', 'Socrates']
-auteurs = ['Sanura']
+cited = ['Aristoteles', 'Plato', 'Socrates']
+authors = ['Sanura']
 date = '2022-03-19'
-dossiers = ['Christendom']
+files = ['Christendom']
 image = 'thumb.webp'
 subtitle = 'Traditie=historische context'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Was Jezus een Reactionair?'
 +++
 

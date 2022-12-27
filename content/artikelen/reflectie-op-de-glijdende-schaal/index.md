@@ -1,10 +1,10 @@
 +++
-auteurs = ['Eco al-Hollandi']
+authors = ['Eco al-Hollandi']
 date = '2022-06-15'
-dossiers = ['Woke']
+files = ['Woke']
 image = 'thumb.webp'
 subtitle = 'Drogreden of werkelijkheid?'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Reflectie op de glijdende schaal'
 +++
 

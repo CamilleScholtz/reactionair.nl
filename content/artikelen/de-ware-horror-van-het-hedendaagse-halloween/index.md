@@ -1,10 +1,10 @@
 +++
-auteurs = ['Jan de Maansnijder']
+authors = ['Jan de Maansnijder']
 date = '2021-10-27'
-dossiers = ['Christendom']
+files = ['Christendom']
 image = 'thumb.webp'
 subtitle = 'Hoe een heilig feest tot simpel hedonisme vervallen is'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'De ware horror van het hedendaagse Halloween'
 +++
 

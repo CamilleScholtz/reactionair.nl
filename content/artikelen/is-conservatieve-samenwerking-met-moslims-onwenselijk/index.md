@@ -1,11 +1,11 @@
 +++
-aangehaald = ['René Guénon', 'Martin Lings', 'Hamza Yusuf']
-auteurs = ['Dennis Honing']
+cited = ['René Guénon', 'Martin Lings', 'Hamza Yusuf']
+authors = ['Dennis Honing']
 date = '2022-01-15'
-dossiers = ['Islam', 'Conservatieve Alliantie']
+files = ['Islam', 'Conservatieve Alliantie']
 image = 'thumb.webp'
 subtitle = 'Een reactie op ‘tegen een politiek verbond met moslims’'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Is conservatieve samenwerking met moslims onwenselijk?'
 +++
 

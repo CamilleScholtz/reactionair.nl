@@ -1,10 +1,10 @@
 +++
-aangehaald = ['Charles Darwin', 'Friedrich Nietzsche']
-auteurs = ['Alexander Wolfheze']
+cited = ['Charles Darwin', 'Friedrich Nietzsche']
+authors = ['Alexander Wolfheze']
 date = '2021-12-23'
 image = 'thumb.webp'
 subtitle = 'De Futuro-Fundamentalistische Revolutie, deel 1'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Devolutie theorie'
 +++
 

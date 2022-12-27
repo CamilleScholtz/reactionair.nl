@@ -1,6 +1,6 @@
 {{ define "main" }}
 	<div class="list-header">
-		{{ if eq .Section "auteurs" }}
+		{{ if eq .Section "authors" }}
 			{{ partial "authors/large.html" . }}
 		{{ else }}
 			<h1>{{ .Params.heading | safeHTML }}</h1>

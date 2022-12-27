@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Rudy Bouma']
-auteurs = ['Paars van Grinsterer', 'De Melancholieke Nar']
+cited = ['Rudy Bouma']
+authors = ['Paars van Grinsterer', 'De Melancholieke Nar']
 date = '2022-02-10'
-dossiers = ['Woke']
+files = ['Woke']
 image = 'thumb.webp'
 subtitle = 'Of hoe een emoticon-connaisseur als ridder voor globohomo de vermaledijde wappies bestrijdt'
-themas = 'Klikaas'
+themes = 'Klikaas'
 title = 'Rudy Bouma, kleine psychoanalyse van een groot onbenul'
 +++
 

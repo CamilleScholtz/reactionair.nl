@@ -1,11 +1,11 @@
 +++
 anchor = 'Smart'
-auteurs = ['Sanura']
+authors = ['Sanura']
 date = '2022-10-20'
-dossiers = ['Christendom']
+files = ['Christendom']
 image = 'untitled-5.webp'
 subtitle = 'In een synagoge ook?'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Strippen in een kerk is nu vrijheid van meningsuiting '
 +++
 Het Europese Hof voor de Rechten van de Mens heeft Frankrijk veroordeeld voor het bestraffen van Éloïse Bouton, voor haar halfnaakte protest in een katholieke kerk. Ze was een kerk in gelopen en had de boel verstoord door topless een abortus na te doen van een zogenaamd kindje Jezus op het altaar.[^1]

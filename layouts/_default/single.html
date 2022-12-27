@@ -23,8 +23,8 @@
 
 			<div class="right">
 				<div class="authors">
-					{{ range $index, $author := .Params.auteurs }}
-						<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>{{ if ne (add $index 1) (len $.Params.auteurs) }},&nbsp{{ end }}
+					{{ range $index, $author := .Params.authors }}
+						<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>{{ if ne (add $index 1) (len $.Params.authors) }},&nbsp{{ end }}
 					{{ end }}
 				</div>
 
@@ -42,11 +42,11 @@
 		<section class="content">		
 			{{ .Content }}
 
-			{{ if isset .Params "aangehaald" }}
+			{{ if isset .Params "cited" }}
 				<section class="cited">
 					<p>Aangehaald in dit artikel:</p>
 
-					{{ range .Params.aangehaald }}
+					{{ range .Params.cited }}
 						<a href="/aangehaald/{{ urlize . }}">{{ . }}</a>
 					{{ end }}
 				</section>
@@ -54,10 +54,10 @@
 		</section>
 	</article>
 
-	{{ if isset .Params "dossiers" }}
-		<section class="dossiers">
-			{{ range $i, $dossier := .Params.dossiers }}
-				{{ $pages    := where site.RegularPages "Params.dossiers" "intersect" (slice $dossier) }}
+	{{ if isset .Params "files" }}
+		<section class="files">
+			{{ range $i, $file := .Params.files }}
+				{{ $pages    := where site.RegularPages "Params.files" "intersect" (slice $file) }}
 				{{ $pages     = where $pages "Params.title" "ne" $.Params.title }}
 
 				{{ $side := "left" }}
@@ -67,12 +67,12 @@
 
 				{{ partialCached "articles/theme.html" (dict
 					"context" .
-					"section" "dossiers"
-					"term"    $dossier
+					"section" "files"
+					"term"    $file
 					"pages"   $pages
 					"side"    $side
 					"lazy"    true
-				) "dossiers" $dossier $side }}
+				) "files" $file $side }}
 			{{ end }}
 		</section>
 	{{ end }}

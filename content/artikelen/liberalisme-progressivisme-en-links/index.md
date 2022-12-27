@@ -1,11 +1,11 @@
 +++
 anchor = 'Center'
-auteurs = ['De redactie']
+authors = ['De redactie']
 date = '2022-05-31'
 image = 'thumb.webp'
 note = "Dit is een vertaling van het essay 'Liberalism, Progressivism, Leftism', het origineel is [hier](https://www.eugyppius.com/p/liberalism-progressivism-leftism) te lezen."
 subtitle = 'Drie machten die samenspannen tegen de middenklasse'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Liberalisme, progressivisme en links'
 +++
 

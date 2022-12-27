@@ -1,10 +1,10 @@
 +++
-aangehaald = ['René Guénon', 'Aristoteles']
-auteurs = ['Camille Meloen']
+cited = ['René Guénon', 'Aristoteles']
+authors = ['Camille Meloen']
 date = '2021-10-14'
 image = 'thumb.webp'
 subtitle = 'Een modern misverstand'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Natuur versus natuur'
 +++
 

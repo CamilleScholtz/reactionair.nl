@@ -17,12 +17,12 @@
 				"{{ ($image.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}"
 			],
 			"author": [
-				{{ range $i, $author := .Params.auteurs }}
+				{{ range $i, $author := .Params.authors }}
 					{
 						"@type": "Person",
 						"name": "{{ $author }}",
 						"url": "https://reactionair.nl/auteurs/{{ urlize $author }}"
-					}{{ if lt $i (len $.Params.auteurs) }},{{ end }}
+					}{{ if lt $i (len $.Params.authors) }},{{ end }}
 				{{ end }}
 			],
 			"publisher": {
@@ -31,7 +31,7 @@
 				"url": "https://reactionair.nl",
 				"logo": "{{ "img/og-image.png" | absURL }}"
 			}
-		{{ else if and (eq .Type "auteurs") (eq .Kind "term") }}
+		{{ else if and (eq .Type "authors") (eq .Kind "term") }}
 			"@type": "Person",
 			"name": "{{ .Params.title | safeHTML }}",
 			"image": "{{ (.Resources.GetMatch .Params.image).Permalink }}"

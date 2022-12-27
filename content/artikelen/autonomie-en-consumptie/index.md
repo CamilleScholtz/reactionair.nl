@@ -1,10 +1,10 @@
 +++
-aangehaald = ['René Descartes', 'Sigmund Freud', 'Oswald Spengler']
-auteurs = ['Jurbin van Hooff']
+cited = ['René Descartes', 'Sigmund Freud', 'Oswald Spengler']
+authors = ['Jurbin van Hooff']
 date = '2021-10-31'
 image = 'thumb.webp'
 subtitle = 'Hoe autonomie met de consumptiemaatschappij samenhangt'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Autonomie en consumptie'
 +++
 

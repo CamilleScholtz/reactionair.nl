@@ -1,10 +1,10 @@
 +++
-aangehaald = ['George Berkeley', 'Pythagoras']
-auteurs = ['De Melancholieke Nar']
+cited = ['George Berkeley', 'Pythagoras']
+authors = ['De Melancholieke Nar']
 date = '2022-02-01'
 image = 'thumb.webp'
 subtitle = 'Waarom het streven naar objectiviteit een doodlopend pad is, deel 2'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Een lesje grammatica, een lesje metafysica'
 +++
 

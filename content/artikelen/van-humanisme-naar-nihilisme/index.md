@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Theodor Adorno', 'Charles Darwin', 'Fjodor Dostojevski', 'Sigmund Freud', 'John Gray', 'David Hume', 'Aldous Huxley', 'Immanuel Kant', 'Karl Marx', 'Friedrich Nietzsche', 'Jean-Jacques Rousseau', 'Roger Scruton', 'William Shakespeare']
-auteurs = ['Magnus Bradshaw']
+cited = ['Theodor Adorno', 'Charles Darwin', 'Fjodor Dostojevski', 'Sigmund Freud', 'John Gray', 'David Hume', 'Aldous Huxley', 'Immanuel Kant', 'Karl Marx', 'Friedrich Nietzsche', 'Jean-Jacques Rousseau', 'Roger Scruton', 'William Shakespeare']
+authors = ['Magnus Bradshaw']
 date = '2022-04-01'
 image = 'thumb.webp'
 note = "Dit is een vertaling van het essay 'From Humanism to Nihilism: The Eclipse of Secular Ethics', het origineel is [hier](https://479141-1506839-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/04/CMCPapers6-HumanismtoNihilism.pdf) te lezen."
 subtitle = 'De eclips van de seculiere ethiek'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Van humanisme naar nihilisme'
 +++
 

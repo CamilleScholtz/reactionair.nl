@@ -1,10 +1,10 @@
 +++
-auteurs = ['Sanura']
+authors = ['Sanura']
 date = '2022-04-06'
-dossiers = ['Oekraïne']
+files = ['Oekraïne']
 image = 'thumb.webp'
 subtitle = 'Hongarije en de EU'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'De dreigende storm in het Oosten'
 +++
 

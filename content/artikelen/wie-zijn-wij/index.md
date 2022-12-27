@@ -1,9 +1,9 @@
 +++
-auteurs = ['De redactie']
+authors = ['De redactie']
 date = '2021-10-01'
 image = 'thumb.webp'
 subtitle = 'Een inleiding tot Reactionair.nl'
-themas = 'Mededeling'
+themes = 'Mededeling'
 title = 'Wie zijn wij?'
 +++
 

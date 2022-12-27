@@ -1,10 +1,10 @@
 +++
-aangehaald = ['Rutger Bregman', 'Jacues Ellul', 'Immanuel Kant', 'Robert Lemm']
-auteurs = ['Walt van Toor']
+cited = ['Rutger Bregman', 'Jacues Ellul', 'Immanuel Kant', 'Robert Lemm']
+authors = ['Walt van Toor']
 date = '2022-04-21'
 image = 'thumb.webp'
 subtitle = 'Overweging over het mensbeeld van de meeste mensen'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Deftigheid, deugdzaamheid en bezetenheid'
 +++
 

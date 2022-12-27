@@ -1,12 +1,12 @@
 +++
-aangehaald = ['René Girard', 'Ernst Jünger', 'Theodore J. Kaczynski', 'Karl Marx', 'Friedrich Nietzsche', 'Oswald Spengler', 'Jacques Ellul', 'Curtis Yarvin', 'Slavoj Žižek']
+cited = ['René Girard', 'Ernst Jünger', 'Theodore J. Kaczynski', 'Karl Marx', 'Friedrich Nietzsche', 'Oswald Spengler', 'Jacques Ellul', 'Curtis Yarvin', 'Slavoj Žižek']
 anchor = 'Center'
-auteurs = ['Jan-Willem Veldhuizen']
+authors = ['Jan-Willem Veldhuizen']
 date = '2022-06-26'
 image = 'thumb.webp'
 note = 'Dit is een vertaling en bewerking van een Twitter-draad van [Forrest](https://twitter.com/Foz89107323)'
 subtitle = 'Een strijd tussen transhumanisme en anarchoprimitivisme'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Harari versus Kaczynski'
 +++
 

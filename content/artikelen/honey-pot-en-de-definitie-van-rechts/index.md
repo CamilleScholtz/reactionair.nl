@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Thierry Baudet', 'Sid Lukkassen']
-auteurs = ['Vrederijk']
+cited = ['Thierry Baudet', 'Sid Lukkassen']
+authors = ['Vrederijk']
 date = '2021-10-28'
-dossiers = ['Woke']
+files = ['Woke']
 image = 'thumb.webp'
 subtitle = 'Afscheid van een achterhaald begrip'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Honey Pot en de definitie van “rechts”'
 +++
 

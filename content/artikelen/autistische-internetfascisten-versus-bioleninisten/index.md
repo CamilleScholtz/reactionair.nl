@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Rudy Bouma', 'René Girard', 'Karl Marx']
-auteurs = ['De Melancholieke Nar']
+cited = ['Rudy Bouma', 'René Girard', 'Karl Marx']
+authors = ['De Melancholieke Nar']
 date = '2022-04-09'
-dossiers = ['Woke']
+files = ['Woke']
 image = 'thumb.webp'
 subtitle = 'Twitter als toneel van de strijd om sociaal prestige'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Autistische internetfascisten versus bioleninisten'
 +++
 

@@ -1,11 +1,11 @@
 +++
 anchor = 'Smart'
-auteurs = ['Paars van Grinsterer']
+authors = ['Paars van Grinsterer']
 date = '2022-08-11'
-dossiers = ['Woke']
+files = ['Woke']
 image = 'kid.jpg'
 subtitle = 'Nederlandse media opvallend stil'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Verenigd Koninkrijk: Duizend families sluiten zich aan in rechtszaak tegen genderkliniek'
 +++
 De genderkliniek Tavistock in Engeland wordt geconfronteerd met juridische stappen van jongeren die beweren dat ze overhaast zijn overgehaald tot het nemen van levensveranderende puberteitsblokkers. Het is een nieuwe ontwikkeling in de dubieuze en controversiële geschiedenis van het instituut.[^1]

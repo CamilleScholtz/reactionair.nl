@@ -1,10 +1,10 @@
 +++
-auteurs = ['Camille Meloen']
+authors = ['Camille Meloen']
 date = '2021-10-15'
-dossiers = ['Woke']
+files = ['Woke']
 image = 'thumb.webp'
 subtitle = 'Of toch niet?'
-themas = 'Klikaas'
+themes = 'Klikaas'
 title = 'Woke is NU ECHT te ver gegaan!'
 +++
 

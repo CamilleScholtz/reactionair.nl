@@ -1,12 +1,12 @@
 +++
-aangehaald = ['Thomas van Aquino', 'Nicolás Gómez Dávila', 'Immanuel Kant', 'Jean-Jacques Rousseau']
+cited = ['Thomas van Aquino', 'Nicolás Gómez Dávila', 'Immanuel Kant', 'Jean-Jacques Rousseau']
 anchor = 'Center'
-auteurs = ['Robert Lemm']
+authors = ['Robert Lemm']
 date = '2021-11-29'
-dossiers = ['Christendom']
+files = ['Christendom']
 image = 'thumb.webp'
 subtitle = 'Fragment uit een boek in voorbereiding'
-themas = 'Recensie en Biografie'
+themes = 'Recensie en Biografie'
 title = 'Reactionair, om te beginnen'
 +++
 

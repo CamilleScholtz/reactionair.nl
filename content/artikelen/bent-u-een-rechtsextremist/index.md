@@ -1,10 +1,10 @@
 +++
 anchor = 'Smart'
-auteurs = ['De redactie']
+authors = ['De redactie']
 date = '2022-04-29'
 image = 'thumb.webp'
 subtitle = 'Doe de test!'
-themas = 'Klikaas'
+themes = 'Klikaas'
 title = 'Bent u een rechtsextremist?'
 +++
 

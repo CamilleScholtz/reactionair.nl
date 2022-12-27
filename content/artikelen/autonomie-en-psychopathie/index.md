@@ -1,10 +1,10 @@
 +++
-aangehaald = ['C. S. Lewis', 'Aristoteles']
-auteurs = ['Philip van Houten']
+cited = ['C. S. Lewis', 'Aristoteles']
+authors = ['Philip van Houten']
 date = '2021-11-18'
 image = 'thumb.webp'
 subtitle = 'Hoe individuen autonomie na kunnen streven in de consumptiemaatschappij'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Autonomie en psychopathie'
 +++
 

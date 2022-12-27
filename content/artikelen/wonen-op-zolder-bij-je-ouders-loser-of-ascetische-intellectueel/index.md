@@ -1,10 +1,10 @@
 +++
-aangehaald = ['Michel Foucault', 'Aristoteles', 'Plato', 'Pythagoras', 'Socrates']
-auteurs = ['Sanura']
+cited = ['Michel Foucault', 'Aristoteles', 'Plato', 'Pythagoras', 'Socrates']
+authors = ['Sanura']
 date = '2022-04-19'
 image = 'thumb.webp'
 subtitle = 'Verdwenen vrijheid en zingeving in het liberale consumptiekapitalisme'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Wonen op zolder bij je ouders: loser of ascetische intellectueel?'
 +++
 

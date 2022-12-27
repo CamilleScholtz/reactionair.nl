@@ -1,11 +1,11 @@
 +++
 anchor = 'Center'
-auteurs = ['Camille Meloen']
+authors = ['Camille Meloen']
 date = '2022-06-17'
-dossiers = ['Islam']
+files = ['Islam']
 image = 'thumb.webp'
 subtitle = 'Een verzameling apofatische gedichten en citaten'
-themas = 'Recensie en Biografie'
+themes = 'Recensie en Biografie'
 title = 'God ontzeggen'
 +++
 

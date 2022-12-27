@@ -1,13 +1,13 @@
 +++
-aangehaald = ['George Berkeley', 'Johann Wolfgang von Goethe', 'Joris van Rossum', 'Immanuel Kant', 'Friedrich Nietzsche', 'Arthur Schopenhauer', 'William Shakespeare', 'Baruch Spinoza', 'Plato']
+cited = ['George Berkeley', 'Johann Wolfgang von Goethe', 'Joris van Rossum', 'Immanuel Kant', 'Friedrich Nietzsche', 'Arthur Schopenhauer', 'William Shakespeare', 'Baruch Spinoza', 'Plato']
 anchor = 'Center'
-auteurs = ['Anton Prins']
+authors = ['Anton Prins']
 caption = 'Portretfoto van Arthur Schopenhauer, Johannes Schäfer'
 date = '2022-06-23'
 image = 'thumb.webp'
 note = 'Het volgende stuk is geschreven ter gelegendheid van de lezing van de heer Joris van Rossum van 24 juni 2022. Mijn hoop is dat dit kan dienen als voorbereidende lectuur voor geïnteresseerden die deze lezing bij zullen wonen.'
 subtitle = 'Enkele woorden als voorbereiding op een lezing'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'De willende wereld'
 +++
 

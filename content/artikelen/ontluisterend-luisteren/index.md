@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Theodor Adorno', 'Carl Jung', 'Jean-Paul Sartre', 'Roger Scruton']
-auteurs = ['Cedrik Vandooren']
+cited = ['Theodor Adorno', 'Carl Jung', 'Jean-Paul Sartre', 'Roger Scruton']
+authors = ['Cedrik Vandooren']
 date = '2022-04-25'
 draft = true
 image = 'thumb.webp'
 subtitle = 'Het muzikaal verval in de 20e eeuw'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Ontluisterend luisteren'
 +++
 

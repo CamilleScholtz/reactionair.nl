@@ -1,11 +1,11 @@
 +++
 anchor = 'Smart'
-auteurs = ['De Melancholieke Nar']
+authors = ['De Melancholieke Nar']
 date = '2022-07-03'
 image = 'discurso_funebre_pericles.png'
 note = 'Dit is een vertaling en bewerking van een Twitter-draad van [Mac Finn](https://twitter.com/ogmios).'
 subtitle = 'Het belang van vriendschap en loyaliteit'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Civitas en civilisatie'
 +++
 

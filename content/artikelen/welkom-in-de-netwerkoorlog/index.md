@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Jacues Ellul']
-auteurs = ['De redactie']
+cited = ['Jacues Ellul']
+authors = ['De redactie']
 date = '2022-05-08'
 image = 'thumb.webp'
 note = "Dit is een vertaling van het essay 'The Spectrum of Violence', het origineel is [hier](https://schwabstack.substack.com/p/the-spectrum-of-violence) te lezen."
 subtitle = 'Het spectrum van geweld'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Welkom in de netwerkoorlog'
 +++
 

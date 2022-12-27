@@ -1,10 +1,10 @@
 +++
-auteurs = ['Stained Glass Zealot']
+authors = ['Stained Glass Zealot']
 date = '2022-04-13'
 image = 'thumb.webp'
 note = "Dit is een vertaling van het essay 'I'm not religious, but...', het origineel is [hier](https://glasszealot.substack.com/p/im-not-religious-but) te lezen."
 subtitle = 'Over de betekenis van religie'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Ik ben niet gelovig maar...'
 +++
 

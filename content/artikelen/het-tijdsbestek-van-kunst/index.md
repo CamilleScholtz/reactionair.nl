@@ -1,11 +1,11 @@
 +++
-auteurs = ['Stained Glass Zealot']
+authors = ['Stained Glass Zealot']
 date = '2022-03-10'
-dossiers = ['Christendom']
+files = ['Christendom']
 image = 'thumb.webp'
 note = "Dit is een vertaling van het essay 'The Timeframe of Art', het origineel is [hier](https://glasszealot.substack.com/p/the-timeframe-of-art) te lezen."
 subtitle = 'Over mode en architectuur'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Het tijdsbestek van kunst'
 +++
 

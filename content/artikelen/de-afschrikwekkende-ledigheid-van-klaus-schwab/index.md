@@ -1,11 +1,11 @@
 +++
 anchor = 'Top'
-auteurs = ['De redactie']
+authors = ['De redactie']
 date = '2022-10-05'
 image = 'demon.webp'
 note = "Dit is een vertaling van het essay 'The Terrifying Vacuity of Klaus Schwab', het origineel is [hier](https://www.eugyppius.com/p/the-terrifying-vacuity-of-klaus-schwab) te lezen."
 subtitle = 'Een recensie van COVID-19: The Great Reset'
-themas = 'Recensie en Biografie'
+themes = 'Recensie en Biografie'
 title = 'De afschrikwekkende ledigheid van Klaus Schwab'
 +++
 

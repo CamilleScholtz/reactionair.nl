@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Erik von Kuehnelt-Leddihn']
-auteurs = ['Sanura']
+cited = ['Erik von Kuehnelt-Leddihn']
+authors = ['Sanura']
 date = '2021-12-29'
-dossiers = ['Christendom']
+files = ['Christendom']
 image = 'thumb.webp'
 subtitle = 'Autoriteit versus macht'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Christendom en legitimiteit'
 +++
 

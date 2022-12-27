@@ -1,10 +1,10 @@
 +++
-aangehaald = ['Oswald Spengler']
-auteurs = ['Jurbin van Hooff']
+cited = ['Oswald Spengler']
+authors = ['Jurbin van Hooff']
 date = '2022-06-22'
 image = 'thumb.webp'
 subtitle = 'De wereld waarin je bent opgegroeid bestaat niet meer'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'We leven in een breuk met de geschiedenis'
 +++
 

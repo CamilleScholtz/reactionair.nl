@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Jean Baudrillard']
-auteurs = ['Rintrah Radagast', 'De Melancholieke Nar']
+cited = ['Jean Baudrillard']
+authors = ['Rintrah Radagast', 'De Melancholieke Nar']
 date = '2022-04-03'
-dossiers = ['Oekraïne']
+files = ['Oekraïne']
 image = 'thumb.webp'
 subtitle = 'Een baudrillardiaanse visie'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Het hyperreeële presidentschap van de acteur Zelenski'
 +++
 

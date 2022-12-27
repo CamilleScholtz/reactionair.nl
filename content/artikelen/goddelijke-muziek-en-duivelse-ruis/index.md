@@ -1,10 +1,10 @@
 +++
 anchor = 'Smart'
-auteurs = ['Tom van Giersbergen']
+authors = ['Tom van Giersbergen']
 date = '2022-06-29'
 image = 'cosmos-7.jpg'
 subtitle = 'Een parabel'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Goddelijke muziek en duivelse ruis'
 +++
 Ooit, zo stel ik me voor, schiep God hemel en aarde en alle levende wezens erin met ons mensen als de kroon op de schepping.

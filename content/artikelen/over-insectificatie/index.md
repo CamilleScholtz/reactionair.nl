@@ -1,12 +1,12 @@
 +++
-aangehaald = ['Carl Schmitt']
+cited = ['Carl Schmitt']
 anchor = 'Smart'
-auteurs = ['De Melancholieke Nar']
+authors = ['De Melancholieke Nar']
 date = '2022-07-12'
 image = '12eac8367a00449eb7bba730006f4c8b-medium.jpg'
 note = "Dit is een vertaling van het essay 'On Insectisation', het origineel is [hier](https://parallaxoptics.com/2020/12/30/on-insectisation/) te lezen."
 subtitle = 'Hoe we afglijden van mens tot bugman'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'Over insectificatie'
 +++
 

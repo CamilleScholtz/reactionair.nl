@@ -1,10 +1,10 @@
 +++
-aangehaald = ['Erik von Kuehnelt-Leddihn', 'Karl Marx']
-auteurs = ['Sanura']
+cited = ['Erik von Kuehnelt-Leddihn', 'Karl Marx']
+authors = ['Sanura']
 date = '2021-10-09'
 image = 'thumb.webp'
 subtitle = 'Extreemrechtse liberaal'
-themas = 'Recensie en Biografie'
+themes = 'Recensie en Biografie'
 title = 'Het Erik Enigma'
 +++
 

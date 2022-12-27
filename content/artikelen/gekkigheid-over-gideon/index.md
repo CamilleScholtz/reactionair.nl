@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Johan Rudolph Thorbecke']
+cited = ['Johan Rudolph Thorbecke']
 anchor = 'Top'
-auteurs = ['Sanura']
+authors = ['Sanura']
 date = '2022-07-23'
 image = '900.jpeg'
 subtitle = 'Wet, recht en geweld… wie weet nog wat?'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Gekkigheid over Gideon'
 +++
 Terwijl Nederland (Europa en eigenlijk misschien wel de meerderheid van de wereld) verder en verder lijken af te glijden naar haat en burgeroorlog, vervagen en verdwijnen alle zekerheden op één na: niemand weet echt nog wat de spelregels zijn. 

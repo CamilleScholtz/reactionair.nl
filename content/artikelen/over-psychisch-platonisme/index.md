@@ -1,11 +1,11 @@
 +++
 anchor = 'Top'
-auteurs = ['Jan de Maansnijder']
+authors = ['Jan de Maansnijder']
 date = '2022-09-14'
 image = 'v.jpg'
 note = "Dit is een vertaling van het essay 'On Psychic Platonism', het origineel is [hier](https://esoterictraditionalism.wordpress.com/2019/12/23/on-psychic-platonism/) te lezen."
 subtitle = 'Vorm losgekoppeld van lichaam'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Over Psychisch Platonisme'
 +++
 

@@ -1,11 +1,11 @@
 +++
-aangehaald = ['Jacques Derrida', 'Michel Foucault', 'Karl Marx', 'Jean-Paul Sartre']
-auteurs = ['Sanura']
+cited = ['Jacques Derrida', 'Michel Foucault', 'Karl Marx', 'Jean-Paul Sartre']
+authors = ['Sanura']
 date = '2021-10-05'
-dossiers = ['Woke']
+files = ['Woke']
 image = 'thumb.webp'
 subtitle = 'Misbruikers moeten kinderen weerbaar maken tegen misbruik'
-themas = 'Cultuur en Maatschappij'
+themes = 'Cultuur en Maatschappij'
 title = 'They pee on your leg and tell you it’s raining'
 +++
 

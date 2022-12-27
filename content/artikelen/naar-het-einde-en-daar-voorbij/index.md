@@ -1,10 +1,10 @@
 +++
-aangehaald = ['René Guénon', 'Martin Heidegger', 'Martin Lings']
-auteurs = ['Camille Meloen']
+cited = ['René Guénon', 'Martin Heidegger', 'Martin Lings']
+authors = ['Camille Meloen']
 date = '2021-10-21'
 image = 'thumb.webp'
 subtitle = 'Gedachten over het Onbegrensde'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'Naar het einde en daar voorbij!'
 +++
 

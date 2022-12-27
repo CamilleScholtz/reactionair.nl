@@ -1,10 +1,10 @@
 +++
 anchor = 'Smart'
-auteurs = ['‘Het Dorp’ Genieter']
+authors = ['‘Het Dorp’ Genieter']
 date = '2022-07-08'
 image = 'qts5jkz.jpeg'
 subtitle = 'Subtiele manipulaties in de gemeentepolitiek'
-themas = 'Politiek en Actualiteit'
+themes = 'Politiek en Actualiteit'
 title = 'Memoires van een raadslid'
 +++
 

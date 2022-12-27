@@ -1,9 +1,9 @@
 +++
-auteurs = ['De redactie']
+authors = ['De redactie']
 date = '2022-02-11'
 image = 'thumb.webp'
 subtitle = 'Nummer 8 zal je versteld doen staan'
-themas = 'Klikaas'
+themes = 'Klikaas'
 title = '10 redenen waarom liberalisme ongelukkig maakt!'
 +++
 

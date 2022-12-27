@@ -1,11 +1,11 @@
 +++
-aangehaald = ['René Guénon', 'Aristoteles', 'Pythagoras']
+cited = ['René Guénon', 'Aristoteles', 'Pythagoras']
 anchor = 'Top'
-auteurs = ['Camille Meloen']
+authors = ['Camille Meloen']
 date = '2021-11-21'
 image = 'thumb.webp'
 subtitle = 'Over de omgekeerde analogie'
-themas = 'Religie en Metafysica'
+themes = 'Religie en Metafysica'
 title = 'God en vrijheid'
 +++
 
