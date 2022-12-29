@@ -23,6 +23,7 @@ cleanDestinationDir = true
 	theme  = "themes"
 	cited  = "cited"
 
+# TODO: See https://github.com/gohugoio/hugo/issues/8523
 [permalinks]
 	authors = "/auteurs/:slug/"
 	files   = "/dossiers/:slug/"
@@ -46,5 +47,5 @@ cleanDestinationDir = true
 	home     = ["HTML", "JSON", "RSS"]
 	section  = ["RSS"]
 	taxonomy = ["RSS"]
-	term     = ["HTML", "RSS"]
+	term     = ["HTML"]
 	page     = ["HTML"]
