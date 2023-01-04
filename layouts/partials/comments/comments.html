@@ -1,60 +1,17 @@
-{{ $apiUrl := (cond (ne (.apiUrl) nil) .apiUrl "https://welcomments.io/api") }}
-{{ $websiteId := .websiteId }}
-{{ $slug := index (last 1 (split (delimit (split .context.RelPermalink "/") "," "") ",")) 0 }}
-{{ $slug = cond (ne $slug "") $slug "___root___" }}
+{{ $slug := .Params.title | anchorize }}
 
-<div id="welcomments__container" class="welcomments__container">
-	{{ $allComments := dict }}
-	{{ if isset .context.Site.Data.welcomments $slug }}
-		{{ $allComments = index .context.Site.Data.welcomments $slug }}
+{{ $comments := dict }}
+{{ if isset .Site.Data.comments $slug }}
+	{{ $comments = index .Site.Data.comments $slug }}
+{{ end }}
+
+{{ range $comments }}
+	{{ if eq (index . "accepted") false }}
+		{{ continue }}
 	{{ end }}
 
-	<div id="welcomments__comment-container" class="welcomments__comment-container">
-		{{- range $allComments -}}
-			{{- if eq (index . "replying_to") nil -}}
-				{{- $data := dict -}}
-				{{- $data  = merge $data (dict "nestingLevel" 0) -}}
-				{{- $data  = merge $data (dict "allComments" $allComments) -}}
-				{{- $data  = merge $data (dict "comment" .) -}}
-				{{- $data  = merge $data (dict "apiUrl" $apiUrl) -}}
-				{{- $data  = merge $data (dict "websiteId" $websiteId) -}}
-				{{- partial "comments/single_comment" $data -}}
-			{{- end -}}
-		{{- end -}}
-	</div>
+	{{ partial "comments/comment" . }}
+{{ end }}
 
-	{{ $data := dict }}
-	{{ $data  = merge $data (dict "apiUrl" $apiUrl) }}
-	{{ $data  = merge $data (dict "websiteId" $websiteId) }}
-	{{ $data  = merge $data (dict "permalink" .context.Permalink) }}
-	{{ $data  = merge $data (dict "slug" $slug) }}
+{{ partial "comments/form" $slug }}
 
-	{{ partial "comments/comment_form" $data }}
-</div>
-
-<script type="text/javascript">
-	welcomments = {
-		apiUrl: {{ $apiUrl }},
-
-		placeholderCommentFactory: function (comment) {
-			const year  = new Intl.DateTimeFormat("nl-NL", {year: "numeric"}).format(comment.date);
-			const m     = new Intl.DateTimeFormat("nl-NL", {month: "long"}).format(comment.date);
-			const month = m.charAt(0).toUpperCase() + m.slice(1);
-			const day   = new Intl.DateTimeFormat("nl-NL", {day: "2-digit"}).format(comment.date);
-
-			{{ $template := dict }}
-			{{ $template = merge $template (dict "id" "${comment.id}") }}
-			{{ $template = merge $template (dict "elementId" "welcomments__comment-${comment.id}") }}
-			{{ $template = merge $template (dict "elementClassName" "welcomments__comment") }}
-			{{ $template = merge $template (dict "nestingLevel" 0) }}
-			{{ $template = merge $template (dict "formattedDate" "${day} ${month}, ${year}") }}
-			{{ $template = merge $template (dict "dateXmlSchema" "${comment.date}") }}
-			{{ $template = merge $template (dict "authorName" "${comment.author.name}") }}
-			{{ $template = merge $template (dict "message" "${comment.message}") }}
-			{{ $template = merge $template (dict "apiUrl" $apiUrl) }}
-			{{ $template = merge $template (dict "websiteId" $websiteId) }}
-
-			return `{{ safeJS (partial "comments/template.html" $template) }}`;
-		},
-	};
-</script>

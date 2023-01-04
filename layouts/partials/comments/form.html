@@ -1,0 +1,12 @@
+<form id="comment-form" action="http://127.0.0.1:8000/api/comment">
+	<input type="hidden" name="article" id="article" value="{{ . }}"/>
+
+	<div class="comment-form-group">
+		<textarea rows="4" name="body" id="body" required spellcheck="true" placeholder="Deel uw gedachten…"></textarea>
+
+		<input type="text" id="author" name="author" required spellcheck="false" placeholder="Uw naam"/>
+		<button type="submit" class="button">
+			-›
+		</button>
+	</div>
+</form>

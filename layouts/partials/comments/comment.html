@@ -1,0 +1,16 @@
+<div class="comment" itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+	<div class="comment-info">
+		<h3 class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+			<span itemprop="name">{{ index . "author" }}</span>
+		</h3>
+
+		<p class="comment-time">
+			<time datetime="{{ index . "date" }}" itemprop="datePublished">
+				&nbsp;|&nbsp;{{ time.Format "2 January, 2006" (index . "date") | title }}
+			</time>
+		</p>
+	</div>
+
+
+	<div class="comment-body" itemprop="text">{{ index . "body" | markdownify }}</div>
+</div>

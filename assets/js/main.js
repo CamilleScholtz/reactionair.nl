@@ -1,3 +1,24 @@
+const comment = (main) => {
+	const form = main.querySelector("#comment-form");
+
+	form.addEventListener("submit", (ev) => {
+		ev.preventDefault();
+
+		const data = new FormData(form);
+
+		sessionStorage.setItem(data.get('article'), data);
+
+		fetch(ev.target.action, {
+			method: 'POST',
+			mode: 'no-cors',
+			headers: {
+				'Content-Type': 'application/json'
+			},
+			body: data
+		});
+	});
+}
+
 const footnotes = (main, mobile) => {
 	if (typeof main.id != "string" || main.id != "page") {
 		return;
@@ -120,18 +141,6 @@ const footnotes = (main, mobile) => {
 		});
 	});
 }
-
-/*const justify = (main) => {
-	// TODO: Comments without paragraphs don't have p elements.
-	const elements = main.querySelectorAll(".content>p, .content>blockquote p, .content>ul li p, .content>ol li p, .welcomments__comment-message p");
-
-	document.fonts.ready.then(() => {
-		texLinebreak.texLinebreakDOM(elements, {
-			hangingPunctuation:     false,
-			ignoreFloatingElements: true,
-		});
-	});
-}*/
 
 const smallcaps = (main) => {
 	const sentence = main.querySelector(".content>p:first-of-type");
@@ -392,11 +401,11 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	const main   = document.querySelector("main");
 
 	quote(main);
-	//justify(main);
 	smallcaps(main)
 	scroll(header, main, mobile);
 	time(header);
 	search(header, mobile);
 	slider(mobile);
 	footnotes(main, mobile);
+	comment(main);
 });

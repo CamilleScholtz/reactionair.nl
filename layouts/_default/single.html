@@ -78,9 +78,6 @@
 	{{ end }}
 
 	<section id="comments">
-		{{ partial "comments/comments" (dict
-			"context"   .
-			"websiteId" "BHkB0mKadpRI9gniJfThtn9LU"
-		) }}
+		{{ partial "comments/comments" . }}
 	</section>
 {{ end }}

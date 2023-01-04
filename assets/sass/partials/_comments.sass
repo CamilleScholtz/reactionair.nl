@@ -3,22 +3,13 @@
 	margin-top: 60px
 	padding-top: 40px
 
-	#welcomments__container
-		.welcomments__nesting-level-1
-			margin-left: 10px
+	.comment
+		background: var(--accent-background-color)
+		margin-bottom: 10px
+		padding: 40px
 
-		.welcomments__nesting-level-2
-			margin-left: 20px
-
-		.welcomments__nesting-level-3
-			margin-left: 30px
-
-		.welcomments__comment
-			background: var(--accent-background-color)
-			margin-bottom: 10px
-			padding: 40px
-
-			h3
+		.comment-info
+			.comment-author
 				color: var(--accent-color)
 				display: inline
 				font-family: 'Courier Prime', monospace
@@ -26,63 +17,38 @@
 				font-weight: 400
 				margin-top: 0
 
-			.welcomments__comment-time
+			.comment-time
 				color: var(--muted-color)
 				display: inline
 				font-family: 'Courier Prime', monospace
 				font-size: 13px
 				text-transform: uppercase
 
-			.welcomments__comment-message
-				margin-bottom: 15px
-				margin-top: 20px
+		.comment-body
+			margin-bottom: 15px
+			margin-top: 20px
+			text-align: justify
+
+			p
+				margin-bottom: 30px
 				text-align: justify
 
-				p
-					margin-bottom: 30px
-					text-align: justify
+				&:last-of-type
+					margin-bottom: 0px
 
-					&:last-of-type
-						margin-bottom: 0px
+			a
+				hyphens: auto
+				word-break: break-word
 
-				a
-					hyphens: auto
-					word-break: break-word
-
-			.welcomments__comment-reply-link
-				font-family: 'Courier Prime', monospace
-				font-size: 13px
-
-			#welcomments__form
-				margin-left: -30px !important
-				margin-top: 10px !important
-				overflow: hidden
-				padding: 30px
-				padding-bottom: 0px
-				padding-top: 0px
-
-				textarea,
-				input
-					background: var(--background-color)
-
-	#welcomments__form
+	#comment-form
 		margin-top: 40px
 
-		.welcomments__form-group
-			#message
+		.comment-form-group
+			#body
 				width: 100%
 
-			#author-name,
-			#author-email
-				width: calc(50% - 30px)
-
-			#author-name
-				margin-right: 10px
+			#name
+				width: calc(100% - 60px)
 
 			button
 				float: right
-
-	.welcomments__email-notice
-		float: left
-		font-size: 15px
-		margin-bottom: 0px
