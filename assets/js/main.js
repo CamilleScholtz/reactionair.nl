@@ -56,6 +56,8 @@ const comments = (main) => {
 			body: data
 		});
 
+		form.reset();
+
 		load(comments);
 	});
 }
