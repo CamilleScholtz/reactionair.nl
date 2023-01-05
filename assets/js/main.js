@@ -3,49 +3,10 @@ const comments = (main) => {
 		return;
 	}
 
-	const comments = main.querySelector("#comment-list");
-	const form     = main.querySelector("#comment-form");
-
-	const load = (comments) => {
-		location.pathname.split("/").slice(1);
-
-		const data = JSON.parse(sessionStorage.getItem(location.pathname.split("/").slice(1)[1]));
-		if (!data) {
-			return;
-		}
-
-		const comment = document.createElement("div");
-		comment.innerHTML = `
-			<div class="comment">
-				<div class="comment-info">
-					<h3 class="comment-author">
-						<span>${data.author}</span>
-					</h3>
-
-					<p class="comment-time">
-						<time>
-							|&nbsp;nieuw
-						</time>
-					</p>
-				</div>
-
-
-				<div class="comment-body">${data.body}</div>
-			</div>
-		`;
-
-		comments.append(comment);
-	}
-	load(comments);
-
-	form.addEventListener("submit", (ev) => {
+	main.querySelector("#comment-form").addEventListener("submit", (ev) => {
 		ev.preventDefault();
 
-		const data = new FormData(form);
-
-		let obj = {};
-		data.forEach((value, key) => obj[key] = value);
-		sessionStorage.setItem(data.get('article'), JSON.stringify(obj));
+		const data = new FormData(ev.target);
 
 		fetch(ev.target.action, {
 			method: 'POST',
@@ -56,9 +17,29 @@ const comments = (main) => {
 			body: data
 		});
 
-		form.reset();
+		ev.target.reset();
 
-		load(comments);
+		const comment = document.createElement("div");
+		comment.innerHTML = `
+			<div class="comment">
+				<div class="comment-info">
+					<h3 class="comment-author">
+						<span>${data.get("author")}</span>
+					</h3>
+
+					<p class="comment-time">
+						<time>
+							|&nbsp;nieuw
+						</time>
+					</p>
+				</div>
+
+
+				<div class="comment-body">${data.get("body")}</div>
+			</div>
+		`;
+
+		main.querySelector("#comment-list").append(comment);
 	});
 }
 
