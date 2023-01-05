@@ -1,12 +1,51 @@
-const comment = (main) => {
-	const form = main.querySelector("#comment-form");
+const comments = (main) => {
+	if (typeof main.id != "string" || main.id != "page") {
+		return;
+	}
+
+	const comments = main.querySelector("#comment-list");
+	const form     = main.querySelector("#comment-form");
+
+	const load = (comments) => {
+		location.pathname.split("/").slice(1);
+
+		const data = JSON.parse(sessionStorage.getItem(location.pathname.split("/").slice(1)[1]));
+		if (!data) {
+			return;
+		}
+
+		const comment = document.createElement("div");
+		comment.innerHTML = `
+			<div class="comment">
+				<div class="comment-info">
+					<h3 class="comment-author">
+						<span>${data.author}</span>
+					</h3>
+
+					<p class="comment-time">
+						<time>
+							|&nbsp;nieuw
+						</time>
+					</p>
+				</div>
+
+
+				<div class="comment-body">${data.body}</div>
+			</div>
+		`;
+
+		comments.append(comment);
+	}
+	load(comments);
 
 	form.addEventListener("submit", (ev) => {
 		ev.preventDefault();
 
 		const data = new FormData(form);
 
-		sessionStorage.setItem(data.get('article'), data);
+		let obj = {};
+		data.forEach((value, key) => obj[key] = value);
+		sessionStorage.setItem(data.get('article'), JSON.stringify(obj));
 
 		fetch(ev.target.action, {
 			method: 'POST',
@@ -16,6 +55,8 @@ const comment = (main) => {
 			},
 			body: data
 		});
+
+		load(comments);
 	});
 }
 
@@ -143,10 +184,11 @@ const footnotes = (main, mobile) => {
 }
 
 const smallcaps = (main) => {
-	const sentence = main.querySelector(".content>p:first-of-type");
-	if (!sentence) {
+	if (typeof main.id != "string" || main.id != "page") {
 		return;
 	}
+
+	const sentence = main.querySelector(".content>p:first-of-type");
 
 	let pattern = /^(.*?[^\w\d\s\'‘’“”\-\u00C0-\u024F\u1E00-\u1EFF<>/])/;
 	if (sentence.innerHTML.match(pattern)[0].split(" ").length > 9) {
@@ -353,10 +395,11 @@ const slider = (mobile) => {
 }
 
 const quote = (main) => {
-	const intro = main.querySelector(".intro");
-	if (!intro) {
+	if (typeof main.id != "string" || main.id != "home") {
 		return;
 	}
+
+	const intro = main.querySelector(".intro");
 
 	const quotes = [
 		["Ananda K. Coomaraswamy", "Mythe belichaamt de dichtstbijzijnde benadering van absolute waarheid die in woorden kan worden uitgedrukt."],
@@ -407,5 +450,5 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	search(header, mobile);
 	slider(mobile);
 	footnotes(main, mobile);
-	comment(main);
+	comments(main);
 });

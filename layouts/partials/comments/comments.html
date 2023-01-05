@@ -5,13 +5,15 @@
 	{{ $comments = index .Site.Data.comments $slug }}
 {{ end }}
 
-{{ range $comments }}
-	{{ if eq (index . "accepted") false }}
-		{{ continue }}
-	{{ end }}
+<section id="comment-list">
+	{{ range $comments }}
+		{{ if eq (index . "accepted") false }}
+			{{ continue }}
+		{{ end }}
 
-	{{ partial "comments/comment" . }}
-{{ end }}
+		{{ partial "comments/comment" . }}
+	{{ end }}
+</section>
 
 {{ partial "comments/form" $slug }}
 
