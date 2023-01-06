@@ -1,8 +1,7 @@
 ---
-draft: true
 title: 'De honden, de vossen, en de mensen in de toren'
 subtitle: 'een sprookje voor de moderne tijd'
-date: '2023-01-01'
+date: '2023-01-06'
 authors:
     - 'Olivier Vos'
 themes: 'Cultuur en Maatschappij'
