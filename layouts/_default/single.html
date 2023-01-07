@@ -59,6 +59,7 @@
 			{{ range $i, $file := .Params.files }}
 				{{ $pages    := where site.RegularPages "Params.files" "intersect" (slice $file) }}
 				{{ $pages     = where $pages "Params.title" "ne" $.Params.title }}
+				{{ $pages     = first 5 $pages }}
 
 				{{ $side := "left" }}
 				{{ if mod $i 2 }}
@@ -67,12 +68,13 @@
 
 				{{ partialCached "articles/theme.html" (dict
 					"context" .
-					"section" "dossiers"
+					"section" "files"
+					"path"    "dossiers"
 					"term"    $file
 					"pages"   $pages
 					"side"    $side
 					"lazy"    true
-				) "files" $file $side }}
+				) "files" $file $pages $side }}
 			{{ end }}
 		</section>
 	{{ end }}

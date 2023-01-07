@@ -75,7 +75,8 @@
 		
 			{{ partial "articles/theme.html" (dict
 				"context" .
-				"section" "themas"
+				"section" "themes"
+				"path"    "themas"
 				"term"    $theme
 				"pages"   (where $pages "Params.themes" "eq" $theme)
 				"side"    $side
@@ -104,7 +105,8 @@
 		
 			{{ partial "articles/theme.html" (dict
 				"context" .
-				"section" "themas"
+				"section" "themes"
+				"path"    "themas"
 				"term"    $theme
 				"pages"   (where $pages "Params.themes" "eq" $theme)
 				"side"    $side
@@ -114,7 +116,8 @@
 	
 		{{ partial "articles/theme.html" (dict
 			"context" .
-			"section" "themas"
+			"section" "themes"
+			"path"    "themas"
 			"term"    "Klikaas"
 			"pages"   (where site.RegularPages "Params.themes" "eq" "Klikaas")
 			"side"    "right"

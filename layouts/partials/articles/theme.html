@@ -17,7 +17,7 @@
 			</a>
 		{{ end }}
 
-		<a href="/{{ .section }}/{{ urlize .term }}/" class="more">Meer artikelen...</a>
+		<a href="/{{ .path }}/{{ urlize .term }}/" class="more">Meer artikelen...</a>
 	</div>
 
 	{{ partialCached "articles/large.html" (dict
