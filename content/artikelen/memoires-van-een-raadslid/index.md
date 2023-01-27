@@ -5,7 +5,7 @@ authors:
 date: "2022-07-08"
 image: qts5jkz.jpeg
 subtitle: Subtiele manipulaties in de gemeentepolitiek
-themes: Politiek en Actualiteit
+themes: Onderzoek en Speurwerk
 title: Memoires van een raadslid
 ---
 

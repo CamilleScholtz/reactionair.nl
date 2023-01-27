@@ -6,7 +6,7 @@ files:
 - Islam
 image: thumb.webp
 subtitle: Onderzoek naar Soumaya Sahla
-themes: Politiek en Actualiteit
+themes: Onderzoek en Speurwerk
 title: De weg van terroriste naar VVD-adviseur
 ---
 

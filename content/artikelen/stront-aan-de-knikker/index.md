@@ -6,7 +6,7 @@ files:
 - Woke
 image: thumb.webp
 subtitle: Over het COC en wie onze kinderen nu eigenlijk opvoedt
-themes: Politiek en Actualiteit
+themes: Onderzoek en Speurwerk
 title: Stront aan de knikker
 ---
 

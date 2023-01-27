@@ -1,5 +1,5 @@
 {{ define "main" }}
-	{{ $themes   := slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Recensie en Biografie" "Religie en Metafysica" }}
+	{{ $themes   := slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Metafysica" "Onderzoek en Speurwerk" "Recensie en Biografie" }}
 	{{ $articles := where site.RegularPages "Params.themes" "in" $themes }}
 
 	<section class="hero">
@@ -94,7 +94,7 @@
 	</section>
 
 	<section>
-		{{ $themes := slice "Recensie en Biografie" "Religie en Metafysica"  }}
+		{{ $themes := slice "Religie en Metafysica" "Onderzoek en Speurwerk" "Recensie en Biografie" }}
 		{{ $pages  := where $articles "Params.themes" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}		
@@ -112,16 +112,6 @@
 				"side"    $side
 				"lazy"    (ge $i 1)
 			) }}
-		{{ end }}	
-	
-		{{ partial "articles/theme.html" (dict
-			"context" .
-			"section" "themes"
-			"path"    "themas"
-			"term"    "Klikaas"
-			"pages"   (where site.RegularPages "Params.themes" "eq" "Klikaas")
-			"side"    "right"
-			"lazy"    true
-		) }}
+		{{ end }}
 	</section>
 {{ end }}
