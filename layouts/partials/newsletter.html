@@ -1,0 +1,31 @@
+<div class="newsletter-container">
+	<div class="text">
+		<h3><span class="de">De</span> Reactionair</h3>
+		<h2>Nieuwsbrief</h2>
+
+		<p>Blijf op de hoogte van de nieuwste artikelen door u in te schrijven op onze nieuwsbrief!</p>
+	</div>
+
+	<div class="envelope-container">
+		<div class="envelope">
+			{{ $imageClosed := resources.Get "images/newsletter-closed.webp" }}
+			{{ $imageOpen   := resources.Get "images/newsletter-open.webp" }}
+
+			<img
+				src="{{ ($imageOpen.Fit "560x692 webp").RelPermalink }}"
+				data-send="{{ ($imageClosed.Fit "560x692 webp").RelPermalink }}"
+				loading="lazy"
+				alt="Envelop"
+				class="cover">
+			<div class="shadow"></div>
+		</div>
+	</div>
+
+	<form action="http://127.0.0.1:8000/api/newsletter">
+		<input type="email" id="email" name="email" required placeholder="Uw e-mailadres"/>
+
+		<button type="submit" class="button">
+			-›
+		</button>
+	</form>
+</div>

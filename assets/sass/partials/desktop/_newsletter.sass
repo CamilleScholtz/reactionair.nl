@@ -1,0 +1,47 @@
+#newsletter
+	width: 835px
+	position: relative
+
+	.newsletter-container
+		grid-template-columns: 8fr 5fr
+		grid-template-rows: 8fr 5fr
+		height: 300px
+		padding-left: 40px
+
+		.text
+			margin-top: 75px
+
+			h3
+				font-size: 32px
+				margin-left: 223px
+
+				.de
+					font-size: 20px
+
+			h2
+				font-size: 62px
+
+			a,
+			p
+				font-size: 20px
+
+		.envelope-container
+			.envelope
+				margin-top: -80px
+				transform: rotateY(-10deg) rotateX(3deg)
+
+				@keyframes move
+					0%
+						transform: rotateY(-20deg) rotateX(3deg)
+					50%
+						transform: rotateY(-30deg) rotateX(3deg)
+					100%
+						transform: rotateY(-20deg) rotateX(3deg)
+
+	form
+		position: absolute
+		bottom: 70px
+		right: 20px
+
+		button
+			background: var(--popup-border-color)
