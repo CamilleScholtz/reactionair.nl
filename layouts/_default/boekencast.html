@@ -11,7 +11,7 @@
 					<img
 						src="{{ ($image.Fit "1320x880 webp").RelPermalink }}"
 						alt="{{ .Params.book }}"
-						class="cover" 
+						class="cover"
 						style="transform: translateZ({{ $thickness }}vh);">
 					<div class="pages" style="transform: translateX({{ sub 27 $thickness }}vh) rotateY(90deg); width: {{ mul $thickness 1.9 }}vh;"></div>
 					<div class="back" style="transform: translateZ(-{{ $thickness }}vh);"></div>

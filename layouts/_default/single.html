@@ -1,42 +1,40 @@
 {{ define "main" }}
 	<article>
 		<section class="hero">
-			<div class="left">
-				{{ $image := .Resources.GetMatch .Params.image }}
-
-				{{ $1x := $image.Resize "x1024 webp" }}
-				{{ $2x := $image.Resize "x2048 webp" }}
-
-				<figure>
-					<img 
-						srcset="{{ $1x.RelPermalink }} 1x,
-						        {{ $2x.RelPermalink }} 2x"
-						src="{{ $2x.RelPermalink }}"
-						alt="{{ if isset .Params "caption" }}{{ .Params.caption }}{{ else }}{{ .Params.title | safeHTML }}{{ end }}"
-						style="background: {{ index $1x.Colors 0 }};">
-
-					{{ if isset .Params "caption" }}
-						<figcaption>{{ .Params.caption }}</figcaption>
-					{{ end }}
-				</figure>
-			</div>
-
-			<div class="right">
-				<div class="authors">
-					{{ range $index, $author := .Params.authors }}
-						<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>{{ if ne (add $index 1) (len $.Params.authors) }},&nbsp{{ end }}
-					{{ end }}
-				</div>
-
-				{{ if isset .Params "note" }}
-					<section class="note">
-						<small>{{ .Params.note | markdownify }}</small>
-					</section>
+			<section class="authors">
+				{{ range $index, $author := .Params.authors }}
+					<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>{{ if ne (add $index 1) (len $.Params.authors) }},&nbsp{{ end }}
 				{{ end }}
+			</section>
 
+			<section class="title">
 				<h1>{{ .Params.title | safeHTML }}</h1>
 				<h2>{{ .Params.subtitle | safeHTML }}</h2>
-			</div>
+			</section>
+
+			<figure>
+				{{ $image := .Resources.GetMatch .Params.image }}
+
+				{{ $1x := $image.Fill "1035x500 webp" }}
+				{{ $2x := $image.Fill "2070x1000 webp" }}
+
+				<img
+					srcset="{{ $1x.RelPermalink }} 1x,
+					        {{ $2x.RelPermalink }} 2x"
+					src="{{ $2x.RelPermalink }}"
+					alt="{{ if isset .Params "caption" }}{{ .Params.caption }}{{ else }}{{ .Params.title | safeHTML }}{{ end }}"
+					style="background: {{ index $1x.Colors 0 }};">
+
+				{{ if isset .Params "caption" }}
+					<figcaption>{{ .Params.caption }}</figcaption>
+				{{ end }}
+			</figure>
+
+			{{ if isset .Params "note" }}
+				<section class="note">
+					<small>{{ .Params.note | markdownify }}</small>
+				</section>
+			{{ end }}
 		</section>
 
 		<section class="content">		

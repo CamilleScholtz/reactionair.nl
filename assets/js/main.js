@@ -166,19 +166,35 @@ const footnotes = (main, mobile) => {
 	});
 }
 
-const smallcaps = (main) => {
-	if (typeof main.id != "string" || main.id != "page") {
+const newsletter = (main) => {
+	const newsletter = main.querySelector("#newsletter");
+	if (!newsletter) {
 		return;
 	}
 
-	const sentence = main.querySelector(".content>p:first-of-type");
+	newsletter.querySelector("form").addEventListener("submit", (ev) => {
+		ev.preventDefault();
 
-	let pattern = /^(.*?[^\w\d\s\'‘’“”\-\u00C0-\u024F\u1E00-\u1EFF<>/])/;
-	if (sentence.innerHTML.match(pattern)[0].split(" ").length > 9) {
-		pattern = /^([\S]+\s[\S]+\s[\S]+)/;
-	}
+		const data = new FormData(ev.target);
 
-	sentence.innerHTML = sentence.innerHTML.replace(pattern, "<span style=\"font-variant: small-caps;\">$1</span>");
+		fetch(ev.target.action, {
+			method: 'POST',
+			mode: 'no-cors',
+			headers: {
+				'Content-Type': 'application/json'
+			},
+			body: data
+		});
+
+		ev.target.reset();
+
+		const envelope           = newsletter.querySelector(".cover");
+		envelope.src             = envelope.dataset.send;
+		envelope.style.transform = "translateY(-10px) scale(0.9)";
+
+		const text     = newsletter.querySelector(".text p");
+		text.innerHTML = "Wij sturen u een e-mail om het e-mailadres te verifiëren, controleer uw inbox.";
+	});
 }
 
 const time = (header) => {
@@ -246,7 +262,7 @@ const scroll = (header, main, mobile) => {
 		ticking = true;
 		setTimeout(() => {
 			ticking = false;	
-		}, 100);
+		}, 50);
 
 		const scroll = window.scrollY;
 
@@ -258,7 +274,7 @@ const scroll = (header, main, mobile) => {
 			return;
 		}
 
-		if (!hidden && scroll > lastScroll + 12) {
+		if (!hidden && scroll > lastScroll + 6) {
 			hide(scroll);
 		} else if (hidden && scroll < lastScroll - 100) {
 			show(scroll);
@@ -377,6 +393,21 @@ const slider = (mobile) => {
 	});
 }
 
+const smallcaps = (main) => {
+	if (typeof main.id != "string" || main.id != "page") {
+		return;
+	}
+
+	const sentence = main.querySelector(".content>p:first-of-type");
+
+	let pattern = /^(.*?[^\w\d\s\'‘’“”\-\u00C0-\u024F\u1E00-\u1EFF<>/])/;
+	if (sentence.innerHTML.match(pattern)[0].split(" ").length > 9) {
+		pattern = /^([\S]+\s[\S]+\s[\S]+)/;
+	}
+
+	sentence.innerHTML = sentence.innerHTML.replace(pattern, "<span style=\"font-variant: small-caps;\">$1</span>");
+}
+
 const quote = (main) => {
 	if (typeof main.id != "string" || main.id != "home") {
 		return;
@@ -434,4 +465,5 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	slider(mobile);
 	footnotes(main, mobile);
 	comments(main);
+	newsletter(main);
 });

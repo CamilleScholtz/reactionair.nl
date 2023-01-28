@@ -1,4 +1,4 @@
-{{ $slug := .Params.title | anchorize }}
+{{ $slug := .Params.title | urlize }}
 
 {{ $comments := dict }}
 {{ if isset .Site.Data.comments $slug }}

@@ -1,33 +1,43 @@
 article
 	.hero
-		display: grid
-		justify-content: center
-		width: 100%
+		padding-bottom: 100px
 
-	.left
-		figure
-			img
-				width: 100%
-				object-fit: cover
-
-	.right
 		.authors
 			display: flex
 			font-family: 'Courier Prime', monospace
 			font-size: 13px
+			margin-bottom: 25px
 
 			a
 				color: var(--accent-color)
 				font-size: 13px
 
-		.note		
+		.title
+			h1
+				margin-bottom: 5px
+
+			h2
+				font-style: italic
+
+		figure
+			margin-top: 50px
+
+			img
+				height: 500px
+				width: 100%
+				object-fit: cover
+
+			figcaption
+				background: var(--background-color)
+				font-family: 'Courier Prime', monospace
+				font-size: 13px
+				position: absolute
+
+		.note
 			a,
 			small
 				font-family: 'Courier Prime', monospace
 				font-size: 13px
-
-		h2
-			font-style: italic
 
 	.content
 		border-top: 1px dashed var(--border-color)
@@ -42,7 +52,9 @@ article
 		>p,
 		>blockquote p,
 		>ul li p,
-		>ol li p
+		>ol li p,
+		>ul li,
+		>ol li
 			-webkit-hyphens: auto
 			hyphens: auto
 			text-align: justify
