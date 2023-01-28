@@ -67,21 +67,23 @@
 		{{ $themes := slice "Politiek en Actualiteit" "Cultuur en Maatschappij" }}
 		{{ $pages  := where $articles "Params.themes" "in" $themes }}
 
-		{{ range $i, $theme := $themes }}		
+		{{ range $i, $theme := $themes }}
+			{{ $pages := (where $pages "Params.themes" "eq" $theme) }}
+
 			{{ $side := "right" }}
 			{{ if mod $i 2 }}
 				{{ $side = "left" }}
 			{{ end }}
-		
-			{{ partial "articles/theme.html" (dict
+
+			{{ partialCached "articles/theme.html" (dict
 				"context" .
 				"section" "themes"
 				"path"    "themas"
 				"term"    $theme
-				"pages"   (where $pages "Params.themes" "eq" $theme)
+				"pages"   $pages
 				"side"    $side
-				"lazy"    (ge $i 1)
-			) }}
+				"lazy"    true
+			) "themes" $theme $pages $side }}
 		{{ end }}
 	</section>
 
@@ -97,21 +99,23 @@
 		{{ $themes := slice "Religie en Metafysica" "Onderzoek en Speurwerk" "Recensie en Biografie" }}
 		{{ $pages  := where $articles "Params.themes" "in" $themes }}
 
-		{{ range $i, $theme := $themes }}		
+		{{ range $i, $theme := $themes }}
+			{{ $pages := (where $pages "Params.themes" "eq" $theme) }}
+
 			{{ $side := "right" }}
 			{{ if mod $i 2 }}
 				{{ $side = "left" }}
 			{{ end }}
-		
-			{{ partial "articles/theme.html" (dict
+
+			{{ partialCached "articles/theme.html" (dict
 				"context" .
 				"section" "themes"
 				"path"    "themas"
 				"term"    $theme
-				"pages"   (where $pages "Params.themes" "eq" $theme)
+				"pages"   $pages
 				"side"    $side
-				"lazy"    (ge $i 1)
-			) }}
+				"lazy"    true
+			) "themes" $theme $pages $side }}
 		{{ end }}
 	</section>
 {{ end }}

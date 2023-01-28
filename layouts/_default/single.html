@@ -52,16 +52,30 @@
 		</section>
 	</article>
 
-	{{ if isset .Params "files" }}
-		<section class="files">
-			{{ range $i, $file := .Params.files }}
-				{{ $pages    := where site.RegularPages "Params.files" "intersect" (slice $file) }}
-				{{ $pages     = where $pages "Params.title" "ne" $.Params.title }}
-				{{ $pages     = first 5 $pages }}
+	<section class="files">
+		{{ $pages := where site.RegularPages "Params.themes" "in" .Params.themes }}
+		{{ $pages  = where $pages "Params.title" "ne" .Params.title }}
+		{{ $pages  = first 5 $pages }}
 
-				{{ $side := "left" }}
+		{{ partialCached "articles/theme.html" (dict
+			"context" .
+			"section" "themes"
+			"path"    "themas"
+			"term"    .Params.themes
+			"pages"   $pages
+			"side"    "left"
+			"lazy"    true
+		) "themes" .Params.themes $pages "left" }}
+
+		{{ if isset .Params "files" }}
+			{{ range $i, $file := .Params.files }}
+				{{ $pages := where site.RegularPages "Params.files" "intersect" (slice $file) }}
+				{{ $pages  = where $pages "Params.title" "ne" $.Params.title }}
+				{{ $pages  = first 5 $pages }}
+
+				{{ $side := "right" }}
 				{{ if mod $i 2 }}
-					{{ $side = "right" }}
+					{{ $side = "left" }}
 				{{ end }}
 
 				{{ partialCached "articles/theme.html" (dict
@@ -74,8 +88,8 @@
 					"lazy"    true
 				) "files" $file $pages $side }}
 			{{ end }}
-		</section>
-	{{ end }}
+		{{ end }}
+	</section>
 
 	<section id="comments">
 		{{ partial "comments/comments" . }}
