@@ -53,19 +53,22 @@
 	</article>
 
 	<section class="files">
-		{{ $pages := where site.RegularPages "Params.themes" "in" .Params.themes }}
-		{{ $pages  = where $pages "Params.title" "ne" .Params.title }}
-		{{ $pages  = first 5 $pages }}
+		{{ $themes   := slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Metafysica" "Onderzoek en Speurwerk" "Recensie en Biografie" }}
 
-		{{ partialCached "articles/theme.html" (dict
-			"context" .
-			"section" "themes"
-			"path"    "themas"
-			"term"    .Params.themes
-			"pages"   $pages
-			"side"    "left"
-			"lazy"    true
-		) "themes" .Params.themes $pages "left" }}
+		{{ if in .Params.themes $themes }}
+			{{ $pages := where site.RegularPages "Params.themes" "in" .Params.themes }}
+			{{ $pages  = where $pages "Params.title" "ne" .Params.title }}
+			{{ $pages  = first 5 $pages }}
+
+			{{ partialCached "articles/theme.html" (dict
+				"context" .
+				"section" "themes"
+				"path"    "themas"
+				"term"    .Params.themes
+				"pages"   $pages
+				"side"    "left"
+			) "themes" .Params.themes $pages "left" }}
+			{{end}}
 
 		{{ if isset .Params "files" }}
 			{{ range $i, $file := .Params.files }}
@@ -85,7 +88,6 @@
 					"term"    $file
 					"pages"   $pages
 					"side"    $side
-					"lazy"    true
 				) "files" $file $pages $side }}
 			{{ end }}
 		{{ end }}
