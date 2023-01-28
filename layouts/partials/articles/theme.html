@@ -22,7 +22,6 @@
 
 	{{ partialCached "articles/large.html" (dict
 		"context"   $featured
-		"imageless" (eq .term "Klikaas")
 		"lazy"      true
 	) $featured.Params.title }}
 </div>
