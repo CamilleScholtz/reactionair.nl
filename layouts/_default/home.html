@@ -75,14 +75,14 @@
 				{{ $side = "left" }}
 			{{ end }}
 
-			{{ partialCached "articles/theme.html" (dict
+			{{ partial "articles/theme.html" (dict
 				"context" .
 				"section" "themes"
 				"path"    "themas"
 				"term"    $theme
 				"pages"   $pages
 				"side"    $side
-			) "themes" $theme $pages $side }}
+			) }}
 		{{ end }}
 	</section>
 
@@ -106,14 +106,14 @@
 				{{ $side = "left" }}
 			{{ end }}
 
-			{{ partialCached "articles/theme.html" (dict
+			{{ partial "articles/theme.html" (dict
 				"context" .
 				"section" "themes"
 				"path"    "themas"
 				"term"    $theme
 				"pages"   $pages
 				"side"    $side
-			) "themes" $theme $pages $side }}
+			) }}
 		{{ end }}
 	</section>
 {{ end }}
