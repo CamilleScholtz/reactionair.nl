@@ -53,21 +53,6 @@
 	</article>
 
 	<section class="files">
-		{{ if in (slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Metafysica" "Onderzoek en Speurwerk" "Recensie en Biografie") .Params.themes }}
-			{{ $pages := where site.RegularPages "Params.themes" "in" .Params.themes }}
-			{{ $pages  = where $pages "Params.title" "ne" .Params.title }}
-			{{ $pages  = first 5 $pages }}
-
-			{{ partial "articles/theme.html" (dict
-				"context" .
-				"section" "themes"
-				"path"    "themas"
-				"term"    .Params.themes
-				"pages"   $pages
-				"side"    "left"
-			) }}
-		{{end}}
-
 		{{ if isset .Params "files" }}
 			{{ range $i, $file := .Params.files }}
 				{{ $pages := where site.RegularPages "Params.files" "intersect" (slice $file) }}
@@ -89,6 +74,21 @@
 				) }}
 			{{ end }}
 		{{ end }}
+
+		{{ if in (slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Metafysica" "Onderzoek en Speurwerk" "Recensie en Biografie") .Params.themes }}
+			{{ $pages := where site.RegularPages "Params.themes" "in" .Params.themes }}
+			{{ $pages  = where $pages "Params.title" "ne" .Params.title }}
+			{{ $pages  = first 5 $pages }}
+
+			{{ partial "articles/theme.html" (dict
+				"context" .
+				"section" "themes"
+				"path"    "themas"
+				"term"    .Params.themes
+				"pages"   $pages
+				"side"    "left"
+			) }}
+		{{end}}
 	</section>
 
 	<section id="comments">
