@@ -405,7 +405,7 @@ const smallcaps = (main) => {
 		pattern = /^([\S]+\s[\S]+\s[\S]+)/;
 	}
 
-	sentence.innerHTML = sentence.innerHTML.replace(pattern, "<span style=\"font-variant: small-caps;\">$1</span>");
+	sentence.innerHTML = sentence.innerHTML.replace(pattern, "<span style=\"font-family: 'IM Fell English SC', serif;\">$1</span>");
 }
 
 const quote = (main) => {
