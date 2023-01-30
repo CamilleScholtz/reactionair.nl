@@ -15,7 +15,7 @@ disableHugoGeneratorInject = true
 cleanDestinationDir = true
 
 [params]
-	revision = "858"
+	revision = "859"
 
 [taxonomies]
 	author = "authors"
