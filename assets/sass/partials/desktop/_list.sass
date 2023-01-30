@@ -3,5 +3,10 @@
 	width: 835px
 
 	#articles
-		display: grid;
+		display: grid
 		grid-template-columns: repeat(2, 1fr)
+
+		.article
+			&:last-of-type
+				border-bottom: 1px dashed var(--border-color)
+				padding-bottom: 20px

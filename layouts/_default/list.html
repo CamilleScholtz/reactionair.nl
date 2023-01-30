@@ -12,7 +12,7 @@
 	<section>	
 		<div id="articles">
 			{{ range $paginator.Pages }}			
-				{{ partialCached "articles/large.html" (dict
+				{{ partialCached "articles/small.html" (dict
 					"context" .
 				) .Params.title }}
 			{{ end }}
