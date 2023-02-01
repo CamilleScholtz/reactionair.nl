@@ -6,7 +6,7 @@
 
 		<p class="comment-time">
 			<time datetime="{{ index . "date" }}" itemprop="datePublished">
-				&nbsp;|&nbsp;{{ time.Format "2 January, 2006" (index . "date") | title }}
+				<span class="pipe">—</span>{{ time.Format "2 January, 2006" (index . "date") | title }}
 			</time>
 		</p>
 	</div>

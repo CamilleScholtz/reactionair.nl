@@ -7,7 +7,7 @@
 		{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
 			<time>{{ .Date.Day }} {{ index site.Data.months (printf "%d" .Date.Month) }}, {{ .Date.Year }}</time>
 
-			<span class="pipe">|</span>
+			<span class="pipe">—</span>
 
 			<span class="eta" data-eta="{{ .ReadingTime }}">{{ .ReadingTime }} {{ if gt .ReadingTime 1 }}minuten{{ else }}minuut{{ end }} leestijd</span>
 		{{ else }}

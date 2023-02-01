@@ -25,21 +25,21 @@
 			</div>
 
 			<div class="articles">
-				{{ partial "articles/small.html" (dict
+				{{ partialCached "articles/small.html" (dict
 					"context" (index $articles 3)
-				) }}
+				) (index $articles 3).Params.title }}
 
-				{{ partial "articles/small.html" (dict
+				{{ partialCached "articles/small.html" (dict
 					"context" (index $articles 4)
-				) }}
+				) (index $articles 4).Params.title }}
 
-				{{ partial "articles/small.html" (dict
+				{{ partialCached "articles/small.html" (dict
 					"context" (index $articles 5)
-				) }}
+				) (index $articles 5).Params.title }}
 
-				{{ partial "articles/small.html" (dict
+				{{ partialCached "articles/small.html" (dict
 					"context" (index $articles 6)
-				) }}
+				) (index $articles 6).Params.title }}
 			</div>
 		</section>
 	</section>
@@ -51,11 +51,11 @@
 		<div class="links">
 			<a href="/auteurs/">Auteurs</a>
 
-			<span class="pipe">|</span>
+			<span class="pipe">•</span>
 
 			<a href="/doneren/">Doneren</a>
 			
-			<span class="pipe">|</span>
+			<span class="pipe">•</span>
 			
 			<a href="/artikelen/wie-zijn-wij/">Wie zijn wij?</a>
 		</div>

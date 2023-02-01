@@ -21,21 +21,21 @@
 		{{ if gt $paginator.TotalPages 1 }}
 			<nav class="paginator">
 				{{ if $paginator.HasPrev }}
-					<a class="button prev" href="{{ $paginator.Prev.URL }}">
+					<a class="button square prev" href="{{ $paginator.Prev.URL }}">
 						‹-
 					</a>
 				{{ else }}
-					<a class="button prev disabled">
+					<a class="button square prev disabled">
 						‹-
 					</a>
 				{{ end }}
 
 				{{ if $paginator.HasNext }}
-					<a class="button next" href="{{ $paginator.Next.URL }}">
+					<a class="button square next" href="{{ $paginator.Next.URL }}">
 						-›
 					</a>
 				{{ else }}
-					<a class="button next disabled">
+					<a class="button square next disabled">
 						-›
 					</a>
 				{{ end }}

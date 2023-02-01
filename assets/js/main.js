@@ -29,7 +29,7 @@ const comments = (main) => {
 
 					<p class="comment-time">
 						<time>
-							|&nbsp;nieuw
+							—&nbsp;nieuw
 						</time>
 					</p>
 				</div>
