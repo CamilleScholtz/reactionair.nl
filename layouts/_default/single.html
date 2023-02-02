@@ -29,15 +29,15 @@
 					<figcaption>{{ .Params.caption }}</figcaption>
 				{{ end }}
 			</figure>
+		</section>
 
+		<section class="content">
 			{{ if isset .Params "note" }}
 				<section class="note">
 					<small>{{ .Params.note | markdownify }}</small>
 				</section>
 			{{ end }}
-		</section>
 
-		<section class="content">		
 			{{ .Content }}
 
 			{{ if isset .Params "cited" }}
