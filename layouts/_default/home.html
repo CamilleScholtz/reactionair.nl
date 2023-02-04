@@ -64,7 +64,34 @@
 	{{ $articles = $articles | after 7 }}
 
 	<section>
-		{{ $themes := slice "Politiek en Actualiteit" "Cultuur en Maatschappij" }}
+		{{ $themes := slice "Politiek en Actualiteit" }}
+		{{ $pages  := where $articles "Params.themes" "in" $themes }}
+
+		{{ range $i, $theme := $themes }}
+			{{ $pages := (where $pages "Params.themes" "eq" $theme) }}
+
+			{{ $side := "right" }}
+			{{ if mod $i 2 }}
+				{{ $side = "left" }}
+			{{ end }}
+
+			{{ partial "articles/theme.html" (dict
+				"context" .
+				"section" "themes"
+				"path"    "themas"
+				"term"    $theme
+				"pages"   $pages
+				"side"    $side
+			) }}
+		{{ end }}
+	</section>
+
+	<section id="newsletter">
+		{{ partialCached "newsletter.html" . }}
+	</section>
+
+	<section>
+		{{ $themes := slice "Cultuur en Maatschappij" "Onderzoek en Speurwerk" }}
 		{{ $pages  := where $articles "Params.themes" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}
@@ -95,7 +122,7 @@
 	</section>
 
 	<section>
-		{{ $themes := slice "Religie en Metafysica" "Onderzoek en Speurwerk" "Recensie en Biografie" }}
+		{{ $themes := slice "Religie en Metafysica" "Recensie en Biografie" }}
 		{{ $pages  := where $articles "Params.themes" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}
