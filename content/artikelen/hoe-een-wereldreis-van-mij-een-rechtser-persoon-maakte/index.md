@@ -1,8 +1,7 @@
 ---
-draft: true
 title: 'Hoe een wereldreis van mij een rechtser persoon maakte'
 subtitle: 'Een memoir'
-date: '2023-01-26'
+date: '2023-02-01'
 authors:
     - 'Eco al-Hollandi'
 themes: 'Cultuur en Maatschappij'
