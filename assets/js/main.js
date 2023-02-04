@@ -193,7 +193,7 @@ const newsletter = (main) => {
 		envelope.style.transform = "translateY(-10px) scale(0.9)";
 
 		const text     = newsletter.querySelector(".text p");
-		text.innerHTML = "Wij sturen u een e-mail om het e-mailadres te verifiëren, zie uw inbox.";
+		text.innerHTML = "Wij sturen u een e-mail ter verificatie, zie uw inbox.";
 	});
 }
 
