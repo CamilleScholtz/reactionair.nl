@@ -64,7 +64,7 @@
 	{{ $articles = $articles | after 7 }}
 
 	<section>
-		{{ $themes := slice "Politiek en Actualiteit" }}
+		{{ $themes := slice "Politiek en Actualiteit" "Religie en Metafysica" }}
 		{{ $pages  := where $articles "Params.themes" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}
@@ -91,7 +91,7 @@
 	</section>
 
 	<section>
-		{{ $themes := slice "Cultuur en Maatschappij" "Onderzoek en Speurwerk" }}
+		{{ $themes := slice "Onderzoek en Speurwerk" "Cultuur en Maatschappij" }}
 		{{ $pages  := where $articles "Params.themes" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}
@@ -122,7 +122,7 @@
 	</section>
 
 	<section>
-		{{ $themes := slice "Religie en Metafysica" "Recensie en Biografie" }}
+		{{ $themes := slice "Recensie en Biografie" }}
 		{{ $pages  := where $articles "Params.themes" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}
