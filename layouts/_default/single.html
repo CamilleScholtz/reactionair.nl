@@ -14,9 +14,13 @@
 
 			<figure>
 				{{ $image := .Resources.GetMatch .Params.image }}
+				{{ $anchor := "Smart" }}
+				{{ if isset .Params "anchor" }}
+					{{ $anchor = .Params.anchor }}
+				{{ end }}
 
-				{{ $1x := $image.Fill "1035x500 webp" }}
-				{{ $2x := $image.Fill "2070x1000 webp" }}
+				{{ $1x := $image.Fill (printf "1035x500 webp %s" $anchor) }}
+				{{ $2x := $image.Fill (printf "2070x1000 webp %s" $anchor) }}
 
 				<img
 					srcset="{{ $1x.RelPermalink }} 1x,
