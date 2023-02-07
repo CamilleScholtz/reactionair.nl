@@ -6,7 +6,7 @@
 {{ end }}
 
 <section id="comment-list">
-	{{ range $comments }}
+	{{ range sort $comments "date" }}
 		{{ if eq (index . "accepted") false }}
 			{{ continue }}
 		{{ end }}
