@@ -1,18 +1,19 @@
 ---
-anchor: Top
+title: 'Trans*cendentale reflecties'
+subtitle: 'Waarom gender en sekse niet inwisselbaar zijn'
+date: '2022-08-14'
 authors:
-- Rainer Wüssle
-cited:
-- Jacques Derrida
-date: "2022-08-14"
-files:
-- Woke
+    - 'Rainer Wüssle'
+themes: 'Religie en Metafysica'
 image: 067c9b1a-3930-4086-9afa-541b35f8ff33.jpeg
-subtitle: Waarom gender en sekse niet inwisselbaar zijn
-themes: Religie en Metafysica
-title: Trans*cendentale reflecties
+anchor: Top
+files:
+    - Woke
+cited:
+    - 'Jacques Derrida'
 ---
-Er wordt alom gesproken over ‘genderidentiteit’. Het is niet duidelijk wat er mee bedoeld wordt. Het lijkt vaag zoiets te betekenen als een diep in het innerlijk gevoelde associatie van iemands persoonlijkheid met mannelijkheid of vrouwelijkheid of iets daartussenin. Niemand heeft er tot nu toe een eenduidige definitie van kunnen geven. Ook is onduidelijk of men denkt dat het iets anders is dan ‘geslacht’ of ‘sekse’, of ermee inwisselbaar is. (Ik gebruik het woord ‘sekse’ als equivalent voor ‘geslacht’ in het verloop van mijn tekst.) Mensen die de terminologie van ‘genderidentiteit’ gebruiken verstoppen zich vaak achter dubbelzinnig taalgebruik, en wel met opzet, zoals zal blijken.
+
+Er wordt alom gesproken over ‘genderidentiteit’. Het is niet duidelijk wat er mee bedoeld wordt. Het lijkt vaag zoiets te betekenen als een diep in het innerlijk gevoelde associatie van iemands persoonlijkheid met mannelijkheid of vrouwelijkheid of iets daartussenin. Niemand heeft er tot nu toe een eenduidige definitie van kunnen geven. Ook is onduidelijk of men denkt dat het iets anders is dan ‘geslacht’ of ‘sekse’, of ermee inwisselbaar is. (Ik gebruik het woord ‘sekse’ als equivalent voor ‘geslacht’ in het verloop van mijn tekst.) Mensen die de terminologie van ‘genderidentiteit’ gebruiken verstoppen zich vaak achter dubbelzinnig taalgebruik, en wel met opzet, zoals zal blijken.
 
 Hier is een disjunctie:
 

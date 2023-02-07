@@ -1,15 +1,16 @@
 ---
+title: 'Deugen de meeste mensen nog steeds?'
+subtitle: 'De misanthrope verleiding'
+date: '2022-04-15'
 authors:
-- De Melancholieke Nar
-cited:
-- Rutger Bregman
-- Friedrich Nietzsche
-- Aristoteles
-date: "2022-04-15"
+    - 'De Melancholieke Nar'
+themes: 'Recensie en Biografie'
 image: thumb.webp
-subtitle: De misanthrope verleiding
-themes: Recensie en Biografie
-title: Deugen de meeste mensen nog steeds?
+anchor: Top
+cited:
+    - Aristoteles
+    - 'Friedrich Nietzsche'
+    - 'Rutger Bregman'
 ---
 
 {{< quote
@@ -18,7 +19,7 @@ title: Deugen de meeste mensen nog steeds?
 	article=true
 >}}
 
-Slechts drie jaar na het verschijnen van de internationale bestseller _De meeste mensen deugen_ is iedereen en zijn moeders vertrouwen in de _eponieme these_ van het boek danig aan het wankelen gebracht - de auteur _incluis_.[^1] Dit is veelzeggend, want het essentiële verschil tussen links en rechts gaat terug op hun respectieve mensbeelden. Volgens links is de mens in wezen goed en komt het kwaad voort uit de manier waarop wij de samenleving vorm hebben gegeven. Daarom wil links de wereld verbeteren. Volgens rechts zit het kwaad in de mens en heeft dat dus geen zin. We kunnen de val van het geloof in de goedheid van de mens derhalve karakteriseren als een rechts-conservatieve wending, ook al weten de afvalligen dat zelf nog niet. Maar zover is het nog niet. De deugmens zal de stelling van Bregman niet zonder slag of stoot opgeven. 
+Slechts drie jaar na het verschijnen van de internationale bestseller _De meeste mensen deugen_ is iedereen en zijn moeders vertrouwen in de eponieme these van het boek danig aan het wankelen gebracht - de auteur incluis.[^1] Dit is veelzeggend, want het essentiële verschil tussen links en rechts gaat terug op hun respectieve mensbeelden. Volgens links is de mens in wezen goed en komt het kwaad voort uit de manier waarop wij de samenleving vorm hebben gegeven. Daarom wil links de wereld verbeteren. Volgens rechts zit het kwaad in de mens en heeft dat dus geen zin. We kunnen de val van het geloof in de goedheid van de mens derhalve karakteriseren als een rechts-conservatieve wending, ook al weten de afvalligen dat zelf nog niet. Maar zover is het nog niet. De deugmens zal de stelling van Bregman niet zonder slag of stoot opgeven. 
 
 De oorzaak van dit alles, is de confrontatie van progressief-liberaal 'goed volk' (de _Volkskrant_ adverteerde enige jaren terug met deze variant op _'Gutmensch'_), met wappies en tokkies. De confrontatie dus tussen verlichte, rationele, wetenschapsminnende mensen die wél deugen en volslagen irrationele hondsdolle complotdenkende, feitenvrije gekken, die voor alle duidelijkheid dus níét deugen. De deugende mens worstelt hiermee en zal alles in het werk  stellen om de bregmanniaanse stelling alsnog te stutten. Na de dood van de Boeddha heeft men zijn schaduw immers ook nog eeuwen getoond in een grot.[^2]  
 

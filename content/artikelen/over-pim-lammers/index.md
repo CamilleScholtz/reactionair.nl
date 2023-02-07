@@ -9,7 +9,9 @@ image: b83c21dd-6fa7-406a-9df0-9e16db757c99.webp
 anchor: Top
 files:
     - Woke
-note: '*Updates!* Reactie Stichting CPNB, zie einde artikel!'
+cited:
+    - 'Pim Lammers'
+note: '*Updates!* Onze primeur heeft geleid tot kamervragen van BVNL, zie einde artikel!'
 ---
 
 De stichting Collectieve Propaganda van het Nederlandse Boek (CPNB) organiseert jaarlijks onder meer de Kinderboekenweek. Dit jaar mag de schrijver Pim Lammers het gedicht bij de Kinderboekenweek schrijven. De naam van Pim Lammers is eerder op *Reactionair.nl* gevallen. Wie is deze schrijver, die door de Nederlandse culturele sector wordt gepromoot voor de allerjongste kinderen?
@@ -121,7 +123,18 @@ keuze.
 
 ### Update #3
 
-Gezin in Gevaar is een petitie begonnen waar de Kinderboekenweek wordt aangedrongen Pim Lammers *geen* podium te geven. Teken de petitie: *[Kinderboekenweek, geef géén podium aan pedofilie-schrijver Pim Lammers!](https://geziningevaar.nl/artikelen/kinderboekenweek-laat-pedofilie-schrijver-schrijven-voor-kinderen)*
+Gezin in Gevaar is een petitie begonnen waar de Kinderboekenweek wordt aangedrongen Pim Lammers géén podium te geven. Teken de petitie: *[Kinderboekenweek, geef géén podium aan pedofilie-schrijver Pim Lammers!](https://geziningevaar.nl/artikelen/kinderboekenweek-laat-pedofilie-schrijver-schrijven-voor-kinderen)*
+
+
+### Update #4
+
+Onze primeur heeft geleid tot kamervragen van BVNL. Lees de vragen hier: *[Schriftelijke vragen van het lid Van Haga van de Groep Van Haga aan de minister van OCW, mbt het kinderboekenweekgedicht door Pim Lammers](https://bvnl.nl/wp-content/uploads/2023/02/20230204_Schriftelijke-vragen_Van-Haga_kinderboekenweekgedicht.pdf)*
+
+
+### Update #5
+
+Er is veel gebeurd in de afgelopen 24 uur. Lammers stopt met schrijven voor de Kinderboekenweek, Rutte deed zijn zegje over het onderwerp, en de ophef drong door tot de mainstream media die volledig deflecteren van het eigenlijke onderwerp, en in plaats daarvan schrijven over beschuldigingen van bedreigingen. Aan dit laatste onderwerp hebben wij een artikel gewijd: *[Pim Lammers: pedagoog of pedogoog?
+](https://reactionair.nl/artikelen/pim-lammers-pedagoog-of-pedogoog/)*
 
 
 [^1]: Zie de *[Biografie van Pim Lammers](https://spui25.nl/bio/pim-lammers)*.

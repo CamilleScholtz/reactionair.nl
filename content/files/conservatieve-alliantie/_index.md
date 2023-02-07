@@ -1,5 +1,5 @@
 ---
-description: Artikelen in dossier Conservatie Alliantie.
-heading: Meer <i>over</i> de Conservatie Alliantie
-title: Conservatie Alliantie
+description: Artikelen in dossier Conservatieve Alliantie.
+heading: Meer <i>over</i> de Conservatieve Alliantie
+title: Conservatieve Alliantie
 ---

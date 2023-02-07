@@ -1,12 +1,11 @@
 ---
-draft: true
 title: 'Wat wil SchoolsOUT met uw kinderen?'
 subtitle: 'Het zoveelste regenboogproject nader bekeken'
-date: '2023-01-28'
+date: '2023-02-05'
 authors:
     - '‘Het Dorp’ Genieter'
 themes: 'Onderzoek en Speurwerk'
-image: ac0667f2-b3af-492c-aa5b-bb8eb1a8db3b.png
+image: 9735c9f9-162b-43f1-81c1-819b9a5418b2.webp
 anchor: Smart
 caption: 'Ter ere van Coming Out-dag wordt de regenboogvlag gehesen op een schoolplein.'
 files:
@@ -15,7 +14,7 @@ files:
 
 Alice Cooper begon zijn lied _School’s out_ in 1972 als volgt:  
 
-> "Well, we got no choice
+> "Well, we got no choice<br>
 > All the girls and boys (girls and boys)"
 
 In het interventieprogramma “SchoolsOUT” zou deze zin al als ongewenst en niet inclusief taalgebruik worden beoordeeld, waarom wordt er immers slechts over girls en boys gesproken? 
@@ -24,7 +23,9 @@ Deze week werd ik via mijn Linkedin-feed gewezen op de baan van projectmedewerke
 
 ### Waar regenboogpropaganda is, is COC
 
-SchoolsOUT, is een samenwerkingsverband bevordering van ter bevordering LHBTQ+-acceptatie, naar eigen zeggen bieden zij ondersteuning op maat bij aandacht voor seksuele en genderdiversiteit.[^1] Naast school-TV, lessen maatschappijleer en niet aflatende blootstelling van de jeugd aan allerlei soorten seksuele voorkeuren en gendervariaties in de media was er blijkbaar nu ook behoefte aan begeleiding op maat. Het samenwerkingsverband bestaat uit de Gemeente Nijmegen in de rol van financier en de GGD Gelderland-Zuid coördineert het geheel. Alle scholen zijn de doelgroep (basisscholen, middelbare scholen en het MBO) en de belangenorganisaties Dito, young LGBT+ en het COC regio Nijmegen zijn de belangenorganisaties. Vooral de rol van het COC bij scholen is erg dubieus, voor meer informatie hierover raad ik een eerder artikel op deze webstek aan.[^2]
+SchoolsOUT, is een samenwerkingsverband ter bevordering van LHBTQ+-acceptatie, naar eigen zeggen bieden zij ondersteuning op maat bij aandacht voor seksuele en genderdiversiteit.[^1] Naast school-TV, lessen maatschappijleer en niet aflatende blootstelling van de jeugd aan allerlei soorten seksuele voorkeuren en gendervariaties in de media was er blijkbaar nu ook behoefte aan begeleiding op maat. Het samenwerkingsverband bestaat uit de Gemeente Nijmegen in de rol van financier en de GGD Gelderland-Zuid coördineert het geheel. Alle scholen zijn de doelgroep (basisscholen, middelbare scholen en het MBO) en de belangenorganisaties Dito, young LGBT+ en het COC regio Nijmegen zijn de belangenorganisaties. Vooral de rol van het COC bij scholen is erg dubieus, voor meer informatie hierover raad ik een eerder artikel op deze webstek aan.[^2]
+
+{{< newsletter >}}
  
 Op de website van SchoolsOUT laten zij zich erop voorstaan dat zij aan landelijke criteria voor succesvol en effectief werken voldoen en zelfs zijn erkend als gezondeleefstijlinterventie. Maar wat houdt dit in de praktijk in? Bijvoorbeeld dat leerlingen en medewerkers op scholen bekend zijn met LHBTIQ+-mensen naast heteroseksuele mannen of vrouwen en dat zij dit ok vinden. Het is niet de bedoeling negatieve dingen te zeggen over mensen met een andere seksuele of genderidentiteit dan zijzelf (let wel, niet over die zogenaamde genderidentiteit, nee, de hele persoon is gevrijwaard van negativiteit) en nog meer van dit soort zaken.
 
@@ -108,6 +109,6 @@ Laten we eens kritisch kijken of de rest van Nederland open staat om dit program
 
 [^1]: *[Schoolsoutweb.nl](https://schoolsoutweb.nl/)*.
 [^2]: Vrederijk, *[Stront aan de knikker, over het COC en wie onze kinderen nu eigenlijk opvoedt](https://reactionair.nl/artikelen/stront-aan-de-knikker/)*.
-[^3]: [Convenant SchoolsOUT 2022-2025] (https://schoolsoutweb.nl/wp-content/uploads/2022/01/SchoolsOUT_Convenant2022-2025.pdf)
+[^3]: [SchoolsOUT Convenant 2022-2025](https://schoolsoutweb.nl/wp-content/uploads/2022/01/SchoolsOUT_Convenant2022-2025.pdf)
 [^4]: Wikipedia, *[Amsterdamse zedenzaak](https://nl.wikipedia.org/wiki/Amsterdamse_zedenzaak)*.
 [^5]: RTL Nieuws, *[Leesvaardigheid basisschoolkinderen beroerd, maatschappelijk functioneren in de knel](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5352914/onderwijsinspectie-leesvaardigheid-lezen-basisonderwijs)*.

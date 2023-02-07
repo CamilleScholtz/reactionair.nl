@@ -1,16 +1,17 @@
 ---
-anchor: Smart
+title: 'De emojificatie van de communicatie'
+subtitle: 💁👌🎍😍🍉⛷️😱🍻💅🤣
+date: '2022-08-20'
 authors:
-- De Melancholieke Nar
-cited:
-- Friedrich Nietzsche
-- Ludwig Wittgenstein
-date: "2022-08-20"
+    - 'De Melancholieke Nar'
+themes: 'Religie en Metafysica'
 image: jeremy-zero-wpxr-qsdqjm-unsplash-scaled-1.jpg
-subtitle: "\U0001F481\U0001F44C\U0001F38D\U0001F60D\U0001F349⛷️\U0001F631\U0001F37B\U0001F485\U0001F923"
-themes: Religie en Metafysica
-title: De emojificatie van de communicatie
+anchor: Smart
+cited:
+    - 'Friedrich Nietzsche'
+    - 'Ludwig Wittgenstein'
 ---
+
 Omstreeks het jaar 1900 was zo'n 80% van de wereldbevolking analfabeet, tegenwoordig is dat minder dan 20%. Het kan hard gaan met de vooruitgang, hoewel er ook mensen zijn die hier vraagtekens bij hebben gesteld. 'Dat iedereen mag leren lezen, bederft op den duur niet alleen het schrijven, maar ook het denken.' zei Nietzsche bij monde van Zarathoestra.[^1] 
 
 Wat dat betreft kunnen zij die dat met hem eens zijn zich verheugen: de geletterdheid neemt, vooral in de ontwikkelde wereld in rap tempo af. Onder de jeugd is een kwart functioneel analfabeet en hoewel de overheid een hele campagne op touw heeft gezet om dat tegen te gaan, weet iedereen dat dat bij voorbaat kansloos is.[^2] De politiek komt de put pas dempen als het kalf al verdronken is. Bovendien begrijpt iedereen dat afnemend alfabetisme niet primair te wijten is aan falend onderwijs, maar aan het gegeven dat boeken niet kunnen wedijveren met games en smartphones qua amusementswaarde. Ook het feit dat zelfs universitaire studenten elementaire fouten maken op gebied van grammatica en spelling, spreekt boekdelen. Een mens vraagt zich af wat zo iemand überhaupt op de universiteit te zoeken heeft.
@@ -27,14 +28,14 @@ Nu kan er met de zesentwintig letters van het alfabet oneindig gevarieerd worden
 
 'De grenzen van mijn taal zijn de grenzen van mijn wereld' zei Wittgenstein.[^4] Wie grens zegt, zegt ook grenswachter. Meer en meer wordt die rol nu vervuld door de grote mediabedrijven die bepalen welke emoji's wij mogen gebruiken.  We kunnen hier vergelijking maken met het welbekende Overton-venster, met dat verschil dat het hier een inperking van het spectrum aan emoties en symbolen betreft. Zo heeft de 'zwangere man-emoji', die in 2021 zijn intrede deed, waarschijnlijk meer bijgedragen aan het normaliseren van zwanger zijn als 'man' dan alle verbale propaganda op dit gebied bij elkaar.[^5]
 
-Zoals ik in de eerste alinea al liet doorschemeren, hoeft het afnemend alfabetisme niet opgevat te worden als een symptoom van cultureel verval. Een grote ongeletterde massa en een kleine geletterde elite is wel zo *trad*.[^6] Een pictografische taal waarbij de relatie tussen betekenis en betekenaar niet arbitrair is, zoals dat in ons alfabet wel is, is veel minder abstract en sluit daarom beter aan bij de aard van het *animal symbolicum* dat de mens volgens de filosoof Ernst Cassirer is.[^7] Het is dan verder aan de knappe koppen om zich het hoofd te breken en zich kippig te lezen op het krioelende abracada van inktvlekken op papier wat het gewone volk niets zegt.
+Zoals ik in de eerste alinea al liet doorschemeren, hoeft het afnemend alfabetisme niet opgevat te worden als een symptoom van cultureel verval. Een grote ongeletterde massa en een kleine geletterde elite is wel zo *trad*.[^6] Een pictografische taal waarbij de relatie tussen betekenis en betekenaar niet arbitrair is, zoals dat in ons alfabet wel is, is veel minder abstract en sluit daarom beter aan bij de aard van het *animal symbolicum* dat de mens volgens de filosoof Ernst Cassirer is.[^7] Het is dan verder aan de knappe koppen om zich het hoofd te breken en zich kippig te lezen op het krioelende abracadabra van inktvlekken op papier wat het gewone volk niets zegt.
 
 Wel wil ik iedereen die vrij wil blijven denken meegeven dat hij ervoor moet waken dat hij zich niet laat inperken door de grenzen van de beeldtaal die hem van bovenaf wordt aangereikt. Ik ken de lezers van *Reactionair.nl* als ware aristocraten van de geest, dus deze boodschap is aan hen wel besteed.
 
 [^1]: 'Dass Jedermann lesen lernen darf, verdirbt auf die Dauer nicht allein das Schreiben, sondern auch das Denken.' uit *Also sprach Zarathustra* van Friedrich Nietzsche.
 [^2]: NOS, *[Kwart 15-jarigen kan bijsluiter of brief van school niet goed lezen](https://nos.nl/artikel/2331386-kwart-15-jarigen-kan-bijsluiter-of-brief-van-school-niet-goed-lezen)*.
 [^3]: De auteur past hier het stijlmiddel sarcasme toe.
-[^4]: Emojipedia, *[pregnant man](https://emojipedia.org/pregnant-man/)*.
-[^5]: 'Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt' uit *Tractatus logico-philosophicus* van Ludwig Wittgenstein.
+[^4]: 'Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt' uit *Tractatus logico-philosophicus* van Ludwig Wittgenstein.
+[^5]: Emojipedia, *[pregnant man](https://emojipedia.org/pregnant-man/)*.
 [^6]: Internetspraak, afkorting van 'traditioneel'.
 [^7]: Cultureel woordenboek.nl, *[Ernst Cassirer](https://www.cultureelwoordenboek.nl/filosofie/ernst-cassirer/)*.
