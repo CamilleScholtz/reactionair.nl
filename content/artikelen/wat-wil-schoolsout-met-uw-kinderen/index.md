@@ -3,7 +3,7 @@ title: 'Wat wil SchoolsOUT met uw kinderen?'
 subtitle: 'Het zoveelste regenboogproject nader bekeken'
 date: '2023-02-05'
 authors:
-    - '‘Het Dorp’ Genieter'
+    - 'De redactie'
 themes: 'Onderzoek en Speurwerk'
 image: 9735c9f9-162b-43f1-81c1-819b9a5418b2.webp
 anchor: Smart

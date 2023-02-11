@@ -1,7 +1,7 @@
 ---
 anchor: Smart
 authors:
-- Tom van Giersbergen
+- Tom van Groningen
 date: "2022-06-29"
 image: cosmos-7.jpg
 subtitle: Een parabel

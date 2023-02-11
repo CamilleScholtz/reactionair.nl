@@ -29,6 +29,11 @@ Laten we duidelijk zijn: niemand op en van *Reactionair.nl* keurt het bedreigen 
  
 Het antwoord laten wij aan u, de lezer.
 
+
+### Epiloog
+
+Lees de epiloog van dit hele verhaal. Een bloemlezing van medialeugens en een ingezonden brief: *[‘Nu even niet schat, ik lees Reactionair.nl’](https://reactionair.nl/artikelen/nu-even-niet-schat-ik-lees-reactionairnl/)*.
+
 [^1]: *[Tweet](https://twitter.com/MinPres/status/1622273578690289665)* van Mark Rutte.
 [^2]: Vrederijk, *[Over Pim Lammers](https://reactionair.nl/artikelen/over-pim-lammers/)*.
 [^3]: Vrederijk, *[Stront aan de knikker](https://reactionair.nl/artikelen/stront-aan-de-knikker/)*.

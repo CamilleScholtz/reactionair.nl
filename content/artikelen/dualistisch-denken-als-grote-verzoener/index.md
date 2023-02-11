@@ -1,7 +1,7 @@
 ---
 anchor: Smart
 authors:
-- Tom van Giersbergen
+- Tom van Groningen
 cited:
 - Aristoteles
 date: "2022-09-04"
