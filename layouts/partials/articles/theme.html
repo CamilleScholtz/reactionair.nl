@@ -1,11 +1,15 @@
 <div class="theme {{ .side }}">
 	{{ $featured := index .pages 0 }}
 
-	{{ with site.GetPage (printf "/%s/%s" .section (urlize .term)) }}
-		<div class="description">
-			<h2>{{ .Params.heading | safeHTML }}</h2>
-		</div>
-	{{ end }}
+	<div class="description">
+		{{ if eq .section "related" }}
+			<h2>LEES <i>ook deze</i> ARTIKELEN</h2>
+		{{ else }}
+			{{ with site.GetPage (printf "/%s/%s" .section (urlize .term)) }}
+				<h2>{{ .Params.heading | safeHTML }}</h2>
+			{{ end }}
+		{{ end }}
+	</div>
 
 	<div class="pages">
 		{{ range first 5 .pages | after 1 }}

@@ -30,6 +30,25 @@ cleanDestinationDir = true
 	themes  = "/themas/:slug/"
 	cited   = "/aangehaald/:slug/"
 
+[related]
+	includeNewer = true
+
+[[related.indices]]
+	name   = "files"
+	weight = 100
+[[related.indices]]
+	name   = "cited"
+	weight = 80
+[[related.indices]]
+	name   = "themes"
+	weight = 70
+[[related.indices]]
+	name   = "authors"
+	weight = 30
+[[related.indices]]
+	name   = "date"
+	weight = 20
+
 [markup]
 	[markup.goldmark]
 		[markup.goldmark.renderer]
