@@ -3,7 +3,12 @@ const comments = (main) => {
 		return;
 	}
 
-	main.querySelector("#comment-form").addEventListener("submit", (ev) => {
+	const form = main.querySelector("#comment-form");
+	if (!form) {
+		return;
+	}
+
+	form.addEventListener("submit", (ev) => {
 		ev.preventDefault();
 
 		const data = new FormData(ev.target);
