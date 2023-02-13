@@ -1,9 +1,0 @@
-{{ $.Scratch.Add "index" slice }}
-
-{{ range .Pages.ByTitle }}
-	{{ $.Scratch.Add "index" (slice
-		(.Params.title | safeHTML)
-	) }}
-{{ end }}
-
-{{ $.Scratch.Get "index" | jsonify }}
