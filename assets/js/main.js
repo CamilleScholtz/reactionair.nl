@@ -24,7 +24,7 @@ const comments = (main) => {
 
 		ev.target.reset();
 
-		const comment = document.createElement("div");
+		const comment     = document.createElement("div");
 		comment.innerHTML = `
 			<div class="comment">
 				<div class="comment-info">
@@ -324,15 +324,15 @@ const search = (header, mobile) => {
 				logo.style.transform = "translateY(-200px)";
 			}
 
-			input.style.transform    = "rotateY(0deg)";
-			button.style.transform   = "rotateY(180deg)";
+			input.style.transform  = "rotateY(0deg)";
+			button.style.transform = "rotateY(180deg)";
 
 			input.focus();
 
 			input.dispatchEvent(new Event("input", {bubbles: true}));
 		} else {
-			input.style.transform    = "rotateY(90deg)";
-			button.style.transform   = "rotateY(0deg)";
+			input.style.transform  = "rotateY(90deg)";
+			button.style.transform = "rotateY(0deg)";
 
 			if (mobile.matches) {
 				setTimeout(() => {

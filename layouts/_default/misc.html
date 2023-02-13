@@ -1,16 +1,14 @@
 {{ define "main" }}
-	<main id="singe">		
-		<article id="misc">
-			<section class="content">
-				<h1>{{ .Params.title | safeHTML }}</h1>
-				{{ if isset .Params "subtitle" }}
-					<h2>{{ .Params.subtitle | safeHTML }}</h2>
-				{{ else }}
-					<br>
-				{{ end }}
+	<article id="misc">
+		<section class="content">
+			<h1>{{ .Params.title | safeHTML }}</h1>
+			{{ if isset .Params "subtitle" }}
+				<h2>{{ .Params.subtitle | safeHTML }}</h2>
+			{{ else }}
+				<br>
+			{{ end }}
 
-				{{ .Content }}
-			</section>
-		</article>
-	</main>
+			{{ .Content }}
+		</section>
+	</article>
 {{ end }}
