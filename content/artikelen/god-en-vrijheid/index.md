@@ -1,7 +1,7 @@
 ---
 anchor: Top
 authors:
-- Camille Meloen
+- Camille Scholtz
 cited:
 - René Guénon
 - Aristoteles
@@ -47,5 +47,5 @@ Als we teruggaan naar de dualiteit die ten grondslag ligt aan alle manifestatie,
 We stelden in het begin van dit essay dat het liberalisme uniek is in de zin dat het een negatief beginsel tot het hoogste beginsel heeft gemaakt. Wat gebruiken andere wereldbeelden dan als hoogste principe? De enige die ik kan bedenken is God, waarvan je ook zou kunnen zeggen dat het het enige zuiver positieve principe is; dat waaruit alles uiteindelijk uit voortkomt. Of zoals de Scholastici zeggen, Hij is de Zuivere Daad. Als zodanig is in de traditionele wereld - of dit nu christendom, islam, jodendom of hindoeïsme is - het hoogste principe dat wat 'boven' is, al het andere komt voort uit dat wat 'boven' is, en vloeit naar beneden.  Het liberalisme keert dit om door naar beneden te kijken, in de onbestemde leegte. Het liberalisme eigent zich deze leegte dan in zekere zin toe, keert het om, stelt dat elke andere wereldbeschouwing de leegte als fundament heeft en ons als zodanig in een overkoepelend liberaal systeem dwingt. Dit is echter onjuist, een inversie, een _counterfeit_, zoals we hopelijk hebben aangetoond.
 
 
-[^1]: Camille Meloen, _[Tijd opgeslokt door ruimte](https://reactionair.nl/artikelen/tijd-opgeslokt-door-ruimte/)_.
+[^1]: Camille Scholtz, _[Tijd opgeslokt door ruimte](https://reactionair.nl/artikelen/tijd-opgeslokt-door-ruimte/)_.
 [^2]: René Guénon, _The Reign of Quantity and the Signs of the Times_.

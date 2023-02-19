@@ -1,7 +1,7 @@
 ---
 anchor: Smart
 authors:
-- Camille Meloen
+- Camille Scholtz
 cited:
 - René Guénon
 date: "2022-07-24"

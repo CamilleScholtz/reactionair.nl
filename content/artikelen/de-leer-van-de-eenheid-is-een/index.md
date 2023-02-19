@@ -1,44 +1,44 @@
 ---
-anchor: Center
+title: 'De leer van de Eenheid is één'
+subtitle: 'al-Tawhīdu wāhidun'
+date: '2022-05-02'
 authors:
-- Camille Meloen
-cited:
-- René Guénon
-date: "2022-05-02"
-files:
-- Islam
+    - 'Camille Scholtz'
+themes: 'Religie en Metafysica'
 image: thumb.webp
-subtitle: al-Tawhīdu wāhidun
-themes: Religie en Metafysica
-title: De leer van de Eenheid is één
+anchor: Center
+files:
+    - Islam
+cited:
+    - 'René Guénon'
 ---
 
-
-Wanneer ik boeken lees, vergeet ik de meeste zinnen binnen enkele minuten. Ik lees boeken voor de zeldzame parels. Eén zo'n parel is de volgende alinea in een boek van René Guénon, _Aperçus sur l'ésotérisme islamique et le taoïsme_:
+Wanneer ik mijmerend door de bladzijden van een boek ga, gaat mijn aandacht doorgaans verloren in de talloze zinnen en passages, die slechts enkele minuten later in de vergetelheid raken. Het zijn de ongekende parels die een onuitwisbare indruk achterlaten. Een dergelijke kostbare schat vond ik in een alinea van René Guénon's boek, *Aperçus sur l'ésotérisme islamique et le taoïsme*:
 
 >De leer van de Eenheid, dat wil zeggen de bevestiging dat het Beginsel van alle bestaan in wezen Eén is, is een fundamenteel punt dat alle orthodoxe tradities gemeen hebben, en we zouden zelfs kunnen zeggen dat het op dit punt is dat hun fundamentele identiteit het duidelijkst naar voren komt, zich uitend in haar eigen uitdrukking. Inderdaad, waar Eenheid is, verdwijnt alle verscheidenheid, en het is slechts in het afdalen naar veelheid dat verschillen in vorm verschijnen, waarbij de uitdrukkingswijzen zelf dan even veelvoudig zijn als datgene waarnaar zij verwijzen, en vatbaar voor onbepaalde variatie in het zich aanpassen aan de omstandigheden van tijd en plaats. Maar "de leer van de Eenheid is één" (volgens de Arabische formule _al-Tawhīdu wāhidun_), dat wil zeggen dat deze overal en altijd hetzelfde is, onveranderlijk als het Beginsel, onafhankelijk van veelheid en verandering, die alleen toepassingen van een contingente orde kunnen beïnvloeden.
 
-De Arabische formule in het specifiek trok mijn aandacht. Daarover dit essay.
+De Arabische formule, in het bijzonder, trok mijn aandacht en prikkelde mijn nieuwsgierigheid. In dit schrijven zal ik mijn bevindingen hierover delen.
 
 
 ### De bron
 
-Ik werd een beetje geobsedeerd met het vinden van de bron van deze formule, googelen op de verschillende termen resulteerde in een paar boeken geschreven door andere Traditionalisten zoals Seyyed Hossain Nasr en Frithjof Schuon. Guénon haalt dezelfde formule ook aan in zijn boek _Introduction générale à l'étude des doctrines hindoues_, zij het in iets andere bewoording (althans, in de Engelse vertaling, in het oorspronkelijke Frans is het hetzelfde geformuleerd):
+Het vinden van de oorsprong van deze formule was een ware obsessie voor mij. *Googelen* op de verschillende termen resulteerde in een paar boeken geschreven door andere Traditionalisten zoals Seyyed Hossain Nasr en Frithjof Schuon. Guénon haalt dezelfde formule ook aan in zijn boek _Introduction générale à l'étude des doctrines hindoues_, zij het in iets andere bewoording (althans, in de Engelse vertaling, in het oorspronkelijke Frans is het hetzelfde geformuleerd):
 
 >... maar de metafysica zelf blijft altijd fundamenteel en onveranderlijk dezelfde, want haar object is één in zijn essentie, of om precies te zijn "zonder dualiteit", zoals de Hindoes zeggen, en dat object, opnieuw door het feit dat het "boven de natuur" ligt, is ook boven alle verandering: de Arabieren drukken dit uit door te zeggen "de leer van de Eenheid is uniek".
 
-Nog steeds nieuwsgierig probeerde ik de formule te vertalen naar het Arabische schrift, en vond een aantal interessante resultaten. Hoewel ik moet toegeven dat mijn Arabisch nogal gebrekkig (lees: niet bestaand) is, dus ik moest vertrouwen op _Google Translate_. Ik kwam een artikel tegen met de titel _Uitleg van de Tahaawiyyah leer_, dit is een uitleg van een populaire uiteenzetting van een soennitische leer geschreven door de tiende-eeuwse Egyptische theoloog en jurist Abu Ja'far Ahmad at-Tahawi. De relevante sectie:
+Nog steeds nieuwsgierig probeerde ik de formule te vertalen naar het Arabische schrift, en vond een aantal interessante resultaten. Hierop vond ik een aantal interessante resultaten, hoewel ik toe moet geven dat mijn beheersing van het Arabisch enigszins beperkt is (lees: niet-bestaand), waardoor ik afhankelijk was van *Google Translate*.
+Zo kwam ik bijvoorbeeld uit bij een artikel met de titel: *Uitleg van de Tahaawiyyah leer*. Dit is een uitleg van een populaire uiteenzetting van een soennitische leer, geschreven door de tiende-eeuwse Egyptische theoloog en jurist Abu Ja'far Ahmad at-Tahawi. In de relevante sectie staat:
 
 >Wat opgemerkt moet worden bij deze verdeling - en het zal veel genoemd worden in de schriften van al-Tahawi, inderdaad in veel van de latere boeken van de leer - is dat deze verdeling niet de verscheidenheid van het monotheïsme betekent; het betekent niet dat het monotheïsme verdeeld is, want het monotheïsme is één en ondeelbaar, noch in termen van handeling, noch in termen van geloof.[^1]
 
-Een andere interessante passage die ik vond die zeker de filosofie van Guénon weerspiegelt:
+Een andere interessante passage die ik vond, weerspiegelt onmiskenbaar de filosofie van Guénon:
 
 >We moeten altijd onthouden en nooit vergeten dat het doel van het soefisme één is en het doel dat zij nastreven één is, ondanks hun verschillende formuleringen en namen van hun wegen, en al wat voorafging is het bewijs, en we voegen er nog een uitspraak aan toe van Abdel Halim Mahmoud, die zegt: "Elke soefi heeft een bepaald karakter, en zijn woorden hebben een speciale smaak, en de soefi's, hoewel zij allen naar één doel wandelen, en een doel waarin geen verschillende scholen zijn, namelijk monotheïsme - verschillen zij in vorm, en verschillen zij in de weg, vandaar het gezegde: (_Tawhīd_ is één - en monotheïsme is het doel - En de weg naar God is als de zielen van de kinderen van Adam, zij zijn talrijk en gevarieerd)”.[^2]
 
 
 ### Theologische implicaties
 
-Laten we deze kleine obsessie met de oorsprong van de formule achter ons laten en verder gaan. _Tawhīd_ zou vertaald kunnen worden als monotheïsme, en staat centraal in de Islam, God met de namen _al-ʿAḥad_ en _al-Wāḥid_. De term _tawhīd_ is in feite afgeleid van de termen _wāḥid_ en _aḥad_, die beide de betekenis van Eén hebben; de meest gangbare interpretatie is dat _wāḥid_ een numeriek één is waaraan een ander getal kan worden toegevoegd, terwijl _aḥad_ een Absolute Eenheid aanduidt die uniek is en niet kan nemen of worden gesplitst. De Islamitische eed, de _Shahādah_, luidt "er is geen God dan God", opnieuw een verklaring van eenheid.
+Laten we deze fixatie op de oorsprong van de formule achter ons laten en ons verder verdiepen in het concept *Tawhīd*. Deze term kan worden vertaald als monotheïsme en is het centrale thema van de islam, waar God wordt aangeduid met de namen *al-ʿAḥad* en *al-Wāḥid*. De term *Tawhīd* zelf is afgeleid van de woorden *wāḥid* en *aḥad*, die beide één betekenen. De meest voorkomende interpretatie is dat *wāḥid* een numerieke eenheid is waaraan een ander getal kan worden toegevoegd, terwijl *aḥad* verwijst naar de Absolute Eénheid die uniek is en niet kan worden opgedeeld. De islamitische geloofsbelijdenis, de *Shahādah*, luidt "er is geen god dan God", wat opnieuw een verklaring van eenheid is.
 
 De theologische implicatie van _al-Tawhīdu wāhidun_ is dat de Waarheid (God) één en uniek is. Zoals Guénon in ons vorige citaat schrijft, is metafysica _boven de natuur_. Hij maakt hier gebruik van een leuke etymologie: metafysica betekent letterlijk voorbij (_metá_) de natuur (_physica_; _nātūra_ is de Latijnse vertaling van het Griekse _physica_). De termen bovennatuurlijk en metafysisch zijn in feite gewoon synoniemen. "Voorbij de natuur" zijn betekent ook "voorbij alle verandering" zijn.[^3]
 

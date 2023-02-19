@@ -4,7 +4,7 @@ title: 'De hypocrisie van de media'
 subtitle: 'Over het Ongehoord Nederland debacle'
 date: '2022-09-16'
 authors:
-    - 'Camille Meloen'
+    - 'Camille Scholtz'
 themes: 'Politiek en Actualiteit'
 image: 459h-k3r2j5zkscpht4y90gdwfs.jpg
 anchor: Smart

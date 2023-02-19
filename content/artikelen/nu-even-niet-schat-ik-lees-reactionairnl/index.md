@@ -37,11 +37,11 @@ Wat hier verder nog van belang is met betrekking tot andere literatuur inzake di
 
 ### De rectificaties en complotten
 
-Het AD en het Parool verspreidde onwaarheden over onder andere de veronderstelde auteur van het artikel, die zo flagrant waren dat deze de volgende dag gerectificeerd moesten worden, op aandringen van onze redactie.
+Het AD en het Parool verspreidden onwaarheden over onder andere de veronderstelde auteur van het artikel, die zo flagrant waren dat deze de volgende dag gerectificeerd moesten worden, op aandringen van onze redactie.
 
 De Volkskrant en Trouw vlogen uit de bocht met een paranoïde complottheorie over een vanuit Forum voor Democratie georkestreerde campagne tegen Lammers. We kunnen u verzekeren: FVD is op geen enkele manier betrokken bij de inhoud of verspreiding van onze artikelen. Het werd puur toevallig opgepakt op Instagram door mensen die niets met FVD te maken hebben. Toeval, geen complot.
 
-Wat onze vermeende "haat" tegenover alles wat niet blank en christelijk is, betreft: onze redactie bevat protestanten, katholieken, moslims, ongebonden esoterici en atheïsten. Ook zijn we niet allemaal blank. Zo ook het artikel over Lammers; geschreven door een moslim.[^1]
+Wat onze vermeende "haat" tegenover alles wat niet blank en christelijk is, betreft: onze redactie bevat protestanten, katholieken, moslims, ongebonden esoterici en atheïsten. Ook zijn we niet allemaal blank. Het artikel over Lammers werd geschreven door een moslim.[^1]
 
 Ook hadden we vanzelfsprekend niets van doen met de bedreigingen aan het adres van Lammers. Dat hiermee de discussie onmogelijk wordt gemaakt, is een valse tactiek. Volgens diezelfde logica zouden we immers het ook nooit over de ideeën van Wilders kunnen hebben. We weten dat dit slechts een afleidingskritiek was, maar de hypocrisie blijft pijnlijk. Wij kregen ook meerdere persoonlijke moordbedreigingen, maar dat lees je in geen enkele krant. 
 

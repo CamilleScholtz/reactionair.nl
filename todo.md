@@ -1,5 +1,6 @@
 Te doen:
 
+- link donatiepagina + Tax collectors > belastingontvangers (Vlaamse schilder)
 - reactiebeleid?
 - afbeelding in artikel?
 - tweetknop onder artikelen

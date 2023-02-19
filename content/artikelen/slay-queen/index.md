@@ -1,18 +1,15 @@
 ---
-anchor: Center
+title: 'Slay, Queen'
+subtitle: 'Een kort griezelverhaal met komische twist over transgenderisme'
+date: '2022-09-30'
 authors:
-- De redactie
-date: "2022-09-30"
-files:
-- Woke
+    - 'De redactie'
+themes: 'Cultuur en Maatschappij'
 image: a.jpg
-note: Dit is een vertaling van het essay 'Slay, Queen', het origineel is [hier](https://zerohplovecraft.substack.com/p/slay-queen)
-  te lezen. We willen de lezer vantevoren waarschuwen dat de inhoud nogal onsmakelijk
-  kan zijn, maar niettemin een belangrijke boodschap bevat en naar onze mening van
-  hoge literaire waarde is. De ontknoping zal U verbazen!
-subtitle: Een kort griezelverhaal met komische twist over transgenderisme
-themes: Cultuur en Maatschappij
-title: Slay, Queen
+anchor: Center
+files:
+    - Woke
+note: "Dit is een vertaling van het korte verhaal 'Slay, Queen' van zero HP Lovecraft, het origineel is [hier](https://zerohplovecraft.substack.com/p/slay-queen) te lezen. We willen de lezer vantevoren waarschuwen dat de inhoud nogal onsmakelijk kan zijn, maar niettemin een belangrijke boodschap bevat en naar onze mening van hoge literaire waarde is. De ontknoping zal U verbazen!"
 ---
 
 Hij begon ermee zichzelf Candace te noemen. Candy eigenlijk, maar dat stond voor Candace. Eerst alleen op het internet. In het echte leven was zijn naam Stuart. Stuart hield veel van porno. Te veel. Hij keek er iedere dag naar, trok zich voortdurend af, wanneer hij maar tijd had. Gewoonlijk vrij gewoon spul, maar hij stond open. Soms, na drie keer te hebben geknald op een dag, had hij iets vreemders nodig om opgewonden te raken. Hij hield van filmpjes die hem zich ongemakkelijk deden voelen, niet dat hij per se opgewonden raakte van wat voor vreemde act dan ook, maar wel dat het gevoel van ongemak, van het weerzinwekkende, van ‘dit is fout’ het enige was dat hem over het randje trok.

@@ -4,7 +4,7 @@ title: 'Elon Musk'
 subtitle: 'Based of cringe?'
 date: '2022-11-06'
 authors:
-    - 'Camille Meloen'
+    - 'Camille Scholtz'
 themes: 'Politiek en Actualiteit'
 image: elon.webp
 anchor: Smart

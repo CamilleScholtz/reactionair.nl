@@ -1,7 +1,7 @@
 ---
 anchor: Top
 authors:
-- Camille Meloen
+- Camille Scholtz
 cited:
 - René Guénon
 - Anton Kerssemakers

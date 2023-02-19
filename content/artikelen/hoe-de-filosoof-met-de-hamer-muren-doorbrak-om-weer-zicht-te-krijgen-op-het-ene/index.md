@@ -34,7 +34,7 @@ _'I'm TNT, I'm dynamite'_ zong AC/DC-zanger Brian Johnson in 1976, zich daarmee 
 
 ### Metselen met een mes
 
-Ik heb gehoord dat je van recursie hield, hond, daarom ga ik mijn gewaardeerde collega Meloen citeren terwijl hij Guénon citeert:
+Ik heb gehoord dat je van recursie hield, hond, daarom ga ik mijn gewaardeerde collega Camille citeren terwijl hij Guénon citeert:
 
 >'In aanmerking genomen dat de Waarheid (God) één en uniek is, moet Hij ook boven uitdrukking of individueel begrip verheven zijn. Om iets te kunnen beschrijven moet het gedefinieerd zijn (etymologisch: beperkt zijn, gebonden zijn; _de-fined_, _finite_) en God is de Oneindige, bovendien moet het attributen hebben die het conditioneren, hetgeen delen, verdeeldheid, zou introduceren. Ik citeer Guénon nog eens:
 
@@ -61,7 +61,7 @@ Wellicht heeft hij deze jaren in diepste intimiteit met het Ene doorgebracht.
 [^3]: AC/DC - T.N.T
 [^4]: Friedrich Nietzsche, _Jenseits von Gut und Böse_.
 [^5]: Wikipedia, _[Boeddha's van Bamyan](https://nl.wikipedia.org/wiki/Boeddha's_van_Bamyan)_.
-[^6]: Camille Meloen, _[De leer van de Eenheid is één](https://reactionair.nl/artikelen/de-leer-van-de-eenheid-is-een/)_.
+[^6]: Camille Scholtz, _[De leer van de Eenheid is één](https://reactionair.nl/artikelen/de-leer-van-de-eenheid-is-een/)_.
 [^7]: Ludwig Wittgenstein: _'Das Ziel der Philosophie - der Fliege den Ausweg aus dem Fliegenglas zeigen'_.
 [^8]: Genesis 2:19-20.
 [^9]: Bertrand Russell, _History of western philosophy_.

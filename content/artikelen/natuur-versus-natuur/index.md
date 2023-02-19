@@ -1,6 +1,6 @@
 ---
 authors:
-- Camille Meloen
+- Camille Scholtz
 cited:
 - René Guénon
 - Aristoteles

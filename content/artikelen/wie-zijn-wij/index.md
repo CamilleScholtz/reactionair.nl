@@ -1,13 +1,13 @@
 ---
+title: 'Wie zijn wij?'
+subtitle: 'Een inleiding tot Reactionair.nl'
+date: '2021-10-01'
 authors:
-- De redactie
-date: "2021-10-01"
-image: thumb.webp
-subtitle: Een inleiding tot Reactionair.nl
+    - 'De redactie'
 themes: Mededeling
-title: Wie zijn wij?
+image: thumb.webp
+anchor: Smart
 ---
-
 
 Wij zijn een online tijdschrift gewijd aan essays, kritieken en opinie vanuit — zoals de naam al aangeeft — een reactionair oogpunt. Een korte inleiding tot de etymologie van _Reactionair_ zal duidelijk maken waarom wij voor deze naam gekozen hebben: reactionair komt van het Franse _réactionnaire_ dat gebruikt werd in de tijd van de Franse revolutie en verwijst naar hen die zich verzetten tegen de revolutie, waarbij de revolutie in delen verwijst naar de historische gebeurtenis, en in delen symbool staat voor het liberalisme en de bijbehorende beginselen als _liberté_ en _égalité_.
 
@@ -17,4 +17,6 @@ De reactionair daarentegen wil terugkeren naar de _status quo ante_, wat noodzak
 
 We zullen trachten een leegte in het Nederlandse media landschap op te vullen, want zelfs de “rechtse” media overschrijden de grens van het klassiek liberalisme vaak niet, en de weinige die dat wel doen, vervallen in een plat soort nationalisme, of reageren grotendeels op de actualiteiten zonder een grotere visie uit te dragen.
 
-Denkt u iets te kunnen bijdragen aan ons tijdschrift, aarzel dan niet om contact op te nemen, dit kan via [ons Twitter-account](https://twitter.com/reactionairNL) of via e-mail: [contact@reactionair.nl](mailto:contact@reactionair.nl). 
+Denkt u iets te kunnen bijdragen aan ons tijdschrift, aarzel dan niet om contact op te nemen, dit kan via [ons Twitter-account](https://twitter.com/reactionairNL) of via e-mail: [contact@reactionair.nl](mailto:contact@reactionair.nl).
+
+_Disclaimer: Reactionair.nl biedt een platform aan schrijvers met uiteenlopende denkbeelden. Hierbij schuwen we de controverse niet. De meningen die in onze artikelen worden vertolkt, worden niet noodzakelijkerwijze onderschreven door de redactie. Ook kan de redactie niet verantwoordelijk worden gehouden voor gedragingen en uitingen van onze auteurs die buiten ons medium plaatsvinden._

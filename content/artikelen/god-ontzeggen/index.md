@@ -1,27 +1,27 @@
 ---
-anchor: Center
+title: 'God ontzeggen'
+subtitle: 'Een verzameling apofatische gedichten en citaten'
+date: '2022-06-17'
 authors:
-- Camille Meloen
-date: "2022-06-17"
-files:
-- Islam
+    - 'Camille Scholtz'
+themes: 'Recensie en Biografie'
 image: thumb.webp
-subtitle: Een verzameling apofatische gedichten en citaten
-themes: Recensie en Biografie
-title: God ontzeggen
+anchor: Center
+description: "Op zoek naar antwoorden over de aard van God? Aydogan Kars 'Unsaying God: Negative Theology in Medieval Islam' biedt inzichten in apofatische theologie met gedichten en citaten van middeleeuwse islamitische theologen en mystici."
+files:
+    - Islam
 ---
 
+Een van mijn grootste fascinaties is het concept van Oneindigheid en in het bijzonder de manier waarop ware oneindigheid noodzakelijkerwijs 'eindig' moet zijn om trouw te blijven aan de definitie ervan.[^1] Deze kwestie heeft duidelijk sterke banden met de theologie, oftewel de wetenschap die zich bezighoudt met het 'begrijpen' van God.
 
-Een van de dingen waar ik geobsedeerd mee ben is het concept van het Oneindige. In het bijzonder hoe ware oneindigheid ook eindig moet zijn om trouw te zijn aan de definitie ervan.[^1] Het is duidelijk dat dit veel te maken heeft met theologie, en daarmee bedoel ik de wetenschap van het 'begrijpen' van God. 
-
-In het bijzonder de apofatische theologie, die deze eerder genoemde paradox beschouwt als iets dat de dialoog te boven gaat. Paradox betekent etymologisch 'voorbij het denken' en apofatisch betekent etymologisch 'anders dan spreken'.
+Met name de apofatische theologie beschouwt deze paradox als iets wat het menselijk denkvermogen te boven gaat. Het woord paradox komt van de Griekse woorden *para*, wat 'voorbij' betekent, en *doxa*, wat 'mening' betekent. Apofatisch is afgeleid van het Griekse woord *apophasis*, wat 'anders dan spreken' betekent, en verwijst naar het idee dat het niet mogelijk is om God te beschrijven met behulp van positieve beweringen.
 
 Ongeveer een jaar geleden, tijdens mijn onderzoek naar deze concepten, stuitte ik op een boek getiteld _'Unsaying God: Negative Theology in Medieval Islam'_ van Aydogan Kars. Kars bespreekt in dit boek vier verschillende 'soorten' apofatische theologie met behulp van vele originele vertalingen van verschillende citaten en gedichten van middeleeuwse islamitische theologen en mystici. Het boek is duidelijk 'academisch' van aard, en de ietwat hoge prijs van 90 euro laat dat zien. Gezien de hoge prijs en de onbeschikbaarheid online wil ik enkele parels uit dit werk daarom graag met u delen. Zo zal ik niet te veel redigeren en enkel de verschillende gedichten en citaten presenteren zoals ze zijn.
 
 
 ### Dubbele ontkenning: Ismaïlitische apofatisme
 
-Het eerste deel gaat over de "dubbele ontkenning" van de Ismaïlieten. Neem bijvoorbeeld "God is niet lichamelijk en God is niet niet lichamelijk". Hier is de latere ontkenning geen ontkenning op zich (dus“niet niet lichamelijk” betekent _niet_ dat God in feite lichamelijk is), maar eerder een zelfannulering van de eerste negatieve uitspraak en als zodanig een annulatie van het discours over God. Om het in meer wiskundige taal te formuleren, wat er gezegd wordt is "noch (G is X) noch (G is niet X). Nu over naar de citaten:
+Het eerste deel van het boek gaat over de "dubbele ontkenning" van de Ismaïlieten. Een voorbeeld hiervan is de uitspraak "God is niet lichamelijk en God is niet niet lichamelijk". Hierbij is de tweede ontkenning geen ontkenning op zich (dus “niet niet lichamelijk” betekent _niet_ dat God in feite lichamelijk is), maar eerder een zelfontkenning van de eerste negatieve uitspraak en als zodanig een ontkenning van het discours over God. Om het in meer wiskundige taal te formuleren, wat er gezegd wordt is "noch (*G* is *X*) noch (*G* is niet *X*). Nu over naar de citaten:
 
 Nashwān al-Ḥimyarī:
 

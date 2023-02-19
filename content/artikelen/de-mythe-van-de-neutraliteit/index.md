@@ -1,6 +1,6 @@
 ---
 authors:
-- Camille Meloen
+- Camille Scholtz
 cited:
 - G. K. Chesterton
 - Karl Popper
