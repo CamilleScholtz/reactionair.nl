@@ -78,7 +78,7 @@ Diep van binnen verwacht Schwab niet dat zijn lezers aannemen dat de pandemie pl
 
 Schwab voegt zelfs een zinloze grafiek toe om zijn geliefde hyperconnectiviteit-these te illustreren, waarmee alles automatisch over allerlei andere dingen gaat:
 
-{{< image src="graph.svg" >}}
+{{< image src="assets/graph.svg" >}}
 
 Het is duidelijk dat er niet echt nagedacht is over deze grafiek. Je kunt dit herkennen aan het feit dat dingen niet met elkaar verbonden zijn, die dat wel hadden moeten zijn - er is bijvoorbeeld geen lijn die ‘massavernietigingswapens’ en ‘door de mens veroorzaakte milieurampen’ met elkaar verbindt, ondanks dat van de ‘door de mens veroorzaakte milieurampen’ de meest gretig onderzochte waarschijnlijk een nucleaire winter is. Schwab is voornamelijk geïntereseerd in het aanleveren van een academische esthetiek aan zijn lezers, en om hen het gevoel te geven dat ze iets verfijnds en geleerds lezen, zelfs als dat absoluut niet het geval is.
 

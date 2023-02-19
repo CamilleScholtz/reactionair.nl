@@ -28,7 +28,7 @@ Het _COC_ beveelt in de leerlijn onder andere de boekjes aan van de schrijver Pi
 Hoe kan het nu toch dat in het overgereguleerde Nederland van 2022 een organisatie die bijna geheel draait op overheidsgeld een dergelijk subversieve leerlijn mag doordrukken in het onderwijs aan de allerjongste kinderen?[^7] Voor het beantwoorden van die vraag moeten we een paar stappen naar achter doen en deze kwestie bekijken in een groter geheel. We worden daarbij geholpen door een uitstekend twitterdraadje waarop ik door een bevriende twitteraar werd gewezen.[^8] Josh Dows schetst hierin de Amerikaanse context waarbij veelal de volgende _meme_ wordt gebruikt wanneer links-liberalen met kinderen over seksualiteit willen praten:
 
 {{< image
-	src="meme.webp"
+	src="assets/meme.webp"
 	caption="Meme over links-liberalen die met kinderen over 'seksualteit' willen praten"
 >}}
 

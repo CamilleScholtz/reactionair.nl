@@ -47,8 +47,8 @@ Een korte zoektocht op internet leverde toen een viezig plaatje op: Lammers schr
  
 Voor Paarse Vrijdag raadt het COC Lammers’ boek *Het lammetje dat een varken is* aan,[^7] “waarmee hij de ervaring van een transgender persoon op een laagdrempelige manier invoelbaar en begrijpelijk maakte voor de jongsten.” Dit boek over transseksualiteit wordt aanbevolen voor kinderen vanaf 4 jaar. Saillant detail is dat Lammers voor dit boek de *Boer Boris Premie* van schrijver Ted van Lieshout heeft gekregen.[^8] Ted van Lieshout is eveneens schrijver van boeken voor kinderen én volwassenen, die voor een aanzienlijk deel pedofilie als thema hebben.[^9]
  
-{{< image src="1.png" >}}
-{{< image src="2.png" >}}
+{{< image src="assets/1.png" >}}
+{{< image src="assets/2.png" >}}
 
 
 ### Pedofiele fictie
@@ -77,8 +77,8 @@ Ook het gedicht *Mannen* gaat over seksueel misbruik tussen mannen en kind.[^11]
  
 In de dichtbundel *Ik denk dat ik ontvoerd ben* dicht Lammers over ‘Tante Ben’, een man die verkleed als vrouw zijn neefje vertelt over zijn *pronouns*. Een ander gedicht gaat over een opa die op de rug van kleinkind kriebelt (“fijn he”), maar daar dan toch een seksueel getinte draai aan geeft: “vindt maar een mooie jongen om te kriebelen”. In dezelfde bundel wijdt Lammers een gedicht aan een jongen in groep 8 die verliefd is op “meester Jasper”.
 
-{{< image src="b5822b91-069f-4925-9c29-dae57edebcd6.jpg" >}} 
-{{< image src="3e337b63-6b51-4485-a051-a7070cb867ae.jpg" >}}
+{{< image src="assets/b5822b91-069f-4925-9c29-dae57edebcd6.jpg" >}} 
+{{< image src="assets/3e337b63-6b51-4485-a051-a7070cb867ae.jpg" >}}
 
 
 ### Vragen
@@ -140,7 +140,6 @@ Er is veel gebeurd in de afgelopen 24 uur. Lammers stopt met schrijven voor de K
 ### Epiloog
 
 Lees de epiloog van dit hele verhaal. Een bloemlezing van medialeugens en een ingezonden brief: *[‘Nu even niet schat, ik lees Reactionair.nl’](https://reactionair.nl/artikelen/nu-even-niet-schat-ik-lees-reactionairnl/)*.
-
 
 
 [^1]: Zie de *[Biografie van Pim Lammers](https://spui25.nl/bio/pim-lammers)*.

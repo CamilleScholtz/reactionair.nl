@@ -33,7 +33,7 @@ De moraal van het verhaal is duidelijk: iedereen heeft een stukje van de waarhei
 Laten we dit nog eens contrasteren met onze westerse waarheidsopvatting, die door Spengler faustiaans is genoemd.[^5] Wij nemen geen genoegen met ons beperkte, subjectieve, menselijke al te menselijke perspectief. Het object zelve willen wij! En hoewel Kant ons nog zo gezegd heeft dat de wereld van de Dinge an sich voor ons voor eeuwig en altijd buiten bereik ligt (of juist daarom?), blijven wij als dolle Don Quichottes rondjes draven om deze ommuurde tuin der Hesperiden, in de ijdele hoop toch ooit de noumenale gouden appels te bemachtigen.[^6]
 
 {{< image
-	src="hermaphrodite.webp"
+	src="assets/hermaphrodite.webp"
 	caption="Gravure van hermafrodiet uit een 18e eeuwse versie van het Rosarium philosophorum."
 >}}
 
@@ -47,7 +47,7 @@ Dit is dan ook de reden waarom de ultieme waarheid in de alchemie geassocieerd w
 ### Over luilakken, daoïsten en driftige hemelbestormers
 
 {{< image
-	src="water.webp"
+	src="assets/water.webp"
 	caption="Daoïstische schildering van de machteloze macht, de krachteloze kracht en de prachteloze pracht van water."
 >}}
 

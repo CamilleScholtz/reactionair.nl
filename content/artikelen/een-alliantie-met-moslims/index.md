@@ -26,7 +26,7 @@ Hoewel ik al wat langer geleden in mijzelf vraagtekens stelde bij het vreemde ve
 Op Twitter zijn de contouren van een dergelijke alliantie waarschijnlijk het beste zichtbaar. Een groeiende groep veelal jonge -en vaak anonieme- twitteraars die in hun twitterbio o.a. _reactionair_, _conservatief_ en _moslim_ hebben staan trekken samen op in debatten over bijvoorbeeld Bijzonder Onderwijs, LHBT-indoctrinatie op scholen, seksuele losbandigheid en massa-immigratie. Het is bijzonder om te zien dat jongeren uit groepen waarvan voorheen verwacht werd dat zij elkaars politieke tegenstanders waren, samen opkomen voor zaken die onder zware druk van het neoliberale denken staan. 
 
 {{< image
-	src="twitter.webp"
+	src="assets/twitter.webp"
 	caption="Een aantal reactionaire/conservatieve moslims op Twitter."
 >}}
 

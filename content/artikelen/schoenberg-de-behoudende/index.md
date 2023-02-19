@@ -8,7 +8,7 @@ date: "2022-05-09"
 image: thumb.webp
 subtitle: De meester en de moderniteit
 themes: Recensie en Biografie
-title: Schönberg  de behoudende
+title: Schönberg de behoudende
 ---
 
 
@@ -53,26 +53,26 @@ Allereerst is er letterlijke herhaling; dit zien we in kinderliedjes als _Frère
 Zo is in de onderstaande passage uit _An der schönen blauen Donau_ sprake van minimale variatie in melodie en harmonie. De eerste frase wordt maar liefst zesmaal op bijna identieke wijze herhaald.
 
 {{< image
-	src="ex1.webp"
+	src="assets/ex1.webp"
 	caption="Johann Strauss jr., An der schönen blauen Donau."
 >}}
 
 Ook in veel aria‘s van Verdi, zoals onderstaand _Di quella pira_ zien we deze eenvoudige herhaling.
 
 {{< image
-	src="ex2.webp"
+	src="assets/ex2.webp"
 	caption="Giuseppe Verdi, Il trovatore, Di quella Pira."
 >}}
 
 De sequensen van Wagner en de ritmische eenvoud die veel werken van Schubert kenmerkt zijn niet van een inherent andere orde, maar het onderscheid is dat deze eenvoudige herhaling een contragewicht vormt voor de geavanceerde harmonieën van beide heren.
 
 {{< image
-	src="ex3.webp"
+	src="assets/ex3.webp"
 	caption="Franz Schubert, Moments musicaux - II."
 >}}
 
 {{< image
-	src="ex4.webp"
+	src="assets/ex4.webp"
 	caption="Richard Wagner, Tristan und Isolde -Vorspiel."
 >}}
 
@@ -83,7 +83,7 @@ Hier gaat het er eigenlijk om, aldus Schönberg, dat er in de muziek geen letter
 Vele uitmuntende voorbeelden hiervan vinden we in Brahms; hieronder vindt u er één waarvan ik denk dat het de strekking van het concept aardig dekt:[^9]
 
 {{< image
-	src="ex5.webp"
+	src="assets/ex5.webp"
 	caption="Johannes Brahms, Vier ernste Gesänge – III „O Tod, wie bitter bist du“."
 >}}
 
