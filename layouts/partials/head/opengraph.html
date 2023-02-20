@@ -1,5 +1,5 @@
 <meta property="og:title" content="{{ .Title | safeHTML }}">
-<meta property="og:description" content="{{ if isset .Params "description" }}{{ .Params.description }}{{ else }}{{ .Params.subtitle }}{{ end }}">
+<meta property="og:description" content="{{ if isset .Params "subtitle" }}{{ .Params.subtitle }}{{ else }}{{ .Params.description }}{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 {{ if eq .Type "artikelen" }}
 	{{ $image  := .Resources.GetMatch .Params.image }}
