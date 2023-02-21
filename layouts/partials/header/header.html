@@ -2,7 +2,11 @@
 	<div id="logo-container">
 		<a href="/" id="logo">
 			<img src="{{ "img/logo.svg" | relURL }}" alt="Reactionair.nl" style="width: 101px; height: 101px;">
-			<span>Reactionair.nl</span>
+			{{ if eq .Kind "home" }}
+				<h1>Reactionair.nl</h1>
+			{{ else }}
+				<span>Reactionair.nl</span>
+			{{ end }}
 		</a>
 
 		{{ partialCached "header/search.html" . }}
