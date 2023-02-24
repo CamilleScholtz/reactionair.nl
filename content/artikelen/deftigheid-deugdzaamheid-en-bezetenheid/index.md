@@ -6,6 +6,7 @@ cited:
 - Jacues Ellul
 - Immanuel Kant
 - Robert Lemm
+- Mark Rutte
 date: "2022-04-21"
 image: thumb.webp
 subtitle: Overweging over het mensbeeld van de meeste mensen

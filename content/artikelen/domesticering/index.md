@@ -4,6 +4,7 @@ authors:
 cited:
 - Thierry Baudet
 - Carl Schmitt
+- Mark Rutte
 date: "2022-01-02"
 image: thumb.webp
 subtitle: De Futuro-Fundamentalistische Revolutie, deel 3

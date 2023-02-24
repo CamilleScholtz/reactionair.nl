@@ -11,6 +11,7 @@ files:
     - Woke
 cited:
     - 'Pim Lammers'
+    - 'Mark Rutte'
 note: '*Updates!* Onze primeur heeft geleid tot kamervragen van BVNL, zie einde artikel!'
 ---
 

@@ -1,16 +1,18 @@
 ---
+title: 'Het hyperreeële presidentschap van de acteur Zelenski'
+subtitle: 'Een baudrillardiaanse visie'
+date: '2022-04-03'
 authors:
-- Rintrah Radagast
-- De Melancholieke Nar
-cited:
-- Jean Baudrillard
-date: "2022-04-03"
-files:
-- Oekraïne
+    - 'Rintrah Radagast'
+    - 'De Melancholieke Nar'
+themes: 'Politiek en Actualiteit'
 image: thumb.webp
-subtitle: Een baudrillardiaanse visie
-themes: Politiek en Actualiteit
-title: Het hyperreeële presidentschap van de acteur Zelenski
+anchor: Smart
+description: 'Ontdek de post-marxistische filosoof Jean Baudrillard en zijn concept hyperrealiteit. Leer hoe het menselijke bewustzijn niet meer in staat is de werkelijkheid te onderscheiden van een simulatie daarvan.'
+files:
+    - Oekraïne
+cited:
+    - 'Jean Baudrillard'
 ---
 
 Jean Baudrillard (1929-2007) was een post-marxistische filosoof die vooral bekend is geworden om het concept hyperrealiteit. Hiermee bedoelde hij dat we in een fase van de geschiedenis zijn gekomen waarin het menselijke bewustzijn niet meer in staat is de werkelijkheid van een simulatie daarvan te onderscheiden.

@@ -1,20 +1,19 @@
 ---
-anchor: Top
+title: 'God en vrijheid'
+subtitle: 'Over de omgekeerde analogie'
+date: '2021-11-21'
 authors:
-- Camille Scholtz
-cited:
-- René Guénon
-- Aristoteles
-- Pythagoras
-date: "2021-11-21"
+    - 'Camille Scholtz'
+themes: 'Religie en Metafysica'
 image: thumb.webp
-subtitle: Over de omgekeerde analogie
-themes: Religie en Metafysica
-title: God en vrijheid
+anchor: Top
+cited:
+    - Aristoteles
+    - Pythagoras
+    - 'René Guénon'
 ---
 
-
-Het liberalisme heeft als beginsel vrijheid, _liberté_. In vergelijking met andere wereldbeelden is dit beginsel uniek in die zin dat het negatief is, waarmee ik bedoel dat vrijheid alleen bestaat doormiddel van _negatie_. Je kunt alleen uit een kooi worden bevrijd door het omhulsel af te breken; dit kan worden vertaald naar een aantal andere domeinen: in de sociale sfeer kun je bevrijd worden van de grenzen die normativiteit stelt, zoals traditionele seksuele rollen, door ze neer te halen. In het categorische domein kun je bijvoorbeeld de _"gender binary"_ open breken door er een spectrum van te maken: in plaats van _beperkt_ te zijn tot slechts twee keuzes, is er nu een theoretisch onbepaald aantal _genders_ om uit te kiezen, vrijheid! In het geval van moraal of kunst, schaf _"goed"_ en _"slecht"_, _"mooi"_ en _"lelijk"_ af, haal het neer, wees bevrijd.
+Het liberale gedachtegoed draagt vrijheid hoog in het vaandel, *liberté*. Dit beginsel onderscheidt zich van andere wereldbeelden door zijn negatieve karakter, wat betekent dat vrijheid slechts kan worden bereikt door middel van *negatie*. Vergelijk het met een gevangeniscel, waar men enkel kan ontsnappen door de omhulling te doorbreken. Deze analogie geldt ook voor andere domeinen: in de sociale sfeer kan men de normatieve grenzen doorbreken door bijvoorbeeld de traditionele geslachtsrollen te ontmantelen. Het categorische domein kan het beperkende concept van de *"gender binary"* doorbreken en een breed spectrum van genderidentiteiten omarmen. In de sfeer van moraal en kunst kan men de begrippen "goed" en "slecht", "mooi" en "lelijk" loslaten en zich bevrijden van deze beperkingen.
 
 Een tijdje geleden sprak ik in een _Twitter space_, een soort groepsvoicechat waar iedereen aan kan schuiven. We hadden het over het onderwerp vrijheid en ik benoemde het eerdere voorbeeld van de kooi. Een andere persoon zei dat we ons in plaats van de kooi ook een grote weide kunnen voorstellen met een hek eromheen. In deze weide hebben we de vrijheid om verschillende wereldbeelden op te bouwen. Volgens hem was vrijheid dus in zekere zin de grondslag, het fundament, van elk wereldbeeld. Het is het overkoepelende, of liever, onderliggende principe waaraan elk wereldbeeld noodzakelijkerwijs deelneemt.
 

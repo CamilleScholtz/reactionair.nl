@@ -1,18 +1,19 @@
 ---
+title: 'De mythe van de neutraliteit'
+subtitle: 'En de blindheid van de liberalen'
+date: '2021-10-06'
 authors:
-- Camille Scholtz
-cited:
-- G. K. Chesterton
-- Karl Popper
-date: "2021-10-06"
+    - 'Camille Scholtz'
+themes: 'Politiek en Actualiteit'
 image: thumb.webp
-subtitle: En de blindheid van de liberalen
-themes: Politiek en Actualiteit
-title: De mythe van de neutraliteit
+anchor: Smart
+description: "De Tweede Kamer neemt besluit: scholen mogen geen identiteitsverklaring eisen van ouders. Maar is 'neutraliteit' wel haalbaar? Lees het hier."
+cited:
+    - 'G. K. Chesterton'
+    - 'Karl Popper'
 ---
 
-
-Onlangs heeft de Tweede Kamer een voorstel aanvaard om ervoor te zorgen dat geen enkele school een verklaring van de ouders mag eisen waarin zij de identiteit van de school onderschrijven. Veel liberalen waren hier erg blij mee, zich beroepend op een zogenaamde “neutraliteit”. Op Twitter lazen we beweringen als:
+Onlangs heeft de Tweede Kamer een voorstel aanvaard om ervoor te zorgen dat geen enkele school een verklaring van de ouders mag eisen waarin zij de identiteit van de school onderschrijven. Een groot aantal aanhangers van het liberale gedachtegoed hebben met vreugde gereageerd op deze beslissing, zich daarbij beroepend op het idee van "neutraliteit". Op het platform van Twitter werden diverse uitspraken waargenomen, waaronder:
 
 >Openbaar onderwijs is bijna altijd levensbeschouwelijk neutraal en vertelt juist over verschillende levensovertuigingen.[^1]
 
@@ -20,9 +21,9 @@ En,
 
 >... wetenschappelijk verantwoorde lesprogramma's met een objectief positief effect op de maatschappij ten behoeve van het algemene belang van emancipatie. Neutraal dus.[^2]
 
-Hoewel iedereen die een wereldbeeld heeft dat ook maar enigszins afwijkt van de norm zal zien dat dit natuurlijk onzin is. Neutraliteit bestaat niet in de echte wereld, elk standpunt en elke beslissing is gekleurd door ideologie. Bijvoorbeeld het zien van "emancipatie" als iets waarnaar gestreefd moet worden is ingegeven door de liberale ideologie.
+Hoewel iedereen die een wereldbeeld heeft dat ook maar enigszins afwijkt van de norm zal zien dat dit natuurlijk onzin is. Neutraliteit bestaat niet in de echte wereld, elk standpunt en elke beslissing is immers gekleurd door ideologie. Zo is bijvoorbeeld het streven naar emancipatie ingegeven door de liberale ideologie.
 
-Vreemd genoeg weten de meeste religieuze mensen dat ze dogmatisch zijn, maar de gemiddelde liberaal is echter compleet blind voor eigen dogmatiek. Ik vermoed dat dit komt doordat de liberaal geboren en getogen is in een liberale samenleving en als zodanig nooit _echt_ in contact is geweest met enig ander wereldbeeld, hetzelfde kan echter niet gezegd worden van de gemarginaliseerde godsdienstige persoon die dagelijks te horen krijgt dat hij zijn wereldbeeld en belangrijkste overtuigingen maar weg moet stoppen _“achter de voordeur”_. Om G. K. Chesterton te citeren:
+Opmerkelijk genoeg lijken de meeste religieuze mensen zich ervan bewust te zijn dat ze dogmatisch zijn, terwijl de gemiddelde liberaal blind lijkt te zijn voor zijn eigen dogmatiek. Ik vermoed dat dit komt doordat de liberaal geboren en getogen is in een liberale samenleving en als zodanig nooit _echt_ in contact is geweest met enig ander wereldbeeld. Dit kan echter niet gezegd worden van de gemarginaliseerde religieuze persoon, die dagelijks te horen krijgt dat hij zijn wereldbeeld en belangrijkste overtuigingen maar moet wegstoppen *"achter de voordeur"*. Zoals G.K. Chesterton ooit zei:
 
 >In truth, there are only two kinds of people; those who accept dogma and know it, and those who accept dogma and don't know it.[^3]
 
@@ -56,10 +57,8 @@ Volgens het postmodernisme zijn alle waarden een kwestie van perspectief en best
 Wij leven nu in een wereld die geregeerd wordt door een wereldbeeld dat allang zijn eigen fundament vernietigd heeft maar dit niet doorheeft, en deze zelfde mensen vertellen ons dat wij moeten leven in overeenstemming met wat zij _“neutraal”_ achten. Zoals op het schilderij _de parabel der blinden_ van Pieter Bruegel de Oude, zijn wij blind en worden wij geleid door blinden, die ronddwalen, dan aarzelen, alarm slaan, struikelen, en tenslotte vallen.
 
 
-
 [^1]: Peter Kwint, _[Twitter](https://twitter.com/peterkwint/status/1445432245645348864)_.
 [^2]: Max Waterman, _[Twitter](https://twitter.com/MaxTheDragon/status/1445532224799969283)_.
 [^3]: G. K. Chesterton, _Fancies Versus Fads_.
 [^4]: Karl Popper, _De open samenleving en haar vijanden_.
 [^5]: NieuwWij, _Islam, Europa en de liberale paradox_.
-

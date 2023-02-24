@@ -9,6 +9,7 @@ cited:
 - Sid Lukkassen
 - Oswald Spengler
 - Ludwig Wittgenstein
+- Mark Rutte
 date: "2021-11-11"
 image: thumb.webp
 subtitle: Het belang van betekenis van termen en wat het ons kan leren over een reactionaire

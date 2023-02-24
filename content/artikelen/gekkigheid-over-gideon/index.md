@@ -4,6 +4,7 @@ authors:
 - Sanura
 cited:
 - Johan Rudolph Thorbecke
+- Thierry Baudet
 date: "2022-07-23"
 image: 900.jpeg
 subtitle: Wet, recht en geweld… wie weet nog wat?
