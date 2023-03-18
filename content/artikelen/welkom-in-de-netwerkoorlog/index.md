@@ -1,7 +1,7 @@
 ---
 authors:
 - De redactie
-cited:
+tags:
 - Jacues Ellul
 date: "2022-05-08"
 image: thumb.webp

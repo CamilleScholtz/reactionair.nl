@@ -51,68 +51,18 @@
 			{{ end }}
 
 			{{ .Content }}
-
-			{{ if isset .Params "cited" }}
-				<section class="cited">
-					<p>Aangehaald in dit artikel:</p>
-
-					{{ range .Params.cited }}
-						<a href="/aangehaald/{{ urlize . }}">{{ . }}</a>
-					{{ end }}
-				</section>
-			{{ end }}
 		</section>
 	</article>
 
 	{{ if in (slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Wijsbegeerte" "Onderzoek en Speurwerk" "Recensie en Biografie" "Klikaas") .Params.themes }}
 		<section class="files">
-			{{ $side        := "right" }}
-			{{ $filesTitles := slice }}
-
-			{{ if isset .Params "files" }}
-				{{ range $i, $file := .Params.files }}
-					{{ $pages := where site.RegularPages "Params.files" "intersect" (slice $file) }}
-					{{ $pages  = where $pages "Params.title" "ne" $.Params.title }}
-					{{ $pages  = first 5 $pages }}
-
-					{{ range $pages }}
-						{{ $filesTitles = $filesTitles | append .Params.title }}
-					{{ end }}
-
-					{{ if mod $i 2 }}
-						{{ $side = "left" }}
-					{{ end }}
-
-					{{ partial "articles/theme.html" (dict
-						"context" .
-						"section" "files"
-						"path"    "dossiers"
-						"term"    $file
-						"pages"   $pages
-						"side"    $side
-					) }}
-				{{ end }}
-			{{ end }}
-
-			{{ $pages := site.RegularPages.Related . }}
-			{{ if gt (len $filesTitles) 0 }}
-				{{ $pages  = where $pages "Params.title" "not in" $filesTitles }}
-			{{ end }}
-			{{ $pages  = first 5 $pages }}
-
-			{{ if eq $side "right" }}
-				{{ $side = "left" }}
-			{{ else }}
-				{{ $side = "right" }}
-			{{ end }}
-
 			{{ partial "articles/theme.html" (dict
 				"context" .
 				"section" "related"
 				"path"    "themas"
 				"term"    .Params.themes
-				"pages"   $pages
-				"side"    $side
+				"pages"   (.Site.RegularPages.Related . | first 5)
+				"side"    "left"
 			) }}
 		</section>
 	{{ end }}

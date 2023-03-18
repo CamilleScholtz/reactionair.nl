@@ -1,15 +1,15 @@
 ---
 authors:
 - Camille Scholtz
-cited:
-- René Guénon
-- Martin Heidegger
-- Martin Lings
 date: "2021-10-21"
 image: thumb.webp
 subtitle: Gedachten over het Onbegrensde
 themes: Religie en Wijsbegeerte
 title: Naar het einde en daar voorbij!
+tags:
+- René Guénon
+- Martin Heidegger
+- Martin Lings
 ---
 
 

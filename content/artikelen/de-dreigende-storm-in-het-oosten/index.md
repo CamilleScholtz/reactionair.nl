@@ -2,7 +2,7 @@
 authors:
 - Sanura
 date: "2022-04-06"
-files:
+tags:
 - Oekraïne
 image: thumb.webp
 subtitle: Hongarije en de EU

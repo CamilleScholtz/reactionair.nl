@@ -1,13 +1,12 @@
 ---
 authors:
 - Sanura
-cited:
+date: "2022-03-19"
+tags:
+- Christendom
 - Aristoteles
 - Plato
 - Socrates
-date: "2022-03-19"
-files:
-- Christendom
 image: thumb.webp
 subtitle: Traditie=historische context
 themes: Religie en Wijsbegeerte

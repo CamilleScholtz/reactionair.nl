@@ -33,7 +33,7 @@ Ons woord ‘dag’ gaat terug op dezelfde wortel als *Dyáuṣ*, en ook aan de 
 
 Toch lijkt deze naam een titel te zijn, want er is geen bewijs van een gepraktiseerde cultus van *Dyáuṣ Pitṛ́* gevonden, en daarbij wordt hij maar vier keer bij naam genoemd in de oudste Indo-Europese collectie van lofzangen; de *Rigveda*.
 
-Wie was deze god, waar komt hij vandaan en op welke manier werd hij aanbeden? 
+Wie was deze god, waar komt hij vandaan en op welke manier werd hij aanbeden?
 
 ### Theïsme in de bronstijd
 
@@ -47,7 +47,7 @@ Elk oog vertegenwoordigde een andere manifestatie van de Olympische Zeus, en elk
 
 > Hij (de Olympische Zeus) is ook de culminatie van de drie, heeft dezelfde naam als de bron Jupiter (Zeus), is met hem verenigd en wordt monadisch Jupiter genoemd. Maar de tweede wordt dyadisch de mariene Jupiter en Neptunus (*Ποσειδῶν*) genoemd. En de derde wordt triadisch de terrestrische Jupiter, Pluto (*Πλούτων*) en Hades (Ἅιδης) genoemd. De eerste hiervan bewaart, maakt en verlevendigt hoogtepunten, de tweede echter, dingen van een tweede rang, en de derde die van een derde orde. Vandaar dat deze laatste Proserpine (*Περσεφόνη*) zou hebben verkracht, zodat hij samen met haar de uiteinden van het universum zou kunnen animeren.[^2]
 
-Drie Zeusen. *Ζεὺς Ὀλυμπιακός* (*Zèfs Olympiakós*: de Olympische Zeus), *Ζεὺς Θαλάσσιος*: *Ποσειδῶν* (*Zèfs Thalássios*: Poseidón) en *Ζεὺς Χθόνιος*:  *Πλούτων* (*Zèfs Chthónios*: Ploúton).
+Drie Zeusen. *Ζεὺς Ὀλυμπιακός* (*Zèfs Olympiakós*: de Olympische Zeus), *Ζεὺς Θαλάσσιος*: *Ποσειδῶν* (*Zèfs Thalássios*: Poseidón) en *Ζεὺς Χθόνιος*:  *Πλούτων* (*Zèfs Chthónios*: Ploúton).
 
 In dit godsbeeld komt de oude vorm van theïsme wellicht het sterkst naar voren: Zeus is zowel zichzelf, *als* Hades en Poseidon. De Hemelvader is een drie-eenheid van de drie Olympische broers, waarbij zij alledrie de essentie hebben van de Olympische Zeus. In deze drie aspecten omvat de Olympische Zeus de gehele wereld; het land, de zee en de lucht. Elk aspect heeft zijn eigen domein, maar alledrie deze aspecten zijn dezelfde Hemelvader, aldus Pausanias in zijn werk Hellados Periegesis (*Ἑλλάδος Περιήγησις*):
 
@@ -103,7 +103,7 @@ De volgende verzen uit de *Rigveda* en *Yajurveda* maken via titels Rudra bekend
 > *sthirebhiraṅghaiḥ pururūpa ughro babhruḥ śukrebhiḥ pipiśehiraṇyaiḥ
 > *īśānādasya bhuvanasya bhūrerna vā u yoṣad rudrādasuryam*
 > 
-> With sturdy limbs, the mighty red-brown one of many forms has adorned himself with gleaming golden (ornaments).                                                             
+> With sturdy limbs, the mighty red-brown one of many forms has adorned himself with gleaming golden (ornaments).
 > From Rudra, who is *master over the abundant living world*, lordly power will surely not be distant.[^5]
 
 > *अर्हन बिभर्षि सायकानि धन्वार्हन निष्कं यजतं विश्वरूपम*
@@ -253,9 +253,9 @@ Wodan is *Aldafaðr*, de vader van alles, en *Ít-rekr*, de Glorieuze Heerser. H
 
 Hij is Hárr, Jafnhárr en Þriði, Hoog, Evenhoog en Derde. Ook hier zien we die drie-eenheid terug, die we reeds bij onze Griekse Zeus tegenkwamen.
 
-Wodan wordt ook omschreven als één-ogig, maar één van zijn titels is *Tvíblindi*, Tweemaal Blind. Als beide ogen echter blind zijn geraakt, welk oog heeft Wodan dan nog tot zijn beschikking? Zijn derde oog; Triophthalmus, Tryambakam. Want het oog dat Wodan tot zijn beschikking heeft, draagt de titels *Bileygr* of *Báleygr*, Flitsend of Vlammend oog, en zo is het te vergelijken met Shiva’s derde oog, die de Bhūtas verbrandt die zich aan zijn Orde  onderwerpen.
+Wodan wordt ook omschreven als één-ogig, maar één van zijn titels is *Tvíblindi*, Tweemaal Blind. Als beide ogen echter blind zijn geraakt, welk oog heeft Wodan dan nog tot zijn beschikking? Zijn derde oog; Triophthalmus, Tryambakam. Want het oog dat Wodan tot zijn beschikking heeft, draagt de titels *Bileygr* of *Báleygr*, Flitsend of Vlammend oog, en zo is het te vergelijken met Shiva’s derde oog, die de Bhūtas verbrandt die zich aan zijn Orde  onderwerpen.
 
-Een andere titel is *Arnhǫfði*, Adelaarshoofd. Speculatie, uiteraard, maar als Wodan *aan het hoofd* staat van de Adelaars, zou dit weer een overeenkomst kunnen zijn met Rudra als aanvoerder van de Maruts, de grote stormvogels en zijn zonen. Wodan de stormgod treedt  duidelijk op de voorgrond in de titels *Eylúðr*, de Eeuwig luide, *Gǫllnir*, de Schreeuwer en *Hjarrandi*, de Gillende. Ook hier ontstaan duidelijke overeenkomsten met de stormgod Rudra.
+Een andere titel is *Arnhǫfði*, Adelaarshoofd. Speculatie, uiteraard, maar als Wodan *aan het hoofd* staat van de Adelaars, zou dit weer een overeenkomst kunnen zijn met Rudra als aanvoerder van de Maruts, de grote stormvogels en zijn zonen. Wodan de stormgod treedt  duidelijk op de voorgrond in de titels *Eylúðr*, de Eeuwig luide, *Gǫllnir*, de Schreeuwer en *Hjarrandi*, de Gillende. Ook hier ontstaan duidelijke overeenkomsten met de stormgod Rudra.
 
 Wodan als Hemelvader acht ik nu redelijk duidelijk te hebben geschetst, maar zijn rol als schenker van giften of weelde lijkt beperkt te zijn. Hij wordt eenmaal *Auðun*, Welvaartsvriend genoemd. De giften van Wodan lijken echter meer in de categorie van wijsheid, kennis en genezing te vallen dan van materiële zaken, hoewel materiële giften toch wel prominent aanwezig zijn in onze Sinterklaasgebruiken. Hij is echter de God die zijn oog (of ogen) offert voor de wijsheid, die dankzij een negendaags offer de Runen (het schrift) bemachtigt en de bewaarder is van alle liederen. Wodan is zo wellicht meer de brenger van kennis en inzicht dan van materiële welvaart, al wordt wel duidelijk uit de titel Auðun dat het goed benutten van zijn giften kan leiden tot die materiële welvaart.
 
@@ -343,7 +343,7 @@ Zodra het gebruik gekerstend werd, viel het afschrikwekkende aspect de duivel te
 
 Helaas hadden de generaties die ons voorgingen het niet zo op met een godheid die straft, of oordeelt of überhaupt iets doet wat niet past in de wereld na generatie ‘68. Zo zijn geleidelijk deze kwade, wilde aspecten uit de feesten verbannen.
 
-In de Amerikaanse Santa Claus is er geen duivelse *trickster* of menigte onhandelbare figuren meer aanwezig.[^13]  In dit precedent raakt ook het Nederlandse Sinterklaas-gebruik meegetrokken. Het moet mak worden—tam gemaakt.
+In de Amerikaanse Santa Claus is er geen duivelse *trickster* of menigte onhandelbare figuren meer aanwezig.[^13]  In dit precedent raakt ook het Nederlandse Sinterklaas-gebruik meegetrokken. Het moet mak worden—tam gemaakt.
 
 Het angstaanjagende aspect verdween, de woeste hemelvader werd zo een olijke kindervriend en de menigte extatische wezens veranderden in acrobaten die kinderen vermaken. De wijze Hemelvader is niet langer de kenner van de genezende liederen en de brenger van goddelijke nectar, maar is verworden tot een versufte, oude man die het eigenlijk ook allemaal niet meer zo goed weet, maar wel graag kadootjes geeft, ongeacht aan wie (want sinds de zeventiger jaren bestaan er geen “stoute kindjes” meer). Niet langer is hij daarom de Weger van Deugden, maar een welvarende, dementerende man met een gat in zijn hand.
 

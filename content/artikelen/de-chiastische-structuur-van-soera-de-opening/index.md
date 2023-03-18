@@ -7,8 +7,8 @@ authors:
 themes: 'Religie en Wijsbegeerte'
 image: l19224-9m4zh-9-ksharp.jpg
 anchor: Center
-files:
-    - Islam
+tags:
+- Islam
 ---
 
 {{< basmala >}}

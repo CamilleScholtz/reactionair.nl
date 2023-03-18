@@ -2,14 +2,15 @@
 anchor: Smart
 authors:
 - Sanura
-cited:
-- Thierry Baudet
-- Mark Rutte
 date: "2022-09-21"
 image: data90997978-6e6fda.jpg
 subtitle: Maar helaas niet naar Londen
 themes: Politiek en Actualiteit
 title: De regering is gevlucht!
+tags:
+- VVD
+- Thierry Baudet
+- Mark Rutte
 ---
 
 Het kabinet vluchtte onverwacht de kamer uit.[^1] De democratische rechtsstaat stort in elkaar. Armoede en chaos zijn het nieuwe normaal. *‘We zijn een grens over gegaan!’* zei Rutte. Hij heeft helemaal gelijk. De emmer is over gelopen. Wat er gebeurde was onacceptabel. Weg gaan was de enige juist reactie gezien:

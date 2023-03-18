@@ -1,13 +1,12 @@
 ---
 authors:
 - Vrederijk
-cited:
+tags:
 - Thierry Baudet
-date: "2021-10-13"
-files:
 - Islam
 - Conservatieve Alliantie
 - Liberalisme
+date: "2021-10-13"
 image: thumb.webp
 subtitle: Over reactionairen en moslims
 themes: Politiek en Actualiteit

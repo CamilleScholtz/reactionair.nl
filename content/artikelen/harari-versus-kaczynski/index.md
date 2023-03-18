@@ -2,7 +2,7 @@
 anchor: Center
 authors:
 - Jan-Willem Veldhuizen
-cited:
+tags:
 - René Girard
 - Ernst Jünger
 - Theodore J. Kaczynski
@@ -12,8 +12,9 @@ cited:
 - Jacques Ellul
 - Curtis Yarvin
 - Slavoj Žižek
-files:
 - Liberalisme
+- Klaus Schwab
+- Corona
 date: "2022-06-26"
 image: thumb.webp
 note: Dit is een vertaling en bewerking van een Twitter-draad van [Forrest](https://twitter.com/Foz89107323)

@@ -3,7 +3,7 @@ anchor: Smart
 authors:
 - Calvin Tangelder
 date: "2022-11-26"
-files:
+tags:
 - Islam
 image: a-2.webp
 subtitle: De hypocrisie van progressief-liberaal imperialisme en Qatar

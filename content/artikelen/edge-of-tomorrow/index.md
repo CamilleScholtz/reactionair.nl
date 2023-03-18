@@ -1,13 +1,14 @@
 ---
 authors:
 - Alexander Wolfheze
-cited:
-- Arthur Schopenhauer
 date: "2022-02-07"
 image: thumb.webp
 subtitle: De Futuro-Fundamentalistische Revolutie, deel 7
 themes: Cultuur en Maatschappij
 title: ‘Edge of Tomorrow’
+tags:
+- Corona
+- Arthur Schopenhauer
 ---
 
 

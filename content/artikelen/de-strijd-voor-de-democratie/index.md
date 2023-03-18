@@ -2,7 +2,7 @@
 authors:
 - Sanura
 date: "2022-04-05"
-files:
+tags:
 - Oekraïne
 image: thumb.webp
 subtitle: 'De rechtstaat in Oekraïne: verleden en toekomst'

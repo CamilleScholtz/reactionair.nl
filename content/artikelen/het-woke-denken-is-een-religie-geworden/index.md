@@ -2,13 +2,13 @@
 authors:
 - Camille Scholtz
 date: "2021-10-08"
-files:
-- Liberalisme
-- Woke
 image: thumb.webp
 subtitle: En waarom deze vergelijking niet klopt
 themes: Politiek en Actualiteit
 title: “Het woke denken is een religie geworden!”
+tags:
+- Liberalisme
+- Woke
 ---
 
 

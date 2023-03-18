@@ -3,7 +3,7 @@ authors:
 - Sanura
 - Calvin Tangelder
 date: "2022-12-25"
-files:
+tags:
 - Christendom
 image: thumb.jpg
 subtitle: De echte betekenis van kerstmis

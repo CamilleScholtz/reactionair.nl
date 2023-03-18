@@ -3,7 +3,7 @@ anchor: Top
 authors:
 - Sanura
 date: "2022-12-09"
-files:
+tags:
 - Christendom
 image: 89b6bc6be3dfa2fff34036d827bf5b96.jpg
 subtitle: Hoe een oude communistische hetze tegen Johannes Paulus II lijkt te herleven

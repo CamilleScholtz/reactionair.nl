@@ -1,12 +1,11 @@
 ---
 authors:
 - Vrederijk
-cited:
+date: "2021-10-28"
+tags:
+- Woke
 - Thierry Baudet
 - Sid Lukkassen
-date: "2021-10-28"
-files:
-- Woke
 image: thumb.webp
 subtitle: Afscheid van een achterhaald begrip
 themes: Politiek en Actualiteit

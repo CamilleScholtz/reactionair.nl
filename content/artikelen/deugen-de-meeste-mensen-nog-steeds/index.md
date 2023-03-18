@@ -7,10 +7,11 @@ authors:
 themes: 'Recensie en Biografie'
 image: thumb.webp
 anchor: Top
-cited:
+tags:
     - Aristoteles
     - 'Friedrich Nietzsche'
     - 'Rutger Bregman'
+    - Wappies
 ---
 
 {{< quote

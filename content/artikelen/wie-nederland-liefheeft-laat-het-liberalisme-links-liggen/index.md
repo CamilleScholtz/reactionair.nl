@@ -5,8 +5,11 @@ date: "2022-04-11"
 image: thumb.webp
 subtitle: Over onze toekomst
 themes: Politiek en Actualiteit
-files:
+tags:
 - Liberalisme
+- BBB
+- JA21
+- FVD
 title: Wie Nederland liefheeft, laat het liberalisme links liggen
 ---
 

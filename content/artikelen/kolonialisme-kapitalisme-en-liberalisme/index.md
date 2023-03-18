@@ -2,12 +2,11 @@
 anchor: Smart
 authors:
 - Eco al-Hollandi
-cited:
-- Karl Marx
 date: "2022-02-28"
-files:
+tags:
 - Islam
 - Liberalisme
+- Karl Marx
 image: thumb.webp
 subtitle: Drie ideeën met dezelfde oorsprong
 themes: Politiek en Actualiteit

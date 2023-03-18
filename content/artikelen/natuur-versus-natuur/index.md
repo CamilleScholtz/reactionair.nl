@@ -1,14 +1,14 @@
 ---
 authors:
 - Camille Scholtz
-cited:
-- René Guénon
-- Aristoteles
 date: "2021-10-14"
 image: thumb.webp
 subtitle: Een modern misverstand
 themes: Religie en Wijsbegeerte
 title: Natuur versus natuur
+tags:
+- René Guénon
+- Aristoteles
 ---
 
 

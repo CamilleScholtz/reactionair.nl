@@ -1,14 +1,14 @@
 ---
 authors:
 - Sanura
-cited:
+date: "2022-02-11"
+tags:
+- Christendom
 - Immanuel Kant
 - Erik von Kuehnelt-Leddihn
 - Karl Popper
 - Plato
-date: "2022-02-11"
-files:
-- Christendom
+- China
 image: thumb.webp
 subtitle: Een reactie op ‘Overdenkingen over de parabel van de blinden en de olifant’
 themes: Religie en Wijsbegeerte

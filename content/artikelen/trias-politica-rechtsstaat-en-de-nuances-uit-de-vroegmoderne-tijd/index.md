@@ -1,13 +1,12 @@
 ---
 authors:
 - Sanura
-cited:
+tags:
 - Thierry Baudet
 - Immanuel Kant
 - C. S. Lewis
 - Jean-Jacques Rousseau
 - Alexis de Tocqueville
-files:
 - Liberalisme
 date: "2022-04-28"
 image: thumb.webp

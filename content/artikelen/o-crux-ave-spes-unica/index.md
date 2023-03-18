@@ -2,11 +2,10 @@
 anchor: Smart
 authors:
 - J. Floressas des Esseintes
-cited:
-- Friedrich Nietzsche
 date: "2022-07-30"
-files:
+tags:
 - Christendom
+- Friedrich Nietzsche
 image: henry_wallis_-_chatterton_-_google_art_project.jpg
 subtitle: Een jongeman verloren in de ruïnes van de occidentale wereld
 themes: Religie en Wijsbegeerte

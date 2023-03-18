@@ -8,8 +8,8 @@ themes: 'Recensie en Biografie'
 image: thumb.webp
 anchor: Center
 description: "Op zoek naar antwoorden over de aard van God? Aydogan Kars 'Unsaying God: Negative Theology in Medieval Islam' biedt inzichten in apofatische theologie met gedichten en citaten van middeleeuwse islamitische theologen en mystici."
-files:
-    - Islam
+tags:
+    - 'Islam'
 ---
 
 Een van mijn grootste fascinaties is het concept van Oneindigheid en in het bijzonder de manier waarop ware oneindigheid noodzakelijkerwijs 'eindig' moet zijn om trouw te blijven aan de definitie ervan.[^1] Deze kwestie heeft duidelijk sterke banden met de theologie, oftewel de wetenschap die zich bezighoudt met het 'begrijpen' van God.

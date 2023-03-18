@@ -3,7 +3,7 @@ anchor: Smart
 authors:
 - Robertus Leussinck
 date: "2022-09-23"
-files:
+tags:
 - Christendom
 image: photo-1663610311981-4a904f3504d4.webp
 subtitle: O death, where is thy sting? O grave, where is thy victory?

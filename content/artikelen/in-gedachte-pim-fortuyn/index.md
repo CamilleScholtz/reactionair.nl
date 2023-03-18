@@ -2,7 +2,7 @@
 anchor: Center
 authors:
 - Dennis Honing
-cited:
+tags:
 - Thierry Baudet
 - Pim Fortuyn
 - Geert Wilders

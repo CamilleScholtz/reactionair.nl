@@ -1,14 +1,13 @@
 ---
 authors:
 - Sanura
-cited:
+date: "2021-10-05"
+tags:
+- Woke
 - Jacques Derrida
 - Michel Foucault
 - Karl Marx
 - Jean-Paul Sartre
-date: "2021-10-05"
-files:
-- Woke
 image: thumb.webp
 subtitle: Misbruikers moeten kinderen weerbaar maken tegen misbruik
 themes: Cultuur en Maatschappij

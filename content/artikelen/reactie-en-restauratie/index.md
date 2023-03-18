@@ -1,10 +1,9 @@
 ---
-aanghaald:
-- Jean-Jacques Rousseau
 authors:
 - Sanura
-files:
+tags:
 - Liberalisme
+- Jean-Jacques Rousseau
 date: "2022-01-09"
 image: thumb.webp
 subtitle: Een rechts woordenboek

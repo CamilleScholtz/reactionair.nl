@@ -2,7 +2,7 @@
 authors:
 - Camille Scholtz
 date: "2021-10-15"
-files:
+tags:
 - Woke
 - Liberalisme
 image: thumb.webp

@@ -6,6 +6,8 @@ image: thumb.webp
 subtitle: Tien zaken waar Poetin niet verantwoordelijk voor is
 themes: Klikaas
 title: Poetin, de gedroomde schurk
+tags:
+- Vladimir Poetin
 ---
 
 

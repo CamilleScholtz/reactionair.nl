@@ -2,7 +2,7 @@
 anchor: Top
 authors:
 - De Melancholieke Nar
-cited:
+tags:
 - Sigmund Freud
 - David Hume
 - Immanuel Kant
@@ -63,8 +63,8 @@ Enfin, hier kunnen we nog een heel end verder over filosoferen (we zullen wel mo
 
 
 [^1]: David Hume - *An enquiry concerning human understanding*
-[^2]: Het originele citaat luidt als volgt: *Une* [](https://fr.wikipedia.org/wiki/Intelligence "Intelligence")*intelligence qui, à un instant donné, connaîtrait toutes les forces dont la nature est animée et la situation respective des êtres qui la composent, si d’ailleurs elle était suffisamment vaste pour soumettre ces données à l’analyse, embrasserait dans la même formule les mouvements des plus grands corps de l’univers et ceux du plus léger atome ; rien ne serait incertain pour elle, et l’avenir, comme le passé, serait présent à ses yeux.*
-[^3]: In een brief aan een andere bevriende geleerde schreef hij: *Die Quantenmechanik ist sehr achtunggebietend. Aber eine innere Stimme sagt mir, daß das noch nicht der wahre Jakob ist. Die Theorie liefert viel, aber dem Geheimnis des Alten bringt sie uns kaum näher. Jedenfalls bin ich überzeugt, daß der nicht würfelt.*
+[^2]: Het originele citaat luidt als volgt: *Une* [](https://fr.wikipedia.org/wiki/Intelligence "Intelligence")*intelligence qui, à un instant donné, connaîtrait toutes les forces dont la nature est animée et la situation respective des êtres qui la composent, si d’ailleurs elle était suffisamment vaste pour soumettre ces données à l’analyse, embrasserait dans la même formule les mouvements des plus grands corps de l’univers et ceux du plus léger atome ; rien ne serait incertain pour elle, et l’avenir, comme le passé, serait présent à ses yeux.*
+[^3]: In een brief aan een andere bevriende geleerde schreef hij: *Die Quantenmechanik ist sehr achtunggebietend. Aber eine innere Stimme sagt mir, daß das noch nicht der wahre Jakob ist. Die Theorie liefert viel, aber dem Geheimnis des Alten bringt sie uns kaum näher. Jedenfalls bin ich überzeugt, daß der nicht würfelt.*
 [^4]: [Hier](https://archive.org/stream/HarrisonBergeron/Harrison%20Bergeron_djvu.txt) integraal te lezen.
 [^5]: Onder andere in *Das Unbehagen in der Kultur*.
 [^6]: Wikipedia, *[Harmonious Society](https://en.wikipedia.org/wiki/Harmonious_Society)*

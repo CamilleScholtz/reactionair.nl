@@ -7,6 +7,8 @@ subtitle: Hoe we wegkijken bij fysiek en mentaal verminken bij genderdysforie ma
   rituelen en bidden illegaal verklaren
 themes: Politiek en Actualiteit
 title: Wil de echte homogenezer opstaan?
+tags:
+- Woke
 ---
 
 

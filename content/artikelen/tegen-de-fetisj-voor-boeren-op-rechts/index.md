@@ -3,8 +3,9 @@ anchor: Bottom
 authors:
 - Rintrah Radagast
 date: "2022-07-01"
-files:
+tags:
 - Klimaatverandering
+- Boeren
 image: x22075-tif.jpeg
 subtitle: Conservatief sentimentalisme als nieuwe melkkoe
 themes: Politiek en Actualiteit

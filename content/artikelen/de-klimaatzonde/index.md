@@ -3,7 +3,7 @@ anchor: Top
 authors:
 - Jan-Willem Veldhuizen
 date: "2022-04-23"
-files:
+tags:
 - Klimaatverandering
 image: thumb.webp
 subtitle: Hoe de hamartiologie overleeft in een modern tijdperk

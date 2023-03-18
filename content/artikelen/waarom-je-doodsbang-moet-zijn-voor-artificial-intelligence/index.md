@@ -2,7 +2,7 @@
 anchor: Smart
 authors:
 - Camille Scholtz
-cited:
+tags:
 - René Guénon
 date: "2022-07-24"
 image: test.jpg

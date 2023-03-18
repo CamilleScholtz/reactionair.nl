@@ -2,7 +2,7 @@
 authors:
 - Stained Glass Zealot
 date: "2022-03-10"
-files:
+tags:
 - Christendom
 image: thumb.webp
 note: Dit is een vertaling van het essay 'The Timeframe of Art', het origineel is

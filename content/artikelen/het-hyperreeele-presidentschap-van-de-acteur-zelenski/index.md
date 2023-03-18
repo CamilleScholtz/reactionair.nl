@@ -9,9 +9,8 @@ themes: 'Politiek en Actualiteit'
 image: thumb.webp
 anchor: Smart
 description: 'Ontdek de post-marxistische filosoof Jean Baudrillard en zijn concept hyperrealiteit. Leer hoe het menselijke bewustzijn niet meer in staat is de werkelijkheid te onderscheiden van een simulatie daarvan.'
-files:
+tags:
     - Oekraïne
-cited:
     - 'Jean Baudrillard'
 ---
 

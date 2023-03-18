@@ -1,14 +1,13 @@
 ---
 authors:
 - Dennis Honing
-cited:
+date: "2022-01-15"
+tags:
+- Islam
+- Conservatieve Alliantie
 - René Guénon
 - Martin Lings
 - Hamza Yusuf
-date: "2022-01-15"
-files:
-- Islam
-- Conservatieve Alliantie
 image: thumb.webp
 subtitle: Een reactie op ‘tegen een politiek verbond met moslims’
 themes: Politiek en Actualiteit

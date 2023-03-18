@@ -8,6 +8,9 @@ note: Dit is een vertaling en bewerking van een Twitter-draad van [Mac Finn](htt
 subtitle: Het belang van vriendschap en loyaliteit
 themes: Cultuur en Maatschappij
 title: Civitas en civilisatie
+tags:
+- China
+- Bronze Age Pervert
 ---
 
 {{< quote

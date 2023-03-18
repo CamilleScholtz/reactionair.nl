@@ -2,7 +2,7 @@
 authors:
 - Tara Ann Thieke
 date: "2022-03-15"
-files:
+tags:
 - Woke
 image: thumb.webp
 note: Dit is een vertaling en bewerking van een Twitter-draad van [Tara Ann Thieke](https://twitter.com/TaraAnnThieke).

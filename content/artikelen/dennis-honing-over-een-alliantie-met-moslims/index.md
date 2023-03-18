@@ -2,7 +2,7 @@
 authors:
 - Dennis Honing
 date: "2021-11-01"
-files:
+tags:
 - Islam
 - Conservatieve Alliantie
 image: thumb.webp

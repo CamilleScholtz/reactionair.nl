@@ -1,9 +1,10 @@
 ---
 authors:
 - Jurbin van Hooff
-cited:
+tags:
 - René Descartes
 - Oswald Spengler
+- Corona
 date: "2021-11-25"
 image: thumb.webp
 subtitle: Wordt onze samenleving gegijzeld door een gemechaniseerd wereldbeeld?

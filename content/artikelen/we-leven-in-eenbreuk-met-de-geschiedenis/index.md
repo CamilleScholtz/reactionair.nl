@@ -1,7 +1,7 @@
 ---
 authors:
 - Jurbin van Hooff
-cited:
+tags:
 - Oswald Spengler
 date: "2022-06-22"
 image: thumb.webp

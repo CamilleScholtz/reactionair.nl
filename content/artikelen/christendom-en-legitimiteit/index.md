@@ -1,11 +1,10 @@
 ---
 authors:
 - Sanura
-cited:
-- Erik von Kuehnelt-Leddihn
 date: "2021-12-29"
-files:
+tags:
 - Christendom
+- Erik von Kuehnelt-Leddihn
 image: thumb.webp
 subtitle: Autoriteit versus macht
 themes: Religie en Wijsbegeerte

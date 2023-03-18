@@ -3,7 +3,7 @@ anchor: Smart
 authors:
 - Paars van Grinsterer
 date: "2022-08-11"
-files:
+tags:
 - Woke
 image: kid.jpg
 subtitle: Nederlandse media opvallend stil

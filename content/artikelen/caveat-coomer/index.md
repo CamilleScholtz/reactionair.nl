@@ -1,11 +1,10 @@
 ---
 authors:
 - De Melancholieke Nar
-cited:
-- Curtis Yarvin
 date: "2022-02-24"
-files:
+tags:
 - Woke
+- Curtis Yarvin
 image: thumb.webp
 note: Dit is een vertaling en bewerking van een Twitter-draad van [Curtis Yarvin](https://twitter.com/moldbugman).
 subtitle: Over de giftige alchemie tussen coomer en e-girl

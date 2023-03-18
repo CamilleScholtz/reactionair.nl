@@ -7,11 +7,13 @@ authors:
 themes: 'Politiek en Actualiteit'
 image: 9cb19b11-90be-47d4-bcf5-b5f3fd0cb263.jpg
 anchor: Smart
-cited:
-    - 'Mark Rutte'
-    - 'Pim Lammers'
-    - 'René Guénon'
-    - 'Thierry Baudet'
+tags:
+    - Pim Lammers
+    - René Guénon
+    - Thierry Baudet
+    - FVD
+    - BBB
+    - VVD
 ---
 
 ### Nabeschouwing 1: Van desillusie naar hoop

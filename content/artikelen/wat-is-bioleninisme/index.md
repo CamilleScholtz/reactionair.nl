@@ -3,7 +3,7 @@ anchor: Smart
 authors:
 - De redactie
 date: "2022-07-19"
-files:
+tags:
 - Woke
 image: lenin.jpg
 note: 'Dit is een vertaling van het essay ''Clown World Chronicles: What Is ‘Bioleninism’?'',

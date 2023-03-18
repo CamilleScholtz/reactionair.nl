@@ -2,7 +2,7 @@
 anchor: Top
 authors:
 - De Melancholieke Nar
-cited:
+tags:
 - Friedrich Nietzsche
 - Slavoj Žižek
 date: "2021-12-12"

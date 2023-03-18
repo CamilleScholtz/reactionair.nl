@@ -49,7 +49,7 @@ De muren van het doolhof zijn gemetseld met een mes. Iets definiëren oftewel ee
 
 Uit de sneden van het definiërende mes worden hele muren van taal gemetseld, magische taalmuren die Nietzsche wilde doorbreken met hamer en dynamiet. Hijzelf had bij zijn sloopwerkzaamheden niet het doel weer zicht te krijgen op het Ene Oneindige - althans niet bewust. Wat zijn doel wel was, blijft vaag. Het maximeren van zijn Wille zur Macht? De weg bereiden voor de Übermensch? Wat betekent dat dan concreet? Bertrand Russell heeft hierover in zijn voor het overige weinig faire bespreking van Nietzsche het volgende gezegd:
 
->"King Lear, on the verge of madness, says: 'I will do such things-What they are yet I know not—but they shall be The terror of the earth. ' This is Nietzsche's philosophy in a nutshell."[^9]
+>"King Lear, on the verge of madness, says: 'I will do such things-What they are yet I know not—but they shall be The terror of the earth. This is Nietzsche's philosophy in a nutshell."[^9]
 
 Het is geen toeval dat hij de laatste elf jaar van zijn leven in het gekkenhuis heeft doorgebracht. Na alles gesloopt te hebben, wachtten de scherpzinnige en welbespraakte filosoof uiteindelijk de waanzin en de sprakeloosheid. 
 

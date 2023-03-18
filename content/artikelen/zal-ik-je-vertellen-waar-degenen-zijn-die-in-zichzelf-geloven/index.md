@@ -1,8 +1,9 @@
 ---
 authors:
 - Jurbin van Hooff
-cited:
+tags:
 - G. K. Chesterton
+- Christendom
 date: "2022-03-09"
 image: thumb.webp
 subtitle: Enkele fragmenten uit Orthodoxie door G.K. Chesterton die mij zijn opgevallen

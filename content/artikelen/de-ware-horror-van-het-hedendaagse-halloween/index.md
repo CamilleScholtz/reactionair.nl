@@ -2,7 +2,7 @@
 authors:
 - Jan de Maansnijder
 date: "2021-10-27"
-files:
+tags:
 - Christendom
 image: thumb.webp
 subtitle: Hoe een heilig feest tot simpel hedonisme vervallen is

@@ -1,7 +1,7 @@
 ---
 authors:
 - Paars van Grinsterer
-cited:
+tags:
 - Thierry Baudet
 - Julius Evola
 - Ernst Jünger

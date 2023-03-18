@@ -19,26 +19,19 @@ cleanDestinationDir = true
 
 [taxonomies]
 	author = "authors"
-	file   = "files"
 	theme  = "themes"
-	cited  = "cited"
 
 # TODO: See https://github.com/gohugoio/hugo/issues/8523
 [permalinks]
 	authors = "/auteurs/:slug/"
-	files   = "/dossiers/:slug/"
 	themes  = "/themas/:slug/"
-	cited   = "/aangehaald/:slug/"
 
 [related]
 	includeNewer = true
 
 [[related.indices]]
-	name   = "files"
+	name   = "tags"
 	weight = 100
-[[related.indices]]
-	name   = "cited"
-	weight = 80
 [[related.indices]]
 	name   = "themes"
 	weight = 70

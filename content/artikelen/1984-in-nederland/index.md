@@ -7,6 +7,10 @@ image: 4eddcbdda3e0a47c7c8c7c419bbe3cc7_c2b648de25235549e071d703d10d1bfe.jpg
 subtitle: Schieten op boeren en Ongehoord Nederland de mond snoeren
 themes: Politiek en Actualiteit
 title: 1984 in Nederland
+tags:
+- "Ongehoord Nederland"
+- "Boeren"
+- JA21
 ---
 Het is een leuke week geweest zeg! Er is op een minderjarige geschoten, traangas gebruikt, familiebedrijven worden bedreigd door de staat en nu komt er censuur bij. Nee, niet in Hongarije of Polen, maar hier in Nederland. 
 

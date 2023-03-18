@@ -3,7 +3,7 @@ anchor: Smart
 authors:
 - Sanura
 date: "2022-10-20"
-files:
+tags:
 - Christendom
 image: untitled-5.webp
 subtitle: In een synagoge ook?

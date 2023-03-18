@@ -7,9 +7,8 @@ authors:
 themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Center
-files:
+tags:
     - Islam
-cited:
     - 'René Guénon'
 ---
 

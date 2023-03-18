@@ -3,7 +3,7 @@ anchor: Top
 authors:
 - Calvin Tangelder
 date: "2022-09-26"
-files:
+tags:
 - Woke
 image: inter.webp
 subtitle: Hoe de gendergekte nu via het recht de samenleving verzwakt en subjectiveert

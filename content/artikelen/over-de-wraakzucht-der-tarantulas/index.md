@@ -2,11 +2,10 @@
 anchor: Center
 authors:
 - De redactie
-cited:
-- Friedrich Nietzsche
 date: "2022-05-26"
-files:
+tags:
 - Woke
+- Friedrich Nietzsche
 image: thumb.webp
 subtitle: Nietzsches negentiende-eeuwse blik op social justice warriors
 themes: Cultuur en Maatschappij

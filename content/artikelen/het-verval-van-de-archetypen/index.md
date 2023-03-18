@@ -24,9 +24,9 @@ Wat maakt een handschoen intrinsiek vrouwelijk? Waarom jezelf bekommeren met arb
 
 Er waren, zo leek het, geen goede antwoorden op deze vragen in een cultuur waar seculiere reclamebeelden de transcendente archetypes hadden vervangen.
 
-De kritiek van de meeste traditionalisten werd genegeerd: de wereld was duidelijk veranderd. Vrouwen gingen naar kantoor. Elektriciteit was in het huishouden gekomen. Vruchtbaarheid kon beheerd worden. Kinderen konden naar de opvang. 
+De kritiek van de meeste traditionalisten werd genegeerd: de wereld was duidelijk veranderd. Vrouwen gingen naar kantoor. Elektriciteit was in het huishouden gekomen. Vruchtbaarheid kon beheerd worden. Kinderen konden naar de opvang.
 
-Voor een korte tijd probeerden mensen het beste van beide werelden te hebben, terwijl ze de de teelaarde onder hun voeten verbruikten. Ons besef van de implicaties van de revolutie van ‘maar wat maakt het uit?’ kwam maar traag. 
+Voor een korte tijd probeerden mensen het beste van beide werelden te hebben, terwijl ze de de teelaarde onder hun voeten verbruikten. Ons besef van de implicaties van de revolutie van ‘maar wat maakt het uit?’ kwam maar traag.
 
 Met het verlies van betekenis, zingeving en een gevoel voor verticale oriëntatie, zijn gedesoriënteerde mensen samengekomen rondom het idee dat ze enkel maar een verzameling cellen zijn, met een inherente ‘zelf’ die mannelijk of vrouwelijk is. Het lichaam zit verkeerd maar de klant heeft altijd gelijk.
 
@@ -34,7 +34,7 @@ Archetypen van mannelijkheid en vrouwelijkheid verschillen drastisch. In een wer
 
 De doden zijn allen gelijkwaardig dood. Een levende wereld moet per definitie overstromen met verschillen en vormen. Boven elke bloem is een archetype van Vorm, onzichtbaar in het zaadje, maar het onthult zichzelf nadrukkelijk in fruit en bloesem. Deze verschillen maken een levende tuin.
 
-De verschillen van mannelijkheid en vrouwelijkheid worden als aanstootgevend beschouwd in een platgeslagen wereld die zichzelf transformeert in een grote machine. De betekenis van het lichaam wordt ontkend en, ondanks het omarmen van karikaturen van de archetypen, wordt een sekseneutrale androgynie de norm (en daarmee ook steriliteit). 
+De verschillen van mannelijkheid en vrouwelijkheid worden als aanstootgevend beschouwd in een platgeslagen wereld die zichzelf transformeert in een grote machine. De betekenis van het lichaam wordt ontkend en, ondanks het omarmen van karikaturen van de archetypen, wordt een sekseneutrale androgynie de norm (en daarmee ook steriliteit).
 
 De archetypen lijken zich te verstoppen, maar net zoals dat lichtvervuiling de sterren  verhult, blijven de hemelen niettemin hetzelfde. Voor hen die wensen te vragen wat het betekent om een mens te zijn in een wereld gedomineerd door machines, is het tijd om de archetypen te herontdekken die ons naar een hechtere verbinding met onze lichamen en gemeenschappen leiden. Ik wil mij richten op verscheidene vragen:
 
@@ -46,23 +46,23 @@ De archetypen lijken zich te verstoppen, maar net zoals dat lichtvervuiling de s
 
 * Hoe zou mannelijkheid en vrouwelijkheid eruit zien in een samenleving die wenst een post-lichamelijke dystopie te verwezenlijken?
 
-Ik zal proberen deze vragen bondig te beantwoorden op mijn eigen manier, met de hoop enig geloof te zaaien in de echtheid van het transcendente, en dat het een geschenk is. 
+Ik zal proberen deze vragen bondig te beantwoorden op mijn eigen manier, met de hoop enig geloof te zaaien in de echtheid van het transcendente, en dat het een geschenk is.
 
 ### Hoe zijn we de archetypen verloren?
 
-Ivan Illichs *Gender* wijst erop dat de lokale (lees: niet-professionele) genderrollen ondermijnd werden door technocratische waarden gedurende de afgelopen paar eeuwen. Instituten zijn niet gestopt met het koloniseren van de gewone man: zij doen dit nu zelfs meer dan ooit te voren. In het hart van deze veranderingen liggen problemen van de familie: wat betekent het om een thuis te hebben, te werken, te trouwen of een familie te zijn? 
+Ivan Illichs *Gender* wijst erop dat de lokale (lees: niet-professionele) genderrollen ondermijnd werden door technocratische waarden gedurende de afgelopen paar eeuwen. Instituten zijn niet gestopt met het koloniseren van de gewone man: zij doen dit nu zelfs meer dan ooit te voren. In het hart van deze veranderingen liggen problemen van de familie: wat betekent het om een thuis te hebben, te werken, te trouwen of een familie te zijn?
 
 Tegenstrijdig met de verhalen die de vrouw centraal stellen, zijn het de mannen die de initiële golf van archetypisch verlies ondergingen, en het waren mannen die dit elkaar toebrachten.
 
 Als de vrouwelijkheid zich nu in een dramatische crisis bevindt (*“what is a woman?”*), begon deze crisis voor de mannelijkheid een paar honderd jaar geleden. Mannen uit de arbeidersklasse werden in de tijd van de Enclosure van het land naar de fabrieken en mijnen gesleept door de heersende klasse.[^1] Miljoenen mannen werden losgesneden van de vruchten van hun arbeid en vervangen door machines. Er bleef enkel hun lichaam over, gereduceerd tot een simpele automaton, gravend naar kolen, of trekkend aan hendels zodat sommige mannen miljonairs werden en de wereld konden hervormen naar hun beeltenis.
 
-Deze veranderingen in de levens van de gewone mensen waren manifestaties van de mentale veranderingen in de geesten van deze machtige mensen. Terwijl de staat groeide, werd een klasse mannen in staat gesteld om grotere controle over de samenleving en de natuur na te streven. De afgezonderde scholen van logica brachten de nominalisten voort, die vervolgens een tijdperk van occulte wetenschap voortbrachten, waar koningen diegene beloonden die de kracht van de staat vermeerderde. De wil van deze leiders was losgezongen van de noden van hun gemeenschappen en in hun verovering van de natuur legden ze de machtelozen hun vernauwde begrip van de realiteit op.
+Deze veranderingen in de levens van de gewone mensen waren manifestaties van de mentale veranderingen in de geesten van deze machtige mensen. Terwijl de staat groeide, werd een klasse mannen in staat gesteld om grotere controle over de samenleving en de natuur na te streven. De afgezonderde scholen van logica brachten de nominalisten voort, die vervolgens een tijdperk van occulte wetenschap voortbrachten, waar koningen diegene beloonden die de kracht van de staat vermeerderde. De wil van deze leiders was losgezongen van de noden van hun gemeenschappen en in hun verovering van de natuur legden ze de machtelozen hun vernauwde begrip van de realiteit op.
 
 Middeleeuws christelijke archetypen van mannelijkheid bracht de idealen voort van heren en ridderlijkheid. Net als in het yin-yang-symbool, zat er een zaadje van het vrouwelijke in het mannelijke, en een begrip van complementariteit wijdde het krijgersethos en creëerde een overvloed aan ridderromans en hoofse literatuur. Maar gezien de vruchtbare grond voor deze archetypen letterlijk omheind was door de heersende klasse, zou een karikatuur van het mannelijke archetype ontwaken in advertenties en media in het voorkomen van de stoere cowboy. Dit was een meelijwekkend aanbod aan de miljoenen kantoorklerken en mijnwerkers: jullie die lijden en sterven om de wolkenkrabber-appartementen te bouwen, troost u! Iemand, ergens, rijdt vrij onder de hemel. Koop zijn sigaretten.
 
 Dit was wat er was overgebleven van de mannen nadat de revolutie was gekomen: een technocratische klasse die enkel het verstand gebruikte, een arbeidersklasse van miljoenen, afgesneden van de vruchten van hun arbeid, en een krimpende klasse van individualisten als gebruiksvoorwerp ingezet door adverteerders.
 
-Gedurende het industriële tijdperk werd een klasse van vrouwen, niet langer de beheerders van landgoederen op het platteland, overspoeld met hun eigen kenmerken en stereotypen. Nu de huisnijverheid verdwenen was, werd de vrouw de bestaansreden van het huishouden. Het was, zo suggereerde de media, voor haar eigen bestwil en veiligheid dat dit alles gebeurd was. Een (tijdelijke) cultus van sentimenteel moederschap dreef boven terwijl de technologische revolutie haar bestaansrecht net zo ondermijnde als het bij de man had gedaan. Het weefgetouw werd naar de fabriek verplaatst, de bedienden vervangen door afwasmachines, de maaltijd vervangen door de magnetron en een eeuw later voelde in het bijzonder de vrouw uit de middenklasse zichzelf net zo nutteloos in het huis als haar echtgenoot. 
+Gedurende het industriële tijdperk werd een klasse van vrouwen, niet langer de beheerders van landgoederen op het platteland, overspoeld met hun eigen kenmerken en stereotypen. Nu de huisnijverheid verdwenen was, werd de vrouw de bestaansreden van het huishouden. Het was, zo suggereerde de media, voor haar eigen bestwil en veiligheid dat dit alles gebeurd was. Een (tijdelijke) cultus van sentimenteel moederschap dreef boven terwijl de technologische revolutie haar bestaansrecht net zo ondermijnde als het bij de man had gedaan. Het weefgetouw werd naar de fabriek verplaatst, de bedienden vervangen door afwasmachines, de maaltijd vervangen door de magnetron en een eeuw later voelde in het bijzonder de vrouw uit de middenklasse zichzelf net zo nutteloos in het huis als haar echtgenoot.
 
 Als klassenbewustzijn de mannelijke reactie was op de industriële revolutie, dan was feminisme de vrouwelijke reactie op de consumentenproduct-revolutie.
 
@@ -81,7 +81,7 @@ We leven niet langer in de wereld van onze voorouders. Maar het goede nieuws is 
 	author="I Korintiërs 13:12 (NBV)"
 >}}
 
-We hebben zoveel verloren, maar we hebben ook het geschenk gekregen om de wereld op een vrije manier tegemoet te treden. Ieder van ons heeft een mogelijkheid om te kiezen voor hun menselijkheid, te kiezen om hun lichamen dichter bij de Schepping te brengen dan bij de Machine. 
+We hebben zoveel verloren, maar we hebben ook het geschenk gekregen om de wereld op een vrije manier tegemoet te treden. Ieder van ons heeft een mogelijkheid om te kiezen voor hun menselijkheid, te kiezen om hun lichamen dichter bij de Schepping te brengen dan bij de Machine.
 
 Dit betekent niet dat deze dagen niet hachelijk zijn en er geen mensen geofferd worden aan de Machine. De genderideologie zal van velen het lichaam voor het leven tekenen. Het rijt families uiteen, het brengt psychische wanorde voort. Kwetsbare kinderen worden moedwillig in de war gebracht en misbruikt. Onze beste inspanningen om een weg door deze tragedies te vinden, dienen het Kruis centraal te stellen. Wat ons te doen staat is niet het liefdeloze pad kiezen waar het lijden wordt ontkend en we onze lichamen vernietigen, maar er doorheen gaan naar een hernieuwd leven.
 
@@ -93,7 +93,7 @@ De handen die accepteren wat hen gegeven is, kunnen in gemeenschap met de materi
 
 Gewijde mannelijkheid en vrouwelijkheid zijn wegwijzers. Vooral kinderen vinden troost in stabiliteit en routine, en daarom zijn de pogingen hen te vervreemden van hun lichaam bijzonder verontrustend.
 
-We kunnen het transcendente vinden in cycli, complementaire vormen die opbloeien en wegebben op het juiste moment. Door de herhaling van dag en nacht, de maanmaand, het zonnejaar, ervaren we de verandering van tijd en ruimte en komen bepaalde eeuwige waarheden bovendrijven. Het is geen toeval dat de opkomst van de sekseloze machine plaatsvindt in een samenleving die binnenshuis leeft, die temperatuurveranderingen ontwijkt, die zichzelf zoveel mogelijk afzondert van het vlees. In plaats van in deze complementaire cyclus mee te gaan, verkiest de Machine platgeslagen standaardisatie.
+We kunnen het transcendente vinden in cycli, complementaire vormen die opbloeien en wegebben op het juiste moment. Door de herhaling van dag en nacht, de maanmaand, het zonnejaar, ervaren we de verandering van tijd en ruimte en komen bepaalde eeuwige waarheden bovendrijven. Het is geen toeval dat de opkomst van de sekseloze machine plaatsvindt in een samenleving die binnenshuis leeft, die temperatuurveranderingen ontwijkt, die zichzelf zoveel mogelijk afzondert van het vlees. In plaats van in deze complementaire cyclus mee te gaan, verkiest de Machine platgeslagen standaardisatie.
 
 Gewillig onszelf opzadelen met deze cycli geneest onze lichamen. Ons gehele endocriene systeem komt tot rust als het deze ritmes volgt. Onze lichamen raken fysiek verward en kwaaltjes tieren welig wanneer wij uit deze ritmes worden gedwongen. Er zit waarheid en genezing in het verlaten van de Machine en het verkiezen van de Realiteit.
 
@@ -107,13 +107,13 @@ Als we kiezen om mannelijkheid of vrouwelijkheid te omarmen in een platgeslagen 
 
 Er zijn lokale verhalen van mannelijkheid en vrouwelijkheid over de wereld, waarin zich aspecten van de universele archetypen manifesteren die het best aansluiten bij die specifieke tijd en plaats (het is belangrijk in acht te nemen dat de archetypen niet slechts een metafoor zijn). Mannelijkheid in het poolgebied en mannelijkheid in het Australische binnenland zullen verschillen in hun voorkomen; heilige mannelijkheid in een moderne stad zal andere taken hebben dan heilige mannelijkheid op een boerderij. Deze kenmerken zijn niet zonder betekenis, noch zijn ze definitief. Het zijn texturele kenmerken van onze eigenheid, en het is aan ons om de Schepping opnieuw te benaderen door uit te zoeken hoe we de verschijningen het beste kunnen verzilveren.
 
-Vrouwen hebben vooral een moeilijk pad, als we de verleidingen in acht nemen die hen opgedrongen worden. De heidense renaissance van de 20e eeuw herontdekte archetypen van het vrouwelijke maar, net zoals in andere voormalige ongebalanceerde samenlevingen, verwerden deze archetypen tot geperfectioneerde idolen. Alle vrouwen zijn godinnen die aanbidding verdienen; het vermogen om leven te schenken wordt een kracht die de vrouw kan beheersen, in plaats van een geschenk dat zij kanaliseert.
+Vrouwen hebben vooral een moeilijk pad, als we de verleidingen in acht nemen die hen opgedrongen worden. De heidense renaissance van de 20e eeuw herontdekte archetypen van het vrouwelijke maar, net zoals in andere voormalige ongebalanceerde samenlevingen, verwerden deze archetypen tot geperfectioneerde idolen. Alle vrouwen zijn godinnen die aanbidding verdienen; het vermogen om leven te schenken wordt een kracht die de vrouw kan beheersen, in plaats van een geschenk dat zij kanaliseert.
 
 Niet alleen dat, maar dit hernieuwde matriarchaat ziet zichzelf fundamenteel in strijd met mannelijkheid. In plaats van een complementair begrip van mannelijk en vrouwelijk te omarmen, ziet dit karikatuur de vrouw als op zichzelf reeds volmaakt, terwijl ze ironisch genoeg ook bereid blijkt om elke pil uit de door mannen gedomineerde industriële geneeskunde tot zich te nemen om haar vrouwelijk lichaam te onderdrukken!
 
 Dit zijn verwarrende verleidingen, en het is noodzakelijk dat wij deze weten te overkomen. De crisis van mannelijkheid manifesteerde zich in de verbitterde oorlogen tussen beheerders van de klassen in de 20e eeuw en is nooit opgelost. Deze mislukking heeft geleid tot een centralisatie van macht, verlies van rentmeesterschap over onze omgeving en massale sociale vervreemding. Als we niet een manier vinden om het vrouwelijke archetype van dit binnenstebuiten gekeerde karikatuur te redden, is het thuis en de familie volledig verloren en zal de institutionele Machine de enige beheerder van alle aardse zaken worden.
 
-Het omarmen van respectievelijk onze mannelijkheid en vrouwelijkheid door middel van de archetypes is de beste manier om een complementair bestaan te herstellen, dat leven geeft aan elkaar in plaats van vervreemding en verdeeldheid te zaaien waardoor we volledig afhankelijk gemaakt worden van de Machine. 
+Het omarmen van respectievelijk onze mannelijkheid en vrouwelijkheid door middel van de archetypes is de beste manier om een complementair bestaan te herstellen, dat leven geeft aan elkaar in plaats van vervreemding en verdeeldheid te zaaien waardoor we volledig afhankelijk gemaakt worden van de Machine.
 
 {{< boekencast >}}
 
@@ -123,7 +123,7 @@ In een Machinesamenleving zijn snelheid en kracht de hoogste prioriteiten. Hoe j
 
 Vrouwen zijn wel veel meer flexibel. Dit ontsluit de mogelijkheid voor grote schoonheid en elegantie, maar deze kwaliteiten worden geminacht door de feministen die enkel kwantitatieve presentaties van mannen waarderen en genderneutrale (machinale) normen wensen op te leggen aan het vrouwelijk lichaam.
 
-Deze voorkeur voor mannelijke kracht, snelheid en macht is wijdverbreid in sport, kunst, technologie en geneeskunde. Zonder een vrouwelijke balans worden deze deugden verstikkend voor zowel mannen als vrouwen, die beide een essentieel kwalitatief deel van de menselijke ervaring verliezen.
+Deze voorkeur voor mannelijke kracht, snelheid en macht is wijdverbreid in sport, kunst, technologie en geneeskunde. Zonder een vrouwelijke balans worden deze deugden verstikkend voor zowel mannen als vrouwen, die beide een essentieel kwalitatief deel van de menselijke ervaring verliezen.
 
 We treffen een tragische reflectie van deze verwarring in de meme die opdook na de Dobbs-bepaling, waar een zwangere vrouw zichzelf in competitie plaatst met haar kind en redetwist met een onzichtbare godheid: “Hoe zit het met mijn grootsheid?”
 
@@ -147,4 +147,4 @@ Je lichaam bestaat niet louter uit atomen. Je lichaam is geen verzameling delen.
 
 Dit is geen reis om te missen.
 
-[^1]: In Engeland had men in de 18e eeuw veel *open fields* en *common fields;* grasvelden die tot dan in ieder geval een deel van het jaar gemeenschappelijk gebruikt werden, laten omheinen opdat zij in het bezit van grondbezitters zouden geraken. Het doel was om de winst van het land te optimaliseren, door de weiden specifiek voor het houden van schapen benutten en met de verkoop van wol winst te maken. Deze ontwikkeling, wettelijk beschermd door de *[Enclosure act](https://www.legislation.gov.uk/apgb/Geo3/13/81/contents)*, stortte een groot deel van de plattelanders in armoede en wordt als voorspel gezien van de industriële revolutie.
+[^1]: In Engeland had men in de 18e eeuw veel *open fields* en *common fields;* grasvelden die tot dan in ieder geval een deel van het jaar gemeenschappelijk gebruikt werden, laten omheinen opdat zij in het bezit van grondbezitters zouden geraken. Het doel was om de winst van het land te optimaliseren, door de weiden specifiek voor het houden van schapen benutten en met de verkoop van wol winst te maken. Deze ontwikkeling, wettelijk beschermd door de *[Enclosure act](https://www.legislation.gov.uk/apgb/Geo3/13/81/contents)*, stortte een groot deel van de plattelanders in armoede en wordt als voorspel gezien van de industriële revolutie.

@@ -3,7 +3,8 @@ anchor: Smart
 authors:
 - Jan-Jaap Moltman
 date: "2022-08-26"
-files:
+tags:
+- China
 - Oekraïne
 image: pm_03.jpg
 subtitle: 'Over een zelfvoorzienend Nederland '

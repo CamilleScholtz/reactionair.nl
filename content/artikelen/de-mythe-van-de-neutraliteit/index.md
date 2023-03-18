@@ -8,10 +8,8 @@ themes: 'Politiek en Actualiteit'
 image: thumb.webp
 anchor: Smart
 description: "De Tweede Kamer neemt besluit: scholen mogen geen identiteitsverklaring eisen van ouders. Maar is 'neutraliteit' wel haalbaar? Lees het hier."
-cited:
-    - 'G. K. Chesterton'
-    - 'Karl Popper'
-files:
+tags:
+- Karl Popper
 - Liberalisme
 ---
 

@@ -7,9 +7,8 @@ authors:
 themes: 'Politiek en Actualiteit'
 image: b8a1b5e4-a46c-4c73-90f5-04d08f503f5e.jpg
 anchor: Smart
-files:
+tags:
     - Woke
-cited:
     - 'Pim Lammers'
 ---
 

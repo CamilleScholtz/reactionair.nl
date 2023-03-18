@@ -2,7 +2,7 @@
 authors:
 - Sanura
 date: "2022-12-24"
-files:
+tags:
 - Christendom
 image: thumb.jpg
 subtitle: De Makkabeeën als inspiratie voor christelijke martelaren en contrarevolutionairen

@@ -1,14 +1,13 @@
 ---
 authors:
 - Mootje
-cited:
+date: "2021-12-26"
+tags:
+- Conservatieve Alliantie
+- Islam
 - Pim Fortuyn
 - Geert Wilders
 - Plato
-date: "2021-12-26"
-files:
-- Conservatieve Alliantie
-- Islam
 image: thumb.webp
 subtitle: Van een Marokkaan
 themes: Politiek en Actualiteit
@@ -20,7 +19,7 @@ Het eindeloos gehuil om migratie, omvolking en weet ik allemaal niet wat, begint
 
 ### Indonesiër deed tnawies
 
-De Germaan is om de tuin geleid door de ruis van Geert Wilders. Er is veel energie en productiviteit kwijtgeraakt. Wilders ving de oprechte energie van Pim Fortuyn op en kanaliseerde het met een extreme vorm van anti-islam en pro-Israël retoriek. De heer Wilders en zijn partijleden zijn meermaals in opspraak gekomen vanwege het lekken van staatsgeheimen. Als dat geen landverraad is dan weet ik het ook niet meer. De man krijgt gelden van organisaties en denktanks als het _David Horowitz Freedom Center_. De _AIVD_ hield het *PVV*-kopstuk en zijn kornuiten al een tijd in de gaten en er werd zelfs door de inlichtingendienst getwijfeld over zijn loyaliteit. In 2009 en 2010 deed de _AIVD_ onderzoek naar de gangen van Wilders en zijn contacten met personen en instanties binnen de Israëlische staat.[^1] Hij betichtte minderheidsgroeperingen van het zijn van een vijfde colonne. De man is zelf een vijfde colonne,[^2] een kwakzalver. Hij heeft de oprechte energie gekaapt om slaafs de geopolitieke belangen van Israël uit te dragen (Een pro-Israël klimaat creëren zodat het land verder kan gaan met haar apartheidsbeleid, en met succes ook).
+De Germaan is om de tuin geleid door de ruis van Geert Wilders. Er is veel energie en productiviteit kwijtgeraakt. Wilders ving de oprechte energie van Pim Fortuyn op en kanaliseerde het met een extreme vorm van anti-islam en pro-Israël retoriek. De heer Wilders en zijn partijleden zijn meermaals in opspraak gekomen vanwege het lekken van staatsgeheimen. Als dat geen landverraad is dan weet ik het ook niet meer. De man krijgt gelden van organisaties en denktanks als het _David Horowitz Freedom Center_. De _AIVD_ hield het *PVV*-kopstuk en zijn kornuiten al een tijd in de gaten en er werd zelfs door de inlichtingendienst getwijfeld over zijn loyaliteit. In 2009 en 2010 deed de _AIVD_ onderzoek naar de gangen van Wilders en zijn contacten met personen en instanties binnen de Israëlische staat.[^1] Hij betichtte minderheidsgroeperingen van het zijn van een vijfde colonne. De man is zelf een vijfde colonne,[^2] een kwakzalver. Hij heeft de oprechte energie gekaapt om slaafs de geopolitieke belangen van Israël uit te dragen (Een pro-Israël klimaat creëren zodat het land verder kan gaan met haar apartheidsbeleid, en met succes ook).
 
 Je kan je wel lopen opwinden om migratiestromen, gebrek aan integratie en islamisering. Maar dat is je louter bezigen met de symptomen. De kwaal is het cultuurdefect.
 
@@ -37,7 +36,7 @@ Moraal van het verhaal; vaar je eigen koers als land, sticht geen onnodige brand
 
 Doormiddel van herbronnen krijg je ook een sterkere gemeenschap, wat betekent meer kinderen. Zo hoef je je vervolgens ook geen zorgen te maken om deels of volledige omvolking over 100 jaar.
 
-Ik denk dat we het kapitalisme moeten hervormen. Zelfvoorzienende gemeenschappen. Hiermee los je grotendeels de arbeidsmigratie op en de lokaliteit creëert ook meer bewustwording rondom mens en natuur. Met _Allah_ (God) in ons achterhoofd zullen we ons meer bewust zijn van de limitaties van de aarde, en voelen we ook een verantwoordelijkheid voor de aarde, die immers in bruikleen is. Nu wordt het thema 'klimaat' gekaapt door extreemlinks en neoliberale _boomers_.
+Ik denk dat we het kapitalisme moeten hervormen. Zelfvoorzienende gemeenschappen. Hiermee los je grotendeels de arbeidsmigratie op en de lokaliteit creëert ook meer bewustwording rondom mens en natuur. Met _Allah_ (God) in ons achterhoofd zullen we ons meer bewust zijn van de limitaties van de aarde, en voelen we ook een verantwoordelijkheid voor de aarde, die immers in bruikleen is. Nu wordt het thema 'klimaat' gekaapt door extreemlinks en neoliberale _boomers_.
 
 _Ewa_, we moeten het weer terugbrengen naar het religieus-conservatieve domein.
 

@@ -2,15 +2,14 @@
 anchor: Center
 authors:
 - Robert Lemm
-cited:
+date: "2021-11-29"
+tags:
+- Christendom
+- Liberalisme
 - Thomas van Aquino
 - Nicolás Gómez Dávila
 - Immanuel Kant
 - Jean-Jacques Rousseau
-date: "2021-11-29"
-files:
-- Christendom
-- Liberalisme
 image: thumb.webp
 subtitle: Fragment uit een boek in voorbereiding
 themes: Recensie en Biografie

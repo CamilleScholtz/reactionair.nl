@@ -1,7 +1,7 @@
 ---
 authors:
 - J. Floressas des Esseintes
-cited:
+tags:
 - Edmund Burke
 - François-René de Chateaubriand
 - Michel Foucault

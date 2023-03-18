@@ -1,7 +1,8 @@
 ---
 authors:
 - Sanura
-cited:
+tags:
+- Liberalisme
 - Erik von Kuehnelt-Leddihn
 - Karl Marx
 - Jean-Jacques Rousseau
@@ -9,8 +10,7 @@ cited:
 - Plato
 - Pythagoras
 - Socrates
-files:
-- Liberalisme
+- China
 date: "2022-05-14"
 image: thumb.webp
 subtitle: ‘Degeneratie van het midden’ na revolutie, tirannie en terreur

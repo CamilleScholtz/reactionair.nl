@@ -7,6 +7,9 @@ image: thumb.webp
 subtitle: Hoe de MSM desinformatie verspreidt over censuur
 themes: Politiek en Actualiteit
 title: Boekverbrandingen in Amerika?
+tags:
+- Woke
+- Wappies
 ---
 
 

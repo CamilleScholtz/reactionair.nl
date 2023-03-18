@@ -2,7 +2,7 @@
 authors:
 - Eco al-Hollandi
 date: "2022-06-15"
-files:
+tags:
 - Woke
 image: thumb.webp
 subtitle: Drogreden of werkelijkheid?

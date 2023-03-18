@@ -7,9 +7,8 @@ authors:
 themes: 'Onderzoek en Speurwerk'
 image: b83c21dd-6fa7-406a-9df0-9e16db757c99.webp
 anchor: Top
-files:
+tags:
     - Woke
-cited:
     - 'Pim Lammers'
     - 'Mark Rutte'
 note: '*Updates!* Onze primeur heeft geleid tot kamervragen van BVNL, zie einde artikel!'

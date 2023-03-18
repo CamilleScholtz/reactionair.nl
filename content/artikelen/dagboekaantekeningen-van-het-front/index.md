@@ -7,7 +7,7 @@ authors:
 themes: 'Cultuur en Maatschappij'
 image: 29f119af-7823-47ff-a502-de1069cc0ead.jpg
 anchor: Smart
-files:
+tags:
     - Oekraïne
 ---
 

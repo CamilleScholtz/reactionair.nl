@@ -1,16 +1,15 @@
 ---
 authors:
 - Jan-Willem Veldhuizen
-cited:
+date: "2021-11-17"
+tags:
+- Klimaatverandering
 - Edmund Burke
 - Johann Wolfgang von Goethe
 - René Guénon
 - Karl Marx
 - Jean-Jacques Rousseau
 - Friedrich Schiller
-date: "2021-11-17"
-files:
-- Klimaatverandering
 image: thumb.webp
 subtitle: Over ecologie
 themes: Politiek en Actualiteit

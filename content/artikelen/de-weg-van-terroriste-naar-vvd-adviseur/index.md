@@ -2,12 +2,14 @@
 authors:
 - Camille Scholtz
 date: "2021-12-05"
-files:
-- Islam
 image: thumb.webp
 subtitle: Onderzoek naar Soumaya Sahla
 themes: Onderzoek en Speurwerk
 title: De weg van terroriste naar VVD-adviseur
+tags:
+- Islam
+- Soumaya Sahla
+- VVD
 ---
 
 

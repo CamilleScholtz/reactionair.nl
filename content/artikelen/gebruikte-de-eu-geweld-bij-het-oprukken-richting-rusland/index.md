@@ -2,7 +2,7 @@
 authors:
 - Gerald Russelman
 date: "2022-03-28"
-files:
+tags:
 - Oekraïne
 image: thumb.webp
 subtitle: Over wat geweld is

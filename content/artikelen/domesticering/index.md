@@ -1,7 +1,7 @@
 ---
 authors:
 - Alexander Wolfheze
-cited:
+tags:
 - Thierry Baudet
 - Carl Schmitt
 - Mark Rutte

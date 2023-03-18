@@ -7,7 +7,7 @@ authors:
 themes: 'Cultuur en Maatschappij'
 image: 9007a32f-c19a-4b36-b086-0cfc39623f0f.webp
 anchor: Smart
-files:
+tags:
     - 'Conservatieve Alliantie'
 ---
 

@@ -10,6 +10,9 @@ image: thumb.webp
 subtitle: Hoe autonomie met de consumptiemaatschappij samenhangt
 themes: Cultuur en Maatschappij
 title: Autonomie en consumptie
+tags:
+- Oswald Spengler
+- Sigmund Freud
 ---
 
 

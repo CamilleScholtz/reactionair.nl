@@ -7,10 +7,9 @@ authors:
 themes: 'Onderzoek en Speurwerk'
 image: thumb.webp
 anchor: Smart
-files:
+tags:
     - Woke
     - Liberalisme
-cited:
     - 'Pim Lammers'
 ---
 

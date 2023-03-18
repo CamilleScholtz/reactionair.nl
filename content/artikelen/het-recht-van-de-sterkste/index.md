@@ -1,11 +1,10 @@
 ---
 authors:
 - Robert Lemm
-cited:
+tags:
 - Thierry Baudet
-date: "2022-03-11"
-files:
 - Oekraïne
+date: "2022-03-11"
 image: thumb.webp
 subtitle: Over NAVO, Rusland en Oekraïne
 themes: Politiek en Actualiteit

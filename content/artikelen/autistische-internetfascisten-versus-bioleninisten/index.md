@@ -1,17 +1,15 @@
 ---
 authors:
 - De Melancholieke Nar
-cited:
-- Rudy Bouma
-- René Girard
-- Karl Marx
 date: "2022-04-09"
-files:
-- Woke
 image: thumb.webp
 subtitle: Twitter als toneel van de strijd om sociaal prestige
 themes: Cultuur en Maatschappij
 title: Autistische internetfascisten versus bioleninisten
+tags:
+- Rudy Bouma
+- FVD
+- Wappies
 ---
 
 

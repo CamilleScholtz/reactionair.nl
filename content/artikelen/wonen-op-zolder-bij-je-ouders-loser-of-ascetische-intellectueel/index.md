@@ -1,7 +1,7 @@
 ---
 authors:
 - Sanura
-cited:
+tags:
 - Michel Foucault
 - Aristoteles
 - Plato

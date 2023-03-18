@@ -2,7 +2,7 @@
 authors:
 - Paars van Grinsterer
 date: "2022-03-02"
-files:
+tags:
 - Christendom
 image: thumb.webp
 subtitle: Over de functie van de 40 dagentijd en het ritueel van het askruis

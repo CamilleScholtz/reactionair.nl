@@ -8,9 +8,8 @@ themes: 'Politiek en Actualiteit'
 image: 64fd138f-00fd-4b35-922f-f04077ab5388.webp
 anchor: Smart
 description: 'Premier Rutte spreekt zich uit over de affaire rondom schrijver Pim Lammers, die onder vuur ligt vanwege zijn controversiële gedicht voor de Kinderboekenweek. Wat speelt er precies en wat zit er achter de commotie?'
-files:
+tags:
     - Woke
-cited:
     - 'Mark Rutte'
     - 'Pim Lammers'
 ---

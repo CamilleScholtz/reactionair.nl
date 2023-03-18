@@ -2,7 +2,7 @@
 authors:
 - Sanura
 date: "2022-06-12"
-files:
+tags:
 - Christendom
 - Islam
 image: thumb.webp

@@ -1,13 +1,12 @@
 ---
 authors:
 - Dennis Honing
-cited:
+tags:
 - Thierry Baudet
 - Geert Wilders
-date: "2021-11-09"
-files:
 - Conservatieve Alliantie
 - Islam
+date: "2021-11-09"
 image: thumb.webp
 subtitle: Traditionalisme als genezing voor het postmodernisme
 themes: Politiek en Actualiteit
