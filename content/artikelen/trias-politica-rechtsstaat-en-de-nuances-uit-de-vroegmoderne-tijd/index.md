@@ -7,6 +7,8 @@ cited:
 - C. S. Lewis
 - Jean-Jacques Rousseau
 - Alexis de Tocqueville
+files:
+- Liberalisme
 date: "2022-04-28"
 image: thumb.webp
 subtitle: De l'Esprit des Lois 2.0, deel 2

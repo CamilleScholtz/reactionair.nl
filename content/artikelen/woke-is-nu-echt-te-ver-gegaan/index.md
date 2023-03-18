@@ -4,6 +4,7 @@ authors:
 date: "2021-10-15"
 files:
 - Woke
+- Liberalisme
 image: thumb.webp
 subtitle: Of toch niet?
 themes: Klikaas

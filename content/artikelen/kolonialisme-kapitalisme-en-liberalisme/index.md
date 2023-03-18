@@ -7,6 +7,7 @@ cited:
 date: "2022-02-28"
 files:
 - Islam
+- Liberalisme
 image: thumb.webp
 subtitle: Drie ideeën met dezelfde oorsprong
 themes: Politiek en Actualiteit

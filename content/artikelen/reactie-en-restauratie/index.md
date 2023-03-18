@@ -3,6 +3,8 @@ aanghaald:
 - Jean-Jacques Rousseau
 authors:
 - Sanura
+files:
+- Liberalisme
 date: "2022-01-09"
 image: thumb.webp
 subtitle: Een rechts woordenboek

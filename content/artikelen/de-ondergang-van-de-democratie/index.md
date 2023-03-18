@@ -9,6 +9,8 @@ cited:
 - Plato
 - Pythagoras
 - Socrates
+files:
+- Liberalisme
 date: "2022-05-14"
 image: thumb.webp
 subtitle: ‘Degeneratie van het midden’ na revolutie, tirannie en terreur

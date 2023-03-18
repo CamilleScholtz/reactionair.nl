@@ -10,6 +10,7 @@ cited:
 date: "2021-11-29"
 files:
 - Christendom
+- Liberalisme
 image: thumb.webp
 subtitle: Fragment uit een boek in voorbereiding
 themes: Recensie en Biografie

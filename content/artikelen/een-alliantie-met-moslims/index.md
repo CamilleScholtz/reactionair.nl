@@ -7,6 +7,7 @@ date: "2021-10-13"
 files:
 - Islam
 - Conservatieve Alliantie
+- Liberalisme
 image: thumb.webp
 subtitle: Over reactionairen en moslims
 themes: Politiek en Actualiteit

@@ -11,6 +11,8 @@ files:
     - Islam
 ---
 
+{{< basmala >}}
+
 <blockquote style="text-align: center; color: var(--muted-color); max-width: 90%;">
 <p style="text-align: center;">
 <span style="color: var(--accent-color); font-size: 14px;">1.</span> In naam van God, de Barmhartige, de Genadevolle. 
@@ -69,7 +71,7 @@ Laten we beginnen met de uitleg van het eerste chiasme (in blauw):
 
 {{< quote
 	text="Ik heb het gebed tussen Mijzelf en Mijn dienaar in twee helften verdeeld, en Mijn dienaar zal bezitten hetgeen hij heeft gevraagd."
-	author="De Profeet namens God"
+	author="De Profeet (ﷺ) namens God"
 >}}
 
 Het verband tussen *B* en *B'* is duidelijk. Het zijn beide namen van God die zijn barmhartigheid (*raḥma*) benadrukken. De nuance in hun betekenissen wordt echter naar voren gebracht door hun plaatsing in het chiasme. *B* is nauw verbonden met *A*, omdat zij in de eerste plaats deze wereld betreffen. *B'* is nauw verbonden met *A'*, omdat zij in de eerste plaats de volgende wereld betreffen.
@@ -95,11 +97,11 @@ De soera heeft dus een briljante structuur, die nauw verbonden is met zijn betek
 
 De *Fātiḥa* staat ook bekend als "De Remedie" (*al-Shifāʾ*), omdat er wordt gezegd dat het genezende krachten heeft voor zowel lichaam als ziel.
 
-Het einde van de soera verdeelt degenen die geen leiding hebben in twee groepen mensen. De eerste van deze groepen zijn degenen die toorn hebben verdiend. Uit andere Koranteksten en uit het commentaar van de Profeet op deze verzen, wordt dit begrepen als een verwijzing naar mensen die, ondanks het feit dat zij kennis hebben van Gods geboden, besloten hebben om tegen deze geboden te handelen.
+Het einde van de soera verdeelt degenen die geen leiding hebben in twee groepen mensen. De eerste van deze groepen zijn degenen die toorn hebben verdiend. Uit andere Koranteksten en uit het commentaar van de Profeet (ﷺ) op deze verzen, wordt dit begrepen als een verwijzing naar mensen die, ondanks het feit dat zij kennis hebben van Gods geboden, besloten hebben om tegen deze geboden te handelen.
 
 {{< quote
 	text="De Opening van het Boek is een remedie voor elk vergif."
-	author="De Profeet"
+	author="De Profeet (ﷺ)"
 >}}
 
 De tweede groep mensen zijn zij die dwalen. In tegenstelling tot de vorige groep verwijst dit naar mensen die geen leiding hebben omdat zij niet de juiste kennis hebben over wat het Rechte Pad inhoudt.

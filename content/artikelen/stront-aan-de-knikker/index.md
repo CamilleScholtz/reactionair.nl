@@ -9,6 +9,7 @@ image: thumb.webp
 anchor: Smart
 files:
     - Woke
+    - Liberalisme
 cited:
     - 'Pim Lammers'
 ---

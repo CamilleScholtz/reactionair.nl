@@ -4,6 +4,8 @@ authors:
 - Sanura
 cited:
 - Jean-Jacques Rousseau
+files:
+- Liberalisme
 date: "2022-06-13"
 image: thumb.webp
 subtitle: Hoe hebben we dit kookpunt bereikt en wat kunnen we verwachten van hun woede?

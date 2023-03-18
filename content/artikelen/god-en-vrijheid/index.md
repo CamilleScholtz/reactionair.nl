@@ -7,6 +7,8 @@ authors:
 themes: 'Religie en Metafysica'
 image: thumb.webp
 anchor: Top
+files:
+- Liberalisme
 cited:
     - Aristoteles
     - Pythagoras

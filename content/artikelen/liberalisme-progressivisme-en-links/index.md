@@ -7,6 +7,8 @@ image: thumb.webp
 note: Dit is een vertaling van het essay 'Liberalism, Progressivism, Leftism', het
   origineel is [hier](https://www.eugyppius.com/p/liberalism-progressivism-leftism)
   te lezen.
+files:
+- Liberalisme
 subtitle: Drie machten die samenspannen tegen de middenklasse
 themes: Politiek en Actualiteit
 title: Liberalisme, progressivisme en links

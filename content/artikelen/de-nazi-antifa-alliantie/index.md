@@ -5,6 +5,8 @@ authors:
 cited:
 - Erik von Kuehnelt-Leddihn
 - Oswald Spengler
+files:
+- Liberalisme
 date: "2022-05-05"
 image: thumb.webp
 subtitle: De vergeten geschiedenis van conservatief verzet, de bevrijding en Neurenberg

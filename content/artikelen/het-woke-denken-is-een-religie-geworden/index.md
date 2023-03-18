@@ -3,6 +3,7 @@ authors:
 - Camille Scholtz
 date: "2021-10-08"
 files:
+- Liberalisme
 - Woke
 image: thumb.webp
 subtitle: En waarom deze vergelijking niet klopt

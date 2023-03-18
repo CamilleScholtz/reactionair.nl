@@ -5,6 +5,8 @@ date: "2022-04-11"
 image: thumb.webp
 subtitle: Over onze toekomst
 themes: Politiek en Actualiteit
+files:
+- Liberalisme
 title: Wie Nederland liefheeft, laat het liberalisme links liggen
 ---
 
