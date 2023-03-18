@@ -6,7 +6,7 @@ image: thumb.webp
 note: Dit is een vertaling van het essay 'I'm not religious, but...', het origineel
   is [hier](https://glasszealot.substack.com/p/im-not-religious-but) te lezen.
 subtitle: Over de betekenis van religie
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Ik ben niet gelovig maar...
 ---
 

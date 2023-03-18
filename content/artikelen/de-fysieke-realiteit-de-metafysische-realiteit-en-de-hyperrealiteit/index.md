@@ -4,7 +4,7 @@ authors:
 date: "2022-05-21"
 image: thumb.webp
 subtitle: De drie-eenheid van werkelijkheid
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: De fysieke realiteit, de metafysische realiteit en de hyperrealiteit
 ---
 

@@ -6,7 +6,7 @@ files:
 - Christendom
 image: thumb.jpg
 subtitle: De Makkabeeën als inspiratie voor christelijke martelaren en contrarevolutionairen
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Chanoeka, een reactionaire feestdag
 ---
 

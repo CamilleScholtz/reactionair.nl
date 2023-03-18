@@ -4,7 +4,7 @@ subtitle: 'Over de omgekeerde analogie'
 date: '2021-11-21'
 authors:
     - 'Camille Scholtz'
-themes: 'Religie en Metafysica'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Top
 files:

@@ -23,7 +23,7 @@ note: 'Dit is een vertaling van het essay ''From Humanism to Nihilism: The Eclip
 files:
 - Liberalisme
 subtitle: De eclips van de seculiere ethiek
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Van humanisme naar nihilisme
 ---
 

@@ -9,7 +9,7 @@ files:
 - Christendom
 image: henry_wallis_-_chatterton_-_google_art_project.jpg
 subtitle: Een jongeman verloren in de ruïnes van de occidentale wereld
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: O Crux ave, spes unica
 ---
 Een man van begin twintig, viriel en intellectueel aangelegd, klaar om de wereld met storm te veroveren. Maar wat als deze wereld meer tot afschuw beweegt dan tot aantrekking? Een toekomstbeeld dat vervuild wordt door alsmaar toenemende decadentie, wanneer alle hoop op stabiliteit weg lijkt te ebben en geborgenheid een ongrijpbare utopie is. Wat doet zo iemand? Er dienen zich tal van opties aan waarmee een jongeman deze vijandige realiteit kan gaan bekampen.

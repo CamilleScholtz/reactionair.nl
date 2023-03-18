@@ -4,7 +4,7 @@ subtitle: 'Een korte inleiding'
 date: '2023-02-14'
 authors:
     - 'Jan de Maansnijder'
-themes: 'Religie en Metafysica'
+themes: 'Religie en Wijsbegeerte'
 image: 59e4e691-e48e-4c6c-b5b8-b7dcdd2bf298.webp
 anchor: Top
 files:

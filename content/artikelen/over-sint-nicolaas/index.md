@@ -7,7 +7,7 @@ files:
 image: thumb.webp
 subtitle: Een interpretatie van de symboliek uit het leven van deze heilige, losjes
   gebaseerd op de Gulden Legende
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Over Sint Nicolaas
 ---
 

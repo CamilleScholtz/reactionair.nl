@@ -7,7 +7,7 @@ cited:
 date: "2022-02-01"
 image: thumb.webp
 subtitle: Waarom het streven naar objectiviteit een doodlopend pad is, deel 2
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Een lesje grammatica, een lesje metafysica
 ---
 

@@ -5,7 +5,7 @@ subtitle: 'Waarom we de weg kwijt zijn'
 date: '2023-03-18'
 authors:
     - 'De redactie'
-themes: 'Religie en Metafysica'
+themes: 'Religie en Wijsbegeerte'
 image: 740b6792-8eb2-468b-9a2e-f8aa859b698a.jpg
 anchor: Smart
 caption: 'Filmposter voor een documentaire over het werk van McGilchrist.'

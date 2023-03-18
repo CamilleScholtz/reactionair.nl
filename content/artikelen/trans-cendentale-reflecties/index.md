@@ -4,7 +4,7 @@ subtitle: 'Waarom gender en sekse niet inwisselbaar zijn'
 date: '2022-08-14'
 authors:
     - 'Rainer Wüssle'
-themes: 'Religie en Metafysica'
+themes: 'Religie en Wijsbegeerte'
 image: 067c9b1a-3930-4086-9afa-541b35f8ff33.jpeg
 anchor: Top
 files:

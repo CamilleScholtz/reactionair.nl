@@ -8,7 +8,7 @@ files:
 - Christendom
 image: thumb.webp
 subtitle: Autoriteit versus macht
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Christendom en legitimiteit
 ---
 

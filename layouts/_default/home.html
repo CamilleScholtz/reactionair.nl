@@ -1,5 +1,5 @@
 {{ define "main" }}
-	{{ $themes   := slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Metafysica" "Onderzoek en Speurwerk" "Recensie en Biografie" }}
+	{{ $themes   := slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Wijsbegeerte" "Onderzoek en Speurwerk" "Recensie en Biografie" }}
 	{{ $articles := where site.RegularPages "Params.themes" "in" $themes }}
 
 	<section class="hero">
@@ -64,7 +64,7 @@
 	{{ $articles = $articles | after 7 }}
 
 	<section>
-		{{ $themes := slice "Politiek en Actualiteit" "Religie en Metafysica" }}
+		{{ $themes := slice "Politiek en Actualiteit" "Religie en Wijsbegeerte" }}
 		{{ $pages  := where $articles "Params.themes" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}

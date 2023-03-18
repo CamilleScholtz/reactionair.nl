@@ -8,7 +8,7 @@ cited:
 date: "2021-11-05"
 image: thumb.webp
 subtitle: De eschatologie van René Guénon
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Tijd opgeslokt door ruimte
 ---
 

@@ -8,7 +8,7 @@ cited:
 date: "2021-10-21"
 image: thumb.webp
 subtitle: Gedachten over het Onbegrensde
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Naar het einde en daar voorbij!
 ---
 

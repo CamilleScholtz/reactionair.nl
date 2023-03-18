@@ -7,7 +7,7 @@ files:
 - Islam
 image: thumb.webp
 subtitle: En red de samenleving
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Verberg uw zondes
 ---
 

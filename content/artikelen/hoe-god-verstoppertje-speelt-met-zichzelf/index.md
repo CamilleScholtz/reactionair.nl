@@ -10,7 +10,7 @@ cited:
 date: "2022-02-09"
 image: thumb.webp
 subtitle: Waarom het streven naar objectiviteit een doodlopend pad is, deel 3
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Hoe God verstoppertje speelt met zichzelf
 ---
 

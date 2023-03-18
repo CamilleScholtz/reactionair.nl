@@ -6,7 +6,7 @@ files:
 - Christendom
 image: thumb.webp
 subtitle: Hoe een heilig feest tot simpel hedonisme vervallen is
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: De ware horror van het hedendaagse Halloween
 ---
 

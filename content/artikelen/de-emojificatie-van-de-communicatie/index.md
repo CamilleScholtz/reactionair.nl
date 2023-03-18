@@ -4,7 +4,7 @@ subtitle: 💁👌🎍😍🍉⛷️😱🍻💅🤣
 date: '2022-08-20'
 authors:
     - 'De Melancholieke Nar'
-themes: 'Religie en Metafysica'
+themes: 'Religie en Wijsbegeerte'
 image: jeremy-zero-wpxr-qsdqjm-unsplash-scaled-1.jpg
 anchor: Smart
 cited:

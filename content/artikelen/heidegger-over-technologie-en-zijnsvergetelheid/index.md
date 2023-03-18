@@ -10,7 +10,7 @@ image: thumb.webp
 note: Dit is een vertaling van het essay 'Terminator Future', het origineel is [hier](https://astralflight.substack.com/p/terminator-future)
   te lezen.
 subtitle: Heidegger en onze Terminator-toekomst, deel 1
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Het wezen van de technologie
 ---
 

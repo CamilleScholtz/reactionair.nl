@@ -10,7 +10,7 @@ files:
 - Christendom
 image: thumb.webp
 subtitle: Traditie=historische context
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Was Jezus een Reactionair?
 ---
 

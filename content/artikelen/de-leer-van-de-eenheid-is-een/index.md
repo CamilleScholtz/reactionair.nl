@@ -4,7 +4,7 @@ subtitle: 'al-Tawhīdu wāhidun'
 date: '2022-05-02'
 authors:
     - 'Camille Scholtz'
-themes: 'Religie en Metafysica'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Center
 files:

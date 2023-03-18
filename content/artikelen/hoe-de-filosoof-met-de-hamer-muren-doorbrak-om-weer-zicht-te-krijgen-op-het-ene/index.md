@@ -12,7 +12,7 @@ cited:
 date: "2022-05-07"
 image: thumb.webp
 subtitle: Over taaltovenarij met hamer en mes
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Hoe de filosoof met de hamer muren doorbrak om weer zicht te krijgen op het
   Ene
 ---

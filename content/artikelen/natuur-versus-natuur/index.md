@@ -7,7 +7,7 @@ cited:
 date: "2021-10-14"
 image: thumb.webp
 subtitle: Een modern misverstand
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Natuur versus natuur
 ---
 

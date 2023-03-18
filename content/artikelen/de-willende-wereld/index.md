@@ -19,7 +19,7 @@ note: Het volgende stuk is geschreven ter gelegendheid van de lezing van de heer
   van Rossum van 24 juni 2022. Mijn hoop is dat dit kan dienen als voorbereidende
   lectuur voor geïnteresseerden die deze lezing bij zullen wonen.
 subtitle: Enkele woorden als voorbereiding op een lezing
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: De willende wereld
 ---
 

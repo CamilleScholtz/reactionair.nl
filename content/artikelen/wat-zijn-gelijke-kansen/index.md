@@ -10,7 +10,7 @@ cited:
 date: "2022-07-10"
 image: radvanfortuin.webp
 subtitle: En waarom vinden we die zo belangrijk?
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Wat zijn gelijke kansen?
 ---
 

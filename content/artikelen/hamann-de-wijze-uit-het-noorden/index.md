@@ -4,7 +4,7 @@ subtitle: 'Een korte introductie op de vijand van de verlichting'
 date: '2023-01-18'
 authors:
     - 'Jan-Willem Veldhuizen'
-themes: 'Religie en Metafysica'
+themes: 'Religie en Wijsbegeerte'
 image: 8488e2ac-cd20-40f7-a223-78d8899c191f.jpg
 anchor: Smart
 caption: 'Caspar David Friedrich, Klosterruine Eldena bei Greifswald (ca. 1825)'

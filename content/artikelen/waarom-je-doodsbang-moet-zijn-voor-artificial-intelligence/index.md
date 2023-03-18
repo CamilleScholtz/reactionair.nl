@@ -7,7 +7,7 @@ cited:
 date: "2022-07-24"
 image: test.jpg
 subtitle: Onze realiteit gereduceerd tot pure kwantiteit — lees tot het einde!
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: 'Waarom je doodsbang moet zijn voor Artificiële Intelligentie '
 ---
 

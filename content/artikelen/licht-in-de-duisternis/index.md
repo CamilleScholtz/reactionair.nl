@@ -7,7 +7,7 @@ files:
 - Christendom
 image: thumb.jpg
 subtitle: De echte betekenis van kerstmis
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Licht in de duisternis
 ---
 

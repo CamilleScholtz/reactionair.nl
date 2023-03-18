@@ -4,7 +4,7 @@ subtitle: 'Liefde in een door ruilverhoudingen beheerste samenleving'
 date: '2022-08-05'
 authors:
     - 'Rainer Wüssle'
-themes: 'Religie en Metafysica'
+themes: 'Religie en Wijsbegeerte'
 image: the-lovers-1928-1-.jpg
 anchor: Smart
 cited:

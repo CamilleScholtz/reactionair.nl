@@ -4,7 +4,7 @@ subtitle: 'Van abstract principe tot emotioneel verhaal'
 date: '2023-03-05'
 authors:
     - 'Camille Scholtz'
-themes: 'Religie en Metafysica'
+themes: 'Religie en Wijsbegeerte'
 image: c4dfa932-378b-400e-ad95-d61ceecb59f0.webp
 anchor: Smart
 files:

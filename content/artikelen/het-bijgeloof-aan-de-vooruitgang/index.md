@@ -9,7 +9,7 @@ cited:
 date: "2022-08-09"
 image: aristo_lutkie-980x411.jpg
 subtitle: Een essay uit 1939
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Het bijgeloof aan “De Vooruitgang”
 ---
 Dit essay was oorspronkelijk gepubliceerd door Anton Kerssemakers in het tijdschrift *Aristo-* van maart 1939.[^1]

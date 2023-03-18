@@ -4,7 +4,7 @@ subtitle: 'Geld en de heerschappij van kwantiteit'
 date: '2021-12-24'
 authors:
     - 'Camille Scholtz'
-themes: 'Religie en Metafysica'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 description: 'Het muntgeld van vroeger versus het geld van vandaag: ontdek de diepgaande betekenis van symbolen op munten en hoe het geld van vandaag de dag, inclusief cryptocurrencies, slechts een numerieke hoeveelheid is zonder intrinsieke waarde.'

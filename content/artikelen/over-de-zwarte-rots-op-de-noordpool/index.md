@@ -8,7 +8,7 @@ note: Dit is een vertaling van het essay 'On the Black Rock at the North Pole', 
   origineel is [hier](https://esoterictraditionalism.wordpress.com/2020/08/28/on-the-black-rock-at-the-north-pole/)
   te lezen.
 subtitle: De Noordpool als symbool voor het Paradijs
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Over de Zwarte Rots op de Noordpool
 ---
 

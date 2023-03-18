@@ -6,7 +6,7 @@ files:
 - Christendom
 image: thumb.webp
 subtitle: Over de functie van de 40 dagentijd en het ritueel van het askruis
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Nederland, omarm Aswoensdag
 ---
 

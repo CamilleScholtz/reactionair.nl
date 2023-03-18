@@ -11,7 +11,7 @@ files:
 - Christendom
 image: thumb.webp
 subtitle: Een reactie op ‘Overdenkingen over de parabel van de blinden en de olifant’
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Licht der waarheid
 ---
 

@@ -9,7 +9,7 @@ cited:
 date: "2022-05-11"
 image: thumb.webp
 subtitle: Descartes over verwondering en wijsheid
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Domme vragen
 ---
 

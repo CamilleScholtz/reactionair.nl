@@ -5,7 +5,7 @@ authors:
 date: "2022-12-04"
 image: wekyztlb.jpg-medium.webp
 subtitle: Een afdaling in de goddelijke essentie van de Sinterklaastraditie
-themes: Religie en Metafysica
+themes: Religie en Wijsbegeerte
 title: Sinterklaas, de Indo-Europese Hemelvader?
 ---
 {{< quote
