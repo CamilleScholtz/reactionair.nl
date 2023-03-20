@@ -4,7 +4,7 @@ authors:
 - Tólma
 caption: James Ensor, De val van de opstandige engelen
 tags:
-- ' Immanuel Kant'
+- 'Immanuel Kant'
 - Plato
 - Plotinus
 - Xenophanes
