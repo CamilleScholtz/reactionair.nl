@@ -1,16 +1,17 @@
 ---
-anchor: Center
+title: 'Domme vragen'
+subtitle: 'Descartes over verwondering en wijsheid'
+date: '2022-05-11'
 authors:
-- Tólma
-cited:
-- René Descartes
-- Fjodor Dostojevski
-- Socrates
-date: "2022-05-11"
+    - Tólma
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
-subtitle: Descartes over verwondering en wijsheid
-themes: Religie en Wijsbegeerte
-title: Domme vragen
+anchor: Center
+tags:
+    - 'Fjodor Dostojevski'
+    - 'René Descartes'
+    - Socrates
+    - psychologie
 ---
 
 We vragen wel eens, waar begint de filosofie? In de verwondering, antwoorden we dan. Het is wanneer wat voorheen evident was, object van verwondering wordt. Waar voorheen vanzelfsprekende meningen tot vraag worden in de verwondering, _daar_ begint de filosofie. Deze onschuldige vaststelling heeft menig filosofen doen concluderen dat de filosofie wezenlijk bestaat uit het vragen, en uit niet veel anders. Filosofie _is_ de in vraag stelling van de _doxa_, geboren uit de verwondering. En hoe radicaler, hoe beter. ‘Filosofie is kritiek.’ 
@@ -93,5 +94,3 @@ Wijsheid is de waarheid liefhebben, en op een manier leven die hieraan conform i
 [^1]: Descartes, _De passies van de ziel_, p. 70.
 [^2]: Descartes, _De passies van de Ziel_, p. 78.
 [^3]: Dostojevski, _Aantekeningen uit het Ondergrondse_, p. 149.
-
-

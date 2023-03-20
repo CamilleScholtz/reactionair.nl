@@ -1,16 +1,17 @@
 ---
+title: 'Reactie en restauratie'
+subtitle: 'Een rechts woordenboek'
+date: '2022-01-09'
 authors:
-- Sanura
-tags:
-- Liberalisme
-- Jean-Jacques Rousseau
-date: "2022-01-09"
+    - Sanura
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
-subtitle: Een rechts woordenboek
-themes: Cultuur en Maatschappij
-title: Reactie en restauratie
+anchor: Smart
+tags:
+    - 'Jean-Jacques Rousseau'
+    - Liberalisme
+    - contrarevolutie
 ---
-
 
 Er zijn al veel discussies geweest over de definitie van ‘reactionair’ (evenals ‘conservatief’, ‘liberaal’, ‘socialist’ en zelfs ‘fascist’) en over de betekenis van ‘rechts’. Ik besloot eindelijk eens mijn steentje bij te dragen. Een duidelijke terminologie ondermijnt demagogie. Taal is een levend iets en soms kan dit leiden tot spraakverwarring en het ontstaan van archaÏsmen. Teruggaan naar de oorspronkelijke betekenis van woorden is op zich al reactionair.
 
@@ -23,7 +24,7 @@ Reactionair heeft echter ook een oppositioneel element. De hamvraag is: waar is 
 
 Contrarevolutie heeft altijd een bredere politieke connotatie gehad. Revolutie is ook een politiek bredere term dan het concept progressivisme dat klassiek links is. Contrarevolutie is de ultieme aantijging binnen communistische staten. Die zijn tot stand gekomen door geloof in de revolutie. Een perfecte revolutie. Alles wat daarvan afwijkt, is ketterij… sorry, ik bedoel contrarevolutie. 
 
-Revoluties zijn weliswaar soms ook gebruikt door rechtse groeperingen. Rechtse revolutie kan echter hooguit traditionalistische of conservatieve revolutie betekenen, alhoewel beide stromingen vaak normaal gesproken geassocieerd werden met het concept van ‘de derde positie’.[^1] Belachelijk echter is de notie dat de nationalistische revolutie van de nazi’s ‘rechts’ zou zijn geweest. Alsof het nationalisme is, dat zaken ‘rechts’ maakt (iemand had dat eens aan de Jacobijnen moeten laten weten).
+Revoluties zijn weliswaar soms ook gebruikt door rechtse groeperingen. Rechtse revolutie kan echter hooguit traditionalistische of conservatieve revolutie betekenen, alhoewel beide stromingen vaak normaal gesproken geassocieerd werden met het concept van ‘de derde positie’.[^1] Belachelijk echter is de notie dat de nationalistische revolutie van de nazi’s ‘rechts’ zou zijn geweest. Alsof het nationalisme is, dat zaken ‘rechts’ maakt (iemand had dat eens aan de jacobijnen moeten laten weten).
 
 Reactionairisme kreeg een nauwere betekenis tijdens de negentiende eeuw, maar is ook vaak gewoon als scheldwoord gebruikt. Restaurationisme ook, maar dan vooral binnen de katholieke kerk. De term restaurationist is echter nog accurater. Restaurationisten reageren niet alleen op revoluties, maar ze willen ook tradities, normen, waarden en geloof herstellen. De term traditionalisme is een mooie aanvulling op restaurationisme en reactionairisme. De drie samen geven perfect de ‘rechtse’ mentaliteit aan. Reageren op revolutie, vasthouden aan tradities, en deze in hun eer herstellen.
 

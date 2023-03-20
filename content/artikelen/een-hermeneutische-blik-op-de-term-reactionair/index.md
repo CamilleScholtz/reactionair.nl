@@ -1,23 +1,26 @@
 ---
+title: 'Een hermeneutische blik op de term reactionair'
+subtitle: 'Het belang van betekenis van termen en wat het ons kan leren over een reactionaire toekomst'
+date: '2021-11-11'
 authors:
-- Paars van Grinsterer
-tags:
-- Thierry Baudet
-- Julius Evola
-- Ernst Jünger
-- Erik von Kuehnelt-Leddihn
-- Sid Lukkassen
-- Oswald Spengler
-- Ludwig Wittgenstein
-- Mark Rutte
-date: "2021-11-11"
+    - 'Paars van Grinsterer'
+themes: 'Politiek en Actualiteit'
 image: thumb.webp
-subtitle: Het belang van betekenis van termen en wat het ons kan leren over een reactionaire
-  toekomst
-themes: Politiek en Actualiteit
-title: Een hermeneutische blik op de term reactionair
+anchor: Smart
+tags:
+    - '19e eeuw'
+    - 'Erik von Kuehnelt-Leddihn'
+    - 'Ernst Jünger'
+    - 'Julius Evola'
+    - 'Ludwig Wittgenstein'
+    - 'Mark Rutte'
+    - 'Oswald Spengler'
+    - 'Sid Lukkassen'
+    - 'Thierry Baudet'
+    - christendom
+    - reactionair
+    - taal
 ---
-
 
 In de loop van de 19e eeuw ontstonden er vanuit de reactionaire traditie twee Christelijke politieke stromingen in Nederland. Slechts één daarvan zou het Christelijk-historische geluid in de politiek van Nederland gaan domineren. Wat kunnen we leren van die tijd en welke valkuilen moet de reactionair van vandaag vermijden? Maar eerst; wat betekent reactionair eigenlijk?
 
@@ -83,7 +86,7 @@ Dat het lastig is om een coherent antwoord te vinden op de moderniteit en het li
 
 Alhoewel de neo-reactie dus jargon, energie en kaders biedt aan traditionele en cultuur-reactionairen is het niet een stroming waar zij zich inherent thuis zullen voelen. In het eerdere aangehaalde artikel van Hadderingh lezen we een citaat van Spengler over de Romeinse soldaat die zijn post niet verliet tijdens de uitbarsting van Pompei.[^10] Niet je post verlaten is zeer reactionair, discipline en hiërarchie respecteren is belangrijk voor de reactionair. Ernst Jünger biedt ons echter een andere blik in _Der Waldgang_. Geen antirevolutionair, geen cultuur-reactionair. Een traditionele-reactionair accepteert de huidige _status quo_ niet. Je hoort helemaal niet op die post te staan!
 
-In _Der Walgang_ schetst Jünger hoe een individu binnen een totalitair systeem beter niet mee kan doen aan het oneerlijke spelletje van elites. Jünger beschrijft overigens niet een reactionair maar introduceert het concept van de _“anarch”_. Ik neem aan dat Engels voor de meeste een makkelijkere taal is om te lezen dan het Duits, vandaar deze quote uit de vertaling: _The Forest Passage_:
+In _Der Waldgang_ schetst Jünger hoe een individu binnen een totalitair systeem beter niet mee kan doen aan het oneerlijke spelletje van elites. Jünger beschrijft overigens niet een reactionair maar introduceert het concept van de _“anarch”_. Ik neem aan dat Engels voor de meeste een makkelijkere taal is om te lezen dan het Duits, vandaar deze quote uit de vertaling: _The Forest Passage_:
 
 >The voter finds himself faced with a real dilemma, since he is invited to make a free decision by a power that for its part has no intention of playing by the rules. This same power demands his allegiance, while it survives on breaches of allegiance. He is essentially depositing his honest capital in a crooked bank. Who can then reproach him if he plays along with the questionnaire and keeps his nay to himself? This is his right, not only for reasons of selfpreservation, but also because such conduct can reveal a contempt for the ruling powers that is even superior to a nay. This is not to say that our man’s nay must be lost to the external world. On the contrary — it must only not appear at the location that the ruling powers have picked out for it. There are other places where it can makes things significantly more uncomfortable for these powers — on the white border of an electoral poster, for instance, on a public telephone book, or on the side of a bridge that thousands cross every day. A few words there, such as _“I said no,’_ would be far more effective.
 

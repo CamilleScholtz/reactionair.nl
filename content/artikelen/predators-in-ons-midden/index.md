@@ -10,9 +10,8 @@ authors:
 themes: 'Politiek en Actualiteit'
 image: edf99b3e-f658-41ff-88c7-5c6a504ad7f4.jpg
 anchor: Smart
-files:
+tags:
     - Woke
-cited:
     - 'Pim Lammers'
 ---
 

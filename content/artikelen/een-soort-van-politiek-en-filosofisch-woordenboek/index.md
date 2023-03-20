@@ -1,17 +1,19 @@
 ---
+title: 'Een soort van politiek en filosofisch woordenboek'
+subtitle: "De l'Esprit des Lois 2.0, deel 1"
+date: '2022-04-16'
 authors:
-- Sanura
-cited:
-- Thomas van Aquino
-- Erik von Kuehnelt-Leddihn
-- Plato
-date: "2022-04-16"
+    - Sanura
+themes: 'Politiek en Actualiteit'
 image: thumb.webp
-subtitle: De l'Esprit des Lois 2.0, deel 1
-themes: Politiek en Actualiteit
-title: Een soort van politiek en filosofisch woordenboek
+anchor: Smart
+tags:
+    - 'Erik von Kuehnelt-Leddihn'
+    - Plato
+    - 'Thomas van Aquino'
+    - democratie
+    - monarchie
 ---
-
 
 Montesquieu publiceerde in 1748 zijn _‘De l'Esprit des Lois’_, waarin hij de verschillende regeringsvormen over de millennia heen, van China tot Ethiopië, vergeleek en analyseerde. Hij schreef in de traditie van oudere filosofen en politieke denkers, onder andere Plato en Thomas van Aquino. Nu, meer dan 250 jaar, 2 wereldoorlogen, massale propaganda en een corana-crisis verder, dacht ik: “Waarom zal ik de moderne mens niet een opfriscursus in politieke en staatsterminologie geven? We hebben toch niks beters te doen.”
 
@@ -76,4 +78,4 @@ Meer subtiele verschillen onder deze drie klassieke staats-/regeringsvormen zitt
 
 	Een republiek kan oligarchisch of democratisch zijn. Zelfs autocratie kan passen binnen een republiek als de positie van autocraat geen persoonlijke eer of privilege is. Alhoewel een republiek per definitie niet monarchisch is, kan deze wel aristocratisch zijn. Een republiek kan geleid worden door een erfelijke oligarchie/aristocratie. Ook kan er een aristocratische klasse met erfelijke privileges zijn die deel vormen van een(semi)democratisch staatsstelsel.
 
-	Een republiek waar de president uitvoerende macht uitoefent als beide staatshoofd en regeringsleider is a presidentiële republiek. Als een premier of kanselier als regeringsleider dient is er sprake van een semi-presidentiële republiek. 
+	Een republiek waar de president uitvoerende macht uitoefent als beide staatshoofd en regeringsleider is a presidentiële republiek. Als een premier of kanselier als regeringsleider dient is er sprake van een semi-presidentiële republiek.

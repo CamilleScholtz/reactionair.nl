@@ -1,16 +1,20 @@
 ---
+title: 'Het recht van de sterkste'
+subtitle: 'Over NAVO, Rusland en Oekraïne'
+date: '2022-03-11'
 authors:
-- Robert Lemm
-tags:
-- Thierry Baudet
-- Oekraïne
-date: "2022-03-11"
+    - 'Robert Lemm'
+themes: 'Politiek en Actualiteit'
 image: thumb.webp
-subtitle: Over NAVO, Rusland en Oekraïne
-themes: Politiek en Actualiteit
-title: Het recht van de sterkste
+anchor: Smart
+tags:
+    - Oekraïne
+    - Rusland
+    - 'Thierry Baudet'
+    - 'Tweede Wereldoorlog'
+    - navo
+    - oorlog
 ---
-
 
 _“Poetin is niet degene die aanvalt, maar degene die aangevallen wordt”_, verklaarde de Franse presidentskandidaat Éric Zemmour. Daarop werd hij in een spotprent meteen met Hitler vergeleken. De vergelijking is veelzeggend. Voor heel Europa, onder aanvoering van Amerika, is de Russische president de kwintessens van het kwaad, en daarom verdient hij als oorlogscrimineel berecht te worden door het Internationale Strafhof te Den Haag. De uitspraak van Zemmour kwam erop neer dat Amerika, met bondgenoot _EU_, Poetin al tijden lang heeft zwartgemaakt, geprovoceerd, in een hoek gedreven, met als gevolg de ongelukkige invasie van Oekraïne.
 

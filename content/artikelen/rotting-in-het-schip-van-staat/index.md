@@ -2,7 +2,7 @@
 anchor: Bottom
 authors:
 - Jan-Jaap Moltman
-cited:
+tags:
 - Karl Marx
 - Johan Rudolph Thorbecke
 date: "2022-08-04"

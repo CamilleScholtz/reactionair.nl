@@ -1,17 +1,20 @@
 ---
-anchor: Smart
+title: 'Hitler, het nationaal-socialisme en Wodan'
+subtitle: 'Een opstel van Carl Gustav Jung'
+date: '2022-07-26'
 authors:
-- De redactie
-cited:
-- Carl Jung
-- Friedrich Nietzsche
-date: "2022-07-26"
+    - 'De redactie'
+themes: 'Recensie en Biografie'
 image: franz.jpg
-noindex: true
-subtitle: Een opstel van Carl Gustav Jung
-themes: Recensie en Biografie
-title: Hitler, het nationaal-socialisme en Wodan
+anchor: Smart
+caption: ...
+tags:
+    - 'Bruno Goetz'
+    - 'Carl Jung'
+    - 'Friedrich Nietzsche'
+    - Nostradamus
 ---
+
 *Dit opstel van de bekende Zwitserse psycholoog en esotericus Carl Gustav Jung (1875-1961) verscheen voor het eerst in 1936 onder de titel 'Wotan'*.
 
 {{< quote

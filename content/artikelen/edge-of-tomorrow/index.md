@@ -1,16 +1,19 @@
 ---
+title: '‘Edge of Tomorrow’'
+subtitle: 'De Futuro-Fundamentalistische Revolutie, deel 7'
+date: '2022-02-07'
 authors:
-- Alexander Wolfheze
-date: "2022-02-07"
+    - 'Alexander Wolfheze'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
-subtitle: De Futuro-Fundamentalistische Revolutie, deel 7
-themes: Cultuur en Maatschappij
-title: ‘Edge of Tomorrow’
+anchor: Smart
 tags:
-- Corona
-- Arthur Schopenhauer
+    - 'Arthur Schopenhauer'
+    - Corona
+    - 'black lives matter'
+    - liberalisme
+    - woke
 ---
-
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/die-tyranny-verdrijven/) het vorige deel._
 

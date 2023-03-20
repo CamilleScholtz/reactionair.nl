@@ -1,29 +1,33 @@
 ---
+title: 'Van humanisme naar nihilisme'
+subtitle: 'De eclips van de seculiere ethiek'
+date: '2022-04-01'
 authors:
-- Magnus Bradshaw
-date: "2022-04-01"
+    - 'Magnus Bradshaw'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
-note: 'Dit is een vertaling van het essay ''From Humanism to Nihilism: The Eclipse
-  of Secular Ethics'', het origineel is [hier](https://479141-1506839-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/04/CMCPapers6-HumanismtoNihilism.pdf)
-  te lezen.'
+anchor: Smart
 tags:
-- Liberalisme
-- Theodor Adorno
-- Charles Darwin
-- Fjodor Dostojevski
-- Sigmund Freud
-- John Gray
-- David Hume
-- Aldous Huxley
-- Immanuel Kant
-- Karl Marx
-- Friedrich Nietzsche
-- Jean-Jacques Rousseau
-- Roger Scruton
-- William Shakespeare
-subtitle: De eclips van de seculiere ethiek
-themes: Religie en Wijsbegeerte
-title: Van humanisme naar nihilisme
+    - 'Aldous Huxley'
+    - 'Charles Darwin'
+    - 'David Hume'
+    - 'Fjodor Dostojevski'
+    - 'Friedrich Nietzsche'
+    - 'Immanuel Kant'
+    - 'Jean-Jacques Rousseau'
+    - 'John Gray'
+    - 'Karl Marx'
+    - Liberalisme
+    - 'Roger Scruton'
+    - 'Sigmund Freud'
+    - 'Theodor Adorno'
+    - 'William Shakespeare'
+    - islam
+    - materialisme
+    - nihilisme
+    - verlichting
+    - verval
+note: "Dit is een vertaling van het essay 'From Humanism to Nihilism: The Eclipse of Secular Ethics', het origineel is [hier](https://479141-1506839-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/04/CMCPapers6-HumanismtoNihilism.pdf) te lezen."
 ---
 
 {{< basmala >}}

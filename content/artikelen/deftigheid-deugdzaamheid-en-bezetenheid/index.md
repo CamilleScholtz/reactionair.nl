@@ -1,19 +1,21 @@
 ---
+title: 'Deftigheid, deugdzaamheid en bezetenheid'
+subtitle: 'Overweging over het mensbeeld van de meeste mensen'
+date: '2022-04-21'
 authors:
-- Walt van Toor
-cited:
-- Rutger Bregman
-- Jacues Ellul
-- Immanuel Kant
-- Robert Lemm
-- Mark Rutte
-date: "2022-04-21"
+    - 'Walt van Toor'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
-subtitle: Overweging over het mensbeeld van de meeste mensen
-themes: Cultuur en Maatschappij
-title: Deftigheid, deugdzaamheid en bezetenheid
+anchor: Smart
+tags:
+    - 'Immanuel Kant'
+    - 'Jacues Ellul'
+    - 'Mark Rutte'
+    - 'Robert Lemm'
+    - 'Rutger Bregman'
+    - deugen
+    - ethiek
 ---
-
 
 Het verdient de moeite om de door De Melancholieke Nar beschreven ‘misanthrope verleiding’ nader te bestuderen.[^1] Zoals bij veel _bestsellers_ gaat het bij het drukwerk dat De Nar aan bod brengt om platgetreden paden vermomd als nieuwlichterij. Dat mag ons niet verbazen. Dat het verwaarloosde pad in eerste instantie zo weinig herkenning oproept hoeft ons ook niet te verbazen; _pro bonis mala amplectimur_ schrijft Seneca – we omarmen het slechte als was het het goede. Van nature neigt de moderne mens er niet naar om onderscheid te maken tussen het een of het ander, laat staan om waarde toe te kennen aan zulk onderscheid. In dit geval gaat het bovendien om historische waarde; de schrijver van het boek in kwestie is historicus, zijn aandacht gaat uit naar historische gebeurtenissen. 
 

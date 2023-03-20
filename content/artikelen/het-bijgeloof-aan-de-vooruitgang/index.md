@@ -2,7 +2,7 @@
 anchor: Smart
 authors:
 - De redactie
-cited:
+tags:
 - René Guénon
 - Anton Kerssemakers
 - Jean-Jacques Rousseau

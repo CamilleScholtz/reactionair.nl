@@ -1,17 +1,16 @@
 ---
-anchor: Center
+title: 'Over de wraakzucht der tarantula’s'
+subtitle: 'Nietzsches negentiende-eeuwse blik op social justice warriors'
+date: '2022-05-26'
 authors:
-- De redactie
-date: "2022-05-26"
-tags:
-- Woke
-- Friedrich Nietzsche
+    - 'De redactie'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
-subtitle: Nietzsches negentiende-eeuwse blik op social justice warriors
-themes: Cultuur en Maatschappij
-title: Over de wraakzucht der tarantula’s
+anchor: Center
+tags:
+    - 'Friedrich Nietzsche'
+    - Woke
 ---
-
 
 Dit artikel is een hoofdstuk uit _Also sprach Zarathustra_ van Friedrich Nietzsche:
 

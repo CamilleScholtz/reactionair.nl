@@ -2,7 +2,7 @@
 anchor: Smart
 authors:
 - Tom van Groningen
-cited:
+tags:
 - Aristoteles
 date: "2022-09-04"
 image: a.jpg

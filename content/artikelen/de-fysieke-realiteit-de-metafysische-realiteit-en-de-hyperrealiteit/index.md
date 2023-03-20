@@ -1,13 +1,15 @@
 ---
+title: 'De fysieke realiteit, de metafysische realiteit en de hyperrealiteit'
+subtitle: 'De drie-eenheid van werkelijkheid'
+date: '2022-05-21'
 authors:
-- Tom van Groningen
-date: "2022-05-21"
+    - 'Tom van Groningen'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
-subtitle: De drie-eenheid van werkelijkheid
-themes: Religie en Wijsbegeerte
-title: De fysieke realiteit, de metafysische realiteit en de hyperrealiteit
+anchor: Smart
+tags:
+    - metafysica
 ---
-
 
 _Wat is de realiteit?_ Dit lijkt een uitermate voor de hand liggende vraag en logisch en eenvoudig te beantwoorden. Echter zo simpel ligt het niet. Wat de realiteit is, dat is mede afhankelijk van hoe we deze ervaren. In wat voor gemoedstoestand zijn we? Ervaren we de realiteit direct om ons heen? Of kijken we naar gebeurtenissen aan de andere kant van de wereld via het televisiescherm of via het schermpje van een mobiele telefoon?
 
@@ -26,4 +28,4 @@ Het moment dat ik me daadwerkelijk bewust werd van het parallel bestaan van zowe
 
 Wat heeft een mens nodig om gelukkig en gezond te zijn? En in dit geval, welke realiteit is er nodig om met beide voeten op de grond te blijven en de geest gezond en helder te houden? Ik denk dat een evenwicht tussen de fysieke realiteit en de metafysische realiteit onontbeerlijk zijn voor een gezonde geest en ziel. De fysieke realiteit om hem gegrond te houden met het overal om hem heen aanwezige en tastbare. Het metafysische om hem geestelijke rust en zingeving te verschaffen. Een regelmatig uitstapje naar het innerlijk ervaren van deze metafysische werkelijkheid ervaar ikzelf in ieder geval als louterend, als een ontgiftingskuur van de ziel.
 
-En die hyperrealiteit dan? De waan van de dag die tot ons komt via de media, via de marketingcampagnes van de multinationals en de machtige spelers van het internationale grootkapitaal? Die hinderlijke ruis tussen mijn oren? Ik kan het missen als kiespijn. 
+En die hyperrealiteit dan? De waan van de dag die tot ons komt via de media, via de marketingcampagnes van de multinationals en de machtige spelers van het internationale grootkapitaal? Die hinderlijke ruis tussen mijn oren? Ik kan het missen als kiespijn.

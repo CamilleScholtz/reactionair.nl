@@ -1,16 +1,19 @@
 ---
-anchor: Smart
+title: 'Civitas en civilisatie'
+subtitle: 'Het belang van vriendschap en loyaliteit'
+date: '2022-07-03'
 authors:
-- De Melancholieke Nar
-date: "2022-07-03"
+    - 'De Melancholieke Nar'
+themes: 'Cultuur en Maatschappij'
 image: discurso_funebre_pericles.png
-note: Dit is een vertaling en bewerking van een Twitter-draad van [Mac Finn](https://twitter.com/ogmios).
-subtitle: Het belang van vriendschap en loyaliteit
-themes: Cultuur en Maatschappij
-title: Civitas en civilisatie
+anchor: Smart
 tags:
-- China
-- Bronze Age Pervert
+    - Beschaving
+    - 'Bronze Age Pervert'
+    - 'Romeinse rijk'
+    - Vergilius
+    - koryos
+note: 'Dit is een vertaling en bewerking van een Twitter-draad van [Mac Finn](https://twitter.com/ogmios).'
 ---
 
 {{< quote

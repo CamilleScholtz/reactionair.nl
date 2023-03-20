@@ -1,16 +1,17 @@
 ---
+title: 'Woke is NU ECHT te ver gegaan!'
+subtitle: 'Of toch niet?'
+date: '2021-10-15'
 authors:
-- Camille Scholtz
-date: "2021-10-15"
-tags:
-- Woke
-- Liberalisme
-image: thumb.webp
-subtitle: Of toch niet?
+    - 'Camille Scholtz'
 themes: Klikaas
-title: Woke is NU ECHT te ver gegaan!
+image: thumb.webp
+anchor: Smart
+tags:
+    - Liberalisme
+    - Woke
+    - lgbt
 ---
-
 
 _GeenStijl_, _TPO_, Geerten Waling, Afshin Ellian, Wierd Duk, Roderick Veelo. Ik kan nog wel even doorgaan, _boomers_ die artikel na artikel schrijven over hoe _woke_ nu _ECHT_ te ver is gegaan. Maar is dat ook echt zo? Wat is de oorsprong van _woke_? Laten we dit uitzoeken!
 
@@ -40,4 +41,3 @@ Het liberalisme heeft allerlei methodieken uitgevonden om oude, onderdrukkende (
 [^3]: Camille Scholtz, _[De mythe van de neutraliteit](https://reactionair.nl/artikelen/de-mythe-van-de-neutraliteit/)_.
 [^4]: Roelof Bouwman, _[Universiteit van Amsterdam is woke geworden. Stop dus de financiering](https://www.ewmagazine.nl/nederland/opinie/2021/10/uva-is-woke-geworden-stop-dus-de-financiering-849529/)_.
 [^5]: Geerten Waling, _[Totale gekte regeert op Universiteit van Amsterdam](https://www.ewmagazine.nl/opinie/opinie/2018/10/uva-leaks-hoe-de-identiteitspolitiek-er-wordt-opgedrongen-648984/)_.
-

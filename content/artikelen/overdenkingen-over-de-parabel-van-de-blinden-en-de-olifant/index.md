@@ -1,15 +1,18 @@
 ---
+title: 'Overdenkingen over de parabel van de blinden en de olifant'
+subtitle: 'Waarom het streven naar objectiviteit een doodlopend pad is, deel 1'
+date: '2022-01-27'
 authors:
-- De Melancholieke Nar
-cited:
-- Thomas van Aquino
-- Immanuel Kant
-- Oswald Spengler
-date: "2022-01-27"
+    - 'De Melancholieke Nar'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
-subtitle: Waarom het streven naar objectiviteit een doodlopend pad is, deel 1
-themes: Religie en Wijsbegeerte
-title: Overdenkingen over de parabel van de blinden en de olifant
+anchor: Smart
+tags:
+    - 'Immanuel Kant'
+    - 'Oswald Spengler'
+    - 'Thomas van Aquino'
+    - faust
+    - metafysica
 ---
 
 ### Kentheorie in het westen...

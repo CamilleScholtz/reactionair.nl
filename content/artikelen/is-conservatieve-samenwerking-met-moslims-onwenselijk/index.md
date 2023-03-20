@@ -1,19 +1,21 @@
 ---
+title: 'Is conservatieve samenwerking met moslims onwenselijk?'
+subtitle: 'Een reactie op ‘tegen een politiek verbond met moslims’'
+date: '2022-01-15'
 authors:
-- Dennis Honing
-date: "2022-01-15"
-tags:
-- Islam
-- Conservatieve Alliantie
-- René Guénon
-- Martin Lings
-- Hamza Yusuf
+    - 'Dennis Honing'
+themes: 'Politiek en Actualiteit'
 image: thumb.webp
-subtitle: Een reactie op ‘tegen een politiek verbond met moslims’
-themes: Politiek en Actualiteit
-title: Is conservatieve samenwerking met moslims onwenselijk?
+anchor: Smart
+tags:
+    - 'Conservatieve Alliantie'
+    - 'Hamza Yusuf'
+    - Islam
+    - 'Martin Lings'
+    - 'René Guénon'
+    - immigratie
+    - 'jordan peterson'
 ---
-
 
 Ik heb het stuk _'Tegen een politiek verbond met moslims'_ op _Heraut_ met veel interesse gelezen.[^1] Het is mooi om te zien dat de ideeen rond een conservatieve alliantie met moslims gaat leven, en dermate zo dat men erover denkt, spreekt en schrijft. 
 
@@ -21,7 +23,7 @@ Het stuk eindigt met een oproep dat vooral Germanen zelf hun problemen moeten op
 
 Ga je die negeren door jezelf zoals in Amerika terug te trekken naar het platteland? Dat de steden worden afgestoten aan immigranten en kleuringen? 
 
-Ga je die elimineren zoals de nationaal socialisten? 
+Ga je die elimineren zoals de nationaal-socialisten? 
 
 Neem daar eerst een helder standpunt over in alvorens te mijmeren over de redding van de etnische Germanen in Nederland. 
 

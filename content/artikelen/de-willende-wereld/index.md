@@ -1,26 +1,25 @@
 ---
-anchor: Center
+title: 'De willende wereld'
+subtitle: 'Enkele woorden als voorbereiding op een lezing'
+date: '2022-06-23'
 authors:
-- Anton Prins
-caption: Portretfoto van Arthur Schopenhauer, Johannes Schäfer
-cited:
-- George Berkeley
-- Johann Wolfgang von Goethe
-- Joris van Rossum
-- Immanuel Kant
-- Friedrich Nietzsche
-- Arthur Schopenhauer
-- William Shakespeare
-- Baruch Spinoza
-- Plato
-date: "2022-06-23"
+    - 'Anton Prins'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
-note: Het volgende stuk is geschreven ter gelegendheid van de lezing van de heer Joris
-  van Rossum van 24 juni 2022. Mijn hoop is dat dit kan dienen als voorbereidende
-  lectuur voor geïnteresseerden die deze lezing bij zullen wonen.
-subtitle: Enkele woorden als voorbereiding op een lezing
-themes: Religie en Wijsbegeerte
-title: De willende wereld
+anchor: Center
+caption: 'Portretfoto van Arthur Schopenhauer, Johannes Schäfer'
+tags:
+    - 'Arthur Schopenhauer'
+    - 'Baruch Spinoza'
+    - 'Friedrich Nietzsche'
+    - 'George Berkeley'
+    - 'Immanuel Kant'
+    - 'Johann Wolfgang von Goethe'
+    - 'Joris van Rossum'
+    - Plato
+    - 'William Shakespeare'
+    - metafysica
+note: 'Het volgende stuk is geschreven ter gelegendheid van de lezing van de heer Joris van Rossum van 24 juni 2022. Mijn hoop is dat dit kan dienen als voorbereidende lectuur voor geïnteresseerden die deze lezing bij zullen wonen.'
 ---
 
 *“De wereld is mijn voorstelling”*;[^1] zo vangt het bijna duizend woorden tellende Hauptwerk van de Duitse filosoof Arthur Schopenhauer aan. Deze onschuldig ogende openingszin vat, samen met de vergezellende hypothese van de wereld als wil,  Schopenhauers filosofie effectief samen. Zo ligt in zekere zin reeds in de titel van dit werk —*Die Welt als Wille und Vorstellung*— zijn gehele filosofie besloten.

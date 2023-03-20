@@ -1,15 +1,18 @@
 ---
-authors:
-- ‘Het Dorp’ Genieter
-tags:
-- Thierry Baudet
-date: "2022-03-02"
-image: thumb.webp
-subtitle: De TikTok-isering van het debat
-themes: Klikaas
 title: 'TL;DL: too long, didn’t listen'
+subtitle: 'De TikTok-isering van het debat'
+date: '2022-03-02'
+authors:
+    - '‘Het Dorp’ Genieter'
+themes: Klikaas
+image: thumb.webp
+anchor: Smart
+tags:
+    - Oekraïne
+    - Rusland
+    - 'Thierry Baudet'
+    - democratie
 ---
-
 
 >de·bat (het; o; meervoud: debatten)<br />
 >gedachtewisseling, bespreking van het voor en tegen

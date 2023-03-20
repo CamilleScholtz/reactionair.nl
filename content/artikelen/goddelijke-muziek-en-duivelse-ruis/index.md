@@ -1,13 +1,18 @@
 ---
-anchor: Smart
+title: 'Goddelijke muziek en duivelse ruis'
+subtitle: 'Een parabel'
+date: '2022-06-29'
 authors:
-- Tom van Groningen
-date: "2022-06-29"
+    - 'Tom van Groningen'
+themes: 'Religie en Wijsbegeerte'
 image: cosmos-7.jpg
-subtitle: Een parabel
-themes: Religie en Wijsbegeerte
-title: Goddelijke muziek en duivelse ruis
+anchor: Smart
+tags:
+    - 'Goed en kwaad'
+    - Muziek
+    - Parabel
 ---
+
 Ooit, zo stel ik me voor, schiep God hemel en aarde en alle levende wezens erin met ons mensen als de kroon op de schepping.
 
 We waren zowel gezegend als belast met het vermogen om de goddelijke muziek te horen, het bewuste besef onderdeel uit te maken van een door God gegeven menselijke ervaring.

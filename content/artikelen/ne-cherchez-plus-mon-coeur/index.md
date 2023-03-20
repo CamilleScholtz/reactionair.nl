@@ -7,7 +7,7 @@ authors:
 themes: 'Religie en Wijsbegeerte'
 image: the-lovers-1928-1-.jpg
 anchor: Smart
-cited:
+tags:
     - 'Baruch Spinoza'
     - 'Theodor Adorno'
 ---

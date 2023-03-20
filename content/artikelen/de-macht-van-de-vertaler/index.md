@@ -1,7 +1,7 @@
 ---
 authors:
 - De redactie
-cited:
+tags:
 - Socrates
 date: "2022-09-09"
 image: native.jpg

@@ -1,16 +1,17 @@
 ---
+title: 'Zal ik je vertellen waar degenen zijn die in zichzelf geloven?'
+subtitle: 'Enkele fragmenten uit Orthodoxie door G.K. Chesterton die mij zijn opgevallen'
+date: '2022-03-09'
 authors:
-- Jurbin van Hooff
-tags:
-- G. K. Chesterton
-- Christendom
-date: "2022-03-09"
+    - 'Jurbin van Hooff'
+themes: 'Recensie en Biografie'
 image: thumb.webp
-subtitle: Enkele fragmenten uit Orthodoxie door G.K. Chesterton die mij zijn opgevallen
-themes: Recensie en Biografie
-title: Zal ik je vertellen waar degenen zijn die in zichzelf geloven?
+anchor: Smart
+tags:
+    - Christendom
+    - 'G. K. Chesterton'
+    - liberalisme
 ---
-
 
 _Orthodoxie_ is een boek gepubliceerd in 1908 door Gilbert Keith Chesterton (1874-1936). _Orthodoxie_ werd door Chesterton geschreven toen hij agnost was, die zelf verveeld werd door de modes van zijn tijd die we vandaag de dag ook steeds zien terugkomen: materialisme, scepticisme, rationalisme, determinisme, positivisme, hedonisme en socialisme. Chesterton valt deze moderne “denkstromen” op een spraakmakende wijze aan en probeert aan te tonen waarom het Christendom superieur is aan deze denkstromen. Er zal in deze recensie een weergave worden gegeven van enkele fragmenten uit _Orthodoxie_ die mij zijn opgevallen.
 
@@ -33,4 +34,4 @@ Chesterton was lange tijd ook zelf een rationalist, maar ziet dat in de Christel
 [^2]: G.K. Chesterton (1908). _Orthodoxie_ (p. 17).
 [^3]: Een uit de zestiende eeuw stammende straatparade in Londen, die tot op de dag van vandaag gehouden wordt.
 [^4]: G.K. Chesteron (1908). _Orthodoxie_ (p. 50).
-[^5]: G.K. Chesterton (1908). _Orthodoxie_ (p. 64 & 65). 
+[^5]: G.K. Chesterton (1908). _Orthodoxie_ (p. 64 & 65).

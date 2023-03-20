@@ -1,17 +1,19 @@
 ---
-anchor: Top
+title: 'Gekkigheid over Gideon'
+subtitle: 'Wet, recht en geweld… wie weet nog wat?'
+date: '2022-07-23'
 authors:
-- Sanura
-tags:
-- Johan Rudolph Thorbecke
-- Thierry Baudet
-- Boeren
-date: "2022-07-23"
+    - Sanura
+themes: 'Politiek en Actualiteit'
 image: 900.jpeg
-subtitle: Wet, recht en geweld… wie weet nog wat?
-themes: Politiek en Actualiteit
-title: Gekkigheid over Gideon
+anchor: Top
+tags:
+    - Boeren
+    - FVD
+    - 'Johan Rudolph Thorbecke'
+    - 'Thierry Baudet'
 ---
+
 Terwijl Nederland (Europa en eigenlijk misschien wel de meerderheid van de wereld) verder en verder lijken af te glijden naar haat en burgeroorlog, vervagen en verdwijnen alle zekerheden op één na: niemand weet echt nog wat de spelregels zijn.
 
 Gideon van Meijeren haalde het wetboek van strafrecht aan om geweld van boeren ter verdediging van hun bezit te verdedigen. Nu wordt er aangifte gedaan.[^1] Maar als de boeren worden bedreigd en hun recht op privébezit wordt geschonden, mogen burgers zich dan niet verdedigen tegen de staat?  Wanneer is geweld gerechtvaardigd? Wat is de hoogste wet en wat zijn absolute mensenrechten? Als hier geen consensus over is, bevinden we ons dan niet al de facto in een burgeroorlog?  Democratie, vrijheid en zelfs fatsoen, zijn niet meer vanzelfsprekende of duidelijk gedefinieerde concepten. Wat nu?  Bestaan er onveranderlijke rechten? Hebben Nederlanders recht op bestaanszekerheid? Zijn we onderdanen of vrije burgers?

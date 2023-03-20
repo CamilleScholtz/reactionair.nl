@@ -1,17 +1,19 @@
 ---
-authors:
-- De Melancholieke Nar
-cited:
-- Michel Foucault
-- Friedrich Nietzsche
-- Karl Popper
-date: "2022-01-08"
-image: thumb.webp
-subtitle: Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?
-themes: Politiek en Actualiteit
 title: 'Popper: een afrekening'
+subtitle: 'Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?'
+date: '2022-01-08'
+authors:
+    - 'De Melancholieke Nar'
+themes: 'Politiek en Actualiteit'
+image: thumb.webp
+anchor: Smart
+tags:
+    - 'Friedrich Nietzsche'
+    - 'Karl Popper'
+    - 'Michel Foucault'
+    - consumentisme
+    - wetenschap
 ---
-
 
 ### I: wetenschap
 

@@ -1,16 +1,17 @@
 ---
-anchor: Top
+title: 'De klimaatzonde'
+subtitle: 'Hoe de hamartiologie overleeft in een modern tijdperk'
+date: '2022-04-23'
 authors:
-- Jan-Willem Veldhuizen
-date: "2022-04-23"
-tags:
-- Klimaatverandering
+    - 'Jan-Willem Veldhuizen'
+themes: 'Politiek en Actualiteit'
 image: thumb.webp
-subtitle: Hoe de hamartiologie overleeft in een modern tijdperk
-themes: Politiek en Actualiteit
-title: De klimaatzonde
+anchor: Top
+tags:
+    - Klimaatverandering
+    - klimaat
+    - zonde
 ---
-
 
 Rabobank gaat transacties koppelen aan CO2-uitstoot.[^1] Wie voortaan een betaling doet, wordt geattendeerd op de CO2-uitstoot van zijn aankoop. Dit allemaal, om klanten bewust te maken van hun consumptiegedrag, om ze een duwtje in de goede richting te geven, zoals Rabobank dit zelf zegt. Daar blijft het naar alle waarschijnlijkheid niet bij. Mastercard en Visa hebben al kredietkaarten die automatisch blokkeren als de CO2-norm overschreden wordt. Menig persoon zal zich afvragen: waarom moet een bank mij de les lezen over welke uitgaven ik doe? De Rabobank, die investeerde in bedrijven die wapens leveren aan bijvoorbeeld Saoedi-Arabië.[^2] De Rabobank die investeert in palmoliebedrijven in Brazilië, waar miljoenen hectares regenwoud worden gekapt voor plantages. Juist deze bank zou u moeten prikkelen tot verantwoorde uitgaven voor een betere wereld. Volgens Adam Smith, de 18e eeuwse econoom zou een bank, net als iedere onderneming zuiver uit eigenbelang handelen. Niets is minder waar. Zelfs de rechtsgeoriënteerde libertariër die gelooft dat het kapitaal aan zíjn kant staat, komt van de koude kermis thuis. Sinds de ineenstorting van de Sovjetunie is die noodzaak allang verdwenen. 
 

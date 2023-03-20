@@ -1,15 +1,19 @@
 ---
-anchor: Smart
+title: 'Een crisis van grootsheid'
+subtitle: 'Tegen groei om de groei'
+date: '2022-07-05'
 authors:
-- Eco al-Hollandi
-cited:
-- Karl Marx
-date: "2022-07-05"
+    - 'Eco al-Hollandi'
+themes: 'Cultuur en Maatschappij'
 image: krauze-006.jpg.jpg
-subtitle: Tegen groei om de groei
-themes: Cultuur en Maatschappij
-title: Een crisis van grootsheid
+anchor: Smart
+tags:
+    - Economie
+    - 'Karl Marx'
+    - 'Leopold Kohr'
+    - 'Paul Kingsnorth'
 ---
+
 Rechts wordt in politieke zin vaak op een lijn gesteld met kapitalisme, grote multinationals, een sterke groeiend BNP en de uitbreiding van macht, al zal de gemiddelde lezer van *Reactionair.nl* zich inmiddels wel ontdaan hebben van deze gedachte. Met het vergeten van de grote zaken zoals God, monarchie, volk en/of andere overkoepelende ideen en instituten die groter waren dan het individu hebben we de ineenstorting van de samenleving in gang gezet. Doordat we ons zijn gaan richten op het individu zijn we te klein gaan denken en zijn we vervallen tot een schim van de grootse natie die we ooit waren. We zouden de grote zaken dus weer moeten omarmen, opdat wij als mensheid weer verder kunnen groeien en onszelf kunnen ontstijgen. 
 
 Maar wat als het juist dit groots denken is dat aan de grondslag ligt van het verval van de samenleving? Het is precies deze gedachte welke Paul Kingsnorth in zijn artikel *A Crisis of Bigness* verwoordt en welke mij als lezer anders heeft laten denken over het belang en het gevaar van grootsheid. Waar de eerdergenoemde zaken zoals God en volk uitermate belangrijk zijn, betekent dit niet dat de mens in alle facetten grootsheid en groei hoeft na te streven. De hang naar grootsheid kan gauw grotesk worden, zoals Kingsnorth haarfijn beargumenteert in zijn artikel. 
@@ -20,7 +24,7 @@ Het artikel, oorspronkelijk geschreven voor *The Guardian* in 2011 is vandaag de
 
 Leven ten tijde van het verval van een maatschappij is een opmerkelijke ervaring. Wellicht is het meest verbazingwekkende nog wel dat er niemand is die daadwerkelijk wil toegeven dat we te maken hebben met  verval. De resultaten van een halve eeuw aan groei gestimuleerd door schulden spreken inmiddels voor zichzelf. Maar zelfs te midden van ineenstortende economien en uiteengescheurde samenlevingen blijven onze gekozen leiders koers houden. Niemand wil de eerste zijn om toe te geven dat het schip onvermijdelijk zinkende is.
 
-Het moeten aanhoren van een politiek leider heden ten dage is te vergelijken met het luisteren naar de preek van een priester die reeds lange tijd zijn geloof is verloren maar dit wanhopig blijft ontkennen, zelfs tegenover zichzelf. Zie hoe figuren als Nick Clegg, David Cameron en Ed Miliband clich na clich eruit blijven gooien richting partijgetrouwen. Hoor hoe een Angela Merkel, een Nicolas Sarkozy of een George Papandreou blijven pretenderen dat alles binnen de eurozone goed en wel is en zal blijven. Bestudeer de gezichtsuitdrukkingen van Barack Obama of Ben Bernanke wanneer zij praten over groei, alsof het een afgod is die men enkel tevreden kan  houden door nog meer geld in zijn allesverslindende bek te werpen.
+Het moeten aanhoren van een politiek leider heden ten dage is te vergelijken met het luisteren naar de preek van een priester die reeds lange tijd zijn geloof is verloren maar dit wanhopig blijft ontkennen, zelfs tegenover zichzelf. Zie hoe figuren als Nick Clegg, David Cameron en Ed Miliband cliché na cliché eruit blijven gooien richting partijgetrouwen. Hoor hoe een Angela Merkel, een Nicolas Sarkozy of een George Papandreou blijven pretenderen dat alles binnen de eurozone goed en wel is en zal blijven. Bestudeer de gezichtsuitdrukkingen van Barack Obama of Ben Bernanke wanneer zij praten over groei, alsof het een afgod is die men enkel tevreden kan  houden door nog meer geld in zijn allesverslindende bek te werpen.
 
 Maar in tijden zoals de onze zullen de meeste mensen opzoek gaan naar andere antwoorden. Tijden van verval zijn ook tijden van herorintatie, waarbij gedachtegoed dat ooit als extreem werd gezien en/of zich aan de rand van het politieke spectrum begaf, een centralere rol zal innemen. Wanneer de zaken ineenstorten, is de appetijt voor nieuwe, andere manieren enorm en er zijn genoeg personen die deze honger maar wat graag willen stillen met hun grote ideen waar zij nu meer ruimte voor zien.
 
@@ -50,7 +54,7 @@ Kohr beweerde dat maatschappelijke problemen niet ontstonden door specifieke vor
 
 Afleidend uit de geschiedenis demonstreerde Kohr dat wanneer mensen te veel macht hebben, onder welk systeem dan ook, zij dit zullen misbruiken. De kunst was dan ook het beperken van de macht die een enkel individu, organisatie of overheid zou kunnen bezitten. De oplossing voor de problemen in de wereld was niet meer eenheid maar meer verdeling. De wereld zou moeten opgebroken worden in kleine staten, relatief gelijk in grootte en macht, welke elkaar in evenwicht zouden kunnen houden en op deze manier groei zouden kunnen limiteren. 
 
-Kleine staten en economien bezaten veel meer flexibiliteit en waren beter bestand tegen economische onrust, hadden minder mogelijkheden om grote oorlogen te starten en bezaten een grotere verantwoordelijkheid tegenover hun bevolking. Daarnaast waren zij ook creatiever. In een vluchtige beschrijving van middeleeuws en vroeg-modern Europa beargumenteert *The Breakdown of Nations* op een overtuigende manier dat vele van de historische hoogtepunten uit de Westerse cultuur  van kathedralen tot aan kunst en wetenschappelijke ontdekkingen  het product waren van soortgelijke kleine staten.
+Kleine staten en economieën bezaten veel meer flexibiliteit en waren beter bestand tegen economische onrust, hadden minder mogelijkheden om grote oorlogen te starten en bezaten een grotere verantwoordelijkheid tegenover hun bevolking. Daarnaast waren zij ook creatiever. In een vluchtige beschrijving van middeleeuws en vroeg-modern Europa beargumenteert *The Breakdown of Nations* op een overtuigende manier dat vele van de historische hoogtepunten uit de Westerse cultuur  van kathedralen tot aan kunst en wetenschappelijke ontdekkingen  het product waren van soortgelijke kleine staten.
 
 Om de voorspellende kracht van Kohrs visie beter te begrijpen kan men *The Breakdown of Nations* het beste zelf lezen. Delen van het boek zullen bij velen herkenning oproepen. Grootsheid, zo voorspelde Kohr, kan enkel tot nog meer grootsheid leiden omdat al datgene wat bepaalde grenzen ontgroeit, te maken zal krijgen met het probleem van onhandelbare proporties. Wanneer deze grenzen worden ontgroeid kan men enkel nog meer macht verzamelen om ervoor te zorgen dat de eerder verkregen macht weer handelbaar wordt. Groei zal verworden tot een kanker die niet meer te remmen valt, totdat er slechts n mogelijk eindstation is: totale ineenstorting. 
 

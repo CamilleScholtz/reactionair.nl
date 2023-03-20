@@ -1,16 +1,15 @@
 ---
+title: 'Wil de echte homogenezer opstaan?'
+subtitle: 'Hoe we wegkijken bij fysiek en mentaal verminken bij genderdysforie maar rituelen en bidden illegaal verklaren'
+date: '2022-02-14'
 authors:
-- Paars van Grinsterer
-date: "2022-02-14"
+    - 'Paars van Grinsterer'
+themes: 'Politiek en Actualiteit'
 image: thumb.webp
-subtitle: Hoe we wegkijken bij fysiek en mentaal verminken bij genderdysforie maar
-  rituelen en bidden illegaal verklaren
-themes: Politiek en Actualiteit
-title: Wil de echte homogenezer opstaan?
+anchor: Top
 tags:
-- Woke
+    - Woke
 ---
-
 
 Vandaag kwam naar buiten dat _D66_ en de _VVD_, samen met _PvdA_, _GroenLinks_, _SP_ en de _PvdD_ en wetsvoorstel zullen indienen die homogenezing illegaal maakt op straffe van hoge boetes, gevangenisstraf en potentieel ontheffing uit een ambt.
 

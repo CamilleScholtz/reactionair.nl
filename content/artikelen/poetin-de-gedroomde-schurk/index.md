@@ -1,15 +1,16 @@
 ---
+title: 'Poetin, de gedroomde schurk'
+subtitle: 'Tien zaken waar Poetin niet verantwoordelijk voor is'
+date: '2022-02-26'
 authors:
-- De redactie
-date: "2022-02-26"
-image: thumb.webp
-subtitle: Tien zaken waar Poetin niet verantwoordelijk voor is
+    - 'De redactie'
 themes: Klikaas
-title: Poetin, de gedroomde schurk
+image: thumb.webp
+anchor: Smart
 tags:
-- Vladimir Poetin
+    - Rusland
+    - 'Vladimir Poetin'
 ---
-
 
 In de westerse media wordt Vladimir Poetin afgeschilderd als de ultieme snoodaard. Hij zou een conservatieve, toxisch masculiene, militaristische dictator en een soort van trol op het geopolitieke toneel zijn.
 

@@ -1,16 +1,16 @@
 ---
-anchor: Center
+title: 'Schönberg de behoudende'
+subtitle: 'De meester en de moderniteit'
+date: '2022-05-09'
 authors:
-- Anton Prins
-cited:
-- Theodor Adorno
-date: "2022-05-09"
+    - 'Anton Prins'
+themes: 'Recensie en Biografie'
 image: thumb.webp
-subtitle: De meester en de moderniteit
-themes: Recensie en Biografie
-title: Schönberg de behoudende
+anchor: Center
+tags:
+    - 'Theodor Adorno'
+    - muziek
 ---
-
 
 {{< quote
 	text="Über die Grenzen des All blicktest du sinnend hinaus; / Hattest nie Sorge um Hof und Haus! / Leben und Traum vom Leben, plötzlich ist alles aus – / Über die Grenzen des All blickst du noch sinnend hinaus!"

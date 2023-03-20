@@ -1,14 +1,15 @@
 ---
-anchor: Smart
+title: 'Bent u een rechtsextremist?'
+subtitle: 'Doe de test!'
+date: '2022-04-29'
 authors:
-- De redactie
-date: "2022-04-29"
-image: thumb.webp
-subtitle: Doe de test!
+    - 'De redactie'
 themes: Klikaas
-title: Bent u een rechtsextremist?
+image: thumb.webp
+anchor: Smart
+tags:
+    - rechtsextremisme
 ---
-
 
 De AIVD bracht hun jaarverslag uit[^1] en gaf het volgende aan:
 

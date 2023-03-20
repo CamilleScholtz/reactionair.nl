@@ -8,9 +8,14 @@ themes: 'Recensie en Biografie'
 image: thumb.webp
 anchor: Top
 description: 'Ontdek een verborgen schat van oude boeken en krantenknipsels op Delpher, waaronder het boek "Vrijmetselarij en Jodendom". Lees deze recensie van het boek dat een verdediging biedt van de Traditionele essentie van ware vrijmetselarij en jodendom, en een kritiek op diegenen die deze tradities aanwezen als oorzaak van moderne negatieve verschijnselen.'
-cited:
+tags:
     - 'Anton Kerssemakers'
     - 'René Guénon'
+    - fascisme
+    - jodendom
+    - katholiek
+    - traditie
+    - vrijmetselarij
 ---
 
 Onlangs heb ik de website Delpher ontdekt, een schatkamer van oude boeken en krantenknipsels. Natuurlijk was ik benieuwd of er iets over René Guénon te vinden was, en vond ik een boek genaamd *Vrijmetselarij en Jodendom: traditionele inhoud, moderne ontaarding en invloed*. Het viel me op dat Guénon op de allereerste bladzijde werd geciteerd, en de daaropvolgende pagina's vrijwel woord voor woord zijn werk over Traditie, intellectuele intuïtie en de crisis van de moderne wereld weerspiegelden. Dit wekte mijn nieuwsgierigheid naar de auteur van het boek en leidde tot een aantal interessante ontdekkingen.

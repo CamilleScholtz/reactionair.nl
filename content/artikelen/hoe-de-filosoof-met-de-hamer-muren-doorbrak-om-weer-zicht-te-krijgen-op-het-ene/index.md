@@ -1,22 +1,22 @@
 ---
-anchor: Center
+title: 'Hoe de filosoof met de hamer muren doorbrak om weer zicht te krijgen op het Ene'
+subtitle: 'Over taaltovenarij met hamer en mes'
+date: '2022-05-07'
 authors:
-- De Melancholieke Nar
-cited:
-- Jacques Derrida
-- René Guénon
-- Martin Heidegger
-- Friedrich Nietzsche
-- Ludwig Wittgenstein
-- Plato
-date: "2022-05-07"
+    - 'De Melancholieke Nar'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
-subtitle: Over taaltovenarij met hamer en mes
-themes: Religie en Wijsbegeerte
-title: Hoe de filosoof met de hamer muren doorbrak om weer zicht te krijgen op het
-  Ene
+anchor: Center
+tags:
+    - 'Friedrich Nietzsche'
+    - 'Jacques Derrida'
+    - 'Ludwig Wittgenstein'
+    - 'Martin Heidegger'
+    - Plato
+    - 'René Guénon'
+    - metafysica
+    - taal
 ---
-
 
 {{< quote
 	text="Mit dem Hammer, beenden wir den Jammer"

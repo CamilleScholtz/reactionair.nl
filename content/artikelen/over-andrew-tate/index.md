@@ -2,7 +2,7 @@
 anchor: Smart
 authors:
 - Het huisloeder
-cited:
+tags:
 - Jordan Peterson
 date: "2022-10-08"
 image: b.webp

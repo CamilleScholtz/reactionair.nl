@@ -1,15 +1,19 @@
 ---
-anchor: Top
+title: 'De eenzaamste reis'
+subtitle: 'Meditatie over de dwaas in de Tarot'
+date: '2022-07-14'
 authors:
-- Tólma
-cited:
-- Friedrich Nietzsche
-date: "2022-07-14"
+    - Tólma
+themes: 'Religie en Wijsbegeerte'
 image: 81hh1e-1jul.webp
-subtitle: Meditatie over de dwaas in de Tarot
-themes: Religie en Wijsbegeerte
-title: De eenzaamste reis
+anchor: Top
+tags:
+    - 'Friedrich Nietzsche'
+    - Plotinus
+    - Wijsheid
+    - Zelfkennis
 ---
+
 > Toen nu Zarathoestra zo bergopwaarts liep, moest hij zijn vele eenzame reizen en trekken gedenken, van kindsbeen af; en hoe vele bergen en bergruggen en -toppen hij reeds had bestegen. Ik ben een reiziger en een bergbestijger, sprak hij tot zijn hart, ik bemin de vlakten niet en ik kan blijkbaar niet lang stilzitten. En wat nu nog als lot en beleving tot mij kome, - een trekken zal daarin zijn en een stijgen: men beleeft tenslotte alleen nog zichzelf. De tijd is weggedreven, dat mij nog toevalligheden tegemoet traden; en wat zou mij thans nog toe kúnnen vallen, wat niet reeds mijn was! Het keert slechts terug, het komt ten leste huiswaarts - mijn eigen Zelf en wat van hem lange tijd in den vreemde toefde, versnipperd onder alle dingen en toevalligheden. En nog één ding weet ik: ik sta thans voor mijn laatste bergtop en voor dat, wat mij het langst bespaard is gebleven. Ach, mijn zwaarste weg moet ik beginnen! Ach, ik ving mijn eenzaamste reize aan![^1]
 
 ### I.

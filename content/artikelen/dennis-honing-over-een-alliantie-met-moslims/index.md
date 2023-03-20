@@ -1,16 +1,18 @@
 ---
+title: 'Dennis Honing over een alliantie met moslims'
+subtitle: 'Over reactionairen en moslims, deel 2'
+date: '2021-11-01'
 authors:
-- Dennis Honing
-date: "2021-11-01"
-tags:
-- Islam
-- Conservatieve Alliantie
+    - 'Dennis Honing'
+themes: 'Politiek en Actualiteit'
 image: thumb.webp
-subtitle: Over reactionairen en moslims, deel 2
-themes: Politiek en Actualiteit
-title: Dennis Honing over een alliantie met moslims
+anchor: Smart
+tags:
+    - 'Conservatieve Alliantie'
+    - Islam
+    - immigratie
+    - pvv
 ---
-
 
 _Dit artikel is een reactie op een eerder gepubliceerd artikel op Reactionair.nl._[^1]
 

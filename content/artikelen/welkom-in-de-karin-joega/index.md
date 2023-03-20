@@ -1,17 +1,20 @@
 ---
-anchor: Top
+title: 'Welkom in de Karin joega'
+subtitle: 'Veiligheid voor alles'
+date: '2021-12-12'
 authors:
-- De Melancholieke Nar
-tags:
-- Friedrich Nietzsche
-- Slavoj Žižek
-date: "2021-12-12"
+    - 'De Melancholieke Nar'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
-subtitle: Veiligheid voor alles
-themes: Cultuur en Maatschappij
-title: Welkom in de Karin joega
+anchor: Top
+tags:
+    - 'Friedrich Nietzsche'
+    - 'Slavoj Žižek'
+    - hedonisme
+    - incel
+    - liberalisme
+    - seks
 ---
-
 
 ### De bevrijding van de jaren '60
 

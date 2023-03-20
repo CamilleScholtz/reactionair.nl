@@ -1,21 +1,22 @@
 ---
-anchor: Center
+title: 'Reactionair, om te beginnen'
+subtitle: 'Fragment uit een boek in voorbereiding'
+date: '2021-11-29'
 authors:
-- Robert Lemm
-date: "2021-11-29"
-tags:
-- Christendom
-- Liberalisme
-- Thomas van Aquino
-- Nicolás Gómez Dávila
-- Immanuel Kant
-- Jean-Jacques Rousseau
+    - 'Robert Lemm'
+themes: 'Recensie en Biografie'
 image: thumb.webp
-subtitle: Fragment uit een boek in voorbereiding
-themes: Recensie en Biografie
-title: Reactionair, om te beginnen
+anchor: Center
+tags:
+    - Christendom
+    - 'Immanuel Kant'
+    - 'Jean-Jacques Rousseau'
+    - Liberalisme
+    - 'Nicolás Gómez Dávila'
+    - 'Robert Lemm'
+    - 'Thomas van Aquino'
+    - reactionair
 ---
-
 
 >_“De authentieke reactionair kijkt niet naar de toekomst, zoals de liberaal. Hij kijkt evenmin naar het verleden, zoals de conservatief. Hij kijkt niet vooruit, en niet achterom. Hij kijkt naar boven, naar de sterren en de hemel, naar de sporen die de Eeuwigheid heeft achtergelaten in de Tijd.”_
 

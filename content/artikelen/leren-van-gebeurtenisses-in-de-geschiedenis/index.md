@@ -1,17 +1,17 @@
 ---
+title: 'Leren van gebeurtenissen uit de geschiedenis'
+subtitle: 'Een blik op nieuw-links en de Iraanse revolutie'
+date: '2021-11-06'
 authors:
-- Eco al-Hollandi
-cited:
-- Karl Marx
-date: "2021-11-06"
-files:
-- Islam
+    - 'Eco al-Hollandi'
+themes: 'Politiek en Actualiteit'
 image: thumb.webp
-subtitle: Een blik op nieuw-links en de Iraanse revolutie
-themes: Politiek en Actualiteit
-title: Leren van gebeurtenissen uit de geschiedenis
+anchor: Smart
+tags:
+    - Iran
+    - Islam
+    - 'Karl Marx'
 ---
-
 
 >“De geschiedenis herhaalt zichzelf, eerst als tragedie, dan als klucht.”[^1] - Karl Marx
 

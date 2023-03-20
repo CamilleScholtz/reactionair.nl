@@ -3,7 +3,7 @@ anchor: Smart
 authors:
 - Anton Prins
 caption: Caspar David Friedrich, Der Chasseur im Walde
-cited:
+tags:
 - Aldous Huxley
 - Joris van Rossum
 - Arthur Schopenhauer

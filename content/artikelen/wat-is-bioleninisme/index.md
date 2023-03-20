@@ -1,15 +1,17 @@
 ---
-anchor: Smart
+title: 'Wat is bioleninisme?'
+subtitle: 'Ideologie van de clownwereld'
+date: '2022-07-19'
 authors:
-- De redactie
-date: "2022-07-19"
-tags:
-- Woke
+    - 'De redactie'
+themes: 'Cultuur en Maatschappij'
 image: lenin.jpg
-note: 'Dit is een vertaling van het essay ''Clown World Chronicles: What Is ‘Bioleninism’?'',
-  het origineel is [hier](https://vjmpublishing.nz/?p=21454) te lezen.'
-themes: Cultuur en Maatschappij
-title: Wat is bioleninisme?
+anchor: Smart
+tags:
+    - Leninisme
+    - Slavenmoraal
+    - Woke
+note: "Dit is een vertaling van het essay 'Clown World Chronicles: What Is ‘Bioleninism’?', het origineel is [hier](https://vjmpublishing.nz/?p=21454) te lezen."
 ---
 
 Bioleninisme omschrijft een bekend fenomeen in de clownwereld – de sociaal afgewezenen die zich organiseren om hun wil aan de samenleving als geheel op te dringen. Het is kenmerkend voor de clownwereld dat mensen die normaal gezien zichzelf verstoppen uit schaamte, nu luid en trots zich kenbaar maken. Nog erger, ze hebben zich georganiseerd en beheersen het narratief. Bioleninisme is de rode draad die hier doorheen loopt.

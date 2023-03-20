@@ -1,12 +1,12 @@
 ---
-anchor: Top
+title: 'Hoe een beschaving te verwoesten in 10 makkelijke stappen...'
+subtitle: 'Hoeveel punten herken jij!?'
+date: '2022-05-23'
 authors:
-- De redactie
-date: "2022-05-23"
-image: thumb.webp
-subtitle: Hoeveel punten herken jij!?
+    - 'De redactie'
 themes: Klikaas
-title: Hoe een beschaving te verwoesten in 10 makkelijke stappen...
+image: thumb.webp
+anchor: Top
 ---
 
 {{< slider

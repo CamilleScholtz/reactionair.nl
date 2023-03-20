@@ -1,16 +1,19 @@
 ---
+title: 'Sociale contacten in een verbrokkelde wereld'
+subtitle: 'De industriële revolutie en haar invloed op sociale interactie'
+date: '2021-12-07'
 authors:
-- v. Deirm
-cited:
-- Michel Foucault
-- Max Weber
-date: "2021-12-07"
+    - 'v. Deirm'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
-subtitle: De industriële revolutie en haar invloed op sociale interactie
-themes: Cultuur en Maatschappij
-title: Sociale contacten in een verbrokkelde wereld
+anchor: Smart
+tags:
+    - 'Max Weber'
+    - 'Michel Foucault'
+    - consumentisme
+    - gemeenschap
+    - onttovering
 ---
-
 
 Onlangs zat ik met wat vrienden in een gezellig cafeetje in de Antwerpse binnenstad. Naarmate de avond vorderde, kwam aan het licht dat verschillenden onder hen gebruikmaken van de datingapp _‘Tinder’_. Dat vond ik uiterst interessant, maar tegelijkertijd ook beangstigend. Hoe is het eigenlijk zover kunnen komen dat we de liefde van ons leven trachten te ontmoeten op een digitaal ‘marktplein’? Laat ons wat dieper proberen in te gaan op de zogenaamde _“vloeibare moderniteit”_.
 
@@ -34,4 +37,4 @@ Reactionairen hebben bij uitstek een morele taak. Sterk blijven middenin de dege
 [^2]: Foucault, M. (2020). _The history of sexuality_. _Penguin Books Ltd_. 
 [^3]: Durkheim, E., & Sennett, R. (2006). _On suicide_. _Penguin Classics_. 
 [^4]: Austruma, S. (2012). _Change of values in the consumer society. SHS Web of Conferences_, 2.
-[^5]: v. Deirm. (2020). _In Memoriam: Yukio Mishima_. _Branding_. 
+[^5]: v. Deirm. (2020). _In Memoriam: Yukio Mishima_. _Branding_.

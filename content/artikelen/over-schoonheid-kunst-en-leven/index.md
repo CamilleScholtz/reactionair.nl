@@ -3,7 +3,7 @@ anchor: Smart
 authors:
 - Tólma
 caption: James Ensor, De val van de opstandige engelen
-cited:
+tags:
 - ' Immanuel Kant'
 - Plato
 - Plotinus

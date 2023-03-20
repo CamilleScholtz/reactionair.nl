@@ -1,16 +1,21 @@
 ---
+title: 'Het Erik Enigma'
+subtitle: 'Extreemrechtse liberaal'
+date: '2021-10-09'
 authors:
-- Sanura
-cited:
-- Erik von Kuehnelt-Leddihn
-- Karl Marx
-date: "2021-10-09"
+    - Sanura
+themes: 'Recensie en Biografie'
 image: thumb.webp
-subtitle: Extreemrechtse liberaal
-themes: Recensie en Biografie
-title: Het Erik Enigma
+anchor: Smart
+tags:
+    - 'Erik von Kuehnelt-Leddihn'
+    - 'Karl Marx'
+    - communisme
+    - fascisme
+    - katholiek
+    - liberalisme
+    - nazisme
 ---
-
 
 Erik Maria Ritter von Kuehnelt-Leddihn was een Katholieke aristocraat uit Oostenrijk evenals een historicus, politiek wetenschapper, filosoof, theoloog, journalist, schilder, schrijver van fictie en polyglot die 8 talen kon spreken en 17 meer kon lezen. Hij bezocht de Sovjet-Unie onder Stalin en Spanje tijdens de burgeroorlog. Saai was zijn leven beslist niet. Ook trouwde hij met een Katholieke aristocraat en kreeg 3 kinderen, altijd fijn. 
 
@@ -37,7 +42,7 @@ Waarschijnlijk de meest reactionaire liberaal aller tijden; zo bestreed hij abor
 
 ### Kapitalisme
 
-Kuehnelt-Leddihn’s liberalisme had niks met vrijemarktkapitalisme te maken. Alhoewel het fanatieke anti-kapitalisme uit zijn jeugd plaats maakte voor een sterkere vijandigheid tegen excessieve staatsinmenging in de economie en de overdreven verzorgingsstaat van Scandinavië, werd Leddihn nooit een fan van laisser-faire. 
+Kuehnelt-Leddihn’s liberalisme had niks met vrijemarktkapitalisme te maken. Alhoewel het fanatieke anti-kapitalisme uit zijn jeugd plaats maakte voor een sterkere vijandigheid tegen excessieve staatsinmenging in de economie en de overdreven verzorgingsstaat van Scandinavië, werd Leddihn nooit een fan van laissez-faire. 
 
 Hij ontwikkelde een sterke waardering voor de (gereguleerde) vrije markt en steunde altijd al het recht op privébezit (waaronder grootgrondbezit), deze zag hij als grote goederen, maar tegelijkertijd wenst hij verregaande sociale solidariteit en gemeenschapsdenken, vooral jegens de zwakkeren. Hij neigde uiteindelijk naar een combinatie van kapitalisme en integralistisch corporatisme. Sociaaldemocratie had hij heen geen geduld voor. 
 
@@ -54,4 +59,3 @@ Zijn boeken zijn relevanter dan ooit. Ten tijden van de val van de Sovjet-Unie w
 [^1]: Wikipedia Italia, [Erik von Kuehnelt-Leddihn](https://italiawiki.com/pages/nobilt-austriaca/erik-von-kuehnelt-leddihn.html)._
 [^2]: Erik von Kuehnelt-Leddihn, _Leftism Revisited: From de Sade and Marx to Adolf Hitler and Pol Pot_.
 [^3]: Campbell, William F. Campbell, _Erik Ritter von Kuehnelt-Leddihn: A Remembrance_, _American Conservative Thought. Archived from the original on 24 September 2015_.
-

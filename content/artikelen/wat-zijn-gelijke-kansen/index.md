@@ -1,17 +1,21 @@
 ---
-anchor: Top
+title: 'Wat zijn gelijke kansen?'
+subtitle: 'En waarom vinden we die zo belangrijk?'
+date: '2022-07-10'
 authors:
-- De Melancholieke Nar
-tags:
-- Sigmund Freud
-- David Hume
-- Immanuel Kant
-- Arthur Schopenhauer
-date: "2022-07-10"
+    - 'De Melancholieke Nar'
+themes: 'Religie en Wijsbegeerte'
 image: radvanfortuin.webp
-subtitle: En waarom vinden we die zo belangrijk?
-themes: Religie en Wijsbegeerte
-title: Wat zijn gelijke kansen?
+anchor: Top
+caption: 'Het rad van fortuin uit het tarot van Marseille.'
+tags:
+    - 'Arthur Schopenhauer'
+    - 'David Hume'
+    - Gelijkheid
+    - 'Immanuel Kant'
+    - 'Sigmund Freud'
+    - metafysica
+    - ressentiment
 ---
 
 Streven naar een wereld van gelijke kansen is een van de platitudes waar politici maar geen genoeg van kunnen krijgen. Wie is er nou tegen dat een gekleurd kind even veel kansen krijgt als een blank kind, een arme even zoveel als een rijke? Vaak wordt hier dan nog aan toegevoegd dat dit iets anders is dan streven naar gelijke uitkomsten. Zelfs de grootste utopistische luchtfietser begrijpt nog dat dit ondoenlijk is. Maar snijdt dat onderscheid tussen gelijke kansen en gelijke uitkomsten wel hout? En zo niet, wat blijft er dan nog over van het streven naar gelijke kansen? Laten we eens kijken of we er chocola van kunnen maken.

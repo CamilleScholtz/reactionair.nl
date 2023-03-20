@@ -1,24 +1,32 @@
 ---
-anchor: Smart
+title: 'De weg van de kami naar de herbetovering'
+subtitle: 'Over het neergaande pad der onttovering'
+date: '2022-08-16'
 authors:
-- Elvengast
-tags:
-- Edmund Burke
-- René Descartes
-- Martin Heidegger
-- Jean-Jacques Rousseau
-- Friedrich Schiller
-- Max Weber
-- Ludwig Wittgenstein
-- Aristoteles
-- Plato
-- Bronze Age Pervert
-date: "2022-08-16"
+    - Elvengast
+themes: 'Religie en Wijsbegeerte'
 image: kamishikimi_kumanoimasu_shrine_001.jpg
-subtitle: Over het neergaande pad der onttovering
-themes: Religie en Wijsbegeerte
-title: De weg van de kami naar de herbetovering
+anchor: Smart
+tags:
+    - Aristoteles
+    - 'Bronze Age Pervert'
+    - 'Edmund Burke'
+    - 'Friedrich Schiller'
+    - Japan
+    - 'Jean-Jacques Rousseau'
+    - 'John Vervaeke'
+    - 'Ludwig Wittgenstein'
+    - 'Martin Heidegger'
+    - 'Max Weber'
+    - 'Paul Kingsnorth'
+    - Plato
+    - 'René Descartes'
+    - atheisme
+    - materialisme
+    - onttovering
+    - secularisme
 ---
+
 Met de onttovering van de wereld wees socioloog Max Weber in zijn werk ‘Wissenschaft als Beruf’ op de culturele rationalisering en devaluatie van religie die ontstond in het moderniserende, geseculariseerde westen.
 
 Weber zag een wereldbeeld ontstaan waarin een wetenschappelijk begrip van de wereld dominant werd. Gebeurtenissen werden verklaard door berekenbare processen en waren niet onderhevig aan onberekenbare machten. Keuzes werden gemaakt op basis van rationele motieven. Daar tegenover zou de wereld in een ‘betoverde’ samenleving gezien worden als een grote, betoverde tuin, waarin fenomenen een doel op zichzelf hadden of aangestuurd werden door een hogere macht. Keuzes werden gemaakt vanuit een metafysisch kader. De onttoverde wereld waardeert de wetenschappelijke proposities boven de eigen ervaring en ideeënwereld.

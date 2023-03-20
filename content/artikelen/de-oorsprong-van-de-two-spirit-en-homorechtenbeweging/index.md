@@ -9,7 +9,7 @@ authors:
 themes: 'Cultuur en Maatschappij'
 image: 62441fa6-79b4-426d-bb77-ea6ac392c00a.jpg
 anchor: Smart
-files:
+tags:
     - Woke
 ---
 

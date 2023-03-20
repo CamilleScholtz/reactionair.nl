@@ -1,19 +1,22 @@
 ---
-anchor: Smart
+title: 'Homo credens'
+subtitle: 'Over de wetenschap als volksgeloof'
+date: '2022-05-16'
 authors:
-- Anton Prins
-cited:
-- Sigmund Freud
-- Arthur Schopenhauer
-- Friedrich Schiller
-- Socrates
-date: "2022-05-16"
+    - 'Anton Prins'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
-noindex: true
-subtitle: Over de wetenschap als volksgeloof
-themes: Religie en Wijsbegeerte
-title: Homo credens
+anchor: Smart
+tags:
+    - 'Arthur Schopenhauer'
+    - 'Friedrich Schiller'
+    - 'Sigmund Freud'
+    - Socrates
+    - metafysica
+    - sciëntisme
+    - wetenschap
 ---
+
 Waan—de hedendaagse mens leeft in waan. Hij leeft in de waan van ongelovigheid, denkt dat hij bijgeloof en religieuze waan ontvlucht is. Hij zucht niet onder het juk van God of kerk en lacht om de geborneerde zielen die nog geloven dat er boven het uitspansel der hemelen een liefhebbende vader woont.[^1] Maar welk een zelfbedrog! De mens kán niet zonder geloof; en in deze slechts ogenschijnlijk goddeloze maatschappij zijn er andere goden waaraan de mens zich onderwerpt.
 
 {{< quote

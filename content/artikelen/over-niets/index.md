@@ -1,16 +1,17 @@
 ---
-anchor: Top
+title: 'Over Niets'
+subtitle: 'De uitersten ontmoeten elkaar in het niets'
+date: '2022-06-04'
 authors:
-- Jan de Maansnijder
-date: "2022-06-04"
-files:
-- Christendom
+    - 'Jan de Maansnijder'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
-note: Dit is een vertaling van het essay 'On Nothing', het origineel is [hier](https://esoterictraditionalism.wordpress.com/2019/08/02/on-nothing/)
-  te lezen.
-subtitle: De uitersten ontmoeten elkaar in het niets
-themes: Religie en Wijsbegeerte
-title: Over Niets
+anchor: Top
+tags:
+    - Christendom
+    - metafysica
+    - theologie
+note: "Dit is een vertaling van het essay 'On Nothing', het origineel is [hier](https://esoterictraditionalism.wordpress.com/2019/08/02/on-nothing/) te lezen."
 ---
 
 {{< quote
@@ -43,6 +44,3 @@ Welnu, laat het duidelijk zijn dat dit de "hoogste zin" is van het woord "Niets"
 
 
 Hopelijk voorkomen deze overwegingen dat de lezer bij het lezen van de woorden "Niets" of "Duisternis" (of soortgelijke woorden) onmiddellijk tot de conclusie komt dat zij moeten verwijzen naar een gebrek, of een of ander kwaad, d.w.z. naar het laagste der dingen, maar laten zij de lezer bedenken dat zij in feite zouden kunnen verwijzen naar het hoogste der dingen, waar elke uitdrukking afbreuk aan doet.
-
-
-

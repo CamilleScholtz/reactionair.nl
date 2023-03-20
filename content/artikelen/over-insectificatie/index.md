@@ -1,16 +1,17 @@
 ---
-anchor: Smart
+title: 'Over insectificatie'
+subtitle: 'Hoe we afglijden van mens tot bugman'
+date: '2022-07-12'
 authors:
-- De Melancholieke Nar
-cited:
-- Carl Schmitt
-date: "2022-07-12"
+    - 'De Melancholieke Nar'
+themes: 'Cultuur en Maatschappij'
 image: 12eac8367a00449eb7bba730006f4c8b-medium.jpg
-note: Dit is een vertaling van het essay 'On Insectisation', het origineel is [hier](https://parallaxoptics.com/2020/12/30/on-insectisation/)
-  te lezen.
-subtitle: Hoe we afglijden van mens tot bugman
-themes: Cultuur en Maatschappij
-title: Over insectificatie
+anchor: Smart
+tags:
+    - 'Carl Schmitt'
+    - 'Franz Kafka'
+    - Individualisme
+note: "Dit is een vertaling van het essay 'On Insectisation', het origineel is [hier](https://parallaxoptics.com/2020/12/30/on-insectisation/) te lezen."
 ---
 
 {{< quote

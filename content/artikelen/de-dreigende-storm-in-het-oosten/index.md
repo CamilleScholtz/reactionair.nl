@@ -1,13 +1,17 @@
 ---
+title: 'De dreigende storm in het Oosten'
+subtitle: 'Hongarije en de EU'
+date: '2022-04-06'
 authors:
-- Sanura
-date: "2022-04-06"
-tags:
-- Oekraïne
+    - Sanura
+themes: 'Politiek en Actualiteit'
 image: thumb.webp
-subtitle: Hongarije en de EU
-themes: Politiek en Actualiteit
-title: De dreigende storm in het Oosten
+anchor: Smart
+tags:
+    - EU
+    - Oekraïne
+    - Rusland
+    - oorlog
 ---
 
 Orbán won voor de vierde keer op rij. En hij won overweldigend. Hij krijg bijna 5% meer van de stemmen dan de laatste keer, en voegde zelfs 2 zetels aan zijn supermeerderheid in het parlement toe. Prominente *D66*’ers beweerden meteen (zonder bewijs) dat er sprake was van fraude. De _OSCE_ weerlegde dit echter. De oppositie erkende haar nederlaag en haar fouten. Kwam het door hun partijloze kandidaat, door de elitaire retoriek, onderlinge verdeeldheid, of de slechte reactie op de oorlog in Oekraïne? Het antwoord is natuurlijk, dat het allemaal een rol speelde.

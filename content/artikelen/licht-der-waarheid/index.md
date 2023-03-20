@@ -1,24 +1,24 @@
 ---
+title: 'Licht der waarheid'
+subtitle: 'Een reactie op ‘Overdenkingen over de parabel van de blinden en de olifant’'
+date: '2022-02-11'
 authors:
-- Sanura
-date: "2022-02-11"
-tags:
-- Christendom
-- Immanuel Kant
-- Erik von Kuehnelt-Leddihn
-- Karl Popper
-- Plato
-- China
+    - Sanura
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
-subtitle: Een reactie op ‘Overdenkingen over de parabel van de blinden en de olifant’
-themes: Religie en Wijsbegeerte
-title: Licht der waarheid
+anchor: Smart
+tags:
+    - China
+    - Christendom
+    - 'Erik von Kuehnelt-Leddihn'
+    - 'Immanuel Kant'
+    - 'Karl Popper'
+    - Plato
 ---
-
 
 Op deze site is de auteur De Melancholieke Nar recent geleden begonnen aan een serie artikelen,[^1] waarin hij het streven naar objectiviteit tot een zinloze onderneming bestempelt. 
 
-Zelf was ik al bezig met een artikel over hoe filosofische tradities van het westen helpen oude geschriften te interpreteren en een duidelijk beeld te vormen van de metafysische noties die domineerden in de oudheid. Dit sloot daar mooi op aan… in de zin dat het uitnodigt tot een mooie Socratische discussie. Mijn standpunt kan niet verder verwijderd zijn van het zijne. Ik geloof namelijk wel, dat mensen objectieve waarheden kunnen verwerven én ontvangen, waaronder ook van immateriële, spirituele, mystieke, bovennatuurlijke zaken. Bovendien meen ik, dat zijn argumentatie tegenstrijdigheden en drogredenen bevat, en de implicaties ervan vaak onduidelijk zijn en tenslotte het soms onduidelijk is waar zijn eigen standpunten ophouden en verwijzingen naar die van anderen beginnen.
+Zelf was ik al bezig met een artikel over hoe filosofische tradities van het westen helpen oude geschriften te interpreteren en een duidelijk beeld te vormen van de metafysische noties die domineerden in de oudheid. Dit sloot daar mooi op aan… in de zin dat het uitnodigt tot een mooie socratische discussie. Mijn standpunt kan niet verder verwijderd zijn van het zijne. Ik geloof namelijk wel, dat mensen objectieve waarheden kunnen verwerven én ontvangen, waaronder ook van immateriële, spirituele, mystieke, bovennatuurlijke zaken. Bovendien meen ik, dat zijn argumentatie tegenstrijdigheden en drogredenen bevat, en de implicaties ervan vaak onduidelijk zijn en tenslotte het soms onduidelijk is waar zijn eigen standpunten ophouden en verwijzingen naar die van anderen beginnen.
 
 
 ### De parabel 
@@ -108,13 +108,13 @@ Nar heeft een heel artikel eraan gewijd waarom Popper’s tolerantie-paradox onl
 Nar stelt met veel overtuiging dat Kant gelijk had. Dat niemand de objectieve waarheid kan zien/begrijpen/bevatten. Hij suggereert, dat het een objectieve waarheid is, dat geen enkel mens de objectieve waarheid kent. In ieder geval wat betreft geloof, metafysische kwesties. 
 Hoe kan nar, een zelf-identificerende blinde, weten dat iedereen blind is? Hoe weet hij, dat we in een ommuurde tuin zitten? Hoe weet hij, dat Kant gelijk had? Hoe kan Kant eigenlijk als autoriteit worden aangehaald? Hij heeft niets bewezen, toch? Zijn subjectieve inschatting is toch ook subjectief? Beroep op autoriteit in een wereld van gelijke blinden lijkt me op zich dubieus. 
 
-Kant’s aanval op de westerse traditie van objectieve waarheid vormde de basis voor een soort algemeen agnosticisme. Maar hoe weten we dat er zelfs maar een noumenale wereld is? Hoe weet Nar dit? Waarom is het solipsisme niet waar? Hoe weten we, dat er mensen zijn buiten onszelf? Materialisme? Scepticisme? Nihilisme? Zijn ze niet allemaal op hun eigen manier waar?
+Kants aanval op de westerse traditie van objectieve waarheid vormde de basis voor een soort algemeen agnosticisme. Maar hoe weten we dat er zelfs maar een noumenale wereld is? Hoe weet Nar dit? Waarom is het solipsisme niet waar? Hoe weten we, dat er mensen zijn buiten onszelf? Materialisme? Scepticisme? Nihilisme? Zijn ze niet allemaal op hun eigen manier waar?
 
 Ik denk nu aan Antiochus van Ascalon. Hij begon het middenplatonisme te doorbreken met het scepticisme, dat sinds Arkesilaos de Akademie had beheerst. Hij wees op de tegenstrijdigheid van beweren of bewijzen, dat niks bewezen kan worden, of spreken van valse ideeën terwijl je het onderscheid tussen waar en vals ontkent.[^23]
 
 Subjectivisme als objectief juist zien is even onmogelijk als de ‘leugenaarsparadox’. Kortom: dit alles brengt me naar de ‘gok van Sanura’: 
 
-Als Nar gelijk heeft heb ik ook gelijk. We zijn allebei blinden die een deel van de olifant hebben aangeraakt. Zelfs al lijkt zijn subjectivisme strijdig met mijn argument vóór de absolute waarheid, toch kloppen deze voor mensen tegenstrijdige dingen allebei. Als ik gelijk heb, zit Nar fout. Want er is waarheid en onwaarheid, dus zijn subjectivisme klopt niet.
+Als Nar gelijk heeft, heb ik ook gelijk. We zijn allebei blinden die een deel van de olifant hebben aangeraakt. Zelfs al lijkt zijn subjectivisme strijdig met mijn argument vóór de absolute waarheid, toch kloppen deze voor mensen tegenstrijdige dingen allebei. Als ik gelijk heb, zit Nar fout. Want er is waarheid en onwaarheid, dus zijn subjectivisme klopt niet.
 
 “Subjectivisme is het gelijk van de drammer.” (Een geprikkelde man die ik vaak lastigval)
 

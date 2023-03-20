@@ -1,15 +1,17 @@
 ---
+title: 'De ware horror van het hedendaagse Halloween'
+subtitle: 'Hoe een heilig feest tot simpel hedonisme vervallen is'
+date: '2021-10-27'
 authors:
-- Jan de Maansnijder
-date: "2021-10-27"
-tags:
-- Christendom
+    - 'Jan de Maansnijder'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
-subtitle: Hoe een heilig feest tot simpel hedonisme vervallen is
-themes: Religie en Wijsbegeerte
-title: De ware horror van het hedendaagse Halloween
+anchor: Smart
+tags:
+    - Christendom
+    - hedonisme
+    - heidendom
 ---
-
 
 De viering van Halloween zoals deze zich vandaag de dag manifesteert heeft als voorname functie ieder, door middel van een verkleedpartijtje, de mogelijkheid te geven te ontsnappen aan het zware juk van een deel van de kleinburgerlijke moraliteit, zodat kinderen zich volvreten met de nieuwste Amerikaanse fabricages van suikerdrab en jongvolwassenen zich voldrinken en hun lul nat proberen te krijgen. In deze functie is de huidige viering een slap aftreksel, een overblijfsel, van de oorspronkelijke viering ervan, ongeveer als de latere _Saturnalia_. Nu, laten we dan zien naar de betekenis van de oorspronkelijke viering.
 
@@ -21,4 +23,4 @@ Maar goed, de primaire betekenis en functie van deze feesten is dus het contact 
 
 Hier is dan een deel van de functies van deze feesten beschreven, waarvan de betekenis om verscheidene redenen verduisterd is geraakt. De grootste boosdoener zullen hier bepaalde ‘christelijke’ groeperingen zijn (protestanten), die ofwel ‘paapsche’ ofwel ‘heidense’ elementen (die voornamelijk uit de verbeelding van 19de eeuwse academici vloeiden) in deze feesten zagen en ze in meerdere of mindere mate uitgeroeid hebben (net als bijvoorbeeld Sinterklaas, Carnaval en soortgelijke feesten). De tweede grote boosdoener is de burgerij die de lijken van deze feesten hebben opgegraven en er een seculiere geest in hebben geblazen, zoals bijvoorbeeld Charles Dickens en de zijnen met Kerstmis gedaan hebben.  Als laatste boosdoener heb je de post-burgerij, de laatste mens, de kasteloze, die zelfs de burgerlijke moraliteit (‘het is een familiefeest/kinderfeest’, ‘het is voor de armen’, etc.) niet aankunnen en deze feesten ofwel compleet negeren ofwel tot puur hedonisme degraderen. Misschien verkleden ze zich wel, doch niet meer als de doden, maar als de nieuwste _Marvel_ superheld; misschien verwachten ze wel snoep, maar in ruil ervoor bidden ze niet meer voor de doden; misschien gaan ze wel naar feesten, maar er zijn geen standen of seksen of leeftijden meer om te vervagen of te verwisselen! (we leven namelijk al in een voortdurend sinister Carnaval); ze steken vast (elektrische) vuren aan, maar ze vergeten het as. 
 
-Ach, wellicht kunnen deze feesten ooit hersteld worden in hun oorspronkelijke glorie, als deze vespers voorbij zijn en de lauden weer gezongen worden. Voor nu kunnen we alleen de nachtwake houden, en de levende heiligen te vragen te bidden voor de doden, dat is, voor ons, nog in het lichaam, en voor hen die het lichaam verlaten hebben maar nog niet in het vaderland aangekomen zijn. 
+Ach, wellicht kunnen deze feesten ooit hersteld worden in hun oorspronkelijke glorie, als deze vespers voorbij zijn en de lauden weer gezongen worden. Voor nu kunnen we alleen de nachtwake houden, en de levende heiligen te vragen te bidden voor de doden, dat is, voor ons, nog in het lichaam, en voor hen die het lichaam verlaten hebben maar nog niet in het vaderland aangekomen zijn.

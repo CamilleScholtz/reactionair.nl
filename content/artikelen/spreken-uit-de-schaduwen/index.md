@@ -1,17 +1,20 @@
 ---
-anchor: Smart
+title: 'Spreken uit de schaduwen'
+subtitle: 'Een ode aan de anonimiteit'
+date: '2022-06-02'
 authors:
-- Anton Prins
-cited:
-- Jean-Paul Sartre
-- Arthur Schopenhauer
-- Friedrich Schiller
-date: "2022-06-02"
+    - 'Anton Prins'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
-subtitle: Een ode aan de anonimiteit
-themes: Cultuur en Maatschappij
-title: Spreken uit de schaduwen
+anchor: Smart
+tags:
+    - 'Arthur Schopenhauer'
+    - 'Friedrich Schiller'
+    - 'Jean-Paul Sartre'
+    - online
+    - woke
 ---
+
 Er is een web van leugens door onze samenleving gesponnen waarin wij dagelijks verstrikt raken. Oprechtheid wordt met voeten getreden en raakt vertroebeld door beleefdheden, sociale druk en persoonlijke betrokkenheid. Dit dwingt ons tot het bewaren van een zekere afstand tot elkaar, zelfs in de meest intieme relaties, en gesprekken met collegae, vrienden of zelfs met onze geliefden zijn doordrenkt van trivialiteiten en oppervlakkigheden. 
 Tot op zekere hoogte is dit uiteraard inherent aan het samenleven in het algemeen. Schopenhauer legt dit uit middels de volgende gelijkenis:
 

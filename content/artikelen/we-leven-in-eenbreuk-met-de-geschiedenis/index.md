@@ -1,15 +1,17 @@
 ---
+title: 'We leven in een breuk met de geschiedenis'
+subtitle: 'De wereld waarin je bent opgegroeid bestaat niet meer'
+date: '2022-06-22'
 authors:
-- Jurbin van Hooff
-tags:
-- Oswald Spengler
-date: "2022-06-22"
+    - 'Jurbin van Hooff'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
-subtitle: De wereld waarin je bent opgegroeid bestaat niet meer
-themes: Cultuur en Maatschappij
-title: We leven in een breuk met de geschiedenis
+anchor: Smart
+tags:
+    - 'Francis Fukuyama'
+    - 'Oswald Spengler'
+    - consumentisme
 ---
-
 
 We leven in een breuk met de geschiedenis en niemand beseft het. Er is een proces van vervreemding gaande op de wereld; men is niet meer gebonden aan de regio, de familie en traditie, maar vooral veel met zichzelf bezig. Dat weinigen dit beseffen komt doordat er een maatschappelijk geloof is dat we ons in een volmaakte conditie bevinden, of om met Fukuyama te spreken: we bevinden ons aan het fameuze ‘einde van de geschiedenis’. Aangezien Mark Fisher dit fenomeen goed heeft omschreven, en dat zeker beter heeft gedaan dan ik dat kan doen, zal ik hem gedienstig citeren:
 

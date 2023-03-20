@@ -9,7 +9,7 @@ themes: 'Religie en Wijsbegeerte'
 image: 740b6792-8eb2-468b-9a2e-f8aa859b698a.jpg
 anchor: Smart
 caption: 'Filmposter voor een documentaire over het werk van McGilchrist.'
-cited:
+tags:
     - Augustinus
     - 'Daniel Dennett'
     - 'Ian McGilchrist'

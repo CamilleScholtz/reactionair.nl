@@ -1,16 +1,18 @@
 ---
-anchor: Bottom
+title: 'Tegen de fetisj voor boeren op rechts'
+subtitle: 'Conservatief sentimentalisme als nieuwe melkkoe'
+date: '2022-07-01'
 authors:
-- Rintrah Radagast
-date: "2022-07-01"
-tags:
-- Klimaatverandering
-- Boeren
+    - 'Rintrah Radagast'
+themes: 'Politiek en Actualiteit'
 image: x22075-tif.jpeg
-subtitle: Conservatief sentimentalisme als nieuwe melkkoe
-themes: Politiek en Actualiteit
-title: Tegen de fetisj voor boeren op rechts
+anchor: Bottom
+tags:
+    - Boeren
+    - Klimaatverandering
+    - milieu
 ---
+
 Vandaag wil ik met een rechtse mythe afrekenen: Het idee dat de stikstofcrisis alleen op papier bestaat en er een soort complot bekokstooft wordt vanuit de regering om de veeteelt om zeep te helpen, met als doel ruimte te scheppen voor nieuwe woningen. Dit idee is dus je reinste flauwekul.
 
 Allereerst lopen we tegen het probleem aan dat er sprake zou moeten zijn van een complot dat de scheiding der machten overstijgt. Het kabinet moet de rechterlijke macht zo om haar vinger gewonden hebben dat een rechter een uitspraak doet waardoor de bouw stil kwam te liggen en het voor de VVD vernederende besluit genomen moest worden om de maximumsnelheid op de snelwegen te verlagen, met als hoger overkoepelend doel om het kabinet een excuus te geven de boeren te onteigenen.

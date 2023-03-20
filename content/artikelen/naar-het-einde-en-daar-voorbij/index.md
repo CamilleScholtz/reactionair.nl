@@ -1,17 +1,20 @@
 ---
+title: 'Naar het einde en daar voorbij!'
+subtitle: 'Gedachten over het Onbegrensde'
+date: '2021-10-21'
 authors:
-- Camille Scholtz
-date: "2021-10-21"
+    - 'Camille Scholtz'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
-subtitle: Gedachten over het Onbegrensde
-themes: Religie en Wijsbegeerte
-title: Naar het einde en daar voorbij!
+anchor: Smart
 tags:
-- René Guénon
-- Martin Heidegger
-- Martin Lings
+    - 'Martin Heidegger'
+    - 'Martin Lings'
+    - 'René Guénon'
+    - metafysica
+    - oneindigheid
+    - theologie
 ---
-
 
 Dit artikel gaat over enkele interacties met het idee van het onbegrensde, het eindeloze, oneindigheid, en enkele logische consequenties van deze concepten en de mogelijke implicaties voor theologie.
 

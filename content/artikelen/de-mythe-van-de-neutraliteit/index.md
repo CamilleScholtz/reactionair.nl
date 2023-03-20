@@ -9,8 +9,9 @@ image: thumb.webp
 anchor: Smart
 description: "De Tweede Kamer neemt besluit: scholen mogen geen identiteitsverklaring eisen van ouders. Maar is 'neutraliteit' wel haalbaar? Lees het hier."
 tags:
-- Karl Popper
-- Liberalisme
+    - 'Karl Popper'
+    - Liberalisme
+    - postmodernisme
 ---
 
 Onlangs heeft de Tweede Kamer een voorstel aanvaard om ervoor te zorgen dat geen enkele school een verklaring van de ouders mag eisen waarin zij de identiteit van de school onderschrijven. Een groot aantal aanhangers van het liberale gedachtegoed hebben met vreugde gereageerd op deze beslissing, zich daarbij beroepend op het idee van "neutraliteit". Op het platform van Twitter werden diverse uitspraken waargenomen, waaronder:
@@ -43,7 +44,7 @@ Het liberalisme heeft dus een paradox als grondslag, namelijk vrijheid en tolera
 
 >Onbeperkte tolerantie moet leiden tot het verdwijnen van tolerantie. Als we ongelimiteerd tolerant zijn, zelfs jegens hen die zelf intolerant zijn, als we niet bereid zijn een tolerante samenleving te verdedigen tegen de aanvallen van de intolerante medemens, dan zal de tolerante mens te gronde gaan, en met hem de tolerantie.[^4]
 
-Wat dit in feite betekent is dat de liberaal ofwel andere wereldbeelden tolereert, die vervolgens hun eigen wereldvisie en ideologie zullen uitdragen, hetgeen mogelijk resulteert in het einde van de _“liberale tollerantie”_. Ofwel de liberaal schendt zijn eigen principe door intolerant te zijn jegens andere wereldbeelden die hij intolerant acht.
+Wat dit in feite betekent is dat de liberaal ofwel andere wereldbeelden tolereert, die vervolgens hun eigen wereldvisie en ideologie zullen uitdragen, hetgeen mogelijk resulteert in het einde van de _“liberale tolerantie”_. Ofwel de liberaal schendt zijn eigen principe door intolerant te zijn jegens andere wereldbeelden die hij intolerant acht.
 
 Volgens de liberaal is het neutrale zijn wereldbeeld en ideologie; dat is wat aan onze kinderen moet worden onderwezen en moet worden gehandhaafd, en het onneutrale is alles wat daartegen ingaat. Laten we dit gedeelte besluiten met deze paradox zoals verwoord door Joram van Klaveren:
 

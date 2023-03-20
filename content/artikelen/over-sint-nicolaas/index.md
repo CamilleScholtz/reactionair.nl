@@ -1,16 +1,16 @@
 ---
+title: 'Over Sint Nicolaas'
+subtitle: 'Een interpretatie van de symboliek uit het leven van deze heilige, losjes gebaseerd op de Gulden Legende'
+date: '2021-12-01'
 authors:
-- Jan de Maansnijder
-date: "2021-12-01"
-tags:
-- Christendom
+    - 'Jan de Maansnijder'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
-subtitle: Een interpretatie van de symboliek uit het leven van deze heilige, losjes
-  gebaseerd op de Gulden Legende
-themes: Religie en Wijsbegeerte
-title: Over Sint Nicolaas
+anchor: Smart
+tags:
+    - Christendom
+    - katholiek
 ---
-
 
 >_"Bedenkt u dat hoewel wij onszelf als rechtvaardig mogen beschouwen en er vaak in slagen de mensen daar ook van te overtuigen, wij niks kunnen verbergen voor God"._ – Sint Nicolaas
 
@@ -28,4 +28,4 @@ Veel van de activiteiten die georganiseerd werden hadden iets te maken met Sint 
 
 Het feest veranderde met de Protestantse Revolutie. Vanzelfsprekend waren de protestanten tegen de heiligenverering, door hun puriteinse neigingen hielden ze ook niet van het feit dat er zo werd gefeest, en de demonen als hulpjes van Sinterklaas vonden ze al helemaal heidens. Toen ze aan de macht kwamen probeerden ze het dan te verbieden, en Luther verplaatste het feest zelfs van de datum van de zesde december (de feestdag van Sint Nicolaas) naar de datum van Kerstavond, en verving Sint Nicolaas met het Christuskind (waarbij hij dus de hele betekenis van het feest faalde te begrijpen, de voorbereiding op Kerst verwarrende met het begin van Kerst). Ondanks alle pogingen om het uit te roeien bleef het feest populair onder het Nederlandse volk, een Katholiek restant in een verprotestantst land.
 
-Zo heeft het feest overleeft tot vandaag de dag, waar het nog wijdverbreid gevierd word (alhoewel het genoeg ontwikkelingen heeft doorgemaakt, zoals de transformatie van de oorspronkelijk demonische dienaren naar eerst Moorse of Oosterse hulpjes, en later Sub-Sahara Afrikaanse slaven (wellicht door associaties van de zwarte kleur en het idee van het ‘vreemde’)). Veel van de tradities en betekenissen rond het feest zijn verloren gegaan, en er zijn genoeg hedendaagse aanvallen op het feest (zoals de aantijging dat Zwarte Piet “racistisch” zou zijn) zowel van machten binnen ons land (zoals immigranten en socialisten) als machten buiten ons land (zoals de _‘Verenigde Naties’_), doch nog staat het feest van Sinterklaas als een ruïne (en zo een herinnering) van wat eens was, en van wat eens weer zou kunnen zijn. 
+Zo heeft het feest overleeft tot vandaag de dag, waar het nog wijdverbreid gevierd word (alhoewel het genoeg ontwikkelingen heeft doorgemaakt, zoals de transformatie van de oorspronkelijk demonische dienaren naar eerst Moorse of Oosterse hulpjes, en later Sub-Sahara Afrikaanse slaven (wellicht door associaties van de zwarte kleur en het idee van het ‘vreemde’)). Veel van de tradities en betekenissen rond het feest zijn verloren gegaan, en er zijn genoeg hedendaagse aanvallen op het feest (zoals de aantijging dat Zwarte Piet “racistisch” zou zijn) zowel van machten binnen ons land (zoals immigranten en socialisten) als machten buiten ons land (zoals de _‘Verenigde Naties’_), doch nog staat het feest van Sinterklaas als een ruïne (en zo een herinnering) van wat eens was, en van wat eens weer zou kunnen zijn.

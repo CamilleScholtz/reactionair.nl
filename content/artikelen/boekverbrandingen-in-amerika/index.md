@@ -1,17 +1,17 @@
 ---
-anchor: Center
+title: 'Boekverbrandingen in Amerika?'
+subtitle: 'Hoe de MSM desinformatie verspreidt over censuur'
+date: '2022-05-12'
 authors:
-- Paars van Grinsterer
-date: "2022-05-12"
+    - 'Paars van Grinsterer'
+themes: 'Politiek en Actualiteit'
 image: thumb.webp
-subtitle: Hoe de MSM desinformatie verspreidt over censuur
-themes: Politiek en Actualiteit
-title: Boekverbrandingen in Amerika?
+anchor: Center
 tags:
-- Woke
-- Wappies
+    - Amerika
+    - Wappies
+    - Woke
 ---
-
 
 Er is veel te doen over zogenaamde boekverbrandingen, _blacklists_ en verboden titels in Amerikaanse schoolbibliotheken. Laten we beginnen met de desinformatie die verspreid wordt door de hoofdstroom-media in zowel Nederland als Amerika.  Er zijn toch geen ”verboden boeken” zoals we die in Nederland kennen (bijvoorbeeld _Mein Kampf_) in het vrije Amerika? Toch wordt consequent over _“banned books”_ gesproken. Ik heb er echter geen enkel voorbeeld van kunnen vinden. Wel zijn er boeken die van leeslijsten worden gehaald. Boeken die niet in de collectie van school of publieke bibliotheken worden opgenomen. Het staat echter iedere particulier vrij om boeken te kopen of in hun particuliere bibliotheek op te nemen.
 

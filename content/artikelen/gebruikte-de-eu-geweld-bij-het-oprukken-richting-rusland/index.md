@@ -1,15 +1,18 @@
 ---
+title: 'Gebruikte de EU geweld bij het oprukken richting Rusland?'
+subtitle: 'Over wat geweld is'
+date: '2022-03-28'
 authors:
-- Gerald Russelman
-date: "2022-03-28"
-tags:
-- Oekraïne
+    - 'Gerald Russelman'
+themes: 'Politiek en Actualiteit'
 image: thumb.webp
-subtitle: Over wat geweld is
-themes: Politiek en Actualiteit
-title: Gebruikte de EU geweld bij het oprukken richting Rusland?
+anchor: Smart
+tags:
+    - NAVO
+    - Oekraïne
+    - Rusland
+    - oorlog
 ---
-
 
 Op 24 februari 2022 viel Rusland Oekraïne met militair geweld binnen en voor militairen is dit dus de dag waarop deze oorlog begon. Voor breder denkende politici, historici en nog meer voor psychologen ligt het anders: die willen een oorlog zien in een langer tijdsperspectief en vragen ook naar de oorzaken daarvan. Wat gebeurde er in de aanloopperiode van deze oorlog? Wat ging er vooraf aan het militaire geweld? Wat is eigenlijk geweld? 
 
