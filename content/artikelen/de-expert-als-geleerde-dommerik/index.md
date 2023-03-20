@@ -8,7 +8,7 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Technocratie
+    - Technologie
     - Wetenschap
 ---
 

@@ -14,8 +14,8 @@ tags:
     - 'Martin Heidegger'
     - Plato
     - 'René Guénon'
-    - metafysica
-    - taal
+    - Metafysica
+    - Linguistiek
 ---
 
 {{< quote

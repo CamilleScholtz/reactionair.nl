@@ -10,8 +10,8 @@ anchor: Smart
 tags:
     - 'Conservatieve Alliantie'
     - Islam
-    - immigratie
-    - pvv
+    - Immigratie
+    - PVV
 ---
 
 _Dit artikel is een reactie op een eerder gepubliceerd artikel op Reactionair.nl._[^1]
