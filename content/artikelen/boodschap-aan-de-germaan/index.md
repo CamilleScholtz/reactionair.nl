@@ -13,7 +13,7 @@ tags:
     - Islam
     - 'Pim Fortuyn'
     - Plato
-    - liberalisme
+    - Liberalisme
 ---
 
 Het eindeloos gehuil om migratie, omvolking en weet ik allemaal niet wat, begint mij langzamerhand de keel uit te hangen. In plaats van te externaliseren moet er grondig aan introspectie gedaan worden.

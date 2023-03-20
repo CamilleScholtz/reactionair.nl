@@ -8,7 +8,7 @@ themes: 'Politiek en Actualiteit'
 image: thumb.webp
 anchor: Smart
 tags:
-    - economie
+    - Economie
 ---
 
 "Chaos door personeelstekort: 'krapte wordt alleen maar groter'", "Ketheltunnel bij Rotterdam dicht door personeelstekort, zware spits verwacht" en "NS kampt met personeelstekort: treinen vallen uit".
