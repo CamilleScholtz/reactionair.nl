@@ -8,7 +8,6 @@ themes: 'Religie en Wijsbegeerte'
 image: cosmos-7.jpg
 anchor: Smart
 tags:
-    - moraal
     - Muziek
 ---
 
