@@ -14,7 +14,7 @@ tags:
     - 'Martin Lings'
     - 'René Guénon'
     - Immigratie
-    - 'jordan peterson'
+    - 'Jordan Peterson'
     - Alt-right
 ---
 
