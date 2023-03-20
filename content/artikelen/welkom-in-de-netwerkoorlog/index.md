@@ -9,7 +9,7 @@ image: thumb.webp
 anchor: Smart
 tags:
     - 'Jacues Ellul'
-    - oorlog
+    - Oorlog
 note: "Dit is een vertaling van het essay 'The Spectrum of Violence', het origineel is [hier](https://schwabstack.substack.com/p/the-spectrum-of-violence) te lezen."
 ---
 

@@ -12,7 +12,7 @@ tags:
     - 'Bronze Age Pervert'
     - 'Romeinse rijk'
     - Vergilius
-    - koryos
+    - Koryos
 note: 'Dit is een vertaling en bewerking van een Twitter-draad van [Mac Finn](https://twitter.com/ogmios).'
 ---
 

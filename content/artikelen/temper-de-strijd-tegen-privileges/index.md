@@ -9,9 +9,8 @@ image: thumb.webp
 anchor: Smart
 tags:
     - 'Franse revolutie'
-    - privilege
-    - reactionair
-    - woke
+    - Reactionair
+    - Woke
 ---
 
 _Dit artikel is eerder gepubliceerd in het NRC handelsblad._[^1]

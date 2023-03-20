@@ -14,7 +14,7 @@ tags:
     - 'Jean-Jacques Rousseau'
     - Liberalisme
     - 'Thierry Baudet'
-    - democratie
+    - Democratie
 ---
 
 Wie regeert, wordt sinds de laatste paar eeuwen primair ook weer beïnvloed door het stelsel waarbinnen de elite en de meerderheid functioneren. Daarom moeten de ontwikkelingen van complexere staatsvormen tijdens de vroegmoderne periode eerst bekeken worden.

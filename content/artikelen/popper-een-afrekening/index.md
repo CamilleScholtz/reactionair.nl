@@ -11,8 +11,8 @@ tags:
     - 'Friedrich Nietzsche'
     - 'Karl Popper'
     - 'Michel Foucault'
-    - consumentisme
-    - wetenschap
+    - Consumentisme
+    - Wetenschap
 ---
 
 ### I: wetenschap

@@ -10,7 +10,7 @@ anchor: Smart
 tags:
     - 'Curtis Yarvin'
     - Woke
-    - seks
+    - Seks
 note: 'Dit is een vertaling en bewerking van een Twitter-draad van [Curtis Yarvin](https://twitter.com/moldbugman).'
 ---
 

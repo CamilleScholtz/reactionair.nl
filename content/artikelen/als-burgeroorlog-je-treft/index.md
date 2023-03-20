@@ -8,7 +8,6 @@ themes: 'Politiek en Actualiteit'
 image: thumbo.jpg
 anchor: Top
 tags:
-    - Burgeroorlog
     - Liberalisme
     - Oekraïne
 ---

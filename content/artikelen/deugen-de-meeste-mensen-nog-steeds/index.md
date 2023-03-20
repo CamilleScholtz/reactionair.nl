@@ -12,7 +12,7 @@ tags:
     - 'Friedrich Nietzsche'
     - 'Rutger Bregman'
     - Wappies
-    - woke
+    - Woke
 ---
 
 {{< quote

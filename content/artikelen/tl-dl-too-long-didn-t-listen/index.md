@@ -11,7 +11,7 @@ tags:
     - Oekraïne
     - Rusland
     - 'Thierry Baudet'
-    - democratie
+    - Democratie
 ---
 
 >de·bat (het; o; meervoud: debatten)<br />

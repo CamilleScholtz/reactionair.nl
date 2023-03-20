@@ -20,7 +20,7 @@ tags:
     - 'René Girard'
     - 'Slavoj Žižek'
     - 'Theodore J. Kaczynski'
-    - ai
+    - AI
 note: 'Dit is een vertaling en bewerking van een Twitter-draad van [Forrest](https://twitter.com/Foz89107323)'
 ---
 

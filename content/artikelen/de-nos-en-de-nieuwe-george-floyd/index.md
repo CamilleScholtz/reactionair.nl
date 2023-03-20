@@ -7,6 +7,8 @@ authors:
 themes: 'Politiek en Actualiteit'
 image: a7600b4e-8f08-45f8-964f-a8f9bdf937ef.jpg
 anchor: Smart
+tags:
+    - BLM
 caption: 'Kelly Kline, Black Lives Matter Protest, Seattle WA (via Flickr)'
 ---
 

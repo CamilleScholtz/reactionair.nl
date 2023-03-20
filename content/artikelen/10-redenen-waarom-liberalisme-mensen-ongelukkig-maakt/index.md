@@ -8,9 +8,9 @@ themes: Klikaas
 image: thumb.webp
 anchor: Smart
 tags:
-    - consumentisme
-    - liberalisme
-    - 'michel houellebecq'
+    - Consumentisme
+    - Liberalisme
+    - 'Michel Houellebecq'
 ---
 
 1.  Liberalisme leidt tot individualisme en sociale atomisering. Dat terwijl mensen juist een diepe behoefte hebben om deel uit te maken van een gemeenschap. Een gezin, een streek, een natie.

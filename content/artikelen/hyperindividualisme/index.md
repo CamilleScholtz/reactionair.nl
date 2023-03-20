@@ -13,7 +13,6 @@ tags:
     - 'Jean-Jacques Rousseau'
     - 'Jean-Paul Sartre'
     - 'Sigmund Freud'
-    - gemeenschap
 ---
 
 Postmoderniteit wordt gekenmerkt door de delegitimisering en het verval van elke traditionele structuur. Het postmoderne individu erkent enkel nog zijn eigen subjectiviteit als legitimeringsgrond. De geworpenheid van het individu in de reeds bestaande wereld opgebouwd uit pre-existerende structuren is vervangen door het centrale credo der existentialisten ‘existentie gaat vooraf aan essentie’.[^1] Deze situatie waarbij het individu de enige locus is van waarheid kan worden omschreven als hyperindividualisme.

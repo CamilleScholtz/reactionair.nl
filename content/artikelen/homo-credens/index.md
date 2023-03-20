@@ -12,9 +12,8 @@ tags:
     - 'Friedrich Schiller'
     - 'Sigmund Freud'
     - Socrates
-    - metafysica
-    - sciëntisme
-    - wetenschap
+    - Metafysica
+    - Wetenschap
 ---
 
 Waan—de hedendaagse mens leeft in waan. Hij leeft in de waan van ongelovigheid, denkt dat hij bijgeloof en religieuze waan ontvlucht is. Hij zucht niet onder het juk van God of kerk en lacht om de geborneerde zielen die nog geloven dat er boven het uitspansel der hemelen een liefhebbende vader woont.[^1] Maar welk een zelfbedrog! De mens kán niet zonder geloof; en in deze slechts ogenschijnlijk goddeloze maatschappij zijn er andere goden waaraan de mens zich onderwerpt.

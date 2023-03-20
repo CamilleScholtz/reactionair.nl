@@ -10,7 +10,7 @@ anchor: Center
 tags:
     - 'Martin Heidegger'
     - 'Oswald Spengler'
-    - technologie
+    - Technologie
 note: "Dit is een vertaling van het essay 'Terminator Future', het origineel is [hier](https://astralflight.substack.com/p/terminator-future) te lezen."
 ---
 

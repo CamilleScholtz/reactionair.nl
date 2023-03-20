@@ -9,8 +9,8 @@ image: thumb.webp
 anchor: Smart
 tags:
     - 'Friedrich Schiller'
-    - 'black lives matter'
-    - marxisme
+    - BLM
+    - Marxisme
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/hybridisering/) het vorige deel._

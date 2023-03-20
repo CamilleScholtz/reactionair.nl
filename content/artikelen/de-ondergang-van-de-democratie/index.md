@@ -17,10 +17,10 @@ tags:
     - Plato
     - Pythagoras
     - Socrates
-    - democratie
-    - marxisme
-    - nationaal-socialisme
-    - totalitarisme
+    - Democratie
+    - Marxisme
+    - Nationaal-socialisme
+    - Totalitarisme
 ---
 
 Liberale westerse democratie houdt zichzelf niet per definitie in stand. Revolutionaire bewegingen aan de linkerkant en contrarevolutionairen aan de rechter, kunnen gebruik maken van verkiezingen om het liberaal-democratische systeem af te schaffen.

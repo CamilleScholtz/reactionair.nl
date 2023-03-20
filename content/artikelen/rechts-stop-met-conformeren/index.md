@@ -9,7 +9,7 @@ image: thumb.webp
 anchor: Center
 tags:
     - 'Marcus Aurelius'
-    - woke
+    - Woke
 ---
 
 _Dit essay is oorspronkelijk geschreven voor de JONG21 'Wedstrijd van het Vrije Woord'._

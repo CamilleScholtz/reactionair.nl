@@ -15,7 +15,7 @@ tags:
     - 'Nicolás Gómez Dávila'
     - 'Robert Lemm'
     - 'Thomas van Aquino'
-    - reactionair
+    - Reactionair
 ---
 
 >_“De authentieke reactionair kijkt niet naar de toekomst, zoals de liberaal. Hij kijkt evenmin naar het verleden, zoals de conservatief. Hij kijkt niet vooruit, en niet achterom. Hij kijkt naar boven, naar de sterren en de hemel, naar de sporen die de Eeuwigheid heeft achtergelaten in de Tijd.”_

@@ -12,8 +12,8 @@ tags:
     - Liberalisme
     - Pythagoras
     - 'René Guénon'
-    - lgbt
-    - metafysica
+    - LGBT
+    - Metafysica
 ---
 
 Het liberale gedachtegoed draagt vrijheid hoog in het vaandel, *liberté*. Dit beginsel onderscheidt zich van andere wereldbeelden door zijn negatieve karakter, wat betekent dat vrijheid slechts kan worden bereikt door middel van *negatie*. Vergelijk het met een gevangeniscel, waar men enkel kan ontsnappen door de omhulling te doorbreken. Deze analogie geldt ook voor andere domeinen: in de sociale sfeer kan men de normatieve grenzen doorbreken door bijvoorbeeld de traditionele geslachtsrollen te ontmantelen. Het categorische domein kan het beperkende concept van de *"gender binary"* doorbreken en een breed spectrum van genderidentiteiten omarmen. In de sfeer van moraal en kunst kan men de begrippen "goed" en "slecht", "mooi" en "lelijk" loslaten en zich bevrijden van deze beperkingen.

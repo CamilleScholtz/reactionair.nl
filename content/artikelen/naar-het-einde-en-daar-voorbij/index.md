@@ -11,9 +11,8 @@ tags:
     - 'Martin Heidegger'
     - 'Martin Lings'
     - 'René Guénon'
-    - metafysica
-    - oneindigheid
-    - theologie
+    - Metafysica
+    - Theologie
 ---
 
 Dit artikel gaat over enkele interacties met het idee van het onbegrensde, het eindeloze, oneindigheid, en enkele logische consequenties van deze concepten en de mogelijke implicaties voor theologie.

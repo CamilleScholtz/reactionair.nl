@@ -9,7 +9,7 @@ image: thumb.webp
 anchor: Center
 tags:
     - 'Theodor Adorno'
-    - muziek
+    - Muziek
 ---
 
 {{< quote

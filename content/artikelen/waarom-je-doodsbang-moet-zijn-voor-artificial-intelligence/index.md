@@ -10,7 +10,7 @@ anchor: Smart
 tags:
     - Kwantificering
     - 'René Guénon'
-    - ai
+    - AI
 ---
 
 In de visie van René Guénon is het universum een hiërarchie van zijn, met als hoogste niveau het spirituele rijk, gevolgd door het psychische rijk, het intellectuele rijk en tenslotte het fysieke rijk. Deze hiërarchie is gebaseerd op het principe van kwalitatieve superioriteit, waarbij elk hoger niveau kwalitatiever (en dus reëler) is dan het niveau eronder.

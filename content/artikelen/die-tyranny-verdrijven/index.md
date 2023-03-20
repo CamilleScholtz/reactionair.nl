@@ -9,7 +9,7 @@ image: thumb.webp
 anchor: Smart
 tags:
     - 'Charles Darwin'
-    - elite
+    - Elite
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/verelendungstheorie/) het vorige deel._

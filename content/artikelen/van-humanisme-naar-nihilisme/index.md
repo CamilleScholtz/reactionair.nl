@@ -22,11 +22,10 @@ tags:
     - 'Sigmund Freud'
     - 'Theodor Adorno'
     - 'William Shakespeare'
-    - islam
-    - materialisme
-    - nihilisme
-    - verlichting
-    - verval
+    - Islam
+    - Materialisme
+    - Nihilisme
+    - Verlichting
 note: "Dit is een vertaling van het essay 'From Humanism to Nihilism: The Eclipse of Secular Ethics', het origineel is [hier](https://479141-1506839-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/04/CMCPapers6-HumanismtoNihilism.pdf) te lezen."
 ---
 

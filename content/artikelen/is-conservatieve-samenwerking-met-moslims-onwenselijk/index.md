@@ -13,8 +13,9 @@ tags:
     - Islam
     - 'Martin Lings'
     - 'René Guénon'
-    - immigratie
+    - Immigratie
     - 'jordan peterson'
+    - Alt-right
 ---
 
 Ik heb het stuk _'Tegen een politiek verbond met moslims'_ op _Heraut_ met veel interesse gelezen.[^1] Het is mooi om te zien dat de ideeen rond een conservatieve alliantie met moslims gaat leven, en dermate zo dat men erover denkt, spreekt en schrijft. 

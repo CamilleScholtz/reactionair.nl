@@ -11,8 +11,8 @@ tags:
     - 'Oswald Spengler'
     - 'René Descartes'
     - 'Sigmund Freud'
-    - consumentisme
-    - metafysica
+    - Consumentisme
+    - Metafysica
 ---
 
 De bekende filosoof René Descartes gebruikte de volgende woorden: _‘ik denk, dus ik ben’_.[^1] Die zin is een van de grondbeginselen van het rationalisme. Maar hoe onbegrensd is die formulering nou werkelijk?  Een mens kan niet onbegrensd autonoom zijn. De mens is immers niet als entiteit geboren en kan niet functioneren als een massa in de _“ruimte”_. De omgeving is één van de belangrijkste factoren die de mens beïnvloeden. Velen menen onder het begrip van autonomie van de mens te verstaan dat de mens fysiek bestaat, zelf denkt, denkt te voelen en ook kan twijfelen. Maar wat de grond is van dat twijfelen, het fysieke bestaan, het zelf denken en het voelen blijft vaak onbeantwoord. Het lijkt me logisch dat het _“zijn”_ van de mens door de grond wordt beïnvloed, we zijn immers geen grondeenheid. 

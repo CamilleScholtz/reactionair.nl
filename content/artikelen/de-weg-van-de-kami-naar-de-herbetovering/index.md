@@ -21,10 +21,8 @@ tags:
     - 'Paul Kingsnorth'
     - Plato
     - 'René Descartes'
-    - atheisme
-    - materialisme
-    - onttovering
-    - secularisme
+    - Atheisme
+    - Materialisme
 ---
 
 Met de onttovering van de wereld wees socioloog Max Weber in zijn werk ‘Wissenschaft als Beruf’ op de culturele rationalisering en devaluatie van religie die ontstond in het moderniserende, geseculariseerde westen.

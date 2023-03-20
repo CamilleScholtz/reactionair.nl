@@ -8,7 +8,7 @@ themes: Klikaas
 image: thumb.webp
 anchor: Smart
 tags:
-    - rechtsextremisme
+    - Rechtsextremisme
 ---
 
 De AIVD bracht hun jaarverslag uit[^1] en gaf het volgende aan:

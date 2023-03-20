@@ -11,10 +11,10 @@ tags:
     - 'Oswald Spengler'
     - 'René Guénon'
     - 'Robert Lemm'
-    - faust
-    - islam
-    - metafysica
-    - tijd
+    - Faust
+    - Islam
+    - Metafysica
+    - Tijd
 ---
 
 Tijd veranderd in ruimte, dit is de titel van een hoofdstuk 23 in René Guénon's meesterwerk _Le Règne de la Quantité et les Signes des Temps_. Onlangs was ik bij een lezing van Robert Lemm, ook hij sprak over ruimte en tijd, en specifiek hoe wij — het moderne westen — een obsessie hebben met het concept van oneindige ruimte, tot het punt dat we niet langer naar de hemel opkijken, maar onszelf letterlijk de ruimte in schieten.

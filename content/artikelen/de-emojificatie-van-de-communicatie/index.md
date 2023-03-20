@@ -10,8 +10,8 @@ anchor: Smart
 tags:
     - 'Friedrich Nietzsche'
     - 'Ludwig Wittgenstein'
-    - media
-    - taal
+    - Media
+    - Lingiustiek
 ---
 
 Omstreeks het jaar 1900 was zo'n 80% van de wereldbevolking analfabeet, tegenwoordig is dat minder dan 20%. Het kan hard gaan met de vooruitgang, hoewel er ook mensen zijn die hier vraagtekens bij hebben gesteld. 'Dat iedereen mag leren lezen, bederft op den duur niet alleen het schrijven, maar ook het denken.' zei Nietzsche bij monde van Zarathoestra.[^1] 

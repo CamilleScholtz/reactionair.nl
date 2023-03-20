@@ -8,7 +8,6 @@ themes: 'Politiek en Actualiteit'
 image: thumb.webp
 anchor: Smart
 tags:
-    - '19e eeuw'
     - 'Erik von Kuehnelt-Leddihn'
     - 'Ernst Jünger'
     - 'Julius Evola'
@@ -17,9 +16,9 @@ tags:
     - 'Oswald Spengler'
     - 'Sid Lukkassen'
     - 'Thierry Baudet'
-    - christendom
-    - reactionair
-    - taal
+    - Christendom
+    - Reactionair
+    - Linguistiek
 ---
 
 In de loop van de 19e eeuw ontstonden er vanuit de reactionaire traditie twee Christelijke politieke stromingen in Nederland. Slechts één daarvan zou het Christelijk-historische geluid in de politiek van Nederland gaan domineren. Wat kunnen we leren van die tijd en welke valkuilen moet de reactionair van vandaag vermijden? Maar eerst; wat betekent reactionair eigenlijk?

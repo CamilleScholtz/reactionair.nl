@@ -13,8 +13,8 @@ tags:
     - Plato
     - Pythagoras
     - Socrates
-    - incel
-    - seks
+    - Incel
+    - Seks
 ---
 
 Catherine van Siena bleef bij haar ouders wonen, bleef bewust maagd, volgde geen uitgebreide opleiding, zocht geen carrière en stierf toen ze 33 was. Ze was ook een van de meest beroemde vrouwen uit de hele periode van de middeleeuwen en werd bewonderd en geprezen lang na haar dood. Ze werd officieel heilig verklaard, minder dan een eeuw naar haar dood, had visioenen van God en werd serieus genomen door de Paus.[^1]

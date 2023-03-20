@@ -12,8 +12,8 @@ tags:
     - 'John Vervaeke'
     - Plato
     - Socrates
-    - wetenschap
-    - zorg
+    - Wetenschap
+    - Zorg
 ---
 
 In het Algemeen Dagblad verscheen onlangs een artikel met de kop *'Ziekenhuis gaat niet meer iedereen helpen - "Dit is geen supermarkt waar iedereen iets kan kopen"'*.[^1] Hoewel de verontwaardiging op Twitter politiek spectrumbreed was, kunnen we deze toch karakteriseren als sociaal-democratisch. De verzorgingsstaat is daar immers het kind van en wij, als kinderen van de verzorgingsstaat, zien het recht op zorg als onvervreemdbaar.

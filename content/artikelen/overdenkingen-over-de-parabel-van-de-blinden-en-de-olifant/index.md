@@ -11,8 +11,8 @@ tags:
     - 'Immanuel Kant'
     - 'Oswald Spengler'
     - 'Thomas van Aquino'
-    - faust
-    - metafysica
+    - Faust
+    - Metafysica
 ---
 
 ### Kentheorie in het westen...

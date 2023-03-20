@@ -10,9 +10,9 @@ anchor: Smart
 tags:
     - 'Arthur Schopenhauer'
     - Corona
-    - 'black lives matter'
-    - liberalisme
-    - woke
+    - BLM
+    - Liberalisme
+    - Woke
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/die-tyranny-verdrijven/) het vorige deel._

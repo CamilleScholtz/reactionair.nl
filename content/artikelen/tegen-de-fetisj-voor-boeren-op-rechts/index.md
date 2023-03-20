@@ -10,7 +10,6 @@ anchor: Bottom
 tags:
     - Boeren
     - Klimaatverandering
-    - milieu
 ---
 
 Vandaag wil ik met een rechtse mythe afrekenen: Het idee dat de stikstofcrisis alleen op papier bestaat en er een soort complot bekokstooft wordt vanuit de regering om de veeteelt om zeep te helpen, met als doel ruimte te scheppen voor nieuwe woningen. Dit idee is dus je reinste flauwekul.

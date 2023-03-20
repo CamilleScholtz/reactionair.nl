@@ -11,8 +11,8 @@ tags:
     - Corona
     - 'Oswald Spengler'
     - 'René Descartes'
-    - metafysica
-    - transhumanisme
+    - Metafysica
+    - Transhumanisme
 ---
 
 _“De dwaas op de heuvel die de zon ziet ondergaan, maar de denkende ogen in zijn hoofd zien de wereld draaien”_.[^1] Ons moderne wereldbeeld is in de ban van mechanisering. Sinds rationaliteit dominant is geworden in ons moderne discours valt mechanisering daarbij ook niet weg te denken. Mechanisering als parapluterm voor begrippen als kwantificering en technologische vooruitgang. De vraag is of deze mechanisering, die leidend is in ons moderne discours, alomvattend is voor de begrijpelijkheid van de werkelijkheid van onze wereld

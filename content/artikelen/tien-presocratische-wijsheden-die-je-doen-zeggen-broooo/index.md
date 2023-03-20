@@ -12,7 +12,7 @@ tags:
     - Heraclitus
     - Herakleitos
     - Pythagoras
-    - metafysica
+    - Metafysica
 ---
 
 {{< slider

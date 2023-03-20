@@ -10,7 +10,7 @@ anchor: Smart
 tags:
     - 'Baruch Spinoza'
     - 'Griekse mythologie'
-    - metafysica
+    - Metafysica
 ---
 
 Vlak na de Eerste Wereldoorlog verscheen het filosofische magnum opus van de Nederlandse auteur Carry van Bruggen, _Prometheus_ (1919). Hoewel Van Bruggen (1881-1932) zelf hoge verwachtingen had van het boek, raakte het al tijdens diens verschijning in de vergetelheid. Was dit terecht? Zeker niet, want het werk bevat een vernuftig vertoog over de ontwikkeling van het mensdom. Hier bekijken wij het nader.

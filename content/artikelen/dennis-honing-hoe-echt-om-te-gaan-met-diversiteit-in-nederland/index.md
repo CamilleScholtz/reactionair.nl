@@ -12,7 +12,7 @@ tags:
     - 'Geert Wilders'
     - Islam
     - 'Thierry Baudet'
-    - immigratie
+    - Immigratie
 ---
 
 Waar het bij de Germanen om gaat is dat zij zichzelf foutief hebben gerelativeerd. Zijn volk. Zijn cultuur. Zijn natiestaten. Wanneer een jonge Germaan zal aangeven dat hij jong wil huwen en zijn dochters wil behoeden voor contextloze seksualiteit, dan zal deze jongeman worden weggezet als een gek. Als een Amish. Als een grap. 

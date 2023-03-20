@@ -9,9 +9,9 @@ image: thumb.webp
 anchor: Smart
 tags:
     - 'C. S. Lewis'
-    - consumentisme
-    - deugdethiek
-    - verslaving
+    - Consumentisme
+    - Deugdethiek
+    - Verslaving
 ---
 
 In een artikel eerder gepubliceerd op Reactionair.nl, _Autonomie en consumptie: Hoe autonomie met de consumptiemaatschappij samenhangt_,[^1] vroeg Jurbin van Hooff zich af of er een mogelijkheid is om te ontsnappen aan de consumptiemaatschappij _“waarin wij, min of meer, sinds de 20e eeuw leven”_. In dit artikel ga ik op zoek naar de mogelijkheden voor individuen om autonomie na te streven.

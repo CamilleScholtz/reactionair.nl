@@ -8,9 +8,8 @@ themes: 'Religie en Wijsbegeerte'
 image: cosmos-7.jpg
 anchor: Smart
 tags:
-    - 'Goed en kwaad'
+    - moraal
     - Muziek
-    - Parabel
 ---
 
 Ooit, zo stel ik me voor, schiep God hemel en aarde en alle levende wezens erin met ons mensen als de kroon op de schepping.

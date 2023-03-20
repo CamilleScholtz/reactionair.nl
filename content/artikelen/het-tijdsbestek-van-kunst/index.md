@@ -9,8 +9,7 @@ image: thumb.webp
 anchor: Smart
 tags:
     - Christendom
-    - esthetiek
-    - kunst
+    - Kunst
 note: "Dit is een vertaling van het essay 'The Timeframe of Art', het origineel is [hier](https://glasszealot.substack.com/p/the-timeframe-of-art) te lezen."
 ---
 

@@ -9,8 +9,8 @@ image: egpfllzu8aahd9d.jpeg
 anchor: Smart
 tags:
     - 'David Icke'
-    - complottheorie
-    - wappies
+    - Complottheorie
+    - Wappies
 note: "Dit is een vertaling van het essay 'Embracing the Fringe', het origineel is [hier](https://apolloniangerm.substack.com/p/embracing-the-fringe) te lezen."
 ---
 

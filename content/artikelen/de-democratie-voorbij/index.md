@@ -9,7 +9,7 @@ image: thumb.webp
 anchor: Smart
 tags:
     - 'Robert Lemm'
-    - democratie
+    - Democratie
 ---
 
 _De democratie voorbij, door Frank Karsen en Karel Beckman._

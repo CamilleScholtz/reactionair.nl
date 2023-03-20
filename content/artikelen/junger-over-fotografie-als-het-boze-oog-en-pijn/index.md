@@ -14,11 +14,10 @@ tags:
     - 'Ernst Jünger'
     - 'Guy Debord'
     - 'Jean Baudrillard'
-    - Tertullianus
     - 'Theodor Adorno'
-    - film
-    - media
-    - oorlog
+    - Film
+    - Media
+    - Oorlog
 ---
 
 Als men het menstype zoals het zich in onze tijd ontwikkelt in één woord zou beschrijven, zou men kunnen zeggen dat een van de meest opvallende eigenschappen ervan het bezit van een 'tweede' bewustzijn is. Dit tweede en koudere bewustzijn blijkt uit het zich steeds scherper ontwikkelende vermogen om zichzelf als object te zien. Dit vermogen moet niet verward worden met zelfreflectie door psychologie van de oude stempel. Het verschil tussen psychologie en dit tweede bewustzijn is dat psychologie de gevoelige persoon kiest als object van overweging, terwijl het tweede bewustzijn zich richt op een persoon die zich buiten de pijnzone bevindt. Toegegeven, ook hier zijn er overgangen, dus men moet inzien dat de psychologie, zoals elk proces van ontbinding, ook een ordelijke kant heeft. Dit komt vooral tot uiting in die branches waar het zich heeft ontwikkeld tot een puur meetprocédé.

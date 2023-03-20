@@ -8,7 +8,7 @@ themes: 'Politiek en Actualiteit'
 image: thumb.webp
 anchor: Center
 tags:
-    - seks
+    - Seks
 ---
 
 In de toekomst zal al het werk door robots worden gedaan. Zelfs creatief werk, wat dan weer de vraag oproept of creativiteit wel echt de schepping van iets nieuws is, of slechts de herschikking van bekende elementen. Het GPT-3-algoritme[^1] kreeg (in het Engels) de zinnen 'links is de politieke uitdrukking van' en 'het meest linkse land ter wereld is' gevoed en spuwde het volgende weer uit:

@@ -10,10 +10,10 @@ anchor: Top
 tags:
     - 'Friedrich Nietzsche'
     - 'Slavoj Žižek'
-    - hedonisme
-    - incel
-    - liberalisme
-    - seks
+    - Hedonisme
+    - Incel
+    - Liberalisme
+    - Seks
 ---
 
 ### De bevrijding van de jaren '60

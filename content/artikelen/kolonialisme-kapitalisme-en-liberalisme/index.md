@@ -11,8 +11,8 @@ tags:
     - Islam
     - 'Karl Marx'
     - Liberalisme
-    - kapitalisme
-    - kolonialisme
+    - Kapitalisme
+    - Kolonialisme
 ---
 
 Kolonialisme. Als je het beste voorbeeld van de Engelse term _“buzzword”_ zou moeten geven zou dit woord een goede kandidaat zijn. We hebben de afgelopen jaren gezien dat standbeelden naar beneden worden gehaald, straatnamen worden gewijzigd, curricula op universiteiten worden omgegooid en helden uit het nationale verleden worden beschimpt. Kritiek op kolonialisme is mainstream, al zijn de hardste “anti-kolonialisme” schreeuwers vaak van mening dat het nog niet mainstream genoeg is, of dat men er harder tegen op moet treden. 
