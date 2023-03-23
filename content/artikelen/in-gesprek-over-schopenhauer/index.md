@@ -1,20 +1,23 @@
 ---
-anchor: Smart
+title: 'In gesprek over Schopenhauer'
+subtitle: 'Een recensie van het boek “De weg terug”'
+date: '2022-12-09'
 authors:
-- Anton Prins
-caption: Caspar David Friedrich, Der Chasseur im Walde
-tags:
-- Aldous Huxley
-- Joris van Rossum
-- Arthur Schopenhauer
-date: "2022-12-09"
+    - 'Anton Prins'
+themes: 'Recensie en Biografie'
 image: der_chasseur_im_walde_-_caspar_david_friedrich-1-.jpg
-note: 'Dit artikel is een recensie van het boek ''De weg terug: Schopenhauer voor
-  een dolende wereld'' van dr. Joris van Rossum. Is uw interesse door dit artikel
-  gewekt? Bestel het boek dan [hier](https://deblauwetijger.com/product/joris-van-rossum-de-weg-terug-schopenhauer-voor-een-dolende-wereld/).'
-subtitle: Een recensie van het boek “De weg terug”
-themes: Recensie en Biografie
-title: In gesprek over Schopenhauer
+anchor: Smart
+caption: 'Caspar David Friedrich, Der Chasseur im Walde'
+tags:
+    - 'Aldous Huxley'
+    - 'Arthur Koestler'
+    - 'Arthur Schopenhauer'
+    - 'Charles Darwin'
+    - 'Joris van Rossum'
+    - 'Marcel Proust'
+    - Metafysica
+    - 'Richard Dawkins'
+note: "Dit artikel is een recensie van het boek 'De weg terug: Schopenhauer voor een dolende wereld' van dr. Joris van Rossum. Is uw interesse door dit artikel gewekt? Bestel het boek dan [hier](https://deblauwetijger.com/product/joris-van-rossum-de-weg-terug-schopenhauer-voor-een-dolende-wereld/)."
 ---
 
 {{< quote

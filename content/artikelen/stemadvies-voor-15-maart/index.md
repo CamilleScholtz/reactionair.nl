@@ -10,6 +10,7 @@ anchor: Smart
 caption: 'The county election van George Caleb Bingham, 1852.'
 tags:
     - BBB
+    - Democratie
     - FVD
     - JA21
     - PVV

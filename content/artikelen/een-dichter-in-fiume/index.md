@@ -9,6 +9,9 @@ themes: 'Recensie en Biografie'
 image: 3ba3710b-4f9d-4133-8168-2e56d6111237.jpg
 anchor: Smart
 caption: "Gabrielle D'Annunzio in gesprek met Benito Mussolini."
+tags:
+    - Europa
+    - 'Tweede Wereldoorlog'
 ---
 
 "Aan wie behoort Fiume toe?", schreeuwde een jubelende Gabriele D'Annunzio een dolblije Italiaanse menigte toe vanaf een balkon in het Kroatisch-Italiaanse Adriatische havenstadje. "Aan ons, aan ons!", antwoordde de menigte de Italiaanse dichter-leider. "En aan wie behoort Italië toe?", kreeg wederom het "aan ons!" als enthousiaste reactie toegeworpen. De vraag aan wie Italië toebehoorde zou met dit antwoord, in het Italiaans 'a noi', in de jaren volgend op de doldwaze overname van Fiume door D'Annunzio weerklank vinden in de mars op Rome van de Italiaanse leider Benito Mussolini. Het is slechts één van de voorbeelden die de avontuurlijke, maar gedoemd te mislukken, expeditie van een Italiaanse dichter naar het nu in Kroatië gelegen stadje de moeite van het nader bestuderen waard maken. De crisis in Fiume tekende door haar verstrekkende invloed op Mussolini niet alleen de koers van Italië, maar kan gezien worden als vergeten invloed op een vernietigende loop van de Europese geschiedenis.

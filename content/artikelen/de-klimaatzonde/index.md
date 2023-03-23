@@ -4,7 +4,7 @@ subtitle: 'Hoe de hamartiologie overleeft in een modern tijdperk'
 date: '2022-04-23'
 authors:
     - 'Jan-Willem Veldhuizen'
-themes: 'Politiek en Actualiteit'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Top
 tags:

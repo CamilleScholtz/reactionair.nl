@@ -1,16 +1,21 @@
 ---
-anchor: Smart
-authors:
-- Jan-Jaap Moltman
-date: "2022-08-26"
-tags:
-- China
-- Oekraïne
-image: pm_03.jpg
+title: 'Zelfredzaamheid in de polder'
 subtitle: 'Over een zelfvoorzienend Nederland '
-themes: Politiek en Actualiteit
-title: Zelfredzaamheid in de polder
+date: '2022-08-26'
+authors:
+    - 'Jan-Jaap Moltman'
+themes: 'Politiek en Actualiteit'
+image: pm_03.jpg
+anchor: Smart
+tags:
+    - China
+    - Kapitalisme
+    - Macht
+    - Oekraïne
+    - Oorlog
+    - 'Sun Tzu'
 ---
+
 Zo ongeveer tegelijk met het inslaan van de eerste Russische raketten op soeverein Oekraïens grondgebied daalde in Nederland het besef in dat vrede, zoals dat afgelopen decennia soms leek, niet vanzelfsprekend is. Het is erg cru, maar kennelijk was een oorlog op het Europese continent nodig om zelfs de meest pacifistische  vredesactivist te laten inzien dat vrede geen dode letter is, maar iets dat een land opeist en uitstraalt middels kracht en leiderschap. Een vrede in het belang van boer, burger en de Nederlandse concurrentiepositie en geregisseerd vanuit ons Koninkrijk in plaats van beraamd op congressen waar filantropie en globalisme gepredikt worden. En dat is enkel mogelijk wanneer ‘managers’ in de politiek plaatsmaken voor volksvertegenwoordigers, Nederland haar eigen voedselproductie beschermt en verlengstukken van onvrije landen geen vrij baan hebben in de strategische delen van onze economie.
 
 Het vrijemarktdenken is diepgeworteld in de haarvaten van onze  samenleving, waarin waarden als zelfontplooiing, tolerantie en democratie centraal staan. Waar eeuwen geleden in de tijden van zonnekoningen en machtige republieken het nul-som-denken (het idee dat een land enkel rijk kan worden ten koste van een ander land) zorgde voor een krachtige handelsmacht waarin soldaat en koopman verenigd waren, staat nu vrij en zelfstandig ondernemerschap centraal. Door het ontbreken van sterke en centrale economische sturing in staat om 's lands belangen te verdedigen, vielen mede door de liberalisering cruciale zaken in handen van buitenlandse mogendheden. Niet alleen in Nederland, maar globaal kwamen langzamerhand vitale levensaders van de wereldeconomie in handen van Chinezen, Russen en Arabieren. Waar we op de Europese energiemarkt vooral afhankelijk zijn van Rusland als grootleverancier, heeft China sluipenderwijs aan terrein gewonnen in strategischere economische posities. Aangestuurd door het politbureau van de Communistische Partij kloppen Chinese zakenlui met een zak geld aan in het Westen. Hier proberen ze zo min mogelijk aandacht op zich te vestigen, maar aanwezig zijn ze zeker. Waar de communistische Sovjet-Unie opviel door haar openlijke vijandige houding ten opzichte van het Westen, lijkt China het spel van de lange adem te spelen. Dit wordt gefinancierd door de eigen bevolking tegen lage lonen exportproducten te laten produceren of het arbeidsvermogen in te zetten ten gunste van de staat. Hierdoor heeft China veel kapitaal te besturen. Kapitaal waar men in het Westers denken voor zwicht. De uitspraak van de briljante klassieke Chinese strateeg Sun Tzu luidt niet voor niets:

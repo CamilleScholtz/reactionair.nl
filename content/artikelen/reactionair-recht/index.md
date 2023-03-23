@@ -1,14 +1,18 @@
 ---
-anchor: Smart
+title: 'Reactionair recht'
+subtitle: 'We moeten het over Roe en rechten hebben'
+date: '2022-09-11'
 authors:
-- Sanura
-- Calvin Tangelder
-date: "2022-09-11"
+    - Sanura
+    - 'Calvin Tangelder'
+themes: 'Cultuur en Maatschappij'
 image: 3000.jpeg
-subtitle: We moeten het over Roe en rechten hebben
-themes: Cultuur en Maatschappij
-title: Reactionair recht
+anchor: Smart
+tags:
+    - Abortus
+    - Montesquieu
 ---
+
 Het Westen gaat gebukt onder een extreem simplistische en bijna mythische visie op de Franse Revolutie en de Verlichting. Door de Franse Revolutie zouden we zogenaamd democratie en dingen als rechtsstaat, vrijheid en ‘gelijkheid’ hebben. Daarvoor was er onderdrukking, uitbuiting en oneerlijkheid. De duistere Middeleeuwen en heksenjachten.
 
 Het stereotype van de ‘duistere Middeleeuwen’ is inmiddels al verworpen door vrijwel alle historici maar er blijft een verkeerd beeld heersen omtrent pre-1789 Europa. 1789 (eigenlijk 1792) introduceerde het stelsel van meerderheidsdemocratie, niet het recht of de wet. Er is al geschreven, dat de rechtsstaat begon als een conservatief-liberaal en reactionair concept dat niets te maken had met democratie en zelfs niet essentieel gebonden was aan een trias politica.[^1]

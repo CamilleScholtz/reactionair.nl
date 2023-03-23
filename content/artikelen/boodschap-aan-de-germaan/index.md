@@ -4,16 +4,16 @@ subtitle: 'Van een Marokkaan'
 date: '2021-12-26'
 authors:
     - Mootje
-themes: 'Politiek en Actualiteit'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
     - 'Conservatieve Alliantie'
     - 'Geert Wilders'
     - Islam
+    - Liberalisme
     - 'Pim Fortuyn'
     - Plato
-    - Liberalisme
 ---
 
 Het eindeloos gehuil om migratie, omvolking en weet ik allemaal niet wat, begint mij langzamerhand de keel uit te hangen. In plaats van te externaliseren moet er grondig aan introspectie gedaan worden.

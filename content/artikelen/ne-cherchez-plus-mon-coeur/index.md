@@ -9,6 +9,9 @@ image: the-lovers-1928-1-.jpg
 anchor: Smart
 tags:
     - 'Baruch Spinoza'
+    - 'Charles Baudelaire'
+    - Liefde
+    - 'Marcel Proust'
     - 'Theodor Adorno'
 ---
 

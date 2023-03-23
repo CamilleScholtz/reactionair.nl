@@ -1,13 +1,23 @@
 ---
-anchor: Smart
+title: 'Sinterklaas, de Indo-Europese Hemelvader?'
+subtitle: 'Een afdaling in de goddelijke essentie van de Sinterklaastraditie'
+date: '2022-12-04'
 authors:
-- Elvengast
-date: "2022-12-04"
+    - Elvengast
+themes: 'Religie en Wijsbegeerte'
 image: wekyztlb.jpg-medium.webp
-subtitle: Een afdaling in de goddelijke essentie van de Sinterklaastraditie
-themes: Religie en Wijsbegeerte
-title: Sinterklaas, de Indo-Europese Hemelvader?
+anchor: Smart
+tags:
+    - Christendom
+    - 'Griekse mythologie'
+    - Heidendom
+    - Hindoeisme
+    - Proklós
+    - Rigveda
+    - Sinterklaas
+    - 'Terry Pratchett'
 ---
+
 {{< quote
 	text="Gods don’t die. Never completely die... There’s always somewhere, inside some stone, perhaps, or the words of a song, or riding the mind of some animal, or maybe in a whisper on the wind. They never entirely go, they hang onto the world by the tip of a fingernail, always fighting to find a way back. Once a god, always a god. Dead, perhaps, but only like the world in winter—"
 	author="Terry Pratchett, Hogfather"
@@ -51,7 +61,7 @@ Drie Zeusen. *Ζεὺς Ὀλυμπιακός* (*Zèfs Olympiakós*: de Olympisc
 
 In dit godsbeeld komt de oude vorm van theïsme wellicht het sterkst naar voren: Zeus is zowel zichzelf, *als* Hades en Poseidon. De Hemelvader is een drie-eenheid van de drie Olympische broers, waarbij zij alledrie de essentie hebben van de Olympische Zeus. In deze drie aspecten omvat de Olympische Zeus de gehele wereld; het land, de zee en de lucht. Elk aspect heeft zijn eigen domein, maar alledrie deze aspecten zijn dezelfde Hemelvader, aldus Pausanias in zijn werk Hellados Periegesis (*Ἑλλάδος Περιήγησις*):
 
-> τρεῖς δὲ ὀφθαλμοὺς ἔχειν ἐπὶ τῷδε ἄν τις τεκμαίροιτο αὐτόν. Δία γὰρ ἐν οὐρανῷ βασιλεύειν, οὗτος μὲν λόγος κοινὸς πάντων ἐστὶν ἀνθρώπων. ὃν δὲ ἄρχειν φασὶν ὑπὸ γῆς, ἔστιν ἔπος τῶν Ὁμήρου Δία ὀνομάζον καὶ τοῦτον·
+> τρεῖς δὲ ὀφθαλμοὺς ἔχειν ἐπὶ τῷδε ἄν τις τεκμαίροιτο αὐτόν. Δία γὰρ ἐν οὐρανῷ βασιλεύειν, οὗτος μὲν λόγος κοινὸς πάντων ἐστὶν ἀνθρώπων. ὃν δὲ ἄρχειν φασὶν ὑπὸ γῆς, ἔστιν ἔπος τῶν Ὁμήρου Δία ὀνομάζον καὶ τοῦτον·
 > ‘Ζεύς τε καταχθόνιος καὶ ἐπαινὴ Περσεφόνεια.’ (Ἰλιὰς Ὁμήρου 2.9.457)
 > Αἰσχύλος δὲ ὁ Εὐφορίωνος καλεῖ Δία καὶ τὸν ἐν θαλάσσῃ. τρισὶν οὖν ὁρῶντα ἐποίησεν ὀφθαλμοῖς ὅστις δὴ ἦν ὁ ποιήσας, ἅτε ἐν ταῖς τρισὶ ταῖς λεγομέναις λήξεσιν ἄρχοντα τὸν αὐτὸν τοῦτον θεόν.
 >
@@ -209,7 +219,7 @@ De riten werden ingeluid door de extatische kreten van de Maenaeden in de bossen
 
 De Orfische hymne gericht aan Dionysus noemt Dionysus expliciet de zoon van Zeus, de Hemelvader, en Persephone, de vrouw van Hades (of; zoals wij hebben aangetoond, van Zeus *als* Hades) Hier zien we zo de aspecten-theologie van Zeus Triophthalmus terug:
 
-> Κικλήσκω Διόνυσον ἐρίβρομον, εὐαστῆρα, πρωτόγονον, διφυῆ, τρίγονον, Βακχεῖον ἄνακτα, ἄγριον, ἄρρητον, κρύφιον, δικέρωτα, δίμορφον, κισσόβρυον, ταυρωπόν, ἀρήϊον, εὔϊον, ἁγνόν, ὠμάδιον, τριετῆ, βοτρυοτρὸφον, ἐρνεσίπεπλον. Εὐβουλεῦ, πολύβουλε, Διὸς καὶ Περσεφονείης ἀρρήτοις λέκτροισι τεκνωθείς, ἄμβροτε δαῖμον· κλῦθι μάκαρ φωνῆς, ἡδὺς δ’ ἐπίπνευσον ἐνηής, εὐμενὲς ἦτορ ἔχων, σὺν ἐυζώνοισι τιθήναις.
+> Κικλήσκω Διόνυσον ἐρίβρομον, εὐαστῆρα, πρωτόγονον, διφυῆ, τρίγονον, Βακχεῖον ἄνακτα, ἄγριον, ἄρρητον, κρύφιον, δικέρωτα, δίμορφον, κισσόβρυον, ταυρωπόν, ἀρήϊον, εὔϊον, ἁγνόν, ὠμάδιον, τριετῆ, βοτρυοτρὸφον, ἐρνεσίπεπλον. Εὐβουλεῦ, πολύβουλε, Διὸς καὶ Περσεφονείης ἀρρήτοις λέκτροισι τεκνωθείς, ἄμβροτε δαῖμον· κλῦθι μάκαρ φωνῆς, ἡδὺς δ’ ἐπίπνευσον ἐνηής, εὐμενὲς ἦτορ ἔχων, σὺν ἐυζώνοισι τιθήναις.
 >
 > *Kiklískoh Diónyson ærívromon, evastíra,
 > prohtógonon, diphií, trígonon, Vakheion ánakta,

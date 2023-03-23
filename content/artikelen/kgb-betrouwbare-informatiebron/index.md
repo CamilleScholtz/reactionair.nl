@@ -1,15 +1,18 @@
 ---
-anchor: Top
+title: 'KGB betrouwbare informatiebron?'
+subtitle: 'Hoe een oude communistische hetze tegen Johannes Paulus II lijkt te herleven'
+date: '2022-12-09'
 authors:
-- Sanura
-date: "2022-12-09"
-tags:
-- Christendom
+    - Sanura
+themes: 'Onderzoek en Speurwerk'
 image: 89b6bc6be3dfa2fff34036d827bf5b96.jpg
-subtitle: Hoe een oude communistische hetze tegen Johannes Paulus II lijkt te herleven
-themes: Onderzoek en Speurwerk
-title: KGB betrouwbare informatiebron?
+anchor: Top
+tags:
+    - Christendom
+    - Communisme
+    - 'Johannes Paulus II'
 ---
+
 Recent heeft het RD een artikel uitgebracht waarin het aantijgingen en beweringen tegen geestelijken van de katholieke kerk, o.m. van Trouw, klakkeloos overneemt.[^1] Journalist Ekke Overbeek stelt, dat Paus Johannes Paulus II reeds als aartsbisschop in Polen weet zou hebben gehad van gevallen van kindermisbruik, maar de misbruikers zou hebben overgeplaatst.[^2] Deze bewering werd herhaald door de NOS, en nu ook het RD. Het gaat hierbij om beschuldigingen van ruim een halve eeuw geleden en tegen mensen die inmiddels allang dood zijn. Trouw zegt echt ‘keihard’ bewijs te hebben, waarbij het blijkt te gaan om claims van de (door de KGB geïnfiltreerde) geheime dienst ten tijde van de communistische dictatuur in Polen.
 
 ### Een giftige bron: normalisatie van communistische dictatuur?
@@ -88,13 +91,3 @@ Of lijdt het RD aan dezelfde blinde vlek als Gerrit Hendrik Kersten, waardoor ze
 [^20]: The Media Raport, *[Meet the ‘Experts’: Angry Ex-Priest Richard Sipe](http://www.themediareport.com/2013/08/07/richard-sipe-ex-priest/)*.
 [^21]: Massimo Introvigne, *[Goebbels and the pedophile priests operation](https://www.cesnur.org/2010/mi-goebbels_en.html)*.
 [^22]: Eric Berger, *[Lawsuit settled, former SNAP director returns to the fight against abuse](https://www.sltrib.com/religion/2018/09/28/lawsuit-settled-former/)*.
-
-
-
-
-
-
-
-
-
-

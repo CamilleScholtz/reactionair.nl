@@ -1,13 +1,18 @@
 ---
-anchor: Smart
+title: 'Dialoog II'
+subtitle: 'Verdere deliberatie over ongehoorzaamheid'
+date: '2022-08-28'
 authors:
-- Walt van Toor
-date: "2022-08-28"
+    - 'Walt van Toor'
+themes: 'Cultuur en Maatschappij'
 image: caspar_david_friedrich_zwei_manner_am_meer.jpg
-subtitle: Verdere deliberatie over ongehoorzaamheid
-themes: Cultuur en Maatschappij
-title: Dialoog II
+anchor: Smart
+tags:
+    - 'Franz Kafka'
+    - Macht
+    - Overheid
 ---
+
 **Johan**: Bedankt voor ons *[vorige gesprek](https://reactionair.nl/artikelen/dialoog-i/)*, het heeft me nog meer doen nadenken over de plicht tot verzet in tijden als deze; tijden waarin sprake is van wijdverbreid ongenoegen onder de bevolking. De vanzelfsprekendheid van het openbaar bestuur en de vanzelfsprekendheid van het gezag staan onder druk. Dit komt door belangenverstrengeling, door de leugenachtige ambtenarij en door het gebrek aan controle op uitvoerenden. Achtergestelde, gekleineerde en verontwaardigde burgers dienen het heft in handen te nemen met een besef van eigenwaarde én met zekere trots, zaken die men van niemand kan wegnemen. Zodoende zal georganiseerd protest concreet resultaat opleveren; waardering die ooit vanzelfsprekend was zal hernieuwd worden; het land zal zich daardoor herstellen.
 
 **Mark**: Beste Johan, ik ben het met je eens dat er zoiets bestaat als een plicht tot verzet. Het is een van de vele plichten die worden veronachtzaamd door de moderne burger, want de moderne burger maakt zich alleen druk wanneer hij niet krijgt wat hem toekomt. Initiatiefrijk verzet begeestert hem nauwelijks, het beangstigt hem veel meer. Hij denkt de grenzen van toegestaan verzet te moeten bewaken met zijn afkeuring, hij vat autoriteitsargumenten op als interessante gespreksstof, het maakt hem niet uit dat zijn voorkeuren ontstaan door willekeurige verdenkingen. De bekrompen geestesgesteldheid van Nederlanders zorgt ervoor dat ze nog maar drie situaties kennen waar ze op reflecteren: het normaal, het nieuwe normaal en de grillige plaag van bestuurlijke crises.

@@ -4,12 +4,12 @@ subtitle: 'Stap in, lullo, we gaan naar Hyperborea'
 date: '2022-08-18'
 authors:
     - 'De redactie'
-themes: 'Politiek en Actualiteit'
+themes: 'Cultuur en Maatschappij'
 image: egpfllzu8aahd9d.jpeg
 anchor: Smart
 tags:
-    - 'David Icke'
     - Complottheorie
+    - 'David Icke'
     - Wappies
 note: "Dit is een vertaling van het essay 'Embracing the Fringe', het origineel is [hier](https://apolloniangerm.substack.com/p/embracing-the-fringe) te lezen."
 ---

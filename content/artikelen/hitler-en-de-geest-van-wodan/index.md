@@ -7,7 +7,7 @@ authors:
 themes: 'Recensie en Biografie'
 image: franz.jpg
 anchor: Smart
-caption: ...
+caption: 'Die Wilde Jagd van Franz von Stuck, circa 1889 (Hitlers geboortejaar). Naar verluidt heeft Hitler zijn uiterlijk gemodelleerd naar de figuur die op dit schilderij Wodan voorstelt.'
 tags:
     - 'Bruno Goetz'
     - 'Carl Jung'

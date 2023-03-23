@@ -7,12 +7,13 @@ authors:
 themes: 'Cultuur en Maatschappij'
 image: discurso_funebre_pericles.png
 anchor: Smart
+caption: 'Perikles hält die Leichenrede door Philipp Foltz, 1852.'
 tags:
     - Beschaving
     - 'Bronze Age Pervert'
+    - Koryos
     - 'Romeinse rijk'
     - Vergilius
-    - Koryos
 note: 'Dit is een vertaling en bewerking van een Twitter-draad van [Mac Finn](https://twitter.com/ogmios).'
 ---
 
@@ -54,4 +55,4 @@ Zonder blijft de wereld een vormeloze grijze massa.
 [^2]: Wikipedia, *[Death of Wang Yue](https://en.wikipedia.org/wiki/Death_of_Wang_Yue)*.
 [^3]: Bronze age pervert is de pseudonieme auteur van de neo-vitalistische culthit *‘Bronze age mindset’*.
 [^4]: Een egregoor is een spirituele entiteit die zich voedt met de energie van zijn aanbidders.
-[^5]: Een kóryos was een groep van jonge vrijgezellen die bij wijze van *rite de passage* enige jaren krijgsdienst deden ten behoeve van de gemeenschap. We zouden dit kunnen zien als een vroege vorm van dienstplicht.
+[^5]: Een kóryos was een groep van jonge vrijgezellen die bij wijze van rite de passage enige jaren krijgsdienst deden ten behoeve van de gemeenschap. We zouden dit kunnen zien als een vroege vorm van dienstplicht.

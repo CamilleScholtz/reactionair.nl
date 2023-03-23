@@ -4,7 +4,7 @@ subtitle: 'En de blindheid van de liberalen'
 date: '2021-10-06'
 authors:
     - 'Camille Scholtz'
-themes: 'Politiek en Actualiteit'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 description: "De Tweede Kamer neemt besluit: scholen mogen geen identiteitsverklaring eisen van ouders. Maar is 'neutraliteit' wel haalbaar? Lees het hier."

@@ -12,7 +12,9 @@ tags:
     - 'Immanuel Kant'
     - 'Jean-Jacques Rousseau'
     - 'Johann Georg Hamann'
+    - Metafysica
     - 'Moses Mendelssohn'
+    - Verlichting
 ---
 
 Wat maakt een denker reactionair? Wat definieert een reactionair? Een aantal namen zullen u vast meteen te binnen schieten. De Maistre, Chateaubriand, vurige verdedigers van het ancien régime, in mindere mate ook Burke of De Tocqueville, die gematigder waren in hun verlangen de situatie van weleer te herstellen. Marxisten zullen August Bebel of Trotsky als reactionairen bestempelen. Maar wat was Johann Georg Hamann, die aan de vooravond van de Franse Revolutie stierf? 

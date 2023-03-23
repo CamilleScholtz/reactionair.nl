@@ -4,12 +4,13 @@ subtitle: 'Drogreden of werkelijkheid?'
 date: '2022-06-15'
 authors:
     - 'Eco al-Hollandi'
-themes: 'Politiek en Actualiteit'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Woke
+    - Individualisme
     - LGBT
+    - Woke
 ---
 
 Een paar dagen geleden las ik een artikel in het Britse Metro waarin de auteur van wal stak tegen het privilege wat blanke _“queers”_ zouden genieten. Er werd gesproken over het racisme dat zwarte en Aziatische mensen zouden ervaringen in de LGBT-gemeenschap.

@@ -4,15 +4,15 @@ subtitle: "De l'Esprit des Lois 2.0, deel 1"
 date: '2022-04-16'
 authors:
     - Sanura
-themes: 'Politiek en Actualiteit'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
+    - Democratie
     - 'Erik von Kuehnelt-Leddihn'
+    - Monarchie
     - Plato
     - 'Thomas van Aquino'
-    - Democratie
-    - Monarchie
 ---
 
 Montesquieu publiceerde in 1748 zijn _‘De l'Esprit des Lois’_, waarin hij de verschillende regeringsvormen over de millennia heen, van China tot Ethiopië, vergeleek en analyseerde. Hij schreef in de traditie van oudere filosofen en politieke denkers, onder andere Plato en Thomas van Aquino. Nu, meer dan 250 jaar, 2 wereldoorlogen, massale propaganda en een corana-crisis verder, dacht ik: “Waarom zal ik de moderne mens niet een opfriscursus in politieke en staatsterminologie geven? We hebben toch niks beters te doen.”

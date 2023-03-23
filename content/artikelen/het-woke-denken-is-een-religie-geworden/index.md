@@ -4,7 +4,7 @@ subtitle: 'En waarom deze vergelijking niet klopt'
 date: '2021-10-08'
 authors:
     - 'Camille Scholtz'
-themes: 'Politiek en Actualiteit'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:

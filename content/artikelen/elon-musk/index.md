@@ -8,6 +8,10 @@ authors:
 themes: 'Politiek en Actualiteit'
 image: elon.webp
 anchor: Smart
+tags:
+    - 'Elon Musk'
+    - Kapitalisme
+    - Transhumanisme
 ---
 
 Waarschijnlijk weet iedereen nu wel dat Elon Musk Twitter heeft gekocht. Over het algemeen wordt dit door rechts als een goede zaak gezien, en ik als eeuwige *contrarian* moet natuurlijk op zijn minst nadenken over het tegenovergestelde standpunt. Vanuit een persoonlijk oogpunt heb ik Musk altijd een beetje cringe gevonden, waarmee ik bedoel dat het soort meme's dat hij post erg "reddit" zijn, nu zal ik niet diep ingaan op wat dit precies inhoudt, je moet dat gewoon voelen, wat waarschijnlijk alleen mogelijk is als je net als ik bent opgegroeid op het internet.

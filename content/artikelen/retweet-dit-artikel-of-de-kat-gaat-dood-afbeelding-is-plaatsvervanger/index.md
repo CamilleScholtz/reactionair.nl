@@ -1,14 +1,17 @@
 ---
-anchor: Smart
-authors:
-- Sanura
-date: "2022-08-24"
-image: hands-up.cat.webp
-question: Wat zijn uw gedachten over dit artikel?
-subtitle: Verslaving aan internetaandacht in een eenzame wereld
-themes: Cultuur en Maatschappij
 title: 'Retweet dit artikel of de kat gaat dood!!!!! '
+subtitle: 'Verslaving aan internetaandacht in een eenzame wereld'
+date: '2022-08-24'
+authors:
+    - Sanura
+themes: 'Cultuur en Maatschappij'
+image: hands-up.cat.webp
+anchor: Smart
+tags:
+    - Gemeenschap
+    - Kwantificering
 ---
+
 Trok de titel je aandacht? Het grappige plaatje? Ik heb likes nodig. Mijn buurt is geen gemeenschap. Ik ken mijn buren nauwelijks. Ik ken niemand meer van vroeger, van school. Ik heb niet 30 neefjes en nichtjes. Geef me aandacht!
 
 Tenzij je in de Bijbelgordel woont, of deel bent van een islamitische gemeenschap, is de kans extreem groot dat je geen deel (meer) uitmaakt van een echte gemeenschap. Je bent een individu, geboren met ouders. Als je mazzel had bleven die bij elkaar. Misschien heb je ook een broertje of zusje, heel misschien twee.

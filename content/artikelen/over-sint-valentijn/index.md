@@ -9,6 +9,8 @@ image: 59e4e691-e48e-4c6c-b5b8-b7dcdd2bf298.webp
 anchor: Top
 tags:
     - Christendom
+    - Liefde
+    - Valentijn
 note: "Dit is een vertaling van het essay 'On St. Valentine', het origineel is [hier](https://esoterictraditionalism.wordpress.com/2022/07/16/on-st-valentine/) te lezen."
 ---
 

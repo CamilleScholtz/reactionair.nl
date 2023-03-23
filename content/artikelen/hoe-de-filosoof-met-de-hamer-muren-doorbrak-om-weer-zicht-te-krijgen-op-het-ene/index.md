@@ -7,15 +7,16 @@ authors:
 themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Center
+caption: 'Friedrich Nietzsche door Edvard Munch, 1906.'
 tags:
     - 'Friedrich Nietzsche'
     - 'Jacques Derrida'
+    - Linguistiek
     - 'Ludwig Wittgenstein'
     - 'Martin Heidegger'
+    - Metafysica
     - Plato
     - 'René Guénon'
-    - Metafysica
-    - Linguistiek
 ---
 
 {{< quote

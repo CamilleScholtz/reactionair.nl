@@ -6,7 +6,7 @@ authors:
     - 'Robert Lemm'
 themes: 'Religie en Wijsbegeerte'
 image: b30a366b-6107-43ff-a533-b940de675fb7.jpg
-anchor: Smart
+anchor: Top
 caption: 'Don Quichot en Sancho Panza voor de windmolens.'
 tags:
     - 'Miguel de Cervantes'

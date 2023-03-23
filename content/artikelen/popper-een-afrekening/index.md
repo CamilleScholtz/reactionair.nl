@@ -4,14 +4,14 @@ subtitle: 'Kan de politiek-maatschappelijke orde gegrondvest worden op een parad
 date: '2022-01-08'
 authors:
     - 'De Melancholieke Nar'
-themes: 'Politiek en Actualiteit'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
+    - Consumentisme
     - 'Friedrich Nietzsche'
     - 'Karl Popper'
     - 'Michel Foucault'
-    - Consumentisme
     - Wetenschap
 ---
 

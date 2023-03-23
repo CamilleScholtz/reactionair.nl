@@ -1,14 +1,16 @@
 ---
+title: 'Licht in de duisternis'
+subtitle: 'De echte betekenis van kerstmis'
+date: '2022-12-25'
 authors:
-- Sanura
-- Calvin Tangelder
-date: "2022-12-25"
-tags:
-- Christendom
+    - Sanura
+    - 'Calvin Tangelder'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.jpg
-subtitle: De echte betekenis van kerstmis
-themes: Religie en Wijsbegeerte
-title: Licht in de duisternis
+anchor: Smart
+tags:
+    - Christendom
+    - Kerstmis
 ---
 
 Leven temidden van dood en duisternis. Geen afleiding door tv, internet of andere moderne luxe. Een duidelijk bewustzijn van de realiteit, de natuur en zelfs glimpen van de bovennatuur. Geen escapisme, wel leven in de schaduw van een gevallen wereld. Leven in schaduw; sterven in schaduw. Altijd staren naar de duisternis in de afgrond. Wandelend door de grot. In de verte, bij het einde van de grot, zien rechtvaardige en wijze personen vaag het bovennatuurlijke licht. Daar lopen ze naartoe. Daar leiden de schaduwen naartoe. De afspiegelingen. Ze trachten de volle waarheid te aanschouwen.
@@ -48,7 +50,7 @@ Er werd gesproken in Enoch over plekken die waren voorbereid voor de heiligen, m
 
 Ook de oude Grieken geloofden dat gewone, zelfs goede, mensen alleen maar naar de Hades gingen. Naar een schimmenwereld zonder hoop op een wederopstanding of een Messias.[11]  De kwaadwillenden werden gestraft in Tartarus.[^12] Ook de Grieken kenden een traditie over de erfzonde. Het pythagorisme, en later het middenplatonisme van Plutarchus, spraken over de zone van de voorouderlijke Titanen die de mensheid hadden gecorrumpeerd.[^13] 
 
-Degenen die het lich volgden en zij die in de duisternis volhardden stond, en staan, passende volgende levens te wachten in respectievelijk het licht van de zaligheid of de duisternis van de verdoemenis. Meteen na de dood, in ieder geval in incomplete vorm, en indien het niet volledig was, dan alsnog bij het eindoordeel. Goed overwint het kwaad. 
+Degenen die het licht volgden en zij die in de duisternis volhardden stond, en staan, passende volgende levens te wachten in respectievelijk het licht van de zaligheid of de duisternis van de verdoemenis. Meteen na de dood, in ieder geval in incomplete vorm, en indien het niet volledig was, dan alsnog bij het eindoordeel. Goed overwint het kwaad. 
 
 ### Het licht gepersonifieerd in Christus
 
@@ -85,5 +87,4 @@ De komst van het licht der wereld, waarbij Jezus in een wereld kwam die voorheen
 [^10]: Sirach, 17:27-28
 [^11]: Homeric Hymn to Demeter
 [^12]: Homer, *Iliad*, 8.17
-[^13]: Dannu Hütwohl, *[Plato's Orpheus: The Philosophical Appropriation of Orphic Formulae](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1020&context=fll_etds)*.
-
+[^13]: Dannu Hütwohl, *[Plato's Orpheus: The Philosophical Appropriation of Orphic Formulae](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1020&context=fll_etds)*.

@@ -1,15 +1,17 @@
 ---
-anchor: Smart
-authors:
-- Sanura
-date: "2022-10-20"
-tags:
-- Christendom
-image: untitled-5.webp
-subtitle: In een synagoge ook?
-themes: Cultuur en Maatschappij
 title: 'Strippen in een kerk is nu vrijheid van meningsuiting '
+subtitle: 'In een synagoge ook?'
+date: '2022-10-20'
+authors:
+    - Sanura
+themes: 'Cultuur en Maatschappij'
+image: untitled-5.webp
+anchor: Smart
+tags:
+    - Christendom
+    - Heiligschennis
 ---
+
 Het Europese Hof voor de Rechten van de Mens heeft Frankrijk veroordeeld voor het bestraffen van Éloïse Bouton, voor haar halfnaakte protest in een katholieke kerk. Ze was een kerk in gelopen en had de boel verstoord door topless een abortus na te doen van een zogenaamd kindje Jezus op het altaar.[^1]
 
 Ze beschreef haar borsten als een wapen, maar ontkent toch dat het seksuele intimidatie was. Hoe zijn ze dan eigenlijk een wapen?

@@ -1,29 +1,34 @@
 ---
 draft: true
 title: 'De meester en zijn gezant'
-subtitle: 'Waarom we de weg kwijt zijn'
-date: '2023-03-18'
+subtitle: 'Over de ideeën van Ian McGilchrist over de linker- en rechterhersenhelft'
+date: '2023-03-22'
 authors:
     - 'De redactie'
 themes: 'Religie en Wijsbegeerte'
 image: 740b6792-8eb2-468b-9a2e-f8aa859b698a.jpg
 anchor: Smart
+description: 'De moderne mens ziet liever zichzelf als het middelpunt van de wereld. Maar is dat wel een slim idee? Traditionele wijsheid, die ons leert maat te houden en ons te richten op het Goede, Schone en Ware, zou weleens veel belangrijker kunnen zijn dan we denken. De oplossing voor de ecologische crisis ligt in het herstellen van de samenwerking tussen de Meester en zijn Gezant. Maar hoe leren we weer om het Geheel te zien?'
 caption: 'Filmposter voor een documentaire over het werk van McGilchrist.'
 tags:
+    - Atheisme
     - Augustinus
     - 'Daniel Dennett'
+    - Hedonisme
+    - Hersens
     - 'Ian McGilchrist'
     - 'Johann Wolfgang von Goethe'
     - 'Paul Kingsnorth'
     - Plato
     - 'Richard Dawkins'
     - 'Sam Harris'
+    - Verlichting
 note: 'Dit artikel is geschreven door mr. Gert-Jan de Ruijter en oorspronkelijk gepubliceerd op zijn *[persoonlijke website](https://gertjanderuijter.com/2020/05/13/de-meester-en-zijn-gezant/)*.'
 ---
 
-Nieuwe Atheïsten, zoals Sam Harris, Richard Dawkins en Daniel Dennett zien religie als een verzameling achterhaalde theorieën. In wetenschappelijke zin is dat natuurlijk ook zo. Maar is dat een reden om de wijsheid, die in die verschillende levensbeschouwingen is te vinden, dan ook maar meteen als het spreekwoordelijke kind met het badwater weg te gooien? Ik denk het eerlijk gezegd niet. Want er zijn in alle Grote Tradities – Boeddhisme, Christendom, Confucianisme, Hindoeïsme, Islam, Judaïsme en Taoïsme – naast veel gekkigheid ook uiterst belangrijke, universele inzichten in de ‘condition humaine’ te vinden. Inzichten die wij herkennen, omdat we mens zijn, en die ons tegelijkertijd diep verontrusten, omdat ze waar zijn. Vandaar de lege kerken. Want de moderne mens ziet liever zichzelf als middelpunt van de wereld, als maat der dingen, en gelooft maar wat graag dat het goede leven bestaat uit bevrediging van zijn grenzeloze begeertes. Traditionele wijsheid, die hem laat zien dat dit niet klopt, ziet hij als achterhaald, als geklets van oude, witte mannen. _Enjoy! YOLO!_
+Nieuwe Atheïsten, zoals Sam Harris, Richard Dawkins en Daniel Dennett zien religie als een verzameling achterhaalde theorieën. In wetenschappelijke zin is dat natuurlijk ook zo. Maar is dat een reden om de wijsheid, die in die verschillende levensbeschouwingen is te vinden, dan ook maar meteen als het spreekwoordelijke kind met het badwater weg te gooien? Ik denk het eerlijk gezegd niet. Want er zijn in alle Grote Tradities – boeddhisme, christendom, confucianisme, hindoeïsme, islam, judaïsme en taoïsme – naast veel gekkigheid ook uiterst belangrijke, universele inzichten in de _condition humaine_ te vinden. Inzichten die wij herkennen, omdat we mens zijn, en die ons tegelijkertijd diep verontrusten, omdat ze waar zijn. Vandaar de lege kerken. Want de moderne mens ziet liever zichzelf als middelpunt van de wereld, als maat der dingen, en gelooft maar wat graag dat het goede leven bestaat uit bevrediging van zijn grenzeloze begeertes. Traditionele wijsheid, die hem laat zien dat dit niet klopt, ziet hij als achterhaald, als geklets van oude, witte mannen. _Enjoy! YOLO!_
 
-De Europese Traditie, die teruggaat op Athene en Jeruzalem, op Plato en Augustinus, ziet dat totaal anders. De mens moet maat zoeken, maat houden, matig zijn; zich richten op God, op het Goede, Schone en Ware. _Modus est in rebus_. In alle dingen ligt de juiste maat verborgen. Die te ontdekken en ernaar te leven is de Weg, zo leert ook het Taoïsme.
+De Europese traditie, die teruggaat op Athene en Jeruzalem, op Plato en Augustinus, ziet dat totaal anders. De mens moet maat zoeken, maat houden, matig zijn; zich richten op God, op het Goede, Schone en Ware. _Modus est in rebus_. In alle dingen ligt de juiste maat verborgen. Die te ontdekken en ernaar te leven is de Weg, zo leert ook het taoïsme.
 
 
 ### We zijn dat besef kwijt
@@ -37,7 +42,7 @@ Ik denk dat we in de verkeerde verhalen zijn gaan geloven. De Verlichting verwee
 
 De volgende vraag is dan natuurlijk: waarom geloven we in het ‘verkeerde’?
 
-In zijn indrukwekkende boek _The Master and his Emissary_ bespreekt de Schotse filosoof, psychiater en hersenonderzoeker Iain McGilchrist het idee van wat hij noemt ‘the divided brain’. Op basis van neurowetenschappelijke, historische en filosofische inzichten stelt hij dat onze twee hersenhelften de werkelijkheid fundamenteel verschillend benaderen en interpreteren. De rechterhelft ‘begrijpt’ het geheel, de linkerhelft ‘ziet’ de delen. Beide interpretaties zijn onmisbaar, maar voor een gezonde relatie met de wereld buiten ons hoofd is het noodzakelijk dat de linkerhelft functioneert als gezant van de rechterhelft. Met andere woorden, het vermogen om de wereld in stukjes te knippen is alleen nuttig als het ten dienste staat van een meer holistische benadering. McGilchrist suggereert dat de Gezant (linkerhelft) de Meester (rechterhelft) heeft verraden; hij denkt het alleen – zonder zijn Meester – beter te kunnen, net als de tovenaarsleerling in Goethes ‘Zauberlehrling’.
+In zijn indrukwekkende boek _The Master and his Emissary_ bespreekt de Schotse filosoof, psychiater en hersenonderzoeker Iain McGilchrist het idee van wat hij noemt ‘the divided brain’. Op basis van neurowetenschappelijke, historische en filosofische inzichten stelt hij dat onze twee hersenhelften de werkelijkheid fundamenteel verschillend benaderen en interpreteren. De rechterhelft ‘begrijpt’ het geheel, de linkerhelft ‘ziet’ de delen. Beide interpretaties zijn onmisbaar, maar voor een gezonde relatie met de wereld buiten ons hoofd is het noodzakelijk dat de linkerhelft functioneert als gezant van de rechterhelft. Met andere woorden, het vermogen om de wereld in stukjes te knippen is alleen nuttig als het ten dienste staat van een meer holistische benadering. McGilchrist suggereert dat de Gezant (linkerhelft) de Meester (rechterhelft) heeft verraden; hij denkt het alleen – zonder zijn Meester – beter te kunnen, net als de tovenaarsleerling in Goethes _Zauberlehrling_.
 
 Dit, als het klopt, verklaart veel. Het verklaart waarom we ons ‘hoofd’ zijn gaan zien als superieur, terwijl het meer voor de hand ligt de ratio te zien als een stuk gereedschap ten dienste van onze intuïtie, van ons ‘hart’. Het verklaart waarom we onze intuïtie wantrouwen. Het verklaart waarom we niets meer begrijpen van mythes en religie. Het verklaart waarom we de wereld zien als een voorraadkast, in plaats van een verknoopt netwerk van levende wezens. Het verklaart ons idee van subject – object, van de mens, die los staat van het Ene. Het verklaart de kap van regenwouden, plastic-soep, industriële landbouw, kunstmatige intelligentie, ecocide, ‘global warming’, windmolens en biomassacentrales. Kortom, het verklaart onze situatie, het verklaart de Moderniteit.
 

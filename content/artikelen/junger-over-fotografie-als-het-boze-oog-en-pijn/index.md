@@ -7,17 +7,17 @@ authors:
     - 'De Melancholieke Nar'
 themes: 'Religie en Wijsbegeerte'
 image: 30a311ea-6724-469a-94db-e895860c5f28.jpg
-anchor: Smart
-description: 'Dit artikel is een vertaling van hoofdstuk 14 van het opstel "Über den Schmerz" van Ernst Jünger, dat  voor het eerst verscheen in 1934 in "Blätter und Steine". Eerder al publiceerden we [een recensie](https://reactionair.nl/artikelen/oorlog-als-avontuur/) van zijn bekendste werk "In Stahlgewittern".'
+anchor: Top
 caption: 'Ernst Jünger als gedecoreerd soldaat, oog in oog met de camera.'
 tags:
     - 'Ernst Jünger'
+    - Film
     - 'Guy Debord'
     - 'Jean Baudrillard'
-    - 'Theodor Adorno'
-    - Film
     - Media
     - Oorlog
+    - 'Theodor Adorno'
+note: 'Dit artikel is een vertaling van sectie 14 van het opstel _Über den Schmerz_ van Ernst Jünger, dat  voor het eerst verscheen in 1934 in _Blätter und Steine_. Eerder al publiceerden we [een recensie](https://reactionair.nl/artikelen/oorlog-als-avontuur/) van zijn bekendste werk _In Stahlgewittern_.'
 ---
 
 Als men het menstype zoals het zich in onze tijd ontwikkelt in één woord zou beschrijven, zou men kunnen zeggen dat een van de meest opvallende eigenschappen ervan het bezit van een 'tweede' bewustzijn is. Dit tweede en koudere bewustzijn blijkt uit het zich steeds scherper ontwikkelende vermogen om zichzelf als object te zien. Dit vermogen moet niet verward worden met zelfreflectie door psychologie van de oude stempel. Het verschil tussen psychologie en dit tweede bewustzijn is dat psychologie de gevoelige persoon kiest als object van overweging, terwijl het tweede bewustzijn zich richt op een persoon die zich buiten de pijnzone bevindt. Toegegeven, ook hier zijn er overgangen, dus men moet inzien dat de psychologie, zoals elk proces van ontbinding, ook een ordelijke kant heeft. Dit komt vooral tot uiting in die branches waar het zich heeft ontwikkeld tot een puur meetprocédé.
@@ -28,7 +28,7 @@ Het eerste dat hier moet worden aangevoerd, is het hoogst revolutionaire feit va
 
 De opname staat buiten de gevoeligheidszone. Ze heeft een telescopisch karakter; men merkt heel duidelijk dat het proces wordt gezien door een ongevoelig en onkwetsbaar oog. Het houdt zowel de kogel tijdens de vlucht als de man vast op het moment dat hij door een explosie uit elkaar wordt gescheurd. Maar dit is de manier van kijken die aan ons eigen is en fotografie is niets anders dan een hulpmiddel hiervoor, voor wat ons eigen is. Het is opmerkelijk dat deze eigenaardigheid zo weinig zichtbaar is in andere gebieden, zoals literatuur; maar zonder twijfel zal, als we vanuit de literatuur of de schilderkunst nog iets kunnen verwachten, de beschrijving van de fijnste zielsprocessen worden vervangen door een geheel nieuw soort nauwkeurige, feitelijke portrettering.
 
-We wezen er in "Der Arbeiter"[^2] al op dat fotografie een wapen is dat door het _Arbeiter_-type wordt gebruikt. In onze ruimte is zien een daad van aanval. Dienovereenkomstig groeit het streven om zich onzichtbaar te maken, zoals we zagen in het gebruik van camouflage tijdens de wereldoorlog. Een stelling kon niet meer verdedigd worden nadat deze gedetecteerd werd vanuit de lucht. Al deze omstandigheden leiden voortdurend naar meer plasticiteit en objectiviteit. Heden ten dage hebben we geweren met richtkijker en zelfs torpedo's die optisch geleid worden door zee en luchtruim.
+We wezen er in _Der Arbeiter_[^2] al op dat fotografie een wapen is dat door het _Arbeiter_-type wordt gebruikt. In onze ruimte is zien een daad van aanval. Dienovereenkomstig groeit het streven om zich onzichtbaar te maken, zoals we zagen in het gebruik van camouflage tijdens de wereldoorlog. Een stelling kon niet meer verdedigd worden nadat deze gedetecteerd werd vanuit de lucht. Al deze omstandigheden leiden voortdurend naar meer plasticiteit en objectiviteit. Heden ten dage hebben we geweren met richtkijker en zelfs torpedo's die optisch geleid worden door zee en luchtruim.
 
 Ook op politiek gebied hoort het lichtbeeld tot de wapens die met toenemend meesterschap worden ingezet. Het lijkt het _Arbeiter_-type met name een middel te bieden om het individuele karakter van de tegenstander op te sporen, dat wil zeggen het karakter dat niet langer voldoet aan de eisen van dit gebied; de privésfeer is niet opgewassen tegen de foto. Het is ook gemakkelijker om je houding te veranderen dan je gezicht. Het gebruik om foto's van mensen die bij politieke onlusten zijn vermoord op propagandaposters te plaatsen, is van een onovertreffelijke boosaardigheid.
 

@@ -4,15 +4,15 @@ subtitle: 'Traditionalisme als genezing voor het postmodernisme'
 date: '2021-11-09'
 authors:
     - 'Dennis Honing'
-themes: 'Politiek en Actualiteit'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
     - 'Conservatieve Alliantie'
     - 'Geert Wilders'
+    - Immigratie
     - Islam
     - 'Thierry Baudet'
-    - Immigratie
 ---
 
 Waar het bij de Germanen om gaat is dat zij zichzelf foutief hebben gerelativeerd. Zijn volk. Zijn cultuur. Zijn natiestaten. Wanneer een jonge Germaan zal aangeven dat hij jong wil huwen en zijn dochters wil behoeden voor contextloze seksualiteit, dan zal deze jongeman worden weggezet als een gek. Als een Amish. Als een grap. 

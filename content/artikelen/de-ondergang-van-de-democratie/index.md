@@ -4,22 +4,22 @@ subtitle: '‘Degeneratie van het midden’ na revolutie, tirannie en terreur'
 date: '2022-05-14'
 authors:
     - Sanura
-themes: 'Politiek en Actualiteit'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
     - Aristoteles
     - China
+    - Democratie
     - 'Erik von Kuehnelt-Leddihn'
     - 'Jean-Jacques Rousseau'
     - 'Karl Marx'
     - Liberalisme
+    - Marxisme
+    - Nationaal-socialisme
     - Plato
     - Pythagoras
     - Socrates
-    - Democratie
-    - Marxisme
-    - Nationaal-socialisme
     - Totalitarisme
 ---
 

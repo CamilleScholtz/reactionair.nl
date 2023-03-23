@@ -1,13 +1,18 @@
 ---
-anchor: Top
+title: 'Illusie van democratie?'
+subtitle: 'EU gedoogt totalitarisme en censuur in Spanje'
+date: '2022-10-29'
 authors:
-- Sanura
-date: "2022-10-29"
+    - Sanura
+themes: 'Politiek en Actualiteit'
 image: fiesta.jpg
-subtitle: EU gedoogt totalitarisme en censuur in Spanje
-themes: Politiek en Actualiteit
-title: Illusie van democratie?
+anchor: Top
+tags:
+    - Democratie
+    - 'Francisco Franco'
+    - Spanje
 ---
+
 De Spaanse senaat heeft begin deze maand eindelijk de controversiële ‘democratische’ herinnering wet goedgekeurd. Een stokpaardje van de socialistisch-communistische regering in Spanje. Dit voorstel werd meer dan 4 jaar besproken. De New York Times beschreef indertijd hoe de huidige extreem linkse regering haar ideologische en eenzijdige versie van de geschiedenis tot wet wil verheffen en tegengeluiden wil verbieden.[^1]
 
 Het verbieden van een politieke ideologie (die verbonden is aan de oppositie), uitingen van steun of sympathie voor die ideologie en zelfs het verbieden van een bepaalde visie op de geschiedenis vormt een extreme vorm van censuur evenals een aanval op politiek pluralisme, de vrijheid van meningsuiting en academische vrijheid. Iets wat je zou verwachten van een Sovjetstaat. Nu in een Westerse ‘democratie’.

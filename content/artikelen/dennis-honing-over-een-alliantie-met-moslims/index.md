@@ -4,13 +4,13 @@ subtitle: 'Over reactionairen en moslims, deel 2'
 date: '2021-11-01'
 authors:
     - 'Dennis Honing'
-themes: 'Politiek en Actualiteit'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
     - 'Conservatieve Alliantie'
-    - Islam
     - Immigratie
+    - Islam
     - PVV
 ---
 

@@ -9,6 +9,7 @@ image: 9735c9f9-162b-43f1-81c1-819b9a5418b2.webp
 anchor: Smart
 caption: 'Ter ere van Coming Out-dag wordt de regenboogvlag gehesen op een schoolplein.'
 tags:
+    - Onderwijs
     - Woke
 ---
 

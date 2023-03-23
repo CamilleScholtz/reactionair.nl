@@ -4,18 +4,18 @@ subtitle: 'Een reactie op ‘tegen een politiek verbond met moslims’'
 date: '2022-01-15'
 authors:
     - 'Dennis Honing'
-themes: 'Politiek en Actualiteit'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
+    - Alt-right
     - 'Conservatieve Alliantie'
     - 'Hamza Yusuf'
+    - Immigratie
     - Islam
+    - 'Jordan Peterson'
     - 'Martin Lings'
     - 'René Guénon'
-    - Immigratie
-    - 'Jordan Peterson'
-    - Alt-right
 ---
 
 Ik heb het stuk _'Tegen een politiek verbond met moslims'_ op _Heraut_ met veel interesse gelezen.[^1] Het is mooi om te zien dat de ideeen rond een conservatieve alliantie met moslims gaat leven, en dermate zo dat men erover denkt, spreekt en schrijft. 

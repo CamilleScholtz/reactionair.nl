@@ -4,7 +4,7 @@ subtitle: 'Conservatief sentimentalisme als nieuwe melkkoe'
 date: '2022-07-01'
 authors:
     - 'Rintrah Radagast'
-themes: 'Politiek en Actualiteit'
+themes: 'Cultuur en Maatschappij'
 image: x22075-tif.jpeg
 anchor: Bottom
 tags:

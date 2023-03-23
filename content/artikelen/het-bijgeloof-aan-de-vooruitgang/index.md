@@ -1,22 +1,22 @@
 ---
-anchor: Smart
+title: 'Het bijgeloof aan “De Vooruitgang”'
+subtitle: 'Een essay uit 1939'
+date: '2022-08-09'
 authors:
-- De redactie
-tags:
-- René Guénon
-- Anton Kerssemakers
-- Jean-Jacques Rousseau
-date: "2022-08-09"
+    - 'De redactie'
+themes: 'Religie en Wijsbegeerte'
 image: aristo_lutkie-980x411.jpg
-subtitle: Een essay uit 1939
-themes: Religie en Wijsbegeerte
-title: Het bijgeloof aan “De Vooruitgang”
+anchor: Smart
+tags:
+    - 'Anton Kerssemakers'
+    - 'Jean-Jacques Rousseau'
+    - Materialisme
+    - 'René Guénon'
+    - Vooruitgang
+note: 'Dit essay was oorspronkelijk gepubliceerd door Anton Kerssemakers in het tijdschrift *Aristo-* van maart 1939.'
 ---
-Dit essay was oorspronkelijk gepubliceerd door Anton Kerssemakers in het tijdschrift *Aristo-* van maart 1939.[^1]
 
-- - -
-
-Van de vele, welig op het individualisme woekerende, vormen van bijgeloof, die de werkelijkheid als het ware met een maskeradepak vermommen en de moderne wereld overleveren aan het Fata Morgana eener ondergaande beschaving, is het bijgeloof aan "De Vooruitgang" wel de ergste belemmering voor het bereiken van de Waarheid, die "vrij maakt". Want dit bijgeloof drukt zijn stempel op alle methoden, volgens welke de moderne wereld oorsprong, doel en beteekenis van het bestaan en van de menschelijke activiteit, doorgronden en verklaren wil; vergiftigt deze dus vanaf hun grondslagen.
+Van de vele, welig op het individualisme woekerende, vormen van bijgeloof, die de werkelijkheid als het ware met een maskeradepak vermommen en de moderne wereld overleveren aan het Fata Morgana eener ondergaande beschaving, is het bijgeloof aan "De Vooruitgang" wel de ergste belemmering voor het bereiken van de Waarheid, die "vrij maakt". Want dit bijgeloof drukt zijn stempel op alle methoden, volgens welke de moderne wereld oorsprong, doel en beteekenis van het bestaan en van de menschelijke activiteit, doorgronden en verklaren wil; vergiftigt deze dus vanaf hun grondslagen.[^1]
 
 Het blinde, redelooze en zelfs fanatieke geloof in het laïcistisch dogma van "De Vooruitgang", is een bij-geloof in den stricten zin van het woord, daar het op geen reëele gronden berust. De opvatting immers, dat het bestaan, de wereld, de menschheid en de beschaving in een toestand van altijddurende "vooruitgaande" ontwikkeling verkeeren; — d.w.z. dat alles en alles uit den laagst-mogelijken en meest rudimentairen toestand, welken men zich voor kan stellen, naar een steeds hooger niveau van vermogens, kennis, beschaving, moraal, techniek, enz. is uitgegroeid en (doorheen de, volgens deze opvatting, overweldigende hoogte die de moderne Europeesche beschaving reeds heeft bereikt) nog steeds doorgroeiende is naar een zeker summum van volmaaktheid, — deze opvatting is geheel onjuist en illusoir.
 

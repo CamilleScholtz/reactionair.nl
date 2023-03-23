@@ -4,7 +4,7 @@ subtitle: 'Geneeskunde versus voorkomkunde'
 date: '2023-01-02'
 authors:
     - 'De Melancholieke Nar'
-themes: 'Politiek en Actualiteit'
+themes: 'Cultuur en Maatschappij'
 image: 7fca0e77-4253-41b8-8ee2-8820c0df32ff.jpg
 anchor: Top
 tags:

@@ -1,19 +1,22 @@
 ---
-anchor: Smart
+title: 'Het veiligste antwoord'
+subtitle: 'Over schoonheid, kunst, en leven'
+date: '2022-11-14'
 authors:
-- Tólma
-caption: James Ensor, De val van de opstandige engelen
-tags:
-- 'Immanuel Kant'
-- Plato
-- Plotinus
-- Xenophanes
-date: "2022-11-14"
+    - Tólma
+themes: 'Religie en Wijsbegeerte'
 image: val_van_de_opstandige_engelen-_james_ensor-_1889-_koninklijk_museum_voor_schone_kunsten_antwerpen-_2176.001-2.jpeg
-subtitle: Over schoonheid, kunst, en leven
-themes: Religie en Wijsbegeerte
-title: Het veiligste antwoord
+anchor: Smart
+caption: 'James Ensor, De val van de opstandige engelen'
+tags:
+    - 'Immanuel Kant'
+    - Plato
+    - Plotinus
+    - Schoonheid
+    - Socrates
+    - Xenophanes
 ---
+
 > ‘Indien iets anders schoon is behalve het schone zelf, dan is het, naar ik meen, om geen andere reden schoon dan omdat het aan het schone zelf deel heeft. Hetzelfde constateer ik van alle andere dingen. Kunt ge u met die oorzaaksverklaring verenigen?’
 >
 > ‘Ja’, zei hij.

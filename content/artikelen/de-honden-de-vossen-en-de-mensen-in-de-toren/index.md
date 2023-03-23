@@ -7,6 +7,10 @@ authors:
 themes: 'Cultuur en Maatschappij'
 image: 308fdcb6-a254-4592-9b8b-c17625aac134.jpg
 anchor: Smart
+tags:
+    - Fictie
+    - Immigratie
+    - Overheid
 ---
 
 Er was eens een oud stadje in het midden van een vruchtbare vallei. Alhoewel de mensen aldaar tevreden en gelukkig waren, droegen zij een pijnlijke geschiedenis met zich mee. Niet eens zo lang geleden woonde er een grote groep honden in het stadje. Het samenleven was altijd vredig en harmonieus geweest totdat er iemand was opgestaan die de honden de schuld begon te geven van allerlei problemen. Zo zouden de honden ongedierte en ziektes brengen en de kippen van de mensen verslinden. Op een bepaald moment waren de mensen zo tegen de honden opgezweept dat ze in een razernij uit de vallei werden verjaagd. Sommige daarvan werden met stenen gekogeld en gedood. De mensen kwamen gelukkig vrij snel daarna weer bij zinnen. Wat er toen was gebeurd mocht nooit meer plaatsvinden, daar was iedereen het over eens.

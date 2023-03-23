@@ -9,6 +9,7 @@ image: kamishikimi_kumanoimasu_shrine_001.jpg
 anchor: Smart
 tags:
     - Aristoteles
+    - Atheisme
     - 'Bronze Age Pervert'
     - 'Edmund Burke'
     - 'Friedrich Schiller'
@@ -17,12 +18,14 @@ tags:
     - 'John Vervaeke'
     - 'Ludwig Wittgenstein'
     - 'Martin Heidegger'
+    - Materialisme
     - 'Max Weber'
+    - Metafysica
     - 'Paul Kingsnorth'
     - Plato
     - 'René Descartes'
-    - Atheisme
-    - Materialisme
+    - Shinto
+    - Traditie
 ---
 
 Met de onttovering van de wereld wees socioloog Max Weber in zijn werk ‘Wissenschaft als Beruf’ op de culturele rationalisering en devaluatie van religie die ontstond in het moderniserende, geseculariseerde westen.

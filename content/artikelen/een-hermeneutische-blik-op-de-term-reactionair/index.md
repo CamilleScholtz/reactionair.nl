@@ -4,21 +4,21 @@ subtitle: 'Het belang van betekenis van termen en wat het ons kan leren over een
 date: '2021-11-11'
 authors:
     - 'Paars van Grinsterer'
-themes: 'Politiek en Actualiteit'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
+    - Christendom
     - 'Erik von Kuehnelt-Leddihn'
     - 'Ernst Jünger'
     - 'Julius Evola'
+    - Linguistiek
     - 'Ludwig Wittgenstein'
     - 'Mark Rutte'
     - 'Oswald Spengler'
+    - Reactionair
     - 'Sid Lukkassen'
     - 'Thierry Baudet'
-    - Christendom
-    - Reactionair
-    - Linguistiek
 ---
 
 In de loop van de 19e eeuw ontstonden er vanuit de reactionaire traditie twee Christelijke politieke stromingen in Nederland. Slechts één daarvan zou het Christelijk-historische geluid in de politiek van Nederland gaan domineren. Wat kunnen we leren van die tijd en welke valkuilen moet de reactionair van vandaag vermijden? Maar eerst; wat betekent reactionair eigenlijk?

@@ -4,7 +4,7 @@ subtitle: 'Drie machten die samenspannen tegen de middenklasse'
 date: '2022-05-31'
 authors:
     - 'De redactie'
-themes: 'Politiek en Actualiteit'
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
 tags:
