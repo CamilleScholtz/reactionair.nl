@@ -1,14 +1,14 @@
 *Te doen:*
 
-- link donatiepagina + Tax collectors > belastingontvangers (Vlaamse schilder)
+- plaatjes format + bijwerken oude artikelen
+- recensie en bio > geschiedenis en bio
+- Tax collectors > belastingontvangers (Vlaamse schilder)
 - tweetknop onder artikelen
 - ﻿Gesproken artikelen: toevoegen luidspreker-icoon met geluidsbestand. evt. met balkje dat vervolgens verschijnt (niet als pop-up) en de luistertijd aangeeft.
-- Slideshowformat voor klikaas met plaatjes en stukje tekst daaronder, pijltjes aan weerszijden.
+- Slideshowformat voor klikaas met plaatjes en stukje tekst daaronder, pijltjes aan weerszijden. + sectie klikaas
 - Donatiepagina opmaak wat scherper maken. Opleuken. Hoe aandacht genereren?
-- Bellen overheid over regenboogvlag
-- Dossiers/aangehaalde auteurs vervangen door 'lees ook'?
-- Top 10/5 meest gelezen artikelen
-- Volgende podcasts. Gasten aanschrijven en uitnodigen, plan maken voor opname en bewerking.
+- podcast
+
 
 *Mee bezig:*
 
