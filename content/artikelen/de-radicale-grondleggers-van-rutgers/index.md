@@ -25,14 +25,17 @@ Als u het nieuws heeft gevolgd, dan kan Rutgers u niet zijn ontgaan. Deze in 196
 
 Onder aanvoering van Thierry Baudet werden meerdere voorbeelden aangehaald van ‘kinderboeken’ waarin ofwel expliciete handelingen werden getoond, ofwel verhalen werden verteld waarin complexe onderwerpen als transseksualiteit zeer simpel werden gemaakt (*Het Lammetje dat een varken is*, van Pim Lammers). Dit zou allemaal dienen om de jeugd te seksualiseren en te indoctrineren met de *woke-agenda*. Rutgers beet fel van zich af en kwam met de plausibele verklaring dat Baudet mensen misleidde, dat de genoemde voorbeelden enkel werden gebruikt voor de gepaste leeftijdscategorieën. Zo zouden er natuurlijk geen pijplessen zijn en zou alles gericht zijn op het voorbereiden van kinderen op de naderende complexiteit van seksualiteit. Klinkt plausibel. Veel mensen gingen achter Rutgers staan en waarschuwden voor overtrokken preutsheid. Duiken we in Rutgers, dan zien we echter een ander verhaal...
 
+{{< section >}}
 
-### Strekking van het artikel in 5 punten
+**Strekking van het artikel in 5 punten**
 
 1. Rutgers komt uit een traditie van geboorteperking vanuit (neo-)malthusiaanse grondslag
 2. Onder de voorlopers van Rutgers bevinden zich organisaties die beoogden pedofilie te normaliseren.
 3. De Rutgers Stichting heeft in 1979 een petitie ondertekend waarin werd opgeroepen tot legalisering van seksueel contact tussen volwassenen en minderjarigen onder de 16 jaar.
 4. Het FWOS, de rechtsopvolger van de Dr. Edward Brongersma Stichting financiert onderzoeken naar kinderseksualiteit en werkt samen met Rutgers.
 5. Rutgers is de voornaamste stichting die materialen aanbiedt op het gebied van seksuele voorlichting; in hoeverre is er sprake van vrije keuze voor scholen?
+
+{{< / section >}}
 
 
 ### Neomalthusianisme
