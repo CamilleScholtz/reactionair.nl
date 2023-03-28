@@ -16,7 +16,7 @@ Volledig anoniem een donatie maken is ook mogelijk met gebruik van de cryptocurr
 
 Wat begon als project van een gemotiveerde eenling groeit nu uit tot een volwaardig intellectueel platform van formaat. Het pad bewandeld door *Reactionair.nl* is nog maar kort, maar we mogen zo onderhand al wel spreken van een mooie tocht, die nog lang niet ten einde komt.
 
-{{< image caption="Quentin Massys, The Tax Collectors." src="tax.webp" >}}
+{{< image caption="Quentin Massys, De belastingontvangers." src="tax.webp" >}}
 
 Daarom starten we een fondsenwervingsactie. Nu het profiel van Reactionair.nl steeds duidelijker naar voren komt, in de vorm van uiteenlopende bijdragen van een divers gezelschap scribenten, is het tijd om een en ander te herkalibreren. Wat niet zal veranderen is de hoge kwaliteit die u van ons gewend bent. Toch zijn er altijd verbeterpunten. Langzaamaan worden de layout en technische aspecten steeds een beetje mooier en beter. Men vindt ons beter in zoekmachines en de Nationale Bibliotheek archiveert de stukken die op onze website verschijnen voor het nageslacht. Meer bezoekers betekent ook een zwaarder beroep op onze server, waar helaas ook een prijskaartje aan zit.
 
