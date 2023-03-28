@@ -1,6 +1,7 @@
 *Te doen:*
 
 - plaatjes format + bijwerken oude artikelen
+- mix gerelateerde en niet-gerelateerde artikelen onder artikel
 - recensie en bio > geschiedenis en bio
 - Tax collectors > belastingontvangers (Vlaamse schilder)
 - tweetknop onder artikelen

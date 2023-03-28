@@ -6,7 +6,7 @@ authors:
     - 'Paars van Grinsterer'
 themes: 'Cultuur en Maatschappij'
 image: thumb.webp
-anchor: Smart
+anchor: Center
 tags:
     - Christendom
     - 'Erik von Kuehnelt-Leddihn'

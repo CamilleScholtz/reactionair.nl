@@ -7,7 +7,7 @@ authors:
 themes: 'Recensie en Biografie'
 image: der_chasseur_im_walde_-_caspar_david_friedrich-1-.jpg
 anchor: Smart
-caption: 'Caspar David Friedrich, Der Chasseur im Walde'
+caption: 'Der Chasseur im Walde, Caspar David Friedrich, 1814.'
 tags:
     - 'Aldous Huxley'
     - 'Arthur Koestler'

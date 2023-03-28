@@ -6,7 +6,7 @@ authors:
     - 'Anton Prins'
 themes: 'Cultuur en Maatschappij'
 image: 17a69d2e-6c97-4381-b7c1-47e5539c6dc6.jpg
-anchor: Top
+anchor: Bottom
 tags:
     - Communisme
     - Gemeenschap
