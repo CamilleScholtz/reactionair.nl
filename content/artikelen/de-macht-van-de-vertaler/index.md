@@ -3,7 +3,7 @@ title: 'De macht van de tolk'
 subtitle: 'Een waarschuwing'
 date: '2022-09-09'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Cultuur en Maatschappij'
 image: native.jpg
 anchor: Smart

@@ -3,7 +3,7 @@ title: 'De afschrikwekkende ledigheid van Klaus Schwab'
 subtitle: 'Een recensie van COVID-19: The Great Reset'
 date: '2022-10-05'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Recensie en Biografie'
 image: demon.webp
 anchor: Top

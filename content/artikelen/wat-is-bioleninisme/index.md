@@ -3,7 +3,7 @@ title: 'Wat is bioleninisme?'
 subtitle: 'Ideologie van de clownwereld'
 date: '2022-07-19'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Cultuur en Maatschappij'
 image: lenin.jpg
 anchor: Smart

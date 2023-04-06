@@ -1,15 +1,16 @@
 ---
-draft: true
 title: 'Een dichter in Fiume'
 subtitle: 'Hoe de overname van een Adriatische havenstad de Europese geschiedenis tekende'
-date: '2023-03-04'
+date: '2023-04-02'
 authors:
     - 'Jan-Jaap Moltman'
 themes: 'Recensie en Biografie'
 image: 3ba3710b-4f9d-4133-8168-2e56d6111237.jpg
 anchor: Smart
+description: "Ontdek de avontuurlijke, maar gedoemde expeditie van de Italiaanse dichter Gabriele D'Annunzio naar het nu in Kroatië gelegen stadje Fiume en de verstrekkende invloed daarvan op Italië en de Europese geschiedenis."
 caption: "Gabrielle D'Annunzio in gesprek met Benito Mussolini."
 tags:
+    - 'Benito Mussolini'
     - Europa
     - 'Tweede Wereldoorlog'
 ---

@@ -6,13 +6,13 @@ authors:
     - 'De Melancholieke Nar'
 themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
-anchor: Smart
+anchor: Center
 tags:
+    - Faust
     - 'Immanuel Kant'
+    - Metafysica
     - 'Oswald Spengler'
     - 'Thomas van Aquino'
-    - Faust
-    - Metafysica
 ---
 
 ### Kentheorie in het westen...

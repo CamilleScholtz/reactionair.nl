@@ -3,7 +3,7 @@ title: 'The Green New Deal'
 subtitle: 'Je zult insecten eten, maar je zult niet leven in de pod'
 date: '2022-08-02'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Cultuur en Maatschappij'
 image: pods.png
 anchor: Smart

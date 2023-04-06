@@ -3,7 +3,7 @@ title: 'Welkom in de netwerkoorlog'
 subtitle: 'Het spectrum van geweld'
 date: '2022-05-08'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart

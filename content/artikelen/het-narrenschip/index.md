@@ -3,7 +3,7 @@ title: 'Het narrenschip'
 subtitle: 'Een allegorie van wokisme avant la lettre'
 date: '2022-02-21'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart

@@ -3,7 +3,7 @@ title: 'Poetin, de gedroomde schurk'
 subtitle: 'Tien zaken waar Poetin niet verantwoordelijk voor is'
 date: '2022-02-26'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: Klikaas
 image: thumb.webp
 anchor: Smart

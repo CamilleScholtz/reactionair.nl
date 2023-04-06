@@ -3,7 +3,7 @@ title: 'Bent u een rechtsextremist?'
 subtitle: 'Doe de test!'
 date: '2022-04-29'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: Klikaas
 image: thumb.webp
 anchor: Smart

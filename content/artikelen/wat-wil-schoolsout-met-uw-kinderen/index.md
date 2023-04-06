@@ -3,12 +3,13 @@ title: 'Wat wil SchoolsOUT met uw kinderen?'
 subtitle: 'Het zoveelste regenboogproject nader bekeken'
 date: '2023-02-05'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Onderzoek en Speurwerk'
 image: 9735c9f9-162b-43f1-81c1-819b9a5418b2.webp
 anchor: Smart
 caption: 'Ter ere van Coming Out-dag wordt de regenboogvlag gehesen op een schoolplein.'
 tags:
+    - LGBT
     - Onderwijs
     - Woke
 ---

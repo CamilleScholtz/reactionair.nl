@@ -3,7 +3,7 @@ title: 'Het bijgeloof aan “De Vooruitgang”'
 subtitle: 'Een essay uit 1939'
 date: '2022-08-09'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Religie en Wijsbegeerte'
 image: aristo_lutkie-980x411.jpg
 anchor: Smart

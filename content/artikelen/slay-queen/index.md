@@ -3,7 +3,7 @@ title: 'Slay, Queen'
 subtitle: 'Een kort griezelverhaal met komische twist over transgenderisme'
 date: '2022-09-30'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Cultuur en Maatschappij'
 image: a.jpg
 anchor: Center

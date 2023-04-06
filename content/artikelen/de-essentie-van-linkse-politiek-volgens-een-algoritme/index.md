@@ -3,7 +3,7 @@ title: 'De essentie van linkse politiek volgens een algoritme'
 subtitle: 'Een experiment in kunstmatige intelligentie'
 date: '2022-05-10'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Politiek en Actualiteit'
 image: thumb.webp
 anchor: Center

@@ -3,7 +3,7 @@ title: 'Over de wraakzucht der tarantula’s'
 subtitle: 'Nietzsches negentiende-eeuwse blik op social justice warriors'
 date: '2022-05-26'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center

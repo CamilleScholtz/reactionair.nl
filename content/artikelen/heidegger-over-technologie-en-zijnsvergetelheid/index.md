@@ -3,7 +3,7 @@ title: 'Het wezen van de technologie'
 subtitle: 'Heidegger en onze Terminator-toekomst, deel 1'
 date: '2022-05-28'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Center

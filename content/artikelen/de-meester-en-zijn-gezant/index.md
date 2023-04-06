@@ -3,7 +3,7 @@ title: 'De meester en zijn gezant'
 subtitle: 'Over de ideeën van Iain McGilchrist over de linker- en rechterhersenhelft'
 date: '2023-03-26'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Religie en Wijsbegeerte'
 image: 740b6792-8eb2-468b-9a2e-f8aa859b698a.jpg
 anchor: Smart

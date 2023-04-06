@@ -3,7 +3,7 @@ title: 'Liberalisme, progressivisme en links'
 subtitle: 'Drie machten die samenspannen tegen de middenklasse'
 date: '2022-05-31'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center

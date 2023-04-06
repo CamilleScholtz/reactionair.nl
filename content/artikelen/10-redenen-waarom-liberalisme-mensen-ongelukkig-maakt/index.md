@@ -3,7 +3,7 @@ title: '10 redenen waarom liberalisme ongelukkig maakt!'
 subtitle: 'Nummer 8 zal je versteld doen staan'
 date: '2022-02-11'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: Klikaas
 image: thumb.webp
 anchor: Smart

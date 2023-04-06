@@ -3,7 +3,7 @@ title: 'Hitler, het nationaal-socialisme en Wodan'
 subtitle: 'Een opstel van Carl Gustav Jung'
 date: '2022-07-26'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Recensie en Biografie'
 image: franz.jpg
 anchor: Smart

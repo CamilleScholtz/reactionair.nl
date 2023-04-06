@@ -7,6 +7,7 @@ authors:
 themes: 'Religie en Wijsbegeerte'
 image: 81hh1e-1jul.webp
 anchor: Top
+caption: 'De dwaas uit de Tarot.'
 tags:
     - 'Friedrich Nietzsche'
     - Plotinus

@@ -3,7 +3,7 @@ title: 'De marge omarmen'
 subtitle: 'Stap in, lullo, we gaan naar Hyperborea'
 date: '2022-08-18'
 authors:
-    - 'De redactie'
+    - Gastauteur
 themes: 'Cultuur en Maatschappij'
 image: egpfllzu8aahd9d.jpeg
 anchor: Smart
