@@ -4,7 +4,7 @@ subtitle: 'Extreemrechtse liberaal'
 date: '2021-10-09'
 authors:
     - Sanura
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Smart
 tags:

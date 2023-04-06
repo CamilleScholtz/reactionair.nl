@@ -4,7 +4,7 @@ subtitle: 'Een vergeten Nederlandse filosofe over dogmatisch kuddegedrag, versus
 date: '2022-02-17'
 authors:
     - 'Marit Elechan'
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Smart
 tags:

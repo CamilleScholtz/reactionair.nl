@@ -4,7 +4,7 @@ subtitle: 'Hoe de overname van een Adriatische havenstad de Europese geschiedeni
 date: '2023-04-02'
 authors:
     - 'Jan-Jaap Moltman'
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: 3ba3710b-4f9d-4133-8168-2e56d6111237.jpg
 anchor: Smart
 description: "Ontdek de avontuurlijke, maar gedoemde expeditie van de Italiaanse dichter Gabriele D'Annunzio naar het nu in Kroatië gelegen stadje Fiume en de verstrekkende invloed daarvan op Italië en de Europese geschiedenis."

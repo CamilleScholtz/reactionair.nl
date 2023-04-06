@@ -4,7 +4,7 @@ subtitle: 'Een opstel van Carl Gustav Jung'
 date: '2022-07-26'
 authors:
     - Gastauteur
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: franz.jpg
 anchor: Smart
 caption: 'Die Wilde Jagd van Franz von Stuck, circa 1889 (Hitlers geboortejaar). Naar verluidt heeft Hitler zijn uiterlijk gemodelleerd naar de figuur die op dit schilderij Wodan voorstelt.'

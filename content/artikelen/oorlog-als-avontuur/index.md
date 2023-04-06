@@ -4,7 +4,7 @@ subtitle: 'Een recensie van In Stahlgewittern'
 date: '2022-01-19'
 authors:
     - 'De Melancholieke Nar'
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Top
 tags:

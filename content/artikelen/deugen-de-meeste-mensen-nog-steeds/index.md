@@ -4,7 +4,7 @@ subtitle: 'De misantrope verleiding'
 date: '2022-04-15'
 authors:
     - 'De Melancholieke Nar'
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Top
 caption: "De misantroop, Pieter Bruegel de Oude, 1568. Onderaan is te lezen 'Om dat de werelt is soe ongetru / daer om gha ic in den ru', 'omdat de wereld zo ontrouw is, ga ik in de rouw'. \n"

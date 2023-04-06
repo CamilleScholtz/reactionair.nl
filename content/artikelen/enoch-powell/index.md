@@ -4,7 +4,7 @@ subtitle: 'Politieke paria en patriot'
 date: '2022-04-30'
 authors:
     - 'Cedrik Vandooren'
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Smart
 tags:

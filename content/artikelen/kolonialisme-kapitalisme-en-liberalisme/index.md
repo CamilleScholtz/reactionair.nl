@@ -4,7 +4,7 @@ subtitle: 'Drie ideeën met dezelfde oorsprong'
 date: '2022-02-28'
 authors:
     - 'Eco al-Hollandi'
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Smart
 tags:

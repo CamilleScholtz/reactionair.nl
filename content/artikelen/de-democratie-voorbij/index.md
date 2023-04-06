@@ -4,7 +4,7 @@ subtitle: 'Herzien door Robert Lemm'
 date: '2022-06-08'
 authors:
     - 'Robert Lemm'
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Smart
 tags:

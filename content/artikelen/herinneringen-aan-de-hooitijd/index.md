@@ -4,7 +4,7 @@ subtitle: 'Nationalistische erotica '
 date: '2023-01-10'
 authors:
     - 'Lucius Alba'
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: 821f2337-a9ee-4dc3-8c33-ab9e4f49583b.webp
 anchor: Smart
 tags:

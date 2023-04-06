@@ -34,10 +34,10 @@ cleanDestinationDir = true
 	weight = 100
 [[related.indices]]
 	name   = "themes"
-	weight = 70
+	weight = 60
 [[related.indices]]
 	name   = "authors"
-	weight = 30
+	weight = 20
 [[related.indices]]
 	name   = "date"
 	weight = 20

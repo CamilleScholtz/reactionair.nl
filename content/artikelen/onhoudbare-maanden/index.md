@@ -4,7 +4,7 @@ subtitle: 'José Calvo Sotelo en het begin van de Spaanse Burgeroorlog'
 date: '2022-06-20'
 authors:
     - 'v. Stormberg'
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Top
 tags:

@@ -4,7 +4,7 @@ subtitle: 'Fragment uit een boek in voorbereiding'
 date: '2021-11-29'
 authors:
     - 'Robert Lemm'
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Center
 tags:

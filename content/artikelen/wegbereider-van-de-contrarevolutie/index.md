@@ -4,7 +4,7 @@ subtitle: 'Over Louis de Bonald'
 date: '2021-10-11'
 authors:
     - 'J. Floressas des Esseintes'
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Top
 tags:

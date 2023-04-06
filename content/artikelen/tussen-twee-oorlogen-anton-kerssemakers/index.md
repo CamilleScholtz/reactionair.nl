@@ -4,7 +4,7 @@ subtitle: 'Onderzoek naar een onbekende auteur'
 date: '2021-10-02'
 authors:
     - 'Camille Scholtz'
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Top
 description: 'Ontdek een verborgen schat van oude boeken en krantenknipsels op Delpher, waaronder het boek "Vrijmetselarij en Jodendom". Lees deze recensie van het boek dat een verdediging biedt van de Traditionele essentie van ware vrijmetselarij en jodendom, en een kritiek op diegenen die deze tradities aanwezen als oorzaak van moderne negatieve verschijnselen.'

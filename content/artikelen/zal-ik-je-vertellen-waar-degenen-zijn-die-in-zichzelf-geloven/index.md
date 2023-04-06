@@ -4,7 +4,7 @@ subtitle: 'Enkele fragmenten uit Orthodoxie door G.K. Chesterton die mij zijn op
 date: '2022-03-09'
 authors:
     - 'Jurbin van Hooff'
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Smart
 tags:

@@ -4,7 +4,7 @@ subtitle: 'De meester en de moderniteit'
 date: '2022-05-09'
 authors:
     - 'Anton Prins'
-themes: 'Recensie en Biografie'
+themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Center
 tags:
