@@ -1,11 +1,11 @@
 #comments
 	margin-left: auto
 	margin-right: auto
-	max-width: 665px
+	max-width: var(--min-width)
 
 	#comment-form
-		margin-left: -85px
-		width: 835px
+		margin-left: calc((var(--min-width) - var(--avg-width)) / 2)
+		width: var(--avg-width)
 
 		.comment-info
 			.comment-time

@@ -1,21 +1,21 @@
 article
 	.hero
 		margin: 0 auto
-		max-width: 665px
+		max-width: var(--min-width)
 
 		.title
 			h1
 				margin-bottom: 6px
 
 		figure
-			margin-left: -185px
-			width: 1035px
+			margin-left: calc((var(--min-width) - var(--max-width)) / 2)
+			width: var(--max-width)
 
 		.info
 			display: none
 
 	.content
-		max-width: 665px
+		max-width: var(--min-width)
 
 		.note
 			padding: 40px
@@ -29,9 +29,9 @@ article
 
 		figure,
 		.blockquote
-			margin-left: -85px
-			width: 835px
+			margin-left: calc((var(--min-width) - var(--avg-width)) / 2)
+			width: var(--avg-width)
 
 		#boekencast,
 		#newsletter
-			margin-left: -85px
+			margin-left: calc((var(--min-width) - var(--avg-width)) / 2)

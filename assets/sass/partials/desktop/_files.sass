@@ -1,11 +1,11 @@
 .files
 	border-top: 1px dashed var(--border-color)
-	width: 665px
+	width: var(--min-width)
 	margin-left: auto
 	margin-right: auto
 	margin-top: 60px
 	padding-top: 60px
 
 	.theme
-		margin-left: -85px
-		width: 835px
+		margin-left: calc((var(--min-width) - var(--avg-width)) / 2)
+		width: var(--avg-width)
