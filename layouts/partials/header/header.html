@@ -1,15 +1,23 @@
 <header>
 	<div id="logo-container">
-		<a href="/" id="logo">
-			<img src="{{ "img/logo.svg" | relURL }}" alt="Reactionair.nl" style="width: 101px; height: 101px;">
-			{{ if eq .Kind "home" }}
-				<h1>Reactionair.nl</h1>
-			{{ else }}
-				<span>Reactionair.nl</span>
-			{{ end }}
-		</a>
+		<div id="logo-center">
+			<a href="/" id="logo">
+				<img src="{{ "img/logo.svg" | relURL }}" alt="Reactionair.nl" style="width: 130px; height: 130px;">
+				{{ if eq .Kind "home" }}
+					<h1>Reactionair.nl</h1>
+				{{ else }}
+					<span>Reactionair.nl</span>
+				{{ end }}
+			</a>
 
-		{{ partialCached "header/search.html" . }}
+			<span id="buttons">
+				<a href="/doneren" id="donate">
+					<img src="{{ "img/donate.svg" | relURL }}" alt="Doneer" style="width: 28px; height: 28px;">
+				</a>
+
+				{{ partialCached "header/search.html" . }}
+			</span>
+		</div>
 	</div>
 
 	{{ partial "header/utility.html" . }}

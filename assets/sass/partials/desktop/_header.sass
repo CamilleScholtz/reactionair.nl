@@ -2,20 +2,40 @@ header
 	#logo-container
 		background: var(--background-color)
 		border-bottom: 1px dashed var(--border-color)
-		height: 100px
-		justify-content: center
 
-		#logo
-			font-size: 18px
-			line-height: 100px
+		#logo-center
+			height: 100px
+			justify-content: space-between
+			margin: 0 auto
+			max-width: 1035px
+			width: 100%
 
-		#search
-			top: calc((100px / 2) - 25px)
+			#logo
+				font-size: 18px
+				line-height: 100px
 
-			form			
-				button
-					.search-icon
-						background: var(--background-color)
+				h1,
+				span
+					margin-left: 28px
+
+			#buttons
+				margin-top: calc((100px / 2) - 25px)
+
+				#donate
+					align-items: center
+					display: flex
+					height: 42px
+					margin-right: -240px
+					transition: all .1s
+					width: 50px
+					justify-content: center
+					z-index: 1
+
+				#search
+					form
+						button
+							.search-icon
+								background: var(--background-color)
 
 	.utility
 		align-items: center
