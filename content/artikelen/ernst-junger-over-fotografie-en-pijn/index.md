@@ -1,14 +1,12 @@
 ---
-draft: true
 title: 'Ernst Jünger over fotografie en pijn'
 subtitle: 'Uit "Über den Schmerz"'
-date: '2023-03-20'
+date: '2023-04-11'
 authors:
-    - 'De Melancholieke Nar'
+    - Gastauteur
 themes: 'Religie en Wijsbegeerte'
-image: 30a311ea-6724-469a-94db-e895860c5f28.jpg
+image: 0f3ffa6b-821a-454d-bd60-3fdb72558de5.jpg
 anchor: Top
-caption: 'Ernst Jünger als gedecoreerd soldaat, oog in oog met de camera.'
 tags:
     - 'Ernst Jünger'
     - Film
@@ -24,7 +22,7 @@ Als men het menstype zoals het zich in onze tijd ontwikkelt in één woord zou b
 
 Veel onthullender zijn echter de symbolen die het tweede bewustzijn van binnenuit probeert te creëren. We werken niet alleen met kunstmatige ledematen zoals geen ander levend wezen dat voor ons deed, maar we zijn ook bezig met het opbouwen van vreemde domeinen waarin een hoge mate van overeenstemming tussen mens en machine wordt gecreëerd door het gebruik van kunstmatige zintuigen. Maar dit feit hangt nauw samen met de objectivering van ons wereldbeeld en dus met onze verhouding tot pijn.
 
-Het eerste dat hier moet worden aangevoerd, is het hoogst revolutionaire feit van de fotografie. Schrijven met licht [^1]is een soort vastlegging die in onze ruimte het karakter krijgt van een officieel document... Het doel is om ruimtes te zien die het menselijk oog niet kan doordringen. Het kunstmatige oog dringt door mistbanken, atmosferische nevel en duisternis, zelfs door de weerstand van de materie zelf; optische cellen werken in de afgronden van de diepzee en de grote hoogte van weerballonnen.
+Het eerste dat hier moet worden aangevoerd, is het hoogst revolutionaire feit van de fotografie. Schrijven met licht[^1] is een soort vastlegging die in onze ruimte het karakter krijgt van een officieel document... Het doel is om ruimtes te zien die het menselijk oog niet kan doordringen. Het kunstmatige oog dringt door mistbanken, atmosferische nevel en duisternis, zelfs door de weerstand van de materie zelf; optische cellen werken in de afgronden van de diepzee en de grote hoogte van weerballonnen.
 
 De opname staat buiten de gevoeligheidszone. Ze heeft een telescopisch karakter; men merkt heel duidelijk dat het proces wordt gezien door een ongevoelig en onkwetsbaar oog. Het houdt zowel de kogel tijdens de vlucht als de man vast op het moment dat hij door een explosie uit elkaar wordt gescheurd. Maar dit is de manier van kijken die aan ons eigen is en fotografie is niets anders dan een hulpmiddel hiervoor, voor wat ons eigen is. Het is opmerkelijk dat deze eigenaardigheid zo weinig zichtbaar is in andere gebieden, zoals literatuur; maar zonder twijfel zal, als we vanuit de literatuur of de schilderkunst nog iets kunnen verwachten, de beschrijving van de fijnste zielsprocessen worden vervangen door een geheel nieuw soort nauwkeurige, feitelijke portrettering.
 
@@ -49,12 +47,12 @@ Bij deze gelegenheid moet worden opgemerkt dat als je naar het stierenvechten ki
 
 In de wereld van het _Arbeiter_-type, wordt het ritueel vervangen door een nauwkeurig technisch proces, die evenzozeer tekort schiet in moraal als in ridderlijkheid. Maar het ethos van deze processen - en het feit dat pijn in een hogere graad kan worden verdragen door zo'n ethos - is nergens te bekennen in onze tijd.
 
-De geheime structuur van de kunstmatige zintuigen duidt op ruimtes waarin vernietiging en catastrofe een grote rol spelen. In dergelijke ruimtes moet de overdracht van bevelen veiliger, doordringender en onkwetsbaarder zijn. We naderen toestanden waar binnen een paar minuten een bericht, een waarschuwing of een dreiging moet zijn aangekomen. Achter het amusementskarakter van massamedia als radio en film gaan bijzondere vormen van disciplinering schuil.[^7] Dit zal waarschijnlijk ook worden onthuld voor zover de deelname, de aansluiting, met name op de radio-omroep, in een verplichting verandert.
+De geheime structuur van de kunstmatige zintuigen duidt op ruimtes waarin vernietiging en catastrofe een grote rol spelen. In dergelijke ruimtes moet de overdracht van bevelen veiliger, doordringender en onkwetsbaarder zijn. We naderen toestanden waar binnen een paar minuten een bericht, een waarschuwing of een dreiging moet zijn aangekomen. Achter het amusementskarakter van massamedia als radio en film gaan bijzondere vormen van disciplinering schuil.[^7] Dit zal waarschijnlijk ook worden onthuld voor zover de deelname, de aansluiting, met name op de radio-omroep, tot verplichting wordt.
 
 [^1]: Grieks: φωτός γρᾰ́φειν, schrijven met licht.
-[^2]: Ernst Jünger, _Der Arbeiter_.
+[^2]: Ernst Jünger, _Der Arbeiter_. Het _Arbeiter_-type is een nietzscheaans-marxistische werker-krijger-filosoof die in alles het tegendeel is van de zelfgenoegzame bourgeois liberaal en volgens hem de dominante figuur gaat worden in de door technologie beheerste staat.
 [^3]: We lezen hier een voorafschaduwing van het werk van onder meer Guy Debord (_La société du spectacle_) en Jean Baudrillard.
-[^4]: Tertullianus, een van de kerkvaders, sprak zijn afkeer uit over het gladiatorenspektakel in onder andere _De spectaculis_.
+[^4]: Tertullianus, een van de kerkvaders, sprak zijn afkeuring van het gladiatorenspektakel uit in onder andere _De spectaculis_.
 [^5]: Denk bijvoorbeeld aan Tom & Jerry, een tekenfilm voor kinderen nota bene, waarin de beide hoofdpersonages elkaar voortdurend het grofste geweld aandoen.
 [^6]: Jünger doelt hier op de traditionele Duitse _Mensur_.
 [^7]: Theodor Adorno schreeft later smalend over de _Kulturindustrie_.

@@ -4,7 +4,7 @@ subtitle: 'Een verzameling apofatische gedichten en citaten'
 date: '2022-06-17'
 authors:
     - 'Camille Scholtz'
-themes: 'Geschiedenis en Biografie'
+themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Center
 description: "Op zoek naar antwoorden over de aard van God? Aydogan Kars 'Unsaying God: Negative Theology in Medieval Islam' biedt inzichten in apofatische theologie met gedichten en citaten van middeleeuwse islamitische theologen en mystici."

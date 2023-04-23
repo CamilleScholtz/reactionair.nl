@@ -4,7 +4,7 @@ subtitle: 'Een recensie van het boek “De weg terug”'
 date: '2022-12-09'
 authors:
     - 'Anton Prins'
-themes: 'Geschiedenis en Biografie'
+themes: 'Religie en Wijsbegeerte'
 image: der_chasseur_im_walde_-_caspar_david_friedrich-1-.jpg
 anchor: Smart
 caption: 'Der Chasseur im Walde, Caspar David Friedrich, 1814.'

@@ -4,7 +4,7 @@ subtitle: 'Een recensie van COVID-19: The Great Reset'
 date: '2022-10-05'
 authors:
     - Gastauteur
-themes: 'Geschiedenis en Biografie'
+themes: 'Cultuur en Maatschappij'
 image: demon.webp
 anchor: Top
 tags:

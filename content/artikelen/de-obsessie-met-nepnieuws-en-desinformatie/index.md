@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'De obsessie met nepnieuws en desinformatie'
 subtitle: 'Waarom factcheckers de waarheid niet kunnen garanderen'
 date: '2023-04-06'
@@ -18,6 +17,8 @@ tags:
     - Nepnieuws
     - Wappies
 ---
+
+> O glücklich, wer noch hoffen kann, aus diesem Meer des Irrtums aufzutauchen!
 
 De begrippen ‘nepnieuws' en 'desinformatie' zijn niet meer weg te denken uit het medialandschap en iedere zichzelf respecterende redactie van een krant, tijdschrift of actualiteitenprogramma telt tegenwoordig een of meerdere _factcheckers_. Zoals bij wel meer onderwerpen, lijkt hier op het eerste gezicht weinig tegenin te brengen. Je mag verschillen van mening, maar niet over de feiten, dus laten we die in ieder geval op orde hebben. In zekere zin is dit altijd de rol geweest van journalisten, idealiter gesproken althans, maar de _obsessie_ met nepnieuws en desinfomatie is nieuw. Ik zou geen filosoof zijn als ik hier niet de nodige bedenkingen bij had en die heb ik in dit artikel op een rijtje gezet. 
 
