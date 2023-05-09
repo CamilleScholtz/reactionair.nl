@@ -6,20 +6,13 @@
 		<p>Een boek, een denker en een goed gesprek. Kom tot rust en voed de geest <a href="/boekencast">met onze podcast</a>.</p>
 	</div>
 
-	<a href="/boekencast" class="book-container">
-		<div class="book">
-			{{ $image     := resources.Get (printf "images/%s.webp" (urlize .book)) }}
-			{{ $thickness := add 5 (mul .pages 0.082) }}
-
-			<img
-				src="{{ ($image.Fit "660x440 webp").RelPermalink }}"
-				loading="lazy"
-				alt="{{ .title | safeHTML }}"
-				class="cover" 
-				style="transform: translateZ({{ $thickness }}px);">
-			<div class="pages" style="transform: translateX({{ sub 214 $thickness }}px) rotateY(90deg); width: {{ mul $thickness 1.99 }}px;"></div>
-			<div class="back" style="transform: translateZ(-{{ $thickness }}px);"></div>
-			<div class="shadow"></div>
-		</div>
+	<a href="/boekencast">
+		{{ partialCached "books/medium.html" (dict
+			"context" .
+			"title"   "De Zahir"
+			"pages"   203
+			"front"   (resources.Get "images/boekencast/de-zahir.webp")
+			"animate" true
+		) "De Zahir" }}
 	</a>
 </div>

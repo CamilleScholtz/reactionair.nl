@@ -2,7 +2,7 @@
 <meta property="og:description" content="{{ if isset .Params "subtitle" }}{{ .Params.subtitle }}{{ else }}{{ .Params.description }}{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 {{ if eq .Type "artikelen" }}
-	{{ $image  := .Resources.GetMatch .Params.image }}
+	{{ $image  := .Resources.Get .Params.image }}
 	{{ $anchor := "Smart" }}
 	{{ if isset .Params "anchor" }}
 		{{ $anchor = .Params.anchor }}

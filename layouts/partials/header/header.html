@@ -11,8 +11,12 @@
 			</a>
 
 			<span id="buttons">
-				<a href="/doneren" id="donate">
+				<a href="/doneren" class="icon" id="donate">
 					<img src="{{ "img/donate.svg" | relURL }}" alt="Doneer" style="width: 28px; height: 28px;">
+				</a>
+
+				<a href="/winkel" class="icon" id="shop">
+					<img src="{{ "img/shop.svg" | relURL }}" alt="Winkel" style="width: 28px; height: 28px;">
 				</a>
 
 				{{ partialCached "header/search.html" . }}

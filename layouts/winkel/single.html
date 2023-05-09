@@ -1,0 +1,53 @@
+{{ define "main" }}
+	<section id="hero">
+		<div class="background"></div>
+
+		{{ partial "books/large.html" (dict
+			"context" .
+			"title"   .Params.title
+			"front"   (.Resources.Get .Params.front)
+			"back"    (.Resources.Get .Params.back)
+			"pages"   .Params.pages
+			"animate" true
+			"hover"   true
+		) }}
+
+		<div>
+			<h1 class="shop-title">{{ .Params.title }}</h1>
+			<div class="quote shop-quote">“</div>
+		</div>
+	</section>
+
+	<article id="product">
+		<table>
+			<tr>
+				<th>Titel</th>
+				<td>{{ .Params.title }}</td>
+
+				<th>Taal</th>
+				<td>{{ .Params.language }}</td>
+			</tr>
+
+			<tr>
+				<th>Auteur(s)</th>
+				<td>{{ delimit .Params.writers ", " " & " }}</td>
+
+
+				<th>Uitgever</th>
+				<td>{{ .Params.publisher }}</td>
+			</tr>
+
+			<tr>
+				<th>Aantal paginas</th>
+				<td>{{ .Params.pages }}</td>
+
+				<th>ISBN</th>
+				<td>{{ .Params.isbn }}</td>
+			</tr>
+		</table>
+
+		<section id="content">
+			{{ .Content }}
+		</section>
+	</article>
+{{ end }}

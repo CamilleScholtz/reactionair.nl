@@ -1,7 +1,9 @@
 main
 	display: block
 	margin: 0
+	max-width: 100vw
 	padding: 0
+	width: 100vw
 
 footer
 	margin: 0
@@ -48,53 +50,6 @@ footer
 		align-self: center
 		perspective: 100vh
 
-		.book
-			animation: 17s ease 0s infinite book
-			height: 42vh
-			margin: 0 auto
-			position: relative
-			transform-style: preserve-3d
-			transition: transform 1s ease
-			width: 28vh
-
-			.cover
-				background-color: #01060f
-				border-radius: 2px 3px 3px 2px
-				box-shadow: 5px 12px 32px -13px rgba(154, 52, 51, 0.25)
-				height: 42vh
-				left: 0
-				position: absolute
-				top: 0
-				width: 28vh
-
-			.pages
-				background: repeating-linear-gradient(to right, #FFF9F6, #E1C8A4 4.75px)
-				border-radius: 3px
-				content: ' '
-				height: 40.5vh
-				left: 0
-				position: absolute
-				top: 0.75vh
-
-			.back
-				background-color: #5C3020
-				border-radius: 0 3px 3px 0
-				content: ' '
-				height: 42vh
-				left: 0
-				position: absolute
-				top: 0
-				width: 28vh
-
-			.shadow
-				background: radial-gradient(circle, rgba(154, 52, 51, 0.25), rgba(154, 52, 51, 0) 72%)
-				bottom: -200px
-				height: 400px
-				left: -91px
-				position: absolute
-				transform: rotateX(90deg)
-				width: 400px
-
 #episodes
 	width: 100vw
 
@@ -129,3 +84,34 @@ footer
 				font-style: italic
 				margin-bottom: 0px
 				margin-top: 30px
+
+#product
+	table
+		margin-top: 40px
+		width: 100%
+		border-spacing: 15px
+
+		tr
+			border-bottom: 1px dashed var(--border-color)
+			margin-bottom: 10px
+			padding: 10px
+			height: 40px
+
+			th
+				border-right: 1px dashed var(--border-color)
+				text-align: left
+
+			td
+				padding-left: 10px
+				font-style: italic
+
+	#content
+		margin: 0 auto
+		margin-top: 30px
+		max-width: var(--min-width)
+
+		p
+			margin-bottom: 30px
+			text-align: justify
+			-webkit-hyphens: auto
+

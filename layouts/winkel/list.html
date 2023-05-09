@@ -1,0 +1,29 @@
+{{ define "main" }}
+	{{ $paginator := .Paginate .RegularPages }}
+
+	<section>
+		<div id="products">
+			{{ range $paginator.Pages }}
+				<a href="{{ .RelPermalink }}" class="product">
+					{{ partialCached "books/small.html" (dict
+						"context" .
+						"title"   .Params.title
+						"front"   (.Resources.Get .Params.front)
+						"back"    (.Resources.Get .Params.back)
+						"pages"   .Params.pages
+						"hover"	  true
+					) .Params.title }}
+
+					<div class="text">
+						<div class="author">{{ delimit .Params.writers ", " " & " }}</div>
+						<h2>{{ .Params.title }}</h2>
+
+						<div class="price">&euro; {{ .Params.price }}</div>
+					</div>
+				</div>
+			{{ end }}
+		</div>
+
+		{{ partial "paginator.html" $paginator }}
+	</section>
+{{ end }}

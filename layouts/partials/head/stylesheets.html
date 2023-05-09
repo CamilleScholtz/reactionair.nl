@@ -12,8 +12,9 @@
 <link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v={{ $.Site.Params.revision }}" media="(max-width: 1024px)">
 <link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v={{ $.Site.Params.revision }}" media="(min-width: 1025px)">
 
-{{ if eq .Params.layout "boekencast" }}
+{{ if or (eq .Params.layout "boekencast") (eq .Type "winkel") }}
 	<link rel="stylesheet" href="{{ (resources.Get "sass/boekencast/main.sass" | resources.ToCSS $options).RelPermalink }}?v={{ $.Site.Params.revision }}">
 	<link rel="stylesheet" href="{{ (resources.Get "sass/boekencast/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v={{ $.Site.Params.revision }}" media="(max-width: 1024px)">
 	<link rel="stylesheet" href="{{ (resources.Get "sass/boekencast/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v={{ $.Site.Params.revision }}" media="(min-width: 1025px)">
 {{ end }}
+

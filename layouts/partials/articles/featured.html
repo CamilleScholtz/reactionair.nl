@@ -6,7 +6,7 @@
 	</div>
 
 	<figure>
-		{{ $image  := .context.Resources.GetMatch .context.Params.image }}
+		{{ $image  := .context.Resources.Get .context.Params.image }}
 		{{ $anchor := "Smart" }}
 		{{ if isset .context.Params "anchor" }}
 			{{ $anchor = .context.Params.anchor }}

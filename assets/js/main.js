@@ -1,3 +1,76 @@
+const book = (main, mobile) => {
+	const books = main.querySelectorAll(".book.hover.animate");
+	if (!books) {
+		return;
+	}
+
+	books.forEach((book) => {
+		book.classList.remove("animate");
+		book.style.transition = "transform 8.5s ease-in-out";
+
+		var hover = false;
+		var i     = true;
+
+		const move = () => {
+			if (i) {
+				if (mobile.matches) {
+					book.style.transform = "rotateY(-30deg) rotateX(3deg) scale(0.9)";
+				} else {
+					book.style.transform = "rotateY(-30deg) rotateX(3deg)";
+				}
+			} else {
+				if (mobile.matches) {
+					book.style.transform = "rotateY(-20deg) rotateX(3deg) scale(0.9)";
+				} else {
+					book.style.transform = "rotateY(-20deg) rotateX(3deg)";
+				}
+			};
+
+			i = !i;
+		}
+
+		setTimeout(move, 100);
+		interval = setInterval(move, 8500);
+
+		book.addEventListener("mouseenter", (ev) => {
+			hover = true;
+
+			clearInterval(interval);
+
+			book.style.transition = "transform 1.5s ease";
+			if (mobile.matches) {
+				book.style.transform = "rotateY(-160deg) rotateX(3deg) scale(1.05)";
+			} else {
+				book.style.transform = "rotateY(-160deg) rotateX(3deg) scale(1.125)";
+			}
+		});
+
+		book.addEventListener("mouseleave", (ev) => {
+			hover = false;
+
+			if (mobile.matches) {
+				book.style.transform = "rotateY(-20deg) rotateX(3deg) scale(0.9)";
+			} else {
+				book.style.transform = "rotateY(-20deg) rotateX(3deg)";
+			}
+
+			setTimeout(() => {
+				if (hover) {
+					return;
+				}
+
+				i  = true;
+
+				book.style.transition = "transform 8.5s ease-in-out";
+
+				setTimeout(move, 100);
+				clearInterval(interval);
+				interval = setInterval(move, 8500);
+			}, 1500);
+		});
+	});
+}
+
 const comments = (main) => {
 	if (typeof main.id != "string" || main.id != "page") {
 		return;
@@ -202,22 +275,6 @@ const newsletter = (main) => {
 	});
 }
 
-const time = (header) => {
-	const now = header.querySelector(".now");
-	if (!now) {
-		return;
-	}
-
-	const date   = new Date();
-	const format = new Intl.DateTimeFormat("nl-NL", {
-		day:   "numeric",
-		month: "long",
-		year:  "numeric",
-	}).formatToParts(date);
-
-	now.innerHTML = `${format.find((e) => e.type == "day").value} ${format.find((e) => e.type == "month").value.replace(".", "").toUpperCase()}, ${format.find((e) => e.type == "year").value}`;
-}
-
 const scroll = (header, main, mobile) => {
 	const logo    = header.querySelector("#logo");
 	const input   = header.querySelector("#search input");
@@ -416,6 +473,9 @@ const smallcaps = (main) => {
 	}
 
 	const sentence = main.querySelector(".content>p:first-of-type");
+	if (!sentence) {
+		return;
+	}
 
 	let pattern = /^(.*?[^\w\d\s\'‘’“”\-\u00C0-\u024F\u1E00-\u1EFF<>/])/;
 	if (sentence.innerHTML.match(pattern)[0].split(" ").length > 9) {
@@ -423,6 +483,22 @@ const smallcaps = (main) => {
 	}
 
 	sentence.innerHTML = sentence.innerHTML.replace(pattern, "<span style=\"font-family: 'IM Fell English SC', serif;\">$1</span>");
+}
+
+const time = (header) => {
+	const now = header.querySelector(".now");
+	if (!now) {
+		return;
+	}
+
+	const date   = new Date();
+	const format = new Intl.DateTimeFormat("nl-NL", {
+		day:   "numeric",
+		month: "long",
+		year:  "numeric",
+	}).formatToParts(date);
+
+	now.innerHTML = `${format.find((e) => e.type == "day").value} ${format.find((e) => e.type == "month").value.replace(".", "").toUpperCase()}, ${format.find((e) => e.type == "year").value}`;
 }
 
 const quote = (main) => {
@@ -483,4 +559,5 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	footnotes(main, mobile);
 	comments(main);
 	newsletter(main);
+	book(main, mobile)
 });

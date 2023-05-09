@@ -8,17 +8,6 @@
 	.book-container
 		max-height: 90%
 
-		.book
-			transform: rotateY(-42deg) rotateX(5deg)
-
-			@keyframes book
-				0% 
-					transform: rotateY(-42deg) rotateX(5deg)
-				50%
-					transform: rotateY(-24deg) rotateX(2deg)
-				100%
-					transform: rotateY(-42deg) rotateX(5deg)
-
 	h1
 		font-size: 123px
 		text-shadow: 0 10px 40px var(--background-color)
@@ -32,12 +21,24 @@
 			font-size: 42px
 			text-shadow: 0px 5px 20px var(--background-color)
 
+		&.shop-title
+			font-size: 60px
+			max-width: 800px
+			text-align: center
+
 	.quote
 		font-size: 400px
 		margin-left: -35px
 		margin-top: -255px
 
+		&.shop-quote
+			font-size: 300px
+
 #episodes
 	ul
 		max-width: 900px
 		padding: 100px
+
+#product
+	margin: 0 auto
+	max-width: 900px

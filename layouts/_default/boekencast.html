@@ -3,21 +3,13 @@
 		<section id="hero">
 			<div class="background"></div>
 
-			<div class="book-container">
-				<div class="book">
-					{{ $image     := resources.Get (printf "images/%s.webp" (urlize .Params.book)) }}
-					{{ $thickness := div (add 5 (mul .Params.pages 0.082)) 9 }}
-
-					<img
-						src="{{ ($image.Fit "1320x880 webp").RelPermalink }}"
-						alt="{{ .Params.book }}"
-						class="cover"
-						style="transform: translateZ({{ $thickness }}vh);">
-					<div class="pages" style="transform: translateX({{ sub 27 $thickness }}vh) rotateY(90deg); width: {{ mul $thickness 1.9 }}vh;"></div>
-					<div class="back" style="transform: translateZ(-{{ $thickness }}vh);"></div>
-					<div class="shadow"></div>
-				</div>
-			</div>
+			{{ partial "books/large.html" (dict
+				"context" .
+				"title"   "De Zahir"
+				"pages"   380
+				"front"   (resources.Get "images/boekencast/de-zahir.webp")
+				"animate" true
+			) }}
 
 			<div>
 				<h1><span class="de">de </span><span class="reactionair">Reactionair</span><br>Boekencast</h1>

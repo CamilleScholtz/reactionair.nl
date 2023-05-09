@@ -20,6 +20,7 @@ cleanDestinationDir = true
 [taxonomies]
 	author = "authors"
 	theme  = "themes"
+	winkel = "winkel"
 
 # TODO: See https://github.com/gohugoio/hugo/issues/8523
 [permalinks]

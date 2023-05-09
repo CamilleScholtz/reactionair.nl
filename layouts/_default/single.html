@@ -13,7 +13,7 @@
 			</section>
 
 			<figure>
-				{{ $image := .Resources.GetMatch .Params.image }}
+				{{ $image := .Resources.Get .Params.image }}
 				{{ $anchor := "Smart" }}
 				{{ if isset .Params "anchor" }}
 					{{ $anchor = .Params.anchor }}
