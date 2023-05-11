@@ -4,7 +4,7 @@ subtitle: 'Nummer is 3 is echt zo van: hoe dan??'
 date: '2022-06-03'
 authors:
     - Gastauteur
-themes: Klikaas
+themes: De Uylenspieghel
 image: thumb.webp
 anchor: Smart
 tags:

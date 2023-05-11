@@ -4,7 +4,7 @@ subtitle: 'De TikTok-isering van het debat'
 date: '2022-03-02'
 authors:
     - '‘Het Dorp’ Genieter'
-themes: Klikaas
+themes: De Uylenspieghel
 image: thumb.webp
 anchor: Smart
 tags:

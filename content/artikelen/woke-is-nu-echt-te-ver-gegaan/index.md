@@ -4,7 +4,7 @@ subtitle: 'Of toch niet?'
 date: '2021-10-15'
 authors:
     - 'Camille Scholtz'
-themes: Klikaas
+themes: De Uylenspieghel
 image: thumb.webp
 anchor: Smart
 tags:

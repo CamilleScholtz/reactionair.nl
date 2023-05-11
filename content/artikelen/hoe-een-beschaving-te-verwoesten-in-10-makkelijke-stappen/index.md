@@ -4,7 +4,7 @@ subtitle: 'Hoeveel punten herken jij!?'
 date: '2022-05-23'
 authors:
     - Gastauteur
-themes: Klikaas
+themes: De Uylenspieghel
 image: thumb.webp
 anchor: Top
 ---
