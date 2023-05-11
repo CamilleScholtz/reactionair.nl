@@ -4,7 +4,7 @@ subtitle: 'Waarom factcheckers de waarheid niet kunnen garanderen'
 date: '2023-04-06'
 authors:
     - 'De Melancholieke Nar'
-themes: 'Cultuur en Maatschappij'
+themes: 'Religie en Wijsbegeerte'
 image: c762c14e-d391-4e85-9796-f7359434becb.webp
 anchor: Smart
 description: 'Wat is de obsessie met nepnieuws en desinformatie? Filosoof Heinrichs betoogt dat feiten slechts een fragment van de waarheid zijn, kennis een beperkte houdbaarheid heeft en taal geen neutraal medium is. Daarnaast gaat politiek niet primair om waarheid en moeten ook onwaarheden geëerd worden.'

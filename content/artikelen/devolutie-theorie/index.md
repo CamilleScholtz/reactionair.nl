@@ -1,5 +1,5 @@
 ---
-title: 'Devolutie theorie'
+title: Devolutietheorie
 subtitle: 'De Futuro-Fundamentalistische Revolutie, deel 1'
 date: '2021-12-23'
 authors:
@@ -8,11 +8,11 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
+    - BLM
     - 'Charles Darwin'
     - 'Friedrich Nietzsche'
     - Immigratie
     - Woke
-    - BLM
 ---
 
 >_"Derhalve, dat niemand uit flauwheid of uit schroomvalligheid denke of zegge dat een mensch te ver kan gaan in het zoeken naar waarheid; dat hij al te kundig kan zijn in het boek van Gods woord of in het boek van Gods werken; dat hij te groot kan zijn in de kennis van God of in de wijsbegeerte. Laat hij liever trachten in beiden eindelooze vorderingen te maken."_ - Francis Bacon, vert. Tiberius Cornelus Winkler.
@@ -39,7 +39,7 @@ Vóór alles zal echter het _wereldbeeld_ van de globalistische vijandelijke eli
 - **Domesticering**:<br />
 	motto: _‘het gewennen aan het klimaat’_<br />
 	_(intensieve menshouderij: economische, sociale, psychologische, politieke selectie)_
-- **Hibridisering**:<br />
+- **Hybridisering**:<br />
 	motto: _‘inheems worden’_<br />
 	_(open grenzen: asielopvang=slavenimport, diversiteit=piraterij; immigratie=kolonisatie)_
 - **Verelendungstheorie**:<br />
