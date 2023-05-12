@@ -16,6 +16,6 @@
 
 	{{ partialCached "head/favicons.html" . }}
 
-	{{ partial "head/stylesheets.html" . }}
-	{{ partialCached "head/scripts.html" . }}
+	{{ partialCached "head/stylesheets.html" . (or (eq .Params.layout "boekencast") (eq .Type "winkel")) }}
+	{{ partialCached "head/scripts.html" . (eq .Type "winkel") }}
 </head>

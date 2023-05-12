@@ -47,6 +47,22 @@
 		</table>
 
 		<section id="content">
+			<div>
+				<button class="button add-to-cart" data-name="{{ .Slug }}" data-price="{{ .Params.price }}">
+					+ Voeg toe aan winkelmandje
+				</button>
+
+				<div class="added">
+					<button class="button remove-from-cart" data-name="{{ .Slug }}" data-price="{{ .Params.price }}" style="display: none;">
+						-
+					</button>
+
+					<button class="button add-to-cart" data-name="{{ .Slug }}" data-price="{{ .Params.price }}" style="display: none;">
+						+
+					</button>
+				</div>
+			</div>
+
 			{{ .Content }}
 		</section>
 	</article>

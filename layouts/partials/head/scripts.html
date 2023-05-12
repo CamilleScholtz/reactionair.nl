@@ -1,5 +1,8 @@
 <script defer src="{{ (resources.Get "js/vendor/minisearch.js").RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
 <script defer src="{{ (resources.Get "js/main.js" | resources.Minify).RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
+{{ if eq .Type "winkel" }}
+	<script defer src="{{ (resources.Get "js/shop.js" | resources.Minify).RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
+{{ end }}
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-MM83VY2NM0"></script>
 <script>

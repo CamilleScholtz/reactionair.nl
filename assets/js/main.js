@@ -373,7 +373,7 @@ const search = (header, mobile) => {
 	button.addEventListener("click", (ev) => {
 		ev.preventDefault();
 
-		if (input.style.transform == "rotateY(90deg)") {
+		if (input.style.transform === "rotateY(90deg)") {
 			if (!fetched) {
 				fetch("/index.json")
 					.then((response) => response.json())
@@ -498,7 +498,7 @@ const time = (header) => {
 		year:  "numeric",
 	}).formatToParts(date);
 
-	now.innerHTML = `${format.find((e) => e.type == "day").value} ${format.find((e) => e.type == "month").value.replace(".", "").toUpperCase()}, ${format.find((e) => e.type == "year").value}`;
+	now.innerHTML = `${format.find((e) => e.type === "day").value} ${format.find((e) => e.type === "month").value.replace(".", "").toUpperCase()}, ${format.find((e) => e.type === "year").value}`;
 }
 
 const quote = (main) => {
