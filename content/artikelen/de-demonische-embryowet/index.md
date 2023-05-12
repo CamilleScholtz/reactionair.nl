@@ -1,5 +1,5 @@
 ---
-title: 'De demonische Embryowet'
+title: 'De duivelse Embryowet'
 subtitle: 'Worden mens-dier-kruisingen straks werkelijkheid?'
 date: '2023-04-21'
 authors:

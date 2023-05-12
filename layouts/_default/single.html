@@ -44,9 +44,19 @@
 		</section>
 
 		<section class="content">
-			{{ if isset .Params "note" }}
+			{{ if or (isset .Params "note") (eq .Params.themes "De Uylenspieghel") }}
 				<section class="note">
-					<small>{{ .Params.note | markdownify }}</small>
+					<small>
+						{{ if eq .Params.themes "De Uylenspieghel" }}
+							Dit artikel is van satirische aard en dient met een korreltje zout genomen te worden.
+
+							{{ if isset .Params "note" }}
+								<br>
+							{{ end }}
+						{{ end }}
+
+						{{ .Params.note | markdownify }}
+					</small>
 				</section>
 			{{ end }}
 
@@ -54,7 +64,7 @@
 		</section>
 	</article>
 
-	{{ if in (slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Wijsbegeerte" "Onderzoek en Speurwerk" "Geschiedenis en Biografie" "Klikaas") .Params.themes }}
+	{{ if in (slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Wijsbegeerte" "Onderzoek en Speurwerk" "Geschiedenis en Biografie" "De Uylenspieghel") .Params.themes }}
 		<section class="files">
 			{{ partial "articles/theme.html" (dict
 				"context" .

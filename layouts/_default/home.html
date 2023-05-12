@@ -122,8 +122,9 @@
 	</section>
 
 	<section>
-		{{ $themes := slice "Geschiedenis en Biografie" }}
-		{{ $pages  := where $articles "Params.themes" "in" $themes }}
+		{{ $themes   := slice "Geschiedenis en Biografie" "De Uylenspieghel" }}
+		{{ $articles := where site.RegularPages "Params.themes" "in" $themes }}
+		{{ $pages    := where $articles "Params.themes" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}
 			{{ $pages := (where $pages "Params.themes" "eq" $theme) }}

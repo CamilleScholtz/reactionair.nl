@@ -18,7 +18,7 @@ tags:
 
 De avondzon die tot net boven de bergtoppen scheen, liet het dorpje in Toscane glinsteren. Als het uur verstreken was zou in dit dorpje, dat tussen het oud gebergte en een heuvelachtig landschap lag, het licht uitdoven als een opgebrande kaars, en een smeulende, grijze lucht achterlaten. Even was de lucht achter de bergtoppen nog karmijnrood, dieppaars, pastelblauw en boterbloemgeel op allerlei verschillende lagen en hoogten.
 
-Giacobbe was een simpel man. Vroeg in de ochtend legde hij altijd precies dezelfde weg af door zijn wijngaard. Na verloop van tijd groeide er geen gras meer op de plekken waar hij met zijn blote voeten op liep. Tussen de twee kale paden aan de beide zijden van de wijnranken, was een dunne strook ongerept stuk gras gegroeid.
+Giacobbe was een simpel man. Vroeg in de ochtend legde hij altijd precies dezelfde weg af door zijn wijngaard. Na verloop van tijd groeide er geen gras meer op de plekken waar hij met zijn blote voeten op liep. Tussen de twee kale paden aan de beide zijden van de wijnranken, was een dunne strook ongerept gras gegroeid.
 
 's Avonds wandelde hij het liefst door zijn wijngaard, tijdens het plukken van de druiven zag hij dan vanuit zijn ooghoeken de prachtige hemel. Af en toe stond hij even stil met wat vers geplukte vruchten in zijn handen. 
 

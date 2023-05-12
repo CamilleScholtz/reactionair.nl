@@ -4,7 +4,7 @@ subtitle: 'Nummer 8 zal je versteld doen staan'
 date: '2022-02-11'
 authors:
     - Gastauteur
-themes: Klikaas
+themes: De Uylenspieghel
 image: thumb.webp
 anchor: Smart
 tags:

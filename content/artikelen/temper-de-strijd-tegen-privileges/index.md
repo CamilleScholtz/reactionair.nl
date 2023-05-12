@@ -6,14 +6,13 @@ authors:
     - 'Eric Hendriks-Kim'
 themes: 'Cultuur en Maatschappij'
 image: thumb.webp
-anchor: Smart
+anchor: Center
 tags:
     - 'Franse revolutie'
     - Reactionair
     - Woke
+note: "Dit artikel is eerder gepubliceerd in het *[NRC handelsblad](https://www.nrc.nl/nieuws/2017/10/26/temper-de-strijd-tegen-privileges-13691826-a1578885)*. \n"
 ---
-
-_Dit artikel is eerder gepubliceerd in het NRC handelsblad._[^1]
 
 Het is de nacht van 4 op 5 augustus, 1789. De revolutionaire Franse Nationale Vergadering is in extase, want vannacht nog worden alle privileges afgeschaft. Het voelt als een bevrijding, ook voor aanwezigen die hun privileges juist moeten opgeven. Huilend van blijdschap zweren aristocraten, geestelijken en regionale vertegenwoordigers hun privileges af. Als de zon opgaat, is alles en iedereen gelijk. Vanaf die nacht werden in Frankrijk en daarna door heel Europa in rap tempo alle middeleeuwse privileges afgeschaft. Het woord _‘privilege’_ stamt van het Latijnse privus en legum en betekent _‘privérecht’_, oftewel speciaal voorrecht. Naast belastingvrijstelling voor aristocraten en geestelijken ging het om zelfbeschikkingsrechten voor universiteiten, kerkordes, vrije steden en gildes.
 
@@ -23,7 +22,7 @@ Een andere erfenis van de Revolutie in onze taal is dat we regeringen die we sle
 
 Ach, de revolutionairen waren klaar met compromissen. Alle geestelijken werden ambtenaren, kerkelijke bezittingen werden genationaliseerd, universiteiten overgenomen. De staat ging de maatschappij op _‘rationele’_ en uniforme wijze vormgeven. Dit ontaardde al snel in Robespierres schrikbewind waaronder telkens meer vermeende vijanden van gelijkheid en vooruitgang naar de guillotine werden afgevoerd. Zo’n escalerende klassenstrijd was toen een nieuw fenomeen, maar het schiep een revolutionaire traditie die in de twintigste eeuw in communistische landen, zoals Rusland, tot totalitaire tirannie leidde. Beijing, Pyongyang en Phnom Penh volgden vervolgens weer het Moskouse voorbeeld. Nog nooit eerder waren staten zo systematisch onderdrukkend. De twee unieke nieuwe eigenschappen van de moderniteit – activistisch idealisme en totalitaire sturingsdrang – bleken nauw met elkaar verweven te zijn. Sterker nog: het slechtste van de moderniteit, haar totalitaire hang, kwam voort uit haar meest idealistische gelijkheidsstreven.
 
-Dat is ook de vloek die ons hedendaagse linkse identiteitsactivisme teistert. Zijn gekte is die van de moderniteit als geheel. Critici maken zich er te makkelijk vanaf door zich op recente relletjes te richten, zoals genderneutrale wc’s. Zelfs de Amerikaanse ideeënhistoricus Mark Lilla, die de linkse identiteitspolitiek aanvalt in zijn jongste boek,[^2] richt zijn pijlen op wat hij ziet als recente en hoofdzakelijk Amerikaanse excessen. In een interview in Trouw (15/10) licht hij zijn argument toe.[^3] De aanjagers van identiteitspolitiek _“zien het politieke speelveld niet als een vrij, open debat om anderen te overtuigen en achter je te scharen om invloed uit te oefenen. Zij zien het als een plek om zich te beklagen over persoonlijk onrecht en leed, en om anderen te kapittelen en op te roepen hun zonden op te biechten en zich te bekeren”_.
+Dat is ook de vloek die ons hedendaagse linkse identiteitsactivisme teistert. Zijn gekte is die van de moderniteit als geheel. Critici maken zich er te makkelijk vanaf door zich op recente relletjes te richten, zoals genderneutrale wc’s. Zelfs de Amerikaanse ideeënhistoricus Mark Lilla, die de linkse identiteitspolitiek aanvalt in zijn jongste boek,[^1] richt zijn pijlen op wat hij ziet als recente en hoofdzakelijk Amerikaanse excessen. In een interview in Trouw (15/10) licht hij zijn argument toe.[^2] De aanjagers van identiteitspolitiek _“zien het politieke speelveld niet als een vrij, open debat om anderen te overtuigen en achter je te scharen om invloed uit te oefenen. Zij zien het als een plek om zich te beklagen over persoonlijk onrecht en leed, en om anderen te kapittelen en op te roepen hun zonden op te biechten en zich te bekeren”_.
 
 Maar hierin schuilt een bekend sjabloon: de _‘onderdrukten’_ moeten zich bewust worden gemaakt van het historische systeem dat hen onderdrukt en in opstand komen, terwijl de _‘onderdrukkers’_ hun _‘privileges’ moeten opgeven en boete moeten doen van hun historische zonde. Nu gaat het om vrouwen tegen mannen, gekleurden tegen witten, minderheden tegen de meerderheid. Maar we zijn di_tzelfde verhaal in twee eerdere versies tegengekomen. Bij oud-marxistisch links waren het de arbeiders en de boeren tegen de kapitalisten en de landeigenaren. In de Franse Revolutie ging het om gewone burgers versus geprivilegieerden.
 
@@ -42,6 +41,5 @@ Robespierres schrikbewind werd beëindigd door de matigende Thermidoriaanse Reac
 We moeten het nog steeds hebben van dwarse reactionairen. Dat zijn mensen die geen zin hebben in de verplichte diversiteitscursus op hun werk, quota’s oneerlijk vinden, bij het horen van nieuwe politieke termen vaak in de lach schieten en ook vooral andere dingen aan hun hoofd hebben. Reactionairen hebben geen groot _‘tegenverhaal’_. Het verzet is alledaags en subtiel. Alle beetjes helpen. Verwerp de opruiende manipulaties van activisten; saboteer de oprukkende politisering.
 
 
-[^1]: Eric Hendriks-Kim, _[Temper de strijd tegen ‘privileges’](https://www.nrc.nl/nieuws/2017/10/26/temper-de-strijd-tegen-privileges-13691826-a1578885)_.
-[^2]: Beverly Gage, _[An Intellectual Historian Argues His Case Against Identity Politics](https://www.nytimes.com/2017/08/15/books/review/mark-lilla-the-once-and-future-liberal.html)_.
-[^3]: Marco Visscher, _['Linkse politici zijn verstrikt in identiteitspolitiek'](https://www.trouw.nl/nieuws/linkse-politici-zijn-verstrikt-in-identiteitspolitiek~b42d209c/)_.
+[^1]: Beverly Gage, _[An Intellectual Historian Argues His Case Against Identity Politics](https://www.nytimes.com/2017/08/15/books/review/mark-lilla-the-once-and-future-liberal.html)_.
+[^2]: Marco Visscher, _['Linkse politici zijn verstrikt in identiteitspolitiek'](https://www.trouw.nl/nieuws/linkse-politici-zijn-verstrikt-in-identiteitspolitiek~b42d209c/)_.
