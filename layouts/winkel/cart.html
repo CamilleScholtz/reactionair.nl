@@ -1,13 +1,11 @@
 {{ define "main" }}
-	{{ $paginator := .Paginate .RegularPages }}
-
-	<ul id="products">
-		{{ range $paginator.Pages }}
+	<ul id="products" class="checkout">
+		{{ range (where .Site.RegularPages "Section" "winkel") }}
 			{{ if eq .Params.layout "cart" }}
 				{{ continue }}
 			{{ end }}
 
-			<li class="product">
+			<li class="product" data-name="{{ .Params.title | urlize }}" style="display: none;">
 				<a href="{{ .RelPermalink }}">
 					{{ partialCached "books/small.html" (dict
 						"context" .
@@ -35,6 +33,4 @@
 			</li>
 		{{ end }}
 	</ul>
-
-	{{ partial "paginator.html" $paginator }}
 {{ end }}

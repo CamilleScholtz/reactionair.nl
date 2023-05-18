@@ -10,7 +10,7 @@
 		{{ if .hover }}
 			<div class="back" style="transform: translateZ(calc({{ $thickness }}vh - 1px));"></div>
 		{{ end }}
-		<div class="pages" style="transform: translateX({{ sub 27 $thickness }}vh) rotateY(90deg); width: {{ mul $thickness 1.9 }}vh;"></div>
+		<div class="pages" style="transform: translateX({{ sub 27.5 $thickness }}vh) rotateY(90deg); width: {{ mul $thickness 1.9 }}vh;"></div>
 		<div class="back" style="transform: translateZ(calc(-{{ $thickness }}vh + 1px));"></div>
 		{{ if .hover }}
 			<img

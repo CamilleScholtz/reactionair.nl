@@ -1,21 +1,43 @@
 #taxonomy,
-#term
+#term,
 	width: var(--avg-width)
 
-	#articles
+#articles
+	display: grid
+	grid-template-columns: repeat(2, 1fr)
+
+	.article
+		&:last-of-type
+			border-bottom: 1px dashed var(--border-color)
+			padding-bottom: 20px
+
+#products
+	list-style: none
+
+	.product
+		border-bottom: 1px dashed var(--border-color)
 		display: grid
-		grid-template-columns: repeat(2, 1fr)
+		gap: 50px
+		grid-template-columns: 200px fit-content(100%)
+		padding-bottom: 70px
+		padding-top: 10px
 
-		.article
-			&:last-of-type
-				border-bottom: 1px dashed var(--border-color)
-				padding-bottom: 20px
+		&:first-of-type
+			padding-top: 50px
 
-	#products
-		display: grid
-		grid-template-columns: repeat(3, 1fr)
+		&:last-of-type
+			border-bottom: none
+			padding-bottom: 100px
 
-		.product
-			&:last-of-type
-				border-bottom: 1px dashed var(--border-color)
-				padding-bottom: 20px
+		.text
+			align-self: center
+			margin-top: 0px
+
+			.price
+				font-family: "IM Fell English SC", serif
+				font-style: italic
+
+			.cart-form
+				margin-top: 20px
+
+

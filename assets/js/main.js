@@ -353,7 +353,7 @@ const scroll = (header, main, mobile) => {
 
 const search = (header, mobile) => {
 	const logo             = header.querySelector("#logo");
-	const donate 		   = header.querySelector("#donate");
+	const seperate 		   = header.querySelector("#seperate");
 	const input            = header.querySelector("#search input");
 	const button           = header.querySelector("#search button");
 	const resultsContainer = header.querySelector("#search .results-container");
@@ -387,8 +387,8 @@ const search = (header, mobile) => {
 				logo.style.transform = "translateY(-200px)";
 			}
 
-			donate.style.opacity       = 0;
-			donate.style.pointerEvents = "none";
+			seperate.style.opacity       = 0;
+			seperate.style.pointerEvents = "none";
 
 			input.style.transform  = "rotateY(0deg)";
 			button.style.transform = "rotateY(180deg)";
@@ -397,8 +397,8 @@ const search = (header, mobile) => {
 
 			input.dispatchEvent(new Event("input", {bubbles: true}));
 		} else {
-			donate.style.opacity       = 1;
-			donate.style.pointerEvents = "auto"
+			seperate.style.opacity       = 1;
+			seperate.style.pointerEvents = "auto"
 
 			input.style.transform  = "rotateY(90deg)";
 			button.style.transform = "rotateY(0deg)";

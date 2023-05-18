@@ -50,6 +50,28 @@ footer
 		align-self: center
 		perspective: 100vh
 
+	.cart-form
+		background: var(--background-color)
+		z-index: 10
+		position: absolute
+		right: 0px
+		padding: 30px
+		padding-right: 7vw
+		bottom: 75px
+		width: 200px
+		box-shadow: 0px 10px 80px -13px rgba(154, 52, 51, 0.1)
+		border-right: none
+		display: grid
+
+		.price
+			font-family: 'IM Fell English SC', serif
+			font-size: 50px
+			font-style: italic
+			margin-bottom: 20px
+			padding-bottom: 4px
+
+
+
 #episodes
 	width: 100vw
 
@@ -105,6 +127,10 @@ footer
 				padding-left: 10px
 				font-style: italic
 
+	.cart-form
+		margin-bottom: 30px
+		width: 200px
+
 	#content
 		border-top: 1px dashed var(--border-color)
 		margin: 0 auto
@@ -117,3 +143,17 @@ footer
 			text-align: justify
 			-webkit-hyphens: auto
 
+.added-to-cart
+	grid-template-columns: 50px auto 50px
+
+	.checkout
+		grid-column: span 3
+		text-align: center
+
+	input
+		width: 100%
+		text-align: center
+
+
+.in-cart
+	display: flex
