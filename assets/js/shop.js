@@ -1,6 +1,10 @@
 const edit = (main, header) => {
-	const getProduct = (cart, name) => {
-		return cart?.find(i => i.name === name) ?? { name: name, quantity: 0 };
+	const getProduct = (cart, dataset) => {
+		return cart?.find(i => i.name === dataset.name) ?? {
+			name:     dataset.name,
+			quantity: 0,
+			price:    parseFloat(dataset.price),
+		};
 	};
 
 	const quantityChanged = (form, cart, product) => {
@@ -31,13 +35,13 @@ const edit = (main, header) => {
 
 	main.querySelectorAll(".cart-form").forEach((form) => {
 		const cart = JSON.parse(localStorage.getItem("cart")) ?? [];
-		quantityChanged(form, cart, getProduct(cart, form.dataset.name));
+		quantityChanged(form, cart, getProduct(cart, form.dataset));
 
 		form.querySelectorAll(".add-to-cart").forEach((button) => {
 			button.addEventListener("click", (ev) => {
 				const cart = JSON.parse(localStorage.getItem("cart")) ?? [];
 
-				const product = getProduct(cart, form.dataset.name);
+				const product = getProduct(cart, form.dataset);
 				product.quantity++;
 
 				quantityChanged(form, cart, product);
@@ -48,7 +52,7 @@ const edit = (main, header) => {
 			button.addEventListener("click", (ev) => {
 				const cart = JSON.parse(localStorage.getItem("cart")) ?? [];
 
-				const product = getProduct(cart, form.dataset.name);
+				const product    = getProduct(cart, form.dataset);
 				product.quantity = product.quantity > 0 ? product.quantity - 1 : 0;
 
 				quantityChanged(form, cart, product);
@@ -59,7 +63,7 @@ const edit = (main, header) => {
 			input.addEventListener("change", (ev) => {
 				const cart = JSON.parse(localStorage.getItem("cart")) ?? [];
 
-				const product = getProduct(cart, form.dataset.name);
+				const product    = getProduct(cart, form.dataset);
 				product.quantity = parseInt(input.value);
 
 				quantityChanged(form, cart, product);
@@ -69,17 +73,28 @@ const edit = (main, header) => {
 }
 
 const checkout = (main, cart) => {
-	if (main.querySelector(".checkout") === null) {
+	const checkout = main.querySelector(".checkout-page");
+	if (checkout === null) {
 		return;
 	}
 
-	main.querySelectorAll(".checkout .product").forEach((product) => {
+	checkout.querySelectorAll(".product").forEach((product) => {
 		if (cart.find(i => i.name === product.dataset.name) === undefined) {
 			product.style.display = "none";
 		} else {
-			product.style.display = "flex";
+			product.style.display = "grid";
 		}
 	});
+
+	var total = 0;
+	cart.forEach((product) => {
+		total += product.quantity * product.price;
+	});
+
+	checkout.querySelector(".total-price").innerHTML = new Intl.NumberFormat("nl-NL", {
+		style:    "currency",
+		currency: "EUR",
+	}).format(total);
 }
 
 const total = (header, cart) => {

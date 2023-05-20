@@ -1,3 +1,4 @@
+<script defer src="{{ (resources.Get "js/vendor/alpine.js").RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
 <script defer src="{{ (resources.Get "js/vendor/minisearch.js").RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
 <script defer src="{{ (resources.Get "js/main.js" | resources.Minify).RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
 {{ if eq .Type "winkel" }}

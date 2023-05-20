@@ -1,4 +1,4 @@
-<div class="cart-form" data-name="{{ .title | urlize }}">
+<div class="cart-form" data-name="{{ .title | urlize }}" data-price="{{ .price }}">
 	<div class="price">
 		{{ .price | printf "€ %.2f" }}
 	</div>

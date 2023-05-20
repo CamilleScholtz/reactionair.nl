@@ -1,36 +1,43 @@
 {{ define "main" }}
-	<ul id="products" class="checkout">
-		{{ range (where .Site.RegularPages "Section" "winkel") }}
-			{{ if eq .Params.layout "cart" }}
-				{{ continue }}
-			{{ end }}
+	<div id="taxonomy" class="checkout-page">
+		<ul id="products">
+			{{ range (where .Site.RegularPages "Section" "winkel") }}
+				{{ if eq .Params.layout "cart" }}
+					{{ continue }}
+				{{ end }}
 
-			<li class="product" data-name="{{ .Params.title | urlize }}" style="display: none;">
-				<a href="{{ .RelPermalink }}">
-					{{ partialCached "books/small.html" (dict
-						"context" .
-						"title"   .Params.title
-						"front"   (.Resources.Get .Params.front)
-						"back"    (.Resources.Get .Params.back)
-						"pages"   .Params.pages
-						"hover"	  true
-					) .Params.title }}
-				</a>
-
-				<div class="text">
+				<li class="product" data-name="{{ .Params.title | urlize }}" data-price="{{ .Params.price }}" style="display: none;">
 					<a href="{{ .RelPermalink }}">
-						<div class="author">{{ delimit .Params.writers ", " " & " }}</div>
-						<h2>{{ .Params.title }}</h2>
+						{{ partialCached "books/small.html" (dict
+							"context" .
+							"title"   .Params.title
+							"front"   (.Resources.Get .Params.front)
+							"back"    (.Resources.Get .Params.back)
+							"pages"   .Params.pages
+							"hover"	  true
+						) .Params.title }}
 					</a>
 
-					<div class="price">{{ .Params.price | printf "€ %.2f"  }}</div>
+					<div class="text">
+						<a href="{{ .RelPermalink }}">
+							<div class="author">{{ delimit .Params.writers ", " " & " }}</div>
+							<h2>{{ .Params.title }}</h2>
+						</a>
 
-					{{ partial "cart/small.html" (dict
-						"title"    .Params.title
-						"checkout" false
-					) }}
-				</div>
-			</li>
-		{{ end }}
-	</ul>
+						<div class="price">{{ .Params.price | printf "€ %.2f"  }}</div>
+
+						{{ partial "cart/small.html" (dict
+							"title"    .Params.title
+							"price"    .Params.title
+							"checkout" false
+						) }}
+					</div>
+				</li>
+			{{ end }}
+		</ul>
+
+		<div class="info">
+			<span class="total-price"></span>
+		</div>
+	</div>
 {{ end }}
