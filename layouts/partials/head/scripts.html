@@ -1,6 +1,11 @@
-<script defer src="{{ (resources.Get "js/vendor/alpine.js").RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
+{{ $options := dict
+	"minify" true
+}}
+
 <script defer src="{{ (resources.Get "js/vendor/minisearch.js").RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
-<script defer src="{{ (resources.Get "js/main.js" | resources.Minify).RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
+
+<script defer type="module" src="{{ (resources.Get "js/main.js" | js.Build $options).RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
+
 {{ if eq .Type "winkel" }}
 	<script defer src="{{ (resources.Get "js/shop.js" | resources.Minify).RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
 {{ end }}

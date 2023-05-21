@@ -86,7 +86,7 @@ const checkout = (main, cart) => {
 		}
 	});
 
-	var total = 0;
+	let total = 0;
 	cart.forEach((product) => {
 		total += product.quantity * product.price;
 	});
@@ -98,7 +98,7 @@ const checkout = (main, cart) => {
 }
 
 const total = (header, cart) => {
-	var total = 0;
+	let total = 0;
 	cart?.forEach((product) => {
 		total += product.quantity;
 	});
