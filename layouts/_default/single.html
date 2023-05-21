@@ -44,17 +44,17 @@
 		</section>
 
 		<section class="content">
-			{{ if or (isset .Params "note") (eq .Params.themes "De Uylenspieghel") }}
+			{{ if eq .Params.themes "De Uylenspieghel" }}
+				<section class="uylenspieghel">
+					<img src="{{ "img/uylenspieghel.svg" | relURL }}" style="height: 240px">
+
+					<small>Dit artikel is van satirische aard en dient met een korreltje zout genomen te worden.</small>
+				</section>
+			{{ end }}
+
+			{{ if isset .Params "note" }}
 				<section class="note">
 					<small>
-						{{ if eq .Params.themes "De Uylenspieghel" }}
-							Dit artikel is van satirische aard en dient met een korreltje zout genomen te worden.
-
-							{{ if isset .Params "note" }}
-								<br>
-							{{ end }}
-						{{ end }}
-
 						{{ .Params.note | markdownify }}
 					</small>
 				</section>
