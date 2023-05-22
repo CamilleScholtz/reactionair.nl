@@ -2,7 +2,10 @@
 	.book
 		transform: rotateY(-20deg) rotateX(3deg)
 
-		@keyframes move
+		&.hover:hover
+			transform: rotateY(-40deg) rotateX(3deg) scale(1.08)
+
+		@keyframes animate
 			0%
 				transform: rotateY(-20deg) rotateX(3deg)
 			50%

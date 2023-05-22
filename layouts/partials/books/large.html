@@ -1,5 +1,5 @@
 <div class="book-container">
-	<div class="book large {{ if .animate }} animate {{ end }} {{ if .hover }} hover {{ end }}">
+	<div class="book large {{ if .animate }}animate{{ end }} {{ if .hover }}hover{{ end }} {{ if .click }}click{{ end }}">
 		{{ $thickness := div (add 5 (mul .pages 0.082)) 12 }}
 
 		<img
@@ -7,12 +7,12 @@
 			alt="{{ .title }}"
 			class="cover"
 			style="background: {{ index .front.Colors 0 }}; transform: translateZ({{ $thickness }}vh);">
-		{{ if .hover }}
+		{{ if .click }}
 			<div class="back" style="transform: translateZ(calc({{ $thickness }}vh - 1px));"></div>
 		{{ end }}
 		<div class="pages" style="transform: translateX({{ sub 27.5 $thickness }}vh) rotateY(90deg); width: {{ mul $thickness 1.9 }}vh;"></div>
 		<div class="back" style="transform: translateZ(calc(-{{ $thickness }}vh + 1px));"></div>
-		{{ if .hover }}
+		{{ if .click }}
 			<img
 				src="{{ (.back.Fit "1320x880 webp").RelPermalink }}"
 				loading="lazy"

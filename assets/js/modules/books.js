@@ -1,17 +1,20 @@
 export const book = (main, mobile) => {
-	const books = main.querySelectorAll(".book.hover.animate");
+	const books = main.querySelectorAll(".book.hover.animate, .book.click");
 	if (!books) {
 		return;
 	}
 
 	books.forEach((book) => {
-		book.classList.remove("animate");
-		book.style.transition = "transform 8.5s ease-in-out";
+		const animated  = book.classList?.contains("animate");
+		const clickable = book.classList?.contains("click");
 
 		let hover = false;
+		let click = false;
 		let i     = true;
 
-		const move = () => {
+		let interval;
+
+		const animate = () => {
 			if (i) {
 				if (mobile.matches) {
 					book.style.transform = "rotateY(-30deg) rotateX(3deg) scale(0.9)";
@@ -29,44 +32,97 @@ export const book = (main, mobile) => {
 			i = !i;
 		}
 
-		setTimeout(move, 100);
-		interval = setInterval(move, 8500);
+		if (animated) {
+			book.classList.remove("animate");
+			book.style.transition = "transform 8.5s ease-in-out";
 
-		book.addEventListener("mouseenter", (ev) => {
-			hover = true;
+			setTimeout(animate, 100);
+			interval = setInterval(animate, 8500);
 
-			clearInterval(interval);
-
-			book.style.transition = "transform 1.5s ease";
-			if (mobile.matches) {
-				book.style.transform = "rotateY(-160deg) rotateX(3deg) scale(1.05)";
-			} else {
-				book.style.transform = "rotateY(-160deg) rotateX(3deg) scale(1.125)";
-			}
-		});
-
-		book.addEventListener("mouseleave", (ev) => {
-			hover = false;
-
-			if (mobile.matches) {
-				book.style.transform = "rotateY(-20deg) rotateX(3deg) scale(0.9)";
-			} else {
-				book.style.transform = "rotateY(-20deg) rotateX(3deg)";
-			}
-
-			setTimeout(() => {
-				if (hover) {
+			book.addEventListener("mouseenter", (ev) => {
+				if (clickable && click) {
 					return;
 				}
 
-				i  = true;
+				hover = true;
 
-				book.style.transition = "transform 8.5s ease-in-out";
-
-				setTimeout(move, 100);
 				clearInterval(interval);
-				interval = setInterval(move, 8500);
-			}, 1500);
-		});
+
+				book.style.transition = "transform 1.5s ease";
+				if (mobile.matches) {
+					book.style.transform = "rotateY(-40deg) rotateX(3deg) scale(1)";
+				} else {
+					book.style.transform = "rotateY(-40deg) rotateX(3deg) scale(1.08)";
+				}
+			});
+
+			book.addEventListener("mouseleave", (ev) => {
+				if (clickable && click) {
+					return;
+				}
+
+				hover = false;
+
+				if (mobile.matches) {
+					book.style.transform = "rotateY(-20deg) rotateX(3deg) scale(0.9)";
+				} else {
+					book.style.transform = "rotateY(-20deg) rotateX(3deg)";
+				}
+
+				setTimeout(() => {
+					if (hover) {
+						return;
+					}
+
+					i = true;
+
+					book.style.transition = "transform 8.5s ease-in-out";
+
+					setTimeout(animate, 100);
+					clearInterval(interval);
+					interval = setInterval(animate, 8500);
+				}, 1500);
+			});
+		}
+
+		if (clickable) {
+			book.addEventListener("click", (ev) => {
+				click = !click;
+
+				book.style.transition = "transform 1.5s ease";
+
+				if (click) {
+					if (mobile.matches) {
+						book.style.transform = "rotateY(-160deg) rotateX(3deg) scale(1.05)";
+					} else {
+						book.style.transform = "rotateY(-160deg) rotateX(3deg) scale(1.125)";
+					}
+				} else {
+					hover = false;
+
+					if (mobile.matches) {
+						book.style.transform = "rotateY(-20deg) rotateX(3deg) scale(0.9)";
+					} else {
+						book.style.transform = "rotateY(-20deg) rotateX(3deg)";
+					}
+
+					if (animated) {
+						setTimeout(() => {
+							if (hover) {
+								return;
+							}
+
+							i = true;
+
+							book.style.transition = "transform 8.5s ease-in-out";
+
+							setTimeout(animate, 100);
+							clearInterval(interval);
+							interval = setInterval(animate, 8500);
+						}, 1500);
+					}
+				}
+			});
+		}
 	});
 }
