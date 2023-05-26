@@ -6,6 +6,8 @@ header
 	z-index: 99
 
 	#logo-container
+		background: var(--background-color)
+		border-bottom: 1px dashed var(--border-color)
 		display: grid
 		overflow: visible
 		width: 100vw
@@ -33,6 +35,23 @@ header
 				#seperate
 					display: flex
 					gap: 10px
+
+					.icon
+						align-items: center
+						display: flex
+						transition: all .1s
+						justify-content: center
+						width: 50px
+						z-index: 1
+
+					#donate
+						margin-top: -13px
+
+					#shop
+						margin-top: -9px
+
+					#cart
+						margin-top: -9px
 
 					#total
 						align-items: center

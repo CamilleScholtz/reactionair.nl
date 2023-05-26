@@ -1,59 +1,60 @@
 {{ define "main" }}
-	<section id="hero">
-		<div class="background"></div>
+	<div id="boekencast">
+		<section id="hero">
+			<div class="background"></div>
 
-		{{ partial "books/large.html" (dict
-			"context" .
-			"title"   .Params.title
-			"front"   (.Resources.Get .Params.front)
-			"back"    (.Resources.Get .Params.back)
-			"pages"   .Params.pages
-			"animate" true
-			"click"   true
-		) }}
+			{{ partial "books/large.html" (dict
+				"context" .
+				"title"   .Params.title
+				"front"   (.Resources.Get .Params.front)
+				"back"    (.Resources.Get .Params.back)
+				"pages"   .Params.pages
+				"animate" true
+				"click"   true
+			) }}
 
-		<div>
-			<h1 class="shop-title">{{ .Params.title }}</h1>
-			<div class="quote shop-quote">“</div>
-		</div>
+			<div>
+				<h1 class="shop-title">{{ .Params.title }}</h1>
+			</div>
 
-		{{ partial "cart/large.html" (dict
-			"title"    .Params.title
-			"price"    .Params.price
-			"checkout" true
-		) }}
-	</section>
-
-	<article id="product">
-		<table>
-			<tr>
-				<th>Titel</th>
-				<td>{{ .Params.title }}</td>
-
-				<th>Taal</th>
-				<td>{{ .Params.language }}</td>
-			</tr>
-
-			<tr>
-				<th>Auteur(s)</th>
-				<td>{{ delimit .Params.writers ", " " & " }}</td>
-
-
-				<th>Uitgever</th>
-				<td>{{ .Params.publisher }}</td>
-			</tr>
-
-			<tr>
-				<th>Aantal paginas</th>
-				<td>{{ .Params.pages }}</td>
-
-				<th>ISBN</th>
-				<td>{{ .Params.isbn }}</td>
-			</tr>
-		</table>
-
-		<section id="content">
-			{{ .Content }}
+			{{ partial "shop/cart/large.html" (dict
+				"title"    .Params.title
+				"price"    .Params.price
+				"checkout" true
+			) }}
 		</section>
-	</article>
+
+		<article id="product">
+			<table>
+				<tr>
+					<th>Titel</th>
+					<td>{{ .Params.title }}</td>
+
+					<th>Taal</th>
+					<td>{{ .Params.language }}</td>
+				</tr>
+
+				<tr>
+					<th>Auteur(s)</th>
+					<td>{{ delimit .Params.writers ", " " & " }}</td>
+
+
+					<th>Uitgever</th>
+					<td>{{ .Params.publisher }}</td>
+				</tr>
+
+				<tr>
+					<th>Aantal paginas</th>
+					<td>{{ .Params.pages }}</td>
+
+					<th>ISBN</th>
+					<td>{{ .Params.isbn }}</td>
+				</tr>
+			</table>
+
+			<section id="content">
+				{{ .Content }}
+			</section>
+		</article>
+	</div>
 {{ end }}

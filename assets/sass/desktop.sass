@@ -4,9 +4,8 @@
 @import partials/desktop/articles
 @import partials/desktop/authors
 @import partials/desktop/boekencast
-@import partials/desktop/book
+@import partials/desktop/books
 @import partials/desktop/comments
-@import partials/desktop/files
 @import partials/desktop/footer
 @import partials/desktop/footnotes
 @import partials/desktop/header
@@ -16,7 +15,7 @@
 @import partials/desktop/products
 @import partials/desktop/recording
 @import partials/desktop/single
-@import partials/desktop/theme
+@import partials/desktop/themes
 @import partials/desktop/tooltip
 
 \:root
@@ -25,6 +24,7 @@
 	--min-width: 665px
 
 main
-	max-width: 1280px
-	width: 90%
 	margin-top: 60px
+	max-width: 1280px
+	min-height: calc(100vh - 101px - 56px)
+	width: 90%

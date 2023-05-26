@@ -5,7 +5,7 @@ pages: 166
 price: 12.50
 publisher: 'Antelope Hill'
 isbn: '978-1-956887-36-5'
-published: '2022-01-01'
+date: '2022-01-01'
 language: 'Engels'
 front: 'front.jpg'
 back: 'back.jpg'

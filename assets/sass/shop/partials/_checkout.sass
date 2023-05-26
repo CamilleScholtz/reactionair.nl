@@ -1,0 +1,27 @@
+.checkout-page
+	margin: 0 auto
+
+	form
+		margin: 0 auto
+		width: var(--min-width)
+
+		.form-group
+			display: grid
+			gap: 10px
+
+			&.name
+				grid-template-columns: 2fr 1fr 2fr
+
+			&.address
+				grid-template-columns: 1fr 1fr
+
+		label
+			display: inline-block
+			margin-bottom: 5px
+			margin-top: 20px
+
+		input
+			width: 100%
+
+		button
+			display: block

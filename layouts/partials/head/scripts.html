@@ -1,13 +1,13 @@
 {{ $options := dict
 	"minify" true
+	"params" (dict "api" .Site.Params.api)
 }}
 
-<script defer src="{{ (resources.Get "js/vendor/minisearch.js").RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
+<script defer src="{{ (resources.Get "js/vendor/minisearch.js").RelPermalink }}?v={{ site.Params.rev }}"></script>
 
-<script defer type="module" src="{{ (resources.Get "js/main.js" | js.Build $options).RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
-
+<script defer type="module" src="{{ (resources.Get "js/main.js" | js.Build $options).RelPermalink }}?v={{ site.Params.rev }}"></script>
 {{ if eq .Type "winkel" }}
-	<script defer src="{{ (resources.Get "js/shop.js" | resources.Minify).RelPermalink }}?v={{ $.Site.Params.revision }}"></script>
+	<script defer type="module" src="{{ (resources.Get "js/shop.js" | js.Build $options).RelPermalink }}?v={{ site.Params.rev }}"></script>
 {{ end }}
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-MM83VY2NM0"></script>

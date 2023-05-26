@@ -1,4 +1,4 @@
-#boekencast
+.boekencast
 	border-top: 1px dashed var(--border-color)
 	margin-top: 60px
 	padding-bottom: 60px
@@ -39,3 +39,81 @@
 				font-size: 19px !important
 				margin: 0
 				max-width: 80%
+
+#boekencast
+	#hero
+		align-content: space-evenly
+		border-bottom: 1px dashed var(--border-color)
+		display: grid
+		grid-gap: 30px
+		justify-content: center
+		overflow: hidden
+		position: relative
+		width: 100vw
+
+		.background
+			background: url('/img/guenon.svg')
+			background-position: top
+			background-size: cover
+			filter: var(--popup-background-filter) saturate(1.5)
+			mask: radial-gradient(black 10%, transparent 70%)
+			position: absolute
+			transform: rotate(-12deg)
+			width: 110vw
+
+		h1
+			color: var(--text-color)
+			text-align: right
+			font-weight: 700
+			position: relative
+			z-index: 2
+
+			.de,
+			.reactionair
+				font-style: italic
+				text-transform: capitalize
+
+		.quote
+			color: #B35F5A
+			font-weight: 700
+			mix-blend-mode: hard-light
+			position: absolute
+
+		.book-container
+			align-self: center
+			perspective: 100vh
+
+	#episodes
+		width: 100vw
+
+		ul
+			list-style: none
+			margin: 0 auto
+			padding: 0
+
+			li
+				h2
+					font-size: 36px
+					font-weight: 700
+					font-style: italic
+					line-height: 48px
+					margin-top: -31px
+					margin-bottom: 15px
+
+				.number
+					color: var(--popup-background-color)
+					display: inline
+					font-weight: 700
+					font-size: 120px
+					font-style: italic
+					margin-left: -4px
+					margin-top: -66px
+					opacity: 0.5
+					position: absolute
+					z-index: -1
+
+				.listen
+					font-size: 16px
+					font-style: italic
+					margin-bottom: 0px
+					margin-top: 30px

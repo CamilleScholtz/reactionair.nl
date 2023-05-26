@@ -5,7 +5,7 @@ pages: 810
 price: 12.50
 publisher: 'Imperium Press'
 isbn: '978-1-922602-26-8'
-published: '2022-01-01'
+date: '2022-01-01'
 language: 'English'
 front: 'front.jpg'
 back: 'back.jpg'

@@ -10,10 +10,9 @@ export const newsletter = (main) => {
 		const data = new FormData(ev.target);
 
 		fetch(ev.target.action, {
-			method: 'POST',
-			mode: 'no-cors',
+			method: "POST",
 			headers: {
-				'Content-Type': 'application/json'
+				"Content-Type": "application/json"
 			},
 			body: data
 		});

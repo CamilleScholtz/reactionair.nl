@@ -8,16 +8,15 @@ export const comments = (main) => {
 		return;
 	}
 
-	form.addEventListener("submit", async (ev) => {
+	form.addEventListener("submit", (ev) => {
 		ev.preventDefault();
 
 		const data = new FormData(ev.target);
 
-		await fetch(ev.target.action, {
-			method: 'POST',
-			mode: 'no-cors',
+		fetch(ev.target.action, {
+			method: "POST",
 			headers: {
-				'Content-Type': 'application/json'
+				"Content-Type": "application/json"
 			},
 			body: data
 		});

@@ -1,8 +1,8 @@
 {{ define "main" }}
-	<div id="taxonomy" class="checkout-page">
+	<div id="taxonomy" class="cart-page">
 		<ul id="products">
 			{{ range (where .Site.RegularPages "Section" "winkel") }}
-				{{ if eq .Params.layout "cart" }}
+				{{ with .Params.layout }}
 					{{ continue }}
 				{{ end }}
 
@@ -26,7 +26,7 @@
 
 						<div class="price">{{ .Params.price | printf "€ %.2f"  }}</div>
 
-						{{ partial "cart/small.html" (dict
+						{{ partial "shop/cart/small.html" (dict
 							"title"    .Params.title
 							"price"    .Params.title
 							"checkout" false
@@ -37,7 +37,16 @@
 		</ul>
 
 		<div class="info">
-			<span class="total-price"></span>
+			<a href="/winkel/afrekenen" class="button">Afrekenen</a>
+
+			<div class="prices">
+				<div class="total"></div>
+				<div>
+					<small class="free-shipping"></small>
+					<span class="shipping"></span>
+				</div>
+				<div class="total-plus-shipping"></div>
+			</div>
 		</div>
 	</div>
 {{ end }}

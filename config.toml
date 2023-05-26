@@ -15,7 +15,8 @@ disableHugoGeneratorInject = true
 cleanDestinationDir = true
 
 [params]
-	revision = "903"
+	rev = "903"
+	api = "http://127.0.0.1:8000"
 
 [taxonomies]
 	author = "authors"

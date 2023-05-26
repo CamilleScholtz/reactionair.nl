@@ -1,0 +1,46 @@
+.added-to-cart
+	grid-template-columns: 50px auto 50px
+
+	.checkout
+		grid-column: span 3
+		text-align: center
+
+	input
+		margin: 0
+		text-align: center
+		width: 100%
+
+.in-cart
+	display: flex
+
+.cart-page
+	.info
+		display: flex
+		justify-content: space-between
+		margin-top: 20px
+
+		.prices
+			text-align: right
+
+			.shipping,
+			.total,
+			.total-plus-shipping
+				color: var(--muted-color)
+				font-family: 'IM Fell English SC', serif
+				font-style: italic
+				font-size: 20px
+
+			.free-shipping
+				font-size: 13px
+
+				span
+					color: var(--accent-color)
+					font-family: 'IM Fell English SC', serif
+
+			.total-plus-shipping
+				border-top: 1px dashed var(--border-color)
+				color: var(--text-color)
+				display: inline-block
+				font-size: 30px
+				margin-top: 15px
+				padding-top: 8px

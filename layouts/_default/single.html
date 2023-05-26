@@ -65,7 +65,7 @@
 	</article>
 
 	{{ if in (slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Wijsbegeerte" "Onderzoek en Speurwerk" "Geschiedenis en Biografie" "De Uylenspieghel") .Params.themes }}
-		<section class="files">
+		<section class="themes">
 			{{ partial "articles/theme.html" (dict
 				"context" .
 				"section" "related"

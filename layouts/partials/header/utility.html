@@ -11,7 +11,7 @@
 
 			<span class="eta" data-eta="{{ .ReadingTime }}">{{ .ReadingTime }} {{ if gt .ReadingTime 1 }}minuten{{ else }}minuut{{ end }} leestijd</span>
 		{{ else }}
-			<time class="now">{{ now.Day }} {{ index $.Site.Data.months (printf "%d" now.Month) }}, {{ now.Year }}</time>
+			<time class="now">{{ now.Day }} {{ index .Site.Data.months (printf "%d" now.Month) }}, {{ now.Year }}</time>
 		{{ end }}
 	</span>
 </div>

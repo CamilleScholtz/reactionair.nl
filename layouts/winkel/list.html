@@ -3,7 +3,7 @@
 
 	<ul id="products">
 		{{ range $paginator.Pages }}
-			{{ if eq .Params.layout "cart" }}
+			{{ with .Params.layout }}
 				{{ continue }}
 			{{ end }}
 
@@ -27,7 +27,7 @@
 
 					<div class="price">{{ .Params.price | printf "€ %.2f"  }}</div>
 
-					{{ partial "cart/small.html" (dict
+					{{ partial "shop/cart/small.html" (dict
 						"title"    .Params.title
 						"price"    .Params.price
 						"checkout" false
