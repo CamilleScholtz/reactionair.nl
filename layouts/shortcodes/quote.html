@@ -1,4 +1,6 @@
 <section class="blockquote">
 	<p class="text">“{{ .Get "text" | safeHTML }}”</p>
-	<p class="author"><span class="dash">—</span> {{ .Get "author" | safeHTML }}</p>
+	{{ if .Get "author" }}
+		<p class="author"><span class="dash">—</span> {{ .Get "author" | safeHTML }}</p>
+	{{ end }}
 </section>

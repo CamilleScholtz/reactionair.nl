@@ -1,13 +1,15 @@
 ---
-draft: true
-title: 'Rudolf Bouwman factcheckt orgasme van zijn vrouw'
+title: 'Rudolf Bouwman in relatiecrisis door factchecken orgasme vrouw'
 subtitle: 'Beroepsdeformatie breekt sympathieke factchecker op'
-date: '2023-05-11'
+date: '2023-05-18'
 authors:
-    - 'De redactie'
-themes: Klikaas
-image: 0377cb51-a0ec-4b6c-be00-02ee289b4cbb.png
+    - 'De Melancholieke Nar'
+themes: 'De Uylenspieghel'
+image: 41d2aece-0a7a-4b92-9405-f2630888d1bd.jpg
 anchor: Smart
+caption: 'Afbeelding ongerelateerd. Eventuele gelijkenissen tussen Rudolf Bouwman en werkelijk bestaande personen en/of gebeurtenissen berusten geheel op toeval.'
+tags:
+    - 'Rudy Bouma'
 ---
 
 Nieuws van onze sympathieke factchecker Rudolf Bouwman: hij heeft zijn obsessie voor feiten naar een geheel nieuw niveau getild. Wat begon als een ogenschijnlijk onschuldige discussie over het welzijn van zijn partner, eindigde in een relatiecrisis van epische proporties.
@@ -20,10 +22,10 @@ De volgende morgen, werd hij wakker met een verwilderde blik in zijn ogen. Rudol
 
 Hij besloot namelijk dat het tijd was om zijn nieuw verworven factcheckingvaardigheden toe te passen op een heel intiem onderwerp: het orgasme van zijn vrouw. Met zijn trouwe rode pen in de hand en een ernstige uitdrukking op zijn gezicht, ging Rudolf aan de slag. Hij begon een uitgebreid onderzoek op het internet, op zoek naar wetenschappelijke artikelen, statistieken en getuigenissen die zijn vermoeden zouden bevestigen dat zijn vrouw mogelijk niet het volledige genot van een orgasme beleefde.
 
-Terwijl zijn vrouw verbaasd en ongemakkelijk toekeek, presenteerde Rudolf haar met een diavoorstelling van grafieken en diagrammen, die zijn twijfels over haar seksuele ervaring ondersteunden. Hij citeerde gerenommeerde onderzoeken, bracht statistieken naar voren en eiste een feitelijke verklaring voor wat hij als "tekortschietende climaxprestaties" beschouwde.
+Terwijl zijn vrouw verbaasd en ongemakkelijk toekeek, presenteerde Rudolf haar een diavoorstelling van grafieken en diagrammen, die zijn twijfels over haar seksuele ervaring ondersteunden. Hij citeerde gerenommeerde onderzoeken, bracht statistieken naar voren en eiste een feitelijke verklaring voor wat hij als "tekortschietende climaxprestaties" beschouwde.
 Verwarring en woede vulden de kamer terwijl Rudolf zijn "feitelijk bewijs" blijvend verdedigde. Zijn vrouw, die tot dan toe altijd genoten had van hun intieme momenten, voelde zich belachelijk gemaakt en onzeker. Ze vroeg zich af hoe haar persoonlijke ervaringen herleid konden worden tot kille statistieken en wetenschappelijke studies.
 
-De relatiecrisis die volgde, was onvermijdelijk. Vertrouwen was geschonden, en Rudolf's obsessie met feiten had zijn emotionele intelligentie volledig overschaduwd. De kloof tussen hen werd groter en de eens zo vurige passie was getransformeerd tot een kille en afstandelijke sfeer.
+De relatiecrisis die volgde, was onvermijdelijk. Vertrouwen was geschonden, en Rudolfs obsessie met feiten had zijn emotionele intelligentie volledig overschaduwd. De kloof tussen hen werd groter en de eens zo vurige passie was getransformeerd tot een kille en afstandelijke sfeer.
 Het tragische aspect van dit alles is dat Rudolf Bouwman, in zijn streven naar objectieve waarheid, vergat dat intieme relaties niet worden gedefinieerd door statistieken en wetenschappelijke artikelen. Ervaringen, gevoelens en verbondenheid zijn veel complexer en genuanceerder dan cijfers op een scherm.
 
 Terwijl de storm van hun relatiecrisis voortduurt, kunnen we enkel hopen dat Rudolf Bouwman zijn les leert. Misschien moet hij zich richten op het bouwen van een emotionele band in plaats van zijn energie te verspillen aan het factchecken van de diepste momenten van zijn partner. Want soms zijn de waarheden die we voelen belangrijker dan de waarheden die we kunnen bewijzen.

@@ -1,5 +1,6 @@
 *Te doen:*
 
+- uylenspieghel vormgeving
 - plaatjes format + bijwerken oude artikelen
 - mix gerelateerde en niet-gerelateerde artikelen onder artikel
 - podcast
@@ -14,7 +15,4 @@
 
 - Nieuwsbrief? Camille is dit in de admin aan het maken. We moeten nog uitvoegen wat en wanneer we gaan versturen
 - Shop
-- Satire artikelen
-  - 'Gooise Communist Joeri (17) ontmoet een arbeider'
-  - 'Onderzoek wijst uit: wappies zijn ongenuanceerd en generaliseren altijd'
-  - 'Ontdekkingsreiziger ontdekt 7 nieuwe genders in de binnenwouden van Borneo'
+
