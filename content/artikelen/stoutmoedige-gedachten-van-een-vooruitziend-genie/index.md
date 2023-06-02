@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Stoutmoedige gedachten van een vooruitziend genie'
 subtitle: "Over Papini's Gog"
 date: '2023-05-12'
@@ -30,11 +29,11 @@ Gaat men uit van de psychologie, dan zou iedere schuldige moeten worden vrijgesp
 
 Sommigen hebben getracht een universele taal te scheppen, maar niemand is er in geslaagd een godsdienst te bedenken die voor iedereen aanvaardbaar is. De dwaling ligt in het gegeven dat men onvoldoende het wezen van de mens heeft doorgrond. Uit angst of suggestie veinst men eerbied voor goden, helden, vaderland, mensheid of andere abstracties. Dat zijn allemaal schermen om daarachter ons ware geloof te verbergen. Nodig is rekening houden met het “psychologische kernpunt” van de menselijke handelswijze: de egolatrie. Ieder vereert zichzelf, maakt van het zelf zijn persoonlijke god. Zo zijn er even veel goden als mensen. De filosoof Fichte pontificeerde: wij zullen God scheppen. Het begrip “mensheid” is een _flatus vocis_. Zie Walt Whitmans _Song of Myself_.
 
-**Einstein** maakte van tijd ruimte, of van ruimte tijd, en zo werd alles relatief. Ruimte en tijd zijn ondeelbare aspecten van een enkele werkelijkheid, inclusief materie, kracht, licht, elektriciteit, inertie, zwaartekracht. Alle wetenschap is fysica. In het begin was, en is beweging.
+- Einstein maakte van tijd ruimte, of van ruimte tijd, en zo werd alles relatief. Ruimte en tijd zijn ondeelbare aspecten van een enkele werkelijkheid, inclusief materie, kracht, licht, elektriciteit, inertie, zwaartekracht. Alle wetenschap is fysica. In het begin was, en is beweging.
 
-**Freud** voelt zich kunstenaar, romanticus, voor wie literatuur diende om jezelf te bevrijden van Oedipus en Narcissus, zoals Heine, Zola, Mallarmé, Goethe deden.
+- Freud voelt zich kunstenaar, romanticus, voor wie literatuur diende om jezelf te bevrijden van Oedipus en Narcissus, zoals Heine, Zola, Mallarmé, Goethe deden.
 
-**Edison**: De vooruitgang via de elektriciteit of de machine verandert niets aan onze oorspronkelijke doem. De man moet blijven denken, de vrouw moet blijven baren, want er is nog altijd geen machine die denkt en baart – die ervoor zorgt dat de man niet meer hoeft te denken, en de vrouw niet meer hoeft te baren.
+- Edison: De vooruitgang via de elektriciteit of de machine verandert niets aan onze oorspronkelijke doem. De man moet blijven denken, de vrouw moet blijven baren, want er is nog altijd geen machine die denkt en baart – die ervoor zorgt dat de man niet meer hoeft te denken, en de vrouw niet meer hoeft te baren.
 
 De wereld wordt steeds gevaarlijker, en vluchten kan niet meer. Het is overal onveilig. Verstandig is het om bijtijds te sterven.
 
@@ -44,7 +43,7 @@ Er is te veel zee. De bevolking neemt toe, en er is steeds meer voedsel nodig. W
 
 Poëzie is industrie, dichters zijn als arbeiders, eventueel met drugs om inspiratie te krijgen.
 
-De schrijver **H.G. Wells** handelt in wetenschappelijke utopieën, het toekomstig lot van de mensheid verpakt in literaire fantasieën. Techniek van gas- en luchtoorlogen, verwoesting van steden, massale zelfmoord, grote beschadigingen aan de planeet zijn de kenmerken. De beschaving verdwijnt, alleen de barbaren blijven. Kerken, bibliotheken en fabrieken worden ruïnes.
+De schrijver H.G. Wells handelt in wetenschappelijke utopieën, het toekomstig lot van de mensheid verpakt in literaire fantasieën. Techniek van gas- en luchtoorlogen, verwoesting van steden, massale zelfmoord, grote beschadigingen aan de planeet zijn de kenmerken. De beschaving verdwijnt, alleen de barbaren blijven. Kerken, bibliotheken en fabrieken worden ruïnes.
 
 Filosofie: die verdwijnt in de klassieke zin, in de zin van Plato en Socrates. In plaats daarvan hebben we de moderne waanzin van Rousseau, August Comte en Nietzsche. En zo krijgen we de filomanie, wat is: liefde voor krankzinnigheid, in plaats van voor wijsheid. We krijgen metasofie, wat is: niet geloven in het bestaan van wat dan ook, inclusief de mens. Want God is dood, dus niets bestaat. Het wat tegenwoordig doorgaat voor Zijn (Heidegger) is verdampt. “Ik denk niet, dus ik ben niet”, zegt de metasoof. Zijn is identiek met Niets.
 
