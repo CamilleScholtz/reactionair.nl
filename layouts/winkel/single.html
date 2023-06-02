@@ -13,8 +13,11 @@
 				"click"   true
 			) }}
 
-			<div>
-				<h1 class="shop-title">{{ .Params.title }}</h1>
+			<div class="shop-title-container">
+				<h1 class="shop-title">
+					{{ .Params.title }}
+				</h1>
+				<div class="quote shop-quote">“</div>
 			</div>
 
 			{{ partial "shop/cart/large.html" (dict

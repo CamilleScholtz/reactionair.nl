@@ -40,11 +40,11 @@ export const book = (main, mobile) => {
 			interval = setInterval(animate, 8500);
 
 			book.addEventListener("mouseenter", (ev) => {
+				hover = true;
+
 				if (clickable && click) {
 					return;
 				}
-
-				hover = true;
 
 				clearInterval(interval);
 
@@ -57,11 +57,11 @@ export const book = (main, mobile) => {
 			});
 
 			book.addEventListener("mouseleave", (ev) => {
+				hover = false;
+
 				if (clickable && click) {
 					return;
 				}
-
-				hover = false;
 
 				if (mobile.matches) {
 					book.style.transform = "rotateY(-20deg) rotateX(3deg) scale(0.9)";
@@ -98,8 +98,6 @@ export const book = (main, mobile) => {
 						book.style.transform = "rotateY(-160deg) rotateX(3deg) scale(1.125)";
 					}
 				} else {
-					hover = false;
-
 					if (mobile.matches) {
 						book.style.transform = "rotateY(-20deg) rotateX(3deg) scale(0.9)";
 					} else {
