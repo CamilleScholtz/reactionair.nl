@@ -15,11 +15,13 @@ disableHugoGeneratorInject = true
 cleanDestinationDir = true
 
 [params]
-	revision = "904"
+	rev = "904"
+	api = "https://admin.reactionair.nl"
 
 [taxonomies]
 	author = "authors"
 	theme  = "themes"
+	winkel = "winkel"
 
 # TODO: See https://github.com/gohugoio/hugo/issues/8523
 [permalinks]

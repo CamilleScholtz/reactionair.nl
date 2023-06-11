@@ -1,0 +1,23 @@
+{{ if gt .TotalPages 1 }}
+	<nav class="paginator">
+		{{ if .HasPrev }}
+			<a class="button square prev" href="{{ .Prev.URL }}">
+				‹-
+			</a>
+		{{ else }}
+			<a class="button square prev disabled">
+				‹-
+			</a>
+		{{ end }}
+
+		{{ if .HasNext }}
+			<a class="button square next" href="{{ .Next.URL }}">
+				-›
+			</a>
+		{{ else }}
+			<a class="button square next disabled">
+				-›
+			</a>
+		{{ end }}
+	</nav>
+{{ end }}

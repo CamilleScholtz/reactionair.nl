@@ -8,8 +8,8 @@
 
 	<div class="envelope-container">
 		<div class="envelope">
-			{{ $imageClosed := resources.Get "images/newsletter-closed.webp" }}
-			{{ $imageOpen   := resources.Get "images/newsletter-open.webp" }}
+			{{ $imageClosed := resources.Get "images/newsletter/closed.webp" }}
+			{{ $imageOpen   := resources.Get "images/newsletter/open.webp" }}
 
 			<img
 				src="{{ ($imageOpen.Fit "560x692 webp").RelPermalink }}"
@@ -21,7 +21,7 @@
 		</div>
 	</div>
 
-	<form action="https://admin.reactionair.nl/api/newsletter">
+	<form action="{{ .Site.Params.api }}/api/newsletter">
 		<input type="email" id="email" name="email" required placeholder="Uw e-mailadres"/>
 
 		<button type="submit" class="button square">

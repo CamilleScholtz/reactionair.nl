@@ -86,7 +86,7 @@
 		{{ end }}
 	</section>
 
-	<section id="newsletter">
+	<section class="newsletter">
 		{{ partialCached "newsletter.html" . }}
 	</section>
 
@@ -113,12 +113,12 @@
 		{{ end }}
 	</section>
 
-	<section id="boekencast">
+	<section class="boekencast">
 		{{ partialCached "boekencast.html" (dict
 			"context" .
 			"book"    "De Zahir"
 			"pages"   203
-		) }}
+		) "De Zahir" }}
 	</section>
 
 	<section>

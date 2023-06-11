@@ -20,7 +20,9 @@ button
 	color: var(--accent-color)
 	cursor: pointer
 	display: block
-	font-size: 14px
+	font-family: inherit
+	font-size: 16px
+	font-style: italic
 	height: 50px
 	line-height: 50px !important
 	padding-left: 12px
@@ -39,9 +41,21 @@ textarea
 	box-sizing: border-box
 	color: var(--text-color)
 	display: block
-	font-family: 'IM Fell English', serif
+	font-family : inherit
 	margin-bottom: 10px
 	outline: none
+
+	&:disabled,
+	&:read-only
+		opacity: 0.5
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button
+	-webkit-appearance: none
+	margin: 0
+
+input[type=number]
+	-moz-appearance: textfield
 
 textarea
 	padding: 30px
@@ -57,11 +71,11 @@ q::after
 ::selection
 	background: var(--selection-color)
 
-
 .button
 	background: var(--popup-background-color)
 	color: var(--accent-color)
-	font-size: 14px
+	font-size: 16px
+	font-style: italic
 	height: 50px
 	display: inline-block
 	line-height: 50px

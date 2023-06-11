@@ -1,0 +1,41 @@
+{{ define "main" }}
+	{{ $paginator := .Paginate .RegularPages }}
+
+	<ul id="products">
+		{{ range $paginator.Pages }}
+			{{ with .Params.layout }}
+				{{ continue }}
+			{{ end }}
+
+			<li class="product">
+				<a href="{{ .RelPermalink }}">
+					{{ partialCached "books/small.html" (dict
+						"context" .
+						"title"   .Params.title
+						"front"   (.Resources.Get .Params.front)
+						"back"    (.Resources.Get .Params.back)
+						"pages"   .Params.pages
+						"hover"	  true
+					) .Params.title }}
+				</a>
+
+				<div class="text">
+					<a href="{{ .RelPermalink }}">
+						<div class="author">{{ delimit .Params.writers ", " " & " }}</div>
+						<h2>{{ .Params.title }}</h2>
+					</a>
+
+					<div class="price">{{ .Params.price | printf "€ %.2f"  }}</div>
+
+					{{ partial "shop/cart/small.html" (dict
+						"title"    .Params.title
+						"price"    .Params.price
+						"checkout" false
+					) }}
+				</div>
+			</li>
+		{{ end }}
+	</ul>
+
+	{{ partial "paginator.html" $paginator }}
+{{ end }}

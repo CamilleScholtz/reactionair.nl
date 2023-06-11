@@ -1,0 +1,111 @@
+.book-container
+	perspective: 650px
+
+	.book
+		position: relative
+		transform-style: preserve-3d
+		transition: transform 1.5s ease
+
+		.cover
+			background-color: #01060f
+			border-radius: 0 1.5px 1.5px 0
+			box-shadow: 5px 12px 32px -13px rgba(154, 52, 51, 0.25)
+			position: absolute
+			left: 0
+			top: 0
+
+		.pages
+			background: repeating-linear-gradient(to right, #FFF9F6, #E1C8A4 4.75px)
+			border-radius: 2px
+			left: 0
+			position: absolute
+
+		.back
+			background-color: #5C3020
+			border-radius: 0 1.5px 1.5px 0
+			left: 0
+			position: absolute
+			top: 0
+
+		.shadow
+			background: radial-gradient(circle, rgba(154, 52, 51, 0.25), rgba(154, 52, 51, 0) 72%)
+			position: absolute
+			transform: rotateX(90deg)
+
+		&.animate
+			animation: 17s ease 0s infinite animate
+
+		&.small
+			height: 248px
+			width: 165px
+
+			.cover
+				height: 248px
+				width: 165px
+
+			.pages
+				height: 242px
+				top: 3px
+
+			.back
+				box-shadow: -6px 6px 30px 3px rgba(154, 52, 51, 0.02)
+				height: 248px
+				width: 165px
+
+			.shadow
+				bottom: -150px
+				height: 300px
+				left: -66px
+				width: 300px
+
+		&.medium
+			height: 330px
+			width: 220px
+
+			.cover
+				height: 330px
+				width: 220px
+
+			.pages
+				height: 320px
+				top: 5px
+
+			.back
+				box-shadow: -10px 10px 50px 8px rgba(154, 52, 51, 0.25)
+				height: 330px
+				width: 220px
+
+			.shadow
+				bottom: -200px
+				height: 400px
+				left: -91px
+				width: 400px
+
+		&.large
+			height: 42vh
+			margin: 0 auto
+			width: 28vh
+
+			.cover
+				border-radius: 2px 3px 3px 2px
+				box-shadow: 5px 12px 32px -13px rgba(154, 52, 51, 0.25)
+				height: 42vh
+				width: 28vh
+
+			.pages
+				background: repeating-linear-gradient(to right, #FFF9F6, #E1C8A4 4.75px)
+				border-radius: 3px
+				height: 40.5vh
+				top: 0.75vh
+
+			.back
+				border-radius: 2px 3px 3px 2px
+				height: 42vh
+				width: 28vh
+
+			.shadow
+				background: radial-gradient(circle, rgba(154, 52, 51, 0.25), rgba(154, 52, 51, 0) 72%)
+				bottom: -200px
+				height: 400px
+				left: -91px
+				width: 400px

@@ -1,0 +1,29 @@
+{{ define "main" }}
+	<div id="taxonomy" class="checkout-page">
+		<form action="{{ .Site.Params.api }}/api/shop/checkout">
+			<label>Naam</label>
+			<div class="form-group name">
+				<input type="text" name="first-name" required placeholder="Uw naam"/>
+				<input type="text" name="preposition" placeholder="Tussenv."/>
+				<input type="text" name="last-name" required placeholder="Uw achternaam"/>
+			</div>
+
+			<label>Adres</label>
+			<div class="form-group address">
+				<input type="text" name="postal-code" required placeholder="Uw postcode"/>
+				<input type="text" name="house-number" required placeholder="Uw huisnummer"/>
+			</div>
+			<span class="error"></span>
+			<input type="text" name="street" required readonly placeholder="Uw straat"/>
+			<input type="text" name="city" required readonly placeholder="Uw woonplaats"/>
+
+			<label>Contactgegevens</label>
+			<input type="email" name="email" required placeholder="Uw e-mailadres"/>
+			<input type="tel" name="phone" placeholder="Uw telefoonnummer"/>
+
+			<button type="submit" class="button">
+				Afrekenen
+			</button>
+		</form>
+	</div>
+{{ end }}

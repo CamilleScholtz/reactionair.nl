@@ -3,7 +3,7 @@
 		"@context": "https://schema.org/",
 
 		{{ if eq .Type "artikelen" }}
-			{{ $image  := .Resources.GetMatch .Params.image }}
+			{{ $image  := .Resources.Get .Params.image }}
 			{{ $anchor := "Smart" }}
 			{{ if isset .Params "anchor" }}
 				{{ $anchor = .Params.anchor }}
@@ -34,7 +34,7 @@
 		{{ else if and (eq .Type "authors") (eq .Kind "term") }}
 			"@type": "Person",
 			"name": "{{ .Params.title | safeHTML }}",
-			"image": "{{ (.Resources.GetMatch .Params.image).Permalink }}"
+			"image": "{{ (.Resources.Get .Params.image).Permalink }}"
 		{{ else }}
 			"@type": "Organization",
 			"name": "Reactionair.nl",

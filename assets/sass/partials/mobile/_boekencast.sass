@@ -1,4 +1,4 @@
-#boekencast
+.boekencast
 	.boekencast-container
 		align-content: center
 		background: var(--popup-background-color)
@@ -33,14 +33,33 @@
 		.book-container
 			margin-top: -110px
 
-			.book
-				margin: 0 auto
-				transform: rotateY(-20deg) rotateX(3deg) scale(0.9)
+#boekencast
+	#hero
+		height: calc(100vh - 81px - 56px)
 
-				@keyframes move
-					0%
-						transform: rotateY(-20deg) rotateX(3deg) scale(0.9)
-					50%
-						transform: rotateY(-30deg) rotateX(3deg) scale(0.9)
-					100%
-						transform: rotateY(-20deg) rotateX(3deg) scale(0.9)
+		.background
+			height: calc(150vh - 81px - 56px)
+			margin-top: -25vh
+
+		.book-container
+			margin-top: -30px
+
+		h1
+			font-size: 13vw
+			text-shadow: 0 10px 40px var(--background-color)
+			line-height: 45px
+			margin-top: -60px
+
+			.de
+				font-size: 4vw
+				text-shadow: 0px 5px 20px var(--background-color)
+
+			.reactionair
+				font-size: 7vw
+				text-shadow: 0px 5px 20px var(--background-color)
+
+		.quote
+			display: block
+			font-size: 40vw
+			margin-left: -3vw
+			margin-top: -28vw

@@ -1,0 +1,14 @@
+.book-container
+	.book
+		transform: rotateY(-20deg) rotateX(3deg)
+
+		&.hover:hover
+			transform: rotateY(-40deg) rotateX(3deg) scale(1.08)
+
+		@keyframes animate
+			0%
+				transform: rotateY(-20deg) rotateX(3deg)
+			50%
+				transform: rotateY(-30deg) rotateX(3deg)
+			100%
+				transform: rotateY(-20deg) rotateX(3deg)

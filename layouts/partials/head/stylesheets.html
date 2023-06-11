@@ -6,14 +6,15 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
 
-<link rel="stylesheet" href="{{ (resources.Get "sass/light.sass" | resources.ToCSS $options).RelPermalink }}?v={{ $.Site.Params.revision }}" media="(prefers-color-scheme: light)">
-<link rel="stylesheet" href="{{ (resources.Get "sass/dark.sass" | resources.ToCSS $options).RelPermalink }}?v={{ $.Site.Params.revision }}" media="(prefers-color-scheme: dark)">
-<link rel="stylesheet" href="{{ (resources.Get "sass/main.sass" | resources.ToCSS $options).RelPermalink }}?v={{ $.Site.Params.revision }}">
-<link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v={{ $.Site.Params.revision }}" media="(max-width: 1024px)">
-<link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v={{ $.Site.Params.revision }}" media="(min-width: 1025px)">
+<link rel="stylesheet" href="{{ (resources.Get "sass/light.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(prefers-color-scheme: light)">
+<link rel="stylesheet" href="{{ (resources.Get "sass/dark.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(prefers-color-scheme: dark)">
+<link rel="stylesheet" href="{{ (resources.Get "sass/main.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}">
+<link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(max-width: 1024px)">
+<link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(min-width: 1025px)">
 
-{{ if eq .Params.layout "boekencast" }}
-	<link rel="stylesheet" href="{{ (resources.Get "sass/boekencast/main.sass" | resources.ToCSS $options).RelPermalink }}?v={{ $.Site.Params.revision }}">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/boekencast/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v={{ $.Site.Params.revision }}" media="(max-width: 1024px)">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/boekencast/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v={{ $.Site.Params.revision }}" media="(min-width: 1025px)">
+{{ if eq .Type "winkel" }}
+	<link rel="stylesheet" href="{{ (resources.Get "sass/shop/main.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/shop/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(max-width: 1024px)">
+	<link rel="stylesheet" href="{{ (resources.Get "sass/shop/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(min-width: 1025px)">
 {{ end }}
+

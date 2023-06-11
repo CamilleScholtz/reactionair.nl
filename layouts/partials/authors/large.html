@@ -1,5 +1,5 @@
 <div class="author-info large">
-	{{ $image := .Resources.GetMatch .Params.image }}
+	{{ $image := .Resources.Get .Params.image }}
 
 	{{ $1x := $image.Fill "200x200 webp" }}
 	{{ $2x := $image.Fill "400x400 webp" }}
