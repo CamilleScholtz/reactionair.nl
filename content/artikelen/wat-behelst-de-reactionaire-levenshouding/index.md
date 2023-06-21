@@ -13,7 +13,7 @@ tags:
     - 'Rainer Maria Rilke'
     - Reactionair
     - Traditie
-    - liberalisme
+    - Liberalisme
 ---
 
 Enige tijd geleden schreef een politiek geïnteresseerde jongeman ons een e-mail met de vraag wat een reactionair wereldbeeld precies inhoudt. Aangezien we sindsdien deze vraag vaker hebben gekregen, hebben we besloten de beknopte schets die we de jongeman als antwoord hebben gestuurd in een ietwat aangepaste vorm publiek te maken.

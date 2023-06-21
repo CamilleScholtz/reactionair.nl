@@ -13,7 +13,7 @@ tags:
     - Mythologie
 ---
 
-> Er zal ooit zijn wat geweest is en dan weten we het niet, zei de prediker van niemandsland dat is ontstaan uit hardgebakken lucht.
+{{< quote text="Er zal ooit zijn wat geweest is en dan weten we het niet, zei de prediker van niemandsland dat is ontstaan uit hardgebakken lucht." >}}
 
 ### Het eerste en laatste deel: kosmogonie van niemandsland
 
