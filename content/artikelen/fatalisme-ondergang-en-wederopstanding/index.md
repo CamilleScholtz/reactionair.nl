@@ -3,7 +3,7 @@ title: 'Fatalisme, ondergang en wederopstanding'
 subtitle: 'Beschouwing over het lot der Westerse beschaving'
 date: '2021-11-03'
 authors:
-    - 'Intan Hoijer'
+    - 'Intan'
 themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center

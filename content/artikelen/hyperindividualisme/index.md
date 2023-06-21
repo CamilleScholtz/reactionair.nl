@@ -3,7 +3,7 @@ title: Hyperindividualisme
 subtitle: 'De ondergang van de samen-leving'
 date: '2022-07-31'
 authors:
-    - 'Intan Hoijer'
+    - 'Intan'
 themes: 'Cultuur en Maatschappij'
 image: caspar-david-friedrich-011-daac9d.jpg
 anchor: Top
