@@ -15,7 +15,7 @@ disableHugoGeneratorInject = true
 cleanDestinationDir = true
 
 [params]
-	rev = "904"
+	rev = "911"
 	api = "https://admin.reactionair.nl"
 
 [taxonomies]
