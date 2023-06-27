@@ -4,8 +4,6 @@ title   = "Reactionair.nl"
 languageCode           = "nl"
 DefaultContentLanguage = "nl"
 
-ignoreErrors = ["error-remote-getjson"]
-
 paginate     = 10
 paginatePath = "pagina"
 
@@ -14,8 +12,10 @@ enableRobotsTXT = true
 disableHugoGeneratorInject = true
 cleanDestinationDir = true
 
+ignoreErrors = ["error-remote-getjson"]
+
 [params]
-	rev = "911"
+	rev = "915"
 	api = "https://admin.reactionair.nl"
 
 [taxonomies]
