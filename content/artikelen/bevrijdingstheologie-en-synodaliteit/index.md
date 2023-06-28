@@ -4,7 +4,7 @@ title: 'Bevrijdingstheologie en Synodaliteit'
 subtitle: 'Een waarschuwing voor onwetende Katholieken'
 date: '2023-06-28'
 authors:
-    - 'Robertus Leussinck'
+    - 'Robbert Leussinck'
 themes: 'Cultuur en Maatschappij'
 image: 917d154e-9e98-4af4-9fa2-e898c7e97ab1.png
 anchor: Smart
