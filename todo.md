@@ -1,6 +1,7 @@
 *Te doen:*
 
-- uylenspieghel vormgeving
+- profielfoto's auteur op mobiel
+- uylenspieghel vormgeving (lijst?), alleen als het het laatste artikel is bovenaan?
 - plaatjes format + bijwerken oude artikelen
 - mix gerelateerde en niet-gerelateerde artikelen onder artikel
 - podcast
@@ -16,3 +17,6 @@
 - Nieuwsbrief? Camille is dit in de admin aan het maken. We moeten nog uitvoegen wat en wanneer we gaan versturen
 - Shop
 
+*Satire:*
+- wetenschappelijk bewijs: immigratie heeft alleen maar voordelen
+- 10 bekende Nederlanders als reptielen

@@ -10,19 +10,19 @@ anchor: Smart
 tags:
     - 'Arthur Schopenhauer'
     - 'Friedrich Schiller'
+    - Metafysica
     - 'Sigmund Freud'
     - Socrates
-    - Metafysica
     - Wetenschap
 ---
-
-Waan—de hedendaagse mens leeft in waan. Hij leeft in de waan van ongelovigheid, denkt dat hij bijgeloof en religieuze waan ontvlucht is. Hij zucht niet onder het juk van God of kerk en lacht om de geborneerde zielen die nog geloven dat er boven het uitspansel der hemelen een liefhebbende vader woont.[^1] Maar welk een zelfbedrog! De mens kán niet zonder geloof; en in deze slechts ogenschijnlijk goddeloze maatschappij zijn er andere goden waaraan de mens zich onderwerpt.
 
 {{< quote
 	text="Wahn! Wahn! Überall Wahn! Wohin ich forschend blick!"
 	author="Hans Sachs"
 	article=true
 >}}
+
+Waan—de hedendaagse mens leeft in waan. Hij leeft in de waan van ongelovigheid, denkt dat hij bijgeloof en religieuze waan ontvlucht is. Hij zucht niet onder het juk van God of kerk en lacht om de geborneerde zielen die nog geloven dat er boven het uitspansel der hemelen een liefhebbende vader woont.[^1] Maar welk een zelfbedrog! De mens kán niet zonder geloof; en in deze slechts ogenschijnlijk goddeloze maatschappij zijn er andere goden waaraan de mens zich onderwerpt.
 
 God is dood—ja! Maar met zijn dood hoorden wij reeds het zachtjes loeien van het gouden kalf uit de diepten der oudheid klinken. De mens versplinterde de stenen tafelen tegen de rotsen aan zijn voeten en viel op de knieën voor zijn eigen genot, in goud gegoten.[^2] Maar hoeveel beperkter is de mens, gevangen in zijn eigen huid, dan de mens die zijn ogen opheft naar de bergen; of naar de sterren? Waarheen vlood onze Faustische geest, dat wij ons laten beperken als vanouds? Zijn wij niet de ene beperking ontworsteld om onmiddellijk onder de andere gebukt te gaan? Ons verlangen naar de eeuwigheid is uitgedoofd als een kaars bij een open venster en de mensen pretenderen dat zij geketend aan de aarde vrijer zijn dan ware zij geketend aan de hemel.
 

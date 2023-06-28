@@ -1,20 +1,19 @@
 ---
-draft: true
 title: 'Directrice hondenpension met 4000 katten: “Instroom katten beperken”'
-subtitle: 'Scepsis na zeshonderdste toezegging niet weggenomen'
-date: '2023-06-07'
+subtitle: 'Cynisme na zeshonderdste toezegging niet weggenomen'
+date: '2023-06-20'
 authors:
     - Vrederijk
 themes: 'De Uylenspieghel'
 image: dc7bf90b-feaf-462d-b176-b8a9bb5be212.jpg
 anchor: Smart
 caption: "Marieke Rötte legt haar anti-katten standpunt uit. © Reu-ters 2023\n"
+tags:
+    - Immigratie
 ---
 
 In hondenpension “Nedermarken” neemt de ontevredenheid over de stijgende instroom van katten toe. De oorspronkelijke hondenbevolking is het er over eens dat er te veel katten naar het pension komen, en kiezen daarom al sinds 2010 voor een directie die zegt iets aan de katteninstroom te zullen doen.
 
-
- 
 “Kijk, ik ben leider van de Volksvereniging voor Vrijheid en Dierenwelzijn.” Het is een vreemd gezicht: de directrice van hondenpension Nedermarken toont trots haar lidmaatschapskaart van de machtige anti-kattenvereniging terwijl een dikke kater aan haar montuurloze bril likt. Marieke Rötte is 56 jaar, alleenstaand en draagt de verantwoordelijkheid voor Nedermarken, een plek die nog altijd het imago heeft van een schoon en goed georganiseerd pension voor honden, maar sinds enkele decennia vooral bevolkt wordt door grote groepen katten uit verre oorden.
 
 Ondanks de felle kritiek van de andere dieren in Nedermarken spreekt ze vlot en vrolijk. “Het aantal moet substantieel omlaag, dat vind ik als VVDw’er. In het bestuur hebben we discussie over katteninstroom, we denken daar verschillend over. We hebben gezegd dat we alle stromen in kaart gaan brengen en er beleid voor gaan ontwikkelen. Ik ben er hoopvol over dat we eruit gaan komen” zegt Rötte op joviale toon terwijl ze luid met een bak kattenbrokjes rammelt.

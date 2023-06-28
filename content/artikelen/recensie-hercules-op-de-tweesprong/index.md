@@ -16,7 +16,7 @@ tags:
     - Liberalisme
     - Mythologie
     - Rechtsfilosofie
-note: 'Dit artikel is een recensie van het boek ‘Hercules op de tweesprong’ van dr. Andreas Kinneging, hoogleraar te Leiden. Is uw interesse door dit artikel gewekt? Bestel het boek dan *[hier](https://uitgeverijprometheus.nl/boeken/hercules-op-de-tweesprong-gebonden/)*.'
+note: 'Dit artikel is een recensie van het boek ‘Hercules op de tweesprong’ van dr. Andreas Kinneging, hoogleraar te Leiden. Is uw interesse door dit artikel gewekt? Bestel het boek dan *[hier](https://uitgeverijprometheus.nl/boeken/hercules-op-de-tweesprong-gebonden/)*. Beluister ook *[deze podcast](https://www.cafeweltschmerz.nl/videos/20230605b-volledige-aflevering-boeken-die-u-niet-mag-lezen-odysee/)* waarin Cliteur en Kinneging in gesprek gaan.'
 ---
 
 Het nieuwe boek van Andreas Kinneging, hoogleraar rechtsfilosofie in Leiden, telt achtentwintig hoofdstukken. Daarvan verschenen er dertien in zijn eerdere boek _Geografie van Goed en Kwaad_ (2005), maar de auteur bewerkte ze voor _Hercules op de tweesprong_. De overige vijftien hoofdstukken verschenen eerder in andere bundels en tijdschriften, vier werden speciaal voor _Hercules_ geschreven. 

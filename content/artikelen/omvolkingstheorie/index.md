@@ -1,8 +1,7 @@
 ---
-draft: true
 title: Omvolkingstheorie
 subtitle: 'Is asielproblematiek omvolking?'
-date: '2023-06-05'
+date: '2023-06-14'
 authors:
     - 'Maurice Luymes'
 themes: 'Politiek en Actualiteit'
@@ -10,33 +9,37 @@ image: 11addf4f-3f3e-403b-abb0-1d0bb69e8c6a.jpg
 anchor: Smart
 description: 'De toestroom van immigranten naar Nederland is enorm; dit terwijl er wel degelijk een geschikte wet bestaat. Wat gaat er schuil achter deze situatie en kan het anders?'
 tags:
+    - Immigratie
     - Omvolking
     - Wetgeving
 ---
 
 In dit stukje wil ik u meenemen in het thema “omvolking” dat de laatste jaren vaker voorbijkomt. Er zijn soms felle meningen over maar meningen zijn slechts van beperkte waarde—ik zou een aantal *feiten* willen noemen, zodat u over dit onderwerp zelf een conclusie kunt vormen. Dat lijkt mij beter voor ons, want zo kunt u niet zeggen dat ik maar een “oppervlakkige reactionaire mening” verkondig, en bovendien is het beter voor het vormen van een publieke opinie.
- 
+
 Dit heeft wel het risico in zich dat dit artikel iets langer is dan gebruikelijk en “vrij juridisch”. Echter, als u dit artikel uitprint en op tafel legt, en daarnaast een tweede stapeltje maakt van alle richtlijnen, verordeningen, persberichten en rechterlijke uitspraken in asielzaken die wekelijks worden geproduceerd, dan is dit natuurlijk peanuts. Als u mijn artikel leest, dan kunt u zich het doorspitten van al die andere dingen besparen.
- 
+
+
 ### Vreemdelingenwet 2000
 
 Als startpunt neem ik de Vreemdelingenwet 2000. Ik zou wel eens voor de grap mensen op straat willen vragen, als mini-enquête: “de Vreemdelingenwet van ons, uit welk jaar komt die eigenlijk?” Misschien krijg je dan als antwoord: “1945?”
 Maar de wet komt uit 2000. Daarvoor was er ook wel een wet, maar deze nieuwe was strakker opgezet, en moest in één keer immigratie flink beperken.
 Het bestaat uit twee delen, “asiel” en “regulier” en voor elke categorie is precies bepaald wanneer iemand in aanmerking komt voor een verblijfsvergunning. “Asiel” is alleen voor specifieke gevallen zoals een gegronde vrees voor vervolging en een reëel risico op onmenselijke of vernederende behandeling. “Regulier” is voor andere specifieke gevallen zoals een bepaald soort werk, voor studie of gezin, en heeft objectieve maatstaven. Als je bijvoorbeeld niet voldeed aan de juiste categorie (bijvoorbeeld alleen vrouw of kinderen), of aan de juiste maatstaven, zoals de inkomenseis, en die was hoog, dan kwam je er niet in. Zo hoefde er geen enkele vreemdeling in de bijstand te belanden.
- 
+
 Er werd ook een “waakhond” bij gezet: de Raad van State. Hier kon je voortaan in hoger beroep. Niet om vreemdelingen extra kansen te bieden, maar omdat de Raad van State moest voorkomen dat individuele rechters uit de bocht vlogen. Als in de wet staat dat je je partner alleen naar Nederland mag halen als je € 1900 per maand verdient, maar de rechtbank Zwolle zou denken: “ach, die arme stakkers kunnen ook wel leven van € 1700, je kan hun gezinsgeluk toch niet verloren laten gaan voor die paar euro’s”, dan kon de IND in hoger beroep en dan ging de discussie op de zitting ongeveer zo:
-voorzitter-staatsraad: “wat staat er in de wet?” 
-vreemdeling: “1700 is voor mij genoeg” 
-“wat staat er in de wet?” 
-“ja maar 1700 is toch redelijk?” 
-“wat staat er in de wet?”
-“ik vind 1700 echt genoeg” 
-“wat staat er nu in de wet?” 
+
+voorzitter-staatsraad: “wat staat er in de wet?”<br>
+vreemdeling: “1700 is voor mij genoeg”<br>
+“wat staat er in de wet?”<br>
+“ja maar 1700 is toch redelijk?”<br>
+“wat staat er in de wet?”<br>
+“ik vind 1700 echt genoeg”<br>
+“wat staat er nu in de wet?”<br>
 “1900”—Klaar
- 
+
+
 ### Ontwikkelingen na 2000
 
-Meestal begint iets goed, denk maar aan de simpelste dingen, het is zaterdag en je zegt: “ik ga nu de tuin eens goed onder handen nemen”. Dat zou ook kunnen, ware het niet dat er zomaar iemand langst komt en het hele plan in duigen valt.
+Meestal begint iets goed, denk maar aan de simpelste dingen, het is zaterdag en je zegt: “ik ga nu de tuin eens goed onder handen nemen”. Dat zou ook kunnen, ware het niet dat er zomaar iemand langs komt en het hele plan in duigen valt.
  
 Zo ook hier. Een advocaat en oud deken van de Orde van Advocaten zei weleens: “het vreemdelingenrecht is eigenlijk het wilde westen van het recht”. Je gaat op weg maar er kan zomaar opeens een “struikrover” opduiken.
  
@@ -51,12 +54,13 @@ Intrigerend is dat de meeste mensen ook vaak denken dat rechters onbeperkt intel
 De gevolgen zie je al snel. Zo torpedeerde het Hof van Justitie EU onze inkomenseis, met een argument dat neerkomt op het zo ruim mogelijk uitleggen van de gezinsherenigingsrichtlijn.[^2]
  
 Procedureel loopt dat ongeveer zo:
-Europese rechter: “wat heeft deze man nodig?” 
-“wij IND stellen 1900 als norm” 
-“maar wat betaalt hij aan huur?” 
-“de norm is 1900, dat zegt de Raad van State ook” 
-“niks mee te maken, we moeten gezinshereniging bevorderen, dus we kijken hoeveel hij nodig heeft; hoeveel is zijn ziektekostenpremie?” 
-“het staat in de wet ook, ons criterium” “forget it! hoe lang wacht zijn vrouw al op hem? we moeten gezinshereniging bevorderen”
+
+Europese rechter: “wat heeft deze man nodig?”<br>
+“wij IND stellen 1900 als norm”<br>
+“maar wat betaalt hij aan huur?”<br>
+“de norm is 1900, dat zegt de Raad van State ook”<br>
+“niks mee te maken, we moeten gezinshereniging bevorderen, dus we kijken hoeveel hij nodig heeft; hoeveel is zijn ziektekostenpremie?”<br>
+“het staat in de wet ook, ons criterium” “forget it! hoe lang wacht zijn vrouw al op hem? we moeten gezinshereniging bevorderen”<br>
 Tegen een huilende vrouw is natuurlijk geen jurist bestand, dus _case overruled_.
  
 Er is nog een tweede waakhond in Europa, dat is het Europees Hof voor de Rechten van de Mens in Straatsburg, afgekort EHRM. Die passen een verdrag toe: het Europees Verdrag voor de Rechten van de Mens. Dat verdrag lijkt wellicht goed, maar het is van dermate ruime strekking dat je er alle kanten mee op kan.
@@ -70,7 +74,8 @@ Ik zie deze onevenwichtigheid trouwens ook aan de processuele kant. Ze doen name
 Je zou kunnen zeggen: als ze de criteria aan de onderkant beter afbakenen, krijgen ze ook niet zo’n stortvloed aan zaken, en hoeven ze aan de bovenkant niet zo streng te zijn op formele ontvankelijkheidsvereisten, maar dit lijkt onopgemerkt te blijven. Men kan niet reflecteren op de eigen situatie, en zoals ik hierboven zei: dat kan je van rechters ook niet verwachten. Geef ze een duidelijk afgebakende taak, niet zoiets als “de mens”; dan wordt het haast een filosofisch instituut in plaats van een rechtbank.
  
 Hier hebben wij dus een paar structurele problemen in het Europese recht: vage richtlijnen, rechtscolleges met onduidelijke, niet altijd goed afgebakende taken, te hoge idealen, moeite met inhoudelijke beslissingen. Dat levert een stroom slechte jurisprudentie op. In al dat geweld is de Vreemdelingenwet 2000 ongeveer 100 keer aangepast, zodat de oude wet bijna niet meer herkenbaar is. Bovendien is de arme oude Raad van State inmiddels “gesneuveld”. Na al die jaren de “rug recht te hebben gehouden” zijn de eerste generatie rechters die begonnen in 2000 met pensioen, en de nieuwe generatie rechters denkt “Europees”.[^3]
- 
+
+
 ### Asiel
 
 Je kan goed zien hoe dit uitpakt bij het asielbeleid. In de oude wet stond als criterium “vervolging” of “reëel risico op een onmenselijke of vernederende behandeling”. Maar dat ging Europa keer op keer oprekken. Vooral het EHRM want die is voor “de mens”, en als dat je eendimensionale perspectief is, dan moet “de mens” steeds verder beschermd worden, ook als het objectief gezien helemaal niet nodig is. Bovendien, men vindt zich hier heel belangrijk, dus “van de mens blijf je af”; gesecondeerd door het Hof van Justitie EU als iets onder een richtlijn valt.
@@ -88,7 +93,8 @@ Ze komen naar Nederland, en je zou zeggen: die krijgen natuurlijk nóóit asiel,
 Een andere grote groep is mensen uit Syrië zelf. Er is in dit land een soort status quo, niet perfect, maar oorlog is het niet. Toch krijgen ze allemaal asiel want “kwetsbaar evenwicht” en “er is veel kapot gegaan in de oorlog” en (dan komt weer dat criterium) “de mensen hebben het er zwaar”.
  
 Hierdoor krijg je wel heel rare situaties. Je kan als Syriër denken: ik woon in Damascus, ik ben klaar met de middelbare school, ik heb geen zin in militaire dienst en ik wil naar het Westen. Ik heb daar een neef, die stuurt mooie foto’s uit Amsterdam, hij verdient € 3000 per maand en ik zodadelijk hier maar € 300 voor hetzelfde werk. Dus je regelt een smokkelaar, gaat ’s ochtends nog naar de markt om voor je ouders een afscheidscadeau te kopen, omhelst elkaar flink, en dan naar Ter Apel. Je belt als je aankomt met thuis “hallo hier alles goed, met jullie ook?” “ja, alles goed, heb je al een huis?”
- 
+
+
 ### Denemarken
  
 Tegen het criterium “het leven is zwaar” is niets opgewassen, zelfs niet de meest sterke logica. Zo heeft Denemarken vorig jaar het beleid gewijzigd en bepaald: Syriërs uit het regeringsgebied wijzen wij af. Er is immers niets aan de hand daar. Die kwamen toen echter naar Nederland en . . . krijgen hier asiel want “in Denemarken hebben Syriërs het zwaar”[^4]
@@ -103,12 +109,13 @@ Het zijn niet zelden grote gezinnen met vijf, zes kinderen, je stuurt er één v
 Je ziet hoe zoiets ook nog veel verder ontspoort. Zo staat in de wet “dat ze hun ouders mogen laten komen”. Maar ja, als de ouders komen, “dan is het zielig voor de broers of zussen” ongeacht het aantal. Dus mogen ook de broers en zussen komen, tot 18 jaar aanvankelijk. Maar vervolgens ontstond de vraag: wat te doen met meerderjarige broers en zussen? Dus die mogen nu ook komen, tot 25 jaar mits nog vrijgezel. [^8] Soms mag zelfs een inwonende oma of opa nog meekomen. Hiervoor hoeft géén van deze personen enig persoonlijk risico te lopen in het land van herkomst.
  
 Vijfde voorbeeld: asielzoekers uit landen als Iran die zich bekeren tot het christendom of atheïst worden (althans, dat stellen). Je kunt daar op zich gewoon blijven leven, je moet alleen dan voorzichtig zijn, ter vergelijking: 10% van de bevolking van Iran is atheïst. Maar het EHRM oordeelt: “er mag geen terughoudendheid worden gevraagd”, want “dat maakt hun leven te zwaar”. En... asiel.[^9]
- 
+
+
 ### Is dit nu omvolking?
  
 U heeft nu een heel aantal feiten op een rij. Misschien kan dit helpen om de vraag te beantwoorden: “is dit omvolking?” Sommige mensen denken dat dit een van bovenaf gestuurd proces is om ons land kapot te maken. Maar mogelijk is het een onbewust, van onderaf ontstaan fenomeen door slechte juristen, vage criteria, “blaffende” rechters en “knikkende knieën”.
  
-Ik had voor iemand uitgerekend dat als je gewoon het “oude” recht toepast, het aantal asielzoekers binnen een maand of twee met ongeveer 95% daalt. Je hoeft niet eens de wet te veranderen, maar deze gewoon toe te passen: voor het criterium “het leven is zwaar” is geen juridische basis, zelfs niet in internationale verdragen. Het is een wijze van toetsing zoals deze bijvoorbeeld plaatsvindt in Hongarije of Denemarken. Zo waren in 2015 in Denemarken nog meer dan 20.000 asielaanvragen, wat na een screening van het beleid afnam naar 3570 in 2018  In 2022 was het aantal nog steeds laag: iets meer dan 4000 waarvan de helft uit Oekraïne, dus in de kern 2000.[^10] Ik ga uit van 95% omdat er in Nederland nog verbeteringen mogelijk zijn ten opzichte van Denemarken.
+Ik had voor iemand uitgerekend dat als je gewoon het “oude” recht toepast, het aantal asielzoekers binnen een maand of twee met ongeveer 95% daalt. Je hoeft niet eens de wet te veranderen, maar deze gewoon toe te passen: voor het criterium “het leven is zwaar” is geen juridische basis, zelfs niet in internationale verdragen. Het is een wijze van toetsing zoals deze bijvoorbeeld plaatsvindt in Hongarije of Denemarken. Zo waren in 2015 in Denemarken nog meer dan 20.000 asielaanvragen, wat na een screening van het beleid afnam naar 3570 in 2018. In 2022 was het aantal nog steeds laag: iets meer dan 4000 waarvan de helft uit Oekraïne, dus in de kern 2000.[^10] Ik ga uit van 95% omdat er in Nederland nog verbeteringen mogelijk zijn ten opzichte van Denemarken.
  
 Dit kan dus een enorm verschil maken. Bovendien is het effect mogelijk exponentieel, zoals in Hongarije, want met een inwilligingspercentage van 5% ben je ineens niet populair meer.
  
@@ -122,10 +129,11 @@ Er stond recent op NOS Nieuws een artikel met als inhoud: de IND heeft een capac
  
 De IND signaleert dit, en bracht dit 24 mei 2023 ook in het nieuws “Nieuw asielbeleid nodig”.[^12] Uit de reactie valt op dat alleen wordt gekeken naar de procesmatige kant: “Deze processen kunnen sneller en efficiënter verlopen, zegt de IND.” Dat is echter geen fundamentele oplossing. Die zou moeten bestaan uit de vraag in hoeverre wij verplicht zijn mensen toe te laten. Daarvoor moet je de criteria scherp afstellen.  
  
-Maar men-ziet-het-niet. Staatssecretaris Van der Burg heeft recent zelfs een interview gegeven waarin hij zegt dat hij “nauwelijks invloed heeft op het aantal toelatingen”.[13]
+Maar men-ziet-het-niet. Staatssecretaris Van der Burg heeft recent zelfs een interview gegeven waarin hij zegt dat hij “nauwelijks invloed heeft op het aantal toelatingen”.[^13]
  
 Dit bracht mij nog op een vervolgvraag: wat is hier psychologisch aan de hand? Dat men dit namelijk zelf niet kan bedenken, lijkt te wijzen op een dieper, psychologisch probleem. En mijn slotsom is: ze letten niet op! Ze zien iets compleet over het hoofd. Want ik schreef hierboven dat strakke asielcriteria als “vrees voor vervolging” zijn verweekt tot “a certain degree of hardship” waardoor elke asielaanvraag wordt toegewezen als dat voor “enige mate van problemen” leidt voor de betrokkene. Dat mensen dat niet zien, komt omdat ze dingen over het hoofd zien. Omdat de criteria die bepalen of je asiel krijgt of niet, vrij klein zijn, een “criterium” een miniscuul ding is, zoals een lieveheersbeestje die ze meteen over het hoofd zien; ze kunnen alleen maar denken aan grote dingen zoals grote idealen aan de bovenkant (“gezinshereniging moet bevorderd worden”) of grote dingen aan de onderkant zoals “opvangcapaciteit”. Maar kijk toch eens wat er vlak voor je neus staat! Verander je het criterium een kwartslag terug naar “vrees voor vervolging”, dan zakt het aantal asielaanvragen met 95%!
- 
+
+
 ### Maatschappelijke ramp
  
 Misschien denkt u dat ik een “doemdenker” ben. Ik zou blij zijn als u gelijk heeft; gooi mijn artikel maar weg. Maar de combinatie van het ontwikkelen van te hoge idealen enerzijds (geen grens van boven) en het aantrekken van grote groepen kansarmen (geen grens van onder), kan een maatschappelijke catastrofe veroorzaken. Hier kan de geschiedenis zich herhalen, want als mijn vermoedens kloppen, dan is zo bijvoorbeeld het Romeinse Rijk ingestort. De EU doet daar wat aan denken. 
@@ -134,28 +142,16 @@ Eveneens had men in het Romeinse Rijk enerzijds veel hoge idealen "aan de bovenk
 Denk daar maar eens over na voordat u dit artikel weggooit. Als niemand hier doorheen prikt, kan je zomaar in 2030 wakker worden in een heel ander land, dan waarin je geboren bent, en je vraagt je dan nog af: hoe was dit eigenlijk mogelijk? Hoe kon het zo uit de hand lopen? Vis mijn artikel dan nog maar eens uit de prullenbak.
  
  
-[^1]: Zoals de “kwalificatierichtlijn” 2011/95/EU van het Europees parlement en de Raad van 13 december 2011; op basis hiervan zijn asielnormen steeds meer gaan “schuiven”
- 
-[^2]: Hof van Justitie EU 4 maart 2010, Chakroun, C-578/08;
- 
+[^1]: Zoals de “kwalificatierichtlijn” 2011/95/EU van het Europees parlement en de Raad van 13 december 2011; op basis hiervan zijn asielnormen steeds meer gaan “schuiven”.
+[^2]: Hof van Justitie EU 4 maart 2010, Chakroun, C-578/08.
 [^3]: Dit komt ook door de Toeslagenaffaire, men vond zich te streng. Het ene probleem is echter het andere niet, net als bij medische problemen moet je “soms naar de huisarts, maar voor ernstige dingen een chirurg”.
- 
-[^4]: Uitspraak Raad van State 6 juli 2022, [ECLI:NL:RVS:2022:1864](https://uitspraken.rechtspraak.nl/#!/details?id=ECLI:NL:RVS:2022:1864)
- 
-[^5]: uitspraak Raad van State 26 april 2023, [ECLI:NL:RVS:2023:1654](https://uitspraken.rechtspraak.nl/#!/details?id=ECLI:NL:RVS:2023:1654&showbutton=true&keyword=ecli%253aNL%253aRVS%253a2023%253a1654&idx=1)
- 
-[^6]: Persartikel van 8 maart 2023, [Rutte en Italiaanse premier Meloni willen Turkijedeal met Afrikaanse landen](https://nos.nl/artikel/2466733-rutte-en-italiaanse-premier-meloni-willen-turkijedeal-met-afrikaanse-landen)
- 
-[^7]: Hof van Justitie EU 10 mei 2017, [ECLI:EU:C:2017:354](https://curia.europa.eu/juris/document/document.jsf?text=&docid=190502&pageIndex=0&doclang=NL&mode=req&dir=&occ=first&part=1&cid=18045708) “Chavez Vilchez uitspraak”
- 
-[^8]: Het wettelijk kader is artikel 29, tweede lid onder c Vreemdelingenwet 2000, dat teruggaat op de Gezinsherenigingsrichtlijn. Deze spreekt over “de minderjarige” en “de ouders”. Uitbreiding door een reeks van jurisprudentie, twee voorbeelden: Raad van State 16 november 2018, [ECLI:NL:RVS:2018:3761](https://uitspraken.rechtspraak.nl/#!/details?id=ECLI:NL:RVS:2018:3761&showbutton=true&keyword=ecli%253aNL%253aRVS%253a2018%253a3761&idx=1) over de leeftijdsgrens van broers/zussen tot 25 jaar, maar het EHRM doet er gerust een schepje bovenop, zoals in een zaak met “een kind” van 27 jaar: EHRM 10 juni 2021, ECLI:CE:ECHR:2021:0610
- 
-[^9]: uitspraak Hof van Justitie EU van 5 september 2021, C-71/11 and C-99/11 [ECLI:EU:C:2012:518](https://curia.europa.eu/juris/document/document.jsf?text=&docid=126364&pageIndex=0&doclang=NL&mode=req&dir=&occ=first&part=1&cid=18047091)
- 
-[^10]: De Telegraaf, 28 december 2019 [Links Denemarken kiest rechtse aanpak](https://www.telegraaf.nl/nieuws/982205846/links-denemarken-kiest-rechtse-aanpak) Zie tevens de getallen voor Denemarken [hier](http://refugees.dk/en/facts/numbers-and-statistics/how-many-are-coming-and-from-where/#:~:text=Current%20numbers,the%20Special%20Act%20for%20Ukrainians.)
- 
-[^11]: In een artikel van 23–5–2023; [IND kan aantal aanvragen tot in 2024 niet aan](https://nos.nl/artikel/2476167-ind-kan-aantal-aanvragen-tot-in-2024-niet-aan)
- 
-[^12]: Zie hiervoor het artikel [IND loopt nog steeds tegen grenzen aan en vindt ander migratiebeleid echt nodig](https://www.nu.nl/binnenland/6264765/ind-loopt-nog-steeds-tegen-grenzen-aan-en-vindt-ander-migratiebeleid-echt-nodig.html)
- 
-[13]: Lees hierover meer: [Kortsluiting in je hoofd](https://www.eo.nl/artikel/kortsluiting-in-je-hoofd)
+[^4]: Uitspraak Raad van State 6 juli 2022, *[ECLI:NL:RVS:2022:1864](https://uitspraken.rechtspraak.nl/#!/details?id=ECLI:NL:RVS:2022:1864)*.
+[^5]: uitspraak Raad van State 26 april 2023, *[ECLI:NL:RVS:2023:1654](https://uitspraken.rechtspraak.nl/#!/details?id=ECLI:NL:RVS:2023:1654&showbutton=true&keyword=ecli%253aNL%253aRVS%253a2023%253a1654&idx=1)*.
+[^6]: Persartikel van 8 maart 2023, *[Rutte en Italiaanse premier Meloni willen Turkijedeal met Afrikaanse landen](https://nos.nl/artikel/2466733-rutte-en-italiaanse-premier-meloni-willen-turkijedeal-met-afrikaanse-landen)*.
+[^7]: Hof van Justitie EU 10 mei 2017, *[ECLI:EU:C:2017:354](https://curia.europa.eu/juris/document/document.jsf?text=&docid=190502&pageIndex=0&doclang=NL&mode=req&dir=&occ=first&part=1&cid=18045708)*. 
+[^8]: Het wettelijk kader is artikel 29, tweede lid onder c Vreemdelingenwet 2000, dat teruggaat op de Gezinsherenigingsrichtlijn. Deze spreekt over “de minderjarige” en “de ouders”. Uitbreiding door een reeks van jurisprudentie, twee voorbeelden: Raad van State 16 november 2018, *[ECLI:NL:RVS:2018:3761](https://uitspraken.rechtspraak.nl/#!/details?id=ECLI:NL:RVS:2018:3761&showbutton=true&keyword=ecli%253aNL%253aRVS%253a2018%253a3761&idx=1)* over de leeftijdsgrens van broers/zussen tot 25 jaar, maar het EHRM doet er gerust een schepje bovenop, zoals in een zaak met “een kind” van 27 jaar: EHRM 10 juni 2021, *ECLI:CE:ECHR:2021:0610*.
+[^9]: uitspraak Hof van Justitie EU van 5 september 2021, C-71/11 and C-99/11 *[ECLI:EU:C:2012:518](https://curia.europa.eu/juris/document/document.jsf?text=&docid=126364&pageIndex=0&doclang=NL&mode=req&dir=&occ=first&part=1&cid=18047091)*.
+[^10]: De Telegraaf, 28 december 2019 *[Links Denemarken kiest rechtse aanpak](https://www.telegraaf.nl/nieuws/982205846/links-denemarken-kiest-rechtse-aanpak)*. Zie tevens de getallen voor Denemarken *[hier](http://refugees.dk/en/facts/numbers-and-statistics/how-many-are-coming-and-from-where/#:~:text=Current%20numbers,the%20Special%20Act%20for%20Ukrainians)*.
+[^11]: In een artikel van 23–5–2023; *[IND kan aantal aanvragen tot in 2024 niet aan](https://nos.nl/artikel/2476167-ind-kan-aantal-aanvragen-tot-in-2024-niet-aan)*.
+[^12]: Zie hiervoor het artikel *[IND loopt nog steeds tegen grenzen aan en vindt ander migratiebeleid echt nodig](https://www.nu.nl/binnenland/6264765/ind-loopt-nog-steeds-tegen-grenzen-aan-en-vindt-ander-migratiebeleid-echt-nodig.html)*.
+[^13]: Lees hierover meer, *[Kortsluiting in je hoofd](https://www.eo.nl/artikel/kortsluiting-in-je-hoofd)*.
