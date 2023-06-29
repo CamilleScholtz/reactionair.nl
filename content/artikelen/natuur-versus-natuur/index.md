@@ -32,7 +32,7 @@ Om terug te komen op het onderwerp natuur; merk op hoe we in de vorige zin de te
 
 Zoals we in de inleiding aangaven, wordt momenteel wanneer we natuur lezen, vooral in de context van politiek of filosofie, meestal verwezen naar bomen, bloempjes en bijtjes.
 
-{{< tweet PartijvdDieren 1447480151558795267 >}}
+{{< tweet user="PartijvdDieren" id="1447480151558795267" >}}
 
 Dit wordt dan gebruikt hetzij in een soort verminkte vorm van teleologie, zoals we hierboven zien, hetzij om teleologie te ondermijnen die wel gebruik maakt van een geldig begrip van Natuur.
 

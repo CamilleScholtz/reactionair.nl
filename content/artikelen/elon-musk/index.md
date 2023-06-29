@@ -24,10 +24,10 @@ Linkse ideologen die modereren zijn een probleem omdat ze niet de juiste nuance 
 
 Musk tweette dat hij een *content moderatie council* zal vormen met "zeer diverse standpunten". Toen ik dit las zag ik het al aankomen; deze raad zou waarschijnlijk bestaan uit activistische organisaties zoals de ADL; die ook een *"trusted flagger"* is voor Youtube, en Google, Facebook, Instagram, TikTok, Spotify en zo'n beetje alle andere sociale media kanalen "adviseert" over *"hate speech"*.
 
-{{< tweet CamilleMeloen 1586061820934381570 >}}
+{{< tweet user="CamilleMeloen" id="1586061820934381570" >}}
 
 Slechts een paar dagen later werden mijn voorspellingen waargemaakt, en meer nog, overtroffen mijn ergste verwachtingen. Vrijwel elke rabiate progressieve en raciale activistische organisatie leek te zijn benaderd.
 
-{{< tweet elonmusk 1587668703834955778 >}}
+{{< tweet user="elonmusk" id="1587668703834955778" >}}
 
 Als zo'n "conservatieve" man wordt aangewezen als "leider" van "onze kant", wordt rechts blijkbaar blind voor dit soort ondermijnende activiteiten. Laten we Trump als voorbeeld nemen. Grote beloften werden allemaal weggegooid en gekaapt om de agenda van Kushner en andere belangen door te drukken. Het rechts dat Trump verafgoodt dacht dat het geweldig ging terwijl we nog precies op hetzelfde spoor zaten als onder een Biden of Obama. Misschien is het beter dat er duidelijkheid is? We worden geleid door slechte mensen die ons haten. Is deze duidelijkheid niet beter dan geleid worden door slechte mensen die ons haten, maar dit wordt gecamoufleerd door een "gebaseerd boegbeeld"?

@@ -16,7 +16,7 @@ tags:
 
 Dat was samenvatting van de reactie twitteraar _@morrisjim_ toen een conservatieve mede-twitteraar opmerkte dat die middeleeuwen nog zo gek niet waren. Dat de middeleeuwen zo duister en barbaars zouden zijn wil ik in dit essay graag weerleggen, en ik wil enkele aspecten van de middeleeuwen uitlichten waar het tegenovergestelde het geval was.
 
-{{< tweet morrisjim 1474398088198594595 >}}
+{{< tweet user="morrisjim" id="1474398088198594595" >}}
 
 
 ### De middeleeuwen, een donker tijdperk

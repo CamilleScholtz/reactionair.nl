@@ -24,7 +24,7 @@ Geloven deze ogenschijnlijk normale ambtenaren waar ik het eerder over had écht
 
 ### Ministerie van Buitenlandse Zaken
 
-{{< tweet MinBZ 1658775518689329155 >}}
+{{< tweet user="MinBZ" id="1658775518689329155" >}}
 
 > <span style="color: var(--accent-color);">**Ik**:</span> Hallo, heel goed dat jullie dit doen, jammer dat dit blijkbaar nog steeds nodig is!
 
@@ -41,7 +41,7 @@ Geloven deze ogenschijnlijk normale ambtenaren waar ik het eerder over had écht
 
 ### Ministerie van VWS
 
-{{< tweet MinVWS 1647140265193357313 >}}
+{{< tweet user="MinVWS" id="1647140265193357313" >}}
 
 > <span style="color: var(--accent-color);">**Ik**:</span> Hallo, heel goed dat jullie dit doen, jammer dat dit blijkbaar nog steeds nodig is!
 
@@ -67,7 +67,7 @@ Geloven deze ogenschijnlijk normale ambtenaren waar ik het eerder over had écht
 
 ### CDA
 
-{{< tweet cdavandaag 1658709964435734530 >}}
+{{< tweet user="cdavandaag" id="1658709964435734530" >}}
 
 Ik belde het partijkantoor om te vragen waar deze kleuren eigenlijk voor staan, de vrouw aan de telefoon wist het niet en droeg me op een mail te sturen. Tot op heden heb ik nog geen antwoord ontvangen.
 
@@ -76,34 +76,34 @@ Ik belde het partijkantoor om te vragen waar deze kleuren eigenlijk voor staan, 
 
 - Ministerie van Economische Zaken en Klimaat
 
-{{< tweet MinisterieEZK 1658750315536023553 >}}
+{{< tweet user="MinisterieEZK" id="1658750315536023553" >}}
 
 - Ministerie van Justitie en Veiligheid
 
-{{< tweet ministerieJenV 1658836222561665025 >}}
+{{< tweet user="ministerieJenV" id="1658836222561665025" >}}
 
 - Ministerie van Landbouw, Natuur & Voedselkwaliteit
 
-{{< tweet minlnv 1658779579526283264 >}}
+{{< tweet user="minlnv" id="1658779579526283264" >}}
 
 - Minister van Justitie en Veiligheid (VVD)
 
-{{< tweet DilanYesilgoz 1658787991500857346 >}}
+{{< tweet user="DilanYesilgoz" id="1658787991500857346" >}}
 
 - Staatssecretaris van Justitie en Veiligheid (VVD)
 
-{{< tweet ericvanderburg 1658777549143527424 >}}
+{{< tweet user="ericvanderburg" id="1658777549143527424" >}}
 
 - IND
 
-{{< tweet IND_NL 1658783808936714241 >}}
+{{< tweet user="IND_NL" id="1658783808936714241" >}}
 
 - Dienst Terugkeer en Vertrek
 
-{{< tweet DTenV 1658820871870455808 >}}
+{{< tweet user="DTenV" id="1658820871870455808" >}}
 
 - Nederlandse ambassade in Frankrijk
 
-{{< tweet NLenFrance 1658772650234195969 >}}
+{{< tweet user="NLenFrance" id="1658772650234195969" >}}
 
 En veel meer...

@@ -19,7 +19,7 @@ Opvallend zijn ook de zoekresultaten op Google over _“banned books”_. Ook hi
 
 Is het censuur om bepaalde boeken niet op een leeslijst te zetten? Is het censuur om bepaalde boeken niet op te nemen in een collectie? Mijns inziens moeten we dan naar de autoriteit kijken van degene die de beslissing neemt. Of dit nu in een republikeinse staat gebeurt of in een democratische. Want ja, ook democraten en linkse activisten “verbannen” boeken. Ironisch genoeg leek de Californische gouverneur daar niet van op de hoogte, waardoor een tweet bedoeld als sneer naar republikeinen niet het gewenste effect had.[^2]
 
-{{< tweet ChristinaPushaw 1509347842984448011 >}}
+{{< tweet user="ChristinaPushaw" id="1509347842984448011" >}}
 
 
 ### DeSantis' reactieve wet en terroristische ouders

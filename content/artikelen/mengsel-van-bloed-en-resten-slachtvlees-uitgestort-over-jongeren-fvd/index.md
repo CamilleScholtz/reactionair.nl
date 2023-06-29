@@ -1,8 +1,7 @@
 ---
-draft: true
 title: 'Mengsel van bloed en resten slachtvlees uitgestort over jongeren FVD'
 subtitle: 'Media en politici blijven stil'
-date: '2023-06-25'
+date: '2023-06-29'
 authors:
     - 'Camille Scholtz'
 themes: 'Politiek en Actualiteit'
@@ -14,27 +13,30 @@ tags:
     - 'Pim Lammers'
 ---
 
-Hee Camillepiel
-
 We weten inmiddels wel dat de dingen oneerlijk zijn. Één bepaalde wereldvisie domineert en datgene dat indruist tegen deze visie is vreemd of zelfs eng en gevaarlijk. Een natuurlijk verschijnsel, en zelfs acceptabel tot op zekere hoogte. 
 
 Wanneer een verward persoon met fakkel in de buurt komt van het huis van Sigrid Kaag, wordt dat als doodsbedreiging opgevat. Wanneer iemand het huis van Wybren van Haga binnendringt, wordt daar weliswaar mondjesmaat melding van gemaakt, maar blijft de grote verontwaardiging uit.
 
 Deze week werd er een mengsel van bloed, resten slachtvlees, en naar verluidt, uitwerpselen, gestort over een groep jongeren van de jongerenafdeling van Forum voor Democratie. Wat mogelijk schokkender is, is de reactie, of misschien wel het gebrek hieraan van journalistiek en politiek Nederland. 
 
-{{< tweet Rhode___ 1672971991626784769 >}}
+{{< tweet user="Rhode___" id="1672971991626784769" >}}
 
 Wanneer *Reactionair.nl* een feitelijk artikel schrijft over Pim Lammers, gevuld met verwijzingen en bronnen, en dit artikel vervolgens viraal gaat, wordt er een persverklaring uitgebracht waarin Lammers beweert dat mensen hem zouden hebben bedreigd. Binnen enkele uren staat dit op de voorpagina van elke krant, want een auteur moet vrij zijn om te schrijven wat hij wil zonder bedreigd te worden. Zelfs Kaag en Rutte bleven niet stil.
 
-< list of reactions with short comments, link the tweets >
+{{< tweet user="bartwhiddema" id="1672883824865280000" >}}
 
-https://twitter.com/bartwhiddema/status/1672883819794550784 en https://twitter.com/bartwhiddema/status/1672883824865280000
+Bart Hiddema is bestuurslid bij de jongerentak van D66.
 
-https://twitter.com/NinodeVries/status/1672639818638016514
-> Geliked door https://twitter.com/puinty en https://twitter.com/jeroentw  https://twitter.com/PJO_Radicaal/status/1672637790218059778
-> Geliked door https://twitter.com/cutmybeans en https://twitter.com/puinty en https://twitter.com/Dees_de_Jong
+{{< tweet user="NinodeVries" id="1672639818638016514" >}}
 
-https://twitter.com/debroervanroos/status/1673021097522987012 en 
+*Geliked* door Jeroen Welling, "coördinator interactie" bij Nu.nl, en Quinty Kolbe, kandidaat PvdD Amsterdam.
+
+{{< tweet user="PJO_Radicaal" id="1672637790218059778" >}}
+
+*Geliked* door Calvin van Laaren, videomaker bij de VPRO, Dees de Jong, bestuurslid bij DWARS, de jongerentak van GroenLinks, en opnieuw, Quinty Kolbe.
+
+{{< twitter_simple user="debroervanroos" id="1673021097522987012" >}} 
+
 
 Naast deze jubelende reacties is het nog veelzeggender dat we nog geen enkele welbekende afkeurende tweet van bewindspersonen hebben gezien. Ze vinden het prima. Net zo voor de journalistiek; niets op het journaal. Geen talkshow met mensen die geschokt acteren met het gebruikelijke riedeltje over gevaar voor "de vijheid", "de rechtsstaat" en "de democratie". Slechts stilte.
 

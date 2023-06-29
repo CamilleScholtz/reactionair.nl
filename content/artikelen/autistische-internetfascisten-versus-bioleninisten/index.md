@@ -27,7 +27,7 @@ Er wordt heel wat gekijfd op Twitter. Eerstens is  er het *wannabe*-elitaire ded
 
 Voor mij is het de combinatie van kameraadschap, humor en intellectualisme die maakt dat ik nolens volens toch een deel van mijn hart verpand heb aan Twitter. Goed, informatie halen van Twitter is als drinken uit een brandkraan, maar toch, iedere dag weer duik je ettelijke pareltjes op die je aan het denken zetten en die je bij blijven. Neem nou deze tweet:
 
-{{< tweet Lesadroi 1512081811609772046 >}}
+{{< tweet user="Lesadroi" id="1512081811609772046" >}}
 
 Met meer dan 100 likes kunnen we wel stellen dat Slump, die voor mij slechts een naam op Twitter is, bepaald niet als enige deze ervaring heeft gehad. Ook ik heb enkele heel vage herinneringen hieraan - aankondigingen op het prikbord, was er ook niet iets met DJ Tiësto? Enfin, het enige wat ik zeker weet is dat ik niet gegaan ben.
 
