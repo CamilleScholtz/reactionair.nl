@@ -1,6 +1,6 @@
 {{ $articles := .RegularPages }}
 {{ if eq .Kind "home" }}
-	{{ $articles = where .Site.RegularPages "Type" "eq" "artikelen" }}
+	{{ $articles = where .Site.RegularPages "Type" "eq" "articles" }}
 {{ end }}
 
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}

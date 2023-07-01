@@ -16,11 +16,11 @@
 						<img src="{{ "img/donate.svg" | relURL }}" alt="Doneer" style="width: 28px; height: 28px;">
 					</a>
 
-				<!-- 	<a href="/winkel" class="icon" id="shop">
+<!-- 					<a href="/winkel" class="icon" id="shop">
 						<img src="{{ "img/shop.svg" | relURL }}" alt="Winkel" style="width: 28px; height: 28px;">
 					</a> -->
 
-					{{ if eq .Section "winkel" }}
+					{{ if eq .Section "shop" }}
 						<a href="/winkel/wagen" class="icon" id="cart">
 							<img src="{{ "img/cart.svg" | relURL }}" alt="Winkelwagen" style="width: 28px; height: 28px;">
 							<span id="total" style="display: none;"></span>

@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(max-width: 1024px)">
 <link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(min-width: 1025px)">
 
-{{ if eq .Type "winkel" }}
+{{ if eq .Type "shop" }}
 	<link rel="stylesheet" href="{{ (resources.Get "sass/shop/main.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}">
 	<link rel="stylesheet" href="{{ (resources.Get "sass/shop/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(max-width: 1024px)">
 	<link rel="stylesheet" href="{{ (resources.Get "sass/shop/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(min-width: 1025px)">

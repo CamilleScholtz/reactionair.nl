@@ -4,7 +4,7 @@
 	</span>
 
 	<span class="right">
-		{{ if and (eq .Kind "page") (eq .Section "artikelen") }}
+		{{ if and (eq .Kind "page") (eq .Section "articles") }}
 			<time>{{ .Date.Day }} {{ index site.Data.months (printf "%d" .Date.Month) }}, {{ .Date.Year }}</time>
 
 			<span class="pipe">—</span>

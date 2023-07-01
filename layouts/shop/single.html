@@ -10,7 +10,8 @@
 				"back"    (.Resources.Get .Params.back)
 				"pages"   .Params.pages
 				"animate" true
-				"click"   true
+				"click"   (isset .Params "back")
+				"hover"   (not (isset .Params "back"))
 			) }}
 
 			<div class="shop-title-container">

@@ -1,6 +1,6 @@
 {{ $.Scratch.Add "index" slice }}
 
-{{ range $i, $_ := where site.RegularPages "Type" "eq" "artikelen" }}
+{{ range $i, $_ := where site.RegularPages "Type" "eq" "articles" }}
 	{{ $.Scratch.Add "index" (dict
 		"id"        $i
 		"title"     (.Params.title | plainify)

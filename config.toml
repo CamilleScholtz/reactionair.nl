@@ -19,14 +19,25 @@ ignoreErrors = ["error-remote-getjson"]
 	api = "https://admin.reactionair.nl"
 
 [taxonomies]
-	author = "authors"
-	theme  = "themes"
-	winkel = "winkel"
+	author  = "authors"
+	theme   = "themes"
+	shop	= "shop"
 
-# TODO: See https://github.com/gohugoio/hugo/issues/8523
 [permalinks]
-	authors = "/auteurs/:slug/"
-	themes  = "/themas/:slug/"
+	[permalinks.page]
+		articles = "/artikelen/:slug/"
+		shop	 = "/winkel/producten/:slug/"
+	[permalinks.section]
+		articles   = "/artikelen/"
+		newsletter = "/nieuwsbrief/"
+		shop	   = "/winkel/"
+	[permalinks.term]
+		authors = "/auteurs/:slug/"
+		themes  = "/themas/:slug/"
+	[permalinks.taxonomy]
+		authors = "/auteurs/"
+		themes  = "/themas/"
+		shop	= "/winkel/"
 
 [related]
 	includeNewer = true

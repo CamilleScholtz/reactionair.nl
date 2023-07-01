@@ -1,7 +1,7 @@
 <meta property="og:title" content="{{ .Title | safeHTML }}">
 <meta property="og:description" content="{{ if isset .Params "subtitle" }}{{ .Params.subtitle }}{{ else }}{{ .Params.description }}{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-{{ if eq .Type "artikelen" }}
+{{ if eq .Type "articles" }}
 	{{ $image  := .Resources.Get .Params.image }}
 	{{ $anchor := "Smart" }}
 	{{ if isset .Params "anchor" }}
@@ -11,6 +11,14 @@
 	<meta property="og:type" content="article">
 	<meta property="og:image" content="{{ ($image.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}">
 	<meta property="twitter:card" content="summary_large_image">
+{{ else if and (eq .Type "shop") (isset .Params "front") }}
+	{{ $image  := .Resources.Get .Params.front }}
+	{{ $anchor := "Smart" }}
+
+	<meta property="og:type" content="product">
+	<meta property="og:image" content="{{ ($image.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}">
+	<meta property="product:price.amount" content="{{ .Params.price }}">
+	<meta property="product:price.currency" content="EUR">
 {{ else }}
 	<meta property="og:type" content="website">
 	<meta property="og:image" content="{{ "img/og-image.png" | absURL }}">

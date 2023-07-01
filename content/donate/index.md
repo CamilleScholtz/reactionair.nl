@@ -2,6 +2,7 @@
 layout: misc
 subtitle: Steun Reactionair.nl
 title: Doneren
+url: /doneren/
 ---
 
 U kunt doneren via het fondsenwervingsplatform *WhyDonate*. Zowel eenmalig als maandelijks doneren is mogelijk:

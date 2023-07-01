@@ -2,7 +2,7 @@
 	{
 		"@context": "https://schema.org/",
 
-		{{ if eq .Type "artikelen" }}
+		{{ if eq .Type "articles" }}
 			{{ $image  := .Resources.Get .Params.image }}
 			{{ $anchor := "Smart" }}
 			{{ if isset .Params "anchor" }}
@@ -35,6 +35,33 @@
 			"@type": "Person",
 			"name": "{{ .Params.title | safeHTML }}",
 			"image": "{{ (.Resources.Get .Params.image).Permalink }}"
+		{{ else if and (eq .Type "shop") (isset .Params "front") }}
+			"@type": ["Product", "Book"],
+			"name": "{{ .Params.title | safeHTML }}",
+			"datePublished": "{{ .Params.date.Format "2006-01-02" }}",
+			"image": "{{ (.Resources.Get .Params.front).Permalink }}",
+			"bookFormat": "http://schema.org/Paperback",
+			"inLanguage": "{{ .Params.language }}",
+			"isbn": "{{ .Params.isbn }}",
+			"numberOfPages": "{{ .Params.pages }}",
+			"publisher": {
+				"@type": "Organization",
+				"name": "{{ .Params.publisher }}"
+			},
+			"author": [
+				{{ range $i, $author := .Params.writers }}
+					{
+						"@type": "Person",
+						"name": "{{ $author }}",
+					}{{ if lt $i (len $.Params.writers) }},{{ end }}
+				{{ end }}
+			],
+			"offers": {
+                "@type": "Offer",
+                "availability": "http://schema.org/InStock",
+                "price": "{{ .Params.price }}",
+                "priceCurrency": "EUR"
+             }
 		{{ else }}
 			"@type": "Organization",
 			"name": "Reactionair.nl",
