@@ -1,6 +1,6 @@
 import { total } from "./header.js";
 
-export const overview = (main, cart) => {
+export const overview = (main, cart, shipping) => {
 	const page = main.querySelector(".cart-page");
 	if (page === null) {
 		return;
@@ -24,13 +24,13 @@ export const overview = (main, cart) => {
 		currency: "EUR",
 	});
 
-	page.querySelector(".shipping").innerHTML            = formatter.format(total < 30 ? 3.50 : 0);
-	page.querySelector(".free-shipping").innerHTML       = total < 30 ? `(Nog <span>${formatter.format(30 - total)}</span> voor gratis verzending)` : "(Gratis verzending)";
+	page.querySelector(".shipping").innerHTML            = formatter.format(total < shipping.threshold ? shipping.price : 0);
+	page.querySelector(".free-shipping").innerHTML       = total < shipping.threshold ? `(Nog <span>${formatter.format(shipping.threshold - total)}</span> voor gratis verzending)` : "(Gratis verzending)";
 	page.querySelector(".total").innerHTML               = formatter.format(total);
-	page.querySelector(".total-plus-shipping").innerHTML = formatter.format(total + (total < 30 ? 3.50 : 0));
+	page.querySelector(".total-plus-shipping").innerHTML = formatter.format(total + (total < shipping.threshold ? shipping.price : 0));
 }
 
-export const edit = (main, header) => {
+export const edit = (main, header, shipping) => {
 	const getProduct = (cart, dataset) => {
 		return cart?.find(i => i.name === dataset.name) ?? {
 			name:     dataset.name,
@@ -62,7 +62,7 @@ export const edit = (main, header) => {
 		localStorage.setItem("cart", JSON.stringify(cart));
 
 		total(header, cart);
-		overview(main, cart);
+		overview(main, cart, shipping);
 	};
 
 	main.querySelectorAll(".cart-form").forEach((form) => {

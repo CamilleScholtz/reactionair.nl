@@ -1,4 +1,4 @@
-import * as params from '@params';
+import * as params from "@params";
 
 export const address = (main) => {
 	const page = main.querySelector(".checkout-page");
