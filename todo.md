@@ -18,5 +18,6 @@
 - Shop
 
 *Satire:*
+- snackbar 'de krokante hap' biedt excuses aan voor slavernij
 - wetenschappelijk bewijs: immigratie heeft alleen maar voordelen
 - 10 bekende Nederlanders als reptielen
