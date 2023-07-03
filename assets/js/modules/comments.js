@@ -18,7 +18,7 @@ export const comments = (main) => {
 			headers: {
 				"Content-Type": "application/json"
 			},
-			body: data
+			body: JSON.stringify(Object.fromEntries(data))
 		});
 
 		ev.target.reset();

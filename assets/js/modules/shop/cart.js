@@ -6,6 +6,14 @@ export const overview = (main, cart, shipping) => {
 		return;
 	}
 
+	if (cart.length === 0) {
+		page.querySelector(".cart-empty").style.display = "block";
+		page.querySelector(".info").style.display       = "none";
+	} else {
+		page.querySelector(".cart-empty").style.display = "none";
+		page.querySelector(".info").style.display       = "block";
+	}
+
 	page.querySelectorAll(".product").forEach((product) => {
 		if (cart.find(i => i.name === product.dataset.name) === undefined) {
 			product.style.display = "none";
