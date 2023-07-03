@@ -1,5 +1,5 @@
 export const newsletter = (main) => {
-	const newsletter = main.querySelector("#newsletter");
+	const newsletter = main.querySelector("#newsletter-container");
 	if (!newsletter) {
 		return;
 	}
