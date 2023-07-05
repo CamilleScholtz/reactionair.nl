@@ -1,14 +1,31 @@
 #hero
-	align-content: unset !important
+	align-content: stretch !important
+	grid-template-rows: auto min-content 160px
+	grid-gap: 0px !important
 	margin-left: -20px
 
-	.shop-title
-		font-size: 50px !important
-		max-width: 80vw
+	.shop-title-container
+		margin-bottom: 15px
+		margin-top: 40px
+
+		.shop-title
+			font-size: 40px !important
+			margin: 0 auto
+			max-width: 80vw
+
+		.shop-quote
+			font-size: 150px !important
+			margin-left: 10% !important
+			margin-top: -105px !important
 
 	.cart-form
 		border-top: 1px dashed var(--border-color)
 		width: calc(100vw - 60px)
+
+		.price
+			font-size: 37px
+			margin-bottom: 10px
+			margin-top: -6px
 
 #product
 	z-index: 11
