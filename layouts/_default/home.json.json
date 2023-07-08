@@ -1,8 +1,26 @@
 {{ $.Scratch.Add "index" slice }}
 
-{{ range $i, $_ := where site.RegularPages "Type" "eq" "articles" }}
+{{ $j := 0 }}
+
+{{ range $i, $_ := where site.RegularPages "Type" "eq" "shop" }}
+	{{ with .Params.layout }}
+		{{ continue }}
+	{{ end }}
+
 	{{ $.Scratch.Add "index" (dict
 		"id"        $i
+		"subtitle"  "Boek in de Reactionair.nl winkel"
+		"title"     (.Params.title | plainify)
+		"authors"   .Params.writers
+		"permalink" .RelPermalink
+	) }}
+
+	{{ $j = $i }}
+{{ end }}
+
+{{ range $i, $_ := where site.RegularPages "Type" "eq" "articles" }}
+	{{ $.Scratch.Add "index" (dict
+		"id"        (add $j $i 1)
 		"title"     (.Params.title | plainify)
 		"subtitle"  (.Params.subtitle | plainify)
 		"authors"   .Params.authors
