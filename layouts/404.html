@@ -16,3 +16,18 @@
 		{{ partialCached "footer.html" . }}
 	</body>
 </html>
+
+<script type="text/javascript">
+	quotes = [
+		"Deze pagina bestaat niet. Toch bezoekt u deze pagina. Bestaat hij dan toch?",
+		"Deze pagina bestaat niet in uw huidige multiversum.",
+		"U zoekt iets zonder te vinden, of zoekt iets U?",
+		"Zoekt, en gij zult vinden. Alleen niet meer deze pagina; die bestaat niet meer.",
+		"Dit pad loopt dood. Keer op uw schreden terug en slaat een ander pad in.",
+		"Het gaat niet om de bestemming maar om de reis er naartoe. (Deze pagina bestaat niet meer)",
+		"Uw sociaal kredietscore is ontoereikend om deze pagina te bezoeken",
+		"De bestemming van uw reis, is de reis zelf.  Helaas bent u hier niettemin tot stilstand gekomen. Deze pagina bestaat niet."
+	];
+
+	document.querySelector("h2").innerHTML = quotes[Math.floor(Math.random() * quotes.length)];
+</script>
