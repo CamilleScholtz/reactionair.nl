@@ -1,23 +1,29 @@
-<div class="cart-form" data-name="{{ .title | urlize }}" data-price="{{ .price }}">
-	<button class="button add-to-cart">
-		Toevoegen aan winkelwagen
-	</button>
-
-	<div class="added-to-cart" style="display: none;">
-		<button class="button remove-from-cart" >
-			-
-		</button>
-
-		<input class="amount-in-cart" type="number" value="1" min="1" max="10">
+{{ range $i, $type := .types }}
+	<div class="cart-form {{ if gt $i 0 }}hidden{{ end }}" data-name="{{ $.title | urlize }}" data-type="{{ .name | urlize }}" data-price="{{ .amount }}" {{ if gt $i 0 }}style="display: none;"{{ end }}>
+		<div class="price">
+			{{ .amount | printf "€ %.2f" }}
+		</div>
 
 		<button class="button add-to-cart">
-			+
+			Toevoegen aan winkelwagen
 		</button>
 
-		{{ if .checkout }}
-			<a href="/winkel/wagen" class="button checkout">
-				Naar winkelwagen
-			</a>
-		{{ end }}
+		<div class="added-to-cart" style="display: none;">
+			<button class="button remove-from-cart" >
+				-
+			</button>
+
+			<input class="amount-in-cart" type="number" value="1" min="1" max="10">
+
+			<button class="button add-to-cart">
+				+
+			</button>
+
+			{{ if $.checkout }}
+				<a href="/winkel/wagen" class="button checkout">
+					Afrekenen
+				</a>
+			{{ end }}
+		</div>
 	</div>
-</div>
+{{ end }}

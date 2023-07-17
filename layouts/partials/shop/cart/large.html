@@ -1,27 +1,41 @@
-<div class="cart-form" data-name="{{ .title | urlize }}" data-price="{{ .price }}">
-	<div class="price">
-		{{ .price | printf "€ %.2f" }}
-	</div>
+<div class="cart-form-container">
+	{{ range .types }}
+		<div class="cart-form" data-name="{{ $.title | urlize }}" data-type="{{ .name | urlize }}" data-price="{{ .amount }}">
+			<div class="price">
+				{{ if gt (len $.types) 1 }}
+					<div class="type">{{ .name }}</div>
+				{{ end }}
 
-	<button class="button add-to-cart">
-		Toevoegen aan winkelwagen
-	</button>
+				{{ if not .unavailable }}
+					{{ .amount | printf "€ %.2f" }}
+				{{ else }}
+					<span class="unavailable">Niet beschikbaar.</span>
+				{{ end }}
+			</div>
 
-	<div class="added-to-cart" style="display: none;">
-		<button class="button remove-from-cart" >
-			-
-		</button>
+			{{ if not .unavailable }}
+				<button class="button add-to-cart">
+					Toevoegen aan winkelwagen
+				</button>
 
-		<input class="amount-in-cart" type="number" value="1" min="1" max="10">
+				<div class="added-to-cart" style="display: none;">
+					<button class="button remove-from-cart" >
+						-
+					</button>
 
-		<button class="button add-to-cart">
-			+
-		</button>
+					<input class="amount-in-cart" type="number" value="1" min="1" max="10">
 
-		{{ if .checkout }}
-			<a href="/winkel/wagen" class="button checkout">
-				Naar winkelwagen
-			</a>
-		{{ end }}
-	</div>
+					<button class="button add-to-cart">
+						+
+					</button>
+
+					{{ if $.checkout }}
+						<a href="/winkel/wagen" class="button checkout">
+							Afrekenen
+						</a>
+					{{ end }}
+				</div>
+			{{ end }}
+		</div>
+	{{ end }}
 </div>

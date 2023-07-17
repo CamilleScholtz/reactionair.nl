@@ -1,7 +1,7 @@
 {{ define "main" }}
 	<div id="taxonomy" class="cart-page">
 		<ul id="products">
-			{{ range (where .Site.RegularPages "Section" "shop") }}
+			{{ range (sort (where .Site.RegularPages "Section" "shop") "Params.title") }}
 				{{ with .Params.layout }}
 					{{ continue }}
 				{{ end }}
@@ -29,11 +29,9 @@
 							<h2>{{ .Params.title }}</h2>
 						</a>
 
-						<div class="price">{{ .Params.price | printf "€ %.2f"  }}</div>
-
 						{{ partial "shop/cart/small.html" (dict
 							"title"    .Params.title
-							"price"    .Params.title
+							"types"    .Params.types
 							"checkout" false
 						) }}
 					</div>

@@ -2,9 +2,11 @@
 title: 'From Plato to Postmodernism'
 writers: ['Greg Johnson']
 pages: 220
-price: 12.50
+types:
+    - name: Paperback
+      amount: 12.50
+      isbn: 978-1-642641-35-6
 publisher: 'Counter-Currents'
-isbn: '978-1-642641-35-6'
 date: '2019-11-01'
 language: 'English'
 front: 'front.jpg'

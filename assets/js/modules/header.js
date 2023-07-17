@@ -1,3 +1,5 @@
+import MiniSearch from "../vendor/minisearch.js";
+
 export const scroll = (header, main, mobile) => {
 	const logo    = header.querySelector("#logo");
 	const input   = header.querySelector("#search input");
@@ -83,7 +85,7 @@ export const search = (header, mobile) => {
 	const arrow            = resultsContainer.querySelector(".arrow");
 	const results          = resultsContainer.querySelector(".results");
 
-	const minisearch = new MiniSearch({
+	const mini = new MiniSearch({
 		fields:      ["title", "subtitle", "authors", "content"],
 		storeFields: ["title", "subtitle", "authors", "permalink"],
 		processTerm: (term) => {
@@ -101,7 +103,7 @@ export const search = (header, mobile) => {
 				fetch("/index.json")
 					.then((response) => response.json())
 					.then((data) => {
-						minisearch.addAll(data);
+						mini.addAll(data);
 						fetched = true;
 					});
 			}
@@ -143,7 +145,7 @@ export const search = (header, mobile) => {
 		results.innerHTML   = ""
 		arrow.style.display = "none";
 
-		const matches = minisearch.search(ev.target.value, {
+		const matches = mini.search(ev.target.value, {
 			prefix: true,
 			boost:  {title: 1.75, subtitle: 1.5},
 		});

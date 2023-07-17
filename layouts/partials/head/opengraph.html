@@ -17,7 +17,7 @@
 
 	<meta property="og:type" content="product">
 	<meta property="og:image" content="{{ ($image.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}">
-	<meta property="product:price.amount" content="{{ .Params.price }}">
+	<meta property="product:price.amount" content="{{ (index .Params.prices 0).amount }}">
 	<meta property="product:price.currency" content="EUR">
 {{ else }}
 	<meta property="og:type" content="website">

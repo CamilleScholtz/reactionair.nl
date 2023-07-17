@@ -3,19 +3,42 @@
 		.shop-title
 			text-align: center
 
-	.cart-form
+		.shop-subtitle
+			font-size: 32px
+			font-style: italic
+			position: relative
+			text-align: center
+			text-shadow: 0 10px 40px var(--background-color)
+			z-index: 2
+
+	.cart-form-container
 		background: var(--background-color)
-		padding: 30px
 		display: grid
+		padding: 30px
 		z-index: 10
 
-		.price
-			font-family: 'IM Fell English SC', serif
-			font-style: italic
-			padding-bottom: 4px
+		.cart-form
+			&:not(:last-of-type)
+				border-bottom: 1px dashed var(--border-color)
+				margin-bottom: 20px
+				padding-bottom: 20px
 
-		input
-			margin-bottom: 10px
+			.price
+				font-family: 'IM Fell English SC', serif
+				font-style: italic
+				padding-bottom: 4px
+
+				.type
+					color: var(--muted-color)
+					font-family: 'IM Fell English', serif
+					font-size: 16px !important
+
+				.unavailable
+					font-family: 'IM Fell English', serif
+					font-size: 23px
+
+			input
+				margin-bottom: 10px
 
 #product
 	table

@@ -2,9 +2,11 @@
 title: 'The Great Awakening vs the Great Reset'
 writers: ['Alexander Dugin']
 pages: 98
-price: 12.50
+types:
+    - name: Paperback
+      amount: 12.50
+      isbn: 978-1-914208-48-5
 publisher: 'Arktos'
-isbn: '978-1-914208-48-5'
 date: '2021-11-22'
 language: 'English'
 front: 'front.jpg'

@@ -2,9 +2,11 @@
 title: 'Folktales in the Indo-European Tradition'
 writers: ['Various']
 pages: 810
-price: 12.50
+types:
+    - name: Paperback
+      amount: 12.50
+      isbn: 978-1-922602-26-8
 publisher: 'Imperium Press'
-isbn: '978-1-922602-26-8'
 date: '2022-01-01'
 language: 'English'
 front: 'front.jpg'

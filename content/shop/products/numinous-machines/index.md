@@ -2,9 +2,11 @@
 title: 'Numinous Machines'
 writers: ['Christopher Pankhurst']
 pages: 220
-price: 12.50
+types:
+    - name: Paperback
+      amount: 12.50
+      isbn: 978-1-940933-45-0
 publisher: 'Counter-Currents'
-isbn: '978-1-940933-45-0'
 date: '2017-12-10'
 language: 'English'
 front: 'front.gif'

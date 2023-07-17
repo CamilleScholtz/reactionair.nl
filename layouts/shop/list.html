@@ -1,5 +1,5 @@
 {{ define "main" }}
-	{{ $paginator := .Paginate .RegularPages }}
+	{{ $paginator := .Paginate (sort .RegularPages "Params.title") }}
 
 	<ul id="products">
 		{{ range $paginator.Pages }}
@@ -23,14 +23,15 @@
 					<a href="{{ .RelPermalink }}">
 						<div class="author">{{ delimit .Params.writers ", " " & " }}</div>
 						<h2>{{ .Params.title }}</h2>
+						{{ if isset .Params "subtitle" }}
+							<h3>{{ .Params.subtitle }}</h3>
+						{{ end }}
 					</a>
 
-					<div class="price">{{ .Params.price | printf "€ %.2f"  }}</div>
-
 					{{ partial "shop/cart/small.html" (dict
-						"title"    .Params.title
-						"price"    .Params.price
-						"checkout" false
+						"title"       .Params.title
+						"types"       .Params.types
+						"checkout"    false
 					) }}
 				</div>
 			</li>

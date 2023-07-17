@@ -37,12 +37,12 @@
 			"image": "{{ (.Resources.Get .Params.image).Permalink }}"
 		{{ else if and (eq .Type "shop") (isset .Params "front") }}
 			"@type": ["Product", "Book"],
-			"name": "{{ .Params.title | safeHTML }}",
+			"name": "{{ .Params.title | safeHTML }}{{ if isset .Params "subtitle" }}: {{ .Params.subtitle | safeHTML }}{{ end }}",
 			"datePublished": "{{ .Params.date.Format "2006-01-02" }}",
 			"image": "{{ (.Resources.Get .Params.front).Permalink }}",
 			"bookFormat": "http://schema.org/Paperback",
 			"inLanguage": "{{ .Params.language }}",
-			"isbn": "{{ .Params.isbn }}",
+			"isbn": "{{ replace (index .Params.types 0).isbn "-" "" }}",
 			"numberOfPages": "{{ .Params.pages }}",
 			"publisher": {
 				"@type": "Organization",
@@ -52,15 +52,16 @@
 				{{ range $i, $author := .Params.writers }}
 					{
 						"@type": "Person",
-						"name": "{{ $author }}",
+						"name": "{{ $author }}"
 					}{{ if lt $i (len $.Params.writers) }},{{ end }}
 				{{ end }}
 			],
 			"offers": {
                 "@type": "Offer",
-                "availability": "http://schema.org/InStock",
-                "price": "{{ .Params.price }}",
-                "priceCurrency": "EUR"
+                "availability": "{{ if .Params.unavailable }}https://schema.org/OutOfStock{{ else }}https://schema.org/InStock{{ end }}",
+                "price": "{{ (index .Params.types 0).amount }}",
+                "priceCurrency": "EUR",
+                "itemCondition": "https://schema.org/NewCondition"
              }
 		{{ else }}
 			"@type": "Organization",

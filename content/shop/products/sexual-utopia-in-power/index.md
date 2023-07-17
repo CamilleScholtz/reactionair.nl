@@ -2,9 +2,11 @@
 title: 'Sexual Utopia in Power'
 writers: ['F. Roger Devlin']
 pages: 192
-price: 12.50
+types:
+    - name: Paperback
+      amount: 12.50
+      isbn: 978-1-935965-88-6
 publisher: 'Counter-Currents'
-isbn: '978-1-935965-88-6'
 date: '2015-06-01'
 language: 'English'
 front: 'front.jpg'

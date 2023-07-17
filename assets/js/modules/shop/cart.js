@@ -1,3 +1,4 @@
+import currency from "../../vendor/currency.js";
 import { total } from "./header.js";
 
 export const overview = (main, cart, shipping) => {
@@ -22,28 +23,27 @@ export const overview = (main, cart, shipping) => {
 		}
 	});
 
-	let total = 0;
+	const formatter = value => currency(value, { symbol: "€ ", separator: "." });
+
+	let total = formatter(0);
 	cart.forEach((product) => {
-		total += product.quantity * product.price;
+		total = total.add(formatter(product.price).multiply(product.quantity));
 	});
 
-	const formatter = new Intl.NumberFormat("nl-NL", {
-		style:    "currency",
-		currency: "EUR",
-	});
-
-	page.querySelector(".shipping").innerHTML            = formatter.format(total < shipping.threshold ? shipping.price : 0);
-	page.querySelector(".free-shipping").innerHTML       = total < shipping.threshold ? `(Nog <span>${formatter.format(shipping.threshold - total)}</span> voor gratis verzending)` : "(Gratis verzending)";
-	page.querySelector(".total").innerHTML               = formatter.format(total);
-	page.querySelector(".total-plus-shipping").innerHTML = formatter.format(total + (total < shipping.threshold ? shipping.price : 0));
+	page.querySelector(".shipping").innerHTML            = formatter(total < shipping.threshold ? shipping.price : 0).format();
+	page.querySelector(".free-shipping").innerHTML       = total < shipping.threshold ? `(Vanaf <span>€ 25.00</span> gratis verzending)` : "(Gratis verzending)";
+	page.querySelector(".total").innerHTML               = total.format();
+	page.querySelector(".total-plus-shipping").innerHTML = total.add(total < shipping.threshold ? shipping.price : 0).format()
 }
 
 export const edit = (main, header, shipping) => {
 	const getProduct = (cart, dataset) => {
-		return cart?.find(i => i.name === dataset.name) ?? {
+		return cart?.find(i => i.name === dataset.name
+			&& i.type === dataset.type) ?? {
 			name:     dataset.name,
+			type:	  dataset.type,
 			quantity: 0,
-			price:    parseFloat(dataset.price),
+			price:    currency(dataset.price),
 		};
 	};
 
@@ -51,7 +51,7 @@ export const edit = (main, header, shipping) => {
 		const input  = form.querySelector(".added-to-cart");
 		const button = form.querySelector(".add-to-cart");
 
-		cart = cart.filter(i => i.name !== product.name);
+		cart = cart.filter(i => i.name !== product.name || i.type !== product.type);
 
 		if (product.quantity > 0) {
 			cart.push(product);
@@ -70,8 +70,25 @@ export const edit = (main, header, shipping) => {
 		localStorage.setItem("cart", JSON.stringify(cart));
 
 		total(header, cart);
+		hideButtons(main, cart);
 		overview(main, cart, shipping);
 	};
+
+	const hideButtons = (main, cart) => {
+		const forms = main.querySelectorAll("#products .cart-form.hidden");
+
+		forms.forEach((form) => {
+			if (cart.find(i => i.name === form.dataset.name && i.type === form.dataset.type) !== undefined) {
+				form.style.display = "block";
+
+				main.querySelectorAll(`#products .cart-form[data-name="${form.dataset.name}"]`).forEach((other) => {
+					if (other.dataset.type !== form.dataset.type) {
+						other.style.display = "none";
+					}
+				});
+			}
+		});
+	}
 
 	main.querySelectorAll(".cart-form").forEach((form) => {
 		const cart = JSON.parse(localStorage.getItem("cart")) ?? [];

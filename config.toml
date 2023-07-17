@@ -15,8 +15,8 @@ cleanDestinationDir = true
 ignoreErrors = ["error-remote-getjson"]
 
 [params]
-	rev = "916"
-	api = "http://127.0.0.1:8000"
+	rev = "922"
+	api = "https://reactionair.nl"
 
 [taxonomies]
 	author  = "authors"

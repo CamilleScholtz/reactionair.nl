@@ -3,8 +3,6 @@
 	"params" (dict "api" .Site.Params.api)
 }}
 
-<script defer src="{{ (resources.Get "js/vendor/minisearch.js").RelPermalink }}?v={{ site.Params.rev }}"></script>
-
 <script defer type="module" src="{{ (resources.Get "js/main.js" | js.Build $options).RelPermalink }}?v={{ site.Params.rev }}"></script>
 {{ if eq .Type "shop" }}
 	<script defer type="module" src="{{ (resources.Get "js/shop.js" | js.Build $options).RelPermalink }}?v={{ site.Params.rev }}"></script>

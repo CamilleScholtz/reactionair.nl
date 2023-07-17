@@ -1,20 +1,22 @@
 ---
 title: 'Empire Eternal'
-writers: ['Sinclair Jenkins ']
+writers:
+    - 'Sinclair Jenkins '
 pages: 166
-price: 12.50
+types:
+    - { name: Paperback, amount: 15.95, isbn: 978-1-956887-36-5 }
 publisher: 'Antelope Hill'
-isbn: '978-1-956887-36-5'
 date: '2022-01-01'
-language: 'Engels'
-front: 'front.jpg'
-back: 'back.jpg'
+language: Engels
+front: front.jpg
+back: back.jpg
+subtitle: 'In Defense of Imperialism'
 ---
 
-“The men who founded these great civilizations are long gone, but their blood still lives within us. We are called to conquer. Our age, like every other age, is a war of all against all for the domination of space.”
+"De mannen die deze grote beschavingen hebben gesticht zijn al lang dood, maar hun bloed leeft nog steeds in ons. Wij zijn geroepen om te veroveren. Ons tijdperk, zoals elk ander tijdperk, is een oorlog van allen tegen allen voor de overheersing van de ruimte."
 
-Throughout the 19th and through the early 20th centuries, the European Great Powers established direct control over the majority of the planet, and suzerainty over the rest. Despite the crumbling of those empires under the hammer blows of two world wars and the machinations of the United States and the Soviet Union, the feats by which they were established and the titanic efforts of the brave few that fought to preserve them still reverberate in history. Brave warriors conquered foreign lands, planted their flags, and tried to grow new cultures that mirrored their own.
+Gedurende de 19e en het begin van de 20e eeuw kregen de Europese grootmachten directe controle over het grootste deel van de planeet en suzereiniteit over de rest. Ondanks het afbrokkelen van deze rijken door de hamerslagen van twee wereldoorlogen en de machinaties van de Verenigde Staten en de Sovjet-Unie, klinken de prestaties waarmee ze werden opgericht en de titanische inspanningen van de dapperen die vochten om ze te behouden nog steeds na in de geschiedenis. Dappere krijgers veroverden vreemde landen, plantten hun vlaggen en probeerden nieuwe culturen te kweken die hun eigen cultuur weerspiegelden.
 
-Sinclair Jenkins –writer, thinker, and dissident – lays out a resolute defense of, and advocacy for, that force of will which made the age of European Imperialism possible. From the conquering of the American West, to the bloody Rif War, to the heroic defenses of Katanga and Rhodesia, Empire Eternal: In Defense of Imperialism is a tour de force of the various chapters of European Imperialism.
+Sinclair Jenkins - schrijver, denker en dissident - zet een vastberaden verdediging van en pleidooi voor die wilskracht uiteen die het tijdperk van het Europese imperialisme mogelijk maakte. Van de verovering van het Amerikaanse Westen tot de bloedige Rifoorlog en de heldhaftige verdediging van Katanga en Rhodesië, *Empire Eternal: In Defense of Imperialism* is een tour de force over de verschillende hoofdstukken van het Europese imperialisme.
 
-It is said that men did not love Rome because it is great – Rome was great because men loved her. These pages make it clear that likewise the European empires were not great because of some kind of overwhelming material superiority, but because of the eternal flame that pushed men to sacrifice for them – a flame that can never be extinguished.
+Er wordt gezegd dat de mensen niet van Rome hielden omdat het groot was - Rome was groot omdat de mensen van haar hielden. Deze pagina's maken duidelijk dat ook de Europese imperia niet groot waren vanwege een soort overweldigende materiële superioriteit, maar vanwege de eeuwige vlam die mensen ertoe aanzette om zich voor hen op te offeren - een vlam die nooit gedoofd kan worden.

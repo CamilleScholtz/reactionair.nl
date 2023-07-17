@@ -12,6 +12,7 @@
 		"subtitle"  "Boek in de Reactionair.nl winkel"
 		"title"     (.Params.title | plainify)
 		"authors"   .Params.writers
+		"content"   .Plain
 		"permalink" .RelPermalink
 	) }}
 

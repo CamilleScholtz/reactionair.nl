@@ -18,12 +18,18 @@
 				<h1 class="shop-title">
 					{{ .Params.title }}
 				</h1>
+				{{ if isset .Params "subtitle" }}
+					<h2 class="shop-subtitle">
+						{{ .Params.subtitle }}
+					</h2>
+				{{ end }}
+
 				<div class="quote shop-quote">“</div>
 			</div>
 
 			{{ partial "shop/cart/large.html" (dict
 				"title"    .Params.title
-				"price"    .Params.price
+				"types"    .Params.types
 				"checkout" true
 			) }}
 		</section>
@@ -48,11 +54,27 @@
 				</tr>
 
 				<tr>
+					<th>Jaar</th>
+					<td>{{ .Params.date.Format "2006" }}</td>
+
+					<th>ISBN</th>
+					<td>
+						{{ range .Params.types }}
+							{{ .isbn }}<br>
+						{{ end }}
+					</td>
+				</tr>
+
+				<tr>
 					<th>Aantal paginas</th>
 					<td>{{ .Params.pages }}</td>
 
-					<th>ISBN</th>
-					<td>{{ .Params.isbn }}</td>
+					<th>Formaat</th>
+					<td>
+						{{ range .Params.types }}
+							{{ .name }}<br>
+						{{ end }}
+					</td>
 				</tr>
 			</table>
 
