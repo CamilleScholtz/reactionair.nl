@@ -1,8 +1,7 @@
 ---
-draft: true
 title: 'Bevrijdingstheologie en Synodaliteit'
 subtitle: 'Een waarschuwing voor onwetende Katholieken'
-date: '2023-06-28'
+date: '2023-07-11'
 authors:
     - 'Robbert Leussinck'
 themes: 'Cultuur en Maatschappij'
@@ -10,6 +9,7 @@ image: 917d154e-9e98-4af4-9fa2-e898c7e97ab1.png
 anchor: Smart
 tags:
     - Christendom
+note: 'Dit artikel is vrij vertaald naar: *[Liberation Theology and Synodality](https://padreperegrino.org/2023/06/synodalit/)* onder toestemming van de originele auteur. Op enkele plekken is er context toegevoegd'
 ---
 
 Als je als Katholiek maar diep genoeg in het Twitter of Instagram Riool zit, wordt je dagelijks met alle rare fratsen uit Rome bestookt. En ergens hebben de critici, die ons hiermee confronteren ook helemaal gelijk, echter zien zij slechts een façade; een perversie van wat het Katholicisme echt is. 
