@@ -8,9 +8,10 @@ export const book = (main, mobile) => {
 		const animated  = book.classList?.contains("animate");
 		const clickable = book.classList?.contains("click");
 
-		let hover = false;
-		let click = false;
-		let i     = true;
+		let hover   = false;
+		let click   = false;
+		let turning = false;
+		let i       = true;
 
 		let interval;
 
@@ -42,7 +43,7 @@ export const book = (main, mobile) => {
 			book.addEventListener("mouseenter", (ev) => {
 				hover = true;
 
-				if (clickable && click) {
+				if (clickable && (click || turning)) {
 					return;
 				}
 
@@ -59,7 +60,7 @@ export const book = (main, mobile) => {
 			book.addEventListener("mouseleave", (ev) => {
 				hover = false;
 
-				if (clickable && click) {
+				if (clickable && (click || turning)) {
 					return;
 				}
 
@@ -87,7 +88,8 @@ export const book = (main, mobile) => {
 
 		if (clickable) {
 			book.addEventListener("click", (ev) => {
-				click = !click;
+				click   = !click;
+				turning = true;
 
 				book.style.transition = "transform 1.5s ease";
 
@@ -110,7 +112,8 @@ export const book = (main, mobile) => {
 								return;
 							}
 
-							i = true;
+							i       = true;
+							turning = false;
 
 							book.style.transition = "transform 8.5s ease-in-out";
 

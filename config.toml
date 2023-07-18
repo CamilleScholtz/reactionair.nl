@@ -16,7 +16,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 [params]
 	rev = "922"
-	api = "https://reactionair.nl"
+	api = "https://admin.reactionair.nl"
 
 [taxonomies]
 	author  = "authors"
