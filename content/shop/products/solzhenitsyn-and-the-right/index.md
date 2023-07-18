@@ -4,8 +4,8 @@ writers:
     - 'Spencer J. Quinn'
 pages: 200
 types:
-    - { name: Paperback, amount: 17.95, isbn: 978-1-953730-57-2 }
-    - { name: Hardcover, amount: 26.95, isbn: 978-1-953730-57-2 }
+    - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-57-2 }
+    - { name: Hardcover, price: 26.95, import_price: { currency: USD, amount: 0.0 }, isbn: 978-1-953730-57-2 }
 publisher: 'Antelope Hill'
 date: '2021-11-01'
 language: Engels

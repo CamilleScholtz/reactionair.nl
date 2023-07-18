@@ -1,7 +1,7 @@
 {{ range $i, $type := .types }}
-	<div class="cart-form {{ if gt $i 0 }}hidden{{ end }}" data-name="{{ $.title | urlize }}" data-type="{{ .name | urlize }}" data-price="{{ .amount }}" {{ if gt $i 0 }}style="display: none;"{{ end }}>
+	<div class="cart-form {{ if gt $i 0 }}hidden{{ end }}" data-name="{{ $.title | urlize }}" data-type="{{ .name | urlize }}" data-price="{{ .price }}" {{ if gt $i 0 }}style="display: none;"{{ end }}>
 		<div class="price">
-			{{ .amount | printf "€ %.2f" }}
+			{{ .price | printf "€ %.2f" }}
 		</div>
 
 		<button class="button add-to-cart">

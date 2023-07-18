@@ -4,7 +4,7 @@ writers:
     - 'Joseph Otto Plassmann'
 pages: 146
 types:
-    - { name: Paperback, amount: 17.95, isbn: 978-1-956887-69-3 }
+    - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-69-3 }
 publisher: 'Antelope Hill'
 date: '2023-02-24'
 language: Engels

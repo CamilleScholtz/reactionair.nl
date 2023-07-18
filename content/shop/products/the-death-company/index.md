@@ -4,7 +4,7 @@ writers:
     - 'Cristoforo Baseggio'
 pages: 167
 types:
-    - { name: Paperback, amount: 17.95, isbn: 978-1-956887-42-6 }
+    - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-42-6 }
 publisher: 'Antelope Hill'
 date: '2022-10-12'
 language: Engels

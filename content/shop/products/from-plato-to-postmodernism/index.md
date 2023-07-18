@@ -4,7 +4,7 @@ writers: ['Greg Johnson']
 pages: 220
 types:
     - name: Paperback
-      amount: 12.50
+      price: 12.50
       isbn: 978-1-642641-35-6
 publisher: 'Counter-Currents'
 date: '2019-11-01'

@@ -1,20 +1,19 @@
 ---
 title: 'Folktales in the Indo-European Tradition'
-writers: ['Various']
+writers:
+    - Various
 pages: 810
 types:
-    - name: Paperback
-      amount: 12.50
-      isbn: 978-1-922602-26-8
+    - { name: Paperback, price: 35.95, isbn: 978-1-922602-26-8 }
 publisher: 'Imperium Press'
 date: '2022-01-01'
-language: 'English'
-front: 'front.jpg'
-back: 'back.jpg'
+language: Engels
+front: front.jpg
+back: back.jpg
 ---
 
-In 2015, researchers shocked the world by showing that many folktales are not just centuries old, but older than Homer and the Bible. Some tales even trace their origin as far back as the Proto-Indo-Europeans—an astonishing survival of some 6,000 years.
+In 2015 schokten onderzoekers de wereld door te laten zien dat veel volksverhalen niet alleen eeuwen oud zijn, maar ouder dan Homerus en de Bijbel. Sommige verhalen gaan zelfs terug tot de Proto-Indo-Europeanen - een verbazingwekkende overleving van zo'n 6000 jaar.
 
-Folktales in the Indo-European Tradition is a massive collection of 150 folktales arranged by how far back they can be traced in the Indo-European migrations. This volume includes dozens of colour illustrations by the artist Graman and many tales newly translated into English. In the foreword, we learn how folklore can be one of the most faithful preservatives of Indo-European culture, religion, and even ritual, and how powerful of a tool comparative folkloristics can be in reconstructing the Proto-Indo-European worldview.
+*Folktales in the Indo-European Tradition* is een enorme verzameling van 150 volksverhalen gerangschikt op hoe ver ze terug te voeren zijn in de Indo-Europese migraties. Dit boek bevat tientallen kleurenillustraties van de kunstenaar Graman en vele verhalen die onlangs in het Engels zijn vertaald. In het voorwoord leren we hoe folklore een van de meest getrouwe bewaarmiddelen kan zijn van de Indo-Europese cultuur, religie en zelfs rituelen, en hoe krachtig vergelijkende folkloristiek een hulpmiddel kan zijn bij het reconstrueren van het Proto-Indo-Europese wereldbeeld.
 
-This volume is an original contribution to the study of folklore and a beautiful treasure to be handed down through the generations, containing some of our people’s most ancient stories.
+Dit boek is een originele bijdrage aan de studie van folklore en een prachtige schat die van generatie op generatie zal worden doorgegeven, met enkele van de oudste verhalen van onze mensen.

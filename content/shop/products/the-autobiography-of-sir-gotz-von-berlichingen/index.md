@@ -4,7 +4,7 @@ writers:
     - 'Götz von Berlichingen'
 pages: 120
 types:
-    - { name: Paperback, amount: 17.95, isbn: 978-1-953730-25-1 }
+    - { name: Paperback, price: 17.95, isbn: 978-1-953730-25-1 }
 publisher: 'Antelope Hill'
 date: '2023-07-17'
 language: Engels

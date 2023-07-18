@@ -59,7 +59,7 @@
 			"offers": {
                 "@type": "Offer",
                 "availability": "{{ if .Params.unavailable }}https://schema.org/OutOfStock{{ else }}https://schema.org/InStock{{ end }}",
-                "price": "{{ (index .Params.types 0).amount }}",
+                "price": "{{ (index .Params.types 0).price }}",
                 "priceCurrency": "EUR",
                 "itemCondition": "https://schema.org/NewCondition"
              }

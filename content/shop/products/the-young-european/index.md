@@ -4,7 +4,7 @@ writers:
     - 'Pierre Drieu La Rochelle'
 pages: 293
 types:
-    - { name: Paperback, amount: 17.95, isbn: 978-1-953730-73-2 }
+    - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-73-2 }
 publisher: 'Antelope Hill'
 date: '2021-11-01'
 language: Engels

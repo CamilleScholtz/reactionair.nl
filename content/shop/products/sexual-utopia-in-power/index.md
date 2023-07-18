@@ -4,7 +4,7 @@ writers: ['F. Roger Devlin']
 pages: 192
 types:
     - name: Paperback
-      amount: 12.50
+      price: 12.50
       isbn: 978-1-935965-88-6
 publisher: 'Counter-Currents'
 date: '2015-06-01'

@@ -4,7 +4,7 @@ writers:
     - 'Jack McKraken'
 pages: 190
 types:
-    - { name: Paperback, amount: 15.95, isbn: 978-1-956887-41-9 }
+    - { name: Paperback, price: 15.95, import_price: { currency: USD, amount: 14.31 }, isbn: 978-1-956887-41-9 }
 publisher: 'Antelope Hill'
 date: '2022-10-12'
 language: Engels

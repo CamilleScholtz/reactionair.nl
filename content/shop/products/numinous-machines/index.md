@@ -4,7 +4,7 @@ writers: ['Christopher Pankhurst']
 pages: 220
 types:
     - name: Paperback
-      amount: 12.50
+      price: 12.50
       isbn: 978-1-940933-45-0
 publisher: 'Counter-Currents'
 date: '2017-12-10'

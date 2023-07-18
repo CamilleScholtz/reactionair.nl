@@ -4,7 +4,7 @@ writers: ['Alexander Dugin']
 pages: 98
 types:
     - name: Paperback
-      amount: 12.50
+      price: 12.50
       isbn: 978-1-914208-48-5
 publisher: 'Arktos'
 date: '2021-11-22'

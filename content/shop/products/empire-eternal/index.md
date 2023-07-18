@@ -4,13 +4,13 @@ writers:
     - 'Sinclair Jenkins '
 pages: 166
 types:
-    - { name: Paperback, amount: 15.95, isbn: 978-1-956887-36-5 }
+    - { name: Paperback, price: 15.95, import_price: { currency: USD, amount: 14.31 }, isbn: 978-1-956887-36-5 }
 publisher: 'Antelope Hill'
 date: '2022-01-01'
 language: Engels
 front: front.jpg
-back: back.jpg
 subtitle: 'In Defense of Imperialism'
+back: back.jpg
 ---
 
 "De mannen die deze grote beschavingen hebben gesticht zijn al lang dood, maar hun bloed leeft nog steeds in ons. Wij zijn geroepen om te veroveren. Ons tijdperk, zoals elk ander tijdperk, is een oorlog van allen tegen allen voor de overheersing van de ruimte."

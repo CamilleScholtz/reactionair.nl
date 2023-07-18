@@ -4,7 +4,7 @@ writers:
     - 'Cécile Tormay'
 pages: 227
 types:
-    - { name: Paperback, amount: 15.95, isbn: 978-1-953730-37-4 }
+    - { name: Paperback, price: 15.95, import_price: { currency: USD, amount: 14.31 }, isbn: 978-1-953730-37-4 }
 publisher: 'Antelope Hill'
 date: '2020-11-08'
 language: Engels

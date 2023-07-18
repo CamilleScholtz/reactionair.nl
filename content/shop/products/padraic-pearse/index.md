@@ -4,8 +4,8 @@ writers:
     - 'Pádraic Pearse'
 pages: 212
 types:
-    - { name: Paperback, amount: 17.95, isbn: 978-1-956887-33-4 }
-    - { name: Hardcover, amount: 26.95, isbn: 978-1-953730-06-0 }
+    - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-33-4 }
+    - { name: Hardcover, price: 26.95, import_price: { currency: USD, amount: 0.0 }, isbn: 978-1-953730-06-0 }
 publisher: 'Antelope Hill'
 date: '2020-09-07'
 language: Engels

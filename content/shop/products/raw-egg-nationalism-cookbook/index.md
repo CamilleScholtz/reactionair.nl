@@ -5,7 +5,7 @@ writers:
     - 'Raw Egg Nationalist'
 pages: 98
 types:
-    - { name: Hardcover, amount: 30.95, isbn: 000-0-000000-00-0 }
+    - { name: Hardcover, price: 30.95, isbn: 000-0-000000-00-0 }
 publisher: 'Antelope Hill'
 date: '2023-07-17'
 language: Engels

@@ -4,7 +4,7 @@ writers:
     - 'Kerry R. Bolton'
 pages: 471
 types:
-    - { name: Paperback, amount: 23.95, isbn: 978-1-956887-05-1 }
+    - { name: Paperback, price: 23.95, import_price: { currency: USD, amount: 21.51 }, isbn: 978-1-956887-05-1 }
 publisher: 'Antelope Hill'
 date: '2023-07-17'
 language: Engels
