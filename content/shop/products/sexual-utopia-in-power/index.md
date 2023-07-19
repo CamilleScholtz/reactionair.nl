@@ -6,7 +6,7 @@ types:
     - name: Paperback
       price: 12.50
       isbn: 978-1-935965-88-6
-publisher: 'Counter-Currents'
+publishers: 'Counter-Currents'
 date: '2015-06-01'
 language: 'English'
 front: 'front.jpg'
