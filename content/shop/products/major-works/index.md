@@ -5,11 +5,15 @@ writers:
 pages: 348
 types:
     - { name: Paperback, price: 20.95, import_price: { currency: USD, amount: 19.55 }, isbn: 978-1-922602-22-0 }
-publisher: 'Imperium Press'
+publishers: 'Imperium Press'
 date: '2021-11-19'
 language: Engels
 front: 74578353-c7de-4ccc-b7fb-4920f5e11e49.jpg
 subtitle: 'Volume I'
+tags:
+    - 'Franse revolutie'
+    - 'Joseph de Maistre'
+    - Reactionair
 back: 94646d7b-d4b9-4cdf-b883-e13f6b8438f4.jpg
 ---
 

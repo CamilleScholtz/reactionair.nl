@@ -71,7 +71,7 @@
 				"section" "related"
 				"path"    "themas"
 				"term"    .Params.themes
-				"pages"   (.Site.RegularPages.Related . | first 5)
+				"pages"   ((where .Site.RegularPages "Section" "articles").Related . | first 5)
 				"side"    "left"
 			) }}
 		</section>

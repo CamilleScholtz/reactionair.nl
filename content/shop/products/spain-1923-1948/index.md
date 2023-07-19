@@ -5,11 +5,16 @@ writers:
 pages: 324
 types:
     - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-00-8 }
-publisher: 'Antelope Hill'
+publishers: 'Antelope Hill'
 date: '2020-09-07'
 language: Engels
 front: f66da641-b13a-4972-90b0-c86db119eb6a.jpg
 subtitle: 'Civil War and World War'
+tags:
+    - 'Eerste Wereldoorlog'
+    - NAVO
+    - Oorlog
+    - Spanje
 back: f7605dd5-3e1e-4f62-b3f1-4c24e63ab14e.jpg
 ---
 

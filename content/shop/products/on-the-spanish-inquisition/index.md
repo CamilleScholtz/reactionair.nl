@@ -5,10 +5,13 @@ writers:
 pages: 125
 types:
     - { name: Paperback, price: 14.95, import_price: { currency: USD, amount: 13.6 }, isbn: 978-1-922602-61-9 }
-publisher: 'Imperium Press'
+publishers: 'Imperium Press'
 date: '2022-09-28'
 language: Engels
 front: f36335a0-8958-41b8-9071-059f43443a43.jpg
+tags:
+    - 'Joseph de Maistre'
+    - Spanje
 back: ea1f0cb8-602b-413e-ada4-0e8ee7714cac.jpg
 ---
 

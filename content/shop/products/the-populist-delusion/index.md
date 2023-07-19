@@ -5,10 +5,12 @@ writers:
 pages: 172
 types:
     - { name: Paperback, price: 19.95, import_price: { currency: USD, amount: 18.7 }, isbn: 978-1-922602-44-2 }
-publisher: 'Imperium Press'
+publishers: 'Imperium Press'
 date: '2022-04-15'
 language: Engels
 front: edbf8b7d-a776-4094-b588-eacaa0cc40f3.jpg
+tags:
+    - Populisme
 back: edc2f050-a6a8-4974-a6bb-4dd9fc1c753f.jpg
 ---
 

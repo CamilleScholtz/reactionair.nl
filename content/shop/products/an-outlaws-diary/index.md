@@ -10,6 +10,9 @@ date: '2020-11-08'
 language: Engels
 front: b8cf13f1-2710-4b38-9d51-da1e02a8db08.jpg
 subtitle: 'The Commune'
+tags:
+    - Communisme
+    - Hongarije
 back: 37518051-357a-4726-8570-b6917f9107dc.jpg
 ---
 

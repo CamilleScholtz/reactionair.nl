@@ -17,5 +17,5 @@
 	{{ partialCached "head/favicons.html" . }}
 
 	{{ partialCached "head/stylesheets.html" . (eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel") }}
-	{{ partial "head/scripts.html" . }}
+	{{ partialCached "head/scripts.html" . (eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel") }}
 </head>

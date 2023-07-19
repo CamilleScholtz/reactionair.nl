@@ -9,6 +9,9 @@ publishers: 'Antelope Hill'
 date: '2023-07-17'
 language: Engels
 front: 390a8088-83b5-4e00-8b63-c4aada42e962.jpg
+tags:
+    - 'Eerste Wereldoorlog'
+    - Oorlog
 back: 90069f90-a214-4a5e-b8ff-6fa07254092a.jpg
 ---
 

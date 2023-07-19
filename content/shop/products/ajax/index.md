@@ -9,6 +9,10 @@ publishers: 'Imperium Press'
 date: '2022-02-08'
 language: Engels
 front: 2d6a1a7e-3131-4aea-9902-7fff56b4c147.jpg
+tags:
+    - 'Griekse mythologie'
+    - Odysseus
+    - Sophocles
 back: 962d3dce-d470-4847-930e-13d03ed01bad.jpg
 ---
 

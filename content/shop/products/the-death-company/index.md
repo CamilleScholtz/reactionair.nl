@@ -9,6 +9,8 @@ publishers: 'Antelope Hill'
 date: '2022-10-12'
 language: Engels
 front: 4b7b54b3-5277-497b-b628-f4d1368bb353.jpg
+tags:
+    - 'Eerste Wereldoorlog'
 back: c844c6b5-1614-4f47-8929-7aef17ee598d.jpg
 ---
 

@@ -10,6 +10,8 @@ date: '2023-07-17'
 language: Engels
 front: 26460281-64f8-45d0-a91a-46a53d33d0ff.webp
 subtitle: ' From Jacobinism to the United Nations'
+tags:
+    - Liberalisme
 back: 9a262d9f-15d3-4692-b540-1993bf8861df.webp
 ---
 

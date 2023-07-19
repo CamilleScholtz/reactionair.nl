@@ -5,10 +5,12 @@ writers:
 pages: 624
 types:
     - { name: Paperback, price: 21.95, import_price: { currency: USD, amount: 20.4 }, isbn: 978-0-648690-50-4 }
-publisher: 'Imperium Press'
+publishers: 'Imperium Press'
 date: '2019-09-21'
 language: Engels
 front: 5362f501-7ac5-47d4-bef1-34e087633d7d.jpg
+tags:
+    - 'Griekse mythologie'
 back: 0ecbf68e-7a42-4289-9b6f-c5c7b2f90338.jpg
 ---
 

@@ -10,6 +10,9 @@ date: '2021-02-08'
 language: Engels
 front: 16dcb60d-33f9-4593-929a-372d3310be49.jpg
 subtitle: 'A Christian Nationalist Anthology'
+tags:
+    - Christendom
+    - Marxisme
 back: ccf60058-ffe6-4a09-9a4d-9ee6e6e1c221.webp
 ---
 

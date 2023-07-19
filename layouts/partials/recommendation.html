@@ -1,0 +1,19 @@
+<div class="recommendation-container">
+	<div class="text">
+		<h3><span class="de">De</span> Reactionair</h3>
+		<h2>Boekenwinkel</h2>
+
+		<p>Ondek onze grote collectie boeken, zoals <a href="{{ .book.RelPermalink }}">{{ .book.Params.title }}</a>, in onze winkel!</p>
+	</div>
+
+	<a href="{{ .book.RelPermalink }}">
+		{{ partialCached "books/medium.html" (dict
+			"context" .
+			"title"   .book.Params.title
+			"pages"   .book.Params.pages
+			"front"   (.book.Resources.Get .book.Params.front)
+			"animate" true
+			"hover"   true
+		) .book.Params.title }}
+	</a>
+</div>

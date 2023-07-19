@@ -9,6 +9,9 @@ publishers: 'Imperium Press'
 date: '2021-01-29'
 language: Engels
 front: ad68555d-a24c-41bf-9b1b-94fd416445ab.jpg
+tags:
+    - Radicalisering
+    - Rechtsextremisme
 back: 7f799547-96ed-437b-8bc2-2eb9e748d72e.jpg
 ---
 

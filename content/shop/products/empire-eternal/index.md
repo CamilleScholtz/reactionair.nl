@@ -10,6 +10,8 @@ date: '2022-01-01'
 language: Engels
 front: front.jpg
 subtitle: 'In Defense of Imperialism'
+tags:
+    - Kolonialisme
 back: back.jpg
 ---
 

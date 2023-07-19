@@ -9,6 +9,8 @@ publishers: 'Imperium Press'
 date: '2021-05-21'
 language: Engels
 front: 3b040ffd-e4ea-4a06-889c-5751953c92ae.jpg
+tags:
+    - 'Noorse mythologie'
 back: 20b590f4-3ee6-4216-aa86-4aaa76b2fb68.jpg
 ---
 

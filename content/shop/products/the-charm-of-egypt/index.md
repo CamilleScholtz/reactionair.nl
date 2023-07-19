@@ -9,6 +9,11 @@ publishers: 'Antelope Hill'
 date: '2022-07-28'
 language: Engels
 front: 916e971c-d4b6-46e7-a6a8-f713d46ed24a.jpg
+tags:
+    - Egypte
+    - Futurisme
+    - Kunst
+    - Technologie
 back: 9e0c2564-2513-45ba-b0f8-ad7d274652d8.jpg
 ---
 

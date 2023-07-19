@@ -5,7 +5,7 @@ writers:
 pages: 316
 types:
     - { name: Paperback, price: 19.95, import_price: { currency: USD, amount: 18.7 }, isbn: 978-1-922602-16-9 }
-publisher: 'Imperium Press'
+publishers: 'Imperium Press'
 date: '2022-09-29'
 language: Engels
 front: 0acca73b-41b3-4631-b714-ca1c30ff807e.jpg

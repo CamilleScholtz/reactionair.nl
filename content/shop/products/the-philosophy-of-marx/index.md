@@ -9,6 +9,9 @@ publishers: 'Antelope Hill'
 date: '2022-10-21'
 language: Engels
 front: 63395876-dab3-486c-820b-e5d4d5d21a6f.webp
+tags:
+    - 'Karl Marx'
+    - Marxisme
 back: efd26299-9d53-474e-a265-ebad019a2ba0.webp
 ---
 

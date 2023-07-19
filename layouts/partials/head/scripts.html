@@ -4,7 +4,7 @@
 }}
 
 <script defer type="module" src="{{ (resources.Get "js/main.js" | js.Build $options).RelPermalink }}?v={{ site.Params.rev }}"></script>
-{{ if eq .Type "shop" }}
+{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
 	<script defer type="module" src="{{ (resources.Get "js/shop.js" | js.Build $options).RelPermalink }}?v={{ site.Params.rev }}"></script>
 {{ end }}
 

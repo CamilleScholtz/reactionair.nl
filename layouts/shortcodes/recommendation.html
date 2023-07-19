@@ -1,0 +1,8 @@
+<section class="recommendation">
+	{{ $book := index ((where site.RegularPages "Section" "shop").Related $.Page) 0 }}
+
+	{{ partialCached "recommendation.html" (dict
+		"context" .
+		"book"    $book
+	) $book.Params.title }}
+</section>

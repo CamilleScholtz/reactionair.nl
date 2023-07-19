@@ -2,3 +2,22 @@
 	list-style: none
 	padding: 0
 	padding-top: 50px
+
+	.filters
+		display: flex
+		gap: 10px
+		justify-self: end
+
+		a,
+		span
+			padding: 10px 15px 10px 15px
+			font-size: 16px
+			font-style: italic
+
+		a
+			border: 1px dashed var(--border-color)
+			border-radius: 50px
+
+			&.active
+				background: var(--accent-background-color)
+				border: 1px solid var(--accent-background-color)

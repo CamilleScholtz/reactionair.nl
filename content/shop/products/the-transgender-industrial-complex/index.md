@@ -10,6 +10,9 @@ publishers: 'Antelope Hill'
 date: '2020-11-11'
 language: Engels
 front: 0b50658d-1912-4490-b32a-710bdb7d3275.jpg
+tags:
+    - LGBT
+    - Transgenderisme
 back: a56ee8e6-5621-4952-a927-4d10ca4aa1d7.webp
 ---
 

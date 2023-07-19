@@ -9,6 +9,9 @@ publishers: 'Antelope Hill'
 date: '2022-04-01'
 language: Engels
 front: 14f6e015-838c-4979-8417-d639ec2a51c4.webp
+tags:
+    - Communisme
+    - Rusland
 back: cb7fde8d-71da-45b5-9c2f-ee4e80dfcd34.webp
 ---
 

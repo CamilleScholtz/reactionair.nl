@@ -10,6 +10,9 @@ date: '2020-04-17'
 language: Engels
 front: c431f1f9-6e60-406a-b9cb-9cea942bb117.jpg
 subtitle: 'An Originary Grammar of the Center'
+tags:
+    - Liberalisme
+    - Linguistiek
 back: 5e1c9e65-71ef-4ba0-913e-2282f10a3459.jpg
 ---
 

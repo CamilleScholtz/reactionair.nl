@@ -1,15 +1,19 @@
 {{ define "main" }}
 	{{ $paginator := .Paginate (sort .RegularPages "Params.title") }}
 
-	<div class="filters">
-		{{ range $publisher, $v := site.Taxonomies.publishers }}
-			<a href="/winkel/uitgevers/{{ $publisher }}/">
-				{{ $publisher }}
-			</a>
-		{{ end }}
-	</div>
-
 	<ul id="products">
+		<div class="filters">
+			<span>Uitgeverij:</span>
+
+			{{ range $publisher, $terms := site.Taxonomies.publishers }}
+				{{ with site.GetPage $publisher }}
+					<a href="{{ if eq .Params.title $.Params.title }}/winkel/{{ else }}/winkel/uitgevers/{{ $publisher }}/{{ end }}" {{ if eq .Params.title $.Params.title }}class="active"{{ end }}>
+						{{ .Params.title }}
+					</a>
+				{{ end }}
+			{{ end }}
+		</div>
+
 		{{ range $paginator.Pages }}
 			{{ with .Params.layout }}
 				{{ continue }}
