@@ -6,7 +6,7 @@ types:
     - name: Paperback
       price: 12.50
       isbn: 978-1-642641-35-6
-publisher: 'Counter-Currents'
+publishers: 'Counter-Currents'
 date: '2019-11-01'
 language: 'English'
 front: 'front.jpg'

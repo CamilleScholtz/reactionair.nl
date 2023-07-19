@@ -6,7 +6,7 @@ pages: 268
 types:
     - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-82-4 }
     - { name: Hardcover, price: 26.95, import_price: { currency: USD, amount: 0.0 }, isbn: 978-1-953730-78-7 }
-publisher: 'Antelope Hill'
+publishers: 'Antelope Hill'
 date: '2020-12-07'
 language: Engels
 front: da6d2335-efee-4572-95df-d34a5e3b2e5d.webp

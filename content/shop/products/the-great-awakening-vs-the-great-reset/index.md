@@ -6,7 +6,7 @@ types:
     - name: Paperback
       price: 12.50
       isbn: 978-1-914208-48-5
-publisher: 'Arktos'
+publishers: 'Arktos'
 date: '2021-11-22'
 language: 'English'
 front: 'front.jpg'

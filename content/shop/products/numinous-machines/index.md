@@ -6,7 +6,7 @@ types:
     - name: Paperback
       price: 12.50
       isbn: 978-1-940933-45-0
-publisher: 'Counter-Currents'
+publishers: 'Counter-Currents'
 date: '2017-12-10'
 language: 'English'
 front: 'front.gif'

@@ -5,7 +5,7 @@ writers:
 pages: 293
 types:
     - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-73-2 }
-publisher: 'Antelope Hill'
+publishers: 'Antelope Hill'
 date: '2021-11-01'
 language: Engels
 front: 553b6bf0-8b05-4cf2-9a2a-595149263edd.webp

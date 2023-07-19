@@ -19,9 +19,10 @@ ignoreErrors = ["error-remote-getjson"]
 	api = "https://admin.reactionair.nl"
 
 [taxonomies]
-	author  = "authors"
-	theme   = "themes"
-	shop	= "shop"
+	author    = "authors"
+	theme     = "themes"
+	shop	  = "shop"
+	publisher = "publishers"
 
 [permalinks]
 	[permalinks.page]
@@ -32,12 +33,14 @@ ignoreErrors = ["error-remote-getjson"]
 		newsletter = "/nieuwsbrief/"
 		shop	   = "/winkel/"
 	[permalinks.term]
-		authors = "/auteurs/:slug/"
-		themes  = "/themas/:slug/"
+		authors    = "/auteurs/:slug/"
+		themes     = "/themas/:slug/"
+		publishers = "/winkel/uitgevers/:slug/"
 	[permalinks.taxonomy]
-		authors = "/auteurs/"
-		themes  = "/themas/"
-		shop	= "/winkel/"
+		authors    = "/auteurs/"
+		themes     = "/themas/"
+		shop       = "/winkel/"
+		publishers = "/winkel/uitgevers/"
 
 [related]
 	includeNewer = true
