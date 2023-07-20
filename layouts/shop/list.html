@@ -3,15 +3,17 @@
 
 	<ul id="products">
 		<div class="filters">
-			<span>Uitgeverij:</span>
+			<span class="title">Uitgeverij:</span>
 
-			{{ range $publisher, $terms := site.Taxonomies.publishers }}
-				{{ with site.GetPage $publisher }}
-					<a href="{{ if eq .Params.title $.Params.title }}/winkel/{{ else }}/winkel/uitgevers/{{ $publisher }}/{{ end }}" {{ if eq .Params.title $.Params.title }}class="active"{{ end }}>
-						{{ .Params.title }}
-					</a>
+			<span class="filters-container">
+				{{ range $publisher, $terms := site.Taxonomies.publishers }}
+					{{ with site.GetPage $publisher }}
+						<a href="{{ if eq .Params.title $.Params.title }}/winkel/{{ else }}/winkel/uitgevers/{{ $publisher }}/{{ end }}" {{ if eq .Params.title $.Params.title }}class="active"{{ end }}>
+							{{ .Params.title }}
+						</a>
+					{{ end }}
 				{{ end }}
-			{{ end }}
+			</span>
 		</div>
 
 		{{ range $paginator.Pages }}
