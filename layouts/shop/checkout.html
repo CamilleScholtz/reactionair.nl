@@ -3,14 +3,14 @@
 		<form action="{{ .Site.Params.api }}/api/shop/checkout">
 			<label>Naam</label>
 			<div class="form-group name">
-				<input type="text" name="first-name" required placeholder="Uw naam"/>
-				<input type="text" name="preposition" placeholder="Tussenv."/>
-				<input type="text" name="last-name" required placeholder="Uw achternaam"/>
+				<input type="text" name="first-name" required placeholder="Uw naam" autocomplete="given-name"/>
+				<input type="text" name="preposition" placeholder="Tussenv." autocomplete="additional-name"/>
+				<input type="text" name="last-name" required placeholder="Uw achternaam" autocomplete="family-name"/>
 			</div>
 
 			<label>Adres</label>
 			<div class="form-group address">
-				<input type="text" name="postal-code" required placeholder="Uw postcode"/>
+				<input type="text" name="postal-code" required placeholder="Uw postcode" autocomplete="postal-code" maxlength="7"/>
 				<input type="text" name="house-number" required placeholder="Uw huisnummer"/>
 			</div>
 			<span class="error"></span>
@@ -18,8 +18,8 @@
 			<input type="text" name="city" required readonly placeholder="Uw woonplaats"/>
 
 			<label>Contactgegevens</label>
-			<input type="email" name="email" required placeholder="Uw e-mailadres"/>
-			<input type="tel" name="phone" placeholder="Uw telefoonnummer"/>
+			<input type="email" name="email" required placeholder="Uw e-mailadres" autocomplete="email"/>
+			<input type="tel" name="phone" placeholder="Uw telefoonnummer" autocomplete="tel"/>
 
 			<button type="submit" class="button">
 				Naar betaalscherm
