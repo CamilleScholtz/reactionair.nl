@@ -8,7 +8,7 @@ types:
     - { name: Hardcover, price: 30.95, isbn: 000-0-000000-00-0 }
 publishers: 'Antelope Hill'
 date: '2023-07-17'
-language: Engels
+languages: Engels
 front: 80ef6b44-e416-4d47-9dda-4e227c9af104.webp
 back: 49e2a238-f09c-4044-a8e4-a249b6071ae7.webp
 ---

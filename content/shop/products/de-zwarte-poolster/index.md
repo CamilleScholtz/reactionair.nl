@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 49.5, import_price: { currency: EUR, amount: 39.6 }, isbn: 978-1-915755-04-9 }
 publishers: Arktos
 date: '2023-07-19'
-language: Nederlands
+languages: Nederlands
 front: 342f190e-f4a6-4425-86b9-a2847da32a00.jpg
 subtitle: 'Een Archeo-Futuristische Aftelling in Vijftien Opstellen'
 tags:

@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 16.95, import_price: { currency: USD, amount: 16.15 }, isbn: 978-0-648690-57-3 }
 publishers: 'Imperium Press'
 date: '2020-04-17'
-language: Engels
+languages: Engels
 front: c431f1f9-6e60-406a-b9cb-9cea942bb117.jpg
 subtitle: 'An Originary Grammar of the Center'
 tags:

@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 15.95, import_price: { currency: USD, amount: 14.31 }, isbn: 978-1-953730-37-4 }
 publishers: 'Antelope Hill'
 date: '2020-11-08'
-language: Engels
+languages: Engels
 front: b8cf13f1-2710-4b38-9d51-da1e02a8db08.jpg
 subtitle: 'The Commune'
 tags:

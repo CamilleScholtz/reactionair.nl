@@ -8,7 +8,7 @@ types:
       isbn: 978-1-935965-88-6
 publishers: 'Counter-Currents'
 date: '2015-06-01'
-language: 'English'
+languages: 'Engels'
 front: 'front.jpg'
 back: 'back.jpg'
 ---

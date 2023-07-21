@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 16.95, import_price: { currency: EUR, amount: 13.44 }, isbn: 978-1-907166-32-7 }
 publishers: Arktos
 date: '2013-11-02'
-language: Engels
+languages: Engels
 front: d576a478-cbf5-472f-81a1-6db7f1634ffb.jpg
 subtitle: 'A New Vision for Global Transformation'
 tags:

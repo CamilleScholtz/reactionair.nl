@@ -8,7 +8,7 @@ types:
     - { name: Hardcover, price: 26.95, import_price: { currency: USD, amount: 0.0 }, isbn: 978-1-953730-06-0 }
 publishers: 'Antelope Hill'
 date: '2020-09-07'
-language: Engels
+languages: Engels
 front: c791930a-c22e-4b0e-86a5-cf6eebf8d747.webp
 subtitle: 'The Collected Works'
 back: 8d38bd8f-24d0-49ed-9dd0-ac8b47b15206.webp

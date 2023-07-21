@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 14.95, import_price: { currency: EUR, amount: 11.52 }, isbn: 978-1-907166-36-5 }
 publishers: Arktos
 date: '2023-07-21'
-language: Engels
+languages: Engels
 front: 6eadf435-b751-411f-ba86-a79e4b22dd8a.jpg
 tags:
     - Islam

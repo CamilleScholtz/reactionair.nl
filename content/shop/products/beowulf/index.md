@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 19.95, import_price: { currency: USD, amount: 18.7 }, isbn: 978-1-922602-03-9 }
 publishers: 'Imperium Press'
 date: '2021-05-21'
-language: Engels
+languages: Engels
 front: 3b040ffd-e4ea-4a06-889c-5751953c92ae.jpg
 tags:
     - 'Noorse mythologie'

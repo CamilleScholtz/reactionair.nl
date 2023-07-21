@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 7.95, import_price: { currency: EUR, amount: 5.76 }, isbn: 978-1-910524-31-2 }
 publishers: Arktos
 date: '2023-07-20'
-language: Nederlands
+languages: Nederlands
 front: 8cf1e034-84be-423c-852d-5dd67dd5c2ac.jpg
 tags:
     - 'Alain de Benois'

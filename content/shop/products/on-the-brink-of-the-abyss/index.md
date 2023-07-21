@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 16.95, import_price: { currency: EUR, amount: 13.39 }, isbn: 978-1-910524-30-5 }
 publishers: Arktos
 date: '2021-11-11'
-language: Engels
+languages: Engels
 front: c60552be-27be-4e9c-a535-945ca849beb0.jpg
 subtitle: 'The Imminent Bankruptcy of the Financial System'
 tags:

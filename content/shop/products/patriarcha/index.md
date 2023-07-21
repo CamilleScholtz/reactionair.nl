@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 19.95, import_price: { currency: USD, amount: 18.7 }, isbn: 978-1-922602-16-9 }
 publishers: 'Imperium Press'
 date: '2022-09-29'
-language: Engels
+languages: Engels
 front: 0acca73b-41b3-4631-b714-ca1c30ff807e.jpg
 subtitle: 'The Complete Political Works'
 back: f7aa68e3-0fa3-4109-92c1-cb01c6088739.jpg

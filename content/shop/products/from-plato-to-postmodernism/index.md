@@ -8,7 +8,7 @@ types:
       isbn: 978-1-642641-35-6
 publishers: 'Counter-Currents'
 date: '2019-11-01'
-language: 'English'
+languages: 'Engels'
 front: 'front.jpg'
 ---
 

@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 19.95, import_price: { currency: EUR, amount: 15.6 }, isbn: 978-1-914208-09-6 }
 publishers: Arktos
 date: '2023-07-21'
-language: Engels
+languages: Engels
 front: c9814e2e-792d-45dc-9ee0-6513eda8628a.jpg
 tags:
     - 'Julius Evola'

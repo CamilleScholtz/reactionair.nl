@@ -8,7 +8,7 @@ types:
       isbn: 978-1-940933-45-0
 publishers: 'Counter-Currents'
 date: '2017-12-10'
-language: 'English'
+languages: 'Engels'
 front: 'front.gif'
 ---
 

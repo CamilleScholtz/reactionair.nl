@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-18-1 }
 publishers: 'Antelope Hill'
 date: '2022-06-06'
-language: Engels
+languages: Engels
 front: 8121bb18-193b-4ee9-9319-922fc284eb2a.jpg
 back: 1fe93e3f-5698-4d72-b784-cce2a7e7ba8e.jpg
 ---

@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 11.95, import_price: { currency: EUR, amount: 9.12 }, isbn: 978-1-907166-83-9 }
 publishers: Arktos
 date: '2014-10-16'
-language: Engels
+languages: Engels
 front: 577fca82-d91c-4410-acd5-6281715a01ad.jpg
 subtitle: 'The End of Double Standards'
 tags:

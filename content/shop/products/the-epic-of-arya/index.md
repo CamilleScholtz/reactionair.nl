@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 13.95, import_price: { currency: EUR, amount: 10.56 }, isbn: 978-1-910524-54-1 }
 publishers: Arktos
 date: '2016-07-08'
-language: Engels
+languages: Engels
 front: 32ddbdbd-470c-47c7-960c-f484f528ee41.jpg
 subtitle: 'In Search of the Sacred Light'
 tags:

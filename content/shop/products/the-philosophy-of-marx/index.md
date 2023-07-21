@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-08-2 }
 publishers: 'Antelope Hill'
 date: '2022-10-21'
-language: Engels
+languages: Engels
 front: 63395876-dab3-486c-820b-e5d4d5d21a6f.webp
 tags:
     - 'Karl Marx'

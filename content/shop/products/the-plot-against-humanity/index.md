@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-51-8 }
 publishers: 'Antelope Hill'
 date: '2022-11-30'
-language: Engels
+languages: Engels
 front: 8c667ab9-591a-4724-bce6-827761587aea.jpg
 tags:
     - Corona

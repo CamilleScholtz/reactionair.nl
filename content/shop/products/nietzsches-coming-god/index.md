@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 13.95, import_price: { currency: EUR, amount: 10.56 }, isbn: 978-1-907166-90-7 }
 publishers: Arktos
 date: '2021-11-28'
-language: Engels
+languages: Engels
 front: 0c63f9b8-4d2a-4b37-a950-5a244eea1231.jpg
 subtitle: 'Or the Redemption of the Divine'
 tags:

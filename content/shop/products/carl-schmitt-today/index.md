@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 13.95, import_price: { currency: EUR, amount: 10.56 }, isbn: 978-1-907166-39-6 }
 publishers: Arktos
 date: '2013-03-17'
-language: Engels
+languages: Engels
 front: 2907b098-7842-4e61-b536-257f7d7364eb.jpg
 subtitle: 'Terrorism, Just War, and the State of Emergency'
 tags:

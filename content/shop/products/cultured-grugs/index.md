@@ -8,7 +8,7 @@ types:
     - { name: Hardcover, price: 26.95, import_price: { currency: USD, amount: 0.0 }, isbn: 978-1-953730-79-4 }
 publishers: 'Antelope Hill'
 date: '2022-07-28'
-language: Engels
+languages: Engels
 front: 14f292d5-09e6-4229-8aea-340bfffa3c11.webp
 subtitle: 'Dispatches From America in Collapse'
 back: 39982b77-6aa1-4ec3-9a72-a456de8f8110.webp

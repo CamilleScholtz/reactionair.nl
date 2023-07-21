@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 20.95, import_price: { currency: EUR, amount: 16.2 }, isbn: 978-1-912079-18-6 }
 publishers: Arktos
 date: '2023-07-21'
-language: Engels
+languages: Engels
 front: 9fa1329e-45e1-4aa8-863c-b1d65306b280.jpg
 tags:
     - Boeddhisme

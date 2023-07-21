@@ -8,7 +8,7 @@ types:
     - { name: Hardcover, price: 26.95, import_price: { currency: USD, amount: 0.0 }, isbn: 978-1-953730-57-2 }
 publishers: 'Antelope Hill'
 date: '2021-11-01'
-language: Engels
+languages: Engels
 front: 122f40ca-07f3-4787-ba90-5fdeb8ed28a7.jpg
 back: c120397d-ee65-4448-b7a2-6c96ceb7ecfd.webp
 ---

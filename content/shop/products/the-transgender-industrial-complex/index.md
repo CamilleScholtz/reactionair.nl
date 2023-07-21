@@ -8,7 +8,7 @@ types:
     - { name: Hardcover, price: 35.95, import_price: { currency: USD, amount: 0.0 }, isbn: 978-1-956887-58-7 }
 publishers: 'Antelope Hill'
 date: '2020-11-11'
-language: Engels
+languages: Engels
 front: 0b50658d-1912-4490-b32a-710bdb7d3275.jpg
 tags:
     - LGBT

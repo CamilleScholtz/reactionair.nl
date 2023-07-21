@@ -1,26 +1,31 @@
+.filters
+	margin-top: 10px
+
+	&:first-of-type
+		margin-top: 50px
+
+	.title
+		font-size: 16px
+		font-style: italic
+		padding: 10px 15px 10px 15px
+
+	.filters-container
+		display: inline-flex
+		gap: 10px
+
+		a
+			border: 1px dashed var(--border-color)
+			border-radius: 50px
+			font-size: 16px
+			font-style: italic
+			padding: 10px 15px 10px 15px
+			white-space: nowrap
+
+			&.active
+				background: var(--accent-background-color)
+				border: 1px solid var(--accent-background-color)
+
 #products
 	list-style: none
 	padding: 0
 	padding-top: 50px
-
-	.filters
-		.title
-			font-size: 16px
-			font-style: italic
-			padding: 10px 15px 10px 15px
-
-		.filters-container
-			display: inline-flex
-			gap: 10px
-
-			a
-				border: 1px dashed var(--border-color)
-				border-radius: 50px
-				font-size: 16px
-				font-style: italic
-				padding: 10px 15px 10px 15px
-				white-space: nowrap
-
-				&.active
-					background: var(--accent-background-color)
-					border: 1px solid var(--accent-background-color)

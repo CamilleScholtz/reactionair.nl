@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 21.95, import_price: { currency: EUR, amount: 17.2 }, isbn: 978-1-910524-14-5 }
 publishers: Arktos
 date: '2018-10-29'
-language: Engels
+languages: Engels
 front: f0e5fb93-7233-4daa-abf1-97d93d55ae10.jpg
 subtitle: 'A Traditional Conservative Case for an Alternative Society'
 tags:

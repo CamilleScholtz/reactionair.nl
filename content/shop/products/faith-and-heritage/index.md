@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 21.95, import_price: { currency: USD, amount: 19.11 }, isbn: 978-1-953730-23-7 }
 publishers: 'Antelope Hill'
 date: '2021-02-08'
-language: Engels
+languages: Engels
 front: 16dcb60d-33f9-4593-929a-372d3310be49.jpg
 subtitle: 'A Christian Nationalist Anthology'
 tags:

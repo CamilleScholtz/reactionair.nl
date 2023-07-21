@@ -1,21 +1,35 @@
 {{ define "main" }}
+	<div class="filters">
+		<span class="title">Uitgeverij:</span>
+
+		<span class="filters-container">
+			{{ range $publisher, $terms := site.Taxonomies.publishers }}
+				{{ with site.GetPage $publisher }}
+					<a href="{{ if eq .Params.title $.Params.title }}/winkel/{{ else }}/winkel/uitgeverij/{{ $publisher }}/{{ end }}" {{ if eq .Params.title $.Params.title }}class="active"{{ end }}>
+						{{ .Params.title }}
+					</a>
+				{{ end }}
+			{{ end }}
+		</span>
+	</div>
+
+	<div class="filters">
+		<span class="title">Taal:</span>
+
+		<span class="filters-container">
+			{{ range $language, $terms := site.Taxonomies.languages }}
+				{{ with site.GetPage $language }}
+					<a href="{{ if eq .Params.title $.Params.title }}/winkel/{{ else }}/winkel/taal/{{ $language }}/{{ end }}" {{ if eq .Params.title $.Params.title }}class="active"{{ end }}>
+						{{ .Params.title }}
+					</a>
+				{{ end }}
+			{{ end }}
+		</span>
+	</div>
+
 	{{ $paginator := .Paginate (sort .RegularPages "Params.title") }}
 
 	<ul id="products">
-		<div class="filters">
-			<span class="title">Uitgeverij:</span>
-
-			<span class="filters-container">
-				{{ range $publisher, $terms := site.Taxonomies.publishers }}
-					{{ with site.GetPage $publisher }}
-						<a href="{{ if eq .Params.title $.Params.title }}/winkel/{{ else }}/winkel/uitgevers/{{ $publisher }}/{{ end }}" {{ if eq .Params.title $.Params.title }}class="active"{{ end }}>
-							{{ .Params.title }}
-						</a>
-					{{ end }}
-				{{ end }}
-			</span>
-		</div>
-
 		{{ range $paginator.Pages }}
 			{{ with .Params.layout }}
 				{{ continue }}

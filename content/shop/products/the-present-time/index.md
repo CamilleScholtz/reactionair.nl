@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 10.95, import_price: { currency: USD, amount: 10.2 }, isbn: 978-0-648859-39-0 }
 publishers: 'Imperium Press'
 date: '2021-03-18'
-language: Engels
+languages: Engels
 front: c0291606-218c-478b-bb07-6839beb5893a.jpg
 tags:
     - Fascisme

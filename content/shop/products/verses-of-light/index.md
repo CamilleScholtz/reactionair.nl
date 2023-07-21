@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 13.95, import_price: { currency: EUR, amount: 10.56 }, isbn: 978-1-910524-10-7 }
 publishers: Arktos
 date: '2014-10-02'
-language: Engels
+languages: Engels
 front: 8f01e902-f081-4c5e-867b-63bcd7753999.jpg
 tags:
     - Liefde

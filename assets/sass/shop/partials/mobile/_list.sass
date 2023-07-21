@@ -1,36 +1,17 @@
-#products
-	.filters
-		max-width: 100vw
-		margin-left: -20px
-		scroll-snap-type: x mandatory
-		position: relative
+.filters
+	width: 100vw
+	margin-left: -20px
+	overflow-x: scroll
+	position: relative
+	scroll-snap-type: x mandatory
 
-		&::before
-			content: ''
-			position: absolute
-			top: 0
-			left: 0
-			width: 20px
-			height: 100%
-			background: linear-gradient(to left, transparent, var(--background-color))
-			z-index: 2
+	.title
+		display: none
 
-		&::after
-			content: ''
-			position: absolute
-			top: 0
-			right: 0
-			width: 20px
-			height: 100%
-			background: linear-gradient(to right, transparent, var(--background-color))
-			pointer-events: none
-			z-index: 2
+	.filters-container
+		justify-self: center
+		padding-left: 20px
+		padding-right: 20px
 
-		.title
+		&::-webkit-scrollbar
 			display: none
-
-		.filters-container
-			justify-self: center
-			overflow-x: scroll
-			padding-left: 20px
-			padding-right: 20px

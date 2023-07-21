@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-42-6 }
 publishers: 'Antelope Hill'
 date: '2022-10-12'
-language: Engels
+languages: Engels
 front: 4b7b54b3-5277-497b-b628-f4d1368bb353.jpg
 tags:
     - 'Eerste Wereldoorlog'

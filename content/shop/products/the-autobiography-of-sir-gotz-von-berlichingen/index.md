@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 14.31 }, isbn: 978-1-953730-25-1 }
 publishers: 'Antelope Hill'
 date: '2023-07-17'
-language: Engels
+languages: Engels
 front: b637b8e6-2393-4183-8183-b64b98de9e72.jpg
 tags:
     - 'Johann Wolfgang von Goethe'

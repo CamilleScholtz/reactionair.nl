@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 14.95, import_price: { currency: EUR, amount: 11.52 }, isbn: 978-1-907166-20-4 }
 publishers: Arktos
 date: '2021-11-10'
-language: Engels
+languages: Engels
 front: d08223b7-2d15-4d35-91f2-32962fddaf9d.jpg
 subtitle: 'Defending Freedoms'
 tags:

@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 14.95, import_price: { currency: USD, amount: 13.6 }, isbn: 978-1-922602-68-8 }
 publishers: 'Imperium Press'
 date: '2023-07-19'
-language: Engels
+languages: Engels
 front: 99b90216-adb5-4769-b280-3799a7719bcf.jpg
 tags:
     - Liberalisme

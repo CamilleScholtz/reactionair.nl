@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 16.95, import_price: { currency: EUR, amount: 13.2 }, isbn: 978-1-912975-30-3 }
 publishers: Arktos
 date: '2021-11-04'
-language: Engels
+languages: Engels
 front: a8c4306c-4725-4865-9bc7-6d2727092f5e.jpg
 subtitle: 'Taking America Back'
 tags:

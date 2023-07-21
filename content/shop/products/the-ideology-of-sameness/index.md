@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 9.95, import_price: { currency: EUR, amount: 7.6 }, isbn: 978-1-915755-08-7 }
 publishers: Arktos
 date: '2022-12-12'
-language: Engels
+languages: Engels
 front: fb2ac985-602a-4ed5-a6ea-59a75e940cbc.jpg
 tags:
     - 'Alain de Benoist'

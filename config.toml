@@ -7,10 +7,10 @@ DefaultContentLanguage = "nl"
 paginate     = 10
 paginatePath = "pagina"
 
-removePathAccents = true
-enableRobotsTXT = true
+removePathAccents          = true
+enableRobotsTXT            = true
 disableHugoGeneratorInject = true
-cleanDestinationDir = true
+cleanDestinationDir        = true
 
 ignoreErrors = ["error-remote-getjson"]
 
@@ -21,26 +21,29 @@ ignoreErrors = ["error-remote-getjson"]
 [taxonomies]
 	author    = "authors"
 	theme     = "themes"
-	shop	  = "shop"
+	shop      = "shop"
 	publisher = "publishers"
+	language  = "languages"
 
 [permalinks]
 	[permalinks.page]
 		articles = "/artikelen/:slug/"
-		shop	 = "/winkel/producten/:slug/"
+		shop     = "/winkel/producten/:slug/"
 	[permalinks.section]
 		articles   = "/artikelen/"
 		newsletter = "/nieuwsbrief/"
-		shop	   = "/winkel/"
+		shop       = "/winkel/"
 	[permalinks.term]
 		authors    = "/auteurs/:slug/"
 		themes     = "/themas/:slug/"
-		publishers = "/winkel/uitgevers/:slug/"
+		publishers = "/winkel/uitgeverij/:slug/"
+		languages  = "/winkel/taal/:slug/"
 	[permalinks.taxonomy]
 		authors    = "/auteurs/"
 		themes     = "/themas/"
 		shop       = "/winkel/"
-		publishers = "/winkel/uitgevers/"
+		publishers = "/winkel/uitgeverij/"
+		languages  = "/winkel/taal/"
 
 [related]
 	includeNewer = true
@@ -75,5 +78,5 @@ ignoreErrors = ["error-remote-getjson"]
 	home     = ["HTML", "JSON", "RSS"]
 	section  = ["RSS"]
 	taxonomy = ["HTML", "RSS"]
-	term     = ["HTML"]
+	term     = ["HTML", "RSS"]
 	page     = ["HTML"]

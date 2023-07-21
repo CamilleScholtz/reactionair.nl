@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 14.95, import_price: { currency: USD, amount: 13.6 }, isbn: 978-1-922602-61-9 }
 publishers: 'Imperium Press'
 date: '2022-09-28'
-language: Engels
+languages: Engels
 front: f36335a0-8958-41b8-9071-059f43443a43.jpg
 tags:
     - 'Joseph de Maistre'

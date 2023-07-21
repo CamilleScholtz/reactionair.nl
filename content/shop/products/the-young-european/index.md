@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-73-2 }
 publishers: 'Antelope Hill'
 date: '2021-11-01'
-language: Engels
+languages: Engels
 front: 553b6bf0-8b05-4cf2-9a2a-595149263edd.webp
 subtitle: 'Geneva or Moscow'
 back: d9162121-e136-45a1-94cb-541efd754f08.webp

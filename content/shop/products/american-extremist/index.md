@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 24.95, import_price: { currency: USD, amount: 23.8 }, isbn: 978-0-648859-36-9 }
 publishers: 'Imperium Press'
 date: '2021-01-29'
-language: Engels
+languages: Engels
 front: ad68555d-a24c-41bf-9b1b-94fd416445ab.jpg
 tags:
     - Radicalisering

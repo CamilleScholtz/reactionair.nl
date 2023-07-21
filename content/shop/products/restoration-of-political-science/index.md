@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 24.95, import_price: { currency: USD, amount: 23.8 }, isbn: 978-1-922602-76-3 }
 publishers: 'Imperium Press'
 date: '2023-03-30'
-language: Engels
+languages: Engels
 front: 5b3c326b-ba23-4cf4-a597-6ffcb25b3098.jpg
 subtitle: 'Volume I'
 back: 0a4eab88-41d3-4b7a-9209-349dc4942d0a.jpg

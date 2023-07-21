@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-00-8 }
 publishers: 'Antelope Hill'
 date: '2020-09-07'
-language: Engels
+languages: Engels
 front: f66da641-b13a-4972-90b0-c86db119eb6a.jpg
 subtitle: 'Civil War and World War'
 tags:

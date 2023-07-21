@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 35.95, import_price: { currency: USD, amount: 34.0 }, isbn: 978-1-922602-26-8 }
 publishers: 'Imperium Press'
 date: '2022-01-01'
-language: Engels
+languages: Engels
 front: front.jpg
 tags:
     - Traditie

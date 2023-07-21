@@ -8,7 +8,7 @@ types:
     - { name: Hardcover, price: 35.95, import_price: { currency: USD, amount: 0.0 }, isbn: 978-1-956887-00-6 }
 publishers: 'Antelope Hill'
 date: '2021-11-17'
-language: Engels
+languages: Engels
 front: 5e32ef4d-f3d2-491e-98e0-77dfa0f28f88.jpg
 tags:
     - Globalisme

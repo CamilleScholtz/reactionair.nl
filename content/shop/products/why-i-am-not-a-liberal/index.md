@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 9.95, import_price: { currency: USD, amount: 12.0 }, isbn: 978-0-648859-30-7 }
 publishers: 'Imperium Press'
 date: '2020-06-19'
-language: Engels
+languages: Engels
 front: 96fc6c54-c997-4102-95a8-ba15c3486628.jpg
 tags:
     - EU

@@ -7,7 +7,7 @@ types:
     - { name: Paperback, price: 15.95, import_price: { currency: USD, amount: 14.31 }, isbn: 978-1-956887-36-5 }
 publishers: 'Antelope Hill'
 date: '2022-01-01'
-language: Engels
+languages: Engels
 front: front.jpg
 subtitle: 'In Defense of Imperialism'
 tags:
