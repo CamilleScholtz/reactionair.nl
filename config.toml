@@ -79,4 +79,4 @@ ignoreErrors = ["error-remote-getjson"]
 	page     = ["HTML"]
 
 [build]
-	noJSConfigInAssets = false
+	noJSConfigInAssets = true
