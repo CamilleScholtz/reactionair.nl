@@ -26,16 +26,16 @@ ignoreErrors = ["error-remote-getjson"]
 
 [permalinks]
 	[permalinks.page]
-		articles = "/artikelen/:slug/"
-		shop     = "/winkel/producten/:slug/"
+		articles = "/artikelen/:slugorfilename/"
+		shop     = "/winkel/producten/:slugorfilename/"
 	[permalinks.section]
 		articles   = "/artikelen/"
 		shop       = "/winkel/"
 	[permalinks.term]
-		authors    = "/auteurs/:slug/"
-		themes     = "/themas/:slug/"
-		publishers = "/winkel/uitgeverij/:slug/"
-		languages  = "/winkel/taal/:slug/"
+		authors    = "/auteurs/:slugorfilename/"
+		themes     = "/themas/:slugorfilename/"
+		publishers = "/winkel/uitgeverij/:slugorfilename/"
+		languages  = "/winkel/taal/:slugorfilename/"
 	[permalinks.taxonomy]
 		authors    = "/auteurs/"
 		themes     = "/themas/"
