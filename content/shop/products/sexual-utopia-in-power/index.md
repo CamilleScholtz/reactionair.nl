@@ -1,18 +1,21 @@
 ---
 title: 'Sexual Utopia in Power'
-writers: ['F. Roger Devlin']
+writers:
+    - 'F. Roger Devlin'
 pages: 192
 types:
-    - name: Paperback
-      price: 12.50
-      isbn: 978-1-935965-88-6
-publishers: 'Counter-Currents'
+    - { name: Paperback, price: 13.95, import_price: { currency: USD, amount: 12.0 }, isbn: 978-1-935965-88-6 }
+    - { name: Hardcover, price: 31.95, import_price: { currency: USD, amount: 28.0 }, isbn: 978-1-642641-54-7 }
+publishers: Counter-Currents
 date: '2015-06-01'
-languages: 'Engels'
-front: 'front.jpg'
-back: 'back.jpg'
+languages: Engels
+front: front.jpg
+tags:
+    - Feminisme
+    - Seks
+back: back.jpg
 ---
 
-Like many political revolutions, the sexual revolution of the 1960s began with a euphoric feeling of liberation. But when utopian programs clash with dissenters — and with reality itself — the result is chaos, which revolutionaries seek to quash with repression and terror. In Sexual Utopia in Power, F. Roger Devlin explores today’s sexual dystopia, with its loose morals and confused sexual roles; its soaring rates of divorce, celibacy, and childlessness; and the increasingly arbitrary and punitive attempts to regulate and police it. Devlin shows that the breakdown of monogamy results in promiscuity for the few, loneliness for the majority, and unhappiness for all.
+Zoals veel politieke revoluties begon de seksuele revolutie van de jaren 1960 met een euforisch gevoel van bevrijding. Maar wanneer utopische programma's botsen met andersdenkenden - en met de werkelijkheid zelf - is het resultaat chaos, die revolutionairen proberen te onderdrukken met onderdrukking en terreur. In *Sexual Utopia in Power* onderzoekt F. Roger Devlin de hedendaagse seksuele dystopie, met haar losse moraal en verwarde seksuele rollen; haar stijgende percentage echtscheidingen, celibaat en kinderloosheid; en de steeds willekeuriger en bestraffender pogingen om dit te reguleren en te controleren. Devlin laat zien dat de ineenstorting van monogamie resulteert in promiscuïteit voor enkelen, eenzaamheid voor de meerderheid en ongeluk voor iedereen.
 
-Every revolution gives rise to a reaction. Devlin, however, is very critical of mainstream conservative responses to the sexual revolution, which often eerily echo feminist complaints about innocent women being preyed upon by wicked men who must be scolded and punished. The most controversial aspect of Devlin’s work is his argument that today’s sexual dystopia is rooted just as much in women’s nature as men’s, exploring such taboo topics as female hypergamy (mating up), narcissism, infidelity, deceptiveness, and masochism. By showing their biological basis, F. Roger Devlin offers a non-traditional defense of traditional sexual morals and institutions and shows us the way out of today’s sexual dystopia.
+Elke revolutie leidt tot een reactie. Devlin staat echter zeer kritisch tegenover de conservatieve reacties op de seksuele revolutie, die vaak een griezelige echo zijn van feministische klachten over onschuldige vrouwen die worden uitgebuit door slechte mannen die uitgescholden en gestraft moeten worden. Het meest controversiële aspect van Devlins werk is zijn argument dat de huidige seksuele dystopie net zo goed geworteld is in de natuur van vrouwen als in die van mannen, waarbij hij taboeonderwerpen onderzoekt als vrouwelijke hypergamie (paren), narcisme, ontrouw, bedrieglijkheid en masochisme. Door hun biologische basis te laten zien, biedt F. Roger Devlin een niet-traditionele verdediging van de traditionele seksuele moraal en instellingen en toont ons de weg uit de huidige seksuele dystopie.
