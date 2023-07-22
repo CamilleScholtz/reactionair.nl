@@ -27,19 +27,19 @@
 			<div class="articles">
 				{{ partialCached "articles/small.html" (dict
 					"context" (index $articles 3)
-				) (index $articles 3).Params.title }}
+				) (index $articles 3).File.BaseFileName }}
 
 				{{ partialCached "articles/small.html" (dict
 					"context" (index $articles 4)
-				) (index $articles 4).Params.title }}
+				) (index $articles 4).File.BaseFileName }}
 
 				{{ partialCached "articles/small.html" (dict
 					"context" (index $articles 5)
-				) (index $articles 5).Params.title }}
+				) (index $articles 5).File.BaseFileName }}
 
 				{{ partialCached "articles/small.html" (dict
 					"context" (index $articles 6)
-				) (index $articles 6).Params.title }}
+				) (index $articles 6).File.BaseFileName }}
 			</div>
 		</section>
 	</section>
@@ -53,9 +53,9 @@
 
 			<span class="pipe">•</span>
 
-<!-- 			<a href="/winkel/">Winkel</a>
+			<a href="/winkel/">Winkel</a>
 			
-			<span class="pipe">•</span> -->
+			<span class="pipe">•</span>
 			
 			<a href="/artikelen/wie-zijn-wij/">Wie zijn wij?</a>
 		</div>

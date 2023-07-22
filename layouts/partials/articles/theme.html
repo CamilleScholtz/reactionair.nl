@@ -27,5 +27,5 @@
 	{{ partialCached "articles/large.html" (dict
 		"context"   $featured
 		"lazy"      true
-	) $featured.Params.title }}
+	) $featured.File.BaseFileName }}
 </div>

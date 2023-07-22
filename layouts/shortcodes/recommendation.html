@@ -4,5 +4,5 @@
 	{{ partialCached "recommendation.html" (dict
 		"context" .
 		"book"    $book
-	) $book.Params.title }}
+	) $book.File.BaseFileName }}
 </section>
