@@ -128,3 +128,13 @@ export const edit = (main, header, shipping) => {
 		});
 	});
 }
+
+export const thanks = (header, main) => {
+	const page = main.querySelector(".thank-you");
+	if (page === null) {
+		return;
+	}
+
+	localStorage.setItem("cart", JSON.stringify([]));
+	total(header, []);
+}

@@ -1,5 +1,5 @@
 import * as params from "@params";
-import { edit, overview } from "./modules/shop/cart.js";
+import { edit, overview, thanks } from "./modules/shop/cart.js";
 import { address, checkout } from "./modules/shop/checkout.js";
 import { total } from "./modules/shop/header.js";
 
@@ -12,6 +12,7 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	total(header, cart);
 	address(main);
 	checkout(main);
+	thanks(header, main);
 
 	fetch(params.api+"/api/shop/shipping", {
 		method: "GET",
