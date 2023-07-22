@@ -77,3 +77,6 @@ ignoreErrors = ["error-remote-getjson"]
 	taxonomy = ["HTML", "RSS"]
 	term     = ["HTML", "RSS"]
 	page     = ["HTML"]
+
+[build]
+	noJSConfigInAssets = false
