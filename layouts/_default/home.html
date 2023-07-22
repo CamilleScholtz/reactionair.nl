@@ -27,19 +27,19 @@
 			<div class="articles">
 				{{ partialCached "articles/small.html" (dict
 					"context" (index $articles 3)
-				) (index $articles 3).File.BaseFileName }}
+				) (index $articles 3).File.ContentBaseName }}
 
 				{{ partialCached "articles/small.html" (dict
 					"context" (index $articles 4)
-				) (index $articles 4).File.BaseFileName }}
+				) (index $articles 4).File.ContentBaseName }}
 
 				{{ partialCached "articles/small.html" (dict
 					"context" (index $articles 5)
-				) (index $articles 5).File.BaseFileName }}
+				) (index $articles 5).File.ContentBaseName }}
 
 				{{ partialCached "articles/small.html" (dict
 					"context" (index $articles 6)
-				) (index $articles 6).File.BaseFileName }}
+				) (index $articles 6).File.ContentBaseName }}
 			</div>
 		</section>
 	</section>
