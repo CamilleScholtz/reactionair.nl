@@ -15,13 +15,12 @@ cleanDestinationDir        = true
 ignoreErrors = ["error-remote-getjson"]
 
 [params]
-	rev = "922"
+	rev = "930"
 	api = "https://admin.reactionair.nl"
 
 [taxonomies]
 	author    = "authors"
 	theme     = "themes"
-	shop      = "shop"
 	publisher = "publishers"
 	language  = "languages"
 
@@ -31,7 +30,6 @@ ignoreErrors = ["error-remote-getjson"]
 		shop     = "/winkel/producten/:slug/"
 	[permalinks.section]
 		articles   = "/artikelen/"
-		newsletter = "/nieuwsbrief/"
 		shop       = "/winkel/"
 	[permalinks.term]
 		authors    = "/auteurs/:slug/"
@@ -41,7 +39,6 @@ ignoreErrors = ["error-remote-getjson"]
 	[permalinks.taxonomy]
 		authors    = "/auteurs/"
 		themes     = "/themas/"
-		shop       = "/winkel/"
 		publishers = "/winkel/uitgeverij/"
 		languages  = "/winkel/taal/"
 
@@ -76,7 +73,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 [outputs]
 	home     = ["HTML", "JSON", "RSS"]
-	section  = ["RSS"]
+	section  = ["HTML", "RSS"]
 	taxonomy = ["HTML", "RSS"]
 	term     = ["HTML", "RSS"]
 	page     = ["HTML"]

@@ -7,7 +7,7 @@
 		{{ end }}	
 	</div>
 
-	{{ $paginator := .Paginate .RegularPages }}
+	{{ $paginator := .Paginate (where .RegularPages "Type" "eq" "articles") }}
 
 	<section>	
 		<div id="articles">
