@@ -12,6 +12,7 @@ front: d11b70a8-50cb-4949-b83d-dc37e31a13a7.jpg
 tags:
     - 'Julius Evola'
     - Traditie
+pretty: true
 ---
 
 *The Bow and the Club* is in veel opzichten het hoogtepunt van een uitzonderlijk leven van diepe studie, meditatie en ervaring. Dit boek, voor het eerst gepubliceerd in 1968 door de Traditionalistische filosoof Julius Evola, bevat de laatste en meest geconcentreerde uitspraken van de auteur over enkele van de grote thema's van zijn carrière en moet zowel door de student van Evola als door de nieuwkomer in zijn ideeën worden beschouwd als een onmisbaar werk van de hand van een van de diepzinnigste en meest uitdagende denkers van onze tijd.

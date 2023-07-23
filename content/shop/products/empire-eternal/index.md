@@ -13,6 +13,7 @@ subtitle: 'In Defense of Imperialism'
 tags:
     - Kolonialisme
 back: back.jpg
+pretty: true
 ---
 
 "De mannen die deze grote beschavingen hebben gesticht zijn al lang dood, maar hun bloed leeft nog steeds in ons. Wij zijn geroepen om te veroveren. Ons tijdperk, zoals elk ander tijdperk, is een oorlog van allen tegen allen voor de overheersing van de ruimte."

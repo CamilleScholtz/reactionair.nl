@@ -14,6 +14,7 @@ tags:
     - Faust
     - Kunst
     - 'Oswald Spengler'
+pretty: true
 ---
 
 Het eerste deel van *The Decline of the West* van Oswald Spengler is een klassieke mijlpaal in de annalen van de geschiedschrijving. Het is echter geen geschiedenisboek in de traditionele zin van het vertellen van gebeurtenissen in chronologische volgorde. In plaats daarvan probeert het de mechanismen uit te leggen die de verschillende culturen beïnvloeden. Terwijl de klassieke cultuur geen notie had van het verleden of de toekomst en alleen gefixeerd was op het heden, is de westerse cultuur gericht op zowel het verleden als herinnering en de toekomst als onoverwonnen gebied.

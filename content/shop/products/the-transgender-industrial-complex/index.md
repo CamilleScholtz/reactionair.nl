@@ -15,6 +15,7 @@ tags:
     - Transgenderisme
     - Woke
 back: a56ee8e6-5621-4952-a927-4d10ca4aa1d7.webp
+pretty: true
 ---
 
 In zijn debuutboek stelt de Nebraskan-auteur Scott Howard de actoren bloot die de institutionalisering van transgenderisme financieren. Achter het medisch onderzoek naar geslachtsverandering van kinderen, alomtegenwoordige *pride-parades* en *Drag Queen Story Hours* gaat veel geld schuil. Seksuele voorlichting, de homoseksuele en feministische voorloperprojecten en de wereldwijde propaganda worden allemaal gepusht en betaald door zeer rijke en goed verbonden mensen met een motief en een wil. Howard laat zien dat het transgenderfenomeen verre van de 'basisbeweging' is, zoals sommigen van zijn voorstanders het publiek willen doen geloven.

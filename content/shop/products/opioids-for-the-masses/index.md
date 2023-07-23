@@ -12,6 +12,7 @@ date: '2022-01-01'
 languages: Engels
 front: front.jpg
 back: back.jpg
+pretty: true
 ---
 
 Wanneer wordt een crisis een misdaad?

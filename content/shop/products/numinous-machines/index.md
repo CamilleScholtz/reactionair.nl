@@ -16,6 +16,7 @@ tags:
     - 'Jacques Derrida'
     - Kunst
     - 'Oswald Spengler'
+pretty: true
 ---
 
 Rudolf Otto bedacht de term numineus om te verwijzen naar de oerervaring van het heilige. Als het wordt gevangen en gearticuleerd, is het numineuze de basis van religie en cultuur. Maar waar vinden we in onze tijd van religieus ongeloof en cultureel verval de numineuze bronnen van spirituele en culturele vernieuwing? Volgens Christopher Pankhurst's Numinous Machines is het antwoord overal om ons heen - in de marge en zelfs in het afval van de moderne cultuur - als we maar ogen hebben om te zien.

@@ -13,6 +13,7 @@ subtitle: ' From Jacobinism to the United Nations'
 tags:
     - Liberalisme
 back: 9a262d9f-15d3-4692-b540-1993bf8861df.webp
+pretty: true
 ---
 
 In *The Tyranny of Human Rights: From Jacobinism to the United Nations* onderzoekt Bolton de manier waarop 'Verlichting'-doctrines vorm gaven aan het liberalisme en de bloedige nakomelingen van het jacobinisme en het bolsjewisme. Bolton toont aan dat de onvermijdelijke gevolgen van deze doctrines, die gebaseerd zijn op de misvatting van universele gelijkheid, de noodzaak zijn van steeds draconischere wetten, alomtegenwoordige indoctrinatie en, waar deze onvoldoende zijn, "kleurenrevolutie" en oorlog. Net als de Jacobijnse doctrine van 'vrijheid, gelijkheid, broederschap', zijn deze maatregelen, genomen in naam van 'mensenrechten', 'gelijkheid' en 'sociale rechtvaardigheid' grotendeels gericht op de vernietiging van Europese volkeren. Het uiteindelijke doel achter de humanitaire façade is een wereldstaat waar mensen, middelen, technologie en kapitaal kunnen worden verplaatst zonder enige belemmering van natiestaten, rassen, culturen en zelfs families.

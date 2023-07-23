@@ -13,6 +13,7 @@ subtitle: 'A Traditional Conservative Case for an Alternative Society'
 tags:
     - Christendom
     - Liberalisme
+pretty: true
 ---
 
 Met een gezonde mix van gezond verstand en scherpzinnige gematigdheid reconstrueert *Political Justice* de klassieke filosofie door middel van een directe dialoog met het moderne liberalisme, waarbij de drogredenen en dwaasheden van het laatste steen voor steen worden ontmanteld, zelfs terwijl de principes van een rechtvaardige politieke orde worden herontdekt. Zonder ons meest gekoesterde en diepere erfgoed te verwaarlozen, noch het beste van het klassieke liberalisme, leidt A. J. Illingworth de lezer stap voor stap door een helder onderzoek naar de politieke en sociale structuur die juist is voor Europese volkeren, culminerend in een visie van een samenleving die in staat is om ons zowel te verzekeren van onze vrijheden als ons aan te moedigen in onze deugdzaamheid.

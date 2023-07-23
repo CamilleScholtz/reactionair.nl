@@ -13,6 +13,7 @@ subtitle: 'Een Archeo-Futuristische Aftelling in Vijftien Opstellen'
 tags:
     - 'Alexander Wolfheze'
     - 'Carl Schmitt'
+pretty: true
 ---
 
 *De Zwarte Poolster* biedt een Archeo-Futuristische diagnose van de zich steeds duidelijker aftekenende Val van het Westen. Van ‘groot naar klein’ telt De Zwarte Poolster af van de recente mondiale crises en de globale geopolitiek, via sociaal-antropologische deel-analyses en meta-politieke strategie-overwegingen, naar detail-inzicht in collectieve psycho-sociale trauma’s.

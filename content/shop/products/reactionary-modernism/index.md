@@ -14,6 +14,7 @@ tags:
     - Kunst
     - Traditie
 back: 2fc258d5-7ade-44c0-8861-62b69066bf56.jpg
+pretty: true
 ---
 
 Sinds de Tweede Wereldoorlog wordt "modernisme" in de kunsten overwegend geassocieerd met cultureel en politiek links. Maar voor de oorlog was er een heftig debat tussen rechts en links modernisme.

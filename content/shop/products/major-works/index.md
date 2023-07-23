@@ -15,6 +15,7 @@ tags:
     - 'Joseph de Maistre'
     - Reactionair
 back: 94646d7b-d4b9-4cdf-b883-e13f6b8438f4.jpg
+pretty: true
 ---
 
 Joseph de Maistre is een van de grootste reactionaire denkers en in dit deel zijn drie van zijn belangrijkste werken onverkort samengebracht.

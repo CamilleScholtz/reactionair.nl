@@ -13,6 +13,7 @@ tags:
     - 'Karl Marx'
     - Marxisme
 back: efd26299-9d53-474e-a265-ebad019a2ba0.webp
+pretty: true
 ---
 
 Giovanni Gentile wordt algemeen erkend als de fundamentele filosoof van het Italiaanse fascisme. Hij werkte zowel in de academische wereld als bij de overheid en droeg bij aan de vorming van de Italiaanse bedrijfsstaat en het onderwijssysteem onder Benito Mussolini. Gentile bleef schrijven en bijdragen aan de Italiaanse fascistische staat tot aan zijn moord door de Italiaanse Communistische Partij in 1944.

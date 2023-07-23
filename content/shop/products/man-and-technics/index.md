@@ -12,6 +12,7 @@ front: 67d65dd3-213e-45cf-9a8f-e60b3b4255b5.jpg
 tags:
     - 'Oswald Spengler'
     - Technologie
+pretty: true
 ---
 
 In deze nieuwe en herziene editie van de klassieker van Oswald Spengler, *Man and Technics*, doet Spengler een aantal voorspellingen die vandaag de dag, meer dan tachtig jaar nadat het boek voor het eerst werd gepubliceerd, opmerkelijk accuraat blijken te zijn. Spengler voorspelde dat industrialisatie zou leiden tot ernstige milieuproblemen en dat talloze soorten zouden uitsterven. Hij voorspelde ook dat arbeiders uit derdewereldlanden steeds meer zouden concurreren met Westerse arbeiders door hetzelfde werk te doen voor veel lagere lonen, en dat de industriële productie zich daarom zou verplaatsen naar andere delen van de wereld, zoals Oost-Azië, India en Zuid-Amerika. 

@@ -15,6 +15,7 @@ tags:
     - Kunst
     - 'Oswald Spengler'
 back: af243985-056c-4af8-b505-864f59279279.jpg
+pretty: true
 ---
 
 In het tweede en meer controversiële, zij het optimistische deel van *The Decline of the West* behandelt Oswald Spengler de wereldhistorische perspectieven van zijn vergelijkende culturele morfologie. De periodieke rust rond de constante en eeuwig terugkerende bewegingen, beschreven in het eerste deel, is voorbij. Spengler ontwikkelt zijn theorie van het "Caesarisme" - een neiging tot dictatuur die eigen is aan de massademocratie.

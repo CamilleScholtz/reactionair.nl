@@ -11,6 +11,7 @@ languages: Engels
 front: 1c424504-4d8e-4bc1-b6a5-d907078cd661.jpg
 tags:
     - Amerika
+pretty: true
 ---
 
 Na het doelwit te zijn geworden van de federale regering in de nasleep van de gebeurtenissen op 6 januari 2021, verdiept de auteur van *The American Regime* zich in de studie van geschiedenis, filosofie en politiek om de unieke vraag van onze tijd te beantwoorden: wat is precies de aard van het kwaad dat nu openlijk heerst over Amerika en, via het Amerikaanse imperium, over de bredere wereld?

@@ -14,6 +14,7 @@ tags:
     - Communisme
     - Hongarije
 back: 37518051-357a-4726-8570-b6917f9107dc.jpg
+pretty: true
 ---
 
 Onder het motto van "LEVE DE DICTATORSHIP VAN HET PROLETARIAT!" hield de Hongaarse Sovjetrepubliek, die op de avond van 21 maart 1919 werd gevormd, het slechts 133 dagen uit. Het geweld en de intensiteit van de Rode Terreur in Hongarije deden niet onder voor die in Sovjet-Rusland. De littekens van de massa-executies van rechtse dissidenten, de vernietiging van de moraal in het onderwijs en de ontheiliging van heilige plaatsen zijn vandaag de dag nog steeds voelbaar.

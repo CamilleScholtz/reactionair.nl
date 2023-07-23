@@ -12,6 +12,7 @@ front: c9814e2e-792d-45dc-9ee0-6513eda8628a.jpg
 tags:
     - 'Julius Evola'
     - Metafysica
+pretty: true
 ---
 
 *Metaphysics of Power* is een verzameling van Julius Evola's krachtig beargumenteerde artikelen, georganiseerd in gebieden die van essentieel belang zijn voor Evola's denken: de staat, onderwijs, familie, vrijheid & plicht, monarchie, keizerrijk, moderne samenleving en aristocratie.

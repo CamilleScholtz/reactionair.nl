@@ -10,6 +10,7 @@ date: '2022-07-31'
 languages: Engels
 front: ad420329-0365-4cb5-9da0-d618ba50d897.jpg
 back: 711d246e-d9e1-472f-827e-452aefee9e6e.jpg
+pretty: true
 ---
 
 De afgelopen twee jaar, sinds het begin van de pandemie van het coronavirus, is ons verteld dat onze oude manier van leven dood en voorbij is. Er is geen terugkeer naar hoe het vroeger was. In plaats daarvan moeten we een 'nieuw normaal' omarmen waarin elk aspect van ons leven wordt getransformeerd - de manier waarop we leven, eten en werken, en de manier waarop we worden bestuurd, niet alleen door de staat, maar ook door bedrijven. Dit is de Great Reset. En de basis van dit plan is een revolutie in voedsel.

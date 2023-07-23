@@ -13,6 +13,7 @@ subtitle: 'Or the Redemption of the Divine'
 tags:
     - 'Friedrich Nietzsche'
 back: 8a812bad-b674-4a1a-822f-dfb450579f27.jpg
+pretty: true
 ---
 
 Moest Prometheus zich eerst voorstellen dat hij het licht had gestolen en ervoor betalen voordat hij uiteindelijk kon ontdekken dat hij het licht had geschapen door naar licht te verlangen, en dat niet alleen de mens maar ook God het werk van zijn eigen handen was en klei in zijn handen was geweest?" - Friedrich Nietzsche

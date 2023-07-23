@@ -10,6 +10,7 @@ date: '2022-02-25'
 languages: Engels
 front: 6bb5353f-7589-4ede-8268-cfe6bf3cf7ad.jpg
 back: c3e4f3ad-7ec1-489b-8d47-cbcf2ee36cc2.jpg
+pretty: true
 ---
 
 Friedrich List is de vader van het economisch nationalisme en de historische economische school. Als reactie op Adam Smiths apologetiek van de vrije markt biedt List in *The National System of Political Economy* een theoretische basis voor staatsinterventie in de economie. Maar hij doet veel meer dan dit - als onderdeel van een bredere trend in het Europese denken bevestigt List het primaat van de geschiedenis bij het ontwikkelen van ons wereldbeeld. *The National System of Political Economy* begint niet met theorie, maar met geschiedenis. Zo laat List zien dat de opkomst van Engeland als handelsmacht niet werd bevorderd door vrije markten maar door protectionisme, waarbij hij zijn theorie ontleent aan historische feiten in plaats van andersom.

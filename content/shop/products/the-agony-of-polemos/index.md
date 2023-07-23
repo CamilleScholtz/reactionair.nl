@@ -10,6 +10,7 @@ date: '2022-10-07'
 languages: Engels
 front: 0186346d-f825-4652-99eb-e6ef7ff873c7.webp
 back: 3653b45e-676f-4274-b531-ff1391115604.webp
+pretty: true
 ---
 
 De oude mens leefde zijn leven in de voortdurende schaduw van geweld en oorlog, maar hij zag dit niet als een reden voor angst en rouw. Integendeel, deze voortdurende strijd werd ooit met vreugde en ontzag bekeken, vooral door de Indo-Europese beschavingen, de meesters van de oorlog, en in het bijzonder de Grieken. 

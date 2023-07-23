@@ -10,6 +10,7 @@ date: '2022-11-30'
 languages: Engels
 front: d3ee0997-4161-48a2-964b-496d47acbd80.jpg
 back: 3fbdbb90-fd83-40d7-99ad-bb2ccaa033ea.jpg
+pretty: true
 ---
 
 Op 15 augustus 2021 ging de natie Afghanistan van het westen terug naar het oosten. Op die dag heroverde de zegevierende Taliban-opstand de stad Kabul na twintig jaar Amerikaanse bezetting. De door de NAVO gesteunde regering was binnen enkele dagen ingestort. Tienduizenden mensen vluchtten naar de stad om te vluchten. En daar in Kabul was een tot dan toe onbekende Britse universiteitsstudent die van zijn vakantie genoot, plotseling verstrikt in de geschiedenis. 
