@@ -100,7 +100,9 @@ export const search = (header, mobile) => {
 
 		if (input.style.transform === "rotateY(90deg)") {
 			if (!fetched) {
-				fetch("/index.json")
+				const section = window.location.pathname.split("/")[1];
+
+				fetch(section == "winkel" ? "/winkel/index.json" : "/index.json")
 					.then((response) => response.json())
 					.then((data) => {
 						mini.addAll(data);

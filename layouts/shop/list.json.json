@@ -1,0 +1,18 @@
+{{ $.Scratch.Add "index" slice }}
+
+{{ range $i, $_ := .RegularPages }}
+	{{ with .Params.layout }}
+		{{ continue }}
+	{{ end }}
+
+	{{ $.Scratch.Add "index" (dict
+		"id"        $i
+		"title"     (.Params.title | plainify)
+		"subtitle"  (.Params.subtitle | plainify)
+		"authors"   .Params.writers
+		"content"   .Plain
+		"permalink" .RelPermalink
+	) }}
+{{ end }}
+
+{{ $.Scratch.Get "index" | jsonify }}

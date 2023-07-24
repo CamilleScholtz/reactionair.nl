@@ -9,8 +9,8 @@
 
 	{{ $.Scratch.Add "index" (dict
 		"id"        $i
-		"subtitle"  "Boek in de Reactionair.nl winkel"
 		"title"     (.Params.title | plainify)
+		"subtitle"  "Boek in de Reactionair.nl winkel"
 		"authors"   .Params.writers
 		"content"   .Plain
 		"permalink" .RelPermalink
