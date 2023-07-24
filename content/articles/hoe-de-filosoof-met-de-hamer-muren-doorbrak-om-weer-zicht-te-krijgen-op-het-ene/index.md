@@ -43,6 +43,8 @@ Ik heb gehoord dat je van recursie hield, hond, daarom ga ik mijn gewaardeerde c
 
 Hoe zijn we van het Oneindige Ene gekomen tot de dolle kermis van begripsverwarring waar onder boven lijkt en boven onder die de filosofie ons voorschotelt? Waar komen die muren die Nietzsche zo graag met zijn hamer te lijf wilde gaan vandaan? Die hele talige wirwar waar we zo makkelijk in verdwalen, als een vlieg die niet begrijpt dat hij niet door het glas naar buiten kan vliegen, waar Wittgenstein ons zo graag de weg uit wil wijzen,[^7] zoals Ariadne Theseus de weg wees uit het labyrinth, hoe is dat gebouwd?
 
+{{< advert >}}
+
 De muren van het doolhof zijn gemetseld met een mes. Iets definiëren oftewel een naam geven (dit is hoe Adam de dieren getemd heeft)[^8] is als een snee in het Ene. Je definieert iets altijd als tegengesteld aan al het andere, waar het eigenlijk altijd al Een mee was voordat het gedoopt werd met een snee. Dag tegenover nacht, man tegenover vrouw, zee tegenover berg. Mes en hamer (of dynamiet, als je wat minder fijnzinnig te werk wil gaan) openbaren zich zo als twee tegengestelde, doch complementaire werktuigen van de taaltovenarij.
 
 

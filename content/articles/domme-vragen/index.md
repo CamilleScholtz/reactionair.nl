@@ -42,6 +42,8 @@ Waarom zoekt men deze sensatie op? Waarom geraken sommigen verslaafd aan de verw
 
 Voor Descartes is de filosofie in essentie een praktische onderneming: men gaat op zoek naar kennis, om uiteindelijk betere keuzes te kunnen maken. Het denken moet ons helpen ons leven beter te leiden, en het doel van de filosofie is niets anders dan wijsheid; de liefde voor de waarheid, maar ook het voornemen om zoveel mogelijk _te leven_ naar deze waarheid. 
 
+{{< advert >}}
+
 Nu, leven naar de waarheid vooronderstelt dat men iets als waar aanneemt. Men moet kennis hebben, om op basis hiervan te handelen. Maar, natuurlijk, is onze kennis nooit uitputtend. We kunnen denken dat we iets weten, maar eigenlijk fout zijn. Met de vrijheid om keuzes te maken, komt ook de vrijheid om foute keuzes te maken. En filosofie als wijsheid is dus een continu veranderend proces. We denken, handelen, en passen onze handelingen continu aan in het licht van nieuwe indrukken en begane fouten.
 
 De eindeloos verwonderden echter willen dit niet accepteren, en stellen liever het handelen uit. Als onze kennis niet absoluut is, en we dus geneigd zijn fouten te maken, dan kunnen we beter niet meer handelen, en onze tijd spenderen door tot op het bot te graven. Misschien kunnen we dan, na een lang proces van vragen, eindelijk handelen. De verwonderden zijn zoals Dostojevski’s man uit het ondergrondse; eindeloos alles problematiserend, elke vaste overtuiging van waaruit men kan handelen in vraag stellend, om zo uiteindelijk nooit te handelen. Alles is het waard om in vraag te stellen, niets is het waard om als basis voor het handelen te dienen. Zoals een echte man uit het ondergrondse, horen we de vragers en verwonderden spreken:

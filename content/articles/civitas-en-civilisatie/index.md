@@ -35,6 +35,8 @@ Athene werd bestuurd door de *Eupatridai* (letterlijk: uit goede vaders geborene
 
 Maar veel steden uit de antieke oudheid en nog meer in de moderne tijd zijn verstoken van de geest van civilisatie. Geen deugdzame leiders en daarom geen deugdzaam volk. Hele naties moeten het zonder civitas stellen en hebben geen echte steden. Stedelijke huisvesting verwordt tot slavenvertrekken voor het mondiale financiële grootkapitaal.
 
+{{< advert >}}
+
 We kennen allemaal de beelden uit China van het peutertje dat wordt aangereden door een vrachtwagen en  vervolgens uren hulpeloos op straat ligt zonder dat iemand een vinger naar het kind uitsteekt.[^2] Is dat hoe civitas eruit ziet?
 
 Bronze age pervert zegt dat China nooit het niveau van civilisatie heeft bereikt.[^3] Ik weet onvoldoende over de geschiedenis van China om een definitief oordeel te vellen, maar het heeft er inderdaad de schijn van dat de westerse eerbied voor menselijk leven en individuele prestaties geen opgeld doet in het centrale koninkrijk. Bronze age pervert heeft gelijk dat om de zoveel eeuwen een zuivering plaatsvindt waarbij miljoenen om het leven komen, waarna mensen weer gaan vissen en boeren alsof er niets is gebeurd. Is oriëntaals leven niet meer dan een gehaktmolen om een nationaal *egregoor* te voeden?[^4] Droomt de gewone man van de glorie van zijn stad? Opnieuw kan ik hier niet over oordelen, maar het heeft er wel de schijn van. Urbanisme-als-slavenhouderij lijkt op te gaan voor het leeuwendeel van Afrika en Azië. Europa en Amerika in het bijzonder hadden daarentegen geweldige civitas in hun mannen tot ongeveer een eeuw geleden. Heden ten dage is het nagenoeg verdwenen.

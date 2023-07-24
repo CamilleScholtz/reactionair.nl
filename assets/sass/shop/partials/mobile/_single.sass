@@ -1,23 +1,38 @@
 #hero
-	height: unset !important
 	grid-template-rows: calc(100svh - 81px - 56px - 100px) 100px max-content !important
 	grid-gap: 0px !important
 	margin-left: -20px
+	margin-top: -40px
 
-	.shop-title-container
+	.background
+		height: calc(150vh - 81px - 56px)
+		margin-top: -25vh
+
+	.book-container
+		margin-top: -30px
+
+	.title-container
+		margin: 0 auto
 		margin-bottom: 15px
 		margin-top: 40px
+		max-width: 80vw
 
-		.shop-title
-			font-size: 34px !important
-			line-height: 34px !important
+		h1
+			font-size: 34px
+			line-height: 34px
 			margin: 0 auto
+			margin-top: -60px
 			max-width: 80vw
+			text-shadow: 0 10px 40px var(--background-color)
 
-		.shop-quote
-			font-size: 150px !important
-			margin-left: 10% !important
-			margin-top: -105px !important
+		h2
+			font-size: 26px
+
+		.quote
+			display: block
+			font-size: 150px
+			margin-left: 10%
+			margin-top: -105px
 
 	.cart-form-container
 		border-top: 1px dashed var(--border-color)

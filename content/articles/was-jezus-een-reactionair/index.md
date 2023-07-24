@@ -40,6 +40,8 @@ Het Tweede Tempel Jodendom werd gekenmerkt door een fanatieke strijd tussen de m
 
 In 191 v. Chr. hielden ze op de hogepriester als het hoofd van het Sanhedrin te erkennen, omdat zijn leiderschap in hun ogen niet langer voldeed. Ze vervingen hem door de Nasi, de facto grootvizier van het Sanhedrin. De Nasi werd belangrijker dan de hogepriester; de nieuwe verdediger van de orthodoxie. Een ononderbroken lijn van Nasi gaf de traditie door.
 
+{{< advert >}}
+
 De Sadduceeën waren hun grote tegenstanders. Zij genoten steun onder een groot deel van de priesterlijke elite, de aristocratie en de rijke handelaren. Hun nationalisme was seculier. Ze wilden de meer rationalistische tradities van de Grieken overnemen. De Chasideeën speelden een beslissende rol in de opstand van de Makkabeeën die de Griekse onderdrukkers verjoegen uit Judea, onder leiding van de Hasmoneeën. Ze reinigden de tempel en voerden een culturele contrarevolutie uit. Dat werd elk jaar gevierd met Chanoeka.[^4] 
 
 De latere Hasmoneeën omarmden echter niet hen, maar de Sadduceeën, en vervolgden juist de traditionalistische groepen. Het hogepriesterschap werd volledig overgenomen door deze Sadduceeën en de Chasideeën raakten er nog verder van verwijderd.[^5] 

@@ -20,6 +20,8 @@ Terwijl de meeste politici hun focus leggen op economie, infrastructuur en socia
 
 Caroline's ambitieuze project omvat het creëren van zogenaamde "anime-ervaringen". Ze wil technologie, virtual reality en augmented reality samenbrengen om mensen onder te dompelen in de betoverende werelden die ze kennen uit hun favoriete anime-series. Stel je voor dat je zij aan zij staat met je geliefde anime-personages, deelneemt aan epische gevechten en adembenemende avonturen beleeft, allemaal in de echte wereld.
 
+{{< advert >}}
+
 Om haar visie te verwezenlijken, beseft Caroline dat ze de positie van premier moet bekleden. Ze gelooft dat haar politieke macht en invloed haar de middelen zullen geven om de nodige technologische ontwikkelingen te stimuleren en samenwerkingen aan te gaan met experts uit de anime- en gaming-industrie. Ze wil Nederland transformeren tot een internationaal epicentrum voor anime-ervaringen, waar fans van over de hele wereld samenkomen om hun favoriete werelden tot leven te zien komen.
 
 Hoewel sommigen sceptisch zijn over haar ambitieuze plannen, laat Caroline zich niet weerhouden. Ze is vastbesloten om de verbeelding van mensen te prikkelen, hen te betoveren met de schoonheid van anime en hen te laten geloven dat dromen werkelijkheid kunnen worden. Haar vastberadenheid om anime werkelijkheid te maken en premier te worden, is een unieke en gedurfde stap in de politieke arena.

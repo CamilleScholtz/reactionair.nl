@@ -37,6 +37,8 @@ Leddihn beargumenteerde in detail waarom het nazisme links was. Het volgt de Fra
 
 Alhoewel hij geen moeite had zichzelf de labels reactionair, extreem conservatief en extreemrechts te geven, beschreef hij zichzelf (zoals eerder genoemd) ook als liberaal.[^3] Hij was echter geen linkse kapitalist noch een Ayn Rand fanboy; hij was voor 90% van de liberalen van zijn tijd al te reactionair. Hij bekritiseerde zelfs het oude/paleoliberalisme dat dominant was geweest vanaf 1848. Alleen het vroege liberalisme (Acton, Burke, Count Montalembert) had hij sympathie voor, maar zelfs op hen kon hij soms kritiek hebben.
 
+{{< advert >}}
+
 Waarschijnlijk de meest reactionaire liberaal aller tijden; zo bestreed hij abortus, homoseksuele praktijken en zelfs anticonceptie, verdedigde onderwijsvrijheid en het traditionele gezin. Hij wilde niet het progressivisme verdedigen tegen de islam. Hij was geen moderne individualist maar een personalist. Een traditioneel Katholiek en geen secularist. Verwierp egalitarisme en de notie van het onbeschreven blad. De enige gelijkheid is de vrije wil en dat niemand geboren wordt zonder de kans om gered te worden (geen calvinist). Zijn liberalisme zat hem vooral in de verwerping van een beestachtige kuddementaliteit, liefde voor Godgegeven vrijheid gebonden aan traditionele moraliteit en zijn wantrouwen van de moderne almachtige staat, evenals een liefde voor authentieke _diversiteit=ongelijkheid_. 
 
 

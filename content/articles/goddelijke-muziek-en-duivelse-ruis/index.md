@@ -25,6 +25,8 @@ En dus gebeurde het ruim tweeduizend jaar geleden dat behalve de instrumenten er
 
 Toen kwam de dag dat mensen op aarde soms de muziek niet langer meer konden onderscheiden van de ruis. Sommigen beweerden dat de muziek simpelweg gestopt was te spelen en dat de Grote Dirigent het had opgegeven. Of erger nog... zij die het bestaan van de Grote Dirigent ontkenden en dus Zijn muziek. Mensen die beweerden dat er niets anders was dan de ruis van het kwaad, die beweerden dat er nooit iets anders was geweest dan de ruis.
 
+{{< advert >}}
+
 De jaren verstreken en de dwalende, ruziënde mensen beneden op aarde braken zich het hoofd over hoe de muziek ooit geklonken had moeten hebben. Het kwaad, in al zijn hooghartigheid, besloot dat de tijd was aangebroken om alle mensen te knechten en hen wijs te maken dat de ruis al die tijd de muziek was geweest...
 
 Ik, ondertussen, ik was één van die mensen die nog zachtjes op de achtergrond de muziek kon horen. Hoe meer ik mezelf afzonderde van de verlokkelijke ruis, hoe beter ik de eeuwige symfonie kon horen. Maar wat kostte het me moeite. Zó veel moeite. Mijn hele bestaan en alles om mij en anderen heen was immers doordesemd van de ruis.

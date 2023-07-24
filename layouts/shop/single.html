@@ -1,5 +1,5 @@
 {{ define "main" }}
-	<div id="boekencast">
+	<div id="shop">
 		<section id="hero">
 			<div class="background"></div>
 
@@ -14,17 +14,19 @@
 				"hover"   (not (isset .Params "back"))
 			) }}
 
-			<div class="shop-title-container">
-				<h1 class="shop-title">
+			<a class="back-button" href="/winkel">‹</a>
+
+			<div class="title-container">
+				<h1>
 					{{ .Params.title }}
 				</h1>
 				{{ if isset .Params "subtitle" }}
-					<h2 class="shop-subtitle">
+					<h2>
 						{{ .Params.subtitle }}
 					</h2>
 				{{ end }}
 
-				<div class="quote shop-quote">“&nbsp;</div>
+				<div class="quote">“&nbsp;</div>
 			</div>
 
 			{{ partial "shop/cart/large.html" (dict

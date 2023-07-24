@@ -33,6 +33,8 @@ _Boomer-rechts_ doen huilie-huilie maar begrijpen niet dat hun moraal en leefwij
 
 En zolang we in de pas van Amerika blijven lopen, blijft elke vorm van kritiek op migratie hypocriet. Wij zelf creëren al die brandhaarden maar doen vervolgens moeilijk wanneer de mensen hierheen komen.
 
+{{< advert >}}
+
 Moraal van het verhaal; vaar je eigen koers als land, sticht geen onnodige brandhaarden, keer terug naar religie, dwing respect af via een sterke traditie en sterke (religieuze) waarden. _Zo_ krijg je een leidcultuur die véél natuurlijker aanvoelt voor minderheidsgroepen om op te oriënteren. Momenteel is er _niets_ om in te integreren. Wie wilt er nou eindigen als een Wierd Duk of Jan Roos??
 
 Doormiddel van herbronnen krijg je ook een sterkere gemeenschap, wat betekent meer kinderen. Zo hoef je je vervolgens ook geen zorgen te maken om deels of volledige omvolking over 100 jaar.

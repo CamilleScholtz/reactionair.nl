@@ -30,7 +30,7 @@ Zuid-Vietnam werd verraden, evenals de anticommunistische regeringen in Cambodja
 
 Terwijl wij hier druk waren met omstreden ‘aan-uit’ lockdowns, werd het democratische verzet in Hong Kong gebroken. Laten we nu echt een jarenlange bondgenoot, gedurende 80 jaar, vallen? Laten we het communisme miljoenen nieuwe slachtoffers veroorzaken?
 
-{{< boekencast >}}
+{{< advert >}}
 
 Taiwan is natuurlijk niet het meest geliefde land onder reactionairen. Alhoewel de nationalistische regering decennialang een autoritair conservatief regime vormde, legaliseerde dit regime tijdens haar laatste jaren abortus; en de democratie die volgde kent ook haar liberale elementen. Het constitutionele hof introduceerde recentelijk het homohuwelijk (alhoewel 70+% van de bevolking tegenstemde in een referendum).[^3]
 

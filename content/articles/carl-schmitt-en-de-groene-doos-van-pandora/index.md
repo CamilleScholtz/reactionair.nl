@@ -28,6 +28,8 @@ Het is verontrustend om te zien dat sommige mensen de ophef over de uitnodiging 
 
 Daarom moet de vraag gesteld worden waarom er als het om het klimaat een uitzondering van kracht is. De oorspronkelijke vraagstelling insinueert twijfel over het democratische proces. Het is niet per se gezegd dat Kröger dat standpunt inneemt, maar het systeem waar zij praktisch deel van uitmaakt, zou op dat evenement keihard in twijfel worden getrokken kunnen worden. Wanneer andere groeperingen dit zouden doen, zou dit totaal onaanvaardbaar worden geacht, maar als de wetenschappelijke consensus aan jouw kant staat, gelden er blijkbaar andere regels.
 
+{{< advert >}}
+
 In zijn werk _Der Begriff des Politischen_ uit 1932 stelt Schmitt dat degene die de uitzondering mag maken in de wetten van de liberale democratie, daadwerkelijk soeverein is. _Souverän ist wer über den ausnahmezustand entscheidet_. Wetten zouden ook moeten gelden in tijden van crisis, terwijl men hier de wet aan de kant wil gooien vanwege de klimaatcrisis. En waarom zou net deze crisis een al dan niet tijdelijke opschorting van het democratische proces rechtvaardigen en de asielcrisis, de wooncrisis of zelfs de zingevingscrisis niet?
 
 Het is ook belangrijk om te benadrukken dat wetenschappelijke feiten en overtuigingen van individuen niet hetzelfde zijn als ethische normen en waarden. Wetenschap kan helpen bij het informeren van ethische discussies, maar het is niet de enige factor die daarbij een rol speelt. Ethiek gaat over wat juist en goed is en dat kan afhangen van verschillende waarden en overtuigingen. Ook omdat de wetenschappelijke consensus zo door de tijd verandert door nieuwe informatie, zou het juist onethisch zijn jouw morele kader volledig daarvan af te laten hangen. 

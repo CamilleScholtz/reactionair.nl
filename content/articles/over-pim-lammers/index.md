@@ -23,7 +23,7 @@ De stichting Collectieve Propaganda van het Nederlandse Boek (CPNB) organiseert 
  
 Pim Lammers werd geboren op 2 oktober 1993 en studeerde politicologie en Nederlandse taal & cultuur aan de Universiteit van Amsterdam.[^1] Hij schrijft boeken voor volwassen én kinderen, en kreeg specifiek voor zijn kinderboeken tal van prijzen uitgereikt door de subsidie-gevoede biotoop van literair Nederland.[^2] Kinderen en seksualiteit vormen de rode draad in het werk van Lammers. Zo schreef hij *De boer en de dierenarts* (4+), waarin twee mannen op elkaar verliefd worden, en *Het lammetje dat een varken is* (4+), over transseksualiteit, voor kinderen.
 
-{{< newsletter >}}
+{{< advert >}}
 
 Gezien de grote hoeveelheid staatsgesteunde LHBTIQI+-propaganda die in onze basisscholen wordt uitgerold, is het niet verrassend dat men kiest voor Lammers, gelet op zijn kinderboekenoeuvre.[^3]  In april 2022 verscheen er op *Reactionair.nl* een artikel over de campagnes van het COC in het Nederlandse basisonderwijs, waarin de keuze voor de boekjes van Lammers voor Paarse Vrijdag wordt belicht.[^4] In dat artikel is te lezen:
  

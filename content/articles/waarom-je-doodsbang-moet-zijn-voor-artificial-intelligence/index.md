@@ -32,6 +32,8 @@ In zijn boek *'The Symbolic Language of Traditional Architecture'* bespreekt Ren
 
 Guénon merkt op dat intelligentie niet alleen een kwestie is van kennis verwerven, maar veeleer van het begrijpen van de ware aard der dingen. Hij schrijft: "Intelligent zijn is in staat zijn de dingen in hun ware licht te zien, en zich niet te laten misleiden door de schijn".[^2] Met andere woorden, intelligentie is het vermogen om de dingen te zien zoals ze werkelijk zijn, in plaats van misleid te worden door valse of oppervlakkige indrukken. Hij concludeert dat intelligentie een spirituele kwaliteit is, en dat het uiteindelijk "het vermogen is om de dingen te zien in het licht van het absolute".[^3] Met andere woorden, intelligentie is het vermogen om de dingen te zien vanuit een transcendent perspectief, waarin hun ware aard wordt onthuld. Dit stelt iemand in staat de ware aard van de werkelijkheid te begrijpen.
 
+{{< advert >}}
+
 Heeft AI het vermogen om dingen te zien in het licht van het absolute? Het feit dat AI zich alleen bezighoudt met het kwalitatieve principe van manifestatie betekent dat het beperkt is tot het domein van het relatieve. Met andere woorden, AI kan ons geen transcendent perspectief bieden; het kan alleen opereren binnen het domein van het relatieve. Dit betekent dat AI niet intelligent is in de ware zin van het woord; het kan de ware aard van de werkelijkheid niet begrijpen.
 
 ### Digitale ruis

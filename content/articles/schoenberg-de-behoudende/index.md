@@ -38,6 +38,8 @@ Schuldig echter, aan de werkelijke politisering van Schönberg en zijn muziek is
 
 Deze analyse is duidelijk geenszins muzikaal en plaatst muziek in dienst van een zekere marxistische dialectiek. Om Schönberg als volbloed musicus hiermede in verband te brengen doet zijn integriteit te kort. Het is daarbij noemenswaardig dat de liefde niet wederzijds was, Schönberg schreef eens over Adorno dat hij de man nooit heeft kunnen verdragen en voegde daaraan toe: “het is overigens walgelijk, hoe hij Stravinsky behandelt”.[^6]
 
+{{< advert >}}
+
 Natuurlijk kan muziek, en in het verlengde daarvan de Kunst in het algemeen, een rol spelen in de culturele beleving van mensen met een gedeelde visie op de wereld en op de maatschappij. Als we het echter puur hebben over het beschouwen van Kunst, zou de vereenzelviging van Kunst met het politieke neerkomen op de notie dat een kapitalist als hij langs een Rembrandt loopt slechts nadenkt over de monetaire waarde van het schilderij en hij met geen mogelijkheid primair onder de indruk van de hand van de meester kan zijn.
 
 Tot zover de vooroordelen; laat ons deze achter ons laten en met onze oren oordelen, gedoopt in de muziek van de grote meesters, van Bach, Mozart, Beethoven, Berlioz, Brahms, Wagner, Mahler, &c. en tot de muziek van Schönberg toetreden.

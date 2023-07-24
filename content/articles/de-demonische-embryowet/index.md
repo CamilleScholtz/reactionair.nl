@@ -39,6 +39,8 @@ Wat interessant is hieraan is dat — zoals gewoonlijk — dit voorstel om de Em
 
 De Nederlandse Gezondheidsraad pleit bijvoorbeeld voor de deregulatie van “IPS-chimaeren”[^5], wat het plaatsen van menselijke IPS-cellen in een dierlijk embryo behelst, in een poging om bijvoorbeeld menselijke organen te kweken teneinde deze voor transplantatie te kunnen gebruiken. Wie kan hier tegen zijn? Als u uw nieren verliest wilt u toch immers ook een transplantaat kunnen ontvangen?
 
+{{< advert >}}
+
 En maakt u zich geen zorgen; het zal allemaal onder streng toezicht gebeuren van de _Centrale Commissie Mensgebonden Onderzoek_ (CCMO). Wat ze echter niet vermelden, is dat het de CCMO zelf was die pleitte voor de “noodzaak” de Embryowet te wijzigen. Verder laten ze na te vermelden, wanneer ze u trachten te bedwelmen met hun mooie woorden over "vooruitgang" en het "redden van levens", dat zij om "levens te redden" eerst leven moeten creeëren, ermee moeten experimenteren om het vervolgens te verminken en vermoorden. 
 
 In deze context is het werkelijk onvoorstelbaar te noemen dat de ChristenUnie geen vinger heeft uitgestoken om dit plan tegen te gaan. Ze hebben hun handen in onschuld gewassen en de makkelijke weg gekozen door technisch gezien niet betrokken te zijn bij de wijziging van deze wet en in plaats daarvan stilletjes aan de zijlijn te blijven staan, erop vertrouwende dat de linkse oppositiepartijen voor de wetswijziging stemmen zodat deze zonder hun expliciete steun toch wordt aangenomen.

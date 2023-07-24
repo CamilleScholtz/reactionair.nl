@@ -39,6 +39,8 @@ Enerzijds kunnen we wellicht zeggen dat ook dit een masker is dat ons de blik op
 
 Een negatieve blik op anonimiteit lijkt, als we het heersende narratief mogen geloven, niet geheel uit de lucht gegrepen, en hangt samen met het feit dat de dagelijkse grenzen van onze oprechtheid niet louter als zelfbescherming fungeren, maar wellicht in gelijke mate als sociale controle, om ons tot gewenst gedrag te manen. Om deze reden wordt de mogelijkheid om in ongepaste avances, pesterijen of zelfs bedreigingen te vervallen achter de sluier van de anonimiteit dikwijls als tegenargument aangehaald als men het over anonimiteit heeft, en zij die anoniem zijn worden allen over één kam geschoren en per definitie als kwaadwillenden bestempeld.[^4]
 
+{{< advert >}}
+
 Dit is echter de onvermijdelijke keerzijde van de voordelen die anonimiteit ons biedt. Immers handelt het zich hier om dezelfde limiteringen die ook onze oprechtheid onderdrukken en ons diepe verlangen om ons in alle openheid uit te spreken verstikken. Wij moeten ons wel wapenen tegen de negatieve effecten van anonimiteit, door te waken voor heimelijke bijbedoelingen van de mensen die anonimiteit gebruiken om hun eigen belangen te dienen middels pogingen een pernicieuze invloed uit te oefenen op het discours, of door hun anonimiteit in te zetten om een bepaald gedachtegoed zwart te maken.
 
 Dit vereist een kritische blik; maar is dit niet evengoed noodzakelijk bij auteurs wier reputatie hun woorden voorgaan? Ook zij onthullen niet altijd vrijelijk hun motieven. Wellicht is juist hier een zekere scepsis ten allen tijde op zijn plaats, omdat bij voorbaat verwachtingen gewekt worden aan de hand van naam en faam over de inhoud van het werk dat voor ons ligt.

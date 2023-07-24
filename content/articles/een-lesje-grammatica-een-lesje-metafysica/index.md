@@ -33,6 +33,8 @@ Kan een object zonder subject bestaan, met andere woorden, kan een ding bestaan 
 
 Uit de kwantummechanica, die de werkelijkheid op subatomair niveau bestudeert, rijst een ander beeld op. Ik zal natuurlijk niet pretenderen dat ik hier echt verstand van heb, zelfs de knapste koppen stommelen hier maar wat rond in het duister, als blinden die een olifant betasten, maar dat de wereld zoals wij die kennen hier volkomen desintegreert, is duidelijk. Elektronen, gluonen, bosonen, fotonen, quarks, up en down en andere bewoners van deze wonderlijke dimensie worden veeleer voorgesteld als 'posities' van een 'golf'. Met dikke aanhalingstekens natuurlijk: het zijn noch posities noch een golf, maar we moeten ons nu eenmaal behelpen met lompe metaforen uit onze macrowereld. Alternatieve theorieën spreken van vibrerende snaartjes, van energievelden of van pure, onversneden wiskunde die op magische wijze tot vlees wordt.[^1]
 
+{{< advert >}}
+
 Energie, vibraties, wiskunde: we bevinden ons hier in veel ijlere sferen dan het goede oude atomisme. We kunnen hier niet meer spreken van stof, maar toch kunnen deze processen dienen als object, als voorwerp van bewustzijn. Het mysterie van het bewustzijn blijft dan staan. Het fysicalisme, de vervluchtigde vorm van atomistisch materialisme, kan nog maar één troef spelen, namelijk het bestaan van bewustzijn ontkennen. Dit wordt dan ook letterlijk gedaan door filosofen als Daniel Dennett.[^2]
 
 

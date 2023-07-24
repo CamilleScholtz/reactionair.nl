@@ -20,7 +20,7 @@ De commotie rondom Pim Lammers heeft een kookpunt bereikt, nu zelfs premier Rutt
 
 Dat de schrijver in het verleden verhalen schreef waarin pedoseksualiteit onderwerp is, zou volgens zijn verdedigers los moeten staan van eventueel schrijven van werk voor de Kinderboekenweek. Echter, gezien het feit dat het openbreken van het taboe op pedoseksualiteit past in Lammers' oeuvre dat vrijwel uitsluitend bestaat uit het ter discussie stellen van eerdere maatschappelijke normen inzake seksualiteit, zoals het openbreken van traditionele normen en taboes ten aanzien van homoseksualiteit, transseksualiteit en gender, valt het kiezen van deze schrijver door de Kinderboekenweek niet los te zien van het steeds verder uitrollen van de Paarse Vrijdag-agenda. Zo beveelt het COC bepaalde boekjes van Lammers expliciet aan voor kleuters vanaf 4 jaar.[^3] Ook wordt hij veel gevraagd als pedagoog voor lezingen en workshops over seksuele diversiteit op basisscholen.
 
-{{< newsletter >}}
+{{< advert >}}
 
 Dat dit voor ophef zou zorgen had men vooraf moeten inzien en heeft men vermoedelijk ook wel ingezien. De Stichting CPNB schrijft namelijk in haar reactie dat zij "zeer bewust heeft gekozen" voor Lammers als dichter voor de Kinderboekenweek. Dit, en de gedetailleerde verklaring over het  verhaal "Trainer", suggereert dat stichting CPNB op de hoogte was van de pedo-erotische literatuur van Lammers. Het is saillant dat de Nederlandse Taalunie, waarin de Nederlandse en Vlaamse ministers voor OCW zitten, schrijft dat zij de Stichting CPNB daarin steunen.[^4]
 

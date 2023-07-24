@@ -22,6 +22,8 @@ Hoe vaak worden zulke boetes opgelegd? Worden zulke objectiviteitseisen ook opge
 
 Je vraagt je misschien af of we in Nederland niet vrijheid van de pers als recht in de grondwet hebben opgenomen. Dan vrees ik echter dat je niet hebt opgelet op school tijdens burgerschapskunde. Altijd jammer wanneer kostbare kindertijd verspild wordt. 
 
+{{< advert >}}
+
 Ongehoord Nederland overweegt juridische stappen. Elke rechtszaak tegen totalitarisme kan ik alleen maar toejuichen maar het is wel een tikkeltje ironisch dat een omroep die nauw verbonden is met Forum voor Democratie zich moet beroepen op de (D66) rechterlijke macht omdat de rest van het systeem nog intoleranter lijkt te worden. 
 
 FvD heeft zinvolle standpunten tegen dikastocratie maar die zijn momenteel eenzijdig omdat ze nog niet een onafhankelijke constitutioneel hof steunen als balans ter versterking van de rechtsstaat; een punt waarop GO, JA21 en Omtzigt een sterkere positie hebben ingenomen.[^3]

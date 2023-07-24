@@ -31,6 +31,8 @@ Montesquieu gaf eerder al speciale aandacht aan het belang van een onafhankelijk
 
 Alhoewel de meeste moderne democratieën beweren een trias politica of scheiding der machten te hebben die gebaseerd is op de ideeën van Montesquieu, volgen meerdere democratieën in werkelijkheid een tweeledig stelsel. 
 
+{{< advert >}}
+
 De meeste zogenaamde constitutionele monarchieën hebben een parlementaire regeringsvorm. De rol van de monarch als staatshoofd is vrijwel geheel symbolisch. De uitvoerende macht ligt vrijwel geheel bij de regering, waarbij de monarch een primair symbolische rol heeft in het aanstellen van de ministers. De regering wordt uiteindelijk gekozen door een meerderheid van het parlement. Dit is zelfs zo in bepaalde republieken waar de presidentiële rol grotendeels symbolisch is, zoals in Hongarije en Estland. Dit is een parlementair systeem.
 
 In een parlementair systeem is de uitvoerende macht een kabinet van ministers dat volledig afhankelijk is van een meerderheid in het parlement, de Tweede kamer (of wetgevende macht), aangezien deze de ministers de facto aanstelt; en ook op elk moment kan ontslaan via een motie van wantrouwen.

@@ -25,6 +25,8 @@ Toen de toespraak ten einde kwam, strompelden de raadsleden de zaal uit, hun oge
 
 Ze waren van streek en angstig, hun harten zwaar van de last van de woorden van de FVD-vertegenwoordiger. Hoe kon iemand het bestaan van *gender* ontkennen? Hoe konden ze zo onverschillig en afwijzend zijn ten opzichte van de strijd die zoveel mensen dagelijks moesten doorstaan?
 
+{{< advert >}}
+
 Tranen stroomden over de gezichten van de raadsleden terwijl ze liepen, hun stappen wankel en onvast. Ze waren verdwaald, afgedreven in een zee van verwarring en verdriet.
 
 De ooit bruisende gangen van het stadhuis waren nu stil, op het zachte geluid van geween na. Het was alsof de lucht uit het gebouw was gezogen, een gevoel van verlatenheid en wanhoop achterlatend.

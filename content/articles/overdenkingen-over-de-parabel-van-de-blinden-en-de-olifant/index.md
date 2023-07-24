@@ -42,6 +42,8 @@ Laten we dit nog eens contrasteren met onze westerse waarheidsopvatting, die doo
 
 Wetenschap kan dan worden opgevat als een zoektocht naar de ultieme toverspreuk, de ultieme formule om het heelal te omvatten - en wellicht naar je hand te zetten. _F = ma_ en _E = mc²_ vallen in dezelfde rubriek als _simsalabim_ en _abracadabra_ en Newton en Einstein waren tovenaars. Maar daar de ultieme werkelijkheid steeds net buiten bereik blijft, slaan onze wetenschappers om de moed erin te houden vaak een chiliastische toon aan: de laatste decennia hebben wij zoveel vooruitgang gemaakt, dat de dag niet ver weg kan zijn dat de hele waarheid aan onze voeten ligt! Hierom wordt in het westen ook altijd gehamerd op 'het nieuwste onderzoek' in plaats van oude wijsheid.
 
+{{< advert >}}
+
 Nog iets over mijn eerdere suggestie dat de correspondentietheorie van waarheid feminien van aard is omdat ze passief-receptief is. Contrasteert dat niet scherp met voorgaande alinea's, waarin ik de waarheidsqueeste als een vergeefse maar daarom des te heroïschere onderneming beschrijf waarin de held met geweld poogt de werkelijkheid tot in de diepste diepten te penetreren met zijn waarnemingsapparaat? Zeker, maar het zoeken naar waarheid is ook het zoeken naar iets hogers om je aan te onderwerpen. Deze veroveringsdrang teneinde je te onderwerpen, oftewel deze onderwerpingsbehoefte verhuld als verovering, vertegenwoordigt de versmelting van het mannelijke en het vrouwelijke principe.
 
 Dit is dan ook de reden waarom de ultieme waarheid in de alchemie geassocieerd wordt met hermafroditisme. Ook is hedendaags transgenderisme al meer dan eens geduid als een gruwelijk ontspoord faustiaans streven.

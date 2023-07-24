@@ -25,7 +25,7 @@ Het morele failliet van de liberalisering van de zorg had aanjagers van deze pol
 
 Binnen de nieuwe partij _JA21_ hebben dit soort onderwerpen de potentie om de partij volledig te doen verscheuren in een ideologische twist tussen conservatieven en liberalen: Tweede Kamerlid Nicki Pouw laat consequent een conservatief standpunt horen, maar nu zij met zwangerschapsverlof is stemt de voltallige Tweede Kamerfractie van _JA21_ voor een progressief-liberale koers. Zij lijkt hiermee meer in de traditie van _D66_ en de _VVD_ te staan, dan partijen als de _SGP_, _FVD_ en ook _BBB_ te volgen.
 
-{{< boekencast >}}
+{{< advert >}}
 
 In de liberale samenleving en op de kapitalistische markt moet een mens vooral economisch en/of direct toepasbaar nut hebben. Het bestuderen van cultuur, traditie en hoe als mens samen te leven in een land overgegeven van generatie op generatie heeft plaats moeten maken voor de klassen vol 'communicatiestudenten'. De intelligentie van het Avondland sneuvelde met de verheffing van nietszeggende hobby's tot academische discipline. En dat enkel omdat iedereen moet kunnen studeren wat men zelf wil. Er wordt niet meer gekeken naar het belang van de samenleving en of iets wel nuttig is, maar of het individu er plezier aan beleeft.
 

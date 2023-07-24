@@ -41,6 +41,8 @@ Daar staat de dwaas, zich verwonderend over de wereld, aan het begin van een rei
 
 Er is geen wezenlijk verschil tussen de twee dwazen, ze zijn dezelfde, enkel van elkaar gescheiden door de tussenliggende reis. Maar de eerste dwaas stelt enkel vragen. Een onwetende 0, gedrenkt in de verwondering. De laatste dwaas bezit de waarheid, en eens hij die heeft, wekt geen vraag nog zijn interesse, en verstoort geen feit nog zijn rust. De laatste dwaas weet nu, dat wijsheid niet te vinden is in het eindeloze vragen, en ook niet in het verzamelen van antwoorden, maar in de kennis van wat vooraf gaat aan het vragen.
 
+{{< advert >}}
+
 De wijze dwaas kan alleen maar glimlachen richting de kinderlijke dwaas. Ooit stond hij op hetzelfde punt, en hij weet, dat geen woord de vragendorst kan lessen. De wijze weet, dat bij een overmaat aan verwondering, er niets anders op zit dan te volharden in de zoektocht, hoe dwaas deze vanuit de eeuwigheid ook moge lijken. Alle vlakten moet men doorkruisen, alle bergen moet men beklimmen. Men moet de grenzen van de ziel in kaart brengen, alvorens men de ziel kan kennen. Omwegen zijn er niet.
 
 ### III.

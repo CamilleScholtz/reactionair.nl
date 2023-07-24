@@ -27,6 +27,8 @@ PVDA-VVD gaf ons het ergste van beide werelden: hoge belastingen (voor de midden
 
 Nu lijken specifiek onze boeren aan de beurt om de lasten te dragen. De boeren echter, hebben al eerder laten zien dat ze dit niet zullen pikken. De meest intense protesten sinds decennia zetten in 2019 Nederland al op zijn kop.
 
+{{< advert >}}
+
 Gelukkig hebben de boeren nog geen geweld gepleegd, geen onschuldige familieleden van politici bedreigd, en dit moet absoluut ook zo blijven. In 2019 werd een ambulance specifiek doorgelaten tijdens een protest, iets wat de boeren onderscheidde van de gruwelen van revoluties. 
 
 Maar wat moeten boeren die in hun bestaanszekerheid -en dat van hun kinderen en kleinkinderen- worden bedreigd precies doen? Wat is een acceptabele uitkoopprijs? Voldoende geld voor bestaanszekerheid van de kinderen, kleinkinderen en achterkleinkinderen lijkt het uitgangspunt. Hoe kunnen boeren met minder akkoord gaan?

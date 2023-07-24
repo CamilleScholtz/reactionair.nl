@@ -35,6 +35,8 @@ Restaurationisme kent een fundamentalistische vorm, en een meer morele vorm. Fun
 
 Een bredere vorm van semi-restaurationisme/reactionairisme streeft naar een moreel/sociaal ethisch herstel van de samenleving en (vaak) een ongecorrumpeerd herstel van de traditionele religie; maar dit hecht minder aan specifieke staatsvormen, of andere politieke of economische tradities. Het steunt bepaalde niet onderhandelbare normen en waarden, zoals het recht op leven van ongeboren kinderen, het traditionele huwelijk en privéeigendom, en het vecht ervoor om deze te herstellen, via de politiek en soms contrarevoluties.
 
+{{< advert >}}
+
 Semi-reactionarisme beschrijft veel van de autoritaire conservatieve regimes, zoals van Dollfuss en Franco. Die herstelden traditionele moraliteit en regels. Ze draaiden actief verandering terug en hadden er geen moeite mee als ‘extreem’ gezien te worden, of geweld te gebruiken tegen marxisten en nazi’s. 
 
 Ze deelden wel met de liberalen een gebrek aan absoluut vertrouwen in Godgegeven koninklijke autoriteit. Daarom herstelden ze niet snel de monarchie, deden ze wel aan het instellen van een grondwet en zelfs een onafhankelijk rechtssysteem. Alhoewel ze kritisch waren tegen de ‘dictatuur van de meerderheid’ van Rousseau, evenals de lichtelijke afgezwakte versie met een beetje “rechtstaat” erbij die gepropageerd werd door de meeste liberalen sinds 1848, probeerden ze niet de klok volledig terug te draaien naar vóór 1789. De katholieke kerk werd weer de staatskerk, maar voor reactionairen als Kardinaal Segura werden protestanten toch te veel getolereerd.[^2] Dat waren typisch semi-reactionaire regimes.

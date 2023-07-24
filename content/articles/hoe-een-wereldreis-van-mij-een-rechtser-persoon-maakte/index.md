@@ -25,6 +25,8 @@ Nou strookte dit niet altijd met mijn persoonlijke levensovertuiging, ik was imm
 
 Ik zette me in voor dit onderwerp, pleitte op mijn werk voor meer gelijkheid en inclusie en maakte me hard voor een linkser geluid, zodat moslims, maar ook andere groepen buitenlanders zich geaccepteerd zouden voelen in Nederland en volwaardige burgers zouden worden in deze samenleving. 
 
+{{< advert >}}
+
 Als ik nu terugkijk was er natuurlijk enorm sprake van cognitieve dissonantie. Een van de weinige zaken die liberaal-rechts goed ziet is dat de Islam niet goed samengaat met de Westerse liberale overtuigingen en dat heel veel onderdelen die men schaart onder diversiteit en inclusie ook niet te verenigen zijn met de islam. Echter, het belang van het tegengaan van racisme en het strijden voor gelijkheid en het omarmen van multiculturalisme was voor mij zo belangrijk dat ik een diverser en inclusiever land slechts als iets positiefs zag.
 
 Dat diversiteit iets positiefs is daar ben ik nog steeds heilig van overtuigd. Ik ben altijd een liefhebber geweest van de mens; van de manier waarop hij leeft en van de beschavingen en de verschillende culturen die hij heeft voortgebracht en mij ontzettend interesseren. Ik vind het nog steeds prachtig om te zien hoe verschillende volkeren in de verste uithoeken van de wereld er hun compleet eigen ideeën, geschiedenis en samenlevingen op nahouden.

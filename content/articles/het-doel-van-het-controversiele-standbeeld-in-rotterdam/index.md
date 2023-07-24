@@ -45,6 +45,8 @@ Nu brengen we ons naar ons eigen land, waar we onlangs de onthulling van *Moment
 
 Nu is het duidelijk dat wanneer we de standbeelden van vroeger, van helden en belangrijke figuren, vergelijken met de *ubiquitous* — in de woorden van de kunstenaar — vrouw die een slonzige joggingbroek draagt, dit je iets vertelt. Zelfs als er geen expliciet doel is, is het beschrijvend voor hoe we vroeger dachten en hoe we nu denken. Dit is niet alleen mijn gekke idee, maar ook die van de kunstenaar, van degenen die verantwoordelijk zijn voor de aankoop van het stuk, en van "kunstcritici" ook.
 
+{{< advert >}}
+
 Zo zegt de burgemeester van Rotterdam (waar 53,7% van de inwoners ofwel eerste ofwel tweede generatie migranten zijn) Ahmed Aboutaleb "Ze is geen heldin, geen personage met een roemrucht verleden. Ze heeft de toekomst. Ze ís de toekomst. Onze toekomst." Op de pagina van het veilinghuis waar het standbeeld werd gekocht, staat in de beschrijving "Thomas J Price heeft geprobeerd de machtsstructuren die door traditionele beeldhouwkunst worden voortgebracht, te ontmantelen". Curator en kunstcriticus Wilma Sütö schreef na een gesprek met de kunstenaar een essay over het werk, citerend:
 
 >Price haalt de gewone mens naar voren, eindelijk. En zij is een vrouw, eindelijk: een zwarte vrouw. […] Wat zij uitstraalt is de kracht van het menselijk individu zonder opsmuk, zonder zich nader te hoeven identificeren of te moeten bewijzen. Daar staat ze, het standbeeld van de 21ste eeuw, en ze mag er zijn. […] Deze vrouw roept de vraag op wie wij zijn, voorbij de schone schijn. Hoe kijken we naar elkaar, met al onze aannames en vooroordelen over helden en verliezers, vrouwelijk en mannelijk, zwart en wit?[^4]

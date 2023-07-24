@@ -35,6 +35,8 @@ Waar fout beleid direct bestraft wordt via de harde leerschool van de natuur, zo
 
 Laat ik u meenemen met een gedachte-experiment: Stelt u zich eens voor dat er ergens een visionair wereldleider of groep visionaire wereldleiders besluit om een groot sociaal experiment uit te voeren met als doel inzicht te krijgen in wat de juiste weg is voor de mensheid om te bewandelen.
 
+{{< advert >}}
+
 Er worden 3 afgelegen gebieden aangewezen waar 3 groepen vrijwilligers zich zullen vestigen voor een experiment dat één volle eeuw zal duren. De groep vrijwilligers krijgt de opdracht hun mini-samenleving in te richten volgens bepaalde principes en zich gedurende de volle eeuw die het experiment in beslag neemt niet af te wijken van deze principes.
 Gedurende deze eeuw zal er géén hulp van buitenaf komen en de vrijwilligers zullen volledig op elkaar zijn aangewezen. Ze kunnen dus ook géén toevlucht nemen tot bepaalde kunstgrepen om verkeerde beslissingen te maskeren of consequenties uit te stellen.
 Iedere groep bestaat uit 1000 jonge mensen die nog niet voor nageslacht hebben gezorgd: 500 mannen en 500 vrouwen. 

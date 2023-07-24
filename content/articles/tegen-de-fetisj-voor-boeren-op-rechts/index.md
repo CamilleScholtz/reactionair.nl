@@ -36,6 +36,8 @@ Een jaar later werd een andere bak ellende over ons uitgestrooid waardoor het he
 
 Kortgezegd kunnen we uitsluiten dat hier sprake is van een onteigeningscomplot om woningbouw te faciliteren. Naast het simpele feit dat de rechterlijke uitspraak de woningbouw vooralsnog alleen maar belemmerd heeft, hebben we te maken met een probleem waar al decennialang tegen aangehikt werd maar dat door een beleid van creatief regeltjes omzeilen en pappen en nathouden door partijen als VVD en CDA alleen maar erger is geworden omdat de effecten van de uitstoot cumulatief zijn.
 
+{{< advert >}}
+
 Maar wie zegt dat de stikstofuitstoot echt een probleem is? Het meest voor de hand liggende antwoord is natuurlijk: De wetenschap. Ieder mens kan zien dat we wereldwijd tegen een breed scala aan ecologische problemen tegelijkertijd aanlopen. De uitstoot van CO2 is een wereldwijd probleem, het warmt de aarde op en verzuurt de oceanen met een tempo dat in miljoenen jaren niet geëvenaard is.
 
 Hoewel ik vaak zie dat mensen claimen dat de opwarming wel mee zal vallen, zijn deze mensen zich er meestal niet van bewust dat diezelfde uitstoot ook de oceaan verzuurt. Ik heb nog nooit meegemaakt dat iemand de opwarming bagatelliseerde maar vervolgens van mening veranderde toen hij ontdekte dat de verzuring van de oceaan ook problemen oplevert, meestal zoeken ze snel ergens een artikel in een poging om dat ook te ontkrachten wanneer ik het ter sprake breng.

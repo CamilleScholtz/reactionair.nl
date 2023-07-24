@@ -23,6 +23,8 @@ Zo neemt hij ene _“@bar_bizar”_ onder de loep. Een onbekende, anonieme twitt
 
 Simpele zielen de les lezen is natuurlijk tot daar aan toe. Smaakvol is het niet te noemen, maar een dopamineverslaving gaat ook niet over rozen. Een beetje ziekelijk wordt het als Rudy weer eens zijn ongevaccineerdedoden-draadje bijwerkt. Daarin verzamelt Rudy berichten over voornamelijk obese mensen in verre landen die dood gingen met of aan (dat wordt meestal niet duidelijk) corona. Bonuspunten als ze ooit een sport deden of nog niet de 60 gepasseerd zijn.
 
+{{< advert >}}
+
 Waar maak je je druk om, zul je je misschien afvragen. Mocht je Rudy het voordeel van de twijfel geven kun je het draadje zien als waarschuwing, toch? Is dat dan niet zinvol? Uiteraard wel maar daar hoef je geen draadje met foto’s van overleden mensen voor aan te maken. Dat geeft namelijk een zeer vertekend beeld. Gelukkig is corona namelijk niet heel gevaarlijk voor mensen onder de 60. Zou Rudy de data delen (‘de’ wetenschap) zou het echter niet zo’n indruk maken. Nee, Rudy kiest er bewust voor om er een soort morbide wappiecircus van te maken, met zoveel mogelijk plaatjes. Over plaatjes gesproken, daar is onze journalist gek op.
 
 Onder zijn ongevaccineerdedoden-draadje zie je ook de reacties van de mensen die Rudy voorzien in zijn dopamineverslaving. Deze mensen vinden het hilarisch dat mensen die niet gevaccineerd zijn geen niertransplantatie krijgen en daardoor sterven, of dat hun kinderen uit huis geplaatst worden. Rudy waagt zich niet (openlijk) aan zulke verwerpelijke uitingen van leedvermaak, maar corrigeert niet en neemt geen afstand. Nee, hij blijft er mee doorgaan. 

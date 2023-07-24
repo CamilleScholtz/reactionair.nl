@@ -28,6 +28,8 @@ Het mooie aan muziek is is dat zijn taal esthetisch is en daarmee universeel. He
 
 De muziek in naoorlogse concerten valt veelal in twee categorieën in te delen, met deze uitspraak moet u mij redelijk wat artistieke vrijheid gunnen, door de jaren heen zijn er fantastische artiesten geweest die buiten deze categorieën vallen, kortheid- en eenvoudigheidshalve noem ik er twee. De muziek was atonaal of ‘authentiek’.
 
+{{< advert >}}
+
 Het romantische denken zoals Andreas Kinneging dat goed beschrijft is na de oorlog dominant geworden, waar het zich eerst nog manifesteerde als alleen een idee in plaats van een praktische toepasbaarheid.[^5] Die romantiek zegt dat we onze innerlijke zelf moeten volgen om echte vrijheid te vinden, in onze authentieke zelf, dit ging vaak via oriëntale religies, de hippie beweging, guru’s of een vorm van communistisch terrorisme.
 
 >...there is comfort in a philosophy which requires us to be committed to nothing. Except that it seems like a cheat. Or at least it seemed like a cheat until Sartre showed that really 'commitment' and 'authenticity' are one and the same.True morality, therefore, does not condemn the 'authenticity' of the outsider. On the contrary, authenticity is the necessary and sufficient condition for a state of moral grace.[^6]

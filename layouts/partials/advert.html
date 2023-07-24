@@ -1,12 +1,12 @@
-<div class="recommendation-container">
+<!-- <div class="av-container">
 	<div class="text">
 		<h3><span class="de">De</span> Reactionair</h3>
 		<h2>Boekenwinkel</h2>
 
-		<p>Ondek onze grote collectie boeken, zoals <a href="{{ .book.RelPermalink }}">{{ .book.Params.title }}</a>, in onze winkel!</p>
+		<p>Ondek onze grote collectie boeken, zoals <a href="{{ .book.RelPermalink }}">{{ .book.Params.title }}</a>, in onze boekenwinkel.</p>
 	</div>
 
-	<a href="{{ .book.RelPermalink }}">
+	<a href="/winkel">
 		{{ partialCached "books/medium.html" (dict
 			"context" .
 			"title"   .book.Params.title
@@ -17,3 +17,4 @@
 		) .book.File.ContentBaseName }}
 	</a>
 </div>
+ -->

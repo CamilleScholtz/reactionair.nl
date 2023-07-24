@@ -38,6 +38,8 @@ Hoe komt het dat woke steeds extremer wordt? De groepspolarisatie is het verschi
 
 Hoe weet ik dit alles zo zeker? Ik was erbij  eind jaren zestig als student economie aan de UvA, bij de Maagdenhuisbezetting, bij Provo. Ik heb ondervonden hoe de ommekeer bij medestudenten ervoor zorgde dat ze niet voor elkaar wilden onderdoen qua progressiviteit. Maar ook hoogleraren als socioloog Wilhelm Frederik Wertheim, geboren in St Petersburg, wiens colleges ik heb gelopen, bewonderde Stalin, Mao en Pol Pot. Het was een epidemie, veel erger dan Covid-19. Alles en iedereen moest eraan geloven. Het was een complete mentale ommekeer, families geestelijk uiteen rukkend in een toxische polarisatie. 
 
+{{< advert >}}
+
 Is woke links? Dat is afhankelijk van hoe links gedefinieerd wordt. Links heet tegenwoordig woke. Woke heeft definitief afstand gedaan van wat traditioneel onder links werd verstaan: socialistisch, begaan met het lot van de onderklassen en opkomen voor hun rechten. Links heeft afstand gedaan van filosofische ideeën die ooit centraal stonden, zoals een streven naar universalisme, internationale solidariteit, contra tribalisme. De groepsidentificatie en stigmatisering van minderheidsgroepen in _identity politics_ is te beschouwen als pur sang tribalisme en is, om met de zwarte Democraat McWhorter, van Berkeley University, te spreken, racistisch. Het zijn juist conservatieven die op zoek gaat naar gemeenschapszin, tribalisme verafschuwend. Woke wordt links genoemd, maar is niet links en niet rechts. 
 
 ### Herkomst van de term

@@ -18,6 +18,8 @@ Het evolutionaire idee van camouflage is vrij gemakkelijk te begrijpen, als je m
 
 Echter, deze kleurrijke lange veren hebben wel degelijk een doel vanuit evolutionair oogpunt. In de jaren 70 stelde evolutionair bioloog Amotz Zahavi voor dat het evolutionaire doel achter pauwenstaarten _juist_ is dat deze de drager ervan benadelen. Alleen een sterke pauw kan zo'n handicap aan. Als een zieke, zwakke pauw zo'n grote staart probeert te mee te sleuren, is het snel met hem gedaan. In evolutionair jargon is de staart van de pauw een uitstekende fitnessindicator. Hij geeft een potentiële partner het signaal: "Ik ben zo sterk en fit dat ik me niet hoef te camoufleren, ik kan de hele dag door deze lange veren dragen!".
 
+{{< advert >}}
+
 Hetzelfde soort signaalgedrag zien we bij de mens. In landen met een mindere economie is een blanke huid vaak een teken van welvaart; je werkt binnen, niet op het land. Dikheid wordt ook vaak gezien als een aantrekkelijke eigenschap in dit soort landen; ik heb meer dan genoeg te eten. In het westen zijn we echter overgegaan op _'counter-signalling'_: Kijk eens hoe mager ik ben, ik kan me al dit eten veroorloven, maar toch kies ik ervoor om niet te eten! Denk ook aan arme mensen of _nouveau riche_ die _'iced out chains'_ en _'jordans'_ dragen, en Steve Jobs in zijn spijkerbroek.
 
 Om over te gaan tot het kernpunt van dit artikel: ik geloof dat veel van de trends die we vandaag de dag zien verklaard kunnen worden door 'bèta-mannen' die de _'counter-signals'_ van 'alfamannen' proberen na te bootsen. Hiermee nemen ze de risico's die gepaard gaan met _'counter-signalling'_ (denk aan de pauw), maar plukken geen van de vruchten. Laten we een paar voorbeelden opnoemen:

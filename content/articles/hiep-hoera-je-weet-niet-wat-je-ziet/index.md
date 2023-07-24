@@ -36,6 +36,8 @@ Waarom wordt de Amerikaanse racistische traditie van ‘blackface’ wel ingezet
 
 Of waren Zwarte Piet en Sinterklaas, ondanks de toegenomen secularisatie, sowieso nog steeds te traditioneel? Is voor radicaal-linkse groeperingen een knecht hetzelfde als een slaaf? Worden daarom soortgelijke oudere tradities in Duitsland en Oostenrijk, maar die minder verwijzingen bevatten naar hiërarchie en meer naar oud bijgeloof met een soort demon, minder worden aangevallen?
 
+{{< advert >}}
+
 Er is vaak beweerd dat Zwarte Piet dom zou worden afgebeeld. Misschien was dit ruim een halve eeuw geleden het geval. Dit is echter niet zo in de seizoenen van de Club Van Sinterklaas en de feesten van Sinterklaas (1999-2009), Pittige Pepernoten (1997), of de nationale intochten die opgenomen en bewaard zijn gebleven sinds de jaren 80. 
 
 De pieten in de shows vangen vaak boeven, redden het Sinterklaasfeest en komen met uitvindingen. Het zijn juist vooral de oudere pieten (Pof Piet en Wegwijspiet) die soms meer verstrooid lijken, net als Sinterklaas zelf.

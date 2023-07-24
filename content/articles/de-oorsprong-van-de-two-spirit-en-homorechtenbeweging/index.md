@@ -64,7 +64,7 @@ Generaal Hardie vocht in 1857 in de oorlog tegen de Spokane Indianen en zijn zoo
 
 Zoals zijn betovergrootvader Generaal Hardie, was Hay een gevoelige, emotionele en geleerde man. Zijn vader, “Big Harry”, had zijn eigen disciplinaire karakter, gekenmerkt door een grote werkethiek, in de opvoeding proberen door te geven aan zijn zoon. Hay had echter van jongs af aan een lastige relatie met zijn ouders en vooral met zijn vader. Toen hij in 1951 eindelijk uit de kast kwam tegenover zijn moeder was haar reactie slechts: “je vader kende Cecil Rhodes”, waarmee het gesprek was beëindigd. 
 
-{{< newsletter >}}
+{{< advert >}}
 
 De familie Hay verhuisde in 1914 naar Chili, waar Harry’s vader werk had gevonden als opzichter van de mijnindustrie, een baan waarbij hij zijn been zou komen te verliezen, waarna de familie verhuisde naar Californië. Hay bleek al vroeg over een enorme intelligentie te bezitten en hij beschikte bovendien over een fotografisch geheugen. Op school zou hij daarom ook lessen volgen met kinderen die drie jaar ouder dan hem waren. 
 

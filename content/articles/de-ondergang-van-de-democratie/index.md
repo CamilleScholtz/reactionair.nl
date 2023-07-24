@@ -52,6 +52,8 @@ Een totalitaire staat/regime wordt dus niet bepaald door de staatsvorm, maar doo
 
 De term werd oorspronkelijk bedacht door de Israëlische geschiedenisleraar Jacob Talmon.[^5] Talmon was een anti-marxistische liberaal en argumenteerde dat het stalinisme zijn oorsprong vond in het jakobinisme, en de ideeën van de Franse Revolutie en de radicale Verlichting, specifiek de ideologie van Jean-Jacques Rousseau. De term werd overgenomen door Bertrand de Jouvenel[^6], E. H. Carr,[^7] en later gebruikt door F. William Engdahl[^8] en Sheldon S. Wolin[^9]. Erik Ritter von Kuehnelt-Leddihn stelde, dat de monarchie van nature afgleed naar absolutisme, en de democratie naar totalitarisme. 
 
+{{< advert >}}
+
 Voorbeelden van totalitaire democratieën zijn nazi-Duitsland en de Sovjet-Unie, (de lezer wordt er nogmaals aan herinnerd dat deze regimes majoritaristisch waren).
 Totalitarisme is dus niet hetzelfde als autoritarisme. Veel autoritaire regimes zijn niet totalitair en soms zelfs anti-totalitair. Totalitarisme is dus ook niet synoniem met dictatuur, aangezien een democratie juist de basis kan vormen voor een totalitaire staat.
 

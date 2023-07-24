@@ -40,6 +40,8 @@ Maarschalk Pétain, zoals hij ook genoemd werd, kreeg, van de kant van een super
 
 Pétain stelde een tijdelijk autoritair regime in terwijl het parlement buiten werking werd gesteld. Hij verbood echter niet alle politieke partijen en werkte aan de nieuwe grondwet die nooit werd ingevoerd. De grondwet omvatte veel macht voor de president en conservatieve elementen, maar garandeerde ook sociale rechten, menselijke waardigheid en de versterking van rechtsstaat en constitutionele toetsing.[^5][^6]
 
+{{< advert >}}
+
 Zelf was Pétain niet erg katholiek, maar had wel autoritaire en seculier conservatieve tendensen.[^7] Hierdoor verbond hij zich met autoritair katholieke figuren. Deze groep pushte de nationale revolutie die trachtte een moreel en cultureel herstel van Frankrijk te bewerkstelligen. Er was echter geen wens tot monarchistische restauratie. Vichy bleef autoritair republikeins. Het regime bezat ook antiklerikale elementen die niet veel moesten hebben van ‘baardloze misdienaartjes’.[^8] Relaties met de kerk verslechterden geleidelijk.[^9]
 
 Pétain werd gemarginaliseerd door de nazi’s en uiteindelijk gedwongen de onafhankelijke radicale socialist, en voorstander van totalitarisme, Pierre Laval, weer tot premier te benoemen. Communisten collaboreerden actief of passief totdat nazi-Duitsland zich tegen de Sovjet-Unie keerde.[^10] Socialisten kwamen geleidelijk in verzet.

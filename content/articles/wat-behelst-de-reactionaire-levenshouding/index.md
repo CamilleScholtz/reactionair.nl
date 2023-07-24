@@ -32,6 +32,8 @@ De problemen die gelijkheid veroorzaakt zijn, in enkele woorden, als volgt: geli
 
 De gelijkheidsdrang is verder een tomeloze aanpassingsdrang aan de ander, en dat  niet in de vorm van beleefdheid, waarin zowel de eigen waarde als die van de ander hoog wordt geschat, maar een zelfonderdrukkende neiging. 
 
+{{< advert >}}
+
 Verder zien we met dit verlies van authenticiteit excessen op het gebied van het uiterlijke om de drang naar een verloren authenticiteit te bevredigen; terwijl onder de kleurrijke, bizarre uitmonsteringen en aanpassingen op cosmetisch vlak een totaal homogene geest schuil gaat; zonder enige originaliteit. Jezelf zijn is feitelijk worden zoals ieder ander. 
 
 Ook de aanvallen op taal, zoals recent in de angelsaksische taalsfeer de verdachtmaking van de vraag waar iemand vandaan komt, hangen hiermede samen: hier worden de sociale omgang en iets wat vaak louter uit oprechte interesse voortkomt, gereduceerd tot perverse machtsuiting.

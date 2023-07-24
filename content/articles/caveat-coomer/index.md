@@ -27,6 +27,8 @@ Zodoende worden 's werelds twee meest tastbare geneugten - geld en seks - gecomb
 
 Prostitutie wordt, zo lang het nog duurt, gezien als een schandelijk beroep. Vrouwen zijn naar hun aard het meest gevoelig voor sociale druk, waardoor de maatschappelijke afkeur van prostitutie zwaar op haar drukt en haar geestelijke evenwicht verstoord wordt. Maar wanneer de _e-thot_ haar eerste geldelijke beloning ontvangt, prikt dit nieuwe gevoel van macht - waarschijnlijk de eerste keer in haar leven dat ze dit voelt - dwars door deze schaamte heen en ontlast haar van haar schuldgevoel tegenover de samenleving, haar familie en haarzelf.
 
+{{< advert >}}
+
 Een nieuw zelf is geboren. Prostituee-zijn wordt haar nieuwe identiteit. In de ogen van anderen verandert dit niks aan haar morele status, maar voor menigeen is het voldoende om het innerlijke evenwicht tenminste tijdelijk te herstellen. Zij is nu _#livingherbestlife_ en haar macht groeit door het magische recept van seks en geld.
 
 Maar deze macht brengt ook wreedheid met zich mee. Bevrijd van de beklemmende noodzak om in de pas te lopen, kan ze het zich nu veroorloven om haar sadistische gevoelens de vrije teugel te geven. Gevoelens die opborrelen uit de negativiteit en vernedering waarmee de buitenwereld haar probeert te beschamen. Want ook al is ze herboren als hoer, een vrouw is en blijft een sociaal dier. Ze kaatst de afkeurende houding van de wereld terug in de vorm van hoon richting degenen over wie ze macht heeft - haar veroveringen van mannelijke kunne - en schept er van lieverlee een pervers genoegen om de bron van haar inkomsten en haar macht te zien als een verzameling _losers_ en _simps_.[^4]

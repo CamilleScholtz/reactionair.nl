@@ -30,6 +30,8 @@ Met de beschuldiging dat er tegenstanders zijn die zich bezondigen aan doodsbedr
 
 ‘Gewoon bloot’ werd mogelijk gemaakt door onder andere de Rutgersstichting,[^2] een organisatie die in het verleden actief heeft gepleit voor de legalisatie van seks met kinderen en nog steeds spreekt over de ‘seksuele rechten’ van kinderen.[^3] Deze organisatie krijgt ook nog steeds subsidie en bemoeit zich met het aanbod voor seksuele voorlichting binnen alle soorten en niveaus van onderwijs. Hetzelfde geldt voor het COC dat zelfs decennialang openlijk pleitte voor de legalisatie van seks met kinderen.[^4] Ook het Humanistisch Verbond pleitte openlijk voor het verwijderen van een leeftijdsgrens voor seksuele contacten uit het Wetboek van Strafrecht.[^5]
 
+{{< advert >}}
+
 Geen van deze organisaties heeft hiervan later actief afstand genomen of excuses aangeboden. Wel hebben ze, na de Dutroux-affaire en andere schandalen, gestopt met actief dezelfde standpunten als Vereniging MARTIJN te verkondigen. Hun invloed op de seksuele opvoeding van kinderen is echter gebleven. Seksuele voorlichting wordt steeds jonger aangeboden en in steeds meer detail: Paarse Vrijdag op de basisschool, lessen over gender voor kleuters, en het aanmoedigen van kinderen tot zelfbevrediging. Ook het wegens pederastische activiteiten in opspraak geraakte voormalige D66-kamerlid Sidney Smeets moest in recordtijd een tweede kans krijgen, volgens sommige journalisten, en is nog steeds sociaal actief. 
 
 De Jonge Democraten, de jongerenafdeling verbonden met D66, wenst seksuele voorlichting op scholen over pedofilie als seksuele geaardheid. Zij stellen dat die aangeboren is (wat normaal gesproken lijkt te betekenen dat je die dus ook moet kunnen praktiseren).[^6]

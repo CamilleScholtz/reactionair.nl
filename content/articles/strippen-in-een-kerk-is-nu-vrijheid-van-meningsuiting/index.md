@@ -22,6 +22,8 @@ Blijkbaar was het een excessieve straf dat ze voor deze seksuele intimidatie en 
 
 Maar het beledigen van niet traditioneel Europese religies is niet woke of progressief. Dus toen een vrouw in Oostenrijk Mohammed simpelweg een pedofiel noemde vanwege zijn relatie met Aisha, hield het EHRM deze veroordeling in stand. [^2] Ze was niet een moskee in gegaan om mensen lastig te vallen maar haar historische opmerking was voldoende. Het regionale hof in Oostenrijk stelde zelfs dat haar beschrijving inaccuraat was omdat Mohammed en Aisha getrouwd bleven toen ze volwassen was.[^3] De suggestie was dat pedofilie niet meer telt als het een vaste relatie wordt die decennia doorgaat. Het EHRM stelde dat het tegengaan van religieuze belediging belangrijk was. Dat was in 2018. Nu echter is het beledigen van religie (wanneer het de katholieke kerk is) zo belangrijk dat het seksuele intimidatie rechtvaardigt.
 
+{{< advert >}}
+
 Dus strippen om het katholicisme te beledigen is vrijheid van meningsuiting, het louter zeggen van iets kritisch over de islam is niet vrijheid van meningsuiting. Debat moet niet spanningen veroorzaken of religieuze vrede aantasten, behalve als dit een aanval op het katholicisme of de SGP inhoudt. Vrede is capitulatie voor een nieuwe cultuur en vernedering van het eigene.
 
 Geldt dit recht ook voor halfnaakte protesten in synagogen of moskeeën om kritiek te uiten op jodendom of islam door hun bijeenkomsten te verstoren en ze te beledigen? Mogen neofascistische vrouwen ook een demonstratief namaakexorcisme laten zien bij een COC-bijeenkomst?

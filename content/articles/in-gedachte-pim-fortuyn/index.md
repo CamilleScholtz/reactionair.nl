@@ -35,6 +35,8 @@ Pim was de ijsbreker. Recht voor z’n raap.
 
 Zijn dandy-achtige voorkomen en rijke woordenschat maakten hem tot een icoon. Daar kon je niet omheen. Om hem heen zaten grijze muizen als Melkert en professor Balkenende. Mannen die nog geen karakter krijgen al gaf je ze hoofdrollen in drie Hollywood-films en twee Netflix series. 
 
+{{< advert >}}
+
 Pim moest dood. Was een gevaar voor het heimelijke langetermijnplan van de EU. Europa zou door een kleine elite van oligarchen en filantropen gemodelleerd worden naar China. Meer grip voor hun en minder ademruimte voor ons. 
 
 Fortuyn werd te brutaal. Te vocaal. Te pontificaal. 

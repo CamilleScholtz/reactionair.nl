@@ -39,6 +39,8 @@ Wanneer we zeggen dat de schoonheid overal kan zijn, lopen we het gevaar dat ze 
 
 Maar wanneer we een te nauwe opvatting van schoonheid omarmen, zoals dat schoonheid daar is waar er perfecte symmetrie is, staan we dan nog wel open voor de schoonheid van het toeval, van de natuur, of van de simpele kleur?
 
+{{< advert >}}
+
 Alle wegen leiden naar een aporie. Schoonheid valt niet te vinden, en blijkt wat van het karakter van Plato’s sofist te hebben; een moeilijk schepsel om te vangen, met een hele hoop gedaantes, en telkens als we er een van te pakken hebben en daarmee denken de sofist gevangen te hebben, werpt hij zijn huid af en verschijnt elders in een nieuwe gedaante. We denken de schoonheid te kunnen vangen door naar symmetrie te verwijzen, maar daarop verschijnt de schoonheid in de chaos. We denken de schoonheid te kunnen vangen door te verwijzen naar de samenhang tussen delen, maar daar verschijnt de schoonheid in een enkele kleur. Onze meningen schieten tekort, en Plotinus lacht met ons: *“En daar mooie kleuren, bijvoorbeeld ook het zonlicht, enkelvoudig zijn en hun schoonheid niet danken aan symmetrische verhoudingen, zullen die in hun opinie niet mooi zijn. Hoe komt het dan dat goud iets moois is? En waardoor zijn ’s nachts de bliksem of de sterren mooi om te zien?”*[^2] 
 
 Als we onze vragen te serieus zouden nemen, zouden we nog wel eens het gevaar lopen de schoonheid van de zon te ontkennen... Voor een denken dat niet oplet, is goud even schoon als modder.

@@ -41,6 +41,8 @@ Een andere interessante passage die ik vond, weerspiegelt onmiskenbaar de filoso
 
 Laten we deze fixatie op de oorsprong van de formule achter ons laten en ons verder verdiepen in het concept *Tawhīd*. Deze term kan worden vertaald als monotheïsme en is het centrale thema van de islam, waar God wordt aangeduid met de namen *al-ʿAḥad* en *al-Wāḥid*. De term *Tawhīd* zelf is afgeleid van de woorden *wāḥid* en *aḥad*, die beide één betekenen. De meest voorkomende interpretatie is dat *wāḥid* een numerieke eenheid is waaraan een ander getal kan worden toegevoegd, terwijl *aḥad* verwijst naar de Absolute Eénheid die uniek is en niet kan worden opgedeeld. De islamitische geloofsbelijdenis, de *Shahādah*, luidt "er is geen god dan God", wat opnieuw een verklaring van eenheid is.
 
+{{< advert >}}
+
 De theologische implicatie van _al-Tawhīdu wāhidun_ is dat de Waarheid (God) één en uniek is. Zoals Guénon in ons vorige citaat schrijft, is metafysica _boven de natuur_. Hij maakt hier gebruik van een leuke etymologie: metafysica betekent letterlijk voorbij (_metá_) de natuur (_physica_; _nātūra_ is de Latijnse vertaling van het Griekse _physica_). De termen bovennatuurlijk en metafysisch zijn in feite gewoon synoniemen. "Voorbij de natuur" zijn betekent ook "voorbij alle verandering" zijn.[^3]
 
 In aanmerking genomen dat de Waarheid één en uniek is, moet Hij ook boven uitdrukking of individueel begrip verheven zijn. Om iets te kunnen beschrijven moet het gedefinieerd zijn (etymologisch: beperkt zijn, gebonden zijn; de-*fined*, _finite_) en God is de Oneindige, bovendien moet het attributen hebben die het conditioneren, hetgeen delen, verdeeldheid, zou introduceren. Ik citeer Guénon nog eens:

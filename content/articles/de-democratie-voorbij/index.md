@@ -53,6 +53,8 @@ Dat democratie eigenlijk alleen werkt in kleine landen (wat ook gezegd is in het
 
 Maar de vraag is: _wat bindt mensen?_ Wat maakt ze tot een gemeenschap? Want het moet om meer gaan dan persoonlijke vrijheid en het louter materiële. Vroeger, in de absolute monarchie van vóór de revolutie, was religie de bindende factor. Sinds de doorgevoerde scheiding van Kerk en Staat gedurende de 19e eeuw is dat steeds minder het geval. Vroeger leefde en stierf men in een oorlog voor God en Vaderland. Maar nu, voor wat? Voor de ‘internationale gemeenschap’? voor een toren van Babel als de EU?
 
+{{< advert >}}
+
 De georganiseerde misdaad is in onze tijd even machtig als de overheid. Tussen de onderwereld en de bovenwereld ligt een grijs gebied waar van alles gebeurt wat het daglicht niet verdraagt. ‘Verhuftering’ is wat ook in het boek _De democratie voorbij_ genoemd wordt. Er zijn twee manieren om te regeren, stelt Machiavelli in zijn boek _Il Principe_, hoofdstuk XVIII: met wetten, of met geweld. Het eerste werkt alleen als je te maken hebt met mensen; het tweede, als je te maken hebt met dieren. En aangezien de meeste mensen niet deugen, is geweld nodig. Dus dwang, en dat vergt autoriteit. Kan dat binnen een democratisch systeem?  Velen voelen zich onveilig, hooligans ontketenen voetbaloorlogen, de politie is een geldverslindende en door corruptie geïnfiltreerde werkvloer en heeft geen tijd voor fatsoenlijke mensen die bestolen of bedreigd worden.
 
 Bij parlementariërs ontbreekt ieder historisch besef en heerst onwetendheid waar het de wet van oorzaak en gevolg betreft. Neem de oorlog in Oekraïne. Het is alles meewaaien met de dagelijkse berichten, emotie en moralisme, van bovenaf gedirigeerde oorlogspropaganda, eenzijdigheid. 

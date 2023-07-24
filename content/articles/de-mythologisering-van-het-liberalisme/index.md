@@ -23,6 +23,8 @@ Met deze aanvangswoorden beoog ik duidelijk te maken dat met 'liberalisme' niet 
 
 Dit is wat ik de *mythologisering van het liberalisme* zou noemen, en is mijns inziens geëntameerd door de Tweede Wereldoorlog. Het is geen toeval dat wanneer iemand zich verzet tegen de meest recente iteratie van liberalisme,[^3] men om de oren geslagen wordt met etiketten als *nazi*, *fascist* of zelfs *antisemiet*. Vrijheid is niet langer louter een abstract principe, maar een diep geworteld verlangen, een emotie, waarmee we vage narratieven en beelden associëren als oorlog, onderdrukking, grenzen, en dit alles samengevat in de Tweede Wereldoorlog. 
 
+{{< advert >}}
+
 Racisme is niet langer fout omdat het abstracte principe van gelijkheid geschonden wordt —door het niet beschouwen van mensen als een _tabula rasa_— en individualisme —door het plaatsen van individuen in collectieven— maar omdat de vorige keer dat racisten aan de macht waren, de Holocaust plaatsvond. Democratie is niet langer een logische positie die voortkwam uit het zien van naties en staten niet als een collectief maar als een verzameling individuen, nee, democratie in twijfel trekken als *beste* en *enige* vorm van bestuur maakt je bijna kwaadaardig en wel omdat de nazi's niet democratisch waren.
 
 Het moet duidelijk zijn dat ik hier natuurlijk geenszins pleit voor nationaal-socialisme, noch de verschrikkingen van de Tweede Wereldoorlog of de Holocaust wil relativeren. Ik observeer slecht het feit dat het liberalisme, dat oorspronkelijk voortkwam uit zelfverklaarde anti-bijgelovige denkwijzen nu bijna volledig wordt beheerst door mythische denkwijzen en emotie.

@@ -33,6 +33,8 @@ Als voorkomen beter is dan genezen, zoals het spreekwoord luidt, zou 'voorkomkun
   
 Maar laten we vooral de geestelijke gezondheid niet buiten beschouwing laten in een land waar inmiddels een kwart leidt aan de een of andere psychische stoornis en 1 op de 6 jongeren suicidaal is - en niets wijst er op dat deze cijfers niet verder gaan oplopen.[^4][^5] Deze statistieken vormen wel zo'n schreeuwende aanklacht tegen de maatschappij, dat het een schande is dat niet alle alarmseinen branden en loeien. Wie niet verder komt dan dat de bezuinigingen op de GGZ onder minister Schippers in 2011 moeten worden teruggedraaid, is geen diepe denker. Hoofdpijn wordt immers ook niet veroorzaakt door een gebrek aan aspirine, ook al kan dat enige verlichting bieden.
 
+{{< advert >}}
+
 Terzijde edoch terzake: een geestelijke stoornis brengt bijna altijd ook lichamelijke problemen met zich mee en lichamelijke klachten zijn vaak symptoom van een onderliggend geestelijk probleem. Ik wil niet te ver op dit pad gaan omdat het bepaald mijn vakgebied niet is, maar ik wil toch niet onvermeld laten dat zelfs kanker (een 'lichamelijk' probleem) een statistische correlatie met onderdrukte woede (een 'psychisch' probleem) vertoont, die zo significant is dat ze op minst heel veel meer onderzoek verdient.[^6] Onderzoek dat zomaar eens tot een medische paradigmawisseling kan leiden, of er tenminste aan bijdragen, die recht doet aan de innige verbondenheid van lichaam en geest. Een verbondenheid die zelfs zo innig is, dat er naar mijn mening in wezen sprake is van metafysische eenheid.
   
 Maar ik verlaat dit zijpad nu voordat ik nog meer munitie verschaf aan de kleingeesten die staan te springen om mij als kwakzalver weg te zetten.

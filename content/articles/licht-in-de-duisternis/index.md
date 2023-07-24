@@ -28,6 +28,8 @@ De Messias was een speciale profeet. Meer dan dat zelfs. Hij zou heersen als ver
 
 Rechtvaardigheid en onrecht betekenden in die tijd nog echt iets; het waren niet louter politieke termen. Mensen dachten niet dat hen onrecht werd aangedaan omdat hun identiteitsbeleving of gevoelens niet bevestigd werden, of omdat ze geen basisinkomen kregen. Slachtoffer zijn van onrechtvaardigheid betekende zaken als moord op familieleden, diefstal, uitbuiting, onterechte vervolging.
 
+{{< advert >}}
+
 De meeste mensen erkenden het bestaan van goed en kwaad. Alhoewel definities op bepaalde punten per cultuur en traditie verschilden. Relativisme bestond echter vrijwel niet. Wel domineerde het recht van de sterkste in meer barbaarse samenlevingen. Bijgeloof was ook sterk aanwezig binnen veel religies. Vrees voor dingen die ‘ongeluk’ zouden brengen. Ook slechte geesten en demonen kwamen veelvuldig voor. De meeste religies kenden echter geen rechtvaardige of almachtige God. De Griekse en Romeinse goden zijn zelfs berucht om hun perversies en wreedheden.
 
 De Mozaïsche wet was gericht op reinheid en de juiste weg naar God en keerde zich tegen uitspattingen en wreedheden die in het tweede millennium voor Christus domineerden. Tijdens het Tweede Tempel-jodendom werd er sterker gefocust op de oorsprong van de zonde, de invloed van demonen en de beschadiging van de mensheid.[^6] Kwaad van buitenaf en van binnenuit. Het boek  ‘Het leven van Adam en Eva’ beschreef de hoogmoed van Lucifer, zijn val en hoe hij daarna de eerste mensen misleidde. Het boek van Enoch, gecomponeerd rond 300 v. Chr., beschreef specifiek de latere val van een groep engelen en wachters zoals Samyaza, die de mensen specifieke zonden leerde zoals astrologie, magie en abortus.[^7]

@@ -35,6 +35,8 @@ In dit essay wil ik betogen dat alles nog steeds religieus is, waardoor de term 
 
 Alles wat we doen is gericht op een goed, een object, een doel. Alle actie is doelgericht en geritualiseerd. Met doelgericht bedoel ik dat alle handelingen die we doen een ultiem einddoel hebben. Met geritualiseerd bedoel ik dat men aan de handeling kan zien welk doel de persoon (die de handeling verricht) probeert te bereiken. Omgekeerd doet het doel je ook denken aan bepaalde handelingen. 
 
+{{< advert >}}
+
 Een voorbeeld: bij het groeten (wat het doel is), geven we elkaar een hand (de handeling). Dit is geritualiseerd. Wanneer we (bijvoorbeeld) onze voet zouden uitsteken naar de andere persoon, lijkt dit belachelijk. Dit is het missen van het doel, en kan zondigen worden genoemd. Niet op de kosmische schaal naar God toe, maar naar het doel van begroeten. Je hebt niet het doel bereikt dat je wilde bereiken. Begroeting is geritualiseerd gedrag.
 
 Een ander voorbeeld is kleding. Mensen van de _'counter culture'_ dragen vaak dezelfde kleding. Zelfs het niet willen behoren tot een patroon wordt geritualiseerd. Het feit dat er een rebels type bestaat, met passende kleding, betekent dat het geritualiseerd is. 

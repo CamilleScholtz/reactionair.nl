@@ -77,6 +77,8 @@ En specifieke afspraken voor kinderdagverblijven:
 
 Dit doet de vraag rijzen wat dit in de praktijk betekent. Hoe ziet actieve aandacht voor seksuele en genderdiversiteit uit voor babies, dreumesen of peuters? Nog niet zindelijk maar wel al oud genoeg om te weten of je demiqueer, transgender of panseksueel bent? Of wat te denken van kinderen die naar de buitenschoolse opvang gaan? Kinderen in de leeftijd waarvan de ouders het nog niet verantwoord vinden om ze alleen thuis te laten na school nota bene. Hoe wenselijk is het dan dat zij geconfronteerd worden met seksualiteit in het algemeen, laat staan de ontdekkingsreis van hun genderidentiteit? Dit alles zonder de ouders uiteraard. Het zal mij benieuwen hoe actief deze deelname aan het convenant van SchoolsOUT is gecommuniceerd aan de ouders van de kinderen op KION kinderopvang en Nannies Kinderdagverblijven.
 
+{{< advert >}}
+
 De specifieke afspraken voor de basisscholen (vertegenwoordigd door Harry Matser)  waarin hij 100% van de basisscholen committeert aan de 4 pijlers van SchoolsOUT, laat ik maar even achterwege.
 
 Hoe al deze afspraken er concreet uit zien, is nog gissen en lijkt de verantwoordelijkheid te zijn van de individuele leerkracht of kleuterjuf/-meester. We hebben in het recente verleden op het Hofnarretje en Jenno’s knuffelparadijs voorbeelden gezien van die vrije invulling van een van de medewerkers van een kinderdagverblijf.[^4]

@@ -1,19 +1,57 @@
 #hero
-	.shop-title-container
-		.shop-title
+	align-content: space-evenly
+	border-bottom: 1px dashed var(--border-color)
+	display: grid
+	grid-gap: 30px
+	justify-content: center
+	overflow: hidden
+	position: relative
+	width: 100vw
+
+	.background
+		background: url('/img/guenon.svg')
+		background-position: top
+		background-size: cover
+		filter: var(--popup-background-filter) saturate(1.5)
+		-webkit-mask: radial-gradient(black 10%, transparent 70%)
+		mask: radial-gradient(black 10%, transparent 70%)
+		position: absolute
+		transform: rotate(-12deg)
+		width: 110vw
+
+	.back-button
+		position: absolute
+		font-size: 60px
+		right: 36px
+		top: -10px
+		z-index: 1
+
+	.book-container
+			align-self: center
+			perspective: 100vh
+
+	.title-container
+		h1
+			color: var(--text-color)
+			font-style: italic
+			font-weight: 700
+			position: relative
 			text-align: center
-			font-style: italic
+			z-index: 2
 
-		.shop-quote
-			font-style: italic
-
-		.shop-subtitle
-			font-size: 32px
+		h2
 			font-style: italic
 			position: relative
 			text-align: center
 			text-shadow: 0 10px 40px var(--background-color)
 			z-index: 2
+
+		.quote
+			color: #B35F5A
+			font-style: italic
+			font-weight: 700
+			mix-blend-mode: hard-light
+			position: absolute
 
 	.cart-form-container
 		background: var(--background-color)

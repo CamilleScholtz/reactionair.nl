@@ -30,6 +30,8 @@ DeSantis noemde ook het schandaal eerder dit jaar van de FBI en de _National Sch
 
 Het ministerie van justitie van president Biden baseerde zich op dezelfde NSBA-brief, waarin werd gesuggereerd om de _Patriot Act_ tegen ouders te gebruiken, bij het opstellen van zijn eigen memo waarin de FBI werd opgedragen zich te mobiliseren ter ondersteuning van lokale onderwijsfunctionarissen.[^4] Desgevraagd liet procureur-generaal Garland weten nooit de intentie gehad te hebben om ouders met deze anti-terrorisme wet te vervolgen. 
 
+{{< advert >}}
+
 Maar waarom deze paniek, zijn ouders in Amerika gek geworden? Als we naar Nieuwsuur kijken in Nederland doemt het beeld op van conservatieve _wappies_ die xenofoob zijn en daarom boeken willen verbieden en LHBTI’ers willen pesten. 
 
 Tot dusverre was het enige prominente voorbeeld van iemand die een dreigement uitte tijdens een schoolbestuursvergadering volgens de FBI, niet een bezorgde ouder die een schoolbestuurder of een leraar bedreigde.
