@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'De wolf als bode'
 subtitle: 'De mens is verstoken van de natuur'
 date: '2023-07-22'
