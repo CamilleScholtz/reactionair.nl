@@ -17,6 +17,8 @@ Zomaar drie voorbeelden van nieuwsberichten waarbij publieke voorzieningen (luch
 
 De voorzitter van VNO-NCW Ingrid Thijssen pleit voor meer arbeidsmigratie, ze neemt zelfs politiek Den Haag de maat omdat het kabinet te weinig zou doen om migratie aan te jagen. Ter info, vorig jaar immigreerden 250.792 mensen naar Nederland,[^1] als dit een stad zou zijn zou het de op vier na grootste stad van Nederland zijn, groter dan Eindhoven. Logisch natuurlijk dat de voorzitter van het VNO-NCW dit arbeidsmigratiestandpunt verdedigt, immers zonder schaarste hoeft de prijs van arbeid niet omhoog. 
 
+{{< advert >}}
+
 Buiten het feit dat arbeidsmigranten mensen zijn die elders in de wereld wortels en een geschiedenis hebben en niet slechts economische eenheden zijn om in te zetten om arbeid te leveren overal ter wereld en dat het erg ingewikkeld wordt om 'omvolking' af te doen als een mythe als Nederland nog actiever beleid gaat voeren om mensen uit andere culturen naar hier te halen, is er wel echt een personeelstekort?
 
 Zijn er niet gewoon heel veel mensen onnodig werk aan het doen dat geen enkele meerwaarde biedt aan onze maatschappij? Is het wel echt nodig dat de dagelijkse boodschappen door onderbetaalde flitsbezorgers van _"darkstore"_ naar onze voordeur worden gebracht of hoeveel communicatiemedewerkers hebben onze (semi)overheidsinstanties nu echt nodig?

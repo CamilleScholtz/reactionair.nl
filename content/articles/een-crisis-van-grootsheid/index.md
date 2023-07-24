@@ -26,6 +26,8 @@ Leven ten tijde van het verval van een maatschappij is een opmerkelijke ervaring
 
 Het moeten aanhoren van een politiek leider heden ten dage is te vergelijken met het luisteren naar de preek van een priester die reeds lange tijd zijn geloof is verloren maar dit wanhopig blijft ontkennen, zelfs tegenover zichzelf. Zie hoe figuren als Nick Clegg, David Cameron en Ed Miliband cliché na cliché eruit blijven gooien richting partijgetrouwen. Hoor hoe een Angela Merkel, een Nicolas Sarkozy of een George Papandreou blijven pretenderen dat alles binnen de eurozone goed en wel is en zal blijven. Bestudeer de gezichtsuitdrukkingen van Barack Obama of Ben Bernanke wanneer zij praten over groei, alsof het een afgod is die men enkel tevreden kan  houden door nog meer geld in zijn allesverslindende bek te werpen.
 
+{{< advert >}}
+
 Maar in tijden zoals de onze zullen de meeste mensen opzoek gaan naar andere antwoorden. Tijden van verval zijn ook tijden van herorintatie, waarbij gedachtegoed dat ooit als extreem werd gezien en/of zich aan de rand van het politieke spectrum begaf, een centralere rol zal innemen. Wanneer de zaken ineenstorten, is de appetijt voor nieuwe, andere manieren enorm en er zijn genoeg personen die deze honger maar wat graag willen stillen met hun grote ideen waar zij nu meer ruimte voor zien.
 
 Maar wat nou als deze grote ideen onderdeel zijn van het probleem. Sterker nog, wat als grootsheid het probleem is?

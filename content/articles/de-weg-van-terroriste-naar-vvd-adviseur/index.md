@@ -48,6 +48,8 @@ Voor deze rol van deradicaliseringsexpert en antisemtisme-bestrijder was Sahla i
 
 De steun van orthodox-joodse zijde aan een strenggelovige moslima die wordt verdacht van het voorbereiden van terreuraanslagen op politici, is opmerkelijk. Heintz relativeert: _‘Het orthodoxe jodendom en de orthodoxe islam hebben veel raakvlakken. Ik geef vrouwen ook geen hand.’_. Eerder kreeg Sahla ook al bijval uit onverwachte hoek, Ayaan Hirsi Ali noemde haar eind 2006 in de _Volkskant_ _‘de hoop voor de toekomst’_ in de strijd tegen radicalisering.[^15]
 
+{{< advert >}}
+
 Heintz gaf Sahla het boek _Divine Image_ van Rav Rav Yakov David Cohen. Sahla was hierdoor zo aangedaan dat zij besloot dit tot haar nieuwe levenspad te maken.[^16] De rabbijn stak zijn nek voor haar uit en schreef in een brief aan het gerechtshof dat haar zaak in hoger beroep behandelde, dat de Nederlandse samenleving vruchten zou kunnen plukken van Sahla's ervaringen. Hij zag haar als een rolmodel voor meisjes die dreigen te radicaliseren. Rabbijn Heintz verklaart:
 
 >The connection I made with her in recent years had us bring her to the _UN_ to give a lecture based on what she learned with us and about her new path and message for the world. We see how _hafatza_, based on the _Rebbe’s_ directives has an effect on the deepest of levels.[^16]

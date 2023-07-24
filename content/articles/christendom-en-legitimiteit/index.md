@@ -37,6 +37,8 @@ Binnen de Oosters-orthodoxe kerken kregen de Byzantijnse keizers, en later de Ts
 
 Het ultramontanisme verheerlijkte juist het pauselijk gezag en verzette zich, zelfs binnen het katholicisme, tegen het gallicanisme, febronianisme en andere bewegingen die de lokale aartsbisschoppen en nationale regering ongekende macht wilden geven. Koning Filips II en keizerin Maria Theresa vonden meer een balans tussen paus en staat.[^4] De loyaliteit van de ultramontanisten was echter aan het pauselijke ambt, en dus vooral ook aan de door de eeuwen heen ingestelde curie. Kritiek op de curie was vaak ook een subtiele vorm van aanval op de paus vanuit pro-linkse hoek, precies zoals gematigde liberalen niet rechtstreeks de monarch aanvielen, maar het koninklijk hof (omdat zij wilden dat de traditie gewaarborgd wordt).[^5]
 
+{{< advert >}}
+
 De uiteindelijke overwinning van de ultramontanisten, in de vorm van het dogma van de pauselijke onfeilbaarheid was ook slechts een strikt afgekaderd, beperkt dogma. Het Eerste Vaticaanse Concilie zei namelijk expliciet, dat de opvolgers van Sint Petrus géén autoriteit hadden een nieuwe leer te verkondigen. 
 
 Pausen waarschuwden zelfs voor toekomstige (anti?)-pausen die een andere leer zouden verkondigen.[^6] Een traditionalist verraadt niet zijn koning zodra die dood is. De dood betekent weinig voor een traditionalist. De wijsheid van de doden betekent meer dan de waan van de dag (zelfs een grondwet gaat hiervan uit en is in die zin antiprogressief).

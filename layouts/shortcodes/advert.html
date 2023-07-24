@@ -1,0 +1,18 @@
+{{ $book := "" }}
+{{ if .Get "book" }}
+	{{ $book = index (where (where site.RegularPages "Section" "shop") ".Params.title" (.Get "book")) 0 }}
+{{ else  }}
+	{{ $book = index ((where site.RegularPages "Params.pretty" true).Related (dict
+		"indices"  (slice "tags")
+		"document" $.Page
+	)) 1 }}
+{{ end }}
+
+{{ with $book }}
+	<section class="av">
+		{{ partialCached "advert.html" (dict
+			"context" .
+			"book"    .
+		) .File.ContentBaseName }}
+	</section>
+{{ end }}

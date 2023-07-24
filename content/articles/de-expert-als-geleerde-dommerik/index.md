@@ -24,6 +24,8 @@ Zodoende ontstond er een versplintering. De losse wetenschapsgebieden raakten, i
 
 In de huidige tijd heeft zich dit verergerd. De hedendaagse wetenschapper vóélt zich algemeen ontwikkeld, maar is dat niet. Hij beschikt niet over een algemeen inzicht in de grote levenszaken, maar enkel over gespecialiseerde kennis. Zijn intellect is overontwikkeld, zijn geest onderontwikkeld. Hij weet dus ‘heel goed wat er in zijn minieme hoekje van het heelal is besloten, maar hij is volkomen onkundig van al het overige’.[^3]
 
+{{< advert >}}
+
 Ortega y Gasset heeft geen hoge dunk van de hedendaagse mens. Hij noemt hem ‘een primitief mens, een barbaar [...] met betrekking tot de ingewikkelde beschaving waarin hij geboren is’.[^4] De wetenschapper is volgens Ortega y Gasset een prototype hiervan. Het probleem is immers dat niemand in de samenleving de wetenschapper durft tegen te spreken. Hij wordt gezien als de hoogste autoriteit: zijn mening is niet alleen de waarheid, maar zelfs normbepalend. Dientengevolge is de wetenschapper heilig overtuigd van zijn eigen gelijk. Hij kàn geen fouten maken - en dit levert hem een blinde vlek op.
 
 Deze blinde vlek is gevaarlijk. Immers: zolang de specialist een toespraak houdt over zijn eigen vakgebied, is er niet veel aan de hand. Maar wanneer een natuurkundige zich plots een mening vormt over politiek, kunst, cultuur of religie, zal hij zeker niet wijzer spreken dan de gemiddelde plebejer. Toch wordt de natuurkundige uiterst serieus genomen, en de plebejer niet. Zijn mening is waarheid. En dat is meten met twee maten. Regelmatig gebeurt het dat een specialist in het publieke debat zijn eigen lukrake mening verkondigt, en dat hij zich vervolgens verschuilt achter zijn doctorstitel, voor de ‘geloofwaardigheid’.

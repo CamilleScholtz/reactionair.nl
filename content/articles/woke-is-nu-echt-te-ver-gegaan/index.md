@@ -23,6 +23,8 @@ Ik val in herhaling,[^2] maar de _“gendergekte”_ is gewoonweg het concept va
 
 Of laten we de _cancel-cultuur_ nemen, ook dit is gewoon de manifestatie van iets inherent aan het liberalisme, namelijk de _“paradox van tolerantie”_ die aan de basis ligt van het liberalisme, iets wat we elders ook al uitvoeriger hebben beschreven.[^3] In het kort: _“als we intolerant moeten zijn tegen dat wat intolerant is vanuit liberaal perspectief, kan het liberalisme dan überhaupt iets anders dan enkel zichzelf tolereren?”_.
 
+{{< advert >}}
+
 Of de nadruk op _diversiteit_. Opnieuw, een voortbouwing op het liberale principe van gelijkheid en het idee dat we allemaal unieke individuen zijn die met een blanco lei worden geboren; _tabula rasa_. Door historische en sociaaleconomische omstandigheden worden we in oneerlijke en ongelijke paden geworpen, die moeten worden rechtgetrokken.
 
 

@@ -32,6 +32,8 @@ Bij het in kunstuitingen vatten van seksuele wandaden zijn er altijd meerdere fa
 Tegenover werk van deze statuur staat Lammers, wiens stijl plat en direct is, maar zonder de scherpte die bijvoorbeeld Hemingway kenmerkt. We hebben het hier dus niet over bellettrie.
 Als we verder de inhoud onder de loep nemen, vinden we geen genuanceerde karakterschets zoals in Manns werk. Alle literatuur waarin een dergelijk onderwerp behandeld wordt, heeft een zekere diepte in de kenschetsing van de karakters en de gebeurtenissen. Zelfs in _Lolita_, dat befaamde en beruchte werk, vinden we gruwelijk mooie woordelijke passages en een gedegen psychologische schets. Daarnaast moeten we niet vergeten dat Humbert Humbert uiteindelijk wel degelijk gearresteerd wordt. Dit alles ontbeert het werk van Lammers.
 
+{{< advert >}}
+
 Wat hier verder nog van belang is met betrekking tot andere literatuur inzake dit onderwerp, is dat Lammers ook pedagogisch wordt ingezet. Natuurlijk: Nabokov doceerde o.a. aan Cornell University en Mann aan Princeton. Het moge echter duidelijk zijn dat dit iets geheel anders is dan een pedagogische rol te hebben voor kinderen vanaf vier jaar.
 
 

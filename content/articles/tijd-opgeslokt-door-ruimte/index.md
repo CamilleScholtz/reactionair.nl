@@ -40,6 +40,8 @@ Om terug te komen op Spengler, op de allerlaatste bladzijde van _Der Untergang d
 
 Tijd symboliseert compressie, en ruimte symboliseert expansie. Deze dualiteit is min of meer een weerspiegeling van de primaire dualiteit, die van essentie en substantie — of _Purusha_ en _Prakriti_, _Peras_ en _Apeiron_ — die alle manifestatie voortbrengt en regeert. De ruimte dijt steeds verder uit, zoals we zelfs in wetenschappelijke theorieën zien, en de tijd krimpt steeds verder in, krimpt zelfs _zelf_ in en versnelt als zodanig.
 
+{{< advert >}}
+
 Guénon neemt het hindoeïstische symbool van het wereldwiel, de _saṃsāra_. Tijd is cyclisch, en verder — in het hindoeïsme en de meeste andere tradities — verdeeld in vier tijdperken. Wij bevinden ons momenteel in het laatste, laagste en kortste tijdperk; de _kali yuga_. Het wiel draait sneller ten het einde van de cyclus; tijd versnelt. Er wordt vaak gezegd dat de mens tegenwoordig gehaaster leeft dan vroeger, en dat is in letterlijke zin waar.
 
 De eschatologie van Guénon is er een van solidificatie en daaropvolgende dissolutie. Solidificatie kan worden gezien in modernistische ideeën als het materialisme, en ontbinding in post-moderne ideeën als het relativisme. Dit is tijd omgezet in ruimte, en ruimte omgezet in tijd.

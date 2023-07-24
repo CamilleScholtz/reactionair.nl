@@ -34,7 +34,7 @@ Met dit stuk wil ik een voorbeeld geven van hoe de gemeentepolitiek in het nastr
 Echter de crux van de motie zit hem in het verzoek, waarbij de motie het college ergens toe oproept om wat te doen. Deze specifieke motie verzoekt het college om de gemeente aan te sluiten bij het SamenSpeelNetwerk en bij renovatie en nieuwe aanleg van speeltuinen dit te doen volgens de richtlijnen van dit netwerk. Overigens belangrijk om te melden dat de partij de motie in stemming wil brengen in de laatste raadsvergadering voor
 het reces zonder inhoudelijke behandeling in zo’n commissievergadering. Maar goed, hoelang moet een mens nadenken of je je wil aansluiten bij een organisatie die zich inzet voor de mogelijkheden om te spelen voor kindjes met een beperking? Wat betekent dit nu eigenlijk echt? 
 
-{{< boekencast >}}
+{{< advert >}}
 
 Bedenk dat als een politiek orgaan iets onderschrijft, zich aan een akkoord of doel committeert of zich aansluit bij een netwerk, dit geen vrijblijvende handeling is. Burgers kunnen de overheid namelijk houden aan beloftes die de overheid maakt, zie de Urgenda-zaak waarbij een belangengroep vond dat de overheid zich onvoldoende heeft ingespannen om doelen van het klimaatverdrag te halen. Dit klimaatverdrag (ook wel bekend als het UNFCCC, kende u het?) is een raamverdrag dat in 1992 in Rio de Janeiro werd afgesloten tijdens de “Earth Summit” met als doel broeikasgassen te reduceren.
 

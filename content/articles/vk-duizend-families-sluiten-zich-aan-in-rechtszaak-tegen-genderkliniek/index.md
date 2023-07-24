@@ -24,6 +24,8 @@ Advocaten verwachten dus dat ongeveer 1.000 gezinnen zich zullen aansluiten bij 
 
 Ze beschuldigen de dienst *“gender identity development service”* (GIDS) bij het Tavistock instituut en Portman NHS Trust van meerdere tekortkomingen in hun zorgplicht.
 
+{{< advert >}}
+
 Er zouden roekeloos puberteitsblokkers met schadelijke bijwerkingen zijn voorgeschreven en er is een "onvoorwaardelijke, bevestigende benadering" aangenomen voor kinderen die zich als transgender identificeren.
 
 Vorige maand kondigde NHS England aan dat het de Tavistock-kliniek zou sluiten vanwege veiligheidsproblemen na een vernietigende externe beoordeling. De zorg wordt overgedragen aan regionale kinderziekenhuizen na verwijzing van een huisarts.

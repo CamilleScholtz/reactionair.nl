@@ -32,6 +32,8 @@ Het enige wat we hoeven te doen, om ze elkaar in de haren te doen vliegen, is...
 
 Elkaar de tent uitvechten om punten en komma's is van oudsher een extreemlinkse hobby. Zoals iedere protestant zijn eigen bijbel heeft (ik overdrijf, jullie weten dat ik van jullie houd mijn protestantse broeders - *ich liebe doch alle Menschen!*[^6]), maakt iedere communist aanspraak op de enige ware interpretatie van de heilige schrift van Marx. Stalinisten, trotskisten, maoïsten, luxemburgisten, hoxhaïsten en nog vele vele andere denominaties hebben altijd meer energie besteed aan het bestrijden van elkaars ketterse leerstellingen dan aan het verheffen van de arbeider. We kunnen maar beter om lachen om deze dodelijke, maar tegelijkertijd diep kinderachtige humorloosheid.
 
+{{< advert >}}
+
 Nee dan wij! Wij bij _Reactionair.nl_ hebben in onze gelederen katholieken, protestanten, moslims, atheïsten en zelfs heidenen. En gezellig dat we het hebben met elkaar! Daarom: denk niet dat je de waarheid in pacht hebt, houd het gezellig, weersta de verleiding om de rol van slechterik op je te nemen, blijf gematigd racistisch (zonder haat: racisme en rassenhaat zijn twee heel verschillende beestjes) en laat je niet op de kast jagen. 
 
 Ja, alles waar we van houden brokkelt af, maar dat is geen reden om er geen mooie blankebinkenzomer van te maken. Wees weerbaar en vertrouw het plan. En luister *[synthwave](https://www.youtube.com/watch?v=juDSzGo-vUw)*.

@@ -28,6 +28,8 @@ Twitter is niet de plek voor echt contact of dialoog. Of om van elkaar te leren.
 
 Maar toch willen we zo veel mogelijk in contact blijven met mensen. Dus we gebruiken een kwalijk systeem. Maar uiteindelijk gebruikt dat ons. Communicatie is zeer belangrijk. Maar als het erop aankomt, zouden we meer moeten letten op *wat* we zeggen dan op populariteit. Maar dat is een principiële uitspraak. En principes zijn dood. Wij hebben ze vermoord.
 
+{{< advert >}}
+
 Op de middelbare school draait alles om uiterlijke schijn. De middelbare school houdt echter nooit meer op. Popcultuur is nu deel van het leven van volwassenen. Onverantwoordelijk gedrag en pesterijen ook. Mensen vernederen zichzelf online voor aandacht. Beter berucht, of belachelijk, dan ongezien. Het internet ondersteunt een cultuur die zowel exhibitionistisch als isolerend is.
 
 Dit gaat al langer terug. Onlinetherapeuten als dokter Phil die de kernwaarden van therapie verrieden om een show te kunnen hebben. Shows over wie de vader van het kind nou echt is. *‘Congratulations, you’re the father’*.

@@ -32,6 +32,8 @@ De in het voorgaande genoemde groepspolarisatie treedt ook op wanneer de discuss
 
 In hoeverre kan een mens “vrij” kan denken. Het ziet er naar uit dat geheel “vrij” denken een theoretische fictie is, want een mens ondergaat in zijn jeugd een leerproces waarbij hij gedachten, sympathieën, groepsverbondenheid, enzovoort overneemt van anderen. Het idee dat hij op een bepaalde leeftijd geheel zelfstandig zou kunnen gaan denken en oordelen is niet realistisch. Het is hier niet mogelijk scherpe definities te geven, maar het is verhelderend te kijken naar een uiterste, namelijk naar vormen van denken en gedrag die zó ver van “vrij” denken verwijderd liggen dat men ze “dwangmatig” kan noemen.
 
+{{< advert >}}
+
 De duidelijkste voorbeelden hiervan zijn te vinden in de psychoanalyse. Freuds therapie was gebaseerd op de theorie dat iemand zozeer gehinderd kan worden door onbewuste trauma’s uit het verleden dat hij niet meer normaal kan functioneren. Het doel van deze therapie was eigenlijk heel bescheiden: proberen om het denken en het gedrag van iemand op dit éne punt “vrij” te maken. Bijvoorbeeld om iemand los te maken van wat Freud noemde een “negatieve vaderbinding”.
 
 Het gaat hier niet om een oordeel over de waarde van de psychoanalyse, maar om de gevolgde gedachtegang. Deze is ook toepasbaar op het verschijnsel polarisatie. Hierdoor worden mensen vaak zozeer beknot in hun vrijheid van denken en beslissen dat men gerust mag zeggen dat ze “dwangmatig” denken en handelen. Dat geldt zowel voor een enkel individu als voor een groep. In de politiek leidt dit voortdurend tot slechte beslissingen. Maar dat valt doorgaans niet op doordat de wereld er aan gewend is geraakt. Onlogische opvattingen worden geloofwaardig als er maar voldoende mensen in geloven.

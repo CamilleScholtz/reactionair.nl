@@ -22,6 +22,8 @@ Met het inwijdingsfeest Chanoeka vierde men de contrarevolutionaire overwinning 
 
 De Seleuciden onder koning Antiochus III hadden rond 200 v. Chr. Judea veroverd op de Egyptenaren. Na een korte periode van tolerantie, was een campagne begonnen om het traditionele Joodse geloof aan te passen aan de Griekse cultuur. De hogepriester Jason, broer van de vorige hogepriester Onias III, maakte verzoenende gebaren van dialoog met de Hellenistische factie. Toch werd hij verdacht van te veel steun voor de traditionalisten. De modernistische factie zwoer samen met Koning Antiochus IV en hielpen hun kandidaat Menelaus om het hogepriesterschap te usurperen.[^4]
 
+{{< advert >}}
+
 Koning Antiochus IV legde afgoderij in de tempel op en het eten van varkensvlees. Modernistische joden waaronder de Tobiaden steunden dit.[^5] De traditionalisten die ertegen waren werden vervolgd en vermoord. Na jarenlange strijd wisten de Makkabeeën de Seleuciden te verslaan. De usurpator Menelaus werd verdreven en uiteindelijk gedood. 
 
 Bij het einde van de onderdrukking werd de oude eredienst hersteld. Judas Makkabeüs begon de herinwijding van de tempel op de 25ste van de maand Kislew, dezelfde datum waarop de profeet Nehemia zorgde voor terugkeer van het vuur in de tempel na de Babylonische ballingschap. De herinwijding van de tempel duurde 8 dagen. Overgebleven olie die slechts voldoende was voor één dag, brandde wonderbaarlijk 8 dagen lang. Dit was de basis voor de traditie van acht dagen lang kaarsen aansteken van de menora.[^6]

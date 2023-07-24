@@ -42,6 +42,8 @@ Tenminste zes overwegingen worden daarbij uit het oog verloren.
 
 We zouden het begrip 'feit' tamelijk oncontroversieel definiëren als 'ware uitspraak of gedachte'. Laten we dan ingaan op het begrip 'waar'. Dat zouden we, opnieuw met passering van alle moeilijkdoenerij waar filosofen zo bedreven in zijn, tamelijk oncontroversieel kunnen definiëren als 'in overeenstemming zijnde met de werkelijkheid'. De uitspraak 'deze appel is rood' is waar als de betreffende appel werkelijk rood is. Waarheid is dus een uitdrukking of afspiegeling van de werkelijkheid.
 
+{{< advert >}}
+
 Tot zover helder. Maar, en nu komt het eerste punt dat ik wil maken, een feit is altijd maar een uitdrukking van een brokje van de werkelijkheid. Je kan niet de hele werkelijkheid vatten in een uitspraak of gedachte zonder de grenzen van het normale taalgebruik te verlaten. "Das Wahre ist das Ganze" zei Hegel, het ware is het geheel.[^5] Feiten geven dus, zelfs als je er heel veel van verzamelt, een gefragmenteerd beeld van de werkelijkheid. Je kan nooit genoeg context geven, want de context van ieder afzonderlijk feit is de rest van het heelal. Aan het gebod "to tell the truth, the whole truth and nothing but the truth", zoals we dat uit Amerikaanse rechtbankfilms kennen, kan wat het tweede lid betreft, the _whole_ truth, geen mens voldoen.
 
 Dit betekent dus dat er altijd een _selectie_ gemaakt moet worden van welke feiten wel gepresenteerd worden en welke buiten beschouwing worden gelaten. Ook als iemand zich uiterst consciëntieus ervoor inzet om deze selectie dan toch tenminste een zeker evenwicht mee te geven, is het onmogelijk om alle vooringenomenheid en subjectiviteit uit te sluiten. Een selectie sluit per definitie uit. 

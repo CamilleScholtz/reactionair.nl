@@ -36,6 +36,8 @@ Laten we even dieper ingaan op verdraagzaamheid als ideaal. Het betekent in weze
 
 Het is natuurlijk erg vreemd om zo'n negatief ideaal tot allerhoogste deugd te kronen. De praktische uitwerking is dat ieder zijn eigen ding doet - naast elkaar. Gemeenschap, toch een onmisbare bron van levensvreugde,[^6] is facultatief. Wat een ander doet, zijn jouw zaken niet. Verdraagzaamheid is in diepste wezen onverschilligheid.
 
+{{< advert >}}
+
 Onverschilligheid is een houding die zich heel lastig verhoudt met naastenliefde. Een levensbeschouwing waar je écht in gelooft, maakt bijna noodzakelijkerwijze aanspraak op een vorm van algemene geldigheid. Een diepgelovige christen of moslim kan niet lijdzaam toezien terwijl zijn naaste zich in het verderf stort. Hij heeft zijn naaste lief en wil hem dus redden. Onverschilligheid is voor hem een zonde. Bovendien, als twee mensen echt ergens in geloven, gaat dat onvermijdelijk botsen en dat willen we niet hebben.
 
 Ergens echt van overtuigd zijn, komt kortom niet van pas in de open samenleving. De levensstijl die er het beste bij past, eert de heilloze drie-eenheid nihilisme - consumentisme - atomisme. 

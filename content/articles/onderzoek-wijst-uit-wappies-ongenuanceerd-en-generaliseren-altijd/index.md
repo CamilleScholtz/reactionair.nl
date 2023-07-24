@@ -16,6 +16,8 @@ In een verbluffend nieuw onderzoek is de onbetwiste waarheid aan het licht gekom
 
 Het onderzoeksteam, bestaande uit eminente wetenschappers met gezonde doses gezond verstand, dook diep in de wereld van de wappies. Ze hebben talloze uren doorgebracht met het bestuderen van hun online manifestaties, en wat ze ontdekten was ronduit alarmerend. Het blijkt dat wappies een ongeëvenaard talent hebben om elke vorm van nuance te vermijden en zonder enige aarzeling te generaliseren. Dit blijkt zonder uitzondering geldig te zijn.
 
+{{< advert >}}
+
 Volgens het ILR is het alsof wappies een ingebouwd filter hebben dat hen immuniseert tegen grijstinten en subtiliteit. Elke vorm van complexiteit lijkt volledig verloren te gaan in de wirwar van samenzweringstheorieën en ongefundeerde beweringen die ze verspreiden. Of het nu gaat om vaccins, klimaatverandering of zelfs de vorm van de aarde, wappies zijn er altijd als de kippen bij om een eenvoudige en onnauwkeurige verklaring te geven die de werkelijkheid oversimplificeert. Ook stoppen ze mensen vaak in gemakzuchtige hokjes.
 
 Het is verbazingwekkend hoe wappies erin slagen om de wereld te bekijken door een bizar vervormde lens van onnauwkeurigheden. Voor hen lijkt het begrip "nuance" een mythisch concept te zijn dat alleen bestaat om hun schijnbaar onuitputtelijke bron van complottheorieën te dwarsbomen. Ze lijken te denken dat er maar twee kanten aan een verhaal zijn: hun kant en de verkeerde kant. En natuurlijk, zij zijn altijd degenen die het bij het juiste eind hebben.

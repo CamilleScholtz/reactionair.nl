@@ -17,6 +17,8 @@ Maar wat is een homogenezer? Dat moet je aan de liberalen zelf vragen. Op intern
 
 _RTL Nieuws_ bracht vorig jaar een verhaal over een jongen (Wouter) die uit een orthodox reformatorisch milieu komt waar blijkbaar in tongen gesproken wordt.[^2] Zeer bijzonder, daar dit zeker niet de norm is en absoluut niet orthodox. Nu wil ik niet aan _‘victim blaming’_ doen maar het is exemplarisch voor de berichtgeving omtrent dit veronderstelde gevaar. De zogenaamde therapie bleek te bestaan uit een bijeenkomst waar dus in tongen gesproken werd om de demon van de homofilie te verdrijven. Geen therapeut kwam er aan te pas, maar een ouderling en een ‘vooraanstaande evangelist’ die het ritueel uitvoerden. 
 
+{{< advert >}}
+
 Dat er mensen zijn die problemen hebben met hun geaardheid en dat zij daar zelf hulp bij zoeken is volgens het wetsvoorstel niet wat ze willen verbieden overigens. Een belangrijke nuance.  Zij willen kwetsbaren beschermen. En dat kwetsbaren beschermd moeten worden staat natuurlijk buiten kijf. Het werkelijke probleem is echter niet dat ‘christenen’ massaal hun kinderen op homogenezingstherapie doen. We hebben het namelijk bijna altijd over een hele specifieke groep; namelijk Evangelische en charismatische gemeenten, waar wel meer problemen spelen dan alleen homogenezingsrituelen. Mensen geven veel geld in de overtuiging dat ze weer kunnen lopen of dat hun kanker zal verdwijnen. Maar die mensen behoeven geen bescherming, hadden ze maar tot de beschermde _LHBTI_ kaste moeten behoren.
 
 

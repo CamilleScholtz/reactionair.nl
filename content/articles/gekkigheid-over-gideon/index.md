@@ -84,7 +84,7 @@ Hierdoor verkeert Nederland in de bizarre situatie dat wetten niet door de recht
 
 Verdragen worden niet met twee derde meerderheid in beide kamers aangenomen of aangepast. Ze bezitten niet het brede draagvlak, de consensus, die de grondwet van een land heeft.
 
-{{< boekencast >}}
+{{< advert >}}
 
 Argumenten tegen het afschaffen van het toetsingsverbod zijn vaak tegenstrijdig. Aan de ene kant zou het fout zijn voor ongekozen rechters om wetgeving strijdig met de grondwet te kunnen verklaren, terwijl ze aan de andere kant dit toch al met internationale verdragen kunnen doen.
 

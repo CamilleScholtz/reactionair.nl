@@ -39,7 +39,13 @@ export const comments = (main) => {
 				</div>
 
 
-				<div class="comment-body">${data.get("body")}</div>
+				<div class="comment-body">
+					${data.get("body")}
+
+					<small>
+						Reacties worden handmatig goedgekeurd, het kan enkele uren duren voordat de opmerking zichtbaar is voor anderen.
+					</small>
+				</div>
 			</div>
 		`;
 

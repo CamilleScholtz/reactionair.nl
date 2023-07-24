@@ -32,6 +32,8 @@ Sommige mensen vragen zichzelf af hoe het mogelijk is dat mensen nog steeds comm
 
 De reden hiervoor is dat de mensen die communisme voorstaan zich voornamelijk gemotiveerd weten door ressentiment en haat. Het interesseert ze niet of communisme iemand verheft of sterker maakt – ze willen gewoon de mensen voor wie ze afgunst koesteren naar beneden halen. Zolang als een bovengemiddeld iemand wordt neergehaald naar hetzelfde niveau als ieder ander, is dat voldoende.
 
+{{< advert >}}
+
 Bioleninisme verzamelt dezelfde soort slaven onder zich die normaliter christen zijn. Alleen nu, in plaats van ongelovigen op de brandstapel te gooien, worden politieke vijanden vervolgt. Zij die gezond genoeg zijn om de waarde van hun familie en natiestaat te doen gelden, wordt het zwijgen opgelegd. Ze worden niet burgerlijk of ongelovig genoemd, maar tot nazi gebrandmerkt.
 
 Kenmerkend voor de bioleninist is een obsessie met gelijkheid, die zij ophouden als een deugd omwille van zichzelf. De logica is dat de genetische verworpenen in zichzelf een diep gevoel van vernedering ervaren in het bijzijn van de genetisch gezonde mensen. Alleen door hun gezicht te besmeuren kan de verworpene deze vernedering vermijden.

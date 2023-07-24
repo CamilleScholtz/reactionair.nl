@@ -35,6 +35,8 @@ Het huwelijk is de kern van het sociaal leven. Kinderen krijgen is geen _bucket-
 
 De Germaan zal het gezin moeten herstellen. Feminisme moeten afwerpen. Man en vrouw moeten zich coöperatief opstellen in het gezin. En niet competitief. 
 
+{{< advert >}}
+
 Het huwelijk moet jong geambieerd worden en er moet oog zijn voor iedereen. Nu is onze randstad het toneel van contextloze seksualiteit en vele eenzame mannen. Mannen die we dan niet uitselecteren want sociaal darwinisme is voor nazi’s, maar we koppelen ze eveneens niet aan vrouwen want het Abrahamitische huwelijk is ouderwets. Dat is de misselijkmakende luiheid en holheid van het postmodernisme. Mensen aan hun lot overlaten en wegkijken van zowel de traditie van toen als oplossing voor morgen. Dingen maar op zijn beloop laten, als urine bij incontinentie. 
 
 Dan de problemen rond immigratie. De grenzen moeten sluiten. Dit is een Germaans land. Een land met een volk en met een geschiedenis. Dit land hoeft niet op te gaan in een raciaal vloeibaar globalisme. Verliefde mensen kunnen raciaal mengen maar het moet geen propaganda worden. Etnische gemeenschappen willen geregeld zichzelf blijven en hier is niets mis mee. Het is onze hedendaagse denkfout dat het behoud van blanken of het willen vormen van een blanke zuil gelijk zou staan aan nazisme. Men kan prima trots zijn op de eigen etnische zuil zonder de overige etnische zuilen te willen schaden. Zoals je als gezin ook het meeste oog hebt voor je gezinsleden, hetgeen dan niet betekent dat de overige gezinnen voor jou rechteloos zouden moeten zijn, laat staan geschaad of benadeeld zouden mogen worden. 

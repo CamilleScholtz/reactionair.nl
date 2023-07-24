@@ -21,6 +21,8 @@ Dit heeft natuurlijk te maken met het feit dat Nederland in de breedte een calvi
 
 Van oudsher heeft het getal 40 een bijzondere betekenis. Veertig dagen is de duur van bijvoorbeeld de zondvloed, het verblijf van Mozes op de berg Horeb, het verblijf van Jezus in de woestijn, de vastentijd voor Pasen, de tijd tussen Pasen en Hemelvaart. Maar denk ook aan de bruidstijd, de wittebroodsweken, de kraamtijd, de officiële rouwperiode. Het eerste lachje van een kind kan je ontdekken op de 40e dag na de geboorte. Veertig dagen is de kritische grens voor een hongerstaker. Veertig weken duurt een zwangerschap, in veertig jaar voerde Mozes het Joodse volk terug uit Egypte.
 
+{{< advert >}}
+
 Een rode draad hierin is de dood en geboorte. Het begin en het einde. Van grenzen en mogelijkheden. De functie van de 40-dagen tijd zit hem in het ervaren van mogelijkheden en grenzen. De mogelijkheid om nee te zeggen en daarmee de kracht van grenzen te ervaren. In tegenstelling tot het niet-beleven, de ervaring van het dagelijkse leven als een sleur. Door jezelf geneugten te ontzeggen wordt je dagelijks geconfronteerd met de essentie van de 40-dagentijd; bezinning op het aardse leven en de dood. En wat hebben wij dat nodig. Geen _SIRE_ campagne alstublieft.[^2] Maar werkelijke bezinning.
 
 Het ritueel van het askruis is de markering van het begin van deze periode. Het startschot van het ritme voor de komende 40 dagen. Een begin van het einde van de geneugten die voor jou moeilijk zijn om op te geven. Mijn vurige wens is dat deze Pasen er weer meer Nederlanders de 40 dagen tijd hebben beleefd - Protestant, Katholiek, Agnost - ik wens jullie allen bezinning. Laten we daarvoor bidden!

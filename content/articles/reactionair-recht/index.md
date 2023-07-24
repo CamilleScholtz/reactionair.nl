@@ -30,6 +30,8 @@ Dit vereist consistente principes. Bindende afspraken. Dit alles neigt naar cons
 
 Een ideaal voorbeeld van wat nou precies het streven is van de reactionair, in juridische zin; het enorm actuele, maar zeer controversiële *‘brisantes Thema’* om met onze Duitse buren te spreken: de pro-life jurisprudentie. Nederland is niet zeer rijk aan rechterlijke uitspraken in dit domein, omdat vooralsnog niet wordt getoetst aan de grondwet (toetsingsverbod ex art. 120 Grondwet, maar om hier wat meer over te weten raad ik, Calvin, de lezer stevig aan om Sanura hier eens op na te lezen). Hier bezigen die *‘verrückte’* D66-rechters alleen toetsing aan internationale mensenrechtenverdragen of het EVRM.
 
+{{< advert >}}
+
 Maar terug naar het onderwerp abortus. Het onderwerp waarvan de gemiddelde liberaal wakker ligt, sinds het zo verdomd ingewikkeld is om wat dit onderwerp betreft een steevaste opinie te vormen én behouden. Want moord is moord? Je doodt de baby? Oh, maar het is *my body, my choice*? En je bent wel voor de vaccinatieplicht? Heel ingewikkeld dit…
 
 In ieder geval is het laatste woord hierover nog niet gesproken op zowel het politieke als het juridische toneel. Met de vele politieke veranderingen die in het verschiet liggen zal er nog veel meer over worden gediscussieerd, en we kijken er met smart naar uit.
@@ -84,8 +86,6 @@ NB: zowel de operatieve wijze van het uitvoeren van abortus, als *‘abortifacie
 De totaal onrealistische onderzoeken en theorieën van Alfred Kinsey – de man die stelde dat de mens slechts een seksueel gemotiveerd, van nature biseksueel, sinds geboorte seksueel actief wezen is, en die stelde dat kuisheid, monogamie enheteroseksualiteit slechts een door de maatschappij geforceerd vooroordeel is – zorgden voor een hoop ophef en woede binnen de maatschappij, behalve bij de reguliere media. In plaats van het *factchecken* (word a.u.b niet ziedend over mijn gebruik van dit enorm hippe en toepasselijke woord) of controleren van de grote onderzoeken van Kinsey, wiens testsubjecten grosso modo allemaal opgesloten criminelen waren,[^14] lieten de media hun ware aard zien: ze adoreerden Kinsey’s gatenkaas theorieën, in plaats van ze te bevragen.
 
 Dit alles resulteerde in de grote seksuele revolutie in de jaren 60. Kinsey’s werk vormde het nieuwe fundament voor de seksuele voorlichting. Heteroseksualiteit en traditionele waarden werden gereduceerd tot een vreemde pathologie. Kinderen, jong in hun tienerjaren, werden geïndoctrineerd door onderwijsinstellingen die de bovengenoemde ‘theorieën’ van Kinsey lovend overnamen.
-
-{{ boekencast }}
 
 En zo werden ideeën als huwelijk, monogamie en heteroseksualiteit aan de kant geschoven voor een pedofiele, pornografische en biseksuele leer. Zaken als abortussen, scheidingen, sadomasochisme, verkrachtingen en kindermisbruik namen buitenmatig toe. Zo schreef dr. Judith Reismann – een schrijfster en grondlegger van de zogenoemde ‘anti-Kinsey beweging’ – in haar boek *“Kinsey, Seks, And Fraud”* dat al deze zorgwekkende gevallen direct te wijten waren aan Kinsey en zijn enorm gefraudeerde onderzoeken.[^15]
 

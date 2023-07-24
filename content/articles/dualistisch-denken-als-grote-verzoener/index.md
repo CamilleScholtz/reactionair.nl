@@ -45,6 +45,8 @@ Echter bestaat er ook de Zwarte Zon, het licht van deze Zwarte Zon is de voeding
 Maar, zult u zeggen, dit is toch slechts onze fantasie? Stel uzelf voor dat u droomt en onderwijl in uw droom de meest fantastische avonturen beleeft. U bent zich er niet van bewust dat tijdens uw slaap zich een verschrikkelijke gebeurtenis voltrekt die iedereen en alles om u heen vernietigd. Maar u slaapt door en in uw droom is alles om u heen even tastbaar en reëel als in de uren dat u wakker bent.
 Smaak, geur, tastzin, gehoor, beeld... alles is aanwezig om een realiteit te creëren voor u.
 
+{{< advert >}}
+
 Uw eigen geest creëert het voor u. En zolang u uw ogen niet opent zult u zich onbewust zijn van de ramp die zich heeft voltrokken. Twee realiteiten bestaan nu simultaan: de fysieke realiteit en de realiteit die uw geest heeft geschapen.
 
 Stel uzelf nu voor dat u in de wakkere uren verder gaat met het scheppen van een realiteit in uw geest, u denkt het voorgestelde letterlijk de werkelijkheid in.

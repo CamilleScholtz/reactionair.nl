@@ -49,6 +49,8 @@ Voor orthodoxe protestanten en een aantal sympathiserende conservatieven is de S
 
 De SGP in Groningen is daarentegen juist nieuw. Voorheen steunde de partij in die provincie de CU, maar zoals op meer plekken is die samenwerking door groeiende ideologische verschillen afgebroken. Dapper hebben de mannenbroeders zich daarmee tot taak gesteld uit de tamelijk onvruchtbare Groningse grond een zetel te laten groeien. Ik zou elke Groninger willen oproepen hen daarbij te steunen, zeker gezien er in die provincie toch nauwelijks reden is om strategisch te stemmen. Daarbij spitst mijn stemadvies zich in het specifiek toe op de opperbeste nummer 11 van de SGP-lijst. Als u de mogelijkheid heeft om op hem te stemmen dan kan ik u zeker aanraden daar gebruik van te maken.
 
+{{< advert >}}
+
 Waar de SGP nog wel samenwerkt met de CU is het onverstandig om op hen te stemmen. Deze fracties eindigen onherroepelijk aan de CU- en niet aan de SGP-kant van het spectrum. Dit is in het bijzonder relevant voor Noord-Brabant, waar de beide partijen zelfs één lijst presenteren. In Zuid-Holland, waar nu nog een gezamenlijke CU-SGP-fractie bestaat, is inmiddels duidelijk dat dit na de verkiezingen niet meer het geval zal zijn. Daar is de keuze voor de SGP dus weer open.
 
 

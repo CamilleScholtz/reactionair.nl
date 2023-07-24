@@ -37,6 +37,8 @@ Zo’n houding is logisch, wanneer je er overtuigd van bent, dat _‘you only li
 
 Utilisme of hedonisme zijn dan de meest logische levensfilosofieën. Je kunt leven gericht op het vermeerderen van het aardse geluk van anderen, of dat van jezelf, of een combinatie van die twee. Je bezighouden met abstracte concepten met een betekenis of waarheid los hiervan, is dan tijdverspilling. Zelfs vriendschap in de Aristotelische zin, lijkt zinloos.
 
+{{< advert >}}
+
 De focus ligt op verlaten van het gezin, deel worden van de massa, de kudde en deelnemen aan de consumptiecyclus. Door te produceren voor de economie, door arbeid te verrichten, draag je bij aan de samenleving. Door weg te gaan bij je ouders ben je hen niet meer tot last en tegelijk wordt er niet meer verwacht dat je voor hen zorgt als ze oud zijn. Je talenten ontwikkelen betekent vooral je lichaam ontwikkelen, of praktische intelligentie, of kunst of filosofie waar je geld mee kan verdienen (dus eigenlijk vermaak voor anderen). Dingen die gewaardeerd worden terwijl je leeft. Wat waardevol is in de ogen van de meerderheid nu.
 
 Leven gaat weer om overleven. Net als voordat we de luxe van beschaving hadden verworven. Toen we leefden als jagers en verzamelaars. Deze visie verenigt naturalisme en materialisme, atomistisch individualisme en kudde-denken. De moderne levensvisie. Deze wordt gevolgd door progressieven, van marxisten tot liberalen, maar raar genoeg ook door veel mensen die stellen conservatief, christelijk, of anderszins spiritueel te zijn. 

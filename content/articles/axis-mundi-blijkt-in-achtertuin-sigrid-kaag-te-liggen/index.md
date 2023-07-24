@@ -22,6 +22,8 @@ Volgens Kaag begon haar achtertuin zich op een mysterieuze manier te manifestere
 
 Natuurlijk, met haar nieuwe status als spirituele gids, heeft Kaag een hele reeks volgelingen aangetrokken. Op sociale media circuleren er nu foto's van haar achtertuin, waar mensen in kleermakerszit rondom een fontein zitten, met hun ogen gesloten en handen in meditatiehouding. Hashtags als #AxisMundiEnlightenment en #KaagSpiritualRevolution hebben snel terrein gewonnen.
 
+{{< advert >}}
+
 Hoewel Kaag het niet verwacht had, zegt ze ook weer niet zo heel verbaasd te zijn. "Ik had altijd al het gevoel dat de wereld om mij draaide." laat ze optekenen. "Als je er over nadenkt, is het ook heel logisch. Ga maar na: in het westen liggen Londen en Washington, in het noorden Amsterdam, in het oosten Berlijn, in het zuiden Parijs en iets verderop Niger en mijn tuintje ligt daar precies middenin!" Ook haar dochters hebben gereageerd: "We've always known our mother was special, but the thing we love about her most, is how humble and down to earth she always remained. All things considered, it just makes sense for the world axis to be in her backyard."
 
 Deskundigen op het gebied van religie en spiritualiteit hebben hun twijfels geuit over Kaags beweringen. Prof. Dr. Wouter Hanegraaff, een kenner van de westerse esoterie, verklaarde: "Hoewel het concept van de axis mundi in verschillende culturen voorkomt, lijkt het me sterk dat het zich nu plotseling in een achtertuin in Nederland bevindt. Het lijkt eerder op een geval van spirituele grootheidswaan."

@@ -30,6 +30,8 @@ Nu is deze ontwikkeling niet iets van gisteren. De seksuele revolutie is al meer
 
 Na de bevrijding van seks van voortplanting, is er dan ook een nieuwe trend te ontwaren. De ontkoppeling van seksuele aantrekkingskracht en seks. Dat wil zeggen: het wordt belangrijker om seks te kúnnen hebben, dan het daadwerkelijk te hebben. Het is waardevoller om begeerd te worden, dan om bevredigd te worden. Dit is dan ook de reden dat prostitutie geen oplossing is voor het _incelprobleem_. Waar hij daadwerkelijk naar hunkert, is erkenning in de vorm van begeerd, en dus gerespecteerd te worden. Maar aan de andere kant van de seksuele hiërarchie, lijdt men ook. We zouden het Instagram-meisje met miljoenen volgers maar een onbevredigd hart kunnen vergelijken met de vrek die weliswaar miljoenen op de bank heeft, maar er niet van gelukkig van wordt. Niet dat dat meisje niet geniet van de aandacht, maar het is nooit genoeg. Sterker nog, als de stroom aan likes en volgers opdroogt, zou dat haar in een diepe crisis storten.
 
+{{< advert >}}
+
 Een andere parallel die we kunnen trekken, is met het fenomeen _virtue signaling_, oftewel deugseinen. Ook hier gaat het meer om het signaal dat men afgeeft, dan op hetgeen erachter zit. Om de perceptie, niet de werkelijkheid. Net zoals geld virtueel voor consumptie staat, staat een moreel gebaar virtueel voor deugdzaamheid en staan Instagramvolgers virtueel voor seks. Al deze symbolen kunnen natuurlijk met het grootste gemak gemanipuleerd worden. Geld kan bijgedrukt worden, verontwaardiging gespeeld, het uiterlijk gephotoshopped en volgers gekocht. Daardoor zijn we in een virtuele wereld terechtgekomen waar niets is wat het lijkt en onze oerinstincten voortdurend genept worden door supranormale prikkels.[^1]
 
 

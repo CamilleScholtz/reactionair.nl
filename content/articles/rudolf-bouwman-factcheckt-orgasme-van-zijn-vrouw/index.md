@@ -22,6 +22,8 @@ De volgende morgen, werd hij wakker met een verwilderde blik in zijn ogen. Rudol
 
 Hij besloot namelijk dat het tijd was om zijn nieuw verworven factcheckingvaardigheden toe te passen op een heel intiem onderwerp: het orgasme van zijn vrouw. Met zijn trouwe rode pen in de hand en een ernstige uitdrukking op zijn gezicht, ging Rudolf aan de slag. Hij begon een uitgebreid onderzoek op het internet, op zoek naar wetenschappelijke artikelen, statistieken en getuigenissen die zijn vermoeden zouden bevestigen dat zijn vrouw mogelijk niet het volledige genot van een orgasme beleefde.
 
+{{< advert >}}
+
 Terwijl zijn vrouw verbaasd en ongemakkelijk toekeek, presenteerde Rudolf haar een diavoorstelling van grafieken en diagrammen, die zijn twijfels over haar seksuele ervaring ondersteunden. Hij citeerde gerenommeerde onderzoeken, bracht statistieken naar voren en eiste een feitelijke verklaring voor wat hij als "tekortschietende climaxprestaties" beschouwde.
 Verwarring en woede vulden de kamer terwijl Rudolf zijn "feitelijk bewijs" blijvend verdedigde. Zijn vrouw, die tot dan toe altijd genoten had van hun intieme momenten, voelde zich belachelijk gemaakt en onzeker. Ze vroeg zich af hoe haar persoonlijke ervaringen herleid konden worden tot kille statistieken en wetenschappelijke studies.
 

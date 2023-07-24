@@ -46,7 +46,7 @@ Dit wordt gewoonlijk voorgesteld als een complot van de elite / nieuwe wereldord
 
 Net als het Verleden, is de Toekomst in zekere zin al ‘gebeurd’. De Toekomst ‘emergeert’ uit het Verleden, terwijl het Verleden ‘terugtrekt’ van de Toekomst.
 
-{{< boekencast >}}
+{{< advert >}}
 
 De reden dat de Toekomst niet ‘verschijnt’ als padafhankelijk is dat mensen-chimpansees geëquipeerd zijn met een specifiek perceptueel apparaat, wat hen doordringt van een grotesk overtrokken notie van niet alleen individuele autonomie, maar ook gecollectiviseerde groepsautonomie.
 

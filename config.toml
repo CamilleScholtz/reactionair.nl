@@ -32,8 +32,8 @@ ignoreErrors = ["error-remote-getjson"]
 		articles   = "/artikelen/"
 		shop       = "/winkel/"
 	[permalinks.term]
-		authors    = "/auteurs/:slugorfilename/"
-		themes     = "/themas/:slugorfilename/"
+		authors    = "/auteurs/:slug/"
+		themes     = "/themas/:slug/"
 		publishers = "/winkel/uitgeverij/:slug/"
 		languages  = "/winkel/taal/:slug/"
 	[permalinks.taxonomy]

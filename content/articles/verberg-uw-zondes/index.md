@@ -26,6 +26,8 @@ Dit toont aan dat zelfs wanneer het gaat om een zonde waar een duidelijke straf 
 
 De terechte vraag kan gesteld worden of deze afschrikwekkende functie, en het gebod om je zonden privé te houden, er niet toe leidt dat mensen daden zoals ontucht niet alsnog plegen, maar dat ze dit enkel doen in de luwte, weg van het oog van mensen. En de criticaster zou hier aan toe kunnen voegen dat God alles ziet en dus dat zelfs indien men de zonden van elkaar verborgen houdt, deze nog altijd door God gezien worden. En dat het weghouden van de zonden voor elkaar maar niet voor God dus zou kunnen betekenen dat men banger is voor de mening van de mensen dan de mening van God.
 
+{{< advert >}}
+
 De beschuldiging dat het Islamitische gebod op het verbergen van je zondes hypocrisie in de hand zou kunnen werken is dan ook meermaals gemaakt. Niet enkel door Niet-Moslims, maar vooral ook door Moslims die vaak niet op de hoogte zijn van dit gebod. Iemand die bijvoorbeeld in zijn privétijd alcohol drinkt maar vervolgens naar buiten toe de vrome Moslim speelt zal al gauw de stempel van “hypocriet” ontvangen vanuit de Islamitische gemeenschap.
 
 Maar hoewel deze argumenten op het eerste oog hout lijken te snijden, missen zij grotendeels de functie van het gebod. Zoals gezegd hebben de wetten van de _Sharia_ vooral een afschrikwekkende werking, welke belangrijker is dan het daadwerkelijk uitvoeren van de straf zelf. Dit is omdat de functie van deze regels voornamelijk bestaan om de gehele gemeenschap te beschermen, en niet zo zeer om individuele mensen te straffen.

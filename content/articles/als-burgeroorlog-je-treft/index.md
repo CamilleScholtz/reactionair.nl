@@ -31,6 +31,8 @@ Maar dat was tenminste nog theoretisch. In Oekraïne maken ze nu daadwerkelijk e
 
 Oorlog toont wie mensen echt zijn, of, in sommige gevallen, geeft het ze de kans te kiezen om beter of slechter te worden. Maar het zijn altijd de uitzonderingen die radicaal veranderen. De meerderheid toont haar innerlijke aard: egoïsme, lafheid, opportunisme en beestachtigheid. 
 
+{{< advert >}}
+
 Burgerloog is oorlog in het kwadraat. De ene dag groet jij je buurman nog vriendelijk, de volgende dag vermoordt hij je, martelt je zoon of verkracht je dochter
 
 Angst, chaos en adrenaline brengen de duisternis in mensen aan het licht. Propaganda en groepsdruk laten mensen hun geweten en zelfs 2+2=4 vergeten. Wat de ene dag onmogelijk lijkt, is de volgende dag juist normaal. Er komt nooit vaccinatiedwang… nee, het is toch nodig; we willen een constitutionele monarchie… Lodewijk XVI en zijn vrouw moeten dood.

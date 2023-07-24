@@ -32,6 +32,8 @@ Zo hebben we het juk van een onderdrukkende tiran van onze schouders geworpen, m
 
 De door de meerderheid gekozenen hebben dit verstand als vanzelfsprekend _wel_ en degenen die geen verstand van iets hebben zijn bij uitstek geschikt om te beoordelen wie dat verstand wél hebben, zoals u zult begrijpen.
 
+{{< advert >}}
+
 Voorts willen de volksvertegenwoordigers zelf hun functie natuurlijk vanuit de zuiverste motieven bekleden. Buiten kijf staat dat zij welzeker niet uit machtswellust aan hun politieke carrière beginnen of hun bestuurlijke functie op hun curriculum vitae willen toevoegen teneinde een comfortabele zetel te kunnen verkrijgen bij de directie van één of andere multinational na de afloop van hun bestuurlijke termijn.[^4]
 
 Daarbij is het gevaar van volkswoede kolossaal. Het volk laat zich immers gemakkelijk opzwepen tot schuimbekkende waanzin, tot niet te onderschatten zinsverbijstering. Het is precies de reden dat wij de rechtspraak niet aan het volk overlaten; Pilatus liet zich door het volk vermurwen de zoon Gods te laten kruisigen, hoewel hij zelf de onschuld van de hem voorgeleide reeds had geconstateerd. Maar hij was bang voor het woedende volk. Ook de gebroeders De Witt hebben, recenter en dichterbij, van de ontstemde volkswil kunnen proeven. Bij het landsbestuur mag woede dan de tijd hebben om te bekoelen, bemiddeld als deze is door het kiesrecht, ook hier is de waan van de dag van beduidend belang voor de verkiezingsuitslagen waarmee de macht van de bestuurders gelegitimeerd wordt.

@@ -83,6 +83,8 @@ Wij dalen verder af, na de wil zowel in onze onbewuste processen als in alle and
 
 Een noemenswaardig element dat Van Rossum hier toevoegt aan zijn uiteenzetting is de holon-theorie die hij ontleent aan het werk van de Hongaars-Britse schrijver Arthur Koestler. Dit model gaat uit van een hiërarchische structuur van eenheden (holons) die zowel op zichzelf staan (een zelf-assertieve tendens hebben) alsook deel zijn van een groter geheel (een integratieve tendens hebben). Op deze manier slaat Van Rossum een brug tussen de levende en de levenloze natuur; want dit model is op beiden goed toepasbaar en omdat het streven naar complexe organisaties inherent is aan de natuur, blijkt de kloof tussen het levende en levenloze grotendeels een waanvoorstelling.
 
+{{< advert >}}
+
 Ook hier, namelijk, onthult zich de wil als drijvende kracht achter de anorganische natuur; en zowel de zwaartekracht, als integratieve tendens; een principe dat niet strookt met een willekeurige dans van botsende deeltjes, als de paradox van het “fine-tuned universe” vinden in de wilshypothese hun plaats.
 
 > Materie—dat wat wij als materie zien—is wil. Deze drang, zowel onze wilsuitingen als de natuurkrachten, is de drang tot manifestatie in tijd en ruimte in de vorm van steeds grotere structuren. Dat zijn wij, dat is het leven, dat is materie, dat is evolutie, dat is het universum. Dat is alles, dat zijn wij.[^13]

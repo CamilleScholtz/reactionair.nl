@@ -39,6 +39,8 @@ Selectieve geschiedschrijving benadrukt vaak hoe uitzonderlijk wreed de kruisvaa
 
 Kortom, focussen op alleen het zogenaamde contrast tussen enerzijds barbaarse kruisvaarders die Jeruzalem plunderden en anderzijds een verlichte Saladin die zijn tegenstanders zou hebben gespaard toen hij in 1187 deze stad veroverde, negeert een belangrijke achtergrond en is daardoor een nogal selectieve vergelijking.
 
+{{< advert >}}
+
 Belangrijker nog, Saladin hoefde Jeruzalem ook niet gewelddadig binnen te trekken. In tegenstelling tot de kruisvaarders die de stad hadden moeten innemen, gaven de kruisvaarders zich na onderhandelingen over aan Saladins troepen. Ze hadden aanvankelijk gedreigd tot de laatste man te vechten en alle schatten in de stad te vernietigen. Zelfs de uiterst politiek correcte film _‘Kingdom of Heaven’_ liet de onderhandelingen zien die vervolgens zorgden voor de overgave. Saladin had daarbij toegezegd dat ze veilig mochten vertrekken, maar wel in ruil voor betalingen.[^6]
 
 Volgens het oorlogsrecht in die tijd werd een stad gespaard als die zich overgaf, en geplunderd wanneer die moest worden ingenomen.[^7] Dit was dus geen eenvoudig geval van een genadevolle veroveraar die hulpeloze gevangenen spaarde. Bovendien verkocht Saladin degenen die zich niet konden vrijkopen, —waaronder 8000 vrouwen en kinderen— als slaven.[^8] Hij was vooral humanitair in ruil voor geld. Saladin gaf ook het bevel, dat 200 tempeliers onthoofd moesten worden; en onthoofde zelfs persoonlijk Raynald (Reinoud) van Châtillon.[^9]

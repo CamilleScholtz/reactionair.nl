@@ -19,4 +19,6 @@ tags:
 
 Normaalgesproken moet hij hockeyen op zaterdag, maar dit keer had Jan-Joeri iets anders op het programma staan. Zijn vader had een ontmoeting met een heuse arbeider voor hem geregeld. In de marxistische discord voerde hij altijd het hoogste woord over 'de arbeidende klasse' en 'de bevrijding van het proletariaat', een van zijn vrinden, pardon: _kameraden_, uit de  discord had zelfs eens een gesprek gehad met een arbeider, maar zelf was hij nog nooit zo dichtbij geweest.
 
+{{< advert >}}
+
 Het contrast tussen de luxueuze omgeving waarin Jan-Joeri was opgegroeid en de werkomgeving van de arbeider was onmiskenbaar. Terwijl Jan-Joeri gewend was aan weelde, comfort en privileges, bevond de arbeider zich dag in dag uit in een wereld van hard werk en nederigheid. Dit contrast van tegenstrijdige levensstijlen en perspectieven was onvermijdelijk aanwezig tijdens hun ontmoeting. Uiteraard is er wel voor een blanke arbeider gekozen, want een kleurling vond Jan-Joeri net iets te veel van het goede. "Het moet wel leuk blijven" zei hij desgevraagd.

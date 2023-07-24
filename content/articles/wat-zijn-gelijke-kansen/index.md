@@ -32,6 +32,8 @@ De Franse wis- en natuurkundige Pierre-Simon Laplace had geen boodschap aan deze
 
 Ook eeuwenoude symbolen voor het concept kans, zoals het rad van fortuin of de dobbelsteen, zijn dan volledig gedetermineerde processen. Als je precies weet met welke kracht een dobbelsteen wordt opgegooid, welke beginpositie, met welke draairichting, welke luchtweerstand en de hardheid van het oppervlak waar het op stuitert, kun je met exacte nauwkeurigheid voorspellen op welke zijde de dobbelsteen zal landen. In de praktijk is dit geen doen, maar voor de demoon van Laplace is de dobbelsteen niet minder mysterieus dan een appel die naar de grond valt als hij te zwaar wordt voor de tak waar hij aan hangt.
 
+{{< advert >}}
+
 Als dit waar is, moeten we ons het concept kans voorstellen als iets wat alleen voor ons bestaat, en wel bij gratie van onze beperkte informatie over de wereld. Iets is voor mij een kans omdat ik het nog niet weet omdat ik nou eenmaal niet de demoon van Laplace ben. Voorbeeld: ik sta ’s ochtends op, de gordijnen zijn nog dicht en ik weet niet of de zon schijnt of dat het regent. Aangenomen dat ik het weerbericht niet gehoord heb en verder ook geen auditoire of andere signalen van buitenaf krijg en het april is, een maand die doet wat ie wil, zou ik de kans 50-50 kunnen inschatten; 50% kans dat de zon schijnt, 50% kans dat het regent. In werkelijkheid is het helemaal geen echte kans. De zon schijnt 100% of het regent 100%. Alleen voor mij is het een kans tot het moment dat ik mijn gordijnen open doe.
 
 

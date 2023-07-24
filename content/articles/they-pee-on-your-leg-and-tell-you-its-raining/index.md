@@ -37,6 +37,8 @@ Begin ook niet over de petitie voor de legalisatie van kindermisbruik getekend d
 
 Hoe worden kinderen weerbaar tegen misbruik als hun kleuterjuffen hen aanmoedigen zichzelf te bevredigen zoals _Rutgers_ propageert?[^10] Focus eveneens niet op het feit dat voorstanders van pedofilie als eerste pleitten voor voorlichting van kleuters en hoopten dat dat een terugkeer zou zijn naar de jaren '70.[^11] Of het feit dat de voorlichtingsprogramma’s die kinderen weerbaar moeten maken tegen misbruik qua inhoud vrijwel hetzelfde zijn als de programma’s uit de vorige eeuw van groepen die openlijk kindermisbruik steunden.[^12]
 
+{{< advert >}}
+
 Ouders die zich hier tegen verzetten en kinderen die de klas verlaten na zich ziek te voelen worden in Duitsland al vervolgd en opgesloten.[^13] Dit punt heeft het in Nederland nog niet bereikt, maar de _SP_ heeft wel een motie ingediend om de onderwijsinspectie onderzoek te laten doen naar seksuele voorlichtingsprogramma’s die daadwerkelijk kinderen helpen zich te verzetten tegen alle seksuele losbandigheid waar ze tegenwoordig mee geconfronteerd worden.[^14] Blijkbaar was dat toch niet helemaal de bedoeling. Voorlichting moet masturbatie aanmoedigen, kinderen leren over homoseksualiteit, transgenderisme en hoe geweldig seks is.[^15]
 
 Meer kinderen afpakken van hun ouders en dwingen naakte plaatjes te bekijken waar ze misselijk van worden beschermt ze _echt_ tegen misbruik. En simpelweg omdat de staat misbruik heeft verdoezeld maakt haar progressieve idealen over seks niet minder waar. Echter, het feit dat sommige (vooral modernistische) bisschoppen (zoals Danneels, Marx en Little) misbruik hebben verdoezeld, laat blijkbaar zien dat de conservatieve idealen van de Kerk fout zijn.

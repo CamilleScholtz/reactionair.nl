@@ -21,6 +21,8 @@ Orbán lijkt klaar voor een intens gevecht met de EU. Alhoewel Orbán vaak pro-P
 
 En nu dreigt de EU met sancties tegen Hongarije. Sommige linkse activisten wilden dat al voor de verkiezingen maar Europese Commissie ging daar niet in mee. Waar moeten sancties eigenlijk voor zorgen? Een _Hexit_? Hongarije motiveren om nieuwe/extra bondgenoten te zoeken binnen de _EU_? Om juist nog afhankelijker te worden van handel met Rusland? Orbán heeft sympathie getoond voor het Turanisme. Willen ze echt dat hij meer gaat optrekken met Turkije?
 
+{{< advert >}}
+
 Aan de ene kant was het netjes om te wachten met sancties tot na de verkiezingen om illegitieme inmenging te voorkomen, aan de andere kant lijkt het nu alsof Hongarije gestraft wordt omdat het volk weer voor Orbán heeft gekozen. Dat wekt een antidemocratische indruk.
 
 De vraag is, waren ze ook begon met zulke sancties als de oppositie had gewonnen? Dat had niet in 2 of 3 dagen dingen veranderd. Er kan worden aangenomen dat Orbán zijn beleid doorzet maar dat kan niet de basis zijn voor juridische straffen. Als Orbán V (hij leidde al een keer een regering van 1998 tot 2002) gestraft kan worden voor het beleid van Orbán IV, kan Rutte IV dan nu gestraft worden voor bepaalde dingen die plaatsvonden onder Rutte III? Zijn dit sancties tegen de staat van Hongarije of specifiek tegen Orbán?

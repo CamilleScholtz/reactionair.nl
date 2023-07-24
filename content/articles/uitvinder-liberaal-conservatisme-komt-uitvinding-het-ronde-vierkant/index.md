@@ -25,6 +25,8 @@ In een interview verklaarde de uitvinder dat het ronde vierkant "de meetkunde zo
 
 Critici hebben zich snel verzameld om dit nieuwe concept te bekritiseren. Een bekende wiskundige merkte op: "Het ronde vierkant is net zo nuttig als een paraplu in een tornado. Het lijkt misschien interessant, maar het zal uiteindelijk nergens toe leiden." Anderen hebben het bestempeld als een absurde poging om aandacht te trekken zonder enige werkelijke inhoud.
 
+{{< advert >}}
+
 Ondertussen zijn politici en activisten in de war over hoe ze moeten reageren op het ronde vierkant. Sommigen zien er een gelegenheid in om hun eigen meetkundige standpunten te herschrijven en aan te passen aan deze nieuwe vorm. Anderen proberen krampachtig het concept te begrijpen, waarbij ze zich afvragen of het misschien een cryptische boodschap bevat die alleen de meest verlichte geesten kunnen ontcijferen, vergelijkbaar met hoe alleen verlichte geesten als Joost Eerdmans en Annabel Nanninga liberaal-conservatisme kunnen begrijpen.
 
 De uitvinder van het ronde vierkant blijft echter onverstoorbaar. Hij heeft al plannen aangekondigd om een politieke partij op te richten die uitsluitend gebaseerd is op het concept van het ronde vierkant. "We hebben genoeg van het lineaire denken," verklaarde hij. "Het is tijd om de wereld te laten zien dat politiek ook ronde hoeken kan hebben."

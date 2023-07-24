@@ -29,6 +29,8 @@ Hoewel er genoeg kritiek op Peterson mogelijk is, lijkt hij juist eerder vrouwen
 
 Mikhaila Peterson, zijn dochter, geeft toe dat zij een paar keer met Tate uit eten is geweest en Tate kennende kan dat inderdaad betekenen dat bepaalde kamers in het lichaam een goede schoonmaakbeurt hebben gehad. Mikhaila zelf beweert op Twitter dat het is gebleven bij eten.[^3] Dat ze toch opgevoerd wordt als de ex van, zegt iets over het journalistieke niveau van *de Correspondent*. Klaarblijkelijk mag je als kwaliteitsmedium creatief omspringen met de feiten als het gaat om een karaktermoord op een rechts icoon. Dat zou ook verklaren waarom Peterson in verband wordt gebracht met dropshipping, iets waar hij werkelijk niets mee te maken heeft.
 
+{{< advert >}}
+
 Het hele stuk van *de Correspondent* slaat de plank mis. Er wordt gesuggereerd dat volgens de fans van Tate en Peterson de draagzakpapa’s het probleem zijn en de lege-eierdoosmentaliteit van vrouwen platgeslagen moet worden met de harde kloppende fallus van de *gigatsjaad*.[^4] Met zijn magnifieke toverstaf, die een echte traditionalist nooit heeft opgemeten natuurlijk - terwijl hij dondersgoed weet dat hij 15,6 cm is - draait hij de traditionele genderrollen wel weer terug, want Jordan Peterson en Andrew Tate zijn ideologisch bijna hetzelfde - volgens *de Correspondent*.
 
 Nu we deze boeketreeksfantasie, die door Lale Gül opgeschreven had kunnen worden, hebben behandeld, gaan we nog dieper in op waar *de Correspondent* de plank gigantisch misslaat. Dit artikel heet immers *Over Andrew Tate* en niet *Ik ga baren*.

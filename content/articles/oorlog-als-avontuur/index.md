@@ -21,6 +21,8 @@ Het boek gloreert wanneer Jünger de verscherpte ontvankelijkheid van de zintuig
 
 Ondanks dat is het boek geschreven in een pretentieloze, bijna journalistieke stijl en alleen in opwellingen slaat hij een poetische of wijsgerige toon aan, evenwel zonder te overdrijven. Jünger is een meester in deze schrijfstijl en het genoegen is aan de lezer. Toegegeven, het boek kent weinig variatie of ontwikkeling, maar met een lengte van een goeie 200 bladzijdes, gaat het toch niet vervelen.
 
+{{< advert >}}
+
 Velen hebben aanstoot genomen aan het feit dat Jünger zich niet moreel uitspreekt tegen oorlog, anders dan een Erich Maria Remarque.[^3] Sommigen hebben hem zelfs ervan beticht een poseur te zijn en machismo te veinzen. Walter Benjamin noemde hem een oorlogsestheet.[^4] Jünger kan op een oppervlakkige lezer inderdaad overkomen als een dandyesk figuur, die het oorlogsgewoel doorwandelt als een stripfiguur dat steeds weer ongedeerd de grootste gevaren trotseert, als een martiale Kuifje. Denkers van Benjamins filosofische bloedgroep hebben hem daarom ook verweten een proto- of kastfascist te zijn.
 
 Maar pas op. Jünger was het tegenovergestelde van een leunstoelkrijger. _In Stahlgewittern_ is het eerlijke verslag van een soldaat die keer op keer gewond is geraakt, velen van zijn wapenbroeders in de strijd verloren heeft en wie geen ontbering en ongemak bespaard is gebleven. Ondanks dat alles heeft hij de oorlog altijd gekoesterd en als spirituele verrijking beschouwd. Als oorlog inderdaad een esthetische ervaring kan zijn en een vuurproef voor de ziel, als dat deel is van wat het betekent om mens te zijn, dan zij dat zo. Literatuur is niet voorbehouden aan oude wijven (m/v).

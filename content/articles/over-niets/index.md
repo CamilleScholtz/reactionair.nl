@@ -32,6 +32,8 @@ Natuurlijk laat zo'n benadering de meeste mensen onbevredigd. De zwakheid van de
 
 Maar deze katafatische benadering laat ons nog steeds onbevredigd. Ja, God is Goed, maar beter gezegd, Hij is Voorbij-Goed. Ja, God is Zijn, maar beter gezegd, Hij is Voorbij-Zijn (of Niet-Zijn). Ja, God is Licht, maar beter gezegd, Hij is de Onuitsprekelijke Duisternis. Uiteindelijk kan God met niets vergeleken worden, maar God kan met Niets vergeleken worden.
 
+{{< advert >}}
+
 Alle dingen zijn verenigd in dit Niets, want het is waar de uitersten elkaar ontmoeten. In dit Niets zijn alle dingen [metaforisch gesproken, want het is duidelijk dat de dingen niet kunnen "zijn" voordat zij tot stand komen. Helaas, onze taal geeft ons geen woorden voor wat we willen beschrijven, dus zijn we gedwongen onze toevlucht te nemen tot metafoor. Ik hoop dat u dit begrijpt.], voordat ze tot stand komen. In dit Niets vindt metamorfose plaats, want verandering komt tot stand in het Niets, maar het wordt zelf niet door verandering aangetast. Zoals de Zohar stelt: vóór het Ene, kunnen we Niets tellen. God schiep de wereld _'ex nihilo'_.
 
 {{< quote

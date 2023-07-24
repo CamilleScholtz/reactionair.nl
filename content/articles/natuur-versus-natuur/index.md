@@ -23,6 +23,8 @@ De etymologie van de term natuur is als volgt: van het Latijnse _nātūra_, dat 
 
 Om natuur, of het worden, te bestuderen, maakte Aristoteles gebruik van de “vier oorzaken”: de materiële, de efficiënte, de formele en de finale. Voor nu is het belangrijk te vermelden dat de moderne fysica de finale oorzaak ontkent, en dit is ook de oorzaak waarop wij ons in dit essay zullen focusen.
 
+{{< advert >}}
+
 De finale oorzaak staat ook bekend als de doeloorzaak, of als de _telos_. Dit is de oorzaak die het doel waartoe iets gedaan wordt beschrijft. De uiteindelijke oorzaak van een eikenzaadje is bijvoorbeeld dat het een eikenboom wordt. In het natuurrecht wordt deze oorzaak vaak gebruikt op het gebied van de ethiek, om een voorbeeld te nemen, de _telos_ van seks is voortplanting. Alles wat dit doel opzettelijk ondermijnt is volgens het natuurrecht moreel verkeerd, zoals sodomie; _onnatuurlijke_ seks die niet voor de voortplanting _bedoeld_ is.[^4]
 
 Om terug te komen op het onderwerp natuur; merk op hoe we in de vorige zin de term “onnatuurlijk” gebruikten, en dit is de variant van de term waar we licht op willen werpen. In dit geval had natuur duidelijk niets te maken met dierlijkheid of de natuur, maar eerder met iets dat verwant is aan “kwaliteit” en “doel”. In sommige gevallen wordt het nog steeds zo gebruikt, neem bijvoorbeeld _“hij is van nature vriendelijk”_ of _“de menselijke natuur”_. Dit is dan ook precies wat we bedoelen als we het hebben over Natuur met een hoofdletter N, en hoe de term decenia lang is gebruikt.

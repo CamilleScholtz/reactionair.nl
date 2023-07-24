@@ -26,6 +26,8 @@ Ik zal proberen een onderscheid te maken tussen 3 verschillende realiteiten en h
 
 Het moment dat ik me daadwerkelijk bewust werd van het parallel bestaan van zowel de fysieke realiteit als de hyperrealiteit was in de zomer van 2020. Na de eerste maanden van de coronapaniek overleefd te hebben kwam langzaamaan de opluchting dat 'Chinese toestanden' zoals het spontaan dood op straat neervallen van mensen hier uitbleef. Vervolgens besefte ik tijdens een weekend in de natuur, zonder de stoorzender van de smartphone onder handbereik die ons steeds in de vecht-of-vluchtmodus gevangen hield, hoezeer deze twee realiteiten los van elkaar stonden.
 
+{{< advert >}}
+
 Wat heeft een mens nodig om gelukkig en gezond te zijn? En in dit geval, welke realiteit is er nodig om met beide voeten op de grond te blijven en de geest gezond en helder te houden? Ik denk dat een evenwicht tussen de fysieke realiteit en de metafysische realiteit onontbeerlijk zijn voor een gezonde geest en ziel. De fysieke realiteit om hem gegrond te houden met het overal om hem heen aanwezige en tastbare. Het metafysische om hem geestelijke rust en zingeving te verschaffen. Een regelmatig uitstapje naar het innerlijk ervaren van deze metafysische werkelijkheid ervaar ikzelf in ieder geval als louterend, als een ontgiftingskuur van de ziel.
 
 En die hyperrealiteit dan? De waan van de dag die tot ons komt via de media, via de marketingcampagnes van de multinationals en de machtige spelers van het internationale grootkapitaal? Die hinderlijke ruis tussen mijn oren? Ik kan het missen als kiespijn.

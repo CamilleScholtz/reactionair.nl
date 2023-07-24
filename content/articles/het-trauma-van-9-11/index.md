@@ -30,6 +30,8 @@ Je zult je *of* paranoïde *of* goedgelovig voelen.
 
 Denk ook aan de nieuwsberichten over Bush die twee dagen van tevoren plannen voor een oorlog met Afghanistan op zijn bureau had liggen. Of het document over de wederopbouw van Amerika's defensie, waarin wordt opgeroepen tot een nieuw Pearl Harbor. Of die vreemde pieken in *put opties* op de betrokken luchtvaartmaatschappijen. Of die instorting van WTC-7.
 
+{{< advert >}}
+
 Bij elke absurditeit die je ontdekt, kun je tegen jezelf zeggen: "Nou, de *factcheckers* zeggen dat het niets is". Maar voel je je dan niet als een vrouw die ervan overtuigd raakt dat haar man vreemdgaat, terwijl haar man voor elk stukje bewijs een plausibele verklaring heeft?
 
 * "Ik kwam laat thuis? Nou, ik moest overwerken."

@@ -22,6 +22,8 @@ De moderne opvatting van tijd staat in contrast met de antieke opvatting van tij
 
 De moderne wereld is geobsedeerd door mode, of _viral_ gaan. Dit zijn beide uitingen van hetzelfde concept: een korte en zware dosis focus op iets nutteloos. De katholieke liturgie wijst naar het hoogste en probeert zondaars te corrigeren die deze focus verloren hebben. Binnen het moderne denken is er niet zo'n centrale focus. Door dit gebrek aan focus kan alles de aandacht van de mensen trekken. Als het op enigerlei wijze nuttig is, zal het blijven. Zo niet, dan verdwijnt het snel.
 
+{{< advert >}}
+
 Hetzelfde idee van mode zien we ook in de moderne kunst. Moderne kunst probeert je aandacht te trekken, maar uiteindelijk heeft het geen betekenis, behalve rebellie. De normale reactie erop is afkeer of verwarring. Moderne kunst is gericht op mode, en richt de aandacht op wat er niet toe doet. Kunstgalerijen, waar enorme hoeveelheden moderne kunst in omloop zijn, of bouwwerken op het openbare plein, die na plaatsing binnen korte tijd weer worden verwijderd. Deze tonen beide de kortstondigheid van moderne kunst aan.
 
 Veel oude kunst is verloren gegaan, maar dat ontkracht het punt niet. Namelijk dat het gemaakt is om eeuwig te blijven bestaan. Daarom trekken de oude gotische kathedralen in een atheïstisch westen nog steeds zo veel publiek. Mensen snappen intuïtief waar het bij schoonheid om gaat.

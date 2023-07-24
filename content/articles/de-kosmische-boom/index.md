@@ -31,6 +31,8 @@ In het centrum van de aarde bevindt zich de doorgang naar de onderwereld en in h
 
 Het is natuurlijk niet toevallig dat juist de boom het symbool werd voor deze kosmische verbinding. De fysieke boom is een letterlijke verbinder tussen de drie werelden. Haar wortels groeien diep in de aarde, haar takken strekken zich tot ver uit naar de hemel toe en haar stam staat stevig in het centrum van deze wereld. Daarbij is haar grootte en ouderdom imposant te noemen. Bomen zijn de oudste en grootste levende wezens op aarde! Ondanks het feit dat de mens in vergelijking met een grote boom nietig is te noemen, vergelijkt hij zich toch graag met de boom. De mens deelt met de boom haar verticale positie. Hij leeft rechtopstaand met zijn kruin naar de hemel en zijn voeten naar de aarde toe gericht, zoals een boom haar kruin richting de hemel strekt en haar wortels diep de aarde in brengt. In de kosmische boom vindt de mens haar ideale energetische grondplan.
 
+{{< advert >}}
+
 In de boom komen de hemelse en de aardse stroom samen. Van boven komt energie en bewustzijn in de vorm van de mannelijke elementen vuur en lucht. Deze corresponderen met daadkracht en denkkracht. Van beneden komen energie en bewustzijn in de vorm van de vrouwelijke elementen water en aarde. Deze corresponderen met het gevoel en de zintuiglijke gewaarwording. In de meest letterlijke zin krijgt de boom licht en lucht via haar blad binnen en water en voedingsstoffen via haar wortels. De ideale vermenging van deze vier elementen zorgt voor maximale vitaliteit en bewustzijn. Zij zorgt voor een boom met een krachtige uitstraling!
 
 ### De oudste kosmische boom: de Huluppu-boom

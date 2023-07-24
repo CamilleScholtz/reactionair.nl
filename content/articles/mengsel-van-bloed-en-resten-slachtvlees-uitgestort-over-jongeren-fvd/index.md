@@ -42,6 +42,8 @@ Naast deze jubelende reacties is het nog veelzeggender dat we nog geen enkele we
 
 Bovenop deze hypocrisie ligt nog een extra laag hypocrisie: het zijn namelijk bij uitstek díegenen die het meest opzichtig koketteren met begrippen als "rechtstaat", "democratie", "debat" en "representatie" die zich nu verkneukelen over dit geweld tegen politieke tegenstanders. Het zijn júist de uitgestreken melkmuiltjes die met onuitstaanbaar zalvende stemmen het belang van "dialoog", "geweldloosheid" en "het democratisch proces" prediken, die met gloeiend genot de verwonding van een jong JFVD-meisje aanmoedigen.
 
+{{< advert >}}
+
 Het is heel duidelijk dat deze aanval politiek gemotiveerd was, en in het uiterst kleine geval dat dit niet zo was, waren de gevolgen, en zeker de reacties, van politieke aard. Begrijpelijk is zo dat jongeren nu meer dan ooit geneigd zijn om hun mening niet te uiten, uit angst om aangevallen te worden. Zo is ook voor te stellen dat wanneer een JFVD’er thuiskomt onder het bloed, ouders zo geshockeerd zijn dat ze hen niet meer toestaan om naar toekomstige evenementen te gaan uit angst voor hun kinderen.
 
 Probeer je gewoon eens voor te stellen wat de reactie zou zijn als de JFVD’ers een emmer rood vloeistof (en dit hoeft niet eens bloed te zijn!) over iemand of iets zouden gooien als protest. Zelfs als het niet op een persoon was, zou Nederland gek worden. De wereld zou te klein zijn.

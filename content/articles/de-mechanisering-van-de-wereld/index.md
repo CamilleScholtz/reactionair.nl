@@ -29,6 +29,8 @@ Het rationalisme heeft ook het maakbaarheidsdenken met zich meegenomen. De gedac
 
 Waar we dit goed terugzien is bij ons coronabeleid. Door onze obsessie met controle, die meegegeven wordt in deze gemechaniseerde wereld, verliezen we dat wat niet te kwantificeren valt. Onze huidige maatschappij wordt momenteel gegijzeld door een aantal _KPI’s_: de coronabesmettingen, de ziekenhuisopnames. Maar dat wat niet te kwantificeren valt, verliezen we daardoor uit het oog. Dat wat Spengler ongeveer honderd jaar geleden paardenkrachten noemde, zijn nu de _KPI’s_ die wij op het _coronadashboard_ zien.
 
+{{< advert >}}
+
 Corona kent een gemiddelde leeftijd van overlijden van boven de tachtig, en het mortaliteitscijfer van corona ligt rond de 0,15%.[^4][^5] Waarom zouden de maatregelen voor zo’n virus dan niet opgeheven kunnen worden? Het tegenargument dat vaak wordt opgeworpen ligt in de overspoeling van ziekenhuizen, wat het gevolg zou zijn van het loslaten van de maatregelen. Dat zou mogelijk een legitiem argument kunnen zijn, maar dat valt verder buiten het bestek van dit artikel.
 
 Alles moet onder controle zijn, de samenleving wordt als een machine gezien die naar onze hand gezet kan worden, waarvan wij aan de knoppen draaien. En die machine kan enkel gevoed worden door kwantificatie. Het welzijn van de gehele samenleving verliezen we uit het oog door enkel te kijken naar de gekwantificeerde cijfers die de machine voeden en bij corona zijn dat bijvoorbeeld ziekenhuisbedden en besmettingscijfers. Maar de voorspellende modellen die gebaseerd worden op kwantificatie komen nooit uit, dit komt omdat er andere factoren zijn die niet gekwantificeerd kunnen worden. De gedachte van maakbaarheid moet losgelaten worden in deze _“crisis”_.

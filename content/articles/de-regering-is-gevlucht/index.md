@@ -35,6 +35,8 @@ Staatssecretaris van der Burg maakte vandaag kamerlid Wilders belachelijk. Maar 
 
 Toen echter! Ging Baudet de grens over! Hij kwam met een *samenzweringstheorie* over Kaag en haar opleiding op de ‘spionnenschool’. De Rutte doctrine was niet zo handig, dat was een dom foutje, maar je blijft verdorie wel beleefd! Je moet het niet op de man spelen. Rutte zei dat weglopen de enige mogelijke reactie was.
 
+{{< advert >}}
+
 Van der Burg liep als een van de eerste weg. Hij had zich al moeten inhouden bij Wilders. Gelukkig kwam voorzitter Bergkamp op voor haar partijleider en snoerde ze Baudet de mond. De regeringspartijen CDA, VVD, CU, PVDA en GroenLinks steunden haar.
 
 SP liet echter weer haar crypto extreemrechtse neigingen zien door kritiek te hebben op het kabinet voor het overtreden van de regels. Bergkramp besloot dat het goed was. Simpel zat. 

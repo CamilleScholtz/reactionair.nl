@@ -115,7 +115,7 @@ Dit zijn verwarrende verleidingen, en het is noodzakelijk dat wij deze weten te 
 
 Het omarmen van respectievelijk onze mannelijkheid en vrouwelijkheid door middel van de archetypes is de beste manier om een complementair bestaan te herstellen, dat leven geeft aan elkaar in plaats van vervreemding en verdeeldheid te zaaien waardoor we volledig afhankelijk gemaakt worden van de Machine.
 
-{{< boekencast >}}
+{{< advert >}}
 
 Om tot een begrip van deze archetypen te komen na een leven lang ondergedompeld te zijn in de “Je kunt alles worden wat je wilt!”-cultuur kan pijnlijk zijn. Het vereist jaren van onszelf openstellen voor onze krachten en beperkingen, begrijpen hoe we ons verhouden tot anderen, onze tekortkomingen accepteren en de verantwoordelijkheid van onze keuzes dragen. Dit is niet een pad dat wij kunnen bewandelen voor anderen; dat is het tegenovergestelde van verantwoordelijkheid nemen. Maar we kunnen wel elkaar in een bepaalde richting wijzen die wij zelf als verrijkend hebben ervaren, en ik zal wijzen op één richting om de lezers die een tip waarderen voor hun eigen reis op weg te helpen.
 

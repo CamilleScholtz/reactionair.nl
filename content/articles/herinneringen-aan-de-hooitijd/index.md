@@ -30,6 +30,8 @@ Toen ik begon met dit boek wist ik dus nog niet waar het heen zou leiden. Wat be
 
 Het verhaal is doordesemd van symboliek, zowel Bijbelse als voorchristelijke symbolen. Het vloeit in elkaar over, het vormt een continuüm. Het roept de vraag op wat het Christendom eigenlijk is? Waar komt het uit voort?
 
+{{< advert >}}
+
 Loopt er een lijn van de voorchristelijke vruchtbaarheidsculten rechtstreeks naar de Kerk? Is er een spirituele navelstreng die de oudheid direct verbindt met het Katholicisme. Is het Christendom in de kern een vegetatiecultus? Een vruchtbaarheidsreligie? 
 
 Tot zover mijn *mission statement*. Ik zal nu een korte schets van het verhaal geven, hoofdstuk voor hoofdstuk, geïllustreerd met fragmenten. Qua structuur lijkt het verhaal nog het meest op een raamvertelling of een kadervertelling. Centraal staat een katholiek Nederlands dorp aan het begin van de negentiende eeuw tijdens een verzengend hete zomer. 

@@ -47,6 +47,8 @@ Een andere les gericht op kinderen van zeven tot tien jaar oud, draagt de titel 
 
 De enige idealen die overblijven na de deconstructie van vermeend onderdrukkende idealen als mannelijkheid en vrouwelijkheid, zijn jezelf zijn en de ander in zijn waarde laten. Iedereen mag zijn zelf maximaal ontplooien, maar of zo'n zelf wel spontaan kan ontwikkelen en niet juist sturing en/of weerstand van buitenaf nodig heeft om te ontstaan, daar wordt niet om gemaald. Ook van de daarmee samenhangende vraag of het zelf geen illusie is, zoals de Boeddha dacht en ook gestaafd wordt door hedendaagse hersenwetenschap,[^6] ligt niemand wakker. Hoe kun je nou iets zijn waarvan de heilige Wetenschap zegt dat het in wezen niet bestaat?
 
+{{< advert >}}
+
 Het vraagstuk of een moraal die louter en alleen draait om instemming, of zoals het in modieus doch onnodig Engels wordt genoemd, 'consent', het wel aankan om het menselijk verkeer in goede banen te leiden, wat immers de taak is van de moraal, krijgt ook niet de aandacht die het verdient.
 
 Een cynicus zou kunnen stellen dat de idealen jezelf zijn en de ander in zijn waarde laten eigenlijk neerkomen op egoïsme en onverschilligheid en dus een dekmantel zijn voor een kille, neoliberale anti-moraal. Voor klassieke deugden als moed, eer, trouw, wijsheid en vriendschap is hier geen plek.

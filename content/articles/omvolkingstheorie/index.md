@@ -49,6 +49,8 @@ Mensen denken vaak dat wetgevers onbeperkt intelligent zijn, en de richtlijnen �
  
 Ook in de EU hebben ze er een “waakhond” bij gezet. Dat is het Hof van Justitie van de EU in Luxemburg. Zij doen uitspraken die bepalen hoe je richtlijnen moet uitleggen. De uitspraken wijzen altijd één kant uit: “zo ruim mogelijk”. Dus als de Raad van State de wet hanteert maar de Europese normen zijn ruimer, dan “blaft” Luxemburg de RvS terug.
  
+{{< advert >}}
+
 Intrigerend is dat de meeste mensen ook vaak denken dat rechters onbeperkt intelligent zijn en “volstrekt objectief”. Maar intelligentie is geen absoluut begrip, zaken zijn voor rechters ook ingewikkeld en daarom hebben ze een concrete wet als “bewakingsobject” en verder dan dat kijken ze eigenlijk niet. Dus als je ze een richtlijn geeft, dan gaan ze vooral die richtlijn “beschermen”; dat wil zeggen “zo ruim mogelijk uitleggen”. 
  
 De gevolgen zie je al snel. Zo torpedeerde het Hof van Justitie EU onze inkomenseis, met een argument dat neerkomt op het zo ruim mogelijk uitleggen van de gezinsherenigingsrichtlijn.[^2]

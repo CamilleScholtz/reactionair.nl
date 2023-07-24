@@ -86,8 +86,15 @@
 		{{ end }}
 	</section>
 
-	<section class="newsletter">
-		{{ partialCached "newsletter.html" . }}
+	<section class="av">
+		{{ $book := index (where (where site.RegularPages "Section" "shop") ".Params.title" "De Zwarte Poolster") 0 }}
+
+		{{ with $book }}
+			{{ partialCached "advert.html" (dict
+				"context" .
+				"book"    .
+			) .File.ContentBaseName }}
+		{{ end }}
 	</section>
 
 	<section>
@@ -113,12 +120,8 @@
 		{{ end }}
 	</section>
 
-	<section class="boekencast">
-		{{ partialCached "boekencast.html" (dict
-			"context" .
-			"book"    "De Zahir"
-			"pages"   203
-		) "De Zahir" }}
+	<section class="newsletter">
+		{{ partialCached "newsletter.html" . }}
 	</section>
 
 	<section>

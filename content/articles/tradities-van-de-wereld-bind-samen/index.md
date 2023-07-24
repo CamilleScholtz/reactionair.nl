@@ -21,7 +21,7 @@ Het belangrijkste principe van religie (of traditie) is niet didactiek of het we
 
 Wanneer machten zoals naties in onderlinge competitie verkeren zijn enkel kapitalistische innovatie en groeiende BBP-en de manier van overleven. Deze innovatie fragmenteert de wereld steeds verder en dit neemt exponentieel toe tot het de mens totaal vervreemdt van de organische wereld, gelijk aan het verlies van traditie of de omzetting van kwaliteit naar kwantiteit. Het wiel der tijd is bijna op het einde van haar omwenteling waar de onbegrensde wereld van de machines alles zal opslokken middels oneindige innovatie en met opkomend zelflerend vermogen (kunstmatige intelligentie) zal het eindigen in de Technologische Singulariteit, de duivel geïncarneerd, een alles opslokkende kanker. Zo hebben we nu al de hel op aarde gecreëerd waarin mensen ontwricht zijn van de organische natuurlijke wereld en beland zijn in een strijd der machines en met het gebrek aan orde, hopeloosheid, en de morele ontwrichting afleiding zoeken in oppervlakkig consumentisme.
 
-{{< newsletter >}}
+{{< advert >}}
 
 De enige manier om deze hypertrofische toename van machines en de dissolutie van de organische wereld en de menselijke standaard te voorkomen is wanneer het systeem een plafond krijgt. Een absolute macht die groei, innovatie, fragmentering stopt, het wiel der tijd pauzeert. Dit is wat in de traditionele wereld en bijvoorbeeld de Christelijke traditie aangeduid wordt met het duizendjarig vrederijk dat gesticht zal worden na de eindtijd en de duivel zal ketenen. Dit is waar de wereldoorlogen over gingen. Wie heeft de uiteindelijke macht, wie behoudt de balans? Helaas hebben voorgaande wereldoorlogen niet geleid tot een definitieve traditionele wereldmacht.
 

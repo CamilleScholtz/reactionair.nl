@@ -32,6 +32,8 @@ Dit verandert niets aan het feit, dat zijn steun voor ‘de protocollen’ en zi
 
 Waarom is er nu ineens nieuwe interesse in Icke? Ik begrijp eerlijk gezegd niet waarom hij werd uitgenodigd. Hij heeft voorspellingen gedaan over totalitarisme en globalisme, maar hij is daarin niet bepaald uniek. Hij heeft ook valse voorspellingen gedaan over wereldrampen en het verdwijnen van Nieuw-Zeeland. En uiteraard betwijfel ik ook dat hij de/een zoon van God is. Mogelijk wilden de organisatoren inclusief zijn? Op zich erg lief bedoeld dan… Nog vreemder: waarom moest Icke verboden worden Nederland binnen te komen? Waarom deze extreme reactie? Waarom zou specifiek Icke de openbare orde verstoren? Is Icke een echte bedreiging? Icke krijgt toch juist meer aandacht door dit soort censuur? Is de modern liberale samenleving zo ver verwijderd van het oorspronkelijke liberalisme dat ze aan radicale alternatieve geluiden het woord moet ontnemen?
 
+{{< advert >}}
+
 Icke heeft nooit opgeroepen tot geweld, noch zich verbonden aan groepen die dit wel doen. Toch is hem ook verboden Australië in te reizen. Er is geen indicatie dat hij een neonazi is of sympathie heeft voor het Derde Rijk. Hoewel hij veel gekke ideeën promoot, waaronder een verkapt antisemitisme, heeft hij bij mijn weten geen aantoonbare of vermoede connectie met terrorisme of revolutionaire bewegingen. Als dit wel het geval was geweest, zou er terecht reden geweest zijn hem de toegang tot ons land te ontzeggen. Of wanneer hij de Holocaust zou hebben verdedigd of goedgepraat, of geweld tegen andere groepen of personen.
 
 ### Selectieve reacties… een paar vragen

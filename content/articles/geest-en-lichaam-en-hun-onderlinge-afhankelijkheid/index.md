@@ -32,7 +32,7 @@ In het bekendste werk van Plato, de Republiek, beschrijft hij hoe soldaten onmis
 
 We moeten niet vergeten dat in de tijd dat deze dialogen geschreven zijn, oorlog een alomtegenwoordige aanwezigheid genoot. Zo kan de bloei van een cultuur slechts gewaarborgd blijven, als er ook sprake is van de bereidheid deze te verdedigen tegen belegering in de breedste zin des woords.[^6] In zijn laatste werk, de *Wetten*, adviseert Plato dat oorlogsoefeningen ten minste éénmaal per maand gehouden zouden moeten worden in vredestijd om zo voldoende macht te verwerven dat men geen onrecht wordt aangedaan.[^7]
 
-{{< boekencast >}}
+{{< advert >}}
 
 Heden ten dage pretenderen wij dat oorlog niet meer van deze tijd is en dat alles kan worden uitgepraat. Niet alleen mijden wij de actieve strijd, ook het verdedigen van westerse waarden en instituties in de breedste zin des woords wordt ontweken. Deze frictieloosheid is an sich betwijfelbaar, en hoewel ik van mening ben dat fysieke strijd alleen in geval van uiterste noodzaak dient te worden aangewend, is het spreekwoord *per ardua ad astra* (door beproevingen naar de sterren) nog immer niets aan geldigheid verloren. Men zou het kunnen zien als een man die, als de mythische Leander, zijn weg 's nachts baant door de kolkende wateren van de Hellespont. De moderne mens is zijn Hero, Leanders geliefde, vergeten, ziet niet zijn ster aan de horizon; hij ziet derhalve niet in, waarom hij zich verder uit zou putten—en stopt met zwemmen.
 

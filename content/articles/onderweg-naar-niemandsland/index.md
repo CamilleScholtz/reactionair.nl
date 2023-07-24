@@ -23,7 +23,7 @@ De bakelieten telefoon die ik als sinds kind niet meer heb gezien ontwaakt mij m
 
 In de verte zie ik een lange, dunne vrouw, gekleed in bont met bijpassende ushanka in dezelfde kleur. Haar haren kleuren goud, met op de achtergrond een marmeren gebouw omringd door dennenbomen. Vragend kijkt zij om zich heen zoekende naar mij, de verdwaalde Nederlander. Eveneens was zij een verloren student die zich, net als ik, overgaf aan de liefde dat het leven ons toen bood. Dit alles een verschijning die waardig op een schilderij zou passen en welke ik in mijn hoofd prentte. Ze herkent mij direct wanneer ik met stevige passen op haar af loop. Later zou zij daar nog eens regelmatig over grappen: “Jullie Nederlanders lijken altijd haast te hebben.” Of “Jij stapt zo over dijken heen”. De Russische ziel laat het niet toe te glimlachen, maar wanneer ze haar blonde lokken keurig achter haar oren plaatst raken haar ijskoude lippen die van mij voorzichtig aan. Het was haar eerste kus, zo vertelde zij mij later. Ik overhandigde haar bloemen, de juiste hoeveelheid zoals Russisch bijgeloof voorschrijft en we wandelen langs een bevroren Wolga. Urenlange gesprekken over boeken en haar vroegere leven op het platteland van Noord-Kazakhstan volgden.
 
-{{< newsletter >}}
+{{< advert >}}
 
 De eens zo ijverige rivier de Wolga waar wij langs wandelden nam nu genoegen met stilstand en mijn leven leek op dat moment ook even stil te staan. Er ontvouwde zich voor mij op dat moment een openbaring. Alsof alles samen kwam en mijn hier en nu een allesomvattende kloppende puzzel was die in zijn symboliek liet blijken hoe mijn leven hoort te zijn. 
 

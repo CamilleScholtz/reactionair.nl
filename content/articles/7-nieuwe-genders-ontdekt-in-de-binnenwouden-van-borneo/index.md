@@ -19,6 +19,8 @@ Eens, toen de wereld nog in diepe dwaling verkeerde, meenden we dat er slechts 2
 
 Het lag in de lijn der verwachting dat er nog meer ontdekt zouden worden, maar dat er 7 tot dan toe volledig onbekende genders in een keer worden aangetroffen, is uitzonderlijk. De onverschrokken ontdekkingsreiziger, Dr. Stanston, zegt dat hij tijdens zijn avontuurlijke expeditie naar het onbekende gebied getuige was van de meest buitengewone verschijnselen. Met zijn verrekijker in de aanslag en zijn notitieblok in de hand, stelde hij zich verdekt op met uitzicht op een waterpoel. Vanuit daar sloeg hij wezens gade van een diversiteit die nog groter is dan wij ons tot op heden ook maar voor konden stellen.
 
+{{< advert >}}
+
 Dr. Stanston beweert dat deze genders zich onderscheiden door hun unieke eigenschappen, zoals het vermogen om van uiterlijk te veranderen op basis van hun stemming, het spreken in harmonieuze melodieën en het communiceren via telepathie. Verder wil hij er niet over praten.
 
 Natuurlijk heeft deze opmerkelijke ontdekking een storm van controverse veroorzaakt. Conservatieve wetenschappers en sceptici hebben de bevindingen van Dr. Stanston in twijfel getrokken en noemen het een belachelijke stunt om aandacht te trekken. Sommigen suggereren zelfs dat hij in het regenwoud per ongeluk een hallucinogeen middel binnen heeft gekregen en dat de nieuwe genders alleen in zijn verbeelding bestaan.

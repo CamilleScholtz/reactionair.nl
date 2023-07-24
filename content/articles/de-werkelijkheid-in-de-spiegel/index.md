@@ -44,6 +44,8 @@ Ik bloedde leeg, ik ben leeg. Ademloos en machteloos een spookachtig niet-iets. 
 
 Vele regenbogen ontstaan en vergaan tussen mijn bitjes, tussen de aanraking van het Licht en de Duisternis. Maar één zeer aparte primaire kleur overheerst het is de kleur van mijn levende Ik: mijn vergoten bloed door de scherpe kanten van het versplinterde spiegelglas: het is purper-rood en stroomt uit het midden van de regenboog. Levend licht en de bitjes drinken ervan op leven en dood.
 
+{{< advert >}}
+
 Een draaiende caleidoscoop ordent mijn chaos in schoonheid. Het verschuift in die holle leegte de oneindige aantallen spiegelende scherven en splintertjes spiegelglas in schier oneindige zich herhalende patronen. Ik zie mijzelf in allerlei dimensies in allerlei eeuwigheden der eeuwigheden en aeonen. Ik ben de zon en de vader van mijn moeder, de hoer en de maagd, onvruchtbaar met vele kinderen, het begin en het einde en opnieuw. Er gaan vele tijdperken voorbij, maar ben altijd één met mezelf, niet eenzaam maar steeds gebroken in vele anderen ikjes.
 
 En zo herhaalt de tijd alles steeds opnieuw. Ik prijs de mens gelukkig die niet geboren is en niet door de spiegel verscheurd is. Maar toch gun ik hun die hechten aan het leven, de melancholie na de droefenis en de ervaring van mijn groots mysterie. Het geloof in de illusie van goed en kwaad in de boze wolf en de moeder geit en andere onzin die waar is in allerlei variaties: tot het hoogste genot en de diepste ongelukkigheid in dat wat werkelijk genoemd wordt.

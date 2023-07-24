@@ -63,6 +63,8 @@ In eerste instantie steunden ze alleen maar scheiding van kerk en staat, en het 
 
 De KGB probeerde ook Paus Pius XII en de katholieke kerk weg te zetten als pro-nazi.[^13][^14] Dit werd indertijd al aangevochten, zowel door historici als door mensen die de Holocaust hadden overleefd (waarvan de meest bekende waarschijnlijk Pinchas Lapide is, de auteur van _‘3 Pausen en de Joden’_). Als historisch feit is inmiddels aangetoond, dat de roomskatholieke kerk honderdduizenden Joden redden.[^15] Nadat onomstotelijk was vastgesteld, dat de paus betrokken was geweest bij meerdere complotten tegen Hitler,[^16] en dat Hitler zelf een plan had de paus te ontvoeren,[^17] werd deze anti-katholieke propaganda onhoudbaar. 
 
+{{< advert >}}
+
 Dachau had zelfs een speciale afdeling van geestelijken, van wie meer dan 95% katholiek bleken. Mensen die beweren dat Hitler, of de nazi’s, christelijk was/waren, beroepen zich grotendeels op vage pro-christelijke dingen die Hitler zei, voordat hij volledig de macht had overgenomen (waaronder een toespraak waarin hij beloofde niet zijn speciale macht te misbruiken en het parlement te respecteren).
 
 Het anti-christelijke sentiment viel ook terug te vinden in nazipartijen in andere landen, zoals de ‘Nasjonal Samling’ dat van de Duitsers de macht kreeg in Noorwegen en een nieuwe religie met oosterse elementen propageerde, ‘De Vlag’ in België, en tot op zekere hoogte de ‘Pijlkruispartij’ in Hongarije die, alhoewel geleid door iemand die zich als een ‘toegewijde katholiek’ zag, wilde dat de katholieke kerk banden verbrak met het Vaticaan en kerkelijke grond in beslag wilde nemen.[^18]

@@ -24,6 +24,8 @@ Echter, de mens heeft wel asociale, of als we ons een germanisme mogen veroorlov
 
 Deze polariteit van sociale en asociale is de bron van alle maatschappelijke onrust en de bijbehorende ongelijkheid, jaloezie, statusspelletjes en de strijd om erkenning, die later is gethematiseerd door onder andere Hegel (meester-slaafdialectiek) en Marx (klassenstrijd), maar ook door bijvoorbeeld Freud, wiens _Unbehagen in der Kultur_ in zijn titel dezelfde spanning thematiseert. 
 
+{{< advert >}}
+
 Deze spanning is ook de reden dat wij mensen ethiek nodig hebben. Minerale, plantaardige en dierlijke entiteiten leven als een vis in het water van het bestaan, welbeschouwd zelfs als water in water.[^2] Mieren bijvoorbeeld schikken zich geheel en al in hun rol en hebben dan ook geen ethiek nodig.[^3] De mens echter heeft een rebelse inborst en om die reden heeft hij wel nood aan ethiek. Om niet ieder conflict, want conflicten zijn onvermijdelijk, met geweld te beslechten. Samenleven in een samenleving is niet makkelijk, of, zoals the Joker (die hetzelfde archetype belichaamt als de auteur dezes) sprak in de gelijknamige film: we live in a society.[^4]
 
 Nu is er na decennia van ontkerkelijk en maatschappelijke atomisering nog maar één vorm van ethiek over die algemeen aanvaard wordt: de liberale ethiek die geheel en al draait om wederzijdse instemming of zoals het in het progressief-neoliberale wokepraat heet 'consent'. Je bent vrij om te doen wat je wil, zo lang het anderen niet schaadt. Pas als de ander 'consent' heeft gekregen, mag je datgene doen waarmee hij heeft ingestemd, of dat nu seks is of iets anders. 

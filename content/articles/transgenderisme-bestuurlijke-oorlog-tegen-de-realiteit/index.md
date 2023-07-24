@@ -26,6 +26,8 @@ Onze instellingen en hun bestuurders zijn in oorlog met de werkelijkheid omdat z
 
 Het zal hier niet eindigen. Alle dingen in onze machine-gedreven cultuur tollen rond de steeds openlijker uitgesproken verlangens van de heersende technocraten: de realiteit is aan ons om te overheersen, het lichaam is klei, de lucht, wind en het licht moeten worden opgeofferd om te versmelten met de Machine. Je leven en het vanzelfsprekend samenleven met de Schepping zijn niet genoeg. Je moet oorlog voeren tegen de Schepping. U moet het geschenk afwijzen. Je lichaam en geest moeten invasieve procedures accepteren om goed te kunnen acclimatiseren voor het leven in de Metaverse, om te versmelten met Oliver Reiser's _"hive mind"_.
 
+{{< advert >}}
+
 Mensen die de potentiële verschrikkingen van de normatieve kracht van nieuwspraak en het ‘scherm’ zagen, schakelen nu in voor hun dagelijkse dosis aan angst en haat. Ze raken dieper in de ban van het scherm, in de misplaatste overtuiging dat ze compassie en efficiëntie nastreven. Maar het is een anti-religie. De gewapende taal van ‘barmhartigheid’ en ‘gerechtigheid’ zijn de instrumenten van een pseudo-geloof dat is ontworpen om iedereen tegen iedereen te keren, zodat we onze toevlucht zoeken in de Machine. De enige uitweg is om deze epistemologie te verwerpen, om onszelf toe te staan ​​te ‘weten’ met het hart, om het micro-managen van anderen los te laten.
 
 De werkelijkheid is een geschenk. Zelfs het lijden kan een geschenk worden. Zoals de wees Tolkien zo lang geleden zei: _"Welke straffen van God zijn geen geschenken?"_

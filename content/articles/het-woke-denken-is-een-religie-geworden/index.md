@@ -21,6 +21,8 @@ Wat zouden _“woke”_ en religie gemeen hebben? Slechts zeer weinig dingen die
 
 Het is echter duidelijk dat er een verschil is. Terwijl _“woke”_, of progressieve liberalen zoals we ze vanaf nu zullen noemen, de gebrekkige en relativistische beginselen van het liberalisme eenvoudigweg op iets andere manieren interpreteren, heeft de religieuze persoon een toewijding aan een absoluut beginsel waar hij zijn waarden uit put.
 
+{{< advert >}}
+
 Neem bijvoorbeeld gelijkheid. Gelijkheid kan duidelijk op vele manieren worden geïnterpreteerd; we hebben gelijkheid van rechten, maar wat als niet iedereen gelijk is of gelijke startposities en kansen heeft, misschien moeten we daar rekening mee houden? Of hoe zit het met het _“de gendergekte”_? Dit is duidelijk het principe van vrijheid toegepast op een consistente manier. Door vrijheid zijn eerdere _sociale constructies_ neergehaald, zoals rollenpatronen, normatieve seksuele rollen, waarom zouden we het arbitrair daar bij laten en ons niet bevrijden van de begrenzingen en beperkingen van bijvoorbeeld gender? Of om nog verder gaan, waarom gender zelf niet bevrijden van de ketenen van het binaire en in plaats daarvan gebruik maken van een minder begrensd _genderspectrum_?
 
 

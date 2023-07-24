@@ -23,6 +23,8 @@ Rest ons, die dit alles met lede ogen zien gebeuren dan geen enkele rol dan het 
 
 Het discours van de hystericus wordt bij ons eminent vertolkt door Laurens Buijs. Hij is ontegenzeggelijk hysterisch, maar heeft ook een levensgroot punt. Het een sluit het ander niet uit. Maar de etymologie van het woord indachtig - ὑστέρα = baarmoeder - voelen weinig mannen zich geroepen de rol van hystericus op zich te nemen. Gillen en met servies smijten is onze eer te na. Onderbuikgevoel is tot daar aan toe, een verstoorde baarmoeder: neen.
 
+{{< advert >}}
+
 Is het edeler "in the mind to suffer the slings and arrows of outrageous fortune or to take arms against a sea of troubles, and by opposing end them?"[^2]Is het probleem niet net dat we machteloos zijn tegen het noodlot en dat onze inspanningen het te keren alleen op hoon tot loon kunnen rekenen? Moeten we dan, zoals de soldaat in Pompeii, tot het bittere eind op onze post blijven, zoals Spengler aanbeval, met 'optimisme is lafheid' als devies?[^3] Is deze vorm van martelaarschap welbeschouwd niet een iets masculienere vorm van hysterie? Stilletjes mokken aan de zijlijn kan ook nog, maar daar schiet niemand wat mee op.
  
 Laten we liever het verval omarmen, ja zelfs accelereren. Hoe slechter hoe beter![^4] Als de Europeaan het totale verval wil, waar hij immers op stemt, geef het hem dan. Is dit niet het toppunt van hysterie? Het zij zo. Laat de hele donderse boel naar de bliksem gaan, er is geen redden aan. 
