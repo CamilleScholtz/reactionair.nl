@@ -10,6 +10,7 @@ image: 0b84d6c6-ec43-4f7d-bbfd-628dd72cadf1.jpg
 anchor: Smart
 caption: 'Frederic Remington, Moonlight, wolf (ca. 1904)'
 tags:
+    - 'Friedrich Nietzsche'
     - Natuur
     - Wolf
 ---
