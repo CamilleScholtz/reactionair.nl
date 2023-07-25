@@ -4,7 +4,7 @@ writers:
     - 'Karl Ludwig von Haller'
 pages: 344
 types:
-    - { name: Paperback, price: 24.95, import_price: { currency: USD, amount: 23.8 }, isbn: 978-1-922602-76-3 }
+    - { name: Paperback, price: 24.99, import_price: { currency: USD, amount: 23.8 }, isbn: 978-1-922602-76-3 }
 publishers: 'Imperium Press'
 date: '2023-03-30'
 languages: Engels

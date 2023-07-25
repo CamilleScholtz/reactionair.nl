@@ -4,7 +4,7 @@ writers:
     - 'Jonathan Bowden'
 pages: 73
 types:
-    - { name: Paperback, price: 9.95, import_price: { currency: USD, amount: 12.0 }, isbn: 978-0-648859-30-7 }
+    - { name: Paperback, price: 14.99, import_price: { currency: USD, amount: 12.0 }, isbn: 978-0-648859-30-7 }
 publishers: 'Imperium Press'
 date: '2020-06-19'
 languages: Engels

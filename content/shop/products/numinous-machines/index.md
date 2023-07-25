@@ -4,8 +4,8 @@ writers:
     - 'Christopher Pankhurst'
 pages: 220
 types:
-    - { name: Paperback, price: 13.95, import_price: { currency: USD, amount: 12.0 }, isbn: 978-1-940933-45-0 }
-    - { name: Hardcover, price: 31.95, import_price: { currency: USD, amount: 28.0 }, isbn: 978-1-940933-44-3 }
+    - { name: Paperback, price: 13.99, import_price: { currency: USD, amount: 12.0 }, isbn: 978-1-940933-45-0 }
+    - { name: Hardcover, price: 31.99, import_price: { currency: USD, amount: 28.0 }, isbn: 978-1-940933-44-3 }
 publishers: Counter-Currents
 date: '2017-12-10'
 languages: Engels

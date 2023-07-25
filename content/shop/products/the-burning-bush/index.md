@@ -4,7 +4,7 @@ writers:
     - 'Elias Simojoki'
 pages: 180
 types:
-    - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-29-7 }
+    - { name: Paperback, price: 17.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-29-7 }
 publishers: 'Antelope Hill'
 date: '2023-07-17'
 languages: Engels

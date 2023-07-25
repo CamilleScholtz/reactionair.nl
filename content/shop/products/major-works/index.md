@@ -4,7 +4,7 @@ writers:
     - 'Joseph de Maistre'
 pages: 348
 types:
-    - { name: Paperback, price: 20.95, import_price: { currency: USD, amount: 19.55 }, isbn: 978-1-922602-22-0 }
+    - { name: Paperback, price: 20.99, import_price: { currency: USD, amount: 19.55 }, isbn: 978-1-922602-22-0 }
 publishers: 'Imperium Press'
 date: '2021-11-19'
 languages: Engels

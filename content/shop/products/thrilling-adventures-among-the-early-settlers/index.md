@@ -4,7 +4,7 @@ writers:
     - 'Warren Wildwood'
 pages: 308
 types:
-    - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-39-6 }
+    - { name: Paperback, price: 17.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-39-6 }
 publishers: 'Antelope Hill'
 date: '2022-09-23'
 languages: Engels

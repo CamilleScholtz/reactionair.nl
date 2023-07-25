@@ -4,7 +4,7 @@ writers:
     - 'Arthur F. Loveday'
 pages: 324
 types:
-    - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-00-8 }
+    - { name: Paperback, price: 17.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-00-8 }
 publishers: 'Antelope Hill'
 date: '2020-09-07'
 languages: Engels

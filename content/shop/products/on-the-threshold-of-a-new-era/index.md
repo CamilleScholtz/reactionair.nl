@@ -4,7 +4,7 @@ writers:
     - 'Edgar Julius Jung'
 pages: 115
 types:
-    - { name: Paperback, price: 13.95, import_price: { currency: USD, amount: 12.75 }, isbn: 978-1-922602-82-4 }
+    - { name: Paperback, price: 13.99, import_price: { currency: USD, amount: 12.75 }, isbn: 978-1-922602-82-4 }
 publishers: 'Imperium Press'
 date: '2023-06-02'
 languages: Engels

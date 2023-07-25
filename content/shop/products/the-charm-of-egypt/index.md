@@ -4,7 +4,7 @@ writers:
     - 'Filippo Marinetti'
 pages: 129
 types:
-    - { name: Paperback, price: 17.95, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-31-0 }
+    - { name: Paperback, price: 17.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-31-0 }
 publishers: 'Antelope Hill'
 date: '2022-07-28'
 languages: Engels

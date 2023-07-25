@@ -4,7 +4,7 @@ writers:
     - 'Armand Berger'
 pages: 66
 types:
-    - { name: Paperback, price: 11.94, import_price: { currency: EUR, amount: 9.2 }, isbn: 978-1-914208-97-3 }
+    - { name: Paperback, price: 12.99, import_price: { currency: EUR, amount: 9.2 }, isbn: 978-1-914208-97-3 }
 publishers: Arktos
 date: '2022-09-26'
 languages: Engels

@@ -4,8 +4,8 @@ writers:
     - 'Scott Howard'
 pages: 447
 types:
-    - { name: Paperback, price: 23.95, import_price: { currency: USD, amount: 21.51 }, isbn: 978-1-956887-57-0 }
-    - { name: Hardcover, price: 35.95, import_price: { currency: USD, amount: 0.0 }, isbn: 978-1-956887-58-7 }
+    - { name: Paperback, price: 25.99, import_price: { currency: USD, amount: 21.51 }, isbn: 978-1-956887-57-0 }
+    - { name: Hardcover, price: 35.99, import_price: { currency: USD, amount: 0.0 }, isbn: 978-1-956887-58-7 }
 publishers: 'Antelope Hill'
 date: '2020-11-11'
 languages: Engels

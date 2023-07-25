@@ -4,7 +4,7 @@ writers:
     - Diversen
 pages: 73
 types:
-    - { name: Paperback, price: 10.95, import_price: { currency: USD, amount: 10.2 }, isbn: 978-1-922602-54-1 }
+    - { name: Paperback, price: 10.99, import_price: { currency: USD, amount: 10.2 }, isbn: 978-1-922602-54-1 }
 publishers: 'Imperium Press'
 date: '2022-05-13'
 languages: Engels

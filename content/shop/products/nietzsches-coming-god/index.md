@@ -4,7 +4,7 @@ writers:
     - 'Abir Taha'
 pages: 106
 types:
-    - { name: Paperback, price: 13.95, import_price: { currency: EUR, amount: 10.56 }, isbn: 978-1-907166-90-7 }
+    - { name: Paperback, price: 13.99, import_price: { currency: EUR, amount: 10.56 }, isbn: 978-1-907166-90-7 }
 publishers: Arktos
 date: '2021-11-28'
 languages: Engels

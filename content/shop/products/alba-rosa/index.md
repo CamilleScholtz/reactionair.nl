@@ -4,7 +4,7 @@ writers:
     - 'Alexander Wolfheze'
 pages: 326
 types:
-    - { name: Paperback, price: 20.95, import_price: { currency: EUR, amount: 16.76 }, isbn: 978-1-912975-57-0 }
+    - { name: Paperback, price: 23.99, import_price: { currency: EUR, amount: 16.76 }, isbn: 978-1-912975-57-0 }
 publishers: Arktos
 date: '2023-07-23'
 languages: Nederlands

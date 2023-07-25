@@ -4,7 +4,7 @@ writers:
     - 'Nick Land'
 pages: 113
 types:
-    - { name: Paperback, price: 14.95, import_price: { currency: USD, amount: 13.6 }, isbn: 978-1-922602-68-8 }
+    - { name: Paperback, price: 14.99, import_price: { currency: USD, amount: 13.6 }, isbn: 978-1-922602-68-8 }
 publishers: 'Imperium Press'
 date: '2023-07-19'
 languages: Engels

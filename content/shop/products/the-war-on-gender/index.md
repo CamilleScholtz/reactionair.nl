@@ -4,7 +4,7 @@ writers:
     - 'Claire Rae Randall'
 pages: 414
 types:
-    - { name: Paperback, price: 25.95, import_price: { currency: EUR, amount: 20.4 }, isbn: 978-1-914208-81-2 }
+    - { name: Paperback, price: 27.99, import_price: { currency: EUR, amount: 20.4 }, isbn: 978-1-914208-81-2 }
 publishers: Arktos
 date: '2022-05-23'
 languages: Engels

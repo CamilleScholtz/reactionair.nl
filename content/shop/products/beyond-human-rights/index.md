@@ -4,7 +4,7 @@ writers:
     - 'Alain de Benoist'
 pages: 120
 types:
-    - { name: Paperback, price: 14.95, import_price: { currency: EUR, amount: 11.52 }, isbn: 978-1-907166-20-4 }
+    - { name: Paperback, price: 14.99, import_price: { currency: EUR, amount: 11.52 }, isbn: 978-1-907166-20-4 }
 publishers: Arktos
 date: '2021-11-10'
 languages: Engels

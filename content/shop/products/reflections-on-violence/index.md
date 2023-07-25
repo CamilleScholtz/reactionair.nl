@@ -4,7 +4,7 @@ writers:
     - 'Georges Sorel'
 pages: 392
 types:
-    - { name: Paperback, price: 21.95, import_price: { currency: USD, amount: 20.4 }, isbn: 978-1-922602-51-0 }
+    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 20.4 }, isbn: 978-1-922602-51-0 }
 publishers: 'Imperium Press'
 date: '2022-07-02'
 languages: Engels

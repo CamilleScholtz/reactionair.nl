@@ -4,7 +4,7 @@ writers:
     - 'Jason Reza Jorjani'
 pages: 582
 types:
-    - { name: Paperback, price: 33.95, import_price: { currency: EUR, amount: 26.8 }, isbn: 978-1-912975-40-2 }
+    - { name: Paperback, price: 33.99, import_price: { currency: EUR, amount: 26.8 }, isbn: 978-1-912975-40-2 }
 publishers: Arktos
 date: '2019-09-01'
 languages: Engels
