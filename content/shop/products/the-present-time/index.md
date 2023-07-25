@@ -4,7 +4,7 @@ writers:
     - 'Thomas Carlyle'
 pages: 223
 types:
-    - { name: Paperback, price: 10.99, import_price: { currency: USD, amount: 10.2 }, isbn: 978-0-648859-39-0 }
+    - { name: Paperback, price: 13.99, import_price: { currency: USD, amount: 10.2 }, isbn: 978-0-648859-39-0 }
 publishers: 'Imperium Press'
 date: '2021-03-18'
 languages: Engels

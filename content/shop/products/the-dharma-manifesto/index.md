@@ -4,7 +4,7 @@ writers:
     - 'Sri Dharma Pravartaka Acharya'
 pages: 196
 types:
-    - { name: Paperback, price: 16.99, import_price: { currency: EUR, amount: 13.44 }, isbn: 978-1-907166-32-7 }
+    - { name: Paperback, price: 20.99, import_price: { currency: EUR, amount: 13.44 }, isbn: 978-1-907166-32-7 }
 publishers: Arktos
 date: '2013-11-02'
 languages: Engels

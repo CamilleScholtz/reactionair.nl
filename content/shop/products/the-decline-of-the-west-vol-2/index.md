@@ -4,7 +4,7 @@ writers:
     - 'Oswald Spengler'
 pages: 680
 types:
-    - { name: Paperback, price: 29.99, import_price: { currency: EUR, amount: 23.6 }, isbn: 978-1-915755-23-0 }
+    - { name: Paperback, price: 32.99, import_price: { currency: EUR, amount: 23.6 }, isbn: 978-1-915755-23-0 }
 publishers: Arktos
 date: '2021-07-17'
 languages: Engels
