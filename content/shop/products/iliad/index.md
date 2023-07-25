@@ -4,7 +4,7 @@ writers:
     - Homerus
 pages: 624
 types:
-    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 20.4 }, isbn: 978-0-648690-50-4 }
+    - { name: Paperback, price: 25.99, import_price: { currency: USD, amount: 20.4 }, isbn: 978-0-648690-50-4 }
 publishers: 'Imperium Press'
 date: '2019-09-21'
 languages: Engels

@@ -4,7 +4,7 @@ writers:
     - 'Alexander Prokhanov'
 pages: 238
 types:
-    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 19.11 }, isbn: 978-1-953730-35-0 }
+    - { name: Paperback, price: 23.99, import_price: { currency: USD, amount: 19.11 }, isbn: 978-1-953730-35-0 }
 publishers: 'Antelope Hill'
 date: '2022-04-01'
 languages: Engels

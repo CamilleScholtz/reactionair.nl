@@ -4,7 +4,7 @@ writers:
     - 'Robert Filmer'
 pages: 316
 types:
-    - { name: Paperback, price: 19.99, import_price: { currency: USD, amount: 18.7 }, isbn: 978-1-922602-16-9 }
+    - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 18.7 }, isbn: 978-1-922602-16-9 }
 publishers: 'Imperium Press'
 date: '2022-09-29'
 languages: Engels

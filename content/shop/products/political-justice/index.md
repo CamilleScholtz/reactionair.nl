@@ -4,7 +4,7 @@ writers:
     - 'Alexander J. Illingworth'
 pages: 310
 types:
-    - { name: Paperback, price: 21.99, import_price: { currency: EUR, amount: 17.2 }, isbn: 978-1-910524-14-5 }
+    - { name: Paperback, price: 23.99, import_price: { currency: EUR, amount: 17.2 }, isbn: 978-1-910524-14-5 }
 publishers: Arktos
 date: '2018-10-29'
 languages: Engels
