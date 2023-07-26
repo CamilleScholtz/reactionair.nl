@@ -20,7 +20,6 @@ export const newsletter = (main) => {
 				}
 			}
 
-
 			const data = new FormData(ev.target);
 
 			fetch(ev.target.action, {
