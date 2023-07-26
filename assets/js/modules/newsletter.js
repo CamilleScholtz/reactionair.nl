@@ -8,6 +8,19 @@ export const newsletter = (main) => {
 		newsletter.querySelector("form").addEventListener("submit", (ev) => {
 			ev.preventDefault();
 
+			const question = newsletter.querySelector("#question");
+			if (question.style.display == "none") {
+				newsletter.querySelector("#email").style.display = "none";
+				question.style.display                           = "block";
+
+				return;
+			} else {
+				if (question.value != "8") {
+					return;
+				}
+			}
+
+
 			const data = new FormData(ev.target);
 
 			fetch(ev.target.action, {
