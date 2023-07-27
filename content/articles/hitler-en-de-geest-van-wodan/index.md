@@ -13,6 +13,7 @@ tags:
     - 'Carl Jung'
     - 'Friedrich Nietzsche'
     - Nostradamus
+    - Heidendom
 ---
 
 *Dit opstel van de bekende Zwitserse psycholoog en esotericus Carl Gustav Jung (1875-1961) verscheen voor het eerst in 1936 onder de titel 'Wotan'*.

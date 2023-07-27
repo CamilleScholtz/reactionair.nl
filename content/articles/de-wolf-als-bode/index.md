@@ -11,7 +11,6 @@ caption: 'Frederic Remington, Moonlight, wolf (ca. 1904)'
 tags:
     - 'Friedrich Nietzsche'
     - Natuur
-    - Wolf
 ---
 
 Het voorval met de wolf die op zondag 9 juli dacht een feestdis te vinden toen hij in Drenthe over het wolfwerende hekwerk een schapenweide binnensprong moet ons als waarschuwing dienen over onze relatie met de natuur. De berichtgeving rond het incident spitste zich voornamelijk toe op de acties van de boer en of hij wel juist gehandeld had door een wolf in het nauw te belagen met hooivork en spade en op de keuze van de burgermeester om het dier vervolgens dood te laten schieten. De ondertoon van deze berichten verried echter een zekere ontnuchtering; de experts hadden immers steeds gezegd dat dit niet mogelijk zou zijn. De waangedachte dat de wolf in de nabijheid van de mens kon verkeren zonder dat er bloed zou vloeien werd echter gelogenstraft.

@@ -10,7 +10,7 @@ date: '2022-05-13'
 languages: Engels
 front: 04ee61ff-1d79-4526-9aa1-0f49cb805105.jpg
 tags:
-    - 'Noorse mythologie'
+    - Heidendom
 back: e3c7ff78-8f1b-47e2-acbe-e840a577cd2a.jpg
 ---
 
