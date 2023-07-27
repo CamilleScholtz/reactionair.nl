@@ -11,22 +11,20 @@
 			</a>
 
 			<span id="buttons">
-				<div id="seperate">
-					<a href="/doneren" class="icon" id="donate">
-						<img src="{{ "img/donate.svg" | relURL }}" alt="Doneer" style="width: 28px; height: 28px;">
-					</a>
+				<a href="/doneren" class="icon" id="donate">
+					<img src="{{ "img/donate.svg" | relURL }}" alt="Doneer" style="width: 28px; height: 28px;">
+				</a>
 
 <!-- 					<a href="/winkel" class="icon" id="shop">
-						<img src="{{ "img/shop.svg" | relURL }}" alt="Winkel" style="width: 28px; height: 28px;">
-					</a> -->
+					<img src="{{ "img/shop.svg" | relURL }}" alt="Winkel" style="width: 28px; height: 28px;">
+				</a> -->
 
-					{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
-						<a href="/winkel/wagen" class="icon" id="cart">
-							<img src="{{ "img/cart.svg" | relURL }}" alt="Winkelwagen" style="width: 28px; height: 28px;">
-							<span id="total" style="display: none;"></span>
-						</a>
-					{{ end }}
-				</div>
+				{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
+					<a href="/winkel/wagen" class="icon" id="cart">
+						<img src="{{ "img/cart.svg" | relURL }}" alt="Winkelwagen" style="width: 28px; height: 28px;">
+						<span id="total" style="display: none;"></span>
+					</a>
+				{{ end }}
 
 				{{ partialCached "header/search.html" . }}
 			</span>
