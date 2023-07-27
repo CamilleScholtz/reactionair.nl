@@ -17,6 +17,7 @@ tags:
     - Rutgers
     - 'Thierry Baudet'
     - Woke
+    - Feminisme
 ---
 
 OPHEF! "Uw kinderen worden gehersenspoeld en geseksualiseerd!", "Nee hoor, het gaat slechts om voorlichting en preventie!" — Wat is er nou werkelijk gaande? Wat zijn de tijden toch veranderd, van de preutse jaren vijftig naar de vrije jaren zeventig naar de preutse jaren twintig. En wat is er mis met een beetje vrijheid? Met kinderen die zichzelf leren te ontdekken en ouders, voogden en leraressen die hen hierbij begeleiden? *Reactionair.nl* zoekt het uit.

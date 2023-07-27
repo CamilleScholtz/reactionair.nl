@@ -10,6 +10,7 @@ date: '2022-01-01'
 languages: Engels
 front: front.jpg
 tags:
+    - Heidendom
     - Traditie
 back: back.jpg
 ---

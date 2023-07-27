@@ -31,43 +31,38 @@ header
 			#buttons
 				display: flex
 				justify-content: end
+				gap: 10px
 
-				#seperate
+				.icon
+					align-items: center
 					display: flex
-					gap: 10px
+					transition: all .1s
+					justify-content: center
+					width: 50px
+					z-index: 1
 
-					.icon
-						align-items: center
-						display: flex
-						transition: all .1s
-						justify-content: center
-						width: 50px
-						z-index: 1
+				#donate
+					margin-top: -13px
 
-					#donate
-						margin-top: -13px
+				#shop
+					margin-top: -9px
 
-					#shop
-						margin-top: -9px
+				#cart
+					margin-top: -9px
 
-					#cart
-						margin-top: -9px
-
-					#total
-						align-items: center
-						background-color: var(--background-color)
-						border-radius: 50%
-						box-shadow: 0 0 10px 9px var(--background-color)
-						color: #A62F27
-						display: flex
-						font-size: 17px
-						height: 17px
-						justify-content: center
-						margin-left: 28px
-						margin-top: -28px
-						position: absolute
-						width: 17px
-						z-index: 1
+				#total
+					align-items: center
+					background-color: var(--background-color)
+					border-radius: 50%
+					box-shadow: 0 0 10px 9px var(--background-color)
+					color: #A62F27
+					display: flex
+					font-size: 17px
+					height: 17px
+					justify-content: center
+					position: absolute
+					width: 17px
+					z-index: 1
 
 				#search
 					position: relative

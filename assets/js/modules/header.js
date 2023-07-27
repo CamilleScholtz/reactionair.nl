@@ -78,7 +78,7 @@ export const scroll = (header, main, mobile) => {
 
 export const search = (header, mobile) => {
 	const logo             = header.querySelector("#logo");
-	const seperate 		   = header.querySelector("#seperate");
+	const icons            = header.querySelectorAll(".icon");
 	const input            = header.querySelector("#search input");
 	const button           = header.querySelector("#search button");
 	const resultsContainer = header.querySelector("#search .results-container");
@@ -114,18 +114,34 @@ export const search = (header, mobile) => {
 				logo.style.transform = "translateY(-200px)";
 			}
 
-			seperate.style.opacity       = 0;
-			seperate.style.pointerEvents = "none";
+			icons.forEach((icon) => {
+				icon.style.opacity       = 0;
+				icon.style.pointerEvents = "none";
+			});
 
-			input.style.transform  = "rotateY(0deg)";
-			button.style.transform = "rotateY(180deg)";
+			setTimeout(() => {
+				if (!mobile.matches) {
+					input.style.width   = "calc(100% - 50px)";
+					input.style.padding = "13px";
+				}
+
+				input.style.transform  = "rotateY(0deg)";
+				button.style.transform = "rotateY(180deg)";
+			}, 150);
 
 			input.focus();
 
 			input.dispatchEvent(new Event("input", {bubbles: true}));
 		} else {
-			seperate.style.opacity       = 1;
-			seperate.style.pointerEvents = "auto"
+			icons.forEach((icon) => {
+				icon.style.opacity       = 1;
+				icon.style.pointerEvents = "auto";
+			});
+
+			if (!mobile.matches) {
+				input.style.width   = "0px";
+				input.style.padding = "0px";
+			}
 
 			input.style.transform  = "rotateY(90deg)";
 			button.style.transform = "rotateY(0deg)";
