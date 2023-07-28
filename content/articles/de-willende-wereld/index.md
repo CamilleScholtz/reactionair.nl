@@ -19,6 +19,7 @@ tags:
     - Plato
     - 'William Shakespeare'
     - Metafysica
+    - 'Richard Wagner'
 note: 'Het volgende stuk is geschreven ter gelegendheid van de lezing van de heer Joris van Rossum van 24 juni 2022. Mijn hoop is dat dit kan dienen als voorbereidende lectuur voor geïnteresseerden die deze lezing bij zullen wonen.'
 ---
 

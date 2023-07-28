@@ -5,7 +5,7 @@ writers:
 pages: 140
 types:
     - { name: Paperback, price: 12.99, import_price: { currency: EUR, amount: 9.2 }, isbn: 978-1-914208-32-4 }
-publishers: Artos
+publishers: Arktos
 date: '2021-06-09'
 languages: Engels
 front: af71470f-540e-4cdd-901f-3fbb44dd6e70.jpg

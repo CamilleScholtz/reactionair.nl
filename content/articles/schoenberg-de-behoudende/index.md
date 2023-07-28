@@ -10,6 +10,7 @@ anchor: Center
 tags:
     - 'Theodor Adorno'
     - Muziek
+    - 'Richard Wagner'
 ---
 
 {{< quote
