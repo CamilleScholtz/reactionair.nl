@@ -19,47 +19,47 @@ header
 				margin-top: calc((100px / 2) - 25px)
 
 				#new
-					top: 62px
 					margin-left: -36px
 					position: absolute
 					pointer-events: none
+					top: 62px
 
 					span
+						animation: visible 3.8s normal both 1.2s
 						color: #A62F27
-						font-style: italic
 						font-size: 14px
-						position: absolute
-						top: 8px
-						margin-left: -30px
-						transform: scale(0)
-						text-shadow: 0 0 9px var(--background-color)
+						font-style: italic
 						font-weight: 700
-						animation: visible 2.5s normal both 2s
+						margin-left: -30px
+						position: absolute
+						text-shadow: 0 0 9px var(--background-color)
+						top: 8px
+						transform: scale(0)
 
 						@keyframes visible
 							0%
-								transform: scale(0)
+								transform: scale(0) rotate(-10deg)
 							25%
 								transform: scale(1) rotate(-20deg)
 							75%
 								transform: scale(1) rotate(-20deg)
 							100%
-								transform: scale(0)
+								transform: scale(0) rotate(-10deg)
 
 					svg
-						width: 40px
+						filter: drop-shadow(0px 0px 10px 10px var(--background-color))
 						height: 40px
 						margin: 0 auto
 						transform: rotate(260deg)
-						filter: drop-shadow(0px 0px 10px 10px var(--background-color))
+						width: 40px
 
 						.draw-arrow
-							stroke-width: 5
-							stroke: #A62F27
+							animation: draw 4s normal both 1s
 							fill: none
+							stroke: #A62F27
 							stroke-dasharray: 400
 							stroke-dashoffset: 400
-							animation: draw 4s normal both 1s
+							stroke-width: 5
 
 							&.tail-1
 								animation-delay: 1.5s
