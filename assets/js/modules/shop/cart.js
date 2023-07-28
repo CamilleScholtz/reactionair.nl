@@ -30,10 +30,16 @@ export const overview = (main, cart, shipping) => {
 		total = total.add(formatter(product.price).multiply(product.quantity));
 	});
 
-	page.querySelector(".shipping").innerHTML            = formatter(total < shipping.threshold ? shipping.price : 0).format();
-	page.querySelector(".free-shipping").innerHTML       = total < shipping.threshold ? `(Vanaf <span>€ 25.00</span> gratis verzending)` : "(Gratis verzending)";
-	page.querySelector(".total").innerHTML               = total.format();
-	page.querySelector(".total-plus-shipping").innerHTML = total.add(total < shipping.threshold ? shipping.price : 0).format()
+	page.querySelector(".total").innerHTML = total.format();
+	if (shipping.free_after_threshold) {
+		page.querySelector(".shipping").innerHTML            = formatter(total < shipping.threshold ? shipping.price : 0).format();
+		page.querySelector(".free-shipping").innerHTML       = total < shipping.threshold ? `(Vanaf <span>€ 25.00</span> gratis verzending)` : "(Gratis verzending)";
+		page.querySelector(".total-plus-shipping").innerHTML = total.add(total < shipping.threshold ? shipping.price : 0).format()
+	} else {
+		page.querySelector(".shipping").innerHTML            = formatter(shipping.price).format();
+		page.querySelector(".free-shipping").innerHTML       = "(Verzendkosten)";
+		page.querySelector(".total-plus-shipping").innerHTML = total.add(shipping.price).format()
+	}
 }
 
 export const edit = (main, header, shipping) => {
