@@ -18,6 +18,65 @@ header
 			#buttons
 				margin-top: calc((100px / 2) - 25px)
 
+				#new
+					top: 62px
+					margin-left: -36px
+					position: absolute
+					pointer-events: none
+
+					span
+						color: #A62F27
+						font-style: italic
+						font-size: 14px
+						position: absolute
+						top: 8px
+						margin-left: -30px
+						transform: scale(0)
+						text-shadow: 0 0 9px var(--background-color)
+						font-weight: 700
+						animation: visible 2.5s normal both 2s
+
+						@keyframes visible
+							0%
+								transform: scale(0)
+							25%
+								transform: scale(1) rotate(-20deg)
+							75%
+								transform: scale(1) rotate(-20deg)
+							100%
+								transform: scale(0)
+
+					svg
+						width: 40px
+						height: 40px
+						margin: 0 auto
+						transform: rotate(260deg)
+						filter: drop-shadow(0px 0px 10px 10px var(--background-color))
+
+						.draw-arrow
+							stroke-width: 5
+							stroke: #A62F27
+							fill: none
+							stroke-dasharray: 400
+							stroke-dashoffset: 400
+							animation: draw 4s normal both 1s
+
+							&.tail-1
+								animation-delay: 1.5s
+
+							&.tail-2
+								animation-delay: 1.7s
+
+							@keyframes draw
+								0%
+									stroke-dashoffset: 400
+								25%
+									stroke-dashoffset: 0
+								75%
+									stroke-dashoffset: 0
+								100%
+									stroke-dashoffset: 400
+
 				#total
 					margin-left: 28px
 					margin-top: -28px
