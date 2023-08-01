@@ -4,11 +4,14 @@ writers:
     - 'Joseph Otto Plassmann'
 pages: 146
 types:
-    - { name: Paperback, price: 18.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-69-3 }
+    - { name: Paperback, price: 18.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-69-3, size: { height: '216', width: '140', depth: '9' } }
 publishers: 'Antelope Hill'
 date: '2023-02-24'
 languages: Engels
 front: b1654ffd-5c76-49e9-ba6d-45cc7f81f1cc.webp
+subtitle: 'The Yearly Cycle of Germanic Customs and Festivals'
+tags:
+    - Heidendom
 back: 51336e2b-9fce-44f0-8cc1-d9a4856d3ceb.webp
 ---
 

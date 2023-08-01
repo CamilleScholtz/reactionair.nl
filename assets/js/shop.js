@@ -12,17 +12,20 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	total(header, cart);
 	address(main);
 	checkout(main);
+	edit(main, header);
 	thanks(header, main);
 
 	fetch(params.api+"/api/shop/shipping", {
-		method: "GET",
+		method: "POST",
 		headers: {
 			"Content-Type": "application/json"
-		}
+		},
+		body: JSON.stringify({
+			"cart": cart,
+		})
 	}).then((response) => {
 		return response.json();
 	}).then((data) => {
-		edit(main, header, data);
-		overview(main, cart, data);
+		return overview(main, cart, data);
 	});
 });

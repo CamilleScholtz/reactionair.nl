@@ -4,7 +4,7 @@ writers:
     - 'Julius Evola'
 pages: 180
 types:
-    - { name: Paperback, price: 14.99, import_price: { currency: EUR, amount: 11.84 }, isbn: 978-1-912079-60-5 }
+    - { name: Paperback, price: 14.99, import_price: { currency: EUR, amount: 11.84 }, isbn: 978-1-912079-60-5, size: { height: '216', width: '140', depth: '11' } }
 publishers: Arktos
 date: '2023-07-21'
 languages: Engels

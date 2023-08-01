@@ -1,3 +1,4 @@
+import * as params from "@params";
 import currency from "../../vendor/currency.js";
 import { total } from "./header.js";
 
@@ -42,7 +43,7 @@ export const overview = (main, cart, shipping) => {
 	}
 }
 
-export const edit = (main, header, shipping) => {
+export const edit = (main, header) => {
 	const getProduct = (cart, dataset) => {
 		return cart?.find(i => i.name === dataset.name
 			&& i.type === dataset.type) ?? {
@@ -51,9 +52,9 @@ export const edit = (main, header, shipping) => {
 			quantity: 0,
 			price:    currency(dataset.price),
 		};
-	};
+	}
 
-	const quantityChanged = (form, cart, product) => {
+	const quantityChanged = (form, cart, product, shipping = true) => {
 		const input  = form.querySelector(".added-to-cart");
 		const button = form.querySelector(".add-to-cart");
 
@@ -77,8 +78,23 @@ export const edit = (main, header, shipping) => {
 
 		total(header, cart);
 		hideButtons(main, cart);
-		overview(main, cart, shipping);
-	};
+
+		if (shipping) {
+			fetch(params.api+"/api/shop/shipping", {
+				method: "POST",
+				headers: {
+					"Content-Type": "application/json"
+				},
+				body: JSON.stringify({
+					"cart": cart,
+				})
+			}).then((response) => {
+				return response.json();
+			}).then((data) => {
+				return overview(main, cart, data);
+			});
+		}
+	}
 
 	const hideButtons = (main, cart) => {
 		const forms = main.querySelectorAll("#products .cart-form.hidden");
@@ -98,7 +114,7 @@ export const edit = (main, header, shipping) => {
 
 	main.querySelectorAll(".cart-form").forEach((form) => {
 		const cart = JSON.parse(localStorage.getItem("cart")) ?? [];
-		quantityChanged(form, cart, getProduct(cart, form.dataset));
+		quantityChanged(form, cart, getProduct(cart, form.dataset), false);
 
 		form.querySelectorAll(".add-to-cart").forEach((button) => {
 			button.addEventListener("click", (ev) => {

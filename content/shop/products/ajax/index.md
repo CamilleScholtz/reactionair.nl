@@ -4,7 +4,7 @@ writers:
     - Sophocles
 pages: 91
 types:
-    - { name: Paperback, price: 12.99, import_price: { currency: USD, amount: 11.9 }, isbn: 978-1-922602-31-2 }
+    - { name: Paperback, price: 12.99, import_price: { currency: USD, amount: 11.9 }, isbn: 978-1-922602-31-2, size: { height: '178', width: '109', depth: '56' } }
 publishers: 'Imperium Press'
 date: '2022-02-08'
 languages: Engels

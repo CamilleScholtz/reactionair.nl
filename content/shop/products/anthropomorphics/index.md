@@ -4,7 +4,7 @@ writers:
     - 'Dennis Bouvard'
 pages: 193
 types:
-    - { name: Paperback, price: 16.99, import_price: { currency: USD, amount: 16.15 }, isbn: 978-0-648690-57-3 }
+    - { name: Paperback, price: 16.99, import_price: { currency: USD, amount: 16.15 }, isbn: 978-0-648690-57-3, size: { height: '203', width: '127', depth: '11' } }
 publishers: 'Imperium Press'
 date: '2020-04-17'
 languages: Engels
