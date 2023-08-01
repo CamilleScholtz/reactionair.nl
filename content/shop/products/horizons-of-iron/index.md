@@ -4,7 +4,7 @@ writers:
     - 'Arthur Powell'
 pages: 158
 types:
-    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 17.0 }, isbn: 978-1-922602-56-5 }
+    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 17.0 }, isbn: 978-1-922602-56-5, size: { height: '204', width: '127', depth: '10' } }
 publishers: 'Imperium Press'
 date: '2022-09-22'
 languages: Engels

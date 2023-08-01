@@ -4,7 +4,7 @@ writers:
     - 'Diego Fusaro'
 pages: 159
 types:
-    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-38-9 }
+    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-38-9, size: { height: '216', width: '140', depth: '9' } }
 publishers: 'Antelope Hill'
 date: '2022-08-13'
 languages: Engels
