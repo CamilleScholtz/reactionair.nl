@@ -27,7 +27,7 @@
 		</span>
 	</div>
 
-	{{ $paginator := .Paginate (sort .RegularPages "Params.title") }}
+	{{ $paginator := .Paginate .RegularPages.ByDate.Reverse }}
 
 	<ul id="products">
 		{{ range $paginator.Pages }}
