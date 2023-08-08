@@ -4,7 +4,7 @@ writers:
     - 'Charles William Dailey'
 pages: 642
 types:
-    - { name: Paperback, price: 35.99, import_price: { currency: EUR, amount: 28.4 }, isbn: 978-1-914208-68-3 }
+    - { name: Paperback, price: 35.99, import_price: { currency: EUR, amount: 28.4 }, isbn: 978---1-9142-08--68-3, size: { height: '216', width: '140', depth: '41' } }
 publishers: Arktos
 date: '2022-01-20'
 languages: Engels

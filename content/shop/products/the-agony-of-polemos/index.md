@@ -4,7 +4,7 @@ writers:
     - 'Carlos Videla'
 pages: 146
 types:
-    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 14.31 }, isbn: 978-1-956887-45-7 }
+    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 14.31 }, isbn: 978---1-9568-87--45-7, size: { height: '216', width: '140', depth: '9' } }
 publishers: 'Antelope Hill'
 date: '2022-10-07'
 languages: Engels

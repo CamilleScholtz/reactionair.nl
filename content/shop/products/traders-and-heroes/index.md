@@ -4,7 +4,7 @@ writers:
     - 'Werner Sombart'
 pages: 140
 types:
-    - { name: Paperback, price: 12.99, import_price: { currency: EUR, amount: 9.2 }, isbn: 978-1-914208-32-4 }
+    - { name: Paperback, price: 12.99, import_price: { currency: EUR, amount: 92.0 }, isbn: 978---1-9142-08--32-4, size: { height: '216', width: '140', depth: '9' } }
 publishers: Arktos
 date: '2021-06-09'
 languages: Engels

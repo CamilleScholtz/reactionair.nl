@@ -4,9 +4,9 @@ title: 'Met Caroline van der Plas wordt anime werkelijkheid'
 subtitle: 'Katjongens en katmeisjes voor iedereen!'
 date: '2023-05-18'
 authors:
-    - 'De Melancholieke Nar'
+    - 'De redactie'
 themes: 'De Uylenspieghel'
-image: 8ab852aa-afda-4ad8-ab4c-3795b15c0511.jpg
+image: cc4a8937-b1c6-490b-90b6-c94b69a35146.jpg
 anchor: Smart
 tags:
     - Anime

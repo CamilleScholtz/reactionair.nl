@@ -4,7 +4,7 @@ writers:
     - 'Shawn Bell'
 pages: 174
 types:
-    - { name: Paperback, price: 19.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-10-5 }
+    - { name: Paperback, price: 19.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978---1-9568-87--10-5, size: { height: '216', width: '140', depth: '11' } }
 publishers: 'Antelope Hill'
 date: '2022-03-16'
 languages: Engels

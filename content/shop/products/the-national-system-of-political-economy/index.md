@@ -4,7 +4,7 @@ writers:
     - 'Friedrich List'
 pages: 462
 types:
-    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 20.4 }, isbn: 978-1-922602-35-0 }
+    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 20.4 }, isbn: 978---1-9226-02--35-0, size: { height: '216', width: '140', depth: '27' } }
 publishers: 'Imperium Press'
 date: '2022-02-25'
 languages: Engels
