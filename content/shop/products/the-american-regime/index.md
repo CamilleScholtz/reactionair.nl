@@ -4,7 +4,7 @@ writers:
     - 'An Anonymous January 6th Prisoner'
 pages: 290
 types:
-    - { name: Paperback, price: 23.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-55-6 }
+    - { name: Paperback, price: 23.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978---1-9568-87--55-6, size: { height: '216', width: '140', depth: '17' } }
 publishers: 'Antelope Hill'
 date: '2023-01-06'
 languages: Engels

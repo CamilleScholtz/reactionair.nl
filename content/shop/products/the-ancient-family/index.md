@@ -4,7 +4,7 @@ writers:
     - 'Numa Denis Fustel De Coulanges'
 pages: 121
 types:
-    - { name: Paperback, price: 13.99, import_price: { currency: USD, amount: 9.35 }, isbn: 978-1-922602-43-5 }
+    - { name: Paperback, price: 13.99, import_price: { currency: USD, amount: 93.5 }, isbn: 978---1-9226-02--43-5, size: { height: '178', width: '108', depth: '8' } }
 publishers: 'Imperium Press'
 date: '2022-03-18'
 languages: Engels

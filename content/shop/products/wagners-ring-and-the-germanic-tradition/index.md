@@ -4,8 +4,8 @@ writers:
     - 'Collin Cleary'
 pages: 118
 types:
-    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 8.0 }, isbn: 978-1-642641-01-1 }
-    - { name: Hardcover, price: 32.99, import_price: { currency: USD, amount: 20.0 }, isbn: 978-1-642641-00-4 }
+    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 8.0 }, isbn: 978-1-642641-01-1, size: { height: '216', width: '140', depth: '7' } }
+    - { name: Hardcover, price: 32.99, import_price: { currency: USD, amount: 20.0 }, isbn: 978-1-642641-00-4, size: { height: '216', width: '140', depth: '11' } }
 publishers: Counter-Currents
 date: '2021-12-21'
 languages: Engels

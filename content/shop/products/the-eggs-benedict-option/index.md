@@ -4,7 +4,7 @@ writers:
     - 'Raw Egg Nationalist'
 pages: 250
 types:
-    - { name: Paperback, price: 20.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-26-6 }
+    - { name: Paperback, price: 20.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978---1-9568-87--26-6, size: { height: '216', width: '140', depth: '15' } }
 publishers: 'Antelope Hill'
 date: '2022-07-31'
 languages: Engels
