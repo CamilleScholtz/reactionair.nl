@@ -17,13 +17,10 @@
 			<a class="back-button" href="/winkel">‹</a>
 
 			<div class="title-container">
-				<h1>
-					{{ .Params.title }}
-				</h1>
+				<h3>{{ delimit .Params.writers ", " " & " }}</h3>
+				<h1>{{ .Params.title }}</h1>
 				{{ if isset .Params "subtitle" }}
-					<h2>
-						{{ .Params.subtitle }}
-					</h2>
+					<h2>{{ .Params.subtitle }}</h2>
 				{{ end }}
 
 				<div class="quote">“&nbsp;</div>
