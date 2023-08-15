@@ -5,7 +5,6 @@ writers:
 pages: 268
 types:
     - { name: Paperback, price: 24.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-82-4, size: { height: '216', width: '140', depth: '15' } }
-    - { name: Hardcover, price: 29.99, import_price: { currency: USD, amount: 0.0 }, isbn: 978-1-953730-78-7, size: { height: '216', width: '140', depth: '19' } }
 publishers: 'Antelope Hill'
 date: '2020-12-07'
 languages: Engels

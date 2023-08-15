@@ -4,8 +4,8 @@ writers:
     - 'F. Roger Devlin'
 pages: 192
 types:
-    - { name: Paperback, price: 18.99, import_price: { currency: USD, amount: 12.0 }, isbn: 978---1-9359-65--88-6, size: { height: '229', width: '152', depth: '11' } }
-    - { name: Hardcover, price: 31.99, import_price: { currency: USD, amount: 28.0 }, isbn: 978---1-6426-41--54-7, size: { height: '229', width: '152', depth: '14' } }
+    - { name: Paperback, price: 18.99, import_price: { currency: USD, amount: 12.0 }, isbn: 978-1-935965-88-6, size: { height: '229', width: '152', depth: '11' } }
+    - { name: Hardcover, price: 31.99, import_price: { currency: USD, amount: 28.0 }, isbn: 978-1-642641-54-7, size: { height: '229', width: '152', depth: '14' } }
 publishers: Counter-Currents
 date: '2015-06-01'
 languages: Engels

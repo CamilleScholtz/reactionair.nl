@@ -6,7 +6,6 @@ writers:
 pages: 168
 types:
     - { name: Paperback, price: 20.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-89-3, size: { height: '216', width: '140', depth: '10' } }
-    - { name: Hardcover, price: 28.99, import_price: { currency: USD, amount: 0.0 }, isbn: 978-1-953730-91-6, size: { height: '216', width: '140', depth: '13' } }
 publishers: 'Antelope Hill'
 date: '2022-01-01'
 languages: Engels

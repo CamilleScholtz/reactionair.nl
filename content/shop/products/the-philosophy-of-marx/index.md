@@ -4,7 +4,7 @@ writers:
     - 'Giovanni Gentile'
 pages: 156
 types:
-    - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978---1-9568-87--08-2, size: { height: '216', width: '140', depth: '10' } }
+    - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-08-2, size: { height: '216', width: '140', depth: '10' } }
 publishers: 'Antelope Hill'
 date: '2022-10-21'
 languages: Engels

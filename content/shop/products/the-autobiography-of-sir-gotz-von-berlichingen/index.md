@@ -4,7 +4,7 @@ writers:
     - 'Götz von Berlichingen'
 pages: 120
 types:
-    - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 14.31 }, isbn: 978---1-9537-30--25-1, size: { height: '216', width: '140', depth: '8' } }
+    - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 14.31 }, isbn: 978-1-953730-25-1, size: { height: '216', width: '140', depth: '8' } }
 publishers: 'Antelope Hill'
 date: '2023-07-17'
 languages: Engels

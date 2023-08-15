@@ -4,7 +4,7 @@ writers:
     - 'Richard Lynn'
 pages: 142
 types:
-    - { name: Paperback, price: 14.99, import_price: { currency: EUR, amount: 10.36 }, isbn: 978---1-9142-08--65-2, size: { height: '216', width: '140', depth: '10' } }
+    - { name: Paperback, price: 14.99, import_price: { currency: EUR, amount: 10.36 }, isbn: 978-1-914208-65-2, size: { height: '216', width: '140', depth: '10' } }
 publishers: Arktos
 date: '2021-12-09'
 languages: Engels

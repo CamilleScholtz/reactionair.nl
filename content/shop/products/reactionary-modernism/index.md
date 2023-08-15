@@ -4,8 +4,8 @@ writers:
     - 'Jonathan Bowden'
 pages: 206
 types:
-    - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 16.0 }, isbn: 978---1-6426-41--66-0, size: { height: '229', width: '153', depth: '12' } }
-    - { name: Hardcover, price: 34.99, import_price: { currency: USD, amount: 28.0 }, isbn: 978---1-6426-41--67-7, size: { height: '229', width: '153', depth: '16' } }
+    - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 16.0 }, isbn: 978-1-642641-66-0, size: { height: '229', width: '153', depth: '12' } }
+    - { name: Hardcover, price: 34.99, import_price: { currency: USD, amount: 28.0 }, isbn: 978-1-642641-67-7, size: { height: '229', width: '153', depth: '16' } }
 publishers: Counter-Currents
 date: '2022-03-28'
 languages: Engels

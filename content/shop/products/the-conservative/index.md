@@ -4,7 +4,7 @@ writers:
     - 'H. P. Lovecraft'
 pages: 218
 types:
-    - { name: Paperback, price: 25.99, import_price: { currency: EUR, amount: 17.28 }, isbn: 978---1-9071-66--30-3, size: { height: '216', width: '140', depth: '13' } }
+    - { name: Paperback, price: 25.99, import_price: { currency: EUR, amount: 17.28 }, isbn: 978-1-907166-30-3, size: { height: '216', width: '140', depth: '13' } }
 publishers: Arktos
 date: '2014-03-04'
 languages: Engels
