@@ -38,7 +38,7 @@ export const overview = (main, cart, shipping) => {
 		page.querySelector(".total-plus-shipping").innerHTML = total.add(total < shipping.threshold ? shipping.price : 0).format()
 	} else {
 		page.querySelector(".shipping").innerHTML            = formatter(shipping.price).format();
-		page.querySelector(".free-shipping").innerHTML       = "(Verzendkosten)";
+		page.querySelector(".free-shipping").innerHTML       = "(Verzendkosten, uiterlijk binnen 10 werkdagen in huis)"
 		page.querySelector(".total-plus-shipping").innerHTML = total.add(shipping.price).format()
 	}
 }
