@@ -25,7 +25,7 @@ Pim Lammers werd geboren op 2 oktober 1993 en studeerde politicologie en Nederla
 
 {{< advert >}}
 
-Gezien de grote hoeveelheid staatsgesteunde LHBTIQI+-propaganda die in onze basisscholen wordt uitgerold, is het niet verrassend dat men kiest voor Lammers, gelet op zijn kinderboekenoeuvre.[^3]  In april 2022 verscheen er op *Reactionair.nl* een artikel over de campagnes van het COC in het Nederlandse basisonderwijs, waarin de keuze voor de boekjes van Lammers voor Paarse Vrijdag wordt belicht.[^4] In dat artikel is te lezen:
+Gezien de grote hoeveelheid staatsgesteunde LHBTIQ+-propaganda die in onze basisscholen wordt uitgerold, is het niet verrassend dat men kiest voor Lammers, gelet op zijn kinderboekenoeuvre.[^3]  In april 2022 verscheen er op *Reactionair.nl* een artikel over de campagnes van het COC in het Nederlandse basisonderwijs, waarin de keuze voor de boekjes van Lammers voor Paarse Vrijdag wordt belicht.[^4] In dat artikel is te lezen:
  
 > Wanneer je op internet zoekt op Pim Lammers, komen twee onderwerpen zeer sterk naar voren als interesses van deze homoseksuele schrijver, namelijk kinderen en seks. En niet zomaar seks, nee, seks die men toch wel veilig mag classificeren als extreem. Zo schrijft Lammers over zijn deelnames aan homoseksuele groepsseks, aan seks in gaysauna’s en in darkrooms.
 

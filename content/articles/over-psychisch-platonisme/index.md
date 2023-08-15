@@ -6,12 +6,12 @@ authors:
     - 'Jan de Maansnijder'
 themes: 'Religie en Wijsbegeerte'
 image: v.jpg
-anchor: Top
+anchor: Smart
 tags:
     - Metafysica
     - Plato
     - Psychologie
-note: "Dit is een vertaling van het essay 'On Psychic Platonism', het origineel is [hier](https://esoterictraditionalism.wordpress.com/2019/12/23/on-psychic-platonism/) te lezen."
+note: "Dit is een vertaling van het essay *'On Psychic Platonism'*, het origineel is *[hier](https://esoterictraditionalism.wordpress.com/2019/12/23/on-psychic-platonism/)*  te lezen."
 ---
 
 Psychisch Platonisme is een ideologie die verklaart dat er vormen (kleine letter v) bestaan —  vormen die in het psychische domein verblijven, waarmee zij zich onderscheidt van het eigenlijke Platonisme dat Vormen (hoofdletter V) in het spirituele domein poneert — die absoluut onafhankelijk zijn van het soort substantie dat zij kunnen aannemen. Om deze ideologie goed te begrijpen moet men ook beseffen dat er een identiteit bestaat tussen deze psychische vormen en het digitale domein. Maar laten we eerst eens kijken naar de traditionele relatie tussen substantie en vorm.
@@ -25,7 +25,6 @@ Neem het voorbeeld van de armen van het lichaam. De gelovige in substantiële vo
 {{< advert >}}
 
 Een ander voorbeeld, dat nauw met dit voorbeeld samenhangt, maar misschien iets vaker voorkomt, is het verschijnsel transseksualiteit. De traditionele gelovige in substantiële vorm zou verklaren dat een mannelijke vorm zich manifesteert in een mannelijk lichaam, en dat een vrouwelijke vorm zich manifesteert in een vrouwelijk lichaam, en dat dit de normale gang van zaken is (uiteraard zou hij de mogelijkheid van eventuele afwijkingen niet ontkennen, maar die zijn per definitie abnormaal). De psychische platonist verwerpt deze bewering, en zal altijd de opvatting verdedigen dat de vrouwelijke en mannelijke vormen geen enkele voorkeur heeft voor welke geslachtelijke substantie dan ook. Iemand die handelt, kijkt, spreekt, d.w.z. in alle uiterlijke verschijningsvormen een man lijkt te zijn, kan toch (psychisch) een vrouw zijn, en omgekeerd. Net als bij het vorige voorbeeld zal de psychische platonist allerlei lichamelijke en psychische afwijkingen aanvoeren om zijn standpunt te beargumenteren, in dit geval waarschijnlijk een vorm van chromosomale berekening (bijv. "nou je hebt ook XXY en YYX en vogels hebben de letters W en Z en de vrouwtjes hebben WZ vergeleken met de menselijke man XY" en dergelijke).
-
 
 Om meer te spreken over de digitale vormen van psychisch platonisme, laten we eens kijken naar het verschijnsel "anime-meisjes". Dit zijn in feite (audio)visuele voorstellingen van een geïdealiseerde vrouw, met zeer neotone trekken (grote ogen, hoge stem, enz.). De aanhanger van de substantiële vorm zou nooit tevreden zijn met zulke beelden, omdat ze elke lichamelijke substantie missen, en dus nog een stap verder van de "werkelijkheid" afstaan dan transseksuelen. Voor hem hoort de vorm van een vrouw (ideaal of niet) bij het lichaam, maar voor de psychische platonist niet. Voor de psychisch platonist kan de vorm van een vrouw zich manifesteren in elke substantie, want die staat er volkomen los van. Welnu, het is nu eenmaal zo dat de substantie van het virtuele zich veel gemakkelijker leent voor de "idealisering" van vormen dan de substantie van het lichamelijke, wat de vermeende "perfectie" van "anime-meisjes" verklaart.
 

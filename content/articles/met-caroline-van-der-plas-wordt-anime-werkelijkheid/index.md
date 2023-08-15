@@ -1,13 +1,12 @@
 ---
-draft: true
 title: 'Met Caroline van der Plas wordt anime werkelijkheid'
 subtitle: 'Katjongens en katmeisjes voor iedereen!'
-date: '2023-05-18'
+date: '2023-08-10'
 authors:
     - 'De redactie'
 themes: 'De Uylenspieghel'
 image: cc4a8937-b1c6-490b-90b6-c94b69a35146.jpg
-anchor: Smart
+anchor: Top
 tags:
     - Anime
     - BBB
