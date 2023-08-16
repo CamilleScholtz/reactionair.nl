@@ -14,7 +14,7 @@
 				<g:id>{{ replace (index .Params.types 0).isbn "-" "" }}</g:id>
 				<g:title>{{ .Params.title | safeHTML }}</g:title>
 				<g:description>{{ .Plain | truncate 4990 }}</g:description>
-				<g:link>{{ .RelPermalink }}</g:link>
+				<g:link>{{ .Permalink }}</g:link>
 				<g:image_link>{{ (.Resources.Get .Params.front).Permalink }}</g:image_link>
 				{{ if isset .Params "back" }}
 					<g:additional_image_link>{{ (.Resources.Get .Params.back).Permalink }}</g:additional_image_link>
