@@ -72,11 +72,11 @@ ignoreErrors = ["error-remote-getjson"]
 		keepWhitespace = false
 
 [outputs]
-	home     = ["HTML", "JSON", "RSS"]
-	section  = ["HTML", "JSON", "RSS"]
-	taxonomy = ["HTML", "RSS"]
-	term     = ["HTML", "RSS"]
-	page     = ["HTML"]
+	home     = ["html", "json", "rss"]
+	section  = ["html", "json", "rss"]
+	taxonomy = ["html", "rss"]
+	term     = ["html", "rss"]
+	page     = ["html"]
 
 [build]
 	noJSConfigInAssets = true

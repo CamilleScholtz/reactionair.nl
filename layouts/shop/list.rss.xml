@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+	<channel>
+		<title>Reactionair.nl</title>
+		<link>http://reactionair.nl</link>
+		<description>De website voor achtergrond en opinie vanuit een reactionair perspectief</description>
+
+		{{ range $i, $_ := .RegularPages }}
+			{{ with .Params.layout }}
+				{{ continue }}
+			{{ end }}
+
+			<item>
+				<g:id>{{ replace (index .Params.types 0).isbn "-" "" }}</g:id>
+				<g:title>{{ .Params.title | safeHTML }}</g:title>
+				<g:description>{{ .Plain | truncate 4990 }}</g:description>
+				<g:link>{{ .RelPermalink }}</g:link>
+				<g:image_link>{{ (.Resources.Get .Params.front).Permalink }}</g:image_link>
+				{{ if isset .Params "back" }}
+					<g:additional_image_link>{{ (.Resources.Get .Params.back).Permalink }}</g:additional_image_link>
+				{{ end }}
+				<g:availability>{{ if .Params.unavailable }}out_of_stock{{ else }}in_stock{{ end }}</g:availability>
+				<g:price>{{ .Params.price }} EUR</g:price>
+				<g:google_product_category>543543</g:google_product_category>
+				<g:shipping>
+					<g:country>NL</g:country>
+					<g:service>Standard</g:service>
+					<g:price>6.50 EUR</g:price>
+				</g:shipping>
+			</item>
+		{{ end }}
+	</channel>
+</rss>
