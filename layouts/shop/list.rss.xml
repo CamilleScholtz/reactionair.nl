@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
 	<channel>
 		<title>Reactionair.nl</title>
