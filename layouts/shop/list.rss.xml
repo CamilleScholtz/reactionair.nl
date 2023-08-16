@@ -22,6 +22,7 @@
 				<g:availability>{{ if .Params.unavailable }}out_of_stock{{ else }}in_stock{{ end }}</g:availability>
 				<g:price>{{ (index .Params.types 0).price }} EUR</g:price>
 				<g:google_product_category>543543</g:google_product_category>
+				<g:gtin>{{ replace (index .Params.types 0).isbn "-" "" }}</g:gtin>
 				<g:shipping>
 					<g:country>NL</g:country>
 					<g:service>Standard</g:service>
