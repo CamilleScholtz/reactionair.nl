@@ -20,7 +20,7 @@
 					<g:additional_image_link>{{ (.Resources.Get .Params.back).Permalink }}</g:additional_image_link>
 				{{ end }}
 				<g:availability>{{ if .Params.unavailable }}out_of_stock{{ else }}in_stock{{ end }}</g:availability>
-				<g:price>{{ .Params.price }} EUR</g:price>
+				<g:price>{{ (index .Params.types 0).price }} EUR</g:price>
 				<g:google_product_category>543543</g:google_product_category>
 				<g:shipping>
 					<g:country>NL</g:country>
