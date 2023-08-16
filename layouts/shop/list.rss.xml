@@ -10,14 +10,17 @@
 				{{ continue }}
 			{{ end }}
 
+			{{ $front := .Resources.Get .Params.front }}
+
 			<item>
 				<g:id>{{ replace (index .Params.types 0).isbn "-" "" }}</g:id>
 				<g:title>{{ .Params.title | safeHTML }}</g:title>
 				<g:description>{{ .Plain | truncate 4990 }}</g:description>
 				<g:link>{{ .Permalink }}</g:link>
-				<g:image_link>{{ (.Resources.Get .Params.front).Permalink }}</g:image_link>
+				<g:image_link>{{ ($front.Fit "1320x880 jpeg").Permalink }}</g:image_link>
 				{{ if isset .Params "back" }}
-					<g:additional_image_link>{{ (.Resources.Get .Params.back).Permalink }}</g:additional_image_link>
+					{{ $back := .Resources.Get .Params.back }}
+					<g:additional_image_link>{{ ($back.Fit "1320x880 jpeg").Permalink }}</g:additional_image_link>
 				{{ end }}
 				<g:availability>{{ if .Params.unavailable }}out_of_stock{{ else }}in_stock{{ end }}</g:availability>
 				<g:price>{{ (index .Params.types 0).price }} EUR</g:price>

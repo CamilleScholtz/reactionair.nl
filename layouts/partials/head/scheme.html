@@ -14,7 +14,7 @@
 			"alternativeHeadline": "{{ .Params.subtitle | plainify }}",
 			"datePublished": "{{ .Params.date.Format "2006-01-02" }}",
 			"image": [
-				"{{ ($image.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}"
+				"{{ ($image.Fill (printf "1200x628 jpeg %s" $anchor)).Permalink }}"
 			],
 			"author": [
 				{{ range $i, $author := .Params.authors }}
@@ -36,10 +36,12 @@
 			"name": "{{ .Params.title | safeHTML }}",
 			"image": "{{ (.Resources.Get .Params.image).Permalink }}"
 		{{ else if and (eq .Type "shop") (isset .Params "front") }}
+			{{ $image := .Resources.Get .Params.front }}
+
 			"@type": ["Product", "Book"],
 			"name": "{{ .Params.title | safeHTML }}{{ if isset .Params "subtitle" }}: {{ .Params.subtitle | safeHTML }}{{ end }}",
 			"datePublished": "{{ .Params.date.Format "2006-01-02" }}",
-			"image": "{{ (.Resources.Get .Params.front).Permalink }}",
+			"image": "{{ ($image.Fit "1320x880 jpeg").Permalink }}",
 			"bookFormat": "http://schema.org/Paperback",
 			"inLanguage": "{{ .Params.languages }}",
 			"isbn": "{{ replace (index .Params.types 0).isbn "-" "" }}",

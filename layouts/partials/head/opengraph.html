@@ -9,14 +9,14 @@
 	{{ end }}
 
 	<meta property="og:type" content="article">
-	<meta property="og:image" content="{{ ($image.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}">
+	<meta property="og:image" content="{{ ($image.Fill (printf "1200x628 jpeg %s" $anchor)).Permalink }}">
 	<meta property="twitter:card" content="summary_large_image">
 {{ else if and (eq .Type "shop") (isset .Params "front") }}
 	{{ $image  := .Resources.Get .Params.front }}
 	{{ $anchor := "Smart" }}
 
 	<meta property="og:type" content="product">
-	<meta property="og:image" content="{{ ($image.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}">
+	<meta property="og:image" content="{{ ($image.Fit (printf "1320x880 jpeg %s" $anchor)).Permalink }}">
 	<meta property="product:price.amount" content="{{ (index .Params.types 0).prices }}">
 	<meta property="product:price.currency" content="EUR">
 {{ else }}
