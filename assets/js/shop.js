@@ -2,6 +2,7 @@ import * as params from "@params";
 import { edit, overview, thanks } from "./modules/shop/cart.js";
 import { address, checkout } from "./modules/shop/checkout.js";
 import { total } from "./modules/shop/header.js";
+import { search } from "./modules/shop/search.js";
 
 window.addEventListener("DOMContentLoaded", (ev) => {
 	const header = document.querySelector("header");
@@ -13,6 +14,7 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	address(main);
 	checkout(main);
 	edit(main, header);
+	search(main);
 	thanks(header, main);
 
 	fetch(params.api+"/api/shop/shipping", {

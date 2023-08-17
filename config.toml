@@ -15,12 +15,13 @@ cleanDestinationDir        = true
 ignoreErrors = ["error-remote-getjson"]
 
 [params]
-	rev = "951"
+	rev = "952"
 	api = "https://admin.reactionair.nl"
 
 [taxonomies]
 	author    = "authors"
 	theme     = "themes"
+	writer    = "writers"
 	publisher = "publishers"
 	language  = "languages"
 
@@ -34,11 +35,13 @@ ignoreErrors = ["error-remote-getjson"]
 	[permalinks.term]
 		authors    = "/auteurs/:slug/"
 		themes     = "/themas/:slug/"
+		writers    = "/winkel/auteur/:slug/"
 		publishers = "/winkel/uitgeverij/:slug/"
 		languages  = "/winkel/taal/:slug/"
 	[permalinks.taxonomy]
 		authors    = "/auteurs/"
 		themes     = "/themas/"
+		writers    = "/winkel/auteur/"
 		publishers = "/winkel/uitgeverij/"
 		languages  = "/winkel/taal/"
 

@@ -17,7 +17,17 @@
 			<a class="back-button" href="/winkel">‹</a>
 
 			<div class="title-container">
-				<h3>{{ delimit .Params.writers ", " " & " }}</h3>
+				<h3>
+					{{ range $index, $writer := .Params.writers }}
+						<a href="/winkel/auteur/{{ urlize $writer }}">{{ $writer }}</a>
+						{{ if eq $index (sub (len $.Params.writers) 2) }}
+							&amp;
+						{{ else if ne (add $index 1) (len $.Params.writers) }}
+							,
+						{{ end }}
+					{{ end }}
+				</h3>
+
 				<h1>{{ .Params.title }}</h1>
 				{{ if isset .Params "subtitle" }}
 					<h2>{{ .Params.subtitle }}</h2>
@@ -40,16 +50,24 @@
 					<td><span>{{ .Params.title }}</span>{{ if isset .Params "subtitle" }}<br><span>{{ .Params.subtitle }}</span>{{ end }}</td>
 
 					<th>Taal</th>
-					<td>{{ .Params.languages }}</td>
+					<td><a href="/winkel/taal/{{ urlize .Params.languages }}">{{ .Params.languages }}</a></td>
 				</tr>
 
 				<tr>
 					<th>Auteur(s)</th>
-					<td>{{ delimit .Params.writers ", " " & " }}</td>
-
+					<td>
+						{{ range $index, $writer := .Params.writers }}
+							<a href="/winkel/auteur/{{ urlize $writer }}">{{ $writer }}</a>
+							{{ if eq $index (sub (len $.Params.writers) 2) }}
+								&amp;
+							{{ else if ne (add $index 1) (len $.Params.writers) }}
+								,
+							{{ end }}
+						{{ end }}
+					</td>
 
 					<th>Uitgever</th>
-					<td>{{ .Params.publishers }}</td>
+					<td><a href="/winkel/uitgeverij/{{ urlize .Params.publishers }}">{{ .Params.publishers }}</a></td>
 				</tr>
 
 				<tr>

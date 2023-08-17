@@ -14,6 +14,7 @@
 		gap: 10px
 
 		a
+			background: transparent
 			border: 1px dashed var(--border-color)
 			border-radius: 50px
 			font-size: 16px
@@ -24,6 +25,94 @@
 			&.active
 				background: var(--accent-background-color)
 				border: 1px solid var(--accent-background-color)
+
+		.select-container
+			display: flex
+
+			select
+				position: absolute
+
+			.nice-select
+				background: transparent
+				border: 1px dashed var(--border-color)
+				border-radius: 50px
+				font-size: 16px
+				font-style: italic
+				padding: 10px 28px 10px 15px
+				height: unset
+				line-height: unset
+
+				&::after
+					border: none
+					color: var(--accent-color)
+					content: '›'
+					display: block
+					font-style: normal
+					font-size: 28px
+					pointer-events: none
+					position: absolute
+					right: 0px
+					top: 50%
+					transform: rotate(90deg)
+					transition: all 0.15s ease-in-out
+
+				&.open
+					&::after
+						transform: rotate(90deg) rotateY(-180deg)
+
+
+				.current
+					color: var(--accent-color)
+
+				.nice-select-dropdown
+					background: var(--popup-background-color)
+					border-radius: unset
+					box-shadow: unset
+					margin-top: 8px
+					transition: unset
+
+					&::before
+						background: var(--popup-background-color)
+						content: ''
+						height: 18px
+						margin-top: -6px
+						position: absolute
+						transform: rotate(45deg) translateY(-4px)
+						transition: all .1s
+						width: 18px
+						right: 40px
+
+					.nice-select-search-box
+						border-bottom: 1px dashed var(--popup-border-color)
+						padding-bottom: 9px
+						padding-top: 9px
+
+						input
+							background: unset
+							border: unset
+							color: var(--accent-color)
+							float: unset
+
+							&::placeholder
+								color: var(--popup-border-color)
+
+					.list
+						max-height: 275px
+						margin-top: -1px
+
+						.option
+							color: var(--accent-color)
+							font-size: 16px
+							font-style: italic
+							border-top: 1px dashed var(--popup-border-color)
+							padding-bottom: 7px
+							padding-top: 7px
+
+							&.selected,
+							&.focus,
+							&:hover
+								background-color: unset
+								font-weight: 400
 
 #products
 	list-style: none

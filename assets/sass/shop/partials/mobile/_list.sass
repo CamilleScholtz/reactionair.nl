@@ -5,6 +5,9 @@
 	position: relative
 	scroll-snap-type: x mandatory
 
+	&.select
+		overflow-x: visible
+
 	.title
 		display: none
 
@@ -15,3 +18,12 @@
 
 		&::-webkit-scrollbar
 			display: none
+
+		.select-container
+			.nice-select
+				.nice-select-dropdown
+					width: calc(100vw - 40px)
+
+					&::before
+						left: 40px
+

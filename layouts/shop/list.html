@@ -4,7 +4,7 @@
 
 		<span class="filters-container">
 			{{ range $publisher, $terms := site.Taxonomies.publishers }}
-				{{ with site.GetPage $publisher }}
+				{{ with site.GetPage (printf "/publishers/%s" $publisher) }}
 					<a href="{{ if eq .Params.title $.Params.title }}/winkel/{{ else }}/winkel/uitgeverij/{{ $publisher }}/{{ end }}" {{ if eq .Params.title $.Params.title }}class="active"{{ end }}>
 						{{ .Params.title }}
 					</a>
@@ -18,12 +18,30 @@
 
 		<span class="filters-container">
 			{{ range $language, $terms := site.Taxonomies.languages }}
-				{{ with site.GetPage $language }}
+				{{ with site.GetPage (printf "/languages/%s" $language) }}
 					<a href="{{ if eq .Params.title $.Params.title }}/winkel/{{ else }}/winkel/taal/{{ $language }}/{{ end }}" {{ if eq .Params.title $.Params.title }}class="active"{{ end }}>
 						{{ .Params.title }}
 					</a>
 				{{ end }}
 			{{ end }}
+		</span>
+	</div>
+
+	<div class="filters select">
+		<span class="title">Auteur:</span>
+
+		<span class="filters-container">
+			<div class="select-container">
+				<select>
+					{{ range $writer, $terms := site.Taxonomies.writers }}
+						{{ with site.GetPage (printf "/writers/%s" $writer) }}
+							<option value="/winkel/auteur/{{ $writer }}/">
+								{{ .Params.title }}
+							</option>
+						{{ end }}
+					{{ end }}
+				</select>
+			</div>
 		</span>
 	</div>
 

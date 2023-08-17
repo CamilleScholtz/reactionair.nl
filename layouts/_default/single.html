@@ -3,7 +3,12 @@
 		<section class="hero">
 			<section class="authors">
 				{{ range $index, $author := .Params.authors }}
-					<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>{{ if ne (add $index 1) (len $.Params.authors) }},&nbsp{{ end }}
+					<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>
+					{{ if eq $index (sub (len $.Params.authors) 2) }}
+						&nbsp;&amp;&nbsp;
+					{{ else if ne (add $index 1) (len $.Params.authors) }}
+						&nbsp;,&nbsp;
+					{{ end }}
 				{{ end }}
 			</section>
 
