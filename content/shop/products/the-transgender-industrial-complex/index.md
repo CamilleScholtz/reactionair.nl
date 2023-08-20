@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'The Transgender-Industrial Complex'
 writers:
     - 'Scott Howard'
