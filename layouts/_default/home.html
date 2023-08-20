@@ -87,7 +87,7 @@
 	</section>
 
 	<section class="av">
-		{{ $book := index (where (where site.RegularPages "Section" "shop") ".Params.title" "De Zwarte Poolster") 0 }}
+		{{ $book := index (where (where site.RegularPages "Section" "shop") ".Params.title" "Our Way Back") 0 }}
 
 		{{ with $book }}
 			{{ partialCached "advert.html" (dict

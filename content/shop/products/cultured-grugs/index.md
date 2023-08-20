@@ -4,7 +4,7 @@ writers:
     - 'John “Borzoi” Chapman'
 pages: 263
 types:
-    - { name: Paperback, price: 24.99, import_price: { currency: USD, amount: 19.11 }, isbn: 978-1-956887-30-3, size: { height: '216', width: '140', depth: '15' } }
+    - { name: Paperback, price: 24.99, import_price: { currency: USD, amount: 19.11 }, isbn: 978-1-956887-30-3, size: { height: 216, width: 140, depth: 15 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-07-28'
 languages: Engels

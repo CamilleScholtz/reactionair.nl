@@ -4,7 +4,7 @@ writers:
     - 'Richard Houck'
 pages: 442
 types:
-    - { name: Paperback, price: 26.99, import_price: { currency: EUR, amount: 21.56 }, isbn: 978-1-912079-31-5, size: { height: '216', width: '140', depth: '25' } }
+    - { name: Paperback, price: 26.99, import_price: { currency: EUR, amount: 21.56 }, isbn: 978-1-912079-31-5, size: { height: 216, width: 140, depth: 25 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2018-08-25'
 languages: Engels

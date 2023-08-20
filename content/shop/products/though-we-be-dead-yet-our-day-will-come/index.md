@@ -4,8 +4,8 @@ writers:
     - 'Tito Perdue'
 pages: 104
 types:
-    - { name: Paperback, price: 10.99, import_price: { currency: USD, amount: 8.0 }, isbn: 978---1-9409-33--79-5, size: { height: '216', width: '140', depth: '7' } }
-    - { name: Hardcover, price: 18.99, import_price: { currency: USD, amount: 16.0 }, isbn: 978---1-9409-33--40-5, size: { height: '216', width: '140', depth: '10' } }
+    - { name: Paperback, price: 10.99, import_price: { currency: USD, amount: 8.0 }, isbn: 978---1-9409-33--79-5, size: { height: 216, width: 140, depth: 7 }, supplier: 'Ex Libris' }
+    - { name: Hardcover, price: 18.99, import_price: { currency: USD, amount: 16.0 }, isbn: 978---1-9409-33--40-5, size: { height: 216, width: 140, depth: 10 }, supplier: 'Ex Libris' }
 publishers: Counter-Currents
 date: '2020-07-15'
 languages: Engels

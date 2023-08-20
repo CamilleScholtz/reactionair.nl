@@ -4,7 +4,7 @@ writers:
     - 'Kurt Eggers'
 pages: 200
 types:
-    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-18-1, size: { height: '216', width: '140', depth: '12' } }
+    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-18-1, size: { height: 216, width: 140, depth: 12 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-06-06'
 languages: Engels

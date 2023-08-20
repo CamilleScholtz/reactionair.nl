@@ -4,7 +4,7 @@ writers:
     - 'William S. Lind'
 pages: 210
 types:
-    - { name: Paperback, price: 18.99, import_price: { currency: EUR, amount: 13.2 }, isbn: 978-1-912975-30-3, size: { height: '216', width: '140', depth: '12' } }
+    - { name: Paperback, price: 18.99, import_price: { currency: EUR, amount: 13.2 }, isbn: 978-1-912975-30-3, size: { height: 216, width: 140, depth: 12 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2021-11-04'
 languages: Engels

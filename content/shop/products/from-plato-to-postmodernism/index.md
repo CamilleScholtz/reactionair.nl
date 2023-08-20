@@ -4,8 +4,8 @@ writers:
     - 'Greg Johnson'
 pages: 220
 types:
-    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 16.0 }, isbn: 978-1-642641-35-6, size: { height: '229', width: '152', depth: '13' } }
-    - { name: Hardcover, price: 32.99, import_price: { currency: USD, amount: 28.0 }, isbn: 978-1-642641-34-9, size: { height: '229', width: '152', depth: '16' } }
+    - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 16.0 }, isbn: 978-1-642641-35-6, size: { height: 229, width: 152, depth: 13 }, supplier: 'Ex Libris' }
+    - { name: Hardcover, price: 32.99, import_price: { currency: USD, amount: 28.0 }, isbn: 978-1-642641-34-9, size: { height: 229, width: 152, depth: 16 }, supplier: 'Ex Libris' }
 publishers: Counter-Currents
 date: '2019-11-01'
 languages: Engels

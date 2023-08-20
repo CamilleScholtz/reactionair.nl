@@ -4,7 +4,7 @@ writers:
     - 'Marty Phillips'
 pages: 268
 types:
-    - { name: Paperback, price: 24.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-82-4, size: { height: '216', width: '140', depth: '15' } }
+    - { name: Paperback, price: 24.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-82-4, size: { height: 216, width: 140, depth: 15 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2020-12-07'
 languages: Engels

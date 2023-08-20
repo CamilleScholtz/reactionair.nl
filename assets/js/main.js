@@ -1,9 +1,9 @@
 import { book } from "./modules/books.js";
 import { comments } from "./modules/comments.js";
 import { scroll, search, time } from "./modules/header.js";
-import { quote } from "./modules/home.js";
+import { quote, slider } from "./modules/home.js";
 import { newsletter } from "./modules/newsletter.js";
-import { footnotes, slider, smallcaps } from "./modules/single.js";
+import { footnotes, smallcaps } from "./modules/single.js";
 
 window.addEventListener("DOMContentLoaded", (ev) => {
 	const mobile = window.matchMedia("(max-width: 1024px)");
