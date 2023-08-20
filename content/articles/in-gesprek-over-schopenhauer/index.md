@@ -39,7 +39,7 @@ Met dit uitgangspunt laat Van Rossum ons een proces van zelfontdekking doorlopen
 
 De vorm waarin dit gebeurt verdient het vermeld te worden, want de uiteenzetting geschiedt in dialoogvorm. Een gewaagde keuze; daar de dialoogvorm vandaag de dag over het algemeen in onbruik is geraakt. De keuze loont zich echter, want de expositie is helder, de beide karakters, Hugo (de auteursstem) en Adam (de scepticus) worden met overtuiging geschetst en het geheel ontvouwt zich soepel en vloeiend.
 
-### D﻿e wil als ons ware wezen
+### De wil als ons ware wezen
 
 Wat sterk en overtuigend naar voren wordt gebracht in de eerdere hoofdstukken is wat de kern is van ons *zijn*: Van Rossum verschuift heel kundig de gebruikelijke blik van ons werkelijke zelf als hoofdzakelijk denkend individu dat onze handelingen bewust aanstuurt, naar een zelf, dat door en door *wil* is. Het is op deze wijze dat wij kunnen verklaren waarom wat wij *zijn* vaak zo lastig is aan te wijzen en het verleggen van de definitie van dit zijn lost dit probleem bijna moeiteloos op. Hoewel dit inzicht met geen millimeter afwijkt van Schopenhauer, is de zegswijze niettemin fris en klinkt deze niet, zoals men de wilshypothese van Schopenhauer soms pleegt uit te leggen, zweverig en ongrijpbaar.
 
@@ -55,7 +55,7 @@ Ook wordt helder in beeld gebracht hoe het materialistische wereldbeeld het eeuw
 
 > Laten we niet vergeten dat de huidige stand van de kwantumfysica—het deelgebied van de natuurkunde dat zich bezighoudt met deze deeltjes—een behoorlijk verwarrend, of, laten we eerlijk zijn, bizar beeld geeft. Het is niet alleen dat voorheen als ondeelbaar beschouwde deeltjes deelbaar blijken te zijn: überhaupt het idee van 'deeltjes' als bouwstenen van het universum is op losse schroeven komen te staan,[^6]
 
-### D﻿e evolutietheorie opnieuw beschouwd
+### De evolutietheorie opnieuw beschouwd
 
 Een hoogtepunt in het werk is wel het vierde hoofdstuk waarin wordt ingegaan op de evolutietheorie en natuurlijke selectie. De lezer zal direct bemerken dat de auteur hier zijn grote kennis van het biologische met gemak en grote helderheid kan overbrengen. Dat het darwinisme over een aanname heen stapt; namelijk dat er bij natuurlijke selectie wordt uitgegaan van seksuele voortplanting, zonder dat dit proces zelf verklaard wordt, wordt hier erg duidelijk uit de doeken gedaan. Van Rossum schrijft: 
 
@@ -77,19 +77,19 @@ Het is dan ook door de wil dat wij ons zijn kunnen begrijpen en omdat we deze wi
 
 > Vanuit één kant gezien overkomt het leven ons. Wij worden op een schijnbaar willekeurig moment in de tijd in het leven geworpen als uit het niets, behept met een lichaam dat wij niet gecreëerd hebben. Zo dient het leven zich aan in de verschijning. Maar aan de andere, veel essentiëlere kant, namelijk de metafysische, zijn wij die schepper zelf. Wij staan zelf aan de basis van het lichaam, ons zijn, ons alles; wij zijn de schepper van onszelf en van de hele creatie, alhoewel deze kennis zich niet vanzelf aandient.[^11]
 
-### D﻿e wil in de levenloze natuur
+### De wil in de levenloze natuur
 
 Wij dalen verder af, na de wil zowel in onze onbewuste processen als in alle andere levende wezens te hebben ontwaard, naar de levenloze natuur. Naast een heldere uitleg van Schopenhauers stelling dat de wil ook schuilt in wat wij natuurkrachten noemen, vinden wij hier hoe Van Rossum het fundament wegtrekt onder ons alledaagse begrip van objecten. Hij toont overtuigend aan dat objecten, of opeenhopingen van energie, enkel voor ons als objecten verschijnen in zoverre ze inwerken op andere opeenhopingen van energie—namelijk de fotonen in licht en in zoverre dit licht ons oog bereikt.[^12] 
 
 Een noemenswaardig element dat Van Rossum hier toevoegt aan zijn uiteenzetting is de holon-theorie die hij ontleent aan het werk van de Hongaars-Britse schrijver Arthur Koestler. Dit model gaat uit van een hiërarchische structuur van eenheden (holons) die zowel op zichzelf staan (een zelf-assertieve tendens hebben) alsook deel zijn van een groter geheel (een integratieve tendens hebben). Op deze manier slaat Van Rossum een brug tussen de levende en de levenloze natuur; want dit model is op beiden goed toepasbaar en omdat het streven naar complexe organisaties inherent is aan de natuur, blijkt de kloof tussen het levende en levenloze grotendeels een waanvoorstelling.
 
-{{< advert >}}
+{{< advert book="Our Way Back" >}}
 
 Ook hier, namelijk, onthult zich de wil als drijvende kracht achter de anorganische natuur; en zowel de zwaartekracht, als integratieve tendens; een principe dat niet strookt met een willekeurige dans van botsende deeltjes, als de paradox van het “fine-tuned universe” vinden in de wilshypothese hun plaats.
 
 > Materie—dat wat wij als materie zien—is wil. Deze drang, zowel onze wilsuitingen als de natuurkrachten, is de drang tot manifestatie in tijd en ruimte in de vorm van steeds grotere structuren. Dat zijn wij, dat is het leven, dat is materie, dat is evolutie, dat is het universum. Dat is alles, dat zijn wij.[^13]
 
-### V﻿an Rossum contra het idealisme
+### Van Rossum contra het idealisme
 
 Tot nu toe heeft Van Rossum Schopenhauer op de voet gevolgd; echter op één vlak wijkt hij nu van zijn ideeën af. Het zevende hoofdstuk behandelt namelijk het idealisme; en hier wordt afgeweken van het adagium *esse est percipi* (zijn is waargenomen worden, de filosofie van George Berkeley) inzake de aard van het *zijn.*
 
@@ -128,7 +128,7 @@ Ook dit hangt wederom samen met het materialisme, dat zich tot de laatste zin va
 
 Wat hierin noodzakelijk is, blijkt wederom dat wij ons bewustzijn niet overschatten, en dat wij, welk pad wij ook opwaarts nemen terug naar het spirituele, wij niet langer de *meer dan twijfelbare spiegeling die men werkelijkheid noemt tot absoluut verheffen*[^17] zoals het materialistische wereldbeeld dit doet.
 
-### P﻿olitieke implicaties en conclusie
+### Politieke implicaties en conclusie
 
 Want ook op politiek vlak heeft deze denkwijze haar uitwerking en veroorzaakt allerlei dwalingen. Wij komen zo aan het einde van onze reis en ook vinden wij hier hoe al de voorgaande reflecties hun weerslag vinden in de problemen die wij heden ten dage om ons heen zien. De moderne mens is verloren geraakt in de betonnen wildernis, waar de fata morgana‘s van zijn individuele verlangens hem leiden. 
 
