@@ -1,8 +1,8 @@
 .article
 	display: grid
-
-	&:hover img
-		transform: scale(1.05)
+	transition: all .4s .1s
+	background: var(--bright-background-color)
+	box-shadow: 0px 10px 80px -13px var(--shadow-color)
 
 	figure
 		display: grid
@@ -10,14 +10,13 @@
 
 		img
 			object-fit: cover
-			transition: transform .2s .1s
 			width: 100%
 
 	.text
 		.author
 			color: var(--accent-color)
 			font-size: 14px
-	
+
 		h2
 			color: var(--text-color)
 
@@ -30,11 +29,15 @@
 	&.featured
 		grid-template-rows: min-content auto
 		gap: 20px
+		padding-top: 20px
 
 		figure
 			width: 100%
 		
 		.text
+			padding-left: 20px
+			padding-right: 20px
+
 			h2
 				margin-bottom: 4px
 
@@ -48,7 +51,10 @@
 		figure
 			width: 100%
 
-		.text		
+		.text
+			padding: 20px
+			padding-bottom: 0px
+
 			h2
 				font-size: 27px
 				line-height: 33px
@@ -60,6 +66,7 @@
 		.text
 			align-content: center
 			display: grid
+			padding-left: 20px
 
 			h2
 				font-size: 18px

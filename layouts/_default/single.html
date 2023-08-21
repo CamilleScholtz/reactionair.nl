@@ -1,6 +1,6 @@
 {{ define "main" }}
 	<article>
-		<section class="hero">
+		<section id="hero">
 			<section class="authors">
 				{{ range $index, $author := .Params.authors }}
 					<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>

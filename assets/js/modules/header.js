@@ -10,7 +10,6 @@ export const scroll = (header, main, mobile) => {
 	const right   = utility.querySelector(".right");
 
 	const headerHeight = header.querySelector("#logo-container").clientHeight + 1;
-	const heroHeight   = main.querySelector(".hero")?.getBoundingClientRect().bottom;
 
 	let hidden     = false;
 	let lastScroll = 0;

@@ -2,8 +2,8 @@
 	{{ $themes   := slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Wijsbegeerte" "Onderzoek en Speurwerk" "Geschiedenis en Biografie" }}
 	{{ $articles := where site.RegularPages "Params.themes" "in" $themes }}
 
-	<section class="hero">
-		<section class="left"> 
+	<section id="hero">
+		<section class="left">
 			<div class="scroll">
 				{{ partial "articles/large.html" (dict
 					"context" (index $articles 1)

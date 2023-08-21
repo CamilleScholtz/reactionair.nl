@@ -1,7 +1,11 @@
 #home
-	.hero
+	#hero
 		grid-template-columns: 4fr 8fr 4fr
 		height: 600px
+		margin: 0 auto
+		margin-top: 80px !important
+		max-width: 1280px
+		width: 90%
 
 		.left .scroll,
 		.right
@@ -13,14 +17,14 @@
 
 		.right
 			.header
-				height: 40px
+				height: 39px
 
 				h2
 					font-size: 18px
 					overflow: hidden
 					text-overflow: ellipsis
 					white-space: nowrap
-			
+
 			.articles
 				gap: 20px
 				grid-template-rows: repeat(4, 1fr)
