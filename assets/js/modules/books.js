@@ -95,7 +95,7 @@ export const book = (main, mobile) => {
 
 				if (click) {
 					if (mobile.matches) {
-						book.style.transform = "rotateY(-160deg) rotateX(3deg) scale(1.05)";
+						book.style.transform = "rotateY(-160deg) rotateX(3deg) scale(0.9)";
 					} else {
 						book.style.transform = "rotateY(-160deg) rotateX(3deg) scale(1.125)";
 					}

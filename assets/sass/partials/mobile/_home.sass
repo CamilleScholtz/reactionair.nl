@@ -1,28 +1,33 @@
 #home
 	#hero
+		.featured
+			display: none
+
 		.left
 			grid-row: 2
 			width: 100vw
 			margin-left: -40px
 			transform: translateX(20px)
 			overflow-x: scroll
-			margin-bottom: -50px
-			margin-top: -30px
+			margin-bottom: -30px
+			margin-top: -60px
+			scroll-snap-type: x mandatory
 
 			.scroll
-				grid-template-columns: 1fr 1fr
-				width: 150vw
-				gap: 20px
-				padding-bottom: 50px
-				padding-left: 20px
-				padding-right: 20px
-				padding-top: 30px
+				grid-template-columns: repeat(3, 1fr)
+				width: 220vw
+				padding-bottom: 60px
 
 				&::-webkit-scrollbar
 					display: none
 
-				.article
+				.scroll-item
+					padding-left: 20px
 					scroll-snap-align: start
+					padding-top: 40px
+
+					&:last-of-type
+						padding-right: 20px
 
 		.right
 			grid-row: 3

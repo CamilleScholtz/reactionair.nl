@@ -5,13 +5,23 @@
 	<section id="hero">
 		<section class="left">
 			<div class="scroll">
-				{{ partial "articles/large.html" (dict
-					"context" (index $articles 1)
-				) }}
+				<div class="mobile-featured scroll-item">
+					{{ partial "articles/large.html" (dict
+						"context" (index $articles 0)
+					) }}
+				</div>
 
-				{{ partial "articles/large.html" (dict
-					"context" (index $articles 2)
-				) }}
+				<div class="scroll-item">
+					{{ partial "articles/large.html" (dict
+						"context" (index $articles 1)
+					) }}
+				</div>
+
+				<div class="scroll-item">
+					{{ partial "articles/large.html" (dict
+						"context" (index $articles 2)
+					) }}
+				</div>
 			</div>
 		</section>
 
