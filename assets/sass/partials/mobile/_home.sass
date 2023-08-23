@@ -4,19 +4,19 @@
 			display: none
 
 		.left
+			clip-path: inset(0 0 7px 0)
 			grid-row: 2
 			width: 100vw
 			margin-left: -40px
 			transform: translateX(20px)
 			overflow-x: scroll
-			margin-bottom: -30px
+			margin-bottom: -50px
 			margin-top: -60px
 			scroll-snap-type: x mandatory
 
 			.scroll
 				grid-template-columns: calc(100vw - (20px * 4)) calc(100vw - (20px * 4)) calc(100vw - (20px * 3))
-
-				padding-bottom: 60px
+				padding-bottom: 75px
 
 				&::-webkit-scrollbar
 					display: none
