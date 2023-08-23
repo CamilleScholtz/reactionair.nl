@@ -14,8 +14,8 @@
 			scroll-snap-type: x mandatory
 
 			.scroll
-				grid-template-columns: repeat(3, 1fr)
-				width: 220vw
+				grid-template-columns: calc(100vw - (20px * 4)) calc(100vw - (20px * 4)) calc(100vw - (20px * 3))
+
 				padding-bottom: 60px
 
 				&::-webkit-scrollbar
