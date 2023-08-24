@@ -1,3 +1,4 @@
+import { article } from "./modules/article.js";
 import { book } from "./modules/books.js";
 import { comments } from "./modules/comments.js";
 import { scroll, search, time } from "./modules/header.js";
@@ -15,6 +16,7 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	smallcaps(main)
 	scroll(header, main, mobile);
 	time(header);
+	article(main, mobile);
 	search(header, mobile);
 	slider(mobile);
 	footnotes(main, mobile);
