@@ -53,13 +53,13 @@ export const article = (main, mobile) => {
 		article.addEventListener("mousemove", (ev) => {
 			if (!animationTarget.shouldAnimate) {
 				rect   = article.getBoundingClientRect();
-				factor = 700 / Math.min(rect.width, rect.height);
+				factor = 700 / ((rect.width + rect.height) / 2);
 			}
 			animationTarget.shouldAnimate = true
 
 			animationTarget.x     = ((ev.clientY - rect.top - rect.height / 2) / rect.height) * 2 * factor;
 			animationTarget.y     = -((ev.clientX - rect.left - rect.width / 2) / rect.width) * 3 * factor;
-			animationTarget.scale = 1015;
+			animationTarget.scale = 1000 + factor * 10;
 
 			if (!currentState.isAnimating) {
 				currentState.isAnimating      = true;
