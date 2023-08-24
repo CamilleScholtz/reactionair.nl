@@ -45,7 +45,7 @@ export const article = (main, mobile) => {
 				return;
 			}
 
-			article.style.transform = `perspective(700px) scale(${currentState.scale / 1000}) rotateX(${Math.round(currentState.x * 100) / 100}deg) rotateY(${Math.round(currentState.y * 100) / 100}deg)`;
+			article.style.transform = `translateZ(-20px) perspective(700px) scale(${currentState.scale / 1000}) rotateX(${Math.round(currentState.x * 100) / 100}deg) rotateY(${Math.round(currentState.y * 100) / 100}deg)`;
 
 			window.requestAnimationFrame(animate);
 		};
