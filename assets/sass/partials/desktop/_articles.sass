@@ -9,18 +9,27 @@
 			height: 100%
 
 	&.featured
-		height: 569px
+		height: 589px
+		gap: 20px
+		grid-template-rows: min-content auto
+
+		figure
+			width: 100%
 
 		.text
 			text-align: center
+			padding: 20px
+			padding-bottom: 10px
 
 			h2
 				font-size: 36px
 				line-height: 46px
+				margin-bottom: 4px
 
 			h3
 				font-size: 24px
 				line-height: 32px
+				margin-bottom: 25px
 
 	&.large
 		height: calc((600px / 2) - 20px - 0.5px)
