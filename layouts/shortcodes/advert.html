@@ -1,4 +1,5 @@
 {{ $book := "" }}
+
 {{ if .Get "book" }}
 	{{ $book = index (where (where site.RegularPages "Section" "shop") ".Params.title" (.Get "book")) 0 }}
 {{ else  }}
@@ -6,6 +7,10 @@
 		"indices"  (slice "tags")
 		"document" $.Page
 	)) 1 }}
+{{ end }}
+
+{{ if not $book }}
+	{{ $book = index (where (where site.RegularPages "Section" "shop") ".Params.title" site.Params.advert) 0 }}
 {{ end }}
 
 {{ with $book }}
