@@ -6,14 +6,14 @@
 					<div class="type">{{ .name }}</div>
 				{{ end }}
 
-				{{ if not .unavailable }}
+				{{ if not .out_of_stock }}
 					{{ .price | printf "€ %.2f" }}
 				{{ else }}
 					<span class="unavailable">Niet beschikbaar.</span>
 				{{ end }}
 			</div>
 
-			{{ if not .unavailable }}
+			{{ if not .out_of_stock }}
 				<button class="button add-to-cart">
 					Toevoegen aan winkelwagen
 				</button>
