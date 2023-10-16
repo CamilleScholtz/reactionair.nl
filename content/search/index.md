@@ -1,5 +1,5 @@
 ---
-title: Zeoeken
+title: Zoeken
 layout: search
 url: /zoeken/
 ---
