@@ -1,9 +1,36 @@
 import MiniSearch from "../vendor/minisearch.js";
 
+export const menu = (header, mobile) => {
+	let open = false;
+
+	const button = header.querySelector("#menu-button");
+	const panel  = header.querySelector("#menu");
+
+	button.addEventListener("click", (ev) => {
+		ev.preventDefault();
+
+		if (open) {
+			document.body.style.touchAction = "auto";
+
+			panel.style.transform = "translateX(100%)";
+			panel.style.opacity   = 0
+
+			open = false;
+		} else {
+			document.body.style.touchAction = "none";
+
+			panel.style.transform = "translateX(0%)";
+			panel.style.opacity   = 1
+
+			open = true;
+		}
+	});
+}
+
 export const scroll = (header, main, mobile) => {
 	const logo    = header.querySelector("#logo");
-	const input   = header.querySelector("#search input");
-	const button  = header.querySelector("#search button");
+	const input   = header.querySelector(".search input");
+	const button  = header.querySelector(".search button");
 	const arrow   = header.querySelector(".arrow");
 	const results = header.querySelector(".results");
 	const utility = header.querySelector(".utility");
@@ -21,12 +48,13 @@ export const scroll = (header, main, mobile) => {
 		if (!mobile.matches) {
 			logo.style.opacity    = 0;
 			utility.style.opacity = 1;
+
+			input.style.transform  = "rotateY(90deg)";
+			button.style.transform = "rotateY(0deg)";
+
+			input.blur();
 		}
 
-		input.style.transform  = "rotateY(90deg)";
-		button.style.transform = "rotateY(0deg)";
-
-		input.blur();
 
 		results.innerHTML   = ""
 		arrow.style.display = "none";
@@ -75,12 +103,12 @@ export const scroll = (header, main, mobile) => {
 	});
 }
 
-export const search = (header, mobile) => {
-	const logo             = header.querySelector("#logo");
+export const search = (header) => {
 	const icons            = header.querySelectorAll(".icon");
-	const input            = header.querySelector("#search input");
-	const button           = header.querySelector("#search button");
-	const resultsContainer = header.querySelector("#search .results-container");
+	const search           = header.querySelector("#search");
+	const button           = search.querySelector(".button");
+	const input            = search.querySelector("input");
+	const resultsContainer = search.querySelector(".results-container");
 	const arrow            = resultsContainer.querySelector(".arrow");
 	const results          = resultsContainer.querySelector(".results");
 
@@ -109,23 +137,17 @@ export const search = (header, mobile) => {
 					});
 			}
 
-			if (mobile.matches) {
-				logo.style.transform = "translateY(-200px)";
-			}
-
 			icons.forEach((icon) => {
 				icon.style.opacity       = 0;
 				icon.style.pointerEvents = "none";
 			});
 
 			setTimeout(() => {
-				if (!mobile.matches) {
-					input.style.width   = "calc(100% - 50px)";
-					input.style.padding = "13px";
-				}
+				input.style.width   = "calc(100% - 50px)";
+				input.style.padding = "13px";
 
 				input.style.transform  = "rotateY(0deg)";
-				button.style.transform = "rotateY(180deg)";
+				button.style.transform = "rotateY(180deg)"
 			}, 150);
 
 			input.focus();
@@ -137,19 +159,11 @@ export const search = (header, mobile) => {
 				icon.style.pointerEvents = "auto";
 			});
 
-			if (!mobile.matches) {
-				input.style.width   = "0px";
-				input.style.padding = "0px";
-			}
+			input.style.width   = "0px";
+			input.style.padding = "0px";
 
 			input.style.transform  = "rotateY(90deg)";
 			button.style.transform = "rotateY(0deg)";
-
-			if (mobile.matches) {
-				setTimeout(() => {
-					logo.style.transform = "translateY(0px)";
-				}, 200);
-			}
 
 			results.innerHTML   = ""
 			arrow.style.display = "none";

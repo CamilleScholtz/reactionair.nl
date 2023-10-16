@@ -30,14 +30,12 @@ header
 			#buttons
 				display: flex
 				justify-content: end
-				gap: 10px
 
 				.icon
 					align-items: center
 					display: flex
 					transition: all .1s
 					justify-content: center
-					width: 50px
 					z-index: 1
 
 				#donate
@@ -62,88 +60,3 @@ header
 					position: absolute
 					width: 17px
 					z-index: 1
-
-				#search
-					position: relative
-					transform: translateZ(0)
-
-					form
-						input
-							background: var(--accent-background-color)
-							transform-origin: right
-							transition: transform .2s
-
-						button
-							align-items: center
-							background: none
-							display: flex
-							justify-content: center
-							float: right
-							transform: rotateY(0deg)
-							transform-style: preserve-3d
-							transition: transform .2s
-							width: 50px
-							z-index: 100
-
-							img
-								backface-visibility: hidden
-
-							.close-icon
-								background: var(--popup-background-color)
-								transform: rotateY(180deg)
-								padding: 11px
-								position: absolute
-
-					.results-container
-						background: var(--popup-background-color)
-						position: absolute
-						text-align: left
-						margin-top: 59px
-						width: 100%
-						z-index: 100
-
-						.arrow
-							background: var(--popup-background-color)
-							display: none
-							height: 18px
-							left: calc(50% - 9px)
-							position: absolute
-							top: -9px
-							transform: rotate(45deg)
-							width: 18px
-
-						.results
-							max-height: calc(100vh - 114px)
-							overflow-y: scroll
-							padding: 0
-							position: relative
-							scrollbar-width: none
-							z-index: 2
-
-							&::-webkit-scrollbar
-								display: none
-
-							a
-								display: block
-								border-bottom: 1px dashed var(--popup-border-color)
-								padding: 20px
-
-								&:last-of-type
-									border-bottom: none
-
-							h2
-								font-size: 27px
-								font-weight: 700
-								line-height: 33px
-								margin-bottom: 3px
-
-							h3
-								font-size: 22px
-								font-style: italic
-								font-weight: 400
-								line-height: 26px
-								margin-top: 0px
-
-							.author
-								color: var(--accent-color)
-								font-size: 14px

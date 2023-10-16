@@ -38,7 +38,37 @@
 					</a>
 				{{ end }}
 
-				{{ partialCached "header/search.html" . }}
+				<span id="menu-button">
+					<img src="{{ "img/menu.svg" | relURL }}" alt="Menu" style="width: 28px; height: 28px;">
+				</span>
+
+				<div id="menu">
+					<ul class="four{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }} five{{end}}">
+						<a href="/winkel">Winkel</a>
+						{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
+							<a href="/winkel/wagen">Winkelwagen</a>
+							<span id="total" style="display: none;"></span>
+						{{ end }}
+						<a href="/auteurs">Auteurs</a>
+						<a href="/doneren">Doneren</a>
+						<a href="/zoeken">Zoeken</a>
+					</ul>
+				</div>
+
+				<div id="search">
+					<form>
+						<input type="search" placeholder="Zoeken…" autocomplete="off" spellcheck="false" style="transform: rotateY(90deg);">
+						<button class="button">
+							<img src="{{ "img/search.svg" | relURL }}" alt="Zoeken" class="search-icon" style="width: 28px; height: 28px;">
+							<img src="{{ "img/close.svg" | relURL }}" alt="Sluiten" class="close-icon" style="width: 28px; height: 28px;">
+						</button>
+					</form>
+
+					<div class="results-container">
+						<div class="arrow"></div>
+						<ul class="results"></ul>
+					</div>
+				</div>
 			</span>
 		</div>
 	</div>
