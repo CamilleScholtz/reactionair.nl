@@ -15,7 +15,7 @@ cleanDestinationDir        = true
 ignoreErrors = ["error-remote-getjson"]
 
 [params]
-	rev    = "957"
+	rev    = "958"
 	api    = "https://admin.reactionair.nl"
 	advert = "Our Way Back"
 
