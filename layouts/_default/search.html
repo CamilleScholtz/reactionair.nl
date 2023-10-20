@@ -1,0 +1,16 @@
+{{ define "main" }}
+	<article id="search-block">
+		<section class="content">
+			<form>
+				<input type="search" placeholder="Zoeken…" autocomplete="off" spellcheck="false">
+				<button class="button">
+					<img src="{{ "img/search.svg" | relURL }}" alt="Zoeken" class="search-icon" style="width: 28px; height: 28px;">
+				</button>
+			</form>
+
+			<div class="results-container">
+				<ul class="results"></ul>
+			</div>
+		</section>
+	</article>
+{{ end }}
