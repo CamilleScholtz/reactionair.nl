@@ -29,12 +29,11 @@ export const menu = (header, mobile) => {
 
 export const scroll = (header, main, mobile) => {
 	const logo    = header.querySelector("#logo");
-	const input   = header.querySelector(".search input");
-	const button  = header.querySelector(".search button");
-	const arrow   = header.querySelector(".arrow");
-	const results = header.querySelector(".results");
+	const input   = header.querySelector("#search input");
+	const button  = header.querySelector("#search button");
+	const arrow   = header.querySelector("#search .arrow");
+	const results = header.querySelector("#search .results");
 	const utility = header.querySelector(".utility");
-	const right   = utility.querySelector(".right");
 
 	const headerHeight = header.querySelector("#logo-container").clientHeight + 1;
 
