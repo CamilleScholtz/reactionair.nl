@@ -12,7 +12,7 @@ tags:
 note: 'Dit artikel is vrij vertaald naar: *[Liberation Theology and Synodality](https://padreperegrino.org/2023/06/synodalit/)* onder toestemming van de originele auteur. Op enkele plekken is er context toegevoegd'
 ---
 
-Als je als Katholiek maar diep genoeg in het Twitter of Instagram Riool zit, wordt je dagelijks met alle rare fratsen uit Rome bestookt. En ergens hebben de critici, die ons hiermee confronteren ook helemaal gelijk, echter zien zij slechts een façade; een perversie van wat het Katholicisme echt is. 
+Als je als Katholiek maar diep genoeg in het Twitter of Instagram Riool zit, word je dagelijks met alle rare fratsen uit Rome bestookt. En ergens hebben de critici, die ons hiermee confronteren ook helemaal gelijk, echter zien zij slechts een façade; een perversie van wat het Katholicisme echt is. 
 
 En nee, deze algehele perversie/afzwakking is niet 'slechts' te wijten aan een Concilie in de jaren 60. Wat er op dit Concilie gebeurde was vooral dat infiltranten hun plan in de vijfde versnelling gingen uitrollen. Hun uiteindelijke doel? De Katholieke Kerk van binnen kapot te maken… en (helaas) met succes: de ene na de andere Kerk in Nederland sluit de deuren. Het ligt echter niet aan ‘Het Christendom’ zelf, want een Kerk die door Christus (gestorven en verrezen) is gesticht is een allegorie voor Hemzelf. Na deze periode van sterfte zal het Katholicisme weer verrijzen.
 

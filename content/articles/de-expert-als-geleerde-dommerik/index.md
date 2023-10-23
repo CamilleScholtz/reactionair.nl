@@ -24,7 +24,7 @@ Zodoende ontstond er een versplintering. De losse wetenschapsgebieden raakten, i
 
 In de huidige tijd heeft zich dit verergerd. De hedendaagse wetenschapper vóélt zich algemeen ontwikkeld, maar is dat niet. Hij beschikt niet over een algemeen inzicht in de grote levenszaken, maar enkel over gespecialiseerde kennis. Zijn intellect is overontwikkeld, zijn geest onderontwikkeld. Hij weet dus ‘heel goed wat er in zijn minieme hoekje van het heelal is besloten, maar hij is volkomen onkundig van al het overige’.[^3]
 
-{{< advert >}}
+{{< advert book="Man and Technics" >}}
 
 Ortega y Gasset heeft geen hoge dunk van de hedendaagse mens. Hij noemt hem ‘een primitief mens, een barbaar [...] met betrekking tot de ingewikkelde beschaving waarin hij geboren is’.[^4] De wetenschapper is volgens Ortega y Gasset een prototype hiervan. Het probleem is immers dat niemand in de samenleving de wetenschapper durft tegen te spreken. Hij wordt gezien als de hoogste autoriteit: zijn mening is niet alleen de waarheid, maar zelfs normbepalend. Dientengevolge is de wetenschapper heilig overtuigd van zijn eigen gelijk. Hij kàn geen fouten maken - en dit levert hem een blinde vlek op.
 

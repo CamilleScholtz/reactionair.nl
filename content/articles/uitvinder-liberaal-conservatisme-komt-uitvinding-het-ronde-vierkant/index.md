@@ -1,13 +1,12 @@
 ---
-draft: true
 title: 'Nieuwe uitvinding bedenker liberaal-conservatisme: het ronde vierkant'
 subtitle: 'Meetkundigen staan versteld'
-date: '2023-05-18'
+date: '2023-08-22'
 authors:
     - 'De Melancholieke Nar'
 themes: 'De Uylenspieghel'
 image: cc80e413-9828-408c-b0a9-3a99b2de911d.jpg
-anchor: Smart
+anchor: Center
 tags:
     - Conservatisme
     - JA21
@@ -17,7 +16,7 @@ tags:
 
 Conservatieven willen zaken behouden (of zelfs terugdraaien), liberalen willen de zaken op hun beloop laten. Deze attitudes zijn schijnbaar diametraal tegengesteld, maar toch zijn politicologen erin geslaagd ze samen te smeden tot één ideologie: het liberaal-conservatisme. Hoe het precies werkt, weet niet iedereen, maar Joost Eerdmans en Annabel Nanninga wel, want die hebben er een hele partij op gegrondvest.
 
-Dezelfde mensen achter deze baanbrekende ideologie, hebben iets nieuws bedacht: het ronde vierkant. Terwijl de wereld nog steeds worstelt met het begrijpen van deze schijnbare paradox, beweert de uitvinder dat deze nieuwe vorm de perfecte oplossing biedt voor meetkundige vraagstukken. Wist u trouwens dat 'geometrie' letterlijk vertaald zou moeten worden met 'landmeetkunde' en de opkomst hiervan in de wereldgeschiedenis gezien moet worden in de context van de opkomst van grootgrondbezit?[^1] Nee? Dan weet u het nu.
+Dezelfde mensen als achter deze baanbrekende ideologie, hebben iets nieuws bedacht: het ronde vierkant. Terwijl de wereld nog steeds worstelt met het begrijpen van deze schijnbare paradox, beweert de uitvinder dat deze nieuwe vorm de perfecte oplossing biedt voor meetkundige vraagstukken. Wist u trouwens dat 'geometrie' letterlijk vertaald zou moeten worden met 'landmeetkunde' en de opkomst hiervan in de wereldgeschiedenis gezien moet worden in de context van de opkomst van grootgrondbezit?[^1] Nee? Dan weet u het nu.
 
 Het concept van het ronde vierkant lijkt op het eerste gezicht volkomen absurd. Hoe kan een vorm zowel rond als vierkant zijn? Maar volgens de uitvinder is dat precies de bedoeling. Hij beweert dat het ronde vierkant de perfecte synthese is van tegengestelde waarden, net als conservatisme en liberalisme, een samensmelting van traditionele principes met een vleugje progressiviteit.
 
@@ -33,4 +32,4 @@ De uitvinder van het ronde vierkant blijft echter onverstoorbaar. Hij heeft al p
 
 Of het ronde vierkant daadwerkelijk een revolutie teweeg zal brengen in de politieke wereld of gewoon een kortstondige curiositeit zal blijken te zijn, valt nog te bezien. In de tussentijd blijft het een bron van vermaak, verwarring en vooral satire. Wie had ooit gedacht dat de zoektocht naar politieke harmonie zou leiden tot een vierkant met ronde hoeken?
 
-[^1]: John Zerzan, _[Number, its origin and evolution] (https://theanarchistlibrary.org/library/john-zerzan-number-its-origin-and-evolution)_
+[^1]: John Zerzan, [Number, its origin and evolution](https://https://theanarchistlibrary.org/library/john-zerzan-number-its-origin-and-evolution)

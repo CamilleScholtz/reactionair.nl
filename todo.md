@@ -10,7 +10,6 @@
 - Gesproken artikelen: toevoegen luidspreker-icoon met geluidsbestand. evt. met balkje dat vervolgens verschijnt (niet als pop-up) en de luistertijd aangeeft.
 - Slideshowformat voor klikaas met plaatjes en stukje tekst daaronder, pijltjes aan weerszijden. + sectie klikaas
 - Donatie shill blokje
-- Boek shill blokje
 
 
 ### Mee bezig
