@@ -1,6 +1,6 @@
 {{ define "main" }}
 	<article id="misc">
-		<section class="content">
+		<section class="content no-border">
 			<h1>{{ .Params.title | safeHTML }}</h1>
 			{{ if isset .Params "subtitle" }}
 				<h2>{{ .Params.subtitle | safeHTML }}</h2>
