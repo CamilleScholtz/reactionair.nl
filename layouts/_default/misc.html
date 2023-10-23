@@ -1,11 +1,13 @@
 {{ define "main" }}
 	<article id="misc">
 		<section class="content no-border">
-			<h1>{{ .Params.title | safeHTML }}</h1>
-			{{ if isset .Params "subtitle" }}
-				<h2>{{ .Params.subtitle | safeHTML }}</h2>
-			{{ else }}
-				<br>
+			{{ if not .Params.titleless }}
+				<h1>{{ .Params.title | safeHTML }}</h1>
+				{{ if isset .Params "subtitle" }}
+					<h2>{{ .Params.subtitle | safeHTML }}</h2>
+				{{ else }}
+					<br>
+				{{ end }}
 			{{ end }}
 
 			{{ .Content }}

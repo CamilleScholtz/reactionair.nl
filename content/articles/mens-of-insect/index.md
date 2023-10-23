@@ -3,7 +3,7 @@ title: 'Mens of insect?'
 subtitle: 'De mierenhoop van de moderniteit'
 date: '2023-09-26'
 authors:
-    - 'Robbert Leussinck'
+    - 'Robbert Leusink'
 themes: 'Cultuur en Maatschappij'
 image: 133ded0a-a206-4305-9bad-b0b274172e34.webp
 anchor: Center

@@ -3,7 +3,7 @@ title: 'De begrafenis van Elizabeth II en onze heilige huisjes'
 subtitle: 'O death, where is thy sting? O grave, where is thy victory?'
 date: '2022-09-23'
 authors:
-    - 'Robbert Leussinck'
+    - 'Robbert Leusink'
 themes: 'Politiek en Actualiteit'
 image: photo-1663610311981-4a904f3504d4.webp
 anchor: Smart

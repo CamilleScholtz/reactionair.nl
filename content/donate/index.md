@@ -1,7 +1,7 @@
 ---
 layout: misc
-subtitle: Steun Reactionair.nl
 title: Doneren
+titleless: true
 url: /doneren/
 ---
 
