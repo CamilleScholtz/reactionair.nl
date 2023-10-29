@@ -4,7 +4,7 @@ subtitle: 'Een inleiding tot Reactionair.nl'
 date: '2021-10-01'
 authors:
     - 'De redactie'
-themes: Mededeling
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
