@@ -2,7 +2,7 @@
 description: Intan is geïnteresseerd in de Traditionalistische school, Platonisme,
   Carl Jung, mystiek en theologie.
 image: avatar.webp
-profession: Filosoof
+keyword: Filosoof
 pseudonym: true
 title: Intan
 ---

@@ -4,7 +4,7 @@ description: ‘Het Dorp’ Genieter is een conservatieve ingestelde man, opgegr
   alles wat voor hem vertrouwd was. Hij zal alles geven om zijn nageslacht echte gezelligheid
   te laten kennen.
 image: avatar.webp
-profession: Vader
+keyword: Vader
 pseudonym: true
 title: ‘Het Dorp’ Genieter
 ---

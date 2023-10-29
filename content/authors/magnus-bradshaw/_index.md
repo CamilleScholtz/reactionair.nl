@@ -3,7 +3,7 @@ description: Magnus Bradshaw is geïnteresseerd in Soefisme in het Westen, Mille
   en Traditionalisme. Hij is momenteel bezig met een proefschrift over Westers Soefisme
   en apocalypticisme in religieuze en seculiere vorm.
 image: avatar.webp
-profession: Schrijver
+keyword: Schrijver
 pseudonym: false
 title: Magnus Bradshaw
 website: https://charlesbradshaw2.academia.edu/

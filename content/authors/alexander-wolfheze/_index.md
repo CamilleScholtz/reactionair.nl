@@ -3,7 +3,7 @@ description: Alexander Wolfheze studeerde Semitische Talen en Culturen en promov
   cum laude in de Geesteswetenschappen aan de Universiteit Leiden. Zijn huidige interdisciplinaire
   specialisaties zijn premoderne epistemologie en Traditionalistische filosofie.
 image: avatar.webp
-profession: Schrijver
+keyword: Schrijver
 pseudonym: false
 title: Alexander Wolfheze
 ---

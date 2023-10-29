@@ -3,7 +3,7 @@ description: Dennis Honing is een Nederlandse moslim en opiniemaker. Hij schreef
   voor GeenStijl en TPO, maakte videos voor Café Weltschmerz, en is actief bij De
   Blauwe Tijger.
 image: avatar.webp
-profession: Woordkunstenaar
+keyword: Woordkunstenaar
 pseudonym: false
 title: Dennis Honing
 twitter: https://twitter.com/DennisHoning90
