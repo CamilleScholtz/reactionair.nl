@@ -3,7 +3,7 @@ title: 'The Agony of Polemos'
 writers:
     - 'Carlos Videla'
 pages: 146
-types:
+variants:
     - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 14.31 }, isbn: 978-1-956887-45-7, size: { height: 216, width: 140, depth: 9 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-10-07'

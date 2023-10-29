@@ -3,7 +3,7 @@ title: 'The Burning Bush'
 writers:
     - 'Elias Simojoki'
 pages: 180
-types:
+variants:
     - { name: Paperback, price: 17.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-29-7, size: { height: 216, width: 140, depth: 10 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2023-07-17'

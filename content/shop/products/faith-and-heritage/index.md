@@ -3,7 +3,7 @@ title: 'Faith and Heritage'
 writers:
     - Diversen
 pages: 355
-types:
+variants:
     - { name: Paperback, price: 24.99, import_price: { currency: USD, amount: 19.11 }, isbn: 978-1-953730-23-7, size: { height: 229, width: 153, depth: 19 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2021-02-08'

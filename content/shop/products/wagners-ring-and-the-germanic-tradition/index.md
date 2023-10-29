@@ -3,7 +3,7 @@ title: "Wagner's Ring and the Germanic Tradition"
 writers:
     - 'Collin Cleary'
 pages: 118
-types:
+variants:
     - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 15.0 }, isbn: 978-1-642641-01-1, size: { height: 216, width: 140, depth: 7 }, supplier: 'Ex Libris' }
 publishers: Counter-Currents
 date: '2021-12-21'

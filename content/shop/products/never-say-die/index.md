@@ -3,7 +3,7 @@ title: 'Never Say D.I.E.'
 writers:
     - 'George Carroway'
 pages: 144
-types:
+variants:
     - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 17.0 }, isbn: 978-1-922602-79-4, size: { height: 210, width: 148, depth: 23 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2023-04-14'

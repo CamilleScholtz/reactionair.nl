@@ -3,7 +3,7 @@ title: 'Horizons of Iron'
 writers:
     - 'Arthur Powell'
 pages: 158
-types:
+variants:
     - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 17.0 }, isbn: 978-1-922602-56-5, size: { height: 204, width: 127, depth: 10 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2022-09-22'

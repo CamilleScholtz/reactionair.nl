@@ -3,7 +3,7 @@ title: 'On the Threshold of a New Era'
 writers:
     - 'Edgar Julius Jung'
 pages: 115
-types:
+variants:
     - { name: Paperback, price: 18.99, import_price: { currency: USD, amount: 12.75 }, isbn: 978-1-922602-82-4, size: { height: 178, width: 108, depth: 8 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2023-06-02'

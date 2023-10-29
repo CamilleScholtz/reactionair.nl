@@ -3,7 +3,7 @@ title: 'Alba Rosa'
 writers:
     - 'Alexander Wolfheze'
 pages: 326
-types:
+variants:
     - { name: Paperback, price: 23.99, import_price: { currency: EUR, amount: 16.76 }, isbn: 978-1-912975-57-0, size: { height: 216, width: 140, depth: 18 }, supplier: 'Ex Libris', out_of_stock: true }
 publishers: Arktos
 date: '2023-07-23'

@@ -3,7 +3,7 @@ title: 'Reactionary Modernism'
 writers:
     - 'Jonathan Bowden'
 pages: 206
-types:
+variants:
     - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 16.0 }, isbn: 978-1-642641-66-0, size: { height: 229, width: 153, depth: 12 }, supplier: 'Ex Libris' }
     - { name: Hardcover, price: 34.99, import_price: { currency: USD, amount: 28.0 }, isbn: 978-1-642641-67-7, size: { height: 229, width: 153, depth: 16 }, supplier: 'Ex Libris' }
 publishers: Counter-Currents

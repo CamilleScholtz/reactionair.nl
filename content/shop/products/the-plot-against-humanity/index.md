@@ -3,7 +3,7 @@ title: 'The Plot Against Humanity'
 writers:
     - 'Scott Howard'
 pages: 191
-types:
+variants:
     - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-51-8, size: { height: 229, width: 153, depth: 12 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-11-30'

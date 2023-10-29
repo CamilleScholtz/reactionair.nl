@@ -3,7 +3,7 @@ title: 'Iranian Leviathan'
 writers:
     - 'Jason Reza Jorjani'
 pages: 582
-types:
+variants:
     - { name: Paperback, price: 33.99, import_price: { currency: EUR, amount: 26.8 }, isbn: 978-1-912975-40-2, size: { height: 216, width: 140, depth: 33 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2019-09-01'

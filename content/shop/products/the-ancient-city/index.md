@@ -3,7 +3,7 @@ title: 'The Ancient City'
 writers:
     - 'Numa Denis Fustel De Coulanges'
 pages: 366
-types:
+variants:
     - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 18.7 }, isbn: 978-0-648690-54-2, size: { height: 210, width: 140, depth: 21 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2020-02-07'

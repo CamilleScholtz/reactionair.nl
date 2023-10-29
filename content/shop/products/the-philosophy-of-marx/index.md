@@ -3,7 +3,7 @@ title: 'The Philosophy of Marx'
 writers:
     - 'Giovanni Gentile'
 pages: 156
-types:
+variants:
     - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-08-2, size: { height: 216, width: 140, depth: 10 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-10-21'

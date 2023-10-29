@@ -3,7 +3,7 @@ title: 'The Epic of Arya'
 writers:
     - 'Abir Taha'
 pages: 346
-types:
+variants:
     - { name: Paperback, price: 18.99, import_price: { currency: EUR, amount: 10.56 }, isbn: 978-1-910524-54-1, size: { height: 216, width: 140, depth: 20 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2016-07-08'

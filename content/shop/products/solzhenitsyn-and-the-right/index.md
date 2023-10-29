@@ -3,7 +3,7 @@ title: 'Solzhenitsyn and the Right'
 writers:
     - 'Spencer J. Quinn'
 pages: 200
-types:
+variants:
     - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-57-2, size: { height: 216, width: 140, depth: 12 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2021-11-01'

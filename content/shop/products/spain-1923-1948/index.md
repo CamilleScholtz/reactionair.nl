@@ -3,7 +3,7 @@ title: 'Spain 1923-1948'
 writers:
     - 'Arthur F. Loveday'
 pages: 324
-types:
+variants:
     - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-00-8, size: { height: 216, width: 140, depth: 19 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2020-09-07'

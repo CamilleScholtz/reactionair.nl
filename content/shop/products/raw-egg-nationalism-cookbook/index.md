@@ -4,7 +4,7 @@ title: 'Raw Egg Nationalism Cookbook'
 writers:
     - 'Raw Egg Nationalist'
 pages: 98
-types:
+variants:
     - { name: Paperback, price: 12.99, import_price: { currency: EUR, amount: 9.12 }, isbn: 978-1-907166-83-9, size: { height: 216, width: 140, depth: 6 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2023-07-17'

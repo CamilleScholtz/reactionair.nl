@@ -3,7 +3,7 @@ title: 'Pádraic Pearse'
 writers:
     - 'Pádraic Pearse'
 pages: 212
-types:
+variants:
     - { name: Paperback, price: 17.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-33-4, size: { height: 216, width: 140, depth: 12 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2020-09-07'

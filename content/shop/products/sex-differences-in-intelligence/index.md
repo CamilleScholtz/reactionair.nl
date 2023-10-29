@@ -3,7 +3,7 @@ title: 'Sex Differences in Intelligence'
 writers:
     - 'Richard Lynn'
 pages: 142
-types:
+variants:
     - { name: Paperback, price: 14.99, import_price: { currency: EUR, amount: 10.36 }, isbn: 978-1-914208-65-2, size: { height: 216, width: 140, depth: 10 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2021-12-09'

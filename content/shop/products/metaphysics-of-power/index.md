@@ -3,7 +3,7 @@ title: 'Metaphysics of Power'
 writers:
     - 'Julius Evola'
 pages: 334
-types:
+variants:
     - { name: Paperback, price: 21.99, import_price: { currency: EUR, amount: 15.6 }, isbn: 978-1-914208-09-6, size: { height: 216, width: 140, depth: 22 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2023-07-21'

@@ -3,7 +3,7 @@ title: 'The American Regime'
 writers:
     - 'An Anonymous January 6th Prisoner'
 pages: 290
-types:
+variants:
     - { name: Paperback, price: 23.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-55-6, size: { height: 216, width: 140, depth: 17 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2023-01-06'

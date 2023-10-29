@@ -3,7 +3,7 @@ title: 'Though We Be Dead, Yet Our Day Will Come'
 writers:
     - 'Tito Perdue'
 pages: 104
-types:
+variants:
     - { name: Paperback, price: 10.99, import_price: { currency: USD, amount: 8.0 }, isbn: 978---1-9409-33--79-5, size: { height: 216, width: 140, depth: 7 }, supplier: 'Ex Libris' }
     - { name: Hardcover, price: 18.99, import_price: { currency: USD, amount: 16.0 }, isbn: 978---1-9409-33--40-5, size: { height: 216, width: 140, depth: 10 }, supplier: 'Ex Libris' }
 publishers: Counter-Currents

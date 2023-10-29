@@ -3,7 +3,7 @@ title: 'Empire Eternal'
 writers:
     - 'Sinclair Jenkins '
 pages: 166
-types:
+variants:
     - { name: Paperback, price: 15.99, import_price: { currency: USD, amount: 14.31 }, isbn: 978-1-956887-36-5, size: { height: 216, width: 140, depth: 10 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-01-01'

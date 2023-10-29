@@ -3,7 +3,7 @@ title: Patriarcha
 writers:
     - 'Robert Filmer'
 pages: 316
-types:
+variants:
     - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 18.7 }, isbn: 978-1-922602-16-9, size: { height: 216, width: 140, depth: 18 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2022-09-29'

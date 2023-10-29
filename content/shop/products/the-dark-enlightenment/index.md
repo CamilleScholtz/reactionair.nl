@@ -3,7 +3,7 @@ title: 'The Dark Enlightenment'
 writers:
     - 'Nick Land'
 pages: 113
-types:
+variants:
     - { name: Paperback, price: 15.99, import_price: { currency: USD, amount: 13.6 }, isbn: 978-1-922602-68-8, size: { height: 178, width: 108, depth: 7 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2023-07-19'

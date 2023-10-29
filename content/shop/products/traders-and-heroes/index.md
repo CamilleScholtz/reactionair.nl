@@ -3,7 +3,7 @@ title: 'Traders and Heroes'
 writers:
     - 'Werner Sombart'
 pages: 140
-types:
+variants:
     - { name: Paperback, price: 12.99, import_price: { currency: EUR, amount: 9.2 }, isbn: 978-1-914208-32-4, size: { height: 216, width: 140, depth: 9 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2021-06-09'

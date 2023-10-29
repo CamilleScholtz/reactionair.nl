@@ -3,7 +3,7 @@ title: 'Reflections on Violence'
 writers:
     - 'Georges Sorel'
 pages: 392
-types:
+variants:
     - { name: Paperback, price: 23.99, import_price: { currency: USD, amount: 20.4 }, isbn: 978-1-922602-51-0, size: { height: 216, width: 140, depth: 18 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2022-07-02'

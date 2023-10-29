@@ -3,7 +3,7 @@ title: 'The Decline of the West'
 writers:
     - 'Oswald Spengler'
 pages: 680
-types:
+variants:
     - { name: Paperback, price: 32.99, import_price: { currency: EUR, amount: 23.6 }, isbn: 978-1-915755-23-0, size: { height: 216, width: 140, depth: 42 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2021-07-17'

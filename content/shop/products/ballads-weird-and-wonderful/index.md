@@ -3,7 +3,7 @@ title: 'Ballads Weird and Wonderful'
 writers:
     - Diversen
 pages: 125
-types:
+variants:
     - { name: Paperback, price: 14.99, import_price: { currency: USD, amount: 13.6 }, isbn: 978-1-922602-19-0, size: { height: 234, width: 156, depth: 10 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2021-10-10'

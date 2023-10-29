@@ -3,7 +3,7 @@ title: 'Our Way Back'
 writers:
     - 'J.P. van Rossum'
 pages: 175
-types:
+variants:
     - { name: Paperback, isbn: 978-9-083352-80-0, supplier: 'van Rossum', size: { height: 210, width: 135, depth: 18 }, import_price: { currency: EUR, amount: 11.96 }, price: 19.99 }
 publishers: Rotheheym
 date: '2023-08-20'

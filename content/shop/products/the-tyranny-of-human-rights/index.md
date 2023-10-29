@@ -3,7 +3,7 @@ title: 'The Tyranny of Human Rights'
 writers:
     - 'Kerry R. Bolton'
 pages: 471
-types:
+variants:
     - { name: Paperback, price: 23.99, import_price: { currency: USD, amount: 21.51 }, isbn: 978-1-956887-05-1, size: { height: 229, width: 152, depth: 27 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2023-07-17'

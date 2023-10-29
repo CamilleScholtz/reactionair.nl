@@ -3,7 +3,7 @@ title: 'Thrilling Adventures Among the Early Settlers'
 writers:
     - 'Warren Wildwood'
 pages: 308
-types:
+variants:
     - { name: Paperback, price: 17.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978---1-9568-87--39-6, size: { height: 229, width: 152, depth: 8 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-09-23'

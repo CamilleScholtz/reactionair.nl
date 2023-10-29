@@ -3,7 +3,7 @@ title: 'Folktales in the Indo-European Tradition'
 writers:
     - Diversen
 pages: 810
-types:
+variants:
     - { name: Paperback, price: 36.99, import_price: { currency: USD, amount: 34.0 }, isbn: 978-1-922602-26-8, size: { height: 216, width: 140, depth: 41 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2022-01-01'

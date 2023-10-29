@@ -3,7 +3,7 @@ title: 'De Zwarte Poolster'
 writers:
     - 'Alexander Wolfheze'
 pages: 654
-types:
+variants:
     - { name: Paperback, price: 49.5, import_price: { currency: EUR, amount: 39.6 }, isbn: 978-1-915755-04-9, size: { height: 216, width: 140, depth: 30 }, supplier: 'Ex Libris', out_of_stock: true }
 publishers: Arktos
 date: '2023-07-19'

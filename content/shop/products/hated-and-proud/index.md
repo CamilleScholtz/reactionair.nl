@@ -3,7 +3,7 @@ title: 'Hated and Proud'
 writers:
     - 'Mark Dyal'
 pages: 350
-types:
+variants:
     - { name: Paperback, price: 22.99, import_price: { currency: EUR, amount: 18.0 }, isbn: 978-1-912079-23-0, size: { height: 216, width: 140, depth: 20 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2023-07-24'

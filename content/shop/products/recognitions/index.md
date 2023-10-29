@@ -3,7 +3,7 @@ title: Recognitions
 writers:
     - 'Julius Evola'
 pages: 340
-types:
+variants:
     - { name: Paperback, price: 20.99, import_price: { currency: EUR, amount: 16.2 }, isbn: 978-1-912079-18-6, size: { height: 229, width: 153, depth: 22 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2023-07-21'

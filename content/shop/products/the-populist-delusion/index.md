@@ -3,7 +3,7 @@ title: 'The Populist Delusion'
 writers:
     - 'Neema Parvini'
 pages: 172
-types:
+variants:
     - { name: Paperback, price: 21.99, import_price: { currency: USD, amount: 18.7 }, isbn: 978-1-922602-44-2, size: { height: 204, width: 127, depth: 10 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2022-04-15'

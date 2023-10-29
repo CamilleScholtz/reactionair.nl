@@ -3,7 +3,7 @@ title: 'The Path of Cinnabar'
 writers:
     - 'Julius Evola'
 pages: 304
-types:
+variants:
     - { name: Paperback, price: 22.99, import_price: { currency: EUR, amount: 15.6 }, isbn: 978-1-907166-02-0, size: { height: 222, width: 146, depth: 32 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2023-07-21'

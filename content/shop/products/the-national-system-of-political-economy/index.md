@@ -3,7 +3,7 @@ title: 'The National System of Political Economy'
 writers:
     - 'Friedrich List'
 pages: 462
-types:
+variants:
     - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 20.4 }, isbn: 978-1-922602-35-0, size: { height: 216, width: 140, depth: 27 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2022-02-25'

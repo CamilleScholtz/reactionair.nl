@@ -3,7 +3,7 @@ title: 'East and West'
 writers:
     - 'Julius Evola'
 pages: 198
-types:
+variants:
     - { name: Paperback, price: 17.99, import_price: { currency: USD, amount: 16.0 }, isbn: 978-1-935965-67-1, size: { height: 229, width: 152, depth: 11 }, supplier: 'Ex Libris' }
     - { name: Hardcover, price: 35.99, import_price: { currency: USD, amount: 32.0 }, isbn: 978-1-935965-66-4, size: { height: 229, width: 152, depth: 16 }, supplier: 'Ex Libris' }
 publishers: Counter-Currents

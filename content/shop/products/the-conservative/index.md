@@ -3,7 +3,7 @@ title: 'The Conservative'
 writers:
     - 'H. P. Lovecraft'
 pages: 218
-types:
+variants:
     - { name: Paperback, price: 25.99, import_price: { currency: EUR, amount: 17.28 }, isbn: 978-1-907166-30-3, size: { height: 216, width: 140, depth: 13 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2014-03-04'

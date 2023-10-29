@@ -3,7 +3,7 @@ title: 'Why I Am Not a Liberal'
 writers:
     - 'Jonathan Bowden'
 pages: 73
-types:
+variants:
     - { name: Paperback, price: 14.99, import_price: { currency: USD, amount: 12.0 }, isbn: 978-0-648859-30-7, size: { height: 178, width: 108, depth: 5 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2020-06-19'

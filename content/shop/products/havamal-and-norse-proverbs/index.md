@@ -3,7 +3,7 @@ title: 'Havamal and Norse Proverbs'
 writers:
     - Diversen
 pages: 73
-types:
+variants:
     - { name: Paperback, price: 13.99, import_price: { currency: USD, amount: 10.2 }, isbn: 978-1-922602-54-1, size: { height: 178, width: 108, depth: 5 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2022-05-13'
