@@ -51,6 +51,7 @@ export const scroll = (header, main, mobile) => {
 			input.style.transform  = "rotateY(90deg)";
 			button.style.transform = "rotateY(0deg)";
 
+			input.value = "";
 			input.blur();
 		}
 
@@ -167,6 +168,7 @@ export const search = (header) => {
 			results.innerHTML   = ""
 			arrow.style.display = "none";
 
+			input.value = "";
 			input.blur();
 		}
 	});
