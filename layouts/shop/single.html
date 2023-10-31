@@ -38,7 +38,7 @@
 
 			{{ partial "shop/cart/large.html" (dict
 				"title"    .Params.title
-				"types"    .Params.types
+				"variants" .Params.variants
 				"checkout" true
 			) }}
 		</section>
@@ -76,7 +76,7 @@
 
 					<th>ISBN</th>
 					<td>
-						{{ range .Params.types }}
+						{{ range .Params.variants }}
 							{{ .isbn }}<br>
 						{{ end }}
 					</td>
@@ -88,7 +88,7 @@
 
 					<th>Formaat</th>
 					<td>
-						{{ range .Params.types }}
+						{{ range .Params.variants }}
 							{{ .name }}<br>
 						{{ end }}
 					</td>

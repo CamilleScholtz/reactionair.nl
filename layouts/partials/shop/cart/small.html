@@ -1,5 +1,5 @@
-{{ range $i, $type := .types }}
-	<div class="cart-form {{ if gt $i 0 }}hidden{{ end }}" data-name="{{ $.title | urlize }}" data-type="{{ .name | urlize }}" data-price="{{ .price }}" {{ if gt $i 0 }}style="display: none;"{{ end }}>
+{{ range $i, $variant := .variants }}
+	<div class="cart-form {{ if gt $i 0 }}hidden{{ end }}" data-product="{{ $.title | urlize }}" data-variant="{{ .name | urlize }}" data-price="{{ .price }}" {{ if gt $i 0 }}style="display: none;"{{ end }}>
 		<div class="price">
 			{{ .price | printf "€ %.2f" }}
 		</div>
