@@ -8,9 +8,11 @@ themes: 'Religie en Wijsbegeerte'
 image: aristo_lutkie-980x411.jpg
 anchor: Smart
 tags:
-    - 'Franse revolutie'
-    - Woke
-    - Reactionair
+    - 'René Guénon'
+    - Materialisme
+    - 'Jean-Jacques Rousseau'
+    - 'Anton Kerssemakers'
+    - Vooruitgang
 note: 'Dit essay was oorspronkelijk gepubliceerd door Anton Kerssemakers in het tijdschrift *Aristo-* van maart 1939.'
 ---
 

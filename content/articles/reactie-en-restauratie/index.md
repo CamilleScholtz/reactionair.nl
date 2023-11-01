@@ -8,10 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Karl Marx'
-    - Vrijmetselarij
-    - 'Georg Hegel'
-    - Globalisme
+    - Liberalisme
+    - 'Jean-Jacques Rousseau'
+    - Contrarevolutie
 ---
 
 Er zijn al veel discussies geweest over de definitie van ‘reactionair’ (evenals ‘conservatief’, ‘liberaal’, ‘socialist’ en zelfs ‘fascist’) en over de betekenis van ‘rechts’. Ik besloot eindelijk eens mijn steentje bij te dragen. Een duidelijke terminologie ondermijnt demagogie. Taal is een levend iets en soms kan dit leiden tot spraakverwarring en het ontstaan van archaÏsmen. Teruggaan naar de oorspronkelijke betekenis van woorden is op zich al reactionair.

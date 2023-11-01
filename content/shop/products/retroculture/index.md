@@ -11,8 +11,8 @@ variants:
     - { name: Paperback, isbn: 978-1-912975-30-3, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 12 }, import_price: { currency: EUR, amount: 13.2 }, price: 18.99, out_of_stock: 0 }
 subtitle: 'Taking America Back'
 tags:
-    - Amerika
     - Esthetiek
+    - Amerika
 ---
 
 Als je je ooit niet op je plaats hebt gevoeld in de moderne wereld, dan geeft Retroculture je de mogelijkheid om in een ander tijdperk te leven.

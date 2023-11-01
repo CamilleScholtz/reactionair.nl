@@ -8,9 +8,12 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Top
 tags:
-    - Woke
-    - LGBT
-    - Technologie
+    - Liberalisme
+    - Incel
+    - Seks
+    - 'Friedrich Nietzsche'
+    - 'Slavoj Žižek'
+    - Hedonisme
 ---
 
 ### De bevrijding van de jaren '60

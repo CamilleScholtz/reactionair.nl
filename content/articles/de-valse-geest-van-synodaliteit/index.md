@@ -8,8 +8,9 @@ themes: 'Religie en Wijsbegeerte'
 image: 8b50bcb8-70c3-4205-8418-95876623f62f.webp
 anchor: Smart
 tags:
-    - Rusland
-    - 'Vladimir Poetin'
+    - Katholicisme
+    - Christendom
+    - Protestantisme
 ---
 
 Terwijl de wereld zich richt op de voortdurende strijd tussen Palestina en Israël, ontvouwt zich in de stad Rome een belangrijke gebeurtenis: de Synode over Synodaliteit. Maar wat betekent dat eigenlijk? Het woord "synode" is afgeleid van het Griekse woord "σύνοδος" (sunodos), wat 'samen op weg' betekent. Het lijkt geen toeval dat "samen op weg gaan" ook de grijsgedraaide slogan is voor deze bijeenkomst van katholieke bisschoppen en leken. In deze maand zullen de uitkomsten van deze Synode besproken worden in het dystopische auditorium van Paulus VI. Het Synodale proces begon wereldwijd in 2021, maar nam in 2019 in Duitsland al een aanloop met het zogenaamde "der Synodale Weg." De bittere vruchten van deze Duitse Synodale Weg zijn inmiddels zichtbaar geworden. Zal de Synode deze vruchten voortplanten? En wat zullen de implicaties hiervan zijn voor andere christelijke gemeenschappen?

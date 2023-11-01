@@ -10,7 +10,9 @@ image: e927f5ab-d188-4e09-a289-c4841ac8f3e2.webp
 anchor: Smart
 caption: 'Jan-Joeri (links, tevens in politiek opzicht) draagt een vest van Balenciaga (800€) en een arbeidersrugzak van de Zeeman (12€).'
 tags:
-    - 'Rudy Bouma'
+    - 'Karl Marx'
+    - Marxisme
+    - Communisme
 ---
 
 **Lokaal nieuws**: Een ongekende samenloop van omstandigheden: de zeventienjarige Jan-Joeri uit het welvarende Gooi heeft zich gewaagd aan een ontmoeting met een arbeider, die toevallig ook nog eens voor zijn eigen vader werkte. 

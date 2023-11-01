@@ -9,7 +9,9 @@ image: 82787fdf-47db-44b2-9c8e-bc353410be5e.jpg
 anchor: Smart
 description: 'Twee reflecties over immigratie en klimaatverandering vanuit het zonnige en zuidelijke Sicilië.'
 tags:
-    - Metafysica
+    - Immigratie
+    - Klimaatverandering
+    - Kapitalisme
 ---
 
 ### “No Woman, No Cry”

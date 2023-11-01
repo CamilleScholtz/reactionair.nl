@@ -8,17 +8,12 @@ themes: 'Cultuur en Maatschappij'
 image: 43806174-a014-4e68-8f43-8b04d7a52bd1.webp
 anchor: Smart
 tags:
-    - 'Julius Evola'
-    - 'Thierry Baudet'
-    - 'Mark Rutte'
-    - 'Oswald Spengler'
-    - Linguistiek
-    - 'Ludwig Wittgenstein'
-    - Reactionair
-    - Christendom
-    - 'Erik von Kuehnelt-Leddihn'
-    - 'Sid Lukkassen'
-    - 'Ernst Jünger'
+    - 'Franse revolutie'
+    - Woke
+    - 'Karl Marx'
+    - Marxisme
+    - Communisme
+    - Libertarisme
 ---
 
 Er is iets opmerkelijks aan Marx' theorie over klassenstrijd en geschiedenis wat zelden wordt opgemerkt.[^1] 

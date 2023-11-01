@@ -8,11 +8,9 @@ themes: 'Politiek en Actualiteit'
 image: ae8fa3133f73d195ae95ca8ef795c36362315da3-2.jpg
 anchor: Smart
 tags:
-    - 'Karl Marx'
-    - 'Immanuel Kant'
-    - 'Sigmund Freud'
-    - 'Georg Hegel'
-    - 'Georges Bataille'
+    - 'Ongehoord Nederland'
+    - Sinterklaas
+    - 'Zwarte Piet'
 ---
 
 Nu de pakjesboot ergens naast de Titanic ligt en de hulpsinterklaas het milieu heeft vervuild, is het weer die tijd van het jaar, dat je beseft dat Nederland een vazalstaat is van de VS. We vieren tegenwoordig al Halloween, maar Sinterklaas en Zwarte Piet mogen niet meer omdat Zwarte Piet *blackface* is. 

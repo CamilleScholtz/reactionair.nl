@@ -11,8 +11,8 @@ variants:
     - { name: Paperback, isbn: 978-1-912975-60-0, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 40 }, import_price: { currency: EUR, amount: 22.0 }, price: 32.99, out_of_stock: 0 }
 subtitle: ' Form and Actuality'
 tags:
-    - Kunst
     - 'Oswald Spengler'
+    - Kunst
     - Faust
 pretty: true
 ---

@@ -9,8 +9,9 @@ image: 69f081cb-7b03-406b-8d71-8f0d9d7e08e6.jpg
 anchor: Top
 description: 'De woorden van de FVD-vertegenwoordiger deden de raadsleden versteld staan. Lees hoe ze zich verloren en verward voelden, maar vastberaden bleven om te strijden voor genderrechten.'
 tags:
-    - Islam
-    - Sharia
+    - Woke
+    - FVD
+    - Gender
 note: "Dit korte verhaal is gebaseerd op het volgende artikel: *[Huilende Arnhemse raadsleden verlaten zaal tijdens genderbetoog FvD'er](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5366176/gender-lhbtiq-geslacht-forum-democratie-d66-groenlinks-partij)*."
 ---
 

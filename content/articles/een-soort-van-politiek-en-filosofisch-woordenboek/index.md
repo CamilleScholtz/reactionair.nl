@@ -8,9 +8,11 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Woke
-    - Leninisme
-    - Slavenmoraal
+    - Democratie
+    - Monarchie
+    - Plato
+    - 'Erik von Kuehnelt-Leddihn'
+    - 'Thomas van Aquino'
 ---
 
 Montesquieu publiceerde in 1748 zijn _‘De l'Esprit des Lois’_, waarin hij de verschillende regeringsvormen over de millennia heen, van China tot Ethiopië, vergeleek en analyseerde. Hij schreef in de traditie van oudere filosofen en politieke denkers, onder andere Plato en Thomas van Aquino. Nu, meer dan 250 jaar, 2 wereldoorlogen, massale propaganda en een corana-crisis verder, dacht ik: “Waarom zal ik de moderne mens niet een opfriscursus in politieke en staatsterminologie geven? We hebben toch niks beters te doen.”

@@ -10,10 +10,9 @@ anchor: Top
 description: 'Het avondland gaat ten onder. Moeten we lijdzaam toezien of ons verzetten? De auteur pleit voor het omarmen en versnellen van het verval, om daarna opnieuw op te bouwen volgens nieuwe inzichten.'
 caption: "De feniks herrijst uit zijn as, uit de Kroniek van Neurenberg, 1493.\n"
 tags:
-    - Democratie
-    - 'Thierry Baudet'
-    - Rusland
-    - Oekraïne
+    - 'Oswald Spengler'
+    - 'William Shakespeare'
+    - Verval
 ---
 
 Het mag geen nieuws heten dat het avondland in verval is. De tekenen zijn alom. Weliswaar hebben we het sinds het einde van de tweede oorlog goed gehad, beter dan ooit zelfs, onder de paraplu van Amerika, maar de boomerdroom is voorbij. Het gaat de komende decennia allemaal nog veel gekker worden, in cultureel opzicht, economisch, politiek enzovoort. Hoe de afwikkeling van het proces er exact uit gaat zien, is koffiedik kijken en ik ga me dan ook niet wagen aan precieze voorspellingen.

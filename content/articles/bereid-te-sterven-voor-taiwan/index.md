@@ -8,12 +8,10 @@ themes: 'Politiek en Actualiteit'
 image: taiwan.webp
 anchor: Smart
 tags:
-    - Plato
-    - 'Immanuel Kant'
-    - Christendom
-    - 'Karl Popper'
+    - Oorlog
+    - Oekraïne
     - China
-    - 'Erik von Kuehnelt-Leddihn'
+    - Taiwan
 ---
 
 Communistisch China zit liberaal China (Taiwan) weer eens te bedreigen. Nancy Pelosi bezocht het land, naar ze zelf verklaarde met de bedoeling een statement te maken (alhoewel ik niet weet wat dit in de praktijk daadwerkelijk voor haar moet inhouden). Ze heeft in ieder geval een symbolisch gebaar gemaakt tegen het totalitarisme en de dreigende imperialistiche ambities van de CCP.

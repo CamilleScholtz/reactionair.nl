@@ -8,11 +8,8 @@ themes: 'Religie en Wijsbegeerte'
 image: l19224-9m4zh-9-ksharp.jpg
 anchor: Center
 tags:
-    - 'Thierry Baudet'
-    - FVD
-    - 'Geert Wilders'
-    - Verkiezingen
-    - PVV
+    - Islam
+    - Koran
 ---
 
 {{< basmala >}}

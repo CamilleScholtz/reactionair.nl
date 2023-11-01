@@ -8,11 +8,24 @@ themes: 'Religie en Wijsbegeerte'
 image: kamishikimi_kumanoimasu_shrine_001.jpg
 anchor: Smart
 tags:
-    - Wetgeving
-    - Wetenschap
-    - 'Eva Vlaardingerbroek'
-    - 'Aldoux Huxley'
-    - Transhumanisme
+    - Plato
+    - Metafysica
+    - Materialisme
+    - 'Jean-Jacques Rousseau'
+    - Atheisme
+    - Aristoteles
+    - 'Edmund Burke'
+    - 'Friedrich Schiller'
+    - 'René Descartes'
+    - 'Paul Kingsnorth'
+    - 'Bronze Age Pervert'
+    - Traditie
+    - 'Ludwig Wittgenstein'
+    - 'Martin Heidegger'
+    - 'Max Weber'
+    - 'John Vervaeke'
+    - Japan
+    - Shinto
 ---
 
 Met de onttovering van de wereld wees socioloog Max Weber in zijn werk ‘Wissenschaft als Beruf’ op de culturele rationalisering en devaluatie van religie die ontstond in het moderniserende, geseculariseerde westen.

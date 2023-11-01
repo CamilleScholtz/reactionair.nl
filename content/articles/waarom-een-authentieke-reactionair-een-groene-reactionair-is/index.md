@@ -8,12 +8,15 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Woke
-    - Communisme
-    - Blankenhaat
+    - 'René Guénon'
+    - Klimaatverandering
+    - 'Jean-Jacques Rousseau'
+    - 'Karl Marx'
     - Marxisme
-    - Racisme
-    - Ressentiment
+    - 'Edmund Burke'
+    - 'Johann Wolfgang von Goethe'
+    - 'Friedrich Schiller'
+    - Duurzaamheid
 ---
 
 Maar al te vaak wordt genegeerd hoe belangrijk het is om zorg te dragen voor de omgeving waarin we leven. We realiseren ons zelden hoe bijzonder ons landschap, onze directe leefomgeving, het gedierte en geboomte om ons heen is, en waarom we dit moeten koesteren. De nuchtere rechtse dissident is wars van klimaathysterie, welke opmerkelijke gelijkenissen vertoont met een ketterse eindtijdcultus. Bovendien, Milieubescherming is toch een linkse hobby? Maar ís dat wel zo?

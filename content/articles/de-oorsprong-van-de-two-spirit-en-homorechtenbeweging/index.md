@@ -9,7 +9,9 @@ themes: 'Cultuur en Maatschappij'
 image: 90905f3a-bf12-4090-8fa2-833db2fb1a9d.webp
 anchor: Smart
 tags:
-    - Economie
+    - LGBT
+    - Woke
+    - Transgenderisme
 note: 'Dit is een vertaling van een artikel van *Stone Age Herbalist*, het origineel is *[hier](https://stoneageherbalist.substack.com/p/the-origin-of-two-spirit-and-the)* te lezen.'
 ---
 

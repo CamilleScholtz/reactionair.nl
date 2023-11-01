@@ -8,13 +8,8 @@ themes: 'Politiek en Actualiteit'
 image: thumbo.jpg
 anchor: Top
 tags:
-    - 'Karl Marx'
     - Liberalisme
-    - Fascisme
-    - Katholicisme
-    - Communisme
-    - 'Erik von Kuehnelt-Leddihn'
-    - Nationaal-socialisme
+    - Oekraïne
 ---
 
 Gert-Jan Segers, (ja, die windvaan van een CU-leider) sprak recent over een burgeroorlog die zou kunnen volgen uit het belachelijke stikstofbeleid en de aanvallen op het boerenbestaan. Burgeroorlog in ons polderland? Rutte-Kaag maakt het mogelijk blijkbaar.

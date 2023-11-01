@@ -8,9 +8,7 @@ themes: 'Cultuur en Maatschappij'
 image: 917d154e-9e98-4af4-9fa2-e898c7e97ab1.png
 anchor: Smart
 tags:
-    - 'Oswald Spengler'
-    - Consumentisme
-    - 'Francis Fukuyama'
+    - Christendom
 note: 'Dit artikel is vrij vertaald naar: *[Liberation Theology and Synodality](https://padreperegrino.org/2023/06/synodalit/)* onder toestemming van de originele auteur. Op enkele plekken is er context toegevoegd'
 ---
 

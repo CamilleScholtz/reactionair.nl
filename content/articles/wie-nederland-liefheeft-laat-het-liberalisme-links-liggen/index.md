@@ -8,11 +8,11 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Thierry Baudet'
-    - Christendom
-    - Atheisme
-    - 'Gianni Vattimo'
-    - 'Hans Küng'
+    - Liberalisme
+    - JA21
+    - BBB
+    - FVD
+    - Economie
 ---
 
 Hoe vaak valt in een opiniestuk, in social media of aan talkshowtafels wel niet te horen dat _"de VVD links geworden is"_, dat men _"de tijden van Bolkestein mist"_ of dat _"de VVD nu echt zal gaan instorten"_? En minstens net zo vaak gaat het over het doorgeslagen progressivisme van _D66_ en de manier waarop zij van politiek een identiteitsmarkt maakt waarin iedereen afwijkend van de gemiddelde Nederlander met zichzelf te koop loopt.

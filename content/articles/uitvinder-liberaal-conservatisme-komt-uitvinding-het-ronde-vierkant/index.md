@@ -8,13 +8,10 @@ themes: 'De Uylenspieghel'
 image: cc80e413-9828-408c-b0a9-3a99b2de911d.jpg
 anchor: Center
 tags:
-    - Plato
-    - Aristoteles
-    - 'Michel Foucault'
-    - Pythagoras
-    - Socrates
-    - Incel
-    - Seks
+    - Liberalisme
+    - Conservatisme
+    - JA21
+    - 'Joost Eerdmans'
 ---
 
 Conservatieven willen zaken behouden (of zelfs terugdraaien), liberalen willen de zaken op hun beloop laten. Deze attitudes zijn schijnbaar diametraal tegengesteld, maar toch zijn politicologen erin geslaagd ze samen te smeden tot één ideologie: het liberaal-conservatisme. Hoe het precies werkt, weet niet iedereen, maar Joost Eerdmans en Annabel Nanninga wel, want die hebben er een hele partij op gegrondvest.

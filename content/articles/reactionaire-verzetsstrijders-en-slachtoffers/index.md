@@ -8,19 +8,9 @@ themes: 'Geschiedenis en Biografie'
 image: d033eb6f-b72c-4688-a811-247257d76245.jpg
 anchor: Smart
 tags:
-    - 'Karl Marx'
-    - Democratie
-    - Plato
-    - Aristoteles
-    - Pythagoras
-    - Socrates
-    - Liberalisme
-    - 'Jean-Jacques Rousseau'
-    - Marxisme
-    - China
-    - 'Erik von Kuehnelt-Leddihn'
+    - Communisme
     - Nationaal-socialisme
-    - Totalitarisme
+    - 'Tweede Wereldoorlog'
 ---
 
 Wij vieren op 5 mei bevrijdingsdag, terwijl andere Europese landen 8 mei als V-dag vieren. Prachtige feestdagen die herdenken hoe Nederland, evenals België, Luxemburg, Denemarken en Noorwegen bevrijd werden van het nazisme. 

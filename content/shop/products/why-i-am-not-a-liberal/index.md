@@ -13,8 +13,8 @@ tags:
     - Islam
     - Liberalisme
     - EU
-    - Europa
     - Rechtsextremisme
+    - Europa
 back: 70a7a1d5-a0cd-4a78-b22a-b68af899a606.jpg
 ---
 

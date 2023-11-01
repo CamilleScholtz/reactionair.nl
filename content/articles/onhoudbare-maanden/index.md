@@ -8,8 +8,9 @@ themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Top
 tags:
-    - Christendom
-    - Kerstmis
+    - Oorlog
+    - Spanje
+    - Fascisme
 ---
 
 Even voor zessen viel de schemer over Madrid, het was een irrelevante gebeurtenis, Spanje verkeerde al in een duisternis die geen zonlicht kon verdrijven. Buiten begaf men zich nog van en naar het stembureau, heren met een hoed op, dames met hun handtas en minder welgestelde types met pet, maar allen met een zo dik mogelijke jas, want het was koud in de Spaanse hoofdstad. Binnen tekende men opgekomen kiezers op en verzamelden zich briefjes in de stembus. Om de as van de stembussen draaide Spanje, als een planeet op zich, het land nog in een balans die weldra vernietigd zou worden. Lang niet iedereen besefte de gewichtigheid van het moment, voor de meesten ging het leven door. De politiek was slechts een van de zoveel dingen waar op een dag tijd voor moest worden ingeruimd, net als de gang naar het café. Al zorgden de levendige discussies aan de tafeltjes daar dat de twee zaken gewoonlijk gecombineerd konden worden. Zowel de politiek als de drank en de dames hoorden bij het leven, maar het verschil was dat de drank en de dames iedereen konden bekoren en dan mocht er wel eens om worden gevochten, er vielen zelden doden door. 

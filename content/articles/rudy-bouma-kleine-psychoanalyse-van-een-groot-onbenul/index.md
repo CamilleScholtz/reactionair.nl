@@ -9,11 +9,10 @@ themes: 'Onderzoek en Speurwerk'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Aristoteles
     - Woke
-    - 'Friedrich Nietzsche'
     - Wappies
-    - 'Rutger Bregman'
+    - Corona
+    - 'Rudy Bouma'
 ---
 
 Als Rudy Bouma niet in een afgehuurde loods staat om ons bang te maken met verhalen over eenzame wolven en neo-nazi’s, lijkt hij vooral zijn tijd door te brengen op Twitter. Alwaar hij simpele zielen de les leest om hen “de wetenschap” bij te brengen, net zoals de zendelingen van weleer de ongewassen inboorlingen van donker Afrika het woord van God kwamen brengen.

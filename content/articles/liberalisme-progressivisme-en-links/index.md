@@ -8,13 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
 tags:
-    - 'Karl Marx'
+    - Liberalisme
     - Woke
-    - 'Sigmund Freud'
-    - 'Vladimir Poetin'
-    - 'Max Weber'
-    - 'Theodor Adorno'
-    - Verlichting
 note: "Dit is een vertaling van het essay 'Liberalism, Progressivism, Leftism', het origineel is [hier](https://www.eugyppius.com/p/liberalism-progressivism-leftism) te lezen."
 ---
 

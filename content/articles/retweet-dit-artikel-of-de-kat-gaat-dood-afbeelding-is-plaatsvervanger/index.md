@@ -8,10 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: hands-up.cat.webp
 anchor: Smart
 tags:
-    - Woke
-    - Corona
-    - 'Rudy Bouma'
-    - Wappies
+    - Gemeenschap
+    - Kwantificering
 ---
 
 Trok de titel je aandacht? Het grappige plaatje? Ik heb likes nodig. Mijn buurt is geen gemeenschap. Ik ken mijn buren nauwelijks. Ik ken niemand meer van vroeger, van school. Ik heb niet 30 neefjes en nichtjes. Geef me aandacht!

@@ -8,24 +8,13 @@ themes: 'Religie en Wijsbegeerte'
 image: 0f3ffa6b-821a-454d-bd60-3fdb72558de5.jpg
 anchor: Top
 tags:
-    - Islam
-    - 'Karl Marx'
-    - Liberalisme
-    - 'Immanuel Kant'
-    - 'Jean-Jacques Rousseau'
-    - 'Sigmund Freud'
-    - 'Friedrich Nietzsche'
+    - Oorlog
+    - 'Jean Baudrillard'
     - 'Theodor Adorno'
-    - Verlichting
-    - Materialisme
-    - 'Charles Darwin'
-    - 'William Shakespeare'
-    - 'Fjodor Dostojevski'
-    - 'Aldous Huxley'
-    - 'Roger Scruton'
-    - 'David Hume'
-    - 'John Gray'
-    - Nihilisme
+    - Media
+    - 'Ernst Jünger'
+    - Film
+    - 'Guy Debord'
 note: 'Dit artikel is een vertaling van sectie 14 van het opstel _Über den Schmerz_ van Ernst Jünger, dat  voor het eerst verscheen in 1934 in _Blätter und Steine_. Eerder al publiceerden we [een recensie](https://reactionair.nl/artikelen/oorlog-als-avontuur/) van zijn bekendste werk _In Stahlgewittern_.'
 ---
 

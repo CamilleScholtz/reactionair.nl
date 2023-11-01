@@ -7,6 +7,14 @@ authors:
 themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+tags:
+    - Democratie
+    - Liberalisme
+    - 'Thierry Baudet'
+    - 'Immanuel Kant'
+    - 'Jean-Jacques Rousseau'
+    - 'C. S. Lewis'
+    - 'Alexis de Tocqueville'
 ---
 
 Wie regeert, wordt sinds de laatste paar eeuwen primair ook weer beïnvloed door het stelsel waarbinnen de elite en de meerderheid functioneren. Daarom moeten de ontwikkelingen van complexere staatsvormen tijdens de vroegmoderne periode eerst bekeken worden.

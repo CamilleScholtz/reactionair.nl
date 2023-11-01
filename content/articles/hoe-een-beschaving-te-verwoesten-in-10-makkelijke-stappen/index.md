@@ -7,11 +7,6 @@ authors:
 themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Top
-tags:
-    - Rusland
-    - Oorlog
-    - EU
-    - Oekraïne
 ---
 
 {{< slider

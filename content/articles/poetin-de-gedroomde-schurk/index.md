@@ -8,9 +8,8 @@ themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Incel
-    - Seks
-    - Verslaving
+    - Rusland
+    - 'Vladimir Poetin'
 ---
 
 In de westerse media wordt Vladimir Poetin afgeschilderd als de ultieme snoodaard. Hij zou een conservatieve, toxisch masculiene, militaristische dictator en een soort van trol op het geopolitieke toneel zijn.

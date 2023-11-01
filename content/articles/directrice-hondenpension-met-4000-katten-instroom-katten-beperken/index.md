@@ -9,9 +9,7 @@ image: dc7bf90b-feaf-462d-b176-b8a9bb5be212.jpg
 anchor: Smart
 caption: "Marieke Rötte legt haar anti-katten standpunt uit. © Reu-ters 2023\n"
 tags:
-    - Corona
-    - Globalisme
-    - 'Klaus Schwab'
+    - Immigratie
 ---
 
 In hondenpension “Nedermarken” neemt de ontevredenheid over de stijgende instroom van katten toe. De oorspronkelijke hondenbevolking is het er over eens dat er te veel katten naar het pension komen, en kiezen daarom al sinds 2010 voor een directie die zegt iets aan de katteninstroom te zullen doen.

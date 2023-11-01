@@ -8,13 +8,9 @@ themes: 'Religie en Wijsbegeerte'
 image: 91a86ba8-c4dc-4bff-9de0-6cc0224a00fd.jpg
 anchor: Smart
 tags:
-    - Metafysica
-    - 'William Blake'
-    - 'Immanuel Kant'
-    - 'Jean-Jacques Rousseau'
-    - Verlichting
-    - 'Johann Georg Hamann'
-    - 'Moses Mendelssohn'
+    - 'Giovanni Papini'
+    - 'H.G. Wells'
+    - 'Johann Gottlieb Fichte'
 ---
 
 Verveling is een soort epidemie die Europa rijp maakt voor de ondergang. Verveling is het slotakkoord van elke beschaving. Het is de aderverkalking van grote denkende volkeren. Verveling is de toestand van een ras dat zijn geloof heeft verloren en dat het materieel nog voor de wind gaat. Het is leegte alom. Sport, verafgoding van het lichaam, seks slaan de klok. God, voor zover nog genoemd, is overrompeld  door het ik. Hij is identiek met de Natuur. Hij is een idee.

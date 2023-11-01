@@ -8,11 +8,14 @@ themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Center
 tags:
-    - Rusland
-    - Oorlog
-    - Oekraïne
-    - 'Jean Baudrillard'
-    - 'Oscar Wilde'
+    - 'Robert Lemm'
+    - Liberalisme
+    - Christendom
+    - 'Immanuel Kant'
+    - Reactionair
+    - 'Jean-Jacques Rousseau'
+    - 'Thomas van Aquino'
+    - 'Nicolás Gómez Dávila'
 ---
 
 >_“De authentieke reactionair kijkt niet naar de toekomst, zoals de liberaal. Hij kijkt evenmin naar het verleden, zoals de conservatief. Hij kijkt niet vooruit, en niet achterom. Hij kijkt naar boven, naar de sterren en de hemel, naar de sporen die de Eeuwigheid heeft achtergelaten in de Tijd.”_

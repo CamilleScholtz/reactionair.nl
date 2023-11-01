@@ -8,10 +8,10 @@ themes: 'Politiek en Actualiteit'
 image: a7474dd3-15cd-483d-8a3a-4a2470748dc4.jpg
 anchor: Smart
 tags:
-    - Conservatisme
-    - Liberalisme
-    - JA21
-    - 'Joost Eerdmans'
+    - Democratie
+    - VVD
+    - Verkiezingen
+    - D66
 ---
 
 In het land waar het wantrouwen en de desillusie de politiek in hun greep hebben, rijst de vraag wat er volgende maand moet gebeuren bij de Provinciale Statenverkiezingen. Terwijl het cynische spel van campagnes nog op gang moet komen, rijst de vraag uit alle hoeken op wie, wat en _of_ men überhaupt zal stemmen. Nerveus verschieten de meningen van optie naar optie en niet dikwijls landen ze op de uitroep dat het maar beter is om helemaal nergens op te stemmen. Helaas bevat die uitkomst een kleine weeffout: Niet stemmen is voor minkukels.

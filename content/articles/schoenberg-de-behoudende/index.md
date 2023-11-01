@@ -8,14 +8,9 @@ themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Center
 tags:
-    - Islam
-    - 'René Guénon'
-    - Immigratie
-    - 'Conservatieve Alliantie'
-    - 'Martin Lings'
-    - Alt-right
-    - 'Hamza Yusuf'
-    - 'Jordan Peterson'
+    - 'Theodor Adorno'
+    - Muziek
+    - 'Richard Wagner'
 ---
 
 {{< quote

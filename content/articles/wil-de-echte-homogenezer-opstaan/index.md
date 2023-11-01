@@ -8,8 +8,7 @@ themes: 'Politiek en Actualiteit'
 image: thumb.webp
 anchor: Top
 tags:
-    - Abortus
-    - Montesquieu
+    - Woke
 ---
 
 Vandaag kwam naar buiten dat _D66_ en de _VVD_, samen met _PvdA_, _GroenLinks_, _SP_ en de _PvdD_ en wetsvoorstel zullen indienen die homogenezing illegaal maakt op straffe van hoge boetes, gevangenisstraf en potentieel ontheffing uit een ambt.

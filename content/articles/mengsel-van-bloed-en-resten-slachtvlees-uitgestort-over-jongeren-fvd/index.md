@@ -8,13 +8,9 @@ themes: 'Politiek en Actualiteit'
 image: f0988858-c305-46a2-bab2-7e7b767a51db.jpg
 anchor: Smart
 tags:
-    - Democratie
-    - Liberalisme
-    - 'Immanuel Kant'
-    - 'Jean-Jacques Rousseau'
-    - 'Thierry Baudet'
-    - 'C. S. Lewis'
-    - 'Alexis de Tocqueville'
+    - 'Pim Lammers'
+    - FVD
+    - Media
 ---
 
 We weten inmiddels wel dat de dingen oneerlijk zijn. Één bepaalde wereldvisie domineert en datgene dat indruist tegen deze visie is vreemd of zelfs eng en gevaarlijk. Een natuurlijk verschijnsel, en zelfs acceptabel tot op zekere hoogte. 

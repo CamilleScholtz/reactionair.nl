@@ -8,16 +8,8 @@ themes: 'De Uylenspieghel'
 image: dd41ec81-6670-426d-839e-bb5fb10abdeb.jpg
 anchor: Smart
 tags:
-    - Metafysica
-    - 'Griekse mythologie'
-    - Mythologie
-    - Wappies
-    - Symbolisme
-    - 'Carl Jung'
-    - Complottheorie
-    - 'David Icke'
-    - 'Laurens Buijs'
-    - Materialisme
+    - 'Karl Marx'
+    - Communisme
 ---
 
 In een dapper streven naar het omverwerpen van het kapitalistische systeem hebben jonge communisten onlangs een meerdaagse vergadermarathon gehouden. Met rode vlaggen in de hand en het Manifest van Karl Marx als hun bijbel, kwamen deze idealistische revolutionairen bijeen om te debatteren over de beste strategie om een nieuwe samenleving te creëren.

@@ -9,9 +9,8 @@ image: 70e4c847-d97b-46ea-ae8b-01c31b8c991e.jpg
 anchor: Smart
 description: 'Van het Bolshoi theater in Moskou naar een steriele hotelkamer in Siberië: stap in de schoenen van de auteur en ontdek hoe hij het leven in het nu ontdekte tijdens zijn reis door Rusland.'
 tags:
-    - Islam
-    - Metafysica
-    - Theologie
+    - Rusland
+    - Globalisme
 ---
 
 Wat voel je als je op een doordeweekse ochtend uit het raam van de trein kijkt onderweg naar je werk of een andere verplichting? Wanneer je, tijdelijk niet onderbroken door een luid, nietszeggend gesprek van je medepassagiers, kan verzinken in je eigen gedachten. Over welke wereld droom je dan? Je creatieve geest schrijft verhalen die je maar al te graag zou beleven. Plekken die je het liefst zou bezoeken.

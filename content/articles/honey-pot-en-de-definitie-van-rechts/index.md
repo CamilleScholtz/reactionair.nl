@@ -9,7 +9,9 @@ image: thumb.webp
 anchor: Smart
 tags:
     - Liberalisme
-    - Oekraïne
+    - Woke
+    - 'Thierry Baudet'
+    - 'Sid Lukkassen'
 ---
 
 Gisteren heb ik de nieuwste film van kunstcollectief _KIRAC_ gezien, _Honey Pot_. Dit is een verfilming van een gezamenlijk conceptueel-kunstinitiatief met Jini van Rooijen, een 22 jarige UvA studente met een _OnlyFans_ porno-kanaal. De bedoeling van dit initiatief, zo vertelde Jini zelf op camera,[^1] is om seks te hebben met een _“rechts”_ persoon om _“de kloof”_ (tussen links en rechts) te dichten.

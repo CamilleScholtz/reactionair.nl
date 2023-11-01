@@ -8,11 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
 tags:
-    - Metafysica
-    - 'Sigmund Freud'
-    - 'Oswald Spengler'
-    - Consumentisme
-    - 'René Descartes'
+    - 'Friedrich Nietzsche'
+    - Woke
 ---
 
 Dit artikel is een hoofdstuk uit _Also sprach Zarathustra_ van Friedrich Nietzsche:

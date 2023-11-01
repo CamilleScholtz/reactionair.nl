@@ -9,9 +9,11 @@ image: f7700375-bcb4-40b5-8bb1-4bbd600aa17c.jpg
 anchor: Smart
 description: 'Waarom de beoogde wijziging van de embryowet een ontzettend slecht idee is.'
 tags:
-    - 'Franz Kafka'
-    - Overheid
-    - Macht
+    - Wetenschap
+    - Transhumanisme
+    - Wetgeving
+    - 'Eva Vlaardingerbroek'
+    - 'Aldoux Huxley'
 note: 'Dit artikel is een vertaling van het artikel *[The Dutch Demonic Embryo Act](https://evavlaardingerbroek.substack.com/p/the-dutch-demonic-embryo-act)* zoals deze eerder verscheen op de Substackpagina van Eva. '
 ---
 

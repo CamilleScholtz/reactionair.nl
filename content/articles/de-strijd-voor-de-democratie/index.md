@@ -8,9 +8,10 @@ themes: 'Politiek en Actualiteit'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Postmodernisme
-    - Liberalisme
-    - 'Karl Popper'
+    - Rusland
+    - Democratie
+    - Oorlog
+    - Oekraïne
 ---
 
 De geschiedenis herhaalt zichzelf. Tijdens de Korea-oorlog was de aandacht van het hele westen gericht op een land in het oosten, waarmee we ons daarvoor weinig bezig hadden gehouden. We kregen er massaal sympathie voor toen het aangevallen werd door een imperialistische wereldmacht. Nu juichen de meeste mensen in het westen, en ikzelf, voor Oekraïne vanwege haar heldhaftige verzet tegen Rusland. Zo ook juichten we ten tijde van de, relatief in vergetelheid geraakte, ‘Winteroorlog’ voor Finland, tegen de Sovjet-Unie. 

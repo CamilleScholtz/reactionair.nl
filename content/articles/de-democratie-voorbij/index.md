@@ -8,9 +8,8 @@ themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Islam
-    - Iran
-    - 'Karl Marx'
+    - Democratie
+    - 'Robert Lemm'
 ---
 
 _De democratie voorbij, door Frank Karsen en Karel Beckman._

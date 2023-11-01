@@ -9,11 +9,6 @@ themes: 'Cultuur en Maatschappij'
 image: 236ddddd-5ef2-46a6-bb9a-6fbb82fd806a.webp
 anchor: Smart
 caption: 'Het oordeel van Paris, Peter Paul Rubens, circa 1636'
-tags:
-    - Plato
-    - Aristoteles
-    - Socrates
-    - Christendom
 ---
 
 _Mary Harrington is columniste voor [UnHerd](https://unherd.com/author/mary-harrington/). Ook houdt ze een [Substack](https://reactionaryfeminist.substack.com/) bij onder de titel Reactionary feminist. Onlangs is een boek van haar uitgeven met de titel [Feminism against progress](https://swiftpress.com/book/feminism-against-progress/)._ 

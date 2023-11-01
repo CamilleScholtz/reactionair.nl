@@ -9,11 +9,12 @@ image: val_van_de_opstandige_engelen-_james_ensor-_1889-_koninklijk_museum_voor_
 anchor: Smart
 caption: 'James Ensor, De val van de opstandige engelen'
 tags:
-    - Islam
-    - Liberalisme
-    - 'Thierry Baudet'
-    - 'Geert Wilders'
-    - 'Pim Fortuyn'
+    - Plato
+    - 'Immanuel Kant'
+    - Socrates
+    - Schoonheid
+    - Plotinus
+    - Xenophanes
 ---
 
 > ‘Indien iets anders schoon is behalve het schone zelf, dan is het, naar ik meen, om geen andere reden schoon dan omdat het aan het schone zelf deel heeft. Hetzelfde constateer ik van alle andere dingen. Kunt ge u met die oorzaaksverklaring verenigen?’

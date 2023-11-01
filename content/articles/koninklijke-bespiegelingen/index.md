@@ -10,12 +10,12 @@ anchor: Top
 description: 'De monarchie is heel lang de vaste bestuursvorm geweest. Democratie leidt tot wanorde en een falend bestuur. Een pleidooi voor herstel van de monarchie.'
 caption: 'Charles Ernest Butler, King Arthur (1903)'
 tags:
-    - Islam
-    - AI
-    - Postmodernisme
-    - 'René Guénon'
-    - 'Søren Kierkegaard'
-    - 'William Blake'
+    - Democratie
+    - 'Franse revolutie'
+    - 'Joseph de Maistre'
+    - 'Julius Evola'
+    - Monarchie
+    - Plato
 ---
 
 > *Toute nation a le gouvernement qu'elle mérite*[^1]

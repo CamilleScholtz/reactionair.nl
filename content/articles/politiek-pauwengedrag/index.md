@@ -9,10 +9,7 @@ image: thumb.webp
 anchor: Smart
 description: "Wat hebben pauwen, Steve Jobs en blanke elites gemeen? Lees ons artikel om te ontdekken hoe het concept van 'counter-signalling' zich in de evolutie heeft ontwikkeld en hoe het gedrag nog steeds voorkomt bij de mens."
 tags:
-    - Economie
-    - EU
-    - Europa
-    - NAVO
+    - 'Charles Darwin'
 ---
 
 Er is een interessant concept in evolutionaire theorieën dat _'counter-signalling'_ heet. Om dit concept uit te leggen neem ik het voorbeeld van de pauw. 

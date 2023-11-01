@@ -8,7 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: smart
 tags:
-    - Rechtsextremisme
+    - 'Thierry Baudet'
+    - 'Mark Rutte'
+    - 'Carl Schmitt'
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/tegen-natuurlijke-selectie/) het vorige deel._

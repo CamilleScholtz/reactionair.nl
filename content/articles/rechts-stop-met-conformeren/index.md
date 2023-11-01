@@ -7,6 +7,9 @@ authors:
 themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
+tags:
+    - Woke
+    - 'Marcus Aurelius'
 ---
 
 _Dit essay is oorspronkelijk geschreven voor de JONG21 'Wedstrijd van het Vrije Woord'._

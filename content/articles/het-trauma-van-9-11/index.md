@@ -7,8 +7,6 @@ authors:
 themes: 'Cultuur en Maatschappij'
 image: inkblot-1_wide-4721996e4c8fb2aaa203cbe26968c64b742ebaa9.jpg
 anchor: Smart
-tags:
-    - Seks
 ---
 
 Ik denk dat we onderschatten hoe traumatisch 9/11 is geweest voor dat deel van de bevolking dat ervan overtuigd raakte dat de Amerikaanse en/of Israëlische regering er een rol in hadden. Als je eenmaal tot die conclusie bent gekomen, ben je veroordeeld tot een leven in een staat van voortdurend wantrouwen tegen je regering.

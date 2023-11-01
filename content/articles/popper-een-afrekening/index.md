@@ -8,7 +8,11 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Immigratie
+    - 'Friedrich Nietzsche'
+    - 'Michel Foucault'
+    - Consumentisme
+    - 'Karl Popper'
+    - Wetenschap
 ---
 
 ### I: wetenschap

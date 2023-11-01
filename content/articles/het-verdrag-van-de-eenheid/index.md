@@ -8,11 +8,6 @@ authors:
 themes: 'Religie en Wijsbegeerte'
 image: 4af5c901-8b15-4740-adad-52c790640722.jpg
 anchor: Smart
-tags:
-    - Democratie
-    - D66
-    - VVD
-    - Verkiezingen
 ---
 
 {{< basmala >}}

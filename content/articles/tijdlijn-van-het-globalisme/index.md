@@ -9,9 +9,10 @@ themes: 'Onderzoek en Speurwerk'
 image: fe0553f3-8456-4897-8092-17292966d487.webp
 anchor: Smart
 tags:
-    - Boeddhisme
-    - China
-    - 'Robert van Gulik'
+    - Globalisme
+    - 'Karl Marx'
+    - 'Georg Hegel'
+    - Vrijmetselarij
 ---
 
 Het onderstaande artikel werd oorspronkelijk in het Engels gepubliceerd op een katholieke website *Michael*. Het is een relatief uitgebreide tijdlijn van "de geschiedenis van de Nieuwe Wereldorde". Alles wat ook maar refereert aan "de Nieuwe Wereldorde" wordt automatisch bestempeld als samenzweringstheorie en dus gemakkelijk van tafel geveegd. Ik kan niet ontkennen dat zelfs ik, iemand die openstaat voor "samenzweringstheorieën", vij skeptisch word als ik de woorden "de nieuwe wereldorde" of "de illuminati" lees. Dit maakte me nieuwsgierig, hoeveel hiervan kan worden gevonden in het historische verslag?

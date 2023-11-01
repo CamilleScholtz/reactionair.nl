@@ -10,8 +10,10 @@ anchor: Smart
 description: 'Europa bevindt zich in een benarde situatie, met een ondoeltreffend EU-model en problemen in Oost-Europa en op de Balkan. Uitbreiding van de EU met nog meer zwakke landen zal de transferunie verder belasten. Het is tijd voor een herziening van het EU-model.'
 caption: 'Abraham Storck, De vierdaagse oorlog van 1666'
 tags:
-    - 'René Guénon'
-    - Cryptocurrency
+    - EU
+    - Economie
+    - NAVO
+    - Europa
 ---
 
 Ik heb slecht nieuws en ik heb zeer slecht nieuws. Wat wilt u het eerste horen? Nou goed, ik begin met het zeer slechte nieuws. Europa gaat kopje onder. Het slechte nieuws is dat er slechts een ultiem kleine kans is dat dit niet gebeurt. Alle tekenen wijzen erop, dat Europa zinkende is. Jammer; het was ooit een fiere vloot.

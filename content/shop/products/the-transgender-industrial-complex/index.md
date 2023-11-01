@@ -11,8 +11,8 @@ front: 0b50658d-1912-4490-b32a-710bdb7d3275.jpg
 variants:
     - { name: Paperback, isbn: 978-1-956887-57-0, supplier: 'Ex Libris', size: { height: 229, width: 153, depth: 28 }, import_price: { currency: USD, amount: 21.51 }, price: 25.99, out_of_stock: 0 }
 tags:
-    - Woke
     - LGBT
+    - Woke
     - Economie
     - Gender
     - Transgenderisme

@@ -9,13 +9,17 @@ image: thumb.webp
 anchor: Center
 caption: 'Portretfoto van Arthur Schopenhauer, Johannes Schäfer'
 tags:
-    - 'Michel Foucault'
-    - 'Arthur Schopenhauer'
+    - Plato
     - 'Friedrich Nietzsche'
-    - 'Jacques Derrida'
-    - Ressentiment
-    - 'François-René de Chateaubriand'
-    - Gelijkheid
+    - 'Immanuel Kant'
+    - Metafysica
+    - 'Arthur Schopenhauer'
+    - 'Joris van Rossum'
+    - 'Johann Wolfgang von Goethe'
+    - 'Baruch Spinoza'
+    - 'Richard Wagner'
+    - 'William Shakespeare'
+    - 'George Berkeley'
 note: 'Het volgende stuk is geschreven ter gelegendheid van de lezing van de heer Joris van Rossum van 24 juni 2022. Mijn hoop is dat dit kan dienen als voorbereidende lectuur voor geïnteresseerden die deze lezing bij zullen wonen.'
 ---
 

@@ -8,11 +8,11 @@ themes: 'Onderzoek en Speurwerk'
 image: 97656e6c-4417-49a5-9c06-0be0e62c4767.jpg
 anchor: Smart
 tags:
-    - Metafysica
-    - 'René Guénon'
-    - Aristoteles
-    - Seks
-    - LGBT
+    - Islam
+    - VVD
+    - 'Soumaya Sahla'
+    - AIVD
+    - Radicalisering
 ---
 
 Onlangs kwam aan het licht dat de _"tafelvoorzitter terrorisme en radicalisering"_ van de _VVD_, Soumaya Sahla, een veroordeelde Hofstadterroriste is. Vreemd, interessant, opmerkelijk. Hoe werkt dat nou, van terroriste naar *VVD*-adviseur? De laatste tijd zijn er veel artikelen over Soumaya Sahla verschenen, maar geen enkele lijkt echt in te gaan op _hoe_ ze nou bij de _VVD_ is terecht gekomen.

@@ -8,12 +8,12 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Immanuel Kant'
-    - 'Mark Rutte'
-    - 'Robert Lemm'
-    - 'Jacues Ellul'
-    - 'Rutger Bregman'
-    - Ethiek
+    - Islam
+    - 'Thierry Baudet'
+    - Immigratie
+    - 'Conservatieve Alliantie'
+    - 'Geert Wilders'
+    - Feminisme
 ---
 
 Waar het bij de Germanen om gaat is dat zij zichzelf foutief hebben gerelativeerd. Zijn volk. Zijn cultuur. Zijn natiestaten. Wanneer een jonge Germaan zal aangeven dat hij jong wil huwen en zijn dochters wil behoeden voor contextloze seksualiteit, dan zal deze jongeman worden weggezet als een gek. Als een Amish. Als een grap. 

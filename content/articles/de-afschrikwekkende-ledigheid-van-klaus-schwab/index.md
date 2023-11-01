@@ -8,8 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: demon.webp
 anchor: Top
 tags:
-    - Christendom
-    - Heiligschennis
+    - Globalisme
+    - Corona
+    - 'Klaus Schwab'
 note: "Dit is een vertaling van het essay 'The Terrifying Vacuity of Klaus Schwab', het origineel is [hier](https://www.eugyppius.com/p/the-terrifying-vacuity-of-klaus-schwab) te lezen."
 ---
 

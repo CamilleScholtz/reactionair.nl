@@ -9,8 +9,8 @@ image: cd3cc865-434c-4dd1-8deb-f1f39223f803.webp
 anchor: Smart
 description: 'Een verhaal over een droom in de spiegel; over het alles en het niets, het splijten in veelheid, dood en leven, tijd en tijdloosheid. Goden en demonen.'
 tags:
-    - 'Ongehoord Nederland'
-    - Media
+    - Mythologie
+    - Hindoeisme
 ---
 
 {{< quote text="Er zal ooit zijn wat geweest is en dan weten we het niet, zei de prediker van niemandsland dat is ontstaan uit hardgebakken lucht." >}}

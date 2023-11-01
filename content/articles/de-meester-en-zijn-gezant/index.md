@@ -10,13 +10,18 @@ anchor: Smart
 description: 'De moderne mens ziet liever zichzelf als het middelpunt van de wereld. Maar is dat wel een slim idee? Traditionele wijsheid, die ons leert maat te houden en ons te richten op het Goede, Schone en Ware, zou weleens veel belangrijker kunnen zijn dan we denken. De oplossing voor de ecologische crisis ligt in het herstellen van de samenwerking tussen de Meester en zijn Gezant. Maar hoe leren we weer om het Geheel te zien?'
 caption: 'Filmposter voor een documentaire over het werk van McGilchrist.'
 tags:
-    - 'Michel Foucault'
-    - Reactionair
-    - Christendom
-    - 'Edmund Burke'
-    - 'François-René de Chateaubriand'
-    - Contrarevolutie
-    - Katholiek
+    - Plato
+    - Hedonisme
+    - 'Richard Dawkins'
+    - Atheisme
+    - 'Johann Wolfgang von Goethe'
+    - Verlichting
+    - 'Paul Kingsnorth'
+    - Augustinus
+    - 'Daniel Dennett'
+    - Hersens
+    - 'Iain Mcgilchrist'
+    - 'Sam Harris'
 note: 'Dit artikel is geschreven door mr. Gert-Jan de Ruijter en verscheen oorspronkelijk op zijn *[persoonlijke website](https://gertjanderuijter.com/2020/05/13/de-meester-en-zijn-gezant/)*.'
 ---
 

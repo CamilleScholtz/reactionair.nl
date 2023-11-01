@@ -8,7 +8,12 @@ themes: 'Cultuur en Maatschappij'
 image: 17a69d2e-6c97-4381-b7c1-47e5539c6dc6.jpg
 anchor: Bottom
 tags:
-    - Woke
+    - Liberalisme
+    - Reactionair
+    - Communisme
+    - Gemeenschap
+    - Traditie
+    - 'Rainer Maria Rilke'
 ---
 
 Enige tijd geleden schreef een politiek geïnteresseerde jongeman ons een e-mail met de vraag wat een reactionair wereldbeeld precies inhoudt. Aangezien we sindsdien deze vraag vaker hebben gekregen, hebben we besloten de beknopte schets die we de jongeman als antwoord hebben gestuurd in een ietwat aangepaste vorm publiek te maken.

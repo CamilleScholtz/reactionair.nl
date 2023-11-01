@@ -8,15 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Karl Marx'
-    - 'René Guénon'
-    - 'Jean-Jacques Rousseau'
-    - Klimaatverandering
-    - Marxisme
-    - 'Edmund Burke'
-    - 'Johann Wolfgang von Goethe'
-    - 'Friedrich Schiller'
-    - Duurzaamheid
+    - LGBT
+    - Woke
+    - Technologie
 note: 'Dit is een vertaling en bewerking van een Twitter-draad van [Tara Ann Thieke](https://twitter.com/TaraAnnThieke).'
 ---
 

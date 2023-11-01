@@ -9,8 +9,18 @@ image: thumb.webp
 anchor: Center
 tags:
     - Liberalisme
-    - Woke
-    - Kapitalisme
+    - 'Friedrich Nietzsche'
+    - 'Slavoj Žižek'
+    - 'Curtis Yarvin'
+    - Corona
+    - 'Klaus Schwab'
+    - 'Karl Marx'
+    - 'Oswald Spengler'
+    - 'Ernst Jünger'
+    - AI
+    - 'Theodore J. Kaczynski'
+    - 'René Girard'
+    - 'Jacques Ellul'
 note: 'Dit is een vertaling en bewerking van een Twitter-draad van [Forrest](https://twitter.com/Foz89107323)'
 ---
 

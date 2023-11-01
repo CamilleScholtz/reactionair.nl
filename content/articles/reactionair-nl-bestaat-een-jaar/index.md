@@ -8,8 +8,7 @@ themes: 'Politiek en Actualiteit'
 image: fullsizeoutput_55ad8-scaled.jpeg.webp
 anchor: Smart
 tags:
-    - Metafysica
-    - Esoterie
+    - Reactionair
 ---
 
 Vandaag bestaat *Reactionair.nl* één jaar. Wij zijn u, onze lezer, zeer dankbaar voor het lezen en waarderen van onze artikelen en hopen u de komende jaren steeds opnieuw van mooie artikelen met verfrissende inzichten te mogen voorzien.

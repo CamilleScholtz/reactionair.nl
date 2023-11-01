@@ -9,9 +9,12 @@ image: c779ba8d-f47e-45fa-921c-edf0b76efe1c.jpg
 anchor: Smart
 caption: "Los' Schim kwelt hem in zijn smederij, door William Blake."
 tags:
-    - 'Thierry Baudet'
-    - FVD
-    - Complottheorie
+    - Islam
+    - 'René Guénon'
+    - 'William Blake'
+    - Postmodernisme
+    - AI
+    - 'Søren Kierkegaard'
 note: 'Dit essay is een vertaling uit het Engels. Het origineel, geschreven door Charles Upton, is hier te beluisteren: *[The Psychic and Spiritual Dangers of AI](https://www.youtube.com/watch?v=Wkazyv5WZQo)*. Voor zover ik weet heeft hij het essay nog niet openbaar in tekstvorm gepubliceerd.'
 ---
 

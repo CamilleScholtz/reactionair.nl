@@ -8,10 +8,12 @@ themes: 'Cultuur en Maatschappij'
 image: 7fca0e77-4253-41b8-8ee2-8820c0df32ff.jpg
 anchor: Top
 tags:
-    - 'Karl Marx'
-    - Overheid
-    - 'Johan Rudolph Thorbecke'
-    - Staat
+    - Plato
+    - 'Friedrich Nietzsche'
+    - Wetenschap
+    - Socrates
+    - 'John Vervaeke'
+    - Zorg
 ---
 
 In het Algemeen Dagblad verscheen onlangs een artikel met de kop *'Ziekenhuis gaat niet meer iedereen helpen - "Dit is geen supermarkt waar iedereen iets kan kopen"'*.[^1] Hoewel de verontwaardiging op Twitter politiek spectrumbreed was, kunnen we deze toch karakteriseren als sociaal-democratisch. De verzorgingsstaat is daar immers het kind van en wij, als kinderen van de verzorgingsstaat, zien het recht op zorg als onvervreemdbaar.

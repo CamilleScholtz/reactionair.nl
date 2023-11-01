@@ -8,10 +8,7 @@ themes: 'Cultuur en Maatschappij'
 image: f38210f7-ff7e-4067-ab36-157301e1f523.png
 anchor: Smart
 tags:
-    - Liberalisme
-    - Woke
-    - BBB
-    - Kunst
+    - Immigratie
 ---
 
 “Rechts” kent in Nederland, evenals elders in het Westen, ten minste twee kampen. Het ene kamp focust zich hoofdzakelijk op immigratie en (etno-)nationalisme, het andere vooral op de (de)generatie van cultuur. Deze “kampen” overlappen gelukkig deels; in mijn kring zijn er genoeg die zich om beide onderwerpen bekommeren. Toch worden deze onderwerpen ook regelmatig gecontrasteerd, en soms zelfs tegen elkaar uitgespeeld. Daarbij valt het op dat de kritiek vaker komt vanuit het nationalistische kamp op het “cultuurkamp” dan andersom. Ik ken weinig of geen hardrechtse, op cultuur gefocuste lieden die niet tegen massa-immigratie zijn of die het belang van het volk als eenheid ontkennen. Daarentegen is er regelmatig scherpe kritiek vanuit nationalistische hoek op de zorgen en inspanningen van het cultuurkamp. De voornaamste kritieken zet ik hieronder uiteen, om vervolgens te betogen waarom ik de strijd om de cultuur tóch het belangrijkste vind.

@@ -10,9 +10,10 @@ anchor: Smart
 description: 'Een verhaal over hoe een dwaas man zich laat meeslepen door verlangen en zijn thuis in verval stort.'
 caption: 'Elin Danielson-Gambogi, Viinitarhassa (1898).'
 tags:
-    - JA21
-    - Boeren
-    - 'Ongehoord Nederland'
+    - Plato
+    - Liberalisme
+    - Kapitalisme
+    - 'Denis Diderot'
 ---
 
 De avondzon die tot net boven de bergtoppen scheen, liet het dorpje in Toscane glinsteren. Als het uur verstreken was zou in dit dorpje, dat tussen het oud gebergte en een heuvelachtig landschap lag, het licht uitdoven als een opgebrande kaars, en een smeulende, grijze lucht achterlaten. Even was de lucht achter de bergtoppen nog karmijnrood, dieppaars, pastelblauw en boterbloemgeel op allerlei verschillende lagen en hoogten.

@@ -9,14 +9,8 @@ image: 1b3646be-5e1f-4062-aa1a-d7fd0161c8f2.jpg
 anchor: Smart
 caption: "Portet van Cornelis Haga.\n"
 tags:
-    - Liberalisme
-    - 'Immanuel Kant'
-    - 'Jean-Jacques Rousseau'
-    - 'Robert Lemm'
-    - Reactionair
-    - Christendom
-    - 'Thomas van Aquino'
-    - 'Nicolás Gómez Dávila'
+    - Islam
+    - 'Conservatieve Alliantie'
 ---
 
 In 1568 brak officieel de 80 jarige oorlog uit. Het was een woelige periode, en de Nederlanden hadden behoefte aan goede en capabele bondgenoten in de strijd tegen de Spanjaarden. De Ottomanen waren een dergelijke bondgenoot. Het islamitische rijk was uiteraard een tegenstander van de katholieke Spanjaarden, en vanaf het begin af aan waren ze al welwillend naar de Nederlandse opstand. In 1560 waren de Ottomanen al een vrij groot en belangrijk rijk: bekend om hun vrij relatieve religieuze tolerantie, voornamelijk ook tegen de joden die onder Spaans bewind beduidend minder vrijheden hadden en een staat van veel territoria en sterke handelsrouten. Een ware verbinder tussen oost en west, tussen Azië en Europa. Het zou een zeer waardevol medestander en bondgenoot blijken.

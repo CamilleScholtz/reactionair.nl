@@ -8,7 +8,11 @@ themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Reactionair
+    - Metafysica
+    - Pythagoras
+    - Empedokles
+    - Heraclitus
+    - Herakleitos
 ---
 
 {{< slider
