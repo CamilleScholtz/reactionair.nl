@@ -8,8 +8,8 @@ themes: 'Politiek en Actualiteit'
 image: inter.webp
 anchor: Top
 tags:
-    - Woke
     - LGBT
+    - Woke
     - Wetgeving
 ---
 

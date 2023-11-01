@@ -8,9 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - BLM
-    - Immigratie
     - Globalisme
+    - Immigratie
+    - BLM
     - Evolutie
 ---
 

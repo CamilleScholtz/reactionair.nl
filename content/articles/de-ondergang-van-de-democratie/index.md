@@ -8,18 +8,18 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Karl Marx'
     - Democratie
     - Plato
-    - Aristoteles
-    - Pythagoras
-    - Socrates
     - Liberalisme
+    - Socrates
     - 'Jean-Jacques Rousseau'
+    - Aristoteles
+    - 'Karl Marx'
     - Marxisme
-    - China
     - 'Erik von Kuehnelt-Leddihn'
     - Nationaal-socialisme
+    - Pythagoras
+    - China
     - Totalitarisme
 ---
 

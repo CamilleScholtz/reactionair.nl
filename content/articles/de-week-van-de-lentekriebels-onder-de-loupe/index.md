@@ -9,8 +9,8 @@ image: 53d1547d-8532-45a1-a1b3-18e89e4bbff4.jpg
 anchor: Smart
 tags:
     - Liberalisme
-    - Woke
     - LGBT
+    - Woke
     - 'Pim Lammers'
     - Rutgers
 ---

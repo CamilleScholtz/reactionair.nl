@@ -9,8 +9,8 @@ image: 375e77d3-fa50-448a-a53e-65dcf84532e3.jpg
 anchor: Smart
 description: 'Robert van Gulik was schrijver van de bekende Rechter Tie romans. Zijn meest enigmatische roman speelt zich echter af in Amsterdam.'
 tags:
-    - Boeddhisme
     - China
+    - Boeddhisme
     - 'Robert van Gulik'
 ---
 

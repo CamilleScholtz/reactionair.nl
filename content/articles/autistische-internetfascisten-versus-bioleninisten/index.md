@@ -11,12 +11,12 @@ tags:
     - Incel
     - Seks
     - FVD
-    - Ressentiment
-    - 'Francis Fukuyama'
-    - 'Rudy Bouma'
     - Wappies
+    - Ressentiment
     - Alt-right
+    - 'Rudy Bouma'
     - 'René Girard'
+    - 'Francis Fukuyama'
     - Twitter
 ---
 

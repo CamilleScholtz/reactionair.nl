@@ -9,9 +9,9 @@ image: thumb.webp
 anchor: Smart
 tags:
     - Metafysica
-    - Pythagoras
-    - Hindoeisme
     - Materialisme
+    - Hindoeisme
+    - Pythagoras
     - 'George Berkeley'
 ---
 

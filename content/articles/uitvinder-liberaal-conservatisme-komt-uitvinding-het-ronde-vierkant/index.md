@@ -8,8 +8,8 @@ themes: 'De Uylenspieghel'
 image: cc80e413-9828-408c-b0a9-3a99b2de911d.jpg
 anchor: Center
 tags:
-    - Conservatisme
     - Liberalisme
+    - Conservatisme
     - JA21
     - 'Joost Eerdmans'
 ---

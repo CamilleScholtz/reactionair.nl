@@ -8,8 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: caspar_david_friedrich_-_mondaufgang_-ca.1835-37-.jpg
 anchor: Smart
 tags:
-    - Staat
     - Macht
+    - Staat
 ---
 
 **Johan**: Ik moet toegeven dat ik eerst niet zoveel op had met activisme, het leek mij dat burgers zich onder de gegeven omstandigheden van het openbaar bestuur zo vrij mogelijk dienden te ontwikkelen en dat zich daarbuiten enkel ontregelaars ophielden die de samenleving niets te bieden hadden, extreme omstandigheden daargelaten natuurlijk. De liberale democratie leek mij tot voorheen de meest ideale plek voor de meest grote groep, het juiste antwoord op de dreiging van anarchie. Daar ben ik van teruggekomen. De laatste tijd herken ik veel verschillende vormen van gerechtvaardigd protest, het gaat om mensen wier grondrechten worden afgenomen en mensen die in hun bestaansrecht worden bedreigd. Zij hebben dit niet over zich afgeroepen, al doet men het daar wel op lijken.

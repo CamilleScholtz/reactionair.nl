@@ -9,12 +9,12 @@ image: thumb.webp
 anchor: Top
 tags:
     - 'Michel Foucault'
-    - Reactionair
     - Christendom
+    - Reactionair
     - 'Edmund Burke'
     - 'François-René de Chateaubriand'
-    - Contrarevolutie
     - Katholiek
+    - Contrarevolutie
 ---
 
 Conservatieve denkers en auteurs zoals Edmund Burke, Thomas Carlyle en Fjodor Dostojevsky zijn vandaag relatief bekend bij het bredere publiek. Het conservatisme is tot op heden dan ook een stroming die aanwezig is in het politieke spectrum van de meeste westerse landen. De apologeten van het reactionaire denken zijn daarentegen afwezig in de canon van de politieke filosofie en daardoor volledig onbekend bij het grote publiek. Dit artikel poogt dan ook om een inkijk te geven in de ideeën van een van de voornaamste oorspronkelijke reactionaire denkers, namelijk Louis de Bonald. Na een korte biografische omschrijving van zijn persoon zal op summiere wijze zijn gedachtegang en publicaties uiteengezet worden.

@@ -10,9 +10,9 @@ anchor: Smart
 description: 'Hoe bij toenemende polarisatie het vijandschap het vrije denken beknot.'
 caption: 'J.S. Davis, De slag bij Plataea (1900).'
 tags:
-    - 'Sigmund Freud'
     - Oorlog
     - Oekraïne
+    - 'Sigmund Freud'
     - Polarisatie
 ---
 

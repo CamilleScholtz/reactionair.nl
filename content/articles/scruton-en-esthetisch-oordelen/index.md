@@ -10,9 +10,9 @@ anchor: Smart
 tags:
     - Plato
     - 'Immanuel Kant'
+    - 'Roger Scruton'
     - Kunst
     - 'William Shakespeare'
-    - 'Roger Scruton'
 ---
 
 We leven in een wereld waar utilistische normen en waarden niet alleen triomfantelijk zijn, maar voor velen gelden als de énige waarden die er zijn. Iets kan enkel waarde hebben zolang het een nut dient. In het huidige politieke discours zoeken we naar argumenten om het nut van een beleidskeuze te rechtvaardigen. Zo is een argument voor de verlenging van de A4 om de overbelasting te temperen. Of neem de bouw van nieuwe huizen, het nut hiervan is om mensen een onderdak te bieden. Daarmee is het utilitarisme echter nog niet helemaal mee beschreven. Als iets een middel tot een doel is moet immers ook het doel worden gerechtvaardigd.

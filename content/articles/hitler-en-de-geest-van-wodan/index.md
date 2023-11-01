@@ -10,8 +10,8 @@ anchor: Smart
 caption: 'Die Wilde Jagd van Franz von Stuck, circa 1889 (Hitlers geboortejaar). Naar verluidt heeft Hitler zijn uiterlijk gemodelleerd naar de figuur die op dit schilderij Wodan voorstelt.'
 tags:
     - 'Friedrich Nietzsche'
-    - Heidendom
     - 'Carl Jung'
+    - Heidendom
     - 'Bruno Goetz'
     - Nostradamus
 ---

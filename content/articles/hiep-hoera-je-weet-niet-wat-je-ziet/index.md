@@ -8,8 +8,8 @@ themes: 'Politiek en Actualiteit'
 image: ae8fa3133f73d195ae95ca8ef795c36362315da3-2.jpg
 anchor: Smart
 tags:
-    - Sinterklaas
     - 'Ongehoord Nederland'
+    - Sinterklaas
     - 'Zwarte Piet'
 ---
 

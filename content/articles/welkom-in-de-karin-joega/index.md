@@ -8,9 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Top
 tags:
+    - Liberalisme
     - Incel
     - Seks
-    - Liberalisme
     - 'Friedrich Nietzsche'
     - 'Slavoj Žižek'
     - Hedonisme

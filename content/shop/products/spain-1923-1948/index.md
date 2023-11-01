@@ -13,8 +13,8 @@ subtitle: 'Civil War and World War'
 tags:
     - Oorlog
     - Spanje
-    - NAVO
     - 'Eerste Wereldoorlog'
+    - NAVO
 back: f7605dd5-3e1e-4f62-b3f1-4c24e63ab14e.jpg
 ---
 

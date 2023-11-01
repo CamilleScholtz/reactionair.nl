@@ -9,9 +9,9 @@ image: d28cfcf5-3d98-4839-9107-dabdee686d79.webp
 anchor: Top
 tags:
     - Rusland
-    - 'Vladimir Poetin'
     - Oorlog
     - Israël
+    - 'Vladimir Poetin'
 ---
 
 Enkele dagen geleden vond in Moskou de 20e editie van de Valdai Discussieclub plaats. De hoofdgast op die conferentie was de president van de Russische Federatie, Vladimir Poetin. Een van de onderwerpen die ter sprake kwamen, was de recente militaire operatie van de Azerbeidzjaanse strijdkrachten in Nagorno-Karabakh. Na tientallen jaren van Armeense dominantie in dat gebied hield de zelfverklaarde en door niemand erkende Republiek Artsakh op te bestaan. Voor Armeniërs is dit een nationaal trauma.

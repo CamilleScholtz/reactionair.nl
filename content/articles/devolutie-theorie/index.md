@@ -8,11 +8,11 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Woke
-    - BLM
-    - Immigratie
-    - 'Friedrich Nietzsche'
     - 'Charles Darwin'
+    - 'Friedrich Nietzsche'
+    - Woke
+    - Immigratie
+    - BLM
 ---
 
 >_"Derhalve, dat niemand uit flauwheid of uit schroomvalligheid denke of zegge dat een mensch te ver kan gaan in het zoeken naar waarheid; dat hij al te kundig kan zijn in het boek van Gods woord of in het boek van Gods werken; dat hij te groot kan zijn in de kennis van God of in de wijsbegeerte. Laat hij liever trachten in beiden eindelooze vorderingen te maken."_ - Francis Bacon, vert. Tiberius Cornelus Winkler.

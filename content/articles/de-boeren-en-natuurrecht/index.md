@@ -9,9 +9,9 @@ image: thumb.webp
 anchor: Center
 tags:
     - Liberalisme
-    - 'Jean-Jacques Rousseau'
     - VVD
     - Boeren
+    - 'Jean-Jacques Rousseau'
 ---
 
 _‘Life, liberty and the pursuit of happiness’_. Daar horen we over in onze vaak door Amerika geobsedeerde, media en geschiedschrijving. We horen over Locke en het liberalisme. Het sociaal contract. Over de ontwikkeling van mensenrechten en hoe de democratie onze rechten zou waarborgen. En gelukkig horen we ook nog wel eens over de tachtigjarige oorlog tegen de Spaanse heersers en hun hoge belastingen. 

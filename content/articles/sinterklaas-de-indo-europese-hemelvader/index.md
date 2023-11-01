@@ -8,9 +8,9 @@ themes: 'Religie en Wijsbegeerte'
 image: wekyztlb.jpg-medium.webp
 anchor: Smart
 tags:
+    - Christendom
     - 'Griekse mythologie'
     - Hindoeisme
-    - Christendom
     - Heidendom
     - Proklós
     - Rigveda

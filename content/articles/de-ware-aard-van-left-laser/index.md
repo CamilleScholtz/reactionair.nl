@@ -9,8 +9,8 @@ image: c809b948-dee5-456f-93d9-a42f4b86037c.webp
 anchor: Smart
 caption: 'Bob Scholte (Left Laser) spreekt op een bijeenkomst over de strijd in de Filipijnen.'
 tags:
-    - Communisme
     - Marxisme
+    - Communisme
     - 'Left Laser'
     - Maoïsme
 ---

@@ -8,10 +8,10 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Karl Marx'
     - 'René Guénon'
-    - 'Jean-Jacques Rousseau'
     - Klimaatverandering
+    - 'Jean-Jacques Rousseau'
+    - 'Karl Marx'
     - Marxisme
     - 'Edmund Burke'
     - 'Johann Wolfgang von Goethe'

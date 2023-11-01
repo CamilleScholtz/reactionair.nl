@@ -8,8 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: pods.png
 anchor: Smart
 tags:
-    - Fictie
     - Klimaatverandering
+    - Fictie
 note: "Dit is een vertaling van het korte verhaal 'The Green New Deal', het origineel is [hier](https://zerohplovecraft.substack.com/p/the-green-new-deal) te lezen."
 ---
 

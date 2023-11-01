@@ -8,8 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
 tags:
-    - Woke
     - 'Friedrich Nietzsche'
+    - Woke
 ---
 
 Dit artikel is een hoofdstuk uit _Also sprach Zarathustra_ van Friedrich Nietzsche:

@@ -8,12 +8,12 @@ themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Center
 tags:
-    - Liberalisme
-    - 'Immanuel Kant'
-    - 'Jean-Jacques Rousseau'
     - 'Robert Lemm'
-    - Reactionair
+    - Liberalisme
     - Christendom
+    - 'Immanuel Kant'
+    - Reactionair
+    - 'Jean-Jacques Rousseau'
     - 'Thomas van Aquino'
     - 'Nicolás Gómez Dávila'
 ---

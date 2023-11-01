@@ -9,12 +9,12 @@ image: radvanfortuin.webp
 anchor: Top
 caption: 'Het rad van fortuin uit het tarot van Marseille.'
 tags:
-    - Metafysica
     - 'Immanuel Kant'
-    - 'Sigmund Freud'
+    - Metafysica
     - 'Arthur Schopenhauer'
     - Ressentiment
     - Gelijkheid
+    - 'Sigmund Freud'
     - 'David Hume'
 ---
 

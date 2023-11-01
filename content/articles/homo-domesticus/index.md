@@ -9,10 +9,10 @@ image: eadf02e9-4947-4b78-b63c-57b9f076b943.jpg
 anchor: Smart
 description: 'De huidige samenleving is doortrokken van comfort en vermaak. Reeds in The time machine van auteur H.G. Wells vinden we een profetische beschrijving van een wereld waarin een dergelijke decadentie heerst. '
 tags:
+    - 'Aldous Huxley'
+    - 'H.G. Wells'
     - Totalitarisme
     - Verval
-    - 'H.G. Wells'
-    - 'Aldous Huxley'
     - 'George Orwell'
 ---
 

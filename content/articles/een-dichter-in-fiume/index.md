@@ -10,8 +10,8 @@ anchor: Smart
 description: "Ontdek de avontuurlijke, maar gedoemde expeditie van de Italiaanse dichter Gabriele D'Annunzio naar het nu in Kroatië gelegen stadje Fiume en de verstrekkende invloed daarvan op Italië en de Europese geschiedenis."
 caption: "Gabrielle D'Annunzio in gesprek met Benito Mussolini."
 tags:
-    - Europa
     - 'Tweede Wereldoorlog'
+    - Europa
     - 'Benito Mussolini'
 ---
 

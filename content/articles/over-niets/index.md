@@ -8,9 +8,9 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Top
 tags:
+    - Christendom
     - Metafysica
     - Theologie
-    - Christendom
 note: "Dit is een vertaling van het essay 'On Nothing', het origineel is [hier](https://esoterictraditionalism.wordpress.com/2019/08/02/on-nothing/) te lezen."
 ---
 

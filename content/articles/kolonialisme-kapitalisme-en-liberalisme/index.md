@@ -9,8 +9,8 @@ image: thumb.webp
 anchor: Smart
 tags:
     - Islam
-    - 'Karl Marx'
     - Liberalisme
+    - 'Karl Marx'
     - Kapitalisme
     - Kolonialisme
 ---

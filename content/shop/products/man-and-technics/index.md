@@ -10,8 +10,8 @@ front: 67d65dd3-213e-45cf-9a8f-e60b3b4255b5.jpg
 variants:
     - { name: Paperback, isbn: 978-1-910524-17-6, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 0 }, import_price: { currency: EUR, amount: 8.64 }, price: 14.99, out_of_stock: 0 }
 tags:
-    - Technologie
     - 'Oswald Spengler'
+    - Technologie
 pretty: true
 ---
 

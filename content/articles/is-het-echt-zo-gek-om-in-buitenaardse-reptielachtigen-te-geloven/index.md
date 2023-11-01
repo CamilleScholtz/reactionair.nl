@@ -10,12 +10,12 @@ anchor: Smart
 description: 'Is het zo gek om in buitenaardse reptilians te geloven? Volgens de jungiaanse psychologie niet, het reptiel is een universeel symbool in mystieke verhalen van over de hele wereld en speelt vaak een rol voor controle, angst en overleving. Hoewel in de moderne westerse wereld vaak neergekeken wordt op het reptielenbrein, moeten we ons afvragen of we ons niet te veel focussen op de materiële 3D-wereld en ons meer openstellen voor symbolen die diep verankerd zijn in ons collectieve onderbewuste.'
 caption: 'Jörmungandr roert zijn staart in de wereldzee tijdens Ragnarök, het einde der tijden volgens de Noordse mythologie. Tekening van Louis Moe, 1898.'
 tags:
+    - 'Carl Jung'
     - Metafysica
     - 'Griekse mythologie'
     - Mythologie
     - Wappies
     - Symbolisme
-    - 'Carl Jung'
     - Complottheorie
     - 'David Icke'
     - 'Laurens Buijs'

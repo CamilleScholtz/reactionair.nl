@@ -9,10 +9,10 @@ themes: 'Politiek en Actualiteit'
 image: e988008d-d15c-4064-9ec6-52a4e5d2ae3e.jpg
 anchor: Smart
 tags:
-    - Communisme
-    - Leninisme
     - Boeren
+    - Communisme
     - Maoïsme
+    - Leninisme
     - 'Jozef Stalin'
     - 'Mao Zedong'
     - Stikstof

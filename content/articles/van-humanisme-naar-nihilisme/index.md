@@ -9,21 +9,21 @@ image: thumb.webp
 anchor: Smart
 tags:
     - Islam
-    - 'Karl Marx'
     - Liberalisme
-    - 'Immanuel Kant'
-    - 'Jean-Jacques Rousseau'
-    - 'Sigmund Freud'
-    - 'Friedrich Nietzsche'
-    - 'Theodor Adorno'
-    - Verlichting
-    - Materialisme
     - 'Charles Darwin'
-    - 'William Shakespeare'
-    - 'Fjodor Dostojevski'
-    - 'Aldous Huxley'
+    - 'Friedrich Nietzsche'
+    - 'Immanuel Kant'
+    - 'Theodor Adorno'
     - 'Roger Scruton'
+    - 'Aldous Huxley'
+    - Materialisme
+    - 'Jean-Jacques Rousseau'
+    - 'Karl Marx'
+    - Verlichting
+    - 'Sigmund Freud'
+    - 'William Shakespeare'
     - 'David Hume'
+    - 'Fjodor Dostojevski'
     - 'John Gray'
     - Nihilisme
 note: "Dit is een vertaling van het essay 'From Humanism to Nihilism: The Eclipse of Secular Ethics', het origineel is [hier](https://479141-1506839-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/04/CMCPapers6-HumanismtoNihilism.pdf) te lezen."

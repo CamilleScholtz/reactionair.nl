@@ -11,8 +11,8 @@ description: 'In zijn nieuwe boek "Kafkaistan, democratie bedreigd door autocrat
 caption: 'Tekening van  Kafka'
 tags:
     - Democratie
-    - 'Franz Kafka'
     - Verkiezingen
+    - 'Franz Kafka'
 note: "Dit artikel is een inleiding op het boek 'Kafkaistan, democratie bedreigd door autocratie en fascisme' van Frits Bosch. Is uw interesse door dit artikel gewekt? Bestel het boek dan *[hier](https://www.boekscout.nl/shop2/boek/9789464688764)*."
 ---
 

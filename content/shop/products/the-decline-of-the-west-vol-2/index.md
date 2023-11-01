@@ -11,8 +11,8 @@ variants:
     - { name: Paperback, isbn: 978-1-915755-23-0, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 42 }, import_price: { currency: EUR, amount: 23.6 }, price: 32.99, out_of_stock: 0 }
 subtitle: 'Perspectives of World-History'
 tags:
-    - Kunst
     - 'Oswald Spengler'
+    - Kunst
     - Kapitalisme
 back: af243985-056c-4af8-b505-864f59279279.jpg
 pretty: true

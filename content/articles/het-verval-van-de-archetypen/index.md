@@ -8,9 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: imago0080790130w.webp
 anchor: Top
 tags:
-    - Individualisme
     - Traditie
     - Kapitalisme
+    - Individualisme
 note: "Dit is een vertaling van het essay 'The Collapse of the Archetypes', het origineel is [hier](https://tarathieke.substack.com/p/the-collapse-of-the-archetypes/) te lezen."
 ---
 

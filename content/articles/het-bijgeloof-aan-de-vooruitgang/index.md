@@ -9,9 +9,9 @@ image: aristo_lutkie-980x411.jpg
 anchor: Smart
 tags:
     - 'René Guénon'
+    - Materialisme
     - 'Jean-Jacques Rousseau'
     - 'Anton Kerssemakers'
-    - Materialisme
     - Vooruitgang
 note: 'Dit essay was oorspronkelijk gepubliceerd door Anton Kerssemakers in het tijdschrift *Aristo-* van maart 1939.'
 ---

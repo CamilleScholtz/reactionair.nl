@@ -8,9 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: 20524fc8-59a5-4b3c-8628-83ef0f3f7ad6.jpeg
 anchor: Bottom
 tags:
+    - 'Johan Rudolph Thorbecke'
     - 'Karl Marx'
     - Overheid
-    - 'Johan Rudolph Thorbecke'
     - Staat
 ---
 

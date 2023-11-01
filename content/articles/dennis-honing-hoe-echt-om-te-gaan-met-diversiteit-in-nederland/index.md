@@ -9,8 +9,8 @@ image: thumb.webp
 anchor: Smart
 tags:
     - Islam
-    - Immigratie
     - 'Thierry Baudet'
+    - Immigratie
     - 'Conservatieve Alliantie'
     - 'Geert Wilders'
     - Feminisme

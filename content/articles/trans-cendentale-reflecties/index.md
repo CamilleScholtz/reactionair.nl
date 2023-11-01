@@ -8,9 +8,9 @@ themes: 'Religie en Wijsbegeerte'
 image: 067c9b1a-3930-4086-9afa-541b35f8ff33.jpeg
 anchor: Top
 tags:
-    - Metafysica
-    - Woke
     - LGBT
+    - Woke
+    - Metafysica
     - 'Jacques Derrida'
 ---
 

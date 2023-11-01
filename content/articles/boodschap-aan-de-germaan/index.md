@@ -8,8 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Islam
     - Plato
+    - Islam
     - Liberalisme
     - 'Conservatieve Alliantie'
     - 'Geert Wilders'

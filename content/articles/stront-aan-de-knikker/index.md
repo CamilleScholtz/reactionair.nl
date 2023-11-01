@@ -9,8 +9,8 @@ image: thumb.webp
 anchor: Smart
 tags:
     - Liberalisme
-    - Woke
     - LGBT
+    - Woke
     - 'Pim Lammers'
 ---
 

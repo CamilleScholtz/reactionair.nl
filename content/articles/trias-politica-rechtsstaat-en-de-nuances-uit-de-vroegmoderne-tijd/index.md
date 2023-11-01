@@ -10,9 +10,9 @@ anchor: Smart
 tags:
     - Democratie
     - Liberalisme
+    - 'Thierry Baudet'
     - 'Immanuel Kant'
     - 'Jean-Jacques Rousseau'
-    - 'Thierry Baudet'
     - 'C. S. Lewis'
     - 'Alexis de Tocqueville'
 ---

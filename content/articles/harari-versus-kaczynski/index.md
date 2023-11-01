@@ -8,17 +8,17 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
 tags:
-    - 'Karl Marx'
-    - AI
     - Liberalisme
-    - Corona
     - 'Friedrich Nietzsche'
     - 'Slavoj Žižek'
-    - 'Oswald Spengler'
-    - 'Theodore J. Kaczynski'
     - 'Curtis Yarvin'
+    - Corona
     - 'Klaus Schwab'
+    - 'Karl Marx'
+    - 'Oswald Spengler'
     - 'Ernst Jünger'
+    - AI
+    - 'Theodore J. Kaczynski'
     - 'René Girard'
     - 'Jacques Ellul'
 note: 'Dit is een vertaling en bewerking van een Twitter-draad van [Forrest](https://twitter.com/Foz89107323)'

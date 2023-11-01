@@ -9,8 +9,8 @@ image: thumb.webp
 anchor: smart
 tags:
     - 'Thierry Baudet'
-    - 'Carl Schmitt'
     - 'Mark Rutte'
+    - 'Carl Schmitt'
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/tegen-natuurlijke-selectie/) het vorige deel._
