@@ -9,9 +9,9 @@ image: thumb.webp
 anchor: Top
 description: 'Ontdek een verborgen schat van oude boeken en krantenknipsels op Delpher, waaronder het boek "Vrijmetselarij en Jodendom". Lees deze recensie van het boek dat een verdediging biedt van de Traditionele essentie van ware vrijmetselarij en jodendom, en een kritiek op diegenen die deze tradities aanwezen als oorzaak van moderne negatieve verschijnselen.'
 tags:
-    - 'Anton Kerssemakers'
     - 'René Guénon'
     - Fascisme
+    - 'Anton Kerssemakers'
     - Jodendom
     - Katholicisme
     - Traditie

@@ -8,16 +8,16 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
+    - Incel
+    - Seks
     - FVD
+    - Ressentiment
     - 'Francis Fukuyama'
-    - 'René Girard'
     - 'Rudy Bouma'
-    - Twitter
     - Wappies
     - Alt-right
-    - Incel
-    - Ressentiment
-    - Seks
+    - 'René Girard'
+    - Twitter
 ---
 
 Er wordt heel wat gekijfd op Twitter. Eerstens is  er het *wannabe*-elitaire dedain van types als Kaag en Segers die vol afschuw neerkijken op dat open riool waar iedere ongewassen tokkie en ongeschoren wappie zomaar feitenvrij mag schrijven wat in hem of haar opkomt. Goed, er zijn ook koene ridders van de orde van de blauwe vink als Rudy Bouma die onversaagd ten strijde trekken tegen het nepnieuws,[^1] maar numeriek leggen ze het toch af tussen het desinformatieverspreidende tuig. Hoogste tijd voor een wettelijk verbod op anonimiteit![^2] Tweedens raken ook fanatieke twitteraars zelf niet uitgepraat over wat een hels oord zich niet uitstrekt onder de vleugels van de blauwe vogel. _Ik ga nu echt minder twitteren_, kondigt de junk aan op zijn tijdlijn, _dit is een aanslag op mijn geestelijke gezondheid_! Een week later zit hij alweer op het oude niveau te twitteren. Kennelijk is er iets wat ons steeds weer terug doet keren.

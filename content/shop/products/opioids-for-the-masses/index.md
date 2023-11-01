@@ -4,12 +4,12 @@ writers:
     - 'Trey Garrison'
     - 'Richard McClure'
 pages: 168
-types:
-    - { name: Paperback, price: 20.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-89-3, size: { height: 216, width: 140, depth: 10 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-01-01'
 languages: Engels
 front: front.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-953730-89-3, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 10 }, import_price: { currency: USD, amount: 15.91 }, price: 20.99, out_of_stock: 0 }
 back: back.jpg
 pretty: true
 ---

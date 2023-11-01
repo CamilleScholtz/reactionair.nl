@@ -8,8 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: krauze-006.jpg.jpg
 anchor: Smart
 tags:
-    - Economie
     - 'Karl Marx'
+    - Economie
     - 'Leopold Kohr'
     - 'Paul Kingsnorth'
 ---

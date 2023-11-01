@@ -8,8 +8,8 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Christendom
     - Katholicisme
+    - Christendom
 ---
 
 >_"Bedenkt u dat hoewel wij onszelf als rechtvaardig mogen beschouwen en er vaak in slagen de mensen daar ook van te overtuigen, wij niks kunnen verbergen voor God"._ – Sint Nicolaas

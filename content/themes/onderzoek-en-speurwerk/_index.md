@@ -1,6 +1,5 @@
 ---
-description: Onderzoeken van Reactionair.nl
-heading: Onderzoek <i>en</i> Speurwerk
-title: Onderzoek en Speurwerk
+title: 'Onderzoek en Speurwerk'
+description: 'Onderzoeken van Reactionair.nl'
+heading: 'Onderzoek <i>en</i> Speurwerk'
 ---
-

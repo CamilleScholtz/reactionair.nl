@@ -9,9 +9,9 @@ image: thumb.webp
 anchor: Center
 tags:
     - Islam
-    - 'René Guénon'
     - Metafysica
     - Theologie
+    - 'René Guénon'
 ---
 
 Wanneer ik mijmerend door de bladzijden van een boek ga, gaat mijn aandacht doorgaans verloren in de talloze zinnen en passages, die slechts enkele minuten later in de vergetelheid raken. Het zijn de ongekende parels die een onuitwisbare indruk achterlaten. Een dergelijke kostbare schat vond ik in een alinea van René Guénon's boek, *Aperçus sur l'ésotérisme islamique et le taoïsme*:

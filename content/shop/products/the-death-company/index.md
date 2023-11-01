@@ -3,12 +3,12 @@ title: 'The Death Company'
 writers:
     - 'Cristoforo Baseggio'
 pages: 167
-types:
-    - { name: Paperback, price: 18.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-42-6, size: { height: 216, width: 140, depth: 10 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-10-12'
 languages: Engels
 front: 4b7b54b3-5277-497b-b628-f4d1368bb353.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-956887-42-6, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 10 }, import_price: { currency: USD, amount: 15.91 }, price: 18.99, out_of_stock: 0 }
 tags:
     - 'Eerste Wereldoorlog'
 back: c844c6b5-1614-4f47-8929-7aef17ee598d.jpg

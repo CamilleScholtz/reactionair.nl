@@ -8,11 +8,11 @@ themes: 'Politiek en Actualiteit'
 image: thumb.webp
 anchor: Center
 tags:
-    - 'Geert Wilders'
-    - 'Pim Fortuyn'
-    - 'Thierry Baudet'
     - Islam
     - Liberalisme
+    - 'Thierry Baudet'
+    - 'Geert Wilders'
+    - 'Pim Fortuyn'
 ---
 
 Vandaag is het twintig jaar geleden dat Pim Fortuyn werd vermoord door een extreemlinkse dierenactivist. Ik was te jong om zijn politieke spurt te bevatten. Ik herinner me nog, in groep 8, dat mijn leraar zei: “die Fortuyn, dat is een gevaarlijk mannetje”. Deze leraar en ik hadden nooit een klik en hij sliep in een tuinhuisje. Tot zover die leraar. 

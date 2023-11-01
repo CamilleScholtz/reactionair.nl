@@ -8,12 +8,12 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - China
-    - Christendom
-    - 'Erik von Kuehnelt-Leddihn'
-    - 'Immanuel Kant'
-    - 'Karl Popper'
     - Plato
+    - 'Immanuel Kant'
+    - Christendom
+    - 'Karl Popper'
+    - China
+    - 'Erik von Kuehnelt-Leddihn'
 ---
 
 Op deze site is de auteur De Melancholieke Nar recent geleden begonnen aan een serie artikelen,[^1] waarin hij het streven naar objectiviteit tot een zinloze onderneming bestempelt. 

@@ -3,12 +3,12 @@ title: Millennium
 writers:
     - 'Marty Phillips'
 pages: 308
-types:
-    - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-75-4, size: { height: 216, width: 140, depth: 18 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2023-05-19'
 languages: Engels
 front: b36f5b30-8282-4d83-b7a1-8596b9c64590.webp
+variants:
+    - { name: Paperback, isbn: 978-1-956887-75-4, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 18 }, import_price: { currency: USD, amount: 15.91 }, price: 22.99, out_of_stock: 0 }
 back: 47773bb2-7adf-4409-ba4d-bf98897edf44.webp
 pretty: true
 ---

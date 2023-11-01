@@ -3,12 +3,12 @@ title: 'Defining Terrorism'
 writers:
     - 'Abir Taha'
 pages: 90
-types:
-    - { name: Paperback, price: 12.99, import_price: { currency: EUR, amount: 9.12 }, isbn: 978-1-907166-83-9, size: { height: 216, width: 140, depth: 6 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2014-10-16'
 languages: Engels
 front: 577fca82-d91c-4410-acd5-6281715a01ad.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-907166-83-9, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 6 }, import_price: { currency: EUR, amount: 9.12 }, price: 12.99, out_of_stock: 0 }
 subtitle: 'The End of Double Standards'
 tags:
     - Israël

@@ -3,12 +3,12 @@ title: 'Our Way Back'
 writers:
     - 'J.P. van Rossum'
 pages: 175
-types:
-    - { name: Paperback, isbn: 978-9-083352-80-0, supplier: 'van Rossum', size: { height: 210, width: 135, depth: 18 }, import_price: { currency: EUR, amount: 11.96 }, price: 19.99 }
 publishers: Rotheheym
 date: '2023-08-20'
 languages: Engels
 front: 964b466e-1a2e-4119-aa6b-0d5851ced633.webp
+variants:
+    - { name: Paperback, isbn: 978-9-083352-80-0, supplier: 'Van Rossum', size: { height: 210, width: 135, depth: 18 }, import_price: { currency: EUR, amount: 11.96 }, price: 19.99, out_of_stock: 0 }
 subtitle: "Schopenhauer's Lessons for a World Adrift"
 tags:
     - 'Arthur Schopenhauer'

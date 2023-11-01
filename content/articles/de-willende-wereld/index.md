@@ -9,17 +9,17 @@ image: thumb.webp
 anchor: Center
 caption: 'Portretfoto van Arthur Schopenhauer, Johannes Schäfer'
 tags:
-    - 'Arthur Schopenhauer'
-    - 'Baruch Spinoza'
-    - 'Friedrich Nietzsche'
-    - 'George Berkeley'
-    - 'Immanuel Kant'
-    - 'Johann Wolfgang von Goethe'
-    - 'Joris van Rossum'
-    - Plato
-    - 'William Shakespeare'
     - Metafysica
+    - Plato
+    - 'Immanuel Kant'
+    - 'Arthur Schopenhauer'
+    - 'Friedrich Nietzsche'
+    - 'Johann Wolfgang von Goethe'
     - 'Richard Wagner'
+    - 'William Shakespeare'
+    - 'Joris van Rossum'
+    - 'Baruch Spinoza'
+    - 'George Berkeley'
 note: 'Het volgende stuk is geschreven ter gelegendheid van de lezing van de heer Joris van Rossum van 24 juni 2022. Mijn hoop is dat dit kan dienen als voorbereidende lectuur voor geïnteresseerden die deze lezing bij zullen wonen.'
 ---
 

@@ -10,10 +10,10 @@ anchor: Top
 caption: "De misantroop, Pieter Bruegel de Oude, 1568. Onderaan is te lezen 'Om dat de werelt is soe ongetru / daer om gha ic in den ru', 'omdat de wereld zo ontrouw is, ga ik in de rouw'. \n"
 tags:
     - Aristoteles
-    - 'Friedrich Nietzsche'
-    - 'Rutger Bregman'
-    - Wappies
     - Woke
+    - 'Friedrich Nietzsche'
+    - Wappies
+    - 'Rutger Bregman'
 ---
 
 {{< quote

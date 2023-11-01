@@ -3,12 +3,12 @@ title: 'The Eggs Benedict Option'
 writers:
     - 'Raw Egg Nationalist'
 pages: 250
-types:
-    - { name: Paperback, price: 20.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-26-6, size: { height: 216, width: 140, depth: 15 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-07-31'
 languages: Engels
 front: ad420329-0365-4cb5-9da0-d618ba50d897.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-956887-26-6, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 15 }, import_price: { currency: USD, amount: 15.91 }, price: 20.99, out_of_stock: 0 }
 back: 711d246e-d9e1-472f-827e-452aefee9e6e.jpg
 pretty: true
 ---

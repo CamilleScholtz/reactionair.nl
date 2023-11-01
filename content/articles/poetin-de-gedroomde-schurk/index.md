@@ -4,7 +4,7 @@ subtitle: 'Tien zaken waar Poetin niet verantwoordelijk voor is'
 date: '2022-02-26'
 authors:
     - Gastauteur
-themes: De Uylenspieghel
+themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Smart
 tags:

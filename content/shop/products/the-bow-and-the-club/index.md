@@ -3,12 +3,12 @@ title: 'The Bow and the Club'
 writers:
     - 'Julius Evola'
 pages: 358
-types:
-    - { name: Paperback, price: 21.99, import_price: { currency: EUR, amount: 17.0 }, isbn: 978-1-912079-09-4, size: { height: 216, width: 140, depth: 20 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2023-07-21'
 languages: Engels
 front: d11b70a8-50cb-4949-b83d-dc37e31a13a7.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-912079-09-4, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 20 }, import_price: { currency: EUR, amount: 17.0 }, price: 21.99, out_of_stock: 0 }
 tags:
     - 'Julius Evola'
     - Traditie

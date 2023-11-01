@@ -8,15 +8,15 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Duurzaamheid
-    - 'Edmund Burke'
-    - 'Friedrich Schiller'
-    - 'Jean-Jacques Rousseau'
-    - 'Johann Wolfgang von Goethe'
     - 'Karl Marx'
+    - 'René Guénon'
+    - 'Jean-Jacques Rousseau'
     - Klimaatverandering
     - Marxisme
-    - 'René Guénon'
+    - 'Edmund Burke'
+    - 'Johann Wolfgang von Goethe'
+    - 'Friedrich Schiller'
+    - Duurzaamheid
 ---
 
 Maar al te vaak wordt genegeerd hoe belangrijk het is om zorg te dragen voor de omgeving waarin we leven. We realiseren ons zelden hoe bijzonder ons landschap, onze directe leefomgeving, het gedierte en geboomte om ons heen is, en waarom we dit moeten koesteren. De nuchtere rechtse dissident is wars van klimaathysterie, welke opmerkelijke gelijkenissen vertoont met een ketterse eindtijdcultus. Bovendien, Milieubescherming is toch een linkse hobby? Maar ís dat wel zo?

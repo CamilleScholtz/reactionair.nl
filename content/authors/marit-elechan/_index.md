@@ -1,7 +1,7 @@
 ---
-description: Marit Elechan is geïnteresseerd  in geschied- en cultuurfilosofie.
-image: avatar.webp
+title: 'Marit Elechan'
+description: 'Marit Elechan is geïnteresseerd  in geschied- en cultuurfilosofie.'
 keyword: Schrijver
 pseudonym: true
-title: Marit Elechan
+image: avatar.webp
 ---

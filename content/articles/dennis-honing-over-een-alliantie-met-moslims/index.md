@@ -8,9 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Conservatieve Alliantie'
-    - Immigratie
     - Islam
+    - Immigratie
+    - 'Conservatieve Alliantie'
     - PVV
 ---
 

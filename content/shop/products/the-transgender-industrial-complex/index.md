@@ -4,18 +4,18 @@ title: 'The Transgender-Industrial Complex'
 writers:
     - 'Scott Howard'
 pages: 447
-types:
-    - { name: Paperback, price: 25.99, import_price: { currency: USD, amount: 21.51 }, isbn: 978-1-956887-57-0, size: { height: 229, width: 153, depth: 28 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2020-11-11'
 languages: Engels
 front: 0b50658d-1912-4490-b32a-710bdb7d3275.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-956887-57-0, supplier: 'Ex Libris', size: { height: 229, width: 153, depth: 28 }, import_price: { currency: USD, amount: 21.51 }, price: 25.99, out_of_stock: 0 }
 tags:
+    - Woke
+    - LGBT
     - Economie
     - Gender
-    - LGBT
     - Transgenderisme
-    - Woke
 back: a56ee8e6-5621-4952-a927-4d10ca4aa1d7.webp
 pretty: true
 ---

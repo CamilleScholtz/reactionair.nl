@@ -8,10 +8,10 @@ themes: 'Politiek en Actualiteit'
 image: 900.jpeg
 anchor: Top
 tags:
-    - Boeren
-    - FVD
-    - 'Johan Rudolph Thorbecke'
     - 'Thierry Baudet'
+    - FVD
+    - Boeren
+    - 'Johan Rudolph Thorbecke'
 ---
 
 Terwijl Nederland (Europa en eigenlijk misschien wel de meerderheid van de wereld) verder en verder lijken af te glijden naar haat en burgeroorlog, vervagen en verdwijnen alle zekerheden op één na: niemand weet echt nog wat de spelregels zijn.

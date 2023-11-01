@@ -8,10 +8,10 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Consumentisme
-    - 'Friedrich Nietzsche'
-    - 'Karl Popper'
     - 'Michel Foucault'
+    - 'Friedrich Nietzsche'
+    - Consumentisme
+    - 'Karl Popper'
     - Wetenschap
 ---
 

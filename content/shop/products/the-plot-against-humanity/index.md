@@ -3,17 +3,17 @@ title: 'The Plot Against Humanity'
 writers:
     - 'Scott Howard'
 pages: 191
-types:
-    - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-51-8, size: { height: 229, width: 153, depth: 12 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-11-30'
 languages: Engels
 front: 8c667ab9-591a-4724-bce6-827761587aea.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-956887-51-8, supplier: 'Ex Libris', size: { height: 229, width: 153, depth: 12 }, import_price: { currency: USD, amount: 15.91 }, price: 22.99, out_of_stock: 0 }
 tags:
-    - Corona
     - LGBT
-    - Transgenderisme
+    - Corona
     - Transhumanisme
+    - Transgenderisme
 back: 15555826-3ad7-4f8e-b41c-166448c13817.jpg
 ---
 

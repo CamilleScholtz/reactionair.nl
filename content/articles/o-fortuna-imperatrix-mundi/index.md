@@ -10,9 +10,9 @@ anchor: Smart
 description: 'Dit artikel duikt in de subjectieve aard van het geluk. Hier trachten wij aan de hand van sterk verschillende persoonlijke situaties de vinger te leggen op waarom de maatstaf van geluk niet universeel kan worden toegepast.'
 caption: 'David Scott, The pursuit of fortune (1847).'
 tags:
+    - Gelijkheid
     - 'Abraham Maslow'
     - 'Geert Hofstede'
-    - Gelijkheid
     - Geluk
 ---
 

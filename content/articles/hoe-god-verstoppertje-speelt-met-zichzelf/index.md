@@ -8,12 +8,12 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Baruch Spinoza'
-    - 'Fjodor Dostojevski'
-    - 'George Berkeley'
+    - Metafysica
     - 'Martin Heidegger'
     - 'René Descartes'
-    - Metafysica
+    - 'Fjodor Dostojevski'
+    - 'Baruch Spinoza'
+    - 'George Berkeley'
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'Waarom het streven naar objectiviteit een doodlopend pad is'. Zie [hier](https://reactionair.nl/artikelen/een-lesje-grammatica-een-lesje-metafysica/) het vorige deel._

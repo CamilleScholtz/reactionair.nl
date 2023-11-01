@@ -8,10 +8,10 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
+    - Metafysica
     - Corona
     - 'Oswald Spengler'
     - 'René Descartes'
-    - Metafysica
     - Transhumanisme
 ---
 

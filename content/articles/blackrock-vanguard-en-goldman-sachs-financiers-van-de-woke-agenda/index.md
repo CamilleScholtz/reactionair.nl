@@ -8,9 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: 7e50b263-1725-4d5d-9cbe-d35d2b43c494.jpg
 anchor: Smart
 tags:
-    - Kapitalisme
     - Liberalisme
     - Woke
+    - Kapitalisme
 ---
 
 Er is een nieuw kindje geboren en we noemen het ‘DEI’. 'Dei' betekent in het Latijn ‘Goden’ of ‘des Godes’, maar daar verwijzen wij allerminst naar. Wij bedoelen met DEI: Diversity, Equity, Inclusion. DEI is geen mooi kindje, maar uiterst lelijk en levensgevaarlijk. We eten dus geen beschuit met muisjes en toasten niet op de geboorte van DEI.

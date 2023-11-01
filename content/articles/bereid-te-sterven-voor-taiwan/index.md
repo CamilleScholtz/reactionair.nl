@@ -8,9 +8,9 @@ themes: 'Politiek en Actualiteit'
 image: taiwan.webp
 anchor: Smart
 tags:
+    - Oorlog
     - China
     - Oekraïne
-    - Oorlog
     - Taiwan
 ---
 

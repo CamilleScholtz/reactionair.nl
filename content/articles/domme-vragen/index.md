@@ -8,9 +8,9 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Center
 tags:
-    - 'Fjodor Dostojevski'
-    - 'René Descartes'
     - Socrates
+    - 'René Descartes'
+    - 'Fjodor Dostojevski'
     - Psychologie
 ---
 

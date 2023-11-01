@@ -8,11 +8,11 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'George Berkeley'
+    - Metafysica
     - Pythagoras
     - Hindoeisme
     - Materialisme
-    - Metafysica
+    - 'George Berkeley'
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'Waarom het streven naar objectiviteit een doodlopend pad is'. Zie [hier](https://reactionair.nl/artikelen/overdenkingen-over-de-parabel-van-de-blinden-en-de-olifant/) het vorige deel._

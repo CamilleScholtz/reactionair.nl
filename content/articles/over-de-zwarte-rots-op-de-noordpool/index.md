@@ -8,8 +8,8 @@ themes: 'Religie en Wijsbegeerte'
 image: 1606_mercator_hondius_map_of_the_arctic_-first_map_of_the_north_pole-_-_geographicus_-_northpole-mercator-1606.jpg
 anchor: Center
 tags:
-    - Esoterie
     - Metafysica
+    - Esoterie
 note: "Dit is een vertaling van het essay 'On the Black Rock at the North Pole', het origineel is [hier](https://esoterictraditionalism.wordpress.com/2020/08/28/on-the-black-rock-at-the-north-pole/) te lezen."
 ---
 

@@ -3,12 +3,12 @@ title: 'Lord Miles in Afghanistan'
 writers:
     - 'Miles Routledge'
 pages: 154
-types:
-    - { name: Paperback, price: 24.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-53-2, size: { height: 216, width: 140, depth: 8 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-11-30'
 languages: Engels
 front: d3ee0997-4161-48a2-964b-496d47acbd80.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-956887-53-2, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 8 }, import_price: { currency: USD, amount: 15.91 }, price: 24.99, out_of_stock: 0 }
 back: 3fbdbb90-fd83-40d7-99ad-bb2ccaa033ea.jpg
 pretty: true
 ---

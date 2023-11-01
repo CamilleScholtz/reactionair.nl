@@ -3,19 +3,19 @@ title: 'The War on Gender'
 writers:
     - 'Claire Rae Randall'
 pages: 414
-types:
-    - { name: Paperback, price: 27.99, import_price: { currency: EUR, amount: 20.4 }, isbn: 978-1-914208-81-2, size: { height: 216, width: 140, depth: 27 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2022-05-23'
 languages: Engels
 front: e758f2d4-0827-4833-8da6-3bfd60e4c8bd.webp
+variants:
+    - { name: Paperback, isbn: 978-1-914208-81-2, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 27 }, import_price: { currency: EUR, amount: 20.4 }, price: 27.99, out_of_stock: 0 }
 subtitle: 'Postmodernism and Trans Identity'
 tags:
-    - Gender
-    - LGBT
     - Postmodernisme
-    - Transgenderisme
     - Woke
+    - LGBT
+    - Gender
+    - Transgenderisme
 back: 10ad60a8-1cdc-4318-9b26-07596ed82dde.jpg
 pretty: true
 ---

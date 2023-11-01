@@ -3,12 +3,12 @@ title: 'Empire Eternal'
 writers:
     - 'Sinclair Jenkins '
 pages: 166
-types:
-    - { name: Paperback, price: 15.99, import_price: { currency: USD, amount: 14.31 }, isbn: 978-1-956887-36-5, size: { height: 216, width: 140, depth: 10 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-01-01'
 languages: Engels
 front: front.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-956887-36-5, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 10 }, import_price: { currency: USD, amount: 14.31 }, price: 15.99, out_of_stock: 0 }
 subtitle: 'In Defense of Imperialism'
 tags:
     - Kolonialisme

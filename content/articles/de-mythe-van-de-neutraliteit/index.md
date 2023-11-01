@@ -9,9 +9,9 @@ image: thumb.webp
 anchor: Smart
 description: "De Tweede Kamer neemt besluit: scholen mogen geen identiteitsverklaring eisen van ouders. Maar is 'neutraliteit' wel haalbaar? Lees het hier."
 tags:
-    - 'Karl Popper'
-    - Liberalisme
     - Postmodernisme
+    - Liberalisme
+    - 'Karl Popper'
 ---
 
 Onlangs heeft de Tweede Kamer een voorstel aanvaard om ervoor te zorgen dat geen enkele school een verklaring van de ouders mag eisen waarin zij de identiteit van de school onderschrijven. Een groot aantal aanhangers van het liberale gedachtegoed hebben met vreugde gereageerd op deze beslissing, zich daarbij beroepend op het idee van "neutraliteit". Op het platform van Twitter werden diverse uitspraken waargenomen, waaronder:

@@ -8,9 +8,9 @@ themes: 'Politiek en Actualiteit'
 image: b8a1b5e4-a46c-4c73-90f5-04d08f503f5e.jpg
 anchor: Smart
 tags:
-    - Media
-    - 'Pim Lammers'
     - Woke
+    - 'Pim Lammers'
+    - Media
 ---
 
 Het was me het weekje wel op de virtuele *Reactionair.nl*-redactieburelen. Ineens stonden we in alle kranten en werden we genoemd op radio en tv. Daarbij werden helaas wel de nodige onwaarheden en ongefundeerde verdachtmakingen geuit. Een litanie:

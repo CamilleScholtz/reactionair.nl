@@ -1,8 +1,7 @@
 ---
-description: Sanura is een ervaren contrarian. Liberaal maar traditionalistischer
-  dan Harm van Riel. Heeft duistere humor.
-image: avatar.webp
-keyword: Autistische schrijver
-pseudonym: true
 title: Sanura
+description: 'Sanura is een ervaren contrarian. Liberaal maar traditionalistischer dan Harm van Riel. Heeft duistere humor.'
+keyword: 'Autistische schrijver'
+pseudonym: true
+image: avatar.webp
 ---

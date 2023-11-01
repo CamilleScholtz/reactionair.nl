@@ -4,7 +4,7 @@ subtitle: 'Doe de test!'
 date: '2022-04-29'
 authors:
     - Gastauteur
-themes: De Uylenspieghel
+themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Smart
 tags:

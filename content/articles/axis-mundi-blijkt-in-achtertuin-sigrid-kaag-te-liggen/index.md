@@ -8,8 +8,8 @@ themes: 'De Uylenspieghel'
 image: 54c87e9f-44f3-4b28-92f2-e1d5a8837d16.jpg
 anchor: Smart
 tags:
-    - D66
     - Esoterie
+    - D66
     - 'Sigrid Kaag'
     - 'Wouter Hanegraaff'
 ---

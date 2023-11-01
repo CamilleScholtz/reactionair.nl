@@ -1,8 +1,7 @@
 ---
-description: Tara Ann Thieke is moeder en schrijfster (The Federalist e.a.) uit Pennsylvanië,
-  de VS.
-image: avatar.webp
+title: 'Tara Ann Thieke'
+description: 'Tara Ann Thieke is moeder en schrijfster (The Federalist e.a.) uit Pennsylvanië, de VS.'
 keyword: Schrijver
 pseudonym: true
-title: Tara Ann Thieke
+image: avatar.webp
 ---

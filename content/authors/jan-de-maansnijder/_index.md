@@ -1,10 +1,7 @@
 ---
-description: Jan de Maansnijder schrijft voor de kwalitatief hoogstaande weblog On
-  Tradition, en is auteur van het boek Noumenal Reflections.
-image: avatar.webp
+title: 'Jan de Maansnijder'
+description: 'Jan de Maansnijder schrijft voor de kwalitatief hoogstaande weblog On Tradition, en is auteur van het boek Noumenal Reflections.'
 keyword: Blogger
 pseudonym: true
-title: Jan de Maansnijder
-twitter: https://twitter.com/JohannesBaron
-website: https://esoterictraditionalism.wordpress.com/
+image: avatar.webp
 ---

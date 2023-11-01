@@ -8,13 +8,13 @@ themes: 'Religie en Wijsbegeerte'
 image: 0f3ffa6b-821a-454d-bd60-3fdb72558de5.jpg
 anchor: Top
 tags:
+    - Oorlog
+    - 'Theodor Adorno'
+    - Media
+    - 'Jean Baudrillard'
     - 'Ernst Jünger'
     - Film
     - 'Guy Debord'
-    - 'Jean Baudrillard'
-    - Media
-    - Oorlog
-    - 'Theodor Adorno'
 note: 'Dit artikel is een vertaling van sectie 14 van het opstel _Über den Schmerz_ van Ernst Jünger, dat  voor het eerst verscheen in 1934 in _Blätter und Steine_. Eerder al publiceerden we [een recensie](https://reactionair.nl/artikelen/oorlog-als-avontuur/) van zijn bekendste werk _In Stahlgewittern_.'
 ---
 

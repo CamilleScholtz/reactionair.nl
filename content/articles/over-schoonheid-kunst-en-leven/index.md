@@ -9,11 +9,11 @@ image: val_van_de_opstandige_engelen-_james_ensor-_1889-_koninklijk_museum_voor_
 anchor: Smart
 caption: 'James Ensor, De val van de opstandige engelen'
 tags:
-    - 'Immanuel Kant'
     - Plato
-    - Plotinus
-    - Schoonheid
     - Socrates
+    - 'Immanuel Kant'
+    - Schoonheid
+    - Plotinus
     - Xenophanes
 ---
 

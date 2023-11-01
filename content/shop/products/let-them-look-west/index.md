@@ -3,12 +3,12 @@ title: 'Let Them Look West'
 writers:
     - 'Marty Phillips'
 pages: 268
-types:
-    - { name: Paperback, price: 24.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-82-4, size: { height: 216, width: 140, depth: 15 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2020-12-07'
 languages: Engels
 front: da6d2335-efee-4572-95df-d34a5e3b2e5d.webp
+variants:
+    - { name: Paperback, isbn: 978-1-953730-82-4, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 15 }, import_price: { currency: USD, amount: 15.91 }, price: 24.99, out_of_stock: 0 }
 back: 8ebf2a7d-a2cf-48fa-a867-e8c09c853d9b.webp
 ---
 

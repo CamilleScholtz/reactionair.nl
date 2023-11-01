@@ -17,7 +17,7 @@ export const overview = (main, cart, shipping) => {
 	}
 
 	page.querySelectorAll(".product").forEach((product) => {
-		if (cart.find(i => i.name === product.dataset.name) === undefined) {
+		if (cart.find(i => i.product === product.dataset.product) === undefined) {
 			product.style.display = "none";
 		} else {
 			product.style.display = "grid";
@@ -39,10 +39,10 @@ export const overview = (main, cart, shipping) => {
 
 export const edit = (main, header) => {
 	const getProduct = (cart, dataset) => {
-		return cart?.find(i => i.name === dataset.name
-			&& i.type === dataset.type) ?? {
-			name:     dataset.name,
-			type:	  dataset.type,
+		return cart?.find(i => i.product === dataset.product
+			&& i.variant === dataset.variant) ?? {
+			product:  dataset.product,
+			variant:  dataset.variant,
 			quantity: 0,
 			price:    currency(dataset.price),
 		};
@@ -52,8 +52,8 @@ export const edit = (main, header) => {
 		const input  = form.querySelector(".added-to-cart");
 		const button = form.querySelector(".add-to-cart");
 
-		cart = cart.filter(i => i.name !== product.name || i.type !== product.type);
-
+		cart = cart.filter(i => i.product !== product.product || i.variant !== product.variant);
+product
 		if (product.quantity > 0) {
 			cart.push(product);
 
@@ -94,11 +94,11 @@ export const edit = (main, header) => {
 		const forms = main.querySelectorAll("#products .cart-form.hidden");
 
 		forms.forEach((form) => {
-			if (cart.find(i => i.name === form.dataset.name && i.type === form.dataset.type) !== undefined) {
+			if (cart.find(i => i.product === form.dataset.product && i.variant === form.dataset.variant) !== undefined) {
 				form.style.display = "block";
 
-				main.querySelectorAll(`#products .cart-form[data-name="${form.dataset.name}"]`).forEach((other) => {
-					if (other.dataset.type !== form.dataset.type) {
+				main.querySelectorAll(`#products .cart-form[data-product="${form.dataset.product}"]`).forEach((other) => {
+					if (other.dataset.variant !== form.dataset.variant) {
 						other.style.display = "none";
 					}
 				});

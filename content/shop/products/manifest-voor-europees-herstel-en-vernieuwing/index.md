@@ -3,15 +3,15 @@ title: 'Manifest voor Europees herstel en vernieuwing'
 writers:
     - 'Alain de Benoist'
 pages: 45
-types:
-    - { name: Paperback, price: 10.99, import_price: { currency: EUR, amount: 5.76 }, isbn: 978-1-910524-31-2, size: { height: 216, width: 140, depth: 3 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2023-07-20'
 languages: Nederlands
 front: 8cf1e034-84be-423c-852d-5dd67dd5c2ac.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-910524-31-2, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 3 }, import_price: { currency: EUR, amount: 5.76 }, price: 10.99, out_of_stock: 0 }
 tags:
-    - 'Alain de Benois'
     - Europa
+    - 'Alain de Benois'
 ---
 
 Tribalisme versus mondialisme, jacobijns nationalisme versus internationalisme, liberalisme versus marxisme, individualisme versus collectivisme, progressivisme versus conservatisme staan tegenover elkaar in een identieke zelfgenoegzame logica die geen enkele ruimte laat voor een derde optie. Al een eeuw lang gaat achter het masker van deze kunstmatige tegenstellingen het wezenlijke schuil: de omvang van een crisis die schreeuwt om een radicale vernieuwing van onze denkwijze, onze methode van besluitvorming en onze manier van ageren.

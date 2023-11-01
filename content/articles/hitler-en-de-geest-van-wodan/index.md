@@ -9,11 +9,11 @@ image: franz.jpg
 anchor: Smart
 caption: 'Die Wilde Jagd van Franz von Stuck, circa 1889 (Hitlers geboortejaar). Naar verluidt heeft Hitler zijn uiterlijk gemodelleerd naar de figuur die op dit schilderij Wodan voorstelt.'
 tags:
-    - 'Bruno Goetz'
-    - 'Carl Jung'
     - 'Friedrich Nietzsche'
-    - Nostradamus
     - Heidendom
+    - 'Carl Jung'
+    - 'Bruno Goetz'
+    - Nostradamus
 ---
 
 *Dit opstel van de bekende Zwitserse psycholoog en esotericus Carl Gustav Jung (1875-1961) verscheen voor het eerst in 1936 onder de titel 'Wotan'*.

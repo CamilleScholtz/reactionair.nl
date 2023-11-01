@@ -3,12 +3,12 @@ title: "Nietzsche's Coming God"
 writers:
     - 'Abir Taha'
 pages: 106
-types:
-    - { name: Paperback, price: 13.99, import_price: { currency: EUR, amount: 10.56 }, isbn: 978-1-907166-90-7, size: { height: 216, width: 140, depth: 7 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2021-11-28'
 languages: Engels
 front: 0c63f9b8-4d2a-4b37-a950-5a244eea1231.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-907166-90-7, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 7 }, import_price: { currency: EUR, amount: 10.56 }, price: 13.99, out_of_stock: 0 }
 subtitle: 'Or the Redemption of the Divine'
 tags:
     - 'Friedrich Nietzsche'

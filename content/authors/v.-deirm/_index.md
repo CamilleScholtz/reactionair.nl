@@ -1,7 +1,7 @@
 ---
-description: v. Deirm is geïnteresseerd in gemeenschapsdenken.
-image: avatar.webp
-keyword: Sociaal wetenschapper
+title: 'v. Deirm'
+description: 'v. Deirm is geïnteresseerd in gemeenschapsdenken.'
+keyword: 'Sociaal wetenschapper'
 pseudonym: true
-title: v. Deirm
+image: avatar.webp
 ---

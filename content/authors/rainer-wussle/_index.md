@@ -1,8 +1,7 @@
 ---
-description: Rainer Wüssle is filosoof, cultureel modernist, en wil nog altijd een
-  boek schrijven over Ludwig Klages
-image: avatar.webp
+title: 'Rainer Wüssle'
+description: 'Rainer Wüssle is filosoof, cultureel modernist, en wil nog altijd een boek schrijven over Ludwig Klages'
 keyword: Filosoof
 pseudonym: true
-title: Rainer Wüssle
+image: avatar.webp
 ---

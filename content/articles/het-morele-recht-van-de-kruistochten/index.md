@@ -1,16 +1,16 @@
 ---
+title: 'Het morele recht van de kruistochten'
+subtitle: 'Ja, dat las je goed...'
+date: '2022-06-12'
 authors:
-- Sanura
-date: "2022-06-12"
-tags:
-- Christendom
-- Islam
+    - Sanura
+themes: 'Cultuur en Maatschappij'
 image: thumb.webp
-subtitle: Ja, dat las je goed...
-themes: Cultuur en Maatschappij
-title: Het morele recht van de kruistochten
+anchor: smart
+tags:
+    - Islam
+    - Christendom
 ---
-
 
 De kruistochten worden meestal aangehaald om het christendom, en specifiek het katholicisme, aan te vallen. Men doet dan, alsof het een voorbeeld was van christelijk terrorisme, het begin van een reeks conflicten in een tevoren vredig Midden-Oosten, of een christelijke veroveringsstrijd.
 

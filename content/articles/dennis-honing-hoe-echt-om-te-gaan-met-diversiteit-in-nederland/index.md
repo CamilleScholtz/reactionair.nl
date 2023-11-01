@@ -8,11 +8,11 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
+    - Islam
+    - Immigratie
+    - 'Thierry Baudet'
     - 'Conservatieve Alliantie'
     - 'Geert Wilders'
-    - Immigratie
-    - Islam
-    - 'Thierry Baudet'
     - Feminisme
 ---
 

@@ -9,8 +9,8 @@ image: 1d0ab2f0-da56-460e-91ba-72899a2e5bb3.jpg
 anchor: Smart
 caption: 'Caspar David Friedrich, Zwei Männer in Betrachtung des Mondes, ca. 1819.'
 tags:
-    - Corona
     - Monarchie
+    - Corona
 note: 'Deze dialoog maakt deel uit van een serie, lees ook *[dialoog I](https://reactionair.nl/artikelen/dialoog-i/)* en *[dialoog II](https://reactionair.nl/artikelen/dialoog-ii/)*.'
 ---
 

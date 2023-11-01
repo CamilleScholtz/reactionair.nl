@@ -8,9 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Curtis Yarvin'
-    - Woke
     - Seks
+    - Woke
+    - 'Curtis Yarvin'
 note: 'Dit is een vertaling en bewerking van een Twitter-draad van [Curtis Yarvin](https://twitter.com/moldbugman).'
 ---
 

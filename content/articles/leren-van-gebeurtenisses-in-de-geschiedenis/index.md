@@ -8,8 +8,8 @@ themes: 'Politiek en Actualiteit'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Iran
     - Islam
+    - Iran
     - 'Karl Marx'
 ---
 

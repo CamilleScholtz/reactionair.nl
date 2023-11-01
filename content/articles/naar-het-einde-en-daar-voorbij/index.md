@@ -8,11 +8,11 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Martin Heidegger'
-    - 'Martin Lings'
-    - 'René Guénon'
     - Metafysica
     - Theologie
+    - 'René Guénon'
+    - 'Martin Heidegger'
+    - 'Martin Lings'
 ---
 
 Dit artikel gaat over enkele interacties met het idee van het onbegrensde, het eindeloze, oneindigheid, en enkele logische consequenties van deze concepten en de mogelijke implicaties voor theologie.

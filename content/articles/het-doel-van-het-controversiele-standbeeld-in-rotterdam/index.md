@@ -8,10 +8,10 @@ themes: 'Politiek en Actualiteit'
 image: 4780af98-1020-483a-9ddf-f1662f2f79cd.webp
 anchor: Smart
 tags:
-    - BBB
-    - Kunst
     - Liberalisme
     - Woke
+    - BBB
+    - Kunst
 ---
 
 Kunst had betekenis en doel. Zelfs voor de postmodernisten die betekenis en doel ontkennen en deconstrueren, is het doel van hun kunst om "het doel" te vernietigen.

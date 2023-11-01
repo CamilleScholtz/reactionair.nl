@@ -9,8 +9,8 @@ image: a-2.webp
 anchor: Smart
 tags:
     - Islam
-    - LGBT
     - Liberalisme
+    - LGBT
     - Sport
 ---
 

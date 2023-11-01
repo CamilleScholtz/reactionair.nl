@@ -8,8 +8,8 @@ themes: 'Religie en Wijsbegeerte'
 image: 8b50bcb8-70c3-4205-8418-95876623f62f.webp
 anchor: Smart
 tags:
-    - Christendom
     - Katholicisme
+    - Christendom
     - Protestantisme
 ---
 

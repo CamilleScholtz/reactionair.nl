@@ -8,9 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
+    - Plato
     - Aristoteles
     - 'Michel Foucault'
-    - Plato
     - Pythagoras
     - Socrates
     - Incel

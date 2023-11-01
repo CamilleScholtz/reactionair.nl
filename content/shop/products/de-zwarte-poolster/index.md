@@ -3,16 +3,16 @@ title: 'De Zwarte Poolster'
 writers:
     - 'Alexander Wolfheze'
 pages: 654
-types:
-    - { name: Paperback, price: 49.5, import_price: { currency: EUR, amount: 39.6 }, isbn: 978-1-915755-04-9, size: { height: 216, width: 140, depth: 30 }, supplier: 'Ex Libris', out_of_stock: true }
 publishers: Arktos
 date: '2023-07-19'
 languages: Nederlands
 front: 342f190e-f4a6-4425-86b9-a2847da32a00.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-915755-04-9, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 30 }, import_price: { currency: EUR, amount: 39.6 }, price: 49.5, out_of_stock: 1 }
 subtitle: 'Een Archeo-Futuristische Aftelling in Vijftien Opstellen'
 tags:
-    - 'Alexander Wolfheze'
     - 'Carl Schmitt'
+    - 'Alexander Wolfheze'
 pretty: true
 ---
 
