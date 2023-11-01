@@ -8,10 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Islam
-    - Immigratie
-    - 'Conservatieve Alliantie'
-    - PVV
+    - Woke
+    - LGBT
+    - Transgenderisme
 ---
 
 _Dit artikel is een reactie op een eerder gepubliceerd artikel op Reactionair.nl._[^1]

@@ -8,12 +8,9 @@ themes: 'Geschiedenis en Biografie'
 image: 8d648e6e-40d7-4f13-9493-26b38eb8ca09.jpg
 anchor: Top
 tags:
-    - Woke
-    - 'Michel Foucault'
-    - 'Karl Marx'
-    - Marxisme
-    - 'Georg Hegel'
-    - Racisme
+    - Immigratie
+    - Fictie
+    - Overheid
 note: 'Dit artikel is gededuceerd uit het komende boek *Kafkaistan*, Boekscout, 2023. In dat boek wordt hierover uitgebreid verder gegaan.'
 ---
 

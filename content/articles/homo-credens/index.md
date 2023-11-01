@@ -8,12 +8,9 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Wetenschap
-    - Socrates
-    - Metafysica
-    - 'Arthur Schopenhauer'
-    - 'Friedrich Schiller'
-    - 'Sigmund Freud'
+    - Immigratie
+    - Wetgeving
+    - Omvolking
 ---
 
 {{< quote

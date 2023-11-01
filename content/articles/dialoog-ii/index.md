@@ -8,9 +8,10 @@ themes: 'Cultuur en Maatschappij'
 image: caspar_david_friedrich_zwei_manner_am_meer.jpg
 anchor: Smart
 tags:
-    - 'Franz Kafka'
-    - Overheid
-    - Macht
+    - Woke
+    - 'Jean-Paul Sartre'
+    - 'Arthur Schopenhauer'
+    - 'Friedrich Schiller'
 ---
 
 **Johan**: Bedankt voor ons *[vorige gesprek](https://reactionair.nl/artikelen/dialoog-i/)*, het heeft me nog meer doen nadenken over de plicht tot verzet in tijden als deze; tijden waarin sprake is van wijdverbreid ongenoegen onder de bevolking. De vanzelfsprekendheid van het openbaar bestuur en de vanzelfsprekendheid van het gezag staan onder druk. Dit komt door belangenverstrengeling, door de leugenachtige ambtenarij en door het gebrek aan controle op uitvoerenden. Achtergestelde, gekleineerde en verontwaardigde burgers dienen het heft in handen te nemen met een besef van eigenwaarde én met zekere trots, zaken die men van niemand kan wegnemen. Zodoende zal georganiseerd protest concreet resultaat opleveren; waardering die ooit vanzelfsprekend was zal hernieuwd worden; het land zal zich daardoor herstellen.

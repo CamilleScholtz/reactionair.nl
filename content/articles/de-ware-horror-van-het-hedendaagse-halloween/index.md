@@ -8,9 +8,9 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Hedonisme
-    - Christendom
-    - Heidendom
+    - 'Charles Darwin'
+    - Evolutie
+    - 'Nicolás Gómez Dávila'
 ---
 
 De viering van Halloween zoals deze zich vandaag de dag manifesteert heeft als voorname functie ieder, door middel van een verkleedpartijtje, de mogelijkheid te geven te ontsnappen aan het zware juk van een deel van de kleinburgerlijke moraliteit, zodat kinderen zich volvreten met de nieuwste Amerikaanse fabricages van suikerdrab en jongvolwassenen zich voldrinken en hun mannenlijkheid nat proberen te krijgen. In deze functie is de huidige viering een slap aftreksel, een overblijfsel, van de oorspronkelijke viering ervan, ongeveer als de latere _Saturnalia_. Nu, laten we dan zien naar de betekenis van de oorspronkelijke viering.

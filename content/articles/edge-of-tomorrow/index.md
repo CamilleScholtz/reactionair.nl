@@ -8,11 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Liberalisme
-    - Woke
-    - 'Arthur Schopenhauer'
-    - Corona
-    - BLM
+    - Monarchie
+    - Christendom
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/die-tyranny-verdrijven/) het vorige deel._

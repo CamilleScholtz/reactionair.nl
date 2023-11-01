@@ -9,7 +9,9 @@ image: 41d2aece-0a7a-4b92-9405-f2630888d1bd.jpg
 anchor: Smart
 caption: 'Afbeelding ongerelateerd. Eventuele gelijkenissen tussen Rudolf Bouwman en werkelijk bestaande personen en/of gebeurtenissen berusten geheel op toeval.'
 tags:
-    - 'Rudy Bouma'
+    - Spanje
+    - Fictie
+    - Oekraïne
 ---
 
 Nieuws van onze sympathieke factchecker Rudolf Bouwman: hij heeft zijn obsessie voor feiten naar een geheel nieuw niveau getild. Wat begon als een ogenschijnlijk onschuldige discussie over het welzijn van zijn partner, eindigde in een relatiecrisis van epische proporties.

@@ -8,10 +8,13 @@ themes: 'Politiek en Actualiteit'
 image: 37c177e8-bf1c-4382-a098-6f8925e407af.jpg
 anchor: Center
 tags:
-    - LGBT
-    - D66
-    - Rutgers
-    - 'Sjoerd Warmerdam'
+    - 'Karl Marx'
+    - 'René Guénon'
+    - 'Friedrich Nietzsche'
+    - Hedonisme
+    - 'Oswald Spengler'
+    - Consumentisme
+    - Atheisme
 ---
 
 "Deze vijf mensen krijgen samen een baby! Daantje is getrouwd met Dewi. Jaco is getrouwd met Sjoerd, en ze houden allebei van Shaun. Alle vijf krijgen ze deze week een baby." — zo opent VICE in 2015 een artikel over Sjoerd Warmerdam, 'zijn twee mannen' en een lesbisch stel waarmee zij samen een kind krijgen.[^1]

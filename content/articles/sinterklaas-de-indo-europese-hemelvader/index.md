@@ -8,14 +8,8 @@ themes: 'Religie en Wijsbegeerte'
 image: wekyztlb.jpg-medium.webp
 anchor: Smart
 tags:
+    - Katholicisme
     - Christendom
-    - 'Griekse mythologie'
-    - Hindoeisme
-    - Heidendom
-    - Proklós
-    - Rigveda
-    - Sinterklaas
-    - 'Terry Pratchett'
 ---
 
 {{< quote

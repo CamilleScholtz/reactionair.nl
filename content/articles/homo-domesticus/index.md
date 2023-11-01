@@ -9,11 +9,11 @@ image: eadf02e9-4947-4b78-b63c-57b9f076b943.jpg
 anchor: Smart
 description: 'De huidige samenleving is doortrokken van comfort en vermaak. Reeds in The time machine van auteur H.G. Wells vinden we een profetische beschrijving van een wereld waarin een dergelijke decadentie heerst. '
 tags:
-    - 'Aldous Huxley'
-    - 'H.G. Wells'
-    - Totalitarisme
-    - Verval
-    - 'George Orwell'
+    - 'Friedrich Nietzsche'
+    - Linguistiek
+    - 'Ludwig Wittgenstein'
+    - Media
+    - Vooruitgang
 ---
 
 Veel elementen van de ondergang van onze westerse wereld zijn op briljante wijze voorspeld en beschreven door grootse literaire werken. Met recht worden _1984_ van George Orwell en _Brave New World_ van Aldous Huxley vaak aangehaald om de huidige situatie te duiden. In het eerste werk beschrijft Orwell, zoals bekend, een totalitair regime dat elk aspect van het leven van zijn burgers controleert en taalmanipulatie, propaganda en censuur gebruikt om zijn macht te behouden. In _Brave New World_ verhaalt Huxley over een samenleving die beheerst wordt door oppervlakkig plezier, amusement en drugs in plaats van angst en onderdrukking, maar eveneens een dystopisch karakter heeft. De moderne samenleving lijkt een opmerkelijke combinatie van deze werken, werken die dan ook verplicht zouden moeten worden gelezen op scholen (eventueel aangevuld door _Fahrenheit 451_ van Ray Bradbury en het weinig bekende maar even profetische _Parijs in de Twintigste Eeuw_ van Jules Verne). 

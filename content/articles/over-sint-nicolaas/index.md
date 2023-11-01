@@ -8,8 +8,14 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Katholicisme
-    - Christendom
+    - Metafysica
+    - 'Arthur Schopenhauer'
+    - 'Charles Darwin'
+    - 'Aldous Huxley'
+    - 'Arthur Koestler'
+    - 'Joris van Rossum'
+    - 'Marcel Proust'
+    - 'Richard Dawkins'
 ---
 
 >_"Bedenkt u dat hoewel wij onszelf als rechtvaardig mogen beschouwen en er vaak in slagen de mensen daar ook van te overtuigen, wij niks kunnen verbergen voor God"._ – Sint Nicolaas

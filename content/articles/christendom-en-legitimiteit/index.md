@@ -8,8 +8,9 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: smart
 tags:
-    - Christendom
-    - 'Erik von Kuehnelt-Leddihn'
+    - BBB
+    - Anime
+    - 'Caroline van der Plas'
 ---
 
 Een priester hield een keer een preek (een clichématig begin, ik weet het) over het verschil tussen macht en autoriteit; en inderdaad, daar is een essentieel verschil tussen. Macht kan geüsurpeerd en misbruikt worden. Autoriteit niet. Autoriteit is legitimiteit. Net als liefde en moed kan het niet vervalst worden of gestolen.

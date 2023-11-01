@@ -8,9 +8,9 @@ themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Liberalisme
-    - Consumentisme
-    - 'Michel Houellebecq'
+    - Seks
+    - Woke
+    - 'Curtis Yarvin'
 ---
 
 1.  Liberalisme leidt tot individualisme en sociale atomisering. Dat terwijl mensen juist een diepe behoefte hebben om deel uit te maken van een gemeenschap. Een gezin, een streek, een natie.

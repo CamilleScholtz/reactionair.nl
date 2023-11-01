@@ -8,10 +8,12 @@ themes: 'Onderzoek en Speurwerk'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Liberalisme
-    - LGBT
-    - Woke
-    - 'Pim Lammers'
+    - Metafysica
+    - Socrates
+    - 'Sigmund Freud'
+    - 'Arthur Schopenhauer'
+    - Wetenschap
+    - 'Friedrich Schiller'
 ---
 
 Onlangs kondigde het _COC_ op verschillende sociale media aan op zoek te zijn naar basisschooldocenten van groep 3 t/m 6 voor een nieuwe leerlijn over seksuele en genderdiversiteit op de basisschool.[^1] In de materialen voor docenten van deze leerlijn worden nauwkeurige instructies gegeven hoe de docenten kinderen -vanaf 6 jaar- moeten leren en vertellen over seksualiteit, seksuele diversiteit en transgenderisme. In de begeleidende brief bij het kosteloos te verkrijgen lespakket staat te lezen:

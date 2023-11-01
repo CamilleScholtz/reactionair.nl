@@ -9,11 +9,10 @@ themes: 'Cultuur en Maatschappij'
 image: 4e44f979-99d8-4324-8a0b-8f0943418a97.jpg
 anchor: Smart
 tags:
-    - 'Immanuel Kant'
-    - 'Karl Marx'
-    - 'Georg Hegel'
-    - 'Sigmund Freud'
-    - 'Georges Bataille'
+    - Socrates
+    - Traditie
+    - 'Charles Lindberg'
+    - 'Walt Whitman'
 ---
 
 Wat is de functie van ethiek? Een vraag die op het eerste gezicht vulgair klinkt. Is denken in termen van functionaliteit immers op zich al geen plat utilitarisme, de ethiek die puur en al draait om use oftewel nut? En toch moet ze gesteld worden. Wij mensen hebben ethiek nodig. Stenen, planten en dieren niet, net zo min als ze behoefte hebben aan kunst, recht, filosofie of meer van zulke menselijke (al te menselijke) bezigheden. De reden hiervoor is dat de mens hoewel sociaal geneigd, toch ook een asociale kant heeft. Kant had daarover het volgende te zeggen:

@@ -9,13 +9,10 @@ themes: 'Politiek en Actualiteit'
 image: e988008d-d15c-4064-9ec6-52a4e5d2ae3e.jpg
 anchor: Smart
 tags:
-    - Boeren
-    - Communisme
-    - Maoïsme
-    - Leninisme
-    - 'Jozef Stalin'
-    - 'Mao Zedong'
-    - Stikstof
+    - Socrates
+    - 'René Descartes'
+    - 'Fjodor Dostojevski'
+    - Psychologie
 ---
 
 “Verdrijf de koelakken uit de kolchoz”, verkondigt een propagandaposter van de Sovjet-Unie uit 1930.[^1] Die zinspeelt op het stigmatiseren en kleineren van zelfstandige boeren. Immers, de staat weet wel beter hoe landbouw werkt. 

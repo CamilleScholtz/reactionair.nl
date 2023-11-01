@@ -9,11 +9,8 @@ image: 153b3402-911b-4f19-b012-74110e78b7e1.jpg
 anchor: Smart
 caption: 'Théophile Emmanuel Duverger, Twee lezende kinderen (1855).'
 tags:
-    - Seks
-    - 'Pim Lammers'
-    - Gender
-    - 'Jean Piaget'
-    - Transgenderisme
+    - 'Charles Darwin'
+    - Elite
 ---
 
 Wat is beffen en hoe doe je het? Dit is een vraag die Channah Zwiep beantwoordt in

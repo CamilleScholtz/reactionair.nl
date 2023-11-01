@@ -8,9 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: egpfllzu8aahd9d.jpeg
 anchor: Smart
 tags:
-    - Wappies
-    - Complottheorie
-    - 'David Icke'
+    - Woke
+    - Gender
 note: "Dit is een vertaling van het essay 'Embracing the Fringe', het origineel is [hier](https://apolloniangerm.substack.com/p/embracing-the-fringe) te lezen."
 ---
 

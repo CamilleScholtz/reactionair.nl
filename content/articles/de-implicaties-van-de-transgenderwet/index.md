@@ -8,9 +8,8 @@ themes: 'Politiek en Actualiteit'
 image: inter.webp
 anchor: Top
 tags:
-    - LGBT
-    - Woke
-    - Wetgeving
+    - Gemeenschap
+    - Kwantificering
 ---
 
 Binnenkort behandelt de Tweede Kamer de wijziging van de Transgenderwet. De kans is aanzienlijk dat de Tweede Kamer binnenkort voorstander bij meerderheid zal blijken voor de aanpassing van de Transgenderwet. Het is met deze wetswijziging de bedoeling dat jongvolwassenen, kinderen zelfs, makkelijker hun geslachtsregistratie kunnen laten wijzigen in de akte van geboorte. Niet alleen het versoepelen van de procedure van deze wijziging wordt beoogd: ook is het de bedoeling om de leeftijdsgrens van zestien jaar (geheel) te laten vervallen. 

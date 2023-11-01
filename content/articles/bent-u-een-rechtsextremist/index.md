@@ -8,7 +8,17 @@ themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Rechtsextremisme
+    - Metafysica
+    - Plato
+    - 'Immanuel Kant'
+    - 'Arthur Schopenhauer'
+    - 'Friedrich Nietzsche'
+    - 'Johann Wolfgang von Goethe'
+    - 'Richard Wagner'
+    - 'William Shakespeare'
+    - 'Joris van Rossum'
+    - 'Baruch Spinoza'
+    - 'George Berkeley'
 ---
 
 De AIVD bracht hun jaarverslag uit[^1] en gaf het volgende aan:

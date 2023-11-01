@@ -9,9 +9,16 @@ themes: 'De Uylenspieghel'
 image: 13979d4c-5ccb-45b5-8c17-3706728a2dc2.jpg
 anchor: Smart
 tags:
-    - Wappies
-    - 'Fjodor Dostojevski'
-    - 'Publieke omroep'
+    - Islam
+    - Metafysica
+    - 'René Guénon'
+    - Aristoteles
+    - Traditie
+    - Christendom
+    - 'Ananda Coomaraswamy'
+    - 'Frithjof Schuon'
+    - 'Meister Eckhart'
+    - Plotinus
 ---
 
 Een gewaagde zet van de Nederlandse Publieke Omroep: een nieuw programma getiteld "Wie is de trol?", belooft kijkers een vermakelijke en verwarrende ervaring te bieden, waarbij ze moeten raden wie van de deelnemers een doorgewinterde internettrol is.

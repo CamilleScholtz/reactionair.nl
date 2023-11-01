@@ -8,10 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Christendom
-    - 'Miguel de Cervantes'
     - Technologie
-    - Middeleeuwen
+    - 'Oswald Spengler'
+    - 'Martin Heidegger'
 ---
 
 Dat was samenvatting van de reactie twitteraar _@morrisjim_ toen een conservatieve mede-twitteraar opmerkte dat die middeleeuwen nog zo gek niet waren. Dat de middeleeuwen zo duister en barbaars zouden zijn wil ik in dit essay graag weerleggen, en ik wil enkele aspecten van de middeleeuwen uitlichten waar het tegenovergestelde het geval was.

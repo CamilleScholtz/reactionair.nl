@@ -9,9 +9,9 @@ image: 11addf4f-3f3e-403b-abb0-1d0bb69e8c6a.jpg
 anchor: Smart
 description: 'De toestroom van immigranten naar Nederland is enorm; dit terwijl er wel degelijk een geschikte wet bestaat. Wat gaat er schuil achter deze situatie en kan het anders?'
 tags:
-    - Immigratie
-    - Wetgeving
-    - Omvolking
+    - Woke
+    - FVD
+    - Gender
 ---
 
 In dit stukje wil ik u meenemen in het thema “omvolking” dat de laatste jaren vaker voorbijkomt. Er zijn soms felle meningen over maar meningen zijn slechts van beperkte waarde—ik zou een aantal *feiten* willen noemen, zodat u over dit onderwerp zelf een conclusie kunt vormen. Dat lijkt mij beter voor ons, want zo kunt u niet zeggen dat ik maar een “oppervlakkige reactionaire mening” verkondig, en bovendien is het beter voor het vormen van een publieke opinie.

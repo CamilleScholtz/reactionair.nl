@@ -8,11 +8,12 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'René Guénon'
-    - Metafysica
-    - Theologie
-    - 'Martin Lings'
-    - 'Martin Heidegger'
+    - Islam
+    - Immigratie
+    - 'Thierry Baudet'
+    - 'Conservatieve Alliantie'
+    - 'Geert Wilders'
+    - Feminisme
 ---
 
 Dit artikel gaat over enkele interacties met het idee van het onbegrensde, het eindeloze, oneindigheid, en enkele logische consequenties van deze concepten en de mogelijke implicaties voor theologie.

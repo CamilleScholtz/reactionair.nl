@@ -8,10 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: native.jpg
 anchor: Smart
 tags:
-    - Socrates
-    - Traditie
-    - 'Charles Lindberg'
-    - 'Walt Whitman'
+    - Christendom
+    - Liefde
+    - Valentijn
 note: "Dit is een vertaling van een transcriptie van een podcast door Asha Logos genaamd 'In Pursuit of Clarity, Episode #14: The Power of the Interpreter'."
 ---
 

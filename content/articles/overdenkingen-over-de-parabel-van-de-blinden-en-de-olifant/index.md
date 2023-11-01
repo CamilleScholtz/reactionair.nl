@@ -8,11 +8,9 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Center
 tags:
-    - 'Immanuel Kant'
-    - Metafysica
-    - 'Oswald Spengler'
-    - 'Thomas van Aquino'
-    - Faust
+    - BLM
+    - Marxisme
+    - 'Friedrich Schiller'
 ---
 
 ### Kentheorie in het westen...

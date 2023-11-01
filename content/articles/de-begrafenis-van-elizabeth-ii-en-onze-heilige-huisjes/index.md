@@ -8,8 +8,13 @@ themes: 'Politiek en Actualiteit'
 image: photo-1663610311981-4a904f3504d4.webp
 anchor: Smart
 tags:
-    - Monarchie
-    - Christendom
+    - Communisme
+    - Leninisme
+    - Boeren
+    - Maoïsme
+    - 'Jozef Stalin'
+    - 'Mao Zedong'
+    - Stikstof
 ---
 
 Het was maandag 19 september 2022 en samen met meer dan honderd miljoen mensen over heel deze aardkloot projecteerde mijn scherm *the British Broadcasting Corporation*. Op deze dag werd namelijk Koningin Elizabeth II, die 70 jaar en 214 dagen op de troon van het Verenigd Koninkrijk en het Gemenebest gezeten heeft, begraven. Een markant evenement evenement dat naar horen zeggen al sinds de jaren 60 is voorbereid. Het was een dag vol van pracht, minutieuze choreografie en aangename muziek.

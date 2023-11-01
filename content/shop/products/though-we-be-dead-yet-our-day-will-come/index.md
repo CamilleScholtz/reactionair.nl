@@ -8,8 +8,8 @@ date: '2020-07-15'
 languages: Engels
 front: f9b55643-5bcd-4727-be7f-5c795af3d979.jpg
 variants:
-    - { name: Paperback, isbn: 978---1-9409-33--79-5, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 7 }, import_price: { currency: USD, amount: 8.0 }, price: 10.99, out_of_stock: 0 }
-    - { name: Hardcover, isbn: 978---1-9409-33--40-5, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 10 }, import_price: { currency: USD, amount: 16.0 }, price: 18.99, out_of_stock: 0 }
+    - { name: Paperback, isbn: 978-1-940933-79-5, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 7 }, import_price: { currency: USD, amount: 8.0 }, price: 10.99, out_of_stock: 0 }
+    - { name: Hardcover, isbn: 978-1-940933-40-5, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 10 }, import_price: { currency: USD, amount: 16.0 }, price: 18.99, out_of_stock: 0 }
 tags:
     - Vooruitgang
 back: 1a4478ae-8d83-40d3-950d-6a290eb05532.jpg

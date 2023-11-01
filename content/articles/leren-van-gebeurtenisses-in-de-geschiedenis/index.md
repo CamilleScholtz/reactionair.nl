@@ -8,9 +8,8 @@ themes: 'Politiek en Actualiteit'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Islam
-    - 'Karl Marx'
-    - Iran
+    - Christendom
+    - 'Erik von Kuehnelt-Leddihn'
 ---
 
 >“De geschiedenis herhaalt zichzelf, eerst als tragedie, dan als klucht.”[^1] - Karl Marx

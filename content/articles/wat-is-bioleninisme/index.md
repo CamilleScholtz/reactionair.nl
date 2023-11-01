@@ -8,9 +8,10 @@ themes: 'Cultuur en Maatschappij'
 image: lenin.jpg
 anchor: Smart
 tags:
-    - Woke
-    - Leninisme
-    - Slavenmoraal
+    - Islam
+    - Liberalisme
+    - 'Thierry Baudet'
+    - 'Conservatieve Alliantie'
 note: "Dit is een vertaling van het essay 'Clown World Chronicles: What Is ‘Bioleninism’?', het origineel is [hier](https://vjmpublishing.nz/?p=21454) te lezen."
 ---
 

@@ -8,24 +8,10 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Islam
-    - Liberalisme
-    - 'Charles Darwin'
-    - 'Friedrich Nietzsche'
-    - 'Immanuel Kant'
-    - 'Theodor Adorno'
-    - 'Roger Scruton'
-    - 'Aldous Huxley'
-    - Materialisme
-    - 'Jean-Jacques Rousseau'
-    - 'Karl Marx'
-    - Verlichting
-    - 'Sigmund Freud'
-    - 'William Shakespeare'
-    - 'David Hume'
-    - 'Fjodor Dostojevski'
-    - 'John Gray'
-    - Nihilisme
+    - Rusland
+    - Oorlog
+    - NAVO
+    - Oekraïne
 note: "Dit is een vertaling van het essay 'From Humanism to Nihilism: The Eclipse of Secular Ethics', het origineel is [hier](https://479141-1506839-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/04/CMCPapers6-HumanismtoNihilism.pdf) te lezen."
 ---
 

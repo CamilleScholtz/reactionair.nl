@@ -7,6 +7,10 @@ authors:
 themes: 'Onderzoek en Speurwerk'
 image: qts5jkz.jpeg
 anchor: Smart
+tags:
+    - 'Pim Lammers'
+    - FVD
+    - Media
 ---
 
 De gemeentepolitiek, een minder saai onderwerp is moeilijk te vinden. Een groep mensen die zich bekommeren over laadpalen, hoge beschoeiingen en bestemmingsplannen in commissies en vergaderingen en, minstens zo belangrijk, de borrel achteraf. 

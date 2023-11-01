@@ -9,12 +9,11 @@ image: 8c037439-56fb-4096-9012-7b80b89dae1a.webp
 anchor: Smart
 caption: 'The county election van George Caleb Bingham, 1852.'
 tags:
-    - Democratie
-    - JA21
-    - BBB
-    - FVD
-    - Verkiezingen
-    - PVV
+    - Metafysica
+    - 'Immanuel Kant'
+    - 'Oswald Spengler'
+    - Faust
+    - 'Thomas van Aquino'
 ---
 
 Dat het ieders plicht is om aankomende 15 maart zijn stem uit te brengen, maakt het nog niet makkelijker om te bepalen welke lijst en kandidaat deze stem verdient. Dat komt vooral omdat het deelnemersveld bij een landelijke Nederlandse verkiezing zelden tegelijk zo vol en zo matig was. Hoewel de meeste partijen eigenlijk een grondige oorwassing verdienen, zal ik het eindeloos bekritiseren van verleden en huidige fouten hier zo veel mogelijk achterwege laten. We moeten het immers doen met wat ons wordt voorgeschoteld, tot de tijd dat wij zelf lijsten aan kiezers voor kunnen schotelen. Daarom neem ik een aantal van de logische opties die wij reactionaire (zo u wilt) stemmers hebben hieronder door, om voor u allen en voor mijzelf enige duidelijkheid te creëren in de chaos. Daarmee zal dit stemadvies voor de bewoners van de meeste provincies niet zeggen op wie zij precies moeten stemmen, maar het levert wel algemene redeneringen die handig kunnen zijn om mee te nemen in de stemkeuze. De eerste en belangrijkste overweging die hierbij gemaakt moet worden is: strategie of principe?

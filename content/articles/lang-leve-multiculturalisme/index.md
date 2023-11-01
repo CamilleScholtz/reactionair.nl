@@ -8,10 +8,12 @@ themes: 'Cultuur en Maatschappij'
 image: a-2.webp
 anchor: Smart
 tags:
-    - Islam
-    - Liberalisme
-    - LGBT
-    - Sport
+    - Democratie
+    - 'Franse revolutie'
+    - 'Joseph de Maistre'
+    - 'Julius Evola'
+    - Monarchie
+    - Plato
 ---
 
 Vorige week vond de aftrap (woordspeling bedoeld) van het Wereldkampioenschap voetbal (bij ons bekend als ‘het WK’) plaats. Dat betekent voor de gemiddelde voetbalfan: met een pot bier op de bank, overheerst door chauvinisme, uit volle borst meezingend met het volkslied, of voor de student het tijdens het hoorcollege openklappen van de laptops, VPN aan, en stilletjes juichen als het vaderland scoort. De plek waar landen en culturen bijeen komen, om eens een goed potje voetbal te spelen. Al lijkt het er op dat de ene cultuur toch de andere niet is. We kwamen er allemaal ineens achter dat Qatar homoseksualiteit niet goedkeurt!

@@ -9,11 +9,8 @@ image: discurso_funebre_pericles.png
 anchor: Smart
 caption: 'Perikles hält die Leichenrede door Philipp Foltz, 1852.'
 tags:
-    - Beschaving
-    - 'Bronze Age Pervert'
-    - Koryos
-    - 'Romeinse rijk'
-    - Vergilius
+    - Katholicisme
+    - Christendom
 note: 'Dit is een vertaling en bewerking van een Twitter-draad van [Mac Finn](https://twitter.com/ogmios).'
 ---
 

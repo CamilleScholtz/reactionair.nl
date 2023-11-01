@@ -10,9 +10,10 @@ anchor: Top
 description: 'In zijn nieuwe boek "Kafkaistan, democratie bedreigd door autocratie en fascisme" onderzoekt econoom en socioloog Frits Bosch de oorsprong en gevolgen van de toenemende toxische polarisatie in westerse landen. Hij biedt inzicht in de problematiek en mogelijke oplossingen voor de huidige crisis van vertrouwen in de politiek en democratie. Een relevante analyse voor kiezers in deze verkiezingstijd.'
 caption: 'Tekening van  Kafka'
 tags:
-    - Democratie
-    - Verkiezingen
-    - 'Franz Kafka'
+    - Esoterie
+    - D66
+    - 'Sigrid Kaag'
+    - 'Wouter Hanegraaff'
 note: "Dit artikel is een inleiding op het boek 'Kafkaistan, democratie bedreigd door autocratie en fascisme' van Frits Bosch. Is uw interesse door dit artikel gewekt? Bestel het boek dan *[hier](https://www.boekscout.nl/shop2/boek/9789464688764)*."
 ---
 

@@ -10,10 +10,9 @@ anchor: Smart
 description: 'Hoe bij toenemende polarisatie het vijandschap het vrije denken beknot.'
 caption: 'J.S. Davis, De slag bij Plataea (1900).'
 tags:
-    - Oorlog
-    - Oekraïne
-    - 'Sigmund Freud'
-    - Polarisatie
+    - Metafysica
+    - Plato
+    - Psychologie
 ---
 
 ### 1. Wat is polarisatie en hoe werkt die uit?

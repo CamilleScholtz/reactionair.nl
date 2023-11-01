@@ -9,9 +9,12 @@ image: b30a366b-6107-43ff-a533-b940de675fb7.jpg
 anchor: Top
 caption: 'Don Quichot en Sancho Panza voor de windmolens.'
 tags:
-    - 'Robert Lemm'
-    - Spanje
-    - 'Miguel de Cervantes'
+    - Liberalisme
+    - Traditie
+    - Reactionair
+    - Communisme
+    - Gemeenschap
+    - 'Rainer Maria Rilke'
 note: 'Dit artikel is een voorproefje van het nieuwe boek van Robert Lemm, getiteld *[Desengaño: De wereld is niet voor verbetering vatbaar](https://deblauwetijger.com/product/pre-order-robert-lemm-desengano/)*.'
 ---
 

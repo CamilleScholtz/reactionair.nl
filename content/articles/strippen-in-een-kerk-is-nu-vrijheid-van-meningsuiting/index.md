@@ -7,9 +7,6 @@ authors:
 themes: 'Cultuur en Maatschappij'
 image: untitled-5.webp
 anchor: Smart
-tags:
-    - Christendom
-    - Heiligschennis
 ---
 
 Het Europese Hof voor de Rechten van de Mens heeft Frankrijk veroordeeld voor het bestraffen van Éloïse Bouton, voor haar halfnaakte protest in een katholieke kerk. Ze was een kerk in gelopen en had de boel verstoord door topless een abortus na te doen van een zogenaamd kindje Jezus op het altaar.[^1]

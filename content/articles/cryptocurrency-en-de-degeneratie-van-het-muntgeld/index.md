@@ -9,8 +9,9 @@ image: thumb.webp
 anchor: Smart
 description: 'Het muntgeld van vroeger versus het geld van vandaag: ontdek de diepgaande betekenis van symbolen op munten en hoe het geld van vandaag de dag, inclusief cryptocurrencies, slechts een numerieke hoeveelheid is zonder intrinsieke waarde.'
 tags:
-    - 'René Guénon'
-    - Cryptocurrency
+    - Individualisme
+    - 'Carl Schmitt'
+    - 'Franz Kafka'
 ---
 
 In zijn magnum opus _'Le Règne de la Quantité et les Signes des Temps'_ wijdt René Guénon uit over de verwording van het muntgeld. Geld in zijn uitsluitend "economisch" standpunt behoort zo volledig mogelijk tot de "heerschappij van de kwantiteit". Het is dan ook niet verwonderlijk dat geld een prominente rol speelt in de hedendaagse maatschappij, aldus Guénon.

@@ -8,9 +8,11 @@ themes: 'Cultuur en Maatschappij'
 image: a.jpg
 anchor: Center
 tags:
-    - LGBT
-    - Woke
-    - Fictie
+    - Democratie
+    - Monarchie
+    - Plato
+    - 'Erik von Kuehnelt-Leddihn'
+    - 'Thomas van Aquino'
 note: "Dit is een vertaling van het korte verhaal 'Slay, Queen' van zero HP Lovecraft, het origineel is [hier](https://zerohplovecraft.substack.com/p/slay-queen) te lezen. We willen de lezer vantevoren waarschuwen dat de inhoud nogal onsmakelijk kan zijn, maar niettemin een belangrijke boodschap bevat en naar onze mening van hoge literaire waarde is. De ontknoping zal U verbazen!"
 ---
 

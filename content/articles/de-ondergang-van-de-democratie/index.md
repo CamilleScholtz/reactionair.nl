@@ -8,19 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Democratie
-    - Plato
-    - Liberalisme
-    - Socrates
-    - 'Jean-Jacques Rousseau'
-    - Aristoteles
-    - 'Karl Marx'
-    - Marxisme
-    - 'Erik von Kuehnelt-Leddihn'
-    - Nationaal-socialisme
-    - Pythagoras
-    - China
-    - Totalitarisme
+    - Technologie
+    - Wetenschap
 ---
 
 Liberale westerse democratie houdt zichzelf niet per definitie in stand. Revolutionaire bewegingen aan de linkerkant en contrarevolutionairen aan de rechter, kunnen gebruik maken van verkiezingen om het liberaal-democratische systeem af te schaffen.

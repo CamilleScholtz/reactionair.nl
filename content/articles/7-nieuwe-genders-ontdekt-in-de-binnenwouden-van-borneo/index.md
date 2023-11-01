@@ -9,8 +9,24 @@ image: 07dec1b8-8914-4737-970d-cfbaeba35e63.webp
 anchor: Smart
 description: "Ontdekkingsreiziger vindt 7 nieuwe genders in binnenwouden van Borneo, wat het totale aantal bekende genders op 114 brengt. Controversieel maar ook progressief nieuws.\n"
 tags:
-    - Woke
-    - Gender
+    - Metafysica
+    - Plato
+    - Aristoteles
+    - 'Jean-Jacques Rousseau'
+    - 'Ludwig Wittgenstein'
+    - 'Martin Heidegger'
+    - Traditie
+    - 'Paul Kingsnorth'
+    - 'Max Weber'
+    - 'John Vervaeke'
+    - 'Edmund Burke'
+    - Materialisme
+    - 'Friedrich Schiller'
+    - 'René Descartes'
+    - 'Bronze Age Pervert'
+    - Atheisme
+    - Japan
+    - Shinto
 ---
 
 **Kort nieuws** - Een dappere ontdekkingsreiziger heeft maar liefst 7 nieuwe genders ontdekt in de nog maar mondjesmaat in kaart gebrachte binnenwouden van Borneo. Met de tot nog 107 bekende genders, brengt dit het totale aantal op 114.[^1]

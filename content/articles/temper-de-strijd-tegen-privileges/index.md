@@ -8,9 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
 tags:
-    - 'Franse revolutie'
-    - Woke
-    - Reactionair
+    - Islam
+    - 'Conservatieve Alliantie'
 note: "Dit artikel is eerder gepubliceerd in het *[NRC handelsblad](https://www.nrc.nl/nieuws/2017/10/26/temper-de-strijd-tegen-privileges-13691826-a1578885)*. \n"
 ---
 

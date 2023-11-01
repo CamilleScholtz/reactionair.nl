@@ -8,8 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Incel
-    - Seks
+    - 'C. S. Lewis'
+    - Consumentisme
+    - Deugdethiek
     - Verslaving
 ---
 

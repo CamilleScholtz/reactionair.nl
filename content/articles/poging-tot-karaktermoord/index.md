@@ -10,10 +10,11 @@ anchor: Smart
 description: 'Activistische journalistiek in optima forma: De ongegronde beschuldigingen tegen NTR ZaterdagMatinee directeur Kees Vlaardingerbroek.'
 caption: 'Het Concertgebouw te Amsterdam, 1931'
 tags:
-    - 'Pim Lammers'
-    - Media
-    - 'Eva Vlaardingerbroek'
-    - 'Kees Vlaardingerbroek'
+    - 'Thierry Baudet'
+    - 'Mark Rutte'
+    - FVD
+    - Overheid
+    - VVD
 ---
 
 Met vage verdachtmakingen trachtte Wijbrand Schaap de vertrekkende directeur van de _NTR ZaterdagMatinee_ Kees Vlaardingerbroek in een artikel dat zondag op zijn website _Cultureel Persbureau_ verscheen in een kwaad daglicht te plaatsen. Het—ondertussen verwijderde—artikel repte over de van dergelijke pogingen tot karaktermoord welbekende "bronnen die anoniem willen blijven" en verbond hieraan vage beweringen als "[h]ij overschreed op het werk wel grenzen die betrekking hadden op leiderschap."[^1] Als kernverwijt jegens Vlaardingerbroek bracht hij het volgende te berde: "[t]oen er, bijvoorbeeld, onlangs een mannelijke en vrouwelijke solist bij het programma optraden, nodigde hij alleen de mannelijke solist uit voor een feestelijke afsluiting na het concert." Nergens wordt hier ook maar enige bron voor deze bewering genoemd en er is geen wederhoor gepleegd bij de heer Vlaardingerbroek zelf. In een privébericht van de journalist aan Vlaardingerbroek, door laatstgenoemde op Twitter openbaar gemaakt, schreef hij dat "[i]n de haast [...] heb ik nagelaten je om weerwoord te vragen." Zoals Vlaardingerbroek zelf echter opmerkt "[n]u schrijft Schaap zalvend. Hij weet dat zijn gif zijn werk al heeft gedaan."[^2]

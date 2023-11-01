@@ -9,14 +9,11 @@ image: thumb.webp
 anchor: Center
 caption: 'Friedrich Nietzsche door Edvard Munch, 1906.'
 tags:
-    - Plato
+    - 'Michel Foucault'
     - 'Friedrich Nietzsche'
-    - 'René Guénon'
-    - Metafysica
-    - 'Jacques Derrida'
-    - 'Ludwig Wittgenstein'
-    - 'Martin Heidegger'
-    - Linguistiek
+    - Consumentisme
+    - 'Karl Popper'
+    - Wetenschap
 ---
 
 {{< quote

@@ -9,13 +9,8 @@ image: c762c14e-d391-4e85-9796-f7359434becb.webp
 anchor: Smart
 description: 'Wat is de obsessie met nepnieuws en desinformatie? Filosoof Heinrichs betoogt dat feiten slechts een fragment van de waarheid zijn, kennis een beperkte houdbaarheid heeft en taal geen neutraal medium is. Daarnaast gaat politiek niet primair om waarheid en moeten ook onwaarheden geëerd worden.'
 tags:
-    - Wappies
-    - 'Johann Wolfgang von Goethe'
-    - Media
-    - Desinformatie
-    - 'Georg Hegel'
-    - 'Isaac Newton'
-    - Nepnieuws
+    - Islam
+    - Koran
 ---
 
 > O glücklich, wer noch hoffen kann, aus diesem Meer des Irrtums aufzutauchen!

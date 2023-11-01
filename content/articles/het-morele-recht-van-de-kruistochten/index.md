@@ -8,8 +8,11 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: smart
 tags:
-    - Islam
-    - Christendom
+    - Seks
+    - 'Pim Lammers'
+    - Gender
+    - 'Jean Piaget'
+    - Transgenderisme
 ---
 
 De kruistochten worden meestal aangehaald om het christendom, en specifiek het katholicisme, aan te vallen. Men doet dan, alsof het een voorbeeld was van christelijk terrorisme, het begin van een reeks conflicten in een tevoren vredig Midden-Oosten, of een christelijke veroveringsstrijd.

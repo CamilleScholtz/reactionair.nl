@@ -8,8 +8,8 @@ themes: 'Politiek en Actualiteit'
 image: 61697f2f-9d73-413e-832e-970503887057.webp
 anchor: Smart
 tags:
-    - Verkiezingen
-    - 'Pieter Omtzigt'
+    - Staat
+    - Macht
 ---
 
 Nog altijd leeft Nederland in het ongewisse over de keuze die ’s lands populairste politicus over zijn politieke toekomst gaat maken in de aanloop naar de komende Tweede Kamerverkiezingen. Krijgen wij op 22 november een stembiljet met daarop de Lijst Pieter Omtzigt onder onze neus, of verlaat de hoop van miljoenen definitief de politiek? Beide opties kennen grote voor- en nadelen. Wanneer Omtzigt meedoet aan de verkiezingen committeert hij zich aan de opbouw van een hoogstwaarschijnlijk gigantische toekomstige partij, die maar al te gemakkelijk een reus op lemen voeten kan blijken. Wanneer hij echter niet meedoet, verliest Nederland een van zijn effectiefste, meest geliefde kamerleden en de laatste hoop die velen nog in het systeem koesteren. Het lijkt een onmogelijk dilemma voor de nog altijd van een inzinking herstellende Omtzigt, maar een geitenpaadje biedt uitkomst, een geitenpaadje waarvan het valt te bezien of Omtzigt zelf überhaupt weet dat deze bestaat.

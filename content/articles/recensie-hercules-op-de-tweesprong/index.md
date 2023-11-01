@@ -10,12 +10,9 @@ anchor: Smart
 description: 'In zijn nieuwe boek, Hercules op de tweesprong, herwaardeert Andreas Kinneging de antieke wijsheid en deugdenethiek, terwijl hij een kritische blik werpt op de moderniteit. Met interessante interpretaties van klassieke denkers en een eigen typologie van de filosofiegeschiedenis laat hij zien waarom we meer kunnen leren van de Ouden dan we denken. Een verfrissende kijk op de grondslagen van rechtsstaat en democratie, een must-read voor wie geïnteresseerd is in de crisis van onze tijd.'
 caption: 'Peter Paul Rubens, De dronken Hercules door een sater en een nimf ondersteund'
 tags:
-    - Liberalisme
-    - Conservatisme
-    - 'Griekse mythologie'
-    - Mythologie
-    - 'Andreas Kinneging'
-    - Rechtsfilosofie
+    - Woke
+    - 'Pim Lammers'
+    - Media
 note: 'Dit artikel is een recensie van het boek ‘Hercules op de tweesprong’ van dr. Andreas Kinneging, hoogleraar te Leiden. Is uw interesse door dit artikel gewekt? Bestel het boek dan *[hier](https://uitgeverijprometheus.nl/boeken/hercules-op-de-tweesprong-gebonden/)*. Beluister ook *[deze podcast](https://www.cafeweltschmerz.nl/videos/20230605b-volledige-aflevering-boeken-die-u-niet-mag-lezen-odysee/)* waarin Cliteur en Kinneging in gesprek gaan.'
 ---
 

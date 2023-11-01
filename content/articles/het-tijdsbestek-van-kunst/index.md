@@ -8,8 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Christendom
-    - Kunst
+    - Liberalisme
+    - 'Jean-Jacques Rousseau'
+    - Contrarevolutie
 note: "Dit is een vertaling van het essay 'The Timeframe of Art', het origineel is [hier](https://glasszealot.substack.com/p/the-timeframe-of-art) te lezen."
 ---
 

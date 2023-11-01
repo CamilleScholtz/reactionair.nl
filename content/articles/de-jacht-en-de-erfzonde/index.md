@@ -8,9 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: 32722f84-ceea-4332-b3fc-1244f6e34bee.webp
 anchor: Top
 tags:
-    - Schoonheid
-    - Kunst
-    - Natuur
+    - Fictie
+    - Klimaatverandering
 ---
 
 Het leven van een wild konijn wordt gekenmerkt door angst en pijn. Hij leeft zijn leven tussen het gras en de bosjes, wetend dat hij zich moet verschuilen bij het zien van een adelaar. Zijn leven hangt ervan af. Tegelijkertijd weet de adelaar dat zijn bestaan afhangt van het jagen op knaagdieren en andere kleine, pluizige beestjes. Die verhoudingen vormen de essentie van het dierenrijk. De geschiedenis van het leven op aarde is een geschiedenis van bloed en jacht.

@@ -9,10 +9,8 @@ image: c809b948-dee5-456f-93d9-a42f4b86037c.webp
 anchor: Smart
 caption: 'Bob Scholte (Left Laser) spreekt op een bijeenkomst over de strijd in de Filipijnen.'
 tags:
-    - Marxisme
-    - Communisme
-    - 'Left Laser'
-    - Maoïsme
+    - Woke
+    - LGBT
 ---
 
 Terwijl de gloriedagen van PowNews ver achter ons liggen, blijkt de interviewstijl van de broeders van de roze plopkap nog altijd even succesvol. In 2023 is het echter het, dit voorjaar uit de startblokken geknalde *“Left Laser”*, dat furore maakt met het opnaaien van geïnterviewden door opdringerigheid, vervelende vragen en geniepige lachjes van de interviewer. Die interviewer, de 28-jarige Bob Scholte, mag met zijn kale kop en agressieve ogen dan andere associaties oproepen, het platform *“Left Laser”* is zoals de naam al aangeeft links. Er is niet veel graafwerk nodig, het bekijken van de header van het Twitteraccount is genoeg, om dat oordeel enigszins bij te stellen: *“Left Laser”* is zeer links, extreemlinks, communistisch. Daar doet Scholte indien gevraagd ook niet moeilijk over. “Ik ben maoïst,” meldde hij Argus Pers.[^1] Het is een even eerlijke als zorgwekkende bekentenis en toch eentje die het bredere publiek volledig lijkt te zijn ontschoten.[^2] Bovendien is het dan wel een eerlijke, maar ook een erg beknopte typering van de achtergrond van Scholte en *“Left Laser”*. Wie het hele verhaal wil snappen, moet een duik nemen in 61 jaar communistische geschiedenis, liefdesverhoudingen met terrorisme en een revolutionaire hoop gevestigd op het dodelijkste regime in de wereldgeschiedenis.

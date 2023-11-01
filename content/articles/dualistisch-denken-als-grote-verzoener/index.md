@@ -8,9 +8,8 @@ themes: 'Religie en Wijsbegeerte'
 image: a.jpg
 anchor: Smart
 tags:
-    - Aristoteles
-    - Esoterie
-    - 'J.R.R. Tolkien'
+    - 'Karl Marx'
+    - Communisme
 ---
 
 In deze tijden waarin de moderne westerling zich gedwongen ziet om zijn hele wereldbeschouwing opnieuw tegen het licht te houden zien we in de marge ook bepaalde zaken opnieuw ter discussie gesteld worden waarvan de discussie voor eens en altijd gevoerd leek.

@@ -10,11 +10,7 @@ image: 6d4629eb-4b9a-4526-b276-c0509433efd8.jpg
 anchor: Smart
 tags:
     - Woke
-    - Marxisme
-    - Communisme
-    - Ressentiment
-    - Racisme
-    - Blankenhaat
+    - 'Pim Lammers'
 ---
 
 {{< quote text="All the world’s a stage,<br>And all the men and women merely players." author="William Shakespeare" >}}

@@ -9,8 +9,8 @@ image: fiesta.jpg
 anchor: Top
 tags:
     - Democratie
-    - Spanje
-    - 'Francisco Franco'
+    - 'Franz Kafka'
+    - Verkiezingen
 ---
 
 De Spaanse senaat heeft begin deze maand eindelijk de controversiële ‘democratische’ herinnering wet goedgekeurd. Een stokpaardje van de socialistisch-communistische regering in Spanje. Dit voorstel werd meer dan 4 jaar besproken. De New York Times beschreef indertijd hoe de huidige extreem linkse regering haar ideologische en eenzijdige versie van de geschiedenis tot wet wil verheffen en tegengeluiden wil verbieden.[^1]

@@ -8,11 +8,12 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
 tags:
+    - Islam
+    - Plato
     - Liberalisme
-    - 'Oswald Spengler'
-    - Communisme
-    - 'Erik von Kuehnelt-Leddihn'
-    - Nationaal-socialisme
+    - 'Conservatieve Alliantie'
+    - 'Geert Wilders'
+    - 'Pim Fortuyn'
 ---
 
 _Me-too! Racist! Fascist! Woke is te ver gegaan! Black lives matter! Eigen volk eerst! Prikdictatuur. MinistryofTruth..._ Laten we ons richten op de bevrijding 77 jaar geleden om ons helderheid te verschaffen in een tijd van hernieuwde chaos en strijd.

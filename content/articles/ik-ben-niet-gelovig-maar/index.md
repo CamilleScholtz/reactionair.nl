@@ -8,8 +8,9 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Theologie
-    - Esthetiek
+    - Individualisme
+    - Traditie
+    - Kapitalisme
 note: "Dit is een vertaling van het essay 'I'm not religious, but...', het origineel is [hier](https://glasszealot.substack.com/p/im-not-religious-but) te lezen."
 ---
 

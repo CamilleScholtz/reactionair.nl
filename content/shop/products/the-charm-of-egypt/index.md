@@ -10,8 +10,8 @@ front: 916e971c-d4b6-46e7-a6a8-f713d46ed24a.jpg
 variants:
     - { name: Paperback, isbn: 978-1-956887-31-0, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 8 }, import_price: { currency: USD, amount: 15.91 }, price: 22.99, out_of_stock: 0 }
 tags:
-    - Kunst
     - Technologie
+    - Kunst
     - Egypte
     - Futurisme
 back: 9e0c2564-2513-45ba-b0f8-ad7d274652d8.jpg

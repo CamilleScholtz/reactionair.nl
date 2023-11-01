@@ -8,8 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: pods.png
 anchor: Smart
 tags:
-    - Klimaatverandering
-    - Fictie
+    - 'Theodor Adorno'
+    - Muziek
+    - 'Richard Wagner'
 note: "Dit is een vertaling van het korte verhaal 'The Green New Deal', het origineel is [hier](https://zerohplovecraft.substack.com/p/the-green-new-deal) te lezen."
 ---
 

@@ -8,10 +8,9 @@ themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Rusland
-    - Democratie
-    - Oekraïne
-    - 'Thierry Baudet'
+    - 'Karl Marx'
+    - Communisme
+    - Marxisme
 ---
 
 >de·bat (het; o; meervoud: debatten)<br />

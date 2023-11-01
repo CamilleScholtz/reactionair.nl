@@ -8,9 +8,10 @@ themes: 'Onderzoek en Speurwerk'
 image: 89b6bc6be3dfa2fff34036d827bf5b96.jpg
 anchor: Top
 tags:
+    - 'Friedrich Nietzsche'
+    - Katholicisme
     - Christendom
-    - Communisme
-    - 'Johannes Paulus II'
+    - Katholiek
 ---
 
 Recent heeft het RD een artikel uitgebracht waarin het aantijgingen en beweringen tegen geestelijken van de katholieke kerk, o.m. van Trouw, klakkeloos overneemt.[^1] Journalist Ekke Overbeek stelt, dat Paus Johannes Paulus II reeds als aartsbisschop in Polen weet zou hebben gehad van gevallen van kindermisbruik, maar de misbruikers zou hebben overgeplaatst.[^2] Deze bewering werd herhaald door de NOS, en nu ook het RD. Het gaat hierbij om beschuldigingen van ruim een halve eeuw geleden en tegen mensen die inmiddels allang dood zijn. Trouw zegt echt ‘keihard’ bewijs te hebben, waarbij het blijkt te gaan om claims van de (door de KGB geïnfiltreerde) geheime dienst ten tijde van de communistische dictatuur in Polen.

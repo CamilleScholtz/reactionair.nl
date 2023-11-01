@@ -10,11 +10,9 @@ image: thumb.webp
 anchor: Smart
 description: 'Ontdek de post-marxistische filosoof Jean Baudrillard en zijn concept hyperrealiteit. Leer hoe het menselijke bewustzijn niet meer in staat is de werkelijkheid te onderscheiden van een simulatie daarvan.'
 tags:
-    - Rusland
-    - Oorlog
-    - Oekraïne
-    - 'Jean Baudrillard'
-    - 'Oscar Wilde'
+    - Aristoteles
+    - Esoterie
+    - 'J.R.R. Tolkien'
 ---
 
 Jean Baudrillard (1929-2007) was een post-marxistische filosoof die vooral bekend is geworden om het concept hyperrealiteit. Hiermee bedoelde hij dat we in een fase van de geschiedenis zijn gekomen waarin het menselijke bewustzijn niet meer in staat is de werkelijkheid van een simulatie daarvan te onderscheiden.

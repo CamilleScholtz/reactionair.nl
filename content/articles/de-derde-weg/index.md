@@ -9,7 +9,8 @@ image: 188da994-129a-4726-9fbd-4d2faf2b3a23.jpg
 anchor: Smart
 description: 'Is het Westen hopeloos afgedwaald van de juiste, natuurlijke weg? Het verval van onze maatschappij is overal zichtbaar, maar wat als we een sociaal experiment zouden uitvoeren om inzicht te krijgen in de juiste weg?'
 tags:
-    - Gemeenschap
+    - Kunst
+    - Christendom
 ---
 
 Een maatschappij die vasthoudt aan een achterhaald of failliet systeem zal allerlei kunstgrepen uithalen om het eigen voortbestaan te rekken. Logisch; want ook een collectief ter grootte van een complete maatschappij heeft een overlevingsdrang. Zo zagen we verschillende grote rijken en beschavingen in het verleden een verbeten strijd voeren om het onvermijdelijke uit te stellen.

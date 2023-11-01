@@ -8,8 +8,7 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Overheid
-    - 'Simone Weil'
+    - Globalisme
 ---
 
 Met de burgerman heeft de reactionair zo min mogelijk van doen, met burgerlijkheid nog minder. Staatsburgers leven om plichten te vervullen, om zich te schikken naar heersende normen, om zich te richten op veronderstellingen van de tweede orde, om de bestuurders (of de paar overgebleven denkers) die zich bezighouden met veronderstellingen van de eerste orde te mystificeren. Vraag ze niet om op het leven te reflecteren of om het leven te benaderen als hoogste categorie. In naam van de burgerman wordt de markthal opgetuigd, in naam van de burgerman wordt de persvrijheid gedefinieerd. Of een ziekenhuis wel of niet wordt gesloopt, dat is niet aan de burgerman. Of medicijnfabrikanten zich houden aan de regels van de markt, of zij zich een machtspositie verwerven die het überhaupt nog toestaat om ze regels op te leggen, dat is niet aan de burgerman. Of de pers besluit om als propagandakanaal (_Lügenpresse_) te functioneren, ook dat is niet aan de burgerman. 

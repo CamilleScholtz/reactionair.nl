@@ -8,11 +8,8 @@ themes: 'Onderzoek en Speurwerk'
 image: b83c21dd-6fa7-406a-9df0-9e16db757c99.webp
 anchor: Top
 tags:
-    - LGBT
-    - Woke
-    - 'Pim Lammers'
-    - 'Mark Rutte'
-    - Onderwijs
+    - Economie
+    - Globalisme
 note: '*Updates!* Onze primeur heeft geleid tot kamervragen van BVNL, zie einde artikel!'
 ---
 

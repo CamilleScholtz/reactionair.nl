@@ -9,8 +9,8 @@ themes: 'Cultuur en Maatschappij'
 image: 3000.jpeg
 anchor: Smart
 tags:
-    - Abortus
-    - Montesquieu
+    - Woke
+    - 'Marcus Aurelius'
 ---
 
 Het Westen gaat gebukt onder een extreem simplistische en bijna mythische visie op de Franse Revolutie en de Verlichting. Door de Franse Revolutie zouden we zogenaamd democratie en dingen als rechtsstaat, vrijheid en ‘gelijkheid’ hebben. Daarvoor was er onderdrukking, uitbuiting en oneerlijkheid. De duistere Middeleeuwen en heksenjachten.

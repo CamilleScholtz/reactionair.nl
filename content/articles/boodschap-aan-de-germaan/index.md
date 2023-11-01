@@ -8,12 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Plato
-    - Islam
-    - Liberalisme
-    - 'Conservatieve Alliantie'
-    - 'Geert Wilders'
-    - 'Pim Fortuyn'
+    - Klimaatverandering
+    - Boeren
 ---
 
 Het eindeloos gehuil om migratie, omvolking en weet ik allemaal niet wat, begint mij langzamerhand de keel uit te hangen. In plaats van te externaliseren moet er grondig aan introspectie gedaan worden.

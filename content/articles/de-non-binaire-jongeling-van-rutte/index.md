@@ -8,8 +8,10 @@ themes: 'Onderzoek en Speurwerk'
 image: a8397ba8-053f-4dce-9977-fe608912d966.jpg
 anchor: Smart
 tags:
+    - Metafysica
+    - Woke
     - LGBT
-    - 'Mark Rutte'
+    - 'Jacques Derrida'
 ---
 
 In de majestueuze zalen van de wereldpolitiek, waar doorgewinterde politieke zwaargewichten en imposante staatsmannen de koers van de wereld bepalen, zien wij keer op keer een jong jochie om Rutte heen hangen. Op elke cruciale top, van de G20-bijeenkomsten tot ontmoetingen met leiders als Zelensky en Netanyahu, is dit opvallend figuur steeds weer gespot.

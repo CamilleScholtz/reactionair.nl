@@ -8,9 +8,11 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Seks
-    - Woke
-    - 'Curtis Yarvin'
+    - 'Immanuel Kant'
+    - Individualisme
+    - 'Jean-Jacques Rousseau'
+    - 'Jean-Paul Sartre'
+    - 'Sigmund Freud'
 note: 'Dit is een vertaling en bewerking van een Twitter-draad van [Curtis Yarvin](https://twitter.com/moldbugman).'
 ---
 
