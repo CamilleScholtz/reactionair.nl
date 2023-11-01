@@ -8,11 +8,11 @@ themes: 'Cultuur en Maatschappij'
 image: 43806174-a014-4e68-8f43-8b04d7a52bd1.webp
 anchor: Smart
 tags:
+    - 'Karl Marx'
     - 'Franse revolutie'
     - Woke
-    - 'Karl Marx'
-    - Marxisme
     - Communisme
+    - Marxisme
     - Libertarisme
 ---
 

@@ -8,9 +8,9 @@ themes: 'Religie en Wijsbegeerte'
 image: c4dfa932-378b-400e-ad95-d61ceecb59f0.webp
 anchor: Smart
 tags:
+    - 'René Guénon'
     - Liberalisme
     - Woke
-    - 'René Guénon'
     - 'Magnus Bradshaw'
 ---
 

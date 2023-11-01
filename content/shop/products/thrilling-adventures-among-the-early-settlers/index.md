@@ -8,7 +8,7 @@ date: '2022-09-23'
 languages: Engels
 front: d34d9314-e139-4292-a186-45fd994a65dd.jpg
 variants:
-    - { name: Paperback, isbn: 978---1-9568-87--39-6, supplier: 'Ex Libris', size: { height: 229, width: 152, depth: 8 }, import_price: { currency: USD, amount: 15.91 }, price: 17.99, out_of_stock: 0 }
+    - { name: Paperback, isbn: 978-1-956887-39-6, supplier: 'Ex Libris', size: { height: 229, width: 152, depth: 8 }, import_price: { currency: USD, amount: 15.91 }, price: 17.99, out_of_stock: 0 }
 tags:
     - Amerika
 back: 604b74a0-7454-454e-94a0-f14523e75b53.jpg

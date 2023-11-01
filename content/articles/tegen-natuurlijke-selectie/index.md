@@ -9,8 +9,8 @@ image: thumb.webp
 anchor: Smart
 tags:
     - 'Charles Darwin'
-    - 'Nicolás Gómez Dávila'
     - Evolutie
+    - 'Nicolás Gómez Dávila'
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/devolutie-theorie/) het vorige deel._

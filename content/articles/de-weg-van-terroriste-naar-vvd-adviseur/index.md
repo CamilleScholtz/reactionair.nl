@@ -9,8 +9,8 @@ image: 97656e6c-4417-49a5-9c06-0be0e62c4767.jpg
 anchor: Smart
 tags:
     - Islam
-    - VVD
     - 'Soumaya Sahla'
+    - VVD
     - AIVD
     - Radicalisering
 ---

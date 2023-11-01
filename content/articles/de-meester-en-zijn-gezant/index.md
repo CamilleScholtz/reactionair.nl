@@ -12,11 +12,11 @@ caption: 'Filmposter voor een documentaire over het werk van McGilchrist.'
 tags:
     - Plato
     - Hedonisme
+    - 'Paul Kingsnorth'
+    - Verlichting
+    - 'Johann Wolfgang von Goethe'
     - 'Richard Dawkins'
     - Atheisme
-    - 'Johann Wolfgang von Goethe'
-    - Verlichting
-    - 'Paul Kingsnorth'
     - Augustinus
     - 'Daniel Dennett'
     - Hersens

@@ -9,8 +9,8 @@ image: img_4010.jpeg
 anchor: Smart
 tags:
     - Plato
-    - Oorlog
     - Socrates
+    - Oorlog
     - Xenophon
 ---
 

@@ -8,8 +8,8 @@ themes: 'Politiek en Actualiteit'
 image: 9cb19b11-90be-47d4-bcf5-b5f3fd0cb263.jpg
 anchor: Smart
 tags:
-    - Democratie
     - 'René Guénon'
+    - Democratie
     - 'Thierry Baudet'
     - BBB
     - 'Pim Lammers'

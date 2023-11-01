@@ -9,10 +9,10 @@ image: 7fca0e77-4253-41b8-8ee2-8820c0df32ff.jpg
 anchor: Top
 tags:
     - Plato
-    - 'Friedrich Nietzsche'
-    - Wetenschap
     - Socrates
+    - 'Friedrich Nietzsche'
     - 'John Vervaeke'
+    - Wetenschap
     - Zorg
 ---
 

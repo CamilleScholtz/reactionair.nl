@@ -11,8 +11,8 @@ anchor: Smart
 caption: 'Jan-Joeri (links, tevens in politiek opzicht) draagt een vest van Balenciaga (800€) en een arbeidersrugzak van de Zeeman (12€).'
 tags:
     - 'Karl Marx'
-    - Marxisme
     - Communisme
+    - Marxisme
 ---
 
 **Lokaal nieuws**: Een ongekende samenloop van omstandigheden: de zeventienjarige Jan-Joeri uit het welvarende Gooi heeft zich gewaagd aan een ontmoeting met een arbeider, die toevallig ook nog eens voor zijn eigen vader werkte. 

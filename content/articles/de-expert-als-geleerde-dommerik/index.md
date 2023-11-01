@@ -8,8 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Wetenschap
     - Technologie
+    - Wetenschap
 ---
 
 In de hedendaagse samenleving zien wij het regelmatig: een geleerde met een hoogdravende mening. Vaak is dit nog over een precair maatschappelijk onderwerp. De geleerde wordt uitgenodigd voor televisieprogramma’s, kranten, tijdschriften, enzovoort. Is dit gek?

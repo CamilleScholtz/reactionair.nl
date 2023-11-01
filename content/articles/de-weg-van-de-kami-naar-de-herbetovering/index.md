@@ -8,22 +8,22 @@ themes: 'Religie en Wijsbegeerte'
 image: kamishikimi_kumanoimasu_shrine_001.jpg
 anchor: Smart
 tags:
-    - Plato
     - Metafysica
-    - Materialisme
-    - 'Jean-Jacques Rousseau'
-    - Atheisme
+    - Plato
     - Aristoteles
-    - 'Edmund Burke'
-    - 'Friedrich Schiller'
-    - 'René Descartes'
-    - 'Paul Kingsnorth'
-    - 'Bronze Age Pervert'
-    - Traditie
+    - 'Jean-Jacques Rousseau'
     - 'Ludwig Wittgenstein'
     - 'Martin Heidegger'
+    - Traditie
+    - 'Paul Kingsnorth'
     - 'Max Weber'
     - 'John Vervaeke'
+    - 'Edmund Burke'
+    - Materialisme
+    - 'Friedrich Schiller'
+    - 'René Descartes'
+    - 'Bronze Age Pervert'
+    - Atheisme
     - Japan
     - Shinto
 ---

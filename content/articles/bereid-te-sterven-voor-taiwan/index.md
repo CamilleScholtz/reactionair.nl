@@ -9,8 +9,8 @@ image: taiwan.webp
 anchor: Smart
 tags:
     - Oorlog
-    - Oekraïne
     - China
+    - Oekraïne
     - Taiwan
 ---
 

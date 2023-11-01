@@ -8,11 +8,11 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Center
 tags:
-    - 'Immanuel Kant'
     - Metafysica
+    - 'Immanuel Kant'
     - 'Oswald Spengler'
-    - 'Thomas van Aquino'
     - Faust
+    - 'Thomas van Aquino'
 ---
 
 ### Kentheorie in het westen...

@@ -10,8 +10,8 @@ anchor: Smart
 caption: 'James Ensor, De val van de opstandige engelen'
 tags:
     - Plato
-    - 'Immanuel Kant'
     - Socrates
+    - 'Immanuel Kant'
     - Schoonheid
     - Plotinus
     - Xenophanes

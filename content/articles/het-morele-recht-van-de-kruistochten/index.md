@@ -6,7 +6,7 @@ authors:
     - Sanura
 themes: 'Cultuur en Maatschappij'
 image: thumb.webp
-anchor: smart
+anchor: Smart
 tags:
     - Islam
     - Christendom

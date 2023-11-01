@@ -8,9 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: 12eac8367a00449eb7bba730006f4c8b-medium.jpg
 anchor: Smart
 tags:
-    - 'Franz Kafka'
     - Individualisme
     - 'Carl Schmitt'
+    - 'Franz Kafka'
 note: "Dit is een vertaling van het essay 'On Insectisation', het origineel is [hier](https://parallaxoptics.com/2020/12/30/on-insectisation/) te lezen."
 ---
 

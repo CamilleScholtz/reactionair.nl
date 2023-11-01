@@ -8,9 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Robert Lemm'
     - 'Immanuel Kant'
     - 'Mark Rutte'
+    - 'Robert Lemm'
     - 'Jacues Ellul'
     - 'Rutger Bregman'
     - Ethiek

@@ -9,9 +9,9 @@ image: pm_03.jpg
 anchor: Smart
 tags:
     - Oorlog
-    - Oekraïne
     - Kapitalisme
     - China
+    - Oekraïne
     - Macht
     - 'Sun Tzu'
 ---

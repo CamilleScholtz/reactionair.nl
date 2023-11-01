@@ -10,14 +10,14 @@ anchor: Center
 description: 'Rutgers is de organisatie achter de Week van de Lentekriebels. Daarin gaan ze uw kinderen seksuele voorlichting geven. Waar komt deze stichting eigenlijk vandaan? Proberen ze uw kinderen te hersenspoelen of slechts de nodige kennis bij te spijkeren? In dit artikel duiken we in de organisatie die centraal staat in de storm.'
 caption: 'Jan Rutgers, de naamgever van Rutgers.'
 tags:
-    - LGBT
+    - 'Karl Marx'
     - Woke
+    - LGBT
     - 'Thierry Baudet'
     - 'Pim Lammers'
-    - 'Karl Marx'
     - Marxisme
-    - Rutgers
     - Feminisme
+    - Rutgers
 ---
 
 OPHEF! "Uw kinderen worden gehersenspoeld en geseksualiseerd!", "Nee hoor, het gaat slechts om voorlichting en preventie!" — Wat is er nou werkelijk gaande? Wat zijn de tijden toch veranderd, van de preutse jaren vijftig naar de vrije jaren zeventig naar de preutse jaren twintig. En wat is er mis met een beetje vrijheid? Met kinderen die zichzelf leren te ontdekken en ouders, voogden en leraressen die hen hierbij begeleiden? *Reactionair.nl* zoekt het uit.

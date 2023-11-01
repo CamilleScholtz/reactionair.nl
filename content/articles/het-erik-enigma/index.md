@@ -8,10 +8,10 @@ themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Liberalisme
-    - Katholicisme
-    - Fascisme
     - 'Karl Marx'
+    - Liberalisme
+    - Fascisme
+    - Katholicisme
     - Communisme
     - 'Erik von Kuehnelt-Leddihn'
     - Nationaal-socialisme

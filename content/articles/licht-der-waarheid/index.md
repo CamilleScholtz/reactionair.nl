@@ -9,11 +9,11 @@ image: thumb.webp
 anchor: Smart
 tags:
     - Plato
-    - 'Karl Popper'
-    - Christendom
     - 'Immanuel Kant'
-    - 'Erik von Kuehnelt-Leddihn'
+    - Christendom
+    - 'Karl Popper'
     - China
+    - 'Erik von Kuehnelt-Leddihn'
 ---
 
 Op deze site is de auteur De Melancholieke Nar recent geleden begonnen aan een serie artikelen,[^1] waarin hij het streven naar objectiviteit tot een zinloze onderneming bestempelt. 

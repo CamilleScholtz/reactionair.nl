@@ -8,8 +8,8 @@ themes: 'Religie en Wijsbegeerte'
 image: v.jpg
 anchor: Smart
 tags:
-    - Plato
     - Metafysica
+    - Plato
     - Psychologie
 note: "Dit is een vertaling van het essay *'On Psychic Platonism'*, het origineel is *[hier](https://esoterictraditionalism.wordpress.com/2019/12/23/on-psychic-platonism/)*  te lezen."
 ---

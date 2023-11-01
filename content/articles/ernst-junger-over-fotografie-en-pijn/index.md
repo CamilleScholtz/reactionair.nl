@@ -9,9 +9,9 @@ image: 0f3ffa6b-821a-454d-bd60-3fdb72558de5.jpg
 anchor: Top
 tags:
     - Oorlog
-    - 'Jean Baudrillard'
     - 'Theodor Adorno'
     - Media
+    - 'Jean Baudrillard'
     - 'Ernst Jünger'
     - Film
     - 'Guy Debord'

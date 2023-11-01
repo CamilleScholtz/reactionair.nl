@@ -9,11 +9,11 @@ image: 32b0d556-ba58-4b80-8e4d-308b8491cd1e.jpg
 anchor: Smart
 description: 'Een reflectie op de strijd om het onderwijs: hoe het liberalisme de progressieve hegemonie in het onderwijs mogelijk maakte en waarom conservatieven moeten vechten voor hun eigen visie. Het agenderen van excessen in het onderwijs als politieke instrument en het bouwen aan een eigen conservatief wereldbeeld zijn cruciaal in deze strijd.'
 tags:
-    - LGBT
     - Woke
+    - LGBT
+    - Onderwijs
     - 'Pim Lammers'
     - Christendom
-    - Onderwijs
 ---
 
 Stijgende bezoekersaantallen, meermaals het landelijks discours beïnvloed en Kamervragen gesteld naar aanleiding van een artikel van _Reactionair.nl_: eigenlijk hebben wij als redactie enkel reden om heel tevreden te zijn met hoe het ons de laatste maanden vergaat. En toch… tóch is het goed om na het naar de achtergrond verdwijnen van de Kinderboekenweek en het zakken van de Lentekriebels onszelf een spiegel voor te houden, te reflecteren op de door ons ingeslagen weg en de kracht te duiden die we pogen te ontketenen door het agenderen van juist díe specifieke onderwerpen in een specifiek thema die als excessen de giftige aard van de progressief-liberale norm aantonen.

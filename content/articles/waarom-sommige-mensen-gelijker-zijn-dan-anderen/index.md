@@ -9,9 +9,9 @@ image: petrov-vodkin-fantasy.jpg
 anchor: Smart
 caption: 'Kuzma Petrov-Vodkin, Fantasia'
 tags:
-    - 'Friedrich Nietzsche'
     - 'Michel Foucault'
     - 'Arthur Schopenhauer'
+    - 'Friedrich Nietzsche'
     - 'Jacques Derrida'
     - Ressentiment
     - 'François-René de Chateaubriand'

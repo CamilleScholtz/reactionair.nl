@@ -9,10 +9,10 @@ image: 8488e2ac-cd20-40f7-a223-78d8899c191f.jpg
 anchor: Smart
 caption: 'Caspar David Friedrich, Klosterruine Eldena bei Greifswald (ca. 1825)'
 tags:
-    - 'Immanuel Kant'
     - Metafysica
-    - 'Jean-Jacques Rousseau'
     - 'William Blake'
+    - 'Immanuel Kant'
+    - 'Jean-Jacques Rousseau'
     - Verlichting
     - 'Johann Georg Hamann'
     - 'Moses Mendelssohn'

@@ -6,11 +6,11 @@ authors:
     - 'Alexander Wolfheze'
 themes: 'Cultuur en Maatschappij'
 image: thumb.webp
-anchor: smart
+anchor: Smart
 tags:
     - 'Thierry Baudet'
-    - 'Mark Rutte'
     - 'Carl Schmitt'
+    - 'Mark Rutte'
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/tegen-natuurlijke-selectie/) het vorige deel._

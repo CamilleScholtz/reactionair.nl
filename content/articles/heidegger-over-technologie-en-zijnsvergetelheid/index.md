@@ -8,9 +8,9 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Center
 tags:
+    - Technologie
     - 'Oswald Spengler'
     - 'Martin Heidegger'
-    - Technologie
 note: "Dit is een vertaling van het essay 'Terminator Future', het origineel is [hier](https://astralflight.substack.com/p/terminator-future) te lezen."
 ---
 

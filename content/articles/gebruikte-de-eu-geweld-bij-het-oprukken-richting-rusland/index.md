@@ -10,8 +10,8 @@ anchor: Smart
 tags:
     - Rusland
     - Oorlog
-    - Oekraïne
     - NAVO
+    - Oekraïne
 ---
 
 Op 24 februari 2022 viel Rusland Oekraïne met militair geweld binnen en voor militairen is dit dus de dag waarop deze oorlog begon. Voor breder denkende politici, historici en nog meer voor psychologen ligt het anders: die willen een oorlog zien in een langer tijdsperspectief en vragen ook naar de oorzaken daarvan. Wat gebeurde er in de aanloopperiode van deze oorlog? Wat ging er vooraf aan het militaire geweld? Wat is eigenlijk geweld? 

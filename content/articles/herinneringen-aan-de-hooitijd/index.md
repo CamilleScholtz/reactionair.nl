@@ -9,8 +9,8 @@ image: 821f2337-a9ee-4dc3-8c33-ab9e4f49583b.webp
 anchor: Smart
 tags:
     - Seks
-    - Traditie
     - Fictie
+    - Traditie
 note: 'Dit is een bloemlezing van het boek ‘Herinneringen aan de hooitijd’, het boek kan [hier](https://www.bol.com/nl/nl/p/herinneringen-aan-de-hooitijd/9300000134566417/) gekocht worden.'
 ---
 

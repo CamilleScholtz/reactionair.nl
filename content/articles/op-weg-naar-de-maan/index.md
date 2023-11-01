@@ -10,8 +10,8 @@ anchor: Smart
 tags:
     - 'Thierry Baudet'
     - FVD
-    - Verkiezingen
     - 'Geert Wilders'
+    - Verkiezingen
     - PVV
 ---
 

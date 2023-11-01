@@ -8,10 +8,10 @@ themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Rusland
     - Democratie
-    - Oekraïne
     - 'Thierry Baudet'
+    - Rusland
+    - Oekraïne
 ---
 
 >de·bat (het; o; meervoud: debatten)<br />

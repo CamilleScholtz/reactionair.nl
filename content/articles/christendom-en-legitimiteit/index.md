@@ -6,7 +6,7 @@ authors:
     - Sanura
 themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
-anchor: smart
+anchor: Smart
 tags:
     - Christendom
     - 'Erik von Kuehnelt-Leddihn'

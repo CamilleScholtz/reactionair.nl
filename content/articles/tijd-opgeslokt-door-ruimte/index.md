@@ -8,11 +8,11 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Robert Lemm'
     - Islam
-    - 'René Guénon'
     - Metafysica
+    - 'René Guénon'
     - 'Oswald Spengler'
+    - 'Robert Lemm'
     - Faust
     - Tijd
 ---

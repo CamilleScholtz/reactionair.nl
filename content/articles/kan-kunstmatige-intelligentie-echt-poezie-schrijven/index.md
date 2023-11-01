@@ -10,11 +10,11 @@ anchor: Smart
 caption: "Los' Schim kwelt hem in zijn smederij, door William Blake."
 tags:
     - Islam
-    - 'René Guénon'
-    - 'William Blake'
-    - Postmodernisme
     - AI
+    - Postmodernisme
+    - 'René Guénon'
     - 'Søren Kierkegaard'
+    - 'William Blake'
 note: 'Dit essay is een vertaling uit het Engels. Het origineel, geschreven door Charles Upton, is hier te beluisteren: *[The Psychic and Spiritual Dangers of AI](https://www.youtube.com/watch?v=Wkazyv5WZQo)*. Voor zover ik weet heeft hij het essay nog niet openbaar in tekstvorm gepubliceerd.'
 ---
 

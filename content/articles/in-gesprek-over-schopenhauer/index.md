@@ -9,9 +9,9 @@ image: der_chasseur_im_walde_-_caspar_david_friedrich-1-.jpg
 anchor: Smart
 caption: 'Der Chasseur im Walde, Caspar David Friedrich, 1814.'
 tags:
-    - 'Charles Darwin'
     - Metafysica
     - 'Arthur Schopenhauer'
+    - 'Charles Darwin'
     - 'Aldous Huxley'
     - 'Arthur Koestler'
     - 'Joris van Rossum'

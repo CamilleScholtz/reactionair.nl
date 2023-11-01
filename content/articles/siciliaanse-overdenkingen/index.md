@@ -10,8 +10,8 @@ anchor: Smart
 description: 'Twee reflecties over immigratie en klimaatverandering vanuit het zonnige en zuidelijke Sicilië.'
 tags:
     - Immigratie
-    - Klimaatverandering
     - Kapitalisme
+    - Klimaatverandering
 ---
 
 ### “No Woman, No Cry”

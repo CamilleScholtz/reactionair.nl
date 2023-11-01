@@ -8,12 +8,12 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Top
 tags:
-    - Woke
-    - 'Michel Foucault'
-    - Katholicisme
-    - 'Jean-Paul Sartre'
     - 'Karl Marx'
+    - 'Michel Foucault'
+    - Woke
+    - 'Jean-Paul Sartre'
     - 'Jacques Derrida'
+    - Katholicisme
     - Rutgers
 ---
 

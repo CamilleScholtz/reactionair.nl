@@ -9,10 +9,10 @@ themes: 'Cultuur en Maatschappij'
 image: 4e44f979-99d8-4324-8a0b-8f0943418a97.jpg
 anchor: Smart
 tags:
-    - 'Immanuel Kant'
     - 'Karl Marx'
-    - 'Georg Hegel'
+    - 'Immanuel Kant'
     - 'Sigmund Freud'
+    - 'Georg Hegel'
     - 'Georges Bataille'
 ---
 

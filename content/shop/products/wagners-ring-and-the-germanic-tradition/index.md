@@ -10,8 +10,8 @@ front: 67741d6d-e8d9-4d51-a08a-ea71cfa7f9db.jpg
 variants:
     - { name: Paperback, isbn: 978-1-642641-01-1, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 7 }, import_price: { currency: USD, amount: 15.0 }, price: 22.99, out_of_stock: 0 }
 tags:
-    - Muziek
     - Mythologie
+    - Muziek
     - 'Richard Wagner'
 back: 76970419-9d16-4e5f-8404-0b159818d465.jpg
 pretty: true

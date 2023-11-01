@@ -8,8 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Consumentisme
     - 'Oswald Spengler'
+    - Consumentisme
     - 'Francis Fukuyama'
 ---
 
