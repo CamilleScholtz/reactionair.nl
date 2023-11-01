@@ -4,14 +4,14 @@ subtitle: 'De TikTok-isering van het debat'
 date: '2022-03-02'
 authors:
     - '‘Het Dorp’ Genieter'
-themes: De Uylenspieghel
+themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Smart
 tags:
-    - Oekraïne
-    - Rusland
-    - 'Thierry Baudet'
     - Democratie
+    - 'Thierry Baudet'
+    - Rusland
+    - Oekraïne
 ---
 
 >de·bat (het; o; meervoud: debatten)<br />

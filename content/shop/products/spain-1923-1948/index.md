@@ -3,18 +3,18 @@ title: 'Spain 1923-1948'
 writers:
     - 'Arthur F. Loveday'
 pages: 324
-variants:
-    - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-953730-00-8, size: { height: 216, width: 140, depth: 19 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2020-09-07'
 languages: Engels
 front: f66da641-b13a-4972-90b0-c86db119eb6a.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-953730-00-8, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 19 }, import_price: { currency: USD, amount: 15.91 }, price: 22.99, out_of_stock: 0 }
 subtitle: 'Civil War and World War'
 tags:
-    - 'Eerste Wereldoorlog'
-    - NAVO
     - Oorlog
     - Spanje
+    - NAVO
+    - 'Eerste Wereldoorlog'
 back: f7605dd5-3e1e-4f62-b3f1-4c24e63ab14e.jpg
 ---
 

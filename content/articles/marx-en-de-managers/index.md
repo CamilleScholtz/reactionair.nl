@@ -8,12 +8,12 @@ themes: 'Cultuur en Maatschappij'
 image: 43806174-a014-4e68-8f43-8b04d7a52bd1.webp
 anchor: Smart
 tags:
-    - Communisme
-    - 'Franse revolutie'
     - 'Karl Marx'
-    - Libertarisme
-    - Marxisme
+    - 'Franse revolutie'
     - Woke
+    - Communisme
+    - Marxisme
+    - Libertarisme
 ---
 
 Er is iets opmerkelijks aan Marx' theorie over klassenstrijd en geschiedenis wat zelden wordt opgemerkt.[^1] 

@@ -8,14 +8,14 @@ themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Center
 tags:
-    - Christendom
+    - Liberalisme
     - 'Immanuel Kant'
     - 'Jean-Jacques Rousseau'
-    - Liberalisme
-    - 'Nicolás Gómez Dávila'
     - 'Robert Lemm'
-    - 'Thomas van Aquino'
     - Reactionair
+    - Christendom
+    - 'Thomas van Aquino'
+    - 'Nicolás Gómez Dávila'
 ---
 
 >_“De authentieke reactionair kijkt niet naar de toekomst, zoals de liberaal. Hij kijkt evenmin naar het verleden, zoals de conservatief. Hij kijkt niet vooruit, en niet achterom. Hij kijkt naar boven, naar de sterren en de hemel, naar de sporen die de Eeuwigheid heeft achtergelaten in de Tijd.”_

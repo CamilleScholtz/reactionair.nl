@@ -3,12 +3,12 @@ title: 'Hated and Proud'
 writers:
     - 'Mark Dyal'
 pages: 350
-variants:
-    - { name: Paperback, price: 22.99, import_price: { currency: EUR, amount: 18.0 }, isbn: 978-1-912079-23-0, size: { height: 216, width: 140, depth: 20 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2023-07-24'
 languages: Engels
 front: 862c85d9-b98e-4b3c-93a2-4cf6c19ea617.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-912079-23-0, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 20 }, import_price: { currency: EUR, amount: 18.0 }, price: 22.99, out_of_stock: 0 }
 subtitle: 'Ultras Contra Modernity'
 tags:
     - Voetbal

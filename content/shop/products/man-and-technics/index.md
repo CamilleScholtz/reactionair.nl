@@ -3,15 +3,15 @@ title: 'Man and Technics'
 writers:
     - 'Oswald Spengler'
 pages: 84
-variants:
-    - { name: Paperback, price: 14.99, import_price: { currency: EUR, amount: 8.64 }, isbn: 978-1-910524-17-6, size: { height: 216, width: 140, depth: 0 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2015-02-01'
 languages: Engels
 front: 67d65dd3-213e-45cf-9a8f-e60b3b4255b5.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-910524-17-6, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 0 }, import_price: { currency: EUR, amount: 8.64 }, price: 14.99, out_of_stock: 0 }
 tags:
-    - 'Oswald Spengler'
     - Technologie
+    - 'Oswald Spengler'
 pretty: true
 ---
 

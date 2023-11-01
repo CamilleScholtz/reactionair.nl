@@ -3,16 +3,16 @@ title: 'Carl Schmitt Today'
 writers:
     - 'Alain de Benoist'
 pages: 110
-variants:
-    - { name: Paperback, price: 16.99, import_price: { currency: EUR, amount: 10.56 }, isbn: 978-1-907166-39-6, size: { height: 216, width: 140, depth: 66 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2013-03-17'
 languages: Engels
 front: 2907b098-7842-4e61-b536-257f7d7364eb.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-907166-39-6, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 66 }, import_price: { currency: EUR, amount: 10.56 }, price: 16.99, out_of_stock: 0 }
 subtitle: 'Terrorism, Just War, and the State of Emergency'
 tags:
-    - 'Alain de Benoist'
     - 'Carl Schmitt'
+    - 'Alain de Benoist'
 ---
 
 Er zijn maar weinig namen, behalve die van Leo Strauss, die vaker worden genoemd in discussies over de Amerikaanse reactie op terrorisme in de afgelopen jaren dan die van Carl Schmitt. Schmitt, die deel uitmaakte van de Duitse school van politiek denken die bekend staat als de 'Conservatieve Revolutie', wordt algemeen beschouwd als een van de grootste juridische denkers van de twintigste eeuw. Hij beweerde dat de belangrijkste functie van de soeverein van een natie niet het opstellen of handhaven van de wet is, maar zijn vermogen om te beslissen wanneer de wet in een noodsituatie moet worden opgeschort, en ook zijn vermogen om te verklaren wie op een bepaald moment de 'vriend' en 'vijand' van een gemeenschap is.

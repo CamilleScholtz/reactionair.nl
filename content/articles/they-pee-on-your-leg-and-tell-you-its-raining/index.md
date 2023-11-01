@@ -8,13 +8,13 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Top
 tags:
-    - 'Jacques Derrida'
-    - 'Jean-Paul Sartre'
     - 'Karl Marx'
-    - Katholicisme
     - 'Michel Foucault'
-    - Rutgers
     - Woke
+    - 'Jean-Paul Sartre'
+    - 'Jacques Derrida'
+    - Katholicisme
+    - Rutgers
 ---
 
 >Sekten, die alle sociale klassen hebben doordrongen, zullen manieren vinden om zichzelf in het hart van de huizen te introduceren om de onschuld van kinderen te corrumperen. De harten van de kinderen zullen heerlijke hapjes zijn om de duivel te verwennen...[^1]

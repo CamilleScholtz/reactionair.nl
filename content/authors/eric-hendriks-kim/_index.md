@@ -1,10 +1,7 @@
 ---
-description: Eric Hendriks-Kim studeerde humaniora in Utrecht en Chicago en promoveerde
-  in Duitsland. Hij is socioloog aan Peking University.
-image: avatar.webp
-keyword: Sociologist and essayist
+title: 'Eric Hendriks-Kim'
+description: 'Eric Hendriks-Kim studeerde humaniora in Utrecht en Chicago en promoveerde in Duitsland. Hij is socioloog aan Peking University.'
+keyword: 'Sociologist and essayist'
 pseudonym: false
-title: Eric Hendriks-Kim
-twitter: https://twitter.com/HendrKim
-website: https://ericchendriks.wordpress.com/
+image: avatar.webp
 ---

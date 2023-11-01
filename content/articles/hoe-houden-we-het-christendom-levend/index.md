@@ -10,11 +10,11 @@ anchor: Smart
 description: 'Waarom cultuurchristendom een leemte kan opvullen die zowel de ontkerkelijking en het rabiate atheïsme in het religieuze landschap achterlaten.'
 caption: 'Johannes Bosboom, Kerkinterieur (ca. 1827-1891).'
 tags:
-    - Atheisme
+    - 'Thierry Baudet'
     - Christendom
+    - Atheisme
     - 'Gianni Vattimo'
     - 'Hans Küng'
-    - 'Thierry Baudet'
 ---
 
 Al geruime tijd is er in de samenleving een gevoel van culturele onzekerheid te bespeuren. Een groeiende twijfel, een knagen aan het geweten. Veel mensen stellen zichzelf de vraag wat nu hetgeen is dat ons betekenis, normen, moraal en cultureel besef geeft. Het antwoord voor de atheïstische en agnostische Nederlander is simpel: het cultuurchristendom!

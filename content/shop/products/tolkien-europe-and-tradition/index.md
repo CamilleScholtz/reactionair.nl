@@ -3,17 +3,17 @@ title: 'Tolkien, Europe, and Tradition'
 writers:
     - 'Armand Berger'
 pages: 66
-variants:
-    - { name: Paperback, price: 12.99, import_price: { currency: EUR, amount: 9.2 }, isbn: 978-1-914208-97-3, size: { height: 216, width: 140, depth: 4 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2022-09-26'
 languages: Engels
 front: 679d75a6-5a46-4cba-8f98-f10a4e3efa40.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-914208-97-3, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 4 }, import_price: { currency: EUR, amount: 9.2 }, price: 12.99, out_of_stock: 0 }
 subtitle: 'From Civilisation to the Dawn of Imagination'
 tags:
-    - Europa
     - Mythologie
     - Traditie
+    - Europa
 back: 7ad657a3-bb55-4f8f-8d62-ec1dd29f5030.jpg
 pretty: true
 ---

@@ -8,8 +8,8 @@ themes: 'Politiek en Actualiteit'
 image: 37c177e8-bf1c-4382-a098-6f8925e407af.jpg
 anchor: Center
 tags:
-    - D66
     - LGBT
+    - D66
     - Rutgers
     - 'Sjoerd Warmerdam'
 ---

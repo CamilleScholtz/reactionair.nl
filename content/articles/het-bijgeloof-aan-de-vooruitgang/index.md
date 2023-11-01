@@ -8,10 +8,10 @@ themes: 'Religie en Wijsbegeerte'
 image: aristo_lutkie-980x411.jpg
 anchor: Smart
 tags:
-    - 'Anton Kerssemakers'
-    - 'Jean-Jacques Rousseau'
-    - Materialisme
     - 'René Guénon'
+    - 'Jean-Jacques Rousseau'
+    - 'Anton Kerssemakers'
+    - Materialisme
     - Vooruitgang
 note: 'Dit essay was oorspronkelijk gepubliceerd door Anton Kerssemakers in het tijdschrift *Aristo-* van maart 1939.'
 ---

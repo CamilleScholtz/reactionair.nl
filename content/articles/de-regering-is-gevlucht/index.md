@@ -8,10 +8,10 @@ themes: 'Politiek en Actualiteit'
 image: data90997978-6e6fda.jpg
 anchor: Smart
 tags:
-    - FVD
-    - 'Mark Rutte'
-    - Overheid
     - 'Thierry Baudet'
+    - 'Mark Rutte'
+    - FVD
+    - Overheid
     - VVD
 ---
 

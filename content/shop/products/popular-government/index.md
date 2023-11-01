@@ -3,12 +3,12 @@ title: 'Popular Government'
 writers:
     - 'Henry Sumner Maine'
 pages: 162
-variants:
-    - { name: Paperback, price: 14.99, import_price: { currency: USD, amount: 13.6 }, isbn: 978-1-922602-10-7, size: { height: 178, width: 108, depth: 10 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2021-08-17'
 languages: Engels
 front: 36826ce5-94fa-4c89-87da-80c019973016.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-922602-10-7, supplier: 'Ex Libris', size: { height: 178, width: 108, depth: 10 }, import_price: { currency: USD, amount: 13.6 }, price: 14.99, out_of_stock: 0 }
 back: f2aa54d4-1046-4770-ba46-d8423bec87ac.jpg
 ---
 

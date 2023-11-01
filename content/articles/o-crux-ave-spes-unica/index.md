@@ -8,9 +8,9 @@ themes: 'Religie en Wijsbegeerte'
 image: henry_wallis_-_chatterton_-_google_art_project.jpg
 anchor: Smart
 tags:
-    - Christendom
     - 'Friedrich Nietzsche'
     - Katholicisme
+    - Christendom
     - Katholiek
 ---
 

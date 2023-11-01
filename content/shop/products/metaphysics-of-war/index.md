@@ -3,16 +3,16 @@ title: 'Metaphysics of War'
 writers:
     - 'Julius Evola'
 pages: 150
-variants:
-    - { name: Paperback, price: 15.99, import_price: { currency: EUR, amount: 11.52 }, isbn: 978-1-907166-36-5, size: { height: 216, width: 140, depth: 10 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2023-07-21'
 languages: Engels
 front: 6eadf435-b751-411f-ba86-a79e4b22dd8a.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-907166-36-5, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 10 }, import_price: { currency: EUR, amount: 11.52 }, price: 15.99, out_of_stock: 0 }
 tags:
     - Islam
-    - 'Julius Evola'
     - Metafysica
+    - 'Julius Evola'
     - Oorlog
     - 'Romeinse rijk'
 ---

@@ -3,12 +3,12 @@ title: Patriarcha
 writers:
     - 'Robert Filmer'
 pages: 316
-variants:
-    - { name: Paperback, price: 22.99, import_price: { currency: USD, amount: 18.7 }, isbn: 978-1-922602-16-9, size: { height: 216, width: 140, depth: 18 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2022-09-29'
 languages: Engels
 front: 0acca73b-41b3-4631-b714-ca1c30ff807e.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-922602-16-9, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 18 }, import_price: { currency: USD, amount: 18.7 }, price: 22.99, out_of_stock: 0 }
 subtitle: 'The Complete Political Works'
 back: f7aa68e3-0fa3-4109-92c1-cb01c6088739.jpg
 ---

@@ -3,12 +3,12 @@ title: Iliad
 writers:
     - Homerus
 pages: 624
-variants:
-    - { name: Paperback, price: 25.99, import_price: { currency: USD, amount: 20.4 }, isbn: 978-0-648690-50-4, size: { height: 216, width: 140, depth: 35 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2019-09-21'
 languages: Engels
 front: 5362f501-7ac5-47d4-bef1-34e087633d7d.jpg
+variants:
+    - { name: Paperback, isbn: 978-0-648690-50-4, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 35 }, import_price: { currency: USD, amount: 20.4 }, price: 25.99, out_of_stock: 0 }
 tags:
     - 'Griekse mythologie'
 back: 0ecbf68e-7a42-4289-9b6f-c5c7b2f90338.jpg

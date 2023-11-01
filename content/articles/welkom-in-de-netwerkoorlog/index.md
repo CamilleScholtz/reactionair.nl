@@ -8,8 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Jacues Ellul'
     - Oorlog
+    - 'Jacues Ellul'
 note: "Dit is een vertaling van het essay 'The Spectrum of Violence', het origineel is [hier](https://schwabstack.substack.com/p/the-spectrum-of-violence) te lezen."
 ---
 

@@ -3,12 +3,12 @@ title: 'Major Works'
 writers:
     - 'Joseph de Maistre'
 pages: 348
-variants:
-    - { name: Paperback, price: 20.99, import_price: { currency: USD, amount: 19.55 }, isbn: 978-1-922602-22-0, size: { height: 216, width: 140, depth: 20 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2021-11-19'
 languages: Engels
 front: 74578353-c7de-4ccc-b7fb-4920f5e11e49.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-922602-22-0, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 20 }, import_price: { currency: USD, amount: 19.55 }, price: 20.99, out_of_stock: 0 }
 subtitle: 'Volume I'
 tags:
     - 'Franse revolutie'

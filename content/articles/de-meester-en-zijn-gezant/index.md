@@ -10,18 +10,18 @@ anchor: Smart
 description: 'De moderne mens ziet liever zichzelf als het middelpunt van de wereld. Maar is dat wel een slim idee? Traditionele wijsheid, die ons leert maat te houden en ons te richten op het Goede, Schone en Ware, zou weleens veel belangrijker kunnen zijn dan we denken. De oplossing voor de ecologische crisis ligt in het herstellen van de samenwerking tussen de Meester en zijn Gezant. Maar hoe leren we weer om het Geheel te zien?'
 caption: 'Filmposter voor een documentaire over het werk van McGilchrist.'
 tags:
+    - Plato
+    - Hedonisme
+    - 'Paul Kingsnorth'
+    - Verlichting
+    - 'Johann Wolfgang von Goethe'
+    - 'Richard Dawkins'
     - Atheisme
     - Augustinus
     - 'Daniel Dennett'
-    - Hedonisme
     - Hersens
     - 'Iain Mcgilchrist'
-    - 'Johann Wolfgang von Goethe'
-    - 'Paul Kingsnorth'
-    - Plato
-    - 'Richard Dawkins'
     - 'Sam Harris'
-    - Verlichting
 note: 'Dit artikel is geschreven door mr. Gert-Jan de Ruijter en verscheen oorspronkelijk op zijn *[persoonlijke website](https://gertjanderuijter.com/2020/05/13/de-meester-en-zijn-gezant/)*.'
 ---
 

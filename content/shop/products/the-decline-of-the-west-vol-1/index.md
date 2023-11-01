@@ -3,17 +3,17 @@ title: 'The Decline of the West'
 writers:
     - 'Oswald Spengler'
 pages: 616
-variants:
-    - { name: Paperback, price: 32.99, import_price: { currency: EUR, amount: 22.0 }, isbn: 978-1-912975-60-0, size: { height: 216, width: 140, depth: 40 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2021-07-17'
 languages: Engels
 front: 24138313-f01c-4eba-b071-ff87f4b24c5a.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-912975-60-0, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 40 }, import_price: { currency: EUR, amount: 22.0 }, price: 32.99, out_of_stock: 0 }
 subtitle: ' Form and Actuality'
 tags:
-    - Faust
     - Kunst
     - 'Oswald Spengler'
+    - Faust
 pretty: true
 ---
 

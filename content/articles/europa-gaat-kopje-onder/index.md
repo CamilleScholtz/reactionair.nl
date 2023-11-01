@@ -10,8 +10,8 @@ anchor: Smart
 description: 'Europa bevindt zich in een benarde situatie, met een ondoeltreffend EU-model en problemen in Oost-Europa en op de Balkan. Uitbreiding van de EU met nog meer zwakke landen zal de transferunie verder belasten. Het is tijd voor een herziening van het EU-model.'
 caption: 'Abraham Storck, De vierdaagse oorlog van 1666'
 tags:
-    - EU
     - Economie
+    - EU
     - Europa
     - NAVO
 ---

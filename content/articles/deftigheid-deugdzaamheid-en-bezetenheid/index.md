@@ -9,9 +9,9 @@ image: thumb.webp
 anchor: Smart
 tags:
     - 'Immanuel Kant'
-    - 'Jacues Ellul'
     - 'Mark Rutte'
     - 'Robert Lemm'
+    - 'Jacues Ellul'
     - 'Rutger Bregman'
     - Ethiek
 ---

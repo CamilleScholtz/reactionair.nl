@@ -1,17 +1,17 @@
 ---
-anchor: Center
+title: 'De boeren en natuurrecht!'
+subtitle: 'Hoe hebben we dit kookpunt bereikt en wat kunnen we verwachten van hun woede?'
+date: '2022-06-13'
 authors:
-- Sanura
-date: "2022-06-13"
+    - Sanura
+themes: 'Politiek en Actualiteit'
 image: thumb.webp
-subtitle: Hoe hebben we dit kookpunt bereikt en wat kunnen we verwachten van hun woede?
-themes: Politiek en Actualiteit
-title: De boeren en natuurrecht!
+anchor: Center
 tags:
-- Boeren
-- VVD
-- Liberalisme
-- Jean-Jacques Rousseau
+    - Liberalisme
+    - 'Jean-Jacques Rousseau'
+    - VVD
+    - Boeren
 ---
 
 _‘Life, liberty and the pursuit of happiness’_. Daar horen we over in onze vaak door Amerika geobsedeerde, media en geschiedschrijving. We horen over Locke en het liberalisme. Het sociaal contract. Over de ontwikkeling van mensenrechten en hoe de democratie onze rechten zou waarborgen. En gelukkig horen we ook nog wel eens over de tachtigjarige oorlog tegen de Spaanse heersers en hun hoge belastingen. 

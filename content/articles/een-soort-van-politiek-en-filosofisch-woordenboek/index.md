@@ -9,9 +9,9 @@ image: thumb.webp
 anchor: Smart
 tags:
     - Democratie
-    - 'Erik von Kuehnelt-Leddihn'
     - Monarchie
     - Plato
+    - 'Erik von Kuehnelt-Leddihn'
     - 'Thomas van Aquino'
 ---
 

@@ -9,8 +9,8 @@ image: c779ba8d-f47e-45fa-921c-edf0b76efe1c.jpg
 anchor: Smart
 caption: "Los' Schim kwelt hem in zijn smederij, door William Blake."
 tags:
-    - AI
     - Islam
+    - AI
     - Postmodernisme
     - 'René Guénon'
     - 'Søren Kierkegaard'

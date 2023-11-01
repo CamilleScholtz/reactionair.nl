@@ -3,12 +3,12 @@ title: 'Cultured Grugs'
 writers:
     - 'John “Borzoi” Chapman'
 pages: 263
-variants:
-    - { name: Paperback, price: 24.99, import_price: { currency: USD, amount: 19.11 }, isbn: 978-1-956887-30-3, size: { height: 216, width: 140, depth: 15 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-07-28'
 languages: Engels
 front: 14f292d5-09e6-4229-8aea-340bfffa3c11.webp
+variants:
+    - { name: Paperback, isbn: 978-1-956887-30-3, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 15 }, import_price: { currency: USD, amount: 19.11 }, price: 24.99, out_of_stock: 0 }
 subtitle: 'Dispatches From America in Collapse'
 back: 39982b77-6aa1-4ec3-9a72-a456de8f8110.webp
 ---

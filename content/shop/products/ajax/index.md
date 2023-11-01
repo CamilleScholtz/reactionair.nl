@@ -3,12 +3,12 @@ title: Ajax
 writers:
     - Sophocles
 pages: 91
-variants:
-    - { name: Paperback, price: 12.99, import_price: { currency: USD, amount: 11.9 }, isbn: 978-1-922602-31-2, size: { height: 178, width: 109, depth: 56 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2022-02-08'
 languages: Engels
 front: 2d6a1a7e-3131-4aea-9902-7fff56b4c147.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-922602-31-2, supplier: 'Ex Libris', size: { height: 178, width: 109, depth: 56 }, import_price: { currency: USD, amount: 11.9 }, price: 12.99, out_of_stock: 0 }
 tags:
     - 'Griekse mythologie'
     - Odysseus

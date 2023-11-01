@@ -9,13 +9,13 @@ image: petrov-vodkin-fantasy.jpg
 anchor: Smart
 caption: 'Kuzma Petrov-Vodkin, Fantasia'
 tags:
-    - 'Arthur Schopenhauer'
-    - 'François-René de Chateaubriand'
-    - 'Friedrich Nietzsche'
-    - Gelijkheid
-    - 'Jacques Derrida'
     - 'Michel Foucault'
+    - 'Arthur Schopenhauer'
+    - 'Friedrich Nietzsche'
+    - 'Jacques Derrida'
     - Ressentiment
+    - 'François-René de Chateaubriand'
+    - Gelijkheid
 ---
 
 > *Ihr Prediger der Gleichheit, der Tyrannen-Wahnsinn der Ohnmacht schreit also aus euch nach »Gleichheit«: eure heimlichsten Tyrannen-Gelüste vermummen sich also in Tugend-Worte!*[^1]

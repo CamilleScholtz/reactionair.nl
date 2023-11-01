@@ -8,8 +8,8 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Jean-Jacques Rousseau'
     - Liberalisme
+    - 'Jean-Jacques Rousseau'
     - Contrarevolutie
 ---
 

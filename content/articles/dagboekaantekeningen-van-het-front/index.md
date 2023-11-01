@@ -8,9 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: 29f119af-7823-47ff-a502-de1069cc0ead.jpg
 anchor: Smart
 tags:
+    - Spanje
     - Fictie
     - Oekraïne
-    - Spanje
 ---
 
 ### 20 november, Alicante

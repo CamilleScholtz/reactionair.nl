@@ -1,7 +1,7 @@
 ---
-description: De redactie van Reactionair.nl.
-image: avatar.webp
+title: 'De redactie'
+description: 'De redactie van Reactionair.nl.'
 keyword: Reactionair.nl
 pseudonym: true
-title: De redactie
+image: avatar.webp
 ---

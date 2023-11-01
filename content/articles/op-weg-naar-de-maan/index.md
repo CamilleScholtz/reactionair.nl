@@ -8,11 +8,11 @@ themes: 'Politiek en Actualiteit'
 image: d0aa3f3e-2939-4da2-bee4-a48b67e4dfc8.webp
 anchor: Smart
 tags:
+    - 'Thierry Baudet'
     - FVD
     - 'Geert Wilders'
-    - PVV
-    - 'Thierry Baudet'
     - Verkiezingen
+    - PVV
 ---
 
 "Ook gij, Geert?" was de reactie van Thierry Baudet na de broedermoord die zich gisteren bij de Algemene Politieke Beschouwingen in de Tweede Kamer voltrok. Na jaren goede samenwerking pakte Geert Wilders het grootste debat van het jaar aan om Baudet voor het blok te zetten wat betreft zijn geloof in alternatieve theorieën over de aanslagen op 11 september 2001 en de maanlandingen. De FVD-leider besloot de uitdaging aan te gaan en legde zo goed hij kon uit waarom hij inderdaad grote vraagtekens heeft bij het officiële verhaal over die gebeurtenissen. Wilders hoefde alleen nog maar te besluiten met “Volgens mij bent u al vrij ver op weg naar de maan”. Voor iedereen die het niet al van tevoren met Baudet eens was - en dat is de overgrote meerderheid van de Nederlanders - was het hilariteit alom. Het interessante aan de confrontatie is natuurlijk niet zo zeer de inhoud, maar de implicaties die het heeft voor de relaties op rechts. Werd er enkele weken geleden vanuit Forum nog enthousiast gereageerd op het idee van verregaande samenwerking met de PVV, tot een verenigde kieslijst aan toe, nu is de sfeer bitter en naar verrast. De vraag wordt gesteld wat Wilders er aan heeft om zijn rechtse broederpartij aan te vallen. Het antwoord lijkt mij zonneklaar en bewijst zich uit het handelen van Wilders en zijn PVV in de afgelopen weken, in aanloop naar de Tweede Kamerverkiezingen van 22 november. De implicaties van dat handelen zijn verreikend en vruchtbaar, niet alleen voor de PVV, maar ook voor Forum en uiteindelijk voor heel rechts Nederland.

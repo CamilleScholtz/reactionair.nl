@@ -8,11 +8,11 @@ themes: 'Religie en Wijsbegeerte'
 image: cb5d148e-e349-4cad-a556-f06132e9273b.webp
 anchor: Top
 tags:
+    - Mythologie
+    - Heidendom
     - Bijbel
     - Edda
-    - Heidendom
     - 'Mircea Eliade'
-    - Mythologie
     - Symbolisme
 note: 'Dit artikel verscheen eerder op de site van Abe onder de titel *[De kosmische boom](https://www.abedeverteller.nl/de-kosmische-boom/)* en in het boek _[De kracht van symbolen](https://www.abedeverteller.nl/boeken/)_.'
 ---

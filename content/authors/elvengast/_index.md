@@ -1,7 +1,7 @@
 ---
-description: Elvengast surft op de golven van de kali joega.
-image: elvengast-profiel.jpeg
+title: Elvengast
+description: 'Elvengast surft op de golven van de kali joega.'
 keyword: Rivendell-respecteerder
 pseudonym: true
-title: Elvengast
+image: elvengast-profiel.jpeg
 ---

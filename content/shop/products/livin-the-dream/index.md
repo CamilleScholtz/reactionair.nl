@@ -3,12 +3,12 @@ title: 'Livin’ the Dream'
 writers:
     - 'Jack McKraken'
 pages: 190
-variants:
-    - { name: Paperback, price: 19.99, import_price: { currency: USD, amount: 14.31 }, isbn: 978-1-956887-41-9, size: { height: 216, width: 140, depth: 11 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2022-10-12'
 languages: Engels
 front: cbdafdb7-692a-46b0-ab6c-cc304f9fe295.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-956887-41-9, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 11 }, import_price: { currency: USD, amount: 14.31 }, price: 19.99, out_of_stock: 0 }
 back: aae33a02-dea5-48bf-ba05-775cee326dec.jpg
 ---
 

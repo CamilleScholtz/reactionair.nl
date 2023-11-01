@@ -1,13 +1,14 @@
 ---
-anchor: Smart
+title: 'Het trauma van 9/11'
+subtitle: 'De goedgelovige idioot en de krankzinnige schizo'
+date: '2022-07-16'
 authors:
-- Rintrah Radagast
-date: "2022-07-16"
+    - 'Rintrah Radagast'
+themes: 'Cultuur en Maatschappij'
 image: inkblot-1_wide-4721996e4c8fb2aaa203cbe26968c64b742ebaa9.jpg
-subtitle: De goedgelovige idioot en de krankzinnige schizo
-themes: Cultuur en Maatschappij
-title: Het trauma van 9/11
+anchor: Smart
 ---
+
 Ik denk dat we onderschatten hoe traumatisch 9/11 is geweest voor dat deel van de bevolking dat ervan overtuigd raakte dat de Amerikaanse en/of Israëlische regering er een rol in hadden. Als je eenmaal tot die conclusie bent gekomen, ben je veroordeeld tot een leven in een staat van voortdurend wantrouwen tegen je regering.
 
 Het is vergelijkbaar met 'Tsjetsjeense bomaanslagen' in 1999, waar de Russische FSB uiteindelijk betrapt werd bij het plaatsen van deze bommen en ze beweerden dat het slechts een oefening was. Als je in Rusland woont, natuurlijk, de media zal de samenzweringstheorie "ontkrachten". Maar als je het eenmaal gezien hebt, kun je het niet meer ontzien.

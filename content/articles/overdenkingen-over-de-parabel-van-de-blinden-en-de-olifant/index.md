@@ -8,10 +8,10 @@ themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Center
 tags:
-    - Faust
-    - 'Immanuel Kant'
     - Metafysica
+    - 'Immanuel Kant'
     - 'Oswald Spengler'
+    - Faust
     - 'Thomas van Aquino'
 ---
 

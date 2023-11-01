@@ -3,12 +3,12 @@ title: 'On the Spanish Inquisition'
 writers:
     - 'Joseph de Maistre'
 pages: 125
-variants:
-    - { name: Paperback, price: 19.99, import_price: { currency: USD, amount: 13.6 }, isbn: 978-1-922602-61-9, size: { height: 178, width: 108, depth: 8 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2022-09-28'
 languages: Engels
 front: f36335a0-8958-41b8-9071-059f43443a43.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-922602-61-9, supplier: 'Ex Libris', size: { height: 178, width: 108, depth: 8 }, import_price: { currency: USD, amount: 13.6 }, price: 19.99, out_of_stock: 0 }
 tags:
     - 'Joseph de Maistre'
     - Spanje

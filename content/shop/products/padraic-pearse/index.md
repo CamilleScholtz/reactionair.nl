@@ -3,12 +3,12 @@ title: 'Pádraic Pearse'
 writers:
     - 'Pádraic Pearse'
 pages: 212
-variants:
-    - { name: Paperback, price: 17.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-33-4, size: { height: 216, width: 140, depth: 12 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2020-09-07'
 languages: Engels
 front: c791930a-c22e-4b0e-86a5-cf6eebf8d747.webp
+variants:
+    - { name: Paperback, isbn: 978-1-956887-33-4, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 12 }, import_price: { currency: USD, amount: 15.91 }, price: 17.99, out_of_stock: 0 }
 subtitle: 'The Collected Works'
 back: 8d38bd8f-24d0-49ed-9dd0-ac8b47b15206.webp
 pretty: true

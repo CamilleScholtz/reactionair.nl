@@ -8,10 +8,10 @@ themes: 'Religie en Wijsbegeerte'
 image: c4dfa932-378b-400e-ad95-d61ceecb59f0.webp
 anchor: Smart
 tags:
-    - 'Magnus Bradshaw'
     - 'René Guénon'
-    - 'Liberalisme'
-    - 'Woke'
+    - Liberalisme
+    - Woke
+    - 'Magnus Bradshaw'
 ---
 
 Het christendom was vroeger de wereldbeschouwing die de westerse samenleving vormde. Onze moraal en ethiek waren gefundeerd op de christelijke leer, onze epistemologie was doordrenkt van christelijk denken, sociale instellingen die de belangrijkste aspecten van het leven beheersten, zoals het huwelijk, waren christelijk van aard. Vandaag de dag leven wij in de nagloed van deze beschaving, waarbij deze wereldbeschouwing werd vervangen door het liberalisme.

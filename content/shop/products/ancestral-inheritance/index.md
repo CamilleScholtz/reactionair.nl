@@ -3,12 +3,12 @@ title: 'Ancestral Inheritance'
 writers:
     - 'Joseph Otto Plassmann'
 pages: 146
-variants:
-    - { name: Paperback, price: 18.99, import_price: { currency: USD, amount: 15.91 }, isbn: 978-1-956887-69-3, size: { height: 216, width: 140, depth: 9 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2023-02-24'
 languages: Engels
 front: b1654ffd-5c76-49e9-ba6d-45cc7f81f1cc.webp
+variants:
+    - { name: Paperback, isbn: 978-1-956887-69-3, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 9 }, import_price: { currency: USD, amount: 15.91 }, price: 18.99, out_of_stock: 0 }
 subtitle: 'The Yearly Cycle of Germanic Customs and Festivals'
 tags:
     - Heidendom

@@ -3,16 +3,16 @@ title: 'Iranian Leviathan'
 writers:
     - 'Jason Reza Jorjani'
 pages: 582
-variants:
-    - { name: Paperback, price: 33.99, import_price: { currency: EUR, amount: 26.8 }, isbn: 978-1-912975-40-2, size: { height: 216, width: 140, depth: 33 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2019-09-01'
 languages: Engels
 front: 89f21015-aa26-4ed7-a1d2-78c15a254ce9.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-912975-40-2, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 33 }, import_price: { currency: EUR, amount: 26.8 }, price: 33.99, out_of_stock: 0 }
 subtitle: 'A Monumental History of Mithra’s Abode'
 tags:
-    - Iran
     - Islam
+    - Iran
 ---
 
 Geen enkele natie op aarde heeft meer bijgedragen aan de verheffing van de menselijke geest en aan de verrijking van elk aspect van de beschaving op wereldschaal dan Iran. Enkele van de meest bepalende wetenschappelijke, religieuze en culturele kenmerken van zowel de oosterse als de westerse wereld danken hun oorsprong aan Iran, laat staan de bijdragen die Iran heeft geleverd aan de vorming van de zogenaamde "islamitische wereld". Deze laatste is bijna volledig Iraans als het gaat om haar hoge cultuur, en als de "Islamitische Beschaving" überhaupt een toekomst wil hebben, moet deze worden terug getransformeerd in Iraanse Beschaving. Dat is de indruk die je achterlaat na het lezen van deze monumentale geschiedenis van Iran, niet alleen als land, maar als een uitgestrekte beschaving die vele verwante culturen en etniciteiten omvat. Het is de eerste geschiedenis van Iran ooit geschreven vanuit een filosofisch perspectief. Met andere woorden, verre van een geschiedenisboek te zijn, heeft deze studie tot doel de innerlijke betekenis van Iran en de spirituele bestemming van de Iraniërs of Oost-Ariërs te onderscheiden.

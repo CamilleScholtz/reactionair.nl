@@ -8,11 +8,11 @@ themes: 'Politiek en Actualiteit'
 image: pm_03.jpg
 anchor: Smart
 tags:
-    - China
-    - Kapitalisme
-    - Macht
-    - Oekraïne
     - Oorlog
+    - Kapitalisme
+    - China
+    - Oekraïne
+    - Macht
     - 'Sun Tzu'
 ---
 

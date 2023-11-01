@@ -3,12 +3,12 @@ title: 'An Outlaw’s Diary'
 writers:
     - 'Cécile Tormay'
 pages: 227
-variants:
-    - { name: Paperback, price: 17.99, import_price: { currency: USD, amount: 14.31 }, isbn: 978-1-953730-37-4, size: { height: 234, width: 156, depth: 20 }, supplier: 'Ex Libris' }
 publishers: 'Antelope Hill'
 date: '2020-11-08'
 languages: Engels
 front: b8cf13f1-2710-4b38-9d51-da1e02a8db08.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-953730-37-4, supplier: 'Ex Libris', size: { height: 234, width: 156, depth: 20 }, import_price: { currency: USD, amount: 14.31 }, price: 17.99, out_of_stock: 0 }
 subtitle: 'The Commune'
 tags:
     - Communisme

@@ -8,10 +8,10 @@ themes: 'Religie en Wijsbegeerte'
 image: wekyztlb.jpg-medium.webp
 anchor: Smart
 tags:
-    - Christendom
     - 'Griekse mythologie'
-    - Heidendom
     - Hindoeisme
+    - Christendom
+    - Heidendom
     - Proklós
     - Rigveda
     - Sinterklaas

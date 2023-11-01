@@ -3,12 +3,12 @@ title: 'Restoration of Political Science'
 writers:
     - 'Karl Ludwig von Haller'
 pages: 344
-variants:
-    - { name: Paperback, price: 27.99, import_price: { currency: USD, amount: 23.8 }, isbn: 978-1-922602-76-3, size: { height: 216, width: 140, depth: 20 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2023-03-30'
 languages: Engels
 front: 5b3c326b-ba23-4cf4-a597-6ffcb25b3098.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-922602-76-3, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 20 }, import_price: { currency: USD, amount: 23.8 }, price: 27.99, out_of_stock: 0 }
 subtitle: 'Volume I'
 back: 0a4eab88-41d3-4b7a-9209-349dc4942d0a.jpg
 ---

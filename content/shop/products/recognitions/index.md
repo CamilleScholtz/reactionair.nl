@@ -3,16 +3,16 @@ title: Recognitions
 writers:
     - 'Julius Evola'
 pages: 340
-variants:
-    - { name: Paperback, price: 20.99, import_price: { currency: EUR, amount: 16.2 }, isbn: 978-1-912079-18-6, size: { height: 229, width: 153, depth: 22 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2023-07-21'
 languages: Engels
 front: 9fa1329e-45e1-4aa8-863c-b1d65306b280.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-912079-18-6, supplier: 'Ex Libris', size: { height: 229, width: 153, depth: 22 }, import_price: { currency: EUR, amount: 16.2 }, price: 20.99, out_of_stock: 0 }
 tags:
-    - Boeddhisme
     - 'Joseph de Maistre'
     - 'Julius Evola'
+    - Boeddhisme
 back: beea0c49-9cdd-454a-bb45-2b6cb93587ef.jpg
 pretty: true
 ---

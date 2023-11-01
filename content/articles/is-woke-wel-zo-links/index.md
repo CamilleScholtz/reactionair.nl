@@ -10,12 +10,12 @@ anchor: Smart
 caption: 'Marcuse geeft een lezing aan studenten, Berlijn, 1967.'
 tags:
     - 'Karl Marx'
-    - 'Max Weber'
+    - Woke
     - 'Sigmund Freud'
+    - 'Vladimir Poetin'
+    - 'Max Weber'
     - 'Theodor Adorno'
     - Verlichting
-    - 'Vladimir Poetin'
-    - Woke
 ---
 
 Over de herkomst van _woke_ circuleren diverse theorieën. Het zou uit de VS overgewaaid zijn naar Europa. Of is het een Europees verschijnsel afkomstig uit Duitsland, Italië en Frankrijk? Het is geen wereldwijd verschijnsel zoals gezegd wordt. Het heeft een puur westers karakter. Vladimir Poetin en Xi Jinping achten het een belangrijke indicatie dat het westen in verval is.

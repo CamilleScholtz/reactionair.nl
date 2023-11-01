@@ -3,12 +3,12 @@ title: Retroculture
 writers:
     - 'William S. Lind'
 pages: 210
-variants:
-    - { name: Paperback, price: 18.99, import_price: { currency: EUR, amount: 13.2 }, isbn: 978-1-912975-30-3, size: { height: 216, width: 140, depth: 12 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2021-11-04'
 languages: Engels
 front: a8c4306c-4725-4865-9bc7-6d2727092f5e.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-912975-30-3, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 12 }, import_price: { currency: EUR, amount: 13.2 }, price: 18.99, out_of_stock: 0 }
 subtitle: 'Taking America Back'
 tags:
     - Amerika

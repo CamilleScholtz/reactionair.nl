@@ -8,8 +8,8 @@ themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Robert Lemm'
     - Democratie
+    - 'Robert Lemm'
 ---
 
 _De democratie voorbij, door Frank Karsen en Karel Beckman._

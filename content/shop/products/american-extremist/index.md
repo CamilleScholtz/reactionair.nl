@@ -3,12 +3,12 @@ title: 'American Extremist'
 writers:
     - 'Josh Neal'
 pages: 325
-variants:
-    - { name: Paperback, price: 25.99, import_price: { currency: USD, amount: 23.8 }, isbn: 978-0-648859-36-9, size: { height: 204, width: 127, depth: 23 }, supplier: 'Ex Libris' }
 publishers: 'Imperium Press'
 date: '2021-01-29'
 languages: Engels
 front: ad68555d-a24c-41bf-9b1b-94fd416445ab.jpg
+variants:
+    - { name: Paperback, isbn: 978-0-648859-36-9, supplier: 'Ex Libris', size: { height: 204, width: 127, depth: 23 }, import_price: { currency: USD, amount: 23.8 }, price: 25.99, out_of_stock: 0 }
 tags:
     - Radicalisering
     - Rechtsextremisme

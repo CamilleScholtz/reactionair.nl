@@ -8,9 +8,9 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 tags:
-    - 'Friedrich Schiller'
     - BLM
     - Marxisme
+    - 'Friedrich Schiller'
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/hybridisering/) het vorige deel._

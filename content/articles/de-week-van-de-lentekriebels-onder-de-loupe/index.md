@@ -8,11 +8,11 @@ themes: 'Politiek en Actualiteit'
 image: 53d1547d-8532-45a1-a1b3-18e89e4bbff4.jpg
 anchor: Smart
 tags:
-    - LGBT
     - Liberalisme
+    - Woke
+    - LGBT
     - 'Pim Lammers'
     - Rutgers
-    - Woke
 ---
 
 Het is *De Week van de Lentekriebels*, waarin het basisonderwijs zich wijdt aan een "verheffend" project: gedurende deze week onderwijzen de deelnemende scholen hun leerlingen over "weerbaarheid", "relaties" en "seksualiteit", in lijn met andere periodes van "liberale bezinning" zoals *Paarse Vrijdag* en de diverse *Pride*-weken en -maanden. Deze pedagogische campagne wordt georganiseerd door de gesubsidieerde organisatie Rutgers, waar we al eerder over schreven.

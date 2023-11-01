@@ -8,12 +8,12 @@ themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Top
 tags:
+    - Incel
+    - Seks
+    - Liberalisme
     - 'Friedrich Nietzsche'
     - 'Slavoj Žižek'
     - Hedonisme
-    - Incel
-    - Liberalisme
-    - Seks
 ---
 
 ### De bevrijding van de jaren '60

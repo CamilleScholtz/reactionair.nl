@@ -3,12 +3,12 @@ title: 'Verses of Light'
 writers:
     - 'Abir Taha'
 pages: 128
-variants:
-    - { name: Paperback, price: 13.99, import_price: { currency: EUR, amount: 10.56 }, isbn: 978-1-910524-10-7, size: { height: 216, width: 140, depth: 8 }, supplier: 'Ex Libris' }
 publishers: Arktos
 date: '2014-10-02'
 languages: Engels
 front: 8f01e902-f081-4c5e-867b-63bcd7753999.jpg
+variants:
+    - { name: Paperback, isbn: 978-1-910524-10-7, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 8 }, import_price: { currency: EUR, amount: 10.56 }, price: 13.99, out_of_stock: 0 }
 tags:
     - Liefde
     - Spiritualiteit

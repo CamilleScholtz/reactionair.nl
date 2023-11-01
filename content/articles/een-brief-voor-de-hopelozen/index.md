@@ -8,8 +8,8 @@ themes: 'Politiek en Actualiteit'
 image: a7474dd3-15cd-483d-8a3a-4a2470748dc4.jpg
 anchor: Smart
 tags:
-    - D66
     - Democratie
+    - D66
     - VVD
     - Verkiezingen
 ---

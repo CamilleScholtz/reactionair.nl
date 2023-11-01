@@ -8,8 +8,8 @@ themes: 'Politiek en Actualiteit'
 image: kid.jpg
 anchor: Smart
 tags:
-    - LGBT
     - Woke
+    - LGBT
 ---
 
 De genderkliniek Tavistock in Engeland wordt geconfronteerd met juridische stappen van jongeren die beweren dat ze overhaast zijn overgehaald tot het nemen van levensveranderende puberteitsblokkers. Het is een nieuwe ontwikkeling in de dubieuze en controversiële geschiedenis van het instituut.[^1]
