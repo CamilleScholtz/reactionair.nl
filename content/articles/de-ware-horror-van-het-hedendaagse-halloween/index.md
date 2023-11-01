@@ -13,7 +13,7 @@ tags:
     - Heidendom
 ---
 
-De viering van Halloween zoals deze zich vandaag de dag manifesteert heeft als voorname functie ieder, door middel van een verkleedpartijtje, de mogelijkheid te geven te ontsnappen aan het zware juk van een deel van de kleinburgerlijke moraliteit, zodat kinderen zich volvreten met de nieuwste Amerikaanse fabricages van suikerdrab en jongvolwassenen zich voldrinken en hun lul nat proberen te krijgen. In deze functie is de huidige viering een slap aftreksel, een overblijfsel, van de oorspronkelijke viering ervan, ongeveer als de latere _Saturnalia_. Nu, laten we dan zien naar de betekenis van de oorspronkelijke viering.
+De viering van Halloween zoals deze zich vandaag de dag manifesteert heeft als voorname functie ieder, door middel van een verkleedpartijtje, de mogelijkheid te geven te ontsnappen aan het zware juk van een deel van de kleinburgerlijke moraliteit, zodat kinderen zich volvreten met de nieuwste Amerikaanse fabricages van suikerdrab en jongvolwassenen zich voldrinken en hun mannenlijkheid nat proberen te krijgen. In deze functie is de huidige viering een slap aftreksel, een overblijfsel, van de oorspronkelijke viering ervan, ongeveer als de latere _Saturnalia_. Nu, laten we dan zien naar de betekenis van de oorspronkelijke viering.
 
 ‘Halloween’ komt van _‘All Hallows Eve’_, ofwel Allerheiligenavond. De datum waarop het gevierd wordt, 31 oktober, is namelijk, voor u die niet zo bekend zijn met de kerkelijke kalender, de avond voor Allerheiligen, het feest ter nagedachtenis aan alle heiligen en martelaren. Ook belangrijk om te gedenken is de feestdag die er op volgt, namelijk Allerzielen, waar de zielen in het vagevuur worden herdacht.
 

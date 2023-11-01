@@ -5,14 +5,14 @@ date: '2021-12-05'
 authors:
     - 'Camille Scholtz'
 themes: 'Onderzoek en Speurwerk'
-image: thumb.webp
-anchor: Top
+image: 97656e6c-4417-49a5-9c06-0be0e62c4767.jpg
+anchor: Smart
 tags:
+    - AIVD
     - Islam
+    - Radicalisering
     - 'Soumaya Sahla'
     - VVD
-    - AIVD
-    - Radicalisering
 ---
 
 Onlangs kwam aan het licht dat de _"tafelvoorzitter terrorisme en radicalisering"_ van de _VVD_, Soumaya Sahla, een veroordeelde Hofstadterroriste is. Vreemd, interessant, opmerkelijk. Hoe werkt dat nou, van terroriste naar *VVD*-adviseur? De laatste tijd zijn er veel artikelen over Soumaya Sahla verschenen, maar geen enkele lijkt echt in te gaan op _hoe_ ze nou bij de _VVD_ is terecht gekomen.
@@ -31,7 +31,9 @@ De uitspraak van het hof in Den Haag van oktober 2008 werd door de Hoge Raad in 
 
 ### Van de gevangenis naar de politiek
 
-Sahla ging na haar gevangenisstraf politicologie studeren, en deed haar promotieonderzoek bij professor Andreas Kinneging.[^7] Ze werd voorzitter van de _Organisation for Reconciliation, Rehabilitation and Reintegration_ (_ORRR_),[^7][^8] een organisatie gericht op _"integratie en verzoening"_, interessant is dat deze organisatie vrijwel alleen op papier lijkt te bestaan, zonder enige online voetafdruk. De _Verenigde Naties_ nodigde haar uit als spreker voor een conferentie over het gebruik van internet voor het tegengaan van extremisme.[^9] Ze wordt regelmatig door politici en burgemeesters benaderd voor advies over het tegengaan van radicalisering en integratievraagstukken. Sahla heeft als onderzoeksassistent gewerkt voor de Amerikaanse professor Benjamin Soares die aan het _Afrika Studiecentrum_, _Universiteit Leiden_ verbonden was. Zij schreef in opdracht van het _Ministerie van Defensie_ een artikel over de _VN_ Missie in Mali waar Nederland aan deelnam.[^10]
+Sahla ging na haar gevangenisstraf politicologie studeren, en deed haar promotieonderzoek bij rechts-conservatieve professor Andreas Kinneging.[^7] Ze werd plots ook voorzitter van de _Organisation for Reconciliation, Rehabilitation and Reintegration_ (_ORRR_),[^7][^8] een organisatie gericht op _"integratie en verzoening"_, interessant is dat deze organisatie vrijwel alleen op papier lijkt te bestaan, zonder enige online voetafdruk. De _Verenigde Naties_ nodigde haar uit als spreker voor een conferentie over het gebruik van internet voor het tegengaan van extremisme.[^9] Hoe en waarom ze hier precies mocht spreken zullen we later in dit artikel uit enzetten.
+
+Ze wordt regelmatig door politici en burgemeesters benaderd voor advies over het tegengaan van radicalisering en integratievraagstukken. Sahla heeft als onderzoeksassistent gewerkt voor de Amerikaanse professor Benjamin Soares die aan het _Afrika Studiecentrum_, _Universiteit Leiden_ verbonden was. Zij schreef in opdracht van het _Ministerie van Defensie_ een artikel over de _VN_ Missie in Mali waar Nederland aan deelnam.[^10]
 
 In 2011 kwam zij Frits Bolkestein tegen. Sindsdien is hij haar mentor.[^1][^11] Tijdens een _Chanoeka_ viering, het Joodse lichtfeest, introduceert gastspreker Bolkestein Sahla als volgt:
 
@@ -42,7 +44,7 @@ Tijdens haar betoog pleitte ze ervoor dat elke politicus Auschwitz zou moeten be
 
 ### Rabbijn Aryeh Leib Heintz
 
-Voor deze rol van deradicaliseringsexpert en antisemtisme-bestrijder was Sahla in 2005 al ontdekt door de Utrechtse rabbijn Aryeh Leib Heintz. Ze zat toen nog in de gevangenis van Zwolle, waar zij zes maanden vastzat wegens medewapenbezit. Heintz was door een Joodse medegedetineerde van Sahla op haar afgestuurd en was overtuigd geraakt van haar goede karakter; _'Zij toonde veel respect voor het jodendom'_.[^14] Maanden later hoorde Heintz dat Sahla opnieuw was gearresteerd, ditmaal omdat ze met medeverdachten als Samir Azzouz en Nouredine el Fahtni een terroristische organisatie zou vormen. Heintz was verbijsterd. Had zijn mensenkennis hem dusdanig in de steek gelaten? Nee, concludeert de rabbijn stellig, nu hij Sahla deze zomer opnieuw – meermaals – heeft kunnen bezoeken: _‘Op mij komt Soumaya eerlijk en integer over.’_ Er zitten volgens hem ook gaten in de bewijsvoering, maar, zegt hij, zijn expertise beperkt zich tot _‘het karakter’_ van Sahla. Bovendien kan Heintz begrijpen waardoor Sahla in ‘verkeerde kringen’ terechtkwam:
+Terug in de tijd, het is 2005 en Sahla zit nog in de gevangenis wegens medewapenbezit. Voor de rol van deradicaliseringsexpert en antisemtisme-bestrijder wordt Sahla ontdekt door de Utrechtse rabbijn Aryeh Leib Heintz. Heintz was door een Joodse medegedetineerde van Sahla op haar afgestuurd en was overtuigd geraakt van haar goede karakter; _'Zij toonde veel respect voor het jodendom'_.[^14] Maanden later hoorde Heintz dat Sahla opnieuw was gearresteerd, ditmaal omdat ze met medeverdachten als Samir Azzouz en Nouredine el Fahtni een terroristische organisatie zou vormen. Heintz was verbijsterd. Had zijn mensenkennis hem dusdanig in de steek gelaten? Nee, concludeert de rabbijn stellig, nu hij Sahla deze zomer opnieuw – meermaals – heeft kunnen bezoeken: _‘Op mij komt Soumaya eerlijk en integer over.’_ Er zitten volgens hem ook gaten in de bewijsvoering, maar, zegt hij, zijn expertise beperkt zich tot _‘het karakter’_ van Sahla. Bovendien kan Heintz begrijpen waardoor Sahla in ‘verkeerde kringen’ terechtkwam:
 
 >Wij joden leven al tweeduizend jaar in ballingschap. Wij hebben geleerd hoe we ons als minderheidsgroepering moeten gedragen. De moslims zijn de nieuwe minderheden, die worstelen daar nog mee. Vooral de tweede en de derde generatie zoekt haar wortels. In de meeste moskeeën krijgen zij geen of inconsequente antwoorden op geloofsvragen. Fanatici hebben wel heel heldere antwoorden.[^14]
 
