@@ -4,7 +4,7 @@ title: Vitalisme
 writers:
     - 'Luca de Clippelaar'
 pages: '114'
-publishers: 'Boekscout'
+publishers: Boekscout
 date: '2023-11-02'
 languages: Nederlands
 front: 43ee80aa-9035-48c7-80c6-c36d085a432f.webp
