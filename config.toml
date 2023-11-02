@@ -17,7 +17,7 @@ ignoreErrors = ["error-remote-getjson"]
 [params]
 	rev    = "960"
 	api    = "https://admin.reactionair.nl"
-	advert = "Lord Miles in Afghanistan"
+	advert = "Vitalisme"
 
 [taxonomies]
 	author    = "authors"
