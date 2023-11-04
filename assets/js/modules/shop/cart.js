@@ -53,7 +53,7 @@ export const edit = (main, header) => {
 		const button = form.querySelector(".add-to-cart");
 
 		cart = cart.filter(i => i.product !== product.product || i.variant !== product.variant);
-product
+
 		if (product.quantity > 0) {
 			cart.push(product);
 
