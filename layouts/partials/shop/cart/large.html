@@ -1,6 +1,6 @@
 <div class="cart-form-container">
 	{{ range .variants }}
-		<div class="cart-form" data-product="{{ $.title | urlize }}" data-variant="{{ .name | urlize }}" data-price="{{ .price }}">
+		<div class="cart-form" data-product="{{ $.product }}" data-variant="{{ .name | urlize }}" data-price="{{ .price }}">
 			<div class="price">
 				{{ if gt (len $.variants) 1 }}
 					<div class="variant">{{ .name }}</div>

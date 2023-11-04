@@ -11,7 +11,7 @@
 					<p>Ga <a href="/winkel">terug naar de winkel</a>.</p>
 				</div>
 
-				<li class="product" data-product="{{ .Params.title | urlize }}" data-price="{{ .Params.price }}" style="display: none;">
+				<li class="product" data-product="{{ .File.ContentBaseName }}" data-price="{{ .Params.price }}" style="display: none;">
 					<a href="{{ .RelPermalink }}">
 						{{ partialCached "books/small.html" (dict
 							"context" .
@@ -30,7 +30,7 @@
 						</a>
 
 						{{ partial "shop/cart/small.html" (dict
-							"title"    .Params.title
+							"product"  .File.ContentBaseName
 							"variants" .Params.variants
 							"checkout" false
 						) }}
