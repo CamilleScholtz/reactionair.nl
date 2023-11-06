@@ -75,9 +75,9 @@
 					</a>
 
 					{{ partial "shop/cart/small.html" (dict
-						"product"     .File.ContentBaseName
-						"variants"    .Params.variants
-						"checkout"    false
+						"product"  .Params.id
+						"variants" .Params.variants
+						"checkout" false
 					) }}
 				</div>
 			</li>

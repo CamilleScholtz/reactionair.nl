@@ -37,7 +37,7 @@
 			</div>
 
 			{{ partial "shop/cart/large.html" (dict
-				"product"  .File.ContentBaseName
+				"product"  .Params.id
 				"variants" .Params.variants
 				"checkout" true
 			) }}

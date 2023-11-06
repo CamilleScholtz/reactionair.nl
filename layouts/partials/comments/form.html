@@ -1,5 +1,5 @@
 <form id="comment-form" action="{{ site.Params.api }}/api/comment">
-	<input type="hidden" name="article" id="article" value="{{ . }}"/>
+	<input type="hidden" name="article" id="article" value="{{ .Params.id }}"/>
 
 	<div class="comment-form-group">
 		<textarea rows="4" name="body" id="body" required spellcheck="true" placeholder="Deel uw gedachten…"></textarea>
