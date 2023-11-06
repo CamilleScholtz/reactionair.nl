@@ -1,5 +1,5 @@
 import * as params from "@params";
-import { edit, overview, thanks } from "./modules/shop/cart.js";
+import { edit, overview, reset, thanks } from "./modules/shop/cart.js";
 import { address, checkout } from "./modules/shop/checkout.js";
 import { total } from "./modules/shop/header.js";
 import { search } from "./modules/shop/search.js";
@@ -10,6 +10,7 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 
 	const cart = JSON.parse(localStorage.getItem("cart")) ?? [];
 
+	reset(cart);
 	total(header, cart);
 	address(main);
 	checkout(main);
