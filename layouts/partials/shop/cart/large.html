@@ -13,29 +13,27 @@
 				{{ end }}
 			</div>
 
-			{{ if not .out_of_stock }}
-				<button class="button add-to-cart">
-					Toevoegen aan winkelwagen
+			<button class="button add-to-cart {{ if .out_of_stock }}disabled{{ end }}" {{ if .out_of_stock }}disabled{{ end }}>
+				Toevoegen aan winkelwagen
+			</button>
+
+			<div class="added-to-cart" style="display: none;">
+				<button class="button remove-from-cart {{ if .out_of_stock }}disabled{{ end }}" {{ if .out_of_stock }}disabled{{ end }}>
+					-
 				</button>
 
-				<div class="added-to-cart" style="display: none;">
-					<button class="button remove-from-cart" >
-						-
-					</button>
+				<input class="amount-in-cart {{ if .out_of_stock }}disabled{{ end }}" type="number" value="1" min="1" max="10" {{ if .out_of_stock }}disabled{{ end }}>
 
-					<input class="amount-in-cart" type="number" value="1" min="1" max="10">
+				<button class="button add-to-cart {{ if .out_of_stock }}disabled{{ end }}" {{ if .out_of_stock }}disabled{{ end }}>
+					+
+				</button>
 
-					<button class="button add-to-cart">
-						+
-					</button>
-
-					{{ if $.checkout }}
-						<a href="/winkel/wagen" class="button checkout">
-							Afrekenen
-						</a>
-					{{ end }}
-				</div>
-			{{ end }}
+				{{ if $.checkout }}
+					<a href="/winkel/wagen" class="button checkout">
+						Afrekenen
+					</a>
+				{{ end }}
+			</div>
 		</div>
 	{{ end }}
 </div>
