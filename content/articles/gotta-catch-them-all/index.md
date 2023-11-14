@@ -1,4 +1,5 @@
 ---
+id: 220
 title: "Gotta catch 'em All!!"
 subtitle: 'De betekenis van nostalgie en kinderlijkheid in een trieste tijd'
 date: '2022-09-19'

@@ -1,4 +1,5 @@
 ---
+id: 57
 title: 'Gekkigheid over Gideon'
 subtitle: 'Wet, recht en geweld… wie weet nog wat?'
 date: '2022-07-23'

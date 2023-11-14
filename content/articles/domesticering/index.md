@@ -1,4 +1,5 @@
 ---
+id: 13
 title: Domesticering
 subtitle: 'De Futuro-Fundamentalistische Revolutie, deel 3'
 date: '2022-01-02'

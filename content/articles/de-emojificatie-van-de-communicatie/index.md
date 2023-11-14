@@ -1,4 +1,5 @@
 ---
+id: 145
 title: 'De emojificatie van de communicatie'
 subtitle: 💁👌🎍😍🍉⛷️😱🍻💅🤣
 date: '2022-08-20'

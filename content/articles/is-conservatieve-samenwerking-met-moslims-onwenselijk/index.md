@@ -1,4 +1,5 @@
 ---
+id: 80
 title: 'Is conservatieve samenwerking met moslims onwenselijk?'
 subtitle: 'Een reactie op ‘tegen een politiek verbond met moslims’'
 date: '2022-01-15'

@@ -1,4 +1,5 @@
 ---
+id: 131
 title: 'KGB betrouwbare informatiebron?'
 subtitle: 'Hoe een oude communistische hetze tegen Johannes Paulus II lijkt te herleven'
 date: '2022-12-09'

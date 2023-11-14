@@ -1,4 +1,5 @@
 ---
+id: 95
 title: 'De Ottomanen en de Nederlandse opstandelingen'
 subtitle: 'Een onwaarschijnlijke alliantie'
 date: '2023-08-14'

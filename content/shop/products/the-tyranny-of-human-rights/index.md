@@ -1,4 +1,5 @@
 ---
+id: 32
 title: 'The Tyranny of Human Rights'
 writers:
     - 'Kerry R. Bolton'
@@ -8,7 +9,7 @@ date: '2023-07-17'
 languages: Engels
 front: 26460281-64f8-45d0-a91a-46a53d33d0ff.webp
 variants:
-    - { name: Paperback, isbn: 978-1-956887-05-1, supplier: 'Ex Libris', size: { height: 229, width: 152, depth: 27 }, import_price: { currency: USD, amount: 21.51 }, price: 23.99, out_of_stock: 0 }
+    - { id: 34, name: Paperback, isbn: 978-1-956887-05-1, price: 23.99, out_of_stock: 0 }
 subtitle: ' From Jacobinism to the United Nations'
 tags:
     - Liberalisme

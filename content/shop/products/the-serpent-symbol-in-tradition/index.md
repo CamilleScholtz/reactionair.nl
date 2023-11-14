@@ -1,4 +1,5 @@
 ---
+id: 66
 title: 'The Serpent Symbol in Tradition'
 writers:
     - 'Charles William Dailey'
@@ -8,7 +9,7 @@ date: '2022-01-20'
 languages: Engels
 front: 3c75099b-4abc-46de-aecd-69f2e01db86c.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-914208-68-3, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 41 }, import_price: { currency: EUR, amount: 28.4 }, price: 35.99, out_of_stock: 0 }
+    - { id: 70, name: Paperback, isbn: 978-1-914208-68-3, price: 35.99, out_of_stock: 0 }
 tags:
     - 'René Guénon'
     - Traditie

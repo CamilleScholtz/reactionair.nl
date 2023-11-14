@@ -1,4 +1,5 @@
 ---
+id: 26
 title: 'Pim Lammers: pedagoog of pedogoog?'
 subtitle: 'Hoe progressieven gaslighten in de discussie rondom Lammers'
 date: '2023-02-05'

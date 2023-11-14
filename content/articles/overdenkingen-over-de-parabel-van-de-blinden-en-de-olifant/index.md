@@ -1,4 +1,5 @@
 ---
+id: 140
 title: 'Overdenkingen over de parabel van de blinden en de olifant'
 subtitle: 'Waarom het streven naar objectiviteit een doodlopend pad is, deel 1'
 date: '2022-01-27'

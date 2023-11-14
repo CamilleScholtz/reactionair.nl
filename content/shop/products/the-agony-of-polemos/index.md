@@ -1,4 +1,5 @@
 ---
+id: 36
 title: 'The Agony of Polemos'
 writers:
     - 'Carlos Videla'
@@ -8,7 +9,7 @@ date: '2022-10-07'
 languages: Engels
 front: 0186346d-f825-4652-99eb-e6ef7ff873c7.webp
 variants:
-    - { name: Paperback, isbn: 978-1-956887-45-7, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 9 }, import_price: { currency: USD, amount: 14.31 }, price: 21.99, out_of_stock: 0 }
+    - { id: 38, name: Paperback, isbn: 978-1-956887-45-7, price: 21.99, out_of_stock: 0 }
 back: 3653b45e-676f-4274-b531-ff1391115604.webp
 pretty: true
 ---

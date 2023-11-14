@@ -1,4 +1,5 @@
 ---
+id: 21
 title: 'Opioids for the Masses'
 writers:
     - 'Trey Garrison'
@@ -9,7 +10,7 @@ date: '2022-01-01'
 languages: Engels
 front: front.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-953730-89-3, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 10 }, import_price: { currency: USD, amount: 15.91 }, price: 20.99, out_of_stock: 0 }
+    - { id: 22, name: Paperback, isbn: 978-1-953730-89-3, price: 20.99, out_of_stock: 0 }
 back: back.jpg
 pretty: true
 ---

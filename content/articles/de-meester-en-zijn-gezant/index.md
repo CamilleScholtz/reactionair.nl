@@ -1,4 +1,5 @@
 ---
+id: 243
 title: 'De meester en zijn gezant'
 subtitle: 'Over de ideeën van Iain McGilchrist over de linker- en rechterhersenhelft'
 date: '2023-03-26'

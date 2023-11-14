@@ -1,4 +1,5 @@
 ---
+id: 19
 title: Post-
 writers:
     - 'Shawn Bell'
@@ -8,7 +9,7 @@ date: '2022-03-16'
 languages: Engels
 front: eca3f0a2-8483-4452-99c1-ba76a725d33a.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-956887-10-5, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 11 }, import_price: { currency: USD, amount: 15.91 }, price: 19.99, out_of_stock: 0 }
+    - { id: 20, name: Paperback, isbn: 978-1-956887-10-5, price: 19.99, out_of_stock: 0 }
 back: b32c37f6-27cc-489a-86f8-58b1b0e8aee3.webp
 ---
 

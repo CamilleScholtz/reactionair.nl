@@ -1,4 +1,5 @@
 ---
+id: 213
 title: 'De boeren en natuurrecht!'
 subtitle: 'Hoe hebben we dit kookpunt bereikt en wat kunnen we verwachten van hun woede?'
 date: '2022-06-13'

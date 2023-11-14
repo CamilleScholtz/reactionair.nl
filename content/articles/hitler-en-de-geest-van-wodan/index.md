@@ -1,4 +1,5 @@
 ---
+id: 207
 title: 'Hitler, het nationaal-socialisme en Wodan'
 subtitle: 'Een opstel van Carl Gustav Jung'
 date: '2022-07-26'

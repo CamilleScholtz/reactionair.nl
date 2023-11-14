@@ -1,4 +1,5 @@
 ---
+id: 138
 title: 'Bevrijdingstheologie en Synodaliteit'
 subtitle: 'Een waarschuwing voor onwetende Katholieken'
 date: '2023-07-11'

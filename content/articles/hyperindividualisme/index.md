@@ -1,4 +1,5 @@
 ---
+id: 9
 title: Hyperindividualisme
 subtitle: 'De ondergang van de samen-leving'
 date: '2022-07-31'

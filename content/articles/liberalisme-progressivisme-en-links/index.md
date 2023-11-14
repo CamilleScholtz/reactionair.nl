@@ -1,4 +1,5 @@
 ---
+id: 115
 title: 'Liberalisme, progressivisme en links'
 subtitle: 'Drie machten die samenspannen tegen de middenklasse'
 date: '2022-05-31'

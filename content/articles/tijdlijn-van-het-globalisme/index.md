@@ -1,5 +1,5 @@
 ---
-draft: true
+id: 177
 title: 'Tijdlijn van het globalisme'
 subtitle: 'Deel 1, de Illuminati'
 date: '2023-09-17'
@@ -13,6 +13,7 @@ tags:
     - Vrijmetselarij
     - 'Georg Hegel'
     - Globalisme
+draft: true
 ---
 
 Het onderstaande artikel werd oorspronkelijk in het Engels gepubliceerd op een katholieke website *Michael*. Het is een relatief uitgebreide tijdlijn van "de geschiedenis van de Nieuwe Wereldorde". Alles wat ook maar refereert aan "de Nieuwe Wereldorde" wordt automatisch bestempeld als samenzweringstheorie en dus gemakkelijk van tafel geveegd. Ik kan niet ontkennen dat zelfs ik, iemand die openstaat voor "samenzweringstheorieën", vij skeptisch word als ik de woorden "de nieuwe wereldorde" of "de illuminati" lees. Dit maakte me nieuwsgierig, hoeveel hiervan kan worden gevonden in het historische verslag?

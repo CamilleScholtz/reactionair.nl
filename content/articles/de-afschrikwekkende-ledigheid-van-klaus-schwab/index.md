@@ -1,4 +1,5 @@
 ---
+id: 134
 title: 'De afschrikwekkende ledigheid van Klaus Schwab'
 subtitle: 'Een recensie van COVID-19: The Great Reset'
 date: '2022-10-05'

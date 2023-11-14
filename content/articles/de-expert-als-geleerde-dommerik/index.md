@@ -1,4 +1,5 @@
 ---
+id: 107
 title: 'De expert als geleerde dommerik'
 subtitle: 'Waarom hebben de hoogste autoriteiten soms zulke wereldvreemde meningen?'
 date: '2022-03-06'

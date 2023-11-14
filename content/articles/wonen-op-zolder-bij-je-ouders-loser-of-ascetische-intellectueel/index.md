@@ -1,4 +1,5 @@
 ---
+id: 6
 title: 'Wonen op zolder bij je ouders: loser of ascetische intellectueel?'
 subtitle: 'Verdwenen vrijheid en zingeving in het liberale consumptiekapitalisme'
 date: '2022-04-19'

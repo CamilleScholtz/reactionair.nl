@@ -1,4 +1,5 @@
 ---
+id: 90
 title: Beowulf
 writers:
     - Diversen
@@ -8,7 +9,7 @@ date: '2021-05-21'
 languages: Engels
 front: 3b040ffd-e4ea-4a06-889c-5751953c92ae.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-922602-03-9, supplier: 'Ex Libris', size: { height: 203, width: 133, depth: 26 }, import_price: { currency: USD, amount: 18.7 }, price: 19.99, out_of_stock: 0 }
+    - { id: 92, name: Paperback, isbn: 978-1-922602-03-9, price: 19.99, out_of_stock: 0 }
 tags:
     - Heidendom
 back: 20b590f4-3ee6-4216-aa86-4aaa76b2fb68.jpg

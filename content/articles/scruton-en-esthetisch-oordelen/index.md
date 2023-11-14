@@ -1,4 +1,5 @@
 ---
+id: 166
 title: 'Scruton en esthetisch oordelen'
 subtitle: 'Wat is schoonheid?'
 date: '2022-01-11'

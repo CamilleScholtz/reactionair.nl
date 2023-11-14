@@ -1,4 +1,5 @@
 ---
+id: 99
 title: 'Reactionary Modernism'
 writers:
     - 'Jonathan Bowden'
@@ -8,8 +9,8 @@ date: '2022-03-28'
 languages: Engels
 front: ce015cfd-9276-4adc-b3f4-33dd5304941f.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-642641-66-0, supplier: 'Ex Libris', size: { height: 229, width: 153, depth: 12 }, import_price: { currency: USD, amount: 16.0 }, price: 22.99, out_of_stock: 0 }
-    - { name: Hardcover, isbn: 978-1-642641-67-7, supplier: 'Ex Libris', size: { height: 229, width: 153, depth: 16 }, import_price: { currency: USD, amount: 28.0 }, price: 34.99, out_of_stock: 0 }
+    - { id: 101, name: Paperback, isbn: 978-1-642641-66-0, price: 22.99, out_of_stock: 0 }
+    - { id: 102, name: Hardcover, isbn: 978-1-642641-67-7, price: 34.99, out_of_stock: 0 }
 tags:
     - Kunst
     - Traditie

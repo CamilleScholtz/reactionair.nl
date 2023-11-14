@@ -1,4 +1,5 @@
 ---
+id: 268
 title: 'Een alliantie met moslims!?'
 subtitle: 'Over reactionairen en moslims'
 date: '2021-10-13'

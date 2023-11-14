@@ -1,4 +1,5 @@
 ---
+id: 34
 title: 'Wat behelst de reactionaire levensbeschouwing?'
 subtitle: 'Een antwoord aan een geïnteresseerde lezer'
 date: '2023-02-06'

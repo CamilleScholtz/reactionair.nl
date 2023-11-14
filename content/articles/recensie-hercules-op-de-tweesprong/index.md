@@ -1,4 +1,5 @@
 ---
+id: 7
 title: 'Aarzelend tussen de weg van de deugd en van de ondeugd'
 subtitle: "Een recensie van 'Hercules op de tweesprong', het nieuwste boek van Andreas Kinneging"
 date: '2023-06-11'

@@ -1,4 +1,5 @@
 ---
+id: 123
 title: 'Het morele recht van de kruistochten'
 subtitle: 'Ja, dat las je goed...'
 date: '2022-06-12'

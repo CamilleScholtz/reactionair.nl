@@ -1,4 +1,5 @@
 ---
+id: 158
 title: 'In gesprek over Schopenhauer'
 subtitle: 'Een recensie van het boek “De weg terug”'
 date: '2022-12-09'

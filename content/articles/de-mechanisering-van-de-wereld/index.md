@@ -1,4 +1,5 @@
 ---
+id: 224
 title: 'De mechanisering van de wereld'
 subtitle: 'Wordt onze samenleving gegijzeld door een gemechaniseerd wereldbeeld?'
 date: '2021-11-25'

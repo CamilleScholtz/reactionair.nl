@@ -1,5 +1,5 @@
 ---
-draft: true
+id: 217
 title: '‘Predators’ in ons midden?'
 subtitle: 'Van ‘grooming’ tot Demmink: wie weet wat…'
 date: '2023-02-06'
@@ -13,6 +13,7 @@ anchor: Smart
 tags:
     - Woke
     - 'Pim Lammers'
+draft: true
 ---
 
 De storm die is opgestoken over de inmiddels omstreden kinderboekenschrijver Pim Lammers die het geschenk van de kinderboekenweek zou schrijven woedt nog volop. De auteur bleek in eerdere fictie ook een beschrijving van kindermisbruik, die het positief leek weer te geven, te hebben verwerkt en ook in zijn kinderboeken veel aandacht te geven aan seksueel getinte onderwerpen. Alhoewel de auteur uiteindelijk toch besluit niet het kinderboekenweekgeschenk te schrijven, verdwijnt hiermee slechts een symptoom en niet het daadwerkelijke probleem. 

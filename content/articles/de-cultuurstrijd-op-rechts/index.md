@@ -1,4 +1,5 @@
 ---
+id: 12
 title: 'De cultuurstrijd op rechts'
 subtitle: 'Wie zouden wij zijn zonder immigratie?'
 date: '2023-10-03'

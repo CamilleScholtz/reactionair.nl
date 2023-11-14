@@ -1,4 +1,5 @@
 ---
+id: 47
 title: 'Wat is bioleninisme?'
 subtitle: 'Ideologie van de clownwereld'
 date: '2022-07-19'

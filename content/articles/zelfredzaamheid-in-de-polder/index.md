@@ -1,4 +1,5 @@
 ---
+id: 212
 title: 'Zelfredzaamheid in de polder'
 subtitle: 'Over een zelfvoorzienend Nederland '
 date: '2022-08-26'

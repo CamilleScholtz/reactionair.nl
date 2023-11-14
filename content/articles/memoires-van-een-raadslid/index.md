@@ -1,4 +1,5 @@
 ---
+id: 137
 title: 'Memoires van een raadslid'
 subtitle: 'Subtiele manipulaties in de gemeentepolitiek'
 date: '2022-07-08'

@@ -1,5 +1,5 @@
 ---
-draft: true
+id: 266
 title: 'Het verdrag van de Eenheid'
 subtitle: TODO
 date: '2023-04-08'
@@ -8,6 +8,7 @@ authors:
 themes: 'Religie en Wijsbegeerte'
 image: 4af5c901-8b15-4740-adad-52c790640722.jpg
 anchor: Smart
+draft: true
 ---
 
 {{< basmala >}}

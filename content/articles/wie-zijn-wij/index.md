@@ -1,4 +1,5 @@
 ---
+id: 30
 title: 'Wie zijn wij?'
 subtitle: 'Een inleiding tot Reactionair.nl'
 date: '2021-10-01'

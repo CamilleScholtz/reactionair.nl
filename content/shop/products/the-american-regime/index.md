@@ -1,4 +1,5 @@
 ---
+id: 59
 title: 'The American Regime'
 writers:
     - 'An Anonymous January 6th Prisoner'
@@ -8,7 +9,7 @@ date: '2023-01-06'
 languages: Engels
 front: 1c424504-4d8e-4bc1-b6a5-d907078cd661.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-956887-55-6, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 17 }, import_price: { currency: USD, amount: 15.91 }, price: 23.99, out_of_stock: 0 }
+    - { id: 63, name: Paperback, isbn: 978-1-956887-55-6, price: 23.99, out_of_stock: 0 }
 tags:
     - Amerika
 pretty: true

@@ -1,4 +1,5 @@
 ---
+id: 91
 title: 'Horizons of Iron'
 writers:
     - 'Arthur Powell'
@@ -8,7 +9,7 @@ date: '2022-09-22'
 languages: Engels
 front: ed8467cb-7553-4d77-b310-7bcd81ddd842.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-922602-56-5, supplier: 'Ex Libris', size: { height: 204, width: 127, depth: 10 }, import_price: { currency: USD, amount: 17.0 }, price: 21.99, out_of_stock: 0 }
+    - { id: 93, name: Paperback, isbn: 978-1-922602-56-5, price: 21.99, out_of_stock: 0 }
 back: c1d02b53-d316-4c33-b9e7-9f3940fb3557.jpg
 ---
 

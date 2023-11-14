@@ -1,4 +1,5 @@
 ---
+id: 7
 title: 'Political Justice'
 writers:
     - 'Alexander J. Illingworth'
@@ -8,7 +9,7 @@ date: '2018-10-29'
 languages: Engels
 front: f0e5fb93-7233-4daa-abf1-97d93d55ae10.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-910524-14-5, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 20 }, import_price: { currency: EUR, amount: 17.2 }, price: 23.99, out_of_stock: 0 }
+    - { id: 7, name: Paperback, isbn: 978-1-910524-14-5, price: 23.99, out_of_stock: 0 }
 subtitle: 'A Traditional Conservative Case for an Alternative Society'
 tags:
     - Liberalisme

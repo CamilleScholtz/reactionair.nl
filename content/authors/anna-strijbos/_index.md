@@ -1,4 +1,5 @@
 ---
+id: 41
 title: 'Anna Strijbos'
 description: 'Anna Strijbos is auteur van haar debuutroman ‘Zelfloos’ en tevens bezig met een dichtbundel. Daarnaast is zij een arts in wording.'
 keyword: Schrijfster

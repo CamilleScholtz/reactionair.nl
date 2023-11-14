@@ -1,4 +1,5 @@
 ---
+id: 182
 title: 'De mythologisering van het liberalisme'
 subtitle: 'Van abstract principe tot emotioneel verhaal'
 date: '2023-03-05'

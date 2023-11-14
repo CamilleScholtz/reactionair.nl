@@ -1,4 +1,5 @@
 ---
+id: 99
 title: 'Het trauma van 9/11'
 subtitle: 'De goedgelovige idioot en de krankzinnige schizo'
 date: '2022-07-16'

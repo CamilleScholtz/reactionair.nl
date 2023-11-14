@@ -1,4 +1,5 @@
 ---
+id: 195
 title: 'Wat wil SchoolsOUT met uw kinderen?'
 subtitle: 'Het zoveelste regenboogproject nader bekeken'
 date: '2023-02-05'

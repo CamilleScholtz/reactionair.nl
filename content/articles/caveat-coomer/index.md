@@ -1,4 +1,5 @@
 ---
+id: 104
 title: 'Caveat coomer'
 subtitle: 'Over de giftige alchemie tussen coomer en e-girl'
 date: '2022-02-24'

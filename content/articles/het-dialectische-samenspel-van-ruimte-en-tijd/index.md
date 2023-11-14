@@ -1,4 +1,5 @@
 ---
+id: 29
 title: 'Het dialectische samenspel van ruimte en tijd'
 subtitle: 'Een metafysische beschouwing van de knip op de Weesperstraat'
 date: '2023-06-13'

@@ -1,4 +1,5 @@
 ---
+id: 234
 title: 'Blijft Timmermans enige uitdager in debat-Omtzigt?'
 subtitle: 'Het juiste antwoord op rechts ligt bij FVD en de PVV'
 date: '2023-09-02'

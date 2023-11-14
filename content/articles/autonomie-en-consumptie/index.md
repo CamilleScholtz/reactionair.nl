@@ -1,4 +1,5 @@
 ---
+id: 96
 title: 'Autonomie en consumptie'
 subtitle: 'Hoe autonomie met de consumptiemaatschappij samenhangt'
 date: '2021-10-31'

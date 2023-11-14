@@ -1,4 +1,5 @@
 ---
+id: 27
 title: 'The Decline of the West'
 writers:
     - 'Oswald Spengler'
@@ -8,7 +9,7 @@ date: '2021-07-17'
 languages: Engels
 front: 6df172b8-d755-498d-8935-7c8e75fb2328.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-915755-23-0, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 42 }, import_price: { currency: EUR, amount: 23.6 }, price: 32.99, out_of_stock: 0 }
+    - { id: 29, name: Paperback, isbn: 978-1-915755-23-0, price: 32.99, out_of_stock: 0 }
 subtitle: 'Perspectives of World-History'
 tags:
     - Kunst

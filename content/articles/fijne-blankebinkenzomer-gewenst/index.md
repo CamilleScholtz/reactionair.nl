@@ -1,5 +1,5 @@
 ---
-draft: true
+id: 41
 title: 'Maak er een mooie blankebinkenzomer van!'
 subtitle: 'En laat je niet casten als slechterik'
 date: '2023-05-21'
@@ -15,6 +15,7 @@ tags:
     - Marxisme
     - Racisme
     - Ressentiment
+draft: true
 ---
 
 {{< quote text="All the world’s a stage,<br>And all the men and women merely players." author="William Shakespeare" >}}

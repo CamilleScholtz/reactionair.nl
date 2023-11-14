@@ -1,4 +1,5 @@
 ---
+id: 24
 title: 'De werkelijkheid in de spiegel'
 subtitle: 'Er zal nooit zijn wat geweest is'
 date: '2023-05-30'

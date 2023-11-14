@@ -1,4 +1,5 @@
 ---
+id: 54
 title: 'A Handbook for Right-Wing Youth'
 writers:
     - 'Julius Evola'
@@ -8,7 +9,7 @@ date: '2023-07-21'
 languages: Engels
 front: 3fe0a465-86c6-45b6-bf8e-8490523ec954.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-912079-60-5, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 11 }, import_price: { currency: EUR, amount: 11.84 }, price: 14.99, out_of_stock: 0 }
+    - { id: 57, name: Paperback, isbn: 978-1-912079-60-5, price: 14.99, out_of_stock: 0 }
 tags:
     - 'Julius Evola'
     - Traditie

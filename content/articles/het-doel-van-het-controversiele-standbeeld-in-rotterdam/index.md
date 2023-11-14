@@ -1,4 +1,5 @@
 ---
+id: 14
 title: 'Het doel van het controversiële standbeeld in Rotterdam'
 subtitle: 'Een symbool van hedendaagse kunst'
 date: '2023-06-04'

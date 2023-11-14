@@ -1,4 +1,5 @@
 ---
+id: 50
 title: 'De chiastische structuur van soera De Opening'
 subtitle: 'Over ringcomposities'
 date: '2022-07-01'

@@ -1,4 +1,5 @@
 ---
+id: 188
 title: 'Naar de maan'
 subtitle: 'Wilders, Baudet en de nieuwe ordening van rechts Nederland'
 date: '2023-09-21'

@@ -1,4 +1,5 @@
 ---
+id: 267
 title: 'Een dichter in Fiume'
 subtitle: 'Hoe de overname van een Adriatische havenstad de Europese geschiedenis tekende'
 date: '2023-04-02'

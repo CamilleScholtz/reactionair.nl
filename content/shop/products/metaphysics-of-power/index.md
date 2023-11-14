@@ -1,4 +1,5 @@
 ---
+id: 42
 title: 'Metaphysics of Power'
 writers:
     - 'Julius Evola'
@@ -8,7 +9,7 @@ date: '2023-07-21'
 languages: Engels
 front: c9814e2e-792d-45dc-9ee0-6513eda8628a.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-914208-09-6, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 22 }, import_price: { currency: EUR, amount: 15.6 }, price: 21.99, out_of_stock: 0 }
+    - { id: 44, name: Paperback, isbn: 978-1-914208-09-6, price: 21.99, out_of_stock: 0 }
 tags:
     - Metafysica
     - 'Julius Evola'

@@ -1,4 +1,5 @@
 ---
+id: 78
 title: 'Bereid te sterven voor Taiwan?'
 subtitle: 'Voorkom een tweede Vietnam; verraad geen bondgenoot'
 date: '2022-08-08'

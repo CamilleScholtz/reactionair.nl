@@ -1,4 +1,5 @@
 ---
+id: 39
 title: 'Defining Terrorism'
 writers:
     - 'Abir Taha'
@@ -8,7 +9,7 @@ date: '2014-10-16'
 languages: Engels
 front: 577fca82-d91c-4410-acd5-6281715a01ad.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-907166-83-9, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 6 }, import_price: { currency: EUR, amount: 9.12 }, price: 12.99, out_of_stock: 0 }
+    - { id: 41, name: Paperback, isbn: 978-1-907166-83-9, price: 12.99, out_of_stock: 0 }
 subtitle: 'The End of Double Standards'
 tags:
     - Israël

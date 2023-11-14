@@ -1,4 +1,5 @@
 ---
+id: 247
 title: 'Het wezen van de technologie'
 subtitle: 'Heidegger en onze Terminator-toekomst, deel 1'
 date: '2022-05-28'

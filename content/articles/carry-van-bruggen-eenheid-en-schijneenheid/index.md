@@ -1,4 +1,5 @@
 ---
+id: 165
 title: 'Carry van Bruggen: Eenheid en schijneenheid'
 subtitle: 'Een vergeten Nederlandse filosofe over dogmatisch kuddegedrag, versus zoeken naar Waarheid'
 date: '2022-02-17'

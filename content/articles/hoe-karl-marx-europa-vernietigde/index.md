@@ -1,4 +1,5 @@
 ---
+id: 230
 title: 'Hoe Karl Marx Europa vernietigde'
 subtitle: 'Identiteitsbeleid en de opkomst van institutioneel racisme'
 date: '2023-07-06'

@@ -1,4 +1,5 @@
 ---
+id: 43
 title: 'Het verval van de archetypen'
 subtitle: 'Het herstellen van mannelijkheid en vrouwelijkheid in het tijdperk van de machine'
 date: '2022-08-22'

@@ -1,4 +1,5 @@
 ---
+id: 18
 title: 'Reflectie op de glijdende schaal'
 subtitle: 'Drogreden of werkelijkheid?'
 date: '2022-06-15'

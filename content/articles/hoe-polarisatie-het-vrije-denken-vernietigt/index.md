@@ -1,4 +1,5 @@
 ---
+id: 216
 title: 'Hoe polarisatie het vrije denken vernietigt'
 subtitle: 'De vijand van mijn vriend is mijn vijand'
 date: '2023-04-04'

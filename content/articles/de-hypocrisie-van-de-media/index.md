@@ -1,5 +1,5 @@
 ---
-draft: true
+id: 68
 title: 'De hypocrisie van de media'
 subtitle: 'Over het Ongehoord Nederland debacle'
 date: '2022-09-16'
@@ -11,6 +11,7 @@ anchor: Smart
 tags:
     - 'Ongehoord Nederland'
     - Media
+draft: true
 ---
 
 Weet u nog hoe het "fatsoenlijke" nieuws over Trump berichtte tijdens zijn presidentschap, élke dag, vier jaar lang? De NOS opende een 8 uur journaal met "nieuws" over Trump die onder geplast zou zijn door een prostituee in een hotel in Moskou. Het bleek natuurlijk niet waar te zijn, en we hoorden er nooit meer wat over. Snel op naar de volgende leugen, maar dat maakt niet uit voor journalisten. De toon was gezet, de kop was in de hoofden van de mensen gegrift. Dat is wat telt.

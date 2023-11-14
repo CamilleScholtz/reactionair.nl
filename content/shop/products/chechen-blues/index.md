@@ -1,4 +1,5 @@
 ---
+id: 20
 title: 'Chechen Blues'
 writers:
     - 'Alexander Prokhanov'
@@ -8,7 +9,7 @@ date: '2022-04-01'
 languages: Engels
 front: 14f6e015-838c-4979-8417-d639ec2a51c4.webp
 variants:
-    - { name: Paperback, isbn: 978-1-953730-35-0, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 14 }, import_price: { currency: USD, amount: 19.11 }, price: 23.99, out_of_stock: 0 }
+    - { id: 21, name: Paperback, isbn: 978-1-953730-35-0, price: 23.99, out_of_stock: 0 }
 tags:
     - Rusland
     - Communisme

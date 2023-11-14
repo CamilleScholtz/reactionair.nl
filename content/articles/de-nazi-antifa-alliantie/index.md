@@ -1,4 +1,5 @@
 ---
+id: 84
 title: 'De Nazi-Antifa Alliantie'
 subtitle: 'De vergeten geschiedenis van conservatief verzet, de bevrijding en Neurenberg'
 date: '2022-05-05'

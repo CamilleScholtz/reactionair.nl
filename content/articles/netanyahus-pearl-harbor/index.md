@@ -1,4 +1,5 @@
 ---
+id: 189
 title: "Netanyahu's Pearl Harbor"
 subtitle: 'Over gokken en verliezen'
 date: '2023-10-08'

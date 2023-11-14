@@ -1,4 +1,5 @@
 ---
+id: 127
 title: 'Verenigd Koninkrijk: Duizend families sluiten zich aan in rechtszaak tegen genderkliniek'
 subtitle: 'Nederlandse media opvallend stil'
 date: '2022-08-11'

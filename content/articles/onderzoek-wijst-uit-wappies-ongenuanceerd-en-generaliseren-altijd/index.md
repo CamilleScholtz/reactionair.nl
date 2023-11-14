@@ -1,4 +1,5 @@
 ---
+id: 128
 title: 'Onderzoek wijst uit: wappies ongenuanceerd en generaliseren altijd'
 subtitle: 'Eindelijk wetenschappelijk bewijs'
 date: '2023-05-24'

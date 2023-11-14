@@ -1,4 +1,5 @@
 ---
+id: 67
 title: Recognitions
 writers:
     - 'Julius Evola'
@@ -8,7 +9,7 @@ date: '2023-07-21'
 languages: Engels
 front: 9fa1329e-45e1-4aa8-863c-b1d65306b280.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-912079-18-6, supplier: 'Ex Libris', size: { height: 229, width: 153, depth: 22 }, import_price: { currency: EUR, amount: 16.2 }, price: 20.99, out_of_stock: 0 }
+    - { id: 71, name: Paperback, isbn: 978-1-912079-18-6, price: 20.99, out_of_stock: 0 }
 tags:
     - 'Joseph de Maistre'
     - 'Julius Evola'

@@ -1,4 +1,5 @@
 ---
+id: 232
 title: 'Tegen de fetisj voor boeren op rechts'
 subtitle: 'Conservatief sentimentalisme als nieuwe melkkoe'
 date: '2022-07-01'

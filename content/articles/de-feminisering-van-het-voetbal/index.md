@@ -1,4 +1,5 @@
 ---
+id: 75
 title: 'De feminisering van het voetbal'
 subtitle: 'Of hoe één van de laatste masculiene bastions moet vallen'
 date: '2023-05-22'

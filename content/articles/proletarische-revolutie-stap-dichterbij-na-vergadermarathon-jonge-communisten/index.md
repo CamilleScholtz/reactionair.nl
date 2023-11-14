@@ -1,4 +1,5 @@
 ---
+id: 39
 title: 'Proletarische revolutie stap dichterbij na vergadermarathon jonge communisten'
 subtitle: 'Weldra zal de rode dageraad aanbreken!'
 date: '2023-07-03'

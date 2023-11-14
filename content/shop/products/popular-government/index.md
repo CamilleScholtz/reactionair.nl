@@ -1,4 +1,5 @@
 ---
+id: 53
 title: 'Popular Government'
 writers:
     - 'Henry Sumner Maine'
@@ -8,7 +9,7 @@ date: '2021-08-17'
 languages: Engels
 front: 36826ce5-94fa-4c89-87da-80c019973016.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-922602-10-7, supplier: 'Ex Libris', size: { height: 178, width: 108, depth: 10 }, import_price: { currency: USD, amount: 13.6 }, price: 14.99, out_of_stock: 0 }
+    - { id: 56, name: Paperback, isbn: 978-1-922602-10-7, price: 14.99, out_of_stock: 0 }
 back: f2aa54d4-1046-4770-ba46-d8423bec87ac.jpg
 ---
 

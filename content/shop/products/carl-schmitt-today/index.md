@@ -1,4 +1,5 @@
 ---
+id: 30
 title: 'Carl Schmitt Today'
 writers:
     - 'Alain de Benoist'
@@ -8,7 +9,7 @@ date: '2013-03-17'
 languages: Engels
 front: 2907b098-7842-4e61-b536-257f7d7364eb.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-907166-39-6, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 66 }, import_price: { currency: EUR, amount: 10.56 }, price: 16.99, out_of_stock: 0 }
+    - { id: 32, name: Paperback, isbn: 978-1-907166-39-6, price: 16.99, out_of_stock: 0 }
 subtitle: 'Terrorism, Just War, and the State of Emergency'
 tags:
     - 'Carl Schmitt'

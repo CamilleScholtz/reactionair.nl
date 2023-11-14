@@ -1,4 +1,5 @@
 ---
+id: 76
 title: 'Wegbereider van de contrarevolutie'
 subtitle: 'Over Louis de Bonald'
 date: '2021-10-11'

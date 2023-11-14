@@ -1,4 +1,5 @@
 ---
+id: 183
 title: 'Directrice hondenpension met 4000 katten: “Instroom katten beperken”'
 subtitle: 'Cynisme na zeshonderdste toezegging niet weggenomen'
 date: '2023-06-20'

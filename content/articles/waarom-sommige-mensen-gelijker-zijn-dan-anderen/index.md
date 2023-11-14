@@ -1,4 +1,5 @@
 ---
+id: 100
 title: 'Over het gelijkheidsprincipe'
 subtitle: 'Enkele reflecties op de betekenis van gelijkheid in onze samenleving '
 date: '2022-10-23'

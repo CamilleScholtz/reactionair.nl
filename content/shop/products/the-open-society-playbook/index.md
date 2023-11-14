@@ -1,4 +1,5 @@
 ---
+id: 61
 title: 'The Open Society Playbook'
 writers:
     - 'Scott Howard'
@@ -8,7 +9,7 @@ date: '2021-11-17'
 languages: Engels
 front: 5e32ef4d-f3d2-491e-98e0-77dfa0f28f88.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-953730-99-2, supplier: 'Ex Libris', size: { height: 229, width: 153, depth: 20 }, import_price: { currency: USD, amount: 21.51 }, price: 25.99, out_of_stock: 0 }
+    - { id: 65, name: Paperback, isbn: 978-1-953730-99-2, price: 25.99, out_of_stock: 0 }
 tags:
     - Globalisme
     - 'Klaus Schwab'

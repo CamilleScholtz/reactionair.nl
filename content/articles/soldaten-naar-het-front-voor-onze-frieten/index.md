@@ -1,4 +1,5 @@
 ---
+id: 228
 title: 'Soldaten! Naar het front voor onze frieten!'
 subtitle: 'Hoe socialistische stikstofpolitiek een sluipmoord pleegt op onze friet'
 date: '2023-06-03'

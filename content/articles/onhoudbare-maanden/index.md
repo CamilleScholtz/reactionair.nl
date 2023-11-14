@@ -1,4 +1,5 @@
 ---
+id: 22
 title: 'Onhoudbare maanden'
 subtitle: 'José Calvo Sotelo en het begin van de Spaanse Burgeroorlog'
 date: '2022-06-20'

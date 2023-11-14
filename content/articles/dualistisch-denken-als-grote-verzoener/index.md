@@ -1,4 +1,5 @@
 ---
+id: 5
 title: 'Dualistisch denken als grote verzoener'
 subtitle: 'Over het licht van de Zwarte Zon'
 date: '2022-09-04'

@@ -1,5 +1,5 @@
 ---
-draft: true
+id: 121
 title: 'NPO komt met nieuw programma: Wie is de trol?'
 subtitle: "Geïnspireerd op Dostojevski's novelle Aantekeningen uit het ondergrondse"
 date: '2023-05-18'
@@ -12,6 +12,7 @@ tags:
     - Wappies
     - 'Fjodor Dostojevski'
     - 'Publieke omroep'
+draft: true
 ---
 
 Een gewaagde zet van de Nederlandse Publieke Omroep: een nieuw programma getiteld "Wie is de trol?", belooft kijkers een vermakelijke en verwarrende ervaring te bieden, waarbij ze moeten raden wie van de deelnemers een doorgewinterde internettrol is.

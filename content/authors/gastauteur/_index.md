@@ -1,4 +1,5 @@
 ---
+id: 6
 title: Gastauteur
 description: 'Artikelen geschreven door gastauteurs.'
 keyword: '“ ...”'

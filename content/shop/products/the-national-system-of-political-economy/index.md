@@ -1,4 +1,5 @@
 ---
+id: 84
 title: 'The National System of Political Economy'
 writers:
     - 'Friedrich List'
@@ -8,7 +9,7 @@ date: '2022-02-25'
 languages: Engels
 front: 6bb5353f-7589-4ede-8268-cfe6bf3cf7ad.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-922602-35-0, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 27 }, import_price: { currency: USD, amount: 20.4 }, price: 22.99, out_of_stock: 0 }
+    - { id: 86, name: Paperback, isbn: 978-1-922602-35-0, price: 22.99, out_of_stock: 0 }
 back: c3e4f3ad-7ec1-489b-8d47-cbcf2ee36cc2.jpg
 pretty: true
 ---

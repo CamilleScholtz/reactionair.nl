@@ -1,4 +1,5 @@
 ---
+id: 226
 title: 'Een lesje grammatica, een lesje metafysica'
 subtitle: 'Waarom het streven naar objectiviteit een doodlopend pad is, deel 2'
 date: '2022-02-01'

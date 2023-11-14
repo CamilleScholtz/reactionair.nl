@@ -1,4 +1,5 @@
 ---
+id: 129
 title: 'Waarom je doodsbang moet zijn voor Artificiële Intelligentie '
 subtitle: 'Onze realiteit gereduceerd tot pure kwantiteit — lees tot het einde!'
 date: '2022-07-24'

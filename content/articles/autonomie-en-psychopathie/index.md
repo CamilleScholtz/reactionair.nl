@@ -1,4 +1,5 @@
 ---
+id: 20
 title: 'Autonomie en psychopathie'
 subtitle: 'Hoe individuen autonomie na kunnen streven in de consumptiemaatschappij'
 date: '2021-11-18'

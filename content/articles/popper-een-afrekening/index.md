@@ -1,4 +1,5 @@
 ---
+id: 271
 title: 'Popper: een afrekening'
 subtitle: 'Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?'
 date: '2022-01-08'

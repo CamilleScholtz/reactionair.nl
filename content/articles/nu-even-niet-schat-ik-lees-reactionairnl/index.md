@@ -1,4 +1,5 @@
 ---
+id: 246
 title: '‘Nu even niet schat, ik lees Reactionair.nl’'
 subtitle: 'Een litanie van medialeugens en een ingezonden brief'
 date: '2023-02-10'

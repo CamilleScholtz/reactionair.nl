@@ -1,4 +1,5 @@
 ---
+id: 57
 title: 'What is a Rune'
 writers:
     - 'Collin Cleary'
@@ -8,8 +9,8 @@ date: '2015-03-28'
 languages: Engels
 front: fb108afe-0e4c-4b37-af9c-7af3097e268f.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-935965-80-0, supplier: 'Ex Libris', size: { height: 229, width: 152, depth: 15 }, import_price: { currency: USD, amount: 16.0 }, price: 21.99, out_of_stock: 0 }
-    - { name: Hardcover, isbn: 978-1-935965-79-4, supplier: 'Ex Libris', size: { height: 229, width: 152, depth: 19 }, import_price: { currency: USD, amount: 28.0 }, price: 32.99, out_of_stock: 0 }
+    - { id: 60, name: Paperback, isbn: 978-1-935965-80-0, price: 21.99, out_of_stock: 0 }
+    - { id: 61, name: Hardcover, isbn: 978-1-935965-79-4, price: 32.99, out_of_stock: 0 }
 subtitle: 'And Other Essays'
 tags:
     - Mythologie

@@ -1,4 +1,5 @@
 ---
+id: 174
 title: 'Christendom en legitimiteit'
 subtitle: 'Autoriteit versus macht'
 date: '2021-12-29'

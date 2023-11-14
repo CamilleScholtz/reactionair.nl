@@ -1,4 +1,5 @@
 ---
+id: 44
 title: 'The Epic of Arya'
 writers:
     - 'Abir Taha'
@@ -8,7 +9,7 @@ date: '2016-07-08'
 languages: Engels
 front: 32ddbdbd-470c-47c7-960c-f484f528ee41.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-910524-54-1, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 20 }, import_price: { currency: EUR, amount: 10.56 }, price: 18.99, out_of_stock: 0 }
+    - { id: 47, name: Paperback, isbn: 978-1-910524-54-1, price: 18.99, out_of_stock: 0 }
 subtitle: 'In Search of the Sacred Light'
 tags:
     - 'Friedrich Nietzsche'

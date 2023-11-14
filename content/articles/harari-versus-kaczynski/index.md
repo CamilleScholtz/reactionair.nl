@@ -1,4 +1,5 @@
 ---
+id: 238
 title: 'Harari versus Kaczynski'
 subtitle: 'Een strijd tussen transhumanisme en anarchoprimitivisme'
 date: '2022-06-26'

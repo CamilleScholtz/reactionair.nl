@@ -1,4 +1,5 @@
 ---
+id: 157
 title: 'De essentie van linkse politiek volgens een algoritme'
 subtitle: 'Een experiment in kunstmatige intelligentie'
 date: '2022-05-10'

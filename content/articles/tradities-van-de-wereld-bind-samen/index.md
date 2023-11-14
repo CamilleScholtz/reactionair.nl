@@ -1,5 +1,5 @@
 ---
-draft: true
+id: 101
 title: 'Tradities van de wereld, bind samen'
 subtitle: 'Sticht een mondiale orde'
 date: '2023-02-24'
@@ -11,6 +11,7 @@ anchor: Smart
 description: 'Waarom hebben we een mondiale orde nodig om de balans in de wereld te behouden? Lees hoe een Heilig Rijk kan voorkomen dat de wereld verder fragmenteert en digitaliseert.'
 tags:
     - Globalisme
+draft: true
 ---
 
 Nu het wereldwijde geopolitieke spel verder onder druk staat, stevenen we verder af op een nieuwe wereldoorlog. Het westen is langzaam vervallen tot een wanordelijk radicaal element op het wereldtoneel. Met het verlies van moraliteit en de technologisch baanbrekende positie is het de grootste dreiging geworden voor de wereldwijde orde en balans. Samen genomen met het versnellen van het wiel der tijd, de exponentiële technologische vooruitgang, stevenen we af op een werkelijk Armageddon, een totale eindstrijd om de orde in de wereld en haar voortbestaan of de vernietiging van alles.

@@ -1,4 +1,5 @@
 ---
+id: 61
 title: 'In gedachte Pim Fortuyn'
 subtitle: 'De enige dandy-salafist van Nederland'
 date: '2022-05-06'

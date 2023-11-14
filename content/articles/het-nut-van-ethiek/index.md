@@ -1,5 +1,5 @@
 ---
-draft: true
+id: 211
 title: 'Het nut van ethiek'
 subtitle: 'Of waarom Hofmans Boos een neoliberaal programma is'
 date: '2023-02-06'
@@ -14,6 +14,7 @@ tags:
     - 'Sigmund Freud'
     - 'Georg Hegel'
     - 'Georges Bataille'
+draft: true
 ---
 
 Wat is de functie van ethiek? Een vraag die op het eerste gezicht vulgair klinkt. Is denken in termen van functionaliteit immers op zich al geen plat utilitarisme, de ethiek die puur en al draait om use oftewel nut? En toch moet ze gesteld worden. Wij mensen hebben ethiek nodig. Stenen, planten en dieren niet, net zo min als ze behoefte hebben aan kunst, recht, filosofie of meer van zulke menselijke (al te menselijke) bezigheden. De reden hiervoor is dat de mens hoewel sociaal geneigd, toch ook een asociale kant heeft. Kant had daarover het volgende te zeggen:

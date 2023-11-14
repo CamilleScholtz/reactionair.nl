@@ -1,4 +1,5 @@
 ---
+id: 73
 title: 'Numinous Machines'
 writers:
     - 'Christopher Pankhurst'
@@ -8,8 +9,8 @@ date: '2017-12-10'
 languages: Engels
 front: front.gif
 variants:
-    - { name: Paperback, isbn: 978-1-940933-45-0, supplier: 'Ex Libris', size: { height: 229, width: 152, depth: 13 }, import_price: { currency: USD, amount: 12.0 }, price: 13.99, out_of_stock: 0 }
-    - { name: Hardcover, isbn: 978-1-940933-44-3, supplier: 'Ex Libris', size: { height: 229, width: 152, depth: 16 }, import_price: { currency: USD, amount: 28.0 }, price: 31.99, out_of_stock: 0 }
+    - { id: 78, name: Paperback, isbn: 978-1-940933-45-0, price: 13.99, out_of_stock: 0 }
+    - { id: 79, name: Hardcover, isbn: 978-1-940933-44-3, price: 31.99, out_of_stock: 0 }
 tags:
     - Kunst
     - 'Friedrich Nietzsche'

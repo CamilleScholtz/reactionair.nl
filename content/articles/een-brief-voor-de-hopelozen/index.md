@@ -1,4 +1,5 @@
 ---
+id: 48
 title: 'Een brief voor de hopelozen'
 subtitle: 'Waarom ook jij 15 maart gaat stemmen'
 date: '2023-02-12'

@@ -1,4 +1,5 @@
 ---
+id: 257
 title: 'Oorlog als avontuur'
 subtitle: 'Een recensie van In Stahlgewittern'
 date: '2022-01-19'

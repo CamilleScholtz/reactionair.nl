@@ -1,4 +1,5 @@
 ---
+id: 237
 title: 'De radicale grondleggers van Rutgers'
 subtitle: 'De organisatie achter woke in het onderwijs'
 date: '2023-03-23'

@@ -1,4 +1,5 @@
 ---
+id: 14
 title: 'Traders and Heroes'
 writers:
     - 'Werner Sombart'
@@ -8,7 +9,7 @@ date: '2021-06-09'
 languages: Engels
 front: af71470f-540e-4cdd-901f-3fbb44dd6e70.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-914208-32-4, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 9 }, import_price: { currency: EUR, amount: 9.2 }, price: 12.99, out_of_stock: 0 }
+    - { id: 14, name: Paperback, isbn: 978-1-914208-32-4, price: 12.99, out_of_stock: 0 }
 subtitle: 'Patriotic Reflections'
 tags:
     - Oorlog

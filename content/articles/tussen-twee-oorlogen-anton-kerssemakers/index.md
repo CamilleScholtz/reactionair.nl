@@ -1,4 +1,5 @@
 ---
+id: 28
 title: 'Tussen twee oorlogen: Anton Kerssemakers'
 subtitle: 'Onderzoek naar een onbekende auteur'
 date: '2021-10-02'

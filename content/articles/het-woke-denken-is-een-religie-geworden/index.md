@@ -1,4 +1,5 @@
 ---
+id: 229
 title: '“Het woke denken is een religie geworden!”'
 subtitle: 'En waarom deze vergelijking niet klopt'
 date: '2021-10-08'

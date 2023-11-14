@@ -1,4 +1,5 @@
 ---
+id: 52
 title: 'The Ideology of Sameness'
 writers:
     - 'Alain de Benoist'
@@ -8,7 +9,7 @@ date: '2022-12-12'
 languages: Engels
 front: fb2ac985-602a-4ed5-a6ea-59a75e940cbc.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-915755-08-7, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 4 }, import_price: { currency: EUR, amount: 7.6 }, price: 9.99, out_of_stock: 0 }
+    - { id: 55, name: Paperback, isbn: 978-1-915755-08-7, price: 9.99, out_of_stock: 0 }
 tags:
     - Liberalisme
     - Individualisme

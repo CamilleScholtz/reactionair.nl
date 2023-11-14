@@ -1,4 +1,5 @@
 ---
+id: 28
 title: 'Beyond Human Rights'
 writers:
     - 'Alain de Benoist'
@@ -8,7 +9,7 @@ date: '2021-11-10'
 languages: Engels
 front: d08223b7-2d15-4d35-91f2-32962fddaf9d.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-907166-20-4, supplier: 'Ex Libris', size: { height: 214, width: 115, depth: 11 }, import_price: { currency: EUR, amount: 11.52 }, price: 15.99, out_of_stock: 0 }
+    - { id: 30, name: Paperback, isbn: 978-1-907166-20-4, price: 15.99, out_of_stock: 0 }
 subtitle: 'Defending Freedoms'
 tags:
     - Verlichting

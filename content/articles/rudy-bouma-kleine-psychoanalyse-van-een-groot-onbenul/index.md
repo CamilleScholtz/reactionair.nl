@@ -1,4 +1,5 @@
 ---
+id: 58
 title: 'Rudy Bouma, kleine psychoanalyse van een groot onbenul'
 subtitle: 'Of hoe een emoticon-connaisseur als ridder voor globohomo de vermaledijde wappies bestrijdt'
 date: '2022-02-10'

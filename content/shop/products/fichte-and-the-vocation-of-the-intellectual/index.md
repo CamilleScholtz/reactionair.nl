@@ -1,4 +1,5 @@
 ---
+id: 11
 title: 'Fichte and the Vocation of the Intellectual'
 writers:
     - 'Diego Fusaro'
@@ -8,7 +9,7 @@ date: '2022-08-13'
 languages: Engels
 front: 78ba5b62-35ef-4f62-afa7-6daaac36b143.webp
 variants:
-    - { name: Paperback, isbn: 978-1-956887-38-9, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 9 }, import_price: { currency: USD, amount: 15.91 }, price: 21.99, out_of_stock: 0 }
+    - { id: 11, name: Paperback, isbn: 978-1-956887-38-9, price: 21.99, out_of_stock: 0 }
 back: 0e1772a4-c85c-4e42-a2f7-9e734072d379.webp
 ---
 

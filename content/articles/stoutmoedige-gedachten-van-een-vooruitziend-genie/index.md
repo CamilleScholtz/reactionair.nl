@@ -1,4 +1,5 @@
 ---
+id: 120
 title: 'Stoutmoedige gedachten van een vooruitziend genie'
 subtitle: "Over Papini's Gog"
 date: '2023-05-12'

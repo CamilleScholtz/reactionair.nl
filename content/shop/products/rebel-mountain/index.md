@@ -1,4 +1,5 @@
 ---
+id: 55
 title: 'Rebel Mountain'
 writers:
     - 'Kurt Eggers'
@@ -8,7 +9,7 @@ date: '2022-06-06'
 languages: Engels
 front: 8121bb18-193b-4ee9-9319-922fc284eb2a.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-956887-18-1, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 12 }, import_price: { currency: USD, amount: 15.91 }, price: 21.99, out_of_stock: 0 }
+    - { id: 58, name: Paperback, isbn: 978-1-956887-18-1, price: 21.99, out_of_stock: 0 }
 back: 1fe93e3f-5698-4d72-b784-cce2a7e7ba8e.jpg
 ---
 

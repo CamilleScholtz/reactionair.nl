@@ -1,4 +1,5 @@
 ---
+id: 43
 title: 'East and West'
 writers:
     - 'Julius Evola'
@@ -8,8 +9,8 @@ date: '2018-03-20'
 languages: Engels
 front: 55ec28cd-6a24-439d-8c47-cc9596fa9c1d.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-935965-67-1, supplier: 'Ex Libris', size: { height: 229, width: 152, depth: 11 }, import_price: { currency: USD, amount: 16.0 }, price: 17.99, out_of_stock: 0 }
-    - { name: Hardcover, isbn: 978-1-935965-66-4, supplier: 'Ex Libris', size: { height: 229, width: 152, depth: 16 }, import_price: { currency: USD, amount: 32.0 }, price: 35.99, out_of_stock: 0 }
+    - { id: 45, name: Paperback, isbn: 978-1-935965-67-1, price: 17.99, out_of_stock: 0 }
+    - { id: 46, name: Hardcover, isbn: 978-1-935965-66-4, price: 35.99, out_of_stock: 0 }
 subtitle: 'Comparative Studies in Pursuit of Tradition'
 tags:
     - 'René Guénon'

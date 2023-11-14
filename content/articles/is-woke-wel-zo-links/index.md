@@ -1,4 +1,5 @@
 ---
+id: 65
 title: 'Is woke wel zo links?'
 subtitle: 'De politieke genealogie van woke'
 date: '2023-05-04'

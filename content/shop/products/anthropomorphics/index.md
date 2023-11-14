@@ -1,4 +1,5 @@
 ---
+id: 97
 title: Anthropomorphics
 writers:
     - 'Dennis Bouvard'
@@ -8,7 +9,7 @@ date: '2020-04-17'
 languages: Engels
 front: c431f1f9-6e60-406a-b9cb-9cea942bb117.jpg
 variants:
-    - { name: Paperback, isbn: 978-0-648690-57-3, supplier: 'Ex Libris', size: { height: 203, width: 127, depth: 11 }, import_price: { currency: USD, amount: 16.15 }, price: 17.99, out_of_stock: 0 }
+    - { id: 99, name: Paperback, isbn: 978-0-648690-57-3, price: 17.99, out_of_stock: 0 }
 subtitle: 'An Originary Grammar of the Center'
 tags:
     - Liberalisme

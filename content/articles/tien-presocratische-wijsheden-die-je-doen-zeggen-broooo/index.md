@@ -1,4 +1,5 @@
 ---
+id: 265
 title: 'Tien presocratische wijsheden die je doen zeggen: broooo'
 subtitle: 'Nummer is 3 is echt zo van: hoe dan??'
 date: '2022-06-03'

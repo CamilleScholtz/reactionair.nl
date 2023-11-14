@@ -1,4 +1,5 @@
 ---
+id: 27
 title: 'Wie Nederland liefheeft, laat het liberalisme links liggen'
 subtitle: 'Over onze toekomst'
 date: '2022-04-11'

@@ -1,4 +1,5 @@
 ---
+id: 252
 title: 'Waarom wij winnen'
 subtitle: 'De schoolstrijd als katalysator voor een breder tegenoffensief'
 date: '2023-05-02'

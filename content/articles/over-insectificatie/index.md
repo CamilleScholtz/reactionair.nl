@@ -1,4 +1,5 @@
 ---
+id: 205
 title: 'Over insectificatie'
 subtitle: 'Hoe we afglijden van mens tot bugman'
 date: '2022-07-12'

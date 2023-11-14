@@ -1,4 +1,5 @@
 ---
+id: 8
 title: 'Transgenderisme: bestuurlijke oorlog tegen de realiteit'
 subtitle: 'Hoe technocraten onze jeugd blijvend verminken'
 date: '2022-03-15'

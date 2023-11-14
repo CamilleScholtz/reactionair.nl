@@ -1,4 +1,5 @@
 ---
+id: 3
 title: 'Kan kunstmatige intelligentie écht poëzie schrijven?'
 subtitle: 'De psychische en spirituele gevaren van AI'
 date: '2023-04-24'

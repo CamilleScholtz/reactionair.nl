@@ -1,4 +1,5 @@
 ---
+id: 202
 title: 'Sociale contacten in een verbrokkelde wereld'
 subtitle: 'De industriële revolutie en haar invloed op sociale interactie'
 date: '2021-12-07'

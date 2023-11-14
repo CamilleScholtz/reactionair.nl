@@ -1,4 +1,5 @@
 ---
+id: 52
 title: 'Een crisis van grootsheid'
 subtitle: 'Tegen groei om de groei'
 date: '2022-07-05'

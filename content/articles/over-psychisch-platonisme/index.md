@@ -1,4 +1,5 @@
 ---
+id: 206
 title: 'Over Psychisch Platonisme'
 subtitle: 'Vorm losgekoppeld van lichaam'
 date: '2022-09-14'

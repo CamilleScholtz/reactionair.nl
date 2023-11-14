@@ -1,4 +1,5 @@
 ---
+id: 240
 title: 'Ne cherchez plus mon cœur'
 subtitle: 'Liefde in een door ruilverhoudingen beheerste samenleving'
 date: '2022-08-05'

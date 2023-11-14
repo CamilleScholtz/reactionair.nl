@@ -1,4 +1,5 @@
 ---
+id: 136
 title: 'Zes nabeschouwingen van de verkiezingen'
 subtitle: 'Vanuit alle hoeken van het politieke spectrum'
 date: '2023-03-17'

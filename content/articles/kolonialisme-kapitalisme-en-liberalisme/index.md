@@ -1,4 +1,5 @@
 ---
+id: 153
 title: 'Kolonialisme, kapitalisme en liberalisme'
 subtitle: 'Drie ideeën met dezelfde oorsprong'
 date: '2022-02-28'

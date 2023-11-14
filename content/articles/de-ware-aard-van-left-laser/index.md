@@ -1,4 +1,5 @@
 ---
+id: 152
 title: 'De ware aard van “Left Laser”'
 subtitle: ' Interviews met bloed voor ogen '
 date: '2023-07-12'

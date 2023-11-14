@@ -1,4 +1,5 @@
 ---
+id: 233
 title: 'De dwaas en zijn wijngaard'
 subtitle: 'Chi troppo vuole, nulla stringe'
 date: '2023-04-19'

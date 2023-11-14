@@ -1,4 +1,5 @@
 ---
+id: 35
 title: 'De redactie'
 description: 'De redactie van Reactionair.nl.'
 keyword: Reactionair.nl

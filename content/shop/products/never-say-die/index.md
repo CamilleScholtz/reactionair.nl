@@ -1,4 +1,5 @@
 ---
+id: 37
 title: 'Never Say D.I.E.'
 writers:
     - 'George Carroway'
@@ -8,7 +9,7 @@ date: '2023-04-14'
 languages: Engels
 front: 1c16d8a5-0bc1-463e-ac13-8ea8daad6ad3.webp
 variants:
-    - { name: Paperback, isbn: 978-1-922602-79-4, supplier: 'Ex Libris', size: { height: 210, width: 148, depth: 23 }, import_price: { currency: USD, amount: 17.0 }, price: 21.99, out_of_stock: 0 }
+    - { id: 39, name: Paperback, isbn: 978-1-922602-79-4, price: 21.99, out_of_stock: 0 }
 subtitle: 'Three Dialogues on Diversity, Inclusion, and Equity'
 pretty: true
 ---

@@ -1,4 +1,5 @@
 ---
+id: 16
 title: 'The Dharma Manifesto'
 writers:
     - 'Sri Dharma Pravartaka Acharya'
@@ -8,7 +9,7 @@ date: '2013-11-02'
 languages: Engels
 front: d576a478-cbf5-472f-81a1-6db7f1634ffb.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-907166-32-7, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 15 }, import_price: { currency: EUR, amount: 13.44 }, price: 20.99, out_of_stock: 0 }
+    - { id: 17, name: Paperback, isbn: 978-1-907166-32-7, price: 20.99, out_of_stock: 0 }
 subtitle: 'A New Vision for Global Transformation'
 tags:
     - Metafysica

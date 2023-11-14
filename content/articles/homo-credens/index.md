@@ -1,4 +1,5 @@
 ---
+id: 130
 title: 'Homo credens'
 subtitle: 'Over de wetenschap als volksgeloof'
 date: '2022-05-16'

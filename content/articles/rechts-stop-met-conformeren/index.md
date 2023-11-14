@@ -1,4 +1,5 @@
 ---
+id: 71
 title: 'Rechts, stop met conformeren!'
 subtitle: 'Hoe rechts de verwezenlijking van hun eigen idealen in de weg zit'
 date: '2022-06-07'

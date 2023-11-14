@@ -1,4 +1,5 @@
 ---
+id: 62
 title: 'De implicaties van de Transgenderwet'
 subtitle: 'Hoe de gendergekte nu via het recht de samenleving verzwakt en subjectiveert'
 date: '2022-09-26'

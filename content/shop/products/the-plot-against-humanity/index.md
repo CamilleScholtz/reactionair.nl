@@ -1,4 +1,5 @@
 ---
+id: 100
 title: 'The Plot Against Humanity'
 writers:
     - 'Scott Howard'
@@ -8,7 +9,7 @@ date: '2022-11-30'
 languages: Engels
 front: 8c667ab9-591a-4724-bce6-827761587aea.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-956887-51-8, supplier: 'Ex Libris', size: { height: 229, width: 153, depth: 12 }, import_price: { currency: USD, amount: 15.91 }, price: 22.99, out_of_stock: 0 }
+    - { id: 103, name: Paperback, isbn: 978-1-956887-51-8, price: 22.99, out_of_stock: 0 }
 tags:
     - LGBT
     - Corona

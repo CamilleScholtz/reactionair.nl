@@ -1,4 +1,5 @@
 ---
+id: 150
 title: 'De oorsprong van ‘two-spirit’ en de homorechtenbeweging'
 subtitle: 'Het vreemde verhaal van Harry Hay en Will Roscoe'
 date: '2023-04-14'

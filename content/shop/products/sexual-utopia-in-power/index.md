@@ -1,4 +1,5 @@
 ---
+id: 23
 title: 'Sexual Utopia in Power'
 writers:
     - 'F. Roger Devlin'
@@ -8,8 +9,8 @@ date: '2015-06-01'
 languages: Engels
 front: front.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-935965-88-6, supplier: 'Ex Libris', size: { height: 229, width: 152, depth: 11 }, import_price: { currency: USD, amount: 12.0 }, price: 18.99, out_of_stock: 0 }
-    - { name: Hardcover, isbn: 978-1-642641-54-7, supplier: 'Ex Libris', size: { height: 229, width: 152, depth: 14 }, import_price: { currency: USD, amount: 28.0 }, price: 31.99, out_of_stock: 0 }
+    - { id: 24, name: Paperback, isbn: 978-1-935965-88-6, price: 18.99, out_of_stock: 0 }
+    - { id: 25, name: Hardcover, isbn: 978-1-642641-54-7, price: 31.99, out_of_stock: 0 }
 tags:
     - Seks
     - Feminisme

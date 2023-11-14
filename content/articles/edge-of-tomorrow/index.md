@@ -1,4 +1,5 @@
 ---
+id: 10
 title: '‘Edge of Tomorrow’'
 subtitle: 'De Futuro-Fundamentalistische Revolutie, deel 7'
 date: '2022-02-07'

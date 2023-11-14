@@ -1,4 +1,5 @@
 ---
+id: 194
 title: 'Waarom een authentieke reactionair een groene reactionair is'
 subtitle: 'Over ecologie'
 date: '2021-11-17'

@@ -1,4 +1,5 @@
 ---
+id: 179
 title: 'Blackrock, Vanguard en Goldman Sachs: financiers van de woke-agenda'
 subtitle: 'Grootkapitaal ❤️ woke'
 date: '2023-06-17'

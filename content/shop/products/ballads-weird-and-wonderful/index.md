@@ -1,4 +1,5 @@
 ---
+id: 72
 title: 'Ballads Weird and Wonderful'
 writers:
     - Diversen
@@ -8,7 +9,7 @@ date: '2021-10-10'
 languages: Engels
 front: 9db2338f-def6-4d35-8171-13f3b608ebfe.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-922602-19-0, supplier: 'Ex Libris', size: { height: 234, width: 156, depth: 10 }, import_price: { currency: USD, amount: 13.6 }, price: 14.99, out_of_stock: 0 }
+    - { id: 77, name: Paperback, isbn: 978-1-922602-19-0, price: 14.99, out_of_stock: 0 }
 back: 9260e42a-6b4a-4e27-af8b-7e6d9c38c322.jpg
 ---
 

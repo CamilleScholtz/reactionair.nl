@@ -1,4 +1,5 @@
 ---
+id: 69
 title: 'The Autobiography of Sir Götz von Berlichingen'
 writers:
     - 'Götz von Berlichingen'
@@ -8,7 +9,7 @@ date: '2023-07-17'
 languages: Engels
 front: b637b8e6-2393-4183-8183-b64b98de9e72.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-953730-25-1, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 8 }, import_price: { currency: USD, amount: 14.31 }, price: 22.99, out_of_stock: 0 }
+    - { id: 73, name: Paperback, isbn: 978-1-953730-25-1, price: 22.99, out_of_stock: 0 }
 tags:
     - 'Johann Wolfgang von Goethe'
     - Middeleeuwen

@@ -1,4 +1,5 @@
 ---
+id: 242
 title: 'De Traditionele Wijsheid'
 subtitle: 'De metafysica der modernen en de traditionalistische gecontrasteerd'
 date: '2023-06-23'

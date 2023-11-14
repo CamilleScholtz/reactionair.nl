@@ -1,4 +1,5 @@
 ---
+id: 94
 title: 'The Dark Enlightenment'
 writers:
     - 'Nick Land'
@@ -8,7 +9,7 @@ date: '2023-07-19'
 languages: Engels
 front: 99b90216-adb5-4769-b280-3799a7719bcf.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-922602-68-8, supplier: 'Ex Libris', size: { height: 178, width: 108, depth: 7 }, import_price: { currency: USD, amount: 13.6 }, price: 15.99, out_of_stock: 0 }
+    - { id: 96, name: Paperback, isbn: 978-1-922602-68-8, price: 15.99, out_of_stock: 0 }
 tags:
     - Liberalisme
 ---

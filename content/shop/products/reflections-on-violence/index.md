@@ -1,4 +1,5 @@
 ---
+id: 8
 title: 'Reflections on Violence'
 writers:
     - 'Georges Sorel'
@@ -8,7 +9,7 @@ date: '2022-07-02'
 languages: Engels
 front: f2726bc3-f093-40ea-a87b-18180fae59f6.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-922602-51-0, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 18 }, import_price: { currency: USD, amount: 20.4 }, price: 23.99, out_of_stock: 0 }
+    - { id: 8, name: Paperback, isbn: 978-1-922602-51-0, price: 23.99, out_of_stock: 0 }
 ---
 
 *Reflections on Violence* was een explosief en controversieel boek in 1906, en dat is het nog steeds. In dit boek verwerpt Georges Sorel de decadentie van de burgerlijke democratie en roept hij op tot een heroïsch vitalisme van de arbeidersklasse, dat met alle noodzakelijke middelen tot stand moet worden gebracht, inclusief geweld.

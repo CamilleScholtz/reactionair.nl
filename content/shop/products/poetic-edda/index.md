@@ -1,4 +1,5 @@
 ---
+id: 80
 title: 'Poetic Edda'
 writers:
     - Diversen
@@ -8,7 +9,7 @@ date: '2022-11-17'
 languages: Engels
 front: fffc2449-dff3-4e34-82a0-fa03685fca63.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-922602-63-3, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 54 }, import_price: { currency: USD, amount: 23.8 }, price: 29.99, out_of_stock: 0 }
+    - { id: 82, name: Paperback, isbn: 978-1-922602-63-3, price: 29.99, out_of_stock: 0 }
 tags:
     - Heidendom
 ---

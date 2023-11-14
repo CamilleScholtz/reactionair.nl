@@ -1,4 +1,5 @@
 ---
+id: 97
 title: 'Reactionaire verzetsstrijders en slachtoffers'
 subtitle: 'Van nazisme zowel als communisme'
 date: '2023-05-05'

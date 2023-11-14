@@ -1,4 +1,5 @@
 ---
+id: 11
 title: 'Natuur versus natuur'
 subtitle: 'Een modern misverstand'
 date: '2021-10-14'

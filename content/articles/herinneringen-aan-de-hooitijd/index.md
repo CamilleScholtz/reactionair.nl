@@ -1,4 +1,5 @@
 ---
+id: 108
 title: 'Herinneringen aan de hooitijd'
 subtitle: 'Nationalistische erotica '
 date: '2023-01-10'
@@ -12,6 +13,7 @@ tags:
     - Fictie
     - Traditie
 note: 'Dit is een bloemlezing van het boek ‘Herinneringen aan de hooitijd’, het boek kan [hier](https://www.bol.com/nl/nl/p/herinneringen-aan-de-hooitijd/9300000134566417/) gekocht worden.'
+draft: true
 ---
 
 Het is niet eenvoudig om kort uit te leggen hoe dit boek tot stand is gekomen. Het is iets dat ik wilde doen, en iets dat ik vond dat ik moest doen. Een boek dat nog niet geschreven is, uniek in zijn soort. Een boek dat twee ogenschijnlijke tegendelen, namelijk erotica en nationalisme, met elkaar verenigt. 

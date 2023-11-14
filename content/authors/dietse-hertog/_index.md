@@ -1,4 +1,5 @@
 ---
+id: 21
 title: 'Dietse Hertog'
 description: 'Patriciër, mediamagnaat, avonturier.'
 keyword: Patriciër

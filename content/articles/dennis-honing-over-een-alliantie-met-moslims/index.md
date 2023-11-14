@@ -1,4 +1,5 @@
 ---
+id: 77
 title: 'Dennis Honing over een alliantie met moslims'
 subtitle: 'Over reactionairen en moslims, deel 2'
 date: '2021-11-01'

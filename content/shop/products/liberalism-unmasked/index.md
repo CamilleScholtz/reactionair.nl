@@ -1,4 +1,5 @@
 ---
+id: 22
 title: 'Liberalism Unmasked'
 writers:
     - 'Richard Houck'
@@ -8,7 +9,7 @@ date: '2018-08-25'
 languages: Engels
 front: f9293d1d-0094-4e2d-885f-f0e39f004009.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-912079-31-5, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 25 }, import_price: { currency: EUR, amount: 21.56 }, price: 26.99, out_of_stock: 0 }
+    - { id: 23, name: Paperback, isbn: 978-1-912079-31-5, price: 26.99, out_of_stock: 0 }
 tags:
     - Liberalisme
 pretty: true

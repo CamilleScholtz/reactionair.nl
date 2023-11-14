@@ -1,5 +1,5 @@
 ---
-draft: true
+id: 25
 title: "AI-'vriendinnen': eindelijk mannenemancipatie?"
 subtitle: 'Robotpartners zullen mannen niet bevrijden van verlangen'
 date: '2023-02-11'
@@ -9,6 +9,7 @@ themes: 'Cultuur en Maatschappij'
 image: 236ddddd-5ef2-46a6-bb9a-6fbb82fd806a.webp
 anchor: Smart
 caption: 'Het oordeel van Paris, Peter Paul Rubens, circa 1636'
+draft: true
 ---
 
 _Mary Harrington is columniste voor [UnHerd](https://unherd.com/author/mary-harrington/). Ook houdt ze een [Substack](https://reactionaryfeminist.substack.com/) bij onder de titel Reactionary feminist. Onlangs is een boek van haar uitgeven met de titel [Feminism against progress](https://swiftpress.com/book/feminism-against-progress/)._ 

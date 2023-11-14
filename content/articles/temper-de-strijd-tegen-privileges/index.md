@@ -1,4 +1,5 @@
 ---
+id: 187
 title: 'Temper de strijd tegen ‘privileges’'
 subtitle: 'Hoe de gekte van de Franse Revolutie doorleeft in het hedendaagse activisme'
 date: '2021-10-24'

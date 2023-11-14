@@ -1,4 +1,5 @@
 ---
+id: 70
 title: 'The Green New Deal'
 subtitle: 'Je zult insecten eten, maar je zult niet leven in de pod'
 date: '2022-08-02'

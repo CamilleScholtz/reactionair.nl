@@ -1,4 +1,5 @@
 ---
+id: 83
 title: 'Honey Pot en de definitie van “rechts”'
 subtitle: 'Afscheid van een achterhaald begrip'
 date: '2021-10-28'

@@ -1,4 +1,5 @@
 ---
+id: 79
 title: 'The Decline of the West'
 writers:
     - 'Oswald Spengler'
@@ -8,7 +9,7 @@ date: '2021-07-17'
 languages: Engels
 front: 24138313-f01c-4eba-b071-ff87f4b24c5a.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-912975-60-0, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 40 }, import_price: { currency: EUR, amount: 22.0 }, price: 32.99, out_of_stock: 0 }
+    - { id: 81, name: Paperback, isbn: 978-1-912975-60-0, price: 32.99, out_of_stock: 0 }
 subtitle: ' Form and Actuality'
 tags:
     - Kunst

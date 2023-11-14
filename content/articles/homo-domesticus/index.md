@@ -1,4 +1,5 @@
 ---
+id: 253
 title: 'Homo domesticus'
 subtitle: 'H.G. Wells en de genegeerde factor in ons verval'
 date: '2023-05-08'

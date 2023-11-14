@@ -1,4 +1,5 @@
 ---
+id: 59
 title: 'Chanoeka, een reactionaire feestdag'
 subtitle: 'De Makkabeeën als inspiratie voor christelijke martelaren en contrarevolutionairen'
 date: '2022-12-24'

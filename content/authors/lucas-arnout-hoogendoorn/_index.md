@@ -1,4 +1,5 @@
 ---
+id: 56
 title: 'Lucas Arnout Hoogendoorn'
 description: "Lucas Arnout Hoogendoorn studeerde filosofie in Leiden en was redacteur van Propria Cures.\n\n"
 keyword: Schrijver

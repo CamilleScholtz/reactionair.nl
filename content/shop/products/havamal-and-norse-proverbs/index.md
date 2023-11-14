@@ -1,4 +1,5 @@
 ---
+id: 1
 title: 'Havamal and Norse Proverbs'
 writers:
     - Diversen
@@ -8,7 +9,7 @@ date: '2022-05-13'
 languages: Engels
 front: 04ee61ff-1d79-4526-9aa1-0f49cb805105.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-922602-54-1, supplier: 'Ex Libris', size: { height: 178, width: 108, depth: 5 }, import_price: { currency: USD, amount: 10.2 }, price: 13.99, out_of_stock: 0 }
+    - { id: 1, name: Paperback, isbn: 978-1-922602-54-1, price: 13.99, out_of_stock: 0 }
 tags:
     - Heidendom
 back: e3c7ff78-8f1b-47e2-acbe-e840a577cd2a.jpg

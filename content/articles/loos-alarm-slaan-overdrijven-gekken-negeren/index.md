@@ -1,4 +1,5 @@
 ---
+id: 222
 title: 'Loos alarm slaan, overdrijven, gekken negeren '
 subtitle: 'David Icke en toenemende censuur'
 date: '2022-11-09'

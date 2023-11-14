@@ -1,4 +1,5 @@
 ---
+id: 95
 title: 'Imperium Anthology of English Verse'
 writers:
     - Diversen
@@ -8,7 +9,7 @@ date: '2023-02-25'
 languages: Engels
 front: a0d2e11c-c0ad-4525-8a3e-1f046003a2e4.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-922602-70-1, supplier: 'Ex Libris', size: { height: 178, width: 108, depth: 24 }, import_price: { currency: USD, amount: 20.4 }, price: 26.99, out_of_stock: 0 }
+    - { id: 97, name: Paperback, isbn: 978-1-922602-70-1, price: 26.99, out_of_stock: 0 }
 back: bc56f958-b48a-4b51-b889-25925e3008cb.jpg
 pretty: true
 ---

@@ -1,4 +1,5 @@
 ---
+id: 27
 title: 'Camille Scholtz'
 description: 'Camille Scholtz is geïnteresseerd in de werken van René Guénon, anti-modernistische filosofie, en islam.'
 keyword: Tegendraads

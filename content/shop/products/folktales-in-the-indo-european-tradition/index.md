@@ -1,4 +1,5 @@
 ---
+id: 13
 title: 'Folktales in the Indo-European Tradition'
 writers:
     - Diversen
@@ -8,7 +9,7 @@ date: '2022-01-01'
 languages: Engels
 front: front.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-922602-26-8, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 41 }, import_price: { currency: USD, amount: 34.0 }, price: 36.99, out_of_stock: 0 }
+    - { id: 13, name: Paperback, isbn: 978-1-922602-26-8, price: 36.99, out_of_stock: 0 }
 tags:
     - Traditie
     - Heidendom

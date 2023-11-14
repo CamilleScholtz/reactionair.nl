@@ -1,4 +1,5 @@
 ---
+id: 113
 title: 'Dialoog I'
 subtitle: 'Thoreau en de plicht tot burgerlijke ongehoorzaamheid'
 date: '2022-07-17'

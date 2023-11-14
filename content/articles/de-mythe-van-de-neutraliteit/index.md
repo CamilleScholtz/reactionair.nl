@@ -1,4 +1,5 @@
 ---
+id: 36
 title: 'De mythe van de neutraliteit'
 subtitle: 'En de blindheid van de liberalen'
 date: '2021-10-06'

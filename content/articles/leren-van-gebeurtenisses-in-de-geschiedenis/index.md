@@ -1,4 +1,5 @@
 ---
+id: 2
 title: 'Leren van gebeurtenissen uit de geschiedenis'
 subtitle: 'Een blik op nieuw-links en de Iraanse revolutie'
 date: '2021-11-06'

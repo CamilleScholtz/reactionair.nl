@@ -1,4 +1,5 @@
 ---
+id: 221
 title: 'Nieuwe uitvinding bedenker liberaal-conservatisme: het ronde vierkant'
 subtitle: 'Meetkundigen staan versteld'
 date: '2023-08-22'

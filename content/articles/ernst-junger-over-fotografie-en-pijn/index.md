@@ -1,4 +1,5 @@
 ---
+id: 163
 title: 'Ernst Jünger over fotografie en pijn'
 subtitle: 'Uit "Über den Schmerz"'
 date: '2023-04-11'

@@ -1,4 +1,5 @@
 ---
+id: 125
 title: 'Het Erik Enigma'
 subtitle: 'Extreemrechtse liberaal'
 date: '2021-10-09'

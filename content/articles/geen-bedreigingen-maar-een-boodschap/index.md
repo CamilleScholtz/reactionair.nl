@@ -1,4 +1,5 @@
 ---
+id: 281
 title: 'Geen bedreigingen maar een boodschap'
 subtitle: 'Joodse gelegenheden in Nederland worden afgeblazen'
 date: '2023-10-25'

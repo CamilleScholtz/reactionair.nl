@@ -1,4 +1,5 @@
 ---
+id: 85
 title: "Wagner's Ring and the Germanic Tradition"
 writers:
     - 'Collin Cleary'
@@ -8,7 +9,7 @@ date: '2021-12-21'
 languages: Engels
 front: 67741d6d-e8d9-4d51-a08a-ea71cfa7f9db.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-642641-01-1, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 7 }, import_price: { currency: USD, amount: 15.0 }, price: 22.99, out_of_stock: 0 }
+    - { id: 87, name: Paperback, isbn: 978-1-642641-01-1, price: 22.99, out_of_stock: 0 }
 tags:
     - Mythologie
     - Muziek

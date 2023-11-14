@@ -1,4 +1,5 @@
 ---
+id: 116
 title: 'Dagboekaantekeningen van het front'
 subtitle: 'De oorlog in Oekraïne in Spanje'
 date: '2023-03-08'

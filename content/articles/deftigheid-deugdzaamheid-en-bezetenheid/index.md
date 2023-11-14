@@ -1,4 +1,5 @@
 ---
+id: 273
 title: 'Deftigheid, deugdzaamheid en bezetenheid'
 subtitle: 'Overweging over het mensbeeld van de meeste mensen'
 date: '2022-04-21'

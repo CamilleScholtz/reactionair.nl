@@ -1,4 +1,5 @@
 ---
+id: 245
 title: 'Een hermeneutische blik op de term reactionair'
 subtitle: 'Het belang van betekenis van termen en wat het ons kan leren over een reactionaire toekomst'
 date: '2021-11-11'

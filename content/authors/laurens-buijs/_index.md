@@ -1,4 +1,5 @@
 ---
+id: 19
 title: 'Laurens Buijs'
 description: 'Laurens Buijs is interdisciplinair sociaalwetenschapper aan de UvA, publicist en ondernemer op het gebied van Diversiteit & Inclusie (D&I).'
 keyword: Sociaalwetenschapper

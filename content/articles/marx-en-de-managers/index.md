@@ -1,4 +1,5 @@
 ---
+id: 171
 title: 'Marx en de managers'
 subtitle: 'Een andere kijk op klassenstrijd'
 date: '2023-08-24'

@@ -1,4 +1,5 @@
 ---
+id: 143
 title: Hybridisering
 subtitle: 'De Futuro-Fundamentalistische Revolutie, deel 4'
 date: '2022-01-10'

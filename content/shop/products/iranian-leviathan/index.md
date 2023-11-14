@@ -1,4 +1,5 @@
 ---
+id: 101
 title: 'Iranian Leviathan'
 writers:
     - 'Jason Reza Jorjani'
@@ -8,7 +9,7 @@ date: '2019-09-01'
 languages: Engels
 front: 89f21015-aa26-4ed7-a1d2-78c15a254ce9.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-912975-40-2, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 33 }, import_price: { currency: EUR, amount: 26.8 }, price: 33.99, out_of_stock: 0 }
+    - { id: 104, name: Paperback, isbn: 978-1-912975-40-2, price: 33.99, out_of_stock: 0 }
 subtitle: 'A Monumental History of Mithra’s Abode'
 tags:
     - Islam

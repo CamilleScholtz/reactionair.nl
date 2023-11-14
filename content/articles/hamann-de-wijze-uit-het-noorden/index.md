@@ -1,4 +1,5 @@
 ---
+id: 105
 title: 'Hamann, de wijze uit het noorden'
 subtitle: 'Een korte introductie op de vijand van de verlichting'
 date: '2023-01-18'

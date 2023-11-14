@@ -1,4 +1,5 @@
 ---
+id: 3
 title: 'On the Brink of the Abyss'
 writers:
     - 'Alain de Benoist'
@@ -8,7 +9,7 @@ date: '2021-11-11'
 languages: Engels
 front: c60552be-27be-4e9c-a535-945ca849beb0.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-910524-30-5, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 13 }, import_price: { currency: EUR, amount: 13.39 }, price: 16.99, out_of_stock: 0 }
+    - { id: 3, name: Paperback, isbn: 978-1-910524-30-5, price: 16.99, out_of_stock: 0 }
 subtitle: 'The Imminent Bankruptcy of the Financial System'
 tags:
     - Liberalisme

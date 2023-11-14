@@ -1,4 +1,5 @@
 ---
+id: 185
 title: 'Cryptocurrency en de degeneratie van het muntgeld'
 subtitle: 'Geld en de heerschappij van kwantiteit'
 date: '2021-12-24'

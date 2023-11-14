@@ -1,4 +1,5 @@
 ---
+id: 98
 title: 'Poging tot karaktermoord'
 subtitle: 'Hoe snel men tot extreemrechts gerekend wordt'
 date: '2023-03-13'

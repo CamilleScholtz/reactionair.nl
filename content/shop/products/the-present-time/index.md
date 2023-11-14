@@ -1,4 +1,5 @@
 ---
+id: 38
 title: 'The Present Time'
 writers:
     - 'Thomas Carlyle'
@@ -8,7 +9,7 @@ date: '2021-03-18'
 languages: Engels
 front: c0291606-218c-478b-bb07-6839beb5893a.jpg
 variants:
-    - { name: Paperback, isbn: 978-0-648859-39-0, supplier: 'Ex Libris', size: { height: 178, width: 108, depth: 10 }, import_price: { currency: USD, amount: 10.2 }, price: 13.99, out_of_stock: 0 }
+    - { id: 40, name: Paperback, isbn: 978-0-648859-39-0, price: 13.99, out_of_stock: 0 }
 tags:
     - Fascisme
 back: 6f0e02bc-9ae0-4f33-b67c-3991e37f6b28.jpg

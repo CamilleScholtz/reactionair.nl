@@ -1,4 +1,5 @@
 ---
+id: 146
 title: 'Het tijdsbestek van kunst'
 subtitle: 'Over mode en architectuur'
 date: '2022-03-10'

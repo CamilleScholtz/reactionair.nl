@@ -1,4 +1,5 @@
 ---
+id: 31
 title: 'Strippen in een kerk is nu vrijheid van meningsuiting '
 subtitle: 'In een synagoge ook?'
 date: '2022-10-20'

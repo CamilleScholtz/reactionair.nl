@@ -1,4 +1,5 @@
 ---
+id: 74
 title: 'Mengsel van bloed en resten slachtvlees uitgestort over jongeren FVD'
 subtitle: 'Media en politici blijven stil'
 date: '2023-06-29'

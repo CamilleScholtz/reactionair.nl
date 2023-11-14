@@ -1,4 +1,5 @@
 ---
+id: 45
 title: 'Sex Differences in Intelligence'
 writers:
     - 'Richard Lynn'
@@ -8,7 +9,7 @@ date: '2021-12-09'
 languages: Engels
 front: 377939d0-eea5-47c3-8531-bcba58e4dc9e.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-914208-65-2, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 10 }, import_price: { currency: EUR, amount: 10.36 }, price: 14.99, out_of_stock: 0 }
+    - { id: 48, name: Paperback, isbn: 978-1-914208-65-2, price: 14.99, out_of_stock: 0 }
 subtitle: 'The Developmental Theory'
 tags:
     - Gender

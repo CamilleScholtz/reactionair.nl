@@ -1,4 +1,5 @@
 ---
+id: 239
 title: 'Omtzigts troefkaart'
 subtitle: 'Een werkbare politieke toekomst voor de populairste politicus van Nederland'
 date: '2023-08-06'

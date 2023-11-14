@@ -1,4 +1,5 @@
 ---
+id: 53
 title: 'De ondergang van de democratie?'
 subtitle: '‘Degeneratie van het midden’ na revolutie, tirannie en terreur'
 date: '2022-05-14'

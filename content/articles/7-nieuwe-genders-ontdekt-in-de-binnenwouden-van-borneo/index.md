@@ -1,4 +1,5 @@
 ---
+id: 102
 title: '7 nieuwe genders ontdekt in de binnenwouden van Borneo'
 subtitle: 'Expeditiereiziger doet opmerkelijke vondst'
 date: '2023-06-06'

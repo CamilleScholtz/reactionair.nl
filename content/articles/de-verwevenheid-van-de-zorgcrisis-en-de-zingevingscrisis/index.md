@@ -1,4 +1,5 @@
 ---
+id: 72
 title: 'De verwevenheid van de zorgcrisis en de zingevingscrisis'
 subtitle: 'Geneeskunde versus voorkomkunde'
 date: '2023-01-02'

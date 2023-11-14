@@ -1,4 +1,5 @@
 ---
+id: 184
 title: 'De weg van de kami naar de herbetovering'
 subtitle: 'Over het neergaande pad der onttovering'
 date: '2022-08-16'

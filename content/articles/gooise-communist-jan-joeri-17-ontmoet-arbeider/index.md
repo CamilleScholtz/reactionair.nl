@@ -1,5 +1,5 @@
 ---
-draft: true
+id: 88
 title: 'Gooise marxist Jan-Joeri (17) ontmoet arbeider'
 subtitle: '"Best een beetje spannend"'
 date: '2023-05-18'
@@ -13,6 +13,7 @@ tags:
     - 'Karl Marx'
     - Communisme
     - Marxisme
+draft: true
 ---
 
 **Lokaal nieuws**: Een ongekende samenloop van omstandigheden: de zeventienjarige Jan-Joeri uit het welvarende Gooi heeft zich gewaagd aan een ontmoeting met een arbeider, die toevallig ook nog eens voor zijn eigen vader werkte. 

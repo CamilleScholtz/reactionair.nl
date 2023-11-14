@@ -1,4 +1,5 @@
 ---
+id: 25
 title: 'Alba Rosa'
 writers:
     - 'Alexander Wolfheze'
@@ -8,7 +9,7 @@ date: '2023-07-23'
 languages: Nederlands
 front: 1dd377eb-a080-4e92-8541-66121d321e65.jpg
 variants:
-    - { name: Paperback, isbn: 978-1-912975-57-0, supplier: 'Ex Libris', size: { height: 216, width: 140, depth: 18 }, import_price: { currency: EUR, amount: 16.76 }, price: 23.99, out_of_stock: 1 }
+    - { id: 27, name: Paperback, isbn: 978-1-912975-57-0, price: 23.99, out_of_stock: 1 }
 subtitle: 'Tien Traditionalistische opstellen over de Crisis van het Moderne Westen'
 tags:
     - Traditie

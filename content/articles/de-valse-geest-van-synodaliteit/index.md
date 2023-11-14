@@ -1,4 +1,5 @@
 ---
+id: 279
 title: "De valse geest van ‘Synodaliteit'"
 subtitle: 'Een gevaar voor de hele Christenheid'
 date: '2023-10-11'

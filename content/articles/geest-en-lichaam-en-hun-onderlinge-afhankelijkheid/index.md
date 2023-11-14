@@ -1,4 +1,5 @@
 ---
+id: 60
 title: 'Geest en lichaam en hun onderlinge afhankelijkheid'
 subtitle: 'Pleidooi voor de krijger-wijsgeer'
 date: '2022-07-28'

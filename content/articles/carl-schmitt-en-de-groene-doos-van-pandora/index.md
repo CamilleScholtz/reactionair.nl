@@ -1,5 +1,5 @@
 ---
-draft: true
+id: 199
 title: 'Carl Schmitt en de '
 subtitle: 'Ecologie versus democratie'
 date: '2023-03-29'
@@ -8,6 +8,7 @@ authors:
 themes: 'Cultuur en Maatschappij'
 image: 96264950-597e-4c5e-a84d-9a1d68a8e7c5.jpg
 anchor: Smart
+draft: true
 ---
 
 Na de Provinciale Statenverkiezingen zagen we opiniemakers zagen aan de poten van de democratie. Marcel van Roosmalen vergeleek Caroline van der Plas met de Joodse Raad, omdat ze de boeren gaat verraden[^1], Janneke de Bijl legde de bijl aan de wortels van de democratie door te grappen over hoe aantrekkelijk een dictatuur wel niet wordt[^2] en Alexander Pechtold wil de Eerste Kamer afschaffen.[^3] Daarnaast filosofeerde Esther Bijloo over het afschaffen van het stemrecht van 75-plussers.[^4] Hoewel het nu opener gebeurt, waren er al eerder antidemocratische geluiden te horen uit de linkse hoek. 
