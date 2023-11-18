@@ -1,21 +1,23 @@
 import NiceSelect from "../../vendor/nice-select2.js";
 
 export const search = (main) => {
-	const select = main.querySelector("select");
-	if (!select) {
+	const selects = main.querySelectorAll("select");
+	if (!selects) {
 		return;
 	}
 
-	select.value = window.location.pathname;
+	selects.forEach((select) => {
+		select.value = window.location.pathname;
 
-	new NiceSelect(select, {
-		searchable:   true,
-		placeholder:  "Selecteer auteur",
-		searchtext:   "Zoek auteur",
-		selectedtext: "Geselecteerd",
-	});
+		new NiceSelect(select, {
+			searchable:   true,
+			placeholder:  "Selecteer " + select.dataset.label,
+			searchtext:   "Zoek " + select.dataset.label,
+			selectedtext: "Geselecteerd",
+		});
 
-	select.addEventListener("change", (ev) => {
-		window.location = ev.target.value;
+		select.addEventListener("change", (ev) => {
+			window.location = ev.target.value;
+		});
 	});
 }

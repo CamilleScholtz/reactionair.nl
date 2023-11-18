@@ -1,5 +1,16 @@
+.selects
+	display: flex
+	justify-self: end
+
+	.filters
+		&:first-of-type
+			margin-top: 10px
+
 .filters
+	display: flex
 	margin-top: 10px
+	justify-content: end
+	justify-self: end
 
 	&:first-of-type
 		margin-top: 50px
@@ -60,7 +71,6 @@
 					&::after
 						transform: rotate(90deg) rotateY(-180deg)
 
-
 				.current
 					color: var(--accent-color)
 
@@ -68,7 +78,9 @@
 					background: var(--popup-background-color)
 					border-radius: unset
 					box-shadow: unset
+					left: auto
 					margin-top: 8px
+					right: 0
 					transition: unset
 
 					&::before

@@ -1,31 +1,12 @@
+.selects
+	flex-direction: column
+
 .filters
-	width: 100vw
-	margin-left: -20px
-	overflow-x: scroll
-	position: relative
-	scroll-snap-type: x mandatory
-
-	&.select
-		overflow-x: visible
-
-	.title
-		display: none
-
 	.filters-container
-		justify-self: center
-		padding-left: 20px
-		padding-right: 20px
-
-		&::-webkit-scrollbar
-			display: none
-
 		.select-container
 			.nice-select
 				.nice-select-dropdown
 					width: calc(100vw - 40px)
-
-					&::before
-						left: 40px
 
 					.nice-select-search-box
 						input
