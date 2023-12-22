@@ -9,7 +9,7 @@ date: '2022-01-20'
 languages: Engels
 front: 3c75099b-4abc-46de-aecd-69f2e01db86c.jpg
 variants:
-    - { id: 70, name: Paperback, isbn: 978-1-914208-68-3, price: 35.99, out_of_stock: 0 }
+    - { id: 70, name: Paperback, isbn: 978-1-914208-68-3, price: 35.99, out_of_stock: 1 }
 tags:
     - 'René Guénon'
     - Traditie

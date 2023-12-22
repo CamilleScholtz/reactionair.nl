@@ -1,5 +1,6 @@
 ### Te doen
 
+- spaces opnemen en publiceren
 - profielfoto's auteur op mobiel
 - uylenspieghel vormgeving (lijst?), alleen als het het laatste artikel is bovenaan?
 - plaatjes format + bijwerken oude artikelen

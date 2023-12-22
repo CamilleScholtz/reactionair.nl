@@ -12,6 +12,7 @@ tags:
     - 'Pim Lammers'
     - FVD
     - Media
+draft: true
 ---
 
 We weten inmiddels wel dat de dingen oneerlijk zijn. Één bepaalde wereldvisie domineert en datgene dat indruist tegen deze visie is vreemd of zelfs eng en gevaarlijk. Een natuurlijk verschijnsel, en zelfs acceptabel tot op zekere hoogte. 

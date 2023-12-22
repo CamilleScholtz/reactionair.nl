@@ -4,7 +4,7 @@ title: 'Wat is vitalisme?'
 subtitle: 'Een bloemlezing van de dichtbundel Vitalisme'
 date: '2023-11-05'
 authors:
-    - Gastauteur
+    - 'Luca de Clippelaar'
 themes: 'Geschiedenis en Biografie'
 image: eeddbdc8-3925-495c-8f74-9c605f716883.jpg
 anchor: Center

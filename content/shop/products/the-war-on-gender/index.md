@@ -9,7 +9,7 @@ date: '2022-05-23'
 languages: Engels
 front: e758f2d4-0827-4833-8da6-3bfd60e4c8bd.webp
 variants:
-    - { id: 33, name: Paperback, isbn: 978-1-914208-81-2, price: 27.99, out_of_stock: 0 }
+    - { id: 33, name: Paperback, isbn: 978-1-914208-81-2, price: 27.99, out_of_stock: 1 }
 subtitle: 'Postmodernism and Trans Identity'
 tags:
     - Postmodernisme

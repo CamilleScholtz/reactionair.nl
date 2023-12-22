@@ -10,6 +10,7 @@ image: e6b4382a-cf08-4198-a462-c0817cc6c6e7.jpg
 anchor: Smart
 tags:
     - LGBT
+draft: true
 ---
 
 {{< quote text="Liefde is liefde & je mag zijn wie je bent." author="Hilde Crevits" >}}

@@ -9,7 +9,7 @@ date: '2014-10-02'
 languages: Engels
 front: 8f01e902-f081-4c5e-867b-63bcd7753999.jpg
 variants:
-    - { id: 64, name: Paperback, isbn: 978-1-910524-10-7, price: 13.99, out_of_stock: 0 }
+    - { id: 64, name: Paperback, isbn: 978-1-910524-10-7, price: 13.99, out_of_stock: 1 }
 tags:
     - Liefde
     - Spiritualiteit

@@ -9,7 +9,7 @@ date: '2021-11-28'
 languages: Engels
 front: 0c63f9b8-4d2a-4b37-a950-5a244eea1231.jpg
 variants:
-    - { id: 88, name: Paperback, isbn: 978-1-907166-90-7, price: 13.99, out_of_stock: 0 }
+    - { id: 88, name: Paperback, isbn: 978-1-907166-90-7, price: 13.99, out_of_stock: 1 }
 subtitle: 'Or the Redemption of the Divine'
 tags:
     - 'Friedrich Nietzsche'

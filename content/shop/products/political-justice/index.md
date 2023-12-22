@@ -9,7 +9,7 @@ date: '2018-10-29'
 languages: Engels
 front: f0e5fb93-7233-4daa-abf1-97d93d55ae10.jpg
 variants:
-    - { id: 7, name: Paperback, isbn: 978-1-910524-14-5, price: 23.99, out_of_stock: 0 }
+    - { id: 7, name: Paperback, isbn: 978-1-910524-14-5, price: 23.99, out_of_stock: 1 }
 subtitle: 'A Traditional Conservative Case for an Alternative Society'
 tags:
     - Liberalisme

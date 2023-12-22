@@ -11,6 +11,7 @@ anchor: Smart
 tags:
     - LGBT
     - 'Mark Rutte'
+draft: true
 ---
 
 In de majestueuze zalen van de wereldpolitiek, waar doorgewinterde politieke zwaargewichten en imposante staatsmannen de koers van de wereld bepalen, zien wij keer op keer een jong jochie om Rutte heen hangen. Op elke cruciale top, van de G20-bijeenkomsten tot ontmoetingen met leiders als Zelensky en Netanyahu, is dit opvallend figuur steeds weer gespot.

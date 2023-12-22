@@ -9,7 +9,7 @@ date: '2023-06-02'
 languages: Engels
 front: b1d81433-9c57-4fef-a9eb-ea8196cc4319.jpg
 variants:
-    - { id: 85, name: Paperback, isbn: 978-1-922602-82-4, price: 18.99, out_of_stock: 0 }
+    - { id: 85, name: Paperback, isbn: 978-1-922602-82-4, price: 18.99, out_of_stock: 1 }
 back: 0a1d92f2-e32a-4b9c-b13b-b760f6ff4c9d.jpg
 ---
 

@@ -9,7 +9,7 @@ date: '2016-07-08'
 languages: Engels
 front: 32ddbdbd-470c-47c7-960c-f484f528ee41.jpg
 variants:
-    - { id: 47, name: Paperback, isbn: 978-1-910524-54-1, price: 18.99, out_of_stock: 0 }
+    - { id: 47, name: Paperback, isbn: 978-1-910524-54-1, price: 18.99, out_of_stock: 1 }
 subtitle: 'In Search of the Sacred Light'
 tags:
     - 'Friedrich Nietzsche'
