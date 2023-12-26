@@ -29,11 +29,11 @@
 							<h2>{{ .Params.title }}</h2>
 						</a>
 
-						{{ partial "shop/cart/small.html" (dict
+						{{ partialCached "shop/cart/small.html" (dict
 							"product"  .Params.id
 							"variants" .Params.variants
 							"checkout" false
-						) }}
+						) .Params.id .Params.variants }}
 					</div>
 				</li>
 			{{ end }}

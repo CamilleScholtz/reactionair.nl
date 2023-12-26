@@ -4,7 +4,7 @@
 	{{ partial "head/head.html" . }}
 
 	<body>
-		{{ partial "header/header.html" . }}
+		{{ partialCached "header/header.html" . (eq .Kind "page") (eq .Section "articles") .Title }}
 
 		<div class="misc" style="display: grid; height: 600px;">
 			<a href="/" style="margin: auto; text-align: center;">

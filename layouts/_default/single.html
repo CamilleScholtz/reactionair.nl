@@ -71,12 +71,14 @@
 
 	{{ if in (slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Wijsbegeerte" "Onderzoek en Speurwerk" "Geschiedenis en Biografie" "De Uylenspieghel") .Params.themes }}
 		<section class="themes">
+			{{ $pages := ((where .Site.RegularPages "Section" "articles").Related . | first 5) }}
+
 			{{ partial "articles/theme.html" (dict
 				"context" .
 				"section" "related"
 				"path"    "themas"
 				"term"    .Params.themes
-				"pages"   ((where .Site.RegularPages "Section" "articles").Related . | first 5)
+				"pages"   $pages
 				"side"    "left"
 			) }}
 		</section>
