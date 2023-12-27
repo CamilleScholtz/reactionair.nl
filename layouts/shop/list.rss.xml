@@ -17,7 +17,7 @@
 				<g:title>{{ .Params.title | safeHTML }}</g:title>
 				<g:description>{{ .Plain | truncate 4990 }}</g:description>
 				<g:link>{{ .Permalink }}</g:link>
-				<g:image_link>{{ ($front.Fit "1320x880 jpeg").Permalink }}</g:image_link>
+				<g:image_link>{{ ($front.Fit "1320x880 webp").Permalink }}</g:image_link>
 				{{ if isset .Params "back" }}
 					{{ $back := .Resources.Get .Params.back }}
 					<g:additional_image_link>{{ ($back.Fit "1320x880 webp").Permalink }}</g:additional_image_link>
