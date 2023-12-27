@@ -59,7 +59,18 @@
 		</div>
 	</div>
 
-	{{ $paginator := .Paginate .RegularPages.ByDate.Reverse }}
+	{{ $.Scratch.Add "sortedPages" slice }}
+	{{ range .RegularPages.ByDate.Reverse }}
+		{{ if not .Params.out_of_stock }}
+			{{ $.Scratch.Add "sortedPages" (slice .) }}
+		{{ end }}
+	{{ end }}
+	{{ range .RegularPages.ByDate.Reverse }}
+		{{ if .Params.out_of_stock }}
+			{{ $.Scratch.Add "sortedPages" (slice .) }}
+		{{ end }}
+	{{ end }}
+	{{ $paginator := .Paginate ($.Scratch.Get "sortedPages") }}
 
 	<ul id="products">
 		{{ range $paginator.Pages }}
