@@ -1,15 +1,15 @@
-<a href="{{ .context.RelPermalink }}" class="article featured">
+<a href="{{ .article.RelPermalink }}" class="article featured">
 	<div class="text">
-		<div class="author">{{ delimit .context.Params.authors ", " " & " }}</div>
-		<h2>{{ .context.Params.title | safeHTML }}</h2>
-		<h3>{{ .context.Params.subTitle | safeHTML }}</h3>
+		<div class="author">{{ delimit .article.Params.authors ", " " & " }}</div>
+		<h2>{{ .article.Params.title | safeHTML }}</h2>
+		<h3>{{ .article.Params.subTitle | safeHTML }}</h3>
 	</div>
 
 	<figure>
-		{{ $image  := .context.Resources.Get .context.Params.image }}
+		{{ $image  := .article.Resources.Get .article.Params.image }}
 		{{ $anchor := "Smart" }}
-		{{ if isset .context.Params "anchor" }}
-			{{ $anchor = .context.Params.anchor }}
+		{{ if isset .article.Params "anchor" }}
+			{{ $anchor = .article.Params.anchor }}
 		{{ end }}
 
 		{{ $1x := $image.Fill (printf "578x413 webp %s" $anchor) }}
@@ -19,7 +19,7 @@
 			srcset="{{ $1x.RelPermalink }} 1x,
 			        {{ $2x.RelPermalink }} 2x"
 			src="{{ $2x.RelPermalink }}"
-			alt="{{ .context.Params.title | safeHTML }}"
+			alt="{{ .article.Params.title | safeHTML }}"
 			style="background: {{ index $1x.Colors 0 }};">
 	</figure>
 </a>

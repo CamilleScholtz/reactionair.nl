@@ -1,14 +1,14 @@
-<a href="{{ .context.RelPermalink }}" class="article large">
+<a href="{{ .article.RelPermalink }}" class="article large">
 	<div class="text">
-		<div class="author">{{ delimit .context.Params.authors ", " " & " }}</div>
-		<h2>{{ .context.Params.title | safeHTML }}</h2>
+		<div class="author">{{ delimit .article.Params.authors ", " " & " }}</div>
+		<h2>{{ .article.Params.title | safeHTML }}</h2>
 	</div>
 
 	<figure>
-		{{ $image  := .context.Resources.Get .context.Params.image }}
+		{{ $image  := .article.Resources.Get .article.Params.image }}
 		{{ $anchor := "Smart" }}
-		{{ if isset .context.Params "anchor" }}
-			{{ $anchor = .context.Params.anchor }}
+		{{ if isset .article.Params "anchor" }}
+			{{ $anchor = .article.Params.anchor }}
 		{{ end }}
 
 		{{ $1x := $image.Fill (printf "310x180 webp %s" $anchor) }}
@@ -21,7 +21,7 @@
 			{{ if .lazy }}
 				loading="lazy"
 			{{ end }}
-			alt="{{ .context.Params.title | safeHTML }}"
+			alt="{{ .article.Params.title | safeHTML }}"
 			style="background: {{ index $1x.Colors 0 }};">
 	</figure>
 </a>

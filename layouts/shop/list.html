@@ -1,11 +1,16 @@
 {{ define "main" }}
+	{{ $section := .CurrentSection.File.ContentBaseName }}
+	{{ if or (eq $section "shop") (eq .Kind "term") }}
+		{{ $section = "boeken" }}
+	{{ end }}
+
 	<div class="filters">
-		<span class="title">Taal:</span>
+		<span class="title">Categorie:</span>
 
 		<span class="filters-container">
-			{{ range $language, $terms := site.Taxonomies.languages }}
-				{{ with site.GetPage (printf "/languages/%s" $language) }}
-					<a href="{{ if eq .Params.title $.Params.title }}/winkel/{{ else }}/winkel/taal/{{ $language }}/{{ end }}" {{ if eq .Params.title $.Params.title }}class="active"{{ end }}>
+			{{ range $category := slice "boeken" "boekenleggers" "stickers" }}
+				{{ with site.GetPage (printf "/%s" $category) }}
+					<a href="/winkel/producten/{{ $category }}/" {{ if or (eq .Params.title $.Params.title) (and (eq .Params.title "Boeken") (eq $section "boeken")) }}class="active"{{ end }}>
 						{{ .Params.title }}
 					</a>
 				{{ end }}
@@ -13,99 +18,85 @@
 		</span>
 	</div>
 
-	<div class="selects">
-		<div class="filters select">
-			<span class="title">Uitgeverij:</span>
+	{{ if eq $section "boeken" }}
+		<div class="filters">
+			<span class="title">Taal:</span>
 
 			<span class="filters-container">
-				<div class="select-container">
-					<select data-label="uitgeverij">
-						<option value="/winkel">
-							Alle uitgeverijen
-						</option>
-
-						{{ range $publisher, $terms := site.Taxonomies.publishers }}
-							{{ with site.GetPage (printf "/publishers/%s" $publisher) }}
-								<option value="/winkel/uitgeverij/{{ $publisher }}/">
-									{{ .Params.title }}
-								</option>
-							{{ end }}
-						{{ end }}
-					</select>
-				</div>
+				{{ range $language, $terms := site.Taxonomies.language }}
+					{{ with site.GetPage (printf "/language/%s" $language) }}
+						<a href="/winkel/producten/boeken/{{ if ne .Params.title $.Params.title }}talen/{{ $language }}/{{ end }}" {{ if eq .Params.title $.Params.title }}class="active"{{ end }}>
+							{{ .Params.title }}
+						</a>
+					{{ end }}
+				{{ end }}
 			</span>
 		</div>
 
-		<div class="filters select">
-			<span class="title">Auteur:</span>
+		<div class="selects">
+			<div class="filters select">
+				<span class="title">Uitgeverij:</span>
 
-			<span class="filters-container">
-				<div class="select-container">
-					<select data-label="auteur">
-						<option value="/winkel">
-							Alle auteurs
-						</option>
+				<span class="filters-container">
+					<div class="select-container">
+						<select data-label="uitgeverij">
+							<option value="/winkel/producten/boeken/">
+								Alle uitgeverijen
+							</option>
 
-						{{ range $writer, $terms := site.Taxonomies.writers }}
-							{{ with site.GetPage (printf "/writers/%s" $writer) }}
-								<option value="/winkel/auteur/{{ $writer }}/">
-									{{ .Params.title }}
-								</option>
+							{{ range $publisher, $terms := site.Taxonomies.publisher }}
+								{{ with site.GetPage (printf "/publisher/%s" $publisher) }}
+									<option value="/winkel/producten/boeken/uitgeverijen/{{ $publisher }}/">
+										{{ .Params.title }}
+									</option>
+								{{ end }}
 							{{ end }}
-						{{ end }}
-					</select>
-				</div>
-			</span>
-		</div>
-	</div>
+						</select>
+					</div>
+				</span>
+			</div>
 
-	{{ $.Scratch.Add "sortedPages" slice }}
-	{{ range .RegularPages.ByDate.Reverse }}
-		{{ if not .Params.out_of_stock }}
-			{{ $.Scratch.Add "sortedPages" (slice .) }}
-		{{ end }}
+			<div class="filters select">
+				<span class="title">Auteur:</span>
+
+				<span class="filters-container">
+					<div class="select-container">
+						<select data-label="auteur">
+							<option value="/winkel/producten/boeken/">
+								Alle auteurs
+							</option>
+
+							{{ range $writer, $terms := site.Taxonomies.writers }}
+								{{ with site.GetPage (printf "/writers/%s" $writer) }}
+									<option value="/winkel/producten/boeken/auteurs/{{ $writer }}/">
+										{{ .Params.title }}
+									</option>
+								{{ end }}
+							{{ end }}
+						</select>
+					</div>
+				</span>
+			</div>
+		</div>
 	{{ end }}
-	{{ range .RegularPages.ByDate.Reverse }}
-		{{ if .Params.out_of_stock }}
-			{{ $.Scratch.Add "sortedPages" (slice .) }}
-		{{ end }}
+
+	{{ $page  := printf "shop/products/%s" $section }}
+	{{ $books := (.GetPage $page).RegularPages }}
+	{{ if eq .Kind "term" }}
+		{{ $books = .RegularPages }}
 	{{ end }}
-	{{ $paginator := .Paginate ($.Scratch.Get "sortedPages") }}
+
+	{{ $unstocked := where $books "Params.out_of_stock" true }}
+	{{ $stocked   := $books | complement $unstocked }}
+	{{ $sorted    := union $stocked.ByDate.Reverse $unstocked.ByDate.Reverse }}
+	{{ $paginator := .Paginate $sorted }}
 
 	<ul id="products">
 		{{ range $paginator.Pages }}
-			{{ with .Params.layout }}
-				{{ continue }}
-			{{ end }}
-
-			<li class="product">
-				<a href="{{ .RelPermalink }}">
-					{{ partialCached "books/small.html" (dict
-						"context" .
-						"title"   .Params.title
-						"front"   (.Resources.Get .Params.front)
-						"back"    (.Resources.Get .Params.back)
-						"pages"   .Params.pages
-						"hover"	  true
-					) .File.ContentBaseName }}
-				</a>
-
-				<div class="text">
-					<a href="{{ .RelPermalink }}">
-						<div class="author">{{ delimit .Params.writers ", " " & " }}</div>
-						<h2>{{ .Params.title }}</h2>
-						{{ if isset .Params "subtitle" }}
-							<h3>{{ .Params.subtitle }}</h3>
-						{{ end }}
-					</a>
-
-					{{ partialCached "shop/cart/small.html" (dict
-						"product"  .Params.id
-						"variants" .Params.variants
-						"checkout" false
-					) .Params.id .Params.variants }}
-				</div>
-			</li>
+			{{ partial "products/small.html" (dict
+				"product"  .
+				"checkout" false
+			) }}
 		{{ end }}
 	</ul>
 

@@ -3,10 +3,6 @@
 {{ $j := 0 }}
 
 {{ range $i, $_ := where site.RegularPages "Type" "eq" "shop" }}
-	{{ with .Params.layout }}
-		{{ continue }}
-	{{ end }}
-
 	{{ $.Scratch.Add "index" (dict
 		"id"        $i
 		"title"     (.Params.title | plainify)

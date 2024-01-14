@@ -7,14 +7,14 @@
 	</div>
 
 	<a href="{{ .book.RelPermalink }}">
-		{{ partialCached "books/medium.html" (dict
-			"context" .
+		{{ partialCached "products/book.html" (dict
+			"size"    "medium"
 			"title"   .book.Params.title
 			"pages"   .book.Params.pages
 			"front"   (.book.Resources.Get .book.Params.front)
 			"animate" true
 			"hover"   true
-		) .book.File.ContentBaseName }}
+		) "medium" .book.File.UniqueID }}
 	</a>
 </div>
 

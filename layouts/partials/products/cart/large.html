@@ -1,9 +1,9 @@
 <div class="cart-form-container">
 	{{ range .variants }}
-		<div class="cart-form" data-product="{{ $.product }}" data-variant="{{ .id }}" data-price="{{ .price }}">
+		<div class="cart-form" data-product="{{ .id }}" data-price="{{ .price }}">
 			<div class="price">
 				{{ if gt (len $.variants) 1 }}
-					<div class="variant">{{ .name }}</div>
+					<div class="variant">{{ .format }}</div>
 				{{ end }}
 
 				{{ if not .out_of_stock }}

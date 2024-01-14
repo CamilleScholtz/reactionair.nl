@@ -1,23 +1,22 @@
 {{ $book := "" }}
 
 {{ if .Get "book" }}
-	{{ $book = index (where (where site.RegularPages "Section" "shop") ".Params.title" (.Get "book")) 0 }}
-{{ else  }}
-	{{ $book = index ((where site.RegularPages "Params.pretty" true).Related (dict
+	{{ $book = index (where (site.GetPage "shop/products/boeken").RegularPages ".Params.title" (.Get "book")) 0 }}
+{{ else }}
+	{{ $book = index ((where (where (site.GetPage "shop/products/boeken").RegularPages "Params.advert" true) "Params.out_of_stock" "!=" true).Related (dict
 		"indices"  (slice "tags")
 		"document" $.Page
-	)) 1 }}
+	)) 0 }}
 {{ end }}
 
 {{ if not $book }}
-	{{ $book = index (where (where site.RegularPages "Section" "shop") ".Params.title" site.Params.advert) 0 }}
+	{{ $book = index (where (site.GetPage "shop/products/boeken").RegularPages ".Params.title" site.Params.advert) 0 }}
 {{ end }}
 
 {{ with $book }}
 	<section class="av">
 		{{ partialCached "advert.html" (dict
-			"context" .
-			"book"    .
-		) .File.ContentBaseName }}
+			"book" .
+		) .File.UniqueID }}
 	</section>
 {{ end }}

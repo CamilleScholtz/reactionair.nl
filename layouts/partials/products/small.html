@@ -1,0 +1,47 @@
+<li class="product" {{ if .checkout }}data-product="{{ .variant.id }}" data-price="{{ .variant.price }}" style="display: none;"{{ end }}>
+	{{ $section := .product.CurrentSection.File.ContentBaseName }}
+	{{ if or (eq $section "shop") (eq .Kind "term") }}
+		{{ $section = "boeken" }}
+	{{ end }}
+
+	<a href="{{ .product.RelPermalink }}">
+		{{ if eq $section "boeken" }}
+			{{ partialCached "products/book.html" (dict
+				"size"  "small"
+				"title" .product.Params.title
+				"front" (.product.Resources.Get .product.Params.front)
+				"back"  (.Resources.Get .product.Params.back)
+				"pages" .product.Params.pages
+				"hover"	true
+			) "small" .product.File.UniqueID }}
+		{{ else }}
+			{{ partialCached "products/miscellany.html" (dict
+				"size"  "small"
+				"title" .product.Params.title
+				"front" (.product.Resources.Get .product.Params.front)
+				"back"  (.product.Resources.Get .product.Params.back)
+				"hover"	true
+			) "small" .product.File.UniqueID }}
+		{{ end }}
+	</a>
+
+	<div class="text">
+		<a href="{{ .product.RelPermalink }}">
+			{{ if eq $section "boeken" }}
+				<div class="author">{{ delimit .product.Params.writers ", " " & " }}</div>
+			{{ end }}
+
+			<h2>{{ .product.Params.title }}</h2>
+			{{ if isset .product.Params "subtitle" }}
+				<h3>{{ .product.Params.subtitle }}</h3>
+			{{ end }}
+		</a>
+
+		{{ partial "products/cart/small.html" (dict
+			"variants"     (cond .checkout (slice .variant) .product.Params.variants)
+			"out_of_stock" .product.Params.out_of_stock
+			"permalink"    .product.RelPermalink
+			"checkout"     false
+		) }}
+	</div>
+</li>

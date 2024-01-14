@@ -1,5 +1,5 @@
 <meta property="og:title" content="{{ .Title | safeHTML }}">
-<meta property="og:description" content="{{ if isset .Params "subtitle" }}{{ .Params.subtitle }}{{ else }}{{ .Params.description }}{{ end }}">
+<meta property="og:description" content="{{ cond (isset .Params "subtitle") .Params.subtitle .Params.description }}">
 <meta property="og:url" content="{{ .Permalink }}">
 {{ if eq .Type "articles" }}
 	{{ $image  := .Resources.Get .Params.image }}
@@ -19,7 +19,7 @@
 
 	<meta property="og:type" content="product">
 	<meta property="og:image" content="{{ ($image.Fit "1320x880 webp").Permalink }}">
-	<meta property="product:price.amount" content="{{ (index .Params.variants 0).prices }}">
+	<meta property="product:price.amount" content="{{ (index .Params.variants 0).price }}">
 	<meta property="product:price.currency" content="EUR">
 	<meta property="twitter:card" content="summary">
 {{ else }}

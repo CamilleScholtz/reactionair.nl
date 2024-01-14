@@ -1,4 +1,4 @@
 ---
-title: Winkel
+title: Boekenleggers
 description: "De Reactionair-boekenwinkel."
 ---

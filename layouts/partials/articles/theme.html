@@ -25,7 +25,7 @@
 	</div>
 
 	{{ partialCached "articles/large.html" (dict
-		"context"   $featured
-		"lazy"      true
-	) $featured.File.ContentBaseName }}
+		"article" $featured
+		"lazy"    true
+	) $featured.File.UniqueID }}
 </div>

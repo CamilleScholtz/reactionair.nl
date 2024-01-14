@@ -1,0 +1,54 @@
+<div class="background"></div>
+
+{{ if eq .product.CurrentSection.File.ContentBaseName "boeken" }}
+	{{ partial "products/book.html" (dict
+		"size"    "large"
+		"title"   .product.Params.title
+		"front"   (.product.Resources.Get .product.Params.front)
+		"back"    (.product.Resources.Get .product.Params.back)
+		"pages"   .product.Params.pages
+		"animate" true
+		"click"   (isset .product.Params "back")
+		"hover"   (not (isset .product.Params "back"))
+	) }}
+{{ else }}
+	{{ partial "products/miscellany.html" (dict
+		"size"    "large"
+		"title"   .product.Params.title
+		"front"   (.product.Resources.Get .product.Params.front)
+		"back"    (.product.Resources.Get .product.Params.back)
+		"animate" true
+		"click"   (isset .product.Params "back")
+		"hover"   (not (isset .product.Params "back"))
+	) }}
+{{ end }}
+
+<a class="back-button" href="javascript:history.back()">‹</a>
+
+<div class="title-container">
+	{{ if eq .product.CurrentSection.File.ContentBaseName "boeken" }}
+		<h3>
+			{{ range $index, $writer := .product.Params.writers }}
+				<a href="/winkel/auteur/{{ urlize $writer }}">{{ $writer }}</a>
+				{{ if eq $index (sub (len $.product.Params.writers) 2) }}
+					&amp;
+				{{ else if ne (add $index 1) (len $.product.Params.writers) }}
+					,
+				{{ end }}
+			{{ end }}
+		</h3>
+	{{ end }}
+
+	<h1>{{ .product.Params.title }}</h1>
+	{{ if isset .product.Params "subtitle" }}
+		<h2>{{ .product.Params.subtitle }}</h2>
+	{{ end }}
+
+	<div class="quote">“&nbsp;</div>
+</div>
+
+{{ partial "products/cart/large.html" (dict
+	"variants"     .product.Params.variants
+	"out_of_stock" .product.Params.out_of_stock
+	"checkout"     true
+) }}

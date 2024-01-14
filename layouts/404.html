@@ -6,10 +6,10 @@
 	<body>
 		{{ partialCached "header/header.html" . (eq .Kind "page") (eq .Section "articles") .Title }}
 
-		<div class="misc" style="display: grid; height: 600px;">
+		<div class="misc" style="display: grid; height: 600px; max-width: 90%; margin: 0 auto;">
 			<a href="/" style="margin: auto; text-align: center;">
 				<h1>Er is een fout opgetreden!</h1>
-				<h2>Bestaat deze pagina wel?</h2>
+				<h2 style="font-style: italic; margin-top: 10px;">Bestaat deze pagina wel?</h2>
 			</div>
 		</div>
 
@@ -22,11 +22,24 @@
 		"Deze pagina bestaat niet. Toch bezoekt u deze pagina. Bestaat hij dan toch?",
 		"Deze pagina bestaat niet in uw huidige multiversum.",
 		"U zoekt iets zonder te vinden, of zoekt iets U?",
-		"Zoekt, en gij zult vinden. Alleen niet meer deze pagina; die bestaat niet meer.",
+		"Zoekt, en gij zult vinden. Alleen niet deze pagina; die bestaat niet.",
 		"Dit pad loopt dood. Keer op uw schreden terug en slaat een ander pad in.",
-		"Het gaat niet om de bestemming maar om de reis er naartoe. (Deze pagina bestaat niet meer)",
+		"Het gaat niet om de bestemming maar om de reis er naartoe. Deze pagina bestaat niet.",
 		"Uw sociaal kredietscore is ontoereikend om deze pagina te bezoeken",
-		"De bestemming van uw reis, is de reis zelf.  Helaas bent u hier niettemin tot stilstand gekomen. Deze pagina bestaat niet."
+		"De bestemming van uw reis, is de reis zelf.  Helaas bent u hier niettemin tot stilstand gekomen. Deze pagina bestaat niet.",
+		"Deze pagina bestaat niet. Uw bestaan is echter wel een feit. Of toch niet?",
+		"In de wirwar van het wereldwijde web bent u hier beland, maar deze pagina is slechts een digitale mirage.",
+		"Deze pagina is als een vergeten droom: eens gedacht, nooit werkelijkheid.",
+		"Soms leidt de weg naar nergens, net als uw zoektocht naar deze niet-bestaande pagina.",
+		"In de echo's van de digitale leegte, vindt u deze pagina niet. Ze bestaat slechts in de afwezigheid.",
+		"U navigeert door een oceaan van informatie, maar deze pagina is slechts een fata morgana op uw digitale horizon.",
+		"Elke zoektocht kent zijn raadsels; deze pagina is er een, altijd buiten bereik.",
+		"Net als sterren aan de nachtelijke hemel, schitteren sommige pagina's door afwezigheid. Deze is er één van.",
+		"Deze pagina is als een ongeschreven verhaal, een leeg blad in het boek van het internet.",
+		"Uw digitale odyssee bracht u hier, maar deze pagina is als een verloren stad: legendarisch, maar onvindbaar.",
+		"Net als een fluistering in de wind, is deze pagina hier en toch niet, een illusie van aanwezigheid.",
+		"Als een spookstad in het digitale landschap, bestaat deze pagina enkel in de verhalen van de internetreiziger.",
+		"U heeft de grenzen van het bekende internet bereikt. Deze pagina ligt daarbuiten, in het onbekende.",
 	];
 
 	document.querySelector("h2").innerHTML = quotes[Math.floor(Math.random() * quotes.length)];

@@ -1,41 +1,23 @@
 {{ define "main" }}
 	<div id="taxonomy" class="cart-page">
 		<ul id="products">
-			{{ range (where (where .Site.RegularPages "Section" "shop") "Params.out_of_stock" "!=" true).ByDate.Reverse }}
-				{{ with .Params.layout }}
-					{{ continue }}
+			<div class="cart-empty" style="display: none;">
+				<p>Uw winkelwagen is leeg.</p>
+				<p>Ga <a href="/winkel">terug naar de winkel</a>.</p>
+			</div>
+
+			{{ range $product := (where (where .Site.RegularPages "Section" "shop") "Params.out_of_stock" "!=" true).ByDate.Reverse }}
+				{{ range .Params.variants }}
+					{{ if .out_of_stock }}
+						{{ continue }}
+					{{ end }}
+
+					{{ partial "products/small.html" (dict
+						"product"  $product
+						"variant"  .
+						"checkout" true
+					) }}
 				{{ end }}
-
-				<div class="cart-empty" style="display: none;">
-					<p>Uw winkelwagen is leeg.</p>
-					<p>Ga <a href="/winkel">terug naar de winkel</a>.</p>
-				</div>
-
-				<li class="product" data-product="{{ .Params.id }}" data-price="{{ .Params.price }}" style="display: none;">
-					<a href="{{ .RelPermalink }}">
-						{{ partialCached "books/small.html" (dict
-							"context" .
-							"title"   .Params.title
-							"front"   (.Resources.Get .Params.front)
-							"back"    (.Resources.Get .Params.back)
-							"pages"   .Params.pages
-							"hover"	  true
-						) .File.ContentBaseName }}
-					</a>
-
-					<div class="text">
-						<a href="{{ .RelPermalink }}">
-							<div class="author">{{ delimit .Params.writers ", " " & " }}</div>
-							<h2>{{ .Params.title }}</h2>
-						</a>
-
-						{{ partialCached "shop/cart/small.html" (dict
-							"product"  .Params.id
-							"variants" .Params.variants
-							"checkout" false
-						) .Params.id .Params.variants }}
-					</div>
-				</li>
 			{{ end }}
 		</ul>
 

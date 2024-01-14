@@ -1,5 +1,4 @@
 ---
-title: Winkel
+title: Boeken
 description: "De Reactionair-boekenwinkel."
-url: /winkel/producten/boeken/
 ---

@@ -4,7 +4,7 @@
 	{{ partial "head/head.html" . }}
 
 	<body>
-		{{ partialCached "header/header.html" . (eq .Kind "page") (eq .Section "articles") .Title }}
+		{{ partial "header/header.html" . }}
 
 		<main id="{{ .Kind }}">
 			{{ block "main" . }}{{ end }}
