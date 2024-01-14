@@ -6,6 +6,8 @@ if [ "$1" = "--pull" ]; then
 	git pull
 fi
 
+trap 'rm -rf "/usr/local/www/reactionair.nl/build"' EXIT
+
 hugo -s "/usr/local/www/reactionair.nl" --cleanDestinationDir -d "/usr/local/www/reactionair.nl/build"
 
 if [ -d "/usr/local/www/reactionair.nl/public" ]; then
