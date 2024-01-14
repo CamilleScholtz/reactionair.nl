@@ -6,7 +6,7 @@ if [ "$1" = "--pull" ]; then
 	git pull
 fi
 
-trap 'rm -rf "/usr/local/www/reactionair.nl/build"' EXIT
+trap 'rm -rf "/usr/local/www/reactionair.nl/build"' SIGINT SIGTERM
 
 hugo -s "/usr/local/www/reactionair.nl" --cleanDestinationDir -d "/usr/local/www/reactionair.nl/build"
 
