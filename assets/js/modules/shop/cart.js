@@ -24,7 +24,9 @@ export const overview = (main, cart, shipping) => {
 	}
 
 	page.querySelectorAll(".product").forEach((product) => {
-		if (cart.find(i => i.product === product.dataset.product)) {
+		if (cart.find(i => i.product === product.dataset.product) === undefined) {
+			product.style.display = "none";
+		} else {
 			product.style.display = "grid";
 		}
 	});
