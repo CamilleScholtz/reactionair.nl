@@ -2,16 +2,16 @@
 id: 179
 title: 'Blackrock, Vanguard en Goldman Sachs: financiers van de woke-agenda'
 subtitle: 'Grootkapitaal ❤️ woke'
-date: '2023-06-17'
-authors:
-    - 'Frits Bosch'
-themes: 'Cultuur en Maatschappij'
 image: 7e50b263-1725-4d5d-9cbe-d35d2b43c494.jpg
 anchor: Smart
+authors:
+    - 'Frits Bosch'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Liberalisme
     - Woke
     - Kapitalisme
+date: '2023-06-17'
 ---
 
 Er is een nieuw kindje geboren en we noemen het ‘DEI’. 'Dei' betekent in het Latijn ‘Goden’ of ‘des Godes’, maar daar verwijzen wij allerminst naar. Wij bedoelen met DEI: Diversity, Equity, Inclusion. DEI is geen mooi kindje, maar uiterst lelijk en levensgevaarlijk. We eten dus geen beschuit met muisjes en toasten niet op de geboorte van DEI.

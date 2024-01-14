@@ -2,16 +2,16 @@
 id: 116
 title: 'Dagboekaantekeningen van het front'
 subtitle: 'De oorlog in Oekraïne in Spanje'
-date: '2023-03-08'
-authors:
-    - 'Lucas Arnout Hoogendoorn'
-themes: 'Cultuur en Maatschappij'
 image: 29f119af-7823-47ff-a502-de1069cc0ead.jpg
 anchor: Smart
+authors:
+    - 'Lucas Arnout Hoogendoorn'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Spanje
     - Fictie
     - Oekraïne
+date: '2023-03-08'
 ---
 
 ### 20 november, Alicante

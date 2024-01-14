@@ -2,19 +2,19 @@
 id: 26
 title: 'Pim Lammers: pedagoog of pedogoog?'
 subtitle: 'Hoe progressieven gaslighten in de discussie rondom Lammers'
-date: '2023-02-05'
-authors:
-    - 'Jan-Jaap Moltman'
-themes: 'Politiek en Actualiteit'
 image: 64fd138f-00fd-4b35-922f-f04077ab5388.webp
 anchor: Smart
 description: 'Premier Rutte spreekt zich uit over de affaire rondom schrijver Pim Lammers, die onder vuur ligt vanwege zijn controversiële gedicht voor de Kinderboekenweek. Wat speelt er precies en wat zit er achter de commotie?'
+authors:
+    - 'Jan-Jaap Moltman'
+theme: 'Politiek en Actualiteit'
 tags:
     - Woke
     - LGBT
     - 'Mark Rutte'
     - Onderwijs
     - 'Pim Lammers'
+date: '2023-02-05'
 ---
 
 De commotie rondom Pim Lammers heeft een kookpunt bereikt, nu zelfs premier Rutte zijn zegje heeft gedaan in de affaire rondom de schrijver.[^1] Lammers zou het gedicht voor de Kinderboekenweek schrijven, maar kwam onder vuur te liggen nadat *Reactionair.nl* aan het licht bracht dat hij in het verleden meermalen schreef over pedoseksuele verhoudingen, transseksualiteit en relaties tussen mannen.[^2] Meerdere boeken bedoeld voor een zeer jong publiek (4+) gaan over het normaliseren van homo- en transseksuele relaties, iets waar jonge kinderen eigenlijk niet mee geconfronteerd moeten worden. Het past dan ook in de bredere progressieve agenda waarin genormaliseerd wordt wat niet genormaliseerd zou moeten worden. 

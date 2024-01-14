@@ -2,12 +2,11 @@
 id: 212
 title: 'Zelfredzaamheid in de polder'
 subtitle: 'Over een zelfvoorzienend Nederland '
-date: '2022-08-26'
-authors:
-    - 'Jan-Jaap Moltman'
-themes: 'Politiek en Actualiteit'
 image: pm_03.jpg
 anchor: Smart
+authors:
+    - 'Jan-Jaap Moltman'
+theme: 'Politiek en Actualiteit'
 tags:
     - Oorlog
     - Kapitalisme
@@ -15,6 +14,7 @@ tags:
     - Oekraïne
     - Macht
     - 'Sun Tzu'
+date: '2022-08-26'
 ---
 
 Zo ongeveer tegelijk met het inslaan van de eerste Russische raketten op soeverein Oekraïens grondgebied daalde in Nederland het besef in dat vrede, zoals dat afgelopen decennia soms leek, niet vanzelfsprekend is. Het is erg cru, maar kennelijk was een oorlog op het Europese continent nodig om zelfs de meest pacifistische  vredesactivist te laten inzien dat vrede geen dode letter is, maar iets dat een land opeist en uitstraalt middels kracht en leiderschap. Een vrede in het belang van boer, burger en de Nederlandse concurrentiepositie en geregisseerd vanuit ons Koninkrijk in plaats van beraamd op congressen waar filantropie en globalisme gepredikt worden. En dat is enkel mogelijk wanneer ‘managers’ in de politiek plaatsmaken voor volksvertegenwoordigers, Nederland haar eigen voedselproductie beschermt en verlengstukken van onvrije landen geen vrij baan hebben in de strategische delen van onze economie.

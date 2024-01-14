@@ -2,15 +2,15 @@
 id: 31
 title: 'Strippen in een kerk is nu vrijheid van meningsuiting '
 subtitle: 'In een synagoge ook?'
-date: '2022-10-20'
-authors:
-    - Sanura
-themes: 'Cultuur en Maatschappij'
 image: untitled-5.webp
 anchor: Smart
+authors:
+    - Sanura
+theme: 'Cultuur en Maatschappij'
 tags:
     - Christendom
     - Heiligschennis
+date: '2022-10-20'
 ---
 
 Het Europese Hof voor de Rechten van de Mens heeft Frankrijk veroordeeld voor het bestraffen van Éloïse Bouton, voor haar halfnaakte protest in een katholieke kerk. Ze was een kerk in gelopen en had de boel verstoord door topless een abortus na te doen van een zogenaamd kindje Jezus op het altaar.[^1]

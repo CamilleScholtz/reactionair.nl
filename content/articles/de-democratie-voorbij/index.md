@@ -2,15 +2,15 @@
 id: 144
 title: 'De democratie voorbij'
 subtitle: 'Herzien door Robert Lemm'
-date: '2022-06-08'
-authors:
-    - 'Robert Lemm'
-themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Robert Lemm'
+theme: 'Geschiedenis en Biografie'
 tags:
     - Democratie
     - 'Robert Lemm'
+date: '2022-06-08'
 ---
 
 _De democratie voorbij, door Frank Karsen en Karel Beckman._

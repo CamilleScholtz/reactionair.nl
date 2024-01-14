@@ -2,18 +2,18 @@
 id: 153
 title: 'Kolonialisme, kapitalisme en liberalisme'
 subtitle: 'Drie ideeën met dezelfde oorsprong'
-date: '2022-02-28'
-authors:
-    - 'Eco al-Hollandi'
-themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Eco al-Hollandi'
+theme: 'Geschiedenis en Biografie'
 tags:
     - Islam
     - 'Karl Marx'
     - Liberalisme
     - Kapitalisme
     - Kolonialisme
+date: '2022-02-28'
 ---
 
 Kolonialisme. Als je het beste voorbeeld van de Engelse term _“buzzword”_ zou moeten geven zou dit woord een goede kandidaat zijn. We hebben de afgelopen jaren gezien dat standbeelden naar beneden worden gehaald, straatnamen worden gewijzigd, curricula op universiteiten worden omgegooid en helden uit het nationale verleden worden beschimpt. Kritiek op kolonialisme is mainstream, al zijn de hardste “anti-kolonialisme” schreeuwers vaak van mening dat het nog niet mainstream genoeg is, of dat men er harder tegen op moet treden. 

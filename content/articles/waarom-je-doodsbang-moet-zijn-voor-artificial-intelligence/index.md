@@ -2,16 +2,16 @@
 id: 129
 title: 'Waarom je doodsbang moet zijn voor Artificiële Intelligentie '
 subtitle: 'Onze realiteit gereduceerd tot pure kwantiteit — lees tot het einde!'
-date: '2022-07-24'
-authors:
-    - 'Camille Scholtz'
-themes: 'Religie en Wijsbegeerte'
 image: test.jpg
 anchor: Smart
+authors:
+    - 'Camille Scholtz'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - AI
     - 'René Guénon'
     - Kwantificering
+date: '2022-07-24'
 draft: true
 ---
 

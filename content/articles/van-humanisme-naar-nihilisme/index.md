@@ -2,12 +2,12 @@
 id: 190
 title: 'Van humanisme naar nihilisme'
 subtitle: 'De eclips van de seculiere ethiek'
-date: '2022-04-01'
-authors:
-    - 'Magnus Bradshaw'
-themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
+note: "Dit is een vertaling van het essay 'From Humanism to Nihilism: The Eclipse of Secular Ethics', het origineel is [hier](https://479141-1506839-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/04/CMCPapers6-HumanismtoNihilism.pdf) te lezen."
+authors:
+    - 'Magnus Bradshaw'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Islam
     - 'Karl Marx'
@@ -27,7 +27,7 @@ tags:
     - 'David Hume'
     - 'John Gray'
     - Nihilisme
-note: "Dit is een vertaling van het essay 'From Humanism to Nihilism: The Eclipse of Secular Ethics', het origineel is [hier](https://479141-1506839-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/04/CMCPapers6-HumanismtoNihilism.pdf) te lezen."
+date: '2022-04-01'
 ---
 
 {{< basmala >}}

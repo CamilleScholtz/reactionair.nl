@@ -2,14 +2,14 @@
 id: 243
 title: 'De meester en zijn gezant'
 subtitle: 'Over de ideeën van Iain McGilchrist over de linker- en rechterhersenhelft'
-date: '2023-03-26'
-authors:
-    - Gastauteur
-themes: 'Religie en Wijsbegeerte'
 image: 740b6792-8eb2-468b-9a2e-f8aa859b698a.jpg
 anchor: Smart
+captions: 'Filmposter voor een documentaire over het werk van McGilchrist.'
 description: 'De moderne mens ziet liever zichzelf als het middelpunt van de wereld. Maar is dat wel een slim idee? Traditionele wijsheid, die ons leert maat te houden en ons te richten op het Goede, Schone en Ware, zou weleens veel belangrijker kunnen zijn dan we denken. De oplossing voor de ecologische crisis ligt in het herstellen van de samenwerking tussen de Meester en zijn Gezant. Maar hoe leren we weer om het Geheel te zien?'
-caption: 'Filmposter voor een documentaire over het werk van McGilchrist.'
+note: 'Dit artikel is geschreven door mr. Gert-Jan de Ruijter en verscheen oorspronkelijk op zijn *[persoonlijke website](https://gertjanderuijter.com/2020/05/13/de-meester-en-zijn-gezant/)*.'
+authors:
+    - Gastauteur
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Plato
     - Hedonisme
@@ -23,7 +23,7 @@ tags:
     - Hersens
     - 'Iain Mcgilchrist'
     - 'Sam Harris'
-note: 'Dit artikel is geschreven door mr. Gert-Jan de Ruijter en verscheen oorspronkelijk op zijn *[persoonlijke website](https://gertjanderuijter.com/2020/05/13/de-meester-en-zijn-gezant/)*.'
+date: '2023-03-26'
 ---
 
 Nieuwe Atheïsten, zoals Sam Harris, Richard Dawkins en Daniel Dennett zien religie als een verzameling achterhaalde theorieën. In wetenschappelijke zin is dat natuurlijk ook zo. Maar is dat een reden om de wijsheid, die in die verschillende levensbeschouwingen is te vinden, dan ook maar meteen als het spreekwoordelijke kind met het badwater weg te gooien? Ik denk het eerlijk gezegd niet. Want er zijn in alle Grote Tradities – boeddhisme, christendom, confucianisme, hindoeïsme, islam, judaïsme en taoïsme – naast veel gekkigheid ook uiterst belangrijke, universele inzichten in de _condition humaine_ te vinden. Inzichten die wij herkennen, omdat we mens zijn, en die ons tegelijkertijd diep verontrusten, omdat ze waar zijn. Vandaar de lege kerken. Want de moderne mens ziet liever zichzelf als middelpunt van de wereld, als maat der dingen, en gelooft maar wat graag dat het goede leven bestaat uit bevrediging van zijn grenzeloze begeertes. Traditionele wijsheid, die hem laat zien dat dit niet klopt, ziet hij als achterhaald, als geklets van oude, witte mannen. _Enjoy! YOLO!_

@@ -2,18 +2,18 @@
 id: 49
 title: 'Naar het einde en daar voorbij!'
 subtitle: 'Gedachten over het Onbegrensde'
-date: '2021-10-21'
-authors:
-    - 'Camille Scholtz'
-themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Camille Scholtz'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Metafysica
     - Theologie
     - 'René Guénon'
     - 'Martin Heidegger'
     - 'Martin Lings'
+date: '2021-10-21'
 ---
 
 Dit artikel gaat over enkele interacties met het idee van het onbegrensde, het eindeloze, oneindigheid, en enkele logische consequenties van deze concepten en de mogelijke implicaties voor theologie.

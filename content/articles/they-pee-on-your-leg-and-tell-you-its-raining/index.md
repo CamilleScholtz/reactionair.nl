@@ -2,12 +2,11 @@
 id: 235
 title: 'They pee on your leg and tell you it’s raining'
 subtitle: 'Misbruikers moeten kinderen weerbaar maken tegen misbruik'
-date: '2021-10-05'
-authors:
-    - Sanura
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Top
+authors:
+    - Sanura
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Karl Marx'
     - 'Michel Foucault'
@@ -16,6 +15,7 @@ tags:
     - 'Jacques Derrida'
     - Katholicisme
     - Rutgers
+date: '2021-10-05'
 ---
 
 >Sekten, die alle sociale klassen hebben doordrongen, zullen manieren vinden om zichzelf in het hart van de huizen te introduceren om de onschuld van kinderen te corrumperen. De harten van de kinderen zullen heerlijke hapjes zijn om de duivel te verwennen...[^1]

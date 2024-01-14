@@ -2,12 +2,11 @@
 id: 290
 title: '‘Traditionalism: The Radical Project for Restoring Sacred Order’'
 subtitle: 'Een recensie'
-date: '2023-12-03'
-authors:
-    - Intan
-themes: 'Religie en Wijsbegeerte'
 image: 03a35c91-7210-4e80-b509-9d59a7a7aadd.webp
 anchor: Smart
+authors:
+    - Intan
+theme: 'Religie en Wijsbegeerte'
 tags:
     - 'René Guénon'
     - 'Julius Evola'
@@ -15,6 +14,7 @@ tags:
     - 'Jordan Peterson'
     - 'Ananda Coomaraswamy'
     - 'Frithjof Schuon'
+date: '2023-12-03'
 ---
 
 Mark Sedgwick, professor van Arabische en Islamitische studies aan de Aarhus Universiteit, publiceerde in 2004 zijn eerste boek over het traditionalisme en heeft nu met *'Traditionalism: The Radical Project for Restoring Sacred Order'* een nieuwe inleiding op de filosofische en religieuze stroming geschreven. Met deze uitgave wordt een belangrijke leemte gevuld in de studie hiernaar. Het geeft een diepgaand doch toegankelijk overzicht van de traditionalistische stroming en vormt hiermee een goede inleiding voor eenieder die kennis wil maken met deze interessante gedachtewereld. Helaas haalt de schrijver niet de volledige potentie uit het onderwerp door enkele vreemde keuzes en opvallende omissies. Toch is de uiteindelijke conclusie dat het boek veel waardevolle informatie over het traditionalisme bevat en hiermee een goede inleiding vormt tot deze filosofie.

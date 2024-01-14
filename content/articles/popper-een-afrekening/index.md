@@ -2,18 +2,18 @@
 id: 271
 title: 'Popper: een afrekening'
 subtitle: 'Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?'
-date: '2022-01-08'
-authors:
-    - 'De Melancholieke Nar'
-themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'De Melancholieke Nar'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - 'Michel Foucault'
     - 'Friedrich Nietzsche'
     - Consumentisme
     - 'Karl Popper'
     - Wetenschap
+date: '2022-01-08'
 ---
 
 ### I: wetenschap

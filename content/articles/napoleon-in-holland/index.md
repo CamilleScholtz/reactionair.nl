@@ -2,18 +2,18 @@
 id: 289
 title: 'Napoleon in Holland'
 subtitle: 'Geliefde keizer of onderdrukkende dictator?'
-date: '2023-12-20'
-authors:
-    - Markoes
-themes: 'Geschiedenis en Biografie'
 image: 14a03da5-063f-41e9-a020-ad35bb449781.jpg
 anchor: Smart
+captions: 'Mattheus Ignatius van Bree, De intocht van Napoleon te Amsterdam (1811)'
 description: 'Hoe dachten de Nederlanders ten tijde van Napoleon over de keizer? Napoleons bezoek aan Nederland vertelt ons veel over de verdeeldheid in de samenleving aangaande de machtige keizer.'
-caption: 'Mattheus Ignatius van Bree, De intocht van Napoleon te Amsterdam (1811)'
+authors:
+    - Markoes
+theme: 'Geschiedenis en Biografie'
 tags:
     - 'Franse revolutie'
     - Napoleon
     - Nationalisme
+date: '2023-12-20'
 ---
 
 Napoleon Bonaparte betekent voor velen net wat anders. Sommige zien in hem een groot genie, waardig genoeg om in één adem genoemd te worden met grootheden als Julius Caesar en Alexander de grote. Anderen, daarentegen, zien in hem een despoot. Een Franse dictator die het huidige Nederland onrechtmatig en slecht liet besturen en niets anders dan tegenspoed bracht. Maar wat dacht de normale man in Nederland ten tijde van Napoleon over de man zelf?

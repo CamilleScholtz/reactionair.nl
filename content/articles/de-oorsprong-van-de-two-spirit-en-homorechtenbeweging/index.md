@@ -2,18 +2,18 @@
 id: 150
 title: 'De oorsprong van ‘two-spirit’ en de homorechtenbeweging'
 subtitle: 'Het vreemde verhaal van Harry Hay en Will Roscoe'
-date: '2023-04-14'
+image: 90905f3a-bf12-4090-8fa2-833db2fb1a9d.webp
+anchor: Smart
+note: 'Dit is een vertaling van een artikel van *Stone Age Herbalist*, het origineel is *[hier](https://stoneageherbalist.substack.com/p/the-origin-of-two-spirit-and-the)* te lezen.'
 authors:
     - Gastauteur
     - 'Eco al-Hollandi'
-themes: 'Cultuur en Maatschappij'
-image: 90905f3a-bf12-4090-8fa2-833db2fb1a9d.webp
-anchor: Smart
+theme: 'Cultuur en Maatschappij'
 tags:
     - Woke
     - LGBT
     - Transgenderisme
-note: 'Dit is een vertaling van een artikel van *Stone Age Herbalist*, het origineel is *[hier](https://stoneageherbalist.substack.com/p/the-origin-of-two-spirit-and-the)* te lezen.'
+date: '2023-04-14'
 ---
 
 Reeds langere tijd valt het mij op dat een deel van de argumenten die we vandaag de dag vanuit progressieve hoek horen om de LHBT-gemeenschap te verdedigen, verschillen van de argumenten die in mijn jeugd werden aangehaald. In mijn jeugd was het Engelse “born this way” een veelgehoorde kreet. In deze kreet zou men bijna een soort excuus kunnen herkennen. Degene die deze kreet uit lijkt te willen zeggen “het is niet mijn schuld dat ik deze gevoelens heb, ik ben immers zo geboren en zou deze gevoelens, zelfs als ik dat zou willen, niet kunnen veranderen”. 

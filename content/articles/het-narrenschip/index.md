@@ -2,15 +2,15 @@
 id: 73
 title: 'Het narrenschip'
 subtitle: 'Een allegorie van wokisme avant la lettre'
-date: '2022-02-21'
-authors:
-    - Gastauteur
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - Gastauteur
+theme: 'Cultuur en Maatschappij'
 tags:
     - Woke
     - 'Theodore J. Kaczynski'
+date: '2022-02-21'
 ---
 
 Het narrenschip is een antieke _meme_ die begonnen is bij Plato. In _Politeia_, oftewel De staat, beschrijft hij een schip dat met man en muis vergaat omdat de ruziënde bemanning het er niet eens over kan worden wie de kapitein moet zijn. Zoals dat gaat met _memes_ is deze op allerlei manieren bewerkt door allerhande kunstenaars en schrijvers, van Jeroen Bosch tot Jim Morisson en van Michel Foucault tot Freek de Jonge. Ook de beruchte anarchoprimitivist Theodore Kaczynski, beter bekend als _de Unabomber_, heeft er zijn pen aan gewaagd. In dit tijdperk dat zo in het teken van de archetypische Nar staat, leek het ons gepast dit opstel integraal te herpubliceren. Met dank aan _[verbodengeschriften.nl](https://verbodengeschriften.nl)_ presenteren wij u, _het narrenschip_.

@@ -2,17 +2,17 @@
 id: 29
 title: 'Het dialectische samenspel van ruimte en tijd'
 subtitle: 'Een metafysische beschouwing van de knip op de Weesperstraat'
-date: '2023-06-13'
-authors:
-    - 'Camille Scholtz'
-themes: 'De Uylenspieghel'
 image: 552e6049-0662-45a0-a52b-185024d1ab9d.jpg
 anchor: Smart
+authors:
+    - 'Camille Scholtz'
+theme: 'De Uylenspieghel'
 tags:
     - Metafysica
     - Tijd
     - Hindoeisme
     - Boeddhisme
+date: '2023-06-13'
 draft: true
 ---
 

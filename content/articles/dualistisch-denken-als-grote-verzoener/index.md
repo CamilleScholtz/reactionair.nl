@@ -2,16 +2,16 @@
 id: 5
 title: 'Dualistisch denken als grote verzoener'
 subtitle: 'Over het licht van de Zwarte Zon'
-date: '2022-09-04'
-authors:
-    - 'Tom van Groningen'
-themes: 'Religie en Wijsbegeerte'
 image: a.jpg
 anchor: Smart
+authors:
+    - 'Tom van Groningen'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Aristoteles
     - Esoterie
     - 'J.R.R. Tolkien'
+date: '2022-09-04'
 ---
 
 In deze tijden waarin de moderne westerling zich gedwongen ziet om zijn hele wereldbeschouwing opnieuw tegen het licht te houden zien we in de marge ook bepaalde zaken opnieuw ter discussie gesteld worden waarvan de discussie voor eens en altijd gevoerd leek.

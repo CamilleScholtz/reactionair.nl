@@ -2,15 +2,15 @@
 id: 178
 title: 'Verberg uw zondes'
 subtitle: 'En red de samenleving'
-date: '2022-05-01'
-authors:
-    - 'Eco al-Hollandi'
-themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Top
+authors:
+    - 'Eco al-Hollandi'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Islam
     - Sharia
+date: '2022-05-01'
 ---
 
 Ter ere van het einde van de Islamitische vastenmaand de Ramadan zal ik in dit artikel een Islamitisch gebod onder de loep nemen waar de meeste Moslims vandaag de dag van af zijn geweken en waarvan ik betoog dat het niet enkel voor Moslims maar ook voor niet-Moslims van belang is om zich aan dit gebod te houden willen zij toewerken naar een morelere samenleving.

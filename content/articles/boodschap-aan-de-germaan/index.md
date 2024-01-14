@@ -2,12 +2,11 @@
 id: 42
 title: 'Boodschap aan de Germaan'
 subtitle: 'Van een Marokkaan'
-date: '2021-12-26'
-authors:
-    - Mootje
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - Mootje
+theme: 'Cultuur en Maatschappij'
 tags:
     - Islam
     - Plato
@@ -15,6 +14,7 @@ tags:
     - 'Conservatieve Alliantie'
     - 'Geert Wilders'
     - 'Pim Fortuyn'
+date: '2021-12-26'
 ---
 
 Het eindeloos gehuil om migratie, omvolking en weet ik allemaal niet wat, begint mij langzamerhand de keel uit te hangen. In plaats van te externaliseren moet er grondig aan introspectie gedaan worden.

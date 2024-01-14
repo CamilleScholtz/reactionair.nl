@@ -2,18 +2,18 @@
 id: 145
 title: 'De emojificatie van de communicatie'
 subtitle: 💁👌🎍😍🍉⛷️😱🍻💅🤣
-date: '2022-08-20'
-authors:
-    - 'De Melancholieke Nar'
-themes: 'Religie en Wijsbegeerte'
 image: jeremy-zero-wpxr-qsdqjm-unsplash-scaled-1.jpg
 anchor: Smart
+authors:
+    - 'De Melancholieke Nar'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - 'Friedrich Nietzsche'
     - Linguistiek
     - 'Ludwig Wittgenstein'
     - Media
     - Vooruitgang
+date: '2022-08-20'
 ---
 
 Omstreeks het jaar 1900 was zo'n 80% van de wereldbevolking analfabeet, tegenwoordig is dat minder dan 20%. Het kan hard gaan met de vooruitgang, hoewel er ook mensen zijn die hier vraagtekens bij hebben gesteld. 'Dat iedereen mag leren lezen, bederft op den duur niet alleen het schrijven, maar ook het denken.' zei Nietzsche bij monde van Zarathoestra.[^1] 

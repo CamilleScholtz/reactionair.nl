@@ -2,16 +2,16 @@
 id: 272
 title: 'Van seksuele boulimia tot like-verslaving'
 subtitle: 'De seksuele revolutie en wat daarna kwam'
-date: '2021-10-04'
-authors:
-    - 'De Melancholieke Nar'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'De Melancholieke Nar'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Incel
     - Seks
     - Verslaving
+date: '2021-10-04'
 ---
 
 Onze cultuur is geobsedeerd met seks. Begrijp me niet verkeerd, ik ben geen puritein. Het is niet zo gek dat het minnespel een prominente rol inneemt in de harten van mensen, zonder is er immers geen leven mogelijk. Geslachtsdrift is gezond en dit mag ook omkleed worden met publieke rituelen zoals het huwelijk, maar wij maken het wel heel bont. Is het normaal dat ik tijdens het boodschappen doen moet luisteren naar _oeh baby yeah baby_-muziek? Muziek die, je kan er lang of kort over doen, over seks gaat. Is het normaal dat kinderen suggestieve dansjes op TikTok doen en dat met de wereld delen? Is het normaal dat er reclames op de radio te horen zijn over seksspeeltjes en overspel? Is het normaal dat wij met enkele muisklikken toegang krijgen tot een virtueel harem dat onbeperkt is in omvang en variatie? Dat talloze vrouwen hun inkomen aanvullen met online prostitutie?

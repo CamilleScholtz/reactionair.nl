@@ -2,16 +2,16 @@
 id: 126
 title: '1984 in Nederland'
 subtitle: 'Schieten op boeren en Ongehoord Nederland de mond snoeren'
-date: '2022-07-11'
-authors:
-    - Sanura
-themes: 'Politiek en Actualiteit'
 image: 4eddcbdda3e0a47c7c8c7c419bbe3cc7_c2b648de25235549e071d703d10d1bfe.jpg
 anchor: Center
+authors:
+    - Sanura
+theme: 'Politiek en Actualiteit'
 tags:
     - JA21
     - Boeren
     - 'Ongehoord Nederland'
+date: '2022-07-11'
 ---
 
 Het is een leuke week geweest zeg! Er is op een minderjarige geschoten, traangas gebruikt, familiebedrijven worden bedreigd door de staat en nu komt er censuur bij. Nee, niet in Hongarije of Polen, maar hier in Nederland. 

@@ -2,16 +2,16 @@
 id: 176
 title: 'Nepnieuws van factcheckers'
 subtitle: 'Hoe FVD-watchers langzaam in hun eigen complottheorie zijn gaan geloven'
-date: '2022-08-12'
-authors:
-    - Dennis
-themes: 'Onderzoek en Speurwerk'
 image: fzyt-phwyaezntn.jpeg
 anchor: Center
+authors:
+    - Dennis
+theme: 'Onderzoek en Speurwerk'
 tags:
     - 'Thierry Baudet'
     - FVD
     - Complottheorie
+date: '2022-08-12'
 ---
 
 Sommige mensen op twitter hebben te veel vrije tijd. Een aantal lui hebben het namelijk hun levenswerk gemaakt om Forum voor Democratie (FVD) constant in de gaten te houden. Iedereen die ook maar spreekt met iemand van FVD zit in een groot complot en moet *exposed* worden. Deze *‘FVD-watchers’* zoals zij zichzelf soms noemen hebben echter niet door dat zij – bewust of onbewust – verstrikt zijn geraakt in hun eigen complottheorie en de hele dag door broodkruimels zoeken om hun eigen waanbeeld te bevestigen. Dit werd bevestigd toen er een artikel in De Groene Amsterdammer verscheen genaamd *‘influencers van Wodan’* met een passage over de duistere Minecraft-geschiedenis van FVD-Kamerlid Freek Jansen.[^1]

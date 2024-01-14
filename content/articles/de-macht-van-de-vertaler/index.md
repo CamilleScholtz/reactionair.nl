@@ -2,18 +2,18 @@
 id: 209
 title: 'De macht van de tolk'
 subtitle: 'Een waarschuwing'
-date: '2022-09-09'
-authors:
-    - Gastauteur
-themes: 'Cultuur en Maatschappij'
 image: native.jpg
 anchor: Smart
+note: "Dit is een vertaling van een transcriptie van een podcast door Asha Logos genaamd 'In Pursuit of Clarity, Episode #14: The Power of the Interpreter'."
+authors:
+    - Gastauteur
+theme: 'Cultuur en Maatschappij'
 tags:
     - Socrates
     - Traditie
     - 'Charles Lindberg'
     - 'Walt Whitman'
-note: "Dit is een vertaling van een transcriptie van een podcast door Asha Logos genaamd 'In Pursuit of Clarity, Episode #14: The Power of the Interpreter'."
+date: '2022-09-09'
 ---
 
 Stel je voor dat je het staatshoofd bent van een machtige natie, en dat je te maken hebt met een buitenlands staatshoofd dat een taal spreekt die je niet kent. Je neemt een tolk mee, aangezien dit je enige mogelijkheid is om te kunnen communiceren. Wanneer je tegenover de buitenlandse leider zit, kan je een gevoel krijgen van wat voor persoon het is en wat ze denken en wat ze proberen over te brengen. Maar natuurlijk gaat het grootste gedeelte van de communicatie via de woorden die worden gesproken. Op het eerste gezicht kan deze situatie heel gewoon lijken, maar als we de hele situatie overwegen realiseren we ons dat de tolk enorm veel macht heeft in deze situatie. Misschien zelfs bijna zoveel als jijzelf als staatshoofd. Zeker als de tolk direct met het buitenlandse staatshoofd spreekt in plaats van via een andere vertaler. 

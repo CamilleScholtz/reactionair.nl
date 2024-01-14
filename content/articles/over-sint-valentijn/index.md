@@ -2,17 +2,17 @@
 id: 260
 title: 'Over Sint Valentijn'
 subtitle: 'Een korte inleiding'
-date: '2023-02-14'
-authors:
-    - 'Jan de Maansnijder'
-themes: 'Religie en Wijsbegeerte'
 image: 59e4e691-e48e-4c6c-b5b8-b7dcdd2bf298.webp
 anchor: Top
+note: "Dit is een vertaling van het essay 'On St. Valentine', het origineel is [hier](https://esoterictraditionalism.wordpress.com/2022/07/16/on-st-valentine/) te lezen."
+authors:
+    - 'Jan de Maansnijder'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Christendom
     - Liefde
     - Valentijn
-note: "Dit is een vertaling van het essay 'On St. Valentine', het origineel is [hier](https://esoterictraditionalism.wordpress.com/2022/07/16/on-st-valentine/) te lezen."
+date: '2023-02-14'
 ---
 
 De naam Valentinus is samengesteld uit *valorem*, waarde, en *tendens*, vasthouden en Sint Valentijn hield vast aan heiligheid. Of de naam komt van *valens tiro*, dappere soldaat. Een dapper soldaat is iemand die nooit is gevallen, die hard toeslaat, zich dapper verdedigt en vastberaden overwint. Zo heeft Valentijn nooit gefaald door het martelaarschap te schuwen, hij sloeg hard toe door de afgoderij neer te slaan, hij verdedigde zijn geloof door het te belijden, hij overwon door te lijden.

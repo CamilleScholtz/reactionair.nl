@@ -2,17 +2,17 @@
 id: 103
 title: 'Stront aan de knikker'
 subtitle: 'Over het COC en wie onze kinderen nu eigenlijk opvoedt'
-date: '2022-04-04'
-authors:
-    - Vrederijk
-themes: 'Onderzoek en Speurwerk'
 image: thumb.webp
 anchor: Smart
+authors:
+    - Vrederijk
+theme: 'Onderzoek en Speurwerk'
 tags:
     - Liberalisme
     - Woke
     - LGBT
     - 'Pim Lammers'
+date: '2022-04-04'
 ---
 
 Onlangs kondigde het _COC_ op verschillende sociale media aan op zoek te zijn naar basisschooldocenten van groep 3 t/m 6 voor een nieuwe leerlijn over seksuele en genderdiversiteit op de basisschool.[^1] In de materialen voor docenten van deze leerlijn worden nauwkeurige instructies gegeven hoe de docenten kinderen -vanaf 6 jaar- moeten leren en vertellen over seksualiteit, seksuele diversiteit en transgenderisme. In de begeleidende brief bij het kosteloos te verkrijgen lespakket staat te lezen:

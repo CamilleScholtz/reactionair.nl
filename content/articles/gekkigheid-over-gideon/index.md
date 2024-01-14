@@ -2,17 +2,17 @@
 id: 57
 title: 'Gekkigheid over Gideon'
 subtitle: 'Wet, recht en geweld… wie weet nog wat?'
-date: '2022-07-23'
-authors:
-    - Sanura
-themes: 'Politiek en Actualiteit'
 image: 900.jpeg
 anchor: Top
+authors:
+    - Sanura
+theme: 'Politiek en Actualiteit'
 tags:
     - 'Thierry Baudet'
     - FVD
     - Boeren
     - 'Johan Rudolph Thorbecke'
+date: '2022-07-23'
 ---
 
 Terwijl Nederland (Europa en eigenlijk misschien wel de meerderheid van de wereld) verder en verder lijken af te glijden naar haat en burgeroorlog, vervagen en verdwijnen alle zekerheden op één na: niemand weet echt nog wat de spelregels zijn.

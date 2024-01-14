@@ -2,12 +2,11 @@
 id: 34
 title: 'Wat behelst de reactionaire levensbeschouwing?'
 subtitle: 'Een antwoord aan een geïnteresseerde lezer'
-date: '2023-02-06'
-authors:
-    - 'Anton Prins'
-themes: 'Cultuur en Maatschappij'
 image: 17a69d2e-6c97-4381-b7c1-47e5539c6dc6.jpg
 anchor: Bottom
+authors:
+    - 'Anton Prins'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Liberalisme
     - Traditie
@@ -15,6 +14,7 @@ tags:
     - Communisme
     - Gemeenschap
     - 'Rainer Maria Rilke'
+date: '2023-02-06'
 ---
 
 Enige tijd geleden schreef een politiek geïnteresseerde jongeman ons een e-mail met de vraag wat een reactionair wereldbeeld precies inhoudt. Aangezien we sindsdien deze vraag vaker hebben gekregen, hebben we besloten de beknopte schets die we de jongeman als antwoord hebben gestuurd in een ietwat aangepaste vorm publiek te maken.

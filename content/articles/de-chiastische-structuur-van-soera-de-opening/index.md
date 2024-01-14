@@ -2,15 +2,15 @@
 id: 50
 title: 'De chiastische structuur van soera De Opening'
 subtitle: 'Over ringcomposities'
-date: '2022-07-01'
-authors:
-    - 'Camille Scholtz'
-themes: 'Religie en Wijsbegeerte'
 image: l19224-9m4zh-9-ksharp.jpg
 anchor: Center
+authors:
+    - 'Camille Scholtz'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Islam
     - Koran
+date: '2022-07-01'
 ---
 
 {{< basmala >}}

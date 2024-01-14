@@ -2,15 +2,15 @@
 id: 141
 title: 'Verdwaald in eigen land'
 subtitle: 'De veranderende leefomgeving als sluipmoord op Nederland én wijze globalisme te verslaan'
-date: '2023-09-28'
-authors:
-    - 'Jan-Jaap Moltman'
-themes: 'Politiek en Actualiteit'
 image: 094b64f4-cdd7-4e33-8529-f619663aecb8.webp
 anchor: Smart
+authors:
+    - 'Jan-Jaap Moltman'
+theme: 'Politiek en Actualiteit'
 tags:
     - Economie
     - Globalisme
+date: '2023-09-28'
 ---
 
 Voor de zoveelste keer in zoveel maanden ligt de doorgaande weg open. Weer een grootschalige mobiliteitsklus om invloed uit te oefenen op het verkeer in en rondom de stad. Bredere fietsstroken, milieuzones, een 'maximaal' aantal parkeerplekken. Eenmaal doorgelopen verrijst het ene na het andere nieuwe, hippe hoogbouwcomplex met bijbehorend winkelcentrum en prijzig uitzicht. Hoewel men stimuleert dat beide partners tegenwoordig werken, kun je het vrijwel direct vergeten om met twee modale inkomens een plekje te bemachtigen in één van die flitsende nieuwbouwreuzen. Omdraaiend en een blik werpend op daar waar ooit water tegen de kades van 's stads eerste gegraven havens klotste en opgespoten land moet plek bieden aan tal van nieuwe mogelijkheden. Niets zal nog doen herinneren aan de plek waar talloze havenarbeiders en dagloners hard werkten voor hun boterham: het nieuwe oogappeltje van het stadsbestuur wordt vernoemd naar een buitenlandse politicus. Langzaam maar zeker zien stedelingen alles verdwijnen waar men mee opgroeide, verknocht aan raakte en op bouwde. Steeds sneller, steeds vaker en steeds ingrijpender banen de mobiliteitsplannen, ruimtelijke ordeningprojecten en prestigieuze bouwprojecten zich een weg door al dat bekend en vertrouwd was. Vergroenen, moderniseren, stadsvernieuwing. Het zijn de wapens van het kwaad voortkomend uit een globalistisch tekentafeldenken gestimuleerd door grensoverschrijdende bedrijvigheid en hun lakeien in het publieke domein dat middels het zogenaamd efficiënter, duurzamer en vernieuwend herindelen van de leefruimte een sluipmoord pleegt op het Nederland dat ons lief is. 

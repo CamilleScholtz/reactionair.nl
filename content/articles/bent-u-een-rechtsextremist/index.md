@@ -2,14 +2,14 @@
 id: 196
 title: 'Bent u een rechtsextremist?'
 subtitle: 'Doe de test!'
-date: '2022-04-29'
-authors:
-    - Gastauteur
-themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Smart
+authors:
+    - Gastauteur
+theme: 'De Uylenspieghel'
 tags:
     - Rechtsextremisme
+date: '2022-04-29'
 ---
 
 De AIVD bracht hun jaarverslag uit[^1] en gaf het volgende aan:

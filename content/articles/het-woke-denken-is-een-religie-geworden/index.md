@@ -2,15 +2,15 @@
 id: 229
 title: '“Het woke denken is een religie geworden!”'
 subtitle: 'En waarom deze vergelijking niet klopt'
-date: '2021-10-08'
-authors:
-    - 'Camille Scholtz'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Camille Scholtz'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Liberalisme
     - Woke
+date: '2021-10-08'
 ---
 
 U heeft waarschijnlijk wel een krantenkop of twee gezien met een titel als _“Het woke denken is een religie geworden!”_,[^1] _“Eerst waren er de christenen, toen de moslims en nu de woke-beweging!”_,[^2] enzovoort. Niet alleen linkse mensen en journalisten maken deze vergelijkingen en analogieën, maar ik heb het zelfs vrij rechtse mensen zien doen. Wat houdt deze vergelijking eigenlijk in? Laten we daar eens over nadenken.

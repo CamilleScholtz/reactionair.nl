@@ -2,18 +2,18 @@
 id: 84
 title: 'De Nazi-Antifa Alliantie'
 subtitle: 'De vergeten geschiedenis van conservatief verzet, de bevrijding en Neurenberg'
-date: '2022-05-05'
-authors:
-    - Sanura
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
+authors:
+    - Sanura
+theme: 'Cultuur en Maatschappij'
 tags:
     - Liberalisme
     - 'Oswald Spengler'
     - Communisme
     - 'Erik von Kuehnelt-Leddihn'
     - Nationaal-socialisme
+date: '2022-05-05'
 ---
 
 _Me-too! Racist! Fascist! Woke is te ver gegaan! Black lives matter! Eigen volk eerst! Prikdictatuur. MinistryofTruth..._ Laten we ons richten op de bevrijding 77 jaar geleden om ons helderheid te verschaffen in een tijd van hernieuwde chaos en strijd.

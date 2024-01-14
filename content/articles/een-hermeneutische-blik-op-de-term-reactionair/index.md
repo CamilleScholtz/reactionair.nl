@@ -2,12 +2,11 @@
 id: 245
 title: 'Een hermeneutische blik op de term reactionair'
 subtitle: 'Het belang van betekenis van termen en wat het ons kan leren over een reactionaire toekomst'
-date: '2021-11-11'
-authors:
-    - 'Paars van Grinsterer'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
+authors:
+    - 'Paars van Grinsterer'
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Julius Evola'
     - 'Thierry Baudet'
@@ -20,6 +19,7 @@ tags:
     - 'Erik von Kuehnelt-Leddihn'
     - 'Sid Lukkassen'
     - 'Ernst Jünger'
+date: '2021-11-11'
 ---
 
 In de loop van de 19e eeuw ontstonden er vanuit de reactionaire traditie twee Christelijke politieke stromingen in Nederland. Slechts één daarvan zou het Christelijk-historische geluid in de politiek van Nederland gaan domineren. Wat kunnen we leren van die tijd en welke valkuilen moet de reactionair van vandaag vermijden? Maar eerst; wat betekent reactionair eigenlijk?

@@ -2,15 +2,15 @@
 id: 68
 title: 'De hypocrisie van de media'
 subtitle: 'Over het Ongehoord Nederland debacle'
-date: '2022-09-16'
-authors:
-    - 'Camille Scholtz'
-themes: 'Politiek en Actualiteit'
 image: 459h-k3r2j5zkscpht4y90gdwfs.jpg
 anchor: Smart
+authors:
+    - 'Camille Scholtz'
+theme: 'Politiek en Actualiteit'
 tags:
     - 'Ongehoord Nederland'
     - Media
+date: '2022-09-16'
 draft: true
 ---
 

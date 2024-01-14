@@ -2,12 +2,12 @@
 id: 163
 title: 'Ernst Jünger over fotografie en pijn'
 subtitle: 'Uit "Über den Schmerz"'
-date: '2023-04-11'
-authors:
-    - Gastauteur
-themes: 'Religie en Wijsbegeerte'
 image: 0f3ffa6b-821a-454d-bd60-3fdb72558de5.jpg
 anchor: Top
+note: 'Dit artikel is een vertaling van sectie 14 van het opstel _Über den Schmerz_ van Ernst Jünger, dat  voor het eerst verscheen in 1934 in _Blätter und Steine_. Eerder al publiceerden we [een recensie](https://reactionair.nl/artikelen/oorlog-als-avontuur/) van zijn bekendste werk _In Stahlgewittern_.'
+authors:
+    - Gastauteur
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Oorlog
     - 'Theodor Adorno'
@@ -16,7 +16,7 @@ tags:
     - 'Ernst Jünger'
     - Film
     - 'Guy Debord'
-note: 'Dit artikel is een vertaling van sectie 14 van het opstel _Über den Schmerz_ van Ernst Jünger, dat  voor het eerst verscheen in 1934 in _Blätter und Steine_. Eerder al publiceerden we [een recensie](https://reactionair.nl/artikelen/oorlog-als-avontuur/) van zijn bekendste werk _In Stahlgewittern_.'
+date: '2023-04-11'
 ---
 
 Als men het menstype zoals het zich in onze tijd ontwikkelt in één woord zou beschrijven, zou men kunnen zeggen dat een van de meest opvallende eigenschappen ervan het bezit van een 'tweede' bewustzijn is. Dit tweede en koudere bewustzijn blijkt uit het zich steeds scherper ontwikkelende vermogen om zichzelf als object te zien. Dit vermogen moet niet verward worden met zelfreflectie door psychologie van de oude stempel. Het verschil tussen psychologie en dit tweede bewustzijn is dat psychologie de gevoelige persoon kiest als object van overweging, terwijl het tweede bewustzijn zich richt op een persoon die zich buiten de pijnzone bevindt. Toegegeven, ook hier zijn er overgangen, dus men moet inzien dat de psychologie, zoals elk proces van ontbinding, ook een ordelijke kant heeft. Dit komt vooral tot uiting in die branches waar het zich heeft ontwikkeld tot een puur meetprocédé.

@@ -2,12 +2,11 @@
 id: 136
 title: 'Zes nabeschouwingen van de verkiezingen'
 subtitle: 'Vanuit alle hoeken van het politieke spectrum'
-date: '2023-03-17'
-authors:
-    - 'De redactie'
-themes: 'Politiek en Actualiteit'
 image: 9cb19b11-90be-47d4-bcf5-b5f3fd0cb263.jpg
 anchor: Smart
+authors:
+    - 'De redactie'
+theme: 'Politiek en Actualiteit'
 tags:
     - 'René Guénon'
     - Democratie
@@ -17,6 +16,7 @@ tags:
     - FVD
     - VVD
     - Verkiezingen
+date: '2023-03-17'
 ---
 
 ### Nabeschouwing 1: Van desillusie naar hoop

@@ -2,13 +2,12 @@
 id: 105
 title: 'Hamann, de wijze uit het noorden'
 subtitle: 'Een korte introductie op de vijand van de verlichting'
-date: '2023-01-18'
-authors:
-    - 'Jan-Willem Veldhuizen'
-themes: 'Religie en Wijsbegeerte'
 image: 8488e2ac-cd20-40f7-a223-78d8899c191f.jpg
 anchor: Smart
-caption: 'Caspar David Friedrich, Klosterruine Eldena bei Greifswald (ca. 1825)'
+captions: 'Caspar David Friedrich, Klosterruine Eldena bei Greifswald (ca. 1825)'
+authors:
+    - 'Jan-Willem Veldhuizen'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Metafysica
     - 'William Blake'
@@ -17,6 +16,7 @@ tags:
     - Verlichting
     - 'Johann Georg Hamann'
     - 'Moses Mendelssohn'
+date: '2023-01-18'
 ---
 
 Wat maakt een denker reactionair? Wat definieert een reactionair? Een aantal namen zullen u vast meteen te binnen schieten. De Maistre, Chateaubriand, vurige verdedigers van het ancien régime, in mindere mate ook Burke of De Tocqueville, die gematigder waren in hun verlangen de situatie van weleer te herstellen. Marxisten zullen August Bebel of Trotsky als reactionairen bestempelen. Maar wat was Johann Georg Hamann, die aan de vooravond van de Franse Revolutie stierf? 

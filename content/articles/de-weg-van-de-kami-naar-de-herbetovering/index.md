@@ -2,12 +2,11 @@
 id: 184
 title: 'De weg van de kami naar de herbetovering'
 subtitle: 'Over het neergaande pad der onttovering'
-date: '2022-08-16'
-authors:
-    - Elvengast
-themes: 'Religie en Wijsbegeerte'
 image: kamishikimi_kumanoimasu_shrine_001.jpg
 anchor: Smart
+authors:
+    - Elvengast
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Metafysica
     - Plato
@@ -27,6 +26,7 @@ tags:
     - Atheisme
     - Japan
     - Shinto
+date: '2022-08-16'
 ---
 
 Met de onttovering van de wereld wees socioloog Max Weber in zijn werk ‘Wissenschaft als Beruf’ op de culturele rationalisering en devaluatie van religie die ontstond in het moderniserende, geseculariseerde westen.

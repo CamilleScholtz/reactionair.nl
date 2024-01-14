@@ -2,16 +2,16 @@
 id: 244
 title: '10 redenen waarom liberalisme ongelukkig maakt!'
 subtitle: 'Nummer 8 zal je versteld doen staan'
-date: '2022-02-11'
-authors:
-    - Gastauteur
-themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Smart
+authors:
+    - Gastauteur
+theme: 'De Uylenspieghel'
 tags:
     - Liberalisme
     - Consumentisme
     - 'Michel Houellebecq'
+date: '2022-02-11'
 ---
 
 1.  Liberalisme leidt tot individualisme en sociale atomisering. Dat terwijl mensen juist een diepe behoefte hebben om deel uit te maken van een gemeenschap. Een gezin, een streek, een natie.

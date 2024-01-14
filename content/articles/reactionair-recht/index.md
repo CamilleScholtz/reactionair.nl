@@ -2,16 +2,16 @@
 id: 154
 title: 'Reactionair recht'
 subtitle: 'We moeten het over Roe en rechten hebben'
-date: '2022-09-11'
+image: 3000.jpeg
+anchor: Smart
 authors:
     - Sanura
     - 'Calvin Tangelder'
-themes: 'Cultuur en Maatschappij'
-image: 3000.jpeg
-anchor: Smart
+theme: 'Cultuur en Maatschappij'
 tags:
     - Abortus
     - Montesquieu
+date: '2022-09-11'
 ---
 
 Het Westen gaat gebukt onder een extreem simplistische en bijna mythische visie op de Franse Revolutie en de Verlichting. Door de Franse Revolutie zouden we zogenaamd democratie en dingen als rechtsstaat, vrijheid en ‘gelijkheid’ hebben. Daarvoor was er onderdrukking, uitbuiting en oneerlijkheid. De duistere Middeleeuwen en heksenjachten.

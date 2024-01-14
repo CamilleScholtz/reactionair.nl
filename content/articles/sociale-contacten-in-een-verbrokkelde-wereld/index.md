@@ -2,16 +2,16 @@
 id: 202
 title: 'Sociale contacten in een verbrokkelde wereld'
 subtitle: 'De industriële revolutie en haar invloed op sociale interactie'
-date: '2021-12-07'
-authors:
-    - 'v. Deirm'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'v. Deirm'
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Michel Foucault'
     - Consumentisme
     - 'Max Weber'
+date: '2021-12-07'
 ---
 
 Onlangs zat ik met wat vrienden in een gezellig cafeetje in de Antwerpse binnenstad. Naarmate de avond vorderde, kwam aan het licht dat verschillenden onder hen gebruikmaken van de datingapp _‘Tinder’_. Dat vond ik uiterst interessant, maar tegelijkertijd ook beangstigend. Hoe is het eigenlijk zover kunnen komen dat we de liefde van ons leven trachten te ontmoeten op een digitaal ‘marktplein’? Laat ons wat dieper proberen in te gaan op de zogenaamde _“vloeibare moderniteit”_.

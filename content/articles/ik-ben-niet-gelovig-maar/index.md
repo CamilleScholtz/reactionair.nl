@@ -2,16 +2,16 @@
 id: 259
 title: 'Ik ben niet gelovig maar...'
 subtitle: 'Over de betekenis van religie'
-date: '2022-04-13'
-authors:
-    - 'Stained Glass Zealot'
-themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
+note: "Dit is een vertaling van het essay 'I'm not religious, but...', het origineel is [hier](https://glasszealot.substack.com/p/im-not-religious-but) te lezen."
+authors:
+    - 'Stained Glass Zealot'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Theologie
     - Esthetiek
-note: "Dit is een vertaling van het essay 'I'm not religious, but...', het origineel is [hier](https://glasszealot.substack.com/p/im-not-religious-but) te lezen."
+date: '2022-04-13'
 ---
 
 _Ik ben niet gelovig, maar..._ Dit type persoon heeft vaak een mening over mooie foto's, of over mooie stukken liturgische muziek. Hoe ouder ik word, hoe minder het woord geloof of religie voor mij betekent, want we nemen er allemaal deel aan.

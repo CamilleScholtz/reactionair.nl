@@ -2,17 +2,17 @@
 id: 284
 title: 'Verplicht gezond'
 subtitle: 'De onwenselijke betutteling van de burger'
-date: '2023-11-26'
-authors:
-    - 'Frits Bosch'
-themes: 'Politiek en Actualiteit'
 image: 74a5f96e-943b-410a-b3f5-c1ba21714c5a.jpg
 anchor: Smart
+captions: 'Albert Anker, De crèche (1890)'
 description: "De zorgkosten rijzen de pan uit. Dit zal de komende jaren alleen maar toenemen. De huidige machthebbers reageren hierop door steeds meer ongezonde dingen te verbieden. Maar is een dergelijke 'nanny state' wel een passende oplossing?"
-caption: 'Albert Anker, De crèche (1890)'
+authors:
+    - 'Frits Bosch'
+theme: 'Politiek en Actualiteit'
 tags:
     - 'Verenigd Koninkrijk'
     - Zorg
+date: '2023-11-26'
 ---
 
 De totale zorgkosten rijzen de pan uit. Uit studies blijkt dat de totale zorgkosten in Nederland in 1975 26 miljard euro bedroegen, in 2010 76 miljard euro en in 2022 90 miljard.[^1] Als we op dezelfde voet voortvaren, zal dit naar verwachting in 2040 stijgen tot maar liefst 174 miljard euro.[^2] Deze stijging doet begroting, staatsschuld en economie doorbuigen. Kortom, er móet een oplossing komen die niet altijd ‘prettig’ zal zijn. De oorzaken van de stijging zijn o.a. bevolkingstoename, meer ouderen, langer leven, duurdere medicijnen en apparatuur, hogere loonkosten, hogere vaste kosten, een uitdijend declaratie- en managementstelsel, getraumatiseerden uit oorlogsgebieden en meer lichamelijke zorg. Wachtlijsten lopen op en tegelijk haakt zorgpersoneel af.

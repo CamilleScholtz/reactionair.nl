@@ -2,12 +2,11 @@
 id: 40
 title: 'Sinterklaas, de Indo-Europese Hemelvader?'
 subtitle: 'Een afdaling in de goddelijke essentie van de Sinterklaastraditie'
-date: '2022-12-04'
-authors:
-    - Elvengast
-themes: 'Religie en Wijsbegeerte'
 image: wekyztlb.jpg-medium.webp
 anchor: Smart
+authors:
+    - Elvengast
+theme: 'Religie en Wijsbegeerte'
 tags:
     - 'Griekse mythologie'
     - Hindoeisme
@@ -17,6 +16,7 @@ tags:
     - Rigveda
     - Sinterklaas
     - 'Terry Pratchett'
+date: '2022-12-04'
 ---
 
 {{< quote

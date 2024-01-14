@@ -2,18 +2,18 @@
 id: 58
 title: 'Rudy Bouma, kleine psychoanalyse van een groot onbenul'
 subtitle: 'Of hoe een emoticon-connaisseur als ridder voor globohomo de vermaledijde wappies bestrijdt'
-date: '2022-02-10'
+image: thumb.webp
+anchor: Smart
 authors:
     - 'Paars van Grinsterer'
     - 'De Melancholieke Nar'
-themes: 'Onderzoek en Speurwerk'
-image: thumb.webp
-anchor: Smart
+theme: 'Onderzoek en Speurwerk'
 tags:
     - Woke
     - Corona
     - 'Rudy Bouma'
     - Wappies
+date: '2022-02-10'
 ---
 
 Als Rudy Bouma niet in een afgehuurde loods staat om ons bang te maken met verhalen over eenzame wolven en neo-nazi’s, lijkt hij vooral zijn tijd door te brengen op Twitter. Alwaar hij simpele zielen de les leest om hen “de wetenschap” bij te brengen, net zoals de zendelingen van weleer de ongewassen inboorlingen van donker Afrika het woord van God kwamen brengen.

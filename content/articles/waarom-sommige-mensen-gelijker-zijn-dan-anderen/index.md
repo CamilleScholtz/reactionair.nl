@@ -2,13 +2,12 @@
 id: 100
 title: 'Over het gelijkheidsprincipe'
 subtitle: 'Enkele reflecties op de betekenis van gelijkheid in onze samenleving '
-date: '2022-10-23'
-authors:
-    - 'Anton Prins'
-themes: 'Religie en Wijsbegeerte'
 image: petrov-vodkin-fantasy.jpg
 anchor: Smart
-caption: 'Kuzma Petrov-Vodkin, Fantasia'
+captions: 'Kuzma Petrov-Vodkin, Fantasia'
+authors:
+    - 'Anton Prins'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - 'Michel Foucault'
     - 'Arthur Schopenhauer'
@@ -17,6 +16,7 @@ tags:
     - Ressentiment
     - 'François-René de Chateaubriand'
     - Gelijkheid
+date: '2022-10-23'
 ---
 
 > *Ihr Prediger der Gleichheit, der Tyrannen-Wahnsinn der Ohnmacht schreit also aus euch nach »Gleichheit«: eure heimlichsten Tyrannen-Gelüste vermummen sich also in Tugend-Worte!*[^1]

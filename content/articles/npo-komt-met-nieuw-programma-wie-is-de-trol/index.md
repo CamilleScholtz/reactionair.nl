@@ -2,16 +2,16 @@
 id: 121
 title: 'NPO komt met nieuw programma: Wie is de trol?'
 subtitle: "Geïnspireerd op Dostojevski's novelle Aantekeningen uit het ondergrondse"
-date: '2023-05-18'
-authors:
-    - 'De Melancholieke Nar'
-themes: 'De Uylenspieghel'
 image: 13979d4c-5ccb-45b5-8c17-3706728a2dc2.jpg
 anchor: Smart
+authors:
+    - 'De Melancholieke Nar'
+theme: 'De Uylenspieghel'
 tags:
     - Wappies
     - 'Fjodor Dostojevski'
     - 'Publieke omroep'
+date: '2023-05-18'
 draft: true
 ---
 

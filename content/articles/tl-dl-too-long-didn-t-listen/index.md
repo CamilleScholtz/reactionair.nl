@@ -2,17 +2,17 @@
 id: 162
 title: 'TL;DL: too long, didn’t listen'
 subtitle: 'De TikTok-isering van het debat'
-date: '2022-03-02'
-authors:
-    - '‘Het Dorp’ Genieter'
-themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Smart
+authors:
+    - '‘Het Dorp’ Genieter'
+theme: 'De Uylenspieghel'
 tags:
     - Democratie
     - 'Thierry Baudet'
     - Rusland
     - Oekraïne
+date: '2022-03-02'
 ---
 
 >de·bat (het; o; meervoud: debatten)<br />

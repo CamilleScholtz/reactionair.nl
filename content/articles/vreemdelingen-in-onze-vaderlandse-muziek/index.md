@@ -2,15 +2,15 @@
 id: 291
 title: 'Vreemdelingen in onze vaderlandse muziek'
 subtitle: 'Een retrospectief'
-date: '2023-12-14'
-authors:
-    - Gastauteur
-themes: 'Cultuur en Maatschappij'
 image: 924a7786-b02c-47ca-9719-b49f1e3f0f64.jpg
 anchor: Smart
+authors:
+    - Gastauteur
+theme: 'Cultuur en Maatschappij'
 tags:
     - Immigratie
     - Muziek
+date: '2023-12-14'
 ---
 
 Al jaren verblijven vreemdelingen in ons land, waarbij hun (mate van) integratie en sociaal-maatschappelijke positie onderwerp van gesprek blijven in krantenkoppen en op straat. Opvallend is hoe deze discussie ook de popmuziek zo nu en dan beïnvloedt. Artiesten gebruiken hun muziek om thema's als immigratie aan te kaarten. *Drukwerk* deed dit bijvoorbeeld in de jaren '80 en ook over zure regen werd in die tijd flink gezongen. Dat was echter niet spannend en precies wat we als reactionairen zouden verwachten. Maar er is  ook daadwerkelijk interessante muziek gemaakt.

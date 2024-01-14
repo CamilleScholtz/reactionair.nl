@@ -2,17 +2,17 @@
 id: 88
 title: 'Gooise marxist Jan-Joeri (17) ontmoet arbeider'
 subtitle: '"Best een beetje spannend"'
-date: '2023-05-18'
-authors:
-    - 'De Melancholieke Nar'
-themes: 'De Uylenspieghel'
 image: e927f5ab-d188-4e09-a289-c4841ac8f3e2.webp
 anchor: Smart
-caption: 'Jan-Joeri (links, tevens in politiek opzicht) draagt een vest van Balenciaga (800€) en een arbeidersrugzak van de Zeeman (12€).'
+captions: 'Jan-Joeri (links, tevens in politiek opzicht) draagt een vest van Balenciaga (800€) en een arbeidersrugzak van de Zeeman (12€).'
+authors:
+    - 'De Melancholieke Nar'
+theme: 'De Uylenspieghel'
 tags:
     - 'Karl Marx'
     - Communisme
     - Marxisme
+date: '2023-05-18'
 draft: true
 ---
 

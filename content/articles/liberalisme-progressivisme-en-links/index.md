@@ -2,16 +2,16 @@
 id: 115
 title: 'Liberalisme, progressivisme en links'
 subtitle: 'Drie machten die samenspannen tegen de middenklasse'
-date: '2022-05-31'
-authors:
-    - Gastauteur
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
+note: "Dit is een vertaling van het essay 'Liberalism, Progressivism, Leftism', het origineel is [hier](https://www.eugyppius.com/p/liberalism-progressivism-leftism) te lezen."
+authors:
+    - Gastauteur
+theme: 'Cultuur en Maatschappij'
 tags:
     - Liberalisme
     - Woke
-note: "Dit is een vertaling van het essay 'Liberalism, Progressivism, Leftism', het origineel is [hier](https://www.eugyppius.com/p/liberalism-progressivism-leftism) te lezen."
+date: '2022-05-31'
 ---
 
 Naar mijn mening zijn er heden ten dage drie basale, onderling verbonden en elkaar versterkende ideologische systemen werkzaam in de westerse wereld. Te weten het liberalisme, het progressivisme en het 'linksisme'.

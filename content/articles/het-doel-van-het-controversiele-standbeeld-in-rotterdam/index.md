@@ -2,17 +2,17 @@
 id: 14
 title: 'Het doel van het controversiële standbeeld in Rotterdam'
 subtitle: 'Een symbool van hedendaagse kunst'
-date: '2023-06-04'
-authors:
-    - 'Camille Scholtz'
-themes: 'Politiek en Actualiteit'
 image: 4780af98-1020-483a-9ddf-f1662f2f79cd.webp
 anchor: Smart
+authors:
+    - 'Camille Scholtz'
+theme: 'Politiek en Actualiteit'
 tags:
     - Liberalisme
     - Woke
     - BBB
     - Kunst
+date: '2023-06-04'
 ---
 
 Kunst had betekenis en doel. Zelfs voor de postmodernisten die betekenis en doel ontkennen en deconstrueren, is het doel van hun kunst om "het doel" te vernietigen.

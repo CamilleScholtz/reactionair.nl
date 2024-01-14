@@ -2,13 +2,12 @@
 id: 65
 title: 'Is woke wel zo links?'
 subtitle: 'De politieke genealogie van woke'
-date: '2023-05-04'
-authors:
-    - 'Frits Bosch'
-themes: 'Cultuur en Maatschappij'
 image: 52f75df6-4bd0-4ebd-9747-d45418fa7045.webp
 anchor: Smart
-caption: 'Marcuse geeft een lezing aan studenten, Berlijn, 1967.'
+captions: 'Marcuse geeft een lezing aan studenten, Berlijn, 1967.'
+authors:
+    - 'Frits Bosch'
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Karl Marx'
     - Woke
@@ -17,6 +16,7 @@ tags:
     - 'Max Weber'
     - 'Theodor Adorno'
     - Verlichting
+date: '2023-05-04'
 ---
 
 Over de herkomst van _woke_ circuleren diverse theorieën. Het zou uit de VS overgewaaid zijn naar Europa. Of is het een Europees verschijnsel afkomstig uit Duitsland, Italië en Frankrijk? Het is geen wereldwijd verschijnsel zoals gezegd wordt. Het heeft een puur westers karakter. Vladimir Poetin en Xi Jinping achten het een belangrijke indicatie dat het westen in verval is.

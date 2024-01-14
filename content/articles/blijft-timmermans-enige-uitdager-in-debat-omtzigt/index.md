@@ -2,12 +2,12 @@
 id: 234
 title: 'Blijft Timmermans enige uitdager in debat-Omtzigt?'
 subtitle: 'Het juiste antwoord op rechts ligt bij FVD en de PVV'
-date: '2023-09-02'
-authors:
-    - 'Jan-Jaap Moltman'
-themes: 'Politiek en Actualiteit'
 image: 005da326-597f-43d3-83ce-93a71149e90d.jpg
 anchor: Smart
+authors:
+    - 'Jan-Jaap Moltman'
+theme: 'Politiek en Actualiteit'
+date: '2023-09-02'
 ---
 
 De Nederlandse politiek zwabbert en wiebelt. Joost Eerdmans werd verlaten door zijn gehele fractie, de PVV zag het al sinds de ''minder, minder, minder''-uitspraken zwevende kamerlid Lilian Helder eindelijk verkassen en de altijd betrouwbare Staatkundig Gereformeerden hebben zowaar een lijsttrekker die vrouwen in het ambt niet uitsluit. Één zekerheid lijkt wel gewaarborgd: de rechtse partijen in de Nederlandse politiek lopen elkaar het liefst in de weg. Met het BVNL van Van Haga dat genoeg stemmen afsnoept om anderen zetels te kosten, maar te weinig om er zelf een te halen en JA21 dat langzamerhand het woord gênant een nieuwe invulling geeft, zijn het oude rot Geert Wilders en zijn ooit beoogde protégé Thierry Baudet die de kastanjes uit het vuur moeten halen. Een juist antwoord van FVD en PVV zou er daarnaast wel eens voor kunnen zorgen dat Frans Timmermans straks niet de enige is die serieus in het discours rond Omtzigt mee kan doen. 

@@ -2,16 +2,16 @@
 id: 279
 title: "De valse geest van ‘Synodaliteit'"
 subtitle: 'Een gevaar voor de hele Christenheid'
-date: '2023-10-11'
-authors:
-    - 'Robbert Leusink'
-themes: 'Religie en Wijsbegeerte'
 image: 8b50bcb8-70c3-4205-8418-95876623f62f.webp
 anchor: Smart
+authors:
+    - 'Robbert Leusink'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Katholicisme
     - Christendom
     - Protestantisme
+date: '2023-10-11'
 ---
 
 Terwijl de wereld zich richt op de voortdurende strijd tussen Palestina en Israël, ontvouwt zich in de stad Rome een belangrijke gebeurtenis: de Synode over Synodaliteit. Maar wat betekent dat eigenlijk? Het woord "synode" is afgeleid van het Griekse woord "σύνοδος" (sunodos), wat 'samen op weg' betekent. Het lijkt geen toeval dat "samen op weg gaan" ook de grijsgedraaide slogan is voor deze bijeenkomst van katholieke bisschoppen en leken. In deze maand zullen de uitkomsten van deze Synode besproken worden in het dystopische auditorium van Paulus VI. Het Synodale proces begon wereldwijd in 2021, maar nam in 2019 in Duitsland al een aanloop met het zogenaamde "der Synodale Weg." De bittere vruchten van deze Duitse Synodale Weg zijn inmiddels zichtbaar geworden. Zal de Synode deze vruchten voortplanten? En wat zullen de implicaties hiervan zijn voor andere christelijke gemeenschappen?

@@ -2,17 +2,17 @@
 id: 108
 title: 'Herinneringen aan de hooitijd'
 subtitle: 'Nationalistische erotica '
-date: '2023-01-10'
-authors:
-    - 'Lucius Alba'
-themes: 'Geschiedenis en Biografie'
 image: 821f2337-a9ee-4dc3-8c33-ab9e4f49583b.webp
 anchor: Smart
+note: 'Dit is een bloemlezing van het boek ‘Herinneringen aan de hooitijd’, het boek kan [hier](https://www.bol.com/nl/nl/p/herinneringen-aan-de-hooitijd/9300000134566417/) gekocht worden.'
+authors:
+    - 'Lucius Alba'
+theme: 'Geschiedenis en Biografie'
 tags:
     - Seks
     - Fictie
     - Traditie
-note: 'Dit is een bloemlezing van het boek ‘Herinneringen aan de hooitijd’, het boek kan [hier](https://www.bol.com/nl/nl/p/herinneringen-aan-de-hooitijd/9300000134566417/) gekocht worden.'
+date: '2023-01-10'
 draft: true
 ---
 

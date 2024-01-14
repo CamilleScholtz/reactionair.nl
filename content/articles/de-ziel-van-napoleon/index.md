@@ -2,16 +2,16 @@
 id: 285
 title: 'De ziel van Napoleon'
 subtitle: 'Een gesprek met Robert Lemm'
-date: '2023-11-07'
+image: 01b4c3a7-c461-4492-9221-4c14b9aea7ff.jpg
+anchor: Smart
+captions: 'Napoleon in Fontainebleau.'
 authors:
     - 'De redactie'
     - 'Robert Lemm'
-themes: 'Cultuur en Maatschappij'
-image: 01b4c3a7-c461-4492-9221-4c14b9aea7ff.jpg
-anchor: Smart
-caption: 'Napoleon in Fontainebleau.'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Napoleon
+date: '2023-11-07'
 ---
 
 Op 22 november aanstaande gaat de nieuwe film van regisseur Ridley Scott *Napoleon* in première. Oscarwinnaar Joaquin Phoenix kruipt hiervoor in de rol van de voormalige keizer. Onder aanvoering van Napoleon vocht het Franse leger gigantische veldslagen uit in Europa, uiteindelijk zou hij weten op te rukken tot aan Moskou. In de veroverde gebieden, zoals in de Republiek der Verenigde Nederlanden, werd een omvangrijke bestuurlijke vernieuwing ingezet. Tijdens zijn leven werd Napoleon vereerd en gevreesd. In de historiografie die na zijn dood ontstond valt het werk *L’âme de Napoléon* van Léon Bloy uit 1912 op. Tijd voor een vraaggesprek met de vertaler ervan, Robert Lemm.

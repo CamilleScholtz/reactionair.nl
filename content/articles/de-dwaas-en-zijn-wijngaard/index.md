@@ -2,19 +2,19 @@
 id: 233
 title: 'De dwaas en zijn wijngaard'
 subtitle: 'Chi troppo vuole, nulla stringe'
-date: '2023-04-19'
-authors:
-    - 'Anna Strijbos'
-themes: 'Cultuur en Maatschappij'
 image: 0c8cfa09-1480-4eda-9909-7114ac8e2ab9.jpg
 anchor: Smart
+captions: 'Elin Danielson-Gambogi, Viinitarhassa (1898).'
 description: 'Een verhaal over hoe een dwaas man zich laat meeslepen door verlangen en zijn thuis in verval stort.'
-caption: 'Elin Danielson-Gambogi, Viinitarhassa (1898).'
+authors:
+    - 'Anna Strijbos'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Plato
     - Liberalisme
     - Kapitalisme
     - 'Denis Diderot'
+date: '2023-04-19'
 ---
 
 De avondzon die tot net boven de bergtoppen scheen, liet het dorpje in Toscane glinsteren. Als het uur verstreken was zou in dit dorpje, dat tussen het oud gebergte en een heuvelachtig landschap lag, het licht uitdoven als een opgebrande kaars, en een smeulende, grijze lucht achterlaten. Even was de lucht achter de bergtoppen nog karmijnrood, dieppaars, pastelblauw en boterbloemgeel op allerlei verschillende lagen en hoogten.

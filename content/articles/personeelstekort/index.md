@@ -2,14 +2,14 @@
 id: 139
 title: 'Personeelstekort?'
 subtitle: 'Over omvolking en onnodig werk'
-date: '2022-05-19'
-authors:
-    - '‘Het Dorp’ Genieter'
-themes: 'Politiek en Actualiteit'
 image: thumb.webp
 anchor: Smart
+authors:
+    - '‘Het Dorp’ Genieter'
+theme: 'Politiek en Actualiteit'
 tags:
     - Economie
+date: '2022-05-19'
 ---
 
 "Chaos door personeelstekort: 'krapte wordt alleen maar groter'", "Ketheltunnel bij Rotterdam dicht door personeelstekort, zware spits verwacht" en "NS kampt met personeelstekort: treinen vallen uit".

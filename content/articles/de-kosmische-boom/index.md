@@ -2,12 +2,12 @@
 id: 67
 title: 'De kosmische boom'
 subtitle: 'De boom als wereldas die het hogere en lagere verbindt'
-date: '2023-05-27'
-authors:
-    - 'Abe van der Veen'
-themes: 'Religie en Wijsbegeerte'
 image: cb5d148e-e349-4cad-a556-f06132e9273b.webp
 anchor: Top
+note: 'Dit artikel verscheen eerder op de site van Abe onder de titel *[De kosmische boom](https://www.abedeverteller.nl/de-kosmische-boom/)* en in het boek _[De kracht van symbolen](https://www.abedeverteller.nl/boeken/)_.'
+authors:
+    - 'Abe van der Veen'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Mythologie
     - Heidendom
@@ -15,7 +15,7 @@ tags:
     - Edda
     - 'Mircea Eliade'
     - Symbolisme
-note: 'Dit artikel verscheen eerder op de site van Abe onder de titel *[De kosmische boom](https://www.abedeverteller.nl/de-kosmische-boom/)* en in het boek _[De kracht van symbolen](https://www.abedeverteller.nl/boeken/)_.'
+date: '2023-05-27'
 ---
 
 Als auteur van twee boeken over de verhalen en de symboliek van bomen ben ik zeer onder de indruk gekomen van de grote rijkdom van betekenissen die in de loop van de geschiedenis aan bomen zijn gehecht.[^1]

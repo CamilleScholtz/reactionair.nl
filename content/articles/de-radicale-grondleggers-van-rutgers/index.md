@@ -2,14 +2,13 @@
 id: 237
 title: 'De radicale grondleggers van Rutgers'
 subtitle: 'De organisatie achter woke in het onderwijs'
-date: '2023-03-23'
-authors:
-    - Everardus
-themes: 'Onderzoek en Speurwerk'
 image: af8e24c9-90ea-4271-908b-3c4bf1fc8a20.webp
 anchor: Center
+captions: 'Jan Rutgers, de naamgever van Rutgers.'
 description: 'Rutgers is de organisatie achter de Week van de Lentekriebels. Daarin gaan ze uw kinderen seksuele voorlichting geven. Waar komt deze stichting eigenlijk vandaan? Proberen ze uw kinderen te hersenspoelen of slechts de nodige kennis bij te spijkeren? In dit artikel duiken we in de organisatie die centraal staat in de storm.'
-caption: 'Jan Rutgers, de naamgever van Rutgers.'
+authors:
+    - Everardus
+theme: 'Onderzoek en Speurwerk'
 tags:
     - 'Karl Marx'
     - Woke
@@ -19,6 +18,7 @@ tags:
     - Marxisme
     - Feminisme
     - Rutgers
+date: '2023-03-23'
 ---
 
 OPHEF! "Uw kinderen worden gehersenspoeld en geseksualiseerd!", "Nee hoor, het gaat slechts om voorlichting en preventie!" — Wat is er nou werkelijk gaande? Wat zijn de tijden toch veranderd, van de preutse jaren vijftig naar de vrije jaren zeventig naar de preutse jaren twintig. En wat is er mis met een beetje vrijheid? Met kinderen die zichzelf leren te ontdekken en ouders, voogden en leraressen die hen hierbij begeleiden? *Reactionair.nl* zoekt het uit.

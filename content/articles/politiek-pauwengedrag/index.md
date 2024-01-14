@@ -2,15 +2,15 @@
 id: 256
 title: 'Politiek pauwengedrag'
 subtitle: 'Over ‘counter-signalling’'
-date: '2022-04-20'
-authors:
-    - 'Camille Scholtz'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 description: "Wat hebben pauwen, Steve Jobs en blanke elites gemeen? Lees ons artikel om te ontdekken hoe het concept van 'counter-signalling' zich in de evolutie heeft ontwikkeld en hoe het gedrag nog steeds voorkomt bij de mens."
+authors:
+    - 'Camille Scholtz'
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Charles Darwin'
+date: '2022-04-20'
 ---
 
 Er is een interessant concept in evolutionaire theorieën dat _'counter-signalling'_ heet. Om dit concept uit te leggen neem ik het voorbeeld van de pauw. 

@@ -2,17 +2,17 @@
 id: 20
 title: 'Autonomie en psychopathie'
 subtitle: 'Hoe individuen autonomie na kunnen streven in de consumptiemaatschappij'
-date: '2021-11-18'
-authors:
-    - 'Philip van Houten'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Philip van Houten'
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'C. S. Lewis'
     - Consumentisme
     - Deugdethiek
     - Verslaving
+date: '2021-11-18'
 ---
 
 In een artikel eerder gepubliceerd op Reactionair.nl, _Autonomie en consumptie: Hoe autonomie met de consumptiemaatschappij samenhangt_,[^1] vroeg Jurbin van Hooff zich af of er een mogelijkheid is om te ontsnappen aan de consumptiemaatschappij _“waarin wij, min of meer, sinds de 20e eeuw leven”_. In dit artikel ga ik op zoek naar de mogelijkheden voor individuen om autonomie na te streven.

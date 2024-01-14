@@ -2,15 +2,15 @@
 id: 251
 title: 'De NOS en de nieuwe George Floyd'
 subtitle: 'Een analyse van berichtgeving en waarheid'
-date: '2023-01-14'
-authors:
-    - Vrederijk
-themes: 'Politiek en Actualiteit'
 image: a7600b4e-8f08-45f8-964f-a8f9bdf937ef.jpg
 anchor: Smart
-caption: 'Kelly Kline, Black Lives Matter Protest, Seattle WA (via Flickr)'
+captions: 'Kelly Kline, Black Lives Matter Protest, Seattle WA (via Flickr)'
+authors:
+    - Vrederijk
+theme: 'Politiek en Actualiteit'
 tags:
     - BLM
+date: '2023-01-14'
 ---
 
 De rellen volgend op de dood van George Floyd in 2020 hebben voor miljarden dollars aan schade berokkend[^1] en hebben aan minstens negentien mensen het leven gekost.[^2] Hoewel er nog steeds discussie[^3] is over de vraag of de dood van George Floyd inderdaad te wijten was aan het optreden van de politie of aan een overdosis fentanyl, heeft een rechtbank de betrokken agenten in ieder geval veroordeeld voor _unintentional second-degree murder, third-degree murder, and second-degree manslaughter._[^4] De voortdurende discussie over de schuld van de agenten in het overlijden van Floyd, maar vooral de extreme reacties, rellen en verloren mensenlevens, maken duidelijk dat dit onderwerp—vermeend politiegeweld tegen zwarten—een bijzondere gevoeligheid vereist van journalistiek en media.

@@ -2,16 +2,16 @@
 id: 231
 title: 'Woke is NU ECHT te ver gegaan!'
 subtitle: 'Of toch niet?'
-date: '2021-10-15'
-authors:
-    - 'Camille Scholtz'
-themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Camille Scholtz'
+theme: 'De Uylenspieghel'
 tags:
     - Liberalisme
     - Woke
     - LGBT
+date: '2021-10-15'
 ---
 
 _GeenStijl_, _TPO_, Geerten Waling, Afshin Ellian, Wierd Duk, Roderick Veelo. Ik kan nog wel even doorgaan, _boomers_ die artikel na artikel schrijven over hoe _woke_ nu _ECHT_ te ver is gegaan. Maar is dat ook echt zo? Wat is de oorsprong van _woke_? Laten we dit uitzoeken!

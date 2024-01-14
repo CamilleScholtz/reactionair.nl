@@ -2,17 +2,17 @@
 id: 36
 title: 'De mythe van de neutraliteit'
 subtitle: 'En de blindheid van de liberalen'
-date: '2021-10-06'
-authors:
-    - 'Camille Scholtz'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
 description: "De Tweede Kamer neemt besluit: scholen mogen geen identiteitsverklaring eisen van ouders. Maar is 'neutraliteit' wel haalbaar? Lees het hier."
+authors:
+    - 'Camille Scholtz'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Postmodernisme
     - Liberalisme
     - 'Karl Popper'
+date: '2021-10-06'
 ---
 
 Onlangs heeft de Tweede Kamer een voorstel aanvaard om ervoor te zorgen dat geen enkele school een verklaring van de ouders mag eisen waarin zij de identiteit van de school onderschrijven. Een groot aantal aanhangers van het liberale gedachtegoed hebben met vreugde gereageerd op deze beslissing, zich daarbij beroepend op het idee van "neutraliteit". Op het platform van Twitter werden diverse uitspraken waargenomen, waaronder:

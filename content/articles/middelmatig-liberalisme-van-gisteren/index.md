@@ -2,17 +2,17 @@
 id: 293
 title: 'Middelmatig liberalisme van gisteren'
 subtitle: 'De ideologische ‘visie’ van de PVV'
-date: '2023-12-27'
-authors:
-    - Sanura
-themes: 'Politiek en Actualiteit'
 image: d10bccfc-da9c-4dea-88e5-4a97d0215a8d.webp
 anchor: Smart
+authors:
+    - Sanura
+theme: 'Politiek en Actualiteit'
 tags:
     - Liberalisme
     - Onderwijs
     - PVV
     - Nationalisme
+date: '2023-12-27'
 ---
 
 De formatie lijkt nog wel even te gaan duren (met 1,5 maand gepraat over de grondwet), maar de schok over de enorme PVV-overwinning vermindert slechts geleidelijk. Links is zoals te verwachten viel woedend of in paniek, terwijl rechts grotendeels tevreden lijkt. Toch zijn er ook juist op rechts kritischer geluiden, specifiek vanuit de reactionaire hoek.

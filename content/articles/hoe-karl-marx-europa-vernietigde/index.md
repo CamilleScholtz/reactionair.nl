@@ -2,12 +2,12 @@
 id: 230
 title: 'Hoe Karl Marx Europa vernietigde'
 subtitle: 'Identiteitsbeleid en de opkomst van institutioneel racisme'
-date: '2023-07-06'
-authors:
-    - 'Frits Bosch'
-themes: 'Geschiedenis en Biografie'
 image: 8d648e6e-40d7-4f13-9493-26b38eb8ca09.jpg
 anchor: Top
+note: 'Dit artikel is gededuceerd uit het komende boek *Kafkaistan*, Boekscout, 2023. In dat boek wordt hierover uitgebreid verder gegaan.'
+authors:
+    - 'Frits Bosch'
+theme: 'Geschiedenis en Biografie'
 tags:
     - 'Karl Marx'
     - 'Michel Foucault'
@@ -15,7 +15,7 @@ tags:
     - Marxisme
     - Racisme
     - 'Georg Hegel'
-note: 'Dit artikel is gededuceerd uit het komende boek *Kafkaistan*, Boekscout, 2023. In dat boek wordt hierover uitgebreid verder gegaan.'
+date: '2023-07-06'
 ---
 
 Tijdens een Commissievergadering van de Tweede Kamer in juni 2023 duidt Martin Bosma, PVV, er op dat identiteitsbeleid tot institutioneel racisme leidt. Heeft hij gelijk ? En zo ja, waar komt identiteitsbeleid vandaan en waarheen leidt het? Dat ga ik in dit artikel onderzoeken. Identiteitsbeleid is te omschrijven als beleid vervaardigen op basis van groepsidentiteiten van minderheden, naar geslacht, etniciteit, religie, afkomst en seksuele geaardheid.

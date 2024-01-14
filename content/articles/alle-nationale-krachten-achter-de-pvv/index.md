@@ -2,16 +2,16 @@
 id: 288
 title: 'Alle Nationale Krachten achter de PVV'
 subtitle: 'Een beschouwing over een historische kans '
-date: '2023-11-20'
-authors:
-    - 'v. Stormberg'
-themes: 'Politiek en Actualiteit'
 image: 415f7f2d-2968-4e35-907e-f010dc75c88e.webp
 anchor: Smart
+note: 'Dit artikel maakt deel uit van een tweeluik aan opinie stukken, lees de andere visie hier: *[Een historische kans, maar waarop?](https://reactionair.nl/artikelen/een-historische-kans-maar-waarop/)*.'
+authors:
+    - 'v. Stormberg'
+theme: 'Politiek en Actualiteit'
 tags:
     - Verkiezingen
     - PVV
-note: 'Dit artikel maakt deel uit van een tweeluik aan opinie stukken, lees de andere visie hier: *[Een historische kans, maar waarop?](https://reactionair.nl/artikelen/een-historische-kans-maar-waarop/)*.'
+date: '2023-11-20'
 ---
 
 Wanneer aankomende woensdag, 22 november, de zon zijn eerste stralen over de woonwijken, weides, akkers en bossen van ons land werpt, gloort er naast een nieuwe dag ook een nieuwe hoop. We weten al langer dat 22 november de dag van de hoop is. Sinds de ineenstorting van de laatste regering Rutte, sinds de grootschalige wisseling van de wacht in het politieke leiderschap en sinds de oprichting van de partij van Pieter Omtzigt, is het bekend dat na de aankomende verkiezingen dingen anders zullen worden. Wat wij nog niet wisten, zeker van de zomer niet, was hoe anders het zou kunnen worden. Nu weten wij dat wel. Ondergronds, sluipend, vond de onvrede van de Nederlanders oude paden door het verraderlijke moeras van de politiek. Kandidaten werden gewogen en te licht bevonden, de oude ridder rustte, tot hij het moment zag toe te slaan en toen was hij daar ineens, Geert Wilders. Nu gonst het in de middenklasse. De bekeerlingen bekennen zich tot elkaar. Links en rechts komt je ter ore dat hij en zij en nog tien vrienden en kennissen van mening zijn dat het deze keer aan Wilders moet zijn om het land te leiden. De structurele onvrede, de vluchtige onvrede, de specifieke onvrede, de algemene onvrede, de onvrede uit dommigheid en de onvrede uit daadwerkelijk inzicht, we hadden gedacht dat het zou worden opgevangen door een nieuwkomer, een gematigde misschien, een gezellige vrouw van het volk, een man van de cijfertjes en de details. Nee, het wordt opgevangen, toch weer, door Wilders. Door de man die het zeventien jaar lang het scherpst verwoordde en die zijn streken nog niet verleerd is. Rond hem vormt zich nu de volksschaar van rechtschapen Nederlanders die gekend wordt door één sentiment: “Genoeg!” en door één streven: het stellen van een grens.

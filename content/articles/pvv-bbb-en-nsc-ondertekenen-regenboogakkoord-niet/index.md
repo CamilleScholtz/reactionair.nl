@@ -2,11 +2,18 @@
 id: 286
 title: 'Reactionaire W: PVV, BBB en NSC doen niet mee aan regenboogakkoord'
 subtitle: 'Beste COC Nederland, ga eens van mijn stoep af!'
-date: '2023-11-18'
-authors: {  }
-themes: 'Cultuur en Maatschappij'
 image: 68a40a37-8156-41da-8bac-a01697437764.jpg
 anchor: Smart
+authors:
+    - 'Calvin Tangelder'
+theme: 'Cultuur en Maatschappij'
+tags:
+    - LGBT
+    - BBB
+    - PVV
+    - COC
+    - NSC
+date: '2023-11-18'
 draft: true
 ---
 

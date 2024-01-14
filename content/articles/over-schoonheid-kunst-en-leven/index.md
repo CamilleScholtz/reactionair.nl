@@ -2,13 +2,12 @@
 id: 262
 title: 'Het veiligste antwoord'
 subtitle: 'Over schoonheid, kunst, en leven'
-date: '2022-11-14'
-authors:
-    - Tólma
-themes: 'Religie en Wijsbegeerte'
 image: val_van_de_opstandige_engelen-_james_ensor-_1889-_koninklijk_museum_voor_schone_kunsten_antwerpen-_2176.001-2.jpeg
 anchor: Smart
-caption: 'James Ensor, De val van de opstandige engelen'
+captions: 'James Ensor, De val van de opstandige engelen'
+authors:
+    - Tólma
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Plato
     - Socrates
@@ -16,6 +15,7 @@ tags:
     - Schoonheid
     - Plotinus
     - Xenophanes
+date: '2022-11-14'
 ---
 
 > ‘Indien iets anders schoon is behalve het schone zelf, dan is het, naar ik meen, om geen andere reden schoon dan omdat het aan het schone zelf deel heeft. Hetzelfde constateer ik van alle andere dingen. Kunt ge u met die oorzaaksverklaring verenigen?’

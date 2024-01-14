@@ -2,15 +2,15 @@
 id: 167
 title: 'Nederland, omarm Aswoensdag'
 subtitle: 'Over de functie van de 40 dagentijd en het ritueel van het askruis'
-date: '2022-03-02'
-authors:
-    - 'Paars van Grinsterer'
-themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Paars van Grinsterer'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Katholicisme
     - Christendom
+date: '2022-03-02'
 ---
 
 Dit jaar vieren we Aswoensdag gelukkig ‘normaal’.[^1] Eindelijk, geen maatregelen meer die ons eraan herinneren dat onze kerken maar al te graag meegaan in de manie van de overheid. Helaas, Aswoensdag is in Nederland relatief weinig bekend en zal voor velen dan ook ongezien voorbijgaan. Het maakt geen onderdeel uit van de populaire media cyclus bijvoorbeeld. Dit in tegenstelling tot de vastenmaand die moslims in acht nemen. Nee, aan het begin van de 40-dagen tijd is er geen wijkagent die een kruisje haalt en op de foto gaat voor het lokale sufferdje. Geen *RTL*-’nieuws’ item over knorrende magen.

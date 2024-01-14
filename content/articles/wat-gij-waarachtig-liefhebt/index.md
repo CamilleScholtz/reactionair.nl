@@ -2,18 +2,18 @@
 id: 292
 title: 'Wat gij waarachtig liefhebt '
 subtitle: 'De Schoonheid, Ezra Pound en Canto LXXXI'
-date: '2023-12-09'
-authors:
-    - 'Luca de Clippelaar'
-themes: 'Geschiedenis en Biografie'
 image: 85310396-bb15-4ec2-ad87-319fd4d1a267.jpg
 anchor: Smart
 description: 'Het leven en de lessen van Ezra Pound. Zowel zijn poëzie als politiek blijven controversieel tot op de dag van vandaag, de één vanwege het schaamteloze modernisme, de ander vanwege zijn associatie met de stroming van Mussolini.'
+authors:
+    - 'Luca de Clippelaar'
+theme: 'Geschiedenis en Biografie'
 tags:
     - Kunst
     - Fascisme
     - Schoonheid
     - 'Ezra Pound'
+date: '2023-12-09'
 ---
 
 Waar doen we het voor? Een diepe, ietwat verontrustende vraag, want weten we wel waar

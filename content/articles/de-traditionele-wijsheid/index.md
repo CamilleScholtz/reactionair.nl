@@ -2,12 +2,11 @@
 id: 242
 title: 'De Traditionele Wijsheid'
 subtitle: 'De metafysica der modernen en de traditionalistische gecontrasteerd'
-date: '2023-06-23'
-authors:
-    - Intan
-themes: 'Religie en Wijsbegeerte'
 image: 0d61e699-92eb-4c40-b19c-7b17762cb6dc.jpg
 anchor: Top
+authors:
+    - Intan
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Islam
     - Metafysica
@@ -19,6 +18,7 @@ tags:
     - 'Frithjof Schuon'
     - 'Meister Eckhart'
     - Plotinus
+date: '2023-06-23'
 ---
 
 Een bekend adagium is *‘politics is downstream from culture’*. Hiermee wordt bedoeld dat het uiteindelijk het culturele is dat het politieke bepaald en niet andersom. Wil je politieke invloed verwerven dan zul je bij het culturele moeten beginnen. Politiek is in zekere zin een epifenomeen van de cultuur. En hoewel het adagium ongetwijfeld juist is, is zij ook te beperkt. Het meest fundamentele niveau van de maatschappij is uiteindelijk niet haar cultuur maar haar metafysica. Je zou dan ook kunnen stellen *‘culture is downstream of metaphysics’*. Dit wil overigens niet zeggen dat eenieder expliciet bekend is met heersende metafysische aannames en concepten, het tegenovergestelde lijkt eerder waar te zijn, maar wel dat er onder denken en gedrag een bepaalde impliciete metafysica verondersteld is. Het zijn deze metafysische grondaannames die grenzen van het mogelijke bepalen. Op basis van deze aannames wordt een maatschappij, een cultuur, een politiek gebouwd. Zij is als ware het fundament onder de contemporaine westerse beschaving.

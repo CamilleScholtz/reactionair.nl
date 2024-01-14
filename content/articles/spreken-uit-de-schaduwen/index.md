@@ -2,17 +2,17 @@
 id: 192
 title: 'Spreken uit de schaduwen'
 subtitle: 'Een ode aan de anonimiteit'
-date: '2022-06-02'
-authors:
-    - 'Anton Prins'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Anton Prins'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Woke
     - 'Jean-Paul Sartre'
     - 'Arthur Schopenhauer'
     - 'Friedrich Schiller'
+date: '2022-06-02'
 ---
 
 Er is een web van leugens door onze samenleving gesponnen waarin wij dagelijks verstrikt raken. Oprechtheid wordt met voeten getreden en raakt vertroebeld door beleefdheden, sociale druk en persoonlijke betrokkenheid. Dit dwingt ons tot het bewaren van een zekere afstand tot elkaar, zelfs in de meest intieme relaties, en gesprekken met collegae, vrienden of zelfs met onze geliefden zijn doordrenkt van trivialiteiten en oppervlakkigheden. 

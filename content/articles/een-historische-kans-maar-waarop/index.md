@@ -2,19 +2,19 @@
 id: 287
 title: 'Een historische kans, maar waarop?'
 subtitle: 'Over strategisch stemmen en de eenheid op rechts'
-date: '2023-11-21'
-authors:
-    - Vrederijk
-themes: 'Politiek en Actualiteit'
 image: cde6db7f-e868-4cf6-8dcc-6891973be511.webp
 anchor: Smart
+note: 'Dit artikel maakt deel uit van een tweeluik aan opinie stukken, lees de andere visie hier: *[Alle Nationale Krachten achter de PVV](https://reactionair.nl/artikelen/alle-nationale-krachten-achter-de-pvv/)*.'
+authors:
+    - Vrederijk
+theme: 'Politiek en Actualiteit'
 tags:
     - FVD
     - Verkiezingen
     - PVV
     - metapolitiek
     - SGP
-note: 'Dit artikel maakt deel uit van een tweeluik aan opinie stukken, lees de andere visie hier: *[Alle Nationale Krachten achter de PVV](https://reactionair.nl/artikelen/alle-nationale-krachten-achter-de-pvv/)*.'
+date: '2023-11-21'
 ---
 
 Sinds de laatste peiling van Maurice de Hond is het een veelgehoorde opvatting in ‘rechtse’  kringen dat “alle nationale krachten achter de PVV” moeten.[^1] Deze opvatting wordt soms van een dringend stemadvies voorzien, zoals door Van Stormberg in zijn stuk *Alle Nationale Krachten achter de PVV*.[^2]  Anderen gaan verder en noemen een stem op de PVV een plicht, of een stem op een andere rechtse partij zelfs “*verraad*”; hier lijken de kampen grote overlap te vertonen met die van de cultuurstrijd op rechts.[^3]  In de volgende paragrafen wil ik op de beschouwing en het stemadvies van Van Stormberg ingaan, alsook op de sentimenten van verraad. Maar eerst wil ik gezegd hebben dat ik van mening ben dat deze verkiezingen het niet waard zijn om elkaar onder de gordel te bekampen. We willen op belangrijke thema’s immers dezelfde dingen, en zullen in de toekomst gezamenlijk —in allianties— moeten optreden als we sterk willen staan. Laten we dus geen dingen zeggen waar we spijt van krijgen. Mijn reactie op Van Stormberg en de boze sentimenten die in aanloop van de verkiezingen leven, behandel ik aan de hand van de volgende vragen: Ten eerste de vraag of 22 november wel “het moment” is: wat zou de PVV als winnaar kunnen veranderen? Vervolgens wil ik de vraag stellen of een stem op de PVV wel zo strategisch is. En dan tenslotte: is niet-strategisch stemmen inderdaad verraad?

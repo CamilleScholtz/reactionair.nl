@@ -2,18 +2,18 @@
 id: 255
 title: 'Ontluisterend luisteren'
 subtitle: 'Het muzikaal verval in de 20e eeuw'
-date: '2022-04-25'
-authors:
-    - 'Cedrik Vandooren'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Cedrik Vandooren'
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Jean-Paul Sartre'
     - 'Theodor Adorno'
     - 'Carl Jung'
     - Muziek
     - 'Roger Scruton'
+date: '2022-04-25'
 draft: true
 ---
 

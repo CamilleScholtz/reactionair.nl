@@ -2,19 +2,19 @@
 id: 269
 title: 'Over Pim Lammers'
 subtitle: 'Schrijver van kinderboeken en pedo-porno'
-date: '2023-01-27'
-authors:
-    - Vrederijk
-themes: 'Onderzoek en Speurwerk'
 image: b83c21dd-6fa7-406a-9df0-9e16db757c99.webp
 anchor: Top
+note: '*Updates!* Onze primeur heeft geleid tot kamervragen van BVNL, zie einde artikel!'
+authors:
+    - Vrederijk
+theme: 'Onderzoek en Speurwerk'
 tags:
     - Woke
     - LGBT
     - 'Mark Rutte'
     - Onderwijs
     - 'Pim Lammers'
-note: '*Updates!* Onze primeur heeft geleid tot kamervragen van BVNL, zie einde artikel!'
+date: '2023-01-27'
 ---
 
 De stichting Collectieve Propaganda van het Nederlandse Boek (CPNB) organiseert jaarlijks onder meer de Kinderboekenweek. Dit jaar mag de schrijver Pim Lammers het gedicht bij de Kinderboekenweek schrijven. De naam van Pim Lammers is eerder op *Reactionair.nl* gevallen. Wie is deze schrijver, die door de Nederlandse culturele sector wordt gepromoot voor de allerjongste kinderen?

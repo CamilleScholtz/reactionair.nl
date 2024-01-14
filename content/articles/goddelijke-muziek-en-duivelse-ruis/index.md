@@ -2,14 +2,14 @@
 id: 193
 title: 'Goddelijke muziek en duivelse ruis'
 subtitle: 'Een parabel'
-date: '2022-06-29'
-authors:
-    - 'Tom van Groningen'
-themes: 'Religie en Wijsbegeerte'
 image: cosmos-7.jpg
 anchor: Smart
+authors:
+    - 'Tom van Groningen'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Muziek
+date: '2022-06-29'
 ---
 
 Ooit, zo stel ik me voor, schiep God hemel en aarde en alle levende wezens erin met ons mensen als de kroon op de schepping.

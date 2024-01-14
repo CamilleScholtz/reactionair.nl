@@ -2,17 +2,17 @@
 id: 38
 title: 'Siciliaanse overdenkingen'
 subtitle: 'Twee korte reflecties uit een beschadigde tijd'
-date: '2023-07-20'
-authors:
-    - 'Rainer Wüssle'
-themes: 'Cultuur en Maatschappij'
 image: 82787fdf-47db-44b2-9c8e-bc353410be5e.jpg
 anchor: Smart
 description: 'Twee reflecties over immigratie en klimaatverandering vanuit het zonnige en zuidelijke Sicilië.'
+authors:
+    - 'Rainer Wüssle'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Immigratie
     - Kapitalisme
     - Klimaatverandering
+date: '2023-07-20'
 ---
 
 ### “No Woman, No Cry”

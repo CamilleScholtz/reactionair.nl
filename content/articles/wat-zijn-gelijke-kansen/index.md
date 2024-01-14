@@ -2,13 +2,12 @@
 id: 173
 title: 'Wat zijn gelijke kansen?'
 subtitle: 'En waarom vinden we die zo belangrijk?'
-date: '2022-07-10'
-authors:
-    - 'De Melancholieke Nar'
-themes: 'Religie en Wijsbegeerte'
 image: radvanfortuin.webp
 anchor: Top
-caption: 'Het rad van fortuin uit het tarot van Marseille.'
+captions: 'Het rad van fortuin uit het tarot van Marseille.'
+authors:
+    - 'De Melancholieke Nar'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Metafysica
     - 'Immanuel Kant'
@@ -17,6 +16,7 @@ tags:
     - Ressentiment
     - Gelijkheid
     - 'David Hume'
+date: '2022-07-10'
 ---
 
 Streven naar een wereld van gelijke kansen is een van de platitudes waar politici maar geen genoeg van kunnen krijgen. Wie is er nou tegen dat een gekleurd kind even veel kansen krijgt als een blank kind, een arme even zoveel als een rijke? Vaak wordt hier dan nog aan toegevoegd dat dit iets anders is dan streven naar gelijke uitkomsten. Zelfs de grootste utopistische luchtfietser begrijpt nog dat dit ondoenlijk is. Maar snijdt dat onderscheid tussen gelijke kansen en gelijke uitkomsten wel hout? En zo niet, wat blijft er dan nog over van het streven naar gelijke kansen? Laten we eens kijken of we er chocola van kunnen maken.

@@ -2,12 +2,11 @@
 id: 114
 title: 'Licht der waarheid'
 subtitle: 'Een reactie op ‘Overdenkingen over de parabel van de blinden en de olifant’'
-date: '2022-02-11'
-authors:
-    - Sanura
-themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
+authors:
+    - Sanura
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Plato
     - 'Immanuel Kant'
@@ -15,6 +14,7 @@ tags:
     - 'Karl Popper'
     - China
     - 'Erik von Kuehnelt-Leddihn'
+date: '2022-02-11'
 ---
 
 Op deze site is de auteur De Melancholieke Nar recent geleden begonnen aan een serie artikelen,[^1] waarin hij het streven naar objectiviteit tot een zinloze onderneming bestempelt. 
