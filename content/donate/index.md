@@ -5,11 +5,7 @@ titleless: true
 url: /doneren/
 ---
 
-U kunt doneren via het fondsenwervingsplatform *WhyDonate*. Zowel eenmalig als maandelijks doneren is mogelijk:
-
-{{< button href="https://whydonate.nl/fundraising/reactionair/nl/" text="Doneren via WhyDonate" >}}
-
-Volledig anoniem een donatie maken is ook mogelijk met gebruik van de cryptocurrency *Monero*:
+Volledig anoniem een donatie maken is mogelijk met gebruik van de cryptocurrency *Monero*:
 
 <code>43N66aiA9392qz7pTFAfSe1qJxrxDACDhMvcTVv5uPkWK37XSCMxaeqg2PTp8NeZMuaGcjatuQCaoCFrUdRxuQX71mBnwvr</code>
 
