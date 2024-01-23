@@ -3,7 +3,7 @@
 		<ul id="products">
 			<div class="cart-empty" style="display: none;">
 				<p>Uw winkelwagen is leeg.</p>
-				<p>Ga <a href="/winkel">terug naar de winkel</a>.</p>
+				<p>Ga <a href="/winkel/producten/boeken">terug naar de winkel</a>.</p>
 			</div>
 
 			{{ range $product := (where (where .Site.RegularPages "Section" "shop") "Params.out_of_stock" "!=" true).ByDate.Reverse }}

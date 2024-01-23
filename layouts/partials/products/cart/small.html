@@ -1,7 +1,7 @@
 {{ if gt (len .variants) 1 }}
 	<div class="cart-form">
 {{ else }}
-	<div class="cart-form" data-product="{{ (index .variants 0).id }}" data-price="{{ (index .variants 0).price }}">
+	<div class="cart-form" data-variant="{{ (index .variants 0).id }}" data-price="{{ (index .variants 0).price }}">
 {{ end }}
 	<div class="price">
 		{{ if not .out_of_stock }}

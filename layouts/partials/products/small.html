@@ -1,4 +1,4 @@
-<li class="product" {{ if .checkout }}data-product="{{ .variant.id }}" data-price="{{ .variant.price }}" style="display: none;"{{ end }}>
+<li class="product" {{ if .checkout }}data-variant="{{ .variant.id }}" data-price="{{ .variant.price }}" style="display: none;"{{ end }}>
 	{{ $section := .product.CurrentSection.File.ContentBaseName }}
 	{{ if or (eq $section "shop") (eq .Kind "term") }}
 		{{ $section = "boeken" }}
