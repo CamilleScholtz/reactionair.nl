@@ -24,7 +24,7 @@ export const overview = (main, cart, shipping) => {
 	}
 
 	page.querySelectorAll(".product").forEach((product) => {
-		if (cart.find(i => i.product === product.dataset.product) === undefined) {
+		if (cart.find(i => i.variant === product.dataset.variant) === undefined) {
 			product.style.display = "none";
 		} else {
 			product.style.display = "grid";
@@ -34,8 +34,8 @@ export const overview = (main, cart, shipping) => {
 	const formatter = value => currency(value, { symbol: "€ ", separator: "." });
 
 	let total = formatter(0);
-	cart.forEach((product) => {
-		total = total.add(formatter(product.price).multiply(product.quantity));
+	cart.forEach((variant) => {
+		total = total.add(formatter(variant.price).multiply(variant.quantity));
 	});
 
 	page.querySelector(".total").innerHTML               = total.format();
@@ -45,27 +45,27 @@ export const overview = (main, cart, shipping) => {
 }
 
 export const edit = (main, header) => {
-	const getProduct = (cart, dataset) => {
-		return cart?.find(i => i.product === dataset.product) ?? {
-			product:  dataset.product,
+	const getVariant = (cart, dataset) => {
+		return cart?.find(i => i.variant === dataset.variant) ?? {
+			variant:  dataset.variant,
 			quantity: 0,
 			price:    currency(dataset.price),
 		};
 	}
 
-	const quantityChanged = (form, cart, product, shipping = true) => {
+	const quantityChanged = (form, cart, variant, shipping = true) => {
 		const input  = form.querySelector(".added-to-cart");
 		const button = form.querySelector(".add-to-cart");
 
-		cart = cart.filter(i => i.product !== product.product);
+		cart = cart.filter(i => i.variant !== variant.variant);
 
-		if (product.quantity > 0) {
-			cart.push(product);
+		if (variant.quantity > 0) {
+			cart.push(variant);
 
 			input.style.display  = "inline-grid";
 			button.style.display = "none";
 
-			input.querySelector(".amount-in-cart").value = product.quantity;
+			input.querySelector(".amount-in-cart").value = variant.quantity;
 		} else {
 			input.style.display  = "none";
 			button.style.display = "block";
@@ -99,7 +99,7 @@ export const edit = (main, header) => {
 		const forms = main.querySelectorAll("#products .cart-form.hidden");
 
 		forms.forEach((form) => {
-			if (cart.find(i => i.product === form.dataset.product) !== undefined) {
+			if (cart.find(i => i.variant === form.dataset.variant) !== undefined) {
 				form.style.display = "block";
 			}
 		});
@@ -107,16 +107,16 @@ export const edit = (main, header) => {
 
 	main.querySelectorAll(".cart-form").forEach((form) => {
 		const cart = JSON.parse(localStorage.getItem("cart")) ?? [];
-		quantityChanged(form, cart, getProduct(cart, form.dataset), false);
+		quantityChanged(form, cart, getVariant(cart, form.dataset), false);
 
 		form.querySelectorAll(".add-to-cart").forEach((button) => {
 			button.addEventListener("click", (ev) => {
 				const cart = JSON.parse(localStorage.getItem("cart")) ?? [];
 
-				const product = getProduct(cart, form.dataset);
-				product.quantity++;
+				const variant = getVariant(cart, form.dataset);
+				variant.quantity++;
 
-				quantityChanged(form, cart, product);
+				quantityChanged(form, cart, variant);
 			});
 		});
 
@@ -124,10 +124,10 @@ export const edit = (main, header) => {
 			button.addEventListener("click", (ev) => {
 				const cart = JSON.parse(localStorage.getItem("cart")) ?? [];
 
-				const product    = getProduct(cart, form.dataset);
-				product.quantity = product.quantity > 0 ? product.quantity - 1 : 0;
+				const variant    = getVariant(cart, form.dataset);
+				variant.quantity = variant.quantity > 0 ? variant.quantity - 1 : 0;
 
-				quantityChanged(form, cart, product);
+				quantityChanged(form, cart, variant);
 			});
 		});
 
@@ -135,10 +135,10 @@ export const edit = (main, header) => {
 			input.addEventListener("change", (ev) => {
 				const cart = JSON.parse(localStorage.getItem("cart")) ?? [];
 
-				const product    = getProduct(cart, form.dataset);
-				product.quantity = parseInt(input.value);
+				const variant    = getVariant(cart, form.dataset);
+				variant.quantity = parseInt(input.value);
 
-				quantityChanged(form, cart, product);
+				quantityChanged(form, cart, variant);
 			});
 		});
 	});
