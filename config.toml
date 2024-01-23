@@ -14,23 +14,23 @@ cleanDestinationDir = true
 ignoreErrors = ["error-remote-getjson"]
 
 [params]
-	rev    = "963"
+	rev    = "964"
 	api    = "https://admin.reactionair.nl"
 	advert = "Reactionary Modernism"
 
 [module]
 	[[module.mounts]]
-	    source = 'content'
-	    target = 'content'
+		source = 'content'
+		target = 'content'
 	[[module.mounts]]
-	    source = 'static'
-	    target = 'static'
+		source = 'static'
+		target = 'static'
 	[[module.mounts]]
-	    source = 'layouts'
-	    target = 'layouts'
+		source = 'layouts'
+		target = 'layouts'
 	[[module.mounts]]
-	    source = 'data'
-	    target = 'data'
+		source = 'data'
+		target = 'data'
 	[[module.mounts]]
 	    source = 'assets'
 	    target = 'assets'
