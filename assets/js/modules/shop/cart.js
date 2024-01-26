@@ -106,6 +106,10 @@ export const edit = (main, header) => {
 	}
 
 	main.querySelectorAll(".cart-form").forEach((form) => {
+		if (form.querySelector(".unavailable") !== null) {
+			return;
+		}
+
 		const cart = JSON.parse(localStorage.getItem("cart")) ?? [];
 		quantityChanged(form, cart, getVariant(cart, form.dataset), false);
 
@@ -152,4 +156,45 @@ export const thanks = (header, main) => {
 
 	localStorage.setItem("cart", JSON.stringify([]));
 	total(header, []);
+}
+
+export const unavailable = (main) => {
+	const form = main.querySelector(".unavailable-form");
+	if (form === null) {
+		return;
+	}
+
+	form.addEventListener("submit", (ev) => {
+		ev.preventDefault();
+
+		const data = new FormData(ev.target);
+
+		const question = form.querySelector("#question");
+		if (question.style.display == "none") {
+			form.querySelector("#email").style.display = "none";
+			question.style.display                     = "block";
+
+			return;
+		} else {
+			if (data.get("question") != "8") {
+				return;
+			}
+		}
+
+		fetch(params.api+"/api/shop/reminder", {
+			method: "POST",
+			headers: {
+				"Content-Type": "application/json"
+			},
+			body: JSON.stringify({
+				"variant": form.dataset.variant,
+				"email": data.get("email"),
+				"question": data.get("question"),
+			})
+		});
+
+		ev.target.reset();
+
+		form.innerHTML = "<p>Wanneer dit product weer op voorraad is, ontvangt u een e-mail.</p>";
+	});
 }

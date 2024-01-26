@@ -13,27 +13,38 @@
 				{{ end }}
 			</div>
 
-			<button class="button add-to-cart {{ if .out_of_stock }}disabled{{ end }}" {{ if .out_of_stock }}disabled{{ end }}>
-				Toevoegen aan winkelwagen
-			</button>
-
-			<div class="added-to-cart" style="display: none;">
-				<button class="button remove-from-cart {{ if .out_of_stock }}disabled{{ end }}" {{ if .out_of_stock }}disabled{{ end }}>
-					-
+			{{ if not .out_of_stock }}
+				<button class="button add-to-cart">
+					Toevoegen aan winkelwagen
 				</button>
 
-				<input class="amount-in-cart {{ if .out_of_stock }}disabled{{ end }}" type="number" value="1" min="1" max="10" {{ if .out_of_stock }}disabled{{ end }}>
+				<div class="added-to-cart" style="display: none;">
+					<button class="button remove-from-cart">
+						-
+					</button>
 
-				<button class="button add-to-cart {{ if .out_of_stock }}disabled{{ end }}" {{ if .out_of_stock }}disabled{{ end }}>
-					+
-				</button>
+					<input class="amount-in-cart" type="number" value="1" min="1" max="10">
 
-				{{ if $.checkout }}
-					<a href="/winkel/wagen" class="button checkout">
-						Afrekenen
-					</a>
-				{{ end }}
-			</div>
+					<button class="button add-to-cart">
+						+
+					</button>
+
+					{{ if $.checkout }}
+						<a href="/winkel/wagen" class="button checkout">
+							Afrekenen
+						</a>
+					{{ end }}
+				</div>
+			{{ else }}
+				<form class="unavailable-form" data-variant="{{ .id }}">
+					<input type="email" id="email" name="email" required placeholder="Uw e-mailadres" autocomplete="email"/>
+					<input type="text" id="question" style="display: none;" name="question" placeholder="Wat is 4 + 4?"/>
+
+					<button class="button">
+						Houd mij op de hoogte
+					</button>
+				</form>
+			{{ end }}
 		</div>
 	{{ end }}
 </div>
