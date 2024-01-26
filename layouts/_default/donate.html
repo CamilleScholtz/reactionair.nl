@@ -1,0 +1,54 @@
+{{ define "main" }}
+	<article class="donate-page">
+		<section class="content">
+			<section>
+				<p>Wat begon als project van een gemotiveerde eenling groeit nu uit tot een volwaardig intellectueel platform van formaat. Het pad bewandeld door <i>Reactionair.nl</i> is nog maar kort, maar we mogen zo onderhand al wel spreken van een mooie tocht, die nog lang niet ten einde komt.</p>
+
+				<p>Deze tocht is echter niet zonder kosten. De website is gratis, maar de domeinnaam en hosting kosten geld. Daarnaast is het een tijdrovende bezigheid om de website te onderhouden en te vullen met nieuwe artikelen. Het is een bezigheid die we met veel plezier doe, maar het is niet gratis. Om deze reden vragen wij om uw steun. U kunt ons steunen door een donatie te doen via onderstaande methodes.</p>
+			</section>
+
+			<hr>
+
+			<section>
+				<h3>iDEAL & meer</h3>
+
+				<form class="form" action="{{ .Site.Params.api }}/api/donate/payment">
+					<label>Naam</label>
+					<div class="form-group name">
+						<input type="text" name="first-name" required placeholder="Uw naam" autocomplete="given-name"/>
+						<input type="text" name="preposition" placeholder="Tussenv." autocomplete="additional-name"/>
+						<input type="text" name="last-name" required placeholder="Uw achternaam" autocomplete="family-name"/>
+					</div>
+
+					<label>Contactgegevens</label>
+					<input type="email" name="email" required placeholder="Uw e-mailadres" autocomplete="email"/>
+
+					<div></div>
+
+					<label>Donatie</label>
+					<span class="prefix">€</span>
+					<input type="number" name="amount" required placeholder="Uw donatiebedrag" min="1.00" step="0.01"/>
+
+					<label for="newsletter-checkbox">
+						<input type="checkbox" name="newsletter" id="newsletter-checkbox" checked/>
+						<span>Ik wil de <i>Reactionair.nl</i> nieuwsbrief ontvangen</span>
+					</label>
+
+					<button type="submit" class="button">
+						Naar betaalscherm
+					</button>
+				</form>
+			</section>
+
+			<hr>
+
+			<section>
+				<h3>Monero</h3>
+
+				<p>Volledig anoniem een donatie maken is ook mogelijk met gebruik van de cryptocurrency <i>Monero</i>. Onze <i>Monero wallet</i> is:</p>
+
+				<code>43N66aiA9392qz7pTFAfSe1qJxrxDACDhMvcTVv5uPkWK37XSCMxaeqg2PTp8NeZMuaGcjatuQCaoCFrUdRxuQX71mBnwvr</code>
+			</section>
+		</section>
+	</article>
+{{ end }}

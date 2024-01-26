@@ -1,6 +1,7 @@
 import { article } from "./modules/article.js";
 import { book } from "./modules/books.js";
 import { comments } from "./modules/comments.js";
+import { donate } from "./modules/donate.js";
 import { menu, scroll, search, time } from "./modules/header.js";
 import { quote, slider } from "./modules/home.js";
 import { newsletter } from "./modules/newsletter.js";
@@ -26,4 +27,5 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	comments(main);
 	newsletter(main);
 	book(main, mobile)
+	donate(main);
 });

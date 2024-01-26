@@ -1,6 +1,6 @@
 {{ define "main" }}
 	<div id="taxonomy" class="checkout-page">
-		<form action="{{ .Site.Params.api }}/api/shop/checkout">
+		<form class="form" action="{{ .Site.Params.api }}/api/shop/checkout">
 			<label>Naam</label>
 			<div class="form-group name">
 				<input type="text" name="first-name" required placeholder="Uw naam" autocomplete="given-name"/>
@@ -21,9 +21,9 @@
 			<input type="email" name="email" required placeholder="Uw e-mailadres" autocomplete="email"/>
 			<input type="tel" name="phone" placeholder="Uw telefoonnummer" autocomplete="tel"/>
 
-			<label for="newsletter">
-				<input type="checkbox" name="newsletter" id="newsletter" checked/>
-				Ik wil de <i>Reactionair.nl</i> nieuwsbrief ontvangen
+			<label for="newsletter-checkbox">
+				<input type="checkbox" name="newsletter" id="newsletter-checkbox" checked/>
+				<span>Ik wil de <i>Reactionair.nl</i> nieuwsbrief ontvangen</span>
 			</label>
 
 			<button type="submit" class="button">
