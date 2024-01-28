@@ -2,15 +2,16 @@
 id: 280
 title: 'De non-binaire jongeling van Rutte'
 subtitle: 'Over ons internationale LHBTI-beleid'
-date: '2023-10-24'
-authors:
-    - Gastauteur
-themes: 'Onderzoek en Speurwerk'
 image: a8397ba8-053f-4dce-9977-fe608912d966.jpg
 anchor: Smart
+authors:
+    - Gastauteur
+theme: 'Onderzoek en Speurwerk'
 tags:
     - LGBT
     - 'Mark Rutte'
+date: '2023-10-24'
+draft: true
 ---
 
 In de majestueuze zalen van de wereldpolitiek, waar doorgewinterde politieke zwaargewichten en imposante staatsmannen de koers van de wereld bepalen, zien wij keer op keer een jong jochie om Rutte heen hangen. Op elke cruciale top, van de G20-bijeenkomsten tot ontmoetingen met leiders als Zelensky en Netanyahu, is dit opvallend figuur steeds weer gespot.

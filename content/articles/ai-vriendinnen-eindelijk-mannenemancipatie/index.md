@@ -2,13 +2,13 @@
 id: 25
 title: "AI-'vriendinnen': eindelijk mannenemancipatie?"
 subtitle: 'Robotpartners zullen mannen niet bevrijden van verlangen'
-date: '2023-02-11'
-authors:
-    - 'De redactie'
-themes: 'Cultuur en Maatschappij'
 image: 236ddddd-5ef2-46a6-bb9a-6fbb82fd806a.webp
 anchor: Smart
-caption: 'Het oordeel van Paris, Peter Paul Rubens, circa 1636'
+captions: 'Het oordeel van Paris, Peter Paul Rubens, circa 1636'
+authors:
+    - 'De redactie'
+theme: 'Cultuur en Maatschappij'
+date: '2023-02-11'
 draft: true
 ---
 

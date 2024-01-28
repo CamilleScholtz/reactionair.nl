@@ -1,7 +1,7 @@
 export const total = (header, cart) => {
 	let total = 0;
-	cart?.forEach((product) => {
-		total += product.quantity;
+	cart?.forEach((variant) => {
+		total += variant.quantity;
 	});
 
 	const element = header.querySelector("#total");

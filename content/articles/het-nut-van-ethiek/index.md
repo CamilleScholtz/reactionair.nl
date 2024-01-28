@@ -2,18 +2,18 @@
 id: 211
 title: 'Het nut van ethiek'
 subtitle: 'Of waarom Hofmans Boos een neoliberaal programma is'
-date: '2023-02-06'
-authors:
-    - 'De Melancholieke Nar'
-themes: 'Cultuur en Maatschappij'
 image: 4e44f979-99d8-4324-8a0b-8f0943418a97.jpg
 anchor: Smart
+authors:
+    - 'De Melancholieke Nar'
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Karl Marx'
     - 'Immanuel Kant'
     - 'Sigmund Freud'
     - 'Georg Hegel'
     - 'Georges Bataille'
+date: '2023-02-06'
 draft: true
 ---
 

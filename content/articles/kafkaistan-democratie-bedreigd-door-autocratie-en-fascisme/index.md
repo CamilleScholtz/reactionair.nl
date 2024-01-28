@@ -2,19 +2,19 @@
 id: 200
 title: 'Kafkaistan, democratie bedreigd door autocratie en fascisme'
 subtitle: 'Een inleiding op de gevaren voor de democratie'
-date: '2023-09-15'
-authors:
-    - 'Frits Bosch'
-themes: 'Politiek en Actualiteit'
 image: 60a2e30d-9ead-4616-946d-5e2faaaff8d3.jpg
 anchor: Top
+captions: 'Tekening van  Kafka'
 description: 'In zijn nieuwe boek "Kafkaistan, democratie bedreigd door autocratie en fascisme" onderzoekt econoom en socioloog Frits Bosch de oorsprong en gevolgen van de toenemende toxische polarisatie in westerse landen. Hij biedt inzicht in de problematiek en mogelijke oplossingen voor de huidige crisis van vertrouwen in de politiek en democratie. Een relevante analyse voor kiezers in deze verkiezingstijd.'
-caption: 'Tekening van  Kafka'
+note: "Dit artikel is een inleiding op het boek 'Kafkaistan, democratie bedreigd door autocratie en fascisme' van Frits Bosch. Is uw interesse door dit artikel gewekt? Bestel het boek dan *[hier](https://www.boekscout.nl/shop2/boek/9789464688764)*."
+authors:
+    - 'Frits Bosch'
+theme: 'Politiek en Actualiteit'
 tags:
     - Democratie
     - 'Franz Kafka'
     - Verkiezingen
-note: "Dit artikel is een inleiding op het boek 'Kafkaistan, democratie bedreigd door autocratie en fascisme' van Frits Bosch. Is uw interesse door dit artikel gewekt? Bestel het boek dan *[hier](https://www.boekscout.nl/shop2/boek/9789464688764)*."
+date: '2023-09-15'
 ---
 
 Terwijl de verkiezingen weer voor de deur staan, heerst er een vrij breed gevoel van wantrouwen onder de kiezers. In veel westerse landen geven burgers blijk weinig vertrouwen te hebben in hun politici en de democratie en de verdeeldheid tussen diverse bevolkingsgroepen is groot. Wat is de diepere achtergrond hiervan? Econoom en socioloog Frits Bosch stelt en beantwoordt in zijn nieuwe boek **Kafkaistan, democratie bedreigd door autocratie en fascisme** vier fundamentele vragen: 1. Wat is de oorsprong van onze toxische polarisatie binnen de westerse maatschappij? 2. Wat zijn de verschijnselen hiervan? 3. Wat is de uitwerking hiervan? 4. Wat vormt een uitweg? 

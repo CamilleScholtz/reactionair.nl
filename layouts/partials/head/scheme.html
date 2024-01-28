@@ -8,13 +8,16 @@
 			{{ if isset .Params "anchor" }}
 				{{ $anchor = .Params.anchor }}
 			{{ end }}
+
+			{{ $overlay := resources.Get "images/logo.webp" }}
+			{{ $filter  := images.Overlay $overlay 60 0 }}
 		
 			"@type": "Article",
 			"headline": "{{ .Params.title | plainify }}",
 			"alternativeHeadline": "{{ .Params.subtitle | plainify }}",
 			"datePublished": "{{ .Params.date.Format "2006-01-02" }}",
 			"image": [
-				"{{ ($image.Fill (printf "1200x628 jpeg %s" $anchor)).Permalink }}"
+				"{{ (($image.Fill (printf "1200x628 webp %s" $anchor)).Filter $filter).Permalink }}"
 			],
 			"author": [
 				{{ range $i, $author := .Params.authors }}
@@ -41,7 +44,7 @@
 			"@type": ["Product", "Book"],
 			"name": "{{ .Params.title | safeHTML }}{{ if isset .Params "subtitle" }}: {{ .Params.subtitle | safeHTML }}{{ end }}",
 			"datePublished": "{{ .Params.date.Format "2006-01-02" }}",
-			"image": "{{ ($image.Fit "1320x880 jpeg").Permalink }}",
+			"image": "{{ ($image.Fit "1320x880 webp").Permalink }}",
 			"bookFormat": "http://schema.org/Paperback",
 			"inLanguage": "{{ .Params.languages }}",
 			"isbn": "{{ replace (index .Params.variants 0).isbn "-" "" }}",
@@ -60,7 +63,7 @@
 			],
 			"offers": {
                 "@type": "Offer",
-                "availability": "{{ if (index .Params.variants 0).out_of_stock }}https://schema.org/OutOfStock{{ else }}https://schema.org/InStock{{ end }}",
+                "availability": "{{ if .Params.out_of_stock }}https://schema.org/OutOfStock{{ else }}https://schema.org/InStock{{ end }}",
                 "price": "{{ (index .Params.variants 0).price }}",
                 "priceCurrency": "EUR",
                 "itemCondition": "https://schema.org/NewCondition"

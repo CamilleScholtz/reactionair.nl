@@ -2,17 +2,17 @@
 id: 143
 title: Hybridisering
 subtitle: 'De Futuro-Fundamentalistische Revolutie, deel 4'
-date: '2022-01-10'
-authors:
-    - 'Alexander Wolfheze'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Alexander Wolfheze'
+theme: 'Cultuur en Maatschappij'
 tags:
     - BLM
     - Immigratie
     - Globalisme
     - Evolutie
+date: '2022-01-10'
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/domesticering/) het vorige deel._

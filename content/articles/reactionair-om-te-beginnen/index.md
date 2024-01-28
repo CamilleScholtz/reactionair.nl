@@ -2,12 +2,11 @@
 id: 225
 title: 'Reactionair, om te beginnen'
 subtitle: 'Fragment uit een boek in voorbereiding'
-date: '2021-11-29'
-authors:
-    - 'Robert Lemm'
-themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Center
+authors:
+    - 'Robert Lemm'
+theme: 'Geschiedenis en Biografie'
 tags:
     - Liberalisme
     - 'Immanuel Kant'
@@ -17,6 +16,7 @@ tags:
     - Christendom
     - 'Thomas van Aquino'
     - 'Nicolás Gómez Dávila'
+date: '2021-11-29'
 ---
 
 >_“De authentieke reactionair kijkt niet naar de toekomst, zoals de liberaal. Hij kijkt evenmin naar het verleden, zoals de conservatief. Hij kijkt niet vooruit, en niet achterom. Hij kijkt naar boven, naar de sterren en de hemel, naar de sporen die de Eeuwigheid heeft achtergelaten in de Tijd.”_

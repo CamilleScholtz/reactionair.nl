@@ -2,19 +2,19 @@
 id: 227
 title: 'O fortuna, imperatrix mundi'
 subtitle: 'Over de relativiteit van geluk'
-date: '2023-03-30'
-authors:
-    - 'Stan Hettema'
-themes: 'Cultuur en Maatschappij'
 image: 755d2e86-27ce-43d8-a6ec-d1f12925cbb3.jpg
 anchor: Smart
+captions: 'David Scott, The pursuit of fortune (1847).'
 description: 'Dit artikel duikt in de subjectieve aard van het geluk. Hier trachten wij aan de hand van sterk verschillende persoonlijke situaties de vinger te leggen op waarom de maatstaf van geluk niet universeel kan worden toegepast.'
-caption: 'David Scott, The pursuit of fortune (1847).'
+authors:
+    - 'Stan Hettema'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Gelijkheid
     - 'Abraham Maslow'
     - 'Geert Hofstede'
     - Geluk
+date: '2023-03-30'
 ---
 
 De definitie van geluk staat gelijk aan de bevrediging van menselijke behoeften, zoals beschreven in de theorie van A. Maslow.[^1] Anders dan bij de behoeften hiërarchie van Maslow, wordt er geen chronologische volgordelijkheid gemaakt in behoeften. Factoren op macro- en microniveau beïnvloeden namelijk de accentuatie op een behoefte en zijn om die reden bepalend in de vaststelling van de definitie van geluk. Met andere woorden: persoonlijke situaties en kenmerken tussen samenlevingen verschillen van elkaar en maken dat behoeften tussen individuen kunnen verschillen. Daarnaast speelt sociale vergelijking een rol daar waar het gaat om de nastreving van een behoefte. Men meet het geluksniveau af op anderen waardoor geluk zich altijd afspeelt binnen sociale kringen. De kern is dus dat het concept ‘geluk’ iets subjectiefs is binnen de kaders van de behoeften piramide en afgemeten wordt in relatie tot anderen. In volgordelijkheid licht ik deze conclusie nader toe.

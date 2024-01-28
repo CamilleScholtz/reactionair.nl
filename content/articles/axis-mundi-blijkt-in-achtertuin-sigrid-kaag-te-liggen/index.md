@@ -2,17 +2,17 @@
 id: 33
 title: 'Axis mundi blijkt in achtertuin Sigrid Kaag te liggen'
 subtitle: 'Sympathieke politica had zelf ook geen idee'
-date: '2023-06-01'
-authors:
-    - 'De Melancholieke Nar'
-themes: 'De Uylenspieghel'
 image: 54c87e9f-44f3-4b28-92f2-e1d5a8837d16.jpg
 anchor: Smart
+authors:
+    - 'De Melancholieke Nar'
+theme: 'De Uylenspieghel'
 tags:
     - Esoterie
     - D66
     - 'Sigrid Kaag'
     - 'Wouter Hanegraaff'
+date: '2023-06-01'
 ---
 
 **´s-Gravenhage, 1 juni 2023** - Tijdens het tuinieren in haar riante achtertuin kreeg D66-politica en minister van financiën Sigrid Kaag, alom bemind vanwege haar innemende en warmbloedige persoonlijkheid, de verrassing van haar leven. Ze ontdekte dat de _axis mundi_, de as waar de hele wereld zich omheen wentelt, het middelpunt der aarde (we schreven er eerder al een artikel over[^1]), gewoon in haar tuin stond.

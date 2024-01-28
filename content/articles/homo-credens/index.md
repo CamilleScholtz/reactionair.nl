@@ -2,12 +2,11 @@
 id: 130
 title: 'Homo credens'
 subtitle: 'Over de wetenschap als volksgeloof'
-date: '2022-05-16'
-authors:
-    - 'Anton Prins'
-themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Anton Prins'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Metafysica
     - Socrates
@@ -15,6 +14,7 @@ tags:
     - 'Arthur Schopenhauer'
     - Wetenschap
     - 'Friedrich Schiller'
+date: '2022-05-16'
 ---
 
 {{< quote

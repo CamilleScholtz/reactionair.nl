@@ -2,16 +2,17 @@
 id: 74
 title: 'Mengsel van bloed en resten slachtvlees uitgestort over jongeren FVD'
 subtitle: 'Media en politici blijven stil'
-date: '2023-06-29'
-authors:
-    - 'Camille Scholtz'
-themes: 'Politiek en Actualiteit'
 image: f0988858-c305-46a2-bab2-7e7b767a51db.jpg
 anchor: Smart
+authors:
+    - 'Camille Scholtz'
+theme: 'Politiek en Actualiteit'
 tags:
     - 'Pim Lammers'
     - FVD
     - Media
+date: '2023-06-29'
+draft: true
 ---
 
 We weten inmiddels wel dat de dingen oneerlijk zijn. Één bepaalde wereldvisie domineert en datgene dat indruist tegen deze visie is vreemd of zelfs eng en gevaarlijk. Een natuurlijk verschijnsel, en zelfs acceptabel tot op zekere hoogte. 

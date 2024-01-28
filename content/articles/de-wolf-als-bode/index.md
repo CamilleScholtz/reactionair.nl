@@ -2,16 +2,16 @@
 id: 119
 title: 'De wolf als bode'
 subtitle: 'De mens is verstoken van de natuur'
-date: '2023-07-22'
-authors:
-    - 'Anton Prins'
-themes: 'Politiek en Actualiteit'
 image: 0b84d6c6-ec43-4f7d-bbfd-628dd72cadf1.jpg
 anchor: Smart
-caption: 'Frederic Remington, Moonlight, wolf (ca. 1904)'
+captions: 'Frederic Remington, Moonlight, wolf (ca. 1904)'
+authors:
+    - 'Anton Prins'
+theme: 'Politiek en Actualiteit'
 tags:
     - 'Friedrich Nietzsche'
     - Natuur
+date: '2023-07-22'
 ---
 
 Het voorval met de wolf die op zondag 9 juli dacht een feestdis te vinden toen hij in Drenthe over het wolfwerende hekwerk een schapenweide binnensprong moet ons als waarschuwing dienen over onze relatie met de natuur. De berichtgeving rond het incident spitste zich voornamelijk toe op de acties van de boer en of hij wel juist gehandeld had door een wolf in het nauw te belagen met hooivork en spade en op de keuze van de burgermeester om het dier vervolgens dood te laten schieten. De ondertoon van deze berichten verried echter een zekere ontnuchtering; de experts hadden immers steeds gezegd dat dit niet mogelijk zou zijn. De waangedachte dat de wolf in de nabijheid van de mens kon verkeren zonder dat er bloed zou vloeien werd echter gelogenstraft.

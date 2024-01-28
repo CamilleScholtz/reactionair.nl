@@ -2,14 +2,14 @@
 id: 122
 title: 'Reactionair.nl bestaat één jaar!'
 subtitle: Proost!
-date: '2022-10-02'
-authors:
-    - 'De redactie'
-themes: 'Politiek en Actualiteit'
 image: fullsizeoutput_55ad8-scaled.jpeg.webp
 anchor: Smart
+authors:
+    - 'De redactie'
+theme: 'Politiek en Actualiteit'
 tags:
     - Reactionair
+date: '2022-10-02'
 ---
 
 Vandaag bestaat *Reactionair.nl* één jaar. Wij zijn u, onze lezer, zeer dankbaar voor het lezen en waarderen van onze artikelen en hopen u de komende jaren steeds opnieuw van mooie artikelen met verfrissende inzichten te mogen voorzien.

@@ -2,17 +2,17 @@
 id: 60
 title: 'Geest en lichaam en hun onderlinge afhankelijkheid'
 subtitle: 'Pleidooi voor de krijger-wijsgeer'
-date: '2022-07-28'
-authors:
-    - 'Anton Prins'
-themes: 'Religie en Wijsbegeerte'
 image: img_4010.jpeg
 anchor: Smart
+authors:
+    - 'Anton Prins'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Plato
     - Socrates
     - Oorlog
     - Xenophon
+date: '2022-07-28'
 ---
 
 Er was een tijd, lang geleden, dat de meest briljante academici naast het ontplooien van hun geestelijke capaciteiten ook de lichamelijke vermogens ten volle pleegden te ontwikkelen. Ten dele bevindt de oorsprong van dit historische gegeven zich in de noodzaak om, in verband met de onvrede die destijds heerste tussen verschillende volkeren en stadsstaten, de gemeenschap te beschermen tegen gevaar van buitenaf. Zo werd elke gezonde man geacht als soldaat zijn gemeenschap te dienen alvorens hij de voordelen mochten genieten die de titel van burger hem schonk.[^1] Deze omstandigheid vindt haar weerklank in de levens en woorden van de destijdse filosofen. In dit artikel wil ik derhalve graag twee grote denkers in verband brengen met zowel de noodzaak om de krachten van het lichaam te ontwikkelen, als met de lijfelijke verdediging van de burgerlijke idealen.

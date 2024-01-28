@@ -2,12 +2,12 @@
 id: 199
 title: 'Carl Schmitt en de '
 subtitle: 'Ecologie versus democratie'
-date: '2023-03-29'
-authors:
-    - 'Het huisloeder'
-themes: 'Cultuur en Maatschappij'
 image: 96264950-597e-4c5e-a84d-9a1d68a8e7c5.jpg
 anchor: Smart
+authors:
+    - 'Het huisloeder'
+theme: 'Cultuur en Maatschappij'
+date: '2023-03-29'
 draft: true
 ---
 

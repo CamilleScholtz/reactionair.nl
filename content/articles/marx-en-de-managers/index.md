@@ -2,12 +2,11 @@
 id: 171
 title: 'Marx en de managers'
 subtitle: 'Een andere kijk op klassenstrijd'
-date: '2023-08-24'
-authors:
-    - Gastauteur
-themes: 'Cultuur en Maatschappij'
 image: 43806174-a014-4e68-8f43-8b04d7a52bd1.webp
 anchor: Smart
+authors:
+    - Gastauteur
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Karl Marx'
     - 'Franse revolutie'
@@ -15,6 +14,7 @@ tags:
     - Communisme
     - Marxisme
     - Libertarisme
+date: '2023-08-24'
 ---
 
 Er is iets opmerkelijks aan Marx' theorie over klassenstrijd en geschiedenis wat zelden wordt opgemerkt.[^1] 

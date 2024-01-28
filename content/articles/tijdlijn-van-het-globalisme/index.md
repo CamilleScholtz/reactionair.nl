@@ -2,17 +2,17 @@
 id: 177
 title: 'Tijdlijn van het globalisme'
 subtitle: 'Deel 1, de Illuminati'
-date: '2023-09-17'
-authors:
-    - Gastauteur
-themes: 'Onderzoek en Speurwerk'
 image: fe0553f3-8456-4897-8092-17292966d487.webp
 anchor: Smart
+authors:
+    - Gastauteur
+theme: 'Onderzoek en Speurwerk'
 tags:
     - 'Karl Marx'
     - Vrijmetselarij
     - 'Georg Hegel'
     - Globalisme
+date: '2023-09-17'
 draft: true
 ---
 

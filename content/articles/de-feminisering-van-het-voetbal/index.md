@@ -2,13 +2,13 @@
 id: 75
 title: 'De feminisering van het voetbal'
 subtitle: 'Of hoe één van de laatste masculiene bastions moet vallen'
-date: '2023-05-22'
-authors:
-    - 'Jan-Jaap Moltman'
-themes: 'Cultuur en Maatschappij'
 image: 97994ca7-33da-43b3-bcef-6013605c38e0.jpg
 anchor: Top
-caption: '© Profimedia'
+captions: '© Profimedia'
+authors:
+    - 'Jan-Jaap Moltman'
+theme: 'Cultuur en Maatschappij'
+date: '2023-05-22'
 ---
 
 Het lijkt wel alsof het naast letterlijk ook figuurlijk uit de lucht komt vallen: plots worden om de haverklap voetbalwedstrijden al dan niet definitief gestaakt na het gooien van bier en/of voorwerpen op het veld. Het dieptepunt was misschien wel het duel tussen FC Dodrecht en PEC Zwolle, dat gestaakt werd nadat een jochie van 8 een bekertje naar het veld gooide en twintigduizend man naar huis kon. Ook werd een zwarte voetballer aangesteld als directeur topvoetbal bij de KNVB om diversiteit te vergroten en met ditzelfde argument werd een vrouw aangesteld als directeur betaald voetbal. Hoewel men bij de nationale voetbalbond, in de politiek en op de burelen van voetbalclubs het allemaal verkoopt als ''de maat die vol is'', ''een grens die bereikt is'' en het aanstellen van zogenaamde minderheden op cruciale posities als ''het was hoog tijd'', is het hoogst opmerkelijk dat dit allemaal zo plots in een rap tempo plaatsvindt. De media zwijgen, wellicht uit angst interviews mis te lopen met duurbetaalde pseudovedettes of terecht gewezen te worden door de semi-rebelse gecontroleerde oppositie van Johan Derksen en kornuiten. Wat speelt hier? Het antwoord ligt in een verandering van koers die bond, competitie en sportwetgeving ingezet hebben onder invloed van politieke invloed met als doel het opbreken van één van de laatste volkse en masculiene bolwerken van de Nederlandse cultuur. 

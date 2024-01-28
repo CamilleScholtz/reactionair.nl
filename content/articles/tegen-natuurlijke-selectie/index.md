@@ -2,16 +2,16 @@
 id: 263
 title: 'Tegen-natuurlijke selectie'
 subtitle: 'De Futuro-Fundamentalistische Revolutie, deel 2'
-date: '2021-12-28'
-authors:
-    - 'Alexander Wolfheze'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Alexander Wolfheze'
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Charles Darwin'
     - Evolutie
     - 'Nicolás Gómez Dávila'
+date: '2021-12-28'
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/devolutie-theorie/) het vorige deel._

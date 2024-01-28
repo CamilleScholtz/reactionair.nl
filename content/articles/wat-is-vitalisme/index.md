@@ -2,16 +2,16 @@
 id: 283
 title: 'Wat is vitalisme?'
 subtitle: 'Een bloemlezing van de dichtbundel Vitalisme'
-date: '2023-11-05'
-authors:
-    - Gastauteur
-themes: 'Geschiedenis en Biografie'
 image: eeddbdc8-3925-495c-8f74-9c605f716883.jpg
 anchor: Center
+authors:
+    - 'Luca de Clippelaar'
+theme: 'Geschiedenis en Biografie'
 tags:
     - 'Griekse mythologie'
     - 'Friedrich Nietzsche'
     - 'Yukio Mishima'
+date: '2023-11-05'
 ---
 
 Wat is vitalisme? Dit is een vraag die mij meermaals is gesteld na het verschijnen van mijn bundel. Deels heb ik hierop antwoord willen geven, deels ook niet, omdat het bijna onmogelijk is om dit anders dan in dichterlijke zinnebeelden te vatten. Helder proza schrijven over het overvloeiende leven, het rijke leven, het krachtige leven is nog maar een klein aantal mensen gelukt en ik reken mijzelf, in mijn oneindige bescheidenheid, niet tot één van hen — maar proberen kan geen kwaad. Daarom nog een poging om de ongeorganiseerde gedachtestroom te dwingen helder en duidelijk te worden. De vraag: wat is vitalisme?

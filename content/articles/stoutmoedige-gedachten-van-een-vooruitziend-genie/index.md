@@ -2,16 +2,16 @@
 id: 120
 title: 'Stoutmoedige gedachten van een vooruitziend genie'
 subtitle: "Over Papini's Gog"
-date: '2023-05-12'
-authors:
-    - 'Robert Lemm'
-themes: 'Religie en Wijsbegeerte'
 image: 91a86ba8-c4dc-4bff-9de0-6cc0224a00fd.jpg
 anchor: Smart
+authors:
+    - 'Robert Lemm'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - 'Giovanni Papini'
     - 'H.G. Wells'
     - 'Johann Gottlieb Fichte'
+date: '2023-05-12'
 ---
 
 Verveling is een soort epidemie die Europa rijp maakt voor de ondergang. Verveling is het slotakkoord van elke beschaving. Het is de aderverkalking van grote denkende volkeren. Verveling is de toestand van een ras dat zijn geloof heeft verloren en dat het materieel nog voor de wind gaat. Het is leegte alom. Sport, verafgoding van het lichaam, seks slaan de klok. God, voor zover nog genoemd, is overrompeld  door het ik. Hij is identiek met de Natuur. Hij is een idee.

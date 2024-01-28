@@ -7,44 +7,69 @@ DefaultContentLanguage = "nl"
 paginate     = 10
 paginatePath = "pagina"
 
-removePathAccents          = true
-enableRobotsTXT            = true
-disableHugoGeneratorInject = true
-cleanDestinationDir        = true
+removePathAccents   = true
+enableRobotsTXT     = true
+cleanDestinationDir = true
 
 ignoreErrors = ["error-remote-getjson"]
 
 [params]
-	rev    = "963"
-	api    = "http://127.0.0.1:8000"
-	advert = "Vitalisme"
+	rev    = "965"
+	api    = "https://admin.reactionair.nl"
+	advert = "Reactionary Modernism"
+
+[module]
+	[[module.mounts]]
+		source = 'content'
+		target = 'content'
+	[[module.mounts]]
+		source = 'static'
+		target = 'static'
+	[[module.mounts]]
+		source = 'layouts'
+		target = 'layouts'
+	[[module.mounts]]
+		source = 'data'
+		target = 'data'
+	[[module.mounts]]
+	    source = 'assets'
+	    target = 'assets'
+	[[module.mounts]]
+		source = "layouts/shop/list.html"
+		target = "layouts/_default/language.html"
+	[[module.mounts]]
+		source = "layouts/shop/list.html"
+		target = "layouts/_default/publisher.html"
+	[[module.mounts]]
+		source = "layouts/shop/list.html"
+		target = "layouts/_default/writer.html"
 
 [taxonomies]
 	author    = "authors"
-	theme     = "themes"
+	theme     = "theme"
 	writer    = "writers"
-	publisher = "publishers"
-	language  = "languages"
+	publisher = "publisher"
+	language  = "language"
 
 [permalinks]
 	[permalinks.page]
 		articles = "/artikelen/:slugorfilename/"
-		shop     = "/winkel/producten/:slugorfilename/"
+		shop     = "/winkel/producten/:sections[last]/:slugorfilename/"
 	[permalinks.section]
-		articles   = "/artikelen/"
-		shop       = "/winkel/"
+		articles = "/artikelen/"
+		shop     = "/winkel/producten/:sections[last]/"
 	[permalinks.term]
-		authors    = "/auteurs/:slug/"
-		themes     = "/themas/:slug/"
-		writers    = "/winkel/auteur/:slug/"
-		publishers = "/winkel/uitgeverij/:slug/"
-		languages  = "/winkel/taal/:slug/"
+		authors   = "/auteurs/:slug/"
+		theme     = "/themas/:slug/"
+		writers   = "/winkel/producten/boeken/auteurs/:slug/"
+		publisher = "/winkel/producten/boeken/uitgeverijen/:slug/"
+		language  = "/winkel/producten/boeken/talen/:slug/"
 	[permalinks.taxonomy]
-		authors    = "/auteurs/"
-		themes     = "/themas/"
-		writers    = "/winkel/auteur/"
-		publishers = "/winkel/uitgeverij/"
-		languages  = "/winkel/taal/"
+		authors   = "/auteurs/"
+		theme     = "/themas/"
+		writers   = "/winkel/producten/boeken/auteurs/"
+		publisher = "/winkel/producten/boeken/uitgeverijen/"
+		language  = "/winkel/producten/boeken/talen/"
 
 [related]
 	includeNewer = true
@@ -53,7 +78,7 @@ ignoreErrors = ["error-remote-getjson"]
 	name   = "tags"
 	weight = 100
 [[related.indices]]
-	name   = "themes"
+	name   = "theme"
 	weight = 60
 [[related.indices]]
 	name   = "authors"
@@ -64,8 +89,12 @@ ignoreErrors = ["error-remote-getjson"]
 
 [markup]
 	[markup.goldmark]
+		[markup.goldmark.parser]
+			autoHeadingID = false
 		[markup.goldmark.renderer]
 			unsafe = true
+	[markup.highlight]
+		codeFences = false
 
 [imaging]
 	resampleFilter = "Lanczos"
@@ -77,7 +106,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 [outputs]
 	home     = ["html", "json", "rss"]
-	section  = ["html", "json", "rss"]
+	section  = ["html", "rss"]
 	taxonomy = ["html", "rss"]
 	term     = ["html", "rss"]
 	page     = ["html"]

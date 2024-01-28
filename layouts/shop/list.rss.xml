@@ -17,12 +17,12 @@
 				<g:title>{{ .Params.title | safeHTML }}</g:title>
 				<g:description>{{ .Plain | truncate 4990 }}</g:description>
 				<g:link>{{ .Permalink }}</g:link>
-				<g:image_link>{{ ($front.Fit "1320x880 jpeg").Permalink }}</g:image_link>
+				<g:image_link>{{ ($front.Fit "1320x880 webp").Permalink }}</g:image_link>
 				{{ if isset .Params "back" }}
 					{{ $back := .Resources.Get .Params.back }}
-					<g:additional_image_link>{{ ($back.Fit "1320x880 jpeg").Permalink }}</g:additional_image_link>
+					<g:additional_image_link>{{ ($back.Fit "1320x880 webp").Permalink }}</g:additional_image_link>
 				{{ end }}
-				<g:availability>{{ if (index .Params.variants 0).out_of_stock }}out_of_stock{{ else }}in_stock{{ end }}</g:availability>
+				<g:availability>{{ if .Params.out_of_stock }}out_of_stock{{ else }}in_stock{{ end }}</g:availability>
 				<g:price>{{ (index .Params.variants 0).price }} EUR</g:price>
 				<g:google_product_category>543543</g:google_product_category>
 				<g:gtin>{{ replace (index .Params.variants 0).isbn "-" "" }}</g:gtin>

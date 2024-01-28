@@ -2,19 +2,19 @@
 id: 210
 title: 'Deugen de meeste mensen nog steeds?'
 subtitle: 'De misantrope verleiding'
-date: '2022-04-15'
-authors:
-    - 'De Melancholieke Nar'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Top
-caption: "De misantroop, Pieter Bruegel de Oude, 1568. Onderaan is te lezen 'Om dat de werelt is soe ongetru / daer om gha ic in den ru', 'omdat de wereld zo ontrouw is, ga ik in de rouw'. \n"
+captions: "De misantroop, Pieter Bruegel de Oude, 1568. Onderaan is te lezen 'Om dat de werelt is soe ongetru / daer om gha ic in den ru', 'omdat de wereld zo ontrouw is, ga ik in de rouw'. \n"
+authors:
+    - 'De Melancholieke Nar'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Aristoteles
     - Woke
     - 'Friedrich Nietzsche'
     - Wappies
     - 'Rutger Bregman'
+date: '2022-04-15'
 ---
 
 {{< quote

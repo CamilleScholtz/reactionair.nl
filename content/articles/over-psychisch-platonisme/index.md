@@ -2,17 +2,17 @@
 id: 206
 title: 'Over Psychisch Platonisme'
 subtitle: 'Vorm losgekoppeld van lichaam'
-date: '2022-09-14'
-authors:
-    - 'Jan de Maansnijder'
-themes: 'Religie en Wijsbegeerte'
 image: v.jpg
 anchor: Smart
+note: "Dit is een vertaling van het essay *'On Psychic Platonism'*, het origineel is *[hier](https://esoterictraditionalism.wordpress.com/2019/12/23/on-psychic-platonism/)*  te lezen."
+authors:
+    - 'Jan de Maansnijder'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Metafysica
     - Plato
     - Psychologie
-note: "Dit is een vertaling van het essay *'On Psychic Platonism'*, het origineel is *[hier](https://esoterictraditionalism.wordpress.com/2019/12/23/on-psychic-platonism/)*  te lezen."
+date: '2022-09-14'
 ---
 
 Psychisch Platonisme is een ideologie die verklaart dat er vormen (kleine letter v) bestaan —  vormen die in het psychische domein verblijven, waarmee zij zich onderscheidt van het eigenlijke Platonisme dat Vormen (hoofdletter V) in het spirituele domein poneert — die absoluut onafhankelijk zijn van het soort substantie dat zij kunnen aannemen. Om deze ideologie goed te begrijpen moet men ook beseffen dat er een identiteit bestaat tussen deze psychische vormen en het digitale domein. Maar laten we eerst eens kijken naar de traditionele relatie tussen substantie en vorm.

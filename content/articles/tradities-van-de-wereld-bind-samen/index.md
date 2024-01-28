@@ -2,15 +2,15 @@
 id: 101
 title: 'Tradities van de wereld, bind samen'
 subtitle: 'Sticht een mondiale orde'
-date: '2023-02-24'
-authors:
-    - 'De redactie'
-themes: 'Cultuur en Maatschappij'
 image: 24245cec-f8c1-4d46-b4a6-3607ce647c3f.jpg
 anchor: Smart
 description: 'Waarom hebben we een mondiale orde nodig om de balans in de wereld te behouden? Lees hoe een Heilig Rijk kan voorkomen dat de wereld verder fragmenteert en digitaliseert.'
+authors:
+    - 'De redactie'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Globalisme
+date: '2023-02-24'
 draft: true
 ---
 

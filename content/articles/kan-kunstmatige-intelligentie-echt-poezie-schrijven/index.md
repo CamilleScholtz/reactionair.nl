@@ -2,13 +2,13 @@
 id: 3
 title: 'Kan kunstmatige intelligentie écht poëzie schrijven?'
 subtitle: 'De psychische en spirituele gevaren van AI'
-date: '2023-04-24'
-authors:
-    - Gastauteur
-themes: 'Religie en Wijsbegeerte'
 image: c779ba8d-f47e-45fa-921c-edf0b76efe1c.jpg
 anchor: Smart
-caption: "Los' Schim kwelt hem in zijn smederij, door William Blake."
+captions: "Los' Schim kwelt hem in zijn smederij, door William Blake."
+note: 'Dit essay is een vertaling uit het Engels. Het origineel, geschreven door Charles Upton, is hier te beluisteren: *[The Psychic and Spiritual Dangers of AI](https://www.youtube.com/watch?v=Wkazyv5WZQo)*. Voor zover ik weet heeft hij het essay nog niet openbaar in tekstvorm gepubliceerd.'
+authors:
+    - Gastauteur
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Islam
     - AI
@@ -16,7 +16,7 @@ tags:
     - 'René Guénon'
     - 'Søren Kierkegaard'
     - 'William Blake'
-note: 'Dit essay is een vertaling uit het Engels. Het origineel, geschreven door Charles Upton, is hier te beluisteren: *[The Psychic and Spiritual Dangers of AI](https://www.youtube.com/watch?v=Wkazyv5WZQo)*. Voor zover ik weet heeft hij het essay nog niet openbaar in tekstvorm gepubliceerd.'
+date: '2023-04-24'
 ---
 
 {{< quote text="Where is the wisdom lost in knowledge?<br>Where is the knowledge lost in information?" author="T. S. Eliot" >}}

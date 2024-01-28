@@ -2,15 +2,15 @@
 id: 128
 title: 'Onderzoek wijst uit: wappies ongenuanceerd en generaliseren altijd'
 subtitle: 'Eindelijk wetenschappelijk bewijs'
-date: '2023-05-24'
-authors:
-    - 'De Melancholieke Nar'
-themes: 'De Uylenspieghel'
 image: f6478022-9edc-44ac-9143-78d6f3068487.png
 anchor: Smart
+authors:
+    - 'De Melancholieke Nar'
+theme: 'De Uylenspieghel'
 tags:
     - Wappies
     - Wetenschap
+date: '2023-05-24'
 ---
 
 In een verbluffend nieuw onderzoek is de onbetwiste waarheid aan het licht gekomen: wappies - de zelfbenoemde kampioenen van de waarheid - blijken ongelooflijk bedreven te zijn in het verspreiden van ongenuanceerde ideeën en generalisaties. De studie, uitgevoerd door het gerenommeerde Instituut voor Logica en Redelijkheid (ILR), heeft een schokkende realiteit blootgelegd die de wereld zal doen schudden.

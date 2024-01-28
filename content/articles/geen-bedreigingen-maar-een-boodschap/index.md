@@ -2,15 +2,15 @@
 id: 281
 title: 'Geen bedreigingen maar een boodschap'
 subtitle: 'Joodse gelegenheden in Nederland worden afgeblazen'
-date: '2023-10-25'
-authors:
-    - Gastauteur
-themes: 'Politiek en Actualiteit'
 image: 2991b6bf-04f4-4073-9dab-c25fd576c7bb.jpg
 anchor: Smart
+authors:
+    - Gastauteur
+theme: 'Politiek en Actualiteit'
 tags:
     - Oorlog
     - Israël
+date: '2023-10-25'
 ---
 
 "Joodse scholen vandaag dicht",[^1] "Joodse school in Amsterdam opnieuw dicht: 'Veiligheid niet gegarandeerd'",[^2] "Streep door stille tocht ter herdenking van Kristallnacht in Groningen: 'We nemen geen risico'".[^3] Als je deze krantenkoppen leest, schrik je je te pletter. Het conflict Palastina-Israël is niet alleen daar in volle gang, maar ook hier. Er zit echter meer achter deze krantenkoppen dan je op het eerste gezicht zou denken.

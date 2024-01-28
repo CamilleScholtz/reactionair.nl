@@ -2,12 +2,11 @@
 id: 191
 title: 'Fatalisme, ondergang en wederopstanding'
 subtitle: 'Beschouwing over het lot der Westerse beschaving'
-date: '2021-11-03'
-authors:
-    - Intan
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
+authors:
+    - Intan
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Karl Marx'
     - 'René Guénon'
@@ -16,6 +15,7 @@ tags:
     - 'Oswald Spengler'
     - Consumentisme
     - Atheisme
+date: '2021-11-03'
 ---
 
 Fatalisme heeft de westerse geest overgenomen. Na het Fukuyamiaanse optimisme van de jaren 90 regeert het pessimisme en lijkt de ondergang van het Avondland definitief te zijn aangebroken. De voortekenen zijn overal te zien en reeds lange tijd voorspeld. Zoals Spengler aankondigde gaan alle beschavingen uiteindelijk ten onder aan interne corrosie van de scheppende kracht.[^1] Een beschaving valt stil en schept geen waarlijke nieuwe dingen meer. Datgene wat gecreëerd wordt zijn hoogstens nieuwe externaliteiten maar de essentia blijven gelijk. Sterker nog, de essentia van de beschaving zullen gaan verrotten en uiteindelijk ten onder gaan.

@@ -1,0 +1,63 @@
+<div class="book-container">
+	{{ $add  := 5 }}
+	{{ $mul  := 0.035}}
+	{{ $size := "320x500 webp" }}
+	{{ $div  := 2 }}
+	{{ $unit := "px" }}
+
+	{{ if eq .size "large" }}
+		{{ $add  = 1 }}
+		{{ $mul  = 0.0055 }}
+		{{ $size = "960x webp" }}
+		{{ $div  = 35 }}
+		{{ $unit = "vh" }}
+	{{ else if eq .size "medium" }}
+		{{ $mul  = 0.05 }}
+		{{ $size = "438x webp" }}
+	{{ end }}
+
+	{{ $thickness := add $add (mul .pages $mul) }}
+
+	{{ $front := "" }}
+	{{ if eq .size "small" }}
+		{{ $front = .front.Fit $size }}
+	{{ else }}
+		{{ $front = .front.Resize $size }}
+	{{ end }}
+
+	{{ $width  := div $front.Width $div }}
+	{{ $height := div $front.Height $div }}
+
+	<div class="book {{ if .animate }}animate{{ end }} {{ if .hover }}hover{{ end }} {{ if .click }}click{{ end }}" style="--thickness: {{ $thickness }}{{ $unit }}; --width: {{ $width }}{{ $unit }}; --height: {{ $height }}{{ $unit }};">
+		<img
+			src="{{ $front.RelPermalink }}"
+			width="{{ $width }}"
+			height="{{ $height }}"
+			{{ if ne .size "large" }}
+				loading="lazy"
+			{{ end }}
+			alt="{{ .title | safeHTML }}"
+			class="front"
+			style="background: {{ index $front.Colors 0 }};">
+		{{ if .click }}
+			<div class="back inline-front"></div>
+		{{ end }}
+		<div class="pages"></div>
+		<div class="back inline-back"></div>
+		{{ if .click }}
+			<img
+				{{ if eq .size "large" }}
+					src="{{ (.back.Resize $size).RelPermalink }}"
+				{{ else }}
+					src="{{ (.back.Fit $size).RelPermalink }}"
+				{{ end }}
+				width="{{ $width }}"
+				height="{{ $height }}"
+				loading="lazy"
+				alt="{{ .title | safeHTML }}"
+				class="back">
+		{{ end }}
+		<div class="shadow"></div>
+	</div>
+</div>
+

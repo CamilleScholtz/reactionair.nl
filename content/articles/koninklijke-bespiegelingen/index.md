@@ -2,14 +2,13 @@
 id: 4
 title: 'Koninklijke bespiegelingen'
 subtitle: 'Wie steekt zijn kroon boven het maaiveld uit?'
-date: '2023-05-06'
-authors:
-    - 'Anton Prins'
-themes: 'Religie en Wijsbegeerte'
 image: a40ea0c5-0e01-442d-8526-536fdda4b90b.jpg
 anchor: Top
+captions: 'Charles Ernest Butler, King Arthur (1903)'
 description: 'De monarchie is heel lang de vaste bestuursvorm geweest. Democratie leidt tot wanorde en een falend bestuur. Een pleidooi voor herstel van de monarchie.'
-caption: 'Charles Ernest Butler, King Arthur (1903)'
+authors:
+    - 'Anton Prins'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Democratie
     - 'Franse revolutie'
@@ -17,6 +16,7 @@ tags:
     - 'Julius Evola'
     - Monarchie
     - Plato
+date: '2023-05-06'
 ---
 
 > *Toute nation a le gouvernement qu'elle mérite*[^1]

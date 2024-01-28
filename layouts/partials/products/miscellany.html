@@ -1,0 +1,43 @@
+<div class="book-container">
+	{{ $size := "320x500 webp" }}
+	{{ $div  := 2 }}
+	{{ $unit := "px" }}
+
+	{{ if eq .size "large" }}
+		{{ $size = "960x1500 webp" }}
+		{{ $div  = 35 }}
+		{{ $unit = "vh" }}
+	{{ end }}
+
+	{{ $front  := .front.Fit $size }}
+	{{ $width  := div $front.Width $div }}
+	{{ $height := div $front.Height $div }}
+
+	<div class="book {{ if .animate }}animate{{ end }} {{ if .hover }}hover{{ end }} {{ if .click }}click{{ end }}" style="--thickness: 0px; --width: {{ $width }}{{ $unit }}; --height: {{ $height }}{{ $unit }};">
+		<img
+			src="{{ $front.RelPermalink }}"
+			width="{{ $width }}"
+			height="{{ $height }}"
+			{{ if ne .size "large" }}
+				loading="lazy"
+			{{ end }}
+			alt="{{ .title | safeHTML }}"
+			class="front"
+			style="background: {{ index $front.Colors 0 }};">
+		{{ if .click }}
+			<img
+				{{ if eq .size "large" }}
+					src="{{ (.back.Resize $size).RelPermalink }}"
+				{{ else }}
+					src="{{ (.back.Fit $size).RelPermalink }}"
+				{{ end }}
+				width="{{ $width }}"
+				height="{{ $height }}"
+				loading="lazy"
+				alt="{{ .title | safeHTML }}"
+				class="back">
+		{{ end }}
+		<div class="shadow"></div>
+	</div>
+</div>
+

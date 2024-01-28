@@ -2,13 +2,12 @@
 id: 282
 title: 'Waarom gehoorzamen wij de overheid? '
 subtitle: 'Het sociaal contract en Pieter Omtzigt '
-date: '2023-11-02'
-authors:
-    - 'Gerald Russelman'
-themes: 'Cultuur en Maatschappij'
 image: e42384e0-ef1e-4bea-90b1-aa8f56151872.jpg
 anchor: Top
-caption: 'Dit is de top van de zuil waarop de Babylonische koning Hammoerabi omstreeks 1755 zijn complete wetgeving liet graveren. Te zien is hoe de koning (rechts, zittend) de wet ontvangt van de zonnegod Sjamasj (links, staand).'
+captions: 'Dit is de top van de zuil waarop de Babylonische koning Hammoerabi omstreeks 1755 zijn complete wetgeving liet graveren. Te zien is hoe de koning (rechts, zittend) de wet ontvangt van de zonnegod Sjamasj (links, staand).'
+authors:
+    - 'Gerald Russelman'
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Karl Marx'
     - Monarchie
@@ -18,6 +17,7 @@ tags:
     - 'Pieter Omtzigt'
     - God
     - 'Sociaal contract'
+date: '2023-11-02'
 ---
 
 De meeste mensen houden zich vrijwel automatisch aan de gangbare regels, wetten en sociale conventies. Maar waarom eigenlijk? Het is begrijpelijk dat mensen zich aan regels houden die efficiënt werken en duidelijk in ieders voordeel zijn, zoals rechts rijden in het verkeer. Maar mensen houden zich ook aan regels wanneer die voor hen, als individu, nadelig zijn. Zoals niet stelen en niet inbreken. Ook hier doen zij wat het gezag hun voorschrijft. Waarom eigenlijk?

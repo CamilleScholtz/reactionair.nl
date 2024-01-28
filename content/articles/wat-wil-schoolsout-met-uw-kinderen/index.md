@@ -2,17 +2,17 @@
 id: 195
 title: 'Wat wil SchoolsOUT met uw kinderen?'
 subtitle: 'Het zoveelste regenboogproject nader bekeken'
-date: '2023-02-05'
-authors:
-    - Gastauteur
-themes: 'Onderzoek en Speurwerk'
 image: 9735c9f9-162b-43f1-81c1-819b9a5418b2.webp
 anchor: Smart
-caption: 'Ter ere van Coming Out-dag wordt de regenboogvlag gehesen op een schoolplein.'
+captions: 'Ter ere van Coming Out-dag wordt de regenboogvlag gehesen op een schoolplein.'
+authors:
+    - Gastauteur
+theme: 'Onderzoek en Speurwerk'
 tags:
     - Woke
     - LGBT
     - Onderwijs
+date: '2023-02-05'
 ---
 
 Alice Cooper begon zijn lied _School’s out_ in 1972 als volgt:  

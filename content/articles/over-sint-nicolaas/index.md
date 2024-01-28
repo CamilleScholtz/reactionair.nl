@@ -2,15 +2,15 @@
 id: 79
 title: 'Over Sint Nicolaas'
 subtitle: 'Een interpretatie van de symboliek uit het leven van deze heilige, losjes gebaseerd op de Gulden Legende'
-date: '2021-12-01'
-authors:
-    - 'Jan de Maansnijder'
-themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Jan de Maansnijder'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Katholicisme
     - Christendom
+date: '2021-12-01'
 ---
 
 >_"Bedenkt u dat hoewel wij onszelf als rechtvaardig mogen beschouwen en er vaak in slagen de mensen daar ook van te overtuigen, wij niks kunnen verbergen voor God"._ – Sint Nicolaas

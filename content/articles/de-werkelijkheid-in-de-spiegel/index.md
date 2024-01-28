@@ -2,16 +2,16 @@
 id: 24
 title: 'De werkelijkheid in de spiegel'
 subtitle: 'Er zal nooit zijn wat geweest is'
-date: '2023-05-30'
-authors:
-    - 'Jan Janszoon'
-themes: 'Religie en Wijsbegeerte'
 image: cd3cc865-434c-4dd1-8deb-f1f39223f803.webp
 anchor: Smart
 description: 'Een verhaal over een droom in de spiegel; over het alles en het niets, het splijten in veelheid, dood en leven, tijd en tijdloosheid. Goden en demonen.'
+authors:
+    - 'Jan Janszoon'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Mythologie
     - Hindoeisme
+date: '2023-05-30'
 ---
 
 {{< quote text="Er zal ooit zijn wat geweest is en dan weten we het niet, zei de prediker van niemandsland dat is ontstaan uit hardgebakken lucht." >}}

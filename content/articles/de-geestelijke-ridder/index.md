@@ -2,18 +2,18 @@
 id: 172
 title: 'Don Quichot, de geestelijke ridder'
 subtitle: 'Tijden van goud, tijden van ijzer'
-date: '2023-03-19'
-authors:
-    - 'Robert Lemm'
-themes: 'Religie en Wijsbegeerte'
 image: b30a366b-6107-43ff-a533-b940de675fb7.jpg
 anchor: Top
-caption: 'Don Quichot en Sancho Panza voor de windmolens.'
+captions: 'Don Quichot en Sancho Panza voor de windmolens.'
+note: 'Dit artikel is een voorproefje van het nieuwe boek van Robert Lemm, getiteld *[Desengaño: De wereld is niet voor verbetering vatbaar](https://deblauwetijger.com/product/pre-order-robert-lemm-desengano/)*.'
+authors:
+    - 'Robert Lemm'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - 'Robert Lemm'
     - Spanje
     - 'Miguel de Cervantes'
-note: 'Dit artikel is een voorproefje van het nieuwe boek van Robert Lemm, getiteld *[Desengaño: De wereld is niet voor verbetering vatbaar](https://deblauwetijger.com/product/pre-order-robert-lemm-desengano/)*.'
+date: '2023-03-19'
 ---
 
 Er was eens een tijd die de ouden _van goud_ noemden. De woorden _van mij_ en _van jou_ bestonden toen nog niet. Alles was gemeenschappelijk. Daarna kwamen zilver en brons. De ouden beschouwden hun eigen tijd als _van ijzer_. En sindsdien werd het een gemeenplaats om het verworden heden de spiegel van een paradijselijk weleer voor te houden. In de moderne tijd kijkt men liever vooruit naar een maakbare en betere toekomst.

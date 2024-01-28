@@ -2,15 +2,15 @@
 id: 39
 title: 'Proletarische revolutie stap dichterbij na vergadermarathon jonge communisten'
 subtitle: 'Weldra zal de rode dageraad aanbreken!'
-date: '2023-07-03'
-authors:
-    - 'De Melancholieke Nar'
-themes: 'De Uylenspieghel'
 image: dd41ec81-6670-426d-839e-bb5fb10abdeb.jpg
 anchor: Smart
+authors:
+    - 'De Melancholieke Nar'
+theme: 'De Uylenspieghel'
 tags:
     - 'Karl Marx'
     - Communisme
+date: '2023-07-03'
 ---
 
 In een dapper streven naar het omverwerpen van het kapitalistische systeem hebben jonge communisten onlangs een meerdaagse vergadermarathon gehouden. Met rode vlaggen in de hand en het Manifest van Karl Marx als hun bijbel, kwamen deze idealistische revolutionairen bijeen om te debatteren over de beste strategie om een nieuwe samenleving te creëren.

@@ -2,19 +2,19 @@
 id: 278
 title: 'Europa gaat kopje onder'
 subtitle: 'The good, the bad & the ugly'
-date: '2023-10-17'
-authors:
-    - 'Frits Bosch'
-themes: 'Politiek en Actualiteit'
 image: 2ee3f9ee-2ccc-4e52-96cc-bba9e1f892d7.jpg
 anchor: Smart
+captions: 'Abraham Storck, De vierdaagse oorlog van 1666'
 description: 'Europa bevindt zich in een benarde situatie, met een ondoeltreffend EU-model en problemen in Oost-Europa en op de Balkan. Uitbreiding van de EU met nog meer zwakke landen zal de transferunie verder belasten. Het is tijd voor een herziening van het EU-model.'
-caption: 'Abraham Storck, De vierdaagse oorlog van 1666'
+authors:
+    - 'Frits Bosch'
+theme: 'Politiek en Actualiteit'
 tags:
     - Economie
     - EU
     - Europa
     - NAVO
+date: '2023-10-17'
 ---
 
 Ik heb slecht nieuws en ik heb zeer slecht nieuws. Wat wilt u het eerste horen? Nou goed, ik begin met het zeer slechte nieuws. Europa gaat kopje onder. Het slechte nieuws is dat er slechts een ultiem kleine kans is dat dit niet gebeurt. Alle tekenen wijzen erop, dat Europa zinkende is. Jammer; het was ooit een fiere vloot.
@@ -31,7 +31,7 @@ De 9 kandidaten scoren niet goed op de *Fragile States Index.* Het zijn “faile
 
 Het model van de EU klopt niet. Het wringt langs alle kanten. De Europese Gemeenschap is van oorsprong bedoeld om wederzijds de economieën te stimuleren via liberalisering van kapitaal en arbeid binnen de lidstaten. Allengs is de samenwerking voortgeschreden via een gigantische geldverslindende bureaucratie in België en Luxemburg. De opzet is nu verworden tot het centraliseren van macht  via soevereiniteitsoverdracht want “Europa moet een politieke wereldmacht worden.” Dat is nog steeds niet gelukt. Integendeel, de verdeeldheid roept minachting op zoals Donald Trump duidelijk maakt, maar ook anderen zien de EU-politiek niet staan. De EU is politiek zowel intern als extern buitengewoon ineffectief gebleken. Frans Timmermans was Kampioen Massa-immigratie, de Europese landen moeten volgens hem hoognodig ‘divers’ worden. Omvolking is ons deel. Het EU beleid was en is desastreus.
 
-De EU zegt culturele verschillen binnen de EU toe te juichen. Maar de EU realiseert zich kennelijk niet dat aan die verschillen ook politieke consequenties vastzitten. Het gaat in de EU nu naar rechts, weg van de de huidige linkse regeringen die nu nog (in afnemende mate) aan de macht zijn. De pendule zwaait weer de andere kant op. De culturele en politieke verschillen zijn niet weg te poetsen al wil de EU dit nog zo graag. Integratie kun je niet afdwingen. “Europese normen en waarden” bestaan niet, het is lucht. Dat betekent dat de EU moet bijdraaien, maar ze doet dat niet, zie bijvoorbeeld eurobonds en bankenunie. De gedachte is risicodeling. Dit heeft als resultaat dat de zwakke broeders risico’s kunnen nemen, de sterken zitten in hetzelfde schuiten en zullen de gevolgen moeten dragen als het fout gaat. De feestvierders kunnen doorgaan met feestvieren en corruptie, begrotingstekorten en staatsschulden zijn “all over the place.” Het is een illusie gebleken dat de EU dit kan redresseren.
+De EU zegt culturele verschillen binnen de EU toe te juichen. Maar de EU realiseert zich kennelijk niet dat aan die verschillen ook politieke consequenties vastzitten. Het gaat in de EU nu naar rechts, weg van de de huidige linkse regeringen die nu nog (in afnemende mate) aan de macht zijn. De pendule zwaait weer de andere kant op. De culturele en politieke verschillen zijn niet weg te poetsen al wil de EU dit nog zo graag. Integratie kun je niet afdwingen. “Europese normen en waarden” bestaan niet, het is lucht. Dat betekent dat de EU moet bijdraaien, maar ze doet dat niet, zie bijvoorbeeld eurobonds en bankenunie. De gedachte is risicodeling. Dit heeft als resultaat dat de zwakke broeders risico’s kunnen nemen, de sterken zitten in hetzelfde schuitje en zullen de gevolgen moeten dragen als het fout gaat. De feestvierders kunnen doorgaan met feestvieren en corruptie, begrotingstekorten en staatsschulden zijn “all over the place.” Het is een illusie gebleken dat de EU dit kan redresseren.
 
 Als ooit de oorlog voorbij is resteert een berooid en getraumatiseerd Oekraïne. Von der Leyen heeft al beloofd dat het land bij de EU kan komen. Oekraïne weer op de rails krijgen kost honderden miljarden. Wie gaat dat betalen? Rusland geeft geen cent, de VS trekt z’n handen ervan af; alleen de EU resteert, waar Oekraïne immers kandidaatlid van is. Dat betekent dat met de aanspraak op goedertierenheid de portemonnee van de 27 lidstaten ernstig bedreigd wordt, maar vooral de portemonnee van de 9 noordwestelijke EU lidstaten, inclusief Nederland. Rusland haat ons. Was dit de ultieme opzet van Poetin? Oekraïne kan ons blut maken. Toch staat het bedrijfsleven te watertanden. Oekraïne is een geweldig gebied voor bijvoorbeeld de bouw en graanimport. Uitbreiding van de unie betekent ook een groot afzetgebied erbij. Vooruit ermee, *you can do it!* Laten we ons weer blind misleiden door het bedrijfsleven, zoals in de zestiger jaren met de komst van de gastarbeiders, de opmaat van de massa-immigratie en omvolking? De massa-immigratie gaat door en ondermijnt Europa. Europa wordt ook intern sociaal- cultureel bedreigd door woke en aanverwante verschijnselen waarover ik heb geschreven in het artikel ‘Kafkaistan, democratie bedreigd door autocratie en fascisme.[^1]
 

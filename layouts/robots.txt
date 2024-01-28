@@ -1,5 +1,3 @@
 User-agent: *
 
-Disallow: /admin
 Disallow: /.github
-Disallow: /.netlify

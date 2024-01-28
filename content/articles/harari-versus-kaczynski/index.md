@@ -2,12 +2,12 @@
 id: 238
 title: 'Harari versus Kaczynski'
 subtitle: 'Een strijd tussen transhumanisme en anarchoprimitivisme'
-date: '2022-06-26'
-authors:
-    - 'Jan-Willem Veldhuizen'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
+note: 'Dit is een vertaling en bewerking van een Twitter-draad van [Forrest](https://twitter.com/Foz89107323)'
+authors:
+    - 'Jan-Willem Veldhuizen'
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Karl Marx'
     - AI
@@ -22,7 +22,7 @@ tags:
     - 'Ernst Jünger'
     - 'René Girard'
     - 'Jacques Ellul'
-note: 'Dit is een vertaling en bewerking van een Twitter-draad van [Forrest](https://twitter.com/Foz89107323)'
+date: '2022-06-26'
 ---
 
 Op welke manier staan Ted Kaczynski’s ideeën lijnrecht tegenover die van Yuval Harari, de man die het filosofische brein is achter de *Great Reset*? Hoe kan het dat ze beiden aanhangers zijn van de evolutietheorie, maar toch tot zeer andere conclusies komen wat betreft de industriële revolutie en haar gevolgen?

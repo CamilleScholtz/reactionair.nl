@@ -2,19 +2,19 @@
 id: 170
 title: 'Het bijgeloof aan “De Vooruitgang”'
 subtitle: 'Een essay uit 1939'
-date: '2022-08-09'
-authors:
-    - Gastauteur
-themes: 'Religie en Wijsbegeerte'
 image: aristo_lutkie-980x411.jpg
 anchor: Smart
+note: 'Dit essay was oorspronkelijk gepubliceerd door Anton Kerssemakers in het tijdschrift *Aristo-* van maart 1939.'
+authors:
+    - Gastauteur
+theme: 'Religie en Wijsbegeerte'
 tags:
     - 'René Guénon'
     - 'Jean-Jacques Rousseau'
     - 'Anton Kerssemakers'
     - Materialisme
     - Vooruitgang
-note: 'Dit essay was oorspronkelijk gepubliceerd door Anton Kerssemakers in het tijdschrift *Aristo-* van maart 1939.'
+date: '2022-08-09'
 ---
 
 Van de vele, welig op het individualisme woekerende, vormen van bijgeloof, die de werkelijkheid als het ware met een maskeradepak vermommen en de moderne wereld overleveren aan het Fata Morgana eener ondergaande beschaving, is het bijgeloof aan "De Vooruitgang" wel de ergste belemmering voor het bereiken van de Waarheid, die "vrij maakt". Want dit bijgeloof drukt zijn stempel op alle methoden, volgens welke de moderne wereld oorsprong, doel en beteekenis van het bestaan en van de menschelijke activiteit, doorgronden en verklaren wil; vergiftigt deze dus vanaf hun grondslagen.[^1]

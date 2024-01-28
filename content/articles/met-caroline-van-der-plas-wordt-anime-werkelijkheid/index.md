@@ -2,16 +2,16 @@
 id: 147
 title: 'Met Caroline van der Plas wordt anime werkelijkheid'
 subtitle: 'Katjongens en katmeisjes voor iedereen!'
-date: '2023-08-10'
-authors:
-    - 'De redactie'
-themes: 'De Uylenspieghel'
 image: cc4a8937-b1c6-490b-90b6-c94b69a35146.jpg
 anchor: Top
+authors:
+    - 'De redactie'
+theme: 'De Uylenspieghel'
 tags:
     - BBB
     - Anime
     - 'Caroline van der Plas'
+date: '2023-08-10'
 ---
 
 In een verbluffende en buitengewone onthulling heeft Caroline van der Plas, de nuchtere boerin met een diepe liefde voor anime, aangekondigd dat ze vastbesloten is om anime tot werkelijkheid te maken. Ja, je leest het goed - Caroline van der Plas gaat anime werkelijkheid maken, en ze is vastbesloten om premier te worden om haar visionaire plan te realiseren.

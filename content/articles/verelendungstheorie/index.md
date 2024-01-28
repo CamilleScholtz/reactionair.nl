@@ -2,16 +2,16 @@
 id: 90
 title: Verelendungstheorie
 subtitle: 'De Futuro-Fundamentalistische Revolutie, deel 5'
-date: '2022-01-17'
-authors:
-    - 'Alexander Wolfheze'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Alexander Wolfheze'
+theme: 'Cultuur en Maatschappij'
 tags:
     - BLM
     - Marxisme
     - 'Friedrich Schiller'
+date: '2022-01-17'
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/hybridisering/) het vorige deel._

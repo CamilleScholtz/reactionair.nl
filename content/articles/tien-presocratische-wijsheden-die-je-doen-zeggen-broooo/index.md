@@ -2,18 +2,18 @@
 id: 265
 title: 'Tien presocratische wijsheden die je doen zeggen: broooo'
 subtitle: 'Nummer is 3 is echt zo van: hoe dan??'
-date: '2022-06-03'
-authors:
-    - Gastauteur
-themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Smart
+authors:
+    - Gastauteur
+theme: 'De Uylenspieghel'
 tags:
     - Metafysica
     - Pythagoras
     - Empedokles
     - Heraclitus
     - Herakleitos
+date: '2022-06-03'
 ---
 
 {{< slider

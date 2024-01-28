@@ -2,17 +2,17 @@
 id: 118
 title: 'Dialoog III'
 subtitle: 'Post-pandemisch verzet'
-date: '2023-05-20'
-authors:
-    - 'Walt van Toor'
-themes: 'Politiek en Actualiteit'
 image: 1d0ab2f0-da56-460e-91ba-72899a2e5bb3.jpg
 anchor: Smart
-caption: 'Caspar David Friedrich, Zwei Männer in Betrachtung des Mondes, ca. 1819.'
+captions: 'Caspar David Friedrich, Zwei Männer in Betrachtung des Mondes, ca. 1819.'
+note: 'Deze dialoog maakt deel uit van een serie, lees ook *[dialoog I](https://reactionair.nl/artikelen/dialoog-i/)* en *[dialoog II](https://reactionair.nl/artikelen/dialoog-ii/)*.'
+authors:
+    - 'Walt van Toor'
+theme: 'Politiek en Actualiteit'
 tags:
     - Monarchie
     - Corona
-note: 'Deze dialoog maakt deel uit van een serie, lees ook *[dialoog I](https://reactionair.nl/artikelen/dialoog-i/)* en *[dialoog II](https://reactionair.nl/artikelen/dialoog-ii/)*.'
+date: '2023-05-20'
 ---
 
 **Mark:** Hallo beste vriend, ditmaal heb ik een vraag voor jou. Denk je dat het überhaupt mogelijk is om te hardhandig op te treden tegen corrupte bestuurders, tegen samenzweerders? Vind je ook niet dat halfslachtig ingrijpen een situatie kan verergeren, in het bijzonder in politieke zin. Met andere woorden: dat het ongepast, respectloos en smakeloos is om op een bepaalde plaats en tijd aandacht te schenken aan iemands uitleg, wanneer vooraleerst de aanklacht nog scherper dient te worden geformuleerd? 

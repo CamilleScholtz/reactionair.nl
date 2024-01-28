@@ -2,16 +2,16 @@
 id: 261
 title: 'Hoe een wereldreis van mij een rechtser persoon maakte'
 subtitle: 'Een memoire'
-date: '2023-02-01'
-authors:
-    - 'Eco al-Hollandi'
-themes: 'Cultuur en Maatschappij'
 image: 9007a32f-c19a-4b36-b086-0cfc39623f0f.webp
 anchor: Smart
+authors:
+    - 'Eco al-Hollandi'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Traditie
     - 'Conservatieve Alliantie'
     - Globalisme
+date: '2023-02-01'
 ---
 
 Theoretisch gezien heb ik veel aan te merken op massamigratie en multiculturalisme. Deze ideeën zijn natuurlijk gevoed door de werkelijkheid waarin ik mij, samen met de wereld in zijn algemeen, bevind. Desondanks stammen deze bij mij hoogstwaarschijnlijk niet uit dezelfde bron als bij de lezer, ongeacht of hij het multiculturalisme nou onderschrijft of afwijst.

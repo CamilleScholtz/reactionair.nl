@@ -2,16 +2,16 @@
 id: 257
 title: 'Oorlog als avontuur'
 subtitle: 'Een recensie van In Stahlgewittern'
-date: '2022-01-19'
-authors:
-    - 'De Melancholieke Nar'
-themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Top
+authors:
+    - 'De Melancholieke Nar'
+theme: 'Geschiedenis en Biografie'
 tags:
     - Oorlog
     - 'Ernst Jünger'
     - 'Eerste Wereldoorlog'
+date: '2022-01-19'
 ---
 
 Zoals Stanley Kubrick zei, er valt meer over oorlog te zeggen dan dat het slecht is.[^1] Hoe afschuwelijk het ook mag klinken, oorlog kan een bedwelmend avontuur of zelfs een spirituele ervaring zijn. In sommige gevallen kan het het beste in mensen naar boven halen. Ernst Jüngers _In Stahlgewittern_ (Nederlands: _Oorlogsroes_) getuigt daarvan. Het is een witte raaf onder oorlogsromans, in die zin dat het over oorlog gaat, maar niet tegen oorlog is. Jünger geeft een overtuigend pleidooi dat de verschrikkingen van oorlog en het pacifisme dat ze voortbrengen, slechts de helft van het verhaal zijn. Misschien minder.

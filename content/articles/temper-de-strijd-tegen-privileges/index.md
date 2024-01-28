@@ -2,17 +2,17 @@
 id: 187
 title: 'Temper de strijd tegen ‘privileges’'
 subtitle: 'Hoe de gekte van de Franse Revolutie doorleeft in het hedendaagse activisme'
-date: '2021-10-24'
-authors:
-    - 'Eric Hendriks-Kim'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
+note: "Dit artikel is eerder gepubliceerd in het *[NRC handelsblad](https://www.nrc.nl/nieuws/2017/10/26/temper-de-strijd-tegen-privileges-13691826-a1578885)*. \n"
+authors:
+    - 'Eric Hendriks-Kim'
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Franse revolutie'
     - Woke
     - Reactionair
-note: "Dit artikel is eerder gepubliceerd in het *[NRC handelsblad](https://www.nrc.nl/nieuws/2017/10/26/temper-de-strijd-tegen-privileges-13691826-a1578885)*. \n"
+date: '2021-10-24'
 ---
 
 Het is de nacht van 4 op 5 augustus, 1789. De revolutionaire Franse Nationale Vergadering is in extase, want vannacht nog worden alle privileges afgeschaft. Het voelt als een bevrijding, ook voor aanwezigen die hun privileges juist moeten opgeven. Huilend van blijdschap zweren aristocraten, geestelijken en regionale vertegenwoordigers hun privileges af. Als de zon opgaat, is alles en iedereen gelijk. Vanaf die nacht werden in Frankrijk en daarna door heel Europa in rap tempo alle middeleeuwse privileges afgeschaft. Het woord _‘privilege’_ stamt van het Latijnse privus en legum en betekent _‘privérecht’_, oftewel speciaal voorrecht. Naast belastingvrijstelling voor aristocraten en geestelijken ging het om zelfbeschikkingsrechten voor universiteiten, kerkordes, vrije steden en gildes.

@@ -2,19 +2,19 @@
 id: 142
 title: 'De politisering van de jeugdliteratuur'
 subtitle: 'Een pleidooi voor apolitieke kinderboeken'
-date: '2023-07-31'
-authors:
-    - 'Anna Strijbos'
-themes: 'Cultuur en Maatschappij'
 image: 153b3402-911b-4f19-b012-74110e78b7e1.jpg
 anchor: Smart
-caption: 'Théophile Emmanuel Duverger, Twee lezende kinderen (1855).'
+captions: 'Théophile Emmanuel Duverger, Twee lezende kinderen (1855).'
+authors:
+    - 'Anna Strijbos'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Seks
     - 'Pim Lammers'
     - Gender
     - 'Jean Piaget'
     - Transgenderisme
+date: '2023-07-31'
 ---
 
 Wat is beffen en hoe doe je het? Dit is een vraag die Channah Zwiep beantwoordt in

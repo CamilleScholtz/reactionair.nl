@@ -2,16 +2,16 @@
 id: 97
 title: 'Reactionaire verzetsstrijders en slachtoffers'
 subtitle: 'Van nazisme zowel als communisme'
-date: '2023-05-05'
-authors:
-    - Sanura
-themes: 'Geschiedenis en Biografie'
 image: d033eb6f-b72c-4688-a811-247257d76245.jpg
 anchor: Smart
+authors:
+    - Sanura
+theme: 'Geschiedenis en Biografie'
 tags:
     - Communisme
     - Nationaal-socialisme
     - 'Tweede Wereldoorlog'
+date: '2023-05-05'
 ---
 
 Wij vieren op 5 mei bevrijdingsdag, terwijl andere Europese landen 8 mei als V-dag vieren. Prachtige feestdagen die herdenken hoe Nederland, evenals België, Luxemburg, Denemarken en Noorwegen bevrijd werden van het nazisme. 

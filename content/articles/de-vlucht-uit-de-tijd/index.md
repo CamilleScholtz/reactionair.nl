@@ -2,17 +2,17 @@
 id: 168
 title: 'De vlucht uit de tijd'
 subtitle: 'Het mysterie van Robert van Gulik (1910- 1967)'
-date: '2023-09-08'
-authors:
-    - 'Robert Lemm'
-themes: 'Geschiedenis en Biografie'
 image: 375e77d3-fa50-448a-a53e-65dcf84532e3.jpg
 anchor: Smart
 description: 'Robert van Gulik was schrijver van de bekende Rechter Tie romans. Zijn meest enigmatische roman speelt zich echter af in Amsterdam.'
+authors:
+    - 'Robert Lemm'
+theme: 'Geschiedenis en Biografie'
 tags:
     - Boeddhisme
     - China
     - 'Robert van Gulik'
+date: '2023-09-08'
 ---
 
 Voor mij is hij een van de hoogtepunten van de naoorlogse literatuur in het Nederlands. En dan doel ik natuurlijk op zijn geniale Rechter Tie romans. Die spelen zich af in het zevende-eeuwse China gedurende de Tang dynastie: In een ver weg en lang geleden dus, en mede om die reden tijdloos. Janwillem van de Wetering, schrijver van detectiveromans, was zijn grote bewonderaar. Hij leidde de Rechter Tie romans in en publiceerde de biografie *Robert van Gulik, zijn leven – zijn werk*, uitgave Elsevier, Amsterdam/Brussel, 1982.  

@@ -2,15 +2,15 @@
 id: 71
 title: 'Rechts, stop met conformeren!'
 subtitle: 'Hoe rechts de verwezenlijking van hun eigen idealen in de weg zit'
-date: '2022-06-07'
-authors:
-    - 'Jurbin van Hooff'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Center
+authors:
+    - 'Jurbin van Hooff'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Woke
     - 'Marcus Aurelius'
+date: '2022-06-07'
 ---
 
 _Dit essay is oorspronkelijk geschreven voor de JONG21 'Wedstrijd van het Vrije Woord'._

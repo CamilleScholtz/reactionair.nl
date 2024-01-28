@@ -2,16 +2,16 @@
 id: 13
 title: Domesticering
 subtitle: 'De Futuro-Fundamentalistische Revolutie, deel 3'
-date: '2022-01-02'
-authors:
-    - 'Alexander Wolfheze'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Alexander Wolfheze'
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Thierry Baudet'
     - 'Carl Schmitt'
     - 'Mark Rutte'
+date: '2022-01-02'
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/tegen-natuurlijke-selectie/) het vorige deel._

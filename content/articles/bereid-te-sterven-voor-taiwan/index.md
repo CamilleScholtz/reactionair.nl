@@ -2,17 +2,17 @@
 id: 78
 title: 'Bereid te sterven voor Taiwan?'
 subtitle: 'Voorkom een tweede Vietnam; verraad geen bondgenoot'
-date: '2022-08-08'
-authors:
-    - Sanura
-themes: 'Politiek en Actualiteit'
 image: taiwan.webp
 anchor: Smart
+authors:
+    - Sanura
+theme: 'Politiek en Actualiteit'
 tags:
     - Oorlog
     - China
     - Oekraïne
     - Taiwan
+date: '2022-08-08'
 ---
 
 Communistisch China zit liberaal China (Taiwan) weer eens te bedreigen. Nancy Pelosi bezocht het land, naar ze zelf verklaarde met de bedoeling een statement te maken (alhoewel ik niet weet wat dit in de praktijk daadwerkelijk voor haar moet inhouden). Ze heeft in ieder geval een symbolisch gebaar gemaakt tegen het totalitarisme en de dreigende imperialistiche ambities van de CCP.

@@ -2,12 +2,11 @@
 id: 80
 title: 'Is conservatieve samenwerking met moslims onwenselijk?'
 subtitle: 'Een reactie op ‘tegen een politiek verbond met moslims’'
-date: '2022-01-15'
-authors:
-    - 'Dennis Honing'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Dennis Honing'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Islam
     - 'René Guénon'
@@ -17,6 +16,7 @@ tags:
     - Alt-right
     - 'Hamza Yusuf'
     - 'Jordan Peterson'
+date: '2022-01-15'
 ---
 
 Ik heb het stuk _'Tegen een politiek verbond met moslims'_ op _Heraut_ met veel interesse gelezen.[^1] Het is mooi om te zien dat de ideeen rond een conservatieve alliantie met moslims gaat leven, en dermate zo dat men erover denkt, spreekt en schrijft. 

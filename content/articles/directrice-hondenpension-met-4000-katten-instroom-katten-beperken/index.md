@@ -2,15 +2,15 @@
 id: 183
 title: 'Directrice hondenpension met 4000 katten: “Instroom katten beperken”'
 subtitle: 'Cynisme na zeshonderdste toezegging niet weggenomen'
-date: '2023-06-20'
-authors:
-    - Vrederijk
-themes: 'De Uylenspieghel'
 image: dc7bf90b-feaf-462d-b176-b8a9bb5be212.jpg
 anchor: Smart
-caption: "Marieke Rötte legt haar anti-katten standpunt uit. © Reu-ters 2023\n"
+captions: "Marieke Rötte legt haar anti-katten standpunt uit. © Reu-ters 2023\n"
+authors:
+    - Vrederijk
+theme: 'De Uylenspieghel'
 tags:
     - Immigratie
+date: '2023-06-20'
 ---
 
 In hondenpension “Nedermarken” neemt de ontevredenheid over de stijgende instroom van katten toe. De oorspronkelijke hondenbevolking is het er over eens dat er te veel katten naar het pension komen, en kiezen daarom al sinds 2010 voor een directie die zegt iets aan de katteninstroom te zullen doen.

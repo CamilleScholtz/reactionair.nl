@@ -2,17 +2,17 @@
 id: 217
 title: '‘Predators’ in ons midden?'
 subtitle: 'Van ‘grooming’ tot Demmink: wie weet wat…'
-date: '2023-02-06'
+image: edf99b3e-f658-41ff-88c7-5c6a504ad7f4.jpg
+anchor: Smart
 authors:
     - Sanura
     - 'Anton Prins'
     - 'Calvin Tangelder'
-themes: 'Politiek en Actualiteit'
-image: edf99b3e-f658-41ff-88c7-5c6a504ad7f4.jpg
-anchor: Smart
+theme: 'Politiek en Actualiteit'
 tags:
     - Woke
     - 'Pim Lammers'
+date: '2023-02-06'
 draft: true
 ---
 

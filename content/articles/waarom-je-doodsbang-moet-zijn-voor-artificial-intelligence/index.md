@@ -2,16 +2,17 @@
 id: 129
 title: 'Waarom je doodsbang moet zijn voor Artificiële Intelligentie '
 subtitle: 'Onze realiteit gereduceerd tot pure kwantiteit — lees tot het einde!'
-date: '2022-07-24'
-authors:
-    - 'Camille Scholtz'
-themes: 'Religie en Wijsbegeerte'
 image: test.jpg
 anchor: Smart
+authors:
+    - 'Camille Scholtz'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - AI
     - 'René Guénon'
     - Kwantificering
+date: '2022-07-24'
+draft: true
 ---
 
 In de visie van René Guénon is het universum een hiërarchie van zijn, met als hoogste niveau het spirituele rijk, gevolgd door het psychische rijk, het intellectuele rijk en tenslotte het fysieke rijk. Deze hiërarchie is gebaseerd op het principe van kwalitatieve superioriteit, waarbij elk hoger niveau kwalitatiever (en dus reëler) is dan het niveau eronder.

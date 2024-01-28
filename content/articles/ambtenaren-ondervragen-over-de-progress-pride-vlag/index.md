@@ -2,14 +2,15 @@
 id: 148
 title: 'Ambtenaren ondervragen over de “Progress Pride-vlag”'
 subtitle: 'De nieuwe kleuren van de keizer'
-date: '2023-05-17'
-authors:
-    - 'Camille Scholtz'
-themes: 'Politiek en Actualiteit'
 image: e6b4382a-cf08-4198-a462-c0817cc6c6e7.jpg
 anchor: Smart
+authors:
+    - 'Camille Scholtz'
+theme: 'Politiek en Actualiteit'
 tags:
     - LGBT
+date: '2023-05-17'
+draft: true
 ---
 
 {{< quote text="Liefde is liefde & je mag zijn wie je bent." author="Hilde Crevits" >}}

@@ -2,14 +2,14 @@
 id: 17
 title: 'Mens of insect?'
 subtitle: 'De mierenhoop van de moderniteit'
-date: '2023-09-26'
-authors:
-    - 'Robbert Leusink'
-themes: 'Cultuur en Maatschappij'
 image: 133ded0a-a206-4305-9bad-b0b274172e34.webp
 anchor: Center
+authors:
+    - 'Robbert Leusink'
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Franz Kafka'
+date: '2023-09-26'
 ---
 
 Gregor Samsa uit het boek "De Gedaanteverwisseling" (Die Verwandlung) van Franz Kafka is het equivalent van de hedendaagse boomerchique accountmanager.[^1] Zijn leven als handelsreiziger bestaat voornamelijk uit kantoorbezoeken en beurzen, waar hij in onze tijd ongetwijfeld in zijn zielloze elektrische leaseauto naartoe zou zijn gereden. Hij klaagt steen en been over zijn werksituatie, heeft kritiek op de economie, het nieuws, zijn klanten en heeft bewust of onbewust ook een enorme hekel aan zijn werkgever. Thuis trekt hij een blij gezicht op, en voor de buitenwereld lijkt het alsof hij het allemaal fantastisch vindt.

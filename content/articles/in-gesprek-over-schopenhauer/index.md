@@ -2,13 +2,13 @@
 id: 158
 title: 'In gesprek over Schopenhauer'
 subtitle: 'Een recensie van het boek “De weg terug”'
-date: '2022-12-09'
-authors:
-    - 'Anton Prins'
-themes: 'Religie en Wijsbegeerte'
 image: der_chasseur_im_walde_-_caspar_david_friedrich-1-.jpg
 anchor: Smart
-caption: 'Der Chasseur im Walde, Caspar David Friedrich, 1814.'
+captions: 'Der Chasseur im Walde, Caspar David Friedrich, 1814.'
+note: "Dit artikel is een recensie van het boek 'De weg terug: Schopenhauer voor een dolende wereld' van dr. Joris van Rossum. Is uw interesse door dit artikel gewekt? Bestel het boek dan [hier](https://deblauwetijger.com/product/joris-van-rossum-de-weg-terug-schopenhauer-voor-een-dolende-wereld/)."
+authors:
+    - 'Anton Prins'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Metafysica
     - 'Arthur Schopenhauer'
@@ -18,7 +18,7 @@ tags:
     - 'Joris van Rossum'
     - 'Marcel Proust'
     - 'Richard Dawkins'
-note: "Dit artikel is een recensie van het boek 'De weg terug: Schopenhauer voor een dolende wereld' van dr. Joris van Rossum. Is uw interesse door dit artikel gewekt? Bestel het boek dan [hier](https://deblauwetijger.com/product/joris-van-rossum-de-weg-terug-schopenhauer-voor-een-dolende-wereld/)."
+date: '2022-12-09'
 ---
 
 {{< quote

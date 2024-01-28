@@ -2,20 +2,20 @@
 id: 106
 title: 'De duivelse Embryowet'
 subtitle: 'Worden mens-dier-kruisingen straks werkelijkheid?'
-date: '2023-04-21'
-authors:
-    - 'Eva Vlaardingerbroek'
-themes: 'Politiek en Actualiteit'
 image: f7700375-bcb4-40b5-8bb1-4bbd600aa17c.jpg
 anchor: Smart
 description: 'Waarom de beoogde wijziging van de embryowet een ontzettend slecht idee is.'
+note: 'Dit artikel is een vertaling van het artikel *[The Dutch Demonic Embryo Act](https://evavlaardingerbroek.substack.com/p/the-dutch-demonic-embryo-act)* zoals deze eerder verscheen op de Substackpagina van Eva. '
+authors:
+    - 'Eva Vlaardingerbroek'
+theme: 'Politiek en Actualiteit'
 tags:
     - Wetgeving
     - Wetenschap
     - 'Eva Vlaardingerbroek'
     - 'Aldoux Huxley'
     - Transhumanisme
-note: 'Dit artikel is een vertaling van het artikel *[The Dutch Demonic Embryo Act](https://evavlaardingerbroek.substack.com/p/the-dutch-demonic-embryo-act)* zoals deze eerder verscheen op de Substackpagina van Eva. '
+date: '2023-04-21'
 ---
 
 Het zal overbodig zijn u te vertellen dat ik mijn overheid wantrouw. Iedereen die ooit één van mijn interviews heeft gezien of die mij heeft horen spreken over de talloze schendingen van de wet die onze overheid door de jaren heen heeft begaan, zal dit kunnen beamen. Denk aan de vreselijke Covid-beperkingen, het uit de weg ruimen van de onschuldpresumptie en recentelijk de onteigening (lees: diefstal van land) van onze boeren. Kortom; de mensen die ons regeren vertegenwoordigen niet onze belangen. Dit wisten we al, maar wat nu volgt heeft mij toch ongelofelijk gechoqueerd.

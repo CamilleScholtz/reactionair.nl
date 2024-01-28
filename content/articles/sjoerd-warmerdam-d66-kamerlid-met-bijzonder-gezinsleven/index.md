@@ -2,17 +2,17 @@
 id: 159
 title: 'Sjoerd Warmerdam, D66-Kamerlid met bijzonder gezinsleven'
 subtitle: 'Drie mannen, twee vrouwen en één kind'
-date: '2023-06-08'
-authors:
-    - 'De redactie'
-themes: 'Politiek en Actualiteit'
 image: 37c177e8-bf1c-4382-a098-6f8925e407af.jpg
 anchor: Center
+authors:
+    - 'De redactie'
+theme: 'Politiek en Actualiteit'
 tags:
     - LGBT
     - D66
     - Rutgers
     - 'Sjoerd Warmerdam'
+date: '2023-06-08'
 ---
 
 "Deze vijf mensen krijgen samen een baby! Daantje is getrouwd met Dewi. Jaco is getrouwd met Sjoerd, en ze houden allebei van Shaun. Alle vijf krijgen ze deze week een baby." — zo opent VICE in 2015 een artikel over Sjoerd Warmerdam, 'zijn twee mannen' en een lesbisch stel waarmee zij samen een kind krijgen.[^1]

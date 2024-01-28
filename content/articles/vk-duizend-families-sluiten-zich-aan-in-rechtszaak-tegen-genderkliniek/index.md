@@ -2,15 +2,15 @@
 id: 127
 title: 'Verenigd Koninkrijk: Duizend families sluiten zich aan in rechtszaak tegen genderkliniek'
 subtitle: 'Nederlandse media opvallend stil'
-date: '2022-08-11'
-authors:
-    - 'Paars van Grinsterer'
-themes: 'Politiek en Actualiteit'
 image: kid.jpg
 anchor: Smart
+authors:
+    - 'Paars van Grinsterer'
+theme: 'Politiek en Actualiteit'
 tags:
     - Woke
     - LGBT
+date: '2022-08-11'
 ---
 
 De genderkliniek Tavistock in Engeland wordt geconfronteerd met juridische stappen van jongeren die beweren dat ze overhaast zijn overgehaald tot het nemen van levensveranderende puberteitsblokkers. Het is een nieuwe ontwikkeling in de dubieuze en controversiële geschiedenis van het instituut.[^1]

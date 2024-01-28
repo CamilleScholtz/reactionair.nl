@@ -2,13 +2,12 @@
 id: 21
 title: 'Hoe de filosoof met de hamer muren doorbrak om weer zicht te krijgen op het Ene'
 subtitle: 'Over taaltovenarij met hamer en mes'
-date: '2022-05-07'
-authors:
-    - 'De Melancholieke Nar'
-themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Center
-caption: 'Friedrich Nietzsche door Edvard Munch, 1906.'
+captions: 'Friedrich Nietzsche door Edvard Munch, 1906.'
+authors:
+    - 'De Melancholieke Nar'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Metafysica
     - 'René Guénon'
@@ -18,6 +17,7 @@ tags:
     - Linguistiek
     - 'Ludwig Wittgenstein'
     - 'Martin Heidegger'
+date: '2022-05-07'
 ---
 
 {{< quote

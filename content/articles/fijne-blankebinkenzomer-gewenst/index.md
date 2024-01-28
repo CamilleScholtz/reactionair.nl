@@ -2,12 +2,11 @@
 id: 41
 title: 'Maak er een mooie blankebinkenzomer van!'
 subtitle: 'En laat je niet casten als slechterik'
-date: '2023-05-21'
-authors:
-    - 'De Melancholieke Nar'
-themes: 'Cultuur en Maatschappij'
 image: 6d4629eb-4b9a-4526-b276-c0509433efd8.jpg
 anchor: Smart
+authors:
+    - 'De Melancholieke Nar'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Woke
     - Communisme
@@ -15,6 +14,7 @@ tags:
     - Marxisme
     - Racisme
     - Ressentiment
+date: '2023-05-21'
 draft: true
 ---
 

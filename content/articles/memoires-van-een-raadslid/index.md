@@ -2,12 +2,12 @@
 id: 137
 title: 'Memoires van een raadslid'
 subtitle: 'Subtiele manipulaties in de gemeentepolitiek'
-date: '2022-07-08'
-authors:
-    - '‘Het Dorp’ Genieter'
-themes: 'Onderzoek en Speurwerk'
 image: qts5jkz.jpeg
 anchor: Smart
+authors:
+    - '‘Het Dorp’ Genieter'
+theme: 'Onderzoek en Speurwerk'
+date: '2022-07-08'
 ---
 
 De gemeentepolitiek, een minder saai onderwerp is moeilijk te vinden. Een groep mensen die zich bekommeren over laadpalen, hoge beschoeiingen en bestemmingsplannen in commissies en vergaderingen en, minstens zo belangrijk, de borrel achteraf. 

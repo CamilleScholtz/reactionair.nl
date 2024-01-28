@@ -2,15 +2,15 @@
 id: 107
 title: 'De expert als geleerde dommerik'
 subtitle: 'Waarom hebben de hoogste autoriteiten soms zulke wereldvreemde meningen?'
-date: '2022-03-06'
-authors:
-    - 'Marit Elechan'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Marit Elechan'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Technologie
     - Wetenschap
+date: '2022-03-06'
 ---
 
 In de hedendaagse samenleving zien wij het regelmatig: een geleerde met een hoogdravende mening. Vaak is dit nog over een precair maatschappelijk onderwerp. De geleerde wordt uitgenodigd voor televisieprogramma’s, kranten, tijdschriften, enzovoort. Is dit gek?

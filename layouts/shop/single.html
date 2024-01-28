@@ -1,99 +1,69 @@
 {{ define "main" }}
 	<div id="shop">
 		<section id="hero">
-			<div class="background"></div>
-
-			{{ partial "books/large.html" (dict
-				"context" .
-				"title"   .Params.title
-				"front"   (.Resources.Get .Params.front)
-				"back"    (.Resources.Get .Params.back)
-				"pages"   .Params.pages
-				"animate" true
-				"click"   (isset .Params "back")
-				"hover"   (not (isset .Params "back"))
-			) }}
-
-			<a class="back-button" href="/winkel">‹</a>
-
-			<div class="title-container">
-				<h3>
-					{{ range $index, $writer := .Params.writers }}
-						<a href="/winkel/auteur/{{ urlize $writer }}">{{ $writer }}</a>
-						{{ if eq $index (sub (len $.Params.writers) 2) }}
-							&amp;
-						{{ else if ne (add $index 1) (len $.Params.writers) }}
-							,
-						{{ end }}
-					{{ end }}
-				</h3>
-
-				<h1>{{ .Params.title }}</h1>
-				{{ if isset .Params "subtitle" }}
-					<h2>{{ .Params.subtitle }}</h2>
-				{{ end }}
-
-				<div class="quote">“&nbsp;</div>
-			</div>
-
-			{{ partial "shop/cart/large.html" (dict
-				"product"  .Params.id
-				"variants" .Params.variants
-				"checkout" true
-			) }}
+			{{ partialCached "products/large.html" (dict
+				"product" .
+			) .File.UniqueID }}
 		</section>
 
 		<article id="product">
-			<table>
-				<tr>
-					<th>Titel</th>
-					<td><span>{{ .Params.title }}</span>{{ if isset .Params "subtitle" }}<br><span>{{ .Params.subtitle }}</span>{{ end }}</td>
+			{{ $section := .CurrentSection.File.ContentBaseName }}
+			{{ if or (eq $section "shop") (eq .Kind "term") }}
+				{{ $section = "boeken" }}
+			{{ end }}
 
-					<th>Taal</th>
-					<td><a href="/winkel/taal/{{ urlize .Params.languages }}">{{ .Params.languages }}</a></td>
-				</tr>
+			{{ if eq $section "boeken" }}
+				<table>
+					<tr>
+						<th>Titel</th>
+						<td><span>{{ .Params.title }}</span>{{ if isset .Params "subtitle" }}<br><span>{{ .Params.subtitle }}</span>{{ end }}</td>
 
-				<tr>
-					<th>Auteur(s)</th>
-					<td>
-						{{ range $index, $writer := .Params.writers }}
-							<a href="/winkel/auteur/{{ urlize $writer }}">{{ $writer }}</a>
-							{{ if eq $index (sub (len $.Params.writers) 2) }}
-								&amp;
-							{{ else if ne (add $index 1) (len $.Params.writers) }}
-								,
+						<th>Taal</th>
+						<td><a href="/winkel/producten/boeken/talen/{{ urlize .Params.language }}">{{ .Params.language }}</a></td>
+					</tr>
+
+					<tr>
+						<th>Auteur(s)</th>
+						<td>
+							{{ range $index, $writer := .Params.writers }}
+								<a href="/winkel/producten/boeken/auteurs/{{ urlize $writer }}">{{ $writer }}</a>
+								{{ if eq $index (sub (len $.Params.writers) 2) }}
+									&amp;
+								{{ else if ne (add $index 1) (len $.Params.writers) }}
+									,
+								{{ end }}
 							{{ end }}
-						{{ end }}
-					</td>
+						</td>
 
-					<th>Uitgever</th>
-					<td><a href="/winkel/uitgeverij/{{ urlize .Params.publishers }}">{{ .Params.publishers }}</a></td>
-				</tr>
+						<th>Uitgever</th>
+						<td><a href="/winkel/producten/boeken/uitgeverijen/{{ urlize .Params.publisher }}">{{ .Params.publisher }}</a></td>
+					</tr>
 
-				<tr>
-					<th>Jaar</th>
-					<td>{{ .Params.date.Format "2006" }}</td>
+					<tr>
+						<th>Jaar</th>
+						<td>{{ .Params.date.Format "2006" }}</td>
 
-					<th>ISBN</th>
-					<td>
-						{{ range .Params.variants }}
-							{{ .isbn }}<br>
-						{{ end }}
-					</td>
-				</tr>
+						<th>ISBN</th>
+						<td>
+							{{ range .Params.variants }}
+								{{ .isbn }}<br>
+							{{ end }}
+						</td>
+					</tr>
 
-				<tr>
-					<th>Aantal paginas</th>
-					<td>{{ .Params.pages }}</td>
+					<tr>
+						<th>Aantal paginas</th>
+						<td>{{ .Params.pages }}</td>
 
-					<th>Formaat</th>
-					<td>
-						{{ range .Params.variants }}
-							{{ .name }}<br>
-						{{ end }}
-					</td>
-				</tr>
-			</table>
+						<th>Formaat</th>
+						<td>
+							{{ range .Params.variants }}
+								{{ .format | title }}<br>
+							{{ end }}
+						</td>
+					</tr>
+				</table>
+			{{ end }}
 
 			<section class="content">
 				{{ .Content }}

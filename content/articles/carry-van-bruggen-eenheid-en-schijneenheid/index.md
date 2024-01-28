@@ -2,16 +2,16 @@
 id: 165
 title: 'Carry van Bruggen: Eenheid en schijneenheid'
 subtitle: 'Een vergeten Nederlandse filosofe over dogmatisch kuddegedrag, versus zoeken naar Waarheid'
-date: '2022-02-17'
-authors:
-    - 'Marit Elechan'
-themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Marit Elechan'
+theme: 'Geschiedenis en Biografie'
 tags:
     - Metafysica
     - 'Griekse mythologie'
     - 'Baruch Spinoza'
+date: '2022-02-17'
 ---
 
 Vlak na de Eerste Wereldoorlog verscheen het filosofische magnum opus van de Nederlandse auteur Carry van Bruggen, _Prometheus_ (1919). Hoewel Van Bruggen (1881-1932) zelf hoge verwachtingen had van het boek, raakte het al tijdens diens verschijning in de vergetelheid. Was dit terecht? Zeker niet, want het werk bevat een vernuftig vertoog over de ontwikkeling van het mensdom. Hier bekijken wij het nader.

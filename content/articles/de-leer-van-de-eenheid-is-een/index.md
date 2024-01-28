@@ -2,17 +2,17 @@
 id: 198
 title: 'De leer van de Eenheid is één'
 subtitle: 'al-Tawhīdu wāhidun'
-date: '2022-05-02'
-authors:
-    - 'Camille Scholtz'
-themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Center
+authors:
+    - 'Camille Scholtz'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Islam
     - Metafysica
     - Theologie
     - 'René Guénon'
+date: '2022-05-02'
 ---
 
 Wanneer ik mijmerend door de bladzijden van een boek ga, gaat mijn aandacht doorgaans verloren in de talloze zinnen en passages, die slechts enkele minuten later in de vergetelheid raken. Het zijn de ongekende parels die een onuitwisbare indruk achterlaten. Een dergelijke kostbare schat vond ik in een alinea van René Guénon's boek, *Aperçus sur l'ésotérisme islamique et le taoïsme*:

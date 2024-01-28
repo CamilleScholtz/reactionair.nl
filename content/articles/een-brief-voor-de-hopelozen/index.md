@@ -2,17 +2,17 @@
 id: 48
 title: 'Een brief voor de hopelozen'
 subtitle: 'Waarom ook jij 15 maart gaat stemmen'
-date: '2023-02-12'
-authors:
-    - 'v. Stormberg'
-themes: 'Politiek en Actualiteit'
 image: a7474dd3-15cd-483d-8a3a-4a2470748dc4.jpg
 anchor: Smart
+authors:
+    - 'v. Stormberg'
+theme: 'Politiek en Actualiteit'
 tags:
     - Democratie
     - D66
     - VVD
     - Verkiezingen
+date: '2023-02-12'
 ---
 
 In het land waar het wantrouwen en de desillusie de politiek in hun greep hebben, rijst de vraag wat er volgende maand moet gebeuren bij de Provinciale Statenverkiezingen. Terwijl het cynische spel van campagnes nog op gang moet komen, rijst de vraag uit alle hoeken op wie, wat en _of_ men überhaupt zal stemmen. Nerveus verschieten de meningen van optie naar optie en niet dikwijls landen ze op de uitroep dat het maar beter is om helemaal nergens op te stemmen. Helaas bevat die uitkomst een kleine weeffout: Niet stemmen is voor minkukels.

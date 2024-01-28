@@ -2,15 +2,15 @@
 id: 124
 title: '‘Die tyranny verdrijven’'
 subtitle: 'De Futuro-Fundamentalistische Revolutie, deel 6'
-date: '2022-01-26'
-authors:
-    - 'Alexander Wolfheze'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Alexander Wolfheze'
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Charles Darwin'
     - Elite
+date: '2022-01-26'
 ---
 
 _Dit essay maakt deel uit van de essay-serie 'De Futuro-Fundamentalistische Revolutie'. Zie [hier](https://reactionair.nl/artikelen/verelendungstheorie/) het vorige deel._

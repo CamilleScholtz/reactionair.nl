@@ -1,0 +1,50 @@
+<div class="cart-form-container">
+	{{ range .variants }}
+		<div class="cart-form" data-variant="{{ .id }}" data-price="{{ .price }}">
+			<div class="price">
+				{{ if gt (len $.variants) 1 }}
+					<div class="variant">{{ .format }}</div>
+				{{ end }}
+
+				{{ if not .out_of_stock }}
+					{{ .price | printf "€ %.2f" }}
+				{{ else }}
+					<span class="unavailable">Niet beschikbaar.</span>
+				{{ end }}
+			</div>
+
+			{{ if not .out_of_stock }}
+				<button class="button add-to-cart">
+					Toevoegen aan winkelwagen
+				</button>
+
+				<div class="added-to-cart" style="display: none;">
+					<button class="button remove-from-cart">
+						-
+					</button>
+
+					<input class="amount-in-cart" type="number" value="1" min="1" max="10">
+
+					<button class="button add-to-cart">
+						+
+					</button>
+
+					{{ if $.checkout }}
+						<a href="/winkel/wagen" class="button checkout">
+							Afrekenen
+						</a>
+					{{ end }}
+				</div>
+			{{ else }}
+				<form class="unavailable-form" data-variant="{{ .id }}">
+					<input type="email" id="email" name="email" required placeholder="Uw e-mailadres" autocomplete="email"/>
+					<input type="text" id="question" style="display: none;" name="question" placeholder="Wat is 4 + 4?"/>
+
+					<button class="button">
+						Houd mij op de hoogte
+					</button>
+				</form>
+			{{ end }}
+		</div>
+	{{ end }}
+</div>

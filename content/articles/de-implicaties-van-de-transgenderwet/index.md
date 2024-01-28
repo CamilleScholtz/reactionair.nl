@@ -2,16 +2,16 @@
 id: 62
 title: 'De implicaties van de Transgenderwet'
 subtitle: 'Hoe de gendergekte nu via het recht de samenleving verzwakt en subjectiveert'
-date: '2022-09-26'
-authors:
-    - 'Calvin Tangelder'
-themes: 'Politiek en Actualiteit'
 image: inter.webp
 anchor: Top
+authors:
+    - 'Calvin Tangelder'
+theme: 'Politiek en Actualiteit'
 tags:
     - Woke
     - LGBT
     - Wetgeving
+date: '2022-09-26'
 ---
 
 Binnenkort behandelt de Tweede Kamer de wijziging van de Transgenderwet. De kans is aanzienlijk dat de Tweede Kamer binnenkort voorstander bij meerderheid zal blijken voor de aanpassing van de Transgenderwet. Het is met deze wetswijziging de bedoeling dat jongvolwassenen, kinderen zelfs, makkelijker hun geslachtsregistratie kunnen laten wijzigen in de akte van geboorte. Niet alleen het versoepelen van de procedure van deze wijziging wordt beoogd: ook is het de bedoeling om de leeftijdsgrens van zestien jaar (geheel) te laten vervallen. 

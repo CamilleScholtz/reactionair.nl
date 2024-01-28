@@ -2,12 +2,11 @@
 id: 53
 title: 'De ondergang van de democratie?'
 subtitle: '‘Degeneratie van het midden’ na revolutie, tirannie en terreur'
-date: '2022-05-14'
-authors:
-    - Sanura
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - Sanura
+theme: 'Cultuur en Maatschappij'
 tags:
     - 'Karl Marx'
     - Democratie
@@ -22,6 +21,7 @@ tags:
     - 'Erik von Kuehnelt-Leddihn'
     - Nationaal-socialisme
     - Totalitarisme
+date: '2022-05-14'
 ---
 
 Liberale westerse democratie houdt zichzelf niet per definitie in stand. Revolutionaire bewegingen aan de linkerkant en contrarevolutionairen aan de rechter, kunnen gebruik maken van verkiezingen om het liberaal-democratische systeem af te schaffen.

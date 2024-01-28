@@ -2,18 +2,18 @@
 id: 27
 title: 'Wie Nederland liefheeft, laat het liberalisme links liggen'
 subtitle: 'Over onze toekomst'
-date: '2022-04-11'
-authors:
-    - 'Jan-Jaap Moltman'
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Jan-Jaap Moltman'
+theme: 'Cultuur en Maatschappij'
 tags:
     - Liberalisme
     - BBB
     - Economie
     - FVD
     - JA21
+date: '2022-04-11'
 ---
 
 Hoe vaak valt in een opiniestuk, in social media of aan talkshowtafels wel niet te horen dat _"de VVD links geworden is"_, dat men _"de tijden van Bolkestein mist"_ of dat _"de VVD nu echt zal gaan instorten"_? En minstens net zo vaak gaat het over het doorgeslagen progressivisme van _D66_ en de manier waarop zij van politiek een identiteitsmarkt maakt waarin iedereen afwijkend van de gemiddelde Nederlander met zichzelf te koop loopt.

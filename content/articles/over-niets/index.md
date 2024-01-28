@@ -2,17 +2,17 @@
 id: 82
 title: 'Over Niets'
 subtitle: 'De uitersten ontmoeten elkaar in het niets'
-date: '2022-06-04'
-authors:
-    - 'Jan de Maansnijder'
-themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Top
+note: "Dit is een vertaling van het essay 'On Nothing', het origineel is [hier](https://esoterictraditionalism.wordpress.com/2019/08/02/on-nothing/) te lezen."
+authors:
+    - 'Jan de Maansnijder'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Metafysica
     - Theologie
     - Christendom
-note: "Dit is een vertaling van het essay 'On Nothing', het origineel is [hier](https://esoterictraditionalism.wordpress.com/2019/08/02/on-nothing/) te lezen."
+date: '2022-06-04'
 ---
 
 {{< quote

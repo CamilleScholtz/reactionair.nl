@@ -2,18 +2,18 @@
 id: 11
 title: 'Natuur versus natuur'
 subtitle: 'Een modern misverstand'
-date: '2021-10-14'
-authors:
-    - 'Camille Scholtz'
-themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
+authors:
+    - 'Camille Scholtz'
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Metafysica
     - 'René Guénon'
     - Aristoteles
     - Seks
     - LGBT
+date: '2021-10-14'
 ---
 
 We zien vaak vergelijkingen in de vorm van _“homoseksualiteit komt voor bij enkele diersoorten, dus is het natuurlijk”_, aan de andere kant zien we atheïsten beweren dat de religieuze filosofie gebruik maakt van een _“beroep op de natuur”_ drogredenering. Beide komen voort uit een misverstand. De eerste over een misverstand over de betekenis van de natuur, en de tweede over een betekenis van de Natuur, met een hoofdletter N.

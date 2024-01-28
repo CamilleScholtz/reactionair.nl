@@ -2,17 +2,17 @@
 id: 92
 title: 'Was Jezus een Reactionair?'
 subtitle: 'Traditie = historische context'
-date: '2022-03-19'
-authors:
-    - Sanura
-themes: 'Religie en Wijsbegeerte'
 image: thumb.webp
 anchor: Smart
+authors:
+    - Sanura
+theme: 'Religie en Wijsbegeerte'
 tags:
     - Plato
     - Aristoteles
     - Socrates
     - Christendom
+date: '2022-03-19'
 ---
 
 Van aangepaste bijbelvertalingen met _“gender-inclusief”_ taalgebruik tot het drastisch aanpassen van traditionele vormen van liturgie,[^1] overal zien we een agressieve en fanatieke push binnen het westen om het christendom aan te passen aan een moderne, seculiere, antichristelijke cultuur.

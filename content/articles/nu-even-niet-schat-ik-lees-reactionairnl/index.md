@@ -2,16 +2,16 @@
 id: 246
 title: '‘Nu even niet schat, ik lees Reactionair.nl’'
 subtitle: 'Een litanie van medialeugens en een ingezonden brief'
-date: '2023-02-10'
-authors:
-    - 'De redactie'
-themes: 'Politiek en Actualiteit'
 image: b8a1b5e4-a46c-4c73-90f5-04d08f503f5e.jpg
 anchor: Smart
+authors:
+    - 'De redactie'
+theme: 'Politiek en Actualiteit'
 tags:
     - Woke
     - 'Pim Lammers'
     - Media
+date: '2023-02-10'
 ---
 
 Het was me het weekje wel op de virtuele *Reactionair.nl*-redactieburelen. Ineens stonden we in alle kranten en werden we genoemd op radio en tv. Daarbij werden helaas wel de nodige onwaarheden en ongefundeerde verdachtmakingen geuit. Een litanie:

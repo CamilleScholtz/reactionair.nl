@@ -2,12 +2,11 @@
 id: 276
 title: 'Trias politica, rechtsstaat en de nuances uit de vroegmoderne tijd'
 subtitle: "De l'Esprit des Lois 2.0, deel 2"
-date: '2022-04-28'
-authors:
-    - Sanura
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+authors:
+    - Sanura
+theme: 'Cultuur en Maatschappij'
 tags:
     - Democratie
     - Liberalisme
@@ -16,6 +15,7 @@ tags:
     - 'Thierry Baudet'
     - 'C. S. Lewis'
     - 'Alexis de Tocqueville'
+date: '2022-04-28'
 ---
 
 Wie regeert, wordt sinds de laatste paar eeuwen primair ook weer beïnvloed door het stelsel waarbinnen de elite en de meerderheid functioneren. Daarom moeten de ontwikkelingen van complexere staatsvormen tijdens de vroegmoderne periode eerst bekeken worden.

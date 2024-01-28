@@ -2,16 +2,16 @@
 id: 91
 title: 'Schönberg de behoudende'
 subtitle: 'De meester en de moderniteit'
-date: '2022-05-09'
-authors:
-    - 'Anton Prins'
-themes: 'Geschiedenis en Biografie'
 image: thumb.webp
 anchor: Center
+authors:
+    - 'Anton Prins'
+theme: 'Geschiedenis en Biografie'
 tags:
     - 'Theodor Adorno'
     - Muziek
     - 'Richard Wagner'
+date: '2022-05-09'
 ---
 
 {{< quote

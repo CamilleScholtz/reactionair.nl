@@ -1,32 +1,32 @@
 {{ define "main" }}
 	{{ $themes   := slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Wijsbegeerte" "Onderzoek en Speurwerk" "Geschiedenis en Biografie" }}
-	{{ $articles := where site.RegularPages "Params.themes" "in" $themes }}
+	{{ $articles := where site.RegularPages "Params.theme" "in" $themes }}
 
 	<section id="hero">
 		<section class="left">
 			<div class="scroll">
 				<div class="mobile-featured scroll-item">
 					{{ partial "articles/large.html" (dict
-						"context" (index $articles 0)
+						"article" (index $articles 0)
 					) }}
 				</div>
 
 				<div class="scroll-item">
 					{{ partial "articles/large.html" (dict
-						"context" (index $articles 1)
+						"article" (index $articles 1)
 					) }}
 				</div>
 
 				<div class="scroll-item">
 					{{ partial "articles/large.html" (dict
-						"context" (index $articles 2)
+						"article" (index $articles 2)
 					) }}
 				</div>
 			</div>
 		</section>
 
 		{{ partial "articles/featured.html" (dict
-			"context" (index $articles 0)
+			"article" (index $articles 0)
 		) }}
 
 		<section class="right">
@@ -36,20 +36,20 @@
 
 			<div class="articles">
 				{{ partialCached "articles/small.html" (dict
-					"context" (index $articles 3)
-				) (index $articles 3).File.ContentBaseName }}
+					"article" (index $articles 3)
+				) (index $articles 3).File.UniqueID }}
 
 				{{ partialCached "articles/small.html" (dict
-					"context" (index $articles 4)
-				) (index $articles 4).File.ContentBaseName }}
+					"article" (index $articles 4)
+				) (index $articles 4).File.UniqueID }}
 
 				{{ partialCached "articles/small.html" (dict
-					"context" (index $articles 5)
-				) (index $articles 5).File.ContentBaseName }}
+					"article" (index $articles 5)
+				) (index $articles 5).File.UniqueID }}
 
 				{{ partialCached "articles/small.html" (dict
-					"context" (index $articles 6)
-				) (index $articles 6).File.ContentBaseName }}
+					"article" (index $articles 6)
+				) (index $articles 6).File.UniqueID }}
 			</div>
 		</section>
 	</section>
@@ -61,9 +61,9 @@
 		<div class="links">
 			<a href="/auteurs/">Auteurs</a>
 
- 			<span class="pipe">•</span>
+			<span class="pipe">•</span>
 
-			<a href="/winkel/">Winkel</a>
+			<a href="/winkel/producten/boeken">Winkel</a>
 			
 			<span class="pipe">•</span>
 			
@@ -75,57 +75,40 @@
 
 	<section>
 		{{ $themes := slice "Politiek en Actualiteit" "Religie en Wijsbegeerte" }}
-		{{ $pages  := where $articles "Params.themes" "in" $themes }}
+		{{ $pages  := where $articles "Params.theme" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}
-			{{ $pages := (where $pages "Params.themes" "eq" $theme) }}
-
-			{{ $side := "right" }}
-			{{ if mod $i 2 }}
-				{{ $side = "left" }}
-			{{ end }}
-
 			{{ partial "articles/theme.html" (dict
-				"context" .
 				"section" "themes"
 				"path"    "themas"
 				"term"    $theme
-				"pages"   $pages
-				"side"    $side
+				"pages"   (where $pages "Params.theme" "eq" $theme)
+				"side"    (cond (eq (mod $i 2) 0) "right" "left")
 			) }}
 		{{ end }}
 	</section>
 
 	<section class="av">
-		{{ $book := index (where (where site.RegularPages "Section" "shop") ".Params.title" site.Params.advert) 0 }}
+		{{ $book := index (where (.GetPage "shop/products/boeken").RegularPages ".Params.title" site.Params.advert) 0 }}
 
 		{{ with $book }}
 			{{ partialCached "advert.html" (dict
-				"context" .
-				"book"    .
-			) .File.ContentBaseName }}
+				"book" .
+			) .File.UniqueID }}
 		{{ end }}
 	</section>
 
 	<section>
 		{{ $themes := slice "Onderzoek en Speurwerk" "Cultuur en Maatschappij" }}
-		{{ $pages  := where $articles "Params.themes" "in" $themes }}
+		{{ $pages  := where $articles "Params.theme" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}
-			{{ $pages := (where $pages "Params.themes" "eq" $theme) }}
-
-			{{ $side := "right" }}
-			{{ if mod $i 2 }}
-				{{ $side = "left" }}
-			{{ end }}
-
 			{{ partial "articles/theme.html" (dict
-				"context" .
 				"section" "themes"
 				"path"    "themas"
 				"term"    $theme
-				"pages"   $pages
-				"side"    $side
+				"pages"   (where $pages "Params.theme" "eq" $theme)
+				"side"    (cond (eq (mod $i 2) 0) "right" "left")
 			) }}
 		{{ end }}
 	</section>
@@ -136,24 +119,16 @@
 
 	<section>
 		{{ $themes   := slice "Geschiedenis en Biografie" "De Uylenspieghel" }}
-		{{ $articles := where site.RegularPages "Params.themes" "in" $themes }}
-		{{ $pages    := where $articles "Params.themes" "in" $themes }}
+		{{ $articles := where site.RegularPages "Params.theme" "in" $themes }}
+		{{ $pages    := where $articles "Params.theme" "in" $themes }}
 
 		{{ range $i, $theme := $themes }}
-			{{ $pages := (where $pages "Params.themes" "eq" $theme) }}
-
-			{{ $side := "right" }}
-			{{ if mod $i 2 }}
-				{{ $side = "left" }}
-			{{ end }}
-
 			{{ partial "articles/theme.html" (dict
-				"context" .
 				"section" "themes"
 				"path"    "themas"
 				"term"    $theme
-				"pages"   $pages
-				"side"    $side
+				"pages"   (where $pages "Params.theme" "eq" $theme)
+				"side"    (cond (eq (mod $i 2) 0) "right" "left")
 			) }}
 		{{ end }}
 	</section>

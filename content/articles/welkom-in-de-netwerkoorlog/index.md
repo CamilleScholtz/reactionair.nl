@@ -2,16 +2,16 @@
 id: 204
 title: 'Welkom in de netwerkoorlog'
 subtitle: 'Het spectrum van geweld'
-date: '2022-05-08'
-authors:
-    - Gastauteur
-themes: 'Cultuur en Maatschappij'
 image: thumb.webp
 anchor: Smart
+note: "Dit is een vertaling van het essay 'The Spectrum of Violence', het origineel is [hier](https://schwabstack.substack.com/p/the-spectrum-of-violence) te lezen."
+authors:
+    - Gastauteur
+theme: 'Cultuur en Maatschappij'
 tags:
     - Oorlog
     - 'Jacues Ellul'
-note: "Dit is een vertaling van het essay 'The Spectrum of Violence', het origineel is [hier](https://schwabstack.substack.com/p/the-spectrum-of-violence) te lezen."
+date: '2022-05-08'
 ---
 
 {{< quote

@@ -2,12 +2,12 @@
 id: 149
 title: 'Hoe een beschaving te verwoesten in 10 makkelijke stappen...'
 subtitle: 'Hoeveel punten herken jij!?'
-date: '2022-05-23'
-authors:
-    - Gastauteur
-themes: 'De Uylenspieghel'
 image: thumb.webp
 anchor: Top
+authors:
+    - Gastauteur
+theme: 'De Uylenspieghel'
+date: '2022-05-23'
 ---
 
 {{< slider
