@@ -1,5 +1,3 @@
-import * as params from "@params";
-
 export const donate = (main) => {
 	const page = main.querySelector(".donate-page");
 	if (page === null) {
@@ -9,7 +7,9 @@ export const donate = (main) => {
 	page.querySelector("form").addEventListener("submit", (ev) => {
 		ev.preventDefault();
 
-		fetch(params.api+"/api/donate/payment", {
+		console.log(ev.target.action);
+
+		fetch(ev.target.action, {
 			method: "POST",
 			headers: {
 				"Content-Type": "application/json"

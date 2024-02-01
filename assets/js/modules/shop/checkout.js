@@ -54,7 +54,7 @@ export const checkout = (main) => {
 
 		const cart = JSON.parse(localStorage.getItem("cart")) ?? [];
 
-		fetch(params.api+"/api/shop/payment", {
+		fetch(ev.target.action, {
 			method: "POST",
 			headers: {
 				"Content-Type": "application/json"

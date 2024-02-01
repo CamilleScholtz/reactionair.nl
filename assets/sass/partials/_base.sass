@@ -47,21 +47,6 @@ button
 	button
 		display: block
 
-	.prefix
-		background: var(--accent-background-color)
-		display: block
-		float: left
-		font-size: 20px
-		height: 50px
-		line-height: 50px
-		border-right: 1px dashed var(--border-color)
-		text-align: center
-		width: 50px
-
-		&~input
-			width: calc(100% - 51px)
-			float: right
-
 hr
 	border: none
 	border-top: 1px dashed var(--border-color)
@@ -90,6 +75,17 @@ input::-webkit-inner-spin-button
 
 input[type=number]
 	appearance: textfield
+
+input[type=radio]
+	display: none
+
+label:has(input[type=radio])
+	background: var(--accent-background-color)
+	color: var(--text-color)
+	text-align: center
+
+label:has(input[type=radio]:checked)
+	background: var(--popup-background-color)
 
 input[type=checkbox]
 	appearance: none

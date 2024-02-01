@@ -1,5 +1,8 @@
 {{ define "main" }}
-	{{ $section := .CurrentSection.File.ContentBaseName }}
+	{{ $section := "" }}
+	{{ with .CurrentSection.File }}
+		{{ $section = .ContentBaseName }}
+	{{ end }}
 	{{ if or (eq $section "shop") (eq .Kind "term") }}
 		{{ $section = "boeken" }}
 	{{ end }}

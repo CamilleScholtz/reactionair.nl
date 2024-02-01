@@ -1,5 +1,5 @@
 ---
-title: donate
+title: Doneren
 layout: donate
 url: /doneren/
 ---
