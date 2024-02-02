@@ -15,7 +15,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 [params]
 	rev    = "966"
-	api    = "https://reactionair.nl"
+	api    = "https://admin.reactionair.nl"
 	advert = "Reactionary Modernism"
 
 [module]
