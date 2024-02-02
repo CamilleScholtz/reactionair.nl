@@ -14,8 +14,8 @@ cleanDestinationDir = true
 ignoreErrors = ["error-remote-getjson"]
 
 [params]
-	rev    = "965"
-	api    = "http://127.0.0.1:8000"
+	rev    = "966"
+	api    = "https://reactionair.nl"
 	advert = "Reactionary Modernism"
 
 [module]
