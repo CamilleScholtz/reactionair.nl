@@ -12,12 +12,16 @@ export const menu = (header, mobile) => {
 		if (open) {
 			document.body.style.touchAction = "auto";
 
+			button.style.transform = "rotate(0deg)";
+
 			panel.style.transform = "translateX(100%)";
 			panel.style.opacity   = 0
 
 			open = false;
 		} else {
 			document.body.style.touchAction = "none";
+
+			button.style.transform = "rotateY(180deg)";
 
 			panel.style.transform = "translateX(0%)";
 			panel.style.opacity   = 1
