@@ -33,8 +33,6 @@ Wat zou deze boodschap dan kunnen zijn? Als we kijken naar het twitteraccount 'F
 
 Om terug te komen op onze vraag, wat zou deze boodschap kunnen zijn? Het lijkt mij dat er een beweging gaande is waarbij pro-Israël mensen hun gelegenheden zonder concrete aanleiding afblazen en dit vervolgens, al dan niet impliciet, pro-Palestina mensen in de schoenen schuiven.
 
-{{< tweet user="LotfyAmira" id="1717024252140863768" >}}
-
 Een boodschap, zonder grondslag in de concrete werkelijkheid, die mensen ophitst en een boodschap die een zwart-wit beeld schetst van de ene kant bestaande uit slachtoffers en de andere kant uit losbandige beesten, zowel hier als daar.
 
 

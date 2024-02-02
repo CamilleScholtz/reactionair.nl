@@ -27,8 +27,6 @@ Om over te gaan tot het kernpunt van dit artikel: ik geloof dat veel van de tren
 
 * Veel _'celebrities '_ geven een tegensignaal door "unieke" of vrouwelijke kleding te dragen. Neem bijvoorbeeld Harry Styles die een jurk draagt.[^1] Wat hij hier doet is signaleren "ik ben zo aantrekkelijk dat ik het risico kan nemen een jurk te dragen". Wanneer normale jongens nu denken dat ze dit gedrag kunnen imiteren, zal dit waarschijnlijk niet het beoogde effect hebben.
 
-	{{< tweet user="Sibruh" id="1319257775575388160" >}}
-
 * Blanke mensen uit hogere klasse (of rijke boomers met een mooi huis) hebben de neiging om groepen als _BLM_, massamigratie of andere zaken te steunen die aantoonbaar ongunstige gevolgen kunnen hebben voor de eigen groep.[^2][^3] Ik hoef hier echt geen tientallen voorbeelden van te geven, iedereen weet waar ik het over heb. Deze mensen leven in hun _gated communities_ en hoeven zich geen zorgen te maken over een verzadigde huizenmarkt of arbeidsmarkt, hierdoor kunnen ze het risico van '_counter-signalling'_ nemen. Wanneer de gemiddelde persoon dit gedrag echter probeert te imiteren zullen de nadelen veel groter zijn dan de voordelen.
 
 Op rechts heerst het idee dat bepaalde elites samenzweren, en dat zou heel goed waar kunnen zijn. Echter, 'aristocraten', mensen die tot de 'elite' behoren, zijn niet dom. Het is niet zo dat ze de negatieve gevolgen die hun handelen voor mensen uit lagere klasse die tot hun _'in-group'_ zouden kunnen worden toegerekend niet zien; het is meer zo dat zij genieten van het sociale prestige dat _'counter-signallen'_ verschaft.
