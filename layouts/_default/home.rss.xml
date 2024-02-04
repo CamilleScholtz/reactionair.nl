@@ -20,7 +20,7 @@
 				<author>{{ delimit .Params.authors ", " ", "  }}</author>
 				<description>{{ .Summary | plainify }}</description>
 				<image>
-					{{ $image  := .Resources.GetMatch .Params.image }}
+					{{ $image  := .Resources.Get .Params.image }}
 					{{ $anchor := "Smart" }}
 					{{ if isset .Params "anchor" }}
 						{{ $anchor = .Params.anchor }}
