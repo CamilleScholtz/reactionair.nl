@@ -25,26 +25,26 @@ export const comments = (main) => {
 
 		const comment     = document.createElement("div");
 		comment.innerHTML = `
-			<div class="comment">
+			<div class="comment" itemprop="comment" itemscope itemtype="https://schema.org/Comment">
 				<div class="comment-info">
-					<h3 class="comment-author">
-						<span>${data.get("author")}</span>
+					<h3 class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+						<span itemprop="name">${data.get("author")}</span>
 					</h3>
 
 					<p class="comment-time">
-						<time>
-							—&nbsp;nieuw
+						<time itemprop="datePublished">
+							<span class="pipe">—</span>${(new Date()).toLocaleDateString('nl-NL', {day: 'numeric', month: 'long', year: 'numeric'})}</span>
 						</time>
 					</p>
 				</div>
 
 
-				<div class="comment-body">
-					${data.get("body")}
-
+				<div class="comment-body" itemprop="text">
 					<small>
-						Reacties worden handmatig goedgekeurd, het kan enkele uren duren voordat de opmerking zichtbaar is voor anderen.
+						(Reacties worden handmatig goedgekeurd, het kan enkele momenten duren voordat de opmerking zichtbaar is voor anderen.)<br>
 					</small>
+
+					${data.get("body")}
 				</div>
 			</div>
 		`;
