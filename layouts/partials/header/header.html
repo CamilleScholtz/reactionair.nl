@@ -33,7 +33,7 @@
 				<div id="menu">
 					<ul class="four {{ if eq .Section "shop" }}five{{end}}">
 						<a href="/winkel/producten/boeken/">Winkel</a>
-						{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
+						{{ if eq .Section "shop" }}
 							<a href="/winkel/wagen">Winkelwagen</a>
 							<span id="total" style="display: none;"></span>
 						{{ end }}

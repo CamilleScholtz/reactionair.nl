@@ -38,7 +38,6 @@ export const comments = (main) => {
 					</p>
 				</div>
 
-
 				<div class="comment-body" itemprop="text">
 					<small>
 						(Reacties worden handmatig goedgekeurd, het kan enkele momenten duren voordat de opmerking zichtbaar is voor anderen.)<br>
