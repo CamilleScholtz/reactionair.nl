@@ -51,9 +51,20 @@
 		<section class="content">
 			{{ if eq .Params.theme "De Uylenspieghel" }}
 				<section class="uylenspieghel">
-					<img src="{{ "img/uylenspieghel.svg" | relURL }}" style="height: 240px">
+					<img src="{{ "img/uylenspieghel.svg" | relURL }}" alt="Uylenspieghel" style="height: 240px">
 
 					<small>Dit artikel is van satirische aard en dient met een korreltje zout genomen te worden.</small>
+				</section>
+			{{ end }}
+
+			{{ if isset .Params "recording" }}
+				<section class="recording" data-src="{{ .Resources.Get .Params.recording }}">
+					<div class="toggle">
+						<img class="play" src="{{ "img/play.svg" | relURL }}" alt="Afspelen">
+						<img class="pause" src="{{ "img/pause.svg" | relURL }}" alt="Pauzeren">
+					</div>
+
+					<div class="player"></div>
 				</section>
 			{{ end }}
 

@@ -37,12 +37,16 @@ article
 		&.no-border
 			border-top: none
 
-		.uylenspieghel
-			align-items: center
+		.uylenspieghel,
+		.note,
+		.recording
 			background: var(--accent-background-color)
-			display: flex
 			margin-bottom: 40px
 			margin-top: 10px
+
+		.uylenspieghel
+			align-items: center
+			display: flex
 
 			img
 				filter: var(--accent-filter)
@@ -52,16 +56,36 @@ article
 				font-size: 19px
 				line-height: 1.56
 
-
 		.note
-			background: var(--accent-background-color)
-			margin-bottom: 40px
-			margin-top: 10px
-
 			small
 				font-style: unset
 				font-size: 19px
 				line-height: 1.56
+
+		.recording
+			align-items: center
+			display: grid
+			gap: 10px
+			grid-template-columns: 50px auto
+			padding: 40px
+			padding-bottom: 50px
+			padding-top: 50px
+
+			.toggle
+				position: relative
+				margin-top: -9px
+				margin-left: 20px
+
+				img
+					filter: var(--accent-filter)
+					transform-style: preserve-3d
+					transition: all 0.2s
+					position: absolute
+
+					&.pause
+						transform: rotateY(180deg)
+						opacity: 0
+						pointer-events: none
 
 		>p:first-of-type:first-letter
 			float: left

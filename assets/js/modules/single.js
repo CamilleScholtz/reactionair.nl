@@ -1,3 +1,5 @@
+import WaveSurfer from "../vendor/wavesurfer.js";
+
 export const footnotes = (main, mobile) => {
 	if (main.id !== "page") {
 		return;
@@ -119,6 +121,91 @@ export const footnotes = (main, mobile) => {
 			});
 		});
 	});
+}
+
+export const recording = (main) => {
+	if (main.id !== "page") {
+		return;
+	}
+
+	const recording = main.querySelector(".recording");
+	const play    	= recording.querySelector(".play");
+	const pause 	= recording.querySelector(".pause");
+	const style     = getComputedStyle(document.documentElement);
+
+	const wavesurfer = WaveSurfer.create({
+		container:     recording.querySelector(".player"),
+		url:	       recording.dataset.src,
+		waveColor:     style.getPropertyValue("--popup-border-color"),
+		progressColor: style.getPropertyValue("--accent-color"),
+		height:        70,
+		barWidth:      20,
+		cursorWidth:   0,
+		dragToSeek:    true,
+		renderFunction: (channels, ctx) => {
+			const { width, height } = ctx.canvas
+			const scale             = channels[0].length / width
+			const step              = 10
+
+			ctx.lineWidth   = 5;
+			ctx.strokeStyle = ctx.fillStyle
+
+			ctx.translate(0, height / 2)
+			ctx.beginPath()
+
+			for (let i = ctx.lineWidth; i < width - ctx.lineWidth; i += step * 2) {
+				const index = Math.floor(i * scale)
+				const value = Math.abs(channels[0][index])
+
+				let x = i
+				let y = value * (height - (ctx.lineWidth * 2))
+
+				ctx.moveTo(x, 0)
+				ctx.lineTo(x, y)
+				ctx.arc(x + step / 2, y, step / 2, Math.PI, 0, true)
+				ctx.lineTo(x + step, 0)
+
+				x = x + step
+				y = -y
+
+				ctx.moveTo(x, 0)
+				ctx.lineTo(x, y)
+				ctx.arc(x + step / 2, y, step / 2, Math.PI, 0, false)
+				ctx.lineTo(x + step, 0)
+			}
+
+			ctx.stroke()
+			ctx.closePath()
+		},
+	});
+
+	recording.querySelector(".play").addEventListener("click", (ev) => {
+		wavesurfer.play()
+
+		play.style.transform      = "rotateY(90deg)";
+		pause.style.transform     = "rotateY(0deg)";
+		play.style.pointerEvents  = "none";
+		pause.style.pointerEvents = "auto";
+
+		setTimeout(() => {
+			pause.style.opacity = 1;
+			play.style.opacity  = 0;
+		}, 100);
+	})
+
+	recording.querySelector(".pause").addEventListener("click", (ev) => {
+		wavesurfer.pause()
+
+		play.style.transform      = "rotateY(0deg)";
+		pause.style.transform     = "rotateY(90deg)";
+		pause.style.pointerEvents = "none";
+		play.style.pointerEvents  = "auto";
+
+		setTimeout(() => {
+			play.style.opacity  = 1;
+			pause.style.opacity = 0;
+		}, 100);
+	})
 }
 
 export const smallcaps = (main) => {
