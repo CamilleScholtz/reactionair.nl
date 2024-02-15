@@ -1,11 +1,17 @@
 {{ $options := dict
 	"minify" true
-	"params" (dict "api" .Site.Params.api "rev" .Site.Params.rev)
+	"params" (dict
+		"api" .Site.Params.api
+		"rev" .Site.Params.rev
+	)
 }}
 
-<script defer type="module" src="{{ (resources.Get "js/main.js" | js.Build $options).RelPermalink }}?v={{ site.Params.rev }}"></script>
+{{ $main := resources.Get "js/main.js" | js.Build $options | fingerprint }}
+<script defer type="module" src="{{ $main.RelPermalink }}"></script>
+
 {{ if eq .Section "shop" }}
-	<script defer type="module" src="{{ (resources.Get "js/shop.js" | js.Build $options).RelPermalink }}?v={{ site.Params.rev }}"></script>
+	{{ $shop := resources.Get "js/shop.js" | js.Build $options | fingerprint }}
+	<script defer type="module" src="{{ $shop.RelPermalink }}"></script>
 {{ end }}
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-MM83VY2NM0"></script>

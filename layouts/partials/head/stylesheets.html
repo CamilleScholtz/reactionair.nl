@@ -7,15 +7,23 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
 
-<link rel="stylesheet" href="{{ (resources.Get "sass/light.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(prefers-color-scheme: light)">
-<link rel="stylesheet" href="{{ (resources.Get "sass/dark.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(prefers-color-scheme: dark)">
-<link rel="stylesheet" href="{{ (resources.Get "sass/main.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}">
-<link rel="stylesheet" href="{{ (resources.Get "sass/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(max-width: 1024px)">
-<link rel="stylesheet" href="{{ (resources.Get "sass/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(min-width: 1025px)">
+{{ $light   := resources.Get "sass/light.sass" | toCSS $options | fingerprint }}
+{{ $dark    := resources.Get "sass/dark.sass" | toCSS $options | fingerprint }}
+{{ $main    := resources.Get "sass/main.sass" | toCSS $options | fingerprint }}
+{{ $mobile  := resources.Get "sass/mobile.sass" | toCSS $options | fingerprint }}
+{{ $desktop := resources.Get "sass/desktop.sass" | toCSS $options | fingerprint }}
+<link rel="stylesheet" href="{{ $light.RelPermalink }}" media="(prefers-color-scheme: light)">
+<link rel="stylesheet" href="{{ $dark.RelPermalink }}" media="(prefers-color-scheme: dark)">
+<link rel="stylesheet" href="{{ $main.RelPermalink }}">
+<link rel="stylesheet" href="{{ $mobile.RelPermalink }}" media="(max-width: 1024px)">
+<link rel="stylesheet" href="{{ $desktop.RelPermalink }}" media="(min-width: 1025px)">
 
 {{ if eq .Section "shop" }}
-	<link rel="stylesheet" href="{{ (resources.Get "sass/shop/main.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/shop/mobile.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(max-width: 1024px)">
-	<link rel="stylesheet" href="{{ (resources.Get "sass/shop/desktop.sass" | resources.ToCSS $options).RelPermalink }}?v={{ .Site.Params.rev }}" media="(min-width: 1025px)">
+	{{ $shopMain    := resources.Get "sass/shop/main.sass" | toCSS $options | fingerprint }}
+	{{ $shopMobile  := resources.Get "sass/shop/mobile.sass" | toCSS $options | fingerprint }}
+	{{ $shopDesktop := resources.Get "sass/shop/desktop.sass" | toCSS $options | fingerprint }}
+	<link rel="stylesheet" href="{{ $shopMain.RelPermalink }}">
+	<link rel="stylesheet" href="{{ $shopMobile.RelPermalink }}" media="(max-width: 1024px)">
+	<link rel="stylesheet" href="{{ $shopDesktop.RelPermalink }}" media="(min-width: 1025px)">
 {{ end }}
 
