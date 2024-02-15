@@ -1,19 +1,17 @@
 ---
+id: 75
 title: 'The Decline of the West'
 subtitle: ' Form and Actuality'
 front: 24138313-f01c-4eba-b071-ff87f4b24c5a.jpg
+variants:
+    - { id: 81, price: 32.99, out_of_stock: true, format: paperback, isbn: 978-1-912975-60-0 }
 writers:
     - 'Oswald Spengler'
 pages: 616
 publisher: Arktos
 language: Engels
-tags:
-    - Amerika
-    - Esthetiek
 advertisable: true
 date: '2021-07-17'
-variants:
-    - { id: 81, price: 32.99, format: paperback, isbn: 978-1-912975-60-0, out_of_stock: true }
 out_of_stock: true
 ---
 

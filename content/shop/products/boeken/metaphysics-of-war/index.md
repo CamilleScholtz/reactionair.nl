@@ -1,18 +1,17 @@
 ---
+id: 63
 title: 'Metaphysics of War'
 front: 6eadf435-b751-411f-ba86-a79e4b22dd8a.jpg
+tags:
+    - 'Julius Evola'
+variants:
+    - { id: 67, price: 15.99, out_of_stock: true, format: paperback, isbn: 978-1-907166-36-5 }
 writers:
     - 'Julius Evola'
 pages: 150
 publisher: Arktos
 language: Engels
-tags:
-    - 'Joseph de Maistre'
-    - 'Julius Evola'
-    - Boeddhisme
 date: '2023-07-21'
-variants:
-    - { id: 67, price: 15.99, format: paperback, isbn: 978-1-907166-36-5, out_of_stock: true }
 out_of_stock: true
 ---
 

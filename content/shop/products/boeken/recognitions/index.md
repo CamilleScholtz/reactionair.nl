@@ -1,20 +1,17 @@
 ---
+id: 67
 title: Recognitions
 front: 9fa1329e-45e1-4aa8-863c-b1d65306b280.jpg
 back: beea0c49-9cdd-454a-bb45-2b6cb93587ef.jpg
+variants:
+    - { id: 71, price: 20.99, out_of_stock: true, format: paperback, isbn: 978-1-912079-18-6 }
 writers:
     - 'Julius Evola'
 pages: 340
 publisher: Arktos
 language: Engels
-tags:
-    - Mythologie
-    - Traditie
-    - Europa
 advertisable: true
 date: '2023-07-21'
-variants:
-    - { id: 71, price: 20.99, format: paperback, isbn: 978-1-912079-18-6, out_of_stock: true }
 out_of_stock: true
 ---
 

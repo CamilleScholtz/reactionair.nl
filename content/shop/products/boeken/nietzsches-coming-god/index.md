@@ -1,19 +1,18 @@
 ---
+id: 82
 title: "Nietzsche's Coming God"
 subtitle: 'Or the Redemption of the Divine'
 front: 0c63f9b8-4d2a-4b37-a950-5a244eea1231.jpg
 back: 8a812bad-b674-4a1a-822f-dfb450579f27.jpg
+variants:
+    - { id: 88, price: 13.99, out_of_stock: true, format: paperback, isbn: 978-1-907166-90-7 }
 writers:
     - 'Abir Taha'
 pages: 106
 publisher: Arktos
 language: Engels
-tags:
-    - 'Arthur Schopenhauer'
 advertisable: true
 date: '2021-11-28'
-variants:
-    - { id: 88, price: 13.99, format: paperback, isbn: 978-1-907166-90-7, out_of_stock: true }
 out_of_stock: true
 ---
 

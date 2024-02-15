@@ -1,15 +1,16 @@
 ---
+id: 20
 title: 'Chechen Blues'
 front: 14f6e015-838c-4979-8417-d639ec2a51c4.webp
 back: cb7fde8d-71da-45b5-9c2f-ee4e80dfcd34.webp
+variants:
+    - { id: 21, price: 23.99, format: paperback, isbn: 978-1-953730-35-0 }
 writers:
     - 'Alexander Prokhanov'
 pages: 238
 publisher: 'Antelope Hill'
 language: Engels
 date: '2022-04-01'
-variants:
-    - { id: 21, price: 23.99, format: paperback, isbn: 978-1-953730-35-0 }
 ---
 
 De val van de Sovjet-Unie was een bepalende gebeurtenis in de wereldgeschiedenis. Een gezwollen, vervallen rijk barstte uit elkaar en stortte wanhoop, nihilisme en diepe onzekerheid neer op het Russische volk. Plotseling werden de Russen blootgesteld aan de beproevingen van afscheiding, wetteloosheid en economische depressie. Het daaruit voortvloeiende moment van zwakte in hun land zorgde ervoor dat meerdere naties binnen de Russische Federatie probeerden zich af te scheiden. Er ontstonden veel onafhankelijkheidsbewegingen in Rusland zonder noemenswaardige tegenstand. Aan dat alles kwam een einde toen Rusland in 1995 weer voet aan de grond kreeg in de Kaukasus om een gewelddadige Tsjetsjeense opstand te verijdelen. Alexander Prokhanov onthult de geschiedenis en de gebeurtenissen rond oudejaarsavond in 1995, toen Russische troepen het presidentieel paleis in de opstandige hoofdstad Grozny aanvielen.

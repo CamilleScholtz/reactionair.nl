@@ -1,17 +1,18 @@
 ---
+id: 88
 title: 'The Ancient City'
 front: 7fb29127-a587-4af4-8a73-4c0e1aa368be.jpg
-back: d9a7ed7c-3c06-400f-8eaf-a0a25db35aeb.jpg
+tags:
+    - Liberalisme
+variants:
+    - { id: 94, price: 22.99, format: paperback, isbn: 978-0-648690-54-2 }
 writers:
     - 'Numa Denis Fustel De Coulanges'
 pages: 366
 publisher: 'Imperium Press'
 language: Engels
-tags:
-    - Liberalisme
+advertisable: true
 date: '2020-02-07'
-variants:
-    - { id: 94, price: 22.99, format: paperback, isbn: 978-0-648690-54-2 }
 ---
 
 In *The Ancient City* reikt Fustel de Coulanges ons de sleutel aan die de klassieke beschaving ontsluit: de Indo-Europese huiscultus. Met een formidabele beheersing van primaire bronnen laat hij zien dat deze archaïsche religie de motor is achter de sociale ontwikkelingen van de antieke wereld vanaf de verre prehistorie tot in de late oudheid. Dit is het verhaal van de afdaling van de traditionele sociale orde bij uitstek tot iets wat het liberalisme benadert, en het is nog nooit beter verteld, of vollediger uitgelegd.

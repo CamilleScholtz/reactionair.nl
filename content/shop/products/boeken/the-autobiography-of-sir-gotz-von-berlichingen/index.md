@@ -1,21 +1,16 @@
 ---
+id: 69
 title: 'The Autobiography of Sir Götz von Berlichingen'
 front: b637b8e6-2393-4183-8183-b64b98de9e72.jpg
 back: 93a21ccb-387d-44c2-80d3-eb058270c12d.jpg
+variants:
+    - { id: 73, price: 22.99, format: paperback, isbn: 978-1-953730-25-1 }
 writers:
     - 'Götz von Berlichingen'
 pages: 120
 publisher: 'Antelope Hill'
 language: Engels
-tags:
-    - Kunst
-    - 'Friedrich Nietzsche'
-    - 'Oswald Spengler'
-    - 'Jacques Derrida'
-    - 'Ananda Coomaraswamy'
 date: '2023-07-17'
-variants:
-    - { id: 73, price: 22.99, format: paperback, isbn: 978-1-953730-25-1 }
 ---
 
 Gottfried "Götz" von Berlichingen, de Ridder van de IJzeren Hand, was een van de laatste grote middeleeuwse ridders uit de geschiedenis. Götz, geboren in 1480, werd volwassen in een tijdperk van grote veranderingen, zowel in zijn geboorteland Duitsland als in de rest van de wereld. De Reformatie zou het politieke machtslandschap in Europa fundamenteel veranderen en de daaropvolgende oorlogen zouden het continent verscheuren. Toch bleef de wereld van Götz een tijd lang trouw aan zijn feodale geschiedenis en Götz nam zelf deel aan vele vetes en conflicten. 

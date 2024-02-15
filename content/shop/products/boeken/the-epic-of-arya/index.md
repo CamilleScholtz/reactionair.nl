@@ -1,16 +1,17 @@
 ---
+id: 44
 title: 'The Epic of Arya'
 subtitle: 'In Search of the Sacred Light'
 front: 32ddbdbd-470c-47c7-960c-f484f528ee41.jpg
 back: ddb1905b-0b70-4504-8b26-cb1e610def39.jpg
+variants:
+    - { id: 47, price: 18.99, out_of_stock: true, format: paperback, isbn: 978-1-910524-54-1 }
 writers:
     - 'Abir Taha'
 pages: 346
 publisher: Arktos
 language: Engels
 date: '2016-07-08'
-variants:
-    - { id: 47, price: 18.99, format: paperback, isbn: 978-1-910524-54-1, out_of_stock: true }
 out_of_stock: true
 ---
 

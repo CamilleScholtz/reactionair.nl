@@ -1,17 +1,17 @@
 ---
+id: 54
 title: 'A Handbook for Right-Wing Youth'
 front: 3fe0a465-86c6-45b6-bf8e-8490523ec954.jpg
+tags:
+    - 'Julius Evola'
+variants:
+    - { id: 57, price: 14.99, out_of_stock: true, format: paperback, isbn: 978-1-912079-60-5 }
 writers:
     - 'Julius Evola'
 pages: 180
 publisher: Arktos
 language: Engels
-tags:
-    - Mythologie
-    - 'Martin Heidegger'
 date: '2023-07-21'
-variants:
-    - { id: 57, price: 14.99, format: paperback, isbn: 978-1-912079-60-5, out_of_stock: true }
 out_of_stock: true
 ---
 

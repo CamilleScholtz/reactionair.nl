@@ -1,19 +1,16 @@
 ---
+id: 79
 title: 'On the Threshold of a New Era'
 front: b1d81433-9c57-4fef-a9eb-ea8196cc4319.jpg
 back: 0a1d92f2-e32a-4b9c-b13b-b760f6ff4c9d.jpg
+variants:
+    - { id: 85, price: 18.99, out_of_stock: true, format: paperback, isbn: 978-1-922602-82-4 }
 writers:
     - 'Edgar Julius Jung'
 pages: 115
 publisher: 'Imperium Press'
 language: Engels
-tags:
-    - Mythologie
-    - Muziek
-    - 'Richard Wagner'
 date: '2023-06-02'
-variants:
-    - { id: 85, price: 18.99, format: paperback, isbn: 978-1-922602-82-4, out_of_stock: true }
 out_of_stock: true
 ---
 

@@ -1,19 +1,17 @@
 ---
+id: 99
 title: 'Hated and Proud'
 subtitle: 'Ultras Contra Modernity'
 front: 862c85d9-b98e-4b3c-93a2-4cf6c19ea617.jpg
+variants:
+    - { id: 106, price: 22.99, out_of_stock: true, format: paperback, isbn: 978-1-912079-23-0 }
 writers:
     - 'Mark Dyal'
 pages: 350
 publisher: Arktos
 language: Engels
-tags:
-    - Metafysica
-    - Symbolisme
 advertisable: true
 date: '2023-07-24'
-variants:
-    - { id: 106, price: 22.99, format: paperback, isbn: 978-1-912079-23-0, out_of_stock: true }
 out_of_stock: true
 ---
 

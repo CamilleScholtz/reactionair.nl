@@ -1,15 +1,18 @@
 ---
+id: 105
 title: 'De verhalen van Amersfoort'
 subtitle: 'Helden, heksen en heiligen van Amersfoort en omgeving'
 front: 5549577e-9f68-4aba-9d5e-31bb2dadf0ac.jpg
+tags:
+    - Mythologie
+variants:
+    - { id: 113, price: 15.99, format: paperback, isbn: 978-9-462548-29-9 }
 writers:
     - 'Abe J. van der Veen'
 pages: 115
 publisher: Mijnbestseller
 language: Nederlands
 date: '2014-11-15'
-variants:
-    - { id: 113, price: 15.99, format: paperback, isbn: 978-9-462548-29-9 }
 ---
 
 In *De Verhalen van Amersfoort* worden bijna alle sagen en legendarische gebeurtenissen verteld die zich in Amersfoort en haar directe omgeving hebben afgespeeld. Lees meer over de vele wonderen die Maria in Amersfoort heeft gedaan en over de gruwelijke heksenvervolgingen die hier in de zestiende eeuw hebben plaatsgevonden. Geniet ook van de sage van het Laakmannetje, dat spookt rondom het riviertje de Laak en lees over de heks van de Monnikendam, die graag de ziel van haar geliefde monnik had willen bezitten.

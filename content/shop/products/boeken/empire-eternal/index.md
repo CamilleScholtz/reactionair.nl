@@ -1,8 +1,12 @@
 ---
+id: 34
 title: 'Empire Eternal'
 subtitle: 'In Defense of Imperialism'
 front: front.jpg
-back: back.jpg
+tags:
+    - Kolonialisme
+variants:
+    - { id: 36, price: 15.99, format: paperback, isbn: 978-1-956887-36-5 }
 writers:
     - 'Sinclair Jenkins '
 pages: 166
@@ -10,8 +14,6 @@ publisher: 'Antelope Hill'
 language: Engels
 advertisable: true
 date: '2022-01-01'
-variants:
-    - { id: 36, price: 15.99, format: paperback, isbn: 978-1-956887-36-5 }
 ---
 
 "De mannen die deze grote beschavingen hebben gesticht zijn al lang dood, maar hun bloed leeft nog steeds in ons. Wij zijn geroepen om te veroveren. Ons tijdperk, zoals elk ander tijdperk, is een oorlog van allen tegen allen voor de overheersing van de ruimte."

@@ -1,16 +1,19 @@
 ---
+id: 2
 title: Patriarcha
 subtitle: 'The Complete Political Works'
 front: 0acca73b-41b3-4631-b714-ca1c30ff807e.jpg
-back: f7aa68e3-0fa3-4109-92c1-cb01c6088739.jpg
+tags:
+    - Monarchie
+    - Christendom
+variants:
+    - { id: 2, price: 22.99, format: paperback, isbn: 978-1-922602-16-9 }
 writers:
     - 'Robert Filmer'
 pages: 316
 publisher: 'Imperium Press'
 language: Engels
 date: '2022-09-29'
-variants:
-    - { id: 2, price: 22.99, format: paperback, isbn: 978-1-922602-16-9 }
 ---
 
 Robert Filmer is de grootste voorstander van het goddelijke recht van koningen die de Engelssprekende wereld ooit heeft voortgebracht. Schrijvend ter verdediging van de Stuart koningen tegen een steeds feller wordend parlement, toont hij met argumenten uit de rede, geschiedenis en Schrift aan dat de soeverein noodzakelijkerwijs een koning is, in naam of niet.

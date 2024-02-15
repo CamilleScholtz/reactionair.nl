@@ -1,20 +1,19 @@
 ---
+id: 27
 title: 'The Decline of the West'
 subtitle: 'Perspectives of World-History'
 front: 6df172b8-d755-498d-8935-7c8e75fb2328.jpg
-back: af243985-056c-4af8-b505-864f59279279.jpg
+tags:
+    - 'Oswald Spengler'
+variants:
+    - { id: 29, price: 32.99, out_of_stock: true, format: paperback, isbn: 978-1-915755-23-0 }
 writers:
     - 'Oswald Spengler'
 pages: 680
 publisher: Arktos
 language: Engels
-tags:
-    - Oorlog
-    - 'Eerste Wereldoorlog'
 advertisable: true
 date: '2021-07-17'
-variants:
-    - { id: 29, price: 32.99, format: paperback, isbn: 978-1-915755-23-0, out_of_stock: true }
 out_of_stock: true
 ---
 

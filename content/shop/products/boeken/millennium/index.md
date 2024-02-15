@@ -1,7 +1,10 @@
 ---
+id: 5
 title: Millennium
 front: b36f5b30-8282-4d83-b7a1-8596b9c64590.webp
 back: 47773bb2-7adf-4409-ba4d-bf98897edf44.webp
+variants:
+    - { id: 5, price: 22.99, format: paperback, isbn: 978-1-956887-75-4 }
 writers:
     - 'Marty Phillips'
 pages: 308
@@ -9,8 +12,6 @@ publisher: 'Antelope Hill'
 language: Engels
 advertisable: true
 date: '2023-05-19'
-variants:
-    - { id: 5, price: 22.99, format: paperback, isbn: 978-1-956887-75-4 }
 ---
 
 Een medewerker van het World Trade Center bevindt zich in een tijdlus en worstelt met sterfelijkheid en het lot terwijl hij de gebeurtenissen van 11 september 2001 herbeleeft. 

@@ -1,18 +1,16 @@
 ---
+id: 13
 title: 'Folktales in the Indo-European Tradition'
 front: front.jpg
 back: back.jpg
+variants:
+    - { id: 13, price: 36.99, format: paperback, isbn: 978-1-922602-26-8 }
 writers:
     - Diversen
 pages: 810
 publisher: 'Imperium Press'
 language: Engels
-tags:
-    - Traditie
-    - Heidendom
 date: '2022-01-01'
-variants:
-    - { id: 13, price: 36.99, format: paperback, isbn: 978-1-922602-26-8 }
 ---
 
 In 2015 schokten onderzoekers de wereld door te laten zien dat veel volksverhalen niet alleen eeuwen oud zijn, maar ouder dan Homerus en de Bijbel. Sommige verhalen gaan zelfs terug tot de Proto-Indo-Europeanen - een verbazingwekkende overleving van zo'n 6000 jaar.

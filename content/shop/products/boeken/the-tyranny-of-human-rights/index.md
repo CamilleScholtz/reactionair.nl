@@ -1,19 +1,18 @@
 ---
+id: 32
 title: 'The Tyranny of Human Rights'
 subtitle: ' From Jacobinism to the United Nations'
 front: 26460281-64f8-45d0-a91a-46a53d33d0ff.webp
 back: 9a262d9f-15d3-4692-b540-1993bf8861df.webp
+variants:
+    - { id: 34, price: 23.99, out_of_stock: true, format: paperback, isbn: 978-1-956887-05-1 }
 writers:
     - 'Kerry R. Bolton'
 pages: 471
 publisher: 'Antelope Hill'
 language: Engels
-tags:
-    - Kolonialisme
 advertisable: true
 date: '2023-07-17'
-variants:
-    - { id: 34, price: 23.99, format: paperback, isbn: 978-1-956887-05-1, out_of_stock: true }
 out_of_stock: true
 ---
 

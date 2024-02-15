@@ -1,18 +1,19 @@
 ---
+id: 36
 title: 'The Agony of Polemos'
 front: 0186346d-f825-4652-99eb-e6ef7ff873c7.webp
-back: 3653b45e-676f-4274-b531-ff1391115604.webp
+tags:
+    - Liberalisme
+    - Globalisme
+variants:
+    - { id: 38, price: 21.99, format: paperback, isbn: 978-1-956887-45-7 }
 writers:
     - 'Carlos Videla'
 pages: 146
 publisher: 'Antelope Hill'
 language: Engels
-tags:
-    - Fascisme
 advertisable: true
 date: '2022-10-07'
-variants:
-    - { id: 38, price: 21.99, format: paperback, isbn: 978-1-956887-45-7 }
 ---
 
 De oude mens leefde zijn leven in de voortdurende schaduw van geweld en oorlog, maar hij zag dit niet als een reden voor angst en rouw. Integendeel, deze voortdurende strijd werd ooit met vreugde en ontzag bekeken, vooral door de Indo-Europese beschavingen, de meesters van de oorlog, en in het bijzonder de Grieken. 

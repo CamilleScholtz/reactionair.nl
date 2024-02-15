@@ -1,26 +1,17 @@
 ---
+id: 66
 title: 'The Serpent Symbol in Tradition'
 front: 3c75099b-4abc-46de-aecd-69f2e01db86c.jpg
 back: 7690d4d2-cc8a-414a-a294-6423e982758a.jpg
+variants:
+    - { id: 70, price: 35.99, out_of_stock: true, format: paperback, isbn: 978-1-914208-68-3 }
 writers:
     - 'Charles William Dailey'
 pages: 642
 publisher: Arktos
 language: Engels
-tags:
-    - Postmodernisme
-    - 'Søren Kierkegaard'
-    - Plato
-    - Aristoteles
-    - 'Jean-Jacques Rousseau'
-    - 'Friedrich Nietzsche'
-    - 'Martin Heidegger'
-    - 'Georg Hegel'
-    - 'Ernst Jünger'
 advertisable: true
 date: '2022-01-20'
-variants:
-    - { id: 70, price: 35.99, format: paperback, isbn: 978-1-914208-68-3, out_of_stock: true }
 out_of_stock: true
 ---
 

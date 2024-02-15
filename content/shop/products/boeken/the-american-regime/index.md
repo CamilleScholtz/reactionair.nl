@@ -1,21 +1,16 @@
 ---
+id: 59
 title: 'The American Regime'
 front: 1c424504-4d8e-4bc1-b6a5-d907078cd661.jpg
+variants:
+    - { id: 63, price: 23.99, format: paperback, isbn: 978-1-956887-55-6 }
 writers:
     - 'An Anonymous January 6th Prisoner'
 pages: 290
 publisher: 'Antelope Hill'
 language: Engels
-tags:
-    - Islam
-    - Metafysica
-    - 'Julius Evola'
-    - Oorlog
-    - 'Romeinse rijk'
 advertisable: true
 date: '2023-01-06'
-variants:
-    - { id: 63, price: 23.99, format: paperback, isbn: 978-1-956887-55-6 }
 ---
 
 Na het doelwit te zijn geworden van de federale regering in de nasleep van de gebeurtenissen op 6 januari 2021, verdiept de auteur van *The American Regime* zich in de studie van geschiedenis, filosofie en politiek om de unieke vraag van onze tijd te beantwoorden: wat is precies de aard van het kwaad dat nu openlijk heerst over Amerika en, via het Amerikaanse imperium, over de bredere wereld?

@@ -1,20 +1,17 @@
 ---
+id: 49
 title: 'The Eggs Benedict Option'
 front: ad420329-0365-4cb5-9da0-d618ba50d897.jpg
 back: 711d246e-d9e1-472f-827e-452aefee9e6e.jpg
+variants:
+    - { id: 52, price: 20.99, format: paperback, isbn: 978-1-956887-26-6 }
 writers:
     - 'Raw Egg Nationalist'
 pages: 250
 publisher: 'Antelope Hill'
 language: Engels
-tags:
-    - Liberalisme
-    - Individualisme
-    - 'Alain de Benoist'
 advertisable: true
 date: '2022-07-31'
-variants:
-    - { id: 52, price: 20.99, format: paperback, isbn: 978-1-956887-26-6 }
 ---
 
 De afgelopen twee jaar, sinds het begin van de pandemie van het coronavirus, is ons verteld dat onze oude manier van leven dood en voorbij is. Er is geen terugkeer naar hoe het vroeger was. In plaats daarvan moeten we een 'nieuw normaal' omarmen waarin elk aspect van ons leven wordt getransformeerd - de manier waarop we leven, eten en werken, en de manier waarop we worden bestuurd, niet alleen door de staat, maar ook door bedrijven. Dit is de Great Reset. En de basis van dit plan is een revolutie in voedsel.

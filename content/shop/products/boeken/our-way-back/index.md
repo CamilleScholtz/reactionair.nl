@@ -1,19 +1,18 @@
 ---
+id: 84
 title: 'Our Way Back'
 subtitle: "Schopenhauer's Lessons for a World Adrift"
 front: 964b466e-1a2e-4119-aa6b-0d5851ced633.webp
 back: e43cd509-9046-440f-af20-480f9d6d782c.webp
+variants:
+    - { id: 90, price: 19.99, format: paperback, isbn: 978-9-083352-80-0 }
 writers:
     - 'J.P. van Rossum'
 pages: 175
 publisher: Rotheheym
 language: Engels
-tags:
-    - Heidendom
 advertisable: true
 date: '2023-08-20'
-variants:
-    - { id: 90, price: 19.99, format: paperback, isbn: 978-9-083352-80-0 }
 ---
 
 De westerse wereld lijkt gevaarlijk te stuurloos te zijn. De opkomst van woke, grote migratiestromen, en het tot nu toe ongekende niveau van vrijheidsbeperkingen als reactie op de uitbraak van het coronavirus zijn tekenen van een diepe crisis. Maar ook de wetenschap staat voor grote uitdagingen, zoals die in de fundamentele natuurkunde en de evolutionaire biologie. Daarnaast is de moderne wereldvisie niet in staat om te voorzien in onze existentiële en spirituele behoeften.

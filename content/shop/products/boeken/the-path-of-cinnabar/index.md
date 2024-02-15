@@ -1,19 +1,17 @@
 ---
+id: 6
 title: 'The Path of Cinnabar'
 front: 19bf27d1-168d-4022-a542-9b77510512b6.jpg
 back: 0d998863-467a-40f9-8586-f8867fedb207.jpg
+variants:
+    - { id: 6, price: 22.99, out_of_stock: true, format: paperback, isbn: 978-1-907166-02-0 }
 writers:
     - 'Julius Evola'
 pages: 304
 publisher: Arktos
 language: Engels
-tags:
-    - 'Julius Evola'
-    - Traditie
 advertisable: true
 date: '2023-07-21'
-variants:
-    - { id: 6, price: 22.99, format: paperback, isbn: 978-1-907166-02-0, out_of_stock: true }
 out_of_stock: true
 ---
 

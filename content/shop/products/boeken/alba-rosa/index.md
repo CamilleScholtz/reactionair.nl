@@ -1,19 +1,16 @@
 ---
+id: 25
 title: 'Alba Rosa'
 subtitle: 'Tien Traditionalistische opstellen over de Crisis van het Moderne Westen'
 front: 1dd377eb-a080-4e92-8541-66121d321e65.jpg
+variants:
+    - { id: 27, price: 23.99, out_of_stock: true, format: paperback, isbn: 978-1-912975-57-0 }
 writers:
     - 'Alexander Wolfheze'
 pages: 326
 publisher: Arktos
 language: Nederlands
-tags:
-    - Kunst
-    - 'Oswald Spengler'
-    - Kapitalisme
 date: '2023-07-23'
-variants:
-    - { id: 27, price: 23.99, format: paperback, isbn: 978-1-912975-57-0, out_of_stock: true }
 out_of_stock: true
 ---
 

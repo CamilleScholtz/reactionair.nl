@@ -1,18 +1,16 @@
 ---
+id: 55
 title: 'Rebel Mountain'
 front: 8121bb18-193b-4ee9-9319-922fc284eb2a.jpg
 back: 1fe93e3f-5698-4d72-b784-cce2a7e7ba8e.jpg
+variants:
+    - { id: 58, price: 21.99, format: paperback, isbn: 978-1-956887-18-1 }
 writers:
     - 'Kurt Eggers'
 pages: 200
 publisher: 'Antelope Hill'
 language: Engels
-tags:
-    - 'Karl Marx'
-    - Marxisme
 date: '2022-06-06'
-variants:
-    - { id: 58, price: 21.99, format: paperback, isbn: 978-1-956887-18-1 }
 ---
 
 De Weimarrepubliek neemt een beruchte plaats in de Duitse geschiedenis in als een unieke periode van schande. Na de nederlaag in de Eerste Wereldoorlog kreeg het Duitse volk harde en demoraliserende voorwaarden opgelegd door de geallieerden, waaronder strenge beperkingen op het militaire apparaat van hun land. Wraakzuchtige buren zoals Frankrijk en Polen buitten de zwakte van Duitsland meedogenloos uit door nog meer land op te eisen.

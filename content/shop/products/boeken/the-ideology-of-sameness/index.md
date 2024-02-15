@@ -1,15 +1,16 @@
 ---
+id: 52
 title: 'The Ideology of Sameness'
 front: fb2ac985-602a-4ed5-a6ea-59a75e940cbc.jpg
 back: 118136eb-51a4-46c8-b78c-8356ae9964f7.jpg
+variants:
+    - { id: 55, price: 9.99, out_of_stock: true, format: paperback, isbn: 978-1-915755-08-7 }
 writers:
     - 'Alain de Benoist'
 pages: 58
 publisher: Arktos
 language: Engels
 date: '2022-12-12'
-variants:
-    - { id: 55, price: 9.99, format: paperback, isbn: 978-1-915755-08-7, out_of_stock: true }
 out_of_stock: true
 ---
 

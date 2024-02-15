@@ -1,21 +1,17 @@
 ---
+id: 4
 title: 'Spain 1923-1948'
 subtitle: 'Civil War and World War'
 front: f66da641-b13a-4972-90b0-c86db119eb6a.jpg
 back: f7605dd5-3e1e-4f62-b3f1-4c24e63ab14e.jpg
+variants:
+    - { id: 4, price: 22.99, format: paperback, isbn: 978-1-953730-00-8 }
 writers:
     - 'Arthur F. Loveday'
 pages: 324
 publisher: 'Antelope Hill'
 language: Engels
-tags:
-    - Oorlog
-    - Spanje
-    - NAVO
-    - 'Eerste Wereldoorlog'
 date: '2020-09-07'
-variants:
-    - { id: 4, price: 22.99, format: paperback, isbn: 978-1-953730-00-8 }
 ---
 
 *Spanje 1923-1948: Civil War and World War* werd oorspronkelijk gepubliceerd in Engeland in 1948 om context toe te voegen aan het gedrag van Spanje onder Franco tijdens de Spaanse Burgeroorlog.  Arthur Loveday richtte zich op het Britse politieke bewustzijn met als belangrijkste doel de toetreding van Spanje tot het geallieerde NAVO-kader na de oorlog te bevorderen.

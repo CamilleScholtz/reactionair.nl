@@ -1,19 +1,16 @@
 ---
+id: 97
 title: 'Iranian Leviathan'
 subtitle: 'A Monumental History of Mithra’s Abode'
 front: 89f21015-aa26-4ed7-a1d2-78c15a254ce9.jpg
+variants:
+    - { id: 104, price: 33.99, out_of_stock: true, format: paperback, isbn: 978-1-912975-40-2 }
 writers:
     - 'Jason Reza Jorjani'
 pages: 582
 publisher: Arktos
 language: Engels
-tags:
-    - 'Griekse mythologie'
-    - Kunst
-    - 'Friedrich Nietzsche'
 date: '2019-09-01'
-variants:
-    - { id: 104, price: 33.99, format: paperback, isbn: 978-1-912975-40-2, out_of_stock: true }
 out_of_stock: true
 ---
 

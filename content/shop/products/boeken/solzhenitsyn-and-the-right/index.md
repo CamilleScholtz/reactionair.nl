@@ -1,24 +1,16 @@
 ---
+id: 41
 title: 'Solzhenitsyn and the Right'
 front: 122f40ca-07f3-4787-ba90-5fdeb8ed28a7.jpg
 back: c120397d-ee65-4448-b7a2-6c96ceb7ecfd.webp
+variants:
+    - { id: 43, price: 22.99, format: paperback, isbn: 978-1-953730-57-2 }
 writers:
     - 'Spencer J. Quinn'
 pages: 200
 publisher: 'Antelope Hill'
 language: Engels
-tags:
-    - 'René Guénon'
-    - 'Julius Evola'
-    - 'Martin Heidegger'
-    - Hindoeisme
-    - Traditie
-    - 'Carl Jung'
-    - 'Ernst Jünger'
-    - 'Meister Eckhart'
 date: '2021-11-01'
-variants:
-    - { id: 43, price: 22.99, format: paperback, isbn: 978-1-953730-57-2 }
 ---
 
 "Tijdens mijn verblijf in de kampen had ik de vijanden van het menselijk ras goed leren kennen: ze respecteren de grote vuist en niets anders; hoe harder je ze slaat, hoe veiliger je bent." -Aleksandr Solzjenitsyn

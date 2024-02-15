@@ -1,17 +1,17 @@
 ---
+id: 102
 title: 'De wijsheid van bomen en kruiden'
 front: a698fe87-fc67-4a5a-b582-c67956de1396.jpg
+tags:
+    - Natuur
+variants:
+    - { id: 110, price: 15.99, format: paperback, isbn: 978-9-462542-46-4 }
 writers:
     - 'Abe J. van der Veen'
 pages: 150
 publisher: Mijnbestseller
 language: Nederlands
-tags:
-    - Symbolisme
-    - Natuur
 date: '2015-11-11'
-variants:
-    - { id: 109, price: 15.99, format: paperback, isbn: 978-9-462542-46-4 }
 ---
 
 De bomen en kruiden worden in dit boek eerst kort omschreven. Vervolgens wordt hun rol in de mythologie, het volksgeloof en de rituelen behandeld.

@@ -1,18 +1,16 @@
 ---
+id: 19
 title: Post-
 front: eca3f0a2-8483-4452-99c1-ba76a725d33a.jpg
 back: b32c37f6-27cc-489a-86f8-58b1b0e8aee3.webp
+variants:
+    - { id: 20, price: 19.99, format: paperback, isbn: 978-1-956887-10-5 }
 writers:
     - 'Shawn Bell'
 pages: 174
 publisher: 'Antelope Hill'
 language: Engels
-tags:
-    - Rusland
-    - Communisme
 date: '2022-03-16'
-variants:
-    - { id: 20, price: 19.99, format: paperback, isbn: 978-1-956887-10-5 }
 ---
 
 Een vermoeide reiziger ontdekt een meisje met een mysterieuze kracht in een stad die tegelijkertijd het middelpunt wordt van een wereldwijde hoax die een nieuw politiek paradigma inluidt. Een jonge man wandelt in en uit een ongelooflijke erfenis in een scenario dat is opgezet om de spirituele toestand van een ras in de schemering te overdenken. Gewone mannen in verschillende contexten lenen hun ogen voor een blik op de complexiteit en de oorzaken van de sociale verwoesting in Amerika.

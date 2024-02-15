@@ -63,7 +63,7 @@ Een god die volledig onbegrensd is en als zodanig alleen maar apofatisch benader
 
 En:
 
->External idols are also only worshipped because of their worshipper's belief in their divinity. The mental forms are the objects of their worship essentially, and the external forms are their objects of worship accidentally. Thus, the objects of worship of every idol-worshipper are nothing but the forms of his beliefs and the caprices of his soul, as has been alluded to in His saying, Have you seen the one who takes his caprice for his god? (Q 65:23). Just as worshippers of bodily idols worship what their hands have created, so too do those who have partial beliefs concerning God worship what the hands of their intellects have gathered.
+>External idols are also only worshipped because of their worshipper's belief in their divinity. The mental forms are the objects of their worship essentially, and the external forms are their objects of worship accidentally. Thus, the objects of worship of every idol-worshipper are nothing but the forms of his beliefs and the caprices of his soul, as has been alluded to in His saying, Have you seen the one who takes his caprice for his god? (Q 45:23). Just as worshippers of bodily idols worship what their hands have created, so too do those who have partial beliefs concerning God worship what the hands of their intellects have gathered.
 
 Ibn ʿArabī ging zelfs zo ver dat hij verklaarde dat _“er uitsluitend afgodaanbidders zijn”_, dat aangezien elk geloof in God uiteindelijk een begrenzing of een verafgoodde opvatting van Hem is:
 

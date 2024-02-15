@@ -1,18 +1,18 @@
 ---
+id: 22
 title: 'Liberalism Unmasked'
 front: f9293d1d-0094-4e2d-885f-f0e39f004009.jpg
+tags:
+    - Liberalisme
+variants:
+    - { id: 23, price: 26.99, out_of_stock: true, format: paperback, isbn: 978-1-912079-31-5 }
 writers:
     - 'Richard Houck'
 pages: 442
 publisher: Arktos
 language: Engels
-tags:
-    - Seks
-    - Feminisme
 advertisable: true
 date: '2018-08-25'
-variants:
-    - { id: 23, price: 26.99, format: paperback, isbn: 978-1-912079-31-5, out_of_stock: true }
 out_of_stock: true
 ---
 

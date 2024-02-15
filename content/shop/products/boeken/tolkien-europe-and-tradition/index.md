@@ -1,8 +1,12 @@
 ---
+id: 71
 title: 'Tolkien, Europe, and Tradition'
 subtitle: 'From Civilisation to the Dawn of Imagination'
 front: 679d75a6-5a46-4cba-8f98-f10a4e3efa40.jpg
-back: 7ad657a3-bb55-4f8f-8d62-ec1dd29f5030.jpg
+tags:
+    - 'J.R.R. Tolkien'
+variants:
+    - { id: 76, price: 12.99, out_of_stock: true, format: paperback, isbn: 978-1-914208-97-3 }
 writers:
     - 'Armand Berger'
 pages: 66
@@ -10,8 +14,6 @@ publisher: Arktos
 language: Engels
 advertisable: true
 date: '2022-09-26'
-variants:
-    - { id: 76, price: 12.99, format: paperback, isbn: 978-1-914208-97-3, out_of_stock: true }
 out_of_stock: true
 ---
 

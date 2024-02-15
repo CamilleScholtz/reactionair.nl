@@ -1,18 +1,16 @@
 ---
+id: 53
 title: 'Popular Government'
 front: 36826ce5-94fa-4c89-87da-80c019973016.jpg
 back: f2aa54d4-1046-4770-ba46-d8423bec87ac.jpg
+variants:
+    - { id: 56, price: 14.99, format: paperback, isbn: 978-1-922602-10-7 }
 writers:
     - 'Henry Sumner Maine'
 pages: 162
 publisher: 'Imperium Press'
 language: Engels
-tags:
-    - 'Julius Evola'
-    - Traditie
 date: '2021-08-17'
-variants:
-    - { id: 56, price: 14.99, format: paperback, isbn: 978-1-922602-10-7 }
 ---
 
 Churchill zei ooit dat "democratie de slechtste regeringsvorm is op alle andere na..." en in Popular Government antwoordt Henry Sumner Maine hem 60 jaar van tevoren met "...tenzij je ook maar een deel van de geschiedenis onderzoekt."

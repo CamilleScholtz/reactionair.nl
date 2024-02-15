@@ -12,6 +12,7 @@ tags:
     - Rusland
     - Globalisme
 date: '2023-02-19'
+draft: true
 ---
 
 Wat voel je als je op een doordeweekse ochtend uit het raam van de trein kijkt onderweg naar je werk of een andere verplichting? Wanneer je, tijdelijk niet onderbroken door een luid, nietszeggend gesprek van je medepassagiers, kan verzinken in je eigen gedachten. Over welke wereld droom je dan? Je creatieve geest schrijft verhalen die je maar al te graag zou beleven. Plekken die je het liefst zou bezoeken.

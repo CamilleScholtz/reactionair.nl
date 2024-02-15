@@ -1,20 +1,17 @@
 ---
+id: 73
 title: 'Numinous Machines'
 front: front.gif
+variants:
+    - { id: 78, price: 13.99, format: paperback, isbn: 978-1-940933-45-0 }
+    - { id: 79, price: 31.99, format: hardcover, isbn: 978-1-940933-44-3 }
 writers:
     - 'Christopher Pankhurst'
 pages: 220
 publisher: Counter-Currents
 language: Engels
-tags:
-    - Kunst
-    - 'Oswald Spengler'
-    - Faust
 advertisable: true
 date: '2017-12-10'
-variants:
-    - { id: 78, price: 13.99, format: paperback, isbn: 978-1-940933-45-0 }
-    - { id: 79, price: 31.99, format: hardcover, isbn: 978-1-940933-44-3 }
 ---
 
 Rudolf Otto bedacht de term numineus om te verwijzen naar de oerervaring van het heilige. Als het wordt gevangen en gearticuleerd, is het numineuze de basis van religie en cultuur. Maar waar vinden we in onze tijd van religieus ongeloof en cultureel verval de numineuze bronnen van spirituele en culturele vernieuwing? Volgens Christopher Pankhurst's Numinous Machines is het antwoord overal om ons heen - in de marge en zelfs in het afval van de moderne cultuur - als we maar ogen hebben om te zien.

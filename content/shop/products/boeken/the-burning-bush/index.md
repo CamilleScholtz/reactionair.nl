@@ -1,21 +1,16 @@
 ---
+id: 29
 title: 'The Burning Bush'
 front: 390a8088-83b5-4e00-8b63-c4aada42e962.jpg
 back: 90069f90-a214-4a5e-b8ff-6fa07254092a.jpg
+variants:
+    - { id: 31, price: 17.99, format: paperback, isbn: 978-1-956887-29-7 }
 writers:
     - 'Elias Simojoki'
 pages: 180
 publisher: 'Antelope Hill'
 language: Engels
-tags:
-    - Postmodernisme
-    - Woke
-    - LGBT
-    - Gender
-    - Transgenderisme
 date: '2023-07-17'
-variants:
-    - { id: 31, price: 17.99, format: paperback, isbn: 978-1-956887-29-7 }
 ---
 
 Lauri Elias Simojoki (1899-1940) was een Finse soldaat, parlementariër, lutherse priester, extreemrechtse organisator en leider van een poging tot staatsgreep in Estland. Als jonge man diende hij in de Finse Onafhankelijkheidsoorlog in 1918 en vocht hij als guerrillastrijder in Karelië in 1919. Later studeerde hij theologie aan de Universiteit van Helsinki en was hij een essentieel onderdeel van de vorming van de nationalistische jongerenorganisatie de Academische Karelische Vereniging.

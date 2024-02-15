@@ -1,19 +1,19 @@
 ---
+id: 28
 title: 'Beyond Human Rights'
 subtitle: 'Defending Freedoms'
 front: d08223b7-2d15-4d35-91f2-32962fddaf9d.jpg
+tags:
+    - Liberalisme
+variants:
+    - { id: 30, price: 15.99, out_of_stock: true, format: paperback, isbn: 978-1-907166-20-4 }
 writers:
     - 'Alain de Benoist'
 pages: 120
 publisher: Arktos
 language: Engels
-tags:
-    - 'Carl Schmitt'
-    - 'Alain de Benoist'
 advertisable: true
 date: '2021-11-10'
-variants:
-    - { id: 30, price: 15.99, format: paperback, isbn: 978-1-907166-20-4, out_of_stock: true }
 out_of_stock: true
 ---
 

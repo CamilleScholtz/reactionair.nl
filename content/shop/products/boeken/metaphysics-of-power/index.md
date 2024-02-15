@@ -1,18 +1,18 @@
 ---
+id: 42
 title: 'Metaphysics of Power'
 front: c9814e2e-792d-45dc-9ee0-6513eda8628a.jpg
+tags:
+    - 'Julius Evola'
+variants:
+    - { id: 44, price: 21.99, out_of_stock: true, format: paperback, isbn: 978-1-914208-09-6 }
 writers:
     - 'Julius Evola'
 pages: 334
 publisher: Arktos
 language: Engels
-tags:
-    - 'Friedrich Nietzsche'
-    - Spiritualiteit
 advertisable: true
 date: '2023-07-21'
-variants:
-    - { id: 44, price: 21.99, format: paperback, isbn: 978-1-914208-09-6, out_of_stock: true }
 out_of_stock: true
 ---
 

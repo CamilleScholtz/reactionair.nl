@@ -1,17 +1,16 @@
 ---
+id: 56
 title: 'The Bow and the Club'
 front: d11b70a8-50cb-4949-b83d-dc37e31a13a7.jpg
+variants:
+    - { id: 59, price: 21.99, out_of_stock: true, format: paperback, isbn: 978-1-912079-09-4 }
 writers:
     - 'Julius Evola'
 pages: 358
 publisher: Arktos
 language: Engels
-tags:
-    - Amerika
 advertisable: true
 date: '2023-07-21'
-variants:
-    - { id: 59, price: 21.99, format: paperback, isbn: 978-1-912079-09-4, out_of_stock: true }
 out_of_stock: true
 ---
 

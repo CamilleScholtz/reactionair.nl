@@ -1,14 +1,15 @@
 ---
+id: 46
 title: 'Manifest voor Europees herstel en vernieuwing'
 front: 8cf1e034-84be-423c-852d-5dd67dd5c2ac.jpg
+variants:
+    - { id: 49, price: 10.99, out_of_stock: true, format: paperback, isbn: 978-1-910524-31-2 }
 writers:
     - 'Alain de Benoist'
 pages: 45
 publisher: Arktos
 language: Nederlands
 date: '2023-07-20'
-variants:
-    - { id: 49, price: 10.99, format: paperback, isbn: 978-1-910524-31-2, out_of_stock: true }
 out_of_stock: true
 ---
 

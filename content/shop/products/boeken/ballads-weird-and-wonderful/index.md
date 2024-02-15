@@ -1,15 +1,16 @@
 ---
+id: 72
 title: 'Ballads Weird and Wonderful'
 front: 9db2338f-def6-4d35-8171-13f3b608ebfe.jpg
 back: 9260e42a-6b4a-4e27-af8b-7e6d9c38c322.jpg
+variants:
+    - { id: 77, price: 14.99, format: paperback, isbn: 978-1-922602-19-0 }
 writers:
     - Diversen
 pages: 125
 publisher: 'Imperium Press'
 language: Engels
 date: '2021-10-10'
-variants:
-    - { id: 77, price: 14.99, format: paperback, isbn: 978-1-922602-19-0 }
 ---
 
 Vóór Poe, vóór Coleridge, vóór Blake, werd de andere wereld in verzen gegoten door naamloze barden van de oude Schotse balladetraditie.

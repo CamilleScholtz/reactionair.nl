@@ -2,7 +2,7 @@
 id: 291
 title: 'Vreemdelingen in onze vaderlandse muziek'
 subtitle: 'Een retrospectief'
-image: 924a7786-b02c-47ca-9719-b49f1e3f0f64.jpg
+image: 69a75767-bd56-4c18-a673-cd8c3cc3751a.jpg
 anchor: Smart
 authors:
     - Gastauteur
@@ -50,5 +50,4 @@ Zelfs als een gastarbeider na vele jaren het huisje, boompje, beestje-leven bere
 
 
 [^1]: De Volkskrant, 07-01-1976, pagina 9, *Turken kwaad over liedje* en Het Parool, 09-01-1976, pagina 2, *Kijktip*
-
 [^2]: CBS, *[Rapport Integratie en Samenleven, sectie 5: Criminaliteit]( https://longreads.cbs.nl/integratie-en-samenleven-2022/criminaliteit/)*

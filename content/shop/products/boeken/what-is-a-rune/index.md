@@ -1,20 +1,18 @@
 ---
+id: 57
 title: 'What is a Rune'
 subtitle: 'And Other Essays'
 front: fb108afe-0e4c-4b37-af9c-7af3097e268f.jpg
+variants:
+    - { id: 60, price: 21.99, format: paperback, isbn: 978-1-935965-80-0 }
+    - { id: 61, price: 32.99, format: hardcover, isbn: 978-1-935965-79-4 }
 writers:
     - 'Collin Cleary'
 pages: 256
 publisher: Counter-Currents
 language: Engels
-tags:
-    - Globalisme
-    - 'Klaus Schwab'
 advertisable: true
 date: '2015-03-28'
-variants:
-    - { id: 60, price: 21.99, format: paperback, isbn: 978-1-935965-80-0 }
-    - { id: 61, price: 32.99, format: hardcover, isbn: 978-1-935965-79-4 }
 ---
 
 In deze negen opmerkelijke essays breidt Collin Cleary de ideeën uit van zijn baanbrekende boek *Summoning the Gods* en begeeft hij zich op geheel nieuw terrein:

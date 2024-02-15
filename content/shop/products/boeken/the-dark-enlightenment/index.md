@@ -1,20 +1,15 @@
 ---
+id: 90
 title: 'The Dark Enlightenment'
 front: 99b90216-adb5-4769-b280-3799a7719bcf.jpg
+variants:
+    - { id: 96, price: 15.99, format: paperback, isbn: 978-1-922602-68-8 }
 writers:
     - 'Nick Land'
 pages: 113
 publisher: 'Imperium Press'
 language: Engels
-tags:
-    - Woke
-    - LGBT
-    - Economie
-    - Gender
-    - Transgenderisme
 date: '2023-07-19'
-variants:
-    - { id: 96, price: 15.99, format: paperback, isbn: 978-1-922602-68-8 }
 ---
 
 Neoreaction is niet het conservatisme van je grootvader, maar het web 2.0-tijdperk huwelijk tussen moderne technische principes en klassieke antidemocratische gedachten. Het centrale principe is dat de Verlichting een vergissing was en in The Dark Enlightenment brandt Nick Land het progressivisme tot de grond toe af, zouten ze de aarde rond haar as en richten ze er een altaar voor het anti-humanisme voor in de plaats op.

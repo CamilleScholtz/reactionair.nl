@@ -1,18 +1,19 @@
 ---
+id: 33
 title: 'The Young European'
 subtitle: 'Geneva or Moscow'
 front: 553b6bf0-8b05-4cf2-9a2a-595149263edd.webp
-back: d9162121-e136-45a1-94cb-541efd754f08.webp
+tags:
+    - Oorlog
+    - Europa
+variants:
+    - { id: 35, price: 18.99, format: paperback, isbn: 978-1-953730-73-2 }
 writers:
     - 'Pierre Drieu La Rochelle'
 pages: 293
 publisher: 'Antelope Hill'
 language: Engels
-tags:
-    - 'Griekse mythologie'
 date: '2021-11-01'
-variants:
-    - { id: 35, price: 18.99, format: paperback, isbn: 978-1-953730-73-2 }
 ---
 
 Oorspronkelijk gepubliceerd in Frankrijk achtereenvolgens in 1927 en 1928, vertegenwoordigen *The Young European* en *Geneva or Moscow* samen de poging van Pierre Drieu La Rochelle om te worstelen met wat het betekent om Europeaan te zijn op een continent dat vastbesloten lijkt zichzelf uit elkaar te scheuren.

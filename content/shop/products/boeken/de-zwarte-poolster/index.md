@@ -1,19 +1,17 @@
 ---
+id: 62
 title: 'De Zwarte Poolster'
 subtitle: 'Een Archeo-Futuristische Aftelling in Vijftien Opstellen'
 front: 342f190e-f4a6-4425-86b9-a2847da32a00.jpg
+variants:
+    - { id: 66, price: 49.5, out_of_stock: true, format: paperback, isbn: 978-1-915755-04-9 }
 writers:
     - 'Alexander Wolfheze'
 pages: 654
 publisher: Arktos
 language: Nederlands
-tags:
-    - 'René Guénon'
-    - Traditie
 advertisable: true
 date: '2023-07-19'
-variants:
-    - { id: 66, price: 49.5, format: paperback, isbn: 978-1-915755-04-9, out_of_stock: true }
 out_of_stock: true
 ---
 

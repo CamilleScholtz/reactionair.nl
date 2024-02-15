@@ -1,19 +1,17 @@
 ---
+id: 58
 title: 'The Philosophy of Marx'
 front: 63395876-dab3-486c-820b-e5d4d5d21a6f.webp
 back: efd26299-9d53-474e-a265-ebad019a2ba0.webp
+variants:
+    - { id: 62, price: 22.99, format: paperback, isbn: 978-1-956887-08-2 }
 writers:
     - 'Giovanni Gentile'
 pages: 156
 publisher: 'Antelope Hill'
 language: Engels
-tags:
-    - 'Carl Schmitt'
-    - 'Alexander Wolfheze'
 advertisable: true
 date: '2022-10-21'
-variants:
-    - { id: 62, price: 22.99, format: paperback, isbn: 978-1-956887-08-2 }
 ---
 
 Giovanni Gentile wordt algemeen erkend als de fundamentele filosoof van het Italiaanse fascisme. Hij werkte zowel in de academische wereld als bij de overheid en droeg bij aan de vorming van de Italiaanse bedrijfsstaat en het onderwijssysteem onder Benito Mussolini. Gentile bleef schrijven en bijdragen aan de Italiaanse fascistische staat tot aan zijn moord door de Italiaanse Communistische Partij in 1944.
