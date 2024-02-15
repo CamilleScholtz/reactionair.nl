@@ -138,7 +138,7 @@ export const recording = (main) => {
 		url:	       recording.dataset.src,
 		waveColor:     style.getPropertyValue("--popup-border-color"),
 		progressColor: style.getPropertyValue("--accent-color"),
-		height:        70,
+		height:        100,
 		barWidth:      20,
 		cursorWidth:   0,
 		dragToSeek:    true,
@@ -158,7 +158,7 @@ export const recording = (main) => {
 				const value = Math.abs(channels[0][index])
 
 				let x = i
-				let y = value * (height - (ctx.lineWidth * 2))
+				let y = value * (height * 2.5)
 
 				ctx.moveTo(x, 0)
 				ctx.lineTo(x, y)
