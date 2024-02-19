@@ -21,7 +21,7 @@ Waar oude kunst, of dat nu schilderkunst, muziek of architectuur was, werkte bin
 
 Ik heb eerder geschreven over hoe moderne kunst dezelfde principes volgt als het liberalisme,[^1] namelijk onbeperkte vrijheid, en individualisme — waar originaliteit ooit betekende dat iets uit de Oorsprong, de Origine, voortkwam, betekent het nu dat het uit een individu komt, en daarmee geen externe invloeden heeft.
 
-Onlangs schreef de dissidente denker *Apollonian Germ* een interessante Twitter-draad over de drie iteraties van de bouw van de Library of Birmingham — de grootste bibliotheek van Europa — en meer specifiek over de mensen en doelen achter deze gebouwen.[^2] De eerste iteratie was neogotisch van stijl, de architect volgde 7 principes, of Lampen zoals hij ze noemde:
+Onlangs schreef de dissidente denker *Apollonian Germ* een interessante Twitter-draad over de drie iteraties van de bouw van de Library of Birmingham — de grootste bibliotheek van Europa — en meer specifiek over de mensen en doelen achter deze gebouwen.[^2] De eerste iteratie was neogotisch van stijl, de architect volgde 7 principes, of Lampen zoals de architect ze noemde:
 
 1. **Offer**, toewijding van het ambacht van de mens aan God, als zichtbare bewijzen van de liefde en gehoorzaamheid van de mens.
 2. **Waarheid**, handgemaakt en eerlijke weergave van materialen en structuur.
