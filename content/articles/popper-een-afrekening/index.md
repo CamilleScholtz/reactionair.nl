@@ -2,8 +2,10 @@
 id: 271
 title: 'Popper: een afrekening'
 subtitle: 'Kan de politiek-maatschappelijke orde gegrondvest worden op een paradox?'
-image: thumb.webp
-anchor: Smart
+image: a1c46b38-d1d2-4aae-a0dd-d374f762e886.webp
+anchor: Center
+recording: 53d5e6ae-c841-4d06-a0b9-401bfe3cdc74.mp3
+description: "Karl Popper's theorieën over wetenschap en maatschappij blijven invloedrijk, van falsificatie tot de open samenleving. Maar botsen idealen van tolerantie met diepgewortelde overtuigingen?"
 authors:
     - 'De Melancholieke Nar'
 theme: 'Religie en Wijsbegeerte'
@@ -28,6 +30,8 @@ Deze manier van denken, waarbij waarheid in essentie een sociaal construct is, w
 ### II: maatschappij
 
 Het andere deel van Poppers erfenis betreft zijn visie op de maatschappij. Zijn ideaal is _'de open samenleving'_,[^4] waar niemand minder dan George Soros, gewezen financieel roofridder en thans lieveling van links, het vehikel van zijn internationale filantropische ondernemingen (_kuch_), namelijk _The Open Society Foundation_, naar vernoemd heeft.[^5] Centraal hierin staat de zogeheten verdraagzaamheidsparadox. U kent hem ongetwijfeld van onderstaande infographic:
+
+{{< image src="assets/b5560767-684d-45a9-90e5-117f999fd969.jpg" >}}
 
 Wat klopt er hier niet aan? Eerstens is de neonazi skinhead in het bovenste paneel een lachwekkende stropop. Nagenoeg niemand die het etiket neonazi krijgt opgeplakt, voldoet aan deze lasterlijke karikatuur. Het begrip fungeert als excuus om andersdenkenden uit te sluiten en te vervolgen en niet op wezenlijke kritiek in te hoeven gaan.
 
