@@ -10,7 +10,6 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 
 	const cart = JSON.parse(localStorage.getItem("cart")) ?? [];
 
-	reset(cart);
 	total(header, cart);
 	address(main);
 	checkout(main);

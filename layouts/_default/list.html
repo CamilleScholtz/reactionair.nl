@@ -1,7 +1,9 @@
 {{ define "main" }}
 	<div class="list-header">
 		{{ if eq .Section "authors" }}
-			{{ partialCached "authors/large.html" . .File.UniqueID }}
+			{{ partialCached "authors/large.html" (dict
+				"author" .
+			) .Params.id }}
 		{{ else }}
 			<h1>{{ .Params.heading | safeHTML }}</h1>
 		{{ end }}	
@@ -14,7 +16,7 @@
 			{{ range $paginator.Pages }}			
 				{{ partialCached "articles/small.html" (dict
 					"article" .
-				) .File.UniqueID }}
+				) .Params.id }}
 			{{ end }}
 		</div>
 

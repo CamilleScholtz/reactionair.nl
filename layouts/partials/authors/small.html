@@ -1,24 +1,24 @@
 <div class="author-info small">
-	{{ $image  := .Resources.Get .Params.image }}
+	{{ $image := .author.Resources.Get .author.Params.image }}
 
 	{{ $1x := $image.Fill "100x100 webp" }}
 	{{ $2x := $image.Fill "200x200 webp" }}
 
 	<figure>
-		<img 
+		<img
 			srcset="{{ $1x.RelPermalink }} 1x,
 			        {{ $2x.RelPermalink }} 2x"
 			src="{{ $2x.RelPermalink }}"
-			alt="{{ .Params.title | safeHTML }}"
+			alt="{{ .author.Params.title | safeHTML }}"
 			style="background: {{ index $1x.Colors 0 }};">
 	</figure>
 
 	<div class="text">
-		<h2>{{ .Params.title | safeHTML }}</h2>
-		<small>{{ .Params.keyword }}</small>
+		<h2>{{ .author.Params.title | safeHTML }}</h2>
+		<small>{{ .author.Params.keyword }}</small>
 
-		<p>{{ .Params.description }}</p>
+		<p>{{ .author.Params.description }}</p>
 
-		<a href="/auteurs/{{ urlize (.Params.title | safeHTML) }}/" class="more">Zie artikelen...</a>
+		<a href="/auteurs/{{ urlize (.author.Params.title | safeHTML) }}/" class="more">Zie artikelen...</a>
 	</div>
 </div>

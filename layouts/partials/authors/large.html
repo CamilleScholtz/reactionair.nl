@@ -1,22 +1,23 @@
 <div class="author-info large">
-	{{ $image := .Resources.Get .Params.image }}
+	{{ $image := .author.Resources.Get .author.Params.image }}
 
 	{{ $1x := $image.Fill "200x200 webp" }}
 	{{ $2x := $image.Fill "400x400 webp" }}
 
 	<figure>
-		<img 
+		<img
 			srcset="{{ $1x.RelPermalink }} 1x,
 			        {{ $2x.RelPermalink }} 2x"
 			src="{{ $2x.RelPermalink }}"
-			alt="{{ .Params.title | safeHTML }}"
+			alt="{{ .author.Params.title | safeHTML }}"
 			style="background: {{ index $1x.Colors 0 }};">
 	</figure>
 
-	<div class="text">
-		<h1>{{ .Params.title | safeHTML }}</h1>
-		<small>{{ .Params.keyword }}</small>
 
-		<p>{{ .Params.description }}</p>
+	<div class="text">
+		<h1>{{ .author.Params.title | safeHTML }}</h1>
+		<small>{{ .author.Params.keyword }}</small>
+
+		<p>{{ .author.Params.description }}</p>
 	</div>
 </div>

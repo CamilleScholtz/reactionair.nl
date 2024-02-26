@@ -27,5 +27,5 @@
 	{{ partialCached "articles/large.html" (dict
 		"article" $featured
 		"lazy"    true
-	) $featured.File.UniqueID }}
+	) $featured.Params.id }}
 </div>

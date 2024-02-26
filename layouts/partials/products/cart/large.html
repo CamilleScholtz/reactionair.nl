@@ -7,7 +7,10 @@
 				{{ end }}
 
 				{{ if not .out_of_stock }}
-					{{ .price | printf "€ %.2f" }}
+					{{ $int := int .price }}
+					{{ $dec := sub .price $int }}
+
+					€ {{ $int }}.<span class="decimals">{{ strings.TrimPrefix "0." (printf "%.2f" $dec) }}</span>
 				{{ else }}
 					<span class="unavailable">Niet beschikbaar.</span>
 				{{ end }}

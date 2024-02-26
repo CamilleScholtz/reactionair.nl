@@ -37,19 +37,19 @@
 			<div class="articles">
 				{{ partialCached "articles/small.html" (dict
 					"article" (index $articles 3)
-				) (index $articles 3).File.UniqueID }}
+				) (index $articles 3).Params.id }}
 
 				{{ partialCached "articles/small.html" (dict
 					"article" (index $articles 4)
-				) (index $articles 4).File.UniqueID }}
+				) (index $articles 4).Params.id }}
 
 				{{ partialCached "articles/small.html" (dict
 					"article" (index $articles 5)
-				) (index $articles 5).File.UniqueID }}
+				) (index $articles 5).Params.id }}
 
 				{{ partialCached "articles/small.html" (dict
 					"article" (index $articles 6)
-				) (index $articles 6).File.UniqueID }}
+				) (index $articles 6).Params.id }}
 			</div>
 		</section>
 	</section>
@@ -94,7 +94,7 @@
 		{{ with $book }}
 			{{ partialCached "advert.html" (dict
 				"book" .
-			) .File.UniqueID }}
+			) .Params.id }}
 		{{ end }}
 	</section>
 

@@ -6,7 +6,11 @@
 	<div class="price">
 		{{ if not .out_of_stock }}
 			{{ range $i, $variant := .variants }}
-				{{ $variant.price | printf "€ %.2f" }}
+				{{ $int := int .price }}
+				{{ $dec := sub .price $int }}
+
+				€ {{ $int }}.<span class="decimals">{{ strings.TrimPrefix "0." (printf "%.2f" $dec) }}</span>
+
 				{{ if lt (add $i 1) (len $.variants) }}
 					/&nbsp;
 				{{ end }}

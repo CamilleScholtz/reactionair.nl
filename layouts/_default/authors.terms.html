@@ -4,7 +4,9 @@
 		{{ $authors  = $authors | append (where .Pages "Params.pseudonym" true).ByTitle }}
 
 		{{ range $authors }}
-			{{ partial "authors/small.html" . }}
+			{{ partial "authors/small.html" (dict
+				"author" .
+			) }}
 		{{ end }}
 	</section>
 {{ end }}

@@ -13,7 +13,7 @@
 				"back"  (.Resources.Get .product.Params.back)
 				"pages" .product.Params.pages
 				"hover"	true
-			) "small" .product.File.UniqueID }}
+			) "small" .product.Params.id }}
 		{{ else }}
 			{{ partialCached "products/miscellany.html" (dict
 				"size"  "small"
@@ -21,7 +21,7 @@
 				"front" (.product.Resources.Get .product.Params.front)
 				"back"  (.product.Resources.Get .product.Params.back)
 				"hover"	true
-			) "small" .product.File.UniqueID }}
+			) "small" .product.Params.id }}
 		{{ end }}
 	</a>
 

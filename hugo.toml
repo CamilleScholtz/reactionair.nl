@@ -11,10 +11,7 @@ removePathAccents   = true
 enableRobotsTXT     = true
 cleanDestinationDir = true
 
-ignoreErrors = ["error-remote-getjson"]
-
 [params]
-	rev    = "967"
 	api    = "https://admin.reactionair.nl"
 	advert = "Reactionary Modernism"
 
@@ -32,8 +29,8 @@ ignoreErrors = ["error-remote-getjson"]
 		source = 'data'
 		target = 'data'
 	[[module.mounts]]
-	    source = 'assets'
-	    target = 'assets'
+		source = 'assets'
+		target = 'assets'
 	[[module.mounts]]
 		source = "layouts/shop/list.html"
 		target = "layouts/_default/language.html"

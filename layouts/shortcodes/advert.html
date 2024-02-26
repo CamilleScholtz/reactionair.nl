@@ -17,6 +17,6 @@
 	<section class="av">
 		{{ partialCached "advert.html" (dict
 			"book" .
-		) .File.UniqueID }}
+		) .Params.id }}
 	</section>
 {{ end }}

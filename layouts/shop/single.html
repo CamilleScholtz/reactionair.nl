@@ -3,7 +3,7 @@
 		<section id="hero">
 			{{ partialCached "products/large.html" (dict
 				"product" .
-			) .File.UniqueID }}
+			) .Params.id }}
 		</section>
 
 		<article id="product">

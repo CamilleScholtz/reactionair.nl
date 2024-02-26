@@ -2,13 +2,6 @@ import * as params from "@params";
 import currency from "../../vendor/currency.js";
 import { total } from "./header.js";
 
-export const reset = (cart) => {
-	if (params.rev !== localStorage.getItem("rev") ?? null) {
-		localStorage.setItem("cart", JSON.stringify([]));
-		localStorage.setItem("rev", params.rev);
-	}
-}
-
 export const overview = (main, cart, shipping) => {
 	const page = main.querySelector(".cart-page");
 	if (page === null) {
