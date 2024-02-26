@@ -58,7 +58,7 @@
 			{{ end }}
 
 			{{ if isset .Params "recording" }}
-				<section class="recording" data-src="{{ .Resources.Get .Params.recording }}">
+				<section class="recording" data-src="{{ .Resources.Get .Params.recording }}" data-waveform="{{ index .Site.Data.waveforms (.Permalink | relURL | path.Base | urlize) | jsonify }}">
 					<div class="toggle">
 						<img class="play" src="{{ "img/play.svg" | relURL }}" alt="Afspelen">
 						<img class="pause" src="{{ "img/pause.svg" | relURL }}" alt="Pauzeren">

@@ -138,19 +138,19 @@ export const recording = (main) => {
 		url:	       recording.dataset.src,
 		waveColor:     style.getPropertyValue("--popup-border-color"),
 		progressColor: style.getPropertyValue("--accent-color"),
-		height:        100,
+		height:        50,
 		barWidth:      20,
 		cursorWidth:   0,
 		dragToSeek:    true,
+		peaks:         [JSON.parse(recording.dataset.waveform)['lines1'], JSON.parse(recording.dataset.waveform)['lines2']],
 		renderFunction: (channels, ctx) => {
-			const { width, height } = ctx.canvas
+			const { width, offsetHeight } = ctx.canvas
 			const scale             = channels[0].length / width
 			const step              = 10
 
 			ctx.lineWidth   = 5;
 			ctx.strokeStyle = ctx.fillStyle
-
-			ctx.translate(0, height / 2)
+			ctx.translate(0, offsetHeight)
 			ctx.beginPath()
 
 			for (let i = ctx.lineWidth; i < width - ctx.lineWidth; i += step * 2) {
@@ -158,7 +158,7 @@ export const recording = (main) => {
 				const value = Math.abs(channels[0][index])
 
 				let x = i
-				let y = value * (height * 2.5)
+				let y = value * (offsetHeight - ctx.lineWidth)
 
 				ctx.moveTo(x, 0)
 				ctx.lineTo(x, y)

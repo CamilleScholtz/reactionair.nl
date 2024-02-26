@@ -1,4 +1,4 @@
-{{ $slug := .Params.title | urlize }}
+{{ $slug := .Permalink | relURL | path.Base | urlize }}
 
 {{ $comments := dict }}
 {{ if isset .Site.Data.comments $slug }}

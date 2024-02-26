@@ -67,29 +67,26 @@ article
 			display: grid
 			gap: 10px
 			grid-template-columns: 50px auto
-			padding: 40px
-
 
 			.toggle
-				position: relative
-				margin-top: -9px
 				margin-left: 20px
+				position: relative
 
 				img
 					filter: var(--accent-filter)
+					position: absolute
 					transform-style: preserve-3d
 					transition: all 0.2s
-					position: absolute
 
 					&.pause
-						transform: rotateY(180deg)
 						opacity: 0
 						pointer-events: none
+						transform: rotateY(180deg)
 
 		>p:first-of-type:first-letter
 			float: left
-			padding-top: 13px
 			padding-right: 8px
+			padding-top: 13px
 
 		>p,
 		>blockquote p,

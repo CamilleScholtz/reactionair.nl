@@ -4,7 +4,7 @@ title: 'De mythologisering van het liberalisme'
 subtitle: 'Van abstract principe tot emotioneel verhaal'
 image: c4dfa932-378b-400e-ad95-d61ceecb59f0.webp
 anchor: Smart
-recording: 178fcaa7-abb7-46dc-95bb-8d39a390ae56.mp4
+recording: 52d7a9fc-3bfb-40ff-a099-b4b8eb533ed3.mp3
 authors:
     - 'Camille Scholtz'
 theme: 'Religie en Wijsbegeerte'
