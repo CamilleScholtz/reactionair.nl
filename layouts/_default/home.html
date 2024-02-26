@@ -79,7 +79,7 @@
 
 		{{ range $i, $theme := $themes }}
 			{{ partial "articles/theme.html" (dict
-				"section" "themes"
+				"section" "theme"
 				"path"    "themas"
 				"term"    $theme
 				"pages"   (where $pages "Params.theme" "eq" $theme)
