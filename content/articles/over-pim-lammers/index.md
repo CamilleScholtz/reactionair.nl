@@ -110,8 +110,6 @@ Daags na het verschijnen van dit artikel heeft Pim Lammers het verhaal *Trainer*
  
 De hoop van Pim Lammers om betrokken te blijven bij de Kinderboekenweek blijkt niet gek gedacht: nadat er op sociale media ophef is ontstaan omtrent zijn betrokkenheid verwijderde Stichting CPNB alle kritische reacties onder de Instagram posts over de Kinderboekenweek en heeft het de reacties verder uitgeschakeld. Ook op twitter zijn de censors druk bezig. Elke vermelding of kritiek op Pim Lammers onder de tweet van het Kinderboekenweek-account wordt verborgen.
 
-{{< tweet user="vdl_yannick" id="1621262779507253249" >}}
-
 Toch lijkt deze hoop ijdel: meer en meer mensen op sociale media geven duidelijk blijk van hun afkeur van de keuze van Stichting CPNB voor Pim Lammers. De -wellicht bekokstoofde- poging tot *damage control* lijkt dus zinloos.
 
 

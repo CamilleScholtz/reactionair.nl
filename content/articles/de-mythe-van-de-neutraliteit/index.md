@@ -15,7 +15,7 @@ tags:
 date: '2021-10-06'
 ---
 
-Onlangs heeft de Tweede Kamer een voorstel aanvaard om ervoor te zorgen dat geen enkele school een verklaring van de ouders mag eisen waarin zij de identiteit van de school onderschrijven. Een groot aantal aanhangers van het liberale gedachtegoed hebben met vreugde gereageerd op deze beslissing, zich daarbij beroepend op het idee van "neutraliteit". Op het platform van Twitter werden diverse uitspraken waargenomen, waaronder:
+Onlangs heeft de Tweede Kamer een voorstel aanvaard om ervoor te zorgen dat geen enkele school een verklaring van de ouders mag eisen waarin zij de identiteit van de school onderschrijven. Een groot aantal aanhangers van het liberale gedachtegoed hebben met vreugde gereageerd op deze beslissing, zich daarbij beroepend op het idee van "neutraliteit". Op het platform Twitter werden diverse uitspraken gedaan, waaronder:
 
 >Openbaar onderwijs is bijna altijd levensbeschouwelijk neutraal en vertelt juist over verschillende levensovertuigingen.[^1]
 
