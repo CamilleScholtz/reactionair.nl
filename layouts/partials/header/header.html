@@ -19,7 +19,7 @@
 					<img src="{{ "img/shop.svg" | relURL }}" alt="Winkel" style="width: 28px; height: 28px;">
 				</a>
 
-				{{ if eq .Section "shop" }}
+				{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
 					<a href="/winkel/wagen" class="icon" id="cart">
 						<img src="{{ "img/cart.svg" | relURL }}" alt="Winkelwagen" style="width: 28px; height: 28px;">
 						<span id="total" style="display: none;"></span>
@@ -31,9 +31,9 @@
 				</span>
 
 				<div id="menu">
-					<ul class="four {{ if eq .Section "shop" }}five{{end}}">
+					<ul class="four {{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}five{{end}}">
 						<a href="/winkel/producten/boeken/">Winkel</a>
-						{{ if eq .Section "shop" }}
+						{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
 							<a href="/winkel/wagen">Winkelwagen</a>
 							<span id="total" style="display: none;"></span>
 						{{ end }}

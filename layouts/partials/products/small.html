@@ -1,6 +1,6 @@
 <li class="product" {{ if .checkout }}data-variant="{{ .variant.id }}" data-price="{{ .variant.price }}" style="display: none;"{{ end }}>
 	{{ $section := .product.CurrentSection.File.ContentBaseName }}
-	{{ if or (eq $section "shop") (eq .Kind "term") }}
+	{{ if or (eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel") (eq .Kind "term") }}
 		{{ $section = "boeken" }}
 	{{ end }}
 
