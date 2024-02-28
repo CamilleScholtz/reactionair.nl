@@ -7,7 +7,7 @@
 
 	{{ $.Scratch.Add "index" (dict
 		"id"        $i
-		"title"     (.Params.title | plainify)
+		"title"     (.Title | plainify)
 		"subtitle"  (.Params.subtitle | plainify)
 		"authors"   .Params.writers
 		"content"   .Plain

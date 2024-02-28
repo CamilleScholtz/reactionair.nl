@@ -3,7 +3,7 @@
 {{ if eq .product.CurrentSection.File.ContentBaseName "boeken" }}
 	{{ partial "products/book.html" (dict
 		"size"    "large"
-		"title"   .product.Params.title
+		"title"   .product.Title
 		"front"   (.product.Resources.Get .product.Params.front)
 		"back"    (.product.Resources.Get .product.Params.back)
 		"pages"   .product.Params.pages
@@ -14,7 +14,7 @@
 {{ else }}
 	{{ partial "products/miscellany.html" (dict
 		"size"    "large"
-		"title"   .product.Params.title
+		"title"   .product.Title
 		"front"   (.product.Resources.Get .product.Params.front)
 		"back"    (.product.Resources.Get .product.Params.back)
 		"animate" true
@@ -39,7 +39,7 @@
 		</h3>
 	{{ end }}
 
-	<h1>{{ .product.Params.title }}</h1>
+	<h1>{{ .product.Title }}</h1>
 	{{ if isset .product.Params "subtitle" }}
 		<h2>{{ .product.Params.subtitle }}</h2>
 	{{ end }}

@@ -5,7 +5,7 @@
 {{ range $i, $_ := where site.RegularPages "Type" "eq" "shop" }}
 	{{ $.Scratch.Add "index" (dict
 		"id"        $i
-		"title"     (.Params.title | plainify)
+		"title"     (.Title | plainify)
 		"subtitle"  "Boek in de Reactionair.nl winkel"
 		"authors"   .Params.writers
 		"content"   .Plain
@@ -18,7 +18,7 @@
 {{ range $i, $_ := where site.RegularPages "Type" "eq" "articles" }}
 	{{ $.Scratch.Add "index" (dict
 		"id"        (add $j $i 1)
-		"title"     (.Params.title | plainify)
+		"title"     (.Title | plainify)
 		"subtitle"  (.Params.subtitle | plainify)
 		"authors"   .Params.authors
 		"content"   .Plain

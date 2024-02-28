@@ -1,7 +1,7 @@
 <a href="{{ .article.RelPermalink }}" class="article large">
 	<div class="text">
 		<div class="author">{{ delimit .article.Params.authors ", " " & " }}</div>
-		<h2>{{ .article.Params.title | safeHTML }}</h2>
+		<h2>{{ .article.Title | safeHTML }}</h2>
 	</div>
 
 	<figure>
@@ -21,7 +21,7 @@
 			{{ if .lazy }}
 				loading="lazy"
 			{{ end }}
-			alt="{{ .article.Params.title | safeHTML }}"
+			alt="{{ .article.Title | safeHTML }}"
 			style="background: {{ index $1x.Colors 0 }};">
 	</figure>
 </a>

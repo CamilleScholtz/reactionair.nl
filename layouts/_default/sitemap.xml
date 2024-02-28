@@ -21,7 +21,7 @@
 								<news:name>Reactionair.nl</news:name>
 								<news:language>nl</news:language>
 							</news:publication>
-							<news:title>{{ .Params.title | safeHTML }}</news:title>
+							<news:title>{{ .Title | safeHTML }}</news:title>
 							<news:publication_date>{{ .Params.date.Format "2006-01-02" }}</news:publication_date>
 						</news:news>
 					{{ end }}

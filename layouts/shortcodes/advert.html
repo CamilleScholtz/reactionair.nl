@@ -1,7 +1,7 @@
 {{ $book := "" }}
 
 {{ if .Get "book" }}
-	{{ $book = index (where (site.GetPage "shop/products/boeken").RegularPages ".Params.title" (.Get "book")) 0 }}
+	{{ $book = index (where (site.GetPage "shop/products/boeken").RegularPages ".Title" (.Get "book")) 0 }}
 {{ else }}
 	{{ $book = index ((where (where (site.GetPage "shop/products/boeken").RegularPages "Params.advert" true) "Params.out_of_stock" "!=" true).Related (dict
 		"indices"  (slice "tags")
@@ -10,7 +10,7 @@
 {{ end }}
 
 {{ if not $book }}
-	{{ $book = index (where (site.GetPage "shop/products/boeken").RegularPages ".Params.title" site.Params.advert) 0 }}
+	{{ $book = index (where (site.GetPage "shop/products/boeken").RegularPages ".Title" site.Params.advert) 0 }}
 {{ end }}
 
 {{ with $book }}
