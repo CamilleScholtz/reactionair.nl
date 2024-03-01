@@ -6,7 +6,7 @@ import { menu, scroll, search, time } from "./modules/header.js";
 import { quote, slider } from "./modules/home.js";
 import { newsletter } from "./modules/newsletter.js";
 import { searchpage } from "./modules/search.js";
-import { footnotes, recording, smallcaps } from "./modules/single.js";
+import { footnotes, recording, smallcaps, summary } from "./modules/single.js";
 
 window.addEventListener("DOMContentLoaded", (ev) => {
 	const mobile = window.matchMedia("(max-width: 1024px)");
@@ -23,6 +23,7 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	search(header);
 	searchpage(main, mobile);
 	slider(mobile);
+	summary(main);
 	footnotes(main, mobile);
 	comments(main);
 	newsletter(main);

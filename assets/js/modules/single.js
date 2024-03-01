@@ -129,6 +129,10 @@ export const recording = (main) => {
 	}
 
 	const recording = main.querySelector(".recording");
+	if (!recording) {
+		return;
+	}
+
 	const play    	= recording.querySelector(".play");
 	const pause 	= recording.querySelector(".pause");
 	const style     = getComputedStyle(document.documentElement);
@@ -224,4 +228,30 @@ export const smallcaps = (main) => {
 	}
 
 	sentence.innerHTML = sentence.innerHTML.replace(pattern, "<span style=\"font-family: 'IM Fell English SC', serif;\">$1</span>");
+}
+
+export const summary = (main) => {
+	if (main.id !== "page") {
+		return;
+	}
+
+	const summary = main.querySelector(".summary");
+	if (!summary) {
+		return;
+	}
+
+	const button  = main.querySelector(".summary-button");
+	const overlay = main.querySelector(".summary .overlay");
+
+	button.addEventListener("click", (ev) => {
+		if (summary.style.maxHeight) {
+			summary.style.maxHeight = null;
+			overlay.style.opacity   = 1;
+			button.innerHTML        = "Lees meer";
+		} else {
+			summary.style.maxHeight = summary.scrollHeight + "px";
+			overlay.style.opacity   = 0;
+			button.innerHTML        = "Sluiten";
+		}
+	});
 }
