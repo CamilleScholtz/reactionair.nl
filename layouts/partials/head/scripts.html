@@ -8,7 +8,7 @@
 {{ $main := resources.Get "js/main.js" | js.Build $options | fingerprint }}
 <script defer type="module" src="{{ $main.RelPermalink }}"></script>
 
-{{ if eq .Section "shop" }}
+{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
 	{{ $shop := resources.Get "js/shop.js" | js.Build $options | fingerprint }}
 	<script defer type="module" src="{{ $shop.RelPermalink }}"></script>
 {{ end }}

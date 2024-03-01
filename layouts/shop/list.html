@@ -3,7 +3,7 @@
 	{{ with .CurrentSection.File }}
 		{{ $section = .ContentBaseName }}
 	{{ end }}
-	{{ if or (eq $section "shop") (eq .Kind "term") }}
+	{{ if or (eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel") (eq .Kind "term") }}
 		{{ $section = "boeken" }}
 	{{ end }}
 
@@ -13,8 +13,8 @@
 		<span class="filters-container">
 			{{ range $category := slice "boeken" "boekenleggers" "stickers" }}
 				{{ with site.GetPage (printf "/%s" $category) }}
-					<a href="/winkel/producten/{{ $category }}/" {{ if or (eq .Params.title $.Params.title) (and (eq .Params.title "Boeken") (eq $section "boeken")) }}class="active"{{ end }}>
-						{{ .Params.title }}
+					<a href="/winkel/producten/{{ $category }}/" {{ if or (eq .Title $.Title) (and (eq .Title "Boeken") (eq $section "boeken")) }}class="active"{{ end }}>
+						{{ .Title }}
 					</a>
 				{{ end }}
 			{{ end }}
@@ -28,8 +28,8 @@
 			<span class="filters-container">
 				{{ range $language, $terms := site.Taxonomies.language }}
 					{{ with site.GetPage (printf "/language/%s" $language) }}
-						<a href="/winkel/producten/boeken/{{ if ne .Params.title $.Params.title }}talen/{{ $language }}/{{ end }}" {{ if eq .Params.title $.Params.title }}class="active"{{ end }}>
-							{{ .Params.title }}
+						<a href="/winkel/producten/boeken/{{ if ne .Title $.Title }}talen/{{ $language }}/{{ end }}" {{ if eq .Title $.Title }}class="active"{{ end }}>
+							{{ .Title }}
 						</a>
 					{{ end }}
 				{{ end }}
@@ -50,7 +50,7 @@
 							{{ range $publisher, $terms := site.Taxonomies.publisher }}
 								{{ with site.GetPage (printf "/publisher/%s" $publisher) }}
 									<option value="/winkel/producten/boeken/uitgeverijen/{{ $publisher }}/">
-										{{ .Params.title }}
+										{{ .Title }}
 									</option>
 								{{ end }}
 							{{ end }}
@@ -72,7 +72,7 @@
 							{{ range $writer, $terms := site.Taxonomies.writers }}
 								{{ with site.GetPage (printf "/writers/%s" $writer) }}
 									<option value="/winkel/producten/boeken/auteurs/{{ $writer }}/">
-										{{ .Params.title }}
+										{{ .Title }}
 									</option>
 								{{ end }}
 							{{ end }}

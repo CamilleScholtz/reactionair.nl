@@ -8,7 +8,7 @@
 
 		<article id="product">
 			{{ $section := .CurrentSection.File.ContentBaseName }}
-			{{ if or (eq $section "shop") (eq .Kind "term") }}
+			{{ if or (eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel") (eq .Kind "term") }}
 				{{ $section = "boeken" }}
 			{{ end }}
 
@@ -16,7 +16,7 @@
 				<table>
 					<tr>
 						<th>Titel</th>
-						<td><span>{{ .Params.title }}</span>{{ if isset .Params "subtitle" }}<br><span>{{ .Params.subtitle }}</span>{{ end }}</td>
+						<td><span>{{ .Title }}</span>{{ if isset .Params "subtitle" }}<br><span>{{ .Params.subtitle }}</span>{{ end }}</td>
 
 						<th>Taal</th>
 						<td><a href="/winkel/producten/boeken/talen/{{ urlize .Params.language }}">{{ .Params.language }}</a></td>

@@ -13,7 +13,7 @@
 			</section>
 
 			<section class="title">
-				<h1>{{ .Params.title | safeHTML }}</h1>
+				<h1>{{ .Title | safeHTML }}</h1>
 				<h2>{{ .Params.subtitle | safeHTML }}</h2>
 			</section>
 
@@ -31,7 +31,7 @@
 					srcset="{{ $1x.RelPermalink }} 1x,
 					        {{ $2x.RelPermalink }} 2x"
 					src="{{ $2x.RelPermalink }}"
-					alt="{{ cond (isset .Params "caption") .Params.caption (.Params.title | safeHTML) }}"
+					alt="{{ cond (isset .Params "caption") .Params.caption (.Title | safeHTML) }}"
 					style="background: {{ index $1x.Colors 0 }};">
 
 				{{ if isset .Params "caption" }}

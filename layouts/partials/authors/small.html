@@ -9,16 +9,16 @@
 			srcset="{{ $1x.RelPermalink }} 1x,
 			        {{ $2x.RelPermalink }} 2x"
 			src="{{ $2x.RelPermalink }}"
-			alt="{{ .author.Params.title | safeHTML }}"
+			alt="{{ .author.Title | safeHTML }}"
 			style="background: {{ index $1x.Colors 0 }};">
 	</figure>
 
 	<div class="text">
-		<h2>{{ .author.Params.title | safeHTML }}</h2>
+		<h2>{{ .author.Title | safeHTML }}</h2>
 		<small>{{ .author.Params.keyword }}</small>
 
 		<p>{{ .author.Params.description }}</p>
 
-		<a href="/auteurs/{{ urlize (.author.Params.title | safeHTML) }}/" class="more">Zie artikelen...</a>
+		<a href="/auteurs/{{ urlize (.author.Title | safeHTML) }}/" class="more">Zie artikelen...</a>
 	</div>
 </div>

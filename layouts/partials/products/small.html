@@ -1,6 +1,6 @@
 <li class="product" {{ if .checkout }}data-variant="{{ .variant.id }}" data-price="{{ .variant.price }}" style="display: none;"{{ end }}>
 	{{ $section := .product.CurrentSection.File.ContentBaseName }}
-	{{ if or (eq $section "shop") (eq .Kind "term") }}
+	{{ if or (eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel") (eq .Kind "term") }}
 		{{ $section = "boeken" }}
 	{{ end }}
 
@@ -8,7 +8,7 @@
 		{{ if eq $section "boeken" }}
 			{{ partialCached "products/book.html" (dict
 				"size"  "small"
-				"title" .product.Params.title
+				"title" .product.Title
 				"front" (.product.Resources.Get .product.Params.front)
 				"back"  (.Resources.Get .product.Params.back)
 				"pages" .product.Params.pages
@@ -17,7 +17,7 @@
 		{{ else }}
 			{{ partialCached "products/miscellany.html" (dict
 				"size"  "small"
-				"title" .product.Params.title
+				"title" .product.Title
 				"front" (.product.Resources.Get .product.Params.front)
 				"back"  (.product.Resources.Get .product.Params.back)
 				"hover"	true
@@ -31,7 +31,7 @@
 				<div class="author">{{ delimit .product.Params.writers ", " " & " }}</div>
 			{{ end }}
 
-			<h2>{{ .product.Params.title }}</h2>
+			<h2>{{ .product.Title }}</h2>
 			{{ if isset .product.Params "subtitle" }}
 				<h3>{{ .product.Params.subtitle }}</h3>
 			{{ end }}

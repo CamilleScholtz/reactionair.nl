@@ -18,7 +18,7 @@
 <link rel="stylesheet" href="{{ $mobile.RelPermalink }}" media="(max-width: 1024px)">
 <link rel="stylesheet" href="{{ $desktop.RelPermalink }}" media="(min-width: 1025px)">
 
-{{ if eq .Section "shop" }}
+{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
 	{{ $shopMain    := resources.Get "sass/shop/main.sass" | toCSS $options | fingerprint }}
 	{{ $shopMobile  := resources.Get "sass/shop/mobile.sass" | toCSS $options | fingerprint }}
 	{{ $shopDesktop := resources.Get "sass/shop/desktop.sass" | toCSS $options | fingerprint }}

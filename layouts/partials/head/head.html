@@ -19,7 +19,7 @@
 
 	{{ partialCached "head/favicons.html" . }}
 
-	{{ $shop := eq .Section "shop" }}
+	{{ $shop := (eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel") }}
 	{{ partialCached "head/stylesheets.html" . $shop }}
 	{{ partialCached "head/scripts.html" . $shop }}
 </head>
