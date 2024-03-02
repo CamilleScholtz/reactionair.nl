@@ -4,7 +4,7 @@ title: 'De radicale grondleggers van Rutgers'
 subtitle: 'De organisatie achter woke in het onderwijs'
 image: af8e24c9-90ea-4271-908b-3c4bf1fc8a20.webp
 anchor: Center
-captions: 'Jan Rutgers, de naamgever van Rutgers.'
+caption: 'Jan Rutgers, de naamgever van Rutgers.'
 description: 'Rutgers is de organisatie achter de Week van de Lentekriebels. Daarin gaan ze uw kinderen seksuele voorlichting geven. Waar komt deze stichting eigenlijk vandaan? Proberen ze uw kinderen te hersenspoelen of slechts de nodige kennis bij te spijkeren? In dit artikel duiken we in de organisatie die centraal staat in de storm.'
 authors:
     - Everardus
@@ -18,6 +18,7 @@ tags:
     - Marxisme
     - Feminisme
     - Rutgers
+summary: "- Rutgers komt uit een traditie van geboorteperking vanuit (neo-)malthusiaanse grondslag\n\n- Onder de voorlopers van Rutgers bevinden zich organisaties die beoogden pedofilie te normaliseren.\n\n- De Rutgers Stichting heeft in 1979 een petitie ondertekend waarin werd opgeroepen tot legalisering van seksueel contact tussen volwassenen en minderjarigen onder de 16 jaar.\n\n- Het FWOS, de rechtsopvolger van de Dr. Edward Brongersma Stichting financiert onderzoeken naar kinderseksualiteit en werkt samen met Rutgers.\n\n- Rutgers is de voornaamste stichting die materialen aanbiedt op het gebied van seksuele voorlichting; in hoeverre is er sprake van vrije keuze voor scholen?"
 date: '2023-03-23'
 ---
 
@@ -25,19 +26,9 @@ OPHEF! "Uw kinderen worden gehersenspoeld en geseksualiseerd!", "Nee hoor, het g
 
 Als u het nieuws heeft gevolgd, dan kan Rutgers u niet zijn ontgaan. Deze in 1969 opgerichte stichting is tegenwoordig een kenniscentrum voor seksuele voorlichting, ontwikkeling en emancipatie. Rutgers is medeorganisator van de *Week van de Lentekriebels*, een week waarin basisscholieren les krijgen over 'weerbaarheid, relaties en seksualiteit.' Zo krijgen ze les over het aangeven van grenzen, menstruatie en zaadlozing, anatomische lessen over de clitoris en pielemuis en les over verschillende seksuele oriëntaties en *genderidentiteiten*. Allemaal zaken waar de jeugd spoedig mee te maken zal krijgen. In dit opzicht lijkt er niets mis te zijn. Vanwaar dan de ophef?
 
+{{< summary >}}
+
 Onder aanvoering van Thierry Baudet werden meerdere voorbeelden aangehaald van ‘kinderboeken’ waarin ofwel expliciete handelingen werden getoond, ofwel verhalen werden verteld waarin complexe onderwerpen als transseksualiteit zeer simpel werden gemaakt (*Het Lammetje dat een varken is*, van Pim Lammers). Dit zou allemaal dienen om de jeugd te seksualiseren en te indoctrineren met de *woke-agenda*. Rutgers beet fel van zich af en kwam met de plausibele verklaring dat Baudet mensen misleidde, dat de genoemde voorbeelden enkel werden gebruikt voor de gepaste leeftijdscategorieën. Zo zouden er natuurlijk geen pijplessen zijn en zou alles gericht zijn op het voorbereiden van kinderen op de naderende complexiteit van seksualiteit. Klinkt plausibel. Veel mensen gingen achter Rutgers staan en waarschuwden voor overtrokken preutsheid. Duiken we in Rutgers, dan zien we echter een ander verhaal...
-
-{{< section >}}
-
-**Strekking van het artikel in 5 punten**
-
-1. Rutgers komt uit een traditie van geboorteperking vanuit (neo-)malthusiaanse grondslag
-2. Onder de voorlopers van Rutgers bevinden zich organisaties die beoogden pedofilie te normaliseren.
-3. De Rutgers Stichting heeft in 1979 een petitie ondertekend waarin werd opgeroepen tot legalisering van seksueel contact tussen volwassenen en minderjarigen onder de 16 jaar.
-4. Het FWOS, de rechtsopvolger van de Dr. Edward Brongersma Stichting financiert onderzoeken naar kinderseksualiteit en werkt samen met Rutgers.
-5. Rutgers is de voornaamste stichting die materialen aanbiedt op het gebied van seksuele voorlichting; in hoeverre is er sprake van vrije keuze voor scholen?
-
-{{< / section >}}
 
 
 ### Neomalthusianisme

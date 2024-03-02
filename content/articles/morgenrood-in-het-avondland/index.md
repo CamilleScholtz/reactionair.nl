@@ -14,9 +14,9 @@ tags:
 date: '2024-01-23'
 ---
 
-Slechts weinigen zullen weerspreken dat het Avondland in een staat van verval verkeert. De verscheidene crises die ons teisteren laten de ineenstorting van de moderne samenleving steeds meer aan zichtbaarheid gewinnen. Toch is menigeen stomverbaasd dat het wegtrekken van de fundamenten waarop het Westen zijn glorietijd heeft gegrond ertoe heeft geleid dat het geheel verzakkende is, in een ruïne verandert. Daarnaast zijn er nog immer mensen die zich moedwillig blind blijven staren op de vooruitgangsmythe terwijl wat wij om ons heen zien deze onverbiddelijk weerspreekt.
-
 {{< quote text="Das Alte stürzt, es ändert sich die Zeit, Und neues Leben blüht aus den Ruinen." author="Friedrich Schiller" >}}
+
+Slechts weinigen zullen weerspreken dat het Avondland in een staat van verval verkeert. De verscheidene crises die ons teisteren laten de ineenstorting van de moderne samenleving steeds meer aan zichtbaarheid gewinnen. Toch is menigeen stomverbaasd dat het wegtrekken van de fundamenten waarop het Westen zijn glorietijd heeft gegrond ertoe heeft geleid dat het geheel verzakkende is, in een ruïne verandert. Daarnaast zijn er nog immer mensen die zich moedwillig blind blijven staren op de vooruitgangsmythe terwijl wat wij om ons heen zien deze onverbiddelijk weerspreekt.
 
 De oorsprong van de huidige situatie vinden we in de omwenteling van waarden en mentaliteit die samenging met de secularisering en vooral ook de onttovering van de samenleving. De letterlijkheid van het materialisme heeft alle schakeringen van de werkelijkheid waarin de oudere culturen zo rijk waren verstikt. Zodra God ten grave werd gedragen, haastte de usurpator zelfzuchtigheid zich om zijn troon te bestijgen. Uit deze tirannie vloeiden alle kwalen voort die de moderniteit rijk is. Toen er immers nog naar hogere machten geleefd werd richtte de mens zijn hoofd ten hemel. Heden ten dage ligt hij geketend aan de rotswand, en beschimpt degenen die hem proberen te overtuigen dat de beelden op de wanden waar hij zich angstvallig aan vastklampt slechts schaduwen zijn.[^2]
 

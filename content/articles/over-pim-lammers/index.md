@@ -14,10 +14,13 @@ tags:
     - 'Mark Rutte'
     - Onderwijs
     - 'Pim Lammers'
+summary: "- Pim Lammers, bekend om zijn kinderboeken met LHBTIQ+-thema's zoals *Het lammetje dat een varken is* over transseksualiteit, is geselecteerd om het gedicht voor de Kinderboekenweek 2023 te schrijven, wat past in het patroon van staatsgesteunde LHBTIQ+-propaganda in het Nederlandse onderwijs.\n\n- Naast het schrijven van kinderboeken, wordt Lammers ook in verband gebracht met het openlijk beschrijven van zijn seksleven en fantasieën over seks tussen volwassenen en kinderen, waaronder de publicatie van pedofiele fictie. Dit roept vragen op over zijn geschiktheid als kinderboekenauteur.\n\n- Lammers' werk wordt gepromoot door het COC voor gebruik op scholen tijdens Paarse Vrijdag, ondanks controverses rondom zijn persoon en andere werken, waardoor zorgen ontstaan over de invloed op jonge kinderen.\n\n- Na publicatie van kritische artikelen en online discussies zijn er meerdere reacties en acties geweest, waaronder het stilletjes verwijderen van controversiële inhoud door Lammers, het uitschakelen van reactiemogelijkheden door de CPNB, en de start van een petitie tegen Lammers' rol in de Kinderboekenweek.\n\n- Ondanks de controverse en kritiek vanuit de samenleving en politiek, inclusief kamervragen, blijft de CPNB achter de keuze voor Pim Lammers staan als dichter voor de Kinderboekenweek 2023, hoewel Lammers later is gestopt met schrijven voor het evenement. Dit roept brede vragen op over de maatschappelijke acceptatie van pedofilie en de invloed van LHBTIQ+-thema’s op kinderliteratuur en -educatie."
 date: '2023-01-27'
 ---
 
 De stichting Collectieve Propaganda van het Nederlandse Boek (CPNB) organiseert jaarlijks onder meer de Kinderboekenweek. Dit jaar mag de schrijver Pim Lammers het gedicht bij de Kinderboekenweek schrijven. De naam van Pim Lammers is eerder op *Reactionair.nl* gevallen. Wie is deze schrijver, die door de Nederlandse culturele sector wordt gepromoot voor de allerjongste kinderen?
+
+{{< summary >}}
 
 
 ### Kinderen en seksualiteit
