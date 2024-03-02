@@ -32,14 +32,15 @@
 
 				<div id="menu">
 					<ul class="four {{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}five{{end}}">
-						<a href="/winkel/producten/boeken/">Winkel</a>
-						{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
-							<a href="/winkel/wagen">Winkelwagen</a>
-							<span id="total" style="display: none;"></span>
-						{{ end }}
-						<a href="/auteurs">Auteurs</a>
-						<a href="/doneren">Doneren</a>
-						<a href="/zoeken">Zoeken</a>
+						<a href="/winkel/producten/boeken/">
+							<img src="{{ "img/shop.svg" | relURL }}" alt="Winkel" style="width: 28px; height: 28px;">
+						</a>
+						<a href="/doneren">
+							<img src="{{ "img/donate.svg" | relURL }}" alt="Doneer" style="width: 28px; height: 28px;">
+						</a>
+						<a href="/zoeken">
+							<img src="{{ "img/search.svg" | relURL }}" alt="Zoeken" class="search-icon" style="width: 28px; height: 28px;">
+						</a>
 					</ul>
 				</div>
 
