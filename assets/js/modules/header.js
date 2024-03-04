@@ -31,7 +31,7 @@ export const menu = (header, mobile) => {
 	});
 }
 
-export const scroll = (header, main, mobile) => {
+export const scroll = (header, mobile) => {
 	const logo    = header.querySelector("#logo");
 	const input   = header.querySelector("#search input");
 	const button  = header.querySelector("#search button");
@@ -45,7 +45,7 @@ export const scroll = (header, main, mobile) => {
 	let lastScroll = 0;
 	let ticking    = false;
 
-	const hide = (scroll) => {
+	const hide = () => {
 		header.style.transform = `translateY(-${headerHeight}px)`;
 		logo.style.transform   = "translateY(-32px)";
 		if (!mobile.matches) {
@@ -66,7 +66,7 @@ export const scroll = (header, main, mobile) => {
 		hidden = true;
 	}
 
-	const show = (scroll) => {
+	const show = () => {
 		header.style.transform = "translateY(0px)";
 		logo.style.transform   = "translateY(0px)";
 		if (!mobile.matches) {
@@ -85,22 +85,22 @@ export const scroll = (header, main, mobile) => {
 		ticking = true;
 		setTimeout(() => {
 			ticking = false;
-		}, 50);
+		}, 25);
 
 		const scroll = window.scrollY;
 
 		if (scroll < 40) {
 			if (hidden) {
-				show(scroll);
+				show();
 			}
 
 			return;
 		}
 
 		if (!hidden && scroll > lastScroll + 6) {
-			hide(scroll);
+			hide();
 		} else if (hidden && scroll < lastScroll - 100) {
-			show(scroll);
+			show();
 		}
 
 		lastScroll = scroll;

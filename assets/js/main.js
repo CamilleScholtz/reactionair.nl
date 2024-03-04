@@ -16,7 +16,7 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 
 	quote(main);
 	smallcaps(main)
-	scroll(header, main, mobile);
+	scroll(header, mobile);
 	menu(header, mobile);
 	time(header);
 	article(main, mobile);
