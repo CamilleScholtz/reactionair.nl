@@ -49,7 +49,7 @@
 
 							{{ range $publisher, $terms := site.Taxonomies.publisher }}
 								{{ with site.GetPage (printf "/publisher/%s" $publisher) }}
-									<option value="/winkel/producten/boeken/uitgeverijen/{{ $publisher }}/">
+									<option value="{{ relref . .Path }}">
 										{{ .Title }}
 									</option>
 								{{ end }}
@@ -71,7 +71,7 @@
 
 							{{ range $writer, $terms := site.Taxonomies.writers }}
 								{{ with site.GetPage (printf "/writers/%s" $writer) }}
-									<option value="/winkel/producten/boeken/auteurs/{{ $writer }}/">
+									<option value="{{ relref . .Path }}">
 										{{ .Title }}
 									</option>
 								{{ end }}
