@@ -2,8 +2,9 @@
 id: 249
 title: 'De Week van de Lentekriebels onder de loupe'
 subtitle: 'De deconstructie van normativiteit en idealen'
-image: 53d1547d-8532-45a1-a1b3-18e89e4bbff4.jpg
+image: d3f48fe7-e9af-4817-b798-320b6ddd23ae.webp
 anchor: Smart
+recording: 65a27354-1e33-432a-99c0-d47d5e1bcbb2.mp3
 authors:
     - 'Camille Scholtz'
 theme: 'Politiek en Actualiteit'
@@ -57,7 +58,7 @@ Een cynicus zou kunnen stellen dat de idealen jezelf zijn en de ander in zijn wa
 
 ### Conclusie
 
-Dit is geen nieuw fenomeen. Zoals ik eerder heb eerder betoogd,[^7] is *woke* slechts de meest recente iteratie van het liberalisme. Filosofisch gezien is dit een expressie van de afwijzing van realisme en een omarming van nominalisme, en zo werden eerdere "onderdrukkende" structuren ook vernietigd door overmatige kritiek en scepsis. De *woke* campagne tegen normatieve noties van seksualiteit, gender en geslacht, op scholen en elders, is slechts het nieuwe front
+Dit is geen nieuw fenomeen. Zoals ik eerder betoogd,[^7] is *woke* slechts de meest recente iteratie van het liberalisme. Filosofisch gezien is dit een expressie van de afwijzing van realisme en een omarming van nominalisme, en zo werden eerdere "onderdrukkende" structuren ook vernietigd door overmatige kritiek en scepsis. De *woke* campagne tegen normatieve noties van seksualiteit, gender en geslacht, op scholen en elders, is slechts het nieuwe front.
 
 
 [^1]: Channah Zwiep, *[Wat is seks?](https://www.bol.com/nl/nl/p/wat-is-seks/1001004011542545/)*, Rutgers beveelt dit boek aan in hun *[Brochure seksuele opvoeding 6-9 jaar](https://shop.rutgers.nl/nl/webwinkel/brochure-seksuele-opvoeding-6-9-jaar/61023528)*.
