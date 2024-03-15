@@ -1,7 +1,7 @@
 import NiceSelect from "../../vendor/nice-select2.js";
 
-export const search = (main) => {
-	const selects = main.querySelectorAll("select");
+export const filter = (main) => {
+	const selects = main.querySelectorAll(".filters select");
 	if (!selects) {
 		return;
 	}

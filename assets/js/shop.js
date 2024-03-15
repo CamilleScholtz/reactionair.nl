@@ -2,7 +2,7 @@ import * as params from "@params";
 import { edit, overview, reset, thanks, unavailable } from "./modules/shop/cart.js";
 import { address, checkout } from "./modules/shop/checkout.js";
 import { total } from "./modules/shop/header.js";
-import { search } from "./modules/shop/search.js";
+import { filter } from "./modules/shop/filter.js";
 
 window.addEventListener("DOMContentLoaded", (ev) => {
 	const header = document.querySelector("header");
@@ -14,7 +14,7 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	address(main);
 	checkout(main);
 	edit(main, header);
-	search(main);
+	filter(main);
 	unavailable(main);
 	thanks(header, main);
 
