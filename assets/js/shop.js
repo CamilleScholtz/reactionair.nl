@@ -3,6 +3,8 @@ import { edit, overview, reset, thanks, unavailable } from "./modules/shop/cart.
 import { address, checkout } from "./modules/shop/checkout.js";
 import { total } from "./modules/shop/header.js";
 import { filter } from "./modules/shop/filter.js";
+import { summary } from "./modules/shop/summary.js";
+import { variant } from "./modules/shop/variant.js";
 
 window.addEventListener("DOMContentLoaded", (ev) => {
 	const header = document.querySelector("header");
@@ -15,6 +17,8 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	checkout(main);
 	edit(main, header);
 	filter(main);
+	summary(main);
+	variant(main);
 	unavailable(main);
 	thanks(header, main);
 

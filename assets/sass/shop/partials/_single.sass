@@ -1,136 +1,104 @@
-#hero
-	align-content: space-evenly
-	border-bottom: 1px dashed var(--border-color)
+#product
 	display: grid
-	grid-gap: 30px
-	justify-content: center
-	overflow: hidden
-	position: relative
-	width: 100vw
+	gap: 50px
+	margin: 0 auto
 
-	.background
-		background: url('/img/guenon.svg')
-		background-position: top
-		background-size: cover
-		filter: var(--popup-background-filter) saturate(1.5) opacity(0.3)
-		mask: radial-gradient(black 10%, transparent 70%)
-		position: absolute
-		transform: rotate(-12deg)
-		width: 110vw
-		-webkit-mask: radial-gradient(black 10%, transparent 70%)
-
-	.back-button
-		position: absolute
-		font-size: 60px
-		right: 36px
-		top: -10px
-		z-index: 1
-
-	.book-container
-			align-self: center
-			perspective: 100vh
-
-	.title-container
-		h1
-			color: var(--text-color)
-			font-style: italic
-			font-weight: 700
-			position: relative
-			text-align: center
-			text-wrap: balance
-			z-index: 2
-
-		h2
-			font-style: italic
-			position: relative
-			text-align: center
-			text-shadow: 0 10px 40px var(--background-color)
-			z-index: 2
-
-		h3
-			font-family: 'IM Fell English SC', serif
-			position: relative
-			text-align: center
-			text-shadow: 0 5px 20px var(--background-color)
-			z-index: 2
-			margin: 0
-
-			a
-				color: var(--text-color)
-				font-size: unset
+	aside
+		display: flex
+		justify-content: center
+		align-items: center
 
 		.quote
-			color: #B35F5A
+			color: var(--accent-background-color)
+			font-size: 600px
 			font-style: italic
 			font-weight: 700
-			mix-blend-mode: hard-light
+			margin-left: -240px
+			margin-top: -80px
 			position: absolute
 
-	.cart-form-container
-		background: var(--background-color)
-		display: grid
-		z-index: 10
+	article
+		#hero
+			padding-bottom: 0px
 
-		.cart-form
-			&:not(:last-of-type)
-				border-bottom: 1px dashed var(--border-color)
-				margin-bottom: 20px
-				padding-bottom: 20px
+		.cart
+			align-items: start
+			display: grid
+			margin-top: 40px
 
-			.price
-				font-family: 'IM Fell English SC', serif
-				font-style: italic
-				padding-bottom: 4px
+			.cart-form
+				display: grid
+				grid-template-columns: max-content max-content
 
-				.type
-					color: var(--muted-color)
-					font-family: 'IM Fell English', serif
-					font-size: 16px !important
+				.price
+					font-size: 20px
+					grid-column: 2
+					grid-row: 1
+					background: var(--accent-background-color)
+					height: 50px
+					line-height: 50px
+					padding: 0px 20px
 
-				.unavailable
-					font-size: 23px
+				.checkout
+					margin-top: 5px
 
-			input
-				margin-bottom: 10px
+		.content
+			border-top: none
 
-			.unavailable-form
-				input
-					width: 100%
+			.hidden
+				transform: scaleY(0)
+				transform-origin: top
+				transition: all 0.3s ease
+				display: none
+				opacity: 0
 
-#product
-	table
-		margin-top: 40px
-		width: 100%
-
-		tr
-			border-bottom: 1px dashed var(--border-color)
-			margin-bottom: 10px
-			height: 40px
-
-			th
-				text-align: left
-
-			td
-				font-style: italic
-
-				a
+			>p:first-of-type:first-letter
+					font-family: unset
 					font-size: unset
+					float: unset
+					line-height: unset
+					padding-right: unset
+					padding-top: unset
 
-				span
-					display: inline-block
-					max-width: 250px
-					overflow: hidden
-					text-overflow: ellipsis
-					white-space: nowrap
+			figure,
+			table,
+			.blockquote
+				margin-left: 0
+				width: auto
 
-	#content
-		border-top: 1px dashed var(--border-color)
-		margin: 0 auto
-		margin-top: 30px
-		max-width: var(--min-width)
-		padding-top: 30px
+			.more
+				color: var(--accent-color)
+				cursor: pointer
+				font-style: italic
+				font-size: 20px
 
-		p
-			hyphens: auto
-			margin-bottom: 30px
-			text-align: justify
+		.details
+			border-top: 1px dashed var(--border-color)
+			margin-top: 40px
+			padding-top: 30px
+
+			table
+				width: 100%
+
+				tr
+					height: 40px
+					margin-bottom: 10px
+
+					th
+						text-align: left
+
+					td
+						font-style: italic
+
+						a
+							font-size: unset
+
+						span
+							display: inline-block
+							max-width: 250px
+							overflow: hidden
+							text-overflow: ellipsis
+							white-space: nowrap
+
+	#comments
+		display: none

@@ -93,6 +93,8 @@
 	{{ end }}
 
 	<section id="comments">
-		{{ partial "comments/comments" . }}
+		{{ partial "comments/comments.html" (dict
+			"context" .
+		) }}
 	</section>
 {{ end }}

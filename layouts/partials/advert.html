@@ -7,7 +7,7 @@
 	</div>
 
 	<a href="{{ .book.RelPermalink }}">
-		{{ partialCached "products/book.html" (dict
+		{{ partialCached "products/types/book.html" (dict
 			"size"    "medium"
 			"title"   .book.Title
 			"pages"   .book.Params.pages

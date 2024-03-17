@@ -1,81 +1,26 @@
-#hero
-	grid-template-rows: calc(100svh - 81px - 56px - 100px) 100px max-content !important
-	grid-gap: 0px !important
-	margin-left: -20px
-	margin-top: -40px
-
-	.background
-		height: calc(150vh - 81px - 56px)
-		margin-top: -25vh
-
-	.book-container
-		margin-top: -20px
-
-	.title-container
-		align-self: center
-		margin: 0 auto
-		margin-bottom: 15px
-		margin-top: 15px
-		max-width: 90vw
-
-		h1
-			font-size: 34px
-			line-height: 34px
-			margin: 0 auto
-			max-width: 80vw
-			text-shadow: 0 10px 40px var(--background-color)
-
-		h2
-			display: -webkit-box
-			font-size: 26px
-			overflow: hidden
-			-webkit-box-orient: vertical
-			-webkit-line-clamp: 2
-
-		h3
-			font-size: 18px
-			margin-top: -75px
-
-		.quote
-			display: block
-			font-size: 150px
-			margin-left: 10%
-			margin-top: -105px
-
-	.cart-form-container
-		border-top: 1px dashed var(--border-color)
-		padding-bottom: 30px
-		padding-top: 30px
-
-		.cart-form
-			padding-left: 20px
-			padding-right: 20px
-			width: calc(100vw - 40px)
-
-			.price
-				font-size: 37px
-				margin-bottom: 10px
-				margin-top: -6px
-
-			>.add-to-cart
-				width: fit-content
-
-			.added-to-cart
-				grid-template-columns: 50px calc(193px - 100px) 50px 10px auto !important
-
-				.checkout
-					grid-column: 5 !important
-
 #product
-	z-index: 11
+	grid-template-columns: auto
+	margin-top: 30px
 
-	table
-		margin-bottom: -10px
+	aside
+		.quote
+			margin-top: 50px
 
-		th
-			display: block
-			margin-bottom: 5px
+	article
+		.cart
+			grid-template-columns: auto
 
-		td
-			display: block
-			margin-bottom: 20px
+			.variants
+				margin-top: 15px
+
+		.details
+			th, td
+				display: block !important
+
+				&:nth-child(odd)
+					width: 100%
+
+			td
+				margin-bottom: 10px
+
+

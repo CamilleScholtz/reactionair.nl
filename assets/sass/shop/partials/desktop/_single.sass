@@ -1,57 +1,21 @@
-#hero
-	height: calc(100vh - 157px)
+#product
+	grid-template-columns: 1fr 1fr
+	margin-top: 80px
+	max-width: 1280px
+	width: 90%
 
-	.background
-		height: calc(105vh - 157px)
-		left: -6vw
-
-	.book-container
-		max-height: 90%
-
-	.title-container
-		h1
-			font-size: 50px
-			line-height: 70px
-			max-width: 800px
-			text-shadow: 0 10px 40px var(--background-color)
-
-		h2
-			font-size: 32px
-
-		h3
-			font-size: 22px
+	aside
+		height: calc(100vh - 101px -  101px - 80px - 80px)
 
 		.quote
-			font-size: 240px
-			margin-left: -2%
-			margin-top: -140px
+			margin-top: -80px
 
-	.cart-form-container
-		border-right: none
-		bottom: 75px
-		box-shadow: 0px 10px 80px -13px rgba(154, 52, 51, 0.1)
-		padding: 30px
-		padding-right: 7vw
-		position: absolute
-		right: 0px
-		width: 200px
+	article
+		.cart
+			grid-template-columns: auto auto
 
-		.cart-form
-			.price
-				font-size: 50px
-				margin-bottom: 20px
+			.variants
+				margin-top: 6px
 
-#product
-	table
-		border-spacing: 15px
-
-		tr
-			padding: 10px
-
-		th
-			border-right: 1px dashed var(--border-color)
-			text-align: left
-
-		td
-			padding-left: 10px
-			font-style: italic
+	#comments
+		grid-column: span 2
