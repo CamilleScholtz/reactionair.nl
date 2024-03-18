@@ -8,11 +8,11 @@
 		justify-content: center
 		align-items: center
 
-		.quote
+		.book-container::before
 			color: var(--accent-background-color)
+			content: open-quote
 			font-style: italic
 			font-weight: 700
-			margin-left: -240px
 			position: absolute
 
 	article
@@ -97,6 +97,3 @@
 							overflow: hidden
 							text-overflow: ellipsis
 							white-space: nowrap
-
-	#comments
-		display: none

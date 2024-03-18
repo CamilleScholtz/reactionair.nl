@@ -1,8 +1,6 @@
 {{ define "main" }}
 	<div id="product">
 		<aside>
-			<span class="quote">“</span>
-
 			{{ partialCached "products/large.html" (dict
 				"product" .
 			) .Params.id }}
