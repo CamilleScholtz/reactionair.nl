@@ -133,7 +133,7 @@ export const search = (header) => {
 			if (!fetched) {
 				const section = window.location.pathname.split("/")[1];
 
-				fetch(section == "winkel" ? "/winkel/index.json" : "/index.json")
+				fetch(section == "winkel" ? "/winkel/producten/boeken/index.json" : "/index.json")
 					.then((response) => response.json())
 					.then((data) => {
 						mini.addAll(data);

@@ -103,7 +103,7 @@ cleanDestinationDir = true
 
 [outputs]
 	home     = ["html", "json", "rss"]
-	section  = ["html", "rss"]
+	section  = ["html", "json", "rss"]
 	taxonomy = ["html", "rss"]
 	term     = ["html", "rss"]
 	page     = ["html"]

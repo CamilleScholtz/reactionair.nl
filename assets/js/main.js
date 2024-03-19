@@ -21,7 +21,7 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	time(header);
 	article(main, mobile);
 	search(header);
-	searchpage(main, mobile);
+	searchpage(main);
 	slider(mobile);
 	summary(main);
 	footnotes(main, mobile);

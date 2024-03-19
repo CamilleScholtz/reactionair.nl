@@ -1,6 +1,7 @@
 import MiniSearch from "../vendor/minisearch.js";
 
-export const searchpage = (main, mobile) => {
+// TODO: Merge this with the search function.
+export const searchpage = (main) => {
 	const search = main.querySelector("#search-block");
 	if (!search) {
 		return;
