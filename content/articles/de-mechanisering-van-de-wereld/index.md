@@ -5,7 +5,7 @@ subtitle: 'Wordt onze samenleving gegijzeld door een gemechaniseerd wereldbeeld?
 image: thumb.webp
 anchor: Smart
 authors:
-    - 'Jurbin van Hooff'
+    - 'Floris Huiskes'
 theme: 'Cultuur en Maatschappij'
 tags:
     - Metafysica

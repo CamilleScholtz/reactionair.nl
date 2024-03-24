@@ -5,7 +5,7 @@ subtitle: 'Hoe rechts de verwezenlijking van hun eigen idealen in de weg zit'
 image: thumb.webp
 anchor: Center
 authors:
-    - 'Jurbin van Hooff'
+    - 'Floris Huiskes'
 theme: 'Cultuur en Maatschappij'
 tags:
     - Woke

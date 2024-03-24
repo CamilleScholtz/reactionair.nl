@@ -5,7 +5,7 @@ subtitle: 'Hoe autonomie met de consumptiemaatschappij samenhangt'
 image: thumb.webp
 anchor: Smart
 authors:
-    - 'Jurbin van Hooff'
+    - 'Floris Huiskes'
 theme: 'Cultuur en Maatschappij'
 tags:
     - Metafysica

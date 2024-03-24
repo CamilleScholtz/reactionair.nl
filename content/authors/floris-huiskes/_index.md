@@ -1,7 +1,8 @@
 ---
 id: 34
-title: 'Jurbin van Hooff'
+title: 'Floris Huiskes'
 description: ...
 keyword: Gezelligheidsconnaisseur
+pseudonym: true
 image: avatar.webp
 ---

@@ -5,7 +5,7 @@ subtitle: 'De wereld waarin je bent opgegroeid bestaat niet meer'
 image: thumb.webp
 anchor: Smart
 authors:
-    - 'Jurbin van Hooff'
+    - 'Floris Huiskes'
 theme: 'Cultuur en Maatschappij'
 tags:
     - 'Oswald Spengler'

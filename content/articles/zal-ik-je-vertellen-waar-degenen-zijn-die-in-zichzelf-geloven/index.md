@@ -5,7 +5,7 @@ subtitle: 'Enkele fragmenten uit Orthodoxie door G.K. Chesterton die mij zijn op
 image: thumb.webp
 anchor: Smart
 authors:
-    - 'Jurbin van Hooff'
+    - 'Floris Huiskes'
 theme: 'Geschiedenis en Biografie'
 tags:
     - Liberalisme
