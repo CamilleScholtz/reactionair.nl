@@ -40,7 +40,7 @@ export const comments = (main) => {
 
 				<div class="comment-body" itemprop="text">
 					<small>
-						(Reacties worden handmatig goedgekeurd, het kan enkele momenten duren voordat de opmerking zichtbaar is voor anderen.)<br>
+						(Reacties worden handmatig goedgekeurd om spam te voorkomen, het kan enkele momenten duren voordat de opmerking zichtbaar is voor anderen.)<br>
 					</small>
 
 					${data.get("body")}

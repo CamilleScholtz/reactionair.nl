@@ -1,16 +1,22 @@
 <div class="comment" itemprop="comment" itemscope itemtype="https://schema.org/Comment">
 	<div class="comment-info">
 		<h3 class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
-			<span itemprop="name">{{ index . "author" }}</span>
+			<span itemprop="name">{{ index .context "author" }}</span>
 		</h3>
 
+		{{ if .review }}
+			<span class="comment-rating" itemprop="ratingValue" min="1" value="{{ index .context "rating" }}" max="5">
+				&nbsp;geeft dit product een beoordeling van <span>{{ index .context "rating" }} / 5</span>
+			</span>
+		{{ end }}
+
 		<p class="comment-time">
-			<time datetime="{{ index . "date" }}" itemprop="datePublished">
-				<span class="pipe">—</span>{{ time.Format "2 January, 2006" (index . "date") | title }}
+			<time datetime="{{ index .context "date" }}" itemprop="datePublished">
+				<span class="pipe">—</span>{{ time.Format "2 January, 2006" (index .context "date") | title }}
 			</time>
 		</p>
 	</div>
 
 
-	<div class="comment-body" itemprop="text">{{ index . "body" | markdownify }}</div>
+	<div class="comment-body" itemprop="text">{{ index .context "body" | markdownify }}</div>
 </div>

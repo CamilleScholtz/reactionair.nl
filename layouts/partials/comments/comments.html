@@ -1,8 +1,14 @@
 {{ $slug := .context.Permalink | relURL | path.Base | urlize }}
 
 {{ $comments := dict }}
-{{ if isset .context.Site.Data.comments $slug }}
-	{{ $comments = index .context.Site.Data.comments $slug }}
+{{ if .review }}
+	{{ if isset .context.Site.Data.reviews $slug }}
+		{{ $comments = index .context.Site.Data.reviews $slug }}
+	{{ end }}
+{{ else }}
+	{{ if isset .context.Site.Data.comments $slug }}
+		{{ $comments = index .context.Site.Data.comments $slug }}
+	{{ end }}
 {{ end }}
 
 <section id="comment-list">
@@ -11,12 +17,15 @@
 			{{ continue }}
 		{{ end }}
 
-		{{ partial "comments/comment.html" . }}
+		{{ partial "comments/comment.html" (dict
+			"context" .
+			"review"  $.review
+		) }}
 	{{ end }}
 </section>
 
 {{ partial "comments/form.html" (dict
-	"context" .
-	"review"  true
+	"context" .context
+	"review"  .review
 ) }}
 

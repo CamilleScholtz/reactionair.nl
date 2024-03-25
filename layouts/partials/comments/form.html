@@ -1,12 +1,15 @@
-<form id="comment-form" action="{{ site.Params.api }}/api/{{ cond .review "comment" "review" }}">
-	<input type="hidden" name="article" id="article" value="{{ .context.Params.id }}"/>
+<form id="comment-form" action="{{ site.Params.api }}/api/{{ cond .review "review" "comment" }}">
+	<input type="hidden" name="id" id="id" value="{{ .context.Params.id }}"/>
 
 	<div class="comment-form-group">
-		<textarea rows="4" name="body" id="body" required spellcheck="true" placeholder="Deel uw gedachten…"></textarea>
+		<textarea rows="4" name="body" id="body" {{ cond .review "required" "" }} spellcheck="true" placeholder="Deel uw gedachten…"></textarea>
 
 		{{ if .review }}
-			<input type="number" id="rating" name="rating" min="1" max="5" required placeholder="Uw beoordeling"/>
-
+			<span class="rating-input">
+				<span class="prefix">Uw beoordeling:</span>
+				<input type="number" id="rating" name="rating" min="1" max="5" required />
+				<span class="suffix"> / 5</span>
+			</span>
 		{{ end }}
 
 		<input type="text" id="author" name="author" required spellcheck="false" placeholder="Uw naam"/>
