@@ -1,6 +1,7 @@
 import * as params from "@params";
 import { edit, overview, reset, thanks, unavailable } from "./modules/shop/cart.js";
 import { address, checkout } from "./modules/shop/checkout.js";
+import { rating } from "./modules/shop/rating.js";
 import { total } from "./modules/shop/header.js";
 import { filter } from "./modules/shop/filter.js";
 import { summary } from "./modules/shop/summary.js";
@@ -20,6 +21,7 @@ window.addEventListener("DOMContentLoaded", (ev) => {
 	summary(main);
 	variant(main);
 	unavailable(main);
+	rating(main);
 	thanks(header, main);
 
 	fetch(params.api+"/api/shop/shipping", {
