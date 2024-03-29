@@ -4,15 +4,20 @@
 	<div class="comment-form-group">
 		<textarea rows="4" name="body" id="body" {{ cond .review "required" "" }} spellcheck="true" placeholder="Deel uw gedachten…"></textarea>
 
+		<input type="text" id="author" name="author" required spellcheck="false" placeholder="Uw naam"/>
 		{{ if .review }}
 			<span class="rating-input">
-				<span class="prefix">Uw beoordeling:</span>
-				<input type="number" id="rating" name="rating" min="1" max="5" required />
-				<span class="suffix"> / 5</span>
+				<button class="button remove-from-cart">
+					-
+				</button>
+
+				<input class="amount-in-cart" type="number" value="5" min="1" max="5">
+
+				<button class="button add-to-cart">
+					+
+				</button>
 			</span>
 		{{ end }}
-
-		<input type="text" id="author" name="author" required spellcheck="false" placeholder="Uw naam"/>
 		<button type="submit" class="button square">
 			›
 		</button>

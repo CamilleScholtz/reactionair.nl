@@ -58,26 +58,9 @@
 
 			.rating-input
 				display: grid
-				grid-template-columns: auto 1fr auto
+				grid-template-columns: 50px calc(193px - 100px) 50px
 
-				.prefix,
-				.suffix
-					background: var(--accent-background-color)
-					height: 50px
-					line-height: 50px
+			#author
+				display: grid
+				grid-template-columns: auto calc(193px - 100px) 50px
 
-				.prefix
-					padding-left: 20px
-					padding-right: 20px
-
-				.suffix
-					width: 50px
-					text-align: center
-
-				#rating
-					width: 100%
-			#name
-				width: calc(100% - 60px)
-
-			button
-				float: right
