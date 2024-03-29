@@ -1,5 +1,5 @@
 import * as params from "@params";
-import { edit, overview, reset, thanks, unavailable } from "./modules/shop/cart.js";
+import { edit, overview, thanks, unavailable } from "./modules/shop/cart.js";
 import { address, checkout } from "./modules/shop/checkout.js";
 import { total } from "./modules/shop/header.js";
 import { filter } from "./modules/shop/filter.js";
