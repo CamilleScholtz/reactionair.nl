@@ -1,4 +1,4 @@
-{{ $slug := .context.Permalink | relURL | path.Base | urlize }}
+{{ $slug := .context.RelPermalink | relURL | path.Base | urlize }}
 
 {{ $comments := dict }}
 {{ if .review }}

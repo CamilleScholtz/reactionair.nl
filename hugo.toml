@@ -15,7 +15,7 @@ pluralizeListTitles  = false
 
 [params]
 	api    = "https://admin.reactionair.nl"
-	advert = "Reactionary Modernism"
+	advert = "Desengaño"
 
 [module]
 	[[module.mounts]]
