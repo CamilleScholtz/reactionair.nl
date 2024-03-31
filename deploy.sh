@@ -8,7 +8,7 @@ fi
 
 trap 'rm -rf "/usr/local/www/reactionair.nl/build"' SIGINT SIGTERM
 
-/root/go/bin/hugo -s "/usr/local/www/reactionair.nl" --cleanDestinationDir -d "/usr/local/www/reactionair.nl/build"
+/usr/local/www/hugo -s "/usr/local/www/reactionair.nl" --cleanDestinationDir -d "/usr/local/www/reactionair.nl/build"
 
 if [ -d "/usr/local/www/reactionair.nl/public" ]; then
 	rm -rf "/usr/local/www/reactionair.nl/public"
