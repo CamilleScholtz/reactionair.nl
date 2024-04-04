@@ -33,7 +33,7 @@ export const overview = (main, cart, shipping) => {
 
 	page.querySelector(".total").innerHTML               = total.format();
 	page.querySelector(".shipping").innerHTML            = formatter(shipping.price).format();
-	page.querySelector(".free-shipping").innerHTML       = "(Verzendkosten, uiterlijk binnen 14 werkdagen in huis)"
+	page.querySelector(".free-shipping").innerHTML       = `(Verzendkosten, uiterlijk binnen ${shipping.estimation} werkdagen in huis)`
 	page.querySelector(".total-plus-shipping").innerHTML = total.add(shipping.price).format()
 }
 
