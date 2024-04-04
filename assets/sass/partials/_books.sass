@@ -34,7 +34,7 @@
 		.back
 			background-color: #5C3020
 			border-radius: 0 1.5px 1.5px 0
-			box-shadow: -6px 6px 30px 3px rgba(154, 52, 51, 0.02)
+			box-shadow: -6px 6px 30px 3px var(--light-shadow-color)
 			height: var(--height)
 			left: 0
 			position: absolute
@@ -50,7 +50,7 @@
 				transform: translateZ(calc((-1 * var(--thickness)) - 0.1px)) !important
 
 		.shadow
-			background: radial-gradient(circle, rgba(154, 52, 51, 0.25) 0%, rgba(154, 52, 51, 0) 70%)
+			background: var(--book-shadow-color)
 			position: absolute
 			transform: translateZ(calc(var(--thickness) / 2)) rotateX(90deg)
 			bottom: calc((-1 * var(--width)))

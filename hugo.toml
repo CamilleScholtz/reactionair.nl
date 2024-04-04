@@ -7,13 +7,15 @@ DefaultContentLanguage = "nl"
 paginate     = 10
 paginatePath = "pagina"
 
-removePathAccents   = true
-enableRobotsTXT     = true
-cleanDestinationDir = true
+removePathAccents    = true
+enableRobotsTXT      = true
+cleanDestinationDir  = true
+capitalizeListTitles = false
+pluralizeListTitles  = false
 
 [params]
 	api    = "https://admin.reactionair.nl"
-	advert = "Reactionary Modernism"
+	advert = "Desengaño"
 
 [module]
 	[[module.mounts]]

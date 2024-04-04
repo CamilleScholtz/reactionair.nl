@@ -39,6 +39,7 @@
 			"name": "{{ .Title | safeHTML }}",
 			"image": "{{ (.Resources.Get .Params.image).Permalink }}"
 		{{ else if and (eq .Type "shop") (isset .Params "front") }}
+			{{ $slug  := .RelPermalink | path.Base | urlize }}
 			{{ $image := .Resources.Get .Params.front }}
 
 			"@type": ["Product", "Book"],
@@ -61,6 +62,20 @@
 					}{{ if lt $i (len $.Params.writers) }},{{ end }}
 				{{ end }}
 			],
+			{{ if isset .Site.Data.reviews $slug }}
+				{{ $reviews := index .Site.Data.reviews $slug }}
+				{{ $count   := len $reviews }}
+				{{ $value   := 0 }}
+				{{ range $reviews }}
+					{{ $value = add $value .rating }}
+				{{ end }}
+
+				"AggregateRating": {
+					"@type": "AggregateRating",
+					"reviewCount": "{{ $count }}",
+					"ratingValue": "{{ div $value $count }}",
+				},
+			{{ end }}
 			"offers": {
                 "@type": "Offer",
                 "availability": "{{ if .Params.out_of_stock }}https://schema.org/OutOfStock{{ else }}https://schema.org/InStock{{ end }}",

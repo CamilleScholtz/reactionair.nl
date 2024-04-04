@@ -4,17 +4,25 @@
 	<div class="comment-form-group">
 		<textarea rows="4" name="body" id="body" {{ cond .review "required" "" }} spellcheck="true" placeholder="Deel uw gedachten…"></textarea>
 
-		{{ if .review }}
-			<span class="rating-input">
-				<span class="prefix">Uw beoordeling:</span>
-				<input type="number" id="rating" name="rating" min="1" max="5" required />
-				<span class="suffix"> / 5</span>
-			</span>
-		{{ end }}
+		<span class="comment-form-line">
+			<input type="text" id="author" name="author" required spellcheck="false" placeholder="Uw naam"/>
+			{{ if .review }}
+				<span class="added-to-rating">
+					<button class="button remove-from-rating">
+						-
+					</button>
 
-		<input type="text" id="author" name="author" required spellcheck="false" placeholder="Uw naam"/>
-		<button type="submit" class="button square">
-			›
-		</button>
+					<input id="rating" name="rating" type="number" value="5" min="1" max="5">
+					<span class="suffix"> sterren</span>
+
+					<button class="button add-to-rating">
+						+
+					</button>
+				</span>
+			{{ end }}
+			<button type="submit" class="button square">
+				›
+			</button>
+		</span>
 	</div>
 </form>
