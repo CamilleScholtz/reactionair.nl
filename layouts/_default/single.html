@@ -76,13 +76,13 @@
 				</section>
 			{{ end }}
 
-			{{ .Content }}
+			{{ partial "body.html" .Content }}
 		</section>
 	</article>
 
 	{{ if in (slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Wijsbegeerte" "Onderzoek en Speurwerk" "Geschiedenis en Biografie" "De Uylenspieghel") .Params.theme }}
 		<section class="themes">
-			{{ partial "articles/theme.html" (dict
+			{{ partial "theme.html" (dict
 				"section" "related"
 				"path"    "themas"
 				"term"    .Params.theme

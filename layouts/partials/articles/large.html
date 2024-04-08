@@ -1,27 +1,25 @@
-<a href="{{ .article.RelPermalink }}" class="article large">
-	<div class="text">
-		<div class="author">{{ delimit .article.Params.authors ", " " & " }}</div>
-		<h2>{{ .article.Title | safeHTML }}</h2>
-	</div>
+<div class="text">
+	<div class="author">{{ delimit .article.Params.authors ", " " & " }}</div>
+	<h2>{{ .article.Title | safeHTML }}</h2>
+</div>
 
-	<figure>
-		{{ $image  := .article.Resources.Get .article.Params.image }}
-		{{ $anchor := "Smart" }}
-		{{ if isset .article.Params "anchor" }}
-			{{ $anchor = .article.Params.anchor }}
+<figure>
+	{{ $image  := .article.Resources.Get .article.Params.image }}
+	{{ $anchor := "Smart" }}
+	{{ if isset .article.Params "anchor" }}
+		{{ $anchor = .article.Params.anchor }}
+	{{ end }}
+
+	{{ $1x := $image.Fill (printf "310x180 webp %s" $anchor) }}
+	{{ $2x := $image.Fill (printf "620x359 webp %s" $anchor) }}
+
+	<img
+		srcset="{{ $1x.RelPermalink }} 1x,
+		        {{ $2x.RelPermalink }} 2x"
+		src="{{ $2x.RelPermalink }}"
+		{{ if .lazy }}
+			loading="lazy"
 		{{ end }}
-
-		{{ $1x := $image.Fill (printf "310x180 webp %s" $anchor) }}
-		{{ $2x := $image.Fill (printf "620x359 webp %s" $anchor) }}
-
-		<img
-			srcset="{{ $1x.RelPermalink }} 1x,
-			        {{ $2x.RelPermalink }} 2x"
-			src="{{ $2x.RelPermalink }}"
-			{{ if .lazy }}
-				loading="lazy"
-			{{ end }}
-			alt="{{ .article.Title | safeHTML }}"
-			style="background: {{ index $1x.Colors 0 }};">
-	</figure>
-</a>
+		alt="{{ .article.Title | safeHTML }}"
+		style="background: {{ index $1x.Colors 0 }};">
+</figure>

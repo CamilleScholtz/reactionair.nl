@@ -1,9 +1,20 @@
-<div class="utility">
+<div class="utility" x-ref="utility">
 	<span class="left">
 		<div>{{ .Title | safeHTML }}</div>
 	</span>
 
-	<span class="right">
+	<span class="right" x-data="{
+		get now() {
+			const date   = new Date();
+			const format = new Intl.DateTimeFormat('nl-NL', {
+				day:   'numeric',
+				month: 'long',
+				year:  'numeric',
+			}).formatToParts(date);
+
+			return `${format.find((e) => e.type === 'day').value} ${format.find((e) => e.type === 'month').value}, ${format.find((e) => e.type === 'year').value}`;
+		}
+	}">
 		{{ if and (eq .Kind "page") (eq .Section "articles") }}
 			<time>{{ .Date.Day }} {{ index site.Data.months (printf "%d" .Date.Month) }}, {{ .Date.Year }}</time>
 
@@ -11,7 +22,7 @@
 
 			<span class="eta" data-eta="{{ .ReadingTime }}">{{ .ReadingTime }} {{ if gt .ReadingTime 1 }}minuten{{ else }}minuut{{ end }} leestijd</span>
 		{{ else }}
-			<time class="now">{{ now.Day }} {{ index .Site.Data.months (printf "%d" now.Month) }}, {{ now.Year }}</time>
+			<time class="now" x-text="now">{{ now.Day }} {{ index .Site.Data.months (printf "%d" now.Month) }}, {{ now.Year }}</time>
 		{{ end }}
 	</span>
 </div>

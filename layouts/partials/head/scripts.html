@@ -11,13 +11,25 @@
 {{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
 	{{ $shop := resources.Get "js/shop.js" | js.Build $options | fingerprint }}
 	<script defer type="module" src="{{ $shop.RelPermalink }}"></script>
+	<script defer src="https://unpkg.com/currency.js@~2.0.4/dist/currency.min.js"></script>
+	<script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/mask@3.x.x/dist/cdn.min.js"></script>
+	<script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/persist@3.x.x/dist/cdn.min.js"></script>
 {{ end }}
 
+<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+<script type="text/javascript">
+	document.addEventListener('alpine:init', () => {
+		Alpine.store('mobile', window.matchMedia('(max-width: 1024px)'));
+	});
+</script>
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-MM83VY2NM0"></script>
-<script>
+<script type="text/javascript">
 	window.dataLayer = window.dataLayer || [];
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
 
 	gtag('config', 'G-MM83VY2NM0');
 </script>
+

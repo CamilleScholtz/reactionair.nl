@@ -1,9 +1,28 @@
 {{ define "main" }}
 	<div id="product">
 		<aside>
-			{{ partialCached "products/large.html" (dict
-				"product" .
-			) .Params.id }}
+			{{ if eq .CurrentSection.File.ContentBaseName "boeken" }}
+				{{ partial "products/types/book.html" (dict
+					"size"    "large"
+					"title"   .Title
+					"front"   (.Resources.Get .Params.front)
+					"back"    (.Resources.Get .Params.back)
+					"pages"   .Params.pages
+					"animate" true
+					"click"   (isset .Params "back")
+					"hover"   (not (isset .Params "back"))
+				) }}
+			{{ else }}
+				{{ partial "products/types/miscellany.html" (dict
+					"size"    "large"
+					"title"   .Title
+					"front"   (.Resources.Get .Params.front)
+					"back"    (.Resources.Get .Params.back)
+					"animate" true
+					"click"   (isset .Params "back")
+					"hover"   (not (isset .Params "back"))
+				) }}
+			{{ end }}
 		</aside>
 
 		<article>

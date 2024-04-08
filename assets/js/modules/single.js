@@ -212,23 +212,6 @@ export const recording = (main) => {
 	})
 }
 
-export const smallcaps = (main) => {
-	if (main.id !== "page") {
-		return;
-	}
-
-	const sentence = main.querySelector(".content>p:first-of-type");
-	if (!sentence) {
-		return;
-	}
-
-	let pattern = /^(.*?[^\w\d\s\'‘’“”\-\u00C0-\u024F\u1E00-\u1EFF<>/])/;
-	if (sentence.innerHTML.match(pattern)[0].split(" ").length > 9) {
-		pattern = /^([\S]+\s[\S]+\s[\S]+)/;
-	}
-
-	sentence.innerHTML = sentence.innerHTML.replace(pattern, "<span style=\"font-family: 'IM Fell English SC', serif;\">$1</span>");
-}
 
 export const summary = (main) => {
 	if (main.id !== "page") {

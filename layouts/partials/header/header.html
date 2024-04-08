@@ -2,7 +2,12 @@
 	<div id="logo-container">
 		<div id="logo-center">
 			<a href="/" id="logo">
-				<img src="{{ "img/logo.svg" | relURL }}" alt="Reactionair.nl" style="width: 130px; height: 130px;">
+				<img
+					src="{{ "img/logo.svg" | relURL }}"
+					alt="Reactionair.nl"
+					style="width: 130px; height: 130px;"
+				>
+
 				{{ if eq .Kind "home" }}
 					<h1>Reactionair</h1>
 				{{ else }}
@@ -12,7 +17,11 @@
 
 			<span id="buttons">
 				<a href="/doneren" class="icon" id="donate">
-					<img src="{{ "img/donate.svg" | relURL }}" alt="Doneer" style="width: 28px; height: 28px;">
+					<img
+						src="{{ "img/donate.svg" | relURL }}"
+						alt="Doneer"
+						style="width: 28px; height: 28px;"
+					>
 				</a>
 
 				<a href="/winkel/producten/boeken" class="icon" id="shop">
@@ -32,14 +41,32 @@
 				</a>
 
 				{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
-					<a href="/winkel/wagen" class="icon" id="cart">
-						<img src="{{ "img/cart.svg" | relURL }}" alt="Winkelwagen" style="width: 28px; height: 28px;">
-						<span id="total" style="display: none;"></span>
+					<a
+						href="/winkel/wagen"
+						id="cart"
+						class="icon"
+						x-data
+					>
+						<img
+							src="{{ "img/cart.svg" | relURL }}"
+							alt="Winkelwagen"
+							style="width: 28px; height: 28px;"
+						>
+						<span
+							id="total"
+							x-cloak
+							x-show="cart.length"
+							x-text="cart.reduce((total, variant) => total + variant.quantity, 0)"
+						></span>
 					</a>
 				{{ end }}
 
 				<span id="menu-button">
-					<img src="{{ "img/menu.svg" | relURL }}" alt="Menu" style="width: 28px; height: 28px;">
+					<img
+						src="{{ "img/menu.svg" | relURL }}"
+						alt="Menu"
+						style="width: 28px; height: 28px;"
+					>
 				</span>
 
 				<div id="menu">

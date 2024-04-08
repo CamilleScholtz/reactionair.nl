@@ -4,7 +4,55 @@
 {{ end }}
 
 {{ range $index, $_ := $variants }}
-	<div class="cart-form" data-variant="{{ .id }}" data-price="{{ .price }}" style="display: {{ cond (eq $index 0) (cond $.checkout "grid" "block") "none" }};">
+	<div
+		class="cart-form"
+		style="display: {{ cond (eq $index 0) (cond $.checkout "grid" "block") "none" }};"
+		x-data="{
+			variant: {{ .id }},
+			price:   {{ .price }},
+
+			get current() {
+				return this.cart.find(i => i.variant === this.variant) ?? { quantity: 0 };
+			},
+
+			cache() {
+				fetch('{{ site.Params.api }}/api/shop/shipping', {
+					method: 'POST',
+					headers: {
+						'Content-Type': 'application/json'
+					},
+					body: JSON.stringify({
+						cart: this.cart,
+					})
+				});
+			},
+
+			add() {
+				if (this.current.quantity > 0) {
+					this.current.quantity++;
+				} else {
+					this.cart.push({
+						variant: this.variant,
+						quantity: 1,
+						price: currency(this.price),
+					});
+				}
+
+				this.cache();
+			},
+
+			remove() {
+				if (this.current) {
+					this.current.quantity--;
+					if (this.current.quantity === 0) {
+						this.cart = this.cart.filter(i => i.variant !== this.variant);
+					}
+				}
+
+				this.cache();
+			}
+		}"
+	>
 		<div class="price">
 			{{ if not $.checkout }}
 				{{ if not $.out_of_stock }}
@@ -34,23 +82,51 @@
 		</div>
 
 		{{ if and (not $.checkout) (gt (len $.variants) 1) }}
-			<a href="{{ $.permalink }}" class="button {{ if $.out_of_stock }}disabled{{ end }}" {{ if $.out_of_stock }}disabled{{ end }}>
+			<a
+				href="{{ $.permalink }}"
+				class="button {{ if $.out_of_stock }}disabled{{ end }}"
+				{{ if $.out_of_stock }}disabled{{ end }}
+			>
 				Toevoegen aan winkelwagen
 			</a>
 		{{ else }}
-			<button class="button add-to-cart {{ if .out_of_stock }}disabled{{ end }}" {{ if .out_of_stock }}disabled{{ end }}>
+			<button
+				class="button {{ if .out_of_stock }}disabled{{ end }}"
+				{{ if .out_of_stock }}disabled{{ end }}
+				x-show="current.quantity === 0"
+				@click="add"
+			>
 				Toevoegen aan winkelwagen
 			</button>
 		{{ end }}
 
-		<div class="added-to-cart" style="display: none;">
-			<button class="button remove-from-cart {{ if .out_of_stock }}disabled{{ end }}" {{ if .out_of_stock }}disabled{{ end }}>
+		<div
+			class="added-to-cart"
+			x-cloak
+			:style="current.quantity > 0 ? 'display: grid;' : 'display: none;'"
+		>
+			<button
+				class="button {{ if .out_of_stock }}disabled{{ end }}"
+				{{ if .out_of_stock }}disabled{{ end }}
+				@click="remove"
+			>
 				-
 			</button>
 
-			<input class="amount-in-cart {{ if .out_of_stock }}disabled{{ end }}" type="number" value="1" min="1" max="10" {{ if .out_of_stock }}disabled{{ end }}>
+			<input
+				class="{{ if .out_of_stock }}disabled{{ end }}"
+				type="number"
+				value="1"
+				min="1"
+				{{ if .out_of_stock }}disabled{{ end }}
+				x-model.lazy.number="current.quantity"
+			>
 
-			<button class="button add-to-cart {{ if .out_of_stock }}disabled{{ end }}" {{ if .out_of_stock }}disabled{{ end }}>
+			<button
+				class="button {{ if .out_of_stock }}disabled{{ end }}"
+				{{ if .out_of_stock }}disabled{{ end }}
+				@click="add"
+			>
 				+
 			</button>
 
@@ -69,8 +145,15 @@
 
 		<span class="filters-container">
 			{{ range $index, $_ := $variants }}
-				<a href="#" class="{{ cond (eq $index 0) "active" "" }}" data-variant="{{ .id }}">{{ .format | title }}</a>
+				<a
+					href="#"
+					class="{{ cond (eq $index 0) "active" "" }}"
+					data-variant="{{ .id }}"
+				>
+					{{ .format | title }}
+				</a>
 			{{ end }}
 		</span>
 	</div>
 {{ end }}
+

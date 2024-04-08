@@ -205,19 +205,3 @@ export const search = (header) => {
 		});
 	});
 }
-
-export const time = (header) => {
-	const now = header.querySelector(".now");
-	if (!now) {
-		return;
-	}
-
-	const date   = new Date();
-	const format = new Intl.DateTimeFormat("nl-NL", {
-		day:   "numeric",
-		month: "long",
-		year:  "numeric",
-	}).formatToParts(date);
-
-	now.innerHTML = `${format.find((e) => e.type === "day").value} ${format.find((e) => e.type === "month").value.replace(".", "").toUpperCase()}, ${format.find((e) => e.type === "year").value}`;
-}

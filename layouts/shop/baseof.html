@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html lang="{{ site.LanguageCode }}">
+	{{ partial "head/head.html" . }}
+
+	<body x-data="{ cart: $persist([]) }">
+		{{ partial "header/header.html" . }}
+
+		<main id="{{ .Kind }}">
+			{{ block "main" . }}{{ end }}
+		</main>
+
+		{{ partialCached "footer.html" . }}
+	</body>
+</html>

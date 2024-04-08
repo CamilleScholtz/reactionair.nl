@@ -1,7 +1,11 @@
 {{ define "main" }}
 	<div id="taxonomy" class="cart-page">
 		<ul id="products">
-			<div class="cart-empty" style="display: none;">
+			<div
+				class="cart-empty"
+				x-cloak
+				x-show="!cart.length"
+			>
 				<p>Uw winkelwagen is leeg.</p>
 				<p>Ga <a href="/winkel/producten/boeken">terug naar de winkel</a>.</p>
 			</div>
@@ -12,7 +16,7 @@
 						{{ continue }}
 					{{ end }}
 
-					{{ partial "products/small.html" (dict
+					{{ partial "product.html" (dict
 						"product"  $product
 						"variant"  .
 						"checkout" true
@@ -24,13 +28,43 @@
 		<div class="info">
 			<a href="/winkel/afrekenen" class="button">Afrekenen</a>
 
-			<div class="prices">
-				<div class="total"></div>
+			<div
+				class="prices"
+				x-data="{
+					shipping:    null,
+					estimation:  2,
+					total:       null,
+				}"
+				x-init="fetch('{{ .Site.Params.api }}/api/shop/shipping', {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json'
+						},
+						body: JSON.stringify({
+							cart: cart,
+						})
+					})
+						.then(response => response.json())
+						.then(data => {
+							const formatter = value => currency(value, { symbol: '€ ', separator: '.' });
+
+							shipping   = formatter(data.price);
+							estimation = data.estimation;
+							total      = formatter(0);
+
+							cart.forEach(variant => {
+								total = total.add(formatter(variant.price).multiply(variant.quantity));
+							});
+						})"
+			>
+				<div class="total" x-text="total?.format()"></div>
 				<div>
-					<small class="free-shipping"></small>
-					<span class="shipping"></span>
+					<small class="free-shipping">
+						(Verzendkosten, uiterlijk binnen <small x-text="estimation"></small> werkdagen in huis)
+					</small>
+					<span class="shipping" x-text="shipping?.format()"></span>
 				</div>
-				<div class="total-plus-shipping"></div>
+				<div class="total-plus-shipping" x-text="total?.add(shipping.price).format()"></div>
 			</div>
 		</div>
 	</div>

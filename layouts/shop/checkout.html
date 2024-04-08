@@ -1,28 +1,91 @@
 {{ define "main" }}
-	<div id="taxonomy" class="checkout-page">
+	<div
+		id="taxonomy"
+		class="checkout-page"
+		x-data="{
+
+		}"
+	>
 		<form class="form" action="{{ .Site.Params.api }}/api/shop/checkout">
 			<label>Naam</label>
 			<div class="form-group name">
-				<input type="text" name="first-name" required placeholder="Uw naam" autocomplete="given-name"/>
-				<input type="text" name="preposition" placeholder="Tussenv." autocomplete="additional-name"/>
-				<input type="text" name="last-name" required placeholder="Uw achternaam" autocomplete="family-name"/>
+				<input
+					type="text"
+					name="first-name"
+					required
+					placeholder="Uw naam"
+					autocomplete="given-name"
+				/>
+				<input
+					type="text"
+					name="preposition"
+					placeholder="Tussenv."
+					autocomplete="additional-name"
+				/>
+				<input
+					type="text"
+					name="last-name"
+					required
+					placeholder="Uw achternaam"
+					autocomplete="family-name"
+				/>
 			</div>
 
 			<label>Adres</label>
 			<div class="form-group address">
-				<input type="text" name="postal-code" required placeholder="Uw postcode" autocomplete="postal-code" maxlength="7"/>
-				<input type="text" name="house-number" required placeholder="Uw huisnummer"/>
+				<input
+					type="text"
+					name="postal-code"
+					required
+					placeholder="Uw postcode"
+					autocomplete="postal-code"
+					maxlength="7"
+				/>
+				<input
+					type="text"
+					name="house-number"
+					required
+					placeholder="Uw huisnummer"
+				/>
 			</div>
 			<span class="error"></span>
-			<input type="text" name="street" required readonly placeholder="Uw straat"/>
-			<input type="text" name="city" required readonly placeholder="Uw woonplaats"/>
+			<input
+				type="text"
+				name="street"
+				required
+				readonly
+				placeholder="Uw straat"
+			/>
+			<input
+				type="text"
+				name="city"
+				required
+				readonly
+				placeholder="Uw woonplaats"
+			/>
 
 			<label>Contactgegevens</label>
-			<input type="email" name="email" required placeholder="Uw e-mailadres" autocomplete="email"/>
-			<input type="tel" name="phone" placeholder="Uw telefoonnummer" autocomplete="tel"/>
+			<input
+				type="email"
+				name="email"
+				required
+				placeholder="Uw e-mailadres"
+				autocomplete="email"
+			/>
+			<input
+				type="tel"
+				name="phone"
+				placeholder="Uw telefoonnummer"
+				autocomplete="tel"
+			/>
 
 			<label for="newsletter-checkbox">
-				<input type="checkbox" name="newsletter" id="newsletter-checkbox" checked/>
+				<input
+					type="checkbox"
+					name="newsletter"
+					id="newsletter-checkbox"
+					checked
+				/>
 				<span>Ik wil de <i>Reactionair.nl</i> nieuwsbrief ontvangen</span>
 			</label>
 

@@ -24,8 +24,9 @@
 		<a href="/{{ .path }}/{{ urlize .term }}/" class="more">Meer artikelen...</a>
 	</div>
 
-	{{ partialCached "articles/large.html" (dict
+	{{ partialCached "article.html" (dict
 		"article" $featured
+		"size"    "large"
 		"lazy"    true
 	) $featured.Params.id }}
 </div>

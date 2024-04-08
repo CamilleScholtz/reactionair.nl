@@ -14,8 +14,9 @@
 	<section>	
 		<div id="articles">
 			{{ range $paginator.Pages }}			
-				{{ partialCached "articles/small.html" (dict
+				{{ partialCached "article.html" (dict
 					"article" .
+					"size"    "small"
 				) .Params.id }}
 			{{ end }}
 		</div>

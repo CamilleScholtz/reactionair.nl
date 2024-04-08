@@ -1,0 +1,21 @@
+<section
+	id="body"
+	x-data="{
+		init() {
+			const sentence = $el.querySelector('p:first-of-type');
+			console.log(sentence);
+			if (!sentence) {
+				return;
+			}
+
+			let pattern = /^(.*?[^\w\d\s\'‘’“”\-\u00C0-\u024F\u1E00-\u1EFF<>/])/;
+			if (sentence.innerHTML.match(pattern)[0].split(' ').length > 9) {
+				pattern = /^([\S]+\s[\S]+\s[\S]+)/;
+			}
+
+			sentence.innerHTML = sentence.innerHTML.replace(pattern, '<span style=\'font-family: IM Fell English SC, serif;\'>$1</span>');
+		}
+	}"
+>
+	{{ . }}
+</section>
