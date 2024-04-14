@@ -55,8 +55,8 @@
 						<span
 							id="total"
 							x-cloak
-							x-show="cart.length"
-							x-text="cart.reduce((total, variant) => total + variant.quantity, 0)"
+							x-show="$store.cart.contents.length"
+							x-text="$store.cart.contents.reduce((total, variant) => total + variant.quantity, 0)"
 						></span>
 					</a>
 				{{ end }}

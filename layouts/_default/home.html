@@ -4,7 +4,24 @@
 
 	<section id="hero">
 		<section class="left">
-			<div class="scroll">
+			<div class="scroll" x-data="{
+				init() {
+					if (!$store.mobile.matches) {
+						return;
+					}
+
+					let height = 0;
+					$el.querySelectorAll('h2').forEach((el) => {
+						if (el.offsetHeight > height) {
+							height = el.offsetHeight;
+						}
+					});
+
+					$el.querySelectorAll('h2').forEach((el) => {
+						el.style.height = `${height}px`;
+					});
+				}
+			}">
 				<div class="mobile-featured scroll-item">
 					{{ partial "article.html" (dict
 						"article" (index $articles 0)

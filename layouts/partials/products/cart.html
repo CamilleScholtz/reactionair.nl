@@ -6,52 +6,18 @@
 {{ range $index, $_ := $variants }}
 	<div
 		class="cart-form"
-		style="display: {{ cond (eq $index 0) (cond $.checkout "grid" "block") "none" }};"
 		x-data="{
 			variant: {{ .id }},
 			price:   {{ .price }},
 
 			get current() {
-				return this.cart.find(i => i.variant === this.variant) ?? { quantity: 0 };
-			},
-
-			cache() {
-				fetch('{{ site.Params.api }}/api/shop/shipping', {
-					method: 'POST',
-					headers: {
-						'Content-Type': 'application/json'
-					},
-					body: JSON.stringify({
-						cart: this.cart,
-					})
-				});
-			},
-
-			add() {
-				if (this.current.quantity > 0) {
-					this.current.quantity++;
-				} else {
-					this.cart.push({
-						variant: this.variant,
-						quantity: 1,
-						price: currency(this.price),
-					});
-				}
-
-				this.cache();
-			},
-
-			remove() {
-				if (this.current) {
-					this.current.quantity--;
-					if (this.current.quantity === 0) {
-						this.cart = this.cart.filter(i => i.variant !== this.variant);
-					}
-				}
-
-				this.cache();
+				return $store.cart.find({{ .id }})
 			}
 		}"
+		{{ if .checkout }}
+			x-cloak
+			x-show="filter === {{ .id }}"
+		{{ end }}
 	>
 		<div class="price">
 			{{ if not $.checkout }}
@@ -94,7 +60,7 @@
 				class="button {{ if .out_of_stock }}disabled{{ end }}"
 				{{ if .out_of_stock }}disabled{{ end }}
 				x-show="current.quantity === 0"
-				@click="add"
+				@click="$store.cart.add({{ .id }}, {{ .price }})"
 			>
 				Toevoegen aan winkelwagen
 			</button>
@@ -108,7 +74,7 @@
 			<button
 				class="button {{ if .out_of_stock }}disabled{{ end }}"
 				{{ if .out_of_stock }}disabled{{ end }}
-				@click="remove"
+				@click="$store.cart.remove({{ .id }})"
 			>
 				-
 			</button>
@@ -125,7 +91,7 @@
 			<button
 				class="button {{ if .out_of_stock }}disabled{{ end }}"
 				{{ if .out_of_stock }}disabled{{ end }}
-				@click="add"
+				@click="$store.cart.add({{ .id }}, {{ .price }})"
 			>
 				+
 			</button>
@@ -144,11 +110,11 @@
 		<span class="title">Variant:</span>
 
 		<span class="filters-container">
-			{{ range $index, $_ := $variants }}
+			{{ range $variants }}
 				<a
 					href="#"
-					class="{{ cond (eq $index 0) "active" "" }}"
-					data-variant="{{ .id }}"
+					:class="filter === {{ .id }} ? 'active' : ''"
+					@click.prevent="filter = {{ .id }}"
 				>
 					{{ .format | title }}
 				</a>

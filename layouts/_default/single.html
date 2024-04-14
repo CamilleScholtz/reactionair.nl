@@ -58,13 +58,109 @@
 			{{ end }}
 
 			{{ if isset .Params "recording" }}
-				<section class="recording" data-src="{{ .Resources.Get .Params.recording }}" data-waveform="{{ index .Site.Data.waveforms (.Permalink | relURL | path.Base | urlize) | jsonify }}">
+				<section
+					class="recording"
+					x-data="{
+						style:     	window.getComputedStyle(document.documentElement),
+						recording:  '{{ .Resources.Get .Params.recording }}',
+						waveform:   {{ replace (index .Site.Data.waveforms (.Permalink | relURL | path.Base | urlize) | jsonify ) "\"" "'" }},
+						wavesurfer: null,
+
+						init() {
+							this.wavesurfer = $store.wavesurfer.create({
+								container:     $refs.player,
+								url:	       this.recording,
+								waveColor:     this.style.getPropertyValue('--popup-border-color'),
+								progressColor: this.style.getPropertyValue('--accent-color'),
+								height:        50,
+								barWidth:      20,
+								cursorWidth:   0,
+								dragToSeek:    true,
+								peaks:         [this.waveform.lines1, this.waveform.lines2],
+								renderFunction: (channels, ctx) => {
+									const { width, offsetHeight } = ctx.canvas;
+									const scale                   = channels[0].length / width;
+									const step                    = 10;
+
+									ctx.lineWidth   = 5;
+									ctx.strokeStyle = ctx.fillStyle;
+									ctx.translate(0, offsetHeight);
+									ctx.beginPath();
+
+									for (let i = ctx.lineWidth; i < width - ctx.lineWidth; i += step * 2) {
+										const index = Math.floor(i * scale);
+										const value = Math.abs(channels[0][index]);
+
+										let x = i;
+										let y = value * (offsetHeight - ctx.lineWidth);
+
+										ctx.moveTo(x, 0);
+										ctx.lineTo(x, y);
+										ctx.arc(x + step / 2, y, step / 2, Math.PI, 0, true);
+										ctx.lineTo(x + step, 0);
+
+										x = x + step;
+										y = -y;
+
+										ctx.moveTo(x, 0);
+										ctx.lineTo(x, y);
+										ctx.arc(x + step / 2, y, step / 2, Math.PI, 0, false);
+										ctx.lineTo(x + step, 0);
+									}
+
+									ctx.stroke();
+									ctx.closePath();
+								}
+							});
+						},
+
+						play() {
+							this.wavesurfer.play();
+
+							$refs.play.style.transform      = 'rotateY(90deg)';
+							$refs.pause.style.transform     = 'rotateY(0deg)';
+							$refs.play.style.pointerEvents  = 'none';
+							$refs.pause.style.pointerEvents = 'auto';
+
+							setTimeout(() => {
+								$refs.pause.style.opacity = 1;
+								$refs.play.style.opacity  = 0;
+							}, 100);
+						},
+
+						pause() {
+							this.wavesurfer.pause();
+
+							$refs.play.style.transform      = 'rotateY(0deg)';
+							$refs.pause.style.transform     = 'rotateY(90deg)';
+							$refs.pause.style.pointerEvents = 'none';
+							$refs.play.style.pointerEvents  = 'auto';
+
+							setTimeout(() => {
+								$refs.play.style.opacity  = 1;
+								$refs.pause.style.opacity = 0;
+							}, 100);
+						}
+					}"
+				>
 					<div class="toggle">
-						<img class="play" src="{{ "img/play.svg" | relURL }}" alt="Afspelen">
-						<img class="pause" src="{{ "img/pause.svg" | relURL }}" alt="Pauzeren">
+						<img
+							class="play"
+							src="{{ "img/play.svg" | relURL }}"
+							alt="Afspelen"
+							x-ref="play"
+							@click="play"
+						>
+						<img
+							class="pause"
+							src="{{ "img/pause.svg" | relURL }}"
+							alt="Pauzeren"
+							x-ref="pause"
+							@click="pause"
+						>
 					</div>
 
-					<div class="player"></div>
+					<div class="player" x-ref="player"></div>
 				</section>
 			{{ end }}
 
@@ -92,10 +188,8 @@
 		</section>
 	{{ end }}
 
-	<section id="comments">
-		{{ partial "comments/comments.html" (dict
-			"context" .
-			"review"  false
-		) }}
-	</section>
+	{{ partial "comments/comments.html" (dict
+		"context" .
+		"review"  false
+	) }}
 {{ end }}

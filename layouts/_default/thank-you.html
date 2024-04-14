@@ -1,5 +1,11 @@
 {{ define "main" }}
-	<div class="thank-you">
+	<div
+		class="thank-you"
+		{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
+			x-data
+			x-init="$store.cart.contents = []"
+		{{ end }}
+	>
 		{{ .Content }}
 	</div>
 {{ end }}

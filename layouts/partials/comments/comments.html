@@ -11,21 +11,55 @@
 	{{ end }}
 {{ end }}
 
-<section id="comment-list">
-	{{ range sort $comments "date" }}
-		{{ if eq (index . "accepted") false }}
-			{{ continue }}
+<section
+	id="comments"
+	x-data="{
+		commented: false,
+		form: null,
+
+		submit() {
+			const data = new FormData($refs.form);
+			this.form  = Object.fromEntries(data);
+
+			fetch('{{ site.Params.api }}/api/{{ cond .review "review" "comment" }}', {
+				method: 'POST',
+				headers: {
+					'Content-Type': 'application/json'
+				},
+				body: JSON.stringify(this.form)
+			});
+
+			$refs.form.reset();
+			this.commented = true;
+		}
+	}"
+>
+	<div>
+		{{ range sort $comments "date" }}
+			{{ if eq (index . "accepted") false }}
+				{{ continue }}
+			{{ end }}
+
+			{{ partial "comments/comment.html" (dict
+				"context" .
+				"review"  $.review
+			) }}
 		{{ end }}
 
 		{{ partial "comments/comment.html" (dict
-			"context" .
-			"review"  $.review
+			"context" (dict
+				"author" ""
+				"rating" 5
+				"date"   "1970-01-01T00:00:00Z"
+				"body"   ""
+			)
+			"review" .review
+			"stub"   true
 		) }}
-	{{ end }}
+	</div>
+
+	{{ partial "comments/form.html" (dict
+		"context" .context
+		"review"  .review
+	) }}
 </section>
-
-{{ partial "comments/form.html" (dict
-	"context" .context
-	"review"  .review
-) }}
-

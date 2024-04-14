@@ -1,22 +1,66 @@
-<div class="comment" itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+<div
+	class="comment"
+	itemprop="comment"
+	itemscope
+	itemtype="https://schema.org/Comment"
+	{{ if .stub }}
+		x-cloak
+		x-show="commented"
+		x-ref="form"
+	{{ end }}
+>
 	<div class="comment-info">
-		<h3 class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
-			<span itemprop="name">{{ index .context "author" }}</span>
+		<h3
+			class="comment-author"
+			itemprop="author"
+			itemscope
+			itemtype="https://schema.org/Person"
+		>
+			<span
+				itemprop="name"
+				{{ if .stub }}
+					x-text="!commented || form.author"
+				{{ end }}
+			>
+				{{ index .context "author" }}
+			</span>
 		</h3>
 
 		{{ if .review }}
-			<span class="comment-rating" itemprop="ratingValue" min="1" value="{{ index .context "rating" }}" max="5">
+			<span
+				class="comment-rating"
+				itemprop="ratingValue"
+				min="1"
+				value="{{ index .context "rating" }}"
+				max="5"
+				{{ if .stub }}
+					x-html="!commented || `&nbsp;geeft dit product een beoordeling van <span>${form.rating} / 5</span>`"
+				{{ end }}
+			>
 				&nbsp;geeft dit product een beoordeling van <span>{{ index .context "rating" }} / 5</span>
 			</span>
 		{{ end }}
 
 		<p class="comment-time">
-			<time datetime="{{ index .context "date" }}" itemprop="datePublished">
+			<time
+				datetime="{{ index .context "date" }}"
+				itemprop="datePublished"
+				{{ if .stub }}
+					x-html="!commented || `<span class='pipe'>—</span>${new Date().toLocaleDateString('nl-NL', { year: 'numeric', month: 'long', day: 'numeric' })}`"
+				{{ end }}
+			>
 				<span class="pipe">—</span>{{ time.Format "2 January, 2006" (index .context "date") | title }}
 			</time>
 		</p>
 	</div>
 
-
-	<div class="comment-body" itemprop="text">{{ index .context "body" | markdownify }}</div>
+	<div
+		class="comment-body"
+		itemprop="text"
+		{{ if .stub }}
+			x-text="!commented || form.body"
+		{{ end }}
+	>
+		{{ index .context "body" | markdownify }}
+	</div>
 </div>

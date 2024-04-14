@@ -1,11 +1,24 @@
-<section class="summary footnotes section">
-	<h3>Dit artikel in vogelvlucht:</h3>
+<section
+	class="summary footnotes section"
+	x-data="{
+		expanded: false
+	}"
+	x-show="expanded"
+	x-collapse.min.240px
+>
+	<div>
+		<h3>Dit artikel in vogelvlucht:</h3>
 
-	<div class="overlay"></div>
+		<div class="overlay" x-show="!epxanded"></div>
 
-	{{ $.Page.Params.summary | markdownify }}
+		{{ $.Page.Params.summary | markdownify }}
+	</div>
+
+	<button
+		class="button summary-button"
+		x-text="expanded ? 'Sluiten' : 'Lees meer'"
+		@click="expanded = true"
+	>
+		Lees meer
+	</button>
 </section>
-
-<button class="button summary-button">
-	Lees meer
-</button>

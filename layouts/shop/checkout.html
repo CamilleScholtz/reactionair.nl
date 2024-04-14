@@ -1,12 +1,62 @@
 {{ define "main" }}
-	<div
-		id="taxonomy"
-		class="checkout-page"
-		x-data="{
+	<div id="taxonomy" class="checkout-page">
+		<form
+			class="form"
+			x-data="{
+				postalCode:  '',
+				houseNumber: '',
 
-		}"
-	>
-		<form class="form" action="{{ .Site.Params.api }}/api/shop/checkout">
+				address() {
+					if (!(this.postalCode.length === 6 || this.postalCode.length === 7)
+						|| this.houseNumber.length === 0) {
+						return;
+					}
+
+					fetch('{{ .Site.Params.api }}/api/shop/address', {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json'
+						},
+						body: JSON.stringify({
+							'postal-code':  this.postalCode,
+							'house-number': this.houseNumber
+						})
+					}).then((response) => {
+						return response.json();
+					}).then((data) => {
+						if (data.message) {
+							switch (data.message) {
+								case 'No result for this combination.':
+									return $refs.error.innerHTML = 'De ingevulde postcode en huisnummer combinatie is niet gevonden.';
+								default:
+									return $refs.error.innerHTML = 'Er is een fout opgetreden.';
+							}
+						}
+
+						$refs.street.value = data.street;
+						$refs.city.value   = data.city;
+					});
+				},
+
+				submit() {
+					fetch('{{ .Site.Params.api }}/api/shop/checkout', {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json'
+						},
+						body: JSON.stringify({
+							'cart': $store.cart.contents,
+							'form': Object.fromEntries(new FormData($el))
+						})
+					}).then((response) => {
+						return response.json();
+					}).then((data) => {
+						window.location.replace(data);
+					});
+				}
+			}"
+			@submit.prevent="submit"
+		>
 			<label>Naam</label>
 			<div class="form-group name">
 				<input
@@ -40,21 +90,27 @@
 					placeholder="Uw postcode"
 					autocomplete="postal-code"
 					maxlength="7"
+					x-model="postalCode"
+					x-mask="9999 aa"
+					@input.debounce.500ms="address"
 				/>
 				<input
 					type="text"
 					name="house-number"
 					required
 					placeholder="Uw huisnummer"
+					x-model="houseNumber"
+					@input.debounce.500ms="address"
 				/>
 			</div>
-			<span class="error"></span>
+			<span class="error" x-ref="error"></span>
 			<input
 				type="text"
 				name="street"
 				required
 				readonly
 				placeholder="Uw straat"
+				x-ref="street"
 			/>
 			<input
 				type="text"
@@ -62,6 +118,7 @@
 				required
 				readonly
 				placeholder="Uw woonplaats"
+				x-ref="city"
 			/>
 
 			<label>Contactgegevens</label>

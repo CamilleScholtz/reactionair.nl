@@ -4,7 +4,7 @@
 			<div
 				class="cart-empty"
 				x-cloak
-				x-show="!cart.length"
+				x-show="!$store.cart.contents.length"
 			>
 				<p>Uw winkelwagen is leeg.</p>
 				<p>Ga <a href="/winkel/producten/boeken">terug naar de winkel</a>.</p>
@@ -31,9 +31,9 @@
 			<div
 				class="prices"
 				x-data="{
-					shipping:    null,
-					estimation:  2,
-					total:       null,
+					shipping:   null,
+					estimation: 2,
+					total:      null,
 				}"
 				x-init="fetch('{{ .Site.Params.api }}/api/shop/shipping', {
 						method: 'POST',
@@ -41,18 +41,18 @@
 							'Content-Type': 'application/json'
 						},
 						body: JSON.stringify({
-							cart: cart,
+							cart: $store.cart.contents,
 						})
 					})
 						.then(response => response.json())
 						.then(data => {
-							const formatter = value => currency(value, { symbol: '€ ', separator: '.' });
+							const formatter = value => $store.cart.currency(value, { symbol: '€ ', separator: '.' });
 
 							shipping   = formatter(data.price);
 							estimation = data.estimation;
 							total      = formatter(0);
 
-							cart.forEach(variant => {
+							$store.cart.contents.forEach(variant => {
 								total = total.add(formatter(variant.price).multiply(variant.quantity));
 							});
 						})"

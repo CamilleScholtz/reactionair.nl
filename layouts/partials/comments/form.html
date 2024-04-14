@@ -1,23 +1,44 @@
-<form id="comment-form" action="{{ site.Params.api }}/api/{{ cond .review "review" "comment" }}">
+<form
+	id="comment-form"
+	@submit.prevent="submit"
+	x-ref="form"
+>
 	<input type="hidden" name="id" id="id" value="{{ .context.Params.id }}"/>
 
 	<div class="comment-form-group">
-		<textarea rows="4" name="body" id="body" {{ cond .review "required" "" }} spellcheck="true" placeholder="Deel uw gedachten…"></textarea>
+		<textarea
+			rows="4"
+			name="body"
+			id="body"
+			{{ cond .review "required" "" }}
+			spellcheck="true"
+			placeholder="Deel uw gedachten…"
+		></textarea>
 
 		<span class="comment-form-line">
 			<input type="text" id="author" name="author" required spellcheck="false" placeholder="Uw naam"/>
 			{{ if .review }}
-				<span class="added-to-rating">
-					<button class="button remove-from-rating">
+				<span
+					class="added-to-rating"
+					x-data="{ rating: 5 }"
+					x-init="$watch('rating', value => rating = Math.min(Math.max(value, 1), 5))"
+				>
+					<span class="button" @click="rating--">
 						-
-					</button>
+					</span>
 
-					<input id="rating" name="rating" type="number" value="5" min="1" max="5">
-					<span class="suffix"> sterren</span>
+					<input
+						name="rating"
+						type="number"
+						min="1"
+						max="5"
+						x-model.lazy.number="rating"
+					>
+					<span class="suffix" x-text="rating == 1 ? ' ster' : ' sterren'"> sterren</span>
 
-					<button class="button add-to-rating">
+					<span class="button" @click="rating++">
 						+
-					</button>
+					</span>
 				</span>
 			{{ end }}
 			<button type="submit" class="button square">

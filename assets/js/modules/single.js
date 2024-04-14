@@ -212,29 +212,3 @@ export const recording = (main) => {
 	})
 }
 
-
-export const summary = (main) => {
-	if (main.id !== "page") {
-		return;
-	}
-
-	const summary = main.querySelector(".summary");
-	if (!summary) {
-		return;
-	}
-
-	const button  = main.querySelector(".summary-button");
-	const overlay = main.querySelector(".summary .overlay");
-
-	button.addEventListener("click", (ev) => {
-		if (summary.style.maxHeight) {
-			summary.style.maxHeight = null;
-			overlay.style.opacity   = 1;
-			button.innerHTML        = "Lees meer";
-		} else {
-			summary.style.maxHeight = summary.scrollHeight + "px";
-			overlay.style.opacity   = 0;
-			button.innerHTML        = "Sluiten";
-		}
-	});
-}

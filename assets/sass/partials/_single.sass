@@ -85,35 +85,32 @@ article
 						transform: rotateY(180deg)
 
 		.summary
-			max-height: 240px
-			overflow: hidden
-			position: relative
-			transition: max-height 0.3s ease
+			div
+				position: relative
 
-			.overlay
-				background: linear-gradient(transparent 150px, var(--accent-background-color) 280px)
-				bottom: 0px
-				height: 100%
-				left: 0px
-				pointer-events: none
+				.overlay
+					background: linear-gradient(transparent 150px, var(--accent-background-color) 280px)
+					bottom: 0px
+					height: 100%
+					left: 0px
+					pointer-events: none
+					position: absolute
+					transition: opacity 0.3s ease
+					width: 100%
+
+				h3
+					font-style: italic
+					margin-top: 0px
+
+				ul
+					padding-left: 30px
+
+			.summary-button
+				display: block
 				position: absolute
-				transition: opacity 0.3s ease
-				width: 100%
-
-			h3
-				font-style: italic
-				margin-top: 0px
-
-			ul
-				padding-left: 30px
-
-		.summary-button
-			display: block
-			margin-bottom: 30px
-			margin-top: -69px
-			position: absolute
-			right: 40px
-			z-index: 99
+				right: 40px
+				z-index: 99
+				margin-top: -99px
 
 		#body>p:first-of-type:first-letter
 			font-family: 'Caps', serif

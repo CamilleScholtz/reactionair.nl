@@ -2,7 +2,7 @@
 	<div id="product">
 		<aside>
 			{{ if eq .CurrentSection.File.ContentBaseName "boeken" }}
-				{{ partial "products/types/book.html" (dict
+				{{ partial "products/book.html" (dict
 					"size"    "large"
 					"title"   .Title
 					"front"   (.Resources.Get .Params.front)
@@ -13,7 +13,7 @@
 					"hover"   (not (isset .Params "back"))
 				) }}
 			{{ else }}
-				{{ partial "products/types/miscellany.html" (dict
+				{{ partial "products/miscellany.html" (dict
 					"size"    "large"
 					"title"   .Title
 					"front"   (.Resources.Get .Params.front)
@@ -25,7 +25,7 @@
 			{{ end }}
 		</aside>
 
-		<article>
+		<article x-data="{ filter: {{ (index .Params.variants 0).id }} }">
 			<section id="hero">
 				<section class="title">
 					{{ if eq .CurrentSection.File.ContentBaseName "boeken" }}
@@ -57,12 +57,18 @@
 				) }}
 			</section>
 
-			<section class="content">
+			<section class="content" x-data="{ expanded: false }">
 				{{ index (split .Content "</p>") 0 | safeHTML }}</p>
 
-				<span class="more">Lees meer...</span>
+				<span
+					class="more"
+					x-show="!expanded"
+					@click="expanded = true"
+				>
+					Lees meer...
+				</span>
 
-				<div class="hidden">
+				<div x-show="expanded" x-collapse>
 					{{ range $index, $element := split .Content "</p>" }}
 						{{ if gt $index 0 }}
 							{{ $element | safeHTML }}</p>
@@ -109,8 +115,8 @@
 							<td>{{ .Params.date.Format "2006" }}</td>
 
 							<th>ISBN</th>
-							{{ range $index, $_ := .Params.variants }}
-								<td data-variant="{{ .id }}" style="display: {{ cond (eq $index 0) "revert" "none" }};">
+							{{ range .Params.variants }}
+								<td x-cloak x-show="filter === {{ .id }}">
 									{{ .isbn }}
 								</td>
 							{{ end }}
@@ -121,8 +127,8 @@
 							<td>{{ .Params.pages }}</td>
 
 							<th>Formaat</th>
-							{{ range $index, $_ := .Params.variants }}
-								<td data-variant="{{ .id }}" style="display: {{ cond (eq $index 0) "revert" "none" }};">
+							{{ range .Params.variants }}
+								<td x-cloak x-show="filter === {{ .id }}">
 									{{ .format | title }}
 								</td>
 							{{ end }}
@@ -132,11 +138,9 @@
 			</section>
 		</article>
 
-		<section id="comments">
-			{{ partial "comments/comments.html" (dict
-				"context" .
-				"review"  true
-			) }}
-		</section>
+		{{ partial "comments/comments.html" (dict
+			"context" .
+			"review"  true
+		) }}
 	</div>
 {{ end }}

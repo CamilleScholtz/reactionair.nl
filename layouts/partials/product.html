@@ -1,12 +1,12 @@
 <li
 	class="product"
 	{{ if .checkout }}style="display: none;"{{ end }}
-	x-date="{
-		{{ if .checkout }}
+	{{ if .checkout }}
+		x-date="{
 			variant: {{ .variant.id }},
 			price:   {{ .variant.price }}
-		{{ end }}
-	}"
+		}"
+	{{ end }}
 >
 	{{ $section := .product.CurrentSection.File.ContentBaseName }}
 	{{ if or (eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel") (eq .Kind "term") }}
@@ -15,7 +15,7 @@
 
 	<a href="{{ .product.RelPermalink }}">
 		{{ if eq $section "boeken" }}
-			{{ partialCached "products/types/book.html" (dict
+			{{ partialCached "products/book.html" (dict
 				"size"  "small"
 				"title" .product.Title
 				"front" (.product.Resources.Get .product.Params.front)
@@ -24,7 +24,7 @@
 				"hover"	true
 			) "small" .product.Params.id }}
 		{{ else }}
-			{{ partialCached "products/types/miscellany.html" (dict
+			{{ partialCached "products/miscellany.html" (dict
 				"size"  "small"
 				"title" .product.Title
 				"front" (.product.Resources.Get .product.Params.front)
