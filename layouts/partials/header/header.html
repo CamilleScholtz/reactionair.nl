@@ -1,4 +1,72 @@
-<header>
+<header
+	x-data="{
+		hidden:     false,
+		lastScroll: 0,
+
+		pagefind:  null,
+		searching: false,
+		input:     '',
+		matches:   [],
+
+		async init() {
+			$watch('searching', async (value) => {
+				if (!value) {
+					this.searching = false;
+					this.input     = '';
+					this.matches   = [];
+				}
+
+				if (this.pagefind) {
+					return;
+				}
+
+				this.pagefind = await import('/pagefind/pagefind.js');
+				this.pagefind.init();
+			});
+
+			$watch('hidden', (value) => {
+				if (!value) {
+					return;
+				}
+
+				this.searching = false;
+				this.input     = '';
+				this.matches   = [];
+			});
+		},
+
+		scroll() {
+			const scroll = window.scrollY;
+
+			if (scroll < 60) {
+				return this.hidden = false;
+			}
+
+			if (!this.hidden && scroll > this.lastScroll + 6) {
+				this.hidden = true;
+			} else if (this.hidden && scroll < this.lastScroll - 100) {
+				this.hidden = false;
+			}
+
+			this.lastScroll = scroll;
+		},
+
+		async search() {
+			if (!this.pagefind) {
+				return;
+			}
+
+			if (!this.input) {
+				return this.matches = [];
+			}
+
+			const search = await this.pagefind?.search(this.input);
+			this.matches = await Promise.all(search.results.slice(0, 15).map(r => r.data()));
+		}
+	}"
+	@scroll.window.throttle.25ms="scroll"
+	:class="!hidden || 'hidden'"
+>
 	<div id="logo-container">
 		<div id="logo-center">
 			<a href="/" id="logo">
@@ -15,8 +83,14 @@
 				{{ end }}
 			</a>
 
-			<span id="buttons">
-				<a href="/doneren" class="icon" id="donate">
+			<span id="buttons" x-data="{ open: false }">
+				<a
+					href="/doneren"
+					class="icon"
+					id="donate"
+					:class="!searching || 'hidden'"
+					:style="{ opacity: searching ? 0 : 1 }"
+				>
 					<img
 						src="{{ "img/donate.svg" | relURL }}"
 						alt="Doneer"
@@ -24,7 +98,13 @@
 					>
 				</a>
 
-				<a href="/winkel/producten/boeken" class="icon" id="shop">
+				<a
+					href="/winkel/producten/boeken"
+					class="icon"
+					id="shop"
+					:class="!searching || 'hidden'"
+					:style="{ opacity: searching ? 0 : 1 }"
+				>
 					{{ if ne (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
 						<div id="new">
 							<span>Nieuwe<br>boeken!</span>
@@ -45,7 +125,8 @@
 						href="/winkel/wagen"
 						id="cart"
 						class="icon"
-						x-data
+						:class="searching || hidden"
+						:style="{ opacity: searching ? 0 : 1 }"
 					>
 						<img
 							src="{{ "img/cart.svg" | relURL }}"
@@ -61,7 +142,11 @@
 					</a>
 				{{ end }}
 
-				<span id="menu-button">
+				<span
+					id="menu-button"
+					:style="{ transform: open ? 'rotateY(180deg)' : 'rotateY(0deg)' }"
+					@click="open = !open"
+				>
 					<img
 						src="{{ "img/menu.svg" | relURL }}"
 						alt="Menu"
@@ -69,7 +154,15 @@
 					>
 				</span>
 
-				<div id="menu">
+				<div
+					id="menu"
+					x-cloak
+					x-show="open"
+					x-transition:enter-start="closed"
+					x-transition:enter-end="open"
+					x-transition:leave-start="open"
+					x-transition:leave-end="closed"
+				>
 					<ul>
 						<a href="/winkel/producten/boeken/">
 							<img src="{{ "img/shop.svg" | relURL }}" alt="Winkel" style="width: 28px; height: 28px;">
@@ -85,16 +178,51 @@
 
 				<div id="search">
 					<form>
-						<input type="search" placeholder="Zoeken…" autocomplete="off" spellcheck="false" style="transform: rotateY(90deg);">
-						<button class="button">
-							<img src="{{ "img/search.svg" | relURL }}" alt="Zoeken" class="search-icon" style="width: 28px; height: 28px;">
-							<img src="{{ "img/close.svg" | relURL }}" alt="Sluiten" class="close-icon" style="width: 28px; height: 28px;">
+						<input
+							id="search-input"
+							type="search"
+							placeholder="Zoeken…"
+							autocomplete="off"
+							spellcheck="false"
+							x-model="input"
+							x-cloak
+							x-show="searching"
+							x-transition
+							@input.debounce.100ms="search"
+						>
+
+						<button
+							class="button"
+							:style="{ transform: searching ? 'rotateY(180deg)' : 'rotateY(0deg)' }"
+							@click.prevent="searching = !searching"
+						>
+							<img
+								src="{{ "img/search.svg" | relURL }}"
+								alt="Zoeken"
+								class="search-icon"
+								style="width: 28px; height: 28px;"
+							>
+							<img
+								src="{{ "img/close.svg" | relURL }}"
+								alt="Sluiten"
+								class="close-icon"
+								style="width: 28px; height: 28px;"
+							>
 						</button>
 					</form>
 
-					<div class="results-container">
+					<div class="results-container" x-cloak x-show="matches.length > 0">
 						<div class="arrow"></div>
-						<ul class="results"></ul>
+						<ul id="search-results" class="results">
+							<template x-for="match in matches">
+								<a :href="match.url">
+									<h2 x-text="match.meta.title"></h2>
+									<h3 x-show="match.meta.subtitle" x-text="match.meta.subtitle"></h3>
+
+									<p class="author" x-html="match.meta.authors"></p>
+								</a>
+							</template>
+						</ul>
 					</div>
 				</div>
 			</span>

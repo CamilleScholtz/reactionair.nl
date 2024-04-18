@@ -1,7 +1,7 @@
 {{ define "main" }}
 	<article>
 		<section id="hero">
-			<section class="authors">
+			<section class="authors" data-pagefind-meta="authors">
 				{{ range $index, $author := .Params.authors }}
 					<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>
 					{{ if eq $index (sub (len $.Params.authors) 2) }}
@@ -13,8 +13,8 @@
 			</section>
 
 			<section class="title">
-				<h1>{{ .Title | safeHTML }}</h1>
-				<h2>{{ .Params.subtitle | safeHTML }}</h2>
+				<h1 data-pagefind-meta="title">{{ .Title | safeHTML }}</h1>
+				<h2 data-pagefind-meta="subtitle">{{ .Params.subtitle | safeHTML }}</h2>
 			</section>
 
 			<figure>

@@ -1,4 +1,4 @@
-<div class="av-container">
+<div class="av-container" data-pagefind-ignore>
 	<div class="text">
 		<h3><span class="de">De</span> Reactionair</h3>
 		<h2>Boekenwinkel</h2>
@@ -7,7 +7,7 @@
 	</div>
 
 	<a href="{{ .book.RelPermalink }}">
-		{{ partialCached "products/book.html" (dict
+		{{ partialCached "shop/products/book.html" (dict
 			"size"    "medium"
 			"title"   .book.Title
 			"pages"   .book.Params.pages

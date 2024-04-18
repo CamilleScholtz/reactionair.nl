@@ -2,7 +2,7 @@
 	<div id="product">
 		<aside>
 			{{ if eq .CurrentSection.File.ContentBaseName "boeken" }}
-				{{ partial "products/book.html" (dict
+				{{ partial "shop/products/book.html" (dict
 					"size"    "large"
 					"title"   .Title
 					"front"   (.Resources.Get .Params.front)
@@ -13,7 +13,7 @@
 					"hover"   (not (isset .Params "back"))
 				) }}
 			{{ else }}
-				{{ partial "products/miscellany.html" (dict
+				{{ partial "shop/products/miscellany.html" (dict
 					"size"    "large"
 					"title"   .Title
 					"front"   (.Resources.Get .Params.front)
@@ -29,7 +29,7 @@
 			<section id="hero">
 				<section class="title">
 					{{ if eq .CurrentSection.File.ContentBaseName "boeken" }}
-						<section class="authors">
+						<section class="authors" data-pagefind-meta="authors">
 							{{ range $index, $writer := .Params.writers }}
 								<a href="/winkel/producten/boeken/auteurs/{{ urlize $writer }}">{{ $writer }}</a>
 								{{ if eq $index (sub (len $.Params.writers) 2) }}
@@ -41,15 +41,15 @@
 						</section>
 					{{ end }}
 
-					<h1>{{ .Title | safeHTML }}</h1>
+					<h1 data-pagefind-meta="title">{{ .Title | safeHTML }}</h1>
 					{{ if isset .Params "subtitle" }}
-						<h2>{{ .Params.subtitle | safeHTML }}</h2>
+						<h2 data-pagefind-meta="subtitle">{{ .Params.subtitle | safeHTML }}</h2>
 					{{ end }}
 				</section>
 			</section>
 
 			<section class="cart">
-				{{ partial "products/cart.html" (dict
+				{{ partial "shop/cart.html" (dict
 					"variants"     .Params.variants
 					"out_of_stock" .Params.out_of_stock
 					"permalink"    .RelPermalink
@@ -57,7 +57,11 @@
 				) }}
 			</section>
 
-			<section class="content" x-data="{ expanded: false }">
+			<section
+				class="content"
+				data-pagefind-body
+				x-data="{ expanded: false }"
+			>
 				{{ index (split .Content "</p>") 0 | safeHTML }}</p>
 
 				<span

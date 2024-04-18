@@ -4,6 +4,10 @@ header
 	top: 0px
 	transition: transform .2s
 	z-index: 99
+	transform-origin: top
+
+	&.hidden
+		transform: translateY(calc(-100% - 50px))
 
 	#logo-container
 		background: var(--background-color)

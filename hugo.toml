@@ -104,8 +104,8 @@ pluralizeListTitles  = false
 		keepWhitespace = false
 
 [outputs]
-	home     = ["html", "json", "rss"]
-	section  = ["html", "json", "rss"]
+	home     = ["html", "rss"]
+	section  = ["html", "rss"]
 	taxonomy = ["html", "rss"]
 	term     = ["html", "rss"]
 	page     = ["html"]

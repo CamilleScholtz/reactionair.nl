@@ -15,7 +15,7 @@
 
 {{ with $book }}
 	<section class="av">
-		{{ partialCached "advert.html" (dict
+		{{ partialCached "shop/advert.html" (dict
 			"book" .
 		) .Params.id }}
 	</section>

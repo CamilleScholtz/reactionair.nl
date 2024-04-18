@@ -1,18 +1,74 @@
-import { donate } from "./modules/donate.js";
-import { menu, scroll, search } from "./modules/header.js";
-import { searchpage } from "./modules/search.js";
-import { footnotes } from "./modules/single.js";
+import * as params from '@params';
 
-window.addEventListener("DOMContentLoaded", (ev) => {
-	const mobile = window.matchMedia("(max-width: 1024px)");
+import Alpine from 'alpinejs';
+import persist from '@alpinejs/persist';
+import mask from '@alpinejs/mask';
+import collapse from '@alpinejs/collapse';
 
-	const header = document.querySelector("header");
-	const main   = document.querySelector("main");
+import wavesurfer from 'wavesurfer.js';
+import currency from 'currency.js';
 
-	scroll(header, mobile);
-	menu(header, mobile);
-	search(header);
-	searchpage(main);
-	footnotes(main, mobile);
-	donate(main);
+Alpine.plugin(persist);
+Alpine.plugin(mask);
+Alpine.plugin(collapse);
+
+document.addEventListener('alpine:init', async () => {
+	Alpine.store('mobile', window.matchMedia('(max-width: 1024px)'));
+
+	Alpine.store('wavesurfer', wavesurfer);
+
+	Alpine.store('cart', {
+		contents: Alpine.$persist([]).as('cart'),
+
+		currency(value) {
+			return currency(value);
+		},
+
+		find(variant) {
+			return this.contents.find((i) => i.variant === variant) ?? { quantity: 0 };
+		},
+
+		cache() {
+			fetch(params.api + '/api/shop/shipping', {
+				method: 'POST',
+				headers: {
+					'Content-Type': 'application/json',
+				},
+				body: JSON.stringify({
+					cart: this.contents,
+				}),
+			});
+		},
+
+		add(variant, price) {
+			const current = this.find(variant);
+
+			if (current.quantity > 0) {
+				current.quantity++;
+			} else {
+				this.contents.push({
+					variant: variant,
+					quantity: 1,
+					price: currency(price),
+				});
+			}
+
+			this.cache();
+		},
+
+		remove(variant) {
+			const current = this.find(variant);
+
+			if (current) {
+				current.quantity--;
+				if (current.quantity === 0) {
+					this.contents = this.contents.filter((i) => i.variant !== variant);
+				}
+			}
+
+			this.cache();
+		},
+	});
 });
+
+Alpine.start();

@@ -96,7 +96,7 @@
 
 	<ul id="products">
 		{{ range $paginator.Pages }}
-			{{ partial "product.html" (dict
+			{{ partial "shop/product.html" (dict
 				"product"  .
 				"checkout" false
 			) }}

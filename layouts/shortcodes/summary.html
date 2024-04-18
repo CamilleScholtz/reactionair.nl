@@ -1,15 +1,13 @@
 <section
 	class="summary footnotes section"
-	x-data="{
-		expanded: false
-	}"
+	x-data="{ expanded: false }"
 	x-show="expanded"
 	x-collapse.min.240px
 >
 	<div>
 		<h3>Dit artikel in vogelvlucht:</h3>
 
-		<div class="overlay" x-show="!epxanded"></div>
+		<div class="overlay" x-show="!expanded"></div>
 
 		{{ $.Page.Params.summary | markdownify }}
 	</div>

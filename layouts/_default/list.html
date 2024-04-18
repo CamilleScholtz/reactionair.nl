@@ -17,7 +17,7 @@
 				{{ partialCached "article.html" (dict
 					"article" .
 					"size"    "small"
-				) .Params.id }}
+				) "small" .Params.id }}
 			{{ end }}
 		</div>
 

@@ -12,12 +12,47 @@
 			<section>
 				<h3>iDEAL & meer</h3>
 
-				<form class="form" action="{{ .Site.Params.api }}/api/donate/payment">
+				<form
+					class="form"
+					x-data="{
+						submit() {
+							fetch('{{ .Site.Params.api }}/api/donate/payment', {
+								method: 'POST',
+								headers: {
+									'Content-Type': 'application/json'
+								},
+								body: JSON.stringify(Object.fromEntries(new FormData($el)))
+							}).then((response) => {
+								return response.json();
+							}).then((data) => {
+								window.location.replace(data);
+							});
+						}
+					}"
+					@submmit.prevent="submit"
+				>
 					<label>Naam</label>
 					<div class="form-group name">
-						<input type="text" name="first-name" required placeholder="Uw naam" autocomplete="given-name"/>
-						<input type="text" name="preposition" placeholder="Tussenv." autocomplete="additional-name"/>
-						<input type="text" name="last-name" required placeholder="Uw achternaam" autocomplete="family-name"/>
+						<input
+							type="text"
+							name="first-name"
+							required
+							placeholder="Uw naam"
+							autocomplete="given-name"
+						/>
+						<input
+							type="text"
+							name="preposition"
+							placeholder="Tussenv."
+							autocomplete="additional-name"
+						/>
+						<input
+							type="text"
+							name="last-name"
+							required
+							placeholder="Uw achternaam"
+							autocomplete="family-name"
+						/>
 					</div>
 
 					<label>Contactgegevens</label>

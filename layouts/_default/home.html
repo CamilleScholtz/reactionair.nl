@@ -59,22 +59,22 @@
 				{{ partialCached "article.html" (dict
 					"article" (index $articles 3)
 					"size"    "small"
-				) (index $articles 3).Params.id }}
+				) "small" (index $articles 3).Params.id }}
 
 				{{ partialCached "article.html" (dict
 					"article" (index $articles 4)
 					"size"    "small"
-				) (index $articles 4).Params.id }}
+				) "small" (index $articles 4).Params.id }}
 
 				{{ partialCached "article.html" (dict
 					"article" (index $articles 5)
 					"size"    "small"
-				) (index $articles 5).Params.id }}
+				) "small" (index $articles 5).Params.id }}
 
 				{{ partialCached "article.html" (dict
 					"article" (index $articles 6)
 					"size"    "small"
-				) (index $articles 6).Params.id }}
+				) "small" (index $articles 6).Params.id }}
 			</div>
 		</section>
 	</section>
@@ -153,7 +153,7 @@
 		{{ $book := index (where (.GetPage "shop/products/boeken").RegularPages ".Title" site.Params.advert) 0 }}
 
 		{{ with $book }}
-			{{ partialCached "advert.html" (dict
+			{{ partialCached "shop/advert.html" (dict
 				"book" .
 			) .Params.id }}
 		{{ end }}

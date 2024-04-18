@@ -9,6 +9,7 @@
     "currency.js": "^2.0.4",
     "minisearch": "^6.3.0",
     "nice-select2": "^2.1.0",
+    "pagefind": "^1.1.0",
     "wavesurfer.js": "^7.7.10"
   }
 }

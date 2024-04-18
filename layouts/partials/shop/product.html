@@ -15,7 +15,7 @@
 
 	<a href="{{ .product.RelPermalink }}">
 		{{ if eq $section "boeken" }}
-			{{ partialCached "products/book.html" (dict
+			{{ partialCached "shop/products/book.html" (dict
 				"size"  "small"
 				"title" .product.Title
 				"front" (.product.Resources.Get .product.Params.front)
@@ -46,7 +46,7 @@
 			{{ end }}
 		</a>
 
-		{{ partial "products/cart.html" (dict
+		{{ partial "shop/cart.html" (dict
 			"variants"     (cond .checkout (slice .variant) .product.Params.variants)
 			"out_of_stock" .product.Params.out_of_stock
 			"permalink"    .product.RelPermalink

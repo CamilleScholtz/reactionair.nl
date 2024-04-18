@@ -1,5 +1,6 @@
 <section
 	id="body"
+	data-pagefind-body
 	x-data="{
 		init() {
 			const sentence = $el.querySelector('p:first-of-type');
@@ -13,6 +14,120 @@
 			}
 
 			sentence.innerHTML = sentence.innerHTML.replace(pattern, '<span style=\'font-family: IM Fell English SC, serif;\'>$1</span>');
+
+			let timer;
+			let ticking = false;
+
+			$el.querySelectorAll('.footnote-ref').forEach((ref) => {
+				const sup     = ref.parentNode;
+				const id      = ref.getAttribute('href').split(':').pop();
+				const backref = $el.querySelector('#fn\\:' + id);
+
+				ref.addEventListener('click', (ev) => {
+					ev.preventDefault();
+
+					window.scroll({
+						top:      backref.offsetTop - 100,
+						behavior: 'smooth',
+					});
+				});
+
+				sup.addEventListener('mouseenter', (ev) => {
+					if ($store.mobile.matches || ticking) {
+						return;
+					}
+
+					ticking = true;
+
+					timer = setTimeout(() => {
+						const tooltip = document.createElement('div');
+						const arrow   = document.createElement('div');
+
+						tooltip.setAttribute('class', 'tooltip');
+						arrow.setAttribute('class', 'arrow');
+
+						tooltip.innerHTML = `
+							<div class='hover'></div>
+							${backref.innerHTML}
+						`;
+						tooltip.querySelector('.footnote-backref').remove();
+
+						sup.appendChild(tooltip);
+						sup.appendChild(arrow);
+
+						const refCenter     = ref.offsetLeft + (ref.offsetWidth / 2);
+						const tooltipCenter = tooltip.offsetWidth / 2;
+
+						const left   = $el.offsetLeft - 10;
+						const center = refCenter - tooltipCenter;
+						const right  = ($el.offsetLeft + $el.offsetWidth) - tooltip.offsetWidth + 10;
+
+						let location = center;
+						if (center > right) {
+							location = right;
+						} else if (center < left) {
+							location = left;
+						}
+
+						tooltip.style.left = `${location}px`;
+						arrow.style.left   = `${refCenter - 9}px`;
+
+						setTimeout(() => {
+							tooltip.style.transform = 'translateY(4px)';
+							tooltip.style.opacity   = 1;
+
+							arrow.style.transform = 'rotate(45deg) translateY(4px)';
+							arrow.style.opacity   = 1;
+						}, 20);
+					}, 100);
+				});
+
+				sup.addEventListener('mouseleave', (ev) => {
+					if ($store.mobile.matches) {
+						return;
+					}
+
+					clearTimeout(timer);
+
+					const tooltip = sup.querySelector('.tooltip');
+					const arrow   = sup.querySelector('.arrow');
+					if (!tooltip && !arrow) {
+						ticking = false;
+						return;
+					}
+
+					arrow.style.transform = 'rotate(45deg) translateY(-4px)';
+					arrow.style.opacity   = 0;
+
+					tooltip.style.transform = 'translateY(-4px)';
+					tooltip.style.opacity   = 0;
+
+					setTimeout(() => {
+						tooltip.remove();
+						arrow.remove();
+
+						ticking = false;
+					}, 215);
+				});
+			});
+
+			$el.querySelectorAll('.footnote-backref').forEach((backref) => {
+				// XXX: https://github.com/gohugoio/hugo/pull/7427
+				backref.innerHTML = '↑';
+
+				const id  = backref.getAttribute('href').split(':').pop();
+				const ref = $el.querySelector('[href=\'#fn:' + id + '\']');
+
+				backref.addEventListener('click', (ev) => {
+					ev.preventDefault();
+
+					window.scroll({
+						top:      ref.offsetTop - (window.innerHeight / 2),
+						behavior: 'smooth',
+					});
+				});
+			});
+
 		}
 	}"
 >

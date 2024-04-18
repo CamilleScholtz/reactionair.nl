@@ -20,6 +20,14 @@ header
 				gap: 10px
 				margin-top: calc((100px / 2) - 25px)
 
+				.icon
+					transition: opacity 0.1s 0.2s
+
+					&.hidden
+						opacity: 0
+						transition: opacity 0s
+
+
 				#new
 					margin-left: -36px
 					position: absolute
@@ -91,10 +99,7 @@ header
 					form
 						input
 							background: var(--accent-background-color)
-							padding: 0px
-							transition: transform .2s
-							transform-origin: right
-							width: 0px
+							padding: 0 15px
 
 						button
 							align-items: center
@@ -122,7 +127,6 @@ header
 
 					.results-container
 						background: var(--popup-background-color)
-						overflow-y: scroll
 						position: absolute
 						text-align: left
 						margin-top: 59px
@@ -131,6 +135,7 @@ header
 
 						.results
 							max-height: calc(100vh - 114px)
+							overflow-y: scroll
 							padding: 0
 							position: relative
 							scrollbar-width: none
@@ -168,7 +173,6 @@ header
 
 						.arrow
 							background: var(--popup-background-color)
-							display: none
 							height: 18px
 							left: calc(50% - 9px)
 							position: absolute

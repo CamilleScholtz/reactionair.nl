@@ -8,14 +8,6 @@
 {{ $main := resources.Get "js/main.js" | js.Build $options | fingerprint }}
 <script defer type="module" src="{{ $main.RelPermalink }}"></script>
 
-{{ $main2 := resources.Get "js/main2.js" | js.Build $options | fingerprint }}
-<script defer type="module" src="{{ $main2.RelPermalink }}"></script>
-
-{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
-	{{ $shop := resources.Get "js/shop.js" | js.Build $options | fingerprint }}
-	<script defer type="module" src="{{ $shop.RelPermalink }}"></script>
-{{ end }}
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-MM83VY2NM0"></script>
 <script type="text/javascript">
 	window.dataLayer = window.dataLayer || [];
@@ -24,4 +16,3 @@
 
 	gtag('config', 'G-MM83VY2NM0');
 </script>
-
