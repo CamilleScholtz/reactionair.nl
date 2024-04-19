@@ -1,8 +1,6 @@
 {{ $options := dict
 	"minify" true
-	"params" (dict
-		"api" .Site.Params.api
-	)
+	"params" (dict "api" .Site.Params.api)
 }}
 
 {{ $main := resources.Get "js/main.js" | js.Build $options | fingerprint }}

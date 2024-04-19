@@ -1,7 +1,7 @@
 {{ if gt .TotalPages 1 }}
 	<nav class="paginator">
 		{{ if .HasPrev }}
-			<a class="button square prev" href="{{ .Prev.URL }}">
+			<a href="{{ .Prev.URL }}" class="button square prev">
 				‹
 			</a>
 		{{ else }}
@@ -11,7 +11,7 @@
 		{{ end }}
 
 		{{ if .HasNext }}
-			<a class="button square next" href="{{ .Next.URL }}">
+			<a href="{{ .Next.URL }}" class="button square next">
 				›
 			</a>
 		{{ else }}

@@ -17,38 +17,9 @@ pluralizeListTitles  = false
 	api    = "https://admin.reactionair.nl"
 	advert = "Desengaño"
 
-[module]
-	[[module.mounts]]
-		source = 'content'
-		target = 'content'
-	[[module.mounts]]
-		source = 'static'
-		target = 'static'
-	[[module.mounts]]
-		source = 'layouts'
-		target = 'layouts'
-	[[module.mounts]]
-		source = 'data'
-		target = 'data'
-	[[module.mounts]]
-		source = 'assets'
-		target = 'assets'
-	[[module.mounts]]
-		source = "layouts/shop/list.html"
-		target = "layouts/_default/language.html"
-	[[module.mounts]]
-		source = "layouts/shop/list.html"
-		target = "layouts/_default/publisher.html"
-	[[module.mounts]]
-		source = "layouts/shop/list.html"
-		target = "layouts/_default/writer.html"
-
 [taxonomies]
 	author    = "authors"
 	theme     = "theme"
-	writer    = "writers"
-	publisher = "publisher"
-	language  = "language"
 
 [permalinks]
 	[permalinks.page]
@@ -60,15 +31,9 @@ pluralizeListTitles  = false
 	[permalinks.term]
 		authors   = "/auteurs/:slug/"
 		theme     = "/themas/:slug/"
-		writers   = "/winkel/producten/boeken/auteurs/:slug/"
-		publisher = "/winkel/producten/boeken/uitgeverijen/:slug/"
-		language  = "/winkel/producten/boeken/talen/:slug/"
 	[permalinks.taxonomy]
 		authors   = "/auteurs/"
 		theme     = "/themas/"
-		writers   = "/winkel/producten/boeken/auteurs/"
-		publisher = "/winkel/producten/boeken/uitgeverijen/"
-		language  = "/winkel/producten/boeken/talen/"
 
 [related]
 	includeNewer = true

@@ -25,20 +25,25 @@
 			{{ end }}
 		</aside>
 
-		<article x-data="{ filter: {{ (index .Params.variants 0).id }} }">
+		<article
+			data-pagefind-body
+			x-data="{ filter: {{ (index .Params.variants 0).id }} }"
+		>
 			<section id="hero">
 				<section class="title">
 					{{ if eq .CurrentSection.File.ContentBaseName "boeken" }}
-						<section class="authors" data-pagefind-meta="authors">
+						<h3 class="authors" data-pagefind-meta="authors">
 							{{ range $index, $writer := .Params.writers }}
-								<a href="/winkel/producten/boeken/auteurs/{{ urlize $writer }}">{{ $writer }}</a>
+								<a href="/winkel/producten/boeken/auteurs/{{ urlize $writer }}" data-pagefind-filter="author">
+									{{ $writer }}
+								</a>
 								{{ if eq $index (sub (len $.Params.writers) 2) }}
 									&amp;
 								{{ else if ne (add $index 1) (len $.Params.writers) }}
 									,
 								{{ end }}
 							{{ end }}
-						</section>
+						</h3>
 					{{ end }}
 
 					<h1 data-pagefind-meta="title">{{ .Title | safeHTML }}</h1>
@@ -48,7 +53,7 @@
 				</section>
 			</section>
 
-			<section class="cart">
+			<section class="cart" data-pagefind-ignore>
 				{{ partial "shop/cart.html" (dict
 					"variants"     .Params.variants
 					"out_of_stock" .Params.out_of_stock
@@ -57,15 +62,12 @@
 				) }}
 			</section>
 
-			<section
-				class="content"
-				data-pagefind-body
-				x-data="{ expanded: false }"
-			>
+			<section class="content" x-data="{ expanded: false }">
 				{{ index (split .Content "</p>") 0 | safeHTML }}</p>
 
 				<span
 					class="more"
+					data-pagefind-ignore
 					x-show="!expanded"
 					@click="expanded = true"
 				>
@@ -86,7 +88,7 @@
 				{{ $section = "boeken" }}
 			{{ end }}
 
-			<section class="details">
+			<section class="details" data-pagefind-ignore>
 				{{ if eq $section "boeken" }}
 					<table>
 						<tr>
@@ -94,7 +96,11 @@
 							<td><span>{{ .Title }}</span>{{ if isset .Params "subtitle" }}<br><span>{{ .Params.subtitle }}</span>{{ end }}</td>
 
 							<th>Taal</th>
-							<td><a href="/winkel/producten/boeken/talen/{{ urlize .Params.language }}">{{ .Params.language }}</a></td>
+							<td>
+								<a href="/winkel/producten/boeken/talen/{{ urlize .Params.language }}" data-pagefind-filter="language">
+									{{ .Params.language }}
+								</a>
+							</td>
 						</tr>
 
 						<tr>
@@ -111,12 +117,16 @@
 							</td>
 
 							<th>Uitgeverij</th>
-							<td><a href="/winkel/producten/boeken/uitgeverijen/{{ urlize .Params.publisher }}">{{ .Params.publisher }}</a></td>
+							<td>
+								<a href="/winkel/producten/boeken/uitgeverijen/{{ urlize .Params.publisher }}" data-pagefind-filter="publisher">
+									{{ .Params.publisher }}
+								</a>
+							</td>
 						</tr>
 
 						<tr>
 							<th>Jaar</th>
-							<td>{{ .Params.date.Format "2006" }}</td>
+							<td>{{ .Date.Format "2006" }}</td>
 
 							<th>ISBN</th>
 							{{ range .Params.variants }}

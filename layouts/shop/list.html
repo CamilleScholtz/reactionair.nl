@@ -7,101 +7,245 @@
 		{{ $section = "boeken" }}
 	{{ end }}
 
-	<div class="filters">
-		<span class="title">Categorie:</span>
+	<div x-data="{
+		pagefind: null,
+		filters:  {},
+		active:   {},
+		matches:  [],
+		count:    0,
+		page:     1,
 
-		<span class="filters-container">
-			{{ range $category := slice "boeken" "boekenleggers" "stickers" }}
-				{{ with site.GetPage (printf "/%s" $category) }}
-					<a href="/winkel/producten/{{ $category }}/" {{ if or (eq .Title $.Title) (and (eq .Title "Boeken") (eq $section "boeken")) }}class="active"{{ end }}>
-						{{ .Title }}
-					</a>
-				{{ end }}
+		labels: {
+			page:      'pagina',
+			language:  'taal',
+			publisher: 'uitgeverij',
+			author:    'auteur'
+		},
+
+		async init() {
+			this.pagefind = await import('/pagefind/pagefind.js');
+			await this.pagefind.init();
+			this.filters = await this.pagefind.filters();
+
+			const params = new URLSearchParams(window.location.search);
+			if (!params) {
+				return;
+			}
+
+			for (const [key, value] of params) {
+				const label = Object.keys(this.labels).find(k => this.labels[k] === key);
+				if (!label) {
+					continue;
+				}
+
+				if (label === 'page') {
+					this.page = parseInt(value);
+					continue;
+				}
+
+				this.active[label] = value;
+			}
+
+			await this.filter();
+		},
+
+		async filter() {
+			if (!this.pagefind) {
+				return;
+			}
+
+			if (!this.active) {
+				return this.matches = [];
+			}
+
+			const search = await this.pagefind.search(null, {
+				filters: this.active
+			});
+
+			this.matches = await Promise.all(search.results.slice(this.page * 10 - 10, this.page * 10).map(r => r.data()));
+			this.count   = search.results.length;
+			this.filters = search.filters;
+		},
+
+		async activate(key, value) {
+			value ? this.active[key] = value : delete this.active[key];
+
+			const url    = new URL(window.location.href);
+			const params = new URLSearchParams(url.search);
+
+			if (value) {
+				params.set(this.labels[key], value);
+			} else {
+				params.delete(this.labels[key]);
+			}
+
+			window.history.pushState({}, '', `${url.pathname}?${params}`);
+
+			await this.filter();
+		}
+	}">
+		<section>
+			{{ if eq $section "boeken" }}
+				<div class="filters">
+					<span class="title">Taal:</span>
+
+					<span class="filters-container">
+						<template x-for="(amount, name) in filters.language">
+							<span
+								x-text="`${name} (${amount})`"
+								:class="active['language'] !== name || 'active'"
+								@click="activate('language', active['language'] !== name ? name : '')"
+							></span>
+						</template>
+					</span>
+				</div>
+
+				<div class="selects">
+					<div class="filters select">
+						<span class="title">Uitgeverij:</span>
+
+						<span class="filters-container">
+							<div class="select-container">
+								<select
+									x-data="{
+										select: null,
+
+										init() {
+											this.select = new $store.select($el, {
+												searchable:   true,
+												placeholder:  'Alle uitgeverijen',
+												searchtext:   'Zoek uitgeverij',
+												selectedtext: 'Geselecteerd'
+											});
+
+											$watch('filters', value => {
+												this.select.update();
+											});
+										}
+									}"
+									@change="activate('publisher', $event.target.value)"
+								>
+									<option value="">
+										Alle uitgeverijen
+									</option>
+
+									<template x-for="(amount, name) in filters.publisher">
+										<template x-if="amount">
+											<option
+												x-text="`${name} (${amount})`"
+												:class="active['publisher'] !== name || 'active'"
+												:value="name"
+											></option>
+										</template>
+									</template>
+								</select>
+							</div>
+						</span>
+					</div>
+
+					<div class="filters select">
+						<span class="title">Auteur:</span>
+
+						<span class="filters-container">
+							<div class="select-container">
+								<select
+									x-data="{
+										select: null,
+
+										init() {
+											this.select = new $store.select($el, {
+												searchable:   true,
+												placeholder:  'Alle auteurs',
+												searchtext:   'Zoek auteur',
+												selectedtext: 'Geselecteerd'
+											});
+
+											$watch('filters', value => {
+												this.select.update();
+											});
+										}
+									}"
+									@change="activate('author', $event.target.value)"
+								>
+									<option value="">
+										Alle auteurs
+									</option>
+
+									<template x-for="(amount, name) in filters.author">
+										<template x-if="amount">
+											<option
+												x-text="`${name} (${amount})`"
+												:class="active['author'] !== name || 'active'"
+												:value="name"
+											></option>
+										</template>
+									</template>
+								</select>
+							</div>
+						</span>
+					</div>
+				</div>
 			{{ end }}
-		</span>
-	</div>
+		</section>
 
-	{{ if eq $section "boeken" }}
-		<div class="filters">
-			<span class="title">Taal:</span>
-
-			<span class="filters-container">
-				{{ range $language, $terms := site.Taxonomies.language }}
-					{{ with site.GetPage (printf "/language/%s" $language) }}
-						<a href="/winkel/producten/boeken/{{ if ne .Title $.Title }}talen/{{ $language }}/{{ end }}" {{ if eq .Title $.Title }}class="active"{{ end }}>
-							{{ .Title }}
-						</a>
-					{{ end }}
-				{{ end }}
-			</span>
-		</div>
-
-		<div class="selects">
-			<div class="filters select">
-				<span class="title">Uitgeverij:</span>
-
-				<span class="filters-container">
-					<div class="select-container">
-						<select data-label="uitgeverij">
-							<option value="/winkel/producten/boeken/">
-								Alle uitgeverijen
-							</option>
-
-							{{ range $publisher, $terms := site.Taxonomies.publisher }}
-								{{ with site.GetPage (printf "/publisher/%s" $publisher) }}
-									<option value="{{ relref . .Path }}">
-										{{ .Title }}
-									</option>
-								{{ end }}
-							{{ end }}
-						</select>
-					</div>
-				</span>
-			</div>
-
-			<div class="filters select">
-				<span class="title">Auteur:</span>
-
-				<span class="filters-container">
-					<div class="select-container">
-						<select data-label="auteur">
-							<option value="/winkel/producten/boeken/">
-								Alle auteurs
-							</option>
-
-							{{ range $writer, $terms := site.Taxonomies.writers }}
-								{{ with site.GetPage (printf "/writers/%s" $writer) }}
-									<option value="{{ relref . .Path }}">
-										{{ .Title }}
-									</option>
-								{{ end }}
-							{{ end }}
-						</select>
-					</div>
-				</span>
-			</div>
-		</div>
-	{{ end }}
-
-	{{ $page  := printf "shop/products/%s" $section }}
-	{{ $books := (.GetPage $page).RegularPages }}
-	{{ if eq .Kind "term" }}
-		{{ $books = .RegularPages }}
-	{{ end }}
-
-	{{ $unstocked := where $books "Params.out_of_stock" true }}
-	{{ $stocked   := $books | complement $unstocked }}
-	{{ $sorted    := union $stocked.ByDate.Reverse $unstocked.ByDate.Reverse }}
-	{{ $paginator := .Paginate $sorted }}
-
-	<ul id="products">
-		{{ range $paginator.Pages }}
-			{{ partial "shop/product.html" (dict
-				"product"  .
-				"checkout" false
-			) }}
+		{{ $page  := printf "shop/products/%s" $section }}
+		{{ $books := (.GetPage $page).RegularPages }}
+		{{ if eq .Kind "term" }}
+			{{ $books = .RegularPages }}
 		{{ end }}
-	</ul>
 
-	{{ partial "paginator.html" $paginator }}
+		{{ $unstocked := where $books "Params.out_of_stock" true }}
+		{{ $stocked   := $books | complement $unstocked }}
+		{{ $sorted    := union $stocked.ByDate.Reverse $unstocked.ByDate.Reverse }}
+		{{ $paginator := .Paginate $sorted }}
+
+		<ul id="products" x-show="!Object.keys(active).length">
+			{{ range $paginator.Pages }}
+				{{ partialCached "shop/product.html" (dict
+					"product"  .
+					"checkout" false
+				) .Params.id }}
+			{{ end }}
+		</ul>
+
+		<ul id="products" x-cloak x-show="Object.keys(active).length">
+			<span x-cloak x-show="!count">
+				Er zijn geen producten gevonden die voldoen aan de geselecteerde filters.
+			</span>
+
+			{{ range $sorted }}
+				<template x-if="matches.some(el => el.url === '{{ .RelPermalink }}')">
+					{{ partialCached "shop/product.html" (dict
+						"product"  .
+						"checkout" false
+					) .Params.id  }}
+				</template>
+			{{ end }}
+		</ul>
+
+		<div x-show="!Object.keys(active).length">
+			{{ partial "paginator.html" $paginator }}
+		</div>
+
+		<div x-cloak x-show="Object.keys(active).length">
+			<nav class="paginator">
+				<a
+					class="button square prev"
+					:class="page > 1 || 'disabled'"
+					:href="page > 1 ? '' : ''"
+				>
+					‹
+				</a>
+
+				<a
+					class="button square next"
+					:class="page * 10 < count || 'disabled'"
+					:href="page * 10 < count || '#'"
+
+				>
+					›
+				</a>
+			</nav>
+		</div>
+	</div>
 {{ end }}

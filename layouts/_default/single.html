@@ -1,16 +1,18 @@
 {{ define "main" }}
-	<article>
+	<article data-pagefind-body>
 		<section id="hero">
-			<section class="authors" data-pagefind-meta="authors">
+			<h3 class="authors" data-pagefind-meta="authors">
 				{{ range $index, $author := .Params.authors }}
-					<a href="/auteurs/{{ urlize $author }}">{{ $author }}</a>
+					<a href="/auteurs/{{ urlize $author }}">
+						{{ $author }}
+					</a>
 					{{ if eq $index (sub (len $.Params.authors) 2) }}
 						&nbsp;&amp;&nbsp;
 					{{ else if ne (add $index 1) (len $.Params.authors) }}
 						&nbsp;,&nbsp;
 					{{ end }}
 				{{ end }}
-			</section>
+			</h3>
 
 			<section class="title">
 				<h1 data-pagefind-meta="title">{{ .Title | safeHTML }}</h1>
@@ -39,7 +41,7 @@
 				{{ end }}
 			</figure>
 
-			<section class="info">
+			<section class="info" data-pagefind-ignore>
 				<time>{{ .Date.Day }} {{ index site.Data.months (printf "%d" .Date.Month) }}, {{ .Date.Year }}</time>
 
 				<span class="pipe">—</span>
@@ -50,7 +52,7 @@
 
 		<section class="content">
 			{{ if eq .Params.theme "De Uylenspieghel" }}
-				<section class="uylenspieghel">
+				<section class="uylenspieghel" data-pagefind-ignore>
 					<img src="{{ "img/uylenspieghel.svg" | relURL }}" alt="Uylenspieghel" style="height: 240px">
 
 					<small>Dit artikel is van satirische aard en dient met een korreltje zout genomen te worden.</small>
@@ -60,6 +62,7 @@
 			{{ if isset .Params "recording" }}
 				<section
 					class="recording"
+					data-pagefind-ignore
 					x-data="{
 						style:     	window.getComputedStyle(document.documentElement),
 						recording:  '{{ .Resources.Get .Params.recording }}',
