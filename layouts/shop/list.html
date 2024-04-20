@@ -68,18 +68,36 @@
 		},
 
 		async activate(key, value) {
-			value ? this.active[key] = value : delete this.active[key];
+			if (key !== 'page') {
+				value ? this.active[key] = value : delete this.active[key];
+			} else {
+				this.page = value;
+				window.scrollTo({ top: 0 });
+			}
 
 			const url    = new URL(window.location.href);
 			const params = new URLSearchParams(url.search);
 
-			if (value) {
-				params.set(this.labels[key], value);
-			} else {
-				params.delete(this.labels[key]);
+			(key === 'page' ? value != 1 : value)
+				? params.set(this.labels[key], value)
+				: params.delete(this.labels[key]);
+
+			// Reset if no filters are active
+			if (!params.toString()) {
+				return await this.reset();
 			}
 
 			window.history.pushState({}, '', `${url.pathname}?${params}`);
+
+			await this.filter();
+		},
+
+		async reset() {
+			this.active = {};
+			this.page   = 1;
+
+			const url = new URL(window.location.href);
+			window.history.pushState({}, '', url.pathname);
 
 			await this.filter();
 		}
@@ -92,98 +110,48 @@
 					<span class="filters-container">
 						<template x-for="(amount, name) in filters.language">
 							<span
-								x-text="`${name} (${amount})`"
-								:class="active['language'] !== name || 'active'"
-								@click="activate('language', active['language'] !== name ? name : '')"
+								x-text="name + (amount > 0 ? ` (${amount})` : '')"
+								:class="active.language !== name || 'active'"
+								@click="activate('language', active.language !== name ? name : '')"
+							></span>
+						</template>
+
+						<span
+							x-cloak
+							x-show="Object.keys(active).length"
+							@click="reset"
+						>
+							↺
+						</span>
+					</span>
+				</div>
+
+				<div class="filters">
+					<span class="title">Formaat:</span>
+
+					<span class="filters-container">
+						<template x-for="(amount, name) in filters.format">
+							<span
+								x-text="name + (amount > 0 ? ` (${amount})` : '')"
+								:class="active.format !== name || 'active'"
+								@click="activate('format', active.format !== name ? name : '')"
 							></span>
 						</template>
 					</span>
 				</div>
 
 				<div class="selects">
-					<div class="filters select">
-						<span class="title">Uitgeverij:</span>
+					{{ partial "shop/input/select.html" (dict
+						"key"      "publisher"
+						"singular" "uitgeverij"
+						"plural"   "uitgeverijen"
+					) }}
 
-						<span class="filters-container">
-							<div class="select-container">
-								<select
-									x-data="{
-										select: null,
-
-										init() {
-											this.select = new $store.select($el, {
-												searchable:   true,
-												placeholder:  'Alle uitgeverijen',
-												searchtext:   'Zoek uitgeverij',
-												selectedtext: 'Geselecteerd'
-											});
-
-											$watch('filters', value => {
-												this.select.update();
-											});
-										}
-									}"
-									@change="activate('publisher', $event.target.value)"
-								>
-									<option value="">
-										Alle uitgeverijen
-									</option>
-
-									<template x-for="(amount, name) in filters.publisher">
-										<template x-if="amount">
-											<option
-												x-text="`${name} (${amount})`"
-												:class="active['publisher'] !== name || 'active'"
-												:value="name"
-											></option>
-										</template>
-									</template>
-								</select>
-							</div>
-						</span>
-					</div>
-
-					<div class="filters select">
-						<span class="title">Auteur:</span>
-
-						<span class="filters-container">
-							<div class="select-container">
-								<select
-									x-data="{
-										select: null,
-
-										init() {
-											this.select = new $store.select($el, {
-												searchable:   true,
-												placeholder:  'Alle auteurs',
-												searchtext:   'Zoek auteur',
-												selectedtext: 'Geselecteerd'
-											});
-
-											$watch('filters', value => {
-												this.select.update();
-											});
-										}
-									}"
-									@change="activate('author', $event.target.value)"
-								>
-									<option value="">
-										Alle auteurs
-									</option>
-
-									<template x-for="(amount, name) in filters.author">
-										<template x-if="amount">
-											<option
-												x-text="`${name} (${amount})`"
-												:class="active['author'] !== name || 'active'"
-												:value="name"
-											></option>
-										</template>
-									</template>
-								</select>
-							</div>
-						</span>
-					</div>
+					{{ partial "shop/input/select.html" (dict
+						"key"      "author"
+						"singular" "auteur"
+						"plural"   "auteurs"
+					) }}
 				</div>
 			{{ end }}
 		</section>
@@ -232,7 +200,7 @@
 				<a
 					class="button square prev"
 					:class="page > 1 || 'disabled'"
-					:href="page > 1 ? '' : ''"
+					@click.prevent="page > 1 && activate('page', page - 1)"
 				>
 					‹
 				</a>
@@ -240,8 +208,7 @@
 				<a
 					class="button square next"
 					:class="page * 10 < count || 'disabled'"
-					:href="page * 10 < count || '#'"
-
+					@click.prevent="page * 10 < count && activate('page', page + 1)"
 				>
 					›
 				</a>

@@ -2,13 +2,13 @@
   "private": true,
   "type": "module",
   "dependencies": {
+    "@alpinejs/anchor": "^3.13.8",
     "@alpinejs/collapse": "^3.13.8",
     "@alpinejs/mask": "^3.13.8",
     "@alpinejs/persist": "^3.13.8",
     "alpinejs": "^3.13.8",
     "currency.js": "^2.0.4",
     "minisearch": "^6.3.0",
-    "nice-select2": "^2.1.0",
     "pagefind": "^1.1.0",
     "wavesurfer.js": "^7.7.10"
   }

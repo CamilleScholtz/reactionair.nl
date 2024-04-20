@@ -1,0 +1,86 @@
+<div
+	class="filters"
+	x-data="{
+		open:      false,
+		search:    '',
+		options:   [],
+		filtered:  [],
+		available: 99,
+
+		init() {
+			document.addEventListener('click', (ev) => {
+				if (!this.open) {
+					return;
+				}
+
+				if (!$refs.select.contains(ev.target)) {
+					this.open = false;
+				}
+			});
+
+			$watch('filters.{{ .key }}', (value) => {
+				this.options   = value;
+				this.filtered  = value;
+
+				this.available = Object.values(value).filter(amount => amount > 0).length;
+			});
+
+			$watch('open', (value) => {
+				if (!value) {
+					return;
+				}
+
+				setTimeout(() => {
+					$refs.search.focus();
+				}, 100);
+			});
+		}
+	}"
+>
+	<span class="title">{{ title .singular }}:</span>
+
+	<span class="filters-container" x-ref="select">
+		<div class="select-container">
+			<span
+				class="select"
+				:class="open && 'open'"
+				x-text="(active.{{ .key }} ?? 'Alle {{ .plural }}')"
+				@click="open = !open"
+			></span>
+
+			<div
+				class="options-container"
+				x-cloak
+				x-show="open"
+				x-anchor.top-end.offset.7="$refs.select"
+			>
+				<input
+					type="text"
+					placeholder="Zoek {{ .singular }}..."
+					x-model="search"
+					x-ref="search"
+					@input="filtered = Object.fromEntries(Object.entries(options).filter(([name]) => name.toLowerCase().includes($event.target.value.toLowerCase())))"
+				>
+
+				<ol class="options">
+					<li
+						class="option"
+						x-text="`Alle {{ .plural }}`"
+						@click="activate('{{ .key }}', ''); open = false; search = ''"
+					></li>
+
+					<template x-for="(amount, name) in filtered">
+						<template x-if="amount || available == 1">
+							<li
+								class="option"
+								:class="active.{{ .key }} !== name || 'active'"
+								x-text="name + (amount ? ` (${amount})` : '')"
+								@click="activate('{{ .key }}', name); open = false; search = ''"
+							></li>
+						</template>
+					</template>
+				</ol>
+			</div>
+		</div>
+	</span>
+</div>

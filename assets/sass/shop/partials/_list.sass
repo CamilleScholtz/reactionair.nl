@@ -1,5 +1,6 @@
 .selects
 	display: flex
+	justify-content: end
 	justify-self: end
 
 	.filters
@@ -27,6 +28,7 @@
 			background: transparent
 			border: 1px dashed var(--border-color)
 			border-radius: 50px
+			color: var(--accent-color)
 			cursor: pointer
 			font-size: 16px
 			font-style: italic
@@ -39,18 +41,9 @@
 		.select-container
 			display: flex
 
-			select
-				position: absolute
-
-			.nice-select
-				background: transparent
-				border: 1px dashed var(--border-color)
-				border-radius: 50px
-				font-size: 16px
-				font-style: italic
-				padding: 10px 28px 10px 15px
-				height: unset
-				line-height: unset
+			.select
+				position: relative
+				padding-right: 35px
 
 				&::after
 					border: none
@@ -61,8 +54,8 @@
 					font-size: 28px
 					pointer-events: none
 					position: absolute
-					right: 0px
-					top: 50%
+					right: 15px
+					top: 2px
 					transform: rotate(90deg)
 					transition: all 0.15s ease-in-out
 
@@ -70,60 +63,52 @@
 					&::after
 						transform: rotate(90deg) rotateY(-180deg)
 
-				.current
-					color: var(--accent-color)
+			.options-container
+				background: var(--popup-background-color)
+				width: 278px
 
-				.nice-select-dropdown
+				&::before
 					background: var(--popup-background-color)
-					border-radius: unset
-					box-shadow: unset
-					left: auto
-					margin-top: 8px
-					right: 0
-					transition: unset
+					content: ''
+					height: 18px
+					margin-top: -6px
+					position: absolute
+					transform: rotate(45deg) translateY(-4px)
+					transition: all .1s
+					width: 18px
+					right: 40px
 
-					&::before
-						background: var(--popup-background-color)
-						content: ''
-						height: 18px
-						margin-top: -6px
-						position: absolute
-						transform: rotate(45deg) translateY(-4px)
-						transition: all .1s
-						width: 18px
-						right: 40px
+				input
+					background: unset
+					color: var(--accent-color)
+					width: 100%
+					border-bottom: 1px dashed var(--popup-border-color)
+					margin-bottom: -1px
+					font-size: 16px
 
-					.nice-select-search-box
-						border-bottom: 1px dashed var(--popup-border-color)
-						padding-bottom: 9px
-						padding-top: 9px
+					&::placeholder
+						color: var(--popup-border-color)
 
-						input
-							background: unset
-							border: unset
-							color: var(--accent-color)
-							float: unset
+				.options
+					max-height: 275px
+					list-style: none
+					width: 100%
+					padding-left: 0
+					overflow-y: scroll
 
-							&::placeholder
-								color: var(--popup-border-color)
+					.option
+						color: var(--accent-color)
+						cursor: pointer
+						font-size: 16px
+						font-style: italic
+						border-top: 1px dashed var(--popup-border-color)
+						padding: 15px
 
-					.list
-						max-height: 275px
-						margin-top: -1px
-
-						.option
-							color: var(--accent-color)
-							font-size: 16px
-							font-style: italic
-							border-top: 1px dashed var(--popup-border-color)
-							padding-bottom: 7px
-							padding-top: 7px
-
-							&.selected,
-							&.focus,
-							&:hover
-								background-color: unset
-								font-weight: 400
+						&.selected,
+						&.focus,
+						&:hover
+							background-color: unset
+							font-weight: 400
 
 #products
 	list-style: none

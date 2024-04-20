@@ -54,7 +54,7 @@
 			</section>
 
 			<section class="cart" data-pagefind-ignore>
-				{{ partial "shop/cart.html" (dict
+				{{ partial "shop/input/cart.html" (dict
 					"variants"     .Params.variants
 					"out_of_stock" .Params.out_of_stock
 					"permalink"    .RelPermalink
@@ -142,7 +142,7 @@
 
 							<th>Formaat</th>
 							{{ range .Params.variants }}
-								<td x-cloak x-show="filter === {{ .id }}">
+								<td data-pagefind-filter="format" x-cloak x-show="filter === {{ .id }}">
 									{{ .format | title }}
 								</td>
 							{{ end }}

@@ -176,7 +176,7 @@
 					</ul>
 				</div>
 
-				<div id="search">
+				<div id="search" x-ref="search">
 					<form>
 						<input
 							id="search-input"
@@ -211,7 +211,12 @@
 						</button>
 					</form>
 
-					<div class="results-container" x-cloak x-show="matches.length > 0">
+					<div
+						class="results-container"
+						x-anchor="$refs.search"
+						x-cloak
+						x-show="matches.length > 0"
+					>
 						<div class="arrow"></div>
 						<ul id="search-results" class="results">
 							<template x-for="match in matches">

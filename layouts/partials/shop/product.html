@@ -46,7 +46,7 @@
 			{{ end }}
 		</a>
 
-		{{ partial "shop/cart.html" (dict
+		{{ partial "shop/input/cart.html" (dict
 			"variants"     (cond .checkout (slice .variant) .product.Params.variants)
 			"out_of_stock" .product.Params.out_of_stock
 			"permalink"    .product.RelPermalink

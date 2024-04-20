@@ -4,21 +4,20 @@ import Alpine from 'alpinejs';
 import persist from '@alpinejs/persist';
 import mask from '@alpinejs/mask';
 import collapse from '@alpinejs/collapse';
+import anchor from '@alpinejs/anchor'
 
 import wavesurfer from 'wavesurfer.js';
-import NiceSelect from 'nice-select2';
 import currency from 'currency.js';
 
 Alpine.plugin(persist);
 Alpine.plugin(mask);
 Alpine.plugin(collapse);
+Alpine.plugin(anchor);
 
 document.addEventListener('alpine:init', async () => {
 	Alpine.store('mobile', window.matchMedia('(max-width: 1024px)'));
 
 	Alpine.store('wavesurfer', wavesurfer);
-
-	Alpine.store('select', NiceSelect);
 
 	Alpine.store('cart', {
 		contents: Alpine.$persist([]).as('cart'),
