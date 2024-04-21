@@ -3,32 +3,32 @@
 
 
 "@alpinejs/anchor@^3.13.8":
-  version "3.13.8"
-  resolved "https://registry.yarnpkg.com/@alpinejs/anchor/-/anchor-3.13.8.tgz#58abbf21d6694159cd3f7f6aa8f3d38fd6574734"
-  integrity sha512-AhjwaHTcq/gKrQOyZqSudUtjYnW35nsE7LpvBVCYqi72UCAEbcUkskU0e52i473u3jCDwA3IDbN/D0tkuwNVKw==
+  version "3.13.9"
+  resolved "https://registry.yarnpkg.com/@alpinejs/anchor/-/anchor-3.13.9.tgz#3096bc36dba35fc892274c52f2e6693c94742793"
+  integrity sha512-2S43t3er2NIDkUWqdOSHu+xuXBoMSsvbe9xAGU9ShxlEumiLyU5kEm7noowuNIF2IP1UmrG1/twwFurfMNE+0Q==
 
 "@alpinejs/collapse@^3.13.8":
-  version "3.13.8"
-  resolved "https://registry.yarnpkg.com/@alpinejs/collapse/-/collapse-3.13.8.tgz#f71523fe93d0fd729886134e08b30ef29a6e9a72"
-  integrity sha512-NsYiidTJ/AOFE8xUMxnXIe5LbRYcfw3UjxI6VUlDw3st4XwzaeCNyqBbZVRt9Ac7wfdrODy0qTHA+iCHSF0atQ==
+  version "3.13.9"
+  resolved "https://registry.yarnpkg.com/@alpinejs/collapse/-/collapse-3.13.9.tgz#e4614a9aea6c20603563185a8f3e0ddae27b4e65"
+  integrity sha512-qKRu+WcamfHY3+/XVeCvojWw8FtMvAHJ+qOQZYE9YWOk1QAMpn7HD6jUWgcynJJ4Y4oiSMVxigJpfBgEDPkGnA==
 
 "@alpinejs/focus@^3.13.8":
-  version "3.13.8"
-  resolved "https://registry.yarnpkg.com/@alpinejs/focus/-/focus-3.13.8.tgz#a254ece754f0fb50d0b2e95276fcf265582a868c"
-  integrity sha512-ioGVlcRsD/8qcMs0dHyuhcPvIFAkSjGhHNXW+0j6kaNh9RoNQHT+webmTShJEoPTyBfjmRr5BzB7lWbyfgYpNA==
+  version "3.13.9"
+  resolved "https://registry.yarnpkg.com/@alpinejs/focus/-/focus-3.13.9.tgz#14b8a08359a4786a1706b7765d3a475f3e247299"
+  integrity sha512-XsiXvvudOB37LHVIevj0NTdR98TMEMxL1E+AbjHzkHube67TbdQXK17148AQJendNg5iX97GR/dpS6a8QdDZ6w==
   dependencies:
     focus-trap "^6.9.4"
     tabbable "^5.3.3"
 
 "@alpinejs/mask@^3.13.8":
-  version "3.13.8"
-  resolved "https://registry.yarnpkg.com/@alpinejs/mask/-/mask-3.13.8.tgz#2284c52dbdaa172f15bdd27d16958a19da0f2913"
-  integrity sha512-aFH1eLyNvmmRaCJBDaro6AOx4AW8J5EMkQhwu2jakx64W1+6fb3r8JLBvlaHCT+k2mrYrkw/6J1Qv+Xz4Q+x0w==
+  version "3.13.9"
+  resolved "https://registry.yarnpkg.com/@alpinejs/mask/-/mask-3.13.9.tgz#d11b78d80f973a7339a5d426982dea9939e8cd0c"
+  integrity sha512-kpM2ln0dl3Th9jY6ESRCcMVX78Es8b88BhUf/GT/23z+f5wKdI6BzrP6nkMz7KmtotkgYiNiVadmTzTaNEZvxw==
 
 "@alpinejs/persist@^3.13.8":
-  version "3.13.8"
-  resolved "https://registry.yarnpkg.com/@alpinejs/persist/-/persist-3.13.8.tgz#3388cd341a6cecb44e245afcaf797e74fa9e592f"
-  integrity sha512-NLfU6yS1fdWp0O5ujT17yVxB6KnINh/deRrvcezP3eqZZxpXCgPb5a7OFje5VBhR6zxsfUJJ6Ukz5AthozhLTg==
+  version "3.13.9"
+  resolved "https://registry.yarnpkg.com/@alpinejs/persist/-/persist-3.13.9.tgz#fc5bae1ad8a06c5f55b534ca900b849189d36b67"
+  integrity sha512-itKK/+k1dkF7u1QUD3bPyIbI9wbHKwekX6U2v3kUHKC2PwQB6SqDBwFTImKgotrUnOsx9ZAkuQFZZ18Lp9WfUw==
 
 "@pagefind/darwin-arm64@1.1.0":
   version "1.1.0"
@@ -68,9 +68,9 @@
   integrity sha512-oJ4F3TnvpXaQwZJNF3ZK+kLPHKarDmJjJ6jyzVNDKH9md1dptjC7lWR//jrGuLdek/U6iltWxqAnYOu8gCiOvA==
 
 alpinejs@^3.13.8:
-  version "3.13.8"
-  resolved "https://registry.yarnpkg.com/alpinejs/-/alpinejs-3.13.8.tgz#23f280a886af296e16302a79e01ba51c0d86f67e"
-  integrity sha512-XolbBJryCndomtaHd/KHQjQeD/L72FJxy/YhLLFD4Lr7zzGcpcbg+UgXteMR2pYg1KhRUr6V4O3GfN1zJAmRWw==
+  version "3.13.9"
+  resolved "https://registry.yarnpkg.com/alpinejs/-/alpinejs-3.13.9.tgz#beb1309cf155ee11a08d235297fc58d4f0cfce4b"
+  integrity sha512-BTEJ3fcUpqKlB+aFYSWGVEp8IP3vA96x7wUaNSdb5SJxV5i7s+/Bduxy9D6TokcqpW5MygsnG1eBEFfr4AnQSw==
   dependencies:
     "@vue/reactivity" "~3.1.1"
 

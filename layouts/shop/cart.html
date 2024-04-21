@@ -1,6 +1,13 @@
 {{ define "main" }}
 	<div id="taxonomy" class="cart-page">
-		<ul id="products">
+		<ul
+			id="products"
+			x-data="{
+				init() {
+					console.log($store.cart.contents);
+				}
+			}"
+		>
 			<div
 				class="cart-empty"
 				x-cloak
@@ -16,11 +23,13 @@
 						{{ continue }}
 					{{ end }}
 
-					{{ partial "shop/product.html" (dict
-						"product"  $product
-						"variant"  .
-						"checkout" true
-					) }}
+					<template x-if="$store.cart.contents.some(p => p.variant === {{ .id }})">
+						{{ partial "shop/product.html" (dict
+							"product"  $product
+							"variant"  .
+							"checkout" true
+						) }}
+					</template>
 				{{ end }}
 			{{ end }}
 		</ul>
