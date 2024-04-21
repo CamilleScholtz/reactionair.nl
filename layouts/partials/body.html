@@ -25,9 +25,9 @@
 				ref.addEventListener('click', (ev) => {
 					ev.preventDefault();
 
-					window.scroll({
-						top:      backref.offsetTop - 100,
-						behavior: 'smooth',
+					backref.scrollIntoView({
+						block:    'center',
+						behavior: 'smooth'
 					});
 				});
 
@@ -120,13 +120,12 @@
 				backref.addEventListener('click', (ev) => {
 					ev.preventDefault();
 
-					window.scroll({
-						top:      ref.offsetTop - (window.innerHeight / 2),
-						behavior: 'smooth',
+					ref.scrollIntoView({
+						block:    'center',
+						behavior: 'smooth'
 					});
 				});
 			});
-
 		}
 	}"
 >
