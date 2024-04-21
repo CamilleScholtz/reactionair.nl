@@ -25,7 +25,11 @@ document.addEventListener('alpine:init', async () => {
 		contents: Alpine.$persist([]).as('cart'),
 
 		currency(value) {
-			return currency(value);
+			return currency(value, {
+				symbol:    '€ ',
+				decimal:   '.',
+				separator: ' ',
+			});
 		},
 
 		find(variant) {

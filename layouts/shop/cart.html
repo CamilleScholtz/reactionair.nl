@@ -57,14 +57,12 @@
 						})
 							.then(response => response.json())
 							.then(data => {
-								const formatter = value => $store.cart.currency(value, { symbol: '€ ', separator: '.' });
-
-								this.shipping   = formatter(data.price);
+								this.shipping   = $store.cart.currency(data.price);
 								this.estimation = data.estimation;
 
 								let total = $store.cart.currency(0);
 								$store.cart.contents.forEach(variant => {
-									total = total.add(formatter(variant.price).multiply(variant.quantity));
+									total = $store.cart.currency(total).add($store.cart.currency(variant.price).multiply(variant.quantity));
 								});
 
 								this.total = total;
@@ -79,7 +77,7 @@
 					</small>
 					<span class="shipping" x-text="shipping?.format()"></span>
 				</div>
-				<div class="total-plus-shipping" x-text="total?.add(shipping.price).format()"></div>
+				<div class="total-plus-shipping" x-text="total?.add(shipping).format()"></div>
 			</div>
 		</div>
 	</div>
