@@ -38,12 +38,19 @@
 			&.active
 				background: var(--accent-background-color)
 
+			&.disabled
+				pointer-events: none
+				color: var(--border-color)
+
 		.select-container
 			display: flex
 
 			.select
 				position: relative
 				padding-right: 35px
+
+				&.active
+					background: var(--accent-background-color)
 
 				&::after
 					border: none
@@ -73,18 +80,18 @@
 					height: 18px
 					margin-top: -6px
 					position: absolute
+					right: 40px
 					transform: rotate(45deg) translateY(-4px)
 					transition: all .1s
 					width: 18px
-					right: 40px
 
 				input
 					background: unset
-					color: var(--accent-color)
-					width: 100%
 					border-bottom: 1px dashed var(--popup-border-color)
-					margin-bottom: -1px
+					color: var(--accent-color)
 					font-size: 16px
+					margin-bottom: -1px
+					width: 100%
 
 					&::placeholder
 						color: var(--popup-border-color)
@@ -103,12 +110,6 @@
 						font-style: italic
 						border-top: 1px dashed var(--popup-border-color)
 						padding: 15px
-
-						&.selected,
-						&.focus,
-						&:hover
-							background-color: unset
-							font-weight: 400
 
 #products
 	list-style: none

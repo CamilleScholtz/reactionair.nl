@@ -18,6 +18,7 @@
 		labels: {
 			page:      'pagina',
 			language:  'taal',
+			format:    'formaat',
 			publisher: 'uitgeverij',
 			author:    'auteur'
 		},
@@ -82,9 +83,15 @@
 				? params.set(this.labels[key], value)
 				: params.delete(this.labels[key]);
 
-			// Reset if no filters are active
 			if (!params.toString()) {
 				return await this.reset();
+			}
+
+			const segments = url.pathname.split('/').filter(segment => segment !== '');
+			const index    = segments.indexOf(this.labels.page);
+			if (index !== -1 && segments.length > index + 1) {
+				segments.splice(index, 2);
+				url.pathname = `/${segments.join('/')}/`;
 			}
 
 			window.history.pushState({}, '', `${url.pathname}?${params}`);
@@ -110,9 +117,12 @@
 					<span class="filters-container">
 						<template x-for="(amount, name) in filters.language">
 							<span
-								x-text="name + (amount > 0 ? ` (${amount})` : '')"
-								:class="active.language !== name || 'active'"
-								@click="activate('language', active.language !== name ? name : '')"
+								x-text="name + (amount ? ` (${amount})` : '')"
+								:class="{
+									'active':   active.language === name,
+									'disabled': !amount
+								}"
+								@click="amount && activate('language', active.language !== name ? name : '')"
 							></span>
 						</template>
 
@@ -133,8 +143,11 @@
 						<template x-for="(amount, name) in filters.format">
 							<span
 								x-text="name + (amount > 0 ? ` (${amount})` : '')"
-								:class="active.format !== name || 'active'"
-								@click="activate('format', active.format !== name ? name : '')"
+								:class="{
+									'active':   active.format === name,
+									'disabled': !amount
+								}"
+								@click="amount && activate('format', active.format !== name ? name : '')"
 							></span>
 						</template>
 					</span>
@@ -177,9 +190,9 @@
 		</ul>
 
 		<ul id="products" x-cloak x-show="Object.keys(active).length">
-			<span x-cloak x-show="!count">
-				Er zijn geen producten gevonden die voldoen aan de geselecteerde filters.
-			</span>
+			<p x-cloak x-show="!count">
+				Er zijn geen producten gevonden die voldoen aan de geselecteerde filters. <a @click.prevent="reset">klik hier</a> om de filters te resetten.
+			</p>
 
 			{{ range $sorted }}
 				<template x-if="matches.some(el => el.url === '{{ .RelPermalink }}')">

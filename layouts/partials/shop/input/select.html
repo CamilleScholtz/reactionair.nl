@@ -5,7 +5,6 @@
 		search:    '',
 		options:   [],
 		filtered:  [],
-		available: 99,
 
 		init() {
 			document.addEventListener('click', (ev) => {
@@ -21,8 +20,6 @@
 			$watch('filters.{{ .key }}', (value) => {
 				this.options   = value;
 				this.filtered  = value;
-
-				this.available = Object.values(value).filter(amount => amount > 0).length;
 			});
 
 			$watch('open', (value) => {
@@ -43,7 +40,10 @@
 		<div class="select-container">
 			<span
 				class="select"
-				:class="open && 'open'"
+				:class="{
+					'open':   open,
+					'active': active.{{ .key }},
+				}"
 				x-text="(active.{{ .key }} ?? 'Alle {{ .plural }}')"
 				@click="open = !open"
 			></span>
@@ -70,7 +70,8 @@
 					></li>
 
 					<template x-for="(amount, name) in filtered">
-						<template x-if="amount || available == 1">
+						// If amount, or the only active filter is the current one, show the option
+						<template x-if="amount || (Object.keys(active).length === 1 && active.{{ .key }} === name)">
 							<li
 								class="option"
 								:class="active.{{ .key }} !== name || 'active'"
