@@ -21,7 +21,7 @@
 				<span
 					class="added-to-rating"
 					x-data="{ rating: 5 }"
-					x-init="$watch('rating', value => rating = Math.min(Math.max(value, 1), 5))"
+					x-init="$watch('rating', (value) => rating = Math.min(Math.max(value, 1), 5))"
 				>
 					<span class="button" @click="rating--">
 						-

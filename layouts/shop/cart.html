@@ -2,11 +2,7 @@
 	<div id="taxonomy" class="cart-page">
 		<ul
 			id="products"
-			x-data="{
-				init() {
-					console.log($store.cart.contents);
-				}
-			}"
+			x-data
 		>
 			<div
 				class="cart-empty"
@@ -43,28 +39,38 @@
 					shipping:   null,
 					estimation: 2,
 					total:      null,
-				}"
-				x-init="fetch('{{ .Site.Params.api }}/api/shop/shipping', {
-						method: 'POST',
-						headers: {
-							'Content-Type': 'application/json'
-						},
-						body: JSON.stringify({
-							cart: $store.cart.contents,
+
+					init() {
+						this.fetch();
+						$watch('$store.cart.contents', () => this.fetch());
+					},
+
+					fetch() {
+						fetch('{{ .Site.Params.api }}/api/shop/shipping', {
+							method: 'POST',
+							headers: {
+								'Content-Type': 'application/json'
+							},
+							body: JSON.stringify({
+								cart: $store.cart.contents
+							})
 						})
-					})
-						.then(response => response.json())
-						.then(data => {
-							const formatter = value => $store.cart.currency(value, { symbol: '€ ', separator: '.' });
+							.then(response => response.json())
+							.then(data => {
+								const formatter = value => $store.cart.currency(value, { symbol: '€ ', separator: '.' });
 
-							shipping   = formatter(data.price);
-							estimation = data.estimation;
-							total      = formatter(0);
+								this.shipping   = formatter(data.price);
+								this.estimation = data.estimation;
 
-							$store.cart.contents.forEach(variant => {
-								total = total.add(formatter(variant.price).multiply(variant.quantity));
+								let total = $store.cart.currency(0);
+								$store.cart.contents.forEach(variant => {
+									total = total.add(formatter(variant.price).multiply(variant.quantity));
+								});
+
+								this.total = total;
 							});
-						})"
+					}
+				}"
 			>
 				<div class="total" x-text="total?.format()"></div>
 				<div>
