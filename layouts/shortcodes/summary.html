@@ -4,6 +4,14 @@
 	x-show="expanded"
 	x-collapse.min.240px
 >
+	<button
+		class="button summary-button"
+		x-text="expanded ? 'Sluiten' : 'Lees meer'"
+		@click="expanded = !expanded"
+	>
+		Lees meer
+	</button>
+
 	<div>
 		<h3>Dit artikel in vogelvlucht:</h3>
 
@@ -11,12 +19,4 @@
 
 		{{ $.Page.Params.summary | markdownify }}
 	</div>
-
-	<button
-		class="button summary-button"
-		x-text="expanded ? 'Sluiten' : 'Lees meer'"
-		@click="expanded = true"
-	>
-		Lees meer
-	</button>
 </section>

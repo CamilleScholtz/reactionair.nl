@@ -5,6 +5,7 @@ import persist from '@alpinejs/persist';
 import mask from '@alpinejs/mask';
 import collapse from '@alpinejs/collapse';
 import anchor from '@alpinejs/anchor'
+import focus from '@alpinejs/focus'
 
 import wavesurfer from 'wavesurfer.js';
 import currency from 'currency.js';
@@ -13,6 +14,7 @@ Alpine.plugin(persist);
 Alpine.plugin(mask);
 Alpine.plugin(collapse);
 Alpine.plugin(anchor);
+Alpine.plugin(focus);
 
 document.addEventListener('alpine:init', async () => {
 	Alpine.store('mobile', window.matchMedia('(max-width: 1024px)'));

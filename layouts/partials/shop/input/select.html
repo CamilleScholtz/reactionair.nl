@@ -21,16 +21,6 @@
 				this.options   = value;
 				this.filtered  = value;
 			});
-
-			$watch('open', (value) => {
-				if (!value) {
-					return;
-				}
-
-				setTimeout(() => {
-					$refs.search.focus();
-				}, 100);
-			});
 		}
 	}"
 >
@@ -52,13 +42,13 @@
 				class="options-container"
 				x-cloak
 				x-show="open"
-				x-anchor.top-end.offset.7="$refs.select"
+				x-anchor.bottom-end.offset.7="$refs.select"
+				x-trap="open"
 			>
 				<input
 					type="text"
 					placeholder="Zoek {{ .singular }}..."
 					x-model="search"
-					x-ref="search"
 					@input="filtered = Object.fromEntries(Object.entries(options).filter(([name]) => name.toLowerCase().includes($event.target.value.toLowerCase())))"
 				>
 

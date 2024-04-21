@@ -4,81 +4,76 @@
 
 "@alpinejs/anchor@^3.13.8":
   version "3.13.8"
-  resolved "https://registry.yarnpkg.com/@alpinejs/anchor/-/anchor-3.13.8.tgz#58abbf21d6694159cd3f7f6aa8f3d38fd6574734"
+  resolved "https://registry.npmjs.org/@alpinejs/anchor/-/anchor-3.13.8.tgz"
   integrity sha512-AhjwaHTcq/gKrQOyZqSudUtjYnW35nsE7LpvBVCYqi72UCAEbcUkskU0e52i473u3jCDwA3IDbN/D0tkuwNVKw==
 
 "@alpinejs/collapse@^3.13.8":
   version "3.13.8"
-  resolved "https://registry.yarnpkg.com/@alpinejs/collapse/-/collapse-3.13.8.tgz#f71523fe93d0fd729886134e08b30ef29a6e9a72"
+  resolved "https://registry.npmjs.org/@alpinejs/collapse/-/collapse-3.13.8.tgz"
   integrity sha512-NsYiidTJ/AOFE8xUMxnXIe5LbRYcfw3UjxI6VUlDw3st4XwzaeCNyqBbZVRt9Ac7wfdrODy0qTHA+iCHSF0atQ==
+
+"@alpinejs/focus@^3.13.8":
+  version "3.13.8"
+  resolved "https://registry.npmjs.org/@alpinejs/focus/-/focus-3.13.8.tgz"
+  integrity sha512-ioGVlcRsD/8qcMs0dHyuhcPvIFAkSjGhHNXW+0j6kaNh9RoNQHT+webmTShJEoPTyBfjmRr5BzB7lWbyfgYpNA==
+  dependencies:
+    focus-trap "^6.9.4"
+    tabbable "^5.3.3"
 
 "@alpinejs/mask@^3.13.8":
   version "3.13.8"
-  resolved "https://registry.yarnpkg.com/@alpinejs/mask/-/mask-3.13.8.tgz#2284c52dbdaa172f15bdd27d16958a19da0f2913"
+  resolved "https://registry.npmjs.org/@alpinejs/mask/-/mask-3.13.8.tgz"
   integrity sha512-aFH1eLyNvmmRaCJBDaro6AOx4AW8J5EMkQhwu2jakx64W1+6fb3r8JLBvlaHCT+k2mrYrkw/6J1Qv+Xz4Q+x0w==
 
 "@alpinejs/persist@^3.13.8":
   version "3.13.8"
-  resolved "https://registry.yarnpkg.com/@alpinejs/persist/-/persist-3.13.8.tgz#3388cd341a6cecb44e245afcaf797e74fa9e592f"
+  resolved "https://registry.npmjs.org/@alpinejs/persist/-/persist-3.13.8.tgz"
   integrity sha512-NLfU6yS1fdWp0O5ujT17yVxB6KnINh/deRrvcezP3eqZZxpXCgPb5a7OFje5VBhR6zxsfUJJ6Ukz5AthozhLTg==
 
 "@pagefind/darwin-arm64@1.1.0":
   version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@pagefind/darwin-arm64/-/darwin-arm64-1.1.0.tgz#d1b9bcfda0bb099d15b8cc5fcd30e9a1ada8e649"
+  resolved "https://registry.npmjs.org/@pagefind/darwin-arm64/-/darwin-arm64-1.1.0.tgz"
   integrity sha512-SLsXNLtSilGZjvqis8sX42fBWsWAVkcDh1oerxwqbac84HbiwxpxOC2jm8hRwcR0Z55HPZPWO77XeRix/8GwTg==
-
-"@pagefind/darwin-x64@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@pagefind/darwin-x64/-/darwin-x64-1.1.0.tgz#182b5d86899b65beb56ae96c828f32c71a5f89bb"
-  integrity sha512-QjQSE/L5oS1C8N8GdljGaWtjCBMgMtfrPAoiCmINTu9Y9dp0ggAyXvF8K7Qg3VyIMYJ6v8vg2PN7Z3b+AaAqUA==
-
-"@pagefind/linux-arm64@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@pagefind/linux-arm64/-/linux-arm64-1.1.0.tgz#46e8af93106aa202efeae47510e2abcfa3182fa5"
-  integrity sha512-8zjYCa2BtNEL7KnXtysPtBELCyv5DSQ4yHeK/nsEq6w4ToAMTBl0K06khqxdSGgjMSwwrxvLzq3so0LC5Q14dA==
-
-"@pagefind/linux-x64@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@pagefind/linux-x64/-/linux-x64-1.1.0.tgz#6171ce1a6c0c31f8e3f962b9b81d96900ad2019a"
-  integrity sha512-4lsg6VB7A6PWTwaP8oSmXV4O9H0IHX7AlwTDcfyT+YJo/sPXOVjqycD5cdBgqNLfUk8B9bkWcTDCRmJbHrKeCw==
-
-"@pagefind/windows-x64@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@pagefind/windows-x64/-/windows-x64-1.1.0.tgz#92efa86baaea76a0268d8d4e692752426cc144b9"
-  integrity sha512-OboCM76BcMKT9IoSfZuFhiqMRgTde8x4qDDvKulFmycgiJrlL5WnIqBHJLQxZq+o2KyZpoHF97iwsGAm8c32sQ==
 
 "@vue/reactivity@~3.1.1":
   version "3.1.5"
-  resolved "https://registry.yarnpkg.com/@vue/reactivity/-/reactivity-3.1.5.tgz#dbec4d9557f7c8f25c2635db1e23a78a729eb991"
+  resolved "https://registry.npmjs.org/@vue/reactivity/-/reactivity-3.1.5.tgz"
   integrity sha512-1tdfLmNjWG6t/CsPldh+foumYFo3cpyCHgBYQ34ylaMsJ+SNHQ1kApMIa8jN+i593zQuaw3AdWH0nJTARzCFhg==
   dependencies:
     "@vue/shared" "3.1.5"
 
 "@vue/shared@3.1.5":
   version "3.1.5"
-  resolved "https://registry.yarnpkg.com/@vue/shared/-/shared-3.1.5.tgz#74ee3aad995d0a3996a6bb9533d4d280514ede03"
+  resolved "https://registry.npmjs.org/@vue/shared/-/shared-3.1.5.tgz"
   integrity sha512-oJ4F3TnvpXaQwZJNF3ZK+kLPHKarDmJjJ6jyzVNDKH9md1dptjC7lWR//jrGuLdek/U6iltWxqAnYOu8gCiOvA==
 
 alpinejs@^3.13.8:
   version "3.13.8"
-  resolved "https://registry.yarnpkg.com/alpinejs/-/alpinejs-3.13.8.tgz#23f280a886af296e16302a79e01ba51c0d86f67e"
+  resolved "https://registry.npmjs.org/alpinejs/-/alpinejs-3.13.8.tgz"
   integrity sha512-XolbBJryCndomtaHd/KHQjQeD/L72FJxy/YhLLFD4Lr7zzGcpcbg+UgXteMR2pYg1KhRUr6V4O3GfN1zJAmRWw==
   dependencies:
     "@vue/reactivity" "~3.1.1"
 
 currency.js@^2.0.4:
   version "2.0.4"
-  resolved "https://registry.yarnpkg.com/currency.js/-/currency.js-2.0.4.tgz#a8a4d69be3b2e509bf67a560c78220bc04809cf1"
+  resolved "https://registry.npmjs.org/currency.js/-/currency.js-2.0.4.tgz"
   integrity sha512-6/OplJYgJ0RUlli74d93HJ/OsKVBi8lB1+Z6eJYS1YZzBuIp4qKKHpJ7ad+GvTlWmLR/hLJOWTykN5Nm8NJ7+w==
+
+focus-trap@^6.9.4:
+  version "6.9.4"
+  resolved "https://registry.npmjs.org/focus-trap/-/focus-trap-6.9.4.tgz"
+  integrity sha512-v2NTsZe2FF59Y+sDykKY+XjqZ0cPfhq/hikWVL88BqLivnNiEffAsac6rP6H45ff9wG9LL5ToiDqrLEP9GX9mw==
+  dependencies:
+    tabbable "^5.3.3"
 
 minisearch@^6.3.0:
   version "6.3.0"
-  resolved "https://registry.yarnpkg.com/minisearch/-/minisearch-6.3.0.tgz#985a2f1ca3c73c2d65af94f0616bfe57164b0b6b"
+  resolved "https://registry.npmjs.org/minisearch/-/minisearch-6.3.0.tgz"
   integrity sha512-ihFnidEeU8iXzcVHy74dhkxh/dn8Dc08ERl0xwoMMGqp4+LvRSCgicb+zGqWthVokQKvCSxITlh3P08OzdTYCQ==
 
 pagefind@^1.1.0:
   version "1.1.0"
-  resolved "https://registry.yarnpkg.com/pagefind/-/pagefind-1.1.0.tgz#6b758ca9cae28c3776b40db6a3b9478d2286c27b"
+  resolved "https://registry.npmjs.org/pagefind/-/pagefind-1.1.0.tgz"
   integrity sha512-1nmj0/vfYcMxNEQj0YDRp6bTVv9hI7HLdPhK/vBBYlrnwjATndQvHyicj5Y7pUHrpCFZpFnLVQXIF829tpFmaw==
   optionalDependencies:
     "@pagefind/darwin-arm64" "1.1.0"
@@ -87,7 +82,12 @@ pagefind@^1.1.0:
     "@pagefind/linux-x64" "1.1.0"
     "@pagefind/windows-x64" "1.1.0"
 
+tabbable@^5.3.3:
+  version "5.3.3"
+  resolved "https://registry.npmjs.org/tabbable/-/tabbable-5.3.3.tgz"
+  integrity sha512-QD9qKY3StfbZqWOPLp0++pOrAVb/HbUi5xCc8cUo4XjP19808oaMiDzn0leBY5mCespIBM0CIZePzZjgzR83kA==
+
 wavesurfer.js@^7.7.10:
   version "7.7.11"
-  resolved "https://registry.yarnpkg.com/wavesurfer.js/-/wavesurfer.js-7.7.11.tgz#9db7a7974ec1d61dc7b2afe6360f575b5d216285"
+  resolved "https://registry.npmjs.org/wavesurfer.js/-/wavesurfer.js-7.7.11.tgz"
   integrity sha512-27otJlDBcUSbMh/YkxEZN0yXTHINQNYSOl5aJplYlIaHw2u3BrABUzOmUZV3dKIy8udOLJXS/67y5pOIzgAg+w==
