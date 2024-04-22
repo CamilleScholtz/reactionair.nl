@@ -14,7 +14,7 @@
 				return $store.cart.find({{ .id }})
 			}
 		}"
-		{{ if .checkout }}
+		{{ if $.checkout }}
 			x-cloak
 			x-show="filter === {{ .id }}"
 		{{ end }}
@@ -111,13 +111,12 @@
 
 		<span class="filters-container">
 			{{ range $variants }}
-				<a
-					href="#"
-					:class="filter === {{ .id }} ? 'active' : ''"
-					@click.prevent="filter = {{ .id }}"
+				<span
+]					:class="filter === {{ .id }} ? 'active' : ''"
+					@click="filter = {{ .id }}"
 				>
 					{{ .format | title }}
-				</a>
+				</span>
 			{{ end }}
 		</span>
 	</div>

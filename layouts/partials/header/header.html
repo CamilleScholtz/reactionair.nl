@@ -125,7 +125,7 @@
 						href="/winkel/wagen"
 						id="cart"
 						class="icon"
-						:class="searching || hidden"
+						:class="!searching || 'hidden'"
 						:style="{ opacity: searching ? 0 : 1 }"
 					>
 						<img
@@ -178,7 +178,7 @@
 				</div>
 
 				<div id="search" x-ref="search">
-					<form x-trap="searching">
+					<div x-trap="searching">
 						<input
 							id="search-input"
 							type="search"
@@ -210,7 +210,7 @@
 								style="width: 28px; height: 28px;"
 							>
 						</button>
-					</form>
+					</div>
 
 					<div
 						class="results-container"
