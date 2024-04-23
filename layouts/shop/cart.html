@@ -1,9 +1,10 @@
 {{ define "main" }}
-	<div id="taxonomy" class="cart-page">
-		<ul
-			id="products"
-			x-data
-		>
+	<div
+		id="taxonomy"
+		class="cart-page"
+		x-data
+	>
+		<ul id="products">
 			<div
 				class="cart-empty"
 				x-cloak
@@ -30,7 +31,7 @@
 			{{ end }}
 		</ul>
 
-		<div class="info">
+		<div class="info" x-show="$store.cart.contents.length">
 			<a href="/winkel/afrekenen" class="button">Afrekenen</a>
 
 			<div

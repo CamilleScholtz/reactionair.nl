@@ -36,7 +36,9 @@
 				}"
 				x-text="(active.{{ .key }} ?? 'Alle {{ .plural }}')"
 				@click="open = !open"
-			></span>
+			>
+				Alle {{ .plural }}
+			</span>
 
 			<div
 				class="options-container"
@@ -55,12 +57,12 @@
 				<ol class="options">
 					<li
 						class="option"
-						x-text="`Alle {{ .plural }}`"
 						@click="activate('{{ .key }}', ''); open = false; search = ''"
-					></li>
+					>
+						Alle {{ .plural }}
+					</li>
 
 					<template x-for="(amount, name) in filtered">
-						// If amount, or the only active filter is the current one, show the option
 						<template x-if="amount || (Object.keys(active).length === 1 && active.{{ .key }} === name)">
 							<li
 								class="option"

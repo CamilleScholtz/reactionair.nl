@@ -39,7 +39,7 @@
 				},
 
 				submit() {
-					fetch('{{ .Site.Params.api }}/api/shop/checkout', {
+					fetch('{{ .Site.Params.api }}/api/shop/payment', {
 						method: 'POST',
 						headers: {
 							'Content-Type': 'application/json'

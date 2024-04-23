@@ -1,7 +1,7 @@
 <form
 	id="comment-form"
-	@submit.prevent="submit"
 	x-ref="form"
+	@submit.prevent="submit"
 >
 	<input type="hidden" name="id" id="id" value="{{ .context.Params.id }}"/>
 
@@ -15,7 +15,7 @@
 			placeholder="Deel uw gedachten…"
 		></textarea>
 
-		<span class="comment-form-line">
+		<span class="comment-form-line {{ cond .review "review" "" }}">
 			<input type="text" id="author" name="author" required spellcheck="false" placeholder="Uw naam"/>
 			{{ if .review }}
 				<span

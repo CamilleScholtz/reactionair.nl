@@ -58,7 +58,10 @@
 
 		.comment-form-line
 			display: grid
-			grid-template-columns: auto calc(193px + 10px) 50px
+			grid-template-columns: auto 50px
+
+			&.review
+				grid-template-columns: auto calc(193px + 10px) 50px
 
 			#author
 				width: 100%
