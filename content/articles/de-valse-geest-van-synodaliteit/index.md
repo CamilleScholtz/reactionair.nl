@@ -25,6 +25,8 @@ Vorige week dook opnieuw een bekend filmpje op van het (profane) Vaticaanse Circ
 
 In hetzelfde auditorium is momenteel een Synode gaande, waar bisschoppen, pastoraal werk(st)ers en andere mensen (die graag naar hun eigen mening luisteren) samenkomen. De naam voor hun praatclubje: Synode over Synodaliteit. De titel lijkt op het eerste gezicht zelfverwijzende academische taal: een conferentie over hoe we conferenties moeten organiseren. Neologismen, tegelwijsheden en wollige taal kenmerken dan ook de waan van de dag.
 
+{{< advert >}}
+
 Anders dan met eerdere raadplegingen is het niet slechts een samenkomst van geestelijken, die delibereren over de kerkstructuur. De adder in het gras is dat deze Synode de ambitie heeft juist deze hiërarchie grondig te hervormen. Een deformatie, die niet slechts de Katholiek zorgen zou moeten baren, maar elk persoon die zich als Christen ziet. 
 
 Waarom? Als we de bijeenkomst ontleden, is het in feite een vergadering waarin bisschoppen ingevulde enquêtes, met suggestieve vraagstelling door zelfgeselecteerde leken, bespreken. Aan de hand hiervan kijken de bisschoppen welke morele en dogmatische stellingen zij kunnen laten vallen ten gunste van de (volgens hun hoognodige) vernieuwing. Het 'democratisch' bakkeleien over vooraf bekende uitkomsten is 'de Heilige Geest die spreekt'.

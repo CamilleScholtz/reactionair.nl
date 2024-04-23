@@ -1,18 +1,16 @@
 #!/usr/bin/env sh
 
-PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin
-
 if [ "$1" = "--pull" ]; then
 	git pull
 fi
 
-trap 'rm -rf "/usr/local/www/reactionair.nl/build"' SIGINT SIGTERM
+trap 'rm -rf "/www/reactionair.nl/build"' SIGINT SIGTERM
 
-hugo -s "/usr/local/www/reactionair.nl" --cleanDestinationDir -d "/usr/local/www/reactionair.nl/build"
+hugo -s "/www/reactionair.nl" --cleanDestinationDir -d "/www/reactionair.nl/build"
 
-if [ -d "/usr/local/www/reactionair.nl/public" ]; then
-	rm -rf "/usr/local/www/reactionair.nl/public"
+if [ -d "/www/reactionair.nl/public" ]; then
+	rm -rf "/www/reactionair.nl/public"
 fi
-mv "/usr/local/www/reactionair.nl/build" "/usr/local/www/reactionair.nl/public"
+mv "/www/reactionair.nl/build" "/www/reactionair.nl/public"
 
-pagefind --site "/usr/local/www/reactionair.nl/public"
+pagefind --site "/www/reactionair.nl/public"
