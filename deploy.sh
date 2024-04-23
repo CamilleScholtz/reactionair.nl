@@ -4,6 +4,8 @@ if [ "$1" = "--pull" ]; then
 	git pull
 fi
 
+yarn install
+
 trap 'rm -rf "/www/reactionair.nl/build"' SIGINT SIGTERM
 
 hugo -s "/www/reactionair.nl" --cleanDestinationDir -d "/www/reactionair.nl/build"
