@@ -34,7 +34,7 @@
 					{{ if eq .CurrentSection.File.ContentBaseName "boeken" }}
 						<h3 class="authors" data-pagefind-meta="authors">
 							{{ range $index, $writer := .Params.writers }}
-								<a href="/winkel/producten/boeken/?auteur={{ urlize $writer }}" data-pagefind-filter="author">
+								<a href="/winkel/producten/boeken/?auteur={{ $writer }}" data-pagefind-filter="author">
 									{{ $writer }}
 								</a>
 								{{ if eq $index (sub (len $.Params.writers) 2) }}
@@ -97,7 +97,7 @@
 
 							<th>Taal</th>
 							<td>
-								<a href="/winkel/producten/boeken/?taal={{ urlize .Params.language }}" data-pagefind-filter="language">
+								<a href="/winkel/producten/boeken/?taal={{ .Params.language }}" data-pagefind-filter="language">
 									{{ .Params.language }}
 								</a>
 							</td>
@@ -107,7 +107,7 @@
 							<th>Auteur(s)</th>
 							<td>
 								{{ range $index, $writer := .Params.writers }}
-									<a href="/winkel/producten/boeken/?auteur={{ urlize $writer }}">{{ $writer }}</a>
+									<a href="/winkel/producten/boeken/?auteur={{ $writer }}">{{ $writer }}</a>
 									{{ if eq $index (sub (len $.Params.writers) 2) }}
 										&amp;
 									{{ else if ne (add $index 1) (len $.Params.writers) }}
@@ -118,7 +118,7 @@
 
 							<th>Uitgeverij</th>
 							<td>
-								<a href="/winkel/producten/boeken/?uitgeverij={{ urlize .Params.publisher }}" data-pagefind-filter="publisher">
+								<a href="/winkel/producten/boeken/?uitgeverij={{ .Params.publisher }}" data-pagefind-filter="publisher">
 									{{ .Params.publisher }}
 								</a>
 							</td>
