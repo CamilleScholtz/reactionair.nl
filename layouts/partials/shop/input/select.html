@@ -34,7 +34,7 @@
 					'open':   open,
 					'active': active.{{ .key }},
 				}"
-				x-text="(active.{{ .key }} ?? 'Alle {{ .plural }}')"
+				x-text="active.{{ .key }} ? `${active.{{ .key }}} (${filtered[active.{{ .key }}]})` : `Alle {{ .plural }}`"
 				@click="open = !open"
 			>
 				Alle {{ .plural }}
