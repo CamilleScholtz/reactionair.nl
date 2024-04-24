@@ -16,6 +16,10 @@ header
 			#buttons
 				margin-right: 20px
 
+				.new-books
+					right: 12px
+					top: 45px
+
 				.icon
 					display: none
 
@@ -69,12 +73,18 @@ header
 							align-items: center
 							border-bottom: 1px dashed var(--popup-border-color)
 							display: flex
-							font-size: 24px
+							flex-direction: column
+							gap: 10px
 							height: calc(100% - 1px)
 							justify-content: center
 
 							&:last-of-type
 								border-bottom: none
+
+							div
+								color: #A62F27 !important
+								font-style: italic
+								font-size: 18px
 
 	.utility
 		display: none

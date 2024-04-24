@@ -106,20 +106,20 @@
 					:class="!searching || 'hidden'"
 					:style="{ opacity: searching ? 0 : 1 }"
 				>
-					{{ if ne (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
-						<div id="new">
-							<span>Nieuwe<br>boeken!</span>
-
-							<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 43.1 85.9" xml:space="preserve">
-								<path class="st0 draw-arrow" d="M11.3,2.5c-5.8,5-8.7,12.7-9,20.3s2,15.1,5.3,22c6.7,14,18,25.8,31.7,33.1" />
-								<path stroke-linecap="round" class="draw-arrow tail-1" d="M40.6,78.1C39,71.3,37.2,64.6,35.2,58" />
-								<path stroke-linecap="round" class="draw-arrow tail-2" d="M39.8,78.5c-7.2,1.7-14.3,3.3-21.5,4.9" />
-							</svg>
-						</div>
-					{{ end }}
-
 					<img src="{{ "img/shop.svg" | relURL }}" alt="Winkel" style="width: 28px; height: 28px;">
 				</a>
+
+				{{ if ne (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
+					<div class="new-books">
+						<span>Nieuwe<br>boeken!</span>
+
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 43.1 85.9" xml:space="preserve">
+							<path class="st0 draw-arrow" d="M11.3,2.5c-5.8,5-8.7,12.7-9,20.3s2,15.1,5.3,22c6.7,14,18,25.8,31.7,33.1" />
+							<path stroke-linecap="round" class="draw-arrow tail-1" d="M40.6,78.1C39,71.3,37.2,64.6,35.2,58" />
+							<path stroke-linecap="round" class="draw-arrow tail-2" d="M39.8,78.5c-7.2,1.7-14.3,3.3-21.5,4.9" />
+						</svg>
+					</div>
+				{{ end }}
 
 				{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
 					<a
@@ -168,12 +168,15 @@
 					<ul>
 						<a href="/winkel/producten/boeken/">
 							<img src="{{ "img/shop.svg" | relURL }}" alt="Winkel" style="width: 28px; height: 28px;">
+							<div>Winkel</div>
 						</a>
 						<a href="/doneren">
 							<img src="{{ "img/donate.svg" | relURL }}" alt="Doneer" style="width: 28px; height: 28px;">
+							<div>Doneren</div>
 						</a>
 						<a href="/zoeken">
 							<img src="{{ "img/search.svg" | relURL }}" alt="Zoeken" class="search-icon" style="width: 28px; height: 28px;">
+							<div>Zoeken</div>
 						</a>
 					</ul>
 				</div>
