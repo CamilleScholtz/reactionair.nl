@@ -82,59 +82,63 @@
 			</div>
 
 			<label>Adres</label>
-			<div class="form-group address">
+			<div class="form-group">
+				<div class="form-group address">
+					<input
+						type="text"
+						name="postal-code"
+						required
+						placeholder="Uw postcode"
+						autocomplete="postal-code"
+						maxlength="7"
+						x-model="postalCode"
+						x-mask="9999 aa"
+						@input.debounce.500ms="address"
+					/>
+					<input
+						type="text"
+						name="house-number"
+						required
+						placeholder="Uw huisnummer"
+						x-model="houseNumber"
+						@input.debounce.500ms="address"
+					/>
+				</div>
+				<span class="error" x-ref="error"></span>
 				<input
 					type="text"
-					name="postal-code"
+					name="street"
 					required
-					placeholder="Uw postcode"
-					autocomplete="postal-code"
-					maxlength="7"
-					x-model="postalCode"
-					x-mask="9999 aa"
-					@input.debounce.500ms="address"
+					readonly
+					placeholder="Uw straat"
+					x-ref="street"
 				/>
 				<input
 					type="text"
-					name="house-number"
+					name="city"
 					required
-					placeholder="Uw huisnummer"
-					x-model="houseNumber"
-					@input.debounce.500ms="address"
+					readonly
+					placeholder="Uw woonplaats"
+					x-ref="city"
 				/>
 			</div>
-			<span class="error" x-ref="error"></span>
-			<input
-				type="text"
-				name="street"
-				required
-				readonly
-				placeholder="Uw straat"
-				x-ref="street"
-			/>
-			<input
-				type="text"
-				name="city"
-				required
-				readonly
-				placeholder="Uw woonplaats"
-				x-ref="city"
-			/>
 
 			<label>Contactgegevens</label>
-			<input
-				type="email"
-				name="email"
-				required
-				placeholder="Uw e-mailadres"
-				autocomplete="email"
-			/>
-			<input
-				type="tel"
-				name="phone"
-				placeholder="Uw telefoonnummer"
-				autocomplete="tel"
-			/>
+			<div class="form-group">
+				<input
+					type="email"
+					name="email"
+					required
+					placeholder="Uw e-mailadres"
+					autocomplete="email"
+				/>
+				<input
+					type="tel"
+					name="phone"
+					placeholder="Uw telefoonnummer"
+					autocomplete="tel"
+				/>
+			</div>
 
 			<label for="newsletter-checkbox">
 				<input

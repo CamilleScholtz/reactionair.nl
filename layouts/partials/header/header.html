@@ -11,9 +11,10 @@
 		async init() {
 			$watch('searching', async (value) => {
 				if (!value) {
-					this.searching = false;
-					this.input     = '';
-					this.matches   = [];
+					this.input   = '';
+					this.matches = [];
+
+					return;
 				}
 
 				if (this.pagefind) {
