@@ -70,7 +70,6 @@
 					type="text"
 					name="preposition"
 					placeholder="Tussenv."
-					autocomplete="additional-name"
 				/>
 				<input
 					type="text"
@@ -89,7 +88,7 @@
 						name="postal-code"
 						required
 						placeholder="Uw postcode"
-						autocomplete="postal-code"
+						autocomplete="shipping postal-code"
 						maxlength="7"
 						x-model="postalCode"
 						x-mask="9999 aa"
@@ -111,6 +110,7 @@
 					required
 					readonly
 					placeholder="Uw straat"
+					autocomplete="shipping street-address"
 					x-ref="street"
 				/>
 				<input
@@ -119,6 +119,7 @@
 					required
 					readonly
 					placeholder="Uw woonplaats"
+					autocomplete="shipping address-level2"
 					x-ref="city"
 				/>
 			</div>
