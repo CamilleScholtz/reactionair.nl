@@ -1,2 +1,35 @@
 .checkout-page
 	margin: 0 auto
+
+	.info
+		border-top: 1px dashed var(--border-color)
+		display: flex
+		justify-content: space-between
+		margin-top: 20px
+		padding-top: 50px
+
+		.prices
+			text-align: right
+
+			.shipping,
+			.total,
+			.total-plus-shipping
+				color: var(--muted-color)
+				font-family: 'IM Fell English SC', serif
+				font-style: italic
+				font-size: 20px
+
+			.free-shipping
+				font-size: 13px
+
+				span
+					color: var(--accent-color)
+					font-family: 'IM Fell English SC', serif
+
+			.total-plus-shipping
+				border-top: 1px dashed var(--border-color)
+				color: var(--text-color)
+				display: inline-block
+				font-size: 30px
+				margin-top: 15px
+				padding-top: 8px
