@@ -51,7 +51,11 @@
 		</div>
 	</div>
 
-	<form @submit.prevent="submit" x-ref="form">
+	<form
+		@submit.prevent="submit"
+		x-ref="form"
+		x-trap="captcha"
+	>
 		<input
 			type="email"
 			id="email"
@@ -68,9 +72,14 @@
 			x-cloak
 			x-show="captcha"
 			x-model="question"
+			:disabled="send"
 		/>
 
-		<button type="submit" class="button square">
+		<button
+			type="submit"
+			class="button square"
+			:class="send && 'disabled'"
+		>
 			›
 		</button>
 	</form>
