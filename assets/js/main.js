@@ -33,10 +33,14 @@ document.addEventListener('alpine:init', async () => {
 		},
 
 		find(variant) {
-			return this.contents.find((i) => i.variant === variant) ?? { quantity: 0 };
+			return this.contents.find((i) => i.variant === variant);
 		},
 
 		cache() {
+			if (this.contents.length === 0) {
+				return;
+			}
+
 			fetch(params.api + '/api/shop/shipping', {
 				method: 'POST',
 				headers: {
@@ -51,7 +55,7 @@ document.addEventListener('alpine:init', async () => {
 		add(variant, price) {
 			const current = this.find(variant);
 
-			if (current.quantity > 0) {
+			if (current) {
 				current.quantity++;
 			} else {
 				this.contents.push({

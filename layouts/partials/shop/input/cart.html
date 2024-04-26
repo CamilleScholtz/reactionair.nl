@@ -11,7 +11,7 @@
 			price:   {{ .price }},
 
 			get current() {
-				return $store.cart.find({{ .id }})
+				return $store.cart.find({{ .id }}) || { quantity: 0 };
 			}
 		}"
 		{{ if $.checkout }}
