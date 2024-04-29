@@ -70,7 +70,12 @@
 >
 	<div id="logo-container">
 		<div id="logo-center">
-			<a href="/" id="logo">
+			<a
+				href="/"
+				id="logo"
+				x-show="!hidden"
+				x-transition.opacity
+			>
 				<img
 					src="{{ "img/logo.svg" | relURL }}"
 					alt="Reactionair.nl"
@@ -84,7 +89,12 @@
 				{{ end }}
 			</a>
 
-			<span id="buttons" x-data="{ open: false }">
+			<span
+				id="buttons"
+				x-data="{ open: false }"
+				x-show="!hidden"
+				x-transition.opacity
+			>
 				<a
 					href="/doneren"
 					class="icon"

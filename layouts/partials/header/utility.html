@@ -1,4 +1,9 @@
-<div class="utility" x-ref="utility">
+<div
+	id="utility"
+	x-show="hidden"
+	x-transition.opacity
+	x-cloak
+>
 	<span class="left">
 		<div>{{ .Title | safeHTML }}</div>
 	</span>
