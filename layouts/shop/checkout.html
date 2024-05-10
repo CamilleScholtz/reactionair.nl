@@ -6,6 +6,27 @@
 				postalCode:  '',
 				houseNumber: '',
 
+				init() {
+					const url = new URL(window.location.href);
+
+					if (url.searchParams.has('order')) {
+						fetch(`{{ .Site.Params.api }}/api/shop/order/${url.searchParams.get('order')}`)
+							.then(response => response.json())
+							.then(data => {
+								Object.entries(data).forEach(([key, value]) => {
+									const input = $el.querySelector(`[name='${key}']`);
+									console.log(input);
+
+									if (input) {
+										input.value = value;
+									}
+								});
+
+								$store.cart.contents = data.cart;
+							});
+					}
+				},
+
 				address() {
 					if (!(this.postalCode.length === 6 || this.postalCode.length === 7)
 						|| this.houseNumber.length === 0) {
@@ -18,8 +39,8 @@
 							'Content-Type': 'application/json'
 						},
 						body: JSON.stringify({
-							'postal-code':  this.postalCode,
-							'house-number': this.houseNumber
+							'postal_code':  this.postalCode,
+							'house_number': this.houseNumber
 						})
 					}).then((response) => {
 						return response.json();
@@ -61,7 +82,7 @@
 			<div class="form-group name">
 				<input
 					type="text"
-					name="first-name"
+					name="first_name"
 					required
 					placeholder="Uw naam"
 					autocomplete="given-name"
@@ -73,7 +94,7 @@
 				/>
 				<input
 					type="text"
-					name="last-name"
+					name="last_name"
 					required
 					placeholder="Uw achternaam"
 					autocomplete="family-name"
@@ -85,7 +106,7 @@
 				<div class="form-group address">
 					<input
 						type="text"
-						name="postal-code"
+						name="postal_code"
 						required
 						placeholder="Uw postcode"
 						autocomplete="shipping postal-code"
@@ -96,7 +117,7 @@
 					/>
 					<input
 						type="text"
-						name="house-number"
+						name="house_number"
 						required
 						placeholder="Uw huisnummer"
 						x-model="houseNumber"

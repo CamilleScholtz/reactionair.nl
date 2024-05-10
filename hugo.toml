@@ -14,7 +14,7 @@ capitalizeListTitles = false
 pluralizeListTitles  = false
 
 [params]
-	api    = "https://admin.reactionair.nl"
+	api    = "http://127.0.0.1:8000"
 	advert = "Desengaño"
 
 [taxonomies]

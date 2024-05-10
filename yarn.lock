@@ -108,6 +108,6 @@ tabbable@^5.3.3:
   integrity sha512-QD9qKY3StfbZqWOPLp0++pOrAVb/HbUi5xCc8cUo4XjP19808oaMiDzn0leBY5mCespIBM0CIZePzZjgzR83kA==
 
 wavesurfer.js@^7.7.10:
-  version "7.7.11"
-  resolved "https://registry.yarnpkg.com/wavesurfer.js/-/wavesurfer.js-7.7.11.tgz#9db7a7974ec1d61dc7b2afe6360f575b5d216285"
-  integrity sha512-27otJlDBcUSbMh/YkxEZN0yXTHINQNYSOl5aJplYlIaHw2u3BrABUzOmUZV3dKIy8udOLJXS/67y5pOIzgAg+w==
+  version "7.7.13"
+  resolved "https://registry.yarnpkg.com/wavesurfer.js/-/wavesurfer.js-7.7.13.tgz#66a5388d25d952d653755067a7a744dce2449bb5"
+  integrity sha512-lQ5QkLa0Kzt5jkt4vP+K1RvsopaH5LssxZ3OArxaeetGYvQfot4Xq5UB8CRsJLXF0+hFWOmqc23WGhP64v2byQ==

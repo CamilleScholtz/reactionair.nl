@@ -2,7 +2,24 @@
 	<div
 		id="taxonomy"
 		class="cart-page"
-		x-data
+		x-data="{
+			url: new URL(window.location.href),
+
+			init() {
+				if (this.url.searchParams.has('order')) {
+					fetch(`{{ .Site.Params.api }}/api/shop/order/${this.url.searchParams.get('order')}`)
+						.then(response => response.json())
+						.then(data => {
+							$store.cart.contents = data.cart;
+						});
+				}
+
+				const exists = [{{ range (where .Site.RegularPages "Section" "shop") }}{{ range .Params.variants }}{{ if not .out_of_stock }}{{ .id }},{{ end }}{{ end }}{{ end }}];
+				$store.cart.contents = $store.cart.contents.filter(variant => {
+					return exists.includes(variant.variant);
+				});
+			}
+		}"
 	>
 		<ul id="products">
 			<div
@@ -32,8 +49,6 @@
 		</ul>
 
 		<div class="info" x-show="$store.cart.contents.length">
-			<a href="/winkel/afrekenen" class="button">Bestelling plaatsen</a>
-
 			<div
 				class="prices"
 				x-data="{
@@ -80,6 +95,13 @@
 				</div>
 				<div class="total-plus-shipping" x-text="total?.add(shipping).format()"></div>
 			</div>
+
+			<a
+				:href="'/winkel/afrekenen' + (url.searchParams.has('order') ? '?order=' + url.searchParams.get('order') : '')"
+				class="button"
+			>
+				Bestelling plaatsen
+			</a>
 		</div>
 	</div>
 {{ end }}

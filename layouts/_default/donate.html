@@ -22,10 +22,10 @@
 									'Content-Type': 'application/json'
 								},
 								body: JSON.stringify(Object.fromEntries(new FormData($el)))
-							}).then((response) => {
-								return response.json();
-							}).then((data) => {
-								window.location.replace(data);
+							})
+							.then(response => response.json())
+							.then(data => {
+								return window.location.replace(data)
 							});
 						}
 					}"
@@ -35,7 +35,7 @@
 					<div class="form-group name">
 						<input
 							type="text"
-							name="first-name"
+							name="first_name"
 							required
 							placeholder="Uw naam"
 							autocomplete="given-name"
@@ -47,7 +47,7 @@
 						/>
 						<input
 							type="text"
-							name="last-name"
+							name="last_name"
 							required
 							placeholder="Uw achternaam"
 							autocomplete="family-name"
