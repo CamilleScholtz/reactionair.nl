@@ -10,7 +10,7 @@ variants:
     - { id: 121, price: 23.99, format: paperback, isbn: 978-9-492161-66-6 }
 writers:
     - 'David Engels'
-pages: 380
+pages: 320
 publisher: 'De Blauwe Tijger'
 language: Nederlands
 advertisable: true

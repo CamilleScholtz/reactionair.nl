@@ -18,13 +18,15 @@ draft: true
 ---
 
 Het Pontificaat van Franciscus kenmerkt zich door heterodoxie, die constant wordt gerechtvaardigd. De mens houdt zichzelf graag voor de gek, dus ook de katholiek.
- 
+
 Het draaiboek is elke keer hetzelfde: Dicasterie doet uitspraak waar de media van smachten, dan komt er ophef over dat er ketterijen verkondigd worden, vervolgens trekt Franciscus zijn keutel weer in. We zagen het bij *Amoris Laetitia*, die seksuele immoraliteit rechtvaardigt, bij Fiducia Supplicans, waar figuren als Frans Bossink[^1] van schuimbekken.
- 
+
 Op 8 april 2024 bracht het Dicasterie voor de Geloofsleer *Dignitas Infinita uit.* Wederom een moderne hermeneutiek. Het document beweert dat een mens een oneindige waardigheid heeft. Dat zou stellen dat de seriemoordenaar Jeffrey Dahmer gelijk in waardigheid is als een weldoener als Pater Damiaan van Molokai.
- 
+
+{{< advert >}}
+
 Oneindige waardigheid is een nieuwe term, die bedacht lijkt om zware zonden met de mantel der liefde te bedekken. We bereiken een volgende fase van rebellie tegen God van de modernistische clerus.
- 
+
 Kardinaal Fernandez, het hoofd van het Dicasterie voor de Geloofsleer, ghostwriter van o.a. *Amoris Laetitia,* *Fiducia Supplicans* en auteur van een boek over erotisch zoenen,[^2] vertelde op maandag 8 april het volgende aan de internationale pers naar aanleiding van Dignitas Infinita:
  
 > “Wat met menselijke waardigheid te maken heeft, is niet iets dat de kerk altijd met dezelfde helderheid heeft onderkend. Zij heeft een groei doorgemaakt in haar expertise, een groei in haar begrijpen ervan. De waarheid verandert niet, ze groeit niet, maar ons begrip van de waarheid, ontwikkelt, groeit en verdiept zich. (...) In het jaar 1452 stond paus Nicolaas V, met een decreet de koning van Portugal toe de Sabaceërs en heidenen aan slavernij te onderwerpen (...). Slechts tachtig jaar later, in 1537, veroordeelde Paulus III echter met excommunicatie degenen die anderen aan slavernij onderwierpen. Omdat ze mensen zijn.
@@ -36,6 +38,7 @@ Hieronder een vrije vertaling van de verklaring van het Dicasterie,[^4] inclusie
  
  
 ### Eerste fout
+
 In paragraaf 12 lezen we:
  
 > "De glorieuze Christus zal oordelen naar de liefde voor de naaste die bestaat in het dienen van de hongerigen, de dorstigen, de vreemdelingen, de naakten, de zieken en de gevangenen, met wie hij zich identificeert (vgl. Mt. 25:34-36). Voor Jezus is het goede dat aan elke mens wordt gedaan, ongeacht de bloed- of religiebanden, het enige criterium van oordeel."
@@ -46,6 +49,7 @@ We weten dat Christus zelf in Johannes 14, vers 6 stelde dat Hij: *‘Ik ben de 
  
  
 ### Tweede fout
+
 In paragraaf 31 wordt benoemd:
  
 > "Evenzo wordt vrijheid vaak vertroebeld door verschillende psychologische, historische, sociale, educatieve en culturele invloeden." Echte en historische vrijheid moet altijd worden 'bevrijd'. Men moet bovendien het fundamentele recht op religieuze vrijheid bevestigen."
@@ -61,40 +65,43 @@ Verzet tegen deze verklaring, zoals de Priesterbroederschap Sint-Pius X bijvoorb
  
 De fundamentele fout in *Dignitatis Humanae* en *Dignitas Infinita* zit in dat de verklaringen beweren dat de mens andere mensen rechten kan geven om valse religies te volgen. De term "Oneindige Waardigheid" in dan ook een verwijzing naar de mens, niet naar God. Het is daarmee feitelijk een vrijmetselaarsbeginsel.[^8]
  
- 
+
 ### Derde fout
+
 In de 34e paragraaf lezen we:
- 
+
 > "In dit verband moeten we erkennen dat de ferme afwijzing van de doodstraf laat zien in hoeverre het mogelijk is om de onvervreemdbare waardigheid van elke mens te erkennen en te accepteren dat hij of zij een plaats heeft in dit universum."
- 
+
 De Heilige Geest heeft niet alleen in het Oude Testament de doodstraf aan wereldlijke autoriteiten toegekend, ook in het Nieuwe Testament spreekt de geest via de heilige Paulus hierover: *‘Maar ge moet vrezen, wanneer ge u onbehoorlijk gedraagt; want het voert het zwaard niet voor niets; want als dienaar van God is het met de bestraffing van den misdadiger belast. Het is dus noodzakelijk, dat men zich onderwerpt; niet alleen om de straf, maar ook uit plichtsbesef.’*[^9]
- 
+
 Elke historische paus of concilie voor de jaren 50 heeft onfeilbaar de doodstraf bevorderd als een onderdeel van gerechtigheid in een beschaafde samenleving.
- 
+
 Bijvoorbeeld Paus Innocentius I in de 5e eeuw:
- 
+
 > "Het moet worden herinnerd dat de macht door God (aan de magistraten) werd verleend, en om een misdaad met het zwaard te wreken door hem werd toegestaan. Hij die deze wraak uitvoert, is Gods dienaar (Romeinen 13:1-4). Waarom zouden we een praktijk veroordelen die door allen wordt gehouden als door God toegestaan? We handhaven dus wat tot nu toe is waargenomen, om de discipline niet te veranderen en zodat we niet lijken te handelen in strijd met Gods gezag."[^10]
- 
+
 Of zoals het Catechismus van het Concilie van Trente[^11] ons verteld:
- 
+
 > “Een tweede soort van doodslag die toegelaten is, behoort tot de macht van de magistraten. Zij hebben macht over leven en dood, om, naar het voorschrift en de uitspraak van de wetten, de misdadigers te straffen en de onschuldigen te beschermen. Als zij hun ambt rechtvaardig uitoefenen, dan zijn ze niet alleen niet schuldig aan doodslag, maar dan gehoorzamen ze ook aan de goddelijke wet die de doodslag verbiedt. Immers, het doel van dit gebod is het leven en het behoud van de mensen te verdedigen ; welnu, als een misdaad gestraft wordt door een magistraat, die daartoe wettelijk aangesteld is, dan is het doel van die straf de vermetelheid en onrechtvaardigheid te beteugelen en de veiligheid van het leven der mensen te verzekeren. Daarom zegt David: “Iedere morgen zal ik al de boosdoeners van het land uitroeien, om de stad van de Heer te bevrijden van allen die kwaad bedrijven (Psalm 101:8).”
- 
+
+
 ### Damage control?
+
 Zoals gebruikelijk wordt, net als we bij het homozegeningendocument *Fiducia Supplican*s zagen, de neoconservatieve tak gerustgesteld. Kardinaal Eijk, tevens aartsbisschop van Utrecht (Nederlandse kerkprovincie), heeft Franciscus tijdens het Ad-Liminabezoek van de Nederlandse bisschoppen gevraagd om een encycliek over genderideologie.[^12]
- 
+
 Deze kreeg hij niet geheel, gezien dit document minder zwaar weegt dan een encycliek. Franciscus komt de neo-conservatieve flank echter tegemoet door geslachtsverandering, draagmoederschap, abortus, euthanasie en gendertheorie te veroordelen als schendingen van de menselijke waardigheid en als tegen Gods plan voor het menselijk leven.
- 
+
 De verklaring van het Dicasterie voor de Geloofsleer duurde (na eigen zeggen) 5 jaar om op te pennen, benadrukt dat menselijke waardigheid absoluut en intrinsiek is, ongeacht de omstandigheden. Een dwaling die de mens centraal stelt, evenals de humanistische liturgie, die we sinds 1969 kennen. Paradoxaal genoeg ligt dezelfde mensgerichtheid ten grondslag aan hetgeen de neoconservatieve katholiek denkt te kunnen bestrijden met dit document: genderideologie, euthanasie, abortus, geslachtsverandering etc.
- 
+
 Uiteraard zal de neoconservatieve katholiek ook dit heterodoxe document conservatief proberen te interpreteren, omdat ziende blindheid nu eenmaal een hardnekkige kwaal is.
 
 [^1]: [Brief aan Kardinaal Eijk](https://wkhp.nl/actueel/662ak0ycp217s0nfrg1pkdmrd9yc1d), Frans Bossink, Werkverband van Katholieke Homo-Pastores. (z.d.). Geraadpleegd op 9 april 2024.
-[^2]:  Fernández, V.M. (s.d.). Sáname con tu boca - El arte de besar. ISBN 950-724-510-395
-[^3]:  Hendro Munsterman | ND Katholiek. (9 april 2024). Kardinaal Eijk: katholieke 'wappies' moeten strijden tegen 'lhbt+-theorie’. Nieuwsbrief. Geraadpleegd op 9 april 2024.
-[^4]:  Declaration of the Dicastery for the Doctrine of the Faith “Dignitas Infinita” on Human Dignity. (8 april 2024). Geraadpleegd op 8 april 2024, integraal [hier](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2024/04/08/240408c.html) te lezen. 
-[^5]:  Hebreeën 9:15. (z.d.). Petrus Canisiusvertaling, 1939
-[^6]:  1 Timoteüs 3:15. (z.d.). Petrus Canisiusvertaling, 1939
-[^7]:  [Dignitatis Humanae](https://rkdocumenten.nl/toondocument/702-dignitatis-humanae-nl/). (z.d.). RK documenten. Geraadpleegd op 8 april 2024. 
+[^2]: Fernández, V.M. (s.d.). Sáname con tu boca - El arte de besar. ISBN 950-724-510-395
+[^3]: Hendro Munsterman | ND Katholiek. (9 april 2024). Kardinaal Eijk: katholieke 'wappies' moeten strijden tegen 'lhbt+-theorie’. Nieuwsbrief. Geraadpleegd op 9 april 2024.
+[^4]: Declaration of the Dicastery for the Doctrine of the Faith “Dignitas Infinita” on Human Dignity. (8 april 2024). Geraadpleegd op 8 april 2024, integraal [hier](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2024/04/08/240408c.html) te lezen. 
+[^5]: Hebreeën 9:15. (z.d.). Petrus Canisiusvertaling, 1939
+[^6]: 1 Timoteüs 3:15. (z.d.). Petrus Canisiusvertaling, 1939
+[^7]: [Dignitatis Humanae](https://rkdocumenten.nl/toondocument/702-dignitatis-humanae-nl/). (z.d.). RK documenten. Geraadpleegd op 8 april 2024. 
 [^8]:  Ordegrondwet, Grootoosten der Nederlanden, Orde van Vrijmetselaren in Nederland. Gepubliceerd op 18 december 1999, Geraadpleegd op 8 april 2024. Dit document kunt u [hier](https://www.vrijmetselarij.nl/Portals/0/documenten/Ordegrondwet.pdf) lezen.
 [^9]:  Romeinen 13:4-5. (z.d.). Petrus Canisiusvertaling, 1939
 [^10]:  Skojec, S. (20 maart 2015). [Getting it wrong about death penalty](https://onepeterfive.com/getting-it-wrong-about-the-death-penalty/). Geraadpleegd op 8 april 2024.
