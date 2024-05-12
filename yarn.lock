@@ -86,11 +86,6 @@ focus-trap@^6.9.4:
   dependencies:
     tabbable "^5.3.3"
 
-minisearch@^6.3.0:
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/minisearch/-/minisearch-6.3.0.tgz#985a2f1ca3c73c2d65af94f0616bfe57164b0b6b"
-  integrity sha512-ihFnidEeU8iXzcVHy74dhkxh/dn8Dc08ERl0xwoMMGqp4+LvRSCgicb+zGqWthVokQKvCSxITlh3P08OzdTYCQ==
-
 pagefind@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/pagefind/-/pagefind-1.1.0.tgz#6b758ca9cae28c3776b40db6a3b9478d2286c27b"
@@ -108,6 +103,6 @@ tabbable@^5.3.3:
   integrity sha512-QD9qKY3StfbZqWOPLp0++pOrAVb/HbUi5xCc8cUo4XjP19808oaMiDzn0leBY5mCespIBM0CIZePzZjgzR83kA==
 
 wavesurfer.js@^7.7.10:
-  version "7.7.13"
-  resolved "https://registry.yarnpkg.com/wavesurfer.js/-/wavesurfer.js-7.7.13.tgz#66a5388d25d952d653755067a7a744dce2449bb5"
-  integrity sha512-lQ5QkLa0Kzt5jkt4vP+K1RvsopaH5LssxZ3OArxaeetGYvQfot4Xq5UB8CRsJLXF0+hFWOmqc23WGhP64v2byQ==
+  version "7.7.14"
+  resolved "https://registry.yarnpkg.com/wavesurfer.js/-/wavesurfer.js-7.7.14.tgz#7cbb6f8644e27f3845a0c8a954f123e1a0a44afe"
+  integrity sha512-sbd48yHnOVDEbZwsnD3dWzBj4SF2q2rsPysmPE8spoR2XwKVkU/POtZg/L0wPi6ypqXb7brQLftSeOovJNToPQ==
