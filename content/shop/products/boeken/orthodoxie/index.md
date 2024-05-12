@@ -8,7 +8,7 @@ variants:
     - { id: 118, price: 19.99, format: paperback, isbn: 978-9-492161-32-1 }
 writers:
     - 'G.K. Chesterton'
-pages: 300
+pages: 205
 publisher: 'De Blauwe Tijger'
 language: Nederlands
 advertisable: true

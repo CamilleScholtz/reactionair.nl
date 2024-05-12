@@ -6,7 +6,7 @@ variants:
     - { id: 124, price: 28.99, format: hardcover, isbn: 978-9-493262-08-9 }
 writers:
     - 'Hillaire Belloc'
-pages: 200
+pages: 181
 publisher: 'De Blauwe Tijger'
 language: Nederlands
 advertisable: true

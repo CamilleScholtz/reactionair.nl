@@ -7,7 +7,7 @@ variants:
     - { id: 128, price: 23.99, format: paperback, isbn: 978-9-492161-36-9 }
 writers:
     - 'Alexandre del Valle'
-pages: 300
+pages: 234
 publisher: 'De Blauwe Tijger'
 language: Nederlands
 advertisable: true

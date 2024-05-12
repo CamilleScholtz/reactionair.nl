@@ -9,7 +9,7 @@ variants:
     - { id: 119, price: 18.99, format: paperback, isbn: 978-9-492161-86-4 }
 writers:
     - 'Giovanni Sartori'
-pages: 148
+pages: 107
 publisher: 'De Blauwe Tijger'
 language: Nederlands
 date: '2019-10-10'

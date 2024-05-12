@@ -7,7 +7,7 @@ variants:
     - { id: 126, price: 25.99, format: paperback, isbn: 978-9-493262-06-5 }
 writers:
     - 'Peter Borger'
-pages: 360
+pages: 328
 publisher: 'De Blauwe Tijger'
 language: Nederlands
 advertisable: true

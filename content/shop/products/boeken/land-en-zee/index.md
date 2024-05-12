@@ -9,7 +9,7 @@ variants:
     - { id: 117, price: 19.99, format: paperback, isbn: 978-9-492161-43-7 }
 writers:
     - 'Carl Schmitt'
-pages: 240
+pages: 153
 publisher: 'De Blauwe Tijger'
 language: Nederlands
 advertisable: true

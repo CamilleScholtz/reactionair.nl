@@ -3,14 +3,13 @@ id: 112
 title: 'Het tragisch levensgevoel'
 subtitle: 'In de mensen en de volkeren'
 front: f412bd64-fcd8-4022-ab22-41145d220e0e.jpg
-back: 4902132a-6977-4f71-9923-ea2dfce6a44a.jpg
 tags:
     - 'Robert Lemm'
 variants:
     - { id: 120, price: 24.99, format: hardcover, isbn: 978-9-492161-02-4 }
 writers:
     - 'Miguel de Unamuno'
-pages: 400
+pages: 392
 publisher: 'De Blauwe Tijger'
 language: Nederlands
 advertisable: true

@@ -13,7 +13,7 @@ variants:
     - { id: 114, price: 23.99, format: paperback, isbn: 978-9-493262-20-1 }
 writers:
     - 'Robert Lemm'
-pages: 300
+pages: 293
 publisher: 'De Blauwe Tijger'
 language: Nederlands
 advertisable: true
