@@ -1,6 +1,6 @@
 #home
 	#hero
-		gap: 50px
+		gap: 40px
 		grid-template-columns: 4fr 8fr 4fr
 		height: 600px
 		margin: 0 auto
@@ -8,16 +8,75 @@
 		max-width: 1280px
 		width: 90%
 
-		.mobile-featured
+		.mobile-only
 			display: none
 
 		.left .scroll,
 		.right
-			height: 600px
+			height: 620px
 
 		.left .scroll
 			gap: 40px
-			grid-template-rows: repeat(2, auto)
+			grid-template-rows: 1fr 1fr
+
+			.home-av
+				background: var(--accent-background-color)
+				overflow: hidden
+
+				&:hover
+					.book-container
+						.book
+							transform: rotateY(-30deg) rotateX(9deg) scale(0.9) rotateZ(-27deg) translate(-80px, -30px)
+
+						&:last-of-type
+							.book
+								transform: rotateY(-38deg) rotateX(9deg) scale(0.9) rotateZ(-10deg)
+
+				.text
+					text-align: center
+					padding-top: 20px
+					color: var(--text-color)
+					position: relative
+
+					&:before
+						color: var(--popup-background-color)
+						content: '“'
+						font-style: italic
+						font-weight: 700
+						pointer-events: none
+						position: absolute
+						font-size: 400px
+						top: 30px
+						left: -40px
+
+					h3
+						font-style: italic
+						font-size: 20px
+						font-weight: 400
+						float: right
+						margin: 0
+						margin-bottom: -9px
+						margin-right: 30px
+
+						.de
+							font-size: 16px
+
+				h2
+					font-family: 'IM Fell English SC', serif
+					font-weight: 400
+					font-size: 40px
+
+			.book-container
+				.book
+					position: absolute
+					right: -10px
+					top: 20px
+					transform: rotateY(-30deg) rotateX(3deg) scale(0.9) rotateZ(-30deg) translate(-80px, -30px)
+					transition: transform .6s
+
+				&:last-of-type
+					.book
+						transform: rotateY(-30deg) rotateX(3deg) scale(0.9) rotateZ(-10deg)
 
 		.right
 			.header
@@ -31,7 +90,15 @@
 
 			.articles
 				gap: 20px
-				grid-template-rows: repeat(4, 1fr)
+				grid-template-rows: 1fr 1fr
+
+				.micro-container
+					display: grid
+					gap: 10px
+					grid-template-rows: 1fr 1px 1fr
+
+					.divider
+						border-top: 1px dashed var(--border-color)
 
 	.intro
 		border-top: 1px dashed var(--border-color)

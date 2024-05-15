@@ -2,3 +2,21 @@
 	<div class="author">{{ delimit .article.Params.authors ", " " & " }}</div>
 	<h2>{{ .article.Title | safeHTML }}</h2>
 </div>
+
+<figure>
+	{{ $image  := .article.Resources.Get .article.Params.image }}
+	{{ $anchor := "Smart" }}
+	{{ if isset .article.Params "anchor" }}
+		{{ $anchor = .article.Params.anchor }}
+	{{ end }}
+
+	{{ $1x := $image.Fill (printf "78x104 webp %s" $anchor) }}
+	{{ $2x := $image.Fill (printf "155x208 webp %s" $anchor) }}
+
+	<img
+		srcset="{{ $1x.RelPermalink }} 1x,
+		        {{ $2x.RelPermalink }} 2x"
+		src="{{ $2x.RelPermalink }}"
+		alt="{{ .article.Title | safeHTML }}"
+		style="background: {{ index $1x.Colors 0 }};">
+</figure>

@@ -44,15 +44,31 @@
 				line-height: 33px
 				margin-top: 5px
 
+
 	&.small
-		box-shadow: unset !important
-		border-bottom: 1px dashed var(--border-color)
 		gap: 15px
 
 		.text
 			align-content: center
 			display: grid
 			padding-left: 20px
+
+			h2
+				font-size: 18px
+				display: -webkit-box
+				line-height: 25px
+				margin-top: 5px
+				overflow: hidden
+				-webkit-line-clamp: 2
+				-webkit-box-orient: vertical
+
+	&.micro
+		background: transparent
+		box-shadow: unset
+
+		.text
+			align-content: center
+			display: grid
 
 			h2
 				font-size: 18px

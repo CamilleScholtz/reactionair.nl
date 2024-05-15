@@ -22,33 +22,69 @@
 					});
 				}
 			}">
-				<div class="mobile-featured scroll-item">
-					{{ partial "article.html" (dict
+				<div class="mobile-only scroll-item">
+					{{ partialCached "article.html" (dict
 						"article" (index $articles 0)
 						"size"    "large"
-					) }}
+					) "large" (index $articles 0).Params.id }}
 				</div>
 
-				<div class="scroll-item">
-					{{ partial "article.html" (dict
+				<div class="mobile-only scroll-item">
+					{{ partialCached "article.html" (dict
 						"article" (index $articles 1)
 						"size"    "large"
-					) }}
+					) "large" (index $articles 1).Params.id }}
 				</div>
 
-				<div class="scroll-item">
-					{{ partial "article.html" (dict
+				<div class="mobile-only scroll-item">
+					{{ partialCached "article.html" (dict
 						"article" (index $articles 2)
 						"size"    "large"
-					) }}
+					) "large" (index $articles 2).Params.id }}
 				</div>
+
+				<div class="desktop-only">
+					{{ partialCached "article.html" (dict
+						"article" (index $articles 1)
+						"size"    "large"
+					) "large" (index $articles 1).Params.id }}
+				</div>
+
+				<a href="/winkel/producten/boeken/" class="home-av desktop-only">
+					<div class="text">
+						<h3><span class="de">De</span> Reactionair</h3>
+						<h2>Boekenwinkel</h2>
+					</div>
+
+					<div class="books">
+						{{ $book := index (where (site.GetPage "shop/products/boeken").RegularPages ".Title" "Terug naar de oorsprong") 0 }}
+
+						{{ partialCached "shop/products/book.html" (dict
+							"size"    "small"
+							"title"   $book.Title
+							"pages"   $book.Params.pages
+							"front"   ($book.Resources.Get $book.Params.front)
+						) "small" $book.File.UniqueID }}
+
+						{{ $book := index (where (site.GetPage "shop/products/boeken").RegularPages ".Title" site.Params.advert) 0 }}
+
+						{{ partialCached "shop/products/book.html" (dict
+							"size"    "small"
+							"title"   $book.Title
+							"pages"   $book.Params.pages
+							"front"   ($book.Resources.Get $book.Params.front)
+						) "small" $book.File.UniqueID }}
+					</div>
+				</a>
 			</div>
 		</section>
 
-		{{ partial "article.html" (dict
-			"article" (index $articles 0)
-			"size"    "featured"
-		) }}
+		<div class="desktop-only">
+			{{ partial "article.html" (dict
+				"article" (index $articles 0)
+				"size"    "featured"
+			) }}
+		</div>
 
 		<section class="right">
 			<div class="header">
@@ -56,25 +92,54 @@
 			</div>
 
 			<div class="articles">
-				{{ partialCached "article.html" (dict
-					"article" (index $articles 3)
-					"size"    "small"
-				) "small" (index $articles 3).Params.id }}
+				<div class="mobile-only">
+					{{ partialCached "article.html" (dict
+						"article" (index $articles 3)
+						"size"    "small"
+					) "small" (index $articles 3).Params.id }}
+				</div>
 
-				{{ partialCached "article.html" (dict
-					"article" (index $articles 4)
-					"size"    "small"
-				) "small" (index $articles 4).Params.id }}
+				<div class="mobile-only">
+					{{ partialCached "article.html" (dict
+						"article" (index $articles 4)
+						"size"    "small"
+					) "small" (index $articles 4).Params.id }}
+				</div>
 
-				{{ partialCached "article.html" (dict
-					"article" (index $articles 5)
-					"size"    "small"
-				) "small" (index $articles 5).Params.id }}
+				<div class="mobile-only">
+					{{ partialCached "article.html" (dict
+						"article" (index $articles 5)
+						"size"    "small"
+					) "small" (index $articles 5).Params.id }}
+				</div>
 
-				{{ partialCached "article.html" (dict
-					"article" (index $articles 6)
-					"size"    "small"
-				) "small" (index $articles 6).Params.id }}
+				<div class="mobile-only">
+					{{ partialCached "article.html" (dict
+						"article" (index $articles 6)
+						"size"    "small"
+					) "small" (index $articles 6).Params.id }}
+				</div>
+
+				<div class="desktop-only">
+					{{ partialCached "article.html" (dict
+						"article" (index $articles 2)
+						"size"    "large"
+					) "large" (index $articles 2).Params.id }}
+				</div>
+
+				<div class="micro-container desktop-only">
+					{{ partialCached "article.html" (dict
+						"article" (index $articles 3)
+						"size"    "micro"
+					) "micro" (index $articles 3).Params.id }}
+
+					<div class="divider"></div>
+
+					{{ partialCached "article.html" (dict
+						"article" (index $articles 4)
+						"size"    "micro"
+					) "micro" (index $articles 4).Params.id }}
+				</div>
 			</div>
 		</section>
 	</section>
@@ -124,7 +189,7 @@
 
 			<span class="pipe">•</span>
 
-			<a href="/winkel/producten/boeken">Winkel</a>
+			<a href="/winkel/producten/boeken">Boekenwinkel</a>
 			
 			<span class="pipe">•</span>
 			
@@ -152,11 +217,9 @@
 	<section class="av">
 		{{ $book := index (where (.GetPage "shop/products/boeken").RegularPages ".Title" site.Params.advert) 0 }}
 
-		{{ with $book }}
-			{{ partialCached "shop/advert.html" (dict
-				"book" .
-			) .Params.id }}
-		{{ end }}
+		{{ partialCached "shop/advert.html" (dict
+			"book" $book
+		) $book.Params.id }}
 	</section>
 
 	<section>

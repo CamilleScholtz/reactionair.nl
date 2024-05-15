@@ -65,14 +65,16 @@
 			<section class="content" x-data="{ expanded: false }">
 				{{ index (split .Content "</p>") 0 | safeHTML }}</p>
 
-				<span
-					class="more"
-					data-pagefind-ignore
-					x-show="!expanded"
-					@click="expanded = true"
-				>
-					Lees meer...
-				</span>
+				{{ if gt (len (split .Content "</p")) 2 }}
+					<span
+						class="more"
+						data-pagefind-ignore
+						x-show="!expanded"
+						@click="expanded = true"
+					>
+						Lees meer...
+					</span>
+				{{ end }}
 
 				<div x-show="expanded" x-collapse>
 					{{ range $index, $element := split .Content "</p>" }}

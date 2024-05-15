@@ -15,7 +15,7 @@ pluralizeListTitles  = false
 
 [params]
 	api    = "http://127.0.0.1:8000"
-	advert = "Desengaño"
+	advert = "De seksuele revolutie"
 
 [taxonomies]
 	author    = "authors"
