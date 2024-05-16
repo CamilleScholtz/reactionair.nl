@@ -17,10 +17,6 @@
 
 .cart-page
 	display: grid
-	grid-gap: 20px
-	grid-template-columns: var(--avg-width) auto
-	width: 90% !important
-	max-width: 1280px !important
 
 	.cart-empty
 		margin-top: 100px
@@ -29,12 +25,37 @@
 		a
 			font-style: italic
 
+	#products
+		gap: 0
+		padding: 0
+
+		.product
+			grid-template-columns: 100px auto
+			padding: 0px
+
+			.book-container
+				transform: scale(0.5)
+
+			.text
+				display: grid
+				gap: 10px
+				width: 100%
+
+				.cart-form
+					align-items: center
+					display: flex
+					flex-direction: row-reverse
+					gap: 20px
+
+					.price
+						margin: 0
+
 	.info
 		.prices
-			text-align: right
 			background: var(--accent-background-color)
 			padding: 20px
 			margin-bottom: 10px
+			text-align: right
 
 			.shipping,
 			.total,

@@ -112,7 +112,7 @@
 		<span class="filters-container">
 			{{ range $variants }}
 				<span
-]					:class="filter === {{ .id }} ? 'active' : ''"
+					:class="filter === {{ .id }} ? 'active' : ''"
 					@click="filter = {{ .id }}"
 				>
 					{{ .format | title }}
