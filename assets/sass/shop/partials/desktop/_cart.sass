@@ -7,11 +7,21 @@
 	#products
 		.product
 			.text
+				display: grid
+				gap: 10px
 				grid-template-columns: 1fr 1fr
 				justify-content: space-between
+				width: 100%
 
 				.cart-form
+					align-items: center
+					display: flex
+					flex-direction: row-reverse
+					gap: 20px
 					justify-content: end
+
+					.price
+						margin: 0
 
 	.info
 		padding-top: 50px
