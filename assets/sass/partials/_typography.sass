@@ -1,14 +1,37 @@
 @font-face
 	font-family: 'Caps'
+	font-style: normal
+	font-weight: 400
+	font-display: swap
 	src: url('/fonts/caps.woff2') format('woff2')
+
+@font-face
+	font-family: 'IM FELL English'
+	font-style: normal
+	font-weight: 400
+	font-display: swap
+	src: url('/fonts/im-fell-english-v14-latin-regular.woff2') format('woff2')
+
+@font-face
+	font-family: 'IM FELL English'
+	font-style: italic
+	font-weight: 400
+	font-display: swap
+	src: url('/fonts/im-fell-english-v14-latin-italic.woff2') format('woff2')
+
+@font-face
+	font-family: 'IM FELL English SC'
+	font-display: swap
+	src: url('/fonts/im-fell-english-sc-v16-latin-regular.woff2') format('woff2')
 
 html,
 body
+	color: var(--text-color)
+	font-family: 'IM FELL English', serif
+	font-optical-sizing: auto
+	text-rendering: optimizeLegibility
 	-webkit-font-smoothing: antialiased
 	-moz-osx-font-smoothing: grayscale
-	color: var(--text-color)
-	font-family: 'IM Fell English', serif
-	text-rendering: optimizeLegibility
 
 h1
 	font-weight: 400
