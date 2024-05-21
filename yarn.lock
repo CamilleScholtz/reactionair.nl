@@ -3,32 +3,32 @@
 
 
 "@alpinejs/anchor@^3.13.8":
-  version "3.13.10"
-  resolved "https://registry.yarnpkg.com/@alpinejs/anchor/-/anchor-3.13.10.tgz#07c68c9ed370d0404d17c89da7cf7a6ecc996d6b"
-  integrity sha512-a1teYVqJeKJEztP2XXikI2AKgUIIl/+0y4Kltnjniq+U6mMgVTXcu6XDRmaySsH98XR/dzDCh1v8EinVqChjMw==
+  version "3.14.0"
+  resolved "https://registry.yarnpkg.com/@alpinejs/anchor/-/anchor-3.14.0.tgz#003cfde64ac2c2a01bf99f837dad58278882c968"
+  integrity sha512-qTEOfzFexdb/w19XW9i+qfiHUDKXfoO+WQIsWNY8sKOZdiVL1a/s5vvQ2B0Urv8E45dhwU42svgWgJ5DL+GEEg==
 
 "@alpinejs/collapse@^3.13.8":
-  version "3.13.10"
-  resolved "https://registry.yarnpkg.com/@alpinejs/collapse/-/collapse-3.13.10.tgz#e58d6b5f4a3ef146d9eef863b5bf456fef6ef504"
-  integrity sha512-D4CRrwXdhuJdQX8gJvYBajMj90I85huf395eB8E+PfGy2QQZOxZxd92TWzaMLnMQlFHPkZ+chZmFuewjZ7y52Q==
+  version "3.14.0"
+  resolved "https://registry.yarnpkg.com/@alpinejs/collapse/-/collapse-3.14.0.tgz#855622a49684f7d6acc586928e1b112dcc21a711"
+  integrity sha512-KB/rS3sGxDiV4bk9/I/96rxbWdwcD+MhxPleK1+/Ky0ptFuU+Zgf5YA3Biy5cr8sGyIER7fROCjSYR0TbZwvLA==
 
 "@alpinejs/focus@^3.13.8":
-  version "3.13.10"
-  resolved "https://registry.yarnpkg.com/@alpinejs/focus/-/focus-3.13.10.tgz#fdc36ad9dffbacc26bf41ff4ea54a37575401ae3"
-  integrity sha512-4W4AvVtqq3Ozosa+PEopIJqAIoyWOll24t/LClNmQPPl3exsns84sfN+V5SVPLfbBH+uoaCkxEq2rae6U7/MBA==
+  version "3.14.0"
+  resolved "https://registry.yarnpkg.com/@alpinejs/focus/-/focus-3.14.0.tgz#21d3333a494ad49448920d6c75a54040f2b84984"
+  integrity sha512-dMjvoK43Du9s35sAPf5DavwYnG7jRD3rVzhi9UUWbN5eS3L+BvCABH/mtBci71gWpTj/2cCKxIs7hZu1V4saAQ==
   dependencies:
     focus-trap "^6.9.4"
     tabbable "^5.3.3"
 
 "@alpinejs/mask@^3.13.8":
-  version "3.13.10"
-  resolved "https://registry.yarnpkg.com/@alpinejs/mask/-/mask-3.13.10.tgz#d74ec08bd9c1676aa5e9ec38cccc855d0143ec62"
-  integrity sha512-k95Kq6hwqnkyDZUHnySVPZXAi+ji3GLwdXf4nTSWy6HACG5hj51Qk9h7kJzgZ9yTGdBoY0Qg7s9PAEq6ET/e5A==
+  version "3.14.0"
+  resolved "https://registry.yarnpkg.com/@alpinejs/mask/-/mask-3.14.0.tgz#9ea9dbffe0b2b0063ab2881918b992860ef99ca2"
+  integrity sha512-ObgjFH/0Hh2h7yIDMMuby4D957iJ+xnWE7p89T5JrN2Ao9Ne+hj5/2rlrCjYeKRrQiECIwsJo0yra+s5KIdLIg==
 
 "@alpinejs/persist@^3.13.8":
-  version "3.13.10"
-  resolved "https://registry.yarnpkg.com/@alpinejs/persist/-/persist-3.13.10.tgz#6d5b32607f2c47a2ed432a2d49c88a575a53a3e7"
-  integrity sha512-rIG12KzdKdwO9XaosWtmoaOeEJWUNM9M/gp7CGOGnRc1Qnw2DVP2bVk3jsAF2ctLpXLdHw3MVT8UaB2bS8kg9Q==
+  version "3.14.0"
+  resolved "https://registry.yarnpkg.com/@alpinejs/persist/-/persist-3.14.0.tgz#81322e7f8a105974dc234a4b1937d3cdbb9792af"
+  integrity sha512-yv4CKzoTW+jmLeZMuRr/iuEJyviIvA6BKQ1PvonzdIzmHyQtL8psCwy1vtHC6eV/H7cBEaCnnedqOjMZopQb5w==
 
 "@pagefind/darwin-arm64@1.1.0":
   version "1.1.0"
@@ -68,9 +68,9 @@
   integrity sha512-oJ4F3TnvpXaQwZJNF3ZK+kLPHKarDmJjJ6jyzVNDKH9md1dptjC7lWR//jrGuLdek/U6iltWxqAnYOu8gCiOvA==
 
 alpinejs@^3.13.8:
-  version "3.13.10"
-  resolved "https://registry.yarnpkg.com/alpinejs/-/alpinejs-3.13.10.tgz#76aacd24c79d03b568aff28a8c12205aa9906d0c"
-  integrity sha512-86RB307VWICex0vG15Eq0x058cNNsvS57ohrjN6n/TJAVSFV+zXOK/E34nNHDHc6Poq+yTNCLqEzPqEkRBTMRQ==
+  version "3.14.0"
+  resolved "https://registry.yarnpkg.com/alpinejs/-/alpinejs-3.14.0.tgz#f882fa6dcd524f30f2383949d2c0ed2fdb0c9750"
+  integrity sha512-YCWF95PMJqePe9ll6KMyDt/nLhh2R7RhqBf4loEmLzIskcHque4Br/9UgAa6cw13H0Cm3FM9e1hzDwP5z5wlDA==
   dependencies:
     "@vue/reactivity" "~3.1.1"
 
@@ -103,6 +103,6 @@ tabbable@^5.3.3:
   integrity sha512-QD9qKY3StfbZqWOPLp0++pOrAVb/HbUi5xCc8cUo4XjP19808oaMiDzn0leBY5mCespIBM0CIZePzZjgzR83kA==
 
 wavesurfer.js@^7.7.10:
-  version "7.7.14"
-  resolved "https://registry.yarnpkg.com/wavesurfer.js/-/wavesurfer.js-7.7.14.tgz#7cbb6f8644e27f3845a0c8a954f123e1a0a44afe"
-  integrity sha512-sbd48yHnOVDEbZwsnD3dWzBj4SF2q2rsPysmPE8spoR2XwKVkU/POtZg/L0wPi6ypqXb7brQLftSeOovJNToPQ==
+  version "7.7.15"
+  resolved "https://registry.yarnpkg.com/wavesurfer.js/-/wavesurfer.js-7.7.15.tgz#5a7bfc535561af96a08913220b2ed38ec7cd7099"
+  integrity sha512-qJE7sZ5qnFG9wBtU9+jBpYn7faWXZHEz1I25Xnf4EhGqqS2rFj/hxTtbIaETynalPajxC1xXd/9TnDHWO+mARA==
