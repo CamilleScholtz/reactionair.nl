@@ -15,7 +15,11 @@
 	<div>
 		<h3>Dit artikel in vogelvlucht:</h3>
 
-		<div class="overlay" x-show="!expanded"></div>
+		<div
+			class="overlay"
+			x-show="!expanded"
+			x-transition.opacity
+		></div>
 
 		{{ $.Page.Params.summary | markdownify }}
 	</div>
