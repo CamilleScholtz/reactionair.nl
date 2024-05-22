@@ -41,7 +41,7 @@
 			{{ $imageOpen   := resources.Get "images/newsletter/open.webp" }}
 
 			<img
-				:src="!send ? '{{ ($imageOpen.Fit "560x692 webp").RelPermalink }}' : '{{ ($imageClosed.Fit "560x692 webp").RelPermalink }}'"
+				:src="!send ? '{{ ($imageOpen.Fit "560x692 webp").Permalink }}' : '{{ ($imageClosed.Fit "560x692 webp").Permalink }}'"
 				loading="lazy"
 				alt="Envelop"
 				class="cover"
