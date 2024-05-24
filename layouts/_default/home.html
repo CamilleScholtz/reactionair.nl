@@ -43,13 +43,6 @@
 					) "large" (index $articles 2).Params.id }}
 				</div>
 
-				<div class="desktop-only">
-					{{ partialCached "article.html" (dict
-						"article" (index $articles 1)
-						"size"    "large"
-					) "large" (index $articles 1).Params.id }}
-				</div>
-
 				<a href="/winkel/producten/boeken/" class="home-av desktop-only">
 					<div class="text">
 						<h3><span class="de">De</span> Reactionair</h3>
@@ -76,6 +69,13 @@
 						) "small" $book.File.UniqueID }}
 					</div>
 				</a>
+
+				<div class="desktop-only">
+					{{ partialCached "article.html" (dict
+						"article" (index $articles 1)
+						"size"    "large"
+					) "large" (index $articles 1).Params.id }}
+				</div>
 			</div>
 		</section>
 
