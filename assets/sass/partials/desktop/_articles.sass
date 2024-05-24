@@ -9,7 +9,7 @@
 			height: 100%
 
 	&.featured
-		height: calc(700px - 80px)
+		height: 620px
 		gap: 20px
 		grid-template-rows: min-content auto
 
@@ -36,14 +36,14 @@
 				margin-bottom: 10px
 
 	&.large
-		height: calc((600px / 2) - 20px - 0.5px)
+		height: calc((620px / 2) - 20px)
 
 	&.small
 		grid-template-columns: auto 25%
-		height: calc((569px / 4) + 10px - 35px)
+		height: calc((620px - 39px - ((620px / 2) + 20px)) / 2 - 10px - 1px)
 
 	&.micro
-		height: calc((569px / 4) + 10px - 35px)
+		height: calc((620px - 39px - ((620px / 2) + 20px)) / 2 - 10px - 1px)
 
 		&:hover
 			box-shadow: none

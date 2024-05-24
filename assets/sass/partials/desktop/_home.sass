@@ -2,7 +2,7 @@
 	#hero
 		gap: 40px
 		grid-template-columns: 4fr 8fr 4fr
-		height: 600px
+		height: 620px
 		margin: 0 auto
 		margin-top: 80px !important
 		max-width: 1280px
@@ -10,11 +10,11 @@
 
 		.left .scroll,
 		.right
-			height: 640px
+			height: 620px
 
 		.left .scroll
 			gap: 40px
-			grid-template-rows: 1fr 1fr
+			grid-template-rows: auto calc((620px / 2) - 20px)
 
 			.home-av
 				background: var(--accent-background-color)
@@ -87,7 +87,7 @@
 
 			.articles
 				gap: 20px
-				grid-template-rows: 1fr 1fr
+				grid-template-rows: calc((620px / 2) - 20px) auto
 
 				.micro-container
 					display: grid
