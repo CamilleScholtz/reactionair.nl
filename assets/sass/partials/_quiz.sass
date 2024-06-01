@@ -104,7 +104,11 @@
 						background: var(--accent-background-color)
 
 	.loading
-		overflow: hidden
+		display: grid
+		grid-template-rows: min-content 1fr
+				margin-top: 100pxoverflow: hidden
+
+		text-align: center
 
 		@keyframes spin
 			from
@@ -114,8 +118,10 @@
 
 		.spinner
 			animation: spin 2s linear infinite
+			display: inline-block
 			color: var(--accent-color)
 			font-size: 80px
+			margin: 0 auto
 			padding-right: 5px
 			padding-top: 40px
 
