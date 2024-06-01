@@ -1,0 +1,274 @@
+.quiz-page
+	small
+		font-family: 'IM FELL English SC', serif
+		font-size: 16px
+		font-style: normal
+		letter-spacing: 0.1px
+		text-transform: lowercase
+
+	.start
+		>small
+			display: block
+			margin-bottom: -30px
+			text-align: center
+		h1
+			font-size: 48px
+			font-style: italic
+			margin-top: 40px
+			text-align: center
+			text-transform: capitalize
+
+		>p
+			margin: 0 auto
+			margin-top: 20px
+			text-align: justify
+
+		.results
+			background: var(--accent-background-color)
+			transform: scale(0.7)
+			transform-origin: 50% 0
+			margin-top: 50px
+			padding: 40px
+			pointer-events: none
+			position: relative
+			mask: linear-gradient(to top, transparent 0%, black 100%)
+			overflow: hidden
+			max-height: 440px
+			z-index: -1
+
+			.main
+				p
+					display: -webkit-box
+					overflow: hidden
+					text-overflow: ellipsis
+					-webkit-box-orient: vertical
+					-webkit-line-clamp: 3
+
+		.paginator
+			margin-top: -270px
+			z-index: 10
+
+			button
+				box-shadow: 0 0 40px 15px var(--background-color)
+				z-index: 10
+
+	.questions
+		.question
+			text-align: center
+
+			h2
+				font-size: 28px
+				font-style: italic
+				line-height: 40px
+				margin-top: 10px
+				text-wrap: balance
+
+		.paginator
+			.submit
+				margin-left: 4px
+				transform: translateY(-2px)
+
+		ul
+			list-style: lower-alpha
+			margin-top: 30px
+
+			li
+				cursor: pointer
+				line-height: 25px
+				margin-bottom: 10px
+				padding: 10px 10px 10px 5px
+				position: relative
+
+				&::before
+					content: ''
+					display: block
+					height: 100%
+					left: -40px
+					position: absolute
+					top: 0px
+					width: 40px
+					z-index: -1
+
+				&::marker
+					color: var(--accent-color)
+					font-family: 'IM FELL English SC', serif
+
+				&.custom
+					input
+						margin-top: 10px
+
+				&.selected
+					background: var(--accent-background-color)
+
+					&::before
+						background: var(--accent-background-color)
+
+	.loading
+		overflow: hidden
+
+		@keyframes spin
+			from
+				transform: rotate(0deg)
+			to
+				transform: rotate(360deg)
+
+		.spinner
+			animation: spin 2s linear infinite
+			color: var(--accent-color)
+			font-size: 80px
+			padding-right: 5px
+			padding-top: 40px
+
+		p
+			font-style: italic
+
+	.results
+		small
+			color: var(--text-color)
+
+		meter
+			display: block
+			height: 4px
+			margin: 0 auto
+			margin-top: -12px
+			position: relative
+			z-index: -1
+
+			&.safari
+				appearance: none
+
+			&::-webkit-meter-bar
+				background: var(--accent-background-color)
+				border: none
+				outline: none
+
+			&::-webkit-meter-optimum-value
+				background: var(--accent-color)
+				border: none
+				outline: none
+
+		.main
+			border-bottom: 1px dashed var(--border-color)
+			margin-bottom: 20px
+			padding-bottom: 50px
+			text-align: center
+
+			h2
+				font-size: 44px
+				font-style: italic
+				margin-top: 20px
+				text-transform: capitalize
+
+			meter
+				width: 90%
+				max-width: 500px
+
+			span
+				background: var(--background-color)
+				box-shadow: 0 0 20px 15px var(--background-color)
+				display: inline-block
+				margin-top: 20px
+				padding: 1px
+
+			p
+				margin-top: 40px
+				text-align: justify
+
+		.alternatives
+			border-bottom: 1px dashed var(--border-color)
+			margin-bottom: 50px
+			padding-bottom: 60px
+			text-align: center
+
+			.grid
+				display: grid
+				gap: 20px
+				justify-items: center
+				text-align: center
+
+				h3
+					font-size: 24px
+					font-style: italic
+					font-weight: 400
+					line-height: 0px
+					text-transform: capitalize
+
+				span
+					background: var(--background-color)
+					box-shadow: 0 0 20px 15px var(--background-color)
+					display: inline-block
+					padding: 1px
+
+				meter
+					width: 200px
+
+				p
+					font-size: 15px
+					margin: 0 auto
+					margin-top: 20px
+					text-wrap: balance
+					width: 80%
+
+		.info
+			position: relative
+
+			&.locked
+				&::before
+					-webkit-backdrop-filter: blur(6px)
+					backdrop-filter: blur(6px)
+					content: ''
+					height: calc(100% + 40px)
+					left: 0
+					padding-bottom: 0px
+					position: absolute
+					top: -20px
+					width: 100%
+					z-index: 1000
+
+				.lock
+					background: var(--popup-background-color)
+					color: var(--accent-color)
+					left: 50%
+					max-width: 300px
+					padding: 20px
+					position: absolute
+					top: 50%
+					transform: translate(-50%, -50%)
+					width: 100%
+					z-index: 1001
+					text-align: center
+
+					input
+						margin-top: 20px
+						width: 100%
+
+					button
+						background: var(--popup-border-color)
+
+
+			small
+				display: block
+				margin-top: 80px
+				margin-bottom: -10px
+				text-align: center
+
+				&:first-of-type
+					margin-top: -30px
+
+			.list
+				display: grid
+				gap: 20px
+				text-align: center
+
+				h3
+					font-size: 24px
+					font-style: italic
+					font-weight: 400
+					line-height: 0px
+					text-align: center
+
+				p
+					font-size: 15px
+					text-wrap: balance
+
+

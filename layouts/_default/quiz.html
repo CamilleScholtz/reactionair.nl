@@ -1,0 +1,480 @@
+{{ define "main" }}
+	<article
+		class="quiz-page"
+		x-data="{
+			started: false,
+			example: 0,
+			current: 0,
+			loading: false,
+			locked:  $persist(true),
+			results: $persist(null),
+			safari:  false,
+
+			examples: [
+				{
+					name: 'Religieus traditionalist',
+					description: 'Religieus traditionalisme wordt gekenmerkt door een diepgeworteld geloof in traditionele religieuze waarden en leerstellingen, waarbij de werkelijkheid wordt gezien als een spirituele beproeving die een hogere waarheid moet onthullen. Het houdt vast aan theocratische bestuursvormen en morele richtlijnen die door religieuze principes zijn bepaald.',
+				},
+				{
+					name: 'Seculier liberaal',
+					description: 'Seculier liberalisme legt de nadruk op individuele vrijheid, gelijkheid en rationaliteit, waarbij de werkelijkheid wordt gezien als een product van menselijke rede en wetenschappelijke vooruitgang. Het streeft naar een seculiere, democratische bestuursvorm en universele mensenrechten.',
+				},
+				{
+					name: 'Postmodernist',
+					description: 'Postmodernisme benadrukt de relativiteit en fragmentatie van kennis en waarheid, waarbij de werkelijkheid wordt gezien als een sociaal geconstrueerd fenomeen dat wordt beïnvloed door macht en ideologie. Het streeft naar de deconstructie van dominante discoursen en het erkennen van diversiteit en pluralisme.',
+				},
+				{
+					name: 'Marxist',
+					description: 'Marxisme ziet de werkelijkheid als een product van economische structuren en klassenstrijd, waarbij de geschiedenis wordt gezien als een verhaal van materiële vooruitgang en sociale revolutie. Het streeft naar de afschaffing van kapitalisme en de oprichting van een klasseloze, communistische samenleving.',
+				},
+				{
+					name: 'Fascist',
+					description: 'Fascisme ziet de werkelijkheid als een hiërarchische orde van ras en natie, waarbij de geschiedenis wordt gezien als een verhaal van strijd en overwinning. Het streeft naar autoritaire, nationalistische bestuursvormen en de dominantie van de eigen groep.',
+				}
+			],
+
+			questions: [
+				{
+					question: 'Hoe zie jij de geschiedenis van de mensheid?',
+					answers: [
+						'Een verhaal van voortdurende vooruitgang en verbetering.',
+						'Een golfvorm met perioden van vooruitgang en achteruitgang.',
+						'Een aaneenschakeling van willekeurige gebeurtenissen, zonder richting.',
+						'Een verhaal van neergang, als gevolg van spiritueel verval.'
+					],
+					answer: {}
+				},
+				{
+					question: 'Hoe zie je de zin en het doel van het leven?',
+					answers: [
+						'Streven naar persoonlijk geluk en voldoening.',
+						'Maatschappelijke structuren uitdagen en veranderen voor een betere toekomst.',
+						'Religieuze leerstellingen volgen en spirituele verlichting zoeken.',
+						'Het universum en zijn mysteries ontdekken en onderzoeken.'
+					],
+					answer: {}
+				},
+				{
+					question: 'Hoe kan de hoogste vorm van waarheid worden vastgesteld?',
+					answers: [
+						'Door middel van rede en wetenschappelijk bewijs.',
+						'Deze kan worden onthuld door religieus of spiritueel inzicht.',
+						'Waarheid is een sociale constructie beïnvloed door macht en ideologie.',
+						'Waarheid is subjectief en afhankelijk van individuele perceptie en ervaring.'
+					],
+					answer: {}
+				},
+				{
+					question: 'Hoe zie jij de rol van lijden in het leven?',
+					answers: [
+						'Een onvermijdelijk deel van het leven dat geminimaliseerd moet worden.',
+						'En test of beproeving met een spirituele of morele betekenis.',
+						'Een gevolg van maatschappelijke en structurele ongelijkheden die aangepakt moeten worden.',
+						'Lijden is betekenisloos.'
+					],
+					answer: {}
+				},
+				{
+					question: 'Wat is je overtuiging over de aard van de werkelijkheid?',
+					answers: [
+						'Een subjectieve constructie die afhankelijk is van individuele perceptie en ervaring.',
+						'Iets wat we kunnen waarnemen met onze zintuigen en kunnen begrijpen met behulp van de wetenschap.',
+						'Als een illusie die moet worden doorbroken om de ware aard van het universum te begrijpen.',
+						'De werkelijkheid is onkenbaar.'
+					],
+					answer: {}
+				},
+				{
+					question: 'Hoe zie jij het lot van de mens?',
+					answers: [
+						'Mensen hebben de macht om hun eigen lot vorm te geven door middel van vrije wil.',
+						'Het menselijke lot is voorbestemd door een goddelijk plan of lotsbestemming.',
+						'Als iets dat onzeker is en wordt gevormd door toeval en omstandigheden.',
+						'Als iets dat vast staat, bepaald door genetische, sociale en economische factoren.'
+					],
+					answer: {}
+				},
+				{
+					question: 'Wat zijn volgens jou morele waarden?',
+					answers: [
+						'Universeel en absoluut, van toepassing op alle mensen op elk moment.',
+						'Gegeven door een hogere macht en moeten dienovereenkomstig worden gevolgd.',
+						'Relatief en kunnen variëren op basis van cultuur en context.',
+						'Instrumenten om macht te behouden en kunnen worden uitgedaagd en geherdefinieerd.'
+					],
+					answer: {}
+				},
+				{
+					question: 'Wat is de ideale bestuursvorm?',
+					answers: [
+						'Een democratie waar alle burgers een stem hebben in de besluitvorming.',
+						'Een theocratie waar leiders worden geleid door religieuze principes.',
+						'Een autocratie waar een sterke leider beslissingen neemt in het belang van de staat.',
+						'Een collectief leiderschap dat de arbeidersklasse en gemarginaliseerde groepen vertegenwoordigt.'
+					],
+					answer: {}
+				},
+				{
+					question: 'Hoe beschouw je het begrip rechtvaardigheid?',
+					answers: [
+						'Eerlijkheid en gelijkheid voor de wet.',
+						'Morele deugdzaamheid en het bestraffen van zonden.',
+						'Het rechtzetten van historisch en sociaal onrecht.',
+						'Een constructie die door machthebbers wordt gebruikt om controle te behouden.'
+					],
+					answer: {}
+				},
+				{
+					question: 'Wat is je mening over de vrijheid van meningsuiting?',
+					answers: [
+						'Een fundamenteel recht dat ten alle tijden worden beschermd.',
+						'Iets dat kan worden beperkt om schadelijke ideeën te voorkomen.',
+						'Iets dat moet moet worden beperkt om de gevoelens van anderen te beschermen.',
+						'Een voorrecht dat moet worden verdiend door verantwoordelijk gedrag.'
+					],
+					answer: {}
+				},
+				{
+					question: 'Wanneer is geweld gerechtvaardigd?',
+					answers: [
+						'Nooit, geweld moet altijd worden vermeden.',
+						'Als het nodig is om jezelf of anderen te beschermen.',
+						'Als het een politiek doel dient of een revolutie teweegbrengt.',
+						'Als het de enige manier is om verandering te bewerkstelligen.'
+					],
+					answer: {}
+				},
+				{
+					question: 'Wat is je houding ten opzichte van technologische vooruitgang?',
+					answers: [
+						'Een positieve ontwikkeling die de mensheid vooruit helpt.',
+						'Iets dat zowel positieve als negatieve gevolgen met zich mee brent.',
+						'Een bedreiging voor de mensheid die moet worden beperkt.',
+						'Een onvermijdelijkheid die moet worden omarmd.'
+					],
+					answer: {},
+				}
+			],
+
+			init() {
+				this.questions = this.questions.sort(() => Math.random() - 0.5);
+				this.questions.forEach(question => {
+					question.answers = question.answers.sort(() => Math.random() - 0.5);
+				});
+
+				if (this.results) {
+					this.started = true;
+				}
+
+				if (navigator.userAgent.includes('AppleWebKit/')
+					&& !navigator.userAgent.includes('Chrome/')
+					&& !navigator.userAgent.includes('Chromium/')) {
+					this.safari = true;
+				}
+
+				const interval = setInterval(() => {
+					if (this.started) {
+						return clearInterval(interval);
+					}
+
+					this.example = (this.example + 1) % this.examples.length;
+				}, 2000);
+			},
+
+			next() {
+				if (this.current < this.questions.length - 1) {
+					this.current++;
+				} else {
+					this.loading = true;
+
+					const answers = this.questions.map(question => {
+						return {
+							question: question.question,
+							answer:   question.answer.text,
+						};
+					}).filter(answer => answer.answer);
+
+					fetch('{{ .Site.Params.api }}/api/quiz', {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json'
+						},
+						body: JSON.stringify({answers: answers})
+					})
+						.then(response => response.json())
+						.then(data => {
+							console.log(data);
+							this.results = data;
+							this.loading = false;
+						});
+				}
+			}
+		}"
+	>
+		<div class="start" x-show="!started">
+			<small>Introductie</small>
+			<h1>Wereldbeeld test</h1>
+
+			<p>Benieuwd naar je politieke, religieuze en ideologische overtuigingen? Onze test gebruikt AI om je antwoorden te analyseren en geeft je een persoonlijk inzicht.<p>
+			<p>Als de standaardantwoorden niet goed passen, kun je je eigen antwoorden geven.</p>
+
+			<div class="results">
+				<div class="main">
+					<small>Jouw wereldbeeld</small>
+
+					<h2 x-text="examples[example].name"></h2>
+					<span>95%</span>
+
+					<meter
+						value="95"
+						min="0"
+						max="100"
+						:class="safari && 'safari'"
+					></meter>
+
+					<p x-text="examples[example].description"></p>
+				</div>
+
+				<div class="alternatives">
+					<small>Alternatieve wereldbeelden</small>
+
+					<div class="grid">
+						<div>
+							<h3>Mysticus</h3>
+							<span>60%</span>
+
+							<meter
+								value="60"
+								min="0"
+								max="100"
+								:class="safari && 'safari'"
+							></meter>
+
+							<p>Mysticisme richt zich op het directe, persoonlijke contact met het goddelijke of spirituele werkelijkheid.</p>
+						</div>
+
+						<div>
+							<h3>Geleide spiritualist</h3>
+							<span>45%</span>
+
+							<meter
+								value="45"
+								min="0"
+								max="100"
+								:class="safari && 'safari'"
+							></meter>
+
+							<p>Spirituele leiding door middelen zoals goddelijke interventie of meditatie.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<nav class="paginator">
+				<button class="button" @click="started = true">Doe de test</button>
+			</nav>
+		</div>
+
+		<div
+			class="questions"
+			x-show="started && !results && !loading"
+		>
+			<template x-for="(question, index) in questions">
+				<div x-show="current === index" x-cloak>
+					<section class="question">
+						<small>
+							Vraag <span x-text="index + 1"></span> van de <span x-text="questions.length"></span>
+						</small>
+						<h2 x-text="question.question"></h2>
+					</section>
+
+					<ul>
+						<template x-for="answer in question.answers">
+							<li
+								:class="[(question.answer.index ?? null) === question.answers.findIndex(a => a === answer) && 'selected']"
+								x-text="answer"
+								@click="question.answer = { index: question.answers.findIndex(a => a === answer), text: answer }"
+							></li>
+						</template>
+
+						<li
+							class="custom"
+							@click="question.answer.index = 4; question.answer.text = ''"
+							x-trap="question.answer.index === 4"
+						>
+							Anders, namelijk...
+							<input
+								type="text"
+								x-model="question.answer.text"
+								x-cloak
+								x-show="(question.answer.index ?? null) === 4"
+							/>
+						</li>
+					</ul>
+				</div>
+			</template>
+
+			<nav class="paginator">
+				<button
+					:class="[
+						'button square prev',
+						current !== 0 || 'disabled'
+					]"
+					@click="current !== 0 && current--"
+				>
+					‹
+				</button>
+
+				<button
+					:class="[
+						'button',
+						current === questions.length - 1 ? 'submit' : 'next square'
+					]"
+					x-text="current === questions.length - 1 ? 'Verstuur antwoorden' : '›'"
+					@click="next"
+				>
+					›
+				</button>
+			</nav>
+		</div>
+
+		<div class="loading" x-show="loading" x-cloak>
+			<div class="spinner">*</div>
+
+			<p>Even geduld, we zijn je antwoorden aan het verwerken...</p>
+		</div>
+
+		<template x-if="results">
+			<div class="results">
+				<div class="main">
+					<small>Jouw wereldbeeld</small>
+
+					<h2 x-text="results.worldviews[0].name"></h2>
+					<span x-text="results.worldviews[0].percentage + '%'"></span>
+
+					<meter
+						:value="results.worldviews[0].percentage"
+						min="0"
+						max="100"
+						:class="safari && 'safari'"
+					></meter>
+
+					<p x-text="results.worldviews[0].description"></p>
+				</div>
+
+				<div class="alternatives">
+					<small>Alternatieve wereldbeelden</small>
+
+					<div class="grid">
+						<template x-for="alternative in results.worldviews.slice(1)">
+							<div>
+								<h3 x-text="alternative.name"></h3>
+								<span x-text="alternative.percentage + '%'"></span>
+
+								<meter
+									:value="alternative.percentage"
+									min="0"
+									max="100"
+									:class="safari && 'safari'"
+								></meter>
+
+								<p x-text="alternative.description"></p>
+							</div>
+						</template>
+					</div>
+				</div>
+
+				<div :class="['info', locked && 'locked']">
+					<small>De volgende partijen sluiten het beste aan bij jouw wereldbeeld</small>
+					<div class="list">
+						<template x-for="party in results.parties">
+							<div>
+								<h3 x-text="party.name"></h3>
+								<p x-text="party.description"></p>
+							</div>
+						</template>
+					</div>
+
+					<small>De volgende denkers hebben een wereldbeeld dat aansluit bij het jouwe</small>
+					<div class="list">
+						<template x-for="thinker in results.thinkers">
+							<div>
+								<h3 x-text="thinker.name"></h3>
+								<p x-text="thinker.description"></p>
+							</div>
+						</template>
+					</div>
+
+					<div
+						class="lock"
+						x-show="locked"
+						x-transition
+						x-data="{
+							question: '',
+							captcha:  false,
+							send:     false,
+
+							submit() {
+								if (!this.captcha) {
+									return this.captcha = true;
+								}
+
+								if (this.question !== '8') {
+									return;
+								}
+
+								fetch('{{ .Site.Params.api }}/api/newsletter', {
+									method: 'POST',
+									headers: {
+										'Content-Type': 'application/json'
+									},
+									body: JSON.stringify(Object.fromEntries(new FormData($refs.form)))
+								});
+
+								this.question = '';
+								this.send     = true;
+
+								setTimeout(() => {
+									this.locked = false;
+								}, 3000);
+							}
+						}"
+					>
+						<span x-show="!send">
+							Schrijf je in voor onze nieuwsbrief om de volledige resultaten te bekijken.
+						</span>
+						<span x-show="send">
+							Wij sturen je een e-mail ter verificatie, zie je inbox.
+						</span>
+
+						<form
+							@submit.prevent="submit"
+							x-ref="form"
+							x-trap="captcha"
+							x-show="!send"
+						>
+							<input
+								type="email"
+								id="email"
+								name="email"
+								required
+								placeholder="Je e-mailadres"
+								x-show="!captcha"
+							/>
+							<input
+								type="text"
+								id="question"
+								name="question"
+								placeholder="Wat is 4 + 4?"
+								x-cloak
+								x-show="captcha"
+								x-model="question"
+							/>
+							<button class="button" type="submit">Ontgrendel</button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</template>
+	</article>
+{{ end }}
