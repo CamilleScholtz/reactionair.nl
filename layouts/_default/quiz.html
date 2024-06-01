@@ -182,6 +182,8 @@
 			},
 
 			next() {
+				window.scrollTo({ top: 0 });
+
 				if (this.current < this.questions.length - 1) {
 					this.current++;
 				} else {
@@ -271,7 +273,7 @@
 			</div>
 
 			<nav class="paginator">
-				<button class="button" @click="started = true">Doe de test</button>
+				<button class="button" @click="started = true; window.scrollTo({ top: 0 })">Doe de test</button>
 			</nav>
 		</div>
 
