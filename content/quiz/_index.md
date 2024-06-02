@@ -1,5 +1,5 @@
 ---
-title: De Reactionair Wereldbeeld Test
+title: De Reactionair Wereldbeeldentest
 layout: quiz
 url: /wereldbeeld/
 image: image.webp
