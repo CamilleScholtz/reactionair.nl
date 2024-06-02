@@ -145,12 +145,14 @@
 			&.safari
 				appearance: none
 
-			&::-webkit-meter-bar
+			&::-webkit-meter-bar,
+			&::-moz-meter-bar
 				background: var(--accent-background-color)
 				border: none
 				outline: none
 
-			&::-webkit-meter-optimum-value
+			&::-webkit-meter-optimum-value,
+			&:-moz-meter-optimum::-moz-meter-bar
 				background: var(--accent-color)
 				border: none
 				outline: none
