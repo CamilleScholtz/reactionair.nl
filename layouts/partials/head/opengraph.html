@@ -24,12 +24,14 @@
 	<meta property="twitter:card" content="summary">
 {{ else }}
 	{{ $image := resources.Get "images/og.png" }}
+	{{ $card  := "summary" }}
 	{{ if isset .Params "image" }}
 		{{ $image = .Resources.Get .Params.image }}
+		{{ $card  = "summary_large_image" }}
 	{{ end }}}
 
 	<meta property="og:type" content="website">
 	<meta property="og:image" content="{{ $image.Permalink }}">
-	<meta property="twitter:card" content="summary">
+	<meta property="twitter:card" content="{{ $card }}">
 {{ end }}
 <meta property="twitter:site" content="@ReactionairNL">
