@@ -28,7 +28,7 @@
 	{{ if isset .Params "image" }}
 		{{ $image = .Resources.Get .Params.image }}
 		{{ $card  = "summary_large_image" }}
-	{{ end }}}
+	{{ end }}
 
 	<meta property="og:type" content="website">
 	<meta property="og:image" content="{{ $image.Permalink }}">
