@@ -15,7 +15,7 @@
 	<meta property="og:image" content="{{ (($image.Fill (printf "1200x628 webp %s" $anchor)).Filter $filter).Permalink }}">
 	<meta property="twitter:card" content="summary_large_image">
 {{ else if and (eq .Type "shop") (isset .Params "front") }}
-	{{ $image  := .Resources.Get .Params.front }}
+	{{ $image := .Resources.Get .Params.front }}
 
 	<meta property="og:type" content="product">
 	<meta property="og:image" content="{{ ($image.Fit "1320x880 webp").Permalink }}">
@@ -23,8 +23,13 @@
 	<meta property="product:price.currency" content="EUR">
 	<meta property="twitter:card" content="summary">
 {{ else }}
+	{{ $image := resources.Get "images/og.png" }}
+	{{ if isset .Params "image" }}
+		{{ $image = .Resources.Get .Params.image }}
+	{{ end }}}
+
 	<meta property="og:type" content="website">
-	<meta property="og:image" content="{{ "img/og-image.png" | absURL }}">
+	<meta property="og:image" content="{{ $image.Permalink }}">
 	<meta property="twitter:card" content="summary">
 {{ end }}
 <meta property="twitter:site" content="@ReactionairNL">

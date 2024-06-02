@@ -412,19 +412,9 @@
 						x-show="locked"
 						x-transition
 						x-data="{
-							question: '',
-							captcha:  false,
-							send:     false,
+							send: false,
 
 							submit() {
-								if (!this.captcha) {
-									return this.captcha = true;
-								}
-
-								if (this.question !== '8') {
-									return;
-								}
-
 								fetch('{{ .Site.Params.api }}/api/newsletter', {
 									method: 'POST',
 									headers: {
@@ -433,8 +423,7 @@
 									body: JSON.stringify(Object.fromEntries(new FormData($refs.form)))
 								});
 
-								this.question = '';
-								this.send     = true;
+								this.send = true;
 
 								setTimeout(() => {
 									this.locked = false;
@@ -452,27 +441,29 @@
 						<form
 							@submit.prevent="submit"
 							x-ref="form"
-							x-trap="captcha"
 							x-show="!send"
 						>
+							<input
+								type="hidden"
+								id="question"
+								name="question"
+								value="8"
+							/>
+
 							<input
 								type="email"
 								id="email"
 								name="email"
 								required
 								placeholder="Je e-mailadres"
-								x-show="!captcha"
 							/>
-							<input
-								type="text"
-								id="question"
-								name="question"
-								placeholder="Wat is 4 + 4?"
-								x-cloak
-								x-show="captcha"
-								x-model="question"
-							/>
-							<button class="button" type="submit">Ontgrendel</button>
+							<button
+								type="submit"
+								class="button square"
+								type="submit"
+							>
+								›
+							</button>
 						</form>
 					</div>
 				</div>
