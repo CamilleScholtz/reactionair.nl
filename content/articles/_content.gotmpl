@@ -1,0 +1,60 @@
+{{ $data := dict }}
+{{ $url  := printf "%s/hugo/%s" .Site.Params.api "articles" }}
+
+{{ with resources.GetRemote $url }}
+	{{ with .Err }}
+		{{ errorf "Unable to get remote resource %s: %s" $url . }}
+	{{ else }}
+		{{ $data = . | transform.Unmarshal }}
+	{{ end }}
+{{ else }}
+	{{ errorf "Unable to get remote resource %s" $url }}
+{{ end }}
+
+{{ range $data }}
+	{{ $.AddPage (dict
+		"kind"    "page"
+		"path"    .slug
+		"title"   .title
+		"content" (dict
+			"mediaType" "text/markdown"
+			"value"     .body
+		)
+		"params" (dict
+			"id"            .id
+			"title"         .title
+			"subtitle"      .subtitle
+			"image"         .image
+			"image_anchor"  .image_anchor
+			"image_caption" .image_caption
+			"recording"     .recording
+			"description"   .description
+			"note"          .note
+			"authors"       .authors
+			"theme"         .theme
+			"tags"          .tags
+			"summary"       .summary
+			"date"          .published_at
+			"assets"        .assets
+		)
+	) }}
+
+	{{ $item := . }}
+	{{ with $url := $item.image }}
+		{{ with resources.GetRemote $url }}
+			{{ with .Err }}
+				{{ errorf "Unable to get remote resource %s: %s" $url . }}
+			{{ else }}
+				{{ $.AddResource (dict
+					"content" (dict
+						"mediaType" .MediaType.Type
+						"value"     .Content
+					)
+					"path" (printf "%s/image.%s" $item.slug .MediaType.SubType)
+				) }}
+			{{ end }}
+		{{ else }}
+			{{ errorf "Unable to get remote resource %s" $url }}
+		{{ end }}
+	{{ end }}
+{{ end }}
