@@ -1,26 +1,23 @@
 {{ define "main" }}
 	<div id="product">
 		<aside>
+			{{ $back := .Resources.GetMatch "back.*" }}
+
 			{{ if eq .CurrentSection.File.ContentBaseName "boeken" }}
 				{{ partial "shop/products/book.html" (dict
 					"size"    "large"
-					"title"   .Title
-					"front"   (.Resources.Get .Params.front)
-					"back"    (.Resources.Get .Params.back)
-					"pages"   .Params.pages
+					"product" .
 					"animate" true
-					"click"   (isset .Params "back")
-					"hover"   (not (isset .Params "back"))
+					"click"   (not (eq $back nil))
+					"hover"   (eq $back nil)
 				) }}
 			{{ else }}
 				{{ partial "shop/products/miscellany.html" (dict
 					"size"    "large"
-					"title"   .Title
-					"front"   (.Resources.Get .Params.front)
-					"back"    (.Resources.Get .Params.back)
+					"product" .
 					"animate" true
-					"click"   (isset .Params "back")
-					"hover"   (not (isset .Params "back"))
+					"click"   (not (eq $back nil))
+					"hover"   (eq $back nil)
 				) }}
 			{{ end }}
 		</aside>
@@ -128,7 +125,7 @@
 
 						<tr>
 							<th>Jaar</th>
-							<td>{{ .Date.Format "2006" }}</td>
+							<td>{{ (time.AsTime .Params.date).Format "2006" }}</td>
 
 							<th>ISBN</th>
 							{{ range .Params.variants }}

@@ -57,8 +57,7 @@
 			</a>
 		{{ else }}
 			<button
-				class="button {{ if .out_of_stock }}disabled{{ end }}"
-				{{ if .out_of_stock }}disabled{{ end }}
+				class="button {{ if $.out_of_stock }}disabled{{ end }}"
 				x-show="current.quantity === 0"
 				@click="$store.cart.add({{ .id }}, {{ .price }})"
 			>

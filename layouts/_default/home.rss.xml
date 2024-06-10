@@ -19,17 +19,18 @@
 				<pubDate>{{ .Params.date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
 				<author>{{ delimit .Params.authors ", " ", "  }}</author>
 				<description>{{ .Summary | plainify }}</description>
-				<image>
-					{{ $image  := .Resources.Get .Params.image }}
-					{{ $anchor := "Smart" }}
-					{{ if isset .Params "anchor" }}
-						{{ $anchor = .Params.anchor }}
-					{{ end }}
-				
-					<url>{{ ($image.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}</url>				
-					<link>https://reactionair.nl/</link>
-					<title>{{ .Title }}</title>
-				</image>
+				{{ with .Resources.GetMatch "image.*" }}
+					<image>
+						{{ $anchor := "Smart" }}
+						{{ if isset .Params "anchor" }}
+							{{ $anchor = .Params.anchor }}
+						{{ end }}
+
+						<url>{{ (.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}</url>
+						<link>https://reactionair.nl/</link>
+						<title>{{ $.Title }}</title>
+					</image>
+				{{ end }}
 			</item>
 		{{ end }}
 	</channel>

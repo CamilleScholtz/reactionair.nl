@@ -9,7 +9,7 @@
 		{{ $unit = "vh" }}
 	{{ end }}
 
-	{{ $front  := .front.Fit $size }}
+	{{ $front  := (.product.Resources.GetMatch "front.*").Fit $size }}
 	{{ $width  := div $front.Width $div }}
 	{{ $height := div $front.Height $div }}
 
@@ -21,7 +21,7 @@
 			{{ if ne .size "large" }}
 				loading="lazy"
 			{{ end }}
-			alt="{{ .title | safeHTML }}"
+			alt="{{ .product.Title | safeHTML }}"
 			class="front"
 			style="background: {{ index $front.Colors 0 }};">
 		{{ if .click }}
@@ -34,7 +34,7 @@
 				width="{{ $width }}"
 				height="{{ $height }}"
 				loading="lazy"
-				alt="{{ .title | safeHTML }}"
+				alt="{{ .product.Title | safeHTML }}"
 				class="back">
 		{{ end }}
 		<div class="shadow"></div>

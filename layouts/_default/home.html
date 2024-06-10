@@ -51,22 +51,20 @@
 
 					<div class="books">
 						{{ $book := index (where (site.GetPage "shop/products/boeken").RegularPages ".Title" "Terug naar de oorsprong") 0 }}
-
 						{{ partialCached "shop/products/book.html" (dict
 							"size"    "small"
-							"title"   $book.Title
-							"pages"   $book.Params.pages
-							"front"   ($book.Resources.Get $book.Params.front)
-						) "small" $book.File.UniqueID }}
+							"product" $book
+							"front"   .
+						) "small" $book.Params.id }}
 
 						{{ $book := index (where (site.GetPage "shop/products/boeken").RegularPages ".Title" site.Params.advert) 0 }}
-
-						{{ partialCached "shop/products/book.html" (dict
-							"size"    "small"
-							"title"   $book.Title
-							"pages"   $book.Params.pages
-							"front"   ($book.Resources.Get $book.Params.front)
-						) "small" $book.File.UniqueID }}
+						{{ with $book.Resources.GetMatch "front.*" }}
+							{{ partialCached "shop/products/book.html" (dict
+								"size"    "small"
+								"product" $book
+								"front"   .
+							) "small" $book.Params.id }}
+						{{ end }}
 					</div>
 				</a>
 

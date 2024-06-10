@@ -1,27 +1,31 @@
 <meta property="og:title" content="{{ .Title | safeHTML }}">
 <meta property="og:description" content="{{ cond (isset .Params "subtitle") .Params.subtitle .Params.description }}">
 <meta property="og:url" content="{{ .Permalink }}">
+
 {{ if eq .Type "articles" }}
-	{{ $image  := .Resources.Get .Params.image }}
-	{{ $anchor := "Smart" }}
-	{{ if isset .Params "anchor" }}
-		{{ $anchor = .Params.anchor }}
-	{{ end }}
-
-	{{ $overlay := resources.Get "images/logo.webp" }}
-	{{ $filter  := images.Overlay $overlay 60 0 }}
-
 	<meta property="og:type" content="article">
-	<meta property="og:image" content="{{ (($image.Fill (printf "1200x628 webp %s" $anchor)).Filter $filter).Permalink }}">
-	<meta property="twitter:card" content="summary_large_image">
-{{ else if and (eq .Type "shop") (isset .Params "front") }}
-	{{ $image := .Resources.Get .Params.front }}
 
+	{{ with .Resources.GetMatch "image.*" }}
+		{{ $anchor := "Smart" }}
+		{{ if isset .Params "anchor" }}
+			{{ $anchor = .Params.anchor }}
+		{{ end }}
+
+		{{ $overlay := resources.Get "images/logo.webp" }}
+		{{ $filter  := images.Overlay $overlay 60 0 }}
+
+		<meta property="og:image" content="{{ ((.Fill (printf "1200x628 webp %s" $anchor)).Filter $filter).Permalink }}">
+		<meta property="twitter:card" content="summary_large_image">
+	{{ end }}
+{{ else if and (eq .Type "shop") (isset .Params "front") }}
 	<meta property="og:type" content="product">
-	<meta property="og:image" content="{{ ($image.Fit "1320x880 webp").Permalink }}">
 	<meta property="product:price.amount" content="{{ (index .Params.variants 0).price }}">
 	<meta property="product:price.currency" content="EUR">
 	<meta property="twitter:card" content="summary">
+
+	{{ with .Resources.GetMatch "front.*" }}
+		<meta property="og:image" content="{{ (.Fit "1320x880 webp").Permalink }}">
+	{{ end }}
 {{ else }}
 	{{ $image := resources.Get "images/og.png" }}
 	{{ $card  := "summary" }}
@@ -34,4 +38,5 @@
 	<meta property="og:image" content="{{ $image.Permalink }}">
 	<meta property="twitter:card" content="{{ $card }}">
 {{ end }}
+
 <meta property="twitter:site" content="@ReactionairNL">
