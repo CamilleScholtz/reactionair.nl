@@ -1,17 +1,17 @@
 <div class="author-info small">
-	{{ $image := .author.Resources.Get .author.Params.image }}
+	{{ with .author.Resources.GetMatch "image.*" }}
+		{{ $1x := .Fill "100x100 webp" }}
+		{{ $2x := .Fill "200x200 webp" }}
 
-	{{ $1x := $image.Fill "100x100 webp" }}
-	{{ $2x := $image.Fill "200x200 webp" }}
-
-	<figure>
-		<img
-			srcset="{{ $1x.RelPermalink }} 1x,
-			        {{ $2x.RelPermalink }} 2x"
-			src="{{ $2x.RelPermalink }}"
-			alt="{{ .author.Title | safeHTML }}"
-			style="background: {{ index $1x.Colors 0 }};">
-	</figure>
+		<figure>
+			<img
+				srcset="{{ $1x.RelPermalink }} 1x,
+				        {{ $2x.RelPermalink }} 2x"
+				src="{{ $2x.RelPermalink }}"
+				alt="{{ $.author.Title | safeHTML }}"
+				style="background: {{ index $1x.Colors 0 }};">
+		</figure>
+	{{ end }}
 
 	<div class="text">
 		<h2>{{ .author.Title | safeHTML }}</h2>

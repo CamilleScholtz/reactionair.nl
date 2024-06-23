@@ -2,7 +2,7 @@
 	<title>{{ .Title | safeHTML }}</title>
 
 	<meta name="description" content="{{ if isset .Params "description" }}{{ .Params.description }}{{ else }}{{ .Params.subtitle }} - {{ .Summary }}{{ end }}">
-	{{ if eq .Type "articles" }}
+	{{ if and (eq .Kind "page") (eq .Type "articles") }}
 		<meta name="author" content="{{ delimit .Params.authors ", " }}">
 	{{ end }}
 

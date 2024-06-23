@@ -16,13 +16,13 @@
 		{{ $size = "438x webp" }}
 	{{ end }}
 
-	{{ $thickness := add $add (mul .pages $mul) }}
+	{{ $thickness := add $add (mul .product.Params.pages $mul) }}
 
 	{{ $front := "" }}
 	{{ if eq .size "small" }}
-		{{ $front = .front.Fit $size }}
+		{{ $front = (.product.Resources.GetMatch "front.*").Fit $size }}
 	{{ else }}
-		{{ $front = .front.Resize $size }}
+		{{ $front = (.product.Resources.GetMatch "front.*").Resize $size }}
 	{{ end }}
 
 	{{ $width  := div $front.Width $div }}
@@ -166,7 +166,7 @@
 			{{ if ne .size "large" }}
 				loading="lazy"
 			{{ end }}
-			alt="{{ .title | safeHTML }}"
+			alt="{{ .product.Title | safeHTML }}"
 			class="front"
 			style="background: {{ index $front.Colors 0 }};">
 		{{ if .click }}
@@ -177,14 +177,14 @@
 		{{ if .click }}
 			<img
 				{{ if eq .size "large" }}
-					src="{{ (.back.Resize $size).RelPermalink }}"
+					src="{{ ((.product.Resources.GetMatch "back.*").Resize $size).RelPermalink }}"
 				{{ else }}
-					src="{{ (.back.Fit $size).RelPermalink }}"
+					src="{{ ((.product.Resources.GetMatch "back.*").Fit $size).RelPermalink }}"
 				{{ end }}
 				width="{{ $width }}"
 				height="{{ $height }}"
 				loading="lazy"
-				alt="{{ .title | safeHTML }}"
+				alt="{{ .product.Title | safeHTML }}"
 				class="back">
 		{{ end }}
 		<div class="shadow"></div>

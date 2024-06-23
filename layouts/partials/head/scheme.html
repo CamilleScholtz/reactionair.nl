@@ -3,22 +3,23 @@
 		"@context": "https://schema.org/",
 
 		{{ if eq .Type "articles" }}
-			{{ $image  := .Resources.Get .Params.image }}
-			{{ $anchor := "Smart" }}
-			{{ if isset .Params "anchor" }}
-				{{ $anchor = .Params.anchor }}
-			{{ end }}
-
-			{{ $overlay := resources.Get "images/logo.webp" }}
-			{{ $filter  := images.Overlay $overlay 60 0 }}
-		
 			"@type": "Article",
 			"headline": "{{ .Title | plainify }}",
 			"alternativeHeadline": "{{ .Params.subtitle | plainify }}",
 			"datePublished": "{{ .Params.date.Format "2006-01-02" }}",
-			"image": [
-				"{{ (($image.Fill (printf "1200x628 webp %s" $anchor)).Filter $filter).Permalink }}"
-			],
+			{{ with .Resources.GetMatch "image.*" }}
+				{{ $anchor := "Smart" }}
+				{{ if isset .Params "anchor" }}
+					{{ $anchor = .Params.anchor }}
+				{{ end }}
+
+				{{ $overlay := resources.Get "images/logo.webp" }}
+				{{ $filter  := images.Overlay $overlay 60 0 }}
+
+				"image": [
+					"{{ ((.Fill (printf "1200x628 webp %s" $anchor)).Filter $filter).Permalink }}"
+				],
+			{{ end }}
 			"author": [
 				{{ range $i, $author := .Params.authors }}
 					{
@@ -37,15 +38,16 @@
 		{{ else if and (eq .Type "authors") (eq .Kind "term") }}
 			"@type": "Person",
 			"name": "{{ .Title | safeHTML }}",
-			"image": "{{ (.Resources.Get .Params.image).Permalink }}"
-		{{ else if and (eq .Type "shop") (isset .Params "front") }}
-			{{ $slug  := .RelPermalink | path.Base | urlize }}
-			{{ $image := .Resources.Get .Params.front }}
-
+			{{ with .Resources.GetMatch "image.*" }}
+				"image": "{{ .Permalink }}"
+			{{ end }}
+		{{ else if and (eq .Type "shop") (isset .Params "id") }}
 			"@type": ["Product", "Book"],
 			"name": "{{ .Title | safeHTML }}{{ if isset .Params "subtitle" }}: {{ .Params.subtitle | safeHTML }}{{ end }}",
-			"datePublished": "{{ .Params.date.Format "2006-01-02" }}",
-			"image": "{{ ($image.Fit "1320x880 webp").Permalink }}",
+			"datePublished": "{{ (time.AsTime .Params.date).Format "2006-01-02" }}",
+			{{ with .Resources.GetMatch "front.*" }}
+				"image": "{{ (.Fit "1320x880 webp").Permalink }}",
+			{{ end }}
 			"bookFormat": "http://schema.org/Paperback",
 			"inLanguage": "{{ .Params.languages }}",
 			"isbn": "{{ replace (index .Params.variants 0).isbn "-" "" }}",
@@ -62,11 +64,10 @@
 					}{{ if lt $i (len $.Params.writers) }},{{ end }}
 				{{ end }}
 			],
-			{{ if isset .Site.Data.reviews $slug }}
-				{{ $reviews := index .Site.Data.reviews $slug }}
-				{{ $count   := len $reviews }}
+			{{ with .Params.reviews }}
+				{{ $count   := len . }}
 				{{ $value   := 0 }}
-				{{ range $reviews }}
+				{{ range . }}
 					{{ $value = add $value .rating }}
 				{{ end }}
 

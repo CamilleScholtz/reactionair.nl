@@ -19,27 +19,28 @@
 				<h2 data-pagefind-meta="subtitle">{{ .Params.subtitle | safeHTML }}</h2>
 			</section>
 
-			<figure>
-				{{ $image := .Resources.Get .Params.image }}
-				{{ $anchor := "Smart" }}
-				{{ if isset .Params "anchor" }}
-					{{ $anchor = .Params.anchor }}
-				{{ end }}
+			{{ with .Resources.GetMatch "image.*" }}
+				<figure>
+					{{ $anchor := "Smart" }}
+					{{ if isset .Params "anchor" }}
+						{{ $anchor = .Params.anchor }}
+					{{ end }}
 
-				{{ $1x := $image.Fill (printf "1035x500 webp %s" $anchor) }}
-				{{ $2x := $image.Fill (printf "2070x1000 webp %s" $anchor) }}
+					{{ $1x := .Fill (printf "1035x500 webp %s" $anchor) }}
+					{{ $2x := .Fill (printf "2070x1000 webp %s" $anchor) }}
 
-				<img
-					srcset="{{ $1x.RelPermalink }} 1x,
-					        {{ $2x.RelPermalink }} 2x"
-					src="{{ $2x.RelPermalink }}"
-					alt="{{ cond (isset .Params "caption") .Params.caption (.Title | safeHTML) }}"
-					style="background: {{ index $1x.Colors 0 }};">
+					<img
+						srcset="{{ $1x.RelPermalink }} 1x,
+						        {{ $2x.RelPermalink }} 2x"
+						src="{{ $2x.RelPermalink }}"
+						alt="{{ cond (isset .Params "caption") .Params.caption ($.Title | safeHTML) }}"
+						style="background: {{ index $1x.Colors 0 }};">
 
-				{{ if isset .Params "caption" }}
-					<figcaption>{{ .Params.caption }}</figcaption>
-				{{ end }}
-			</figure>
+					{{ if isset .Params "caption" }}
+						<figcaption>{{ .Params.caption }}</figcaption>
+					{{ end }}
+				</figure>
+			{{ end }}
 
 			<section class="info" data-pagefind-ignore>
 				<time>{{ .Date.Day }} {{ index site.Data.months (printf "%d" .Date.Month) }}, {{ .Date.Year }}</time>
@@ -59,14 +60,14 @@
 				</section>
 			{{ end }}
 
-			{{ if isset .Params "recording" }}
+			{{ with .Resources.GetMatch "recording.*" }}
 				<section
 					class="recording"
 					data-pagefind-ignore
 					x-data="{
 						style:     	window.getComputedStyle(document.documentElement),
-						recording:  '{{ .Resources.Get .Params.recording }}',
-						waveform:   {{ replace (index .Site.Data.waveforms (.Permalink | relURL | path.Base | urlize) | jsonify ) "\"" "'" }},
+						recording:  '{{ .RelPermalink }}',
+						waveform:   {{ replace (.Params.waveform | jsonify) "\"" "'" }},
 						wavesurfer: null,
 
 						init() {

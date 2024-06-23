@@ -9,12 +9,10 @@
 	<a href="{{ .book.RelPermalink }}">
 		{{ partialCached "shop/products/book.html" (dict
 			"size"    "medium"
-			"title"   .book.Title
-			"pages"   .book.Params.pages
-			"front"   (.book.Resources.Get .book.Params.front)
+			"product" .book
 			"animate" true
 			"hover"   true
-		) "medium" .book.File.UniqueID }}
+		) "medium" .book.Params.id }}
 	</a>
 </div>
 

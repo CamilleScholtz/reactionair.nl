@@ -1,9 +1,5 @@
 <figure>
-	{{ $src := .Get "src" }}
-	{{ if not $src }}
-		{{ $src = .Page.Params.image }}
-	{{ end }}
-	{{ $image := .Page.Resources.Get $src }}
+	{{ $image := .Page.Resources.Get (.Get "src") }}
 
 	{{ if eq $image.MediaType.SubType "svg" }}
 		<img 

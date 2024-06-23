@@ -1,0 +1,41 @@
+{{ $data := dict }}
+{{ $url  := printf "%s/hugo/%s" .Site.Params.api "authors"  }}
+
+{{ with resources.GetRemote $url }}
+	{{ with .Err }}
+		{{ errorf "Unable to get remote resource %s: %s" $url . }}
+	{{ else }}
+		{{ $data = . | transform.Unmarshal }}
+	{{ end }}
+{{ else }}
+	{{ errorf "Unable to get remote resource %s" $url }}
+{{ end }}
+
+{{ range $data }}
+	{{ $.AddPage (dict
+		"kind"    .kind
+		"path"    .path
+		"title"   .title
+		"params"  .params
+	) }}
+
+	{{ $item := . }}
+
+	{{ with $url := $item.assets.image.url }}
+		{{ with resources.GetRemote $url }}
+			{{ with .Err }}
+				{{ errorf "Unable to get remote resource %s: %s" $url . }}
+			{{ else }}
+				{{ $.AddResource (dict
+					"path" (printf "%s/image.%s" $item.path .MediaType.SubType)
+					"content" (dict
+						"mediaType" .MediaType.Type
+						"value"     .Content
+					)
+				) }}
+			{{ end }}
+		{{ else }}
+			{{ errorf "Unable to get remote resource %s" $url }}
+		{{ end }}
+	{{ end }}
+{{ end }}

@@ -1,0 +1,85 @@
+{{ $data := dict }}
+{{ $url  := printf "%s/hugo/%s" .Site.Params.api "articles"  }}
+
+{{ with resources.GetRemote $url }}
+	{{ with .Err }}
+		{{ errorf "Unable to get remote resource %s: %s" $url . }}
+	{{ else }}
+		{{ $data = . | transform.Unmarshal }}
+	{{ end }}
+{{ else }}
+	{{ errorf "Unable to get remote resource %s" $url }}
+{{ end }}
+
+{{ range $data }}
+	{{ $.AddPage (dict
+		"kind"    .kind
+		"path"    .path
+		"title"   .title
+		"content" .content
+		"params"  .params
+		"dates"   (dict
+			"publishDate" (time.AsTime .date)
+		)
+	) }}
+
+	{{ $item := . }}
+
+	{{ with $url := $item.assets.image.url }}
+		{{ with resources.GetRemote $url }}
+			{{ with .Err }}
+				{{ errorf "Unable to get remote resource %s: %s" $url . }}
+			{{ else }}
+				{{ $.AddResource (dict
+					"path"    (printf "%s/image.%s" $item.path .MediaType.SubType)
+					"content" (dict
+						"mediaType" .MediaType.Type
+						"value"     .Content
+					)
+					"params" $item.assets.image.params
+				) }}
+			{{ end }}
+		{{ else }}
+			{{ errorf "Unable to get remote resource %s" $url }}
+		{{ end }}
+	{{ end }}
+
+	{{ with $url := $item.assets.recording.url }}
+		{{ with resources.GetRemote $url }}
+			{{ with .Err }}
+				{{ errorf "Unable to get remote resource %s: %s" $url . }}
+			{{ else }}
+				{{ $.AddResource (dict
+					"path"    (printf "%s/recording.%s" $item.path .MediaType.SubType)
+					"content" (dict
+						"mediaType" .MediaType.Type
+						"value"     .Content
+					)
+					"params" $item.assets.recording.params
+				) }}
+			{{ end }}
+		{{ else }}
+			{{ errorf "Unable to get remote resource %s" $url }}
+		{{ end }}
+	{{ end }}
+
+	{{ range $item.assets.extra }}
+		{{ with $url := .url }}
+			{{ with resources.GetRemote $url }}
+				{{ with .Err }}
+					{{ errorf "Unable to get remote resource %s: %s" $url . }}
+				{{ else }}
+					{{ $.AddResource (dict
+						"path"    (printf "%s/assets/%s" $item.path (path.Base $url))
+						"content" (dict
+							"mediaType" .MediaType.Type
+							"value"     .Content
+						)
+					) }}
+				{{ end }}
+			{{ else }}
+				{{ errorf "Unable to get remote resource %s" $url }}
+			{{ end }}
+		{{ end }}
+	{{ end }}
+{{ end }}

@@ -14,17 +14,17 @@ capitalizeListTitles = false
 pluralizeListTitles  = false
 
 [params]
-	api    = "https://admin.reactionair.nl"
+	api    = "http://127.0.0.1:8000"
 	advert = "De seksuele revolutie"
 
 [taxonomies]
-	author    = "authors"
-	theme     = "theme"
+	author = "authors"
+	theme  = "theme"
 
 [permalinks]
 	[permalinks.page]
-		articles = "/artikelen/:slugorfilename/"
-		shop     = "/winkel/producten/:sections[last]/:slugorfilename/"
+		articles = "/artikelen/:slug/"
+		shop     = "/winkel/producten/:sections[last]/:slug/"
 	[permalinks.section]
 		articles = "/artikelen/"
 		shop     = "/winkel/producten/:sections[last]/"
@@ -74,6 +74,19 @@ pluralizeListTitles  = false
 	taxonomy = ["html", "rss"]
 	term     = ["html", "rss"]
 	page     = ["html"]
+
+[mediaTypes]
+	[mediaTypes.'audio/mpeg']
+		suffixes = ['mp3']
+
+[httpcache]
+	[httpcache.cache]
+		[httpcache.cache.for]
+			includes = ['https://admin.reactionair.nl/hugo/**', 'http://127.0.0.1:8000/hugo/**']
+
+[security]
+	[security.http]
+		mediaTypes = ['^audio/mpeg$']
 
 [build]
 	noJSConfigInAssets = true
