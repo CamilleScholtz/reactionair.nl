@@ -4,8 +4,8 @@ title: 'Reactionary Modernism'
 front: ce015cfd-9276-4adc-b3f4-33dd5304941f.jpg
 back: 2fc258d5-7ade-44c0-8861-62b69066bf56.jpg
 variants:
-    - { id: 101, price: 22.99, format: paperback, isbn: 978-1-642641-66-0 }
-    - { id: 102, price: 34.99, format: hardcover, isbn: 978-1-642641-67-7 }
+    - { id: 101, price: 22.99, out_of_stock: true, format: paperback, isbn: 978-1-642641-66-0 }
+    - { id: 102, price: 34.99, out_of_stock: true, format: hardcover, isbn: 978-1-642641-67-7 }
 writers:
     - 'Jonathan Bowden'
 pages: 206
@@ -13,6 +13,7 @@ publisher: Counter-Currents
 language: Engels
 advertisable: true
 date: '2022-03-28'
+out_of_stock: true
 ---
 
 Sinds de Tweede Wereldoorlog wordt "modernisme" in de kunsten overwegend geassocieerd met cultureel en politiek links. Maar voor de oorlog was er een heftig debat tussen rechts en links modernisme.

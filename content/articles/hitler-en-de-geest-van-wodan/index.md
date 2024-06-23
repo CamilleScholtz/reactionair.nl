@@ -4,7 +4,7 @@ title: 'Hitler, het nationaal-socialisme en Wodan'
 subtitle: 'Een opstel van Carl Gustav Jung'
 image: franz.jpg
 anchor: Smart
-captions: 'Die Wilde Jagd van Franz von Stuck, circa 1889 (Hitlers geboortejaar). Naar verluidt heeft Hitler zijn uiterlijk gemodelleerd naar de figuur die op dit schilderij Wodan voorstelt.'
+caption: 'Die Wilde Jagd van Franz von Stuck, circa 1889 (Hitlers geboortejaar). Naar verluidt heeft Hitler zijn uiterlijk gemodelleerd naar de figuur die op dit schilderij Wodan voorstelt.'
 authors:
     - Gastauteur
 theme: 'Geschiedenis en Biografie'

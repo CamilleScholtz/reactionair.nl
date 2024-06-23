@@ -4,7 +4,7 @@ title: 'De politisering van de jeugdliteratuur'
 subtitle: 'Een pleidooi voor apolitieke kinderboeken'
 image: 153b3402-911b-4f19-b012-74110e78b7e1.jpg
 anchor: Smart
-captions: 'Théophile Emmanuel Duverger, Twee lezende kinderen (1855).'
+caption: 'Théophile Emmanuel Duverger, Twee lezende kinderen (1855).'
 authors:
     - 'Anna Strijbos'
 theme: 'Cultuur en Maatschappij'

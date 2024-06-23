@@ -4,7 +4,7 @@ title: 'De wolf als bode'
 subtitle: 'De mens is verstoken van de natuur'
 image: 0b84d6c6-ec43-4f7d-bbfd-628dd72cadf1.jpg
 anchor: Smart
-captions: 'Frederic Remington, Moonlight, wolf (ca. 1904)'
+caption: 'Frederic Remington, Moonlight, wolf (ca. 1904)'
 authors:
     - 'Anton Prins'
 theme: 'Politiek en Actualiteit'

@@ -4,7 +4,7 @@ title: 'De ziel van Napoleon'
 subtitle: 'Een gesprek met Robert Lemm'
 image: 01b4c3a7-c461-4492-9221-4c14b9aea7ff.jpg
 anchor: Smart
-captions: 'Napoleon in Fontainebleau.'
+caption: 'Napoleon in Fontainebleau.'
 authors:
     - 'De redactie'
     - 'Robert Lemm'

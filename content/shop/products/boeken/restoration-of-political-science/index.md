@@ -5,13 +5,14 @@ subtitle: 'Volume I'
 front: 5b3c326b-ba23-4cf4-a597-6ffcb25b3098.jpg
 back: 0a4eab88-41d3-4b7a-9209-349dc4942d0a.jpg
 variants:
-    - { id: 50, price: 27.99, format: paperback, isbn: 978-1-922602-76-3 }
+    - { id: 50, price: 27.99, out_of_stock: true, format: paperback, isbn: 978-1-922602-76-3 }
 writers:
     - 'Karl Ludwig von Haller'
 pages: 344
 publisher: 'Imperium Press'
 language: Engels
 date: '2023-03-30'
+out_of_stock: true
 ---
 
 Karl Ludwig von Hallers *Restoration of Political Science* is een van de sleutelteksten van de Tegen-Verlichting, maar is tot nu toe nooit in het Engels verkrijgbaar geweest. In dit eerste deel haalt hij de liberale politieke theorie onderuit door Grotius, Locke, Montesquieu, Rousseau, Kant en anderen één voor één aan te pakken. Haller laat zien hoe hun ideeën perfect belichaamd werden in de Franse Revolutie voordat deze totaal mislukte en culmineerde in het exacte tegenovergestelde van liberalisme - de absolute persoonlijke heerschappij van Napoleon.

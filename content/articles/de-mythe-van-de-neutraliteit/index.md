@@ -4,6 +4,7 @@ title: 'De mythe van de neutraliteit'
 subtitle: 'En de blindheid van de liberalen'
 image: thumb.webp
 anchor: Smart
+recording: e1e68fb5-fb19-48cc-9cf0-70d88b385f2b.mp3
 description: "De Tweede Kamer neemt besluit: scholen mogen geen identiteitsverklaring eisen van ouders. Maar is 'neutraliteit' wel haalbaar? Lees het hier."
 authors:
     - 'Camille Scholtz'

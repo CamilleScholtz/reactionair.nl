@@ -4,7 +4,7 @@ title: 'Omarm het verval opdat de feniks herrijze'
 subtitle: 'Een hysterische oproep'
 image: d744a789-0f4c-4197-a617-7c3b18c42f6a.jpg
 anchor: Top
-captions: "De feniks herrijst uit zijn as, uit de Kroniek van Neurenberg, 1493.\n"
+caption: "De feniks herrijst uit zijn as, uit de Kroniek van Neurenberg, 1493.\n"
 description: 'Het avondland gaat ten onder. Moeten we lijdzaam toezien of ons verzetten? De auteur pleit voor het omarmen en versnellen van het verval, om daarna opnieuw op te bouwen volgens nieuwe inzichten.'
 authors:
     - 'De Melancholieke Nar'

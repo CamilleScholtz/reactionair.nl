@@ -4,7 +4,7 @@ title: 'Europa gaat kopje onder'
 subtitle: 'The good, the bad & the ugly'
 image: 2ee3f9ee-2ccc-4e52-96cc-bba9e1f892d7.jpg
 anchor: Smart
-captions: 'Abraham Storck, De vierdaagse oorlog van 1666'
+caption: 'Abraham Storck, De vierdaagse oorlog van 1666'
 description: 'Europa bevindt zich in een benarde situatie, met een ondoeltreffend EU-model en problemen in Oost-Europa en op de Balkan. Uitbreiding van de EU met nog meer zwakke landen zal de transferunie verder belasten. Het is tijd voor een herziening van het EU-model.'
 authors:
     - 'Frits Bosch'

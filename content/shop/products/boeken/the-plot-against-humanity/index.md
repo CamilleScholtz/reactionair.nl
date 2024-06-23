@@ -7,13 +7,14 @@ tags:
     - LGBT
     - Transgenderisme
 variants:
-    - { id: 103, price: 22.99, format: paperback, isbn: 978-1-956887-51-8 }
+    - { id: 103, price: 22.99, out_of_stock: true, format: paperback, isbn: 978-1-956887-51-8 }
 writers:
     - 'Scott Howard'
 pages: 191
 publisher: 'Antelope Hill'
 language: Engels
 date: '2022-11-30'
+out_of_stock: true
 ---
 
 Bestsellerauteur van *The Transgender-Industrial Complex* en *The Open Society Playbook*, Scott Howard onderzoekt de nog meer snode connecties tussen onze elites, de academische wereld, politici en media en de verschillende kwalen die onze samenleving teisteren. In *The Plot Against Humanity* legt Howard naadloos de actoren bloot achter de hernieuwde en groeiende belangstelling voor transhumanisme en de toenemende rol die technologie en kunstmatige intelligentie in ons leven zullen spelen in de nasleep van de COVID-19-pandemie. In echte Scott Howard-stijl leunt dit onderzoek sterk op het presenteren van de woorden en overtuigingen van de acteurs zelf en, zoals altijd, het volgen van het geld.

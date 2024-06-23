@@ -4,7 +4,7 @@ title: 'Stemadvies voor 15 maart'
 subtitle: 'Want stemmen zul je'
 image: 8c037439-56fb-4096-9012-7b80b89dae1a.webp
 anchor: Smart
-captions: 'The county election van George Caleb Bingham, 1852.'
+caption: 'The county election van George Caleb Bingham, 1852.'
 authors:
     - 'v. Stormberg'
 theme: 'Politiek en Actualiteit'

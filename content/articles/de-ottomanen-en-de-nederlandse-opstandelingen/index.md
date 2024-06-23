@@ -4,7 +4,7 @@ title: 'De Ottomanen en de Nederlandse opstandelingen'
 subtitle: 'Een onwaarschijnlijke alliantie'
 image: 1b3646be-5e1f-4062-aa1a-d7fd0161c8f2.jpg
 anchor: Smart
-captions: "Portet van Cornelis Haga.\n"
+caption: "Portet van Cornelis Haga.\n"
 authors:
     - Markoes
 theme: 'Geschiedenis en Biografie'

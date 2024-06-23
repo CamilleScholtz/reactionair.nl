@@ -5,7 +5,7 @@ subtitle: 'The Commune'
 front: b8cf13f1-2710-4b38-9d51-da1e02a8db08.jpg
 back: 37518051-357a-4726-8570-b6917f9107dc.jpg
 variants:
-    - { id: 69, price: 17.99, format: paperback, isbn: 978-1-953730-37-4 }
+    - { id: 69, price: 17.99, out_of_stock: true, format: paperback, isbn: 978-1-953730-37-4 }
 writers:
     - 'Cécile Tormay'
 pages: 227
@@ -13,6 +13,7 @@ publisher: 'Antelope Hill'
 language: Engels
 advertisable: true
 date: '2020-11-08'
+out_of_stock: true
 ---
 
 Onder het motto van "LEVE DE DICTATORSHIP VAN HET PROLETARIAT!" hield de Hongaarse Sovjetrepubliek, die op de avond van 21 maart 1919 werd gevormd, het slechts 133 dagen uit. Het geweld en de intensiteit van de Rode Terreur in Hongarije deden niet onder voor die in Sovjet-Rusland. De littekens van de massa-executies van rechtse dissidenten, de vernietiging van de moraal in het onderwijs en de ontheiliging van heilige plaatsen zijn vandaag de dag nog steeds voelbaar.

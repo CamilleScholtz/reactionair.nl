@@ -4,7 +4,7 @@ title: 'Verplicht gezond'
 subtitle: 'De onwenselijke betutteling van de burger'
 image: 74a5f96e-943b-410a-b3f5-c1ba21714c5a.jpg
 anchor: Smart
-captions: 'Albert Anker, De crèche (1890)'
+caption: 'Albert Anker, De crèche (1890)'
 description: "De zorgkosten rijzen de pan uit. Dit zal de komende jaren alleen maar toenemen. De huidige machthebbers reageren hierop door steeds meer ongezonde dingen te verbieden. Maar is een dergelijke 'nanny state' wel een passende oplossing?"
 authors:
     - 'Frits Bosch'

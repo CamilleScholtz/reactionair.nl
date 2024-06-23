@@ -4,7 +4,7 @@ title: 'Is woke wel zo links?'
 subtitle: 'De politieke genealogie van woke'
 image: 52f75df6-4bd0-4ebd-9747-d45418fa7045.webp
 anchor: Smart
-captions: 'Marcuse geeft een lezing aan studenten, Berlijn, 1967.'
+caption: 'Marcuse geeft een lezing aan studenten, Berlijn, 1967.'
 authors:
     - 'Frits Bosch'
 theme: 'Cultuur en Maatschappij'

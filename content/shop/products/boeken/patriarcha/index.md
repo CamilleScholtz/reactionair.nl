@@ -7,13 +7,14 @@ tags:
     - Monarchie
     - Christendom
 variants:
-    - { id: 2, price: 22.99, format: paperback, isbn: 978-1-922602-16-9 }
+    - { id: 2, price: 22.99, out_of_stock: true, format: paperback, isbn: 978-1-922602-16-9 }
 writers:
     - 'Robert Filmer'
 pages: 316
 publisher: 'Imperium Press'
 language: Engels
 date: '2022-09-29'
+out_of_stock: true
 ---
 
 Robert Filmer is de grootste voorstander van het goddelijke recht van koningen die de Engelssprekende wereld ooit heeft voortgebracht. Schrijvend ter verdediging van de Stuart koningen tegen een steeds feller wordend parlement, toont hij met argumenten uit de rede, geschiedenis en Schrift aan dat de soeverein noodzakelijkerwijs een koning is, in naam of niet.

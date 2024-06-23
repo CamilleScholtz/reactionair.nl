@@ -106,7 +106,7 @@ We denken dan aan "Wij houden van Oranje" van André Hazes en "Viva Hollandia" v
 "Lage Landje" slaagt hier wel in, en verdient mede door zijn relatieve onbekendheid een plaatsje op de lijst. In dit lied worden vele plaatsen en provincies van Nederland opgesomd, waarbij elk afzonderlijk wordt geprezen om een kenmerkend aspect.
 
 > “Ook al wordt er in dit lage landje, wel eens oeverloos gezeurd,<br>
-maar dit hele kleine lage landje, vindt ik wel uiteindlijk het mooist van allemaal”
+maar dit hele kleine lage landje, vind ik wel uiteindlijk het mooist van allemaal”
 
 We zijn terug.
 

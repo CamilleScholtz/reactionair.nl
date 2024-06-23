@@ -5,13 +5,14 @@ front: 96fc6c54-c997-4102-95a8-ba15c3486628.jpg
 tags:
     - Liberalisme
 variants:
-    - { id: 18, price: 14.99, format: paperback, isbn: 978-0-648859-30-7 }
+    - { id: 18, price: 14.99, out_of_stock: true, format: paperback, isbn: 978-0-648859-30-7 }
 writers:
     - 'Jonathan Bowden'
 pages: 73
 publisher: 'Imperium Press'
 language: Engels
 date: '2020-06-19'
+out_of_stock: true
 ---
 
 De oratorische vuurkracht van Bowden wordt ten toon gespreid in dit interview uit 2009. Leden van het Londense Nieuw Rechts stelden hem elke vraag die je ooit had willen stellen en lieten Bowden aan het woord over onderwerpen als ras en politiek, de EU, de islam, rolpatronen, heidendom en christendom, moderne kunst en zijn eigen visie op de toekomst. Deze bundel bevat ook drie korte beschouwingen over Bowden de man door leden van het Londense Nieuw Rechts.

@@ -5,7 +5,7 @@ subtitle: 'The Collected Works'
 front: c791930a-c22e-4b0e-86a5-cf6eebf8d747.webp
 back: 8d38bd8f-24d0-49ed-9dd0-ac8b47b15206.webp
 variants:
-    - { id: 53, price: 17.99, format: paperback, isbn: 978-1-956887-33-4 }
+    - { id: 53, price: 17.99, out_of_stock: true, format: paperback, isbn: 978-1-956887-33-4 }
 writers:
     - 'Pádraic Pearse'
 pages: 212
@@ -13,6 +13,7 @@ publisher: 'Antelope Hill'
 language: Engels
 advertisable: true
 date: '2020-09-07'
+out_of_stock: true
 ---
 
 Pádraic Pearse had vele titels: academicus, leraar, broer, zoon en revolutionair, maar vóór alles was Pearse een Ier. Pearse werd geboren in 1879 en wijdde zijn leven aan Ierland en de bevrijding van Ierland van de Britse overheersing. In mei 1916 betaalde hij de ultieme prijs voor deze toewijding. Pearse werd gemarteld voor zijn rol in de vorming van de Voorlopige Regering van de Ierse Republiek en de gebeurtenissen rond wat bekend werd als de Paasopstand.

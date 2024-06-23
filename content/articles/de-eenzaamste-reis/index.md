@@ -4,7 +4,7 @@ title: 'De eenzaamste reis'
 subtitle: 'Meditatie over de dwaas in de Tarot'
 image: 81hh1e-1jul.webp
 anchor: Top
-captions: 'De dwaas uit de Tarot.'
+caption: 'De dwaas uit de Tarot.'
 authors:
     - Tólma
 theme: 'Religie en Wijsbegeerte'

@@ -4,7 +4,7 @@ title: 'Kan kunstmatige intelligentie écht poëzie schrijven?'
 subtitle: 'De psychische en spirituele gevaren van AI'
 image: c779ba8d-f47e-45fa-921c-edf0b76efe1c.jpg
 anchor: Smart
-captions: "Los' Schim kwelt hem in zijn smederij, door William Blake."
+caption: "Los' Schim kwelt hem in zijn smederij, door William Blake."
 note: 'Dit essay is een vertaling uit het Engels. Het origineel, geschreven door Charles Upton, is hier te beluisteren: *[The Psychic and Spiritual Dangers of AI](https://www.youtube.com/watch?v=Wkazyv5WZQo)*. Voor zover ik weet heeft hij het essay nog niet openbaar in tekstvorm gepubliceerd.'
 authors:
     - Gastauteur

@@ -4,7 +4,7 @@ title: 'Hoe polarisatie het vrije denken vernietigt'
 subtitle: 'De vijand van mijn vriend is mijn vijand'
 image: a8af2b9f-a99f-428e-ae0a-ff49dac79f49.jpg
 anchor: Smart
-captions: 'J.S. Davis, De slag bij Plataea (1900).'
+caption: 'J.S. Davis, De slag bij Plataea (1900).'
 description: 'Hoe bij toenemende polarisatie het vijandschap het vrije denken beknot.'
 authors:
     - 'Gerald Russelman'

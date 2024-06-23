@@ -4,7 +4,7 @@ title: 'Wat wil SchoolsOUT met uw kinderen?'
 subtitle: 'Het zoveelste regenboogproject nader bekeken'
 image: 9735c9f9-162b-43f1-81c1-819b9a5418b2.webp
 anchor: Smart
-captions: 'Ter ere van Coming Out-dag wordt de regenboogvlag gehesen op een schoolplein.'
+caption: 'Ter ere van Coming Out-dag wordt de regenboogvlag gehesen op een schoolplein.'
 authors:
     - Gastauteur
 theme: 'Onderzoek en Speurwerk'

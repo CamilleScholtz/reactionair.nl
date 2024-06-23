@@ -4,7 +4,7 @@ title: 'Koninklijke bespiegelingen'
 subtitle: 'Wie steekt zijn kroon boven het maaiveld uit?'
 image: a40ea0c5-0e01-442d-8526-536fdda4b90b.jpg
 anchor: Top
-captions: 'Charles Ernest Butler, King Arthur (1903)'
+caption: 'Charles Ernest Butler, King Arthur (1903)'
 description: 'De monarchie is heel lang de vaste bestuursvorm geweest. Democratie leidt tot wanorde en een falend bestuur. Een pleidooi voor herstel van de monarchie.'
 authors:
     - 'Anton Prins'

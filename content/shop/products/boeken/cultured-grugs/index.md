@@ -5,13 +5,14 @@ subtitle: 'Dispatches From America in Collapse'
 front: 14f292d5-09e6-4229-8aea-340bfffa3c11.webp
 back: 39982b77-6aa1-4ec3-9a72-a456de8f8110.webp
 variants:
-    - { id: 105, price: 24.99, format: paperback, isbn: 978-1-956887-30-3 }
+    - { id: 105, price: 24.99, out_of_stock: true, format: paperback, isbn: 978-1-956887-30-3 }
 writers:
     - 'John “Borzoi” Chapman'
 pages: 263
 publisher: 'Antelope Hill'
 language: Engels
 date: '2022-07-28'
+out_of_stock: true
 ---
 
 {{< quote text="Het probleem met intellectuelen is dat ze indruk proberen te maken op mensen die er niet toe doen." >}}

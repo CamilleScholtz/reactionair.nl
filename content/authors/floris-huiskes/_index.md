@@ -4,5 +4,5 @@ title: 'Floris Huiskes'
 description: ...
 keyword: Gezelligheidsconnaisseur
 pseudonym: true
-image: avatar.webp
+image: 6552018a-3fed-4f01-ac28-822a02922b65.webp
 ---

@@ -4,13 +4,14 @@ title: 'Fichte and the Vocation of the Intellectual'
 front: 78ba5b62-35ef-4f62-afa7-6daaac36b143.webp
 back: 0e1772a4-c85c-4e42-a2f7-9e734072d379.webp
 variants:
-    - { id: 11, price: 21.99, format: paperback, isbn: 978-1-956887-38-9 }
+    - { id: 11, price: 21.99, out_of_stock: true, format: paperback, isbn: 978-1-956887-38-9 }
 writers:
     - 'Diego Fusaro'
 pages: 159
 publisher: 'Antelope Hill'
 language: Engels
 date: '2022-08-13'
+out_of_stock: true
 ---
 
 "Een man die zichzelf isoleert, geeft zijn lot op; hij bekommert zich niet om de morele vooruitgang. In morele termen gesproken, alleen aan jezelf denken is hetzelfde als helemaal niet aan jezelf denken, omdat het absolute doel van het individu niet in hemzelf ligt, maar in de mensheid als geheel." — J.G. Fichte

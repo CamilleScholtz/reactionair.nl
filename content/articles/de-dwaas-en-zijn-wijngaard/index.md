@@ -4,7 +4,7 @@ title: 'De dwaas en zijn wijngaard'
 subtitle: 'Chi troppo vuole, nulla stringe'
 image: 0c8cfa09-1480-4eda-9909-7114ac8e2ab9.jpg
 anchor: Smart
-captions: 'Elin Danielson-Gambogi, Viinitarhassa (1898).'
+caption: 'Elin Danielson-Gambogi, Viinitarhassa (1898).'
 description: 'Een verhaal over hoe een dwaas man zich laat meeslepen door verlangen en zijn thuis in verval stort.'
 authors:
     - 'Anna Strijbos'

@@ -4,7 +4,7 @@ title: 'Waarom gehoorzamen wij de overheid? '
 subtitle: 'Het sociaal contract en Pieter Omtzigt '
 image: e42384e0-ef1e-4bea-90b1-aa8f56151872.jpg
 anchor: Top
-captions: 'Dit is de top van de zuil waarop de Babylonische koning Hammoerabi omstreeks 1755 zijn complete wetgeving liet graveren. Te zien is hoe de koning (rechts, zittend) de wet ontvangt van de zonnegod Sjamasj (links, staand).'
+caption: 'Dit is de top van de zuil waarop de Babylonische koning Hammoerabi omstreeks 1755 zijn complete wetgeving liet graveren. Te zien is hoe de koning (rechts, zittend) de wet ontvangt van de zonnegod Sjamasj (links, staand).'
 authors:
     - 'Gerald Russelman'
 theme: 'Cultuur en Maatschappij'

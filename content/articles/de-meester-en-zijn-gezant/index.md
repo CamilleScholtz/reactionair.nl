@@ -4,7 +4,7 @@ title: 'De meester en zijn gezant'
 subtitle: 'Over de ideeën van Iain McGilchrist over de linker- en rechterhersenhelft'
 image: 740b6792-8eb2-468b-9a2e-f8aa859b698a.jpg
 anchor: Smart
-captions: 'Filmposter voor een documentaire over het werk van McGilchrist.'
+caption: 'Filmposter voor een documentaire over het werk van McGilchrist.'
 description: 'De moderne mens ziet liever zichzelf als het middelpunt van de wereld. Maar is dat wel een slim idee? Traditionele wijsheid, die ons leert maat te houden en ons te richten op het Goede, Schone en Ware, zou weleens veel belangrijker kunnen zijn dan we denken. De oplossing voor de ecologische crisis ligt in het herstellen van de samenwerking tussen de Meester en zijn Gezant. Maar hoe leren we weer om het Geheel te zien?'
 note: 'Dit artikel is geschreven door mr. Gert-Jan de Ruijter en verscheen oorspronkelijk op zijn *[persoonlijke website](https://gertjanderuijter.com/2020/05/13/de-meester-en-zijn-gezant/)*.'
 authors:

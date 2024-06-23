@@ -4,7 +4,7 @@ title: 'Het veiligste antwoord'
 subtitle: 'Over schoonheid, kunst, en leven'
 image: val_van_de_opstandige_engelen-_james_ensor-_1889-_koninklijk_museum_voor_schone_kunsten_antwerpen-_2176.001-2.jpeg
 anchor: Smart
-captions: 'James Ensor, De val van de opstandige engelen'
+caption: 'James Ensor, De val van de opstandige engelen'
 authors:
     - Tólma
 theme: 'Religie en Wijsbegeerte'

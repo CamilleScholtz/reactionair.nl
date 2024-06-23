@@ -4,7 +4,7 @@ title: 'Poging tot karaktermoord'
 subtitle: 'Hoe snel men tot extreemrechts gerekend wordt'
 image: 50bba62b-4ccd-4427-ac30-6f0bdb0eb11d.jpg
 anchor: Smart
-captions: 'Het Concertgebouw te Amsterdam, 1931'
+caption: 'Het Concertgebouw te Amsterdam, 1931'
 description: 'Activistische journalistiek in optima forma: De ongegronde beschuldigingen tegen NTR ZaterdagMatinee directeur Kees Vlaardingerbroek.'
 authors:
     - 'Anton Prins'

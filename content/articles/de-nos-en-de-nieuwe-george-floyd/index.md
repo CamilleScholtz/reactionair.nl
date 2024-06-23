@@ -4,7 +4,7 @@ title: 'De NOS en de nieuwe George Floyd'
 subtitle: 'Een analyse van berichtgeving en waarheid'
 image: a7600b4e-8f08-45f8-964f-a8f9bdf937ef.jpg
 anchor: Smart
-captions: 'Kelly Kline, Black Lives Matter Protest, Seattle WA (via Flickr)'
+caption: 'Kelly Kline, Black Lives Matter Protest, Seattle WA (via Flickr)'
 authors:
     - Vrederijk
 theme: 'Politiek en Actualiteit'

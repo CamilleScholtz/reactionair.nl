@@ -7,13 +7,14 @@ tags:
     - Hindoeisme
     - Boeddhisme
 variants:
-    - { id: 17, price: 20.99, format: paperback, isbn: 978-1-907166-32-7 }
+    - { id: 17, price: 20.99, out_of_stock: true, format: paperback, isbn: 978-1-907166-32-7 }
 writers:
     - 'Sri Dharma Pravartaka Acharya'
 pages: 196
 publisher: Arktos
 language: Engels
 date: '2013-11-02'
+out_of_stock: true
 ---
 
 *The Dharma Manifesto* is een oproep tot actie voor hen die een vorm van sociale en politieke actie zoeken die een stevige spirituele basis heeft, maar die ook de heersende sociale en religieuze orde in het postmoderne Westen uitdaagt. Het biedt niet alleen kritiek - het is ook een blauwdruk voor hoe een nationale gemeenschap gebaseerd op Dharmische principes zou kunnen functioneren in de eenentwintigste eeuw. De auteur definieert de term "Dharma", wat in het oude Sanskriet "Natuurwet" betekent, op een onconventionele manier. Voor degenen die het Dharma Nationalisme omarmen, is Dharma gebaseerd op de dringende noodzaak van de organische en prachtige resacralisatie van de cultuur en van alle menselijke inspanningen, evenals de manifestatie van het hoogste potentieel dat door elk individu in de samenleving kan worden bereikt in overeenstemming met transcendentale principes. Dharma verwijst dus niet alleen naar tradities waarmee het gewoonlijk wordt geassocieerd, zoals hindoeïsme en boeddhisme, maar ook naar de taoïstische, confucianistische, zoroastrische, inheemse Amerikaanse en Europese heidense tradities, die volgens dit boek allemaal een gemeenschappelijk, fundamenteel wereldbeeld delen.

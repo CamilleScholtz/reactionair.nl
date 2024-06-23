@@ -7,13 +7,14 @@ tags:
     - Oorlog
     - Europa
 variants:
-    - { id: 35, price: 18.99, format: paperback, isbn: 978-1-953730-73-2 }
+    - { id: 35, price: 18.99, out_of_stock: true, format: paperback, isbn: 978-1-953730-73-2 }
 writers:
     - 'Pierre Drieu La Rochelle'
 pages: 293
 publisher: 'Antelope Hill'
 language: Engels
 date: '2021-11-01'
+out_of_stock: true
 ---
 
 Oorspronkelijk gepubliceerd in Frankrijk achtereenvolgens in 1927 en 1928, vertegenwoordigen *The Young European* en *Geneva or Moscow* samen de poging van Pierre Drieu La Rochelle om te worstelen met wat het betekent om Europeaan te zijn op een continent dat vastbesloten lijkt zichzelf uit elkaar te scheuren.

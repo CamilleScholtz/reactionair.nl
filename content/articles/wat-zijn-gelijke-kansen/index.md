@@ -4,7 +4,7 @@ title: 'Wat zijn gelijke kansen?'
 subtitle: 'En waarom vinden we die zo belangrijk?'
 image: radvanfortuin.webp
 anchor: Top
-captions: 'Het rad van fortuin uit het tarot van Marseille.'
+caption: 'Het rad van fortuin uit het tarot van Marseille.'
 authors:
     - 'De Melancholieke Nar'
 theme: 'Religie en Wijsbegeerte'

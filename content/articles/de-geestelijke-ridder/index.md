@@ -4,7 +4,7 @@ title: 'Don Quichot, de geestelijke ridder'
 subtitle: 'Tijden van goud, tijden van ijzer'
 image: b30a366b-6107-43ff-a533-b940de675fb7.jpg
 anchor: Top
-captions: 'Don Quichot en Sancho Panza voor de windmolens.'
+caption: 'Don Quichot en Sancho Panza voor de windmolens.'
 note: 'Dit artikel is een voorproefje van het nieuwe boek van Robert Lemm, getiteld *[Desengaño: De wereld is niet voor verbetering vatbaar](https://deblauwetijger.com/product/pre-order-robert-lemm-desengano/)*.'
 authors:
     - 'Robert Lemm'

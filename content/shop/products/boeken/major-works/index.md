@@ -5,7 +5,7 @@ subtitle: 'Volume I'
 front: 74578353-c7de-4ccc-b7fb-4920f5e11e49.jpg
 back: 94646d7b-d4b9-4cdf-b883-e13f6b8438f4.jpg
 variants:
-    - { id: 68, price: 20.99, format: paperback, isbn: 978-1-922602-22-0 }
+    - { id: 68, price: 20.99, out_of_stock: true, format: paperback, isbn: 978-1-922602-22-0 }
 writers:
     - 'Joseph de Maistre'
 pages: 348
@@ -13,6 +13,7 @@ publisher: 'Imperium Press'
 language: Engels
 advertisable: true
 date: '2021-11-19'
+out_of_stock: true
 ---
 
 Joseph de Maistre is een van de grootste reactionaire denkers en in dit deel zijn drie van zijn belangrijkste werken onverkort samengebracht.

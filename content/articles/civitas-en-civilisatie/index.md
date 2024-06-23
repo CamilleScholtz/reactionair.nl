@@ -4,7 +4,7 @@ title: 'Civitas en civilisatie'
 subtitle: 'Het belang van vriendschap en loyaliteit'
 image: discurso_funebre_pericles.png
 anchor: Smart
-captions: 'Perikles hält die Leichenrede door Philipp Foltz, 1852.'
+caption: 'Perikles hält die Leichenrede door Philipp Foltz, 1852.'
 note: 'Dit is een vertaling en bewerking van een Twitter-draad van [Mac Finn](https://twitter.com/ogmios).'
 authors:
     - 'De Melancholieke Nar'

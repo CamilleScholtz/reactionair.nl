@@ -4,13 +4,14 @@ title: 'Carl Schmitt Today'
 subtitle: 'Terrorism, Just War, and the State of Emergency'
 front: 2907b098-7842-4e61-b536-257f7d7364eb.jpg
 variants:
-    - { id: 32, price: 16.99, format: paperback, isbn: 978-1-907166-39-6 }
+    - { id: 32, price: 16.99, out_of_stock: true, format: paperback, isbn: 978-1-907166-39-6 }
 writers:
     - 'Alain de Benoist'
 pages: 110
 publisher: Arktos
 language: Engels
 date: '2013-03-17'
+out_of_stock: true
 ---
 
 Er zijn maar weinig namen, behalve die van Leo Strauss, die vaker worden genoemd in discussies over de Amerikaanse reactie op terrorisme in de afgelopen jaren dan die van Carl Schmitt. Schmitt, die deel uitmaakte van de Duitse school van politiek denken die bekend staat als de 'Conservatieve Revolutie', wordt algemeen beschouwd als een van de grootste juridische denkers van de twintigste eeuw. Hij beweerde dat de belangrijkste functie van de soeverein van een natie niet het opstellen of handhaven van de wet is, maar zijn vermogen om te beslissen wanneer de wet in een noodsituatie moet worden opgeschort, en ook zijn vermogen om te verklaren wie op een bepaald moment de 'vriend' en 'vijand' van een gemeenschap is.

@@ -4,7 +4,7 @@ title: 'Kafkaistan, democratie bedreigd door autocratie en fascisme'
 subtitle: 'Een inleiding op de gevaren voor de democratie'
 image: 60a2e30d-9ead-4616-946d-5e2faaaff8d3.jpg
 anchor: Top
-captions: 'Tekening van  Kafka'
+caption: 'Tekening van  Kafka'
 description: 'In zijn nieuwe boek "Kafkaistan, democratie bedreigd door autocratie en fascisme" onderzoekt econoom en socioloog Frits Bosch de oorsprong en gevolgen van de toenemende toxische polarisatie in westerse landen. Hij biedt inzicht in de problematiek en mogelijke oplossingen voor de huidige crisis van vertrouwen in de politiek en democratie. Een relevante analyse voor kiezers in deze verkiezingstijd.'
 note: "Dit artikel is een inleiding op het boek 'Kafkaistan, democratie bedreigd door autocratie en fascisme' van Frits Bosch. Is uw interesse door dit artikel gewekt? Bestel het boek dan *[hier](https://www.boekscout.nl/shop2/boek/9789464688764)*."
 authors:

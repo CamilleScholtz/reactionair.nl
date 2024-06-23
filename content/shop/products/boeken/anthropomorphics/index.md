@@ -5,13 +5,14 @@ subtitle: 'An Originary Grammar of the Center'
 front: c431f1f9-6e60-406a-b9cb-9cea942bb117.jpg
 back: 5e1c9e65-71ef-4ba0-913e-2282f10a3459.jpg
 variants:
-    - { id: 99, price: 17.99, format: paperback, isbn: 978-0-648690-57-3 }
+    - { id: 99, price: 17.99, out_of_stock: true, format: paperback, isbn: 978-0-648690-57-3 }
 writers:
     - 'Dennis Bouvard'
 pages: 193
 publisher: 'Imperium Press'
 language: Engels
 date: '2020-04-17'
+out_of_stock: true
 ---
 
 Dennis Bouvard's *Anthropomorphics: An Originary Grammar of the Center* is de inhuldiging van een metadiscipline: een strategie voor het betreden en transformeren van de seculiere disciplines.

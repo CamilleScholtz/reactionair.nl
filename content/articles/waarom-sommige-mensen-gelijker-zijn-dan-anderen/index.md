@@ -4,7 +4,7 @@ title: 'Over het gelijkheidsprincipe'
 subtitle: 'Enkele reflecties op de betekenis van gelijkheid in onze samenleving '
 image: petrov-vodkin-fantasy.jpg
 anchor: Smart
-captions: 'Kuzma Petrov-Vodkin, Fantasia'
+caption: 'Kuzma Petrov-Vodkin, Fantasia'
 authors:
     - 'Anton Prins'
 theme: 'Religie en Wijsbegeerte'

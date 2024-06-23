@@ -4,7 +4,7 @@ title: 'Hamann, de wijze uit het noorden'
 subtitle: 'Een korte introductie op de vijand van de verlichting'
 image: 8488e2ac-cd20-40f7-a223-78d8899c191f.jpg
 anchor: Smart
-captions: 'Caspar David Friedrich, Klosterruine Eldena bei Greifswald (ca. 1825)'
+caption: 'Caspar David Friedrich, Klosterruine Eldena bei Greifswald (ca. 1825)'
 authors:
     - 'Jan-Willem Veldhuizen'
 theme: 'Religie en Wijsbegeerte'

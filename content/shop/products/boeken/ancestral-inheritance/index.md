@@ -5,13 +5,14 @@ subtitle: 'The Yearly Cycle of Germanic Customs and Festivals'
 front: b1654ffd-5c76-49e9-ba6d-45cc7f81f1cc.webp
 back: 51336e2b-9fce-44f0-8cc1-d9a4856d3ceb.webp
 variants:
-    - { id: 19, price: 18.99, format: paperback, isbn: 978-1-956887-69-3 }
+    - { id: 19, price: 18.99, out_of_stock: true, format: paperback, isbn: 978-1-956887-69-3 }
 writers:
     - 'Joseph Otto Plassmann'
 pages: 146
 publisher: 'Antelope Hill'
 language: Engels
 date: '2023-02-24'
+out_of_stock: true
 ---
 
 Als folklorist, filoloog en cultuurwetenschapper wijdde Joseph Otto Plassmann zijn leven aan het onderzoeken en ophelderen van de oorsprong, geschiedenis en volkswijzen van zijn volk. Tijdens het nationaalsocialistische tijdperk in Duitsland zette hij zijn werk voort onder auspiciën van de Ahnenerbe, een organisatie die zich toelegde op het blootleggen van het verleden van wat in die tijd de Arische volkeren werden genoemd. Hoewel de terminologie is veranderd en sommige ideeën onjuist of achterhaald zijn gebleken, hebben vele andere de tand des tijds doorstaan, gerechtvaardigd door modern taalkundig, archeologisch en genetisch onderzoek.

@@ -4,13 +4,14 @@ title: 'The Charm of Egypt'
 front: 916e971c-d4b6-46e7-a6a8-f713d46ed24a.jpg
 back: 9e0c2564-2513-45ba-b0f8-ad7d274652d8.jpg
 variants:
-    - { id: 26, price: 22.99, format: paperback, isbn: 978-1-956887-31-0 }
+    - { id: 26, price: 22.99, out_of_stock: true, format: paperback, isbn: 978-1-956887-31-0 }
 writers:
     - 'Filippo Marinetti'
 pages: 129
 publisher: 'Antelope Hill'
 language: Engels
 date: '2022-07-28'
+out_of_stock: true
 ---
 
 Filippo Tommaso Marinetti, geboren in 1876 in Alexandrië in het Khedivaat van Egypte als zoon van een Italiaans echtpaar, werd volwassen rond de eeuwwisseling van de 20e eeuw. Hij was getuige van de snelle vooruitgang van de industriële samenleving, observeerde de strijd van Europa's grootmachten als oorlogsverslaggever en zag de catastrofale gebeurtenissen van de Grote Oorlog uit de eerste hand toen hij soldaat was in het Italiaanse leger.

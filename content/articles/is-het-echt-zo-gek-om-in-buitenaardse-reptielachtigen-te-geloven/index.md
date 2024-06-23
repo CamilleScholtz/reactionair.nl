@@ -4,7 +4,7 @@ title: 'Is het echt zo gek om in buitenaardse reptielachtigen te geloven?'
 subtitle: 'Een symbolische verkenning door Laurens Buijs'
 image: 74f42340-c23f-4168-bfe0-11faca022d33.png
 anchor: Smart
-captions: 'Jörmungandr roert zijn staart in de wereldzee tijdens Ragnarök, het einde der tijden volgens de Noordse mythologie. Tekening van Louis Moe, 1898.'
+caption: 'Jörmungandr roert zijn staart in de wereldzee tijdens Ragnarök, het einde der tijden volgens de Noordse mythologie. Tekening van Louis Moe, 1898.'
 description: 'Is het zo gek om in buitenaardse reptilians te geloven? Volgens de jungiaanse psychologie niet, het reptiel is een universeel symbool in mystieke verhalen van over de hele wereld en speelt vaak een rol voor controle, angst en overleving. Hoewel in de moderne westerse wereld vaak neergekeken wordt op het reptielenbrein, moeten we ons afvragen of we ons niet te veel focussen op de materiële 3D-wereld en ons meer openstellen voor symbolen die diep verankerd zijn in ons collectieve onderbewuste.'
 note: 'Het artikel na het woord vooraf is geschreven door Laurens Buijs en verscheen oorspronkelijk op zijn *[blog](https://laurensbuijs.org/2022/10/25/is-het-echt-zo-gek-om-in-buitenaardse-reptilians-te-geloven/)*.'
 authors:

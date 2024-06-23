@@ -4,7 +4,7 @@ title: 'Opioids for the Masses'
 front: front.jpg
 back: back.jpg
 variants:
-    - { id: 22, price: 20.99, format: paperback, isbn: 978-1-953730-89-3 }
+    - { id: 22, price: 20.99, out_of_stock: true, format: paperback, isbn: 978-1-953730-89-3 }
 writers:
     - 'Trey Garrison'
     - 'Richard McClure'
@@ -13,6 +13,7 @@ publisher: 'Antelope Hill'
 language: Engels
 advertisable: true
 date: '2022-01-01'
+out_of_stock: true
 ---
 
 Wanneer wordt een crisis een misdaad?

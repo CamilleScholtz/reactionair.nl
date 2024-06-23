@@ -4,13 +4,14 @@ title: 'On the Brink of the Abyss'
 subtitle: 'The Imminent Bankruptcy of the Financial System'
 front: c60552be-27be-4e9c-a535-945ca849beb0.jpg
 variants:
-    - { id: 3, price: 16.99, format: paperback, isbn: 978-1-910524-30-5 }
+    - { id: 3, price: 16.99, out_of_stock: true, format: paperback, isbn: 978-1-910524-30-5 }
 writers:
     - 'Alain de Benoist'
 pages: 190
 publisher: Arktos
 language: Engels
 date: '2021-11-11'
+out_of_stock: true
 ---
 
 Dit boek is een verzameling essays geschreven als reactie op de internationale financiële crisis van 2008 en de naweeën daarvan. Het probleem met de meeste discussies over de crisis, merkt Benoist op, is dat ze zich richten op pogingen om het huidige economische systeem te hervormen om te voorkomen dat dergelijke rampen zich herhalen. Dit is een vergissing, zegt hij, want het probleem ligt eigenlijk bij de aard van de huidige vorm van internationaal kapitalisme zelf, een systeem dat de ongebreidelde verlangens van het individu bevoordeelt boven de behoeften van de gemeenschap; dat de rijken beschermt ten koste van de middenklasse en de armen; en dat wereldwijd zoveel leed veroorzaakt doordat het voor bedrijven in de rijkere landen gemakkelijk is om hun werk uit te besteden aan andere, achtergestelde landen, ten koste van beide. Het is dit systeem dat bij zijn fundamenten in twijfel moet worden getrokken. Benoist houdt zowel links als rechts in gelijke mate verantwoordelijk voor deze situatie, omdat de mainstream in beide stromingen onvoorwaardelijk het idee is gaan accepteren dat liberalisme en geglobaliseerd kapitalisme niet alleen de beste, maar ook de enige wenselijke methode zijn om economieën in de wereld van vandaag te structureren. Ondertussen balanceert het internationale financiële systeem op de rand van de afgrond, met een torenhoge Amerikaanse schuld en de euro die op het punt staat te imploderen. Benoist onderzoekt niet alleen de wortels van hoe deze situatie is ontstaan, maar doet ook suggesties over wat er aan gedaan zou kunnen worden.

@@ -4,7 +4,7 @@ title: 'Napoleon in Holland'
 subtitle: 'Geliefde keizer of onderdrukkende dictator?'
 image: 14a03da5-063f-41e9-a020-ad35bb449781.jpg
 anchor: Smart
-captions: 'Mattheus Ignatius van Bree, De intocht van Napoleon te Amsterdam (1811)'
+caption: 'Mattheus Ignatius van Bree, De intocht van Napoleon te Amsterdam (1811)'
 description: 'Hoe dachten de Nederlanders ten tijde van Napoleon over de keizer? Napoleons bezoek aan Nederland vertelt ons veel over de verdeeldheid in de samenleving aangaande de machtige keizer.'
 authors:
     - Markoes

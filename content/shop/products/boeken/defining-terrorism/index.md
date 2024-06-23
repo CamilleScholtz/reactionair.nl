@@ -5,13 +5,14 @@ subtitle: 'The End of Double Standards'
 front: 577fca82-d91c-4410-acd5-6281715a01ad.jpg
 back: bb89ab91-b5e3-4535-9a92-81384415b1f1.jpg
 variants:
-    - { id: 41, price: 12.99, format: paperback, isbn: 978-1-907166-83-9 }
+    - { id: 41, price: 12.99, out_of_stock: true, format: paperback, isbn: 978-1-907166-83-9 }
 writers:
     - 'Abir Taha'
 pages: 90
 publisher: Arktos
 language: Engels
 date: '2014-10-16'
+out_of_stock: true
 ---
 
 "De terrorist van de een is de vrijheidsstrijder van de ander": zijn bewegingen als Hezbollah, Hamas, de IRA, ETA, de Tamil Tijgers, enzovoort 'terroristen' of 'vrijheidsstrijders'?

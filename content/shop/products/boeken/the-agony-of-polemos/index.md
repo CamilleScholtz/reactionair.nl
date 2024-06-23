@@ -6,7 +6,7 @@ tags:
     - Liberalisme
     - Globalisme
 variants:
-    - { id: 38, price: 21.99, format: paperback, isbn: 978-1-956887-45-7 }
+    - { id: 38, price: 21.99, out_of_stock: true, format: paperback, isbn: 978-1-956887-45-7 }
 writers:
     - 'Carlos Videla'
 pages: 146
@@ -14,6 +14,7 @@ publisher: 'Antelope Hill'
 language: Engels
 advertisable: true
 date: '2022-10-07'
+out_of_stock: true
 ---
 
 De oude mens leefde zijn leven in de voortdurende schaduw van geweld en oorlog, maar hij zag dit niet als een reden voor angst en rouw. Integendeel, deze voortdurende strijd werd ooit met vreugde en ontzag bekeken, vooral door de Indo-Europese beschavingen, de meesters van de oorlog, en in het bijzonder de Grieken. 

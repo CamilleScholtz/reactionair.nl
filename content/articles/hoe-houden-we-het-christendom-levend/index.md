@@ -4,7 +4,7 @@ title: 'Hoe houden we het christendom levend?'
 subtitle: 'Een pleidooi voor cultuurchristendom in een ongelovige wereld'
 image: 13150167-4396-42a1-9a24-1ba454dab840.jpg
 anchor: Smart
-captions: 'Johannes Bosboom, Kerkinterieur (ca. 1827-1891).'
+caption: 'Johannes Bosboom, Kerkinterieur (ca. 1827-1891).'
 description: 'Waarom cultuurchristendom een leemte kan opvullen die zowel de ontkerkelijking en het rabiate atheïsme in het religieuze landschap achterlaten.'
 authors:
     - Markoes

@@ -4,13 +4,14 @@ title: 'Livin’ the Dream'
 front: cbdafdb7-692a-46b0-ab6c-cc304f9fe295.jpg
 back: aae33a02-dea5-48bf-ba05-775cee326dec.jpg
 variants:
-    - { id: 89, price: 19.99, format: paperback, isbn: 978-1-956887-41-9 }
+    - { id: 89, price: 19.99, out_of_stock: true, format: paperback, isbn: 978-1-956887-41-9 }
 writers:
     - 'Jack McKraken'
 pages: 190
 publisher: 'Antelope Hill'
 language: Engels
 date: '2022-10-12'
+out_of_stock: true
 ---
 
 *Livin' the Dream* is geschreven door voormalig New York Corrections Officer Jack McKraken en is een diepe duik in het kloppende hart van het Amerikaanse gevangeniswezen. Dit boek schijnt een licht op de absurditeiten, tekortkomingen en georganiseerde chaos van het systeem dat tussen gewone Amerikanen en de ergste gewelddadige overtreders staat.

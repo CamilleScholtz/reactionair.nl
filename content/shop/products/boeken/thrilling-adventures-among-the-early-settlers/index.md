@@ -4,7 +4,7 @@ title: 'Thrilling Adventures Among the Early Settlers'
 front: d34d9314-e139-4292-a186-45fd994a65dd.jpg
 back: 604b74a0-7454-454e-94a0-f14523e75b53.jpg
 variants:
-    - { id: 12, price: 17.99, format: paperback, isbn: 978-1-956887-39-6 }
+    - { id: 12, price: 17.99, out_of_stock: true, format: paperback, isbn: 978-1-956887-39-6 }
 writers:
     - 'Warren Wildwood'
 pages: 308
@@ -12,6 +12,7 @@ publisher: 'Antelope Hill'
 language: Engels
 advertisable: true
 date: '2022-09-23'
+out_of_stock: true
 ---
 
 Warren Wildwood's *Thrilling Adventures Among the Early Settlers*, oorspronkelijk gepubliceerd in 1861, is een leuke en fascinerende uitstap naar de beproevingen van enkele van Amerika's meest geliefde volkshelden, evenals gewone mannen en vrouwen die moed toonden in het aangezicht van indianen, wilde dieren, en criminelen. Deze inspirerende en vermakelijke escapades verbeelden waargebeurde verhalen van uitzonderlijke mannen zoals Daniel Boone en David Crockett, samen met legendarische groepen zoals de Texan Rangers en het Patriot Army van 1776. Deze pittige verhalen uit de koloniale, revolutionaire en vooroorlogse tijd en verspreid over heel Amerika hebben voor elk wat wils. Kort genoeg voor een verhaaltje voor het slapengaan, en overvloedig genoeg om keer op keer te lezen, *Thrilling Adventures* is perfect voor avontuurlijke mannen en jongens van alle leeftijden.

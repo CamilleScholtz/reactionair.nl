@@ -4,7 +4,7 @@ title: 'De feminisering van het voetbal'
 subtitle: 'Of hoe één van de laatste masculiene bastions moet vallen'
 image: 97994ca7-33da-43b3-bcef-6013605c38e0.jpg
 anchor: Top
-captions: '© Profimedia'
+caption: '© Profimedia'
 authors:
     - 'Jan-Jaap Moltman'
 theme: 'Cultuur en Maatschappij'

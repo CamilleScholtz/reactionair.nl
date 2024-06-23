@@ -4,7 +4,7 @@ title: 'Directrice hondenpension met 4000 katten: “Instroom katten beperken”
 subtitle: 'Cynisme na zeshonderdste toezegging niet weggenomen'
 image: dc7bf90b-feaf-462d-b176-b8a9bb5be212.jpg
 anchor: Smart
-captions: "Marieke Rötte legt haar anti-katten standpunt uit. © Reu-ters 2023\n"
+caption: "Marieke Rötte legt haar anti-katten standpunt uit. © Reu-ters 2023\n"
 authors:
     - Vrederijk
 theme: 'De Uylenspieghel'

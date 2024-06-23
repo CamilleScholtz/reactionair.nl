@@ -4,13 +4,14 @@ title: 'Let Them Look West'
 front: da6d2335-efee-4572-95df-d34a5e3b2e5d.webp
 back: 8ebf2a7d-a2cf-48fa-a867-e8c09c853d9b.webp
 variants:
-    - { id: 51, price: 24.99, format: paperback, isbn: 978-1-953730-82-4 }
+    - { id: 51, price: 24.99, out_of_stock: true, format: paperback, isbn: 978-1-953730-82-4 }
 writers:
     - 'Marty Phillips'
 pages: 268
 publisher: 'Antelope Hill'
 language: Engels
 date: '2020-12-07'
+out_of_stock: true
 ---
 
 Rob Coen heeft een missie die hij met tegenzin heeft gekozen - het interviewen van de onlangs herkozen gouverneur van Wyoming, James Alexander, een populistische politicus die niet alleen de politiek, maar ook de ziel van zijn staat opnieuw lijkt te hebben uitgevonden. Niemand kan een groter contrast vormen met Coen, een liberale journalist uit de grote stad, dan de landelijke, bijbelgetrouwe Alexander en zijn vreemde sociale en religieuze projecten, waaronder de bouw van Mount Calvary, een monument voor de kruisiging bovenop een door mensenhanden gemaakte berg. Coen raakt al snel persoonlijk betrokken en zijn reis om Alexander te interviewen wordt een steekspel, waarbij hij zijn nihilisme afzet tegen het geloof van de mensen die hij ontmoet terwijl hij de leugen probeert te ontdekken waarvan hij overtuigd is dat die schuilgaat in het hart van hun rechtschapen koninkrijk. Tegelijkertijd begint Coen te beseffen dat hij zelf wordt meegesleurd in een strijd die zijn verstand te boven gaat, georkestreerd door krachten die hij niet in de hand heeft.

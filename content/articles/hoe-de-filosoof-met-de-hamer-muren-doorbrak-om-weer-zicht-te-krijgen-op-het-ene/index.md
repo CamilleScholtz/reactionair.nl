@@ -4,7 +4,7 @@ title: 'Hoe de filosoof met de hamer muren doorbrak om weer zicht te krijgen op 
 subtitle: 'Over taaltovenarij met hamer en mes'
 image: thumb.webp
 anchor: Center
-captions: 'Friedrich Nietzsche door Edvard Munch, 1906.'
+caption: 'Friedrich Nietzsche door Edvard Munch, 1906.'
 authors:
     - 'De Melancholieke Nar'
 theme: 'Religie en Wijsbegeerte'

@@ -4,13 +4,14 @@ title: 'The Conservative'
 front: 5f2cf1d2-d5b8-4fc8-8428-b32989cc3069.jpg
 back: e91129e6-40ef-4701-a57c-785c7be727db.jpg
 variants:
-    - { id: 91, price: 25.99, format: paperback, isbn: 978-1-907166-30-3 }
+    - { id: 91, price: 25.99, out_of_stock: true, format: paperback, isbn: 978-1-907166-30-3 }
 writers:
     - 'H. P. Lovecraft'
 pages: 218
 publisher: Arktos
 language: Engels
 date: '2014-03-04'
+out_of_stock: true
 ---
 
 *The Conservative* was een tijdschrift dat tussen 1915 en 1923 sporadisch werd uitgegeven door H.P. Lovecraft. Sommige stukken werden geschreven door Lovecraft zelf, maar veel stukken werden geschreven door anderen en bevatten niet alleen politiek en sociaal commentaar op de problemen van het moment, maar ook poëzie, korte verhalen en literaire kritiek. Ondanks de naam vertoonde Lovecrafts conservatieve stijl weinig gelijkenis met wat vandaag de dag in Amerika onder die naam wordt gezegd. In plaats daarvan was het in de eerste plaats een oproep tot een culturele heropleving - een oproep om terug te keren naar de diepste bronnen die de westerse cultuur vanaf haar oorsprong hadden geïnspireerd. De periode van The Conservative viel samen met enkele van de meest tumultueuze gebeurtenissen van de twintigste eeuw, waaronder de Eerste Wereldoorlog en de Russische Revolutie.

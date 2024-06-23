@@ -15,7 +15,7 @@ tags:
 date: '2021-11-18'
 ---
 
-In een artikel eerder gepubliceerd op Reactionair.nl, _Autonomie en consumptie: Hoe autonomie met de consumptiemaatschappij samenhangt_,[^1] vroeg Floris Huiskes zich af of er een mogelijkheid is om te ontsnappen aan de consumptiemaatschappij _“waarin wij, min of meer, sinds de 20e eeuw leven”_. In dit artikel ga ik op zoek naar de mogelijkheden voor individuen om autonomie na te streven.
+In een artikel eerder gepubliceerd op Reactionair.nl, _Autonomie en consumptie: Hoe autonomie met de consumptiemaatschappij samenhangt_,[^1] vroeg Jurbin van Hooff zich af of er een mogelijkheid is om te ontsnappen aan de consumptiemaatschappij _“waarin wij, min of meer, sinds de 20e eeuw leven”_. In dit artikel ga ik op zoek naar de mogelijkheden voor individuen om autonomie na te streven.
 
 Van Hooff stelt dat de individuele mens zo veel door de omgeving beïnvloed wordt in het denken, oordelen en twijfelen dat er geen sprake is van autonomie. In de consumptiemaatschappij worden mensen beïnvloed door PR-campagnes van bedrijven die producten willen verkopen. Reclame verspreidt niet alleen feiten over een product maar verbindt bovenal het product met een bepaalde identiteit. Als voorbeeld noemde Van Hooff een campagne die het idee verspreidde dat het roken van sigaretten een vrouw onafhankelijker zou maken. Dankzij de enorme invloed van marketing in de consumptiemaatschappij kan het aanbod de vraag sturen. Wie de mens blijft zien als autonoom zal niet snel bedrijven, hun campagnes en het systeem waarin zij opereren de schuld geven van de vervuiling en ongezondheid veroorzaakt door de consumptiemaatschappij.  
 
@@ -42,7 +42,7 @@ Autonomie, ofwel bewust leven, is een middel om fysieke, esthetische doelen te b
 
 Hiermee heb ik enkele mogelijkheden genoemd voor het als individu ontsnappen aan de impulsen van de consumptiemaatschappij. Dit stuk is niet geschreven als kritiek op mensen die bewustzijn als een fout in evolutie zien of God als herder hebben gekozen. Ik ben benieuwd hoe zij denken over de zelfscheppende mens. Ik hoop dat dit stuk iemand aanzet om bewuste keuzes te maken. De consumptiemaatschappij breekt deels af in een _lockdown_. Laat jij je zonder nadenken verleiden om meer vanuit huis te consumeren of maak je een bewuste keuze? Zoals Klaus Schwab zegt is er nu _"a rare but narrow window of opportunity to reflect, reimagine, and reset our world"_.[^4]
 
-[^1]: Floris Huiskes, _[Autonomie en consumptie](https://reactionair.nl/artikelen/autonomie-en-consumptie/)_.
+[^1]: Jurbin van Hooff, _[Autonomie en consumptie](https://reactionair.nl/artikelen/autonomie-en-consumptie/)_.
 [^2]: Libet B, Gleason CA, Wright EW, Pearl DK (1983). _Time of consciousintention to act in relation to onset of cerebral activity (readiness-potential): the unconscious initiation of a freely voluntary act_, _Brain_ 106:623–642.
 [^3]: Libet, B. (1985). _Unconscious cerebral initiative and the role of conscious will in voluntary action. Behavioral and Brain Sciences_, 8, 529–566.
 [^4]: World Economic Forum, _[The Great Reset](https://www.weforum.org/focus/the-great-reset)_.

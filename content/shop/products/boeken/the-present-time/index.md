@@ -4,13 +4,14 @@ title: 'The Present Time'
 front: c0291606-218c-478b-bb07-6839beb5893a.jpg
 back: 6f0e02bc-9ae0-4f33-b67c-3991e37f6b28.jpg
 variants:
-    - { id: 40, price: 13.99, format: paperback, isbn: 978-0-648859-39-0 }
+    - { id: 40, price: 13.99, out_of_stock: true, format: paperback, isbn: 978-0-648859-39-0 }
 writers:
     - 'Thomas Carlyle'
 pages: 223
 publisher: 'Imperium Press'
 language: Engels
 date: '2021-03-18'
+out_of_stock: true
 ---
 
 In *The Present Time* neemt Carlyle het op tegen de moderniteit. Dit essay werd, zelfs in zijn tijd, gezien als zo verpletterend dat de *Southern Literary Messenger* het beschreef als “purely monstrous, and the most elaborate argument would not place its monstrosity more clearly before the reader, than the simple enunciation of it.” We presenteren het hier samen met twee andere essays.
