@@ -82,7 +82,7 @@ pluralizeListTitles  = false
 [httpcache]
 	[httpcache.cache]
 		[httpcache.cache.for]
-			includes = ['https://admin.reactionair.nl/hugo/**', 'http://127.0.0.1:8000/hugo/**']
+			includes = ['https://admin.reactionair.nl/**', 'http://127.0.0.1:8000/**']
 
 [security]
 	[security.http]
