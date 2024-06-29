@@ -5,7 +5,7 @@
 		{{ if eq .section "related" }}
 			<h2>LEES <i>ook deze</i> ARTIKELEN</h2>
 		{{ else }}
-			{{ with site.GetPage (printf "/%s/%s" .section (urlize .term)) }}
+			{{ with site.GetPage (printf "%s/%s" .section (urlize .term)) }}
 				<h2>{{ .Params.heading | safeHTML }}</h2>
 			{{ end }}
 		{{ end }}

@@ -1,20 +1,25 @@
 {{ define "main" }}
 	<article data-pagefind-body>
 		<section id="hero">
-			<h3 class="authors" data-pagefind-meta="authors">
-				{{ range $index, $author := .Params.authors }}
-					<a href="/auteurs/{{ urlize $author }}">
-						{{ $author }}
-					</a>
-					{{ if eq $index (sub (len $.Params.authors) 2) }}
-						&nbsp;&amp;&nbsp;
-					{{ else if ne (add $index 1) (len $.Params.authors) }}
-						&nbsp;,&nbsp;
-					{{ end }}
-				{{ end }}
-			</h3>
-
 			<section class="title">
+				<h3 class="authors" data-pagefind-meta="authors">
+					{{ range $index, $author := .Params.authors }}
+						{{ with site.GetPage (printf "authors/%s" (urlize $author)) }}
+							<a href="{{ .RelPermalink }}">
+								{{ with .Resources.GetMatch "image.*" }}
+									{{ $image := .Fill "500x500" }}
+
+									<img
+										src="{{ $image.RelPermalink }}"
+										alt="{{ $author }}">
+								{{ end }}
+
+								<span>{{ .Title }}</span>
+							</a>
+						{{ end }}
+					{{ end }}
+				</h3>
+
 				<h1 data-pagefind-meta="title">{{ .Title | safeHTML }}</h1>
 				<h2 data-pagefind-meta="subtitle">{{ .Params.subtitle | safeHTML }}</h2>
 			</section>

@@ -1,15 +1,11 @@
 <div class="author-info large">
 	{{ with .author.Resources.GetMatch "image.*" }}
-		{{ $1x := .Fill "200x200 webp" }}
-		{{ $2x := .Fill "400x400 webp" }}
+		{{ $image := .Fill "400x500 webp" }}
 
 		<figure>
 			<img
-				srcset="{{ $1x.RelPermalink }} 1x,
-				        {{ $2x.RelPermalink }} 2x"
-				src="{{ $2x.RelPermalink }}"
-				alt="{{ $.author.Title | safeHTML }}"
-				style="background: {{ index $1x.Colors 0 }};">
+				src="{{ $image.RelPermalink }}"
+				alt="{{ $.author.Title | safeHTML }}">
 		</figure>
 	{{ end }}
 
