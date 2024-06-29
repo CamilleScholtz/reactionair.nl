@@ -1,0 +1,86 @@
+<div
+	class="donate-container"
+	x-data="{
+		question: '',
+		captcha:  false,
+		send:     false,
+
+		submit() {
+			if (!this.captcha) {
+				return this.captcha = true;
+			}
+
+			if (this.question !== '8') {
+				return;
+			}
+
+			fetch('{{ .Site.Params.api }}/api/newsletter', {
+				method: 'POST',
+				headers: {
+					'Content-Type': 'application/json'
+				},
+				body: JSON.stringify(Object.fromEntries(new FormData($refs.form)))
+			});
+
+			this.question = '';
+			this.send     = true;
+		}
+	}"
+>
+	<div class="text">
+		<h3><span class="de">De</span> Reactionair</h3>
+		<h2>Nieuwsbrief</h2>
+
+		<p x-show="!send">Blijf op de hoogte van de nieuwste artikelen door u in te schrijven op onze nieuwsbrief!</p>
+		<p x-cloak x-show="send">Wij sturen u een e-mail ter verificatie, zie uw inbox.</p>
+	</div>
+
+	<div class="envelope-container">
+		<div class="envelope">
+			{{ $imageClosed := resources.Get "images/newsletter/closed.webp" }}
+			{{ $imageOpen   := resources.Get "images/newsletter/open.webp" }}
+
+			<img
+				:src="!send ? '{{ ($imageOpen.Fit "560x692 webp").RelPermalink }}' : '{{ ($imageClosed.Fit "560x692 webp").RelPermalink }}'"
+				loading="lazy"
+				alt="Envelop"
+				class="cover"
+				:style="{ transform: send ? 'translateY(-10px) scale(0.9)' : '' }"
+			>
+			<div class="shadow"></div>
+		</div>
+	</div>
+
+	<form
+		@submit.prevent="submit"
+		x-ref="form"
+		x-trap="captcha"
+	>
+		<input
+			type="email"
+			id="email"
+			name="email"
+			required
+			placeholder="Uw e-mailadres"
+			x-show="!captcha"
+		/>
+		<input
+			type="text"
+			id="question"
+			name="question"
+			placeholder="Wat is 4 + 4?"
+			x-cloak
+			x-show="captcha"
+			x-model="question"
+			:disabled="send"
+		/>
+
+		<button
+			type="submit"
+			class="button square"
+			:class="send && 'disabled'"
+		>
+			›
+		</button>
+	</form>
+</div>
