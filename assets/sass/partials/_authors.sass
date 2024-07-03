@@ -1,10 +1,15 @@
 .author-info
 	display: grid
+	align-items: center
 
-	img
-		filter: var(--text-filter)
-		width: 100%
+	figure
+		aspect-ratio: 1 / 1
+		background: var(--author-background-color)
+		width: 180px
 
+		img
+			filter: var(--author-filter)
+			width: 180px
 
 	.text
 		align-content: center
@@ -39,3 +44,6 @@
 				margin-top: 30px
 				text-transform: lowercase
 				letter-spacing: 0.1px
+
+	&.large
+		grid-template-columns: repeat(2, 1fr)
