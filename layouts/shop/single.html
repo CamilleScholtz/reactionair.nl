@@ -29,7 +29,7 @@
 			<section id="hero">
 				<section class="title">
 					{{ if eq .CurrentSection.File.ContentBaseName "boeken" }}
-						<h3 class="authors" data-pagefind-meta="authors">
+						<div class="authors" data-pagefind-meta="authors">
 							{{ range $index, $writer := .Params.writers }}
 								<a href="/winkel/producten/boeken/?auteur={{ $writer }}" data-pagefind-filter="author">
 									{{ $writer }}
@@ -40,7 +40,7 @@
 									,
 								{{ end }}
 							{{ end }}
-						</h3>
+						</div>
 					{{ end }}
 
 					<h1 data-pagefind-meta="title">{{ .Title | safeHTML }}</h1>

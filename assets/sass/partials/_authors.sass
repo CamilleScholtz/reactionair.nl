@@ -23,8 +23,10 @@
 
 	&.small
 		border-bottom: 1px dashed var(--border-color)
+		gap: 50px
+		grid-template-columns: 180px auto
 		padding-bottom: 50px
-	
+
 		&:last-child
 			border-bottom: none
 
@@ -34,7 +36,7 @@
 
 		.text
 			h2
-				font-size: 44px
+				font-size: 42px
 				line-height: 48px
 
 			.more
@@ -46,4 +48,17 @@
 				letter-spacing: 0.1px
 
 	&.large
-		grid-template-columns: repeat(2, 1fr)
+		justify-content: center
+		gap: 30px
+
+		figure
+			margin: 0 auto
+
+		.text
+			text-align: center
+
+			h2
+				font-style: italic
+
+			p
+				text-align: left

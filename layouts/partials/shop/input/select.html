@@ -1,5 +1,4 @@
 <div
-	class="filters"
 	x-data="{
 		open:      false,
 		search:    '',
@@ -24,9 +23,9 @@
 		}
 	}"
 >
-	<span class="title">{{ title .singular }}:</span>
+	<div class="title">{{ title .singular }}:</div>
 
-	<span class="filters-container" x-ref="select">
+	<div class="filters" x-ref="select">
 		<div class="select-container">
 			<span
 				class="select"
@@ -75,5 +74,5 @@
 				</ol>
 			</div>
 		</div>
-	</span>
+	</div>
 </div>

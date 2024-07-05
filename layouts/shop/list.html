@@ -7,127 +7,176 @@
 		{{ $section = "boeken" }}
 	{{ end }}
 
-	<div x-data="{
-		pagefind: null,
-		filters:  {},
-		active:   {},
-		matches:  [],
-		count:    0,
-		page:     1,
+	<div
+		id="product-list"
+		x-data="{
+			pagefind: null,
+			filters:  {},
+			active:   {},
+			matches:  [],
+			count:    0,
+			page:     1,
 
-		labels: {
-			page:      'pagina',
-			language:  'taal',
-			format:    'formaat',
-			publisher: 'uitgeverij',
-			author:    'auteur'
-		},
+			labels: {
+				page:      'pagina',
+				language:  'taal',
+				format:    'formaat',
+				publisher: 'uitgeverij',
+				author:    'auteur'
+			},
 
-		async init() {
-			this.pagefind = await import('/pagefind/pagefind.js');
-			await this.pagefind.init();
-			this.filters = await this.pagefind.filters();
+			async init() {
+				this.pagefind = await import('/pagefind/pagefind.js');
+				await this.pagefind.init();
+				this.filters = await this.pagefind.filters();
 
-			const params = new URLSearchParams(window.location.search);
-			if (!params) {
-				return;
-			}
-
-			for (const [key, value] of params) {
-				const label = Object.keys(this.labels).find(k => this.labels[k] === key);
-				if (!label) {
-					continue;
+				const params = new URLSearchParams(window.location.search);
+				if (!params) {
+					return;
 				}
 
-				if (label === 'page') {
-					this.page = parseInt(value);
-					continue;
+				for (const [key, value] of params) {
+					const label = Object.keys(this.labels).find(k => this.labels[k] === key);
+					if (!label) {
+						continue;
+					}
+
+					if (label === 'page') {
+						this.page = parseInt(value);
+						continue;
+					}
+
+					this.active[label] = value;
 				}
 
-				this.active[label] = value;
+				await this.filter();
+			},
+
+			async filter() {
+				if (!this.pagefind) {
+					return;
+				}
+
+				if (!this.active) {
+					return this.matches = [];
+				}
+
+				const search = await this.pagefind.search(null, {
+					filters: this.active
+				});
+
+				this.matches = await Promise.all(search.results.slice(this.page * 10 - 10, this.page * 10).map(r => r.data()));
+				this.count   = search.results.length;
+				this.filters = search.filters;
+			},
+
+			async activate(key, value) {
+				if (key !== 'page') {
+					value ? this.active[key] = value : delete this.active[key];
+				} else {
+					this.page = value;
+					window.scrollTo({ top: 0 });
+				}
+
+				const url    = new URL(window.location.href);
+				const params = new URLSearchParams(url.search);
+
+				(key === 'page' ? value != 1 : value)
+					? params.set(this.labels[key], value)
+					: params.delete(this.labels[key]);
+
+				if (!params.toString()) {
+					return await this.reset();
+				}
+
+				const segments = url.pathname.split('/').filter(segment => segment !== '');
+				const index    = segments.indexOf(this.labels.page);
+				if (index !== -1 && segments.length > index + 1) {
+					segments.splice(index, 2);
+					url.pathname = `/${segments.join('/')}/`;
+				}
+
+				window.history.pushState({}, '', `${url.pathname}?${params}`);
+
+				await this.filter();
+			},
+
+			async reset() {
+				this.active = {};
+				this.page   = 1;
+
+				const url = new URL(window.location.href);
+				window.history.pushState({}, '', url.pathname);
+
+				await this.filter();
 			}
-
-			await this.filter();
-		},
-
-		async filter() {
-			if (!this.pagefind) {
-				return;
-			}
-
-			if (!this.active) {
-				return this.matches = [];
-			}
-
-			const search = await this.pagefind.search(null, {
-				filters: this.active
-			});
-
-			this.matches = await Promise.all(search.results.slice(this.page * 10 - 10, this.page * 10).map(r => r.data()));
-			this.count   = search.results.length;
-			this.filters = search.filters;
-		},
-
-		async activate(key, value) {
-			if (key !== 'page') {
-				value ? this.active[key] = value : delete this.active[key];
-			} else {
-				this.page = value;
-				window.scrollTo({ top: 0 });
-			}
-
-			const url    = new URL(window.location.href);
-			const params = new URLSearchParams(url.search);
-
-			(key === 'page' ? value != 1 : value)
-				? params.set(this.labels[key], value)
-				: params.delete(this.labels[key]);
-
-			if (!params.toString()) {
-				return await this.reset();
-			}
-
-			const segments = url.pathname.split('/').filter(segment => segment !== '');
-			const index    = segments.indexOf(this.labels.page);
-			if (index !== -1 && segments.length > index + 1) {
-				segments.splice(index, 2);
-				url.pathname = `/${segments.join('/')}/`;
-			}
-
-			window.history.pushState({}, '', `${url.pathname}?${params}`);
-
-			await this.filter();
-		},
-
-		async reset() {
-			this.active = {};
-			this.page   = 1;
-
-			const url = new URL(window.location.href);
-			window.history.pushState({}, '', url.pathname);
-
-			await this.filter();
-		}
-	}">
+		}"
+	>
 		<section>
-			{{ if eq $section "boeken" }}
-				<div class="filters">
-					<span class="title">Taal:</span>
+			{{ $page  := printf "shop/products/%s" $section }}
+			{{ $books := (.GetPage $page).RegularPages }}
+			{{ if eq .Kind "term" }}
+				{{ $books = .RegularPages }}
+			{{ end }}
 
-					<span class="filters-container">
-						<template x-for="(amount, name) in filters.language">
-							<span
-								x-text="name + (amount ? ` (${amount})` : '')"
-								:class="{
-									'active':   active.language === name,
-									'disabled': !amount
-								}"
-								@click="amount && activate('language', active.language !== name ? name : '')"
-							>
-								...
-							</span>
-						</template>
+			{{ $unstocked := where $books "Params.out_of_stock" true }}
+			{{ $stocked   := $books | complement $unstocked }}
+			{{ $sorted    := union $stocked.ByDate.Reverse $unstocked.ByDate.Reverse }}
+			{{ $paginator := .Paginate $sorted }}
 
+			<ul id="products" x-show="!Object.keys(active).length">
+				{{ range $paginator.Pages }}
+					{{ partialCached "shop/product.html" (dict
+						"product"  .
+						"checkout" false
+					) .Params.id }}
+				{{ end }}
+			</ul>
+
+			<ul id="products" x-cloak x-show="Object.keys(active).length">
+				<p x-cloak x-show="!count">
+					Er zijn geen producten gevonden die voldoen aan de geselecteerde filters. <a @click.prevent="reset">klik hier</a> om de filters te resetten.
+				</p>
+
+				{{ range $sorted }}
+					<template x-if="matches.some(el => el.url === '{{ .RelPermalink }}')">
+						{{ partialCached "shop/product.html" (dict
+							"product"  .
+							"checkout" false
+						) .Params.id  }}
+					</template>
+				{{ end }}
+			</ul>
+
+			<div x-show="!Object.keys(active).length">
+				{{ partial "paginator.html" $paginator }}
+			</div>
+
+			<div x-cloak x-show="Object.keys(active).length">
+				<nav class="paginator">
+					<a
+						class="button square prev"
+						:class="page > 1 || 'disabled'"
+						@click.prevent="page > 1 && activate('page', page - 1)"
+					>
+						‹
+					</a>
+
+					<a
+						class="button square next"
+						:class="page * 10 < count || 'disabled'"
+						@click.prevent="page * 10 < count && activate('page', page + 1)"
+					>
+						›
+					</a>
+				</nav>
+			</div>
+		</section>
+
+		<section id="filters">
+			<div>
+				<div>
+					<div class="filters">
 						<span
 							x-cloak
 							x-show="Object.keys(active).length"
@@ -135,27 +184,46 @@
 						>
 							↺
 						</span>
-					</span>
+					</div>
 				</div>
 
-				<div class="filters">
-					<span class="title">Formaat:</span>
+				{{ if eq $section "boeken" }}
+					<div>
+						<div class="title">Taal:</div>
 
-					<span class="filters-container">
-						<template x-for="(amount, name) in filters.format">
-							<span
-								x-text="name + (amount > 0 ? ` (${amount})` : '')"
-								:class="{
-									'active':   active.format === name,
-									'disabled': !amount
-								}"
-								@click="amount && activate('format', active.format !== name ? name : '')"
-							></span>
-						</template>
-					</span>
-				</div>
+						<div class="filters">
+							<template x-for="(amount, name) in filters.language">
+								<span
+									x-text="name + (amount ? ` (${amount})` : '')"
+									:class="{
+										'active':   active.language === name,
+										'disabled': !amount
+									}"
+									@click="amount && activate('language', active.language !== name ? name : '')"
+								>
+									...
+								</span>
+							</template>
+						</div>
+					</div>
 
-				<div class="selects">
+					<div>
+						<div class="title">Formaat:</div>
+
+						<div class="filters">
+							<template x-for="(amount, name) in filters.format">
+								<span
+									x-text="name + (amount > 0 ? ` (${amount})` : '')"
+									:class="{
+										'active':   active.format === name,
+										'disabled': !amount
+									}"
+									@click="amount && activate('format', active.format !== name ? name : '')"
+								></span>
+							</template>
+						</div>
+					</div>
+
 					{{ partial "shop/input/select.html" (dict
 						"key"      "publisher"
 						"singular" "uitgeverij"
@@ -167,67 +235,8 @@
 						"singular" "auteur"
 						"plural"   "auteurs"
 					) }}
-				</div>
-			{{ end }}
+				{{ end }}
+			</div>
 		</section>
-
-		{{ $page  := printf "shop/products/%s" $section }}
-		{{ $books := (.GetPage $page).RegularPages }}
-		{{ if eq .Kind "term" }}
-			{{ $books = .RegularPages }}
-		{{ end }}
-
-		{{ $unstocked := where $books "Params.out_of_stock" true }}
-		{{ $stocked   := $books | complement $unstocked }}
-		{{ $sorted    := union $stocked.ByDate.Reverse $unstocked.ByDate.Reverse }}
-		{{ $paginator := .Paginate $sorted }}
-
-		<ul id="products" x-show="!Object.keys(active).length">
-			{{ range $paginator.Pages }}
-				{{ partialCached "shop/product.html" (dict
-					"product"  .
-					"checkout" false
-				) .Params.id }}
-			{{ end }}
-		</ul>
-
-		<ul id="products" x-cloak x-show="Object.keys(active).length">
-			<p x-cloak x-show="!count">
-				Er zijn geen producten gevonden die voldoen aan de geselecteerde filters. <a @click.prevent="reset">klik hier</a> om de filters te resetten.
-			</p>
-
-			{{ range $sorted }}
-				<template x-if="matches.some(el => el.url === '{{ .RelPermalink }}')">
-					{{ partialCached "shop/product.html" (dict
-						"product"  .
-						"checkout" false
-					) .Params.id  }}
-				</template>
-			{{ end }}
-		</ul>
-
-		<div x-show="!Object.keys(active).length">
-			{{ partial "paginator.html" $paginator }}
-		</div>
-
-		<div x-cloak x-show="Object.keys(active).length">
-			<nav class="paginator">
-				<a
-					class="button square prev"
-					:class="page > 1 || 'disabled'"
-					@click.prevent="page > 1 && activate('page', page - 1)"
-				>
-					‹
-				</a>
-
-				<a
-					class="button square next"
-					:class="page * 10 < count || 'disabled'"
-					@click.prevent="page * 10 < count && activate('page', page + 1)"
-				>
-					›
-				</a>
-			</nav>
-		</div>
 	</div>
 {{ end }}

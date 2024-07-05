@@ -49,59 +49,61 @@
 		</ul>
 
 		<div class="info" x-show="$store.cart.contents.length">
-			<div
-				class="prices"
-				x-data="{
-					shipping:   null,
-					estimation: 2,
-					total:      null,
+			<div>
+				<div
+					class="prices"
+					x-data="{
+						shipping:   null,
+						estimation: 2,
+						total:      null,
 
-					init() {
-						this.fetch();
-						$watch('$store.cart.contents', () => this.fetch());
-					},
+						init() {
+							this.fetch();
+							$watch('$store.cart.contents', () => this.fetch());
+						},
 
-					fetch() {
-						fetch('{{ .Site.Params.api }}/api/shop/shipping', {
-							method: 'POST',
-							headers: {
-								'Content-Type': 'application/json'
-							},
-							body: JSON.stringify({
-								cart: $store.cart.contents
+						fetch() {
+							fetch('{{ .Site.Params.api }}/api/shop/shipping', {
+								method: 'POST',
+								headers: {
+									'Content-Type': 'application/json'
+								},
+								body: JSON.stringify({
+									cart: $store.cart.contents
+								})
 							})
-						})
-							.then(response => response.json())
-							.then(data => {
-								this.shipping   = $store.cart.currency(data.price);
-								this.estimation = data.estimation;
+								.then(response => response.json())
+								.then(data => {
+									this.shipping   = $store.cart.currency(data.price);
+									this.estimation = data.estimation;
 
-								let total = $store.cart.currency(0);
-								$store.cart.contents.forEach(variant => {
-									total = $store.cart.currency(total).add($store.cart.currency(variant.price).multiply(variant.quantity));
+									let total = $store.cart.currency(0);
+									$store.cart.contents.forEach(variant => {
+										total = $store.cart.currency(total).add($store.cart.currency(variant.price).multiply(variant.quantity));
+									});
+
+									this.total = total;
 								});
-
-								this.total = total;
-							});
-					}
-				}"
-			>
-				<div class="total" x-text="total?.format()"></div>
-				<div>
-					<small class="free-shipping">
-						(Verzendkosten, uiterlijk binnen <small x-text="estimation"></small> werkdagen in huis)
-					</small>
-					<span class="shipping" x-text="shipping?.format()"></span>
+						}
+					}"
+				>
+					<div class="total" x-text="total?.format()"></div>
+					<div>
+						<small class="free-shipping">
+							(Verzendkosten, uiterlijk binnen <small x-text="estimation"></small> werkdagen in huis)
+						</small>
+						<span class="shipping" x-text="shipping?.format()"></span>
+					</div>
+					<div class="total-plus-shipping" x-text="total?.add(shipping).format()"></div>
 				</div>
-				<div class="total-plus-shipping" x-text="total?.add(shipping).format()"></div>
-			</div>
 
-			<a
-				:href="'/winkel/afrekenen' + (url.searchParams.has('order') ? '?order=' + url.searchParams.get('order') : '')"
-				class="button"
-			>
-				Bestelling plaatsen
-			</a>
+				<a
+					:href="'/winkel/afrekenen' + (url.searchParams.has('order') ? '?order=' + url.searchParams.get('order') : '')"
+					class="button"
+				>
+					Bestelling plaatsen
+				</a>
+			</div>
 		</div>
 	</div>
 {{ end }}

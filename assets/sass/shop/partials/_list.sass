@@ -1,120 +1,108 @@
-.selects
-	display: flex
-	justify-content: end
-	justify-self: end
+#product-list
+	display: grid
 
-	.filters
-		&:first-of-type
-			margin-top: 10px
-
-.filters
-	display: flex
-	margin-top: 10px
-	justify-content: end
-	justify-self: end
-
-	&:first-of-type
-		margin-top: 50px
-
-	.title
-		font-size: 16px
-		font-style: italic
-
-	.filters-container
-		display: inline-flex
-		gap: 10px
-
-		span
-			background: transparent
-			border: 1px dashed var(--border-color)
-			border-radius: 50px
-			color: var(--accent-color)
-			cursor: pointer
+	#filters
+		.title
 			font-size: 16px
 			font-style: italic
-			padding: 10px 15px 10px 15px
-			white-space: nowrap
+			margin-bottom: 5px
 
-			&.active
-				background: var(--accent-background-color)
+		.filters
+			display: inline-flex
+			gap: 10px
+			margin-bottom: 20px
 
-			&.disabled
-				pointer-events: none
-				color: var(--border-color)
-
-		.select-container
-			display: flex
-
-			.select
-				position: relative
-				padding-right: 35px
+			span
+				background: transparent
+				border: 1px dashed var(--border-color)
+				border-radius: 50px
+				color: var(--accent-color)
+				cursor: pointer
+				font-size: 16px
+				font-style: italic
+				padding: 10px 15px 10px 15px
+				white-space: nowrap
 
 				&.active
 					background: var(--accent-background-color)
 
-				&::after
-					border: none
-					color: var(--accent-color)
-					content: '›'
-					display: block
-					font-style: normal
-					font-size: 28px
+				&.disabled
 					pointer-events: none
-					position: absolute
-					right: 15px
-					top: 2px
-					transform: rotate(90deg)
-					transition: all 0.15s ease-in-out
+					color: var(--border-color)
 
-				&.open
+			.select-container
+				display: flex
+
+				.select
+					position: relative
+					padding-right: 35px
+
+					&.active
+						background: var(--accent-background-color)
+
 					&::after
-						transform: rotate(90deg) rotateY(-180deg)
-
-			.options-container
-				background: var(--popup-background-color)
-				width: 278px
-				z-index: 99
-
-				&::before
-					background: var(--popup-background-color)
-					content: ''
-					height: 18px
-					margin-top: -6px
-					position: absolute
-					right: 40px
-					transform: rotate(45deg) translateY(-4px)
-					transition: all .1s
-					width: 18px
-
-				input
-					background: unset
-					border-bottom: 1px dashed var(--popup-border-color)
-					color: var(--accent-color)
-					font-size: 16px
-					margin-bottom: -1px
-					width: 100%
-
-					&::placeholder
-						color: var(--popup-border-color)
-
-				.options
-					max-height: 275px
-					list-style: none
-					width: 100%
-					padding-left: 0
-					overflow-y: scroll
-					scrollbar-width: none
-
-					&::-webkit-scrollbar
-						display: none
-
-					.option
+						border: none
 						color: var(--accent-color)
-						cursor: pointer
+						content: '›'
+						display: block
+						font-style: normal
+						font-size: 28px
+						pointer-events: none
+						position: absolute
+						right: 15px
+						top: 2px
+						transform: rotate(90deg)
+						transition: all 0.15s ease-in-out
+
+					&.open
+						&::after
+							transform: rotate(90deg) rotateY(-180deg)
+
+				.options-container
+					background: var(--popup-background-color)
+					width: 278px
+					z-index: 99
+
+					&::before
+						background: var(--popup-background-color)
+						content: ''
+						height: 18px
+						margin-top: -6px
+						position: absolute
+						right: 40px
+						transform: rotate(45deg) translateY(-4px)
+						transition: all .1s
+						width: 18px
+
+					input
+						background: unset
+						border-bottom: 1px dashed var(--popup-border-color)
+						color: var(--accent-color)
 						font-size: 16px
-						font-style: italic
-						border-top: 1px dashed var(--popup-border-color)
-						padding: 15px
+						margin-bottom: -1px
+						width: 100%
+
+						&::placeholder
+							color: var(--popup-border-color)
+
+					.options
+						max-height: 275px
+						list-style: none
+						width: 100%
+						padding-left: 0
+						overflow-y: scroll
+						scrollbar-width: none
+
+						&::-webkit-scrollbar
+							display: none
+
+						.option
+							color: var(--accent-color)
+							cursor: pointer
+							font-size: 16px
+							font-style: italic
+							border-top: 1px dashed var(--popup-border-color)
+							padding: 15px
 
 #products
 	list-style: none
