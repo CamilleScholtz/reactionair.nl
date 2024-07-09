@@ -22,3 +22,23 @@
 		figure
 			img
 				height: 100px
+
+	&.micro
+		grid-template-columns: auto
+		height: calc(80px + 30px)
+
+		&.image
+			grid-template-columns: auto 80px
+
+		.author
+			font-size: 16px
+
+		h2
+			span
+				color: var(--accent-color)
+				font-weight: 600
+
+				.slash
+					font-weight: 400
+					margin-left: 5px
+					margin-right: 5px

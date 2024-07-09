@@ -1,4 +1,23 @@
 <div class="text">
 	<div class="author">{{ delimit .article.Params.authors ", " " & " }}</div>
-	<h2>{{ .article.Title | safeHTML }}</h2>
+	<h2>
+		{{ if not .author }}
+			<span>{{ index (split .article.Params.theme " ") 0 }}<span class="slash">/</span></span>
+		{{ end }}
+		{{ .article.Title | safeHTML }}
+	</h2>
 </div>
+
+{{ if .author }}
+	{{ with site.GetPage (printf "authors/%s" (urlize (index .article.Params.authors 0))) }}
+		{{ with .Resources.GetMatch "image.*" }}
+			<figure>
+				{{ $image := .Fill "500x500" }}
+
+				<img
+					src="{{ $image.RelPermalink }}"
+					alt="{{ .Title }}">
+			</figure>
+		{{ end }}
+	{{ end }}
+{{ end }}

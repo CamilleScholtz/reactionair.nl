@@ -1,79 +1,42 @@
 #home
 	#hero
-		gap: 40px
-		grid-template-columns: 4fr 8fr 4fr
-		height: 620px
+		gap: 30px
+		grid-template-columns: 3fr 1px 1fr
 		margin: 0 auto
-		margin-top: 80px !important
+		margin-top: 80px
 		max-width: 1280px
 		width: 90%
 
-		.left .scroll,
-		.right
-			height: 620px
+		.left
+			display: grid
+			gap: 30px
+			grid-template-columns: 1fr 1fr
+			grid-template-rows: 270px 1px auto
 
-		.left .scroll
-			gap: 40px
-			grid-template-rows: auto calc((620px / 2) - 20px)
+			.featured
+				grid-column: span 2
+				height: 270px
 
-			.home-av
-				background: var(--accent-background-color)
-				overflow: hidden
+			.border
+				border-bottom: 1px dashed var(--border-color)
+				grid-column: span 2
 
-				&:hover
-					.book-container
-						.book
-							transform: rotateY(-30deg) rotateX(9deg) scale(0.9) rotateZ(-27deg) translate(-80px, -30px)
+			.list
+				display: grid
+				gap: 10px
+				border-right: 1px dashed var(--border-color)
+				padding-right: 30px
 
-						&:last-of-type
-							.book
-								transform: rotateY(-38deg) rotateX(9deg) scale(0.9) rotateZ(-10deg)
+			.split
+				border-top: 1px dashed var(--border-color)
+				display: grid
+				gap: 10px
+				grid-template-columns: 1fr 1fr
+				margin-top: 20px
+				padding-top: 20px
 
-				.text
-					text-align: center
-					padding-top: 20px
-					color: var(--text-color)
-					position: relative
-
-					&:before
-						color: var(--popup-background-color)
-						content: '“'
-						font-style: italic
-						font-weight: 700
-						pointer-events: none
-						position: absolute
-						font-size: 400px
-						top: 30px
-						left: -40px
-
-					h3
-						font-style: italic
-						font-size: 20px
-						font-weight: 400
-						float: right
-						margin: 0
-						margin-bottom: -9px
-						margin-right: 30px
-
-						.de
-							font-size: 16px
-
-				h2
-					font-family: 'IM FELL English SC', serif
-					font-weight: 400
-					font-size: 40px
-
-			.book-container
-				.book
-					position: absolute
-					right: -10px
-					top: 20px
-					transform: rotateY(-30deg) rotateX(3deg) scale(0.9) rotateZ(-30deg) translate(-80px, -30px)
-					transition: transform .6s
-
-				&:last-of-type
-					.book
-						transform: rotateY(-30deg) rotateX(3deg) scale(0.9) rotateZ(-10deg)
+		.border
+			border-right: 1px dashed var(--border-color)
 
 		.right
 			.header
@@ -85,17 +48,69 @@
 					text-overflow: ellipsis
 					white-space: nowrap
 
-			.articles
-				gap: 20px
-				grid-template-rows: calc((620px / 2) - 20px) auto
+			.list
+				display: grid
+				grid-template-rows: 1fr 1fr 1fr 260px
+				gap: 10px
 
-				.micro-container
-					display: grid
-					gap: 10px
-					grid-template-rows: 1fr 1px 1fr
+				.home-av
+					background: var(--accent-background-color)
+					overflow: hidden
 
-					.divider
-						border-top: 1px dashed var(--border-color)
+					&:hover
+						.book-container
+							.book
+								transform: rotateY(-30deg) rotateX(9deg) scale(0.9) rotateZ(-27deg) translate(-80px, -30px)
+
+							&:last-of-type
+								.book
+									transform: rotateY(-38deg) rotateX(9deg) scale(0.9) rotateZ(-10deg)
+
+					.text
+						text-align: center
+						padding-top: 20px
+						color: var(--text-color)
+						position: relative
+
+						&:before
+							color: var(--popup-background-color)
+							content: '“'
+							font-style: italic
+							font-weight: 700
+							pointer-events: none
+							position: absolute
+							font-size: 400px
+							top: 30px
+							left: -40px
+
+						h3
+							font-style: italic
+							font-size: 20px
+							font-weight: 400
+							float: right
+							margin: 0
+							margin-bottom: -9px
+							margin-right: 30px
+
+							.de
+								font-size: 16px
+
+					h2
+						font-family: 'IM FELL English SC', serif
+						font-weight: 400
+						font-size: 40px
+
+					.book-container
+						.book
+							position: absolute
+							right: -10px
+							top: 20px
+							transform: rotateY(-30deg) rotateX(3deg) scale(0.9) rotateZ(-30deg) translate(-80px, -30px)
+							transition: transform .6s
+
+						&:last-of-type
+							.book
+								transform: rotateY(-30deg) rotateX(3deg) scale(0.9) rotateZ(-10deg)
 
 	.intro
 		border-top: 1px dashed var(--border-color)

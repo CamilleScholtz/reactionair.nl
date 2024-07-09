@@ -3,7 +3,144 @@
 	{{ $articles := where site.RegularPages "Params.theme" "in" $themes }}
 
 	<section id="hero">
-		<section class="left">
+		<div class="scroll-container mobile-only">
+			<div
+				class="scroll"
+				x-data="{
+					init() {
+						if (!$store.mobile.matches) {
+							return;
+						}
+
+						let height = 0;
+						$el.querySelectorAll('h2').forEach((el) => {
+							if (el.offsetHeight > height) {
+								height = el.offsetHeight;
+							}
+						});
+
+						$el.querySelectorAll('h2').forEach((el) => {
+							el.style.height = `${height}px`;
+						});
+					}
+				}"
+			>
+				{{ partialCached "article.html" (dict
+					"article" (index $articles 0)
+					"size"    "large"
+				) "large" (index $articles 0).Params.id }}
+
+				{{ partialCached "article.html" (dict
+					"article" (index $articles 1)
+					"size"    "large"
+				) "large" (index $articles 1).Params.id }}
+
+				{{ partialCached "article.html" (dict
+					"article" (index $articles 2)
+					"size"    "large"
+				) "large" (index $articles 2).Params.id }}
+			</div>
+		</div>
+
+		<div class="left desktop-only">
+			{{ partial "article.html" (dict
+				"article" (index $articles 0)
+				"size"    "featured"
+			) }}
+
+			<div class="border"></div>
+
+			<div class="list">
+				{{ partial "article.html" (dict
+					"article" (index $articles 1)
+					"size"    "small"
+				) }}
+
+				{{ partial "article.html" (dict
+					"article" (index $articles 2)
+					"size"    "small"
+				) }}
+
+				{{ partial "article.html" (dict
+					"article" (index $articles 3)
+					"size"    "small"
+				) }}
+			</div>
+
+			<div>
+				{{ partial "article.html" (dict
+					"article" (index $articles 4)
+					"size"    "medium"
+				) }}
+
+				<div class="split">
+					{{ partial "article.html" (dict
+						"article" (index $articles 5)
+						"size"    "micro"
+					) }}
+
+					{{ partial "article.html" (dict
+						"article" (index $articles 6)
+						"size"    "micro"
+					) }}
+				</div>
+			</div>
+		</div>
+
+		<div class="border"></div>
+
+		<div class="right">
+			<div class="header">
+				<h2>Laatste <i>van</i> Reactionair</h2>
+			</div>
+
+			<div class="list">
+				{{ partial "article.html" (dict
+					"article" (index $articles 7)
+					"size"    "micro"
+					"author"  true
+				) }}
+
+				{{ partial "article.html" (dict
+					"article" (index $articles 8)
+					"size"    "micro"
+					"author"  true
+				) }}
+
+				{{ partial "article.html" (dict
+					"article" (index $articles 9)
+					"size"    "micro"
+					"author"  true
+				) }}
+
+				<a href="/winkel/producten/boeken/" class="home-av desktop-only">
+					<div class="text">
+						<h3><span class="de">De</span> Reactionair</h3>
+						<h2>Boekenwinkel</h2>
+					</div>
+
+					<div class="books">
+						{{ $book := index (where (site.GetPage "shop/products/boeken").RegularPages ".Title" "Terug naar de oorsprong") 0 }}
+						{{ partialCached "shop/products/book.html" (dict
+							"size"    "small"
+							"product" $book
+							"front"   .
+						) "small" $book.Params.id }}
+
+						{{ $book := index (where (site.GetPage "shop/products/boeken").RegularPages ".Title" site.Params.advert) 0 }}
+						{{ with $book.Resources.GetMatch "front.*" }}
+							{{ partialCached "shop/products/book.html" (dict
+								"size"    "small"
+								"product" $book
+								"front"   .
+							) "small" $book.Params.id }}
+						{{ end }}
+					</div>
+				</a>
+			</div>
+		</div>
+
+		<!--<section class="left">
 			<div class="scroll" x-data="{
 				init() {
 					if (!$store.mobile.matches) {
@@ -22,7 +159,7 @@
 					});
 				}
 			}">
-				<div class="mobile-only scroll-item">
+ 				<div class="mobile-only scroll-item">
 					{{ partialCached "article.html" (dict
 						"article" (index $articles 0)
 						"size"    "large"
@@ -118,13 +255,6 @@
 					) "small" (index $articles 6).Params.id }}
 				</div>
 
-				<div class="desktop-only">
-					{{ partialCached "article.html" (dict
-						"article" (index $articles 2)
-						"size"    "large"
-					) "large" (index $articles 2).Params.id }}
-				</div>
-
 				<div class="micro-container desktop-only">
 					{{ partialCached "article.html" (dict
 						"article" (index $articles 3)
@@ -138,8 +268,15 @@
 						"size"    "micro"
 					) "micro" (index $articles 4).Params.id }}
 				</div>
+
+				<div class="desktop-only">
+					{{ partialCached "article.html" (dict
+						"article" (index $articles 2)
+						"size"    "large"
+					) "large" (index $articles 2).Params.id }}
+				</div>
 			</div>
-		</section>
+		</section> -->
 	</section>
 
 	<aside

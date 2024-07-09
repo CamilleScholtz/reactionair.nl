@@ -1,6 +1,6 @@
 <a
 	href="{{ .article.RelPermalink }}"
-	class="article {{ .size }}"
+	class="article {{ .size }} {{ cond (isset . "author") "image" "" }}"
 	x-data="{
 		init() {
 			let rect   = null;
@@ -75,5 +75,6 @@
 	{{ partial (printf "articles/%s.html" .size) (dict
 		"article" .article
 		"lazy"    .lazy
+		"author"  .author
 	) }}
 </a>

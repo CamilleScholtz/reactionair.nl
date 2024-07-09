@@ -1,50 +1,96 @@
 .article
-	transition: box-shadow .1s
-
-	&:hover
-		box-shadow: 0px 15px 85px -17px var(--dark-shadow-color)
+	transition: box-shadow .1s, border .1s
 
 	figure
 		img
 			height: 100%
 
 	&.featured
-		height: 620px
-		gap: 20px
-		grid-template-rows: min-content auto
+		box-shadow: 0px 10px 80px -13px var(--shadow-color)
+		grid-template-columns: calc(50% - 15px) auto
+		align-items: center
+
+		&:hover
+			box-shadow: 0px 15px 85px -17px var(--dark-shadow-color)
 
 		figure
+			height: 100%
 			width: 100%
 
 		.text
 			text-align: center
 			text-wrap: balance
-			padding: 20px
-			padding-bottom: 0px
 
 			.author
-				margin-bottom: 25px
+				margin-bottom: 15px
 
 			h2
 				font-size: 36px
 				line-height: 46px
-				margin-bottom: 4px
-
-			h3
-				font-size: 24px
-				line-height: 32px
-				margin-bottom: 10px
 
 	&.large
-		height: calc((620px / 2) - 20px)
-
-	&.small
-		grid-template-columns: auto 25%
-		height: calc((620px - 39px - ((620px / 2) + 20px)) / 2 - 10px - 1px)
-
-	&.micro
-		height: calc((620px - 39px - ((620px / 2) + 20px)) / 2 - 10px - 1px)
+		box-shadow: 0px 10px 80px -13px var(--shadow-color)
+		height: 100px
 
 		&:hover
-			box-shadow: none
+			box-shadow: 0px 15px 85px -17px var(--dark-shadow-color)
 
+	&.medium
+		grid-template-columns: 1fr 1fr
+		height: 200px
+
+		.author
+			font-size: 18px
+
+		h2
+			font-size: 22px
+
+			span
+				color: var(--accent-color)
+				font-weight: 600
+
+				.slash
+					font-weight: 400
+					margin-left: 5px
+					margin-right: 5px
+
+	&.small
+		grid-template-columns: 25% auto
+		height: calc(80px + 30px)
+
+		.author
+			font-size: 16px
+
+		h2
+			span
+				color: var(--accent-color)
+				font-weight: 600
+
+				.slash
+					font-weight: 400
+					margin-left: 5px
+					margin-right: 5px
+
+	&.micro
+		grid-template-columns: auto
+		height: calc(80px + 30px)
+
+		&.image
+			grid-template-columns: auto 80px
+
+		.author
+			font-size: 16px
+
+		h2
+			span
+				color: var(--accent-color)
+				font-weight: 600
+
+				.slash
+					font-weight: 400
+					margin-left: 5px
+					margin-right: 5px
+
+		figure
+			height: 80px
+			margin-top: 15px

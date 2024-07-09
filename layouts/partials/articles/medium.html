@@ -1,6 +1,9 @@
 <div class="text">
 	<div class="author">{{ delimit .article.Params.authors ", " " & " }}</div>
-	<h2>{{ .article.Title | safeHTML }}</h2>
+	<h2>
+		<span>{{ index (split .article.Params.theme " ") 0 }}<span class="slash">/</span></span>
+		{{ .article.Title | safeHTML }}
+	</h2>
 </div>
 
 {{ with .article.Resources.GetMatch "image.*" }}
@@ -10,14 +13,11 @@
 			{{ $anchor = .Params.anchor }}
 		{{ end }}
 
-		{{ $1x := .Fill (printf "578x413 webp %s" $anchor) }}
-		{{ $2x := .Fill (printf "1156x826 webp %s" $anchor) }}
+		{{ $image := .Fill (printf "500x500 webp %s" $anchor) }}
 
 		<img
-			srcset="{{ $1x.RelPermalink }} 1x,
-			        {{ $2x.RelPermalink }} 2x"
-			src="{{ $2x.RelPermalink }}"
+			src="{{ $image.RelPermalink }}"
 			alt="{{ $.article.Title | safeHTML }}"
-			style="background: {{ index $1x.Colors 0 }};">
+			style="background: {{ index $image.Colors 0 }};">
 	</figure>
 {{ end }}
