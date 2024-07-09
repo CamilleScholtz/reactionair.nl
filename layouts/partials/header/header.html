@@ -236,10 +236,9 @@
 						<ul id="search-results" class="results">
 							<template x-for="match in matches">
 								<a :href="match.url">
-									<h2 x-text="match.meta.title"></h2>
-									<h3 x-show="match.meta.subtitle" x-text="match.meta.subtitle"></h3>
-
 									<p class="author" x-html="match.meta.authors"></p>
+									<h2 x-html="`<span>${match.meta.theme}<span class='slash'>/</span></span>${match.meta.title}`">
+									</h2>
 								</a>
 							</template>
 						</ul>
