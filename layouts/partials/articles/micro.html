@@ -2,7 +2,9 @@
 	<div class="author">{{ delimit .article.Params.authors ", " " & " }}</div>
 	<h2>
 		{{ if not .author }}
-			<span>{{ index (split .article.Params.theme " ") 0 }}<span class="slash">/</span></span>
+			{{ with site.GetPage (printf "theme/%s" (urlize .article.Params.theme)) }}
+				<span>{{ .Params.keyword }}<span class="slash">/</span></span>
+			{{ end }}
 		{{ end }}
 		{{ .article.Title | safeHTML }}
 	</h2>
