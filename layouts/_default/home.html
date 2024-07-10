@@ -100,7 +100,29 @@
 				<h2>Laatste <i>van</i> Reactionair</h2>
 			</div>
 
-			<div class="list">
+			<div class="list mobile-only">
+				{{ partialCached "article.html" (dict
+					"article" (index $articles 3)
+					"size"    "small"
+				) "small" (index $articles 3).Params.id }}
+
+				{{ partialCached "article.html" (dict
+					"article" (index $articles 4)
+					"size"    "small"
+				) "small" (index $articles 4).Params.id }}
+
+				{{ partialCached "article.html" (dict
+					"article" (index $articles 5)
+					"size"    "small"
+				) "small" (index $articles 5).Params.id }}
+
+				{{ partialCached "article.html" (dict
+					"article" (index $articles 6)
+					"size"    "small"
+				) "small" (index $articles 6).Params.id }}
+			</div>
+
+			<div class="list desktop-only">
 				{{ partial "article.html" (dict
 					"article" (index $articles 7)
 					"size"    "micro"
