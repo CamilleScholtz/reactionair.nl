@@ -175,68 +175,66 @@
 
 		<section id="filters">
 			<div>
+				<div class="filters">
+					<span
+						x-cloak
+						x-show="Object.keys(active).length"
+						@click="reset"
+					>
+						↺
+					</span>
+				</div>
+			</div>
+
+			{{ if eq $section "boeken" }}
 				<div>
+					<div class="title">Taal:</div>
+
 					<div class="filters">
-						<span
-							x-cloak
-							x-show="Object.keys(active).length"
-							@click="reset"
-						>
-							↺
-						</span>
+						<template x-for="(amount, name) in filters.language">
+							<span
+								x-text="name + (amount ? ` (${amount})` : '')"
+								:class="{
+									'active':   active.language === name,
+									'disabled': !amount
+								}"
+								@click="amount && activate('language', active.language !== name ? name : '')"
+							>
+								...
+							</span>
+						</template>
 					</div>
 				</div>
 
-				{{ if eq $section "boeken" }}
-					<div>
-						<div class="title">Taal:</div>
+				<div>
+					<div class="title">Formaat:</div>
 
-						<div class="filters">
-							<template x-for="(amount, name) in filters.language">
-								<span
-									x-text="name + (amount ? ` (${amount})` : '')"
-									:class="{
-										'active':   active.language === name,
-										'disabled': !amount
-									}"
-									@click="amount && activate('language', active.language !== name ? name : '')"
-								>
-									...
-								</span>
-							</template>
-						</div>
+					<div class="filters">
+						<template x-for="(amount, name) in filters.format">
+							<span
+								x-text="name + (amount > 0 ? ` (${amount})` : '')"
+								:class="{
+									'active':   active.format === name,
+									'disabled': !amount
+								}"
+								@click="amount && activate('format', active.format !== name ? name : '')"
+							></span>
+						</template>
 					</div>
+				</div>
 
-					<div>
-						<div class="title">Formaat:</div>
+				{{ partial "shop/input/select.html" (dict
+					"key"      "publisher"
+					"singular" "uitgeverij"
+					"plural"   "uitgeverijen"
+				) }}
 
-						<div class="filters">
-							<template x-for="(amount, name) in filters.format">
-								<span
-									x-text="name + (amount > 0 ? ` (${amount})` : '')"
-									:class="{
-										'active':   active.format === name,
-										'disabled': !amount
-									}"
-									@click="amount && activate('format', active.format !== name ? name : '')"
-								></span>
-							</template>
-						</div>
-					</div>
-
-					{{ partial "shop/input/select.html" (dict
-						"key"      "publisher"
-						"singular" "uitgeverij"
-						"plural"   "uitgeverijen"
-					) }}
-
-					{{ partial "shop/input/select.html" (dict
-						"key"      "author"
-						"singular" "auteur"
-						"plural"   "auteurs"
-					) }}
-				{{ end }}
-			</div>
+				{{ partial "shop/input/select.html" (dict
+					"key"      "author"
+					"singular" "auteur"
+					"plural"   "auteurs"
+				) }}
+			{{ end }}
 		</section>
 	</div>
 {{ end }}

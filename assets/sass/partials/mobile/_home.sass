@@ -3,37 +3,33 @@
 		gap: 20px
 
 		.scroll-container
-			clip-path: inset(0 0 7px 0)
-			grid-row: 2
+			clip-path: inset(0 0 10px 0)
 			margin-left: -40px
-			margin-bottom: -50px
-			margin-top: -60px
 			overflow-x: scroll
 			scroll-snap-type: x mandatory
 			transform: translateX(20px)
 			width: 100vw
+			padding-top: 20px
+			padding-bottom: 70px
 
 			.scroll
 				display: grid
 				grid-template-columns: calc(100vw - (20px * 4)) calc(100vw - (20px * 4)) calc(100vw - (20px * 3))
-				padding-bottom: 75px
+				gap: 10px
 
 				&::-webkit-scrollbar
 					display: none
 
-				.article
+				.scroll-item
 					padding-left: 20px
 					scroll-snap-align: start
-					padding-top: 40px
 
 					&:last-of-type
-						padding-right: 20px
+							padding-right: 20px
 
 		.right
-			grid-row: 3
-
 			.header
-				margin-top: 30px
+				margin-top: -40px
 				padding-bottom: 10px
 
 				h2

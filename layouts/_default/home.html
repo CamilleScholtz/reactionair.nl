@@ -25,20 +25,26 @@
 					}
 				}"
 			>
-				{{ partialCached "article.html" (dict
-					"article" (index $articles 0)
-					"size"    "large"
-				) "large" (index $articles 0).Params.id }}
+				<div class="scroll-item">
+					{{ partialCached "article.html" (dict
+						"article" (index $articles 0)
+						"size"    "large"
+					) "large" (index $articles 0).Params.id }}
+				</div>
 
-				{{ partialCached "article.html" (dict
-					"article" (index $articles 1)
-					"size"    "large"
-				) "large" (index $articles 1).Params.id }}
+				<div class="scroll-item">
+					{{ partialCached "article.html" (dict
+						"article" (index $articles 1)
+						"size"    "large"
+					) "large" (index $articles 1).Params.id }}
+				</div>
 
-				{{ partialCached "article.html" (dict
-					"article" (index $articles 2)
-					"size"    "large"
-				) "large" (index $articles 2).Params.id }}
+				<div class="scroll-item">
+					{{ partialCached "article.html" (dict
+						"article" (index $articles 2)
+						"size"    "large"
+					) "large" (index $articles 2).Params.id }}
+				</div>
 			</div>
 		</div>
 
