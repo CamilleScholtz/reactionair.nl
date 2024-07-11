@@ -1,21 +1,19 @@
 #home
 	#hero
-		gap: 20px
-
 		.scroll-container
 			clip-path: inset(0 0 10px 0)
 			margin-left: -40px
 			overflow-x: scroll
 			scroll-snap-type: x mandatory
 			transform: translateX(20px)
-			width: 100vw
-			padding-top: 20px
+			margin-top: -40px
+			padding-top: 40px
 			padding-bottom: 70px
+			width: 100vw
 
 			.scroll
 				display: grid
 				grid-template-columns: calc(100vw - (20px * 4)) calc(100vw - (20px * 4)) calc(100vw - (20px * 3))
-				gap: 10px
 
 				&::-webkit-scrollbar
 					display: none
@@ -29,7 +27,7 @@
 
 		.right
 			.header
-				margin-top: -40px
+				margin-top: -20px
 				padding-bottom: 10px
 
 				h2
@@ -42,4 +40,4 @@
 
 			.list
 				.article
-					margin-bottom: 20px
+					margin-bottom: 10px
