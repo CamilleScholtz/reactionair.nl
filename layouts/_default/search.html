@@ -1,0 +1,60 @@
+{{ define "main" }}
+	<article id="search-block">
+		<section
+			class="content no-border"
+			x-data="{
+				pagefind: null,
+				input:    '',
+				matches:  [],
+
+				async init() {
+					this.pagefind = await import('/pagefind/pagefind.js');
+					await this.pagefind.init();
+				},
+
+				async search() {
+					if (!this.pagefind) {
+						return;
+					}
+
+					if (!this.input) {
+						return this.matches = [];
+					}
+
+					const search = await this.pagefind.search(this.input);
+					this.matches = await Promise.all(search.results.slice(0, 10).map(r => r.data()));
+				}
+			}"
+		>
+			<div>
+				<input
+					type="search"
+					placeholder="Zoeken…"
+					autocomplete="off"
+					spellcheck="false"
+					x-model="input"
+					@input.debounce.100ms="search"
+				>
+
+				<button class="button">
+					<img
+						src="{{ "img/search.svg" | relURL }}"
+						alt="Zoeken"
+						class="search-icon"
+						style="width: 28px; height: 28px;"
+					>
+				</button>
+			</div>
+
+			<div class="results-container">
+				<template x-for="match in matches">
+					<a :href="match.url">
+						<p class="author" x-html="match.meta.authors"></p>
+						<h2 x-html="`<span>${match.meta.theme}<span class='slash'>/</span></span>${match.meta.title}`">
+						</h2>
+					</a>
+				</template>
+			</div>
+		</section>
+	</article>
+{{ end }}
