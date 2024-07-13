@@ -11,6 +11,7 @@
 		id="product-list"
 		x-data="{
 			pagefind: null,
+			open:     false,
 			filters:  {},
 			active:   {},
 			matches:  [],
@@ -29,6 +30,8 @@
 				this.pagefind = await import('/pagefind/pagefind.js');
 				await this.pagefind.init();
 				this.filters = await this.pagefind.filters();
+
+				this.open = !$store.mobile.matches;
 
 				const params = new URLSearchParams(window.location.search);
 				if (!params) {
@@ -173,7 +176,18 @@
 			</div>
 		</section>
 
-		<section id="filters">
+		<span
+			id="filter-toggle"
+			:class="open && 'active'"
+			@click="open = !open"
+		>
+			Filteren
+		</span>
+
+		<section
+			id="filters"
+			x-show="open"
+		>
 			<div>
 				<div class="filters">
 					<span

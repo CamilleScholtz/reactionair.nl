@@ -1,6 +1,25 @@
 #product-list
-	#filters
+	#filter-toggle
+		background: transparent
+		border: 1px dashed var(--border-color)
+		border-radius: 50px
+		color: var(--accent-color)
+		cursor: pointer
+		font-size: 16px
+		font-style: italic
 		grid-row: 1
+		padding: 10px 15px 10px 15px
+		white-space: nowrap
+		width: fit-content
+		justify-self: end
+		margin-bottom: -40px
+
+		&.active
+			background: var(--accent-background-color)
+
+
+	#filters
+		grid-row: 2
 
 		.filters
 			.filters-container
