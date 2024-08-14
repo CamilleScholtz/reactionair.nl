@@ -18,13 +18,7 @@
 
 	{{ $thickness := add $add (mul .product.Params.pages $mul) }}
 
-	{{ $front := "" }}
-	{{ if eq .size "small" }}
-		{{ $front = (.product.Resources.GetMatch "front.*").Fit $size }}
-	{{ else }}
-		{{ $front = (.product.Resources.GetMatch "front.*").Resize $size }}
-	{{ end }}
-
+	{{ $front  := (.product.Resources.GetMatch "front.*").Resize $size }}
 	{{ $width  := div $front.Width $div }}
 	{{ $height := div $front.Height $div }}
 

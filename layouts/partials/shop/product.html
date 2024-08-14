@@ -1,8 +1,5 @@
 <li class="product">
-	{{ $section := .product.CurrentSection.File.ContentBaseName }}
-	{{ if or (eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel") (eq .Kind "term") }}
-		{{ $section = "boeken" }}
-	{{ end }}
+	{{ $section := path.BaseName (index .product.Ancestors 0).Path }}
 
 	<a href="{{ .product.RelPermalink }}">
 		{{ if eq $section "boeken" }}
@@ -12,7 +9,7 @@
 				"hover"	  true
 			) "small" .product.Params.id }}
 		{{ else }}
-			{{ partialCached "products/miscellany.html" (dict
+			{{ partialCached "shop/products/miscellany.html" (dict
 				"size"    "small"
 				"product" .product
 				"hover"   true
