@@ -15,7 +15,6 @@
 							.then(data => {
 								Object.entries(data).forEach(([key, value]) => {
 									const input = $el.querySelector(`[name='${key}']`);
-									console.log(input);
 
 									if (input) {
 										input.value = value;
