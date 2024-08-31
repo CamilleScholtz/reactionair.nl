@@ -69,9 +69,11 @@
 	:class="!hidden || 'hidden'"
 >
 	{{ with site.Params.alert }}
-		<div id="alert">
-			{{ . }}
-		</div>
+		{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
+			<div id="alert">
+				{{ . }}
+			</div>
+		{{ end }}
 	{{ end }}
 
 	<div id="logo-container">
