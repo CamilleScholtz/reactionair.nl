@@ -68,6 +68,12 @@
 	@scroll.window.throttle.25ms="scroll"
 	:class="!hidden || 'hidden'"
 >
+	{{ with site.Params.alert }}
+		<div id="alert">
+			{{ . }}
+		</div>
+	{{ end }}
+
 	<div id="logo-container">
 		<div id="logo-center">
 			<a
