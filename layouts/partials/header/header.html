@@ -69,7 +69,7 @@
 	:class="!hidden || 'hidden'"
 >
 	{{ with site.Params.alert }}
-		{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
+		{{ if eq (index (split (trim $.Page.RelPermalink "/") "/") 0) "winkel" }}
 			<div id="alert">
 				{{ . }}
 			</div>
