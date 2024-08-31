@@ -14,7 +14,7 @@ capitalizeListTitles = false
 pluralizeListTitles  = false
 
 [params]
-	api    = "http://127.0.0.1:8000"
+	api    = "https://admin.reactionair.nl"
 	advert = "De seksuele revolutie"
 	alert  = "Onze magazijnbeheerder is op vakantie, bestellingen kunnen een vertraging hebben van ongeveer 2 weken."
 
