@@ -16,7 +16,6 @@ pluralizeListTitles  = false
 [params]
 	api    = "https://admin.reactionair.nl"
 	advert = "De seksuele revolutie"
-	alert  = "Onze magazijnbeheerder is op vakantie, bestellingen kunnen een vertraging hebben van ongeveer 2 weken."
 
 [taxonomies]
 	author = "authors"
