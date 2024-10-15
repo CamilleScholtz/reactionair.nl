@@ -10,7 +10,7 @@ cleanDestinationDir  = true
 capitalizeListTitles = false
 pluralizeListTitles  = false
 
-[paginate]
+[pagination]
 	pagerSize = 10
 	path      = "pagina"
 
