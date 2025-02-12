@@ -4,11 +4,11 @@
 {{ with try (resources.GetRemote $url) }}
 	{{ with .Err }}
 		{{ errorf "Unable to get remote resource %s: %s" $url . }}
-	{{ else }}
+	{{ else with .Value }}
 		{{ $data = . | transform.Unmarshal }}
+	{{ else }}
+		{{ errorf "Unable to get remote resource %s" $url }}
 	{{ end }}
-{{ else }}
-	{{ errorf "Unable to get remote resource %s" $url }}
 {{ end }}
 
 {{ range $data }}
@@ -29,7 +29,7 @@
 		{{ with try (resources.GetRemote $url) }}
 			{{ with .Err }}
 				{{ errorf "Unable to get remote resource %s: %s" $url . }}
-			{{ else }}
+			{{ else with .Value }}
 				{{ $.AddResource (dict
 					"path"    (printf "%s/image.%s" $item.path .MediaType.SubType)
 					"content" (dict
@@ -38,9 +38,9 @@
 					)
 					"params" $item.assets.image.params
 				) }}
+			{{ else }}
+				{{ errorf "Unable to get remote resource %s" $url }}
 			{{ end }}
-		{{ else }}
-			{{ errorf "Unable to get remote resource %s" $url }}
 		{{ end }}
 	{{ end }}
 
@@ -48,7 +48,7 @@
 		{{ with try (resources.GetRemote $url) }}
 			{{ with .Err }}
 				{{ errorf "Unable to get remote resource %s: %s" $url . }}
-			{{ else }}
+			{{ else with .Value }}
 				{{ $.AddResource (dict
 					"path"    (printf "%s/recording.%s" $item.path .MediaType.SubType)
 					"content" (dict
@@ -57,9 +57,9 @@
 					)
 					"params" $item.assets.recording.params
 				) }}
+			{{ else }}
+				{{ errorf "Unable to get remote resource %s" $url }}
 			{{ end }}
-		{{ else }}
-			{{ errorf "Unable to get remote resource %s" $url }}
 		{{ end }}
 	{{ end }}
 
@@ -68,7 +68,7 @@
 			{{ with try (resources.GetRemote $url) }}
 				{{ with .Err }}
 					{{ errorf "Unable to get remote resource %s: %s" $url . }}
-				{{ else }}
+				{{ else with .Value }}
 					{{ $.AddResource (dict
 						"path"    (printf "%s/assets/%s" $item.path (path.Base $url))
 						"content" (dict
@@ -76,9 +76,9 @@
 							"value"     .Content
 						)
 					) }}
+				{{ else }}
+					{{ errorf "Unable to get remote resource %s" $url }}
 				{{ end }}
-			{{ else }}
-				{{ errorf "Unable to get remote resource %s" $url }}
 			{{ end }}
 		{{ end }}
 	{{ end }}
