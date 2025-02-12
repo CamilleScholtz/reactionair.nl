@@ -1,7 +1,7 @@
 {{ $data := dict }}
 {{ $url  := printf "%s/hugo/%s" .Site.Params.api "articles"  }}
 
-{{ with resources.GetRemote $url }}
+{{ with try (resources.GetRemote $url) }}
 	{{ with .Err }}
 		{{ errorf "Unable to get remote resource %s: %s" $url . }}
 	{{ else }}
@@ -26,7 +26,7 @@
 	{{ $item := . }}
 
 	{{ with $url := $item.assets.image.url }}
-		{{ with resources.GetRemote $url }}
+		{{ with try (resources.GetRemote $url) }}
 			{{ with .Err }}
 				{{ errorf "Unable to get remote resource %s: %s" $url . }}
 			{{ else }}
@@ -45,7 +45,7 @@
 	{{ end }}
 
 	{{ with $url := $item.assets.recording.url }}
-		{{ with resources.GetRemote $url }}
+		{{ with try (resources.GetRemote $url) }}
 			{{ with .Err }}
 				{{ errorf "Unable to get remote resource %s: %s" $url . }}
 			{{ else }}
@@ -65,7 +65,7 @@
 
 	{{ range $item.assets.extra }}
 		{{ with $url := .url }}
-			{{ with resources.GetRemote $url }}
+			{{ with try (resources.GetRemote $url) }}
 				{{ with .Err }}
 					{{ errorf "Unable to get remote resource %s: %s" $url . }}
 				{{ else }}

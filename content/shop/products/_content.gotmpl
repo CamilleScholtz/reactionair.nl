@@ -1,7 +1,7 @@
 {{ $data := dict }}
 {{ $url  := printf "%s/hugo/%s" .Site.Params.api "products" }}
 
-{{ with resources.GetRemote $url }}
+{{ with try (resources.GetRemote $url) }}
 	{{ with .Err }}
 		{{ errorf "Unable to get remote resource %s: %s" $url . }}
 	{{ else }}
@@ -23,7 +23,7 @@
 	{{ $item := . }}
 
 	{{ with $url := $item.assets.front.url }}
-		{{ with resources.GetRemote $url }}
+		{{ with try (resources.GetRemote $url) }}
 			{{ with .Err }}
 				{{ errorf "Unable to get remote resource %s: %s" $url . }}
 			{{ else }}
@@ -41,7 +41,7 @@
 	{{ end }}
 
 	{{ with $url := $item.assets.back.url }}
-		{{ with resources.GetRemote $url }}
+		{{ with try (resources.GetRemote $url) }}
 			{{ with .Err }}
 				{{ errorf "Unable to get remote resource %s: %s" $url . }}
 			{{ else }}
