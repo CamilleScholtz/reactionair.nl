@@ -35,14 +35,17 @@ D**uurzame gegevensdrager:** elk middel dat de consument of ondernemer in staat 
 
 ###  Artikel 2, identiteit van de ondernemer
 
+**Handelsnaam:** Reactionair.nl<br>
+**E-mail:** contact@reactionair.nl<br>
+
 <!-- *Reactionair.nl*<br>
 Cornelia Moeslaan 32<br>
-3527 MG, Utrecht -->
+3527 MG, Utrecht
 
 **Handelsnaam:** Reactionair.nl<br>
 **E-mail:** contact@reactionair.nl<br>
 **KVK:** 83798943<br>
-**BTW-nummer:** NL003874768B19
+**BTW-nummer:** NL003874768B19 -->
 
 
 ### Artikel 3, toepasselijkheid
