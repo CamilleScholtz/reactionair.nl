@@ -10,6 +10,6 @@
     "alpinejs": "^3.13.8",
     "currency.js": "^2.0.4",
     "pagefind": "^1.1.1",
-    "wavesurfer.js": "^7.9.5"
+    "wavesurfer.js": "^7.10.0"
   }
 }
