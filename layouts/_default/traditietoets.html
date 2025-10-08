@@ -1,0 +1,281 @@
+{{ define "main" }}
+	<article
+		class="quiz-page"
+		x-data="{
+			started: false,
+			current: 0,
+			loading: false,
+			results: $persist(null),
+			safari:  false,
+
+			questions: [
+				{
+					question: 'Gelooft u in de maanlanding?',
+					answers: [
+						'Ja',
+						'Nee',
+						'Nee en ik durf ervoor uit te komen'
+					],
+					answer: {}
+				},
+				{
+					question: 'Wat is volgens u de juiste spelling van fascisme?',
+					answers: [
+						'Fascisme',
+						'Facsisme',
+						'Fakking hell we hebben het hier over een genocide!'
+					],
+					answer: {}
+				},
+				{
+					question: 'Vul aan: &quot;From the river to the sea...&quot;',
+					answers: [
+						'Palestine will be free',
+						'Geen Engels op universiteiten',
+						'Ik zet alles in box 3'
+					],
+					answer: {}
+				},
+				{
+					question: 'Wat is uw mening over femicide?',
+					answers: [
+						'Ik vind femicide prima',
+						'Het komt allemaal door Andrew Tate',
+						'Remigratie is de enige oplossing'
+					],
+					answer: {}
+				},
+				{
+					question: 'Wat heeft u het liefste?',
+					answers: [
+						'Waterige compromissen',
+						'Rust in de portemonnee',
+						'€ 1.000,-'
+					],
+					answer: {}
+				},
+				{
+					question: 'Mag Israël meedoen aan het Songfestival?',
+					answers: [
+						'Nee absoluut niet',
+						'Ja, zolang het maar een fatsoenlijk optreden is',
+						'Waarom doet Friesland niet mee?'
+					],
+					answer: {}
+				},
+				{
+					question: 'Wie zat er achter de aanslag op het D66-kantoor?',
+					answers: [
+						'Els Rechts',
+						'Marinus van der Lubbe',
+						'Het was een false flag'
+					],
+					answer: {}
+				},
+				{
+					question: 'Een verbod op de Prinsenvlag?',
+					answers: [
+						'Terecht want fascisme',
+						'Onterecht want Bol.com representeert het grootkapitaal',
+						'De Prinsenvlag heeft geen pompeblêden'
+					],
+					answer: {}
+				},
+				{
+					question: 'Wat vindt u van chat control?',
+					answers: [
+						'Ik vind chat control prima',
+						'Alleen als het helpt om femicide te voorkomen',
+						'Dick Schoof en de NCTV volgen mij al sinds 2014'
+					],
+					answer: {}
+				},
+				{
+					question: 'Wat is volgens u de staat van het land?',
+					answers: [
+						'Het kan echt anders',
+						'Het kan zoveel beter',
+						'Deze vraag is kapot moeilijk'
+					],
+					answer: {}
+				},
+				{
+					question: 'Wat doet u als u een QR-code ziet?',
+					answers: [
+						'Scannen en gehoorzamen',
+						'Foto maken en later radicaliseren',
+						'Ik gebruik nog een Nokia'
+					],
+					answer: {}
+				},
+				{
+					question: 'Wat is uw favoriete complottheorie?',
+					answers: [
+						'Sail, Lisa, Asil',
+						'Bodegraven',
+						'De wetenschap'
+					],
+					answer: {}
+				}
+			],
+
+			init() {
+				if (this.results) {
+					this.started = true;
+				}
+
+				if (navigator.userAgent.includes('AppleWebKit/')
+					&& !navigator.userAgent.includes('Chrome/')
+					&& !navigator.userAgent.includes('Chromium/')) {
+					this.safari = true;
+				}
+			},
+
+			next() {
+				window.scrollTo({ top: 0 });
+
+				if (this.current < this.questions.length - 1) {
+					this.current++;
+				} else {
+					this.loading = true;
+
+					const answers = this.questions.map(question => question.answer.index);
+
+					fetch('{{ .Site.Params.api }}/api/traditietoets', {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json'
+						},
+						body: JSON.stringify({answers: answers})
+					})
+						.then(response => response.json())
+						.then(data => {
+							console.log(data);
+							this.results = data;
+							this.loading = false;
+						});
+				}
+			},
+
+			reset() {
+				this.results = null;
+				this.current = 0;
+				this.started = false;
+				this.questions.forEach(q => q.answer = {});
+			}
+		}"
+	>
+		<div class="start" x-show="!started">
+			<small>De Reactionair</small>
+			<h1>De Traditietoets</h1>
+
+			<p>Benieuwd naar welke Nederlandse politieke partij het beste bij je past? Doe de Traditietoets en ontdek met welke partij jij de toekomst van Nederland vorm zou kunnen geven!</p>
+			<p>Deze test is puur satirisch en dient uitsluitend voor vermaak. Neem de resultaten niet te serieus!</p>
+
+			<nav class="paginator">
+				<button class="button" @click="started = true; window.scrollTo({ top: 0 })">Start de test</button>
+			</nav>
+		</div>
+
+		<div
+			class="questions"
+			x-show="started && !results && !loading"
+		>
+			<template x-for="(question, index) in questions">
+				<div x-show="current === index" x-cloak>
+					<section class="question">
+						<small>
+							Vraag <span x-text="index + 1"></span> van de <span x-text="questions.length"></span>
+						</small>
+						<h2 x-text="question.question"></h2>
+					</section>
+
+					<ul>
+						<template x-for="(answer, answerIndex) in question.answers">
+							<li
+								:class="[(question.answer.index ?? null) === answerIndex && 'selected']"
+								x-text="answer"
+								@click="question.answer = { index: answerIndex, text: answer }"
+							></li>
+						</template>
+					</ul>
+				</div>
+			</template>
+
+			<nav class="paginator">
+				<button
+					:class="[
+						'button square prev',
+						current !== 0 || 'disabled'
+					]"
+					@click="current !== 0 && current--"
+				>
+					‹
+				</button>
+
+				<button
+					:class="[
+						'button',
+						current === questions.length - 1 ? 'submit' : 'next square'
+					]"
+					x-text="current === questions.length - 1 ? 'Verstuur antwoorden' : '›'"
+					@click="next"
+				>
+					›
+				</button>
+			</nav>
+		</div>
+
+		<div class="loading" x-show="loading" x-cloak>
+			<div class="spinner">*</div>
+
+			<p>Even geduld, we zijn je antwoorden aan het verwerken...</p>
+		</div>
+
+		<template x-if="results">
+			<div class="results">
+				<div class="main">
+					<small>Jouw politieke match</small>
+
+					<h2 x-text="results.parties[0].name"></h2>
+					<span x-text="results.parties[0].percentage + '%'"></span>
+
+					<meter
+						:value="results.parties[0].percentage"
+						min="0"
+						max="100"
+						:class="safari && 'safari'"
+					></meter>
+
+					<p x-text="results.parties[0].description"></p>
+				</div>
+
+				<div class="alternatives">
+					<small>Alternatieve matches</small>
+
+					<div class="grid">
+						<template x-for="alternative in results.parties.slice(1)">
+							<div>
+								<h3 x-text="alternative.name"></h3>
+								<span x-text="alternative.percentage + '%'"></span>
+
+								<meter
+									:value="alternative.percentage"
+									min="0"
+									max="100"
+									:class="safari && 'safari'"
+								></meter>
+
+								<p x-text="alternative.description"></p>
+							</div>
+						</template>
+					</div>
+				</div>
+
+				<nav class="paginator">
+					<button class="button" @click="reset()">Doe de test opnieuw</button>
+				</nav>
+			</div>
+		</template>
+	</article>
+{{ end }}
