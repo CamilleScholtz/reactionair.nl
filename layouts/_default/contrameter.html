@@ -141,7 +141,7 @@
 
 					const answers = this.questions.map(question => question.answer.index);
 
-					fetch('{{ .Site.Params.api }}/api/traditietoets', {
+					fetch('{{ .Site.Params.api }}/api/contrameter', {
 						method: 'POST',
 						headers: {
 							'Content-Type': 'application/json'
@@ -169,7 +169,7 @@
 			<small>De Reactionair</small>
 			<h1>De Contrameter 2025</h1>
 
-			<p>Benieuwd naar welke Nederlandse politieke partij het beste bij je past? Doe de Traditietoets en ontdek met welke partij jij de toekomst van Nederland vorm kan geven!</p>
+			<p>Benieuwd naar welke Nederlandse politieke partij het beste bij je past? Doe de Contrameter en ontdek met welke partij jij de toekomst van Nederland vorm kan geven!</p>
 
 			<nav class="paginator">
 				<button class="button" @click="started = true; window.scrollTo({ top: 0 })">Start de test</button>
