@@ -31,7 +31,7 @@
 			<section id="hero">
 				<section class="title">
 					{{ if eq .CurrentSection.File.ContentBaseName "boeken" }}
-						<div class="authors" data-pagefind-meta="authors">
+						<div class="authors" data-pagefind-meta="authors" data-pagefind-weight="6">
 							{{ range $index, $writer := .Params.writers }}
 								<a href="/winkel/producten/boeken/?auteur={{ $writer }}" data-pagefind-filter="author">
 									{{ $writer }}
@@ -54,7 +54,7 @@
 				</section>
 			</section>
 
-			<section class="cart" data-pagefind-ignore>
+			<section class="cart" data-pagefind-ignore="all">
 				{{ partial "shop/input/cart.html" (dict
 					"variants"     .Params.variants
 					"out_of_stock" .Params.out_of_stock
@@ -69,7 +69,7 @@
 				{{ if gt (len (split .Content "</p")) 2 }}
 					<span
 						class="more"
-						data-pagefind-ignore
+						data-pagefind-ignore="all"
 						x-show="!expanded"
 						@click="expanded = true"
 					>
@@ -86,7 +86,7 @@
 				</div>
 			</section>
 
-			<section class="details" data-pagefind-ignore>
+			<section class="details" data-pagefind-ignore="all">
 				{{ if eq $section "boeken" }}
 					<table>
 						<tr>

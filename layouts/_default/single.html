@@ -55,7 +55,7 @@
 				</figure>
 			{{ end }}
 
-			<section class="info" data-pagefind-ignore>
+			<section class="info" data-pagefind-ignore="all">
 				<time>{{ .Date.Day }} {{ index site.Data.months (printf "%d" .Date.Month) }}, {{ .Date.Year }}</time>
 
 				<span class="pipe">—</span>
@@ -66,7 +66,7 @@
 
 		<section class="content">
 			{{ if eq .Params.theme "De Uylenspieghel" }}
-				<section class="uylenspieghel" data-pagefind-ignore>
+				<section class="uylenspieghel" data-pagefind-ignore="all">
 					<img src="{{ "img/uylenspieghel.svg" | relURL }}" alt="Uylenspieghel" style="height: 240px">
 
 					<small>Dit artikel is van satirische aard en dient met een korreltje zout genomen te worden.</small>
@@ -76,7 +76,7 @@
 			{{ with .Resources.GetMatch "recording.*" }}
 				<section
 					class="recording"
-					data-pagefind-ignore
+					data-pagefind-ignore="all"
 					x-data="{
 						style:     	window.getComputedStyle(document.documentElement),
 						recording:  '{{ .RelPermalink }}',
