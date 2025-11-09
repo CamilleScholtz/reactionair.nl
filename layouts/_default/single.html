@@ -2,7 +2,7 @@
 	<article data-pagefind-body>
 		<section id="hero">
 			<section class="title">
-				<div class="authors" data-pagefind-meta="authors">
+				<div class="authors" data-pagefind-meta="authors" data-pagefind-weight="6">
 					{{ range $index, $author := .Params.authors }}
 						{{ with site.GetPage (printf "authors/%s" (urlize $author)) }}
 							<a href="{{ .RelPermalink }}">
