@@ -3,7 +3,7 @@
 	<channel>
 		<title>Reactionair.nl</title>
 		<link>http://reactionair.nl</link>
-		<description>De website voor achtergrond en opinie vanuit een reactionair perspectief</description>
+		<description>Op weg naar een nieuw begin.</description>
 
 		{{ range $i, $_ := .RegularPages }}
 			{{ with .Params.layout }}
