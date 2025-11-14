@@ -78,6 +78,7 @@ pluralizeListTitles  = false
 
 [mediaTypes]
 	[mediaTypes.'audio/mpeg']
+		delimiter = '.'
 		suffixes = ['mp3']
 
 [httpcache]
