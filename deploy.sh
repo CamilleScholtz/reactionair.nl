@@ -37,4 +37,4 @@ fi
 mv "/www/reactionair.nl/build" "/www/reactionair.nl/public"
 
 # Generate search index
-pagefind --site "/www/reactionair.nl/public"
+/www/reactionair.nl/node_modules/@pagefind/freebsd-x64/bin/pagefind_extended --site "/www/reactionair.nl/public"
