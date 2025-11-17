@@ -12,6 +12,36 @@ form
 		&.amount
 			grid-template-columns: 1fr 1fr 1fr 1fr
 
+		&.frequency
+			grid-template-columns: 1fr 1fr
+
+.payment-methods
+	display: flex
+	gap: 8px
+	align-items: center
+	margin-top: 20px
+	flex-wrap: wrap
+	justify-content: center
+
+	img
+		background: var(--accent-background-color)
+		border-radius: 4px
+		height: 20px
+		width: auto
+		padding: 6px
+
+.security-message
+	display: flex
+	align-items: center
+	gap: 8px
+	margin-top: 20px
+	margin-bottom: 10px
+	font-size: 14px
+	color: var(--muted-color)
+
+	svg
+		flex-shrink: 0
+
 .pipe
 	margin-left: 12px
 	margin-right: 12px

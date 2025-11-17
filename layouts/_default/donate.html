@@ -59,7 +59,27 @@
 						<input type="email" name="email" required placeholder="Uw e-mailadres" autocomplete="email"/>
 					</div>
 
-					<label>Bedrag</label>
+					<label style="margin-top: 10px;">Frequentie</label>
+					<div class="form-group frequency">
+						<label class="button" for="frequency-monthly">
+							<input type="radio" name="frequency" id="frequency-monthly" value="monthly" checked/>
+							<span>Maandelijks</span>
+						</label>
+
+						<label class="button" for="frequency-yearly">
+							<input type="radio" name="frequency" id="frequency-yearly" value="yearly"/>
+							<span>Jaarlijks</span>
+						</label>
+					</div>
+
+					<div style="margin-top: 8px;">
+						<label class="button secondary" for="frequency-once" style="font-size: 0.9em; opacity: 0.7;">
+							<input type="radio" name="frequency" id="frequency-once" value="once"/>
+							<span>Of eenmalig doneren</span>
+						</label>
+					</div>
+
+					<label style="margin-top: 10px;">Bedrag</label>
 					<div class="form-group amount">
 						<label class="button" for="amount-5">
 							<input type="radio" name="amount" id="amount-5" value="5"/>
@@ -87,41 +107,28 @@
 						<span>Ik wil de <i>Reactionair.nl</i> nieuwsbrief ontvangen</span>
 					</label>
 
+					<div class="security-message">
+						<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+							<rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+							<path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+						</svg>
+						<span>Je betaling loopt via beveiligde servers</span>
+					</div>
+
 					<button type="submit" class="button">
 						Naar betaalscherm
 					</button>
 				</form>
-			</section>
 
-			<hr>
-
-			<section>
-				<h3>Cryptocurrency</h3>
-
-				<p>Volledig anoniem een donatie maken is ook mogelijk met gebruik van <i>cryptocurrency</i>.</p>
-
-				<div class="wallets">
-					<div>
-						<h4>Monero</h4>
-						<code>43N66aiA9392qz7pTFAfSe1qJxrxDACDhMvcTVv5uPkWK37XSCMxaeqg2PTp8NeZMuaGcjatuQCaoCFrUdRxuQX71mBnwvr</code>
-					</div>
-
-					<div>
-						<h4>Bitcoin</h4>
-						<code>bc1qe4z7t4se57xxgfmwm65pjj2k6eecmj4sed444s</code>
-					</div>
-
-					<div>
-						<h4>Ethereum</h4>
-						<code>0xa05e75Df57407de9d47197626411Bdd311E67dcb</code>
-					</div>
-
-					<div>
-						<h4>Solana</h4>
-						<code>HSmebpJ43feF2kqwBsQ8qqTX6e2Kom1gb8wRyXesM7Qu</code>
-					</div>
+				<div class="payment-methods">
+					<img src="/img/payment/ideal.svg" alt="iDEAL" />
+					<img src="/img/payment/visa.svg" alt="Visa" />
+					<img src="/img/payment/mastercard.svg" alt="Mastercard" />
+					<img src="/img/payment/apple-pay.svg" alt="Apple Pay" />
+					<img src="/img/payment/bancontact.svg" alt="Bancontact" />
 				</div>
 			</section>
+
 		</section>
 	</article>
 {{ end }}
