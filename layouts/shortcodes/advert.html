@@ -13,8 +13,8 @@
 	{{ $book = index (where (site.GetPage "shop/products/boeken").RegularPages ".Title" site.Params.advert) 0 }}
 {{ end }}
 
-<section class="av">
-	{{ partialCached "shop/advert.html" (dict
+<section class="book-promo">
+	{{ partialCached "shop/promo.html" (dict
 		"book" $book
 	) $book.Params.id }}
 </section>

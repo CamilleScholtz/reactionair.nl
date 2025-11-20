@@ -239,10 +239,10 @@
 		{{ end }}
 	</section>
 
-	<section class="av">
+	<section class="promo book-promo">
 		{{ $book := index (where (.GetPage "shop/products/boeken").RegularPages ".Title" site.Params.advert) 0 }}
 
-		{{ partialCached "shop/advert.html" (dict
+		{{ partialCached "shop/promo.html" (dict
 			"book" $book
 		) $book.Params.id }}
 	</section>
@@ -262,8 +262,8 @@
 		{{ end }}
 	</section>
 
-	<section class="newsletter">
-		{{ partialCached "newsletter.html" . }}
+	<section class="promo donate-promo">
+		{{ partialCached "donate/promo.html" . }}
 	</section>
 
 	<section>

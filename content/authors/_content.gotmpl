@@ -1,5 +1,5 @@
 {{ $data := dict }}
-{{ $url  := printf "%s/hugo/%s" .Site.Params.api "authors"  }}
+{{ $url  := printf "%s/hugo/%s" .Site.Params.api "authors.json"  }}
 
 {{ with try (resources.GetRemote $url) }}
 	{{ with .Err }}

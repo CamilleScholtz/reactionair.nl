@@ -1,40 +1,37 @@
-.newsletter
-	.newsletter-container
-		align-content: center
-		background: var(--popup-background-color)
+.donate-promo
+	.donate-promo-container
 		box-shadow: 40px 0 var(--popup-background-color)
 		grid-template-rows: 4fr 5fr
-		width: calc(100vw - 40px)
 		margin-left: -20px
-		padding-left: 5px
+		padding-left: 20px
+		width: calc(100vw - 40px)
 
 		.text
 			grid-row: 2
 			padding: 20px
 			padding-top: 0px
+			margin-left: 0px
 
 			h3
 				font-size: 7vw
 				text-align: right
-				margin-top: 0px
-
-				.de
-					font-size: 4vw
+				margin-top: 20px
 
 			h2
-				font-size: 11vw
+				font-size: 13vw
 				margin: 0 auto
 				margin-top: -1vw
 
 			p
 				margin: 0 auto
 				margin-top: 30px
+				text-align: center
 
-		.envelope-container
-			margin-top: -110px
+		.coin-container
+			margin: 30px auto 0
+			max-width: 300px
 
-			.envelope
-				margin: 0 auto
+			.coin
 				transform: rotateY(-20deg) rotateX(3deg) scale(0.9)
 
 				@keyframes animate
@@ -44,8 +41,3 @@
 						transform: rotateY(-30deg) rotateX(3deg) scale(0.9)
 					100%
 						transform: rotateY(-20deg) rotateX(3deg) scale(0.9)
-
-		form
-			margin-left: 10px
-			margin-right: 10px
-			margin-bottom: 20px
