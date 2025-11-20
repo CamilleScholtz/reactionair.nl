@@ -15,7 +15,7 @@ pluralizeListTitles  = false
 	path      = "pagina"
 
 [params]
-	api    = "http://127.0.0.1:8000"
+	api    = "https://admin.reactionair.nl"
 	advert = "De seksuele revolutie"
 
 [taxonomies]
