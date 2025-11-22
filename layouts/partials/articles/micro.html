@@ -2,8 +2,14 @@
 	<div class="author">{{ delimit .article.Params.authors ", " " & " }}</div>
 	<h2>
 		{{ if not .author }}
-			{{ with site.GetPage (printf "theme/%s" (urlize .article.Params.theme)) }}
-				<span>{{ .Params.keyword }}<span class="slash">/</span></span>
+			{{ if .article.Params.column }}
+				{{ with .article.Params.column }}
+					<span>{{ .keyword }}<span class="slash">/</span></span>
+				{{ end }}
+			{{ else }}
+				{{ with site.GetPage (printf "theme/%s" (urlize .article.Params.theme)) }}
+					<span>{{ .Params.keyword }}<span class="slash">/</span></span>
+				{{ end }}
 			{{ end }}
 		{{ end }}
 		{{ .article.Title | safeHTML }}

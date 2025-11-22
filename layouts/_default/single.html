@@ -16,8 +16,24 @@
 									</figure>
 								{{ end }}
 
-								<span>{{ .Title }}</span>
+								{{ if not $.Params.column }}
+									<span>{{ .Title }}</span>
+								{{ end }}
 							</a>
+						{{ end }}
+					{{ end }}
+
+					{{ if .Params.column }}
+						{{ with .Params.column }}
+							<div class="column-info">
+								{{ with site.GetPage (printf "authors/%s" (urlize (index $.Params.authors 0))) }}
+									<a href="{{ .RelPermalink }}">
+										<span class="author-name">{{ .Title }}</span>
+									</a>
+								{{ end }}
+								<h3>{{ .title }}</h3>
+								<small>{{ .description }}</small>
+							</div>
 						{{ end }}
 					{{ end }}
 				</div>
