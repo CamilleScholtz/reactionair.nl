@@ -1,7 +1,7 @@
 .book-promo
 	.book-promo-container
 		box-shadow: 40px 0 var(--popup-background-color)
-		grid-template-rows: 4fr 5fr
+		grid-template-rows: auto auto
 		margin-left: -20px
 		padding-left: 20px
 		width: calc(100vw - 40px)
@@ -12,17 +12,20 @@
 			padding-top: 0px
 			margin-left: 0px
 
+			.headings
+				width: fit-content
+				margin: 20px auto 0
+
 			h3
-				font-size: 7vw
+				font-size: 5vw
 				text-align: right
-				margin-top: 20px
+				margin-bottom: 0
 
 				.de
-					font-size: 4vw
+					font-size: 3vw
 
 			h2
 				font-size: 13vw
-				margin: 0 auto
 				margin-top: -1vw
 
 			p
@@ -34,4 +37,6 @@
 			margin: 0 auto
 
 			.book-container
-				margin-top: -110px
+				margin-top: -60px
+				transform: scale(0.85)
+				transform-origin: top center
