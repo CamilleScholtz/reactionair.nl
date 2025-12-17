@@ -1,17 +1,6 @@
 <div class="text">
 	<div class="author">{{ delimit .article.Params.authors ", " " & " }}</div>
-	<h2>
-		{{ if .article.Params.column }}
-			{{ with .article.Params.column }}
-				<span>{{ .keyword }}<span class="slash">/</span></span>
-			{{ end }}
-		{{ else }}
-			{{ with site.GetPage (printf "theme/%s" (urlize .article.Params.theme)) }}
-				<span>{{ .Params.keyword }}<span class="slash">/</span></span>
-			{{ end }}
-		{{ end }}
-		{{ .article.Title | safeHTML }}
-	</h2>
+	<h2>{{ .article.Title | safeHTML }}</h2>
 </div>
 
 {{ with .article.Resources.GetMatch "image.*" }}
