@@ -1,0 +1,21 @@
+{{ $data := dict }}
+{{ $url  := printf "%s/hugo/%s" .Site.Params.api "columns.json"  }}
+
+{{ with try (resources.GetRemote $url) }}
+	{{ with .Err }}
+		{{ errorf "Unable to get remote resource %s: %s" $url . }}
+	{{ else with .Value }}
+		{{ $data = . | transform.Unmarshal }}
+	{{ else }}
+		{{ errorf "Unable to get remote resource %s" $url }}
+	{{ end }}
+{{ end }}
+
+{{ range $data }}
+	{{ $.AddPage (dict
+		"kind"    .kind
+		"path"    .path
+		"title"   .title
+		"params"  .params
+	) }}
+{{ end }}

@@ -21,6 +21,7 @@ pluralizeListTitles  = false
 [taxonomies]
 	author = "authors"
 	theme  = "theme"
+	column = "column"
 
 [permalinks]
 	[permalinks.page]
@@ -32,9 +33,11 @@ pluralizeListTitles  = false
 	[permalinks.term]
 		authors   = "/auteurs/:slug/"
 		theme     = "/themas/:slug/"
+		column    = "/columns/:slug/"
 	[permalinks.taxonomy]
 		authors   = "/auteurs/"
 		theme     = "/themas/"
+		column    = "/columns/"
 
 [related]
 	includeNewer = true

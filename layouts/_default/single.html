@@ -24,17 +24,18 @@
 					{{ end }}
 
 					{{ if .Params.column }}
-						{{ with .Params.column }}
-							<div class="column-info">
-								{{ with site.GetPage (printf "authors/%s" (urlize (index $.Params.authors 0))) }}
-									<a href="{{ .RelPermalink }}">
-										<span class="author-name">{{ .Title }}</span>
-									</a>
-								{{ end }}
-								<h3>{{ .title }}</h3>
-								<small>{{ .description }}</small>
-							</div>
-						{{ end }}
+						<div class="column-info">
+							{{ with site.GetPage (printf "authors/%s" (urlize (index $.Params.authors 0))) }}
+								<a href="{{ .RelPermalink }}">
+									<span class="author-name">{{ .Title }}</span>
+								</a>
+							{{ end }}
+
+							{{ with site.GetPage (printf "column/%s" (urlize $.Params.column)) }}
+								<h3>{{ .Params.heading | safeHTML }}</h3>
+								<small>{{ .Params.description }}</small>
+							{{ end }}
+						</div>
 					{{ end }}
 				</div>
 

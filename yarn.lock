@@ -3,32 +3,32 @@
 
 
 "@alpinejs/anchor@^3.15.0":
-  version "3.15.1"
-  resolved "https://registry.yarnpkg.com/@alpinejs/anchor/-/anchor-3.15.1.tgz#3876135c7a285c52451f8180090edf1baa6f516b"
-  integrity sha512-54aeGLAFq5dZ7kNQWOR+I9czjdOuj3M5+mKlOk7u68nf0RRdGAKz4kllKFWZqOD9vdMQL5VsvNF45JmrZef+Cg==
+  version "3.15.3"
+  resolved "https://registry.yarnpkg.com/@alpinejs/anchor/-/anchor-3.15.3.tgz#81e63785305629bb8f963c7e4cc81bb83e9efaa7"
+  integrity sha512-yBEcIhZhliXI/Vs/SZfBXhxVaCBDYKXqIR3XSIDHW0OKVi8p1Bn4qxs+rX0Gi/sjqVgM2HD1zhGGU2O1faF5jA==
 
 "@alpinejs/collapse@^3.15.0":
-  version "3.15.1"
-  resolved "https://registry.yarnpkg.com/@alpinejs/collapse/-/collapse-3.15.1.tgz#0b9922649fea9d53a4f0783d57d806fc2401bbfb"
-  integrity sha512-p3ejDFk8VWdrHa6+Fq3NQp6X4LxWoj2TFRgKEKPQPmVyJMV+Zf5m4ZUFk3Z54zIsgOM9JkAZE0Xany00ntTTng==
+  version "3.15.3"
+  resolved "https://registry.yarnpkg.com/@alpinejs/collapse/-/collapse-3.15.3.tgz#0fa732f249077c9892b248f0969b655d7a031ef4"
+  integrity sha512-nheS20BsFY1Eh1nyW0YNs7RMOiO/LipCTltEplbWunTcgdCeZtD7YPUim5xtbhc+0nJP4SkR7G0axRXaRf4m1g==
 
 "@alpinejs/focus@^3.15.0":
-  version "3.15.1"
-  resolved "https://registry.yarnpkg.com/@alpinejs/focus/-/focus-3.15.1.tgz#0b35a9ee083d77c355f7201a23f54f7e13b4b8ac"
-  integrity sha512-Svu8ILVafdJouRVAV/vAkw7i/5/RNi5USh/C1llOhmhpSlX+F8JI1FuVhlJHLMcNqNIV6fm9yoiUBjB2NLwwUQ==
+  version "3.15.3"
+  resolved "https://registry.yarnpkg.com/@alpinejs/focus/-/focus-3.15.3.tgz#fba658a6583ba1e14d361f14f7fb6f4bf5b60888"
+  integrity sha512-cgbQaFUUMBKurVpsYMpitvVncG4GOTRKyTF6PC7P2x8AXWrc8vUj3vtvP3ClA4ty3AkxSqoC49V/LxOS7dVXog==
   dependencies:
     focus-trap "^6.9.4"
     tabbable "^5.3.3"
 
 "@alpinejs/mask@^3.15.0":
-  version "3.15.1"
-  resolved "https://registry.yarnpkg.com/@alpinejs/mask/-/mask-3.15.1.tgz#8b39b55f821db5f78cc3d74e326e673b8cfe036d"
-  integrity sha512-1LgqlhYA7V6Ia44uk/Hh+l+Nl+/gNSwslNXM6+f88vEZP50GkC4lhqLAQxe1o0jcNl8weItX97wDaRb4xf/xgg==
+  version "3.15.3"
+  resolved "https://registry.yarnpkg.com/@alpinejs/mask/-/mask-3.15.3.tgz#e038819131aaf7ea00e1a8ffa11514eb9b9521ff"
+  integrity sha512-1hpI+KwKwV16RQhDQYCp6k78cEoTXrT9o6FmQk9IM7XkFWkDJu1CRRuaACLn2jkORO2jK2s+H0SHmmwhepEi7w==
 
 "@alpinejs/persist@^3.15.0":
-  version "3.15.1"
-  resolved "https://registry.yarnpkg.com/@alpinejs/persist/-/persist-3.15.1.tgz#dc5c42a29eb7af13b3ed48704adddb65d99797bf"
-  integrity sha512-EtK4s7I0xhRTJsLaYjhJ4SyQan8+gkGaRYvzFw+ndg7rzrjSHzhgRmQ20GZbnjj+eDg77fPMTvzvngX6yAExbg==
+  version "3.15.3"
+  resolved "https://registry.yarnpkg.com/@alpinejs/persist/-/persist-3.15.3.tgz#af335c008829cf2c38b4d3f6dc5231c64663a78f"
+  integrity sha512-QOxhNhZxOEKIawGt7WqdFl4Z9V2k0EN006Iwqq+HCI21WSB8fwVxfaL1ICnOPhtg0OwW4zG6/nMvzA4gLFS92A==
 
 "@pagefind/darwin-arm64@1.4.0":
   version "1.4.0"
@@ -73,9 +73,9 @@
   integrity sha512-oJ4F3TnvpXaQwZJNF3ZK+kLPHKarDmJjJ6jyzVNDKH9md1dptjC7lWR//jrGuLdek/U6iltWxqAnYOu8gCiOvA==
 
 alpinejs@^3.15.0:
-  version "3.15.1"
-  resolved "https://registry.yarnpkg.com/alpinejs/-/alpinejs-3.15.1.tgz#d188dd27a68e30a32a5fa851c54c807456b11cd8"
-  integrity sha512-HLO1TtiE92VajFHtLLPK8BWaK1YepV/uj31UrfoGnQ00lyFOJZ+oVY3F0DghPAwvg8sLU79pmjGQSytERa2gEg==
+  version "3.15.3"
+  resolved "https://registry.yarnpkg.com/alpinejs/-/alpinejs-3.15.3.tgz#667bce66914f8a11a786bffba9081c25ee3692d8"
+  integrity sha512-fSI6F5213FdpMC4IWaup92KhuH3jBX0VVqajRJ6cOTCy1cL6888KyXdGO+seAAkn+g6fnrxBqQEx6gRpQ5EZoQ==
   dependencies:
     "@vue/reactivity" "~3.1.1"
 
@@ -109,6 +109,6 @@ tabbable@^5.3.3:
   integrity sha512-QD9qKY3StfbZqWOPLp0++pOrAVb/HbUi5xCc8cUo4XjP19808oaMiDzn0leBY5mCespIBM0CIZePzZjgzR83kA==
 
 wavesurfer.js@^7.10.1:
-  version "7.11.1"
-  resolved "https://registry.yarnpkg.com/wavesurfer.js/-/wavesurfer.js-7.11.1.tgz#d3f141f8e0cbcefb0f66a3b0f58411fa0addd395"
-  integrity sha512-8Q+wwItpjJAlhQ7crQLtKwgfbqqczm5/wx+76K4PptP+MBAjB0OA78+A9OuLnULz/8GpAQ+fKM6s81DonEO0Sg==
+  version "7.12.1"
+  resolved "https://registry.yarnpkg.com/wavesurfer.js/-/wavesurfer.js-7.12.1.tgz#4b46dc5ee1a0429c7c33ca78397105c4a087f1fb"
+  integrity sha512-NswPjVHxk0Q1F/VMRemCPUzSojjuHHisQrBqQiRXg7MVbe3f5vQ6r0rTTXA/a/neC/4hnOEC4YpXca4LpH0SUg==

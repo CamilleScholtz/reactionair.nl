@@ -1,0 +1,33 @@
+{{ with .pages }}
+<div class="theme {{ $.side }}">
+	{{ $featured := index . 0 }}
+
+	<div class="description">
+		<div class="column-info">
+			{{ with site.GetPage (printf "column/%s" (urlize $.term)) }}
+				<h2>{{ .Params.heading | safeHTML }}</h2>
+				<small>{{ .Params.description }}</small>
+			{{ end }}
+		</div>
+	</div>
+
+	<div class="pages">
+		{{ range first 5 . | after 1 }}
+			<a href="{{ .RelPermalink }}">
+				<span class="arrow">
+					-
+				</span>
+				<span class="text">{{ .Title | safeHTML }}</span>
+			</a>
+		{{ end }}
+
+		<a href="/columns/{{ urlize $.term }}/" class="more">Meer artikelen...</a>
+	</div>
+
+	{{ partialCached "article.html" (dict
+		"article" $featured
+		"size"    "large"
+		"lazy"    true
+	) "large" "lazy" $featured.Params.id }}
+</div>
+{{ end }}

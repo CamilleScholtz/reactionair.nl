@@ -3,8 +3,8 @@
 	<h2>
 		{{ if not .author }}
 			{{ if .article.Params.column }}
-				{{ with .article.Params.column }}
-					<span>{{ .keyword }}<span class="slash">/</span></span>
+				{{ with site.GetPage (printf "column/%s" (urlize .article.Params.column)) }}
+					<span>{{ .Params.keyword }}<span class="slash">/</span></span>
 				{{ end }}
 			{{ else }}
 				{{ with site.GetPage (printf "theme/%s" (urlize .article.Params.theme)) }}
