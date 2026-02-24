@@ -17,7 +17,7 @@
 								{{ end }}
 
 								{{ if not $.Params.column }}
-									<span data-pagefind-weight="6">{{ .Title }}</span>
+									<span>{{ .Title }}</span>
 								{{ end }}
 							</a>
 						{{ end }}
@@ -27,7 +27,7 @@
 						<div class="column-info">
 							{{ with site.GetPage (printf "authors/%s" (urlize (index $.Params.authors 0))) }}
 								<a href="{{ .RelPermalink }}">
-									<span class="author-name" data-pagefind-weight="6">{{ .Title }}</span>
+									<span class="author-name">{{ .Title }}</span>
 								</a>
 							{{ end }}
 
