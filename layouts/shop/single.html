@@ -31,7 +31,7 @@
 			<section id="hero">
 				<section class="title">
 					{{ if eq $section "boeken" }}
-						<div class="authors" data-pagefind-meta="authors" data-pagefind-weight="6">
+						<div class="authors" data-pagefind-meta="authors">
 							{{ range $index, $writer := .Params.writers }}
 								<a href="/winkel/producten/boeken/?auteur={{ $writer }}" data-pagefind-filter="author">
 									{{ $writer }}
