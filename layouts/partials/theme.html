@@ -2,7 +2,9 @@
 	{{ $featured := index .pages 0 }}
 
 	<div class="description">
-		{{ if eq .section "related" }}
+		{{ if .heading }}
+			<h2>{{ .heading | safeHTML }}</h2>
+		{{ else if eq .section "related" }}
 			<h2>LEES <i>ook deze</i> ARTIKELEN</h2>
 		{{ else }}
 			{{ with site.GetPage (printf "%s/%s" .section (urlize .term)) }}
@@ -21,7 +23,7 @@
 			</a>
 		{{ end }}
 
-		<a href="/{{ .path }}/{{ urlize .term }}/" class="more">Meer artikelen...</a>
+		<a href="{{ with .link }}{{ . }}{{ else }}/{{ .path }}/{{ urlize .term }}/{{ end }}" class="more">Meer artikelen...</a>
 	</div>
 
 	{{ partialCached "article.html" (dict

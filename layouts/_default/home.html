@@ -237,12 +237,8 @@
 		{{ end }}
 	</section>
 
-	<section class="promo book-promo">
-		{{ $book := index (where (.GetPage "shop/products/boeken").RegularPages ".Title" site.Params.advert) 0 }}
-
-		{{ partialCached "shop/promo.html" (dict
-			"book" $book
-		) $book.Params.id }}
+	<section class="promo letter-promo">
+		{{ partialCached "newsletter/promo.html" . }}
 	</section>
 
 	<section>
@@ -260,5 +256,21 @@
 
 	<section class="promo donate-promo">
 		{{ partialCached "donate/promo.html" . }}
+	</section>
+
+	{{ $heroIDs := slice }}
+	{{ range first 7 $articles }}
+		{{ $heroIDs = $heroIDs | append .Params.id }}
+	{{ end }}
+
+	{{ $archive := (where (where site.RegularPages "Section" "articles") "Params.id" "not in" $heroIDs) | after 10 }}
+
+	<section>
+		{{ partial "theme.html" (dict
+			"pages"    $archive
+			"side"     "right"
+			"heading"  "<i>het</i> Archief"
+			"link"     "/zoeken/"
+		) }}
 	</section>
 {{ end }}
