@@ -24,7 +24,7 @@
 					{{ end }}
 
 					{{ if .Params.column }}
-						<div class="column-info">
+						<div class="column-info" data-pagefind-ignore>
 							{{ with site.GetPage (printf "authors/%s" (urlize (index $.Params.authors 0))) }}
 								<a href="{{ .RelPermalink }}">
 									<span class="author-name">{{ .Title }}</span>
