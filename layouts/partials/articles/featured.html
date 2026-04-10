@@ -13,11 +13,7 @@
 		{{ $1x := .Fill (printf "578x413 webp %s" $anchor) }}
 		{{ $2x := .Fill (printf "1156x826 webp %s" $anchor) }}
 
-		<img
-			srcset="{{ $1x.RelPermalink }} 1x,
-			        {{ $2x.RelPermalink }} 2x"
-			src="{{ $2x.RelPermalink }}"
-			alt="{{ $.article.Title | safeHTML }}"
-			style="background: {{ index $1x.Colors 0 }};">
+		<div
+			style="background: {{ index $1x.Colors 0 }}; aspect-ratio: 578/413; width: 100%;"></div>
 	</figure>
 {{ end }}

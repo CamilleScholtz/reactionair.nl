@@ -7,16 +7,9 @@
 			alt="{{ .Get "caption" }}">
 	{{ else }}
 		{{ $1x := $image.Resize "864x webp" }}
-		{{ $2x := $image.Resize "1728x webp" }}
-	
-		<img 
-			srcset="{{ $1x.RelPermalink }} 864w,
-			        {{ $2x.RelPermalink }} 1728w"
-			sizes="(max-width: 1920px) 864px,
-			       1728px"
-			src="{{ $2x.RelPermalink }}"
-			alt="{{ .Get "caption" }}"
-			style="background: {{ index $1x.Colors 0 }};">
+
+		<div
+			style="background: {{ index $1x.Colors 0 }}; aspect-ratio: 864/576; width: 100%;"></div>
 	{{ end }}
 
 	<figcaption>

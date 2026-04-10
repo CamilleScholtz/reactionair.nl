@@ -59,12 +59,8 @@
 					{{ $1x := .Fill (printf "1035x500 webp %s" $anchor) }}
 					{{ $2x := .Fill (printf "2070x1000 webp %s" $anchor) }}
 
-					<img
-						srcset="{{ $1x.RelPermalink }} 1x,
-						        {{ $2x.RelPermalink }} 2x"
-						src="{{ $2x.RelPermalink }}"
-						alt="{{ cond (isset .Params "caption") .Params.caption ($.Title | safeHTML) }}"
-						style="background: {{ index $1x.Colors 0 }};">
+					<div
+						style="background: {{ index $1x.Colors 0 }}; aspect-ratio: 2/1; max-height: 500px; width: 100%;"></div>
 
 					{{ if isset .Params "caption" }}
 						<figcaption>{{ .Params.caption }}</figcaption>

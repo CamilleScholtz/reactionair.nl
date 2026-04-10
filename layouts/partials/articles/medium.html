@@ -23,9 +23,7 @@
 
 		{{ $image := .Fill (printf "500x500 webp %s" $anchor) }}
 
-		<img
-			src="{{ $image.RelPermalink }}"
-			alt="{{ $.article.Title | safeHTML }}"
-			style="background: {{ index $image.Colors 0 }};">
+		<div
+			style="background: {{ index $image.Colors 0 }}; aspect-ratio: 1/1; width: 100%;"></div>
 	</figure>
 {{ end }}
