@@ -1,10 +1,10 @@
-<div class="text">
-	<div class="author">{{ delimit .article.Params.authors ", " " & " }}</div>
-	<h2>{{ .article.Title | safeHTML }}</h2>
+<div class="md:text-center md:text-balance md:px-[15px]">
+	<div class="text-accent italic md:mb-[15px]">{{ delimit .article.Params.authors ", " " & " }}</div>
+	<h2 class="text-text md:text-4xl md:leading-[46px]">{{ .article.Title | safeHTML }}</h2>
 </div>
 
 {{ with .article.Resources.GetMatch "image.*" }}
-	<figure>
+	<figure class="grid overflow-hidden md:h-full md:w-full">
 		{{ $anchor := "Smart" }}
 		{{ if isset .Params "anchor" }}
 			{{ $anchor = .Params.anchor }}
@@ -13,7 +13,18 @@
 		{{ $1x := .Fill (printf "578x413 webp %s" $anchor) }}
 		{{ $2x := .Fill (printf "1156x826 webp %s" $anchor) }}
 
-		<div
-			style="background: {{ index $1x.Colors 0 }}; aspect-ratio: 578/413; width: 100%;"></div>
+		{{ if $.article.Params.copyrightFree }}
+			<img
+				class="w-full md:h-full aspect-[578/413] object-cover"
+				srcset="{{ $1x.RelPermalink }} 1x,
+				        {{ $2x.RelPermalink }} 2x"
+				src="{{ $2x.RelPermalink }}"
+				alt="{{ $.article.Title | safeHTML }}"
+				style="background: {{ index $1x.Colors 0 }};">
+		{{ else }}
+			<div
+				class="w-full md:h-full aspect-[578/413]"
+				style="background: {{ index $1x.Colors 0 }};"></div>
+		{{ end }}
 	</figure>
 {{ end }}

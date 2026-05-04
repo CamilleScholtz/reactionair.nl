@@ -1,13 +1,13 @@
-<div class="text">
-	<div class="author">{{ delimit .article.Params.authors ", " " & " }}</div>
-	<h2>
+<div class="content-center grid">
+	<div class="text-accent italic md:text-lg">{{ delimit .article.Params.authors ", " " & " }}</div>
+	<h2 class="text-text text-lg [display:-webkit-box] leading-[25px] mt-[5px] overflow-hidden [-webkit-line-clamp:2] [-webkit-box-orient:vertical] md:text-[22px]">
 		{{ if .article.Params.column }}
 			{{ with site.GetPage (printf "column/%s" (urlize .article.Params.column)) }}
-				<span>{{ .Params.keyword }}<span class="slash">/</span></span>
+				<span class="text-accent font-semibold">{{ .Params.keyword }}<span class="font-normal ml-[5px] mr-[5px]">/</span></span>
 			{{ end }}
 		{{ else }}
 			{{ with site.GetPage (printf "theme/%s" (urlize .article.Params.theme)) }}
-				<span>{{ .Params.keyword }}<span class="slash">/</span></span>
+				<span class="text-accent font-semibold">{{ .Params.keyword }}<span class="font-normal ml-[5px] mr-[5px]">/</span></span>
 			{{ end }}
 		{{ end }}
 		{{ .article.Title | safeHTML }}
@@ -15,7 +15,7 @@
 </div>
 
 {{ with .article.Resources.GetMatch "image.*" }}
-	<figure>
+	<figure class="grid overflow-hidden">
 		{{ $anchor := "Smart" }}
 		{{ if isset .Params "anchor" }}
 			{{ $anchor = .Params.anchor }}
@@ -23,7 +23,16 @@
 
 		{{ $image := .Fill (printf "500x500 webp %s" $anchor) }}
 
-		<div
-			style="background: {{ index $image.Colors 0 }}; aspect-ratio: 1/1; width: 100%;"></div>
+		{{ if $.article.Params.copyrightFree }}
+			<img
+				class="w-full md:h-full aspect-square object-cover"
+				src="{{ $image.RelPermalink }}"
+				alt="{{ $.article.Title | safeHTML }}"
+				style="background: {{ index $image.Colors 0 }};">
+		{{ else }}
+			<div
+				class="w-full md:h-full aspect-square"
+				style="background: {{ index $image.Colors 0 }};"></div>
+		{{ end }}
 	</figure>
 {{ end }}
