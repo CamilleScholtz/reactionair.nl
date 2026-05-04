@@ -13,7 +13,19 @@
 		{{ $1x := .Fill (printf "310x180 webp %s" $anchor) }}
 		{{ $2x := .Fill (printf "620x359 webp %s" $anchor) }}
 
-		<div
-			style="background: {{ index $1x.Colors 0 }}; aspect-ratio: 310/180; width: 100%;"></div>
+		{{ if $.article.Params.copyrightFree }}
+			<img
+				srcset="{{ $1x.RelPermalink }} 1x,
+				        {{ $2x.RelPermalink }} 2x"
+				src="{{ $2x.RelPermalink }}"
+				{{ if $.lazy }}
+					loading="lazy"
+				{{ end }}
+				alt="{{ $.article.Title | safeHTML }}"
+				style="background: {{ index $1x.Colors 0 }};">
+		{{ else }}
+			<div
+				style="background: {{ index $1x.Colors 0 }}; aspect-ratio: 310/180; width: 100%;"></div>
+		{{ end }}
 	</figure>
 {{ end }}

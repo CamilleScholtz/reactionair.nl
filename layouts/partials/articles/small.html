@@ -8,8 +8,17 @@
 		{{ $1x := .Fill (printf "78x104 webp %s" $anchor) }}
 		{{ $2x := .Fill (printf "155x208 webp %s" $anchor) }}
 
-		<div
-			style="background: {{ index $1x.Colors 0 }}; aspect-ratio: 78/104; width: 100%;"></div>
+		{{ if $.article.Params.copyrightFree }}
+			<img
+				srcset="{{ $1x.RelPermalink }} 1x,
+				        {{ $2x.RelPermalink }} 2x"
+				src="{{ $2x.RelPermalink }}"
+				alt="{{ $.article.Title | safeHTML }}"
+				style="background: {{ index $1x.Colors 0 }};">
+		{{ else }}
+			<div
+				style="background: {{ index $1x.Colors 0 }}; aspect-ratio: 78/104; width: 100%;"></div>
+		{{ end }}
 	</figure>
 {{ end }}
 
