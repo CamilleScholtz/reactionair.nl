@@ -1,47 +1,46 @@
 {{ define "main" }}
-	<article class="max-md:w-[calc(100vw-40px)]" data-pagefind-body>
-		<section class="pb-[100px] md:mx-auto md:mt-[60px] md:max-w-[var(--min-width)]">
-			<section class="text-center mx-auto text-balance md:bg-bg md:px-[30px] md:pb-5 md:relative md:w-fit md:z-10">
-				<div class="flex justify-center gap-[30px] -mt-2.5 px-[30px] pb-[5px] pt-2.5 max-md:mb-[30px] md:mb-[30px]" data-pagefind-meta="authors">
+	<article data-pagefind-body>
+		<section id="hero">
+			<section class="title">
+				<div class="authors" data-pagefind-meta="authors">
 					{{ range $index, $author := .Params.authors }}
 						{{ with site.GetPage (printf "authors/%s" (urlize $author)) }}
-							<a href="{{ .RelPermalink }}" class="items-center flex flex-col justify-center">
+							<a href="{{ .RelPermalink }}">
 								{{ with .Resources.GetMatch "image.*" }}
 									{{ $image := .Fill "500x500" }}
 
-									<figure class="aspect-square flex m-0 max-md:w-[120px] md:w-[180px]">
+									<figure>
 										<img
-											class="[filter:var(--author-filter)] max-md:w-[120px] md:w-[180px]"
 											src="{{ $image.RelPermalink }}"
 											alt="{{ $author }}">
 									</figure>
 								{{ end }}
 
 								{{ if not $.Params.column }}
-									<span class="text-accent italic mt-2.5 max-md:text-[16px] max-md:tracking-[0.1px]">{{ .Title }}</span>
+									<span>{{ .Title }}</span>
 								{{ end }}
 							</a>
 						{{ end }}
 					{{ end }}
 
 					{{ if .Params.column }}
-						<div class="self-stretch flex flex-1 flex-col text-left justify-center" data-pagefind-ignore>
+						<div class="column-info" data-pagefind-ignore>
 							{{ with site.GetPage (printf "authors/%s" (urlize (index $.Params.authors 0))) }}
 								<a href="{{ .RelPermalink }}">
-									<span class="self-start text-lg italic text-accent">{{ .Title }}</span>
+									<span class="author-name">{{ .Title }}</span>
 								</a>
 							{{ end }}
 
 							{{ with site.GetPage (printf "column/%s" (urlize $.Params.column)) }}
-								<h3 class="font-sc text-[27px] tracking-[0.3px] font-normal my-[5px] mb-2.5 leading-[27px]">{{ .Params.heading | safeHTML }}</h3>
-								<small class="text-text text-sm">{{ .Params.description }}</small>
+								<h3>{{ .Params.heading | safeHTML }}</h3>
+								<small>{{ .Params.description }}</small>
 							{{ end }}
 						</div>
 					{{ end }}
 				</div>
 
-				<h1 class="md:mb-1.5" data-pagefind-meta="title">{{ .Title | safeHTML }}</h1>
-				<h2 class="font-sc lowercase font-normal tracking-[0.3px]">{{ .Params.subtitle | safeHTML }}</h2>
+				<h1 data-pagefind-meta="title">{{ .Title | safeHTML }}</h1>
+				<h2>{{ .Params.subtitle | safeHTML }}</h2>
 
 				{{ with site.GetPage (printf "theme/%s" (urlize .Params.theme)) }}
 					<span x-cloak data-pagefind-meta="theme">
@@ -51,7 +50,7 @@
 			</section>
 
 			{{ with .Resources.GetMatch "image.*" }}
-				<figure class="max-md:mt-5 md:ml-[calc((var(--min-width)-var(--max-width))/2)] md:w-[var(--max-width)] md:-mt-[60px]">
+				<figure>
 					{{ $anchor := "Smart" }}
 					{{ if isset .Params "anchor" }}
 						{{ $anchor = .Params.anchor }}
@@ -60,46 +59,36 @@
 					{{ $1x := .Fill (printf "1035x500 webp %s" $anchor) }}
 					{{ $2x := .Fill (printf "2070x1000 webp %s" $anchor) }}
 
-					{{ if $.Params.copyrightFree }}
-						<img
-							srcset="{{ $1x.RelPermalink }} 1x,
-							        {{ $2x.RelPermalink }} 2x"
-							src="{{ $2x.RelPermalink }}"
-							alt="{{ cond (isset .Params "caption") .Params.caption ($.Title | safeHTML) }}"
-							style="background: {{ index $1x.Colors 0 }};">
-					{{ else }}
-						<div
-							class="aspect-[2/1] max-h-[500px] w-full"
-							style="background: {{ index $1x.Colors 0 }};"></div>
-					{{ end }}
+					<div
+						style="background: {{ index $1x.Colors 0 }}; aspect-ratio: 2/1; max-height: 500px; width: 100%;"></div>
 
 					{{ if isset .Params "caption" }}
-						<figcaption class="bg-bg text-sm h-0">{{ .Params.caption }}</figcaption>
+						<figcaption>{{ .Params.caption }}</figcaption>
 					{{ end }}
 				</figure>
 			{{ end }}
 
-			<section class="text-muted text-sm max-md:absolute max-md:mt-[75px] max-md:right-5 md:hidden" data-pagefind-ignore="all">
-				<time>{{ .Date.Day }} {{ index hugo.Data.months (printf "%d" .Date.Month) }}, {{ .Date.Year }}</time>
+			<section class="info" data-pagefind-ignore="all">
+				<time>{{ .Date.Day }} {{ index site.Data.months (printf "%d" .Date.Month) }}, {{ .Date.Year }}</time>
 
-				<span class="max-md:mx-2 md:mx-3">—</span>
+				<span class="pipe">—</span>
 
-				<span data-eta="{{ .ReadingTime }}">{{ .ReadingTime }} {{ cond (gt .ReadingTime 1) "minuten" "minuut" }} leestijd</span>
+				<span class="eta" data-eta="{{ .ReadingTime }}">{{ .ReadingTime }} {{ cond (gt .ReadingTime 1) "minuten" "minuut" }} leestijd</span>
 			</section>
 		</section>
 
-		<section class="article-content border-t border-dashed border-border mx-auto pt-[30px] relative md:max-w-[var(--min-width)]">
+		<section class="content">
 			{{ if eq .Params.theme "De Uylenspieghel" }}
-				<section class="bg-accent-bg mb-10 mt-2.5 items-center flex max-md:flex-col max-md:gap-2.5 max-md:p-[30px] md:gap-[30px] md:p-[15px]" data-pagefind-ignore="all">
-					<img class="[filter:var(--accent-filter)]" src="{{ "img/uylenspieghel.svg" | relURL }}" alt="Uylenspieghel" style="height: 240px">
+				<section class="uylenspieghel" data-pagefind-ignore="all">
+					<img src="{{ "img/uylenspieghel.svg" | relURL }}" alt="Uylenspieghel" style="height: 240px">
 
-					<small class="text-accent !text-[19px] !leading-[1.56] max-md:text-center">Dit artikel is van satirische aard en dient met een korreltje zout genomen te worden.</small>
+					<small>Dit artikel is van satirische aard en dient met een korreltje zout genomen te worden.</small>
 				</section>
 			{{ end }}
 
 			{{ with .Resources.GetMatch "recording.*" }}
 				<section
-					class="bg-accent-bg mb-10 mt-2.5 items-center grid gap-2.5 grid-cols-[50px_auto] max-md:p-[40px_20px] md:p-10"
+					class="recording"
 					data-pagefind-ignore="all"
 					x-data="{
 						style:     	window.getComputedStyle(document.documentElement),
@@ -174,7 +163,7 @@
 
 							$refs.play.style.transform      = 'rotateY(0deg)';
 							$refs.pause.style.transform     = 'rotateY(90deg)';
-							$refs.play.style.pointerEvents  = 'none';
+							$refs.pause.style.pointerEvents = 'none';
 							$refs.play.style.pointerEvents  = 'auto';
 
 							setTimeout(() => {
@@ -184,16 +173,16 @@
 						}
 					}"
 				>
-					<div class="ml-5 relative max-md:-mt-[25px] md:-mt-[9px]">
+					<div class="toggle">
 						<img
-							class="[filter:var(--accent-filter)] absolute [transform-style:preserve-3d] transition-all duration-200 max-md:!h-[33px] max-md:-left-[13px] max-md:-top-px md:-left-[23px] md:-top-[15px]"
+							class="play"
 							src="{{ "img/play.svg" | relURL }}"
 							alt="Afspelen"
 							x-ref="play"
 							@click="play"
 						>
 						<img
-							class="[filter:var(--accent-filter)] absolute [transform-style:preserve-3d] transition-all duration-200 opacity-0 pointer-events-none [transform:rotateY(180deg)] max-md:!h-[33px] max-md:-left-[13px] max-md:-top-px md:-left-[23px] md:-top-[15px]"
+							class="pause"
 							src="{{ "img/pause.svg" | relURL }}"
 							alt="Pauzeren"
 							x-ref="pause"
@@ -201,13 +190,13 @@
 						>
 					</div>
 
-					<div x-ref="player"></div>
+					<div class="player" x-ref="player"></div>
 				</section>
 			{{ end }}
 
 			{{ if isset .Params "note" }}
-				<section class="bg-accent-bg mb-10 mt-2.5 max-md:p-[40px_20px] md:p-10">
-					<small class="!font-normal !text-[19px] !leading-[1.56]">
+				<section class="note">
+					<small>
 						{{ .Params.note | markdownify }}
 					</small>
 				</section>
@@ -218,7 +207,7 @@
 	</article>
 
 	{{ if in (slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Wijsbegeerte" "Onderzoek en Speurwerk" "Geschiedenis en Biografie" "De Uylenspieghel") .Params.theme }}
-		<section class="md:mx-auto md:mt-[60px] md:pt-[60px] md:max-w-[var(--min-width)]">
+		<section class="themes">
 			{{ partial "theme.html" (dict
 				"section" "related"
 				"path"    "themas"

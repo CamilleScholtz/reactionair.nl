@@ -1,5 +1,5 @@
 {{ with .article.Resources.GetMatch "image.*" }}
-	<figure class="grid overflow-hidden max-md:col-start-2 max-md:row-start-1">
+	<figure>
 		{{ $anchor := "Smart" }}
 		{{ if isset .Params "anchor" }}
 			{{ $anchor = .Params.anchor }}
@@ -8,32 +8,21 @@
 		{{ $1x := .Fill (printf "78x104 webp %s" $anchor) }}
 		{{ $2x := .Fill (printf "155x208 webp %s" $anchor) }}
 
-		{{ if $.article.Params.copyrightFree }}
-			<img
-				class="w-full aspect-[78/104] object-cover"
-				srcset="{{ $1x.RelPermalink }} 1x,
-				        {{ $2x.RelPermalink }} 2x"
-				src="{{ $2x.RelPermalink }}"
-				alt="{{ $.article.Title | safeHTML }}"
-				style="background: {{ index $1x.Colors 0 }};">
-		{{ else }}
-			<div
-				class="w-full aspect-[78/104]"
-				style="background: {{ index $1x.Colors 0 }};"></div>
-		{{ end }}
+		<div
+			style="background: {{ index $1x.Colors 0 }}; aspect-ratio: 78/104; width: 100%;"></div>
 	</figure>
 {{ end }}
 
-<div class="content-center grid max-md:col-start-1 max-md:row-start-1">
-	<div class="text-accent italic text-[16px]">{{ delimit .article.Params.authors ", " " & " }}</div>
-	<h2 class="text-text text-lg [display:-webkit-box] leading-[25px] mt-[5px] overflow-hidden [-webkit-line-clamp:2] [-webkit-box-orient:vertical]">
+<div class="text">
+	<div class="author">{{ delimit .article.Params.authors ", " " & " }}</div>
+	<h2>
 		{{ if .article.Params.column }}
 			{{ with site.GetPage (printf "column/%s" (urlize .article.Params.column)) }}
-				<span class="text-accent font-semibold">{{ .Params.keyword }}<span class="font-normal ml-[5px] mr-[5px]">/</span></span>
+				<span>{{ .Params.keyword }}<span class="slash">/</span></span>
 			{{ end }}
 		{{ else }}
 			{{ with site.GetPage (printf "theme/%s" (urlize .article.Params.theme)) }}
-				<span class="text-accent font-semibold">{{ .Params.keyword }}<span class="font-normal ml-[5px] mr-[5px]">/</span></span>
+				<span>{{ .Params.keyword }}<span class="slash">/</span></span>
 			{{ end }}
 		{{ end }}
 		{{ .article.Title | safeHTML }}
