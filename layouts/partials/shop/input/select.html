@@ -23,24 +23,18 @@
 		}
 	}"
 >
-	<div class="title">{{ title .singular }}:</div>
+	<div class="text-[16px] italic mb-[5px]">{{ title .singular }}:</div>
 
-	<div class="filters" x-ref="select">
-		<div class="select-container">
-			<span
-				class="select"
-				:class="{
-					'open':   open,
-					'active': active.{{ .key }},
-				}"
-				x-text="active.{{ .key }} ? `${active.{{ .key }}} (${filtered[active.{{ .key }}]})` : `Alle {{ .plural }}`"
-				@click="open = !open"
-			>
-				Alle {{ .plural }}
-			</span>
+	<div class="inline-flex gap-2.5 mb-5" x-ref="select">
+		<div class="flex">
+			{{ partial "components/pill" (dict
+				"text"  (printf "Alle %s" .plural)
+				"class" "relative pr-[35px] after:content-['›'] after:block after:not-italic after:text-[28px] after:text-accent after:pointer-events-none after:absolute after:right-[15px] after:top-[2px] after:[transform:rotate(90deg)] after:transition-all after:duration-150 after:ease-in-out aria-expanded:after:[transform:rotate(90deg)_rotateY(-180deg)]"
+				"attrs" (printf ":aria-expanded=\"open\" x-text=\"active.%s ? `${active.%s} (${filtered[active.%s]})` : `Alle %s`\" @click=\"open = !open\"" .key .key .key .plural)
+			) }}
 
 			<div
-				class="options-container"
+				class="bg-popup-bg w-[278px] z-[99] before:bg-popup-bg before:content-[''] before:h-[18px] before:-mt-1.5 before:absolute before:right-10 before:[transform:rotate(45deg)_translateY(-4px)] before:transition-all before:duration-100 before:w-[18px]"
 				x-cloak
 				x-show="open"
 				x-anchor.bottom-end.offset.7="$refs.select"
@@ -49,13 +43,14 @@
 				<input
 					type="text"
 					placeholder="Zoek {{ .singular }}..."
+					class="!bg-transparent border-b border-dashed border-popup-border text-accent text-[16px] -mb-px w-full placeholder:text-popup-border"
 					x-model="search"
 					@input="filtered = Object.fromEntries(Object.entries(options).filter(([name]) => name.toLowerCase().includes($event.target.value.toLowerCase())))"
 				>
 
-				<ol class="options">
+				<ol class="max-h-[275px] list-none w-full pl-0 overflow-y-scroll [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
 					<li
-						class="option"
+						class="text-accent cursor-pointer text-[16px] italic border-t border-dashed border-popup-border p-[15px]"
 						@click="activate('{{ .key }}', ''); open = false; search = ''"
 					>
 						Alle {{ .plural }}
@@ -64,8 +59,8 @@
 					<template x-for="(amount, name) in filtered">
 						<template x-if="amount || (Object.keys(active).length === 1 && active.{{ .key }} === name)">
 							<li
-								class="option"
-								:class="active.{{ .key }} !== name || 'active'"
+								class="text-accent cursor-pointer text-[16px] italic border-t border-dashed border-popup-border p-[15px]"
+								:class="active.{{ .key }} !== name || 'bg-accent-bg'"
 								x-text="name + (amount ? ` (${amount})` : '')"
 								@click="activate('{{ .key }}', name); open = false; search = ''"
 							></li>

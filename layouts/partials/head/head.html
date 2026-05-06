@@ -19,7 +19,8 @@
 
 	{{ partialCached "head/favicons.html" . }}
 
-	{{ $shop := (eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel") }}
-	{{ partialCached "head/stylesheets.html" . $shop }}
+	{{ with (templates.Defer (dict "key" "global")) }}
+		{{ partial "head/stylesheets.html" . }}
+	{{ end }}
 	{{ partialCached "head/scripts.html" . }}
 </head>

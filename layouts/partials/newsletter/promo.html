@@ -1,5 +1,5 @@
 <div
-	class="letter-promo-container"
+	class="grid content-center bg-popup-bg md:relative max-md:[box-shadow:40px_0_var(--popup-background-color)] max-md:grid-rows-[auto_auto] max-md:w-[calc(100vw-40px)] max-md:-ml-5 max-md:pl-[5px] md:grid-cols-[8fr_5fr] md:grid-rows-[8fr_5fr] md:h-[300px] md:pl-10"
 	x-data="{
 		question: '',
 		captcha:  false,
@@ -27,18 +27,18 @@
 		}
 	}"
 >
-	<div class="text">
-		<div class="headings">
-			<h3><span class="de">De</span> Reactionair</h3>
-			<h2>Nieuwsbrief</h2>
+	<div class="grid content-center max-md:row-[2] max-md:p-5 max-md:pt-0 md:mt-[75px]">
+		<div class="w-fit max-md:mx-auto">
+			<h3 class="text-accent italic !font-normal !mb-0 -mt-[30px] max-md:text-[5vw] max-md:text-right md:text-[32px] md:text-right"><span class="text-[20px] max-md:text-[3vw]">De</span> Reactionair</h3>
+			<h2 class="text-accent font-bold leading-[45px] mb-10 mt-1 pb-[13px] border-b border-dashed border-popup-border uppercase w-fit max-md:text-[11vw] max-md:-mt-[1vw] md:text-[57px]">Nieuwsbrief</h2>
 		</div>
 
-		<p x-show="!send">Blijf op de hoogte van de nieuwste artikelen door u in te schrijven op onze nieuwsbrief!</p>
-		<p x-cloak x-show="send">Wij sturen u een e-mail ter verificatie, zie uw inbox.</p>
+		<p x-show="!send" class="!text-[19px] !m-0 max-w-[80%] max-md:mx-auto max-md:mt-[30px]">Blijf op de hoogte van de nieuwste artikelen door u in te schrijven op onze nieuwsbrief!</p>
+		<p x-cloak x-show="send" class="!text-[19px] !m-0 max-w-[80%] max-md:mx-auto max-md:mt-[30px]">Wij sturen u een e-mail ter verificatie, zie uw inbox.</p>
 	</div>
 
-	<div class="envelope-container">
-		<div class="envelope">
+	<div class="[perspective:650px] max-md:-mt-20">
+		<div class="relative [transform-style:preserve-3d] [transition:transform_1s_ease] h-[272px] w-[220px] max-md:mx-auto max-md:[transform:rotateY(-20deg)_rotateX(3deg)_scale(0.9)] max-md:[animation:17s_ease_0s_infinite_animate-mobile] md:-mt-20 md:[transform:rotateY(-10deg)_rotateX(3deg)] md:[animation:17s_ease_0s_infinite_animate]">
 			{{ $imageClosed := resources.Get "images/newsletter/closed.webp" }}
 			{{ $imageOpen   := resources.Get "images/newsletter/open.webp" }}
 
@@ -46,10 +46,10 @@
 				:src="!send ? '{{ ($imageOpen.Fit "560x692 webp").RelPermalink | safeURL }}' : '{{ ($imageClosed.Fit "560x692 webp").RelPermalink | safeURL }}'"
 				loading="lazy"
 				alt="Envelop"
-				class="cover"
+				class="bg-transparent h-[272px] absolute left-0 top-0 w-[220px] [transition:all_0.6s]"
 				:style="{ transform: send ? 'translateY(-10px) scale(0.9)' : '' }"
 			>
-			<div class="shadow"></div>
+			<div class="[background:radial-gradient(circle,rgba(154,52,51,0.25),rgba(154,52,51,0)_72%)] -bottom-[200px] h-[400px] -left-[91px] absolute [transform:rotateX(90deg)] w-[400px]"></div>
 		</div>
 	</div>
 
@@ -57,6 +57,7 @@
 		@submit.prevent="submit"
 		x-ref="form"
 		x-trap="captcha"
+		class="flex max-md:mx-[10px] max-md:mb-5 md:absolute md:bottom-[70px] md:right-5"
 	>
 		<input
 			type="email"
@@ -64,6 +65,7 @@
 			name="email"
 			required
 			placeholder="Uw e-mailadres"
+			class="!float-none !mb-0 !w-[150px]"
 			x-show="!captcha"
 		/>
 		<input
@@ -71,18 +73,20 @@
 			id="question"
 			name="question"
 			placeholder="Wat is 4 + 4?"
+			class="!float-none !mb-0 !w-[150px]"
 			x-cloak
 			x-show="captcha"
 			x-model="question"
 			:disabled="send"
 		/>
 
-		<button
-			type="submit"
-			class="button square"
-			:class="send && 'disabled'"
-		>
-			›
-		</button>
+		{{ partial "components/button" (dict
+			"tag"     "button"
+			"type"    "submit"
+			"variant" "square"
+			"class"   "!bg-popup-border"
+			"text"    "›"
+			"attrs"   `:class="send && '!bg-accent-bg !text-muted !cursor-default pointer-events-none'"`
+		) }}
 	</form>
 </div>

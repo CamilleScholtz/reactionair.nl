@@ -1,0 +1,22 @@
+{{- $cf    := .copyrightFree | default false -}}
+{{- $1x    := .image1x -}}
+{{- $2x    := .image2x -}}
+{{- $alt   := .alt   | default "" -}}
+{{- $class := .class | default "" -}}
+{{- $lazy  := .lazy  | default false -}}
+{{- $bg    := index $1x.Colors 0 -}}
+{{- if $cf -}}
+	<img
+		class="{{ $class }}"
+		{{- if $2x }}
+			srcset="{{ $1x.RelPermalink }} 1x, {{ $2x.RelPermalink }} 2x"
+			src="{{ $2x.RelPermalink }}"
+		{{- else }}
+			src="{{ $1x.RelPermalink }}"
+		{{- end }}
+		{{- if $lazy }} loading="lazy"{{ end }}
+		alt="{{ $alt | safeHTML }}"
+		style="background: {{ $bg }};">
+{{- else -}}
+	<div class="{{ $class }}" style="background: {{ $bg }};"></div>
+{{- end -}}

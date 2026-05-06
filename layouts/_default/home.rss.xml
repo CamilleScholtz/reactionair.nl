@@ -9,7 +9,7 @@
 		<title>Reactionair.nl{{ if ne .Kind "home "}} - {{ .Title | safeHTML }}{{ end }}</title>
 		<link>{{ .Permalink }}</link>
 		<description>{{ .Params.description }}</description>
-		<language>{{ site.LanguageCode }}</language>
+		<language>{{ site.Language.Locale }}</language>
 		<managingEditor>contact@reactionair.nl</managingEditor>
 		<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
 		{{ range $articles }}

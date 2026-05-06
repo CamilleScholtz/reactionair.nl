@@ -1,0 +1,790 @@
+@layer base, theme, utilities;
+@import "tailwindcss/theme" layer(theme);
+@import "tailwindcss/utilities" layer(utilities);
+@source "../../hugo_stats.json";
+@source inline("flex-row-reverse");
+
+/* ── Theme ─────────────────────────────────────────────────────────── */
+
+@theme {
+	--color-bg: var(--background-color);
+	--color-text: var(--text-color);
+	--color-accent: var(--accent-color);
+	--color-muted: var(--muted-color);
+	--color-border: var(--border-color);
+	--color-accent-bg: var(--accent-background-color);
+	--color-popup-bg: var(--popup-background-color);
+	--color-popup-border: var(--popup-border-color);
+	--color-selection: var(--selection-color);
+	--color-shadow: var(--shadow-color);
+	--color-shadow-light: var(--light-shadow-color);
+	--color-shadow-dark: var(--dark-shadow-color);
+
+	--font-serif: 'IM FELL English', serif;
+	--font-sc: 'IM FELL English SC', serif;
+	--font-caps: 'Caps', serif;
+
+	--breakpoint-md: 1025px;
+}
+
+/* ── Everything below is in @layer base so Tailwind utilities can override ── */
+@layer base {
+
+/* ── Color schemes ─────────────────────────────────────────────────── */
+
+@media (prefers-color-scheme: light) {
+	:root {
+		--background-color: #FFFFFF;
+		--selection-color: #E4C0BE;
+		--accent-background-color: #FAF7F6;
+		--author-filter: invert(6%) sepia(3%) saturate(2%) hue-rotate(175deg) brightness(95%) contrast(89%);
+		--shadow-color: rgba(179, 101, 0, 0.12);
+		--light-shadow-color: rgba(179, 101, 0, 0.03);
+		--dark-shadow-color: rgba(179, 101, 0, 0.20);
+		--book-shadow-color: radial-gradient(circle, rgba(179, 101, 0, 0.25) 0%, rgba(179, 101, 0, 0) 70%);
+		--text-color: #060B11;
+		--accent-color: #B41E1D;
+		--accent-filter: invert(30%) sepia(38%) saturate(853%) hue-rotate(314deg) brightness(98%) contrast(110%);
+		--muted-color: #777;
+		--border-color: #E7DBDB;
+		--popup-background-color: #E9CAC9;
+		--popup-background-filter: invert(89%) sepia(2%) saturate(4361%) hue-rotate(312deg) brightness(102%) contrast(83%);
+		--popup-border-color: #DDA7A5;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--background-color: #0E0A06;
+		--selection-color: #A48d8B;
+		--accent-background-color: #220B0A;
+		--author-filter: invert(83%) sepia(20%) saturate(332%) hue-rotate(335deg) brightness(103%) contrast(80%);
+		--shadow-color: rgba(152, 49, 49, 0.18);
+		--light-shadow-color: rgba(179, 101, 0, 0.03);
+		--dark-shadow-color: rgba(152, 49, 49, 0.25);
+		--book-shadow-color: radial-gradient(circle, rgba(179, 101, 0, 0.25) 0%, rgba(179, 101, 0, 0) 70%);
+		--text-color: #E6C9B8;
+		--accent-color: #B34F4E;
+		--accent-filter: invert(38%) sepia(46%) saturate(556%) hue-rotate(314deg) brightness(97%) contrast(109%);
+		--muted-color: #8F7272;
+		--border-color: #3B2020;
+		--popup-background-color: #381515;
+		--popup-background-filter: invert(9%) sepia(73%) saturate(1060%) hue-rotate(327deg) brightness(106%) contrast(93%);
+		--popup-border-color: #632929;
+	}
+}
+
+/* ── Layout variables (desktop only) ───────────────────────────────── */
+
+@media (min-width: 1025px) {
+	:root {
+		--max-width: 1035px;
+		--avg-width: 835px;
+		--min-width: 665px;
+	}
+}
+
+/* ── Fonts ─────────────────────────────────────────────────────────── */
+
+@font-face {
+	font-family: 'Caps';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('/fonts/caps.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'IM FELL English';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('/fonts/im-fell-english-v14-latin-regular.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'IM FELL English';
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+	src: url('/fonts/im-fell-english-v14-latin-italic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'IM FELL English SC';
+	font-display: swap;
+	src: url('/fonts/im-fell-english-sc-v16-latin-regular.woff2') format('woff2');
+}
+
+/* ── Global resets ─────────────────────────────────────────────────── */
+
+* {
+	margin: 0;
+}
+
+*, *::before, *::after {
+	border-width: 0;
+}
+
+[x-cloak] {
+	display: none !important;
+}
+
+::selection {
+	background: var(--selection-color);
+}
+
+::placeholder {
+	color: var(--muted-color);
+}
+
+q::before,
+q::after {
+	content: none;
+}
+
+/* ── Base typography (Markdown content & global defaults) ──────────── */
+
+html, body {
+	font-optical-sizing: auto;
+	text-rendering: optimizeLegibility;
+}
+
+h1, h2 {
+	font-weight: 400;
+	-webkit-hyphens: manual;
+}
+
+h1 i {
+	font-size: 90%;
+	font-style: italic;
+	text-transform: lowercase;
+}
+
+a {
+	color: var(--accent-color);
+	text-decoration: none;
+}
+
+p, li, .comment-body {
+	line-height: 1.56;
+}
+
+figcaption,
+figcaption p,
+small {
+	color: var(--muted-color);
+	font-size: 12px;
+	font-style: italic;
+	line-height: 22px;
+}
+
+sup, sup a {
+	font-size: 14px;
+	line-height: 0px;
+	margin-left: 1px;
+	margin-right: 1px;
+}
+
+hr {
+	border: none;
+	border-top: 1px dashed var(--border-color);
+	margin-bottom: 30px;
+}
+
+code {
+	background: var(--accent-background-color);
+	display: block;
+	font-size: 18px;
+	line-break: anywhere;
+	margin: 0 auto;
+	margin-top: 30px;
+	max-width: 214px;
+	padding: 20px;
+	text-align: center;
+}
+
+/* ── Form base styles ──────────────────────────────────────────────── */
+
+input, textarea {
+	background: var(--accent-background-color);
+	border: none;
+	border-radius: 0;
+	box-sizing: border-box;
+	color: var(--text-color);
+	display: block;
+	font-family: inherit;
+	margin-bottom: 10px;
+	outline: none;
+}
+
+input:disabled,
+input:read-only,
+textarea:disabled,
+textarea:read-only {
+	opacity: 0.5;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+	appearance: none;
+	margin: 0;
+}
+
+input[type=number] {
+	appearance: textfield;
+}
+
+input[type=radio] {
+	display: none;
+}
+
+label:has(input[type=radio]) {
+	background: var(--accent-background-color);
+	color: var(--text-color);
+	text-align: center;
+}
+
+label:has(input[type=radio]:checked) {
+	background: var(--popup-background-color);
+}
+
+input[type=checkbox] {
+	appearance: none;
+	background: var(--accent-background-color);
+	height: 20px;
+	width: 20px;
+	margin-right: 10px;
+	opacity: 1;
+	margin-top: 5px;
+}
+
+input[type=checkbox]:checked::after {
+	content: '✗';
+	color: var(--accent-color);
+	display: block;
+	font-size: 20px;
+	line-height: 20px;
+	margin-left: -5px;
+	margin-top: -8px;
+	text-align: center;
+}
+
+label:has(input[type=checkbox]) {
+	align-items: center;
+	display: inline-flex;
+	width: 100%;
+	margin-bottom: 15px !important;
+	margin-top: 10px !important;
+}
+
+textarea {
+	padding: 30px;
+	resize: none;
+}
+
+input {
+	border: 0;
+	float: left;
+	height: 50px;
+	outline: 0;
+	padding: 13px;
+	width: calc(100% - 50px);
+}
+
+button {
+	border: none;
+	border-radius: 0;
+	background: var(--popup-background-color);
+	color: var(--accent-color);
+	cursor: pointer;
+	display: block;
+	font-family: inherit;
+	height: 50px;
+	line-height: 50px !important;
+	padding-left: 12px;
+	padding-right: 12px;
+}
+
+
+/* ── 3D Book component ─────────────────────────────────────────────── */
+
+.book-container {
+	perspective: 650px;
+}
+
+.book-container .book {
+	margin: 0 auto;
+	height: var(--height);
+	position: relative;
+	transform-style: preserve-3d;
+	transition: transform 1.5s ease;
+	width: var(--width);
+}
+
+.book-container .book .front {
+	background-color: #01060f;
+	border-radius: 0 1.5px 1.5px 0;
+	box-shadow: 5px 12px 32px -13px rgba(154, 52, 51, 0.25);
+	height: var(--height);
+	position: absolute;
+	left: 0;
+	top: 0;
+	transform: translateZ(var(--thickness));
+	width: var(--width);
+	-webkit-user-drag: none;
+}
+
+.book-container .book .pages {
+	background: repeating-linear-gradient(to right, #FFF9F6, #E1C8A4 4.75px);
+	border-radius: 2px;
+	height: calc(var(--height) - 6px);
+	left: 0;
+	position: absolute;
+	top: 3px;
+	transform: translateX(calc(var(--width) - var(--thickness) - (var(--width) / 100 * 1.5))) rotateY(90deg);
+	width: calc(var(--thickness) * 1.95);
+}
+
+.book-container .book .back {
+	background-color: #5C3020;
+	border-radius: 0 1.5px 1.5px 0;
+	box-shadow: -6px 6px 30px 3px var(--light-shadow-color);
+	height: var(--height);
+	left: 0;
+	position: absolute;
+	top: 0;
+	transform: translateZ(calc((-1 * var(--thickness)) - 2px)) scaleX(-1);
+	width: var(--width);
+	-webkit-user-drag: none;
+}
+
+.book-container .book .back.inline-front {
+	transform: translateZ(calc(var(--thickness) - 0.1px)) !important;
+}
+
+.book-container .book .back.inline-back {
+	transform: translateZ(calc((-1 * var(--thickness)) - 0.1px)) !important;
+}
+
+.book-container .book .shadow {
+	background: var(--book-shadow-color);
+	position: absolute;
+	transform: translateZ(calc(var(--thickness) / 2)) rotateX(90deg);
+	bottom: calc((-1 * var(--width)));
+	height: calc(var(--width) * 2);
+	width: calc(var(--width) * 2);
+	left: calc(-0.5 * var(--width));
+}
+
+.book-container .book.click {
+	cursor: pointer;
+}
+
+@media (max-width: 1024px) {
+	.book-container .book {
+		transform: rotateY(-20deg) rotateX(3deg) scale(0.9);
+	}
+	.book-container .book.hover:hover {
+		transform: rotateY(-40deg) rotateX(3deg) scale(1);
+	}
+}
+
+@media (min-width: 1025px) {
+	.book-container .book {
+		transform: rotateY(-20deg) rotateX(3deg);
+	}
+	.book-container .book.hover:hover {
+		transform: rotateY(-40deg) rotateX(3deg) scale(1.08);
+	}
+}
+
+/* ── Keyframes ─────────────────────────────────────────────────────── */
+
+@keyframes animate {
+	0% { transform: rotateY(-20deg) rotateX(3deg); }
+	50% { transform: rotateY(-30deg) rotateX(3deg); }
+	100% { transform: rotateY(-20deg) rotateX(3deg); }
+}
+
+@keyframes animate-mobile {
+	0% { transform: rotateY(-20deg) rotateX(3deg) scale(0.9); }
+	50% { transform: rotateY(-30deg) rotateX(3deg) scale(0.9); }
+	100% { transform: rotateY(-20deg) rotateX(3deg) scale(0.9); }
+}
+
+@keyframes visible {
+	0% { transform: scale(0) rotate(-10deg); }
+	25% { transform: scale(1) rotate(-15deg); }
+	75% { transform: scale(1) rotate(-15deg); }
+	100% { transform: scale(0) rotate(-10deg); }
+}
+
+@keyframes draw {
+	0% { stroke-dashoffset: 400; }
+	25% { stroke-dashoffset: 0; }
+	75% { stroke-dashoffset: 0; }
+	100% { stroke-dashoffset: 400; }
+}
+
+@keyframes spin {
+	from { transform: rotate(0deg); }
+	to { transform: rotate(360deg); }
+}
+
+/* ── Quiz styles ──────────────────────────────────────────────────── */
+
+.quiz-page .quiz-answers {
+	list-style: lower-alpha;
+}
+
+.quiz-page .quiz-answers li::before {
+	content: '';
+	display: block;
+	height: 100%;
+	left: -40px;
+	position: absolute;
+	top: 0px;
+	width: 40px;
+	z-index: -1;
+}
+
+.quiz-page .quiz-answers li::marker {
+	color: var(--accent-color);
+	font-family: 'IM FELL English SC', serif;
+}
+
+.quiz-page .quiz-answers li.selected {
+	background: var(--accent-background-color);
+}
+
+.quiz-page .quiz-answers li.selected::before {
+	background: var(--accent-background-color);
+}
+
+.quiz-page .start-preview {
+	mask: linear-gradient(to top, transparent 0%, black 100%);
+}
+
+.quiz-page .start-preview + .quiz-paginator {
+	margin-top: -280px;
+	transform: scale(1.7) rotate(-2deg);
+	z-index: 10;
+}
+
+.quiz-page .start-preview + .quiz-paginator button {
+	box-shadow: 0 0 40px 15px var(--background-color);
+	z-index: 10;
+}
+
+.quiz-page meter {
+	display: block;
+	height: 4px;
+	margin: 0 auto;
+	margin-top: -12px;
+	position: relative;
+	z-index: -1;
+}
+
+.quiz-page meter.safari {
+	appearance: none;
+}
+
+.quiz-page meter::-webkit-meter-bar {
+	background: var(--accent-background-color);
+	border: none;
+	outline: none;
+}
+
+.quiz-page meter::-webkit-meter-optimum-value {
+	background: var(--accent-color);
+	border: none;
+	outline: none;
+}
+
+.quiz-page .quiz-info.locked::before {
+	-webkit-backdrop-filter: blur(6px);
+	backdrop-filter: blur(6px);
+	content: '';
+	height: calc(100% + 40px);
+	left: -20px;
+	position: absolute;
+	top: -20px;
+	width: calc(100% + 40px);
+	z-index: 1000;
+}
+
+/* ── Article body (#body) — Markdown prose ─────────────────────────── */
+
+#body h3 {
+	font-size: 28px;
+	line-height: 35px;
+	margin-bottom: 30px;
+	margin-top: 60px;
+	font-weight: 600;
+}
+
+/* ── Article body content (#body) — Markdown prose ─────────────────── */
+
+#body > p:first-of-type:first-letter {
+	font-family: 'Caps', serif;
+	float: left;
+	padding-right: 6px;
+	padding-top: 28px;
+}
+
+@media (max-width: 1024px) {
+	#body > p:first-of-type:first-letter {
+		font-size: 95px;
+		line-height: 55px;
+	}
+}
+
+@media (min-width: 1025px) {
+	#body > p:first-of-type:first-letter {
+		font-size: 99px;
+		line-height: 68px;
+	}
+}
+
+/* ── Article content prose styles ──────────────────────────────────── */
+
+.article-content p {
+	margin-bottom: 30px;
+}
+
+.article-content blockquote p {
+	color: var(--muted-color);
+}
+
+.article-content .note p,
+.article-content #body > p,
+.article-content #body > blockquote p,
+.article-content #body > ul li p,
+.article-content #body > ol li p,
+.article-content #body > ul li,
+.article-content #body > ol li {
+	hyphens: auto;
+	text-align: justify;
+	text-wrap: pretty;
+}
+
+.article-content table {
+	border-collapse: collapse;
+	margin-bottom: 30px;
+}
+
+.article-content td,
+.article-content th {
+	border: 1px dashed var(--border-color);
+	font-size: 18px;
+	padding: 8px;
+	text-align: center;
+}
+
+.article-content th,
+.article-content td:nth-child(1) {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.article-content td:nth-child(1) {
+	text-align: right;
+}
+
+.article-content th:nth-child(1) {
+	background: transparent;
+}
+
+.article-content ul,
+.article-content ol {
+	margin-bottom: 30px;
+}
+
+.article-content ul {
+	list-style-type: '-   ';
+}
+
+.article-content figure {
+	margin-bottom: 15px;
+}
+
+.article-content figure img {
+	width: 100%;
+}
+
+.article-content figure p {
+	font-size: 15px;
+	margin-bottom: 0px !important;
+}
+
+.article-content .twitter-tweet-rendered {
+	margin: 0 auto;
+	margin-bottom: 30px !important;
+}
+
+.article-content div[style*="padding-bottom:56.25%"] {
+	margin-bottom: 30px !important;
+}
+
+@media (max-width: 1024px) {
+	.article-content blockquote p {
+		padding-left: 20px;
+	}
+	.article-content table {
+		overflow-x: auto;
+	}
+}
+
+@media (min-width: 1025px) {
+	.article-content blockquote p {
+		padding-left: 40px;
+	}
+	.article-content figure,
+	.article-content table,
+	.article-content .blockquote {
+		margin-left: calc((var(--min-width) - var(--avg-width)) / 2);
+		width: var(--avg-width);
+	}
+	.article-content #av,
+	.article-content #newsletter {
+		margin-left: calc((var(--min-width) - var(--avg-width)) / 2);
+	}
+}
+
+/* ── Shortcode: blockquote ─────────────────────────────────────────── */
+
+.article-content > .blockquote:first-child {
+	border-top: none;
+	padding-top: 0px;
+}
+
+/* ── Shortcode: response ──────────────────────────────────────────── */
+
+.article-content .response > *:last-child {
+	margin-bottom: 0;
+}
+
+/* ── Footnotes ─────────────────────────────────────────────────────── */
+
+.footnotes {
+	background: var(--accent-background-color);
+	margin-bottom: 40px;
+	margin-top: 50px;
+	padding-bottom: calc(50px - 30px);
+}
+
+.footnotes ol {
+	margin-bottom: 0px !important;
+}
+
+.footnotes ol li:last-of-type p {
+	margin-bottom: 0px;
+}
+
+.footnotes ol li p {
+	font-size: 19px;
+}
+
+.footnotes .footnote-backref {
+	font-size: 14px;
+	margin-left: 3px;
+	vertical-align: middle;
+}
+
+.footnotes hr {
+	display: none;
+}
+
+@media (max-width: 1024px) {
+	.footnotes {
+		padding: 40px 20px 40px 20px;
+	}
+}
+
+@media (min-width: 1025px) {
+	.footnotes {
+		padding: 40px;
+	}
+}
+
+/* ── Footnote tooltips (created by JS) ─────────────────────────────── */
+
+sup .tooltip {
+	background: var(--popup-background-color);
+	border: 1px dashed var(--popup-border-color);
+	font-size: 16px;
+	line-height: 25px;
+	opacity: 0;
+	padding: 20px;
+	position: absolute;
+	top: 30px;
+	transition: all 0.2s;
+	z-index: 50;
+}
+
+sup .tooltip .hover {
+	height: 25px;
+	left: 0;
+	position: absolute;
+	top: -25px;
+	width: 100%;
+}
+
+sup .tooltip p {
+	font-size: 16px;
+	margin-bottom: 0;
+}
+
+sup .arrow {
+	background: var(--popup-background-color);
+	border-left: 1px dashed var(--popup-border-color);
+	border-top: 1px dashed var(--popup-border-color);
+	height: 18px;
+	opacity: 0;
+	position: absolute;
+	top: 21px;
+	transition: all 0.2s;
+	width: 18px;
+	z-index: 51;
+}
+
+/* ── Responsive typography (element-level, can't be utility classes) ── */
+
+@media (max-width: 1024px) {
+	h1 {
+		font-size: 32px;
+		line-height: 36px;
+	}
+	h2 {
+		font-size: 20px;
+		line-height: 32px;
+	}
+	h3 {
+		font-size: 27px;
+		line-height: 34px;
+	}
+	a, button, em, li, p, input, textarea, .comment-body {
+		font-size: 19px;
+	}
+}
+
+@media (min-width: 1025px) {
+	h1 {
+		font-size: 44px;
+		line-height: 48px;
+	}
+	h2 {
+		font-size: 24px;
+		line-height: 32px;
+	}
+	h3 {
+		font-size: 32px;
+		line-height: 36px;
+	}
+	a, button, em, li, p, input, textarea, .comment-body {
+		font-size: 21px;
+	}
+}
+
+} /* end @layer base */

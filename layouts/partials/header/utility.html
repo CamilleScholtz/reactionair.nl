@@ -1,14 +1,14 @@
 <div
-	id="utility"
+	class="items-center bg-bg border-b border-dashed border-border hidden md:flex text-sm h-[55px] justify-between -mb-14 pointer-events-none"
 	x-show="hidden"
 	x-transition.opacity
 	x-cloak
 >
-	<span class="left">
+	<span class="text-accent ml-10 text-left">
 		<div>{{ .Title | safeHTML }}</div>
 	</span>
 
-	<span class="right" x-data="{
+	<span class="text-text mr-10 text-right lowercase" x-data="{
 		get now() {
 			const date   = new Date();
 			const format = new Intl.DateTimeFormat('nl-NL', {
@@ -21,14 +21,13 @@
 		}
 	}">
 		{{ if and (eq .Kind "page") (eq .Section "articles") }}
-			<time>{{ .Date.Day }} {{ index site.Data.months (printf "%d" .Date.Month) }}, {{ .Date.Year }}</time>
+			<time>{{ .Date.Day }} {{ index hugo.Data.months (printf "%d" .Date.Month) }}, {{ .Date.Year }}</time>
 
-			<span class="pipe">—</span>
+			<span class="max-md:mx-2 md:mx-3">—</span>
 
-			<span class="eta" data-eta="{{ .ReadingTime }}">{{ .ReadingTime }} {{ if gt .ReadingTime 1 }}minuten{{ else }}minuut{{ end }} leestijd</span>
+			<span data-eta="{{ .ReadingTime }}">{{ .ReadingTime }} {{ if gt .ReadingTime 1 }}minuten{{ else }}minuut{{ end }} leestijd</span>
 		{{ else }}
-			<time class="now" x-text="now">{{ now.Day }} {{ index .Site.Data.months (printf "%d" now.Month) }}, {{ now.Year }}</time>
+			<time x-text="now">{{ now.Day }} {{ index hugo.Data.months (printf "%d" now.Month) }}, {{ now.Year }}</time>
 		{{ end }}
 	</span>
 </div>
-

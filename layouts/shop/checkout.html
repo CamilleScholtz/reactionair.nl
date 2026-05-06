@@ -1,7 +1,6 @@
 {{ define "main" }}
-	<div id="taxonomy" class="checkout-page">
+	<div class="mx-auto max-md:pt-5 md:w-[var(--avg-width)] md:mt-[60px]">
 		<form
-			class="form"
 			x-data="{
 				postalCode:  '',
 				houseNumber: '',
@@ -78,7 +77,7 @@
 			@submit.prevent="submit"
 		>
 			<label>Naam</label>
-			<div class="form-group name">
+			<div class="md:grid md:gap-x-2.5 md:grid-cols-[2fr_1fr_2fr]">
 				<input
 					type="text"
 					name="first_name"
@@ -101,8 +100,8 @@
 			</div>
 
 			<label>Adres</label>
-			<div class="form-group">
-				<div class="form-group address">
+			<div>
+				<div class="md:grid md:gap-x-2.5 md:grid-cols-[2fr_1fr_2fr]">
 					<input
 						type="text"
 						name="postal_code"
@@ -123,7 +122,7 @@
 						@input.debounce.500ms="address"
 					/>
 				</div>
-				<span class="error" x-ref="error"></span>
+				<span class="text-accent text-[14px]" x-ref="error"></span>
 				<input
 					type="text"
 					name="street"
@@ -143,7 +142,7 @@
 			</div>
 
 			<label>Contactgegevens</label>
-			<div class="form-group">
+			<div>
 				<input
 					type="email"
 					name="email"
@@ -163,57 +162,15 @@
 				<span>Ik wil de <i>Reactionair.nl</i> nieuwsbrief ontvangen</span>
 			</label>
 
-			<div class="info" x-show="$store.cart.contents.length">
-				<button type="submit" class="button">
-					Naar betaalscherm
-				</button>
+			<div class="border-t border-dashed border-border flex justify-between mt-5 max-md:flex-col-reverse max-md:pt-10 md:pt-[50px]" x-show="$store.cart.contents.length">
+				{{ partial "components/button" (dict
+					"tag"   "button"
+					"type"  "submit"
+					"class" "max-md:self-end max-md:mt-5"
+					"text"  "Naar betaalscherm"
+				) }}
 
-				<div
-					class="prices"
-					x-data="{
-						shipping:   null,
-						estimation: 2,
-						total:      null,
-
-						init() {
-							this.fetch();
-							$watch('$store.cart.contents', () => this.fetch());
-						},
-
-						fetch() {
-							fetch('{{ .Site.Params.api }}/api/shop/shipping', {
-								method: 'POST',
-								headers: {
-									'Content-Type': 'application/json'
-								},
-								body: JSON.stringify({
-									cart: $store.cart.contents
-								})
-							})
-								.then(response => response.json())
-								.then(data => {
-									this.shipping   = $store.cart.currency(data.price);
-									this.estimation = data.estimation;
-
-									let total = $store.cart.currency(0);
-									$store.cart.contents.forEach(variant => {
-										total = $store.cart.currency(total).add($store.cart.currency(variant.price).multiply(variant.quantity));
-									});
-
-									this.total = total;
-								});
-						}
-					}"
-				>
-					<div class="total" x-text="total?.format()"></div>
-					<div>
-						<small class="free-shipping">
-							(Verzendkosten, uiterlijk binnen <small x-text="estimation"></small> werkdagen in huis)
-						</small>
-						<span class="shipping" x-text="shipping?.format()"></span>
-					</div>
-					<div class="total-plus-shipping" x-text="total?.add(shipping).format()"></div>
-				</div>
+				{{ partial "components/cart-summary" (dict) }}
 			</div>
 		</form>
 	</div>

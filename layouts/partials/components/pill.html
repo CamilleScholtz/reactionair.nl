@@ -1,0 +1,5 @@
+{{- $text  := .text  | default "" -}}
+{{- $class := .class | default "" -}}
+{{- $attrs := .attrs | default "" -}}
+{{- $base  := "bg-transparent border border-dashed border-border rounded-full text-accent cursor-pointer text-[16px] italic px-[15px] py-2.5 whitespace-nowrap" -}}
+<span class="{{ $base }} {{ $class }}"{{ with $attrs }} {{ . | safeHTMLAttr }}{{ end }}>{{ $text | safeHTML }}</span>

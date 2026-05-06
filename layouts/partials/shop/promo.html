@@ -1,14 +1,14 @@
-<div class="book-promo-container" data-pagefind-ignore="all">
-	<div class="text">
-		<div class="headings">
-			<h3><span class="de">De</span> Reactionair</h3>
-			<h2>Boekenwinkel</h2>
+<div class="grid content-center bg-popup-bg max-md:[box-shadow:40px_0_var(--popup-background-color)] max-md:grid-rows-[auto_auto] max-md:-ml-5 max-md:pl-5 max-md:w-[calc(100vw-40px)] md:grid-cols-[8fr_5fr] md:h-[300px] md:pl-10" data-pagefind-ignore="all">
+	<div class="grid content-center max-md:row-[2] max-md:p-5 max-md:pt-0 max-md:ml-0 md:mt-[25px]">
+		<div class="w-fit max-md:mx-auto max-md:mt-5">
+			<h3 class="text-accent italic !font-normal !mb-0 -mt-[30px] max-md:text-[5vw] max-md:text-right md:text-[32px] md:text-right"><span class="text-[20px] max-md:text-[3vw]">De</span> Reactionair</h3>
+			<h2 class="text-accent font-sc leading-[40px] mb-10 pb-[13px] border-b border-dashed border-popup-border w-fit max-md:text-[13vw] max-md:-mt-[1vw] md:text-[71px]">Boekenwinkel</h2>
 		</div>
 
-		<p>Ondek onze grote collectie boeken, zoals <a href="{{ .book.RelPermalink }}">{{ .book.Title }}</a>, in onze boekenwinkel.</p>
+		<p class="!text-[19px] !m-0 max-w-[80%] max-md:mx-auto max-md:mt-[30px] max-md:text-center">Ondek onze grote collectie boeken, zoals <a href="{{ .book.RelPermalink }}" class="italic">{{ .book.Title }}</a>, in onze boekenwinkel.</p>
 	</div>
 
-	<a href="{{ .book.RelPermalink }}">
+	<a href="{{ .book.RelPermalink }}" class="max-md:mx-auto max-md:-mt-[60px] max-md:scale-85 max-md:origin-top [&_.book]:!ml-0 md:[&_.book]:-mt-[130px]">
 		{{ partialCached "shop/products/book.html" (dict
 			"size"    "medium"
 			"product" .book

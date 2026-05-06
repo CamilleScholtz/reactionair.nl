@@ -1,24 +1,24 @@
-<div class="donate-promo-container" data-pagefind-ignore="all">
-	<div class="text">
-		<div class="headings">
-			<h3>Steun</h3>
-			<h2>Reactionair</h2>
+<div class="grid content-center bg-popup-bg max-md:[box-shadow:40px_0_var(--popup-background-color)] max-md:grid-rows-[auto_auto] max-md:-ml-5 max-md:pl-5 max-md:w-[calc(100vw-40px)] md:grid-cols-[8fr_5fr] md:h-[300px] md:pl-10" data-pagefind-ignore="all">
+	<div class="grid content-center max-md:row-[2] max-md:p-5 max-md:pt-0 max-md:ml-0 md:mt-[25px]">
+		<div class="w-fit max-md:mx-auto max-md:mt-5">
+			<h3 class="text-accent italic !font-normal !mb-0 -mt-[30px] max-md:text-[5vw] max-md:text-right md:text-[32px] md:text-right">Steun</h3>
+			<h2 class="text-accent font-sc leading-[40px] mb-10 pb-[13px] border-b border-dashed border-popup-border w-fit max-md:text-[13vw] max-md:-mt-[1vw] md:text-[71px]">Reactionair</h2>
 		</div>
 
-		<p>Help ons onafhankelijk te blijven. <a href="https://petjeaf.com/reactionair" target="_blank">Doneer</a> en steun de publicatie van vrij en onafhankelijk gedachtegoed.</p>
+		<p class="!text-[19px] !m-0 max-w-[80%] max-md:mx-auto max-md:mt-[30px] max-md:text-center">Help ons onafhankelijk te blijven. <a href="https://petjeaf.com/reactionair" target="_blank" class="italic">Doneer</a> en steun de publicatie van vrij en onafhankelijk gedachtegoed.</p>
 	</div>
 
-	<a href="https://petjeaf.com/reactionair" target="_blank" class="coin-container">
+	<a href="https://petjeaf.com/reactionair" target="_blank" class="[perspective:650px] max-md:mx-auto max-md:-mt-[30px] max-md:max-w-[340px] md:self-center md:-ml-10 md:-mt-[70px] md:w-[290px]">
 		{{ $coin := resources.Get "images/donate/coin.webp" }}
 		{{ with $coin }}
-			<div class="coin animate">
+			<div class="relative [transform-style:preserve-3d] [transition:transform_1.5s_ease] overflow-visible [transform:rotateY(-20deg)_rotateX(3deg)] [animation:17s_ease_0s_infinite_animate]">
 				<img
 					src="{{ .RelPermalink }}"
 					alt="Doneer aan Reactionair"
-					class="face"
+					class="block w-full h-auto relative z-2 rounded-full"
 				>
-				<div class="ridge"></div>
-				<div class="shadow"></div>
+				<div class="absolute w-full h-full top-0 left-0 [transform:translateZ(-20px)] bg-[#5A380F] [clip-path:circle(50%)]"></div>
+				<div class="[background:radial-gradient(circle,rgba(154,52,51,0.25),rgba(154,52,51,0)_72%)] -bottom-[200px] h-[400px] -left-[91px] absolute [transform:rotateX(90deg)] w-[400px]"></div>
 			</div>
 		{{ end }}
 	</a>

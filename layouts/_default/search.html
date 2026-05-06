@@ -1,7 +1,7 @@
 {{ define "main" }}
-	<article id="search-block">
+	<article>
 		<section
-			class="content no-border"
+			class="mx-auto pt-[30px] relative md:max-w-[var(--avg-width)]"
 			x-data="{
 				pagefind: null,
 				input:    '',
@@ -26,8 +26,9 @@
 				}
 			}"
 		>
-			<div>
+			<div class="grid grid-cols-[auto_50px]">
 				<input
+					class="!w-full !float-none !mb-0"
 					type="search"
 					placeholder="Zoeken…"
 					autocomplete="off"
@@ -36,21 +37,18 @@
 					@input.debounce.100ms="search"
 				>
 
-				<button class="button">
-					<img
-						src="{{ "img/search.svg" | relURL }}"
-						alt="Zoeken"
-						class="search-icon"
-						style="width: 28px; height: 28px;"
-					>
-				</button>
+				{{ partial "components/button" (dict
+					"tag"     "button"
+					"variant" "square"
+					"text"    (printf `<img src="%s" alt="Zoeken" style="width: 28px; height: 28px;">` ("img/search.svg" | relURL))
+				) }}
 			</div>
 
-			<div class="results-container">
+			<div class="mt-10">
 				<template x-for="match in matches">
-					<a :href="match.url">
-						<p class="author" x-html="match.meta.authors"></p>
-						<h2 x-html="`<span>${match.meta.theme}<span class='slash'>/</span></span>${match.meta.title}`">
+					<a class="block border-b border-dashed border-border p-5 last:border-b-0" :href="match.url">
+						<p class="italic !text-[16px]" x-html="match.meta.authors"></p>
+						<h2 class="!text-lg hyphens-auto !leading-[25px] mt-[5px] break-words" x-html="`<span class='font-semibold inline'>${match.meta.theme}<span class='font-normal ml-[5px] mr-2.5'>/</span></span>${match.meta.title}`">
 						</h2>
 					</a>
 				</template>

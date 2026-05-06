@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 
-<html lang="{{ site.LanguageCode }}">
+<html lang="{{ site.Language.Locale }}">
 	{{ partial "head/head.html" . }}
 
 	<body>
 		{{ partialCached "header/header.html" . (eq .Kind "page") (eq .Section "articles") .Title }}
 
 		<div
-			class="misc" style="display: grid; height: 600px; max-width: 90%; margin: 0 auto;"
+			class="grid h-[600px] max-w-[90%] mx-auto"
 			x-data="{
 				quotes: [
 					'Deze pagina bestaat niet. Toch bezoekt u deze pagina. Bestaat hij dan toch?',
@@ -37,15 +37,12 @@
 			}"
 			x-init="quote = quotes[Math.floor(Math.random() * quotes.length)]"
 		>
-			<a href="/" style="margin: auto; text-align: center;">
+			<a href="/" class="m-auto text-center">
 				<h1>Er is een fout opgetreden!</h1>
-				<h2
-					style="font-style: italic; margin-top: 10px;"
-					x-text="quote"
-				>
+				<h2 class="italic mt-2.5" x-text="quote">
 					Bestaat deze pagina wel?
 				</h2>
-			</div>
+			</a>
 		</div>
 
 		{{ partialCached "footer.html" . }}

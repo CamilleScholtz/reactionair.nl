@@ -1,6 +1,7 @@
 {{ define "main" }}
 	<div
 		id="product-list"
+		class="grid md:gap-[100px] md:grid-cols-[var(--avg-width)_auto] md:mx-auto md:mt-[60px] md:max-w-[1280px] md:!w-[90%]"
 		x-data="{
 			pagefind: null,
 			open:     false,
@@ -114,7 +115,7 @@
 			{{ $sorted    := union $stocked.ByDate.Reverse $unstocked.ByDate.Reverse }}
 			{{ $paginator := .Paginate $sorted }}
 
-			<ul id="products" x-show="!Object.keys(active).length">
+			<ul id="products" class="list-none p-0 pt-[50px] max-md:w-[calc(100vw-40px)]" x-show="!Object.keys(active).length">
 				{{ range $paginator.Pages }}
 					{{ partialCached "shop/product.html" (dict
 						"product"  .
@@ -123,7 +124,7 @@
 				{{ end }}
 			</ul>
 
-			<ul id="products" x-cloak x-show="Object.keys(active).length">
+			<ul id="products" class="list-none p-0 pt-[50px] max-md:w-[calc(100vw-40px)]" x-cloak x-show="Object.keys(active).length">
 				<p x-cloak x-show="!count">
 					Er zijn geen producten gevonden die voldoen aan de geselecteerde filters. <a @click.prevent="reset">klik hier</a> om de filters te resetten.
 				</p>
@@ -143,29 +144,28 @@
 			</div>
 
 			<div x-cloak x-show="Object.keys(active).length">
-				<nav class="paginator">
-					<a
-						class="button square prev"
-						:class="page > 1 || 'disabled'"
-						@click.prevent="page > 1 && activate('page', page - 1)"
-					>
-						‹
-					</a>
+				<nav class="mt-[80px] text-center">
+					{{ partial "components/button" (dict
+						"variant" "square"
+						"class"   "mr-1"
+						"text"    "‹"
+						"attrs"   `:class="page > 1 || '!bg-accent-bg !text-muted !cursor-default'" @click.prevent="page > 1 && activate('page', page - 1)"`
+					) }}
 
-					<a
-						class="button square next"
-						:class="page * 10 < count || 'disabled'"
-						@click.prevent="page * 10 < count && activate('page', page + 1)"
-					>
-						›
-					</a>
+					{{ partial "components/button" (dict
+						"variant" "square"
+						"class"   "ml-1"
+						"text"    "›"
+						"attrs"   `:class="page * 10 < count || '!bg-accent-bg !text-muted !cursor-default'" @click.prevent="page * 10 < count && activate('page', page + 1)"`
+					) }}
 				</nav>
 			</div>
 		</section>
 
 		<span
 			id="filter-toggle"
-			:class="open && 'active'"
+			class="md:hidden max-md:bg-transparent max-md:border max-md:border-dashed max-md:border-border max-md:rounded-full max-md:text-accent max-md:cursor-pointer max-md:text-[16px] max-md:italic max-md:row-start-1 max-md:px-[15px] max-md:py-2.5 max-md:whitespace-nowrap max-md:w-fit max-md:justify-self-end max-md:-mb-10"
+			:class="open && 'bg-accent-bg'"
 			@click="open = !open"
 		>
 			Filteren
@@ -173,52 +173,39 @@
 
 		<section
 			id="filters"
+			class="max-md:row-start-2"
 			x-show="open"
 		>
 			<div>
-				<div class="filters">
-					<span
-						x-cloak
-						x-show="Object.keys(active).length"
-						@click="reset"
-					>
-						↺
-					</span>
+				<div class="inline-flex gap-2.5 mb-5">
+					{{ partial "components/pill" (dict
+						"text"  "↺"
+						"attrs" `x-cloak x-show="Object.keys(active).length" @click="reset"`
+					) }}
 				</div>
 			</div>
 
 			<div>
-				<div class="title">Taal:</div>
+				<div class="text-[16px] italic mb-[5px]">Taal:</div>
 
-				<div class="filters">
+				<div class="inline-flex gap-2.5 mb-5">
 					<template x-for="(amount, name) in filters.language">
-						<span
-							x-text="name + (amount ? ` (${amount})` : '')"
-							:class="{
-								'active':   active.language === name,
-								'disabled': !amount
-							}"
-							@click="amount && activate('language', active.language !== name ? name : '')"
-						>
-							...
-						</span>
+						{{ partial "components/pill" (dict
+							"text"  "..."
+							"attrs" "x-text=\"name + (amount ? ` (${amount})` : '')\" :class=\"{ 'bg-accent-bg': active.language === name, 'pointer-events-none text-border': !amount }\" @click=\"amount && activate('language', active.language !== name ? name : '')\""
+						) }}
 					</template>
 				</div>
 			</div>
 
 			<div>
-				<div class="title">Formaat:</div>
+				<div class="text-[16px] italic mb-[5px]">Formaat:</div>
 
-				<div class="filters">
+				<div class="inline-flex gap-2.5 mb-5">
 					<template x-for="(amount, name) in filters.format">
-						<span
-							x-text="name + (amount > 0 ? ` (${amount})` : '')"
-							:class="{
-								'active':   active.format === name,
-								'disabled': !amount
-							}"
-							@click="amount && activate('format', active.format !== name ? name : '')"
-						></span>
+						{{ partial "components/pill" (dict
+							"attrs" "x-text=\"name + (amount > 0 ? ` (${amount})` : '')\" :class=\"{ 'bg-accent-bg': active.format === name, 'pointer-events-none text-border': !amount }\" @click=\"amount && activate('format', active.format !== name ? name : '')\""
+						) }}
 					</template>
 				</div>
 			</div>

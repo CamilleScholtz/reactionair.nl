@@ -1,4 +1,5 @@
 <header
+	class="grid sticky top-0 transition-transform duration-150 z-[99] origin-top"
 	x-data="{
 		hidden:     false,
 		lastScroll: 0,
@@ -73,39 +74,40 @@
 		}
 	}"
 	@scroll.window.throttle.25ms="scroll"
-	:class="!hidden || 'hidden'"
+	:class="!hidden || '-translate-y-full'"
 >
 	{{ with site.Params.alert }}
 		{{ if eq (index (split (trim $.Page.RelPermalink "/") "/") 0) "winkel" }}
-			<div id="alert">
+			<div class="bg-popup-bg border-b border-dashed border-popup-border text-accent italic text-center p-2.5">
 				{{ . }}
 			</div>
 		{{ end }}
 	{{ end }}
 
-	<div id="logo-container">
-		<div id="logo-center">
+	<div class="bg-bg border-b border-dashed border-border overflow-visible w-screen max-md:h-20">
+		<div class="md:flex md:h-[100px] md:justify-between md:mx-auto md:max-w-[var(--max-width)] md:w-full">
 			<a
 				href="/"
-				id="logo"
+				class="bg-[#A62F27] font-sc gap-[30px] text-text flex h-0 relative uppercase transition-all duration-200 max-md:text-[16px] max-md:tracking-[1.8px] max-md:leading-[80px] max-md:z-2 md:text-[20px]! md:tracking-[3px] md:leading-[100px]"
 				x-show="!hidden"
 				x-transition.opacity
 			>
 				<img
 					src="{{ "img/logo.svg" | relURL }}"
 					alt="Reactionair.nl"
+					class="max-md:!h-[100px] max-md:!w-[100px]"
 					style="width: 130px; height: 130px;"
 				>
 
 				{{ if eq .Kind "home" }}
-					<h1>Reactionair</h1>
+					<h1 class="md:ml-7 leading-[unset]! text-[length:unset]!">Reactionair</h1>
 				{{ else }}
-					<span>Reactionair</span>
+					<span class="md:ml-7">Reactionair</span>
 				{{ end }}
 			</a>
 
 			<span
-				id="buttons"
+				class="flex justify-end relative max-md:mr-5 md:gap-2.5 md:mt-[calc((100px/2)-25px)]"
 				x-data="{ open: false }"
 				x-show="!hidden"
 				x-transition.opacity
@@ -113,9 +115,8 @@
 				<a
 					href="https://petjeaf.com/reactionair"
 					target="_blank"
-					class="icon"
-					id="donate"
-					:class="!searching || 'hidden'"
+					class="items-center flex justify-center w-[50px] z-[1] max-md:hidden md:transition-opacity md:duration-100 md:delay-200 md:-mt-7"
+					:class="searching && 'md:!opacity-0 md:!transition-none'"
 					:style="{ opacity: searching ? 0 : 1 }"
 				>
 					<img
@@ -126,45 +127,34 @@
 				</a>
 
 				{{ if ne (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
-					<div class="new-books">
-						<span>Steun<br>ons!</span>
+					<div class="absolute pointer-events-none max-md:right-[13px] max-md:top-12 md:right-[142px] md:top-10">
+						<span class="[animation:visible_3.8s_normal_both_1.2s] text-[#A62F27] text-sm italic font-bold -ml-10 absolute text-right [text-shadow:0_0_10px_var(--background-color)] top-[15px] scale-0">Steun<br>ons!</span>
 
-						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 43.1 85.9" xml:space="preserve">
-							<path class="st0 draw-arrow" d="M11.3,2.5c-5.8,5-8.7,12.7-9,20.3s2,15.1,5.3,22c6.7,14,18,25.8,31.7,33.1" />
-							<path stroke-linecap="round" class="draw-arrow tail-1" d="M40.6,78.1C39,71.3,37.2,64.6,35.2,58" />
-							<path stroke-linecap="round" class="draw-arrow tail-2" d="M39.8,78.5c-7.2,1.7-14.3,3.3-21.5,4.9" />
+						<svg class="[filter:drop-shadow(0px_0px_10px_10px_var(--background-color))] h-10 mx-auto rotate-[260deg] w-10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 43.1 85.9" xml:space="preserve">
+							<path class="fill-none stroke-[#A62F27] [stroke-dasharray:400] [stroke-dashoffset:400] [stroke-width:5] [animation:draw_4s_normal_both_1s]" d="M11.3,2.5c-5.8,5-8.7,12.7-9,20.3s2,15.1,5.3,22c6.7,14,18,25.8,31.7,33.1" />
+							<path stroke-linecap="round" class="fill-none stroke-[#A62F27] [stroke-dasharray:400] [stroke-dashoffset:400] [stroke-width:5] [animation:draw_4s_normal_both_1.5s]" d="M40.6,78.1C39,71.3,37.2,64.6,35.2,58" />
+							<path stroke-linecap="round" class="fill-none stroke-[#A62F27] [stroke-dasharray:400] [stroke-dashoffset:400] [stroke-width:5] [animation:draw_4s_normal_both_1.7s]" d="M39.8,78.5c-7.2,1.7-14.3,3.3-21.5,4.9" />
 						</svg>
 					</div>
 				{{ end }}
 
 				<a
 					href="/winkel/producten/boeken"
-					class="icon"
-					id="shop"
-					:class="!searching || 'hidden'"
+					class="items-center flex justify-center w-[50px] z-[1] max-md:hidden md:transition-opacity md:duration-100 md:delay-200 md:-mt-6"
+					:class="searching && 'md:!opacity-0 md:!transition-none'"
 					:style="{ opacity: searching ? 0 : 1 }"
 				>
 					<img src="{{ "img/shop.svg" | relURL }}" alt="Winkel" style="width: 28px; height: 28px;">
 				</a>
 
 				{{ if ne (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
-					<!-- <div class="new-books">
-						<span>Nieuwe<br>boeken!</span>
-
-						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 43.1 85.9" xml:space="preserve">
-							<path class="st0 draw-arrow" d="M11.3,2.5c-5.8,5-8.7,12.7-9,20.3s2,15.1,5.3,22c6.7,14,18,25.8,31.7,33.1" />
-							<path stroke-linecap="round" class="draw-arrow tail-1" d="M40.6,78.1C39,71.3,37.2,64.6,35.2,58" />
-							<path stroke-linecap="round" class="draw-arrow tail-2" d="M39.8,78.5c-7.2,1.7-14.3,3.3-21.5,4.9" />
-						</svg>
-					</div> -->
 				{{ end }}
 
 				{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
 					<a
 						href="/winkel/wagen"
-						id="cart"
-						class="icon"
-						:class="!searching || 'hidden'"
+						class="items-center flex justify-center w-[50px] z-[1] max-md:-mt-2.5 max-md:z-10 md:transition-opacity md:duration-100 md:delay-200 md:-mt-6"
+						:class="searching && 'md:!opacity-0 md:!transition-none'"
 						:style="{ opacity: searching ? 0 : 1 }"
 					>
 						<img
@@ -173,7 +163,7 @@
 							style="width: 28px; height: 28px;"
 						>
 						<span
-							id="total"
+							class="items-center bg-bg rounded-full [box-shadow:0_0_10px_9px_var(--background-color)] text-[#A62F27] flex text-[17px] h-[17px] justify-center absolute w-[17px] z-[1] max-md:ml-[22px] max-md:-mt-[45px] md:ml-7 md:-mt-7"
 							x-cloak
 							x-show="$store.cart.contents.length"
 							x-text="$store.cart.contents.reduce((total, variant) => total + variant.quantity, 0)"
@@ -182,7 +172,7 @@
 				{{ end }}
 
 				<span
-					id="menu-button"
+					class="cursor-pointer transition-transform duration-200 ease-in-out z-20 max-md:mt-[calc((80px/2)-14px)] md:hidden"
 					:style="{ transform: open ? 'rotateY(180deg)' : 'rotateY(0deg)' }"
 					@click="open = !open"
 				>
@@ -194,7 +184,7 @@
 				</span>
 
 				<div
-					id="menu-overlay"
+					class="fixed w-screen backdrop-blur-[2px] max-md:h-[calc(100vh-81px)] max-md:top-[81px] md:hidden"
 					x-cloak
 					x-show="open"
 					x-transition.opacity.duration.400ms
@@ -202,35 +192,35 @@
 				></div>
 
 				<div
-					id="menu"
+					class="bg-popup-bg border-t border-dashed border-popup-border [box-shadow:0px_0px_200px_50px_var(--background-color)] h-[calc(100dvh-80px)] -mr-[50px] pr-[50px] fixed top-20 transition-all duration-200 ease-in-out right-0 w-[68vw] md:hidden"
 					x-cloak
 					x-show="open"
 					x-trap.noscroll.noautofocus="open"
-					x-transition:enter-start="closed"
-					x-transition:enter-end="open"
-					x-transition:leave-start="open"
-					x-transition:leave-end="closed"
+					x-transition:enter-start="opacity-0 translate-x-full"
+					x-transition:enter-end="opacity-100 translate-x-0"
+					x-transition:leave-start="opacity-100 translate-x-0"
+					x-transition:leave-end="opacity-0 translate-x-full"
 				>
-					<ul>
-						<a href="/winkel/producten/boeken/">
+					<ul class="items-center grid h-full list-none p-0 text-center">
+						<a href="/winkel/producten/boeken/" class="items-center border-b border-dashed border-popup-border flex flex-col gap-2.5 h-[calc(100%-1px)] justify-center">
 							<img src="{{ "img/shop.svg" | relURL }}" alt="Winkel" style="width: 28px; height: 28px;">
-							<div>Winkel</div>
+							<div class="!text-[#A62F27] italic text-lg">Winkel</div>
 						</a>
-						<a href="/doneren">
+						<a href="/doneren" class="items-center border-b border-dashed border-popup-border flex flex-col gap-2.5 h-[calc(100%-1px)] justify-center">
 							<img src="{{ "img/donate.svg" | relURL }}" alt="Doneer" style="width: 28px; height: 28px;">
-							<div>Doneren</div>
+							<div class="!text-[#A62F27] italic text-lg">Doneren</div>
 						</a>
-						<a href="/zoeken">
-							<img src="{{ "img/search.svg" | relURL }}" alt="Zoeken" class="search-icon" style="width: 28px; height: 28px;">
-							<div>Zoeken</div>
+						<a href="/zoeken" class="items-center flex flex-col gap-2.5 h-[calc(100%-1px)] justify-center">
+							<img src="{{ "img/search.svg" | relURL }}" alt="Zoeken" style="width: 28px; height: 28px;">
+							<div class="!text-[#A62F27] italic text-lg">Zoeken</div>
 						</a>
 					</ul>
 				</div>
 
-				<div id="search" x-ref="search">
+				<div class="max-md:hidden md:relative md:[transform:translateZ(0)]" x-ref="search">
 					<div x-trap="searching">
 						<input
-							id="search-input"
+							class="bg-accent-bg px-[15px]"
 							type="search"
 							placeholder="Zoeken…"
 							autocomplete="off"
@@ -243,37 +233,37 @@
 						>
 
 						<button
-							class="button"
+							class="items-center !bg-transparent flex justify-center float-right [transform-style:preserve-3d] transition-transform duration-200 w-[50px] z-[100]"
 							:style="{ transform: searching ? 'rotateY(180deg)' : 'rotateY(0deg)' }"
 							@click.prevent="searching = !searching"
 						>
 							<img
 								src="{{ "img/search.svg" | relURL }}"
 								alt="Zoeken"
-								class="search-icon"
+								class="[backface-visibility:hidden] bg-bg"
 								style="width: 28px; height: 28px;"
 							>
 							<img
 								src="{{ "img/close.svg" | relURL }}"
 								alt="Sluiten"
-								class="close-icon"
+								class="[backface-visibility:hidden] bg-popup-bg [transform:rotateY(180deg)] p-[11px] absolute"
 								style="width: 28px; height: 28px;"
 							>
 						</button>
 					</div>
 
 					<div
-						class="results-container"
+						class="bg-popup-bg text-left w-full z-[100]"
 						x-anchor.offset.-16="$refs.search"
 						x-cloak
 						x-show="matches.length > 0"
 					>
-						<div class="arrow"></div>
-						<ul id="search-results" class="results">
+						<div class="bg-popup-bg h-[18px] left-[calc(50%-9px)] absolute -top-[9px] rotate-45 w-[18px]"></div>
+						<ul class="max-h-[calc(100vh-114px)] overflow-y-scroll p-0 relative z-[2] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
 							<template x-for="match in matches">
-								<a :href="match.url">
-									<p class="author" x-html="match.meta.authors"></p>
-									<h2 x-html="`<span>${match.meta.theme}<span class='slash'>/</span></span>${match.meta.title}`">
+								<a class="block border-b border-dashed border-popup-border p-5 last:border-b-0" :href="match.url">
+									<p class="italic !text-[16px]" x-html="match.meta.authors"></p>
+									<h2 class="!text-lg hyphens-auto !leading-[25px] mt-[5px] break-words" x-html="`<span class='font-semibold inline'>${match.meta.theme}<span class='font-normal ml-[5px] mr-2.5'>/</span></span>${match.meta.title}`">
 									</h2>
 								</a>
 							</template>

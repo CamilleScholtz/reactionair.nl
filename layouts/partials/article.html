@@ -1,6 +1,13 @@
 <a
 	href="{{ .article.RelPermalink }}"
-	class="article {{ .size }} {{ cond (isset . "author") "image" "" }}"
+	{{ $sizeClasses := dict
+		"featured" "md:col-span-2 md:h-[270px] md:[box-shadow:0px_10px_80px_-13px_var(--shadow-color)] md:grid-cols-[calc(50%-15px)_auto] md:items-center md:hover:[box-shadow:0px_15px_85px_-17px_var(--dark-shadow-color)]"
+		"large"    "[box-shadow:0px_10px_80px_-13px_var(--shadow-color)] gap-[15px] grid-rows-[min-content_auto] md:h-[100px] md:hover:[box-shadow:0px_15px_85px_-17px_var(--dark-shadow-color)]"
+		"medium"   "gap-[15px] md:grid-cols-[1fr_1fr] md:h-[200px]"
+		"small"    "gap-[15px] h-[calc(80px+30px)] max-md:grid-cols-[auto_25%] md:grid-cols-[25%_auto]"
+		"micro"    "gap-[15px] md:grid-cols-[auto] md:h-[calc(80px+30px)]"
+	}}
+	class="grid bg-bg md:transition-[box-shadow,border] md:duration-100 {{ index $sizeClasses .size }} {{ cond (and (eq .size "micro") (isset . "author")) "md:grid-cols-[auto_80px]" "" }}"
 	x-data="{
 		init() {
 			let rect   = null;

@@ -1,19 +1,11 @@
-<div class="author-info large">
-	{{ with .author.Resources.GetMatch "image.*" }}
-		{{ $image := .Fill "500x500 webp" }}
-
-		<figure>
-			<img
-				src="{{ $image.RelPermalink }}"
-				alt="{{ $.author.Title | safeHTML }}">
-		</figure>
-	{{ end }}
+<div class="grid items-center justify-center gap-[30px]">
+	{{ partial "authors/image" (dict "author" .author "class" "mx-auto") }}
 
 
-	<div class="text">
+	<div class="grid content-center text-center">
 		<h1>{{ .author.Title | safeHTML }}</h1>
-		<h2>{{ .author.Params.keyword }}</h2>
+		<h2 class="italic">{{ .author.Params.keyword }}</h2>
 
-		<p>{{ .author.Params.description }}</p>
+		<p class="mt-[30px] text-left">{{ .author.Params.description }}</p>
 	</div>
 </div>

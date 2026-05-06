@@ -1,5 +1,5 @@
 {{ define "main" }}
-	<section id="authors">
+	<section class="grid gap-[50px] pt-[50px]">
 		{{ $authors := (where .Pages "Params.pseudonym" false).ByTitle }}
 		{{ $authors  = $authors | append (where .Pages "Params.pseudonym" true).ByTitle }}
 

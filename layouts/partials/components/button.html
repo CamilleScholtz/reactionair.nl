@@ -1,0 +1,29 @@
+{{- $tag      := .tag      | default "a" -}}
+{{- $variant  := .variant  | default "default" -}}
+{{- $disabled := .disabled | default false -}}
+{{- $href     := .href     | default "" -}}
+{{- $target   := .target   | default "" -}}
+{{- $type     := .type     | default "" -}}
+{{- $text     := .text     | default "" -}}
+{{- $class    := .class    | default "" -}}
+{{- $attrs    := .attrs    | default "" -}}
+
+{{- $base := "inline-block h-[50px] px-[15px] text-[16px] leading-[50px] italic font-normal" -}}
+{{- if eq $variant "square" -}}
+	{{- $base = "inline-flex items-center justify-center w-[50px] h-[50px] text-[28px]" -}}
+{{- end -}}
+
+{{- $state := "bg-popup-bg text-accent cursor-pointer transition-transform duration-150 delay-100 hover:scale-[1.075]" -}}
+{{- if $disabled -}}
+	{{- $state = "bg-accent-bg text-muted cursor-default" -}}
+{{- end -}}
+
+{{- $classes := printf "%s %s %s" $base $state $class | strings.TrimSpace -}}
+
+{{- if eq $tag "button" -}}
+<button{{ with $type }} type="{{ . }}"{{ end }} class="{{ $classes }}"{{ with $attrs }} {{ . | safeHTMLAttr }}{{ end }}>{{ $text | safeHTML }}</button>
+{{- else if eq $tag "span" -}}
+<span class="{{ $classes }}"{{ with $attrs }} {{ . | safeHTMLAttr }}{{ end }}>{{ $text | safeHTML }}</span>
+{{- else -}}
+<a{{ with $href }} href="{{ . }}"{{ end }}{{ with $target }} target="{{ . }}"{{ end }} class="{{ $classes }}"{{ with $attrs }} {{ . | safeHTMLAttr }}{{ end }}>{{ $text | safeHTML }}</a>
+{{- end -}}

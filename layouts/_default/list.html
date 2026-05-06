@@ -1,19 +1,19 @@
 {{ define "main" }}
-	<div class="list-header">
+	<div class="border-b border-dashed border-border pb-[50px] text-center">
 		{{ if eq .Section "authors" }}
 			{{ partialCached "authors/large.html" (dict
 				"author" .
 			) .Params.id }}
 		{{ else }}
 			<h1>{{ .Params.heading | safeHTML }}</h1>
-		{{ end }}	
+		{{ end }}
 	</div>
 
 	{{ $paginator := .Paginate (where .RegularPages "Type" "eq" "articles") }}
 
-	<section>	
-		<div id="articles">
-			{{ range $paginator.Pages }}			
+	<section>
+		<div class="grid gap-[50px] pt-[50px] md:w-[835px] md:mt-[60px] md:grid-cols-2">
+			{{ range $paginator.Pages }}
 				{{ partialCached "article.html" (dict
 					"article" .
 					"size"    "small"

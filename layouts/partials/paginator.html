@@ -1,23 +1,25 @@
 {{ if gt .TotalPages 1 }}
-	<nav class="paginator">
-		{{ if .HasPrev }}
-			<a href="{{ .Prev.URL }}" class="button square prev">
-				‹
-			</a>
-		{{ else }}
-			<a class="button square prev disabled">
-				‹
-			</a>
-		{{ end }}
+	{{ $prevHref := "" }}
+	{{ if .HasPrev }}{{ $prevHref = .Prev.URL }}{{ end }}
 
-		{{ if .HasNext }}
-			<a href="{{ .Next.URL }}" class="button square next">
-				›
-			</a>
-		{{ else }}
-			<a class="button square next disabled">
-				›
-			</a>
-		{{ end }}
+	{{ $nextHref := "" }}
+	{{ if .HasNext }}{{ $nextHref = .Next.URL }}{{ end }}
+
+	<nav class="mt-[80px] text-center">
+		{{ partial "components/button" (dict
+			"variant"  "square"
+			"disabled" (not .HasPrev)
+			"href"     $prevHref
+			"class"    "mr-1"
+			"text"     "‹"
+		) }}
+
+		{{ partial "components/button" (dict
+			"variant"  "square"
+			"disabled" (not .HasNext)
+			"href"     $nextHref
+			"class"    "ml-1"
+			"text"     "›"
+		) }}
 	</nav>
 {{ end }}

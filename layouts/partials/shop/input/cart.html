@@ -3,9 +3,23 @@
 	{{ $variants = slice (index .variants 0) }}
 {{ end }}
 
+{{- $wrapperClass := "font-sc italic mb-5" -}}
+{{- if .cartPage -}}
+	{{- $wrapperClass = "flex flex-row-reverse items-center justify-end gap-5 font-sc italic mb-5" -}}
+{{- else if .checkout -}}
+	{{- $wrapperClass = "grid grid-cols-[max-content_max-content] font-sc italic mb-5" -}}
+{{- end -}}
+
+{{- $priceClass := "mb-5" -}}
+{{- if .cartPage -}}
+	{{- $priceClass = "" -}}
+{{- else if .checkout -}}
+	{{- $priceClass = "text-[20px] col-start-2 row-start-1 bg-accent-bg h-[50px] leading-[50px] px-5" -}}
+{{- end -}}
+
 {{ range $index, $_ := $variants }}
 	<div
-		class="cart-form"
+		class="{{ $wrapperClass }}"
 		x-data="{
 			variant: {{ .id }},
 			price:   {{ .price }},
@@ -19,7 +33,7 @@
 			x-show="filter === {{ .id }}"
 		{{ end }}
 	>
-		<div class="price">
+		<div class="{{ $priceClass }}">
 			{{ if not $.checkout }}
 				{{ if not $.out_of_stock }}
 					{{ range $i, $variant := $.variants }}
@@ -33,7 +47,7 @@
 						{{ end }}
 					{{ end }}
 				{{ else }}
-					<span class="unavailable">Niet beschikbaar.</span>
+					<span class="text-[16px]">Niet beschikbaar.</span>
 				{{ end }}
 			{{ else }}
 				{{ if not .out_of_stock }}
@@ -42,44 +56,41 @@
 
 					€ {{ $int }}.<span class="decimals">{{ strings.TrimPrefix "0." (printf "%.2f" $dec) }}</span>
 				{{ else }}
-					<span class="unavailable">Niet beschikbaar.</span>
+					<span class="text-[16px]">Niet beschikbaar.</span>
 				{{ end }}
 			{{ end }}
 		</div>
 
 		{{ if and (not $.checkout) (gt (len $.variants) 1) }}
-			<a
-				href="{{ $.permalink }}"
-				class="button {{ if $.out_of_stock }}disabled{{ end }}"
-				{{ if $.out_of_stock }}disabled{{ end }}
-			>
-				Toevoegen aan winkelwagen
-			</a>
+			{{ partial "components/button" (dict
+				"href"     $.permalink
+				"disabled" $.out_of_stock
+				"text"     "Toevoegen aan winkelwagen"
+				"attrs"    (cond $.out_of_stock "disabled" "")
+			) }}
 		{{ else }}
-			<button
-				class="button {{ if $.out_of_stock }}disabled{{ end }}"
-				x-show="current.quantity === 0"
-				@click="$store.cart.add({{ .id }}, {{ .price }})"
-			>
-				Toevoegen aan winkelwagen
-			</button>
+			{{ partial "components/button" (dict
+				"tag"      "button"
+				"disabled" $.out_of_stock
+				"text"     "Toevoegen aan winkelwagen"
+				"attrs"    (printf `x-show="current.quantity === 0" @click="$store.cart.add(%v, %v)"` .id .price)
+			) }}
 		{{ end }}
 
 		<div
-			class="added-to-cart"
+			class="grid grid-cols-[50px_calc(193px-100px)_50px]"
 			x-cloak
 			:style="current.quantity > 0 ? 'display: grid;' : 'display: none;'"
 		>
-			<button
-				class="button {{ if .out_of_stock }}disabled{{ end }}"
-				{{ if .out_of_stock }}disabled{{ end }}
-				@click="$store.cart.remove({{ .id }})"
-			>
-				-
-			</button>
+			{{ partial "components/button" (dict
+				"tag"      "button"
+				"disabled" .out_of_stock
+				"text"     "-"
+				"attrs"    (printf `%s @click="$store.cart.remove(%v)"` (cond .out_of_stock "disabled" "") .id)
+			) }}
 
 			<input
-				class="{{ if .out_of_stock }}disabled{{ end }}"
+				class="!bg-popup-bg !text-accent !m-0 !text-center !w-full {{ if .out_of_stock }}disabled{{ end }}"
 				type="number"
 				value="1"
 				min="1"
@@ -87,35 +98,34 @@
 				x-model.lazy.number="current.quantity"
 			>
 
-			<button
-				class="button {{ if .out_of_stock }}disabled{{ end }}"
-				{{ if .out_of_stock }}disabled{{ end }}
-				@click="$store.cart.add({{ .id }}, {{ .price }})"
-			>
-				+
-			</button>
+			{{ partial "components/button" (dict
+				"tag"      "button"
+				"disabled" .out_of_stock
+				"text"     "+"
+				"attrs"    (printf `%s @click="$store.cart.add(%v, %v)"` (cond .out_of_stock "disabled" "") .id .price)
+			) }}
 
 			{{ if $.checkout }}
-				<a href="/winkel/wagen" class="button checkout">
-					Afrekenen
-				</a>
+				{{ partial "components/button" (dict
+					"href"  "/winkel/wagen"
+					"class" "col-span-3 !text-center"
+					"text"  "Afrekenen"
+				) }}
 			{{ end }}
 		</div>
 	</div>
 {{ end }}
 
 {{ if and .checkout (gt (len $variants) 1) }}
-	<div class="variants filters">
-		<span class="title">Variant:</span>
+	<div class="inline-flex gap-2.5 mb-5 max-md:mt-[15px] md:mt-[6px]">
+		<span class="text-[16px] italic mb-[5px]">Variant:</span>
 
-		<span class="filters-container">
+		<span class="inline-flex gap-2.5">
 			{{ range $variants }}
-				<span
-					:class="filter === {{ .id }} ? 'active' : ''"
-					@click="filter = {{ .id }}"
-				>
-					{{ .format | title }}
-				</span>
+				{{ partial "components/pill" (dict
+					"text"  (.format | title)
+					"attrs" (printf `:class="filter === %v ? 'bg-accent-bg' : ''" @click="filter = %v"` .id .id)
+				) }}
 			{{ end }}
 		</span>
 	</div>

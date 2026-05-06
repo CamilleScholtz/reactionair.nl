@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html lang="{{ site.LanguageCode }}">
+<html lang="{{ site.Language.Locale }}">
 	{{ partial "head/head.html" . }}
 
-	<body>
+	<body class="bg-bg text-text font-serif antialiased overflow-x-hidden">
 		{{ partial "header/header.html" . }}
 
-		<main id="{{ .Kind }}">
+		<main id="{{ .Kind }}" class="grid mx-auto min-h-[calc(100vh-101px-51px-101px-50px)] max-md:mt-10 max-md:min-h-[calc(100vh-81px-56px)] max-md:w-[calc(100vw-40px)]{{ if or (eq .Kind "taxonomy") (eq .Kind "term") }} md:w-[var(--avg-width)] md:mt-[60px]{{ end }}">
 			{{ block "main" . }}{{ end }}
 		</main>
 

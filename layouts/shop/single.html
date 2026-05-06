@@ -1,8 +1,8 @@
 {{ define "main" }}
-	<div id="product">
+	<div id="product" class="grid gap-[50px] mx-auto max-md:grid-cols-[auto] max-md:mt-5 md:grid-cols-[1fr_1fr] md:mt-[80px] md:max-w-[1280px] md:w-[90%]">
 		{{ $section := path.BaseName (index .Ancestors 0).Path }}
 
-		<aside>
+		<aside class="flex justify-center items-center md:h-[calc(100vh-101px-101px-80px-80px)] [&_.book-container]:before:content-['\201C'] [&_.book-container]:before:absolute [&_.book-container]:before:text-accent-bg [&_.book-container]:before:italic [&_.book-container]:before:font-bold [&_.book-container]:before:pointer-events-none max-md:[&_.book-container]:before:text-[500px] max-md:[&_.book-container]:before:-left-[30vw] max-md:[&_.book-container]:before:-mt-[110px] md:[&_.book-container]:before:text-[600px] md:[&_.book-container]:before:-ml-[140px] md:[&_.book-container]:before:-top-[210px]">
 			{{ $back := .Resources.GetMatch "back.*" }}
 
 			{{ if eq $section "boeken" }}
@@ -28,12 +28,12 @@
 			data-pagefind-body
 			x-data="{ filter: {{ (index .Params.variants 0).id }} }"
 		>
-			<section id="hero">
-				<section class="title">
+			<section id="hero" class="!pb-0 md:!mt-0">
+				<section class="text-left text-wrap w-full md:p-0">
 					{{ if eq $section "boeken" }}
-						<div class="authors" data-pagefind-meta="authors">
+						<div class="block m-0 mb-[30px] p-0" data-pagefind-meta="authors">
 							{{ range $index, $writer := .Params.writers }}
-								<a href="/winkel/producten/boeken/?auteur={{ $writer }}" data-pagefind-filter="author">
+								<a href="/winkel/producten/boeken/?auteur={{ $writer }}" class="inline font-sc text-[16px] font-normal lowercase tracking-[0.1px] m-0" data-pagefind-filter="author">
 									{{ $writer }}
 								</a>
 								{{ if eq $index (sub (len $.Params.writers) 2) }}
@@ -47,14 +47,14 @@
 
 					<h1 data-pagefind-meta="title">{{ .Title | safeHTML }}</h1>
 					{{ if isset .Params "subtitle" }}
-						<h2>{{ .Params.subtitle | safeHTML }}</h2>
+						<h2 class="font-sc lowercase font-normal tracking-[0.3px]">{{ .Params.subtitle | safeHTML }}</h2>
 					{{ end }}
 
 					<span x-cloak x-show="false" data-pagefind-meta="theme">Boekenwinkel</span>
 				</section>
 			</section>
 
-			<section class="cart" data-pagefind-ignore="all">
+			<section class="cart items-start grid mt-10 max-md:grid-cols-[auto] md:grid-cols-[auto_auto]" data-pagefind-ignore="all">
 				{{ partial "shop/input/cart.html" (dict
 					"variants"     .Params.variants
 					"out_of_stock" .Params.out_of_stock
@@ -63,12 +63,12 @@
 				) }}
 			</section>
 
-			<section class="content" x-data="{ expanded: false }">
+			<section class="!border-t-0 [&_figure]:ml-0 [&_figure]:w-auto [&_table]:ml-0 [&_table]:w-auto [&_.blockquote]:ml-0 [&_.blockquote]:w-auto" x-data="{ expanded: false }">
 				{{ index (split .Content "</p>") 0 | safeHTML }}</p>
 
 				{{ if gt (len (split .Content "</p")) 2 }}
 					<span
-						class="more"
+						class="text-accent cursor-pointer italic text-[20px]"
 						data-pagefind-ignore="all"
 						x-show="!expanded"
 						@click="expanded = true"
@@ -86,9 +86,9 @@
 				</div>
 			</section>
 
-			<section class="details" data-pagefind-ignore="all">
+			<section class="border-t border-dashed border-border mt-10 pt-[30px]" data-pagefind-ignore="all">
 				{{ if eq $section "boeken" }}
-					<table>
+					<table class="w-full [&_tr]:h-[40px] [&_th]:text-left [&_td]:italic [&_td_a]:[font-size:unset] [&_td_span]:inline-block [&_td_span]:max-w-[250px] [&_td_span]:overflow-hidden [&_td_span]:text-ellipsis [&_td_span]:whitespace-nowrap max-md:[&_th]:block max-md:[&_td]:block max-md:[&_th:nth-child(odd)]:w-full max-md:[&_td:nth-child(odd)]:w-full max-md:[&_td]:mb-2.5">
 						<tr>
 							<th>Titel</th>
 							<td><span>{{ .Title }}</span>{{ if isset .Params "subtitle" }}<br><span>{{ .Params.subtitle }}</span>{{ end }}</td>

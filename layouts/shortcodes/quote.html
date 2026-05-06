@@ -1,6 +1,6 @@
-<section class="blockquote">
-	<p class="text">“{{ .Get "text" | safeHTML }}”</p>
+<section class="blockquote border-b border-t border-dashed border-border mb-[25px] pt-[30px] text-center">
+	<p class="text-[28px] italic leading-[40px] text-wrap-balance">&ldquo;{{ .Get "text" | safeHTML }}&rdquo;</p>
 	{{ if .Get "author" }}
-		<p class="author"><span class="dash">—</span> {{ .Get "author" | safeHTML }}</p>
+		<p class="-mt-[15px] text-[18px] leading-[25px] text-muted"><span class="text-accent">&mdash;</span> {{ .Get "author" | safeHTML }}</p>
 	{{ end }}
 </section>

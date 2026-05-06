@@ -1,0 +1,23 @@
+{{/*
+	Renders an author's avatar image inside a <figure>.
+
+	Params:
+		author - The author Page (required).
+		class  - Extra classes for the <figure>.
+
+	Usage:
+		{{ partial "authors/image" (dict "author" $author) }}
+		{{ partial "authors/image" (dict "author" $author "class" "mx-auto") }}
+*/}}
+{{- $author := .author -}}
+{{- $class  := .class | default "" -}}
+
+{{- with $author.Resources.GetMatch "image.*" -}}
+	{{- $image := .Fill "500x500 webp" -}}
+	<figure class="aspect-square max-md:w-[120px] md:w-[180px] {{ $class }}">
+		<img
+			class="[filter:var(--author-filter)] max-md:w-[120px] md:w-[180px]"
+			src="{{ $image.RelPermalink }}"
+			alt="{{ $author.Title | safeHTML }}">
+	</figure>
+{{- end -}}

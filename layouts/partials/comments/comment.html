@@ -1,5 +1,5 @@
 <div
-	class="comment"
+	class="bg-accent-bg mb-2.5 p-10"
 	itemprop="comment"
 	itemscope
 	itemtype="https://schema.org/Comment"
@@ -9,9 +9,9 @@
 		x-ref="form"
 	{{ end }}
 >
-	<div class="comment-info">
+	<div>
 		<h3
-			class="comment-author"
+			class="text-accent inline text-sm font-normal mt-0"
 			itemprop="author"
 			itemscope
 			itemtype="https://schema.org/Person"
@@ -28,7 +28,7 @@
 
 		{{ if .review }}
 			<span
-				class="comment-rating"
+				class="text-muted text-sm italic [&>span]:text-text"
 				itemprop="ratingValue"
 				content="{{ index .context "rating" }}"
 				min="1"
@@ -42,7 +42,7 @@
 			</span>
 		{{ end }}
 
-		<p class="comment-time">
+		<p class="text-muted inline text-sm lowercase md:leading-[29px]">
 			<time
 				datetime="{{ index .context "date" }}"
 				itemprop="datePublished"
@@ -56,7 +56,7 @@
 	</div>
 
 	<div
-		class="comment-body"
+		class="text-[19px] mb-4 mt-5 text-justify text-pretty [&>p]:mb-[30px] [&>p]:text-justify [&>p]:text-pretty [&>p:last-of-type]:mb-0 [&_a]:hyphens-auto [&_a]:break-words"
 		itemprop="text"
 		{{ if .stub }}
 			x-text="!commented || form.body"

@@ -1,6 +1,6 @@
 {{ define "main" }}
 	<article
-		class="quiz-page"
+		class="quiz-page mx-auto max-w-[var(--min-width)] max-md:p-0 md:px-5 md:py-10 [&_small]:font-sc [&_small]:text-[16px] [&_small]:not-italic [&_small]:tracking-[0.1px] [&_small]:lowercase"
 		x-data="{
 			started: false,
 			current: 0,
@@ -165,33 +165,38 @@
 			}
 		}"
 	>
-		<div class="start" x-show="!started">
-			<small>De Reactionair</small>
-			<h1>De Contrameter 2025</h1>
+		<div x-show="!started">
+			<small class="block -mb-[30px] text-center">De Reactionair</small>
+			<h1 class="text-[48px] italic mt-10 text-center capitalize">De Contrameter 2025</h1>
 
-			<p>Benieuwd naar welke Nederlandse politieke partij het beste bij je past? Doe de Contrameter en ontdek met welke partij jij de toekomst van Nederland vorm kan geven!</p>
+			<p class="mx-auto mt-5 text-center">Benieuwd naar welke Nederlandse politieke partij het beste bij je past? Doe de Contrameter en ontdek met welke partij jij de toekomst van Nederland vorm kan geven!</p>
 
-			<nav class="paginator">
-				<button class="button" @click="started = true; window.scrollTo({ top: 0 })">Start de test</button>
+			<nav class="mt-10 text-center">
+				{{ partial "components/button" (dict
+					"tag"   "button"
+					"text"  "Start de test"
+					"attrs" `@click="started = true; window.scrollTo({ top: 0 })"`
+				) }}
 			</nav>
 		</div>
 
 		<div
-			class="questions"
+			class="flex flex-col justify-center min-h-[calc(100vh-200px)]"
 			x-show="started && !results && !loading"
 		>
 			<template x-for="(question, index) in questions">
 				<div x-show="current === index" x-cloak>
-					<section class="question">
+					<section class="text-center">
 						<small>
 							Vraag <span x-text="index + 1"></span> van de <span x-text="questions.length"></span>
 						</small>
-						<h2 x-text="question.question"></h2>
+						<h2 class="text-[28px] italic leading-10 mt-2.5 text-balance" x-text="question.question"></h2>
 					</section>
 
-					<ul>
+					<ul class="quiz-answers mt-[30px]">
 						<template x-for="(answer, answerIndex) in question.answers">
 							<li
+								class="cursor-pointer leading-[25px] mb-2.5 p-2.5 pl-[5px] relative"
 								:class="[(question.answer.index ?? null) === answerIndex && 'selected']"
 								x-text="answer"
 								@click="question.answer = { index: answerIndex, text: answer }"
@@ -201,78 +206,87 @@
 				</div>
 			</template>
 
-			<nav class="paginator">
-				<button
-					:class="[
-						'button square prev',
-						current !== 0 || 'disabled'
-					]"
-					@click="current !== 0 && current--"
-				>
-					‹
-				</button>
+			<nav>
+				{{ partial "components/button" (dict
+					"tag"     "button"
+					"variant" "square"
+					"text"    "‹"
+					"attrs"   `:class="current === 0 && '!bg-accent-bg !text-muted !cursor-default pointer-events-none'" @click="current !== 0 && current--"`
+				) }}
 
-				<button
-					:class="[
-						'button',
-						current === questions.length - 1 ? 'submit' : 'next square'
-					]"
-					x-text="current === questions.length - 1 ? 'Verstuur antwoorden' : '›'"
-					@click="next"
-				>
-					›
-				</button>
+				<template x-if="current !== questions.length - 1">
+					{{ partial "components/button" (dict
+						"tag"     "button"
+						"variant" "square"
+						"text"    "›"
+						"attrs"   `@click="next"`
+					) }}
+				</template>
+				<template x-if="current === questions.length - 1">
+					{{ partial "components/button" (dict
+						"tag"   "button"
+						"text"  "Verstuur antwoorden"
+						"class" "ml-1 -translate-y-0.5"
+						"attrs" `@click="next"`
+					) }}
+				</template>
 			</nav>
 		</div>
 
-		<div class="loading" x-show="loading" x-cloak>
-			<div class="spinner">*</div>
+		<div class="grid grid-rows-[min-content_1fr] mt-[100px] overflow-hidden text-center" x-show="loading" x-cloak>
+			<div class="[animation:spin_2s_linear_infinite] inline-block text-accent text-[80px] mx-auto pr-[5px] pt-10">*</div>
 
-			<p>Even geduld, we zijn je antwoorden aan het verwerken...</p>
+			<p class="italic">Even geduld, we zijn je antwoorden aan het verwerken...</p>
 		</div>
 
 		<template x-if="results">
-			<div class="results">
-				<div class="main">
+			<div class="text-text">
+				<div class="border-b border-dashed border-border mb-5 pb-[50px] text-center [&_span]:bg-bg [&_span]:[box-shadow:0_0_20px_15px_var(--background-color)]">
 					<small>Jouw politieke match</small>
 
-					<h2 x-text="results.parties[0].name"></h2>
-					<span x-text="results.parties[0].percentage + '%'"></span>
+					<h2 class="text-[44px] italic mt-5 capitalize" x-text="results.parties[0].name"></h2>
+					<span class="inline-block mt-5 p-px" x-text="results.parties[0].percentage + '%'"></span>
 
 					<meter
+						class="w-[90%] max-w-[500px]"
 						:value="results.parties[0].percentage"
 						min="0"
 						max="100"
 						:class="safari && 'safari'"
 					></meter>
 
-					<p x-text="results.parties[0].description"></p>
+					<p class="mt-10 text-justify" x-text="results.parties[0].description"></p>
 				</div>
 
-				<div class="alternatives">
+				<div class="border-b border-dashed border-border mb-[50px] pb-[60px] text-center">
 					<small>Alternatieve matches</small>
 
-					<div class="grid">
+					<div class="grid gap-5 justify-items-center text-center max-md:grid-cols-1 md:grid-cols-2 [&_span]:bg-bg [&_span]:[box-shadow:0_0_20px_15px_var(--background-color)]">
 						<template x-for="alternative in results.parties.slice(1)">
 							<div>
-								<h3 x-text="alternative.name"></h3>
-								<span x-text="alternative.percentage + '%'"></span>
+								<h3 class="text-2xl italic font-normal leading-none capitalize" x-text="alternative.name"></h3>
+								<span class="inline-block p-px" x-text="alternative.percentage + '%'"></span>
 
 								<meter
+									class="w-[200px]"
 									:value="alternative.percentage"
 									min="0"
 									max="100"
 									:class="safari && 'safari'"
 								></meter>
 
-								<p x-text="alternative.description"></p>
+								<p class="text-[15px] mx-auto mt-5 text-balance w-4/5" x-text="alternative.description"></p>
 							</div>
 						</template>
 					</div>
 				</div>
 
-				<nav class="paginator">
-					<button class="button" @click="reset()">Doe de test opnieuw</button>
+				<nav class="mt-10 text-center">
+					{{ partial "components/button" (dict
+						"tag"   "button"
+						"text"  "Doe de test opnieuw"
+						"attrs" `@click="reset()"`
+					) }}
 				</nav>
 			</div>
 		</template>

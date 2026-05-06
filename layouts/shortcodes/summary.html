@@ -1,22 +1,21 @@
 <section
-	class="summary footnotes section"
+	class="footnotes mb-[30px] mt-[30px] [&_ul]:pl-[30px]"
 	x-data="{ expanded: false }"
 	x-show="expanded"
 	x-collapse.min.240px
 >
-	<button
-		class="button summary-button"
-		x-text="expanded ? 'Sluiten' : 'Lees meer'"
-		@click="expanded = !expanded"
-	>
-		Lees meer
-	</button>
+	{{ partial "components/button" (dict
+		"tag"   "button"
+		"class" "!block absolute right-[40px] z-2 -mt-[55px]"
+		"text"  "Lees meer"
+		"attrs" `x-text="expanded ? 'Sluiten' : 'Lees meer'" @click="expanded = !expanded"`
+	) }}
 
-	<div>
-		<h3>Dit artikel in vogelvlucht:</h3>
+	<div class="relative">
+		<h3 class="italic !mt-0">Dit artikel in vogelvlucht:</h3>
 
 		<div
-			class="overlay"
+			class="absolute bottom-0 left-0 w-full h-full pointer-events-none transition-opacity duration-300 [background:linear-gradient(transparent_150px,var(--accent-background-color)_280px)]"
 			x-show="!expanded"
 			x-transition.opacity
 		></div>

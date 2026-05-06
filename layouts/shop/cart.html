@@ -1,7 +1,6 @@
 {{ define "main" }}
 	<div
-		id="taxonomy"
-		class="cart-page"
+		class="grid md:gap-[100px] md:grid-cols-[var(--avg-width)_auto] md:mx-auto md:mt-[60px] md:max-w-[1280px] md:!w-[90%]"
 		x-data="{
 			url: new URL(window.location.href),
 
@@ -21,14 +20,14 @@
 			}
 		}"
 	>
-		<ul id="products">
+		<ul class="list-none gap-0 p-0 [&_li]:grid-cols-[100px_auto] [&_li]:p-0 [&_.book-container]:[transform:scale(0.5)] md:[&_li>div:last-child]:grid md:[&_li>div:last-child]:gap-2.5 md:[&_li>div:last-child]:grid-cols-[1fr_1fr] md:[&_li>div:last-child]:justify-between md:[&_li>div:last-child]:w-full">
 			<div
-				class="cart-empty"
+				class="mt-[100px] text-center"
 				x-cloak
 				x-show="!$store.cart.contents.length"
 			>
 				<p>Uw winkelwagen is leeg.</p>
-				<p>Ga <a href="/winkel/producten/boeken">terug naar de winkel</a>.</p>
+				<p>Ga <a href="/winkel/producten/boeken" class="italic">terug naar de winkel</a>.</p>
 			</div>
 
 			{{ range $product := (where (where .Site.RegularPages "Section" "shop") "Params.out_of_stock" "!=" true).ByDate.Reverse }}
@@ -48,60 +47,14 @@
 			{{ end }}
 		</ul>
 
-		<div class="info" x-show="$store.cart.contents.length">
-			<div
-				class="prices"
-				x-data="{
-					shipping:   null,
-					estimation: 2,
-					total:      null,
+		<div class="md:pt-[30px]" x-show="$store.cart.contents.length">
+			{{ partial "components/cart-summary" (dict "class" "bg-accent-bg p-5 mb-2.5") }}
 
-					init() {
-						this.fetch();
-						$watch('$store.cart.contents', () => this.fetch());
-					},
-
-					fetch() {
-						fetch('{{ .Site.Params.api }}/api/shop/shipping', {
-							method: 'POST',
-							headers: {
-								'Content-Type': 'application/json'
-							},
-							body: JSON.stringify({
-								cart: $store.cart.contents
-							})
-						})
-							.then(response => response.json())
-							.then(data => {
-								this.shipping   = $store.cart.currency(data.price);
-								this.estimation = data.estimation;
-
-								let total = $store.cart.currency(0);
-								$store.cart.contents.forEach(variant => {
-									total = $store.cart.currency(total).add($store.cart.currency(variant.price).multiply(variant.quantity));
-								});
-
-								this.total = total;
-							});
-					}
-				}"
-			>
-				<div class="total" x-text="total?.format()"></div>
-				<div>
-					<small class="free-shipping">
-						(Verzendkosten, uiterlijk binnen <small x-text="estimation"></small> werkdagen in huis)
-					</small>
-					<span class="shipping" x-text="shipping?.format()"></span>
-				</div>
-				<div class="total-plus-shipping" x-text="total?.add(shipping).format()"></div>
-			</div>
-
-			<a
-				:href="'/winkel/afrekenen' + (url.searchParams.has('order') ? '?order=' + url.searchParams.get('order') : '')"
-				class="button"
-			>
-				Bestelling plaatsen
-			</a>
+			{{ partial "components/button" (dict
+				"class" "float-right"
+				"text"  "Bestelling plaatsen"
+				"attrs" `:href="'/winkel/afrekenen' + (url.searchParams.has('order') ? '?order=' + url.searchParams.get('order') : '')"`
+			) }}
 		</div>
 	</div>
 {{ end }}

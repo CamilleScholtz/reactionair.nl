@@ -2,10 +2,10 @@
 	{{ $themes   := slice "Politiek en Actualiteit" "Cultuur en Maatschappij" "Religie en Wijsbegeerte" "Onderzoek en Speurwerk" "Geschiedenis en Biografie" }}
 	{{ $articles := where site.RegularPages "Params.theme" "in" $themes }}
 
-	<section id="hero">
-		<div class="scroll-container mobile-only">
+	<section class="grid pb-[100px] md:gap-[30px] md:grid-cols-[3fr_1px_1fr] md:mx-auto md:mt-20 md:max-w-[1280px] md:w-[90%]">
+		<div class="md:hidden [clip-path:inset(0_0_10px_0)] -ml-10 overflow-x-scroll [scroll-snap-type:x_mandatory] translate-x-5 -mt-10 pt-10 pb-[70px] w-screen">
 			<div
-				class="scroll"
+				class="grid grid-cols-[calc(100vw-(20px*4))_calc(100vw-(20px*4))_calc(100vw-(20px*3))]"
 				x-data="{
 					init() {
 						if (!$store.mobile.matches) {
@@ -25,21 +25,21 @@
 					}
 				}"
 			>
-				<div class="scroll-item">
+				<div class="pl-5 [scroll-snap-align:start]">
 					{{ partialCached "article.html" (dict
 						"article" (index $articles 0)
 						"size"    "large"
 					) "large" (index $articles 0).Params.id }}
 				</div>
 
-				<div class="scroll-item">
+				<div class="pl-5 [scroll-snap-align:start]">
 					{{ partialCached "article.html" (dict
 						"article" (index $articles 1)
 						"size"    "large"
 					) "large" (index $articles 1).Params.id }}
 				</div>
 
-				<div class="scroll-item">
+				<div class="pl-5 pr-5 [scroll-snap-align:start]">
 					{{ partialCached "article.html" (dict
 						"article" (index $articles 2)
 						"size"    "large"
@@ -48,15 +48,15 @@
 			</div>
 		</div>
 
-		<div class="left desktop-only">
+		<div class="max-md:hidden grid gap-[30px] grid-cols-[1fr_1fr] grid-rows-[270px_1px_auto]">
 			{{ partial "article.html" (dict
 				"article" (index $articles 0)
 				"size"    "featured"
 			) }}
 
-			<div class="border"></div>
+			<div class="border-b border-dashed border-border col-span-2"></div>
 
-			<div class="list">
+			<div class="grid gap-2.5 border-r border-dashed border-border pr-[30px]">
 				{{ partial "article.html" (dict
 					"article" (index $articles 1)
 					"size"    "small"
@@ -79,7 +79,7 @@
 					"size"    "medium"
 				) }}
 
-				<div class="split">
+				<div class="border-t border-dashed border-border grid gap-2.5 grid-cols-[1fr_1fr] mt-5 pt-5">
 					{{ partial "article.html" (dict
 						"article" (index $articles 5)
 						"size"    "micro"
@@ -93,14 +93,14 @@
 			</div>
 		</div>
 
-		<div class="border"></div>
+		<div class="border-r border-dashed border-border max-md:hidden"></div>
 
-		<div class="right">
-			<div class="header">
-				<h2>Laatste <i>van</i> Reactionair</h2>
+		<div>
+			<div class="border-b border-dashed border-border mb-5 max-md:-mt-5 max-md:pb-2.5 md:h-[39px]">
+				<h2 class="font-sc uppercase tracking-[0.2px] max-md:text-[28px] max-md:leading-[30px] md:text-[18px] md:leading-[32px] md:overflow-hidden md:text-ellipsis md:whitespace-nowrap">Laatste <i class="font-serif text-[90%] lowercase tracking-normal max-md:after:content-['\a'] max-md:after:whitespace-pre">van</i> Reactionair</h2>
 			</div>
 
-			<div class="list mobile-only">
+			<div class="md:hidden grid gap-2.5">
 				{{ partialCached "article.html" (dict
 					"article" (index $articles 3)
 					"size"    "small"
@@ -122,7 +122,7 @@
 				) "small" (index $articles 6).Params.id }}
 			</div>
 
-			<div class="list desktop-only">
+			<div class="max-md:hidden grid grid-rows-[1fr_1fr_1fr_260px] gap-2.5">
 				{{ partial "article.html" (dict
 					"article" (index $articles 7)
 					"size"    "micro"
@@ -141,13 +141,13 @@
 					"author"  true
 				) }}
 
-				<a href="/winkel/producten/boeken/" class="home-av desktop-only">
-					<div class="text">
-						<h3><span class="de">De</span> Reactionair</h3>
-						<h2>Boekenwinkel</h2>
+				<a href="/winkel/producten/boeken/" class="max-md:hidden bg-accent-bg overflow-hidden relative hover:[&_.book-container:first-of-type_.book]:[transform:rotateY(-30deg)_rotateX(9deg)_scale(0.9)_rotateZ(-27deg)_translate(-80px,-30px)] hover:[&_.book-container:last-of-type_.book]:[transform:rotateY(-38deg)_rotateX(9deg)_scale(0.9)_rotateZ(-10deg)]">
+					<div class="text-center pt-5 text-text relative before:content-['\201C'] before:absolute before:text-popup-bg before:italic before:font-bold before:pointer-events-none before:text-[400px] before:top-[30px] before:-left-10">
+						<h3 class="italic text-[20px] font-normal float-right -mb-[9px] mr-[30px]"><span class="text-[16px]">De</span> Reactionair</h3>
+						<h2 class="font-sc font-normal text-[40px]">Boekenwinkel</h2>
 					</div>
 
-					<div class="books">
+					<div class="[&_.book]:absolute [&_.book]:right-[-10px] [&_.book]:top-5 [&_.book]:[transform:rotateY(-30deg)_rotateX(3deg)_scale(0.9)_rotateZ(-30deg)_translate(-80px,-30px)] [&_.book]:[transition:transform_0.6s] [&_.book-container:last-of-type_.book]:[transform:rotateY(-30deg)_rotateX(3deg)_scale(0.9)_rotateZ(-10deg)]">
 						{{ $book := index (where (site.GetPage "shop/products/boeken").RegularPages ".Title" "Terug naar de oorsprong") 0 }}
 						{{ partialCached "shop/products/book.html" (dict
 							"size"    "small"
@@ -170,7 +170,7 @@
 	</section>
 
 	<aside
-		class="intro"
+		class="text-center pb-[25px] md:border-t md:border-dashed md:border-border md:mx-auto md:pt-[30px] md:w-[var(--avg-width)]"
 		x-data="{
 			quotes: [
 				['Ananda K. Coomaraswamy', 'Mythe belichaamt de dichtstbijzijnde benadering van absolute waarheid die in woorden kan worden uitgedrukt.'],
@@ -183,7 +183,7 @@
 				['G. K. Chesterton', 'De rede is zelf een kwestie van geloof. Het is een daad van geloof om te beweren dat onze gedachten ook maar iets met de werkelijkheid te maken hebben.'],
 				['G. K. Chesterton', 'Tolerantie is de deugd van de man zonder overtuigingen.'],
 				['G. K. Chesterton', 'Wanneer men verkiest niet in God te geloven, gelooft men daarna niet in niets, maar is men in staat in alles te geloven.'],
-				['René Guénon', 'Ware ideeën veranderen of ontwikkelen zich niet, maar blijven zoals ze zijn in het tijdloze ‘heden’.'],
+				['René Guénon', 'Ware ideeën veranderen of ontwikkelen zich niet, maar blijven zoals ze zijn in het tijdloze \u2018heden\u2019.'],
 				['René Guénon', 'Metafysica is de kennis van de universele beginselen, een kennis die verder gaat dan de natuur als zodanig en verder dan de verschijnselen die door de mens kunnen worden begrepen.'],
 				['René Guénon', 'Wetenschap is een rationele, discursieve, altijd indirecte vorm van kennis, een kennis van reflectie, metafysica is een superrationele kennis, intuïtief en onmiddellijk.'],
 				['Friedrich Hölderlin', 'De mens is een bedelaar wanneer hij denkt, maar een God wanneer hij droomt.'],
@@ -206,19 +206,19 @@
 		}"
 		x-init="quote = quotes[Math.floor(Math.random() * quotes.length)]"
 	>
-		<p class="text">“<span x-text="quote[1]">...</span>”</p>
-		<p class="author"><span class="dash">—</span> <span x-text="quote[0]"></span></p>
+		<p class="text-[28px] italic leading-10 mb-[30px] text-balance">"<span x-text="quote[1]">...</span>"</p>
+		<p class="text-muted text-lg leading-[25px] -mt-[15px]"><span class="text-accent">—</span> <span x-text="quote[0]"></span></p>
 
-		<div class="links">
-			<a href="/auteurs/">Auteurs</a>
+		<div class="flex font-sc !text-[16px] justify-center tracking-[0.1px] leading-[35px] mt-5 lowercase">
+			<a href="/auteurs/" class="!text-[16px]">Auteurs</a>
 
-			<span class="pipe">•</span>
+			<span class="max-md:mx-2 md:mx-3">•</span>
 
-			<a href="/winkel/producten/boeken">Boekenwinkel</a>
-			
-			<span class="pipe">•</span>
-			
-			<a href="/artikelen/wie-zijn-wij/">Wie zijn wij?</a>
+			<a href="/winkel/producten/boeken" class="!text-[16px]">Boekenwinkel</a>
+
+			<span class="max-md:mx-2 md:mx-3">•</span>
+
+			<a href="/artikelen/wie-zijn-wij/" class="!text-[16px]">Wie zijn wij?</a>
 		</div>
 	</aside>
 
@@ -237,7 +237,7 @@
 		{{ end }}
 	</section>
 
-	<section class="promo letter-promo">
+	<section class="md:mx-auto md:w-[var(--avg-width)] md:mt-[60px] md:py-[60px] md:border-t md:border-dashed md:border-border">
 		{{ partialCached "newsletter/promo.html" . }}
 	</section>
 
@@ -254,7 +254,7 @@
 		{{ end }}
 	</section>
 
-	<section class="promo donate-promo">
+	<section class="md:mx-auto md:w-[var(--avg-width)] md:mt-[60px] md:py-[60px] md:border-t md:border-dashed md:border-border">
 		{{ partialCached "donate/promo.html" . }}
 	</section>
 
@@ -265,7 +265,7 @@
 
 	{{ $archive := (where (where site.RegularPages "Section" "articles") "Params.id" "not in" $heroIDs) | after 10 }}
 
-	<section>
+	<section class="md:mx-auto md:max-w-[var(--min-width)]">
 		{{ partial "theme.html" (dict
 			"pages"    $archive
 			"side"     "right"

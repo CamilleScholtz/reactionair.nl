@@ -1,19 +1,26 @@
-<div class="slider">
+<div class="flex mt-[40px] overflow-hidden max-md:w-[calc(100vw-40px)]">
 	{{ range $i, $slide := .Params }}
-		<div class="slide">
-			<span class="index">{{ add $i 1 }}.</span>
-			<p>{{ $slide }}</p>
+		<div class="slide grid shrink-0 text-center justify-center w-full transition-transform duration-200">
+			<span class="text-popup-bg text-[90px] font-bold">{{ add $i 1 }}.</span>
+			<p class="text-[36px]">{{ $slide }}</p>
 		</div>
 	{{ end }}
 </div>
 
-<nav class="paginator" style="margin-top: 0px;">
-	<a class="prev disabled" href="#">
-		‹-
-	</a>
-	<a class="next" href="#">
-		-›
-	</a>
+<nav class="mt-0 text-center">
+	{{ $disabledClass := "[&.disabled]:!bg-accent-bg [&.disabled]:!text-muted [&.disabled]:!cursor-default [&.disabled]:hover:!scale-100" }}
+	{{ partial "components/button" (dict
+		"variant" "square"
+		"href"    "#"
+		"text"    "‹-"
+		"class"   (printf "prev disabled mr-[4px] %s" $disabledClass)
+	) }}
+	{{ partial "components/button" (dict
+		"variant" "square"
+		"href"    "#"
+		"text"    "-›"
+		"class"   (printf "next ml-[4px] %s" $disabledClass)
+	) }}
 </nav>
 
 <script>
@@ -31,7 +38,7 @@
 			return;
 		}
 
-		current--;	
+		current--;
 
 		slides.forEach((slide) => {
 			slide.style.transform = `translateX(-${current * 100}%)`;
@@ -52,12 +59,12 @@
 			return;
 		}
 
-		current++;	
-		
+		current++;
+
 		slides.forEach((slide) => {
 			slide.style.transform = `translateX(-${current * 100}%)`;
 		});
-		
+
 		if (current >= total - 1) {
 			next.classList.add("disabled");
 		}

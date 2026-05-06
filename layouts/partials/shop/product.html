@@ -1,4 +1,4 @@
-<li class="product">
+<li class="grid gap-[50px] h-fit border-b border-dashed border-border last:border-b-0 max-md:pb-[50px] md:grid-cols-[200px_fit-content(100%)] md:justify-items-center md:pb-[70px] md:pt-2.5">
 	{{ $section := path.BaseName (index .product.Ancestors 0).Path }}
 
 	<a href="{{ .product.RelPermalink }}">
@@ -17,15 +17,15 @@
 		{{ end }}
 	</a>
 
-	<div class="text">
+	<div class="self-center">
 		<a href="{{ .product.RelPermalink }}">
 			{{ if eq $section "boeken" }}
-				<div class="author">{{ delimit .product.Params.writers ", " " & " }}</div>
+				<div class="text-accent font-sc text-[16px] tracking-[0.1px] lowercase mb-[5px]">{{ delimit .product.Params.writers ", " " & " }}</div>
 			{{ end }}
 
-			<h2>{{ .product.Title }}</h2>
+			<h2 class="text-text md:leading-none md:mb-[5px]">{{ .product.Title }}</h2>
 			{{ if isset .product.Params "subtitle" }}
-				<h3>{{ .product.Params.subtitle }}</h3>
+				<h3 class="text-text italic font-normal text-[18px] leading-[16px] m-0 mb-[5px]">{{ .product.Params.subtitle }}</h3>
 			{{ end }}
 		</a>
 
@@ -34,6 +34,7 @@
 			"out_of_stock" .product.Params.out_of_stock
 			"permalink"    .product.RelPermalink
 			"checkout"     false
+			"cartPage"     .checkout
 		) }}
 	</div>
 </li>

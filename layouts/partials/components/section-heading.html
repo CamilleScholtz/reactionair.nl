@@ -1,0 +1,4 @@
+{{- $text  := .text  | default "" -}}
+{{- $class := .class | default "" -}}
+{{- $base  := "font-sc text-[36px] mb-[20px] tracking-[0.8px] leading-[33px] max-md:text-[28px] max-md:leading-[30px] [&_i]:font-serif [&_i]:italic [&_i]:[font-size:62%] [&_i]:tracking-[unset]" -}}
+<h2 class="{{ $base }} {{ $class }}">{{ $text | safeHTML }}</h2>

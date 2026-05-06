@@ -1,20 +1,12 @@
-<div class="author-info small">
-	{{ with .author.Resources.GetMatch "image.*" }}
-		{{ $image := .Fill "500x500 webp" }}
+<div class="grid items-center gap-[50px] grid-cols-[max-content_auto] border-b border-dashed border-border pb-[50px] last:border-b-0 max-md:grid-cols-[120px_auto] md:grid-cols-[180px_auto]">
+	{{ partial "authors/image" (dict "author" .author "class" "grid content-center") }}
 
-		<figure>
-			<img
-				src="{{ $image.RelPermalink }}"
-				alt="{{ $.author.Title | safeHTML }}">
-		</figure>
-	{{ end }}
+	<div class="grid content-center">
+		<h2 class="text-[42px] leading-[48px]">{{ .author.Title | safeHTML }}</h2>
+		<small class="text-[16px]">{{ .author.Params.keyword }}</small>
 
-	<div class="text">
-		<h2>{{ .author.Title | safeHTML }}</h2>
-		<small>{{ .author.Params.keyword }}</small>
+		<p class="mt-[30px]">{{ .author.Params.description }}</p>
 
-		<p>{{ .author.Params.description }}</p>
-
-		<a href="/auteurs/{{ urlize (.author.Title | safeHTML) }}/" class="more">Zie artikelen...</a>
+		<a href="/auteurs/{{ urlize (.author.Title | safeHTML) }}/" class="text-accent font-sc text-[16px] mt-[30px] lowercase tracking-[0.1px]">Zie artikelen...</a>
 	</div>
 </div>

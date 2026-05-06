@@ -1,24 +1,12 @@
-{{ $options := dict
-	"transpiler"  "libsass"
-	"outputStyle" "compressed"
-}}
-
-{{ $light   := resources.Get "sass/light.sass" | toCSS $options | fingerprint }}
-{{ $dark    := resources.Get "sass/dark.sass" | toCSS $options | fingerprint }}
-{{ $main    := resources.Get "sass/main.sass" | toCSS $options | fingerprint }}
-{{ $mobile  := resources.Get "sass/mobile.sass" | toCSS $options | fingerprint }}
-{{ $desktop := resources.Get "sass/desktop.sass" | toCSS $options | fingerprint }}
-<link rel="stylesheet" href="{{ $light.RelPermalink }}" media="(prefers-color-scheme: light)">
-<link rel="stylesheet" href="{{ $dark.RelPermalink }}" media="(prefers-color-scheme: dark)">
-<link rel="stylesheet" href="{{ $main.RelPermalink }}">
-<link rel="stylesheet" href="{{ $mobile.RelPermalink }}" media="(max-width: 1024px)">
-<link rel="stylesheet" href="{{ $desktop.RelPermalink }}" media="(min-width: 1025px)">
-
-{{ if eq (index (split (trim .Page.RelPermalink "/") "/") 0) "winkel" }}
-	{{ $shopMain    := resources.Get "sass/shop/main.sass" | toCSS $options | fingerprint }}
-	{{ $shopMobile  := resources.Get "sass/shop/mobile.sass" | toCSS $options | fingerprint }}
-	{{ $shopDesktop := resources.Get "sass/shop/desktop.sass" | toCSS $options | fingerprint }}
-	<link rel="stylesheet" href="{{ $shopMain.RelPermalink }}">
-	<link rel="stylesheet" href="{{ $shopMobile.RelPermalink }}" media="(max-width: 1024px)">
-	<link rel="stylesheet" href="{{ $shopDesktop.RelPermalink }}" media="(min-width: 1025px)">
+{{ with resources.Get "css/main.css" }}
+	{{ $opts := dict "minify" (not hugo.IsDevelopment) }}
+	{{ with . | css.TailwindCSS $opts }}
+		{{ if hugo.IsDevelopment }}
+			<link rel="stylesheet" href="{{ .RelPermalink }}">
+		{{ else }}
+			{{ with . | fingerprint }}
+				<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+			{{ end }}
+		{{ end }}
+	{{ end }}
 {{ end }}

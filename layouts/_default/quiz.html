@@ -1,6 +1,6 @@
 {{ define "main" }}
 	<article
-		class="quiz-page"
+		class="quiz-page mx-auto max-w-[var(--min-width)] max-md:p-0 md:px-5 md:py-10 [&_small]:font-sc [&_small]:text-[16px] [&_small]:not-italic [&_small]:tracking-[0.1px] [&_small]:lowercase"
 		x-data="{
 			started: false,
 			example: 0,
@@ -213,86 +213,94 @@
 			}
 		}"
 	>
-		<div class="start" x-show="!started">
-			<small>De Reactionair</small>
-			<h1>Wereldbeeldentest</h1>
+		<div x-show="!started">
+			<small class="block -mb-[30px] text-center">De Reactionair</small>
+			<h1 class="text-[48px] italic mt-10 text-center capitalize">Wereldbeeldentest</h1>
 
-			<p>Benieuwd naar je politieke, religieuze en ideologische overtuigingen? Onze test gebruikt AI om je antwoorden te analyseren en geeft je een persoonlijk inzicht.<p>
-			<p>Als de standaardantwoorden niet goed passen, kun je je eigen antwoorden geven.</p>
+			<p class="mx-auto mt-5 text-center">Benieuwd naar je politieke, religieuze en ideologische overtuigingen? Onze test gebruikt AI om je antwoorden te analyseren en geeft je een persoonlijk inzicht.<p>
+			<p class="mx-auto mt-5 text-center">Als de standaardantwoorden niet goed passen, kun je je eigen antwoorden geven.</p>
 
-			<div class="results">
-				<div class="main">
+			<div class="start-preview bg-accent-bg scale-[0.7] origin-[50%_0] mt-[50px] p-10 pointer-events-none relative overflow-hidden max-h-[440px] -z-1">
+				<div class="border-b border-dashed border-border mb-5 pb-[50px] text-center [&_span]:bg-bg [&_span]:[box-shadow:0_0_20px_15px_var(--background-color)]">
 					<small>Jouw wereldbeeld</small>
 
-					<h2 x-text="examples[example].name"></h2>
-					<span>95%</span>
+					<h2 class="text-[44px] italic mt-5 capitalize" x-text="examples[example].name"></h2>
+					<span class="inline-block mt-5 p-px">95%</span>
 
 					<meter
+						class="w-[90%] max-w-[500px]"
 						value="95"
 						min="0"
 						max="100"
 						:class="safari && 'safari'"
 					></meter>
 
-					<p x-text="examples[example].description"></p>
+					<p class="mt-10 text-justify line-clamp-3" x-text="examples[example].description"></p>
 				</div>
 
-				<div class="alternatives">
+				<div class="border-b border-dashed border-border mb-[50px] pb-[60px] text-center">
 					<small>Alternatieve wereldbeelden</small>
 
-					<div class="grid">
+					<div class="grid gap-5 justify-items-center text-center max-md:grid-cols-1 md:grid-cols-2 [&_span]:bg-bg [&_span]:[box-shadow:0_0_20px_15px_var(--background-color)]">
 						<div>
-							<h3>Mysticus</h3>
-							<span>60%</span>
+							<h3 class="text-2xl italic font-normal leading-none capitalize">Mysticus</h3>
+							<span class="inline-block p-px">60%</span>
 
 							<meter
+								class="w-[200px]"
 								value="60"
 								min="0"
 								max="100"
 								:class="safari && 'safari'"
 							></meter>
 
-							<p>Mysticisme richt zich op het directe, persoonlijke contact met het goddelijke of spirituele werkelijkheid.</p>
+							<p class="text-[15px] mx-auto mt-5 text-balance w-4/5">Mysticisme richt zich op het directe, persoonlijke contact met het goddelijke of spirituele werkelijkheid.</p>
 						</div>
 
 						<div>
-							<h3>Geleide spiritualist</h3>
-							<span>45%</span>
+							<h3 class="text-2xl italic font-normal leading-none capitalize">Geleide spiritualist</h3>
+							<span class="inline-block p-px">45%</span>
 
 							<meter
+								class="w-[200px]"
 								value="45"
 								min="0"
 								max="100"
 								:class="safari && 'safari'"
 							></meter>
 
-							<p>Spirituele leiding door middelen zoals goddelijke interventie of meditatie.</p>
+							<p class="text-[15px] mx-auto mt-5 text-balance w-4/5">Spirituele leiding door middelen zoals goddelijke interventie of meditatie.</p>
 						</div>
 					</div>
 				</div>
 			</div>
 
-			<nav class="paginator">
-				<button class="button" @click="started = true; window.scrollTo({ top: 0 })">Doe de test</button>
+			<nav class="quiz-paginator mt-10 text-center">
+				{{ partial "components/button" (dict
+					"tag"   "button"
+					"text"  "Doe de test"
+					"attrs" `@click="started = true; window.scrollTo({ top: 0 })"`
+				) }}
 			</nav>
 		</div>
 
 		<div
-			class="questions"
+			class="flex flex-col justify-center min-h-[calc(100vh-200px)]"
 			x-show="started && !results && !loading"
 		>
 			<template x-for="(question, index) in questions">
 				<div x-show="current === index" x-cloak>
-					<section class="question">
+					<section class="text-center">
 						<small>
 							Vraag <span x-text="index + 1"></span> van de <span x-text="questions.length"></span>
 						</small>
-						<h2 x-text="question.question"></h2>
+						<h2 class="text-[28px] italic leading-10 mt-2.5 text-balance" x-text="question.question"></h2>
 					</section>
 
-					<ul>
+					<ul class="quiz-answers mt-[30px]">
 						<template x-for="answer in question.answers">
 							<li
+								class="cursor-pointer leading-[25px] mb-2.5 p-2.5 pl-[5px] relative"
 								:class="[(question.answer.index ?? null) === question.answers.findIndex(a => a === answer) && 'selected']"
 								x-text="answer"
 								@click="question.answer = { index: question.answers.findIndex(a => a === answer), text: answer }"
@@ -300,12 +308,13 @@
 						</template>
 
 						<li
-							class="custom"
+							class="cursor-pointer leading-[25px] mb-2.5 p-2.5 pl-[5px] relative"
 							@click="question.answer.index = 4; question.answer.text = ''"
 							x-trap="question.answer.index === 4"
 						>
 							Anders, namelijk...
 							<input
+								class="mt-2.5"
 								type="text"
 								x-model="question.answer.text"
 								x-cloak
@@ -316,99 +325,106 @@
 				</div>
 			</template>
 
-			<nav class="paginator">
-				<button
-					:class="[
-						'button square prev',
-						current !== 0 || 'disabled'
-					]"
-					@click="current !== 0 && current--"
-				>
-					‹
-				</button>
+			<nav>
+				{{ partial "components/button" (dict
+					"tag"     "button"
+					"variant" "square"
+					"text"    "‹"
+					"attrs"   `:class="current === 0 && '!bg-accent-bg !text-muted !cursor-default pointer-events-none'" @click="current !== 0 && current--"`
+				) }}
 
-				<button
-					:class="[
-						'button',
-						current === questions.length - 1 ? 'submit' : 'next square'
-					]"
-					x-text="current === questions.length - 1 ? 'Verstuur antwoorden' : '›'"
-					@click="next"
-				>
-					›
-				</button>
+				<template x-if="current !== questions.length - 1">
+					{{ partial "components/button" (dict
+						"tag"     "button"
+						"variant" "square"
+						"text"    "›"
+						"attrs"   `@click="next"`
+					) }}
+				</template>
+				<template x-if="current === questions.length - 1">
+					{{ partial "components/button" (dict
+						"tag"   "button"
+						"text"  "Verstuur antwoorden"
+						"class" "ml-1 -translate-y-0.5"
+						"attrs" `@click="next"`
+					) }}
+				</template>
 			</nav>
 		</div>
 
-		<div class="loading" x-show="loading" x-cloak>
-			<div class="spinner">*</div>
+		<div class="grid grid-rows-[min-content_1fr] mt-[100px] overflow-hidden text-center" x-show="loading" x-cloak>
+			<div class="[animation:spin_2s_linear_infinite] inline-block text-accent text-[80px] mx-auto pr-[5px] pt-10">*</div>
 
-			<p>Even geduld, we zijn je antwoorden aan het verwerken...</p>
+			<p class="italic">Even geduld, we zijn je antwoorden aan het verwerken...</p>
 		</div>
 
 		<template x-if="results">
-			<div class="results">
-				<div class="main">
+			<div class="text-text">
+				<div class="border-b border-dashed border-border mb-5 pb-[50px] text-center [&_span]:bg-bg [&_span]:[box-shadow:0_0_20px_15px_var(--background-color)]">
 					<small>Jouw wereldbeeld</small>
 
-					<h2 x-text="results.worldviews[0].name"></h2>
-					<span x-text="results.worldviews[0].percentage + '%'"></span>
+					<h2 class="text-[44px] italic mt-5 capitalize" x-text="results.worldviews[0].name"></h2>
+					<span class="inline-block mt-5 p-px">
+						<span x-text="results.worldviews[0].percentage + '%'"></span>
+					</span>
 
 					<meter
+						class="w-[90%] max-w-[500px]"
 						:value="results.worldviews[0].percentage"
 						min="0"
 						max="100"
 						:class="safari && 'safari'"
 					></meter>
 
-					<p x-text="results.worldviews[0].description"></p>
+					<p class="mt-10 text-justify" x-text="results.worldviews[0].description"></p>
 				</div>
 
-				<div class="alternatives">
+				<div class="border-b border-dashed border-border mb-[50px] pb-[60px] text-center">
 					<small>Alternatieve wereldbeelden</small>
 
-					<div class="grid">
+					<div class="grid gap-5 justify-items-center text-center max-md:grid-cols-1 md:grid-cols-2 [&_span]:bg-bg [&_span]:[box-shadow:0_0_20px_15px_var(--background-color)]">
 						<template x-for="alternative in results.worldviews.slice(1)">
 							<div>
-								<h3 x-text="alternative.name"></h3>
-								<span x-text="alternative.percentage + '%'"></span>
+								<h3 class="text-2xl italic font-normal leading-none capitalize" x-text="alternative.name"></h3>
+								<span class="inline-block p-px" x-text="alternative.percentage + '%'"></span>
 
 								<meter
+									class="w-[200px]"
 									:value="alternative.percentage"
 									min="0"
 									max="100"
 									:class="safari && 'safari'"
 								></meter>
 
-								<p x-text="alternative.description"></p>
+								<p class="text-[15px] mx-auto mt-5 text-balance w-4/5" x-text="alternative.description"></p>
 							</div>
 						</template>
 					</div>
 				</div>
 
-				<div :class="['info', locked && 'locked']">
-					<small>De volgende partijen sluiten het beste aan bij jouw wereldbeeld</small>
-					<div class="list">
+				<div class="quiz-info relative" :class="[locked && 'locked']">
+					<small class="block mt-20 -mb-2.5 text-center first-of-type:-mt-[30px]">De volgende partijen sluiten het beste aan bij jouw wereldbeeld</small>
+					<div class="grid gap-5 text-center max-md:grid-cols-1 md:grid-cols-3">
 						<template x-for="party in results.parties">
 							<div>
-								<h3 x-text="party.name"></h3>
-								<p x-text="party.description"></p>
+								<h3 class="text-2xl italic font-normal leading-none text-center" x-text="party.name"></h3>
+								<p class="text-[15px] text-balance" x-text="party.description"></p>
 							</div>
 						</template>
 					</div>
 
-					<small>De volgende denkers hebben een wereldbeeld dat aansluit bij het jouwe</small>
-					<div class="list">
+					<small class="block mt-20 -mb-2.5 text-center">De volgende denkers hebben een wereldbeeld dat aansluit bij het jouwe</small>
+					<div class="grid gap-5 text-center max-md:grid-cols-1 md:grid-cols-3">
 						<template x-for="thinker in results.thinkers">
 							<div>
-								<h3 x-text="thinker.name"></h3>
-								<p x-text="thinker.description"></p>
+								<h3 class="text-2xl italic font-normal leading-none text-center" x-text="thinker.name"></h3>
+								<p class="text-[15px] text-balance" x-text="thinker.description"></p>
 							</div>
 						</template>
 					</div>
 
 					<div
-						class="lock"
+						class="bg-popup-bg text-accent absolute left-1/2 max-w-[300px] p-5 text-center top-1/2 -translate-x-1/2 -translate-y-1/2 w-[calc(100%-40px)] z-[1001]"
 						x-show="locked"
 						x-transition
 						x-data="{
@@ -439,6 +455,7 @@
 						</span>
 
 						<form
+							class="grid grid-cols-[auto_50px] mt-5"
 							@submit.prevent="submit"
 							x-ref="form"
 							x-show="!send"
@@ -451,19 +468,20 @@
 							/>
 
 							<input
+								class="w-full"
 								type="email"
 								id="email"
 								name="email"
 								required
 								placeholder="Je e-mailadres"
 							/>
-							<button
-								type="submit"
-								class="button square"
-								type="submit"
-							>
-								›
-							</button>
+							{{ partial "components/button" (dict
+								"tag"     "button"
+								"type"    "submit"
+								"variant" "square"
+								"class"   "!bg-popup-border"
+								"text"    "›"
+							) }}
 						</form>
 					</div>
 				</div>

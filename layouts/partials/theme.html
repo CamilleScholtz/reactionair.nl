@@ -1,29 +1,30 @@
-<div class="theme {{ .side }}">
+<div class="grid [grid-column-gap:5%] grid-rows-[auto_1fr] pt-[40px] border-t border-dashed border-border mx-auto mb-[40px] mt-[40px] max-md:[grid-template-areas:'description'_'article'_'pages'] max-md:mb-[40px] md:w-[var(--avg-width)] md:mx-[calc((var(--min-width)-var(--avg-width))/2)] {{ if eq .side "left" }}md:[grid-template-areas:'article_description'_'article_pages'] md:grid-cols-[auto_56%]{{ else }}md:[grid-template-areas:'description_article'_'pages_article'] md:grid-cols-[56%_auto]{{ end }} first:max-md:border-t-0 first:md:mt-0 [&>a]:[grid-area:article] [&>a]:grid-rows-[auto_min-content] [&>a]:h-full [&>a_figure]:[grid-row:1] [&>a_>div]:!p-5 [&>a_>div]:!pt-0 max-md:[&>a_img]:h-[160px]">
 	{{ $featured := index .pages 0 }}
 
-	<div class="description">
+	<div class="[grid-area:description]">
+		{{ $headingClass := "max-md:border-b max-md:border-dashed max-md:border-border max-md:mb-[40px] max-md:pb-[10px] max-md:[&_i]:after:content-['\\a'] max-md:[&_i]:after:whitespace-pre" }}
 		{{ if .heading }}
-			<h2>{{ .heading | safeHTML }}</h2>
+			{{ partial "components/section-heading" (dict "text" .heading "class" $headingClass) }}
 		{{ else if eq .section "related" }}
-			<h2>LEES <i>ook deze</i> ARTIKELEN</h2>
+			{{ partial "components/section-heading" (dict "text" "LEES <i>ook deze</i> ARTIKELEN" "class" $headingClass) }}
 		{{ else }}
 			{{ with site.GetPage (printf "%s/%s" .section (urlize .term)) }}
-				<h2>{{ .Params.heading | safeHTML }}</h2>
+				{{ partial "components/section-heading" (dict "text" .Params.heading "class" $headingClass) }}
 			{{ end }}
 		{{ end }}
 	</div>
 
-	<div class="pages">
+	<div class="[grid-area:pages] max-md:mt-[20px]">
 		{{ range first 5 .pages | after 1 }}
-			<a href="{{ .RelPermalink }}">
-				<span class="arrow">
+			<a href="{{ .RelPermalink }}" class="text-text text-[18px] leading-[25px] flex mt-[22px] hover:[&_.arrow]:translate-x-[2px]">
+				<span class="text-accent mr-[9px] transition-transform duration-100 delay-100">
 					-
 				</span>
-				<span class="text">{{ .Title | safeHTML }}</span>
+				<span>{{ .Title | safeHTML }}</span>
 			</a>
 		{{ end }}
 
-		<a href="{{ with .link }}{{ . }}{{ else }}/{{ .path }}/{{ urlize .term }}/{{ end }}" class="more">Meer artikelen...</a>
+		<a href="{{ with .link }}{{ . }}{{ else }}/{{ .path }}/{{ urlize .term }}/{{ end }}" class="block text-accent font-sc text-[16px] tracking-[0.1px] mt-[30px] lowercase">Meer artikelen...</a>
 	</div>
 
 	{{ partialCached "article.html" (dict
