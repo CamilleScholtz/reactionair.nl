@@ -115,40 +115,35 @@
   dependencies:
     "@tybys/wasm-util" "^0.10.1"
 
-"@pagefind/darwin-arm64@1.5.2":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@pagefind/darwin-arm64/-/darwin-arm64-1.5.2.tgz#965152ffc22bccd8299e065f7cfbc6869a1bffe0"
-  integrity sha512-MXpI+7HsAdPkvJ0gk9xj9g541BCqBZOBbdwj9g6lB5LCj6kSV6nqDSjzcAJwvOsfu0fjwvC8hQU+ecfhp+MpiQ==
+"@pagefind/darwin-arm64@1.5.0-beta.1":
+  version "1.5.0-beta.1"
+  resolved "https://registry.yarnpkg.com/@pagefind/darwin-arm64/-/darwin-arm64-1.5.0-beta.1.tgz#2a337c1588688d583b00eee7d1e9931a0dabe5dd"
+  integrity sha512-oOcnXy83NK+utpeHN3igrug7RpZpu0lLNpGOXfTKJaOc44lIvxnDI0ceJnwvRqDCl+KLSGpqn4uWczmEMtnikQ==
 
-"@pagefind/darwin-x64@1.5.2":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@pagefind/darwin-x64/-/darwin-x64-1.5.2.tgz#b5b9b47673caf7b280891154e2a475abc499fadd"
-  integrity sha512-IojxFWMEJe0RQ7PQ3KXQsPIImNsbpPYpoZ+QUDrL8fAl/O27IX+LVLs74/UzEZy5uA2LD8Nz1AiwKr72vrkZQw==
+"@pagefind/darwin-x64@1.5.0-beta.1":
+  version "1.5.0-beta.1"
+  resolved "https://registry.yarnpkg.com/@pagefind/darwin-x64/-/darwin-x64-1.5.0-beta.1.tgz#f2ad32200d7114650af0761e2233cf30c0b17028"
+  integrity sha512-ZL2+L+rtjPv0sZ1CcrtuDqJgorkGr6DTcm3KargL2gvlIfup73GEZ1S0rNSLPIR1azUa+fuiW2dI8SEacCRcBQ==
 
-"@pagefind/freebsd-x64@1.5.2":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@pagefind/freebsd-x64/-/freebsd-x64-1.5.2.tgz#cf6e279d938c2368731bb6558bf8f66a0c80a269"
-  integrity sha512-7EVzo9+0w+2cbe671BtMj10UlNo83I+HrLVLfRxO731svHRJKUfJ/mo05gU14pe9PCfpKNQT8FS3Xc/oDN6pOA==
+"@pagefind/freebsd-x64@1.5.0-beta.1":
+  version "1.5.0-beta.1"
+  resolved "https://registry.yarnpkg.com/@pagefind/freebsd-x64/-/freebsd-x64-1.5.0-beta.1.tgz#189003991771adebd77c5ac7931ea16cd13cb6f0"
+  integrity sha512-OYUJUAipl8PX2kl5GJUd0Jt1lmzbeG2Ld0J6FWNZw3eEQ9Qs58bviuo7bg99xJEV8K//GO3PrD6JHzFI5umUJA==
 
-"@pagefind/linux-arm64@1.5.2":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@pagefind/linux-arm64/-/linux-arm64-1.5.2.tgz#8b22cfc1a34c59033c5bd66676b7a86efba0f5f4"
-  integrity sha512-Ovt9+K35sqzn8H3ZMXGwls4TD/wMJuvRtShHIsmUQREmaxjrDEX7gHckRCrwYJ4XE1H1p6HkLz3wukrAnsfXQw==
+"@pagefind/linux-arm64@1.5.0-beta.1":
+  version "1.5.0-beta.1"
+  resolved "https://registry.yarnpkg.com/@pagefind/linux-arm64/-/linux-arm64-1.5.0-beta.1.tgz#8cf37719b81c0e52ff0f3e96ba318e9454822808"
+  integrity sha512-xaHp0iBnhC/jWRmwLZ5+x1f/DK1G9Z2rdXgNh7YTEes0hSaQwwu6JzAKjhH9K1rYClWnRDfHIF+SBu5MY48ecQ==
 
-"@pagefind/linux-x64@1.5.2":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@pagefind/linux-x64/-/linux-x64-1.5.2.tgz#a733d1c0a9d905311f69f8868771c0cc42909fe4"
-  integrity sha512-V+tFqHKXhQKq/WqPBD67AFy7scn1/aZID00ws4fSDd+1daSi5UHR9VVlRrOUYKxn3VuFQYRD7lYXdZK1WED1YA==
+"@pagefind/linux-x64@1.5.0-beta.1":
+  version "1.5.0-beta.1"
+  resolved "https://registry.yarnpkg.com/@pagefind/linux-x64/-/linux-x64-1.5.0-beta.1.tgz#49bdaaee3d995be4d34c21a28744c052754d3794"
+  integrity sha512-3UzHImmoMC1xTN3uD6myxKMDxygEQu+i4f1qRGAyetXudkK5ItlLZycAso6+e5Te0jNlDRDosTE5ulj+MuR4dg==
 
-"@pagefind/windows-arm64@1.5.2":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@pagefind/windows-arm64/-/windows-arm64-1.5.2.tgz#6d6cb395a56136a92b91c0bd866f7fec3b0bbe7c"
-  integrity sha512-hN9Nh90fNW61nNRCW9ZyQrAj/mD0eRvmJ8NlTUzkbuW8kIzGJUi3cxjFkEcMZ5h/8FsKWD/VcouZl4yo1F7B6g==
-
-"@pagefind/windows-x64@1.5.2":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@pagefind/windows-x64/-/windows-x64-1.5.2.tgz#931fdbc9f00f72057950cd260ef965d4fd02a92e"
-  integrity sha512-Fa2Iyw7kaDRzGMfNYNUXNW2zbL5FQVDgSOcbDHdzBrDEdpqOqg8TcZ68F22ol6NJ9IGzvUdmeyZypLW5dyhqsg==
+"@pagefind/windows-x64@1.5.0-beta.1":
+  version "1.5.0-beta.1"
+  resolved "https://registry.yarnpkg.com/@pagefind/windows-x64/-/windows-x64-1.5.0-beta.1.tgz#8a520325f881182d0a7ad2ffe5a7e532a5fc0c47"
+  integrity sha512-A+D7zCNPdXXaUw2TIyTdrMSK61wq7yRluXL/b/dxFyBP/qycFV8wqIiLx14vQH+pKgXOeMdIkiLAA+HUnbPWwg==
 
 "@parcel/watcher-android-arm64@2.5.6":
   version "2.5.6"
@@ -514,18 +509,17 @@ node-addon-api@^7.0.0:
   resolved "https://registry.yarnpkg.com/node-addon-api/-/node-addon-api-7.1.1.tgz#1aba6693b0f255258a049d621329329322aad558"
   integrity sha512-5m3bsyrjFWE1xf7nz7YXdN4udnVtXK6/Yfgn5qnahL6bCkf2yKt4k3nuTKAtT4r3IG8JNR2ncsIMdZuAzJjHQQ==
 
-pagefind@^1.5.2:
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/pagefind/-/pagefind-1.5.2.tgz#447dd80018d7fd0c2924a56639f7b72bbbd1f165"
-  integrity sha512-XTUaK0hXMCu2jszWE584JGQT7y284TmMV9l/HX3rnG5uo3rHI/uHU56XTyyyPFjeWEBxECbAi0CaFDJOONtG0Q==
+pagefind@1.5.0-beta.1:
+  version "1.5.0-beta.1"
+  resolved "https://registry.yarnpkg.com/pagefind/-/pagefind-1.5.0-beta.1.tgz#4478c31c002b3666f0fb70e8b7b4b4b57778f16e"
+  integrity sha512-TOOP7e1C7Nd82wWFu2P5ElIFbNLiqdrKlBz6/BpyeJ6t17NtldrQyPmsBiHsv+eu7E6uXo7lG9MYsUcLMk+6ew==
   optionalDependencies:
-    "@pagefind/darwin-arm64" "1.5.2"
-    "@pagefind/darwin-x64" "1.5.2"
-    "@pagefind/freebsd-x64" "1.5.2"
-    "@pagefind/linux-arm64" "1.5.2"
-    "@pagefind/linux-x64" "1.5.2"
-    "@pagefind/windows-arm64" "1.5.2"
-    "@pagefind/windows-x64" "1.5.2"
+    "@pagefind/darwin-arm64" "1.5.0-beta.1"
+    "@pagefind/darwin-x64" "1.5.0-beta.1"
+    "@pagefind/freebsd-x64" "1.5.0-beta.1"
+    "@pagefind/linux-arm64" "1.5.0-beta.1"
+    "@pagefind/linux-x64" "1.5.0-beta.1"
+    "@pagefind/windows-x64" "1.5.0-beta.1"
 
 picocolors@^1.1.1:
   version "1.1.1"
