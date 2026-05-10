@@ -55,12 +55,12 @@
 						"copyrightFree" $.Params.copyrightFree
 						"image1x"       $1x
 						"image2x"       $2x
-						"alt"           (cond (isset .Params "caption") .Params.caption ($.Title | safeHTML))
+						"alt"           ($.Title | safeHTML)
 						"class"         "aspect-[2/1] max-h-[500px] w-full"
 					) }}
 
-					{{ if isset .Params "caption" }}
-						<figcaption class="bg-bg text-sm h-0">{{ .Params.caption }}</figcaption>
+					{{ if isset .Params "attribution" }}
+						<figcaption class="bg-bg text-sm h-0">{{ .Params.attribution }}</figcaption>
 					{{ end }}
 				</figure>
 			{{ end }}
