@@ -1,0 +1,7 @@
+{{- /* {{< youtube id="zR7byqc9ZvE" title="..." >}} — lite-facade video embed for article bodies. */ -}}
+{{ partial "components/youtube.html" (dict
+	"id"     (.Get "id")
+	"title"  (.Get "title")
+	"poster" (.Get "poster")
+	"class"  (printf "my-[30px] %s" (default "" (.Get "class")))
+) }}

@@ -1,0 +1,97 @@
+{{ define "main" }}
+	{{ $episodes := sort .Params.episodes "date" "desc" }}
+
+	<article
+		class="documentary [&_small]:font-sc [&_small]:text-[16px] [&_small]:not-italic [&_small]:lowercase [&_small]:tracking-[0.1px] [&_small]:text-muted"
+		data-pagefind-body
+		x-data="{ current: 0 }"
+	>
+		{{ range $i, $ep := $episodes }}
+			<div x-show="current === {{ $i }}"{{ if gt $i 0 }} x-cloak{{ end }}>
+				{{/* ── Cinematic hero (forced dark, full-bleed) ─────────────── */}}
+				<section
+					class="bg-bg text-text relative left-1/2 w-screen -translate-x-1/2 max-md:-mt-10"
+					style="--background-color:#0E0A06;--accent-background-color:#220B0A;--text-color:#E6C9B8;--accent-color:#B34F4E;--muted-color:#8F7272;--border-color:#3B2020;--popup-background-color:#381515;--popup-border-color:#632929;--selection-color:#A48D8B;"
+				>
+					<div class="mx-auto max-w-[var(--avg-width)] px-5 py-[70px] text-center max-md:py-[50px]">
+						<small class="block">Het Beeldarchief</small>
+
+						<h1 class="mt-[8px] text-[52px] italic leading-none max-md:text-[34px]" data-pagefind-meta="title">{{ $.Title | safeHTML }}</h1>
+
+						<div class="mt-[16px] flex items-center justify-center gap-[15px] font-sc lowercase tracking-[0.2px] text-accent">
+							<span class="h-px w-[40px] bg-border"></span>
+							deel {{ $ep.deel }}
+							<span class="h-px w-[40px] bg-border"></span>
+						</div>
+
+						<h2 class="mt-[16px] font-sc lowercase font-normal tracking-[0.3px]">{{ $ep.title | safeHTML }}</h2>
+
+						<div class="mx-auto mt-[40px] w-full">
+							{{ partial "components/youtube.html" (dict
+								"id"    $ep.youtube
+								"title" $ep.title
+							) }}
+						</div>
+
+						<div class="mt-[20px] text-[14px] text-muted">
+							{{ $d := time.AsTime $ep.date }}
+							<time datetime="{{ $d.Format "2006-01-02" }}">{{ $d.Day }} {{ index hugo.Data.months (printf "%d" $d.Month) }} {{ $d.Year }}</time>
+							{{ with $ep.duration }}<span class="mx-[8px]">·</span>{{ . }}{{ end }}
+						</div>
+					</div>
+				</section>
+
+				{{/* ── Synopsis ─────────────────────────────────────────────── */}}
+				<section class="mx-auto mt-[60px] max-w-[var(--min-width)] text-center max-md:mt-10">
+					<small class="block">Synopsis</small>
+					<div class="mt-[15px] text-[21px] italic leading-[1.7] text-balance [&_p]:mb-[20px] [&_p:last-child]:mb-0">
+						{{ $ep.synopsis | markdownify }}
+					</div>
+				</section>
+
+				{{/* ── Credits ──────────────────────────────────────────────── */}}
+				{{ with $ep.credits }}
+					<section class="mx-auto mt-[50px] max-w-[var(--min-width)] border-t border-dashed border-border pt-[40px] text-center">
+						<small class="block mb-[20px]">Credits</small>
+						<dl class="mx-auto grid max-w-[440px] grid-cols-[1fr_1fr] gap-x-[30px] gap-y-[10px]">
+							{{ range . }}
+								<dt class="text-right font-sc lowercase text-[16px] tracking-[0.1px] text-muted">{{ .role }}</dt>
+								<dd class="text-left italic text-[18px]">{{ .name }}</dd>
+							{{ end }}
+						</dl>
+					</section>
+				{{ end }}
+			</div>
+		{{ end }}
+
+		{{/* ── Alle delen — series strip (only when there's more than one) ── */}}
+		{{ if gt (len $episodes) 1 }}
+			<section class="mx-auto mt-[80px] w-full max-w-[var(--avg-width)] border-t border-dashed border-border pt-[40px]">
+				{{ partial "components/section-heading" (dict "text" "Alle <i>delen</i>" "class" "text-center") }}
+
+				<div class="mt-[30px] grid gap-[30px] max-md:grid-cols-1 md:grid-cols-3">
+					{{ range $i, $ep := $episodes }}
+						<button
+							type="button"
+							class="group block text-left transition-opacity"
+							@click="current = {{ $i }}; window.scrollTo({ top: 0, behavior: 'smooth' })"
+							:class="current === {{ $i }} ? 'opacity-100' : 'opacity-60 hover:opacity-100'"
+						>
+							<div class="bg-accent-bg relative aspect-video overflow-hidden">
+								<img
+									class="size-full object-cover transition-transform duration-500 group-hover:scale-[1.04]"
+									src="https://i.ytimg.com/vi/{{ $ep.youtube }}/hqdefault.jpg"
+									alt="{{ $ep.title }}"
+									loading="lazy"
+								>
+								<span class="bg-bg/85 absolute bottom-0 left-0 px-[10px] py-[4px] font-sc text-[14px] lowercase tracking-[0.1px] text-accent">deel {{ $ep.deel }}</span>
+							</div>
+							<h3 class="mt-[10px] font-sc text-[20px] font-normal leading-[24px] tracking-[0.2px]">{{ $ep.title | safeHTML }}</h3>
+						</button>
+					{{ end }}
+				</div>
+			</section>
+		{{ end }}
+
+	</article>
+{{ end }}

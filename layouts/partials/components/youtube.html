@@ -1,0 +1,50 @@
+{{- /*
+	Lite-facade YouTube embed. Shows the poster + play button and only loads
+	the (cookieless) iframe on click — keeps third-party JS off the page until
+	the visitor actually wants to watch.
+
+	Params:
+		id      — YouTube video id (required)
+		title   — accessible label / alt text (optional)
+		poster  — override poster image url (optional, defaults to YouTube's)
+		class   — extra classes on the wrapper (optional)
+*/ -}}
+{{- $id       := .id -}}
+{{- $title    := .title  | default "Bekijk de video" -}}
+{{- $poster   := .poster | default (printf "https://i.ytimg.com/vi/%s/maxresdefault.jpg" $id) -}}
+{{- $fallback := printf "https://i.ytimg.com/vi/%s/hqdefault.jpg" $id -}}
+{{- $class    := .class  | default "" -}}
+
+<div class="youtube bg-accent-bg relative aspect-video w-full overflow-hidden {{ $class }}" x-data="{ playing: false }">
+	<button
+		type="button"
+		class="group absolute inset-0 size-full cursor-pointer"
+		aria-label="{{ $title }}"
+		x-show="!playing"
+		@click="playing = true"
+	>
+		<img
+			class="size-full object-cover transition-transform duration-700 ease-out group-hover:scale-[1.04]"
+			src="{{ $poster }}"
+			alt="{{ $title }}"
+			loading="lazy"
+			onerror="this.onerror = null; this.src = '{{ $fallback }}'"
+		>
+
+		<span class="absolute inset-0 bg-black/15 transition-colors duration-300 group-hover:bg-black/5"></span>
+
+		<span class="bg-bg/70 absolute left-1/2 top-1/2 flex size-[78px] -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full shadow-[0_8px_30px_rgba(0,0,0,0.35)] backdrop-blur-sm transition-transform duration-150 group-hover:scale-[1.08]">
+			<svg class="text-accent -ml-[2px] size-[30px] fill-current" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z" /></svg>
+		</span>
+	</button>
+
+	<template x-if="playing">
+		<iframe
+			class="absolute inset-0 size-full"
+			src="https://www.youtube-nocookie.com/embed/{{ $id }}?autoplay=1&rel=0"
+			title="{{ $title }}"
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+			allowfullscreen
+		></iframe>
+	</template>
+</div>
