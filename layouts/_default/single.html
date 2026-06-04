@@ -2,34 +2,43 @@
 	<article class="max-md:w-[calc(100vw-40px)]" data-pagefind-body>
 		<section class="pb-[100px] md:mx-auto md:mt-[60px] md:max-w-[var(--min-width)]">
 			<section class="text-center mx-auto text-balance md:bg-bg md:px-[30px] md:pb-5 md:relative md:w-fit md:z-10">
-				<div class="flex justify-center gap-[30px] -mt-2.5 px-[30px] pb-[5px] pt-2.5 max-md:mb-[30px] md:mb-[30px]" data-pagefind-meta="authors">
-					{{ range $index, $author := .Params.authors }}
-						{{ with site.GetPage (printf "authors/%s" (urlize $author)) }}
-							<a href="{{ .RelPermalink }}" class="items-center flex flex-col justify-center">
-								{{ partial "authors/image" (dict "author" . "class" "flex m-0") }}
-
-								{{ if not $.Params.column }}
-									<span class="text-accent italic mt-2.5 max-md:text-[16px] max-md:tracking-[0.1px]">{{ .Title }}</span>
-								{{ end }}
-							</a>
-						{{ end }}
+				{{ $authors := slice }}
+				{{ range .Params.authors }}
+					{{ if ne (urlize .) "gastauteur" }}
+						{{ $authors = $authors | append . }}
 					{{ end }}
+				{{ end }}
 
-					{{ if .Params.column }}
-						<div class="self-stretch flex flex-1 flex-col text-left justify-center" data-pagefind-ignore>
-							{{ with site.GetPage (printf "authors/%s" (urlize (index $.Params.authors 0))) }}
-								<a href="{{ .RelPermalink }}">
-									<span class="self-start text-lg italic text-accent">{{ .Title }}</span>
+				{{ if or $authors .Params.column }}
+					<div class="flex justify-center gap-[30px] -mt-2.5 px-[30px] pb-[5px] pt-2.5 max-md:mb-[30px] md:mb-[30px]" data-pagefind-meta="authors">
+						{{ range $index, $author := $authors }}
+							{{ with site.GetPage (printf "authors/%s" (urlize $author)) }}
+								<a href="{{ .RelPermalink }}" class="items-center flex flex-col justify-center">
+									{{ partial "authors/image" (dict "author" . "class" "flex m-0") }}
+
+									{{ if not $.Params.column }}
+										<span class="text-accent italic mt-2.5 max-md:text-[16px] max-md:tracking-[0.1px]">{{ .Title }}</span>
+									{{ end }}
 								</a>
 							{{ end }}
+						{{ end }}
 
-							{{ with site.GetPage (printf "column/%s" (urlize $.Params.column)) }}
-								<h3 class="font-sc text-[27px] tracking-[0.3px] font-normal my-[5px] mb-2.5 leading-[27px] [&_i]:font-serif [&_i]:italic [&_i]:text-[90%] [&_i]:tracking-normal">{{ .Params.heading | safeHTML }}</h3>
-								<small class="text-text text-sm">{{ .Params.description }}</small>
-							{{ end }}
-						</div>
-					{{ end }}
-				</div>
+						{{ if .Params.column }}
+							<div class="self-stretch flex flex-1 flex-col text-left justify-center" data-pagefind-ignore>
+								{{ with site.GetPage (printf "authors/%s" (urlize (index $.Params.authors 0))) }}
+									<a href="{{ .RelPermalink }}">
+										<span class="self-start text-lg italic text-accent">{{ .Title }}</span>
+									</a>
+								{{ end }}
+
+								{{ with site.GetPage (printf "column/%s" (urlize $.Params.column)) }}
+									<h3 class="font-sc text-[27px] tracking-[0.3px] font-normal my-[5px] mb-2.5 leading-[27px] [&_i]:font-serif [&_i]:italic [&_i]:text-[90%] [&_i]:tracking-normal">{{ .Params.heading | safeHTML }}</h3>
+									<small class="text-text text-sm">{{ .Params.description }}</small>
+								{{ end }}
+							</div>
+						{{ end }}
+					</div>
+				{{ end }}
 
 				<h1 class="md:mb-1.5" data-pagefind-meta="title">{{ .Title | safeHTML }}</h1>
 				<h2 class="font-sc lowercase font-normal tracking-[0.3px]">{{ .Params.subtitle | safeHTML }}</h2>
