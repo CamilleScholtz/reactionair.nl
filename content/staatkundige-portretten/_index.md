@@ -10,18 +10,22 @@ description: Een documentairereeks van De Reactionair over de staatkundige strom
 episodes:
   - deel: 1
     title: Het CDA en de christendemocratie
-    youtube: zR7byqc9ZvE
+    youtube: 6rCIu29lnuk
     date: 2026-06-04
     duration: "" # TODO: speelduur, bijv. "48 min"
     synopsis: |
-      TODO: synopsis van deel 1 — waar gaat deze aflevering over? Een korte,
-      pakkende inleiding van een paar zinnen die de kijker uitnodigt om te
-      kijken. Vervang deze placeholdertekst.
+      In de eerste aflevering van Staatkundige Portretten belicht Reactionair het CDA.
+
+      Sinds 1980 is het CDA een vaste speler in de Nederlandse politiek. Een partij die voortkwam uit verschillende christelijke tradities, lange tijd meeregeerde en zichzelf presenteerde als redelijk, verantwoordelijk en verbindend. Maar wat is er van die partij overgebleven, wanneer geloof en traditie steeds vaker moeten wijken voor compromis en de moderniteit?
+
+      In deze documentaire kijken we naar de geschiedenis, ontwikkeling en huidige koers van het CDA. Is het CDA nog altijd een uitgesproken christelijke partij, of vooral een partij die zich ideologisch aanpast om relevant te blijven?
     credits:
       - role: Regie
-        name: TODO
-      - role: Productie
-        name: TODO
+        name: Patrick Giethoorn
+      - role: Camera
+        name: Patrick Giethoorn
+      - role: Presentatie
+        name: Patrick Giethoorn
       - role: Montage
-        name: TODO
+        name: Patrick Giethoorn
 ---
