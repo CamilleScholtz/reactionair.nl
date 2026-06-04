@@ -21,11 +21,11 @@ episodes:
       In deze documentaire kijken we naar de geschiedenis, ontwikkeling en huidige koers van het CDA. Is het CDA nog altijd een uitgesproken christelijke partij, of vooral een partij die zich ideologisch aanpast om relevant te blijven?
     credits:
       - role: Regie
-        name: Johannes
+        name: Johannes Giethoorn
       - role: Presentatie
-        name: Johannes
+        name: Johannes Giethoorn
       - role: Camera
-        name: Johannes
+        name: Johannes Giethoorn
       - role: Montage
-        name: Johannes
+        name: Johannes Giethoorn
 ---
