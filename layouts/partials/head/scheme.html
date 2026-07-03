@@ -7,18 +7,20 @@
 			"headline": "{{ .Title | plainify }}",
 			"alternativeHeadline": "{{ .Params.subtitle | plainify }}",
 			"datePublished": "{{ .Params.date.Format "2006-01-02" }}",
-			{{ with .Resources.GetMatch "image.*" }}
-				{{ $anchor := "Smart" }}
-				{{ if isset .Params "anchor" }}
-					{{ $anchor = .Params.anchor }}
+			{{ if .Params.copyrightFree }}
+				{{ with .Resources.GetMatch "image.*" }}
+					{{ $anchor := "Smart" }}
+					{{ if isset .Params "anchor" }}
+						{{ $anchor = .Params.anchor }}
+					{{ end }}
+
+					{{ $overlay := resources.Get "images/logo.webp" }}
+					{{ $filter  := images.Overlay $overlay 60 0 }}
+
+					"image": [
+						"{{ ((.Fill (printf "1200x628 webp %s" $anchor)).Filter $filter).Permalink }}"
+					],
 				{{ end }}
-
-				{{ $overlay := resources.Get "images/logo.webp" }}
-				{{ $filter  := images.Overlay $overlay 60 0 }}
-
-				"image": [
-					"{{ ((.Fill (printf "1200x628 webp %s" $anchor)).Filter $filter).Permalink }}"
-				],
 			{{ end }}
 			"author": [
 				{{ range $i, $author := .Params.authors }}

@@ -5,15 +5,17 @@
 			<url>
 				<loc>{{ .Permalink }}</loc>
 				{{ if eq .Type "articles" }}
-					{{ with .Resources.GetMatch "image.*" }}
-						<image:image>
-							{{ $anchor := "Smart" }}
-							{{ if isset .Params "anchor" }}
-								{{ $anchor = .Params.anchor }}
-							{{ end }}
+					{{ if .Params.copyrightFree }}
+						{{ with .Resources.GetMatch "image.*" }}
+							<image:image>
+								{{ $anchor := "Smart" }}
+								{{ if isset .Params "anchor" }}
+									{{ $anchor = .Params.anchor }}
+								{{ end }}
 
-							<image:loc>{{ (.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}</image:loc>
-						</image:image>
+								<image:loc>{{ (.Fill (printf "1200x628 webp %s" $anchor)).Permalink }}</image:loc>
+							</image:image>
+						{{ end }}
 					{{ end }}
 
 					{{ if ge .Params.date.Unix (now.AddDate 0 0 -2).Unix }}

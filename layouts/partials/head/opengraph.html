@@ -5,17 +5,19 @@
 {{ if eq .Type "articles" }}
 	<meta property="og:type" content="article">
 
-	{{ with .Resources.GetMatch "image.*" }}
-		{{ $anchor := "Smart" }}
-		{{ if isset .Params "anchor" }}
-			{{ $anchor = .Params.anchor }}
+	{{ if .Params.copyrightFree }}
+		{{ with .Resources.GetMatch "image.*" }}
+			{{ $anchor := "Smart" }}
+			{{ if isset .Params "anchor" }}
+				{{ $anchor = .Params.anchor }}
+			{{ end }}
+
+			{{ $overlay := resources.Get "images/logo.webp" }}
+			{{ $filter  := images.Overlay $overlay 60 0 }}
+
+			<meta property="og:image" content="{{ ((.Fill (printf "1200x628 webp %s" $anchor)).Filter $filter).Permalink }}">
+			<meta property="twitter:card" content="summary_large_image">
 		{{ end }}
-
-		{{ $overlay := resources.Get "images/logo.webp" }}
-		{{ $filter  := images.Overlay $overlay 60 0 }}
-
-		<meta property="og:image" content="{{ ((.Fill (printf "1200x628 webp %s" $anchor)).Filter $filter).Permalink }}">
-		<meta property="twitter:card" content="summary_large_image">
 	{{ end }}
 {{ else if and (eq .Type "shop") (isset .Params "front") }}
 	<meta property="og:type" content="product">
