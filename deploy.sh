@@ -2,15 +2,20 @@
 
 # Parse command line arguments
 PULL=0
+INDEXNOW=1
 while [ $# -gt 0 ]; do
     case "$1" in
         -p|--pull)
             PULL=1
             shift
             ;;
+        -n|--no-indexnow)
+            INDEXNOW=0
+            shift
+            ;;
         *)
             echo "Unknown option: $1"
-            echo "Usage: $0 [-p|--pull]"
+            echo "Usage: $0 [-p|--pull] [-n|--no-indexnow]"
             exit 1
             ;;
     esac
@@ -38,3 +43,8 @@ mv "/www/reactionair.nl/build" "/www/reactionair.nl/public"
 
 # Generate search index
 /www/reactionair.nl/node_modules/@pagefind/freebsd-x64/bin/pagefind_extended --site "/www/reactionair.nl/public"
+
+# Submit changed pages to IndexNow
+if [ "$INDEXNOW" -eq 1 ]; then
+    ./indexnow.sh || true
+fi
